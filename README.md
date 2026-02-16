@@ -1,5 +1,5 @@
 # Churches
-A open-source database of churches in the USA compiled from IRS EO BMF. Enriched with websites, services offered, and their general profile
+A open-source database of US Churches compiled from IRS Exempt Organizations Business Master File. Enriched with matched website, biographical, theological, and service-related data
 
 ## License
 
