@@ -13,4 +13,3 @@ This database is licensed under [CC BY-NC 4.0](https://creativecommons.org/licen
 - **Attribution required**: Credit this project appropriately
 - **Non-commercial only**: Commercial use is strictly prohibited
 
-For commercial licensing inquiries, please contact [your email/contact info].
