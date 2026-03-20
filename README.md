@@ -1,6 +1,11 @@
 # Churches
 A open-source database of US Churches compiled from IRS Exempt Organizations Business Master File. Enriched with matched website, biographical, theological, and service-related data
 
+## Stats
+
+<!-- STATS_START -->
+<!-- STATS_END -->   
+
 ## License
 
 This database is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
