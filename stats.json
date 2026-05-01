@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-04-30T16:00:20.306Z",
-  "total_churches": 8417,
-  "total_with_website": 6198,
-  "total_with_social_media": 2219,
+  "last_updated": "2026-05-01T16:00:08.214Z",
+  "total_churches": 8856,
+  "total_with_website": 6433,
+  "total_with_social_media": 2423,
   "by_state": {
     "CA": {
       "total": 7724,
@@ -20,14 +20,69 @@
       "social_media": 65
     },
     "SC": {
-      "total": 2,
-      "website": 2,
-      "social_media": 0
+      "total": 51,
+      "website": 28,
+      "social_media": 23
     },
     "NC": {
-      "total": 1,
-      "website": 1,
-      "social_media": 0
+      "total": 43,
+      "website": 24,
+      "social_media": 19
+    },
+    "WV": {
+      "total": 7,
+      "website": 4,
+      "social_media": 3
+    },
+    "VA": {
+      "total": 37,
+      "website": 27,
+      "social_media": 10
+    },
+    "FL": {
+      "total": 107,
+      "website": 59,
+      "social_media": 48
+    },
+    "AL": {
+      "total": 19,
+      "website": 8,
+      "social_media": 11
+    },
+    "GA": {
+      "total": 89,
+      "website": 44,
+      "social_media": 45
+    },
+    "TN": {
+      "total": 27,
+      "website": 17,
+      "social_media": 10
+    },
+    "LA": {
+      "total": 14,
+      "website": 7,
+      "social_media": 7
+    },
+    "MS": {
+      "total": 15,
+      "website": 5,
+      "social_media": 10
+    },
+    "AR": {
+      "total": 18,
+      "website": 7,
+      "social_media": 11
+    },
+    "OK": {
+      "total": 5,
+      "website": 2,
+      "social_media": 3
+    },
+    "TX": {
+      "total": 10,
+      "website": 6,
+      "social_media": 4
     }
   }
 }
