@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-05-02T16:00:15.286Z",
-  "total_churches": 9308,
-  "total_with_website": 6706,
-  "total_with_social_media": 2602,
+  "last_updated": "2026-05-03T16:00:08.381Z",
+  "total_churches": 9738,
+  "total_with_website": 6982,
+  "total_with_social_media": 2756,
   "by_state": {
     "CA": {
       "total": 7724,
@@ -20,69 +20,69 @@
       "social_media": 65
     },
     "SC": {
-      "total": 89,
-      "website": 51,
-      "social_media": 38
+      "total": 130,
+      "website": 74,
+      "social_media": 56
     },
     "NC": {
-      "total": 81,
-      "website": 45,
-      "social_media": 36
+      "total": 111,
+      "website": 67,
+      "social_media": 44
     },
     "WV": {
+      "total": 20,
+      "website": 10,
+      "social_media": 10
+    },
+    "VA": {
+      "total": 134,
+      "website": 89,
+      "social_media": 45
+    },
+    "FL": {
+      "total": 346,
+      "website": 210,
+      "social_media": 136
+    },
+    "AL": {
+      "total": 61,
+      "website": 26,
+      "social_media": 35
+    },
+    "GA": {
+      "total": 236,
+      "website": 147,
+      "social_media": 89
+    },
+    "TN": {
+      "total": 91,
+      "website": 64,
+      "social_media": 27
+    },
+    "LA": {
+      "total": 49,
+      "website": 23,
+      "social_media": 26
+    },
+    "MS": {
+      "total": 38,
+      "website": 18,
+      "social_media": 20
+    },
+    "AR": {
+      "total": 51,
+      "website": 23,
+      "social_media": 28
+    },
+    "OK": {
       "total": 14,
       "website": 7,
       "social_media": 7
     },
-    "VA": {
-      "total": 92,
-      "website": 60,
-      "social_media": 32
-    },
-    "FL": {
-      "total": 225,
-      "website": 135,
-      "social_media": 90
-    },
-    "AL": {
-      "total": 40,
-      "website": 16,
-      "social_media": 24
-    },
-    "GA": {
-      "total": 173,
-      "website": 104,
-      "social_media": 69
-    },
-    "TN": {
-      "total": 64,
-      "website": 42,
-      "social_media": 22
-    },
-    "LA": {
-      "total": 27,
-      "website": 12,
-      "social_media": 15
-    },
-    "MS": {
-      "total": 28,
-      "website": 13,
-      "social_media": 15
-    },
-    "AR": {
-      "total": 33,
-      "website": 13,
-      "social_media": 20
-    },
-    "OK": {
-      "total": 7,
-      "website": 3,
-      "social_media": 4
-    },
     "TX": {
-      "total": 21,
-      "website": 10,
-      "social_media": 11
+      "total": 43,
+      "website": 29,
+      "social_media": 14
     }
   }
 }
