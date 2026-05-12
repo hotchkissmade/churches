@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-05-11T16:00:19.548Z",
-  "total_churches": 13763,
-  "total_with_website": 9714,
-  "total_with_social_media": 4049,
+  "last_updated": "2026-05-12T16:00:11.583Z",
+  "total_churches": 14434,
+  "total_with_website": 10230,
+  "total_with_social_media": 4204,
   "by_state": {
     "CA": {
       "total": 7724,
@@ -135,18 +135,53 @@
       "social_media": 8
     },
     "MT": {
-      "total": 50,
-      "website": 42,
-      "social_media": 8
+      "total": 53,
+      "website": 44,
+      "social_media": 9
     },
     "MO": {
-      "total": 214,
-      "website": 152,
-      "social_media": 62
+      "total": 228,
+      "website": 162,
+      "social_media": 66
     },
     "KS": {
-      "total": 157,
-      "website": 112,
+      "total": 164,
+      "website": 118,
+      "social_media": 46
+    },
+    "MA": {
+      "total": 16,
+      "website": 8,
+      "social_media": 8
+    },
+    "NY": {
+      "total": 37,
+      "website": 20,
+      "social_media": 17
+    },
+    "ME": {
+      "total": 277,
+      "website": 205,
+      "social_media": 72
+    },
+    "VT": {
+      "total": 18,
+      "website": 15,
+      "social_media": 3
+    },
+    "CT": {
+      "total": 7,
+      "website": 6,
+      "social_media": 1
+    },
+    "NJ": {
+      "total": 10,
+      "website": 7,
+      "social_media": 3
+    },
+    "NH": {
+      "total": 282,
+      "website": 237,
       "social_media": 45
     }
   }
