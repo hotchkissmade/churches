@@ -7,9 +7,9 @@
   "latitude": 42.360567587932,
   "longitude": -83.157923733569,
   "geocode_source": "address",
-  "google_result_title": "God's Storehouse | Detroit MI - Facebook",
-  "website": "https://www.facebook.com/GodsStorehouseDetroit/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The title and snippet match the church name exactly, and Detroit is the correct city.",
-  "match_type": "social_media"
+  "google_result_title": "God's Storehouse",
+  "website": "http://www.gods-storehouse.org/",
+  "website_hostname": "gods-storehouse.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

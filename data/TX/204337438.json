@@ -7,9 +7,9 @@
   "latitude": 32.784801633971,
   "longitude": -96.778826789877,
   "geocode_source": "address",
-  "google_result_title": "Segue Center | Dallas TX - Facebook",
-  "website": "https://www.facebook.com/seguecenter/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name 'Segue Center' matches 'SEGUE DALLAS', and the location is in the same city, Dallas.",
-  "match_type": "social_media"
+  "google_result_title": "Segue Center",
+  "website": "https://www.seguecenter.org/",
+  "website_hostname": "seguecenter.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

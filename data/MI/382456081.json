@@ -7,9 +7,9 @@
   "latitude": 43.176183425025,
   "longitude": -83.885073317151,
   "geocode_source": "address",
-  "google_result_title": "Montrose Baptist Church - Facebook",
-  "website": "https://www.facebook.com/montrose.mi.baptist/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name in the title matches exactly with the church's name, and the location is Montrose which matches the city provided.",
-  "match_type": "social_media"
+  "google_result_title": "Montrose Baptist Church",
+  "website": "https://montrosebaptistchurch.com/",
+  "website_hostname": "montrosebaptistchurch.com",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

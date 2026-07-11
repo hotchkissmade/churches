@@ -7,9 +7,9 @@
   "latitude": 33.864312069413,
   "longitude": -118.084424969806,
   "geocode_source": "address",
-  "google_result_title": "Artesia City Church | Artesia CA",
-  "website": "https://www.facebook.com/artesiacitychurch/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The title matches the church name exactly, includes the correct city and state, and appears to be the official page.",
-  "match_type": "social_media"
+  "google_result_title": "Artesia City Church",
+  "website": "https://www.artesiacitychurch.org/",
+  "website_hostname": "artesiacitychurch.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

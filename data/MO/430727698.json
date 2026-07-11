@@ -7,9 +7,9 @@
   "latitude": 36.18828343494,
   "longitude": -89.65761261414,
   "geocode_source": "address",
-  "google_result_title": "First Baptist Church | Caruthersville MO - Facebook",
-  "website": "https://www.facebook.com/fbcville/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The title and snippet match the church's name exactly, and the location is the same city.",
-  "match_type": "social_media"
+  "google_result_title": "First Baptist Church",
+  "website": "https://fbcville.org/",
+  "website_hostname": "fbcville.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

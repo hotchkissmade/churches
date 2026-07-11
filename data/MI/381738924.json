@@ -7,9 +7,9 @@
   "latitude": 42.242926696274,
   "longitude": -84.753372755894,
   "geocode_source": "address",
-  "google_result_title": "St. James' Episcopal Church | Albion MI - Facebook",
-  "website": "https://www.facebook.com/StJamesAlbion/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The title and snippet match the church name exactly, and the location (Albion MI) matches the IRS record.",
-  "match_type": "social_media"
+  "google_result_title": "St. James",
+  "website": "http://www.stjamesalbion.org/",
+  "website_hostname": "stjamesalbion.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

@@ -7,9 +7,9 @@
   "latitude": 39.799609482602,
   "longitude": -77.730933110539,
   "geocode_source": "address",
-  "google_result_title": "The Life Center | Greencastle PA - Facebook",
-  "website": "https://www.facebook.com/tlcpa/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name in the title matches exactly and the location is the same city.",
-  "match_type": "social_media"
+  "google_result_title": "The Life Center",
+  "website": "https://tlcpa.org/",
+  "website_hostname": "tlcpa.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

@@ -7,9 +7,9 @@
   "latitude": 42.348325704438,
   "longitude": -83.087717972075,
   "geocode_source": "address",
-  "google_result_title": "St. Leo Roman Catholic Church - Detroit MI - Facebook",
-  "website": "https://www.facebook.com/p/St-Leo-Roman-Catholic-Church-Detroit-100064371384053/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name in the title matches 'ST LEOS CHURCH' as an expanded version, and the location is Detroit which matches the city exactly.",
-  "match_type": "social_media"
+  "google_result_title": "ST LEOS CHURCH",
+  "website": "http://stleodetroit.org/",
+  "website_hostname": "stleodetroit.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

@@ -7,9 +7,9 @@
   "latitude": 41.356229052746,
   "longitude": -71.703212960014,
   "geocode_source": "address",
-  "google_result_title": "St. Andrew Lutheran Church | Charlestown RI - Facebook",
-  "website": "https://www.facebook.com/standrewlutheranchurch/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name in the title matches exactly, and the location (Charlestown RI) is correct.",
-  "match_type": "social_media"
+  "google_result_title": "St Andrew Lutheran Church",
+  "website": "https://standrewri.org/",
+  "website_hostname": "standrewri.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

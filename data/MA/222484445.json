@@ -7,9 +7,9 @@
   "latitude": 42.297193014371,
   "longitude": -71.008418445181,
   "geocode_source": "address",
-  "google_result_title": "First Church of Squantum | Quincy MA - Facebook",
-  "website": "https://www.facebook.com/firstchurchsquantum/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches exactly, and the location 'Quincy' is correct.",
-  "match_type": "social_media"
+  "google_result_title": "First Church of Squantum",
+  "website": "http://www.firstchurchsquantum.org/",
+  "website_hostname": "firstchurchsquantum.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

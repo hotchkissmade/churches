@@ -7,9 +7,9 @@
   "latitude": 39.753061334962,
   "longitude": -89.704233877482,
   "geocode_source": "address",
-  "google_result_title": "Parkway Christian Church Disciples of Christ | Springfield IL",
-  "website": "https://www.facebook.com/parkwaydisciples/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The title and snippet match the church name exactly, and Springfield matches the city in the IRS record.",
-  "match_type": "social_media"
+  "google_result_title": "Parkway Christian Church",
+  "website": "https://www.parkwaychristian.church/",
+  "website_hostname": "parkwaychristian.church",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

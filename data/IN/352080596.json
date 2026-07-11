@@ -7,9 +7,9 @@
   "latitude": 40.275195630134,
   "longitude": -85.386410339931,
   "geocode_source": "address",
-  "google_result_title": "The Gathering Muncie - Facebook",
-  "website": "https://www.facebook.com/thegatheringmuncie/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches exactly and the location is Muncie, IN.",
-  "match_type": "social_media"
+  "google_result_title": "The Gathering Muncie",
+  "website": "https://www.thegatheringmuncie.org/",
+  "website_hostname": "thegatheringmuncie.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

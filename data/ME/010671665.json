@@ -7,9 +7,9 @@
   "latitude": 43.91109498431,
   "longitude": -69.962339630191,
   "geocode_source": "address",
-  "google_result_title": "Church of the Good Samaritan | Brunswick ME - Facebook",
-  "website": "https://www.facebook.com/GoodSamaritanBrunswickMaine/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name in the title matches exactly, and the location is the same city.",
-  "match_type": "social_media"
+  "google_result_title": "Church of the Good Samaritan",
+  "website": "http://churchofthegoodsamaritan.org/",
+  "website_hostname": "churchofthegoodsamaritan.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

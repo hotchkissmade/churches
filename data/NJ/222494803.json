@@ -7,9 +7,9 @@
   "latitude": 40.640136953582,
   "longitude": -74.888041091547,
   "geocode_source": "address",
-  "google_result_title": "Clinton Church of the Nazarene (@clintonnazarene.org) - Facebook",
-  "website": "https://www.facebook.com/clintonnazarene.org/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name in the title matches exactly and the location is the same city.",
-  "match_type": "social_media"
+  "google_result_title": "Clinton Church of the Nazarene",
+  "website": "https://www.clintonnazarene.org/",
+  "website_hostname": "clintonnazarene.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

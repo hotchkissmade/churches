@@ -7,9 +7,9 @@
   "latitude": 41.405121554238,
   "longitude": -72.111016415444,
   "geocode_source": "address",
-  "google_result_title": "Quaker Hill Baptist Church - Facebook",
-  "website": "https://www.facebook.com/qhbchurch/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The title and snippet match the church name exactly, and the location (Quaker Hill, CT) matches the IRS record.",
-  "match_type": "social_media"
+  "google_result_title": "Quaker Hill Baptist Church",
+  "website": "https://www.qhbc.org/",
+  "website_hostname": "qhbc.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

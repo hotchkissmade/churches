@@ -7,9 +7,9 @@
   "latitude": 40.456761936834,
   "longitude": -79.99697966097,
   "geocode_source": "address",
-  "google_result_title": "Cityview Church | Pittsburgh PA - Facebook",
-  "website": "https://www.facebook.com/cityviewchurchpgh/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name in the title matches 'Cityview Church' which is a clear abbreviation of 'CITYVIEW COVENANT CHURCH PITTSBURG PA', and the location mentions Pittsburgh.",
-  "match_type": "social_media"
+  "google_result_title": "Cityview Church",
+  "website": "https://cityviewpgh.com/",
+  "website_hostname": "cityviewpgh.com",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

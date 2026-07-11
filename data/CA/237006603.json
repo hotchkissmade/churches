@@ -7,9 +7,9 @@
   "latitude": 37.698843250677,
   "longitude": -122.078504038069,
   "geocode_source": "address",
-  "google_result_title": "Unity Church of Castro Valley - Facebook",
-  "website": "https://www.facebook.com/unitycv/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name in the title matches exactly and the location is the same city.",
-  "match_type": "social_media"
+  "google_result_title": "Unity Church of Castro Valley",
+  "website": "https://www.unitycv.org/",
+  "website_hostname": "unitycv.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

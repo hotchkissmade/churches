@@ -7,9 +7,9 @@
   "latitude": 45.500899764758,
   "longitude": -91.752523670095,
   "geocode_source": "address",
-  "google_result_title": "First United Methodist Church of Rice Lake - Facebook",
-  "website": "https://www.facebook.com/www.ricelakeumc.org/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The title and snippet match the church name exactly, and the location (Rice Lake) matches the IRS record.",
-  "match_type": "social_media"
+  "google_result_title": "First United Methodist Church of Rice Lake",
+  "website": "https://www.ricelakeumc.org/",
+  "website_hostname": "ricelakeumc.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

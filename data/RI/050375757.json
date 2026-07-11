@@ -7,9 +7,9 @@
   "latitude": 41.900358592037,
   "longitude": -71.502785106019,
   "geocode_source": "address",
-  "google_result_title": "Church of the Cross | Smithfield RI - Facebook",
-  "website": "https://www.facebook.com/COTCLife/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The title matches the church name exactly, and the location 'Smithfield RI' is the same city as in IRS records.",
-  "match_type": "social_media"
+  "google_result_title": "Church of the Cross",
+  "website": "https://cotc.life/",
+  "website_hostname": "cotc.life",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

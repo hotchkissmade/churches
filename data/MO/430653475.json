@@ -7,9 +7,9 @@
   "latitude": 38.558463516527,
   "longitude": -90.302140289385,
   "geocode_source": "address",
-  "google_result_title": "The Church of St. Michael & St. George | St. Louis MO - Facebook",
-  "website": "https://www.facebook.com/csmsg/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The title and snippet clearly refer to 'St Michael & St George' which is likely an abbreviation or variation of 'ST GEORGE CATHOLIC CHURCH', and the location matches Saint Louis, MO.",
-  "match_type": "social_media"
+  "google_result_title": "The Church of St. Michael & St. George",
+  "website": "https://www.csmsg.org/",
+  "website_hostname": "csmsg.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

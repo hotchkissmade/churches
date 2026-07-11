@@ -7,9 +7,9 @@
   "latitude": 41.837556968024,
   "longitude": -71.348782766774,
   "geocode_source": "address",
-  "google_result_title": "Church of the Epiphany, East Providence | Rumford RI - Facebook",
-  "website": "https://www.facebook.com/epiphanyep/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches exactly, and the location Rumford is plausible for a church with a mailing address in East Providence/Rumford area.",
-  "match_type": "social_media"
+  "google_result_title": "Church of the Epiphany",
+  "website": "https://www.epiphanyep.org/",
+  "website_hostname": "epiphanyep.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

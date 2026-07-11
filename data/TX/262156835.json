@@ -7,9 +7,9 @@
   "latitude": 29.844545159311,
   "longitude": -95.362788717026,
   "geocode_source": "address",
-  "google_result_title": "Iglesia Cristo de Poder / Houston, TX - Facebook",
-  "website": "https://www.facebook.com/cristodepoderhouston/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name in the title matches the church name exactly (IGLESIA PODER EN CRISTO -> Cristo de Poder), and the location is within Houston, TX.",
-  "match_type": "social_media"
+  "google_result_title": "Iglesia Cristo de Poder",
+  "website": "https://www.cristodepoder.org/",
+  "website_hostname": "cristodepoder.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

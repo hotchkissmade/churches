@@ -7,9 +7,9 @@
   "latitude": 41.119581974994,
   "longitude": -78.761691626794,
   "geocode_source": "address",
-  "google_result_title": "First United Presbyterian Church of DuBois, PA | Du Bois PA",
-  "website": "https://www.facebook.com/fupcdubois/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name in the title matches exactly and the location 'Du Bois, PA' is correct.",
-  "match_type": "social_media"
+  "google_result_title": "First United Presbyterian Church",
+  "website": "https://www.duboisfupc.org/",
+  "website_hostname": "duboisfupc.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

@@ -7,9 +7,9 @@
   "latitude": 42.241761156571,
   "longitude": -70.896989952425,
   "geocode_source": "address",
-  "google_result_title": "North Street Community Church of the Nazarene | Hingham MA",
-  "website": "https://www.facebook.com/northstreetcc/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The title and snippet match the church name exactly, and the location is in Hingham.",
-  "match_type": "social_media"
+  "google_result_title": "North Street Community Church of the Nazarene",
+  "website": "https://www.northst.org/",
+  "website_hostname": "northst.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

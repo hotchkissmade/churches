@@ -7,9 +7,9 @@
   "latitude": 40.684770622438,
   "longitude": -73.981504437613,
   "geocode_source": "address",
-  "google_result_title": "Bethlehem Lutheran Church - Bay Ridge (ELCA) | Brooklyn NY",
-  "website": "https://www.facebook.com/Bethlehembayridge/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The title and snippet match the church name exactly, and the location (Bay Ridge, Brooklyn) is within the same city.",
-  "match_type": "social_media"
+  "google_result_title": "Bethlehem Lutheran Church - Brooklyn",
+  "website": "http://www.bethlehembayridge.org/",
+  "website_hostname": "bethlehembayridge.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

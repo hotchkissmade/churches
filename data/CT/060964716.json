@@ -7,9 +7,9 @@
   "latitude": 41.765932025533,
   "longitude": -72.577622805085,
   "geocode_source": "address",
-  "google_result_title": "Crossroads Community Cathedral | East Hartford CT - Facebook",
-  "website": "https://www.facebook.com/myccc.church/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches exactly and the location is the same city.",
-  "match_type": "social_media"
+  "google_result_title": "Crossroads Community Cathedral",
+  "website": "https://www.myccc.church/",
+  "website_hostname": "myccc.church",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

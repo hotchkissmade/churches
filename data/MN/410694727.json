@@ -7,9 +7,9 @@
   "latitude": 44.999088709862,
   "longitude": -93.294172264826,
   "geocode_source": "address",
-  "google_result_title": "Episcopal Church in Minnesota | Minneapolis MN - Facebook",
-  "website": "https://www.facebook.com/EpiscopalMN/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The title matches the church name exactly and the location in Minneapolis is correct.",
-  "match_type": "social_media"
+  "google_result_title": "Episcopal Church in Minnesota",
+  "website": "https://episcopalmn.org/",
+  "website_hostname": "episcopalmn.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }
