@@ -7,9 +7,9 @@
   "latitude": 44.742535940428,
   "longitude": -85.684611333266,
   "geocode_source": "address",
-  "google_result_title": "Presbyterian Church of Traverse City - Facebook",
-  "website": "https://www.facebook.com/TCPresby/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name in the title matches exactly, and the location is the same city.",
-  "match_type": "social_media"
+  "google_result_title": "Presbyterian Church of Traverse City",
+  "website": "https://tcpresby.org/",
+  "website_hostname": "tcpresby.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

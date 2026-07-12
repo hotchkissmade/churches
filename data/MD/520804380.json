@@ -7,9 +7,9 @@
   "latitude": 39.038222247102,
   "longitude": -77.123270289246,
   "geocode_source": "address",
-  "google_result_title": "Trinity Lutheran Church (ELCA) - North Bethesda, MD - Facebook",
-  "website": "https://www.facebook.com/trinityelca/",
-  "website_hostname": "facebook.com",
-  "match_reason": "Name matches exactly, location is North Bethesda which matches the IRS record.",
-  "match_type": "social_media"
+  "google_result_title": "Trinity Lutheran Church",
+  "website": "https://www.trinityelca.org/",
+  "website_hostname": "trinityelca.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

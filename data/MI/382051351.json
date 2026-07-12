@@ -7,9 +7,9 @@
   "latitude": 42.912573563404,
   "longitude": -85.625168531324,
   "geocode_source": "address",
-  "google_result_title": "Christian Reformed Church in North America - CRCNA - Facebook",
-  "website": "https://www.facebook.com/crcna/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches exactly and the location is not specified, making it likely to be the official page.",
-  "match_type": "social_media"
+  "google_result_title": "Christian Reformed Church",
+  "website": "https://www.crcna.org/",
+  "website_hostname": "crcna.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

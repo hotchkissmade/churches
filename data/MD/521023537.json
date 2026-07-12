@@ -7,9 +7,9 @@
   "latitude": 39.158477369072,
   "longitude": -76.518067560053,
   "geocode_source": "address",
-  "google_result_title": "Grace Baptist Church of Sunset Beach | Pasadena MD - Facebook",
-  "website": "https://www.facebook.com/Gracebaptistsunsetbeach/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name in the title matches exactly, and Pasadena MD is the correct city.",
-  "match_type": "social_media"
+  "google_result_title": "Grace Baptist Church of Sunset Beach",
+  "website": "https://www.gbcsunsetbeach.org/",
+  "website_hostname": "gbcsunsetbeach.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

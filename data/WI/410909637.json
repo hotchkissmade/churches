@@ -7,9 +7,9 @@
   "latitude": 44.820592315514,
   "longitude": -89.173785424251,
   "geocode_source": "address",
-  "google_result_title": "St. Paul Lutheran Church Wittenberg, WI - Facebook",
-  "website": "https://www.facebook.com/stpaulwittenberg/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches exactly, and the location (Wittenberg, WI) is correct.",
-  "match_type": "social_media"
+  "google_result_title": "St. Paul Lutheran Church - Wittenberg",
+  "website": "http://www.stpaulwittenberg.com/",
+  "website_hostname": "stpaulwittenberg.com",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

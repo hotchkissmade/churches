@@ -7,9 +7,9 @@
   "latitude": 45.513415871959,
   "longitude": -122.537593647605,
   "geocode_source": "address",
-  "google_result_title": "UNISM | Portland OR - Facebook",
-  "website": "https://www.facebook.com/myunism/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches exactly and the location is specified as Portland, OR which matches the IRS record.",
-  "match_type": "social_media"
+  "google_result_title": "UNISM",
+  "website": "http://www.unism.org/",
+  "website_hostname": "unism.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

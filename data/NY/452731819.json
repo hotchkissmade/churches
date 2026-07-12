@@ -7,9 +7,9 @@
   "latitude": 40.67661482256,
   "longitude": -73.886747254922,
   "geocode_source": "address",
-  "google_result_title": "Salve Regina Catholic Academy | Brooklyn NY - Facebook",
-  "website": "https://www.facebook.com/SRCA.org/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name in the title matches exactly, and Brooklyn is the correct city.",
-  "match_type": "social_media"
+  "google_result_title": "Salve Regina Catholic Academy",
+  "website": "https://srca.org/",
+  "website_hostname": "srca.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }
