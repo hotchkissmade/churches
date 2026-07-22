@@ -7,9 +7,9 @@
   "latitude": 33.813047604479,
   "longitude": -84.166074305274,
   "geocode_source": "address",
-  "google_result_title": "St. Michael & All Angels Episcopal Church | Stone Mountain GA",
-  "website": "https://www.facebook.com/stmichaelstonemountain/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The title matches the church name exactly, and the location (Stone Mountain) is correct.",
-  "match_type": "social_media"
+  "google_result_title": "Saint Michael and All Angels Stone Mountain",
+  "website": "https://stmichaelstonemountain.org/",
+  "website_hostname": "stmichaelstonemountain.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

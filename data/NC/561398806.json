@@ -7,9 +7,9 @@
   "latitude": 35.694960765612,
   "longitude": -79.80800394073,
   "geocode_source": "address",
-  "google_result_title": "South Asheboro Church of God - Facebook",
-  "website": "https://www.facebook.com/1sachurchofgod/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name in the title matches exactly, and Facebook often lists city names implicitly without needing to match the exact address.",
-  "match_type": "social_media"
+  "google_result_title": "South Asheboro Church of God",
+  "website": "http://southasheborocog.org/",
+  "website_hostname": "southasheborocog.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

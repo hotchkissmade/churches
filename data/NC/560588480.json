@@ -7,9 +7,9 @@
   "latitude": 36.004305394954,
   "longitude": -78.890948627381,
   "geocode_source": "address",
-  "google_result_title": "Elizabeth Street UMC | Durham NC - Facebook",
-  "website": "https://www.facebook.com/elizabethstreetumc/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name in the title matches exactly, and the location (Durham) matches the IRS record.",
-  "match_type": "social_media"
+  "google_result_title": "Elizabeth Street UMC",
+  "website": "https://elizabethstreetumc.org/",
+  "website_hostname": "elizabethstreetumc.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

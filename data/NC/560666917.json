@@ -7,9 +7,9 @@
   "latitude": 35.379614786887,
   "longitude": -81.193618831123,
   "geocode_source": "address",
-  "google_result_title": "St. Paul's Lutheran Church - Dallas, NC - Facebook",
-  "website": "https://www.facebook.com/stpaulsdallas/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name and location in the search result match exactly with the IRS record.",
-  "match_type": "social_media"
+  "google_result_title": "St. Paul's Lutheran Church",
+  "website": "https://www.stpaulsdallas.org/",
+  "website_hostname": "stpaulsdallas.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

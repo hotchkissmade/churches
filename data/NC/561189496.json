@@ -7,9 +7,9 @@
   "latitude": 35.620475395872,
   "longitude": -82.558979587569,
   "geocode_source": "address",
-  "google_result_title": "Asheville Friends Meeting (Quaker) - Facebook",
-  "website": "https://www.facebook.com/p/Asheville-Friends-Meeting-Quaker-100066530366025/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name in the title matches exactly and the city is Asheville, which matches the IRS record.",
-  "match_type": "social_media"
+  "google_result_title": "Asheville Friends Meeting website",
+  "website": "https://www.ashevillefriends.org/",
+  "website_hostname": "ashevillefriends.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }

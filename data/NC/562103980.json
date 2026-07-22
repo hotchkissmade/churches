@@ -7,9 +7,9 @@
   "latitude": 35.769241723218,
   "longitude": -78.633645648642,
   "geocode_source": "address",
-  "google_result_title": "Calvary Raleigh Church - Facebook",
-  "website": "https://www.facebook.com/calvaryraleighchurch/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The title matches the church name exactly, and Raleigh is the correct city.",
-  "match_type": "social_media"
+  "google_result_title": "Calvary Raleigh Church",
+  "website": "https://calvaryraleigh.com/",
+  "website_hostname": "calvaryraleigh.com",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }
