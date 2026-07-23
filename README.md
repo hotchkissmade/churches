@@ -8,11 +8,11 @@ A open-source database of US Churches compiled from IRS Exempt Organizations Bus
 <!-- STATS_START -->
 | Metric | Count |
 |--------|-------|
-| Churches with website | 76,226 |
-| Churches with social media | 10,803 |
-| **Total** | **87,029** |
+| Churches with website | 76,910 |
+| Churches with social media | 11,149 |
+| **Total** | **88,059** |
 
-*Last updated: 2026-07-22*
+*Last updated: 2026-07-23*
 <!-- STATS_END -->   
 
 ## 🙋🏽 I want to help!
