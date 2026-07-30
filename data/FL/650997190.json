@@ -7,9 +7,9 @@
   "latitude": 25.860824493438,
   "longitude": -80.240445221925,
   "geocode_source": "address",
-  "google_result_title": "Freedom Temple of Miami, Inc (@FreedomTempleMinistries)",
-  "website": "https://www.facebook.com/FreedomTempleMinistries/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name in the title matches exactly and the location is within Miami.",
-  "match_type": "social_media"
+  "google_result_title": "Freedom Temple of Miami",
+  "website": "http://www.ftmiami.org/",
+  "website_hostname": "ftmiami.org",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }
