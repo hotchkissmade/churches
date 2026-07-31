@@ -7,9 +7,9 @@
   "latitude": 29.072555864512,
   "longitude": -81.02284639025,
   "geocode_source": "address",
-  "google_result_title": "Port Orange Church of The Nazarene - Facebook",
-  "website": "https://www.facebook.com/ponazarene/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The title and snippet match the church name exactly, and the location is in the same city.",
-  "match_type": "social_media"
+  "google_result_title": "Port Orange Church of the Nazarene",
+  "website": "https://www.ponaz.church/",
+  "website_hostname": "ponaz.church",
+  "match_reason": "Extracted website from a social media only search results match",
+  "match_type": "website"
 }
