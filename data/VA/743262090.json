@@ -4,12 +4,12 @@
   "irs_city": "ALEXANDRIA",
   "irs_state": "VA",
   "irs_zip": "22306-1839",
-  "latitude": 38.766222550516,
-  "longitude": -77.083651287909,
-  "geocode_source": "address",
-  "google_result_title": "Tabernacle Alexandria | Alexandria VA - Facebook",
-  "website": "https://www.facebook.com/TabernacleAlexandria/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches exactly, and the location is in Alexandria, which matches the IRS record.",
-  "match_type": "social_media"
+  "latitude": 38.80629348754883,
+  "longitude": -77.0524673461914,
+  "geocode_source": "overture_maps",
+  "google_result_title": "TABERNACLE OF PRAISE",
+  "website": "http://www.tabernaclealexandria.com/",
+  "website_hostname": "tabernaclealexandria.com",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

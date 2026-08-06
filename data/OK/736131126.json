@@ -4,9 +4,12 @@
   "irs_city": "NEWKIRK",
   "irs_state": "OK",
   "irs_zip": "74647-0290",
-  "google_result_title": "St. John's Lutheran of Newkirk & Blackwell - Facebook",
-  "website": "https://www.facebook.com/p/St-Johns-Lutheran-of-Newkirk-Blackwell-100064392893861/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The title includes the exact church name abbreviation 'St. John's Lutheran' and mentions both Newkirk and Blackwell, which are adjacent cities in the same region as per IRS location rules.",
-  "match_type": "social_media"
+  "latitude": 36.882259368896484,
+  "longitude": -97.05767822265625,
+  "geocode_source": "overture_maps",
+  "google_result_title": "ST JOHN LUTHERAN CHURCH",
+  "website": "http://www.nkbklutheran.com/",
+  "website_hostname": "nkbklutheran.com",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

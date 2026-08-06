@@ -4,12 +4,12 @@
   "irs_city": "PHOENIX",
   "irs_state": "AZ",
   "irs_zip": "85029-2173",
-  "latitude": 33.598983078184,
-  "longitude": -112.137454812287,
-  "geocode_source": "address",
-  "google_result_title": "Catholic Apostolic Church of Antioch - USA | Phoenix AZ - Facebook",
-  "website": "https://www.facebook.com/CatholicChurchofAntioch/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches exactly, and Phoenix is the correct city.",
-  "match_type": "social_media"
+  "latitude": 33.59964179992676,
+  "longitude": -112.13639068603516,
+  "geocode_source": "overture_maps",
+  "google_result_title": "CCOA Chartered Ministries - Catholic Apostolic Church of Antioch",
+  "website": "https://www.churchofantioch.org/about-the-church/ccoa-chartered-ministries/",
+  "website_hostname": "churchofantioch.org",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

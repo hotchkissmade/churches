@@ -4,9 +4,12 @@
   "irs_city": "MARLIN",
   "irs_state": "TX",
   "irs_zip": "76661-0110",
-  "google_result_title": "St. John's Episcopal Church Marlin, TX - Facebook",
-  "website": "https://www.facebook.com/stjohnsmarlin/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches exactly and the location is the same city as the IRS record.",
-  "match_type": "social_media"
+  "latitude": 31.311220169067383,
+  "longitude": -96.89231872558594,
+  "geocode_source": "overture_maps",
+  "google_result_title": "St. John's Episcopal Church – Episcopal Church in Marlin, Texas",
+  "website": "https://stjohnsmarlin.com/",
+  "website_hostname": "stjohnsmarlin.com",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

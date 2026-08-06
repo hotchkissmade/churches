@@ -4,12 +4,12 @@
   "irs_city": "NEW ORLEANS",
   "irs_state": "LA",
   "irs_zip": "70122-5330",
-  "latitude": 30.01691040662,
-  "longitude": -90.05543325315,
-  "geocode_source": "address",
-  "google_result_title": "Mt Tabor Baptist Church | New Orleans LA - Facebook",
-  "website": "https://www.facebook.com/p/Mt-Tabor-Baptist-Church-100064833635211/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name in the title/snippet matches exactly and the location is the same city as listed on the IRS record.",
-  "match_type": "social_media"
+  "latitude": 30.001482009887695,
+  "longitude": -90.0504379272461,
+  "geocode_source": "overture_maps",
+  "google_result_title": "MOUNT TABOR BAPTIST CHURCH",
+  "website": "http://www.mttabornola.com/",
+  "website_hostname": "mttabornola.com",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

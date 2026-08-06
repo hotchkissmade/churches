@@ -4,9 +4,12 @@
   "irs_city": "EDMOND",
   "irs_state": "OK",
   "irs_zip": "73012-8704",
-  "google_result_title": "TP Church | Edmond OK - Facebook",
-  "website": "https://www.facebook.com/tpchurchedmond/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches the church's abbreviation 'TP' with location details confirming Edmond, OK.",
-  "match_type": "social_media"
+  "latitude": 35.65337944030762,
+  "longitude": -97.6202392578125,
+  "geocode_source": "overture_maps",
+  "google_result_title": "TP Church",
+  "website": "https://tp.church/",
+  "website_hostname": "tp.church",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

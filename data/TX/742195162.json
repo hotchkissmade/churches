@@ -4,12 +4,12 @@
   "irs_city": "MEXIA",
   "irs_state": "TX",
   "irs_zip": "76667-2303",
-  "latitude": 31.68503217579,
-  "longitude": -96.480884577454,
-  "geocode_source": "address",
-  "google_result_title": "St. Mary's Catholic Church Mexia | Mexia TX - Facebook",
-  "website": "https://www.facebook.com/stmarysmexia/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The title and snippet match the church name exactly, and the location (Mexia TX) is correct.",
-  "match_type": "social_media"
+  "latitude": 31.68561553955078,
+  "longitude": -96.48075866699219,
+  "geocode_source": "overture_maps",
+  "google_result_title": "St. Mary Catholic Church - Mexia, TX",
+  "website": "https://stmarysmexia.org/",
+  "website_hostname": "stmarysmexia.org",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

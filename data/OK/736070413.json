@@ -4,12 +4,12 @@
   "irs_city": "ALVA",
   "irs_state": "OK",
   "irs_zip": "73717-2731",
-  "latitude": 36.799758845454,
-  "longitude": -98.666928625537,
-  "geocode_source": "address",
-  "google_result_title": "Alva First Christian Church (Disciples of Christ) - Facebook",
-  "website": "https://www.facebook.com/FCCAlva/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name in the title matches 'First Christian Church' exactly, and Alva is the same city as listed on IRS.",
-  "match_type": "social_media"
+  "latitude": 36.79903030395508,
+  "longitude": -98.6671371459961,
+  "geocode_source": "overture_maps",
+  "google_result_title": "First Christian Church - Alva Oklahoma",
+  "website": "http://www.fccalva.net/",
+  "website_hostname": "fccalva.net",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

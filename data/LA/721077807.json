@@ -4,12 +4,12 @@
   "irs_city": "SHREVEPORT",
   "irs_state": "LA",
   "irs_zip": "71104-4108",
-  "latitude": 32.477672954794,
-  "longitude": -93.750392698177,
-  "geocode_source": "address",
-  "google_result_title": "Diocese of Shreveport - Facebook",
-  "website": "https://www.facebook.com/dioceseofshreveport/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The title and snippet match the church's name exactly, and Shreveport is the same city as listed in the IRS record.",
-  "match_type": "social_media"
+  "latitude": 32.47739601135254,
+  "longitude": -93.75086212158203,
+  "geocode_source": "overture_maps",
+  "google_result_title": "Catholic Diocese of Shreveport",
+  "website": "https://www.dioshpt.org/",
+  "website_hostname": "dioshpt.org",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

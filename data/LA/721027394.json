@@ -4,9 +4,12 @@
   "irs_city": "BATON ROUGE",
   "irs_state": "LA",
   "irs_zip": "70821-0448",
-  "google_result_title": "World Shakers | Baton Rouge LA - Facebook",
-  "website": "https://www.facebook.com/WRLDSHKRS/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches exactly and the location is in the same city.",
-  "match_type": "social_media"
+  "latitude": 30.45612144470215,
+  "longitude": -91.1418685913086,
+  "geocode_source": "overture_maps",
+  "google_result_title": "World Shakers",
+  "website": "https://worldshakers.org/",
+  "website_hostname": "worldshakers.org",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

@@ -4,12 +4,12 @@
   "irs_city": "STAFFORD",
   "irs_state": "TX",
   "irs_zip": "77477-5222",
-  "latitude": 29.621310161637,
-  "longitude": -95.582554142056,
-  "geocode_source": "address",
-  "google_result_title": "All Saints Episcopal Church, Stafford, Texas - Facebook",
-  "website": "https://www.facebook.com/allsaintsstafford.org/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name and location in the title/snippet match the church's exact name and city.",
-  "match_type": "social_media"
+  "latitude": 29.619068145751953,
+  "longitude": -95.58202362060547,
+  "geocode_source": "overture_maps",
+  "google_result_title": "ALL SAINTS EPISCOPAL CHURCH",
+  "website": "http://www.allsaints-stafford.org/",
+  "website_hostname": "allsaints-stafford.org",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

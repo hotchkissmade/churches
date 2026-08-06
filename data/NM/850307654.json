@@ -4,12 +4,12 @@
   "irs_city": "ALBUQUERQUE",
   "irs_state": "NM",
   "irs_zip": "87112-4834",
-  "latitude": 35.100061920664,
-  "longitude": -106.493045706217,
-  "geocode_source": "address",
-  "google_result_title": "New Life City | Albuquerque NM - Facebook",
-  "website": "https://www.facebook.com/NewLifeCity/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name 'New Life City' matches the church name 'NEW LIFE', and the location is correct for Albuquerque, NM.",
-  "match_type": "social_media"
+  "latitude": 35.195756912231445,
+  "longitude": -106.58406066894531,
+  "geocode_source": "overture_maps",
+  "google_result_title": "New Life City",
+  "website": "https://www.newlifecity.org/",
+  "website_hostname": "newlifecity.org",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

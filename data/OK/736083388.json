@@ -4,12 +4,12 @@
   "irs_city": "TULSA",
   "irs_state": "OK",
   "irs_zip": "74115-5601",
-  "latitude": 36.175709337646,
-  "longitude": -95.901915034345,
-  "geocode_source": "address",
-  "google_result_title": "Sts. Peter and Paul Catholic Church Tulsa, OK - Facebook",
-  "website": "https://www.facebook.com/Sts.PeterandPaulCatholicChurchTulsa/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name in the title matches exactly and the location is Tulsa, OK.",
-  "match_type": "social_media"
+  "latitude": 36.175371170043945,
+  "longitude": -95.9021987915039,
+  "geocode_source": "overture_maps",
+  "google_result_title": "Saints Peter and Paul Catholic Church",
+  "website": "https://www.spptulsa.org/",
+  "website_hostname": "spptulsa.org",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

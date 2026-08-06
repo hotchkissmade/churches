@@ -4,9 +4,12 @@
   "irs_city": "WASILLA",
   "irs_state": "AK",
   "irs_zip": "99687-4693",
-  "google_result_title": "Church On The Rock - Alaska | Wasilla AK - Facebook",
-  "website": "https://www.facebook.com/COTRALASKA/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name in the title/snippet matches exactly, and the location is Wasilla, which matches the IRS city.",
-  "match_type": "social_media"
+  "latitude": 61.585670471191406,
+  "longitude": -149.54067993164062,
+  "geocode_source": "overture_maps",
+  "google_result_title": "Church on the Rock - Alaska: Home",
+  "website": "https://churchak.org/",
+  "website_hostname": "churchak.org",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

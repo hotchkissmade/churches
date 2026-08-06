@@ -4,9 +4,12 @@
   "irs_city": "COLUMBUS",
   "irs_state": "TX",
   "irs_zip": "78934-0746",
-  "google_result_title": "St. John's Episcopal Church - Columbus, Texas - Facebook",
-  "website": "https://www.facebook.com/SaintJohnColumbus/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name in the title matches exactly and the location is the same city.",
-  "match_type": "social_media"
+  "latitude": 29.708568572998047,
+  "longitude": -96.5390625,
+  "geocode_source": "overture_maps",
+  "google_result_title": "St. John Episcopal Church | Episcopal Church | 915 Travis St ...",
+  "website": "https://www.stjohnscolumbustx.org/",
+  "website_hostname": "stjohnscolumbustx.org",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

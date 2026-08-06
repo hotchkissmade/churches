@@ -4,12 +4,12 @@
   "irs_city": "CUPERTINO",
   "irs_state": "CA",
   "irs_zip": "95014-3669",
-  "latitude": 37.315464310983,
-  "longitude": -122.00324649976,
-  "geocode_source": "address",
-  "google_result_title": "Valley Church | Cupertino CA - Facebook",
-  "website": "https://www.facebook.com/valleychurchcupertino/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches exactly and the location (Cupertino) is the same city as the IRS record.",
-  "match_type": "social_media"
+  "latitude": 37.33548355102539,
+  "longitude": -122.04196166992188,
+  "geocode_source": "overture_maps",
+  "google_result_title": "Welcome to Valley Church in Cupertino, CA",
+  "website": "https://valleychurch.org/v/",
+  "website_hostname": "valleychurch.org",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

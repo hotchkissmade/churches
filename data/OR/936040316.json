@@ -4,12 +4,12 @@
   "irs_city": "SALEM",
   "irs_state": "OR",
   "irs_zip": "97305-1816",
-  "latitude": 44.955990106056,
-  "longitude": -122.970698121632,
-  "geocode_source": "address",
-  "google_result_title": "Salem Church of Christ - Facebook",
-  "website": "https://www.facebook.com/churchofchristsalem/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name in the title matches 'Salem Church of Christ', which is a clear reference to the Church of Christ at Salem, and the location (Salem) matches exactly.",
-  "match_type": "social_media"
+  "latitude": 37.29144859313965,
+  "longitude": -80.06582641601562,
+  "geocode_source": "overture_maps",
+  "google_result_title": "SALEM CHURCH OF CHRIST - Home",
+  "website": "http://www.churchofchristsalem.org/",
+  "website_hostname": "churchofchristsalem.org",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

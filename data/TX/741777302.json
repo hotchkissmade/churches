@@ -4,9 +4,12 @@
   "irs_city": "NOLANVILLE",
   "irs_state": "TX",
   "irs_zip": "76559-4121",
-  "google_result_title": "First Baptist Church of Nolanville - Facebook",
-  "website": "https://www.facebook.com/fbcnolanville/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The title and snippet match the church name exactly, and the location details are identical to the IRS record.",
-  "match_type": "social_media"
+  "latitude": 31.078121185302734,
+  "longitude": -97.6046142578125,
+  "geocode_source": "overture_maps",
+  "google_result_title": "FIRST BAPTIST CHURCH NOLANVILLE TX",
+  "website": "http://www.fbcnolanville.org/",
+  "website_hostname": "fbcnolanville.org",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

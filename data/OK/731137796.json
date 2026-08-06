@@ -4,12 +4,12 @@
   "irs_city": "MADILL",
   "irs_state": "OK",
   "irs_zip": "73446-0000",
-  "latitude": 34.091436016854,
-  "longitude": -96.772325898202,
-  "geocode_source": "address",
-  "google_result_title": "Madill Church of the Nazarene - Facebook",
-  "website": "https://www.facebook.com/madillnazarene/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches exactly, and the location is Madill, which is correct.",
-  "match_type": "social_media"
+  "latitude": 34.091562271118164,
+  "longitude": -96.77215576171875,
+  "geocode_source": "overture_maps",
+  "google_result_title": "MADILL CHURCH OF THE NAZARENE",
+  "website": "http://www.madillnazarene.com/",
+  "website_hostname": "madillnazarene.com",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

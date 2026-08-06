@@ -4,12 +4,12 @@
   "irs_city": "PECOS",
   "irs_state": "TX",
   "irs_zip": "79772-7116",
-  "latitude": 31.402698034543,
-  "longitude": -103.50412190443,
-  "geocode_source": "address",
-  "google_result_title": "First Assembly of God, Pecos | Pecos TX - Facebook",
-  "website": "https://www.facebook.com/1stAGPecos/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The title and snippet match the church name exactly, and the location is Pecos which matches the IRS record.",
-  "match_type": "social_media"
+  "latitude": 31.40260887145996,
+  "longitude": -103.50437927246094,
+  "geocode_source": "overture_maps",
+  "google_result_title": "FIRST ASSEMBLY OF GOD",
+  "website": "http://www.pecosassemblyofgod.com/",
+  "website_hostname": "pecosassemblyofgod.com",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

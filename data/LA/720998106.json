@@ -4,9 +4,12 @@
   "irs_city": "RINGGOLD",
   "irs_state": "LA",
   "irs_zip": "71068-0000",
-  "google_result_title": "Springhill CME Church | Ringgold LA - Facebook",
-  "website": "https://www.facebook.com/p/Springhill-CME-Church-100064534128419/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches exactly and the location (Ringgold, LA) aligns with the IRS record.",
-  "match_type": "social_media"
+  "latitude": 32.50645637512207,
+  "longitude": -92.67826843261719,
+  "geocode_source": "overture_maps",
+  "google_result_title": "Springhill CME Church building",
+  "website": "https://cmespringhill.org/",
+  "website_hostname": "cmespringhill.org",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

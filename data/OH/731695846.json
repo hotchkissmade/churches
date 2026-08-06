@@ -4,12 +4,12 @@
   "irs_city": "COLUMBUS",
   "irs_state": "OH",
   "irs_zip": "43223-1008",
-  "latitude": 39.947862691876,
-  "longitude": -83.058658492528,
-  "geocode_source": "address",
-  "google_result_title": "The Home Church | Columbus OH - Facebook",
-  "website": "https://www.facebook.com/TheHomeChurch/",
-  "website_hostname": "facebook.com",
-  "match_reason": "Name matches exactly with 'THE HOME CHURCH' and location is in the same city of Columbus, OH.",
-  "match_type": "social_media"
+  "latitude": 39.918867111206055,
+  "longitude": -82.93581771850586,
+  "geocode_source": "overture_maps",
+  "google_result_title": "The Home Church",
+  "website": "https://www.thehomechurch.info/",
+  "website_hostname": "thehomechurch.info",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

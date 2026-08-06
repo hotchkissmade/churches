@@ -4,12 +4,12 @@
   "irs_city": "HOUSTON",
   "irs_state": "TX",
   "irs_zip": "77033-2144",
-  "latitude": 29.666404906763,
-  "longitude": -95.329704658324,
-  "geocode_source": "address",
-  "google_result_title": "Houston Central Seventh-day Adventist Church - Facebook",
-  "website": "https://www.facebook.com/houstoncentralsda/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The title and snippet clearly identify the page as belonging to the Houston Central Seventh-day Adventist Church, which is a plausible match for the given IRS name.",
-  "match_type": "social_media"
+  "latitude": 29.907562255859375,
+  "longitude": -95.55680084228516,
+  "geocode_source": "overture_maps",
+  "google_result_title": "Homepage - Houston Central SDA",
+  "website": "https://houstoncentralsda.org/",
+  "website_hostname": "houstoncentralsda.org",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

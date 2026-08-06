@@ -4,12 +4,12 @@
   "irs_city": "KALAMAZOO",
   "irs_state": "MI",
   "irs_zip": "49001-5738",
-  "latitude": 42.279556121078,
-  "longitude": -85.567735508179,
-  "geocode_source": "address",
-  "google_result_title": "Edison Chapel (@edisonchapel) - Facebook",
-  "website": "https://www.facebook.com/edisonchapel/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches exactly and the location is in Kalamazoo, MI.",
-  "match_type": "social_media"
+  "latitude": 42.27811622619629,
+  "longitude": -85.56519317626953,
+  "geocode_source": "overture_maps",
+  "google_result_title": "EDISON CHAPEL",
+  "website": "http://www.edisonchapel.com/",
+  "website_hostname": "edisonchapel.com",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

@@ -4,9 +4,12 @@
   "irs_city": "FLORENCE",
   "irs_state": "MS",
   "irs_zip": "39073-0009",
-  "google_result_title": "The Congregational Methodist Church | Florence MS - Facebook",
-  "website": "https://www.facebook.com/p/The-Congregational-Methodist-Church-100064332653904/",
-  "website_hostname": "facebook.com",
-  "match_reason": "Name matches exactly and location is the same city as IRS record",
-  "match_type": "social_media"
+  "latitude": 32.15763282775879,
+  "longitude": -90.11465835571289,
+  "geocode_source": "overture_maps",
+  "google_result_title": "Congregational Methodist Church",
+  "website": "https://cm-church.org/",
+  "website_hostname": "cm-church.org",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

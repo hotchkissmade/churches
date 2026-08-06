@@ -4,12 +4,12 @@
   "irs_city": "EL PASO",
   "irs_state": "TX",
   "irs_zip": "79922-1403",
-  "latitude": 31.804857824159,
-  "longitude": -106.542853216408,
-  "geocode_source": "address",
-  "google_result_title": "Mount Zion El Paso - Facebook",
-  "website": "https://www.facebook.com/mzbcep/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches exactly, and the location (El Paso) aligns with the IRS record.",
-  "match_type": "social_media"
+  "latitude": 31.780517578125,
+  "longitude": -106.45368957519531,
+  "geocode_source": "overture_maps",
+  "google_result_title": "MOUNT ZION MINISTRIES OF EL PASO",
+  "website": "http://mountzionelpaso.org/",
+  "website_hostname": "mountzionelpaso.org",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

@@ -4,12 +4,12 @@
   "irs_city": "TOLAR",
   "irs_state": "TX",
   "irs_zip": "76476-1200",
-  "latitude": 32.395928226758,
-  "longitude": -97.927875592698,
-  "geocode_source": "address",
-  "google_result_title": "Glory Gathering | Tolar TX - Facebook",
-  "website": "https://www.facebook.com/glorygathering.net/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches exactly and the location is the same city as the IRS record.",
-  "match_type": "social_media"
+  "latitude": 32.39597129821777,
+  "longitude": -97.92805480957031,
+  "geocode_source": "overture_maps",
+  "google_result_title": "GLORY GATHERING",
+  "website": "http://glorygathering.net/",
+  "website_hostname": "glorygathering.net",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

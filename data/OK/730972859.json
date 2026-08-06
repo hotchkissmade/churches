@@ -4,9 +4,12 @@
   "irs_city": "CLAYTON",
   "irs_state": "OK",
   "irs_zip": "74536-0000",
-  "google_result_title": "Minnetonka Christian Camp (@minnetonkacamp) - Instagram",
-  "website": "https://www.instagram.com/minnetonkacamp/",
-  "website_hostname": "instagram.com",
-  "match_reason": "The title matches the church name exactly and the snippet mentions Clayton, which is the correct city.",
-  "match_type": "social_media"
+  "latitude": 34.567312240600586,
+  "longitude": -95.33872985839844,
+  "geocode_source": "overture_maps",
+  "google_result_title": "MINNETONKA CHRISTIAN CAMP INC",
+  "website": "http://minnetonkacamp.com/",
+  "website_hostname": "minnetonkacamp.com",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

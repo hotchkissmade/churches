@@ -4,9 +4,12 @@
   "irs_city": "RAMONA",
   "irs_state": "OK",
   "irs_zip": "74061-0000",
-  "google_result_title": "Ramona church of Christ - Facebook",
-  "website": "https://www.facebook.com/Ramonacofc/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches exactly and the location is Ramona, OK which matches the IRS record.",
-  "match_type": "social_media"
+  "latitude": 36.53126907348633,
+  "longitude": -95.91991424560547,
+  "geocode_source": "overture_maps",
+  "google_result_title": "CHURCH OF CHRIST OF RAMONA",
+  "website": "http://ramonacofc.com/",
+  "website_hostname": "ramonacofc.com",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

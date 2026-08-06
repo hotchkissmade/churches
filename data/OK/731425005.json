@@ -4,9 +4,12 @@
   "irs_city": "MIDWEST CITY",
   "irs_state": "OK",
   "irs_zip": "73140-1437",
-  "google_result_title": "Christ Gospel Church of Midwest City, OK - Facebook",
-  "website": "https://www.facebook.com/cgmwc/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The title and snippet match the church name exactly, and the location is the same city as listed in the IRS record.",
-  "match_type": "social_media"
+  "latitude": 35.43833351135254,
+  "longitude": -97.39312744140625,
+  "geocode_source": "overture_maps",
+  "google_result_title": "Christ Gospel Church of Midwest City, OK - Wix.com",
+  "website": "https://cgcmwc.wixsite.com/cgcmwc",
+  "website_hostname": "cgcmwc.wixsite.com",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

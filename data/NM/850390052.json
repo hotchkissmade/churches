@@ -4,9 +4,12 @@
   "irs_city": "ROSWELL",
   "irs_state": "NM",
   "irs_zip": "88202-5985",
-  "google_result_title": "New Life Church of Roswell - Facebook",
-  "website": "https://www.facebook.com/NewLifeChurchofRoswell/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches exactly and the location is in Roswell, which is consistent with the IRS record.",
-  "match_type": "social_media"
+  "latitude": 33.3867301940918,
+  "longitude": -104.55133056640625,
+  "geocode_source": "overture_maps",
+  "google_result_title": "New Life Church of Roswell: Home",
+  "website": "https://www.newlife-roswell.org/",
+  "website_hostname": "newlife-roswell.org",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

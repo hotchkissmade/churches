@@ -4,12 +4,12 @@
   "irs_city": "SAN FRANCISCO",
   "irs_state": "CA",
   "irs_zip": "94122-1812",
-  "latitude": 37.761974861591,
-  "longitude": -122.476921406921,
-  "geocode_source": "address",
-  "google_result_title": "19th Avenue Japanese Baptist Church | San Francisco CA - Facebook",
-  "website": "https://www.facebook.com/19thjbc/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name and address match exactly.",
-  "match_type": "social_media"
+  "latitude": 37.76199531555176,
+  "longitude": -122.47691345214844,
+  "geocode_source": "overture_maps",
+  "google_result_title": "19TH AVE JAPANESE BAPTIST CHURCH",
+  "website": "http://www.sf19thjbc.com/",
+  "website_hostname": "sf19thjbc.com",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

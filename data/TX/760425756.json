@@ -4,12 +4,12 @@
   "irs_city": "DAYTON",
   "irs_state": "TX",
   "irs_zip": "77535-5929",
-  "latitude": 30.046311433127,
-  "longitude": -94.917137742616,
-  "geocode_source": "address",
-  "google_result_title": "Dayton First Assembly of God - Facebook",
-  "website": "https://www.facebook.com/DaytonFirstAG/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name and location match exactly.",
-  "match_type": "social_media"
+  "latitude": 30.02354621887207,
+  "longitude": -95.09408569335938,
+  "geocode_source": "overture_maps",
+  "google_result_title": "Dayton First Assembly of God",
+  "website": "https://www.daytonfirst.com/",
+  "website_hostname": "daytonfirst.com",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

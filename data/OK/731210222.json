@@ -4,9 +4,12 @@
   "irs_city": "WYNONA",
   "irs_state": "OK",
   "irs_zip": "74084-0483",
-  "google_result_title": "Wynona Assembly of God - Facebook",
-  "website": "https://www.facebook.com/WynonaAssemblyofGod/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches exactly and the location (Wynona, OK) matches the IRS record.",
-  "match_type": "social_media"
+  "latitude": 36.54694175720215,
+  "longitude": -96.32978057861328,
+  "geocode_source": "overture_maps",
+  "google_result_title": "Wynona Assembly of God",
+  "website": "https://wynonaassemblyofgod.com/",
+  "website_hostname": "wynonaassemblyofgod.com",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

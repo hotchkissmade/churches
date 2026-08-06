@@ -4,12 +4,12 @@
   "irs_city": "NEW ORLEANS",
   "irs_state": "LA",
   "irs_zip": "70113-1744",
-  "latitude": 29.935420419383,
-  "longitude": -90.087059558037,
-  "geocode_source": "address",
-  "google_result_title": "First Christian Church of Greater New Orleans | Metairie LA",
-  "website": "https://www.facebook.com/FCCGNO/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches exactly and Metairie is adjacent to New Orleans.",
-  "match_type": "social_media"
+  "latitude": 29.979215621948242,
+  "longitude": -90.22586059570312,
+  "geocode_source": "overture_maps",
+  "google_result_title": "FIRST CHRISTIAN CHURCH OF GREATER NEW ORLEANS",
+  "website": "http://www.fcc-greaterneworleans.org/",
+  "website_hostname": "fcc-greaterneworleans.org",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

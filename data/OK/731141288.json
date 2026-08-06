@@ -4,9 +4,12 @@
   "irs_city": "MANNFORD",
   "irs_state": "OK",
   "irs_zip": "74044-0203",
-  "google_result_title": "Mannford Assembly - Facebook",
-  "website": "https://www.facebook.com/mannfordag/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches exactly and the location is the same city.",
-  "match_type": "social_media"
+  "latitude": 36.11971664428711,
+  "longitude": -96.35325622558594,
+  "geocode_source": "overture_maps",
+  "google_result_title": "Mannford Assembly of God",
+  "website": "https://www.mannfordag.org/",
+  "website_hostname": "mannfordag.org",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

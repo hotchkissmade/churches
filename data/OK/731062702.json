@@ -4,12 +4,12 @@
   "irs_city": "SKIATOOK",
   "irs_state": "OK",
   "irs_zip": "74070-3965",
-  "latitude": 36.366417073368,
-  "longitude": -96.031246908262,
-  "geocode_source": "address",
-  "google_result_title": "Skiatook Church of the Nazarene - Facebook",
-  "website": "https://www.facebook.com/SkiatookNazarene/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name in the title/snippet matches exactly and the location is Skiatook, which is the same city as in the IRS record.",
-  "match_type": "social_media"
+  "latitude": 36.364389419555664,
+  "longitude": -96.03109741210938,
+  "geocode_source": "overture_maps",
+  "google_result_title": "SKIATOOK CHURCH OF THE NAZARENE",
+  "website": "http://www.skiatooknaz.org/",
+  "website_hostname": "skiatooknaz.org",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

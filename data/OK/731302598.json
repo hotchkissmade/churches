@@ -4,9 +4,12 @@
   "irs_city": "BARNSDALL",
   "irs_state": "OK",
   "irs_zip": "74002-0573",
-  "google_result_title": "Barnsdall Assembly of God - Facebook",
-  "website": "https://www.facebook.com/BarnsdallAssembly/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches exactly, and the location (Barnsdall) is the same as the IRS record.",
-  "match_type": "social_media"
+  "latitude": 36.56247138977051,
+  "longitude": -96.15898895263672,
+  "geocode_source": "overture_maps",
+  "google_result_title": "ASSEMBLY OF GOD",
+  "website": "http://www.barnsdallassembly.com/",
+  "website_hostname": "barnsdallassembly.com",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

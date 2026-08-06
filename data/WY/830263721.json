@@ -4,12 +4,12 @@
   "irs_city": "FORT BRIDGER",
   "irs_state": "WY",
   "irs_zip": "82933-0000",
-  "latitude": 41.321383787814,
-  "longitude": -110.384183323179,
-  "geocode_source": "address",
-  "google_result_title": "Shepherd of the Valley Lutheran Church | Fort Bridger WY - Facebook",
-  "website": "https://www.facebook.com/p/Shepherd-of-the-Valley-Lutheran-Church-100079616300319/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The name matches exactly, and the location is the same city as in the IRS record.",
-  "match_type": "social_media"
+  "latitude": 45.53571319580078,
+  "longitude": -122.85670471191406,
+  "geocode_source": "overture_maps",
+  "google_result_title": "SHEPHERD OF THE VALLEY LUTHERAN CHURCH",
+  "website": "http://www.sovlutheran.com/",
+  "website_hostname": "sovlutheran.com",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }

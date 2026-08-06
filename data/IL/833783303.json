@@ -4,12 +4,12 @@
   "irs_city": "CHICAGO",
   "irs_state": "IL",
   "irs_zip": "60647-2902",
-  "latitude": 41.922457696304,
-  "longitude": -87.700824362949,
-  "geocode_source": "address",
-  "google_result_title": "Beloved Community Church | Chicago IL - Facebook",
-  "website": "https://www.facebook.com/BelovedComChurch/",
-  "website_hostname": "facebook.com",
-  "match_reason": "The title and snippet match the church name exactly, and Chicago is the correct city.",
-  "match_type": "social_media"
+  "latitude": 41.89284133911133,
+  "longitude": -87.68203353881836,
+  "geocode_source": "overture_maps",
+  "google_result_title": "BELOVED COMMUNITY CHURCH",
+  "website": "http://www.belovedcommunity.church/",
+  "website_hostname": "belovedcommunity.church",
+  "match_reason": "Extracted website from a social media profile match",
+  "match_type": "website"
 }
