@@ -1,288 +1,345 @@
 {
-  "last_updated": "2026-10-04T16:00:40.514Z",
-  "total_churches": 135802,
-  "total_with_website": 117804,
-  "total_with_social_media": 17998,
+  "last_updated": "2026-10-05T16:00:43.471Z",
+  "total_churches": 136301,
+  "total_with_website": 117996,
+  "total_with_social_media": 18305,
+  "total_with_denominational": 0,
   "by_state": {
     "CA": {
-      "total": 12853,
-      "website": 11512,
-      "social_media": 1341
+      "total": 12892,
+      "website": 11524,
+      "social_media": 1368,
+      "denominational": 0
     },
     "WA": {
-      "total": 3115,
+      "total": 3118,
       "website": 2872,
-      "social_media": 243
+      "social_media": 246,
+      "denominational": 0
     },
     "OR": {
-      "total": 1852,
-      "website": 1697,
-      "social_media": 155
+      "total": 1860,
+      "website": 1704,
+      "social_media": 156,
+      "denominational": 0
     },
     "SC": {
-      "total": 3778,
-      "website": 3058,
-      "social_media": 720
+      "total": 3788,
+      "website": 3059,
+      "social_media": 729,
+      "denominational": 0
     },
     "NC": {
-      "total": 4469,
-      "website": 3746,
-      "social_media": 723
+      "total": 4490,
+      "website": 3755,
+      "social_media": 735,
+      "denominational": 0
     },
     "VA": {
-      "total": 3876,
-      "website": 3303,
-      "social_media": 573
+      "total": 3990,
+      "website": 3408,
+      "social_media": 582,
+      "denominational": 0
     },
     "WV": {
-      "total": 812,
-      "website": 604,
-      "social_media": 208
+      "total": 826,
+      "website": 615,
+      "social_media": 211,
+      "denominational": 0
     },
     "FL": {
-      "total": 8261,
-      "website": 7182,
-      "social_media": 1079
+      "total": 8346,
+      "website": 7244,
+      "social_media": 1102,
+      "denominational": 0
     },
     "AL": {
-      "total": 1726,
-      "website": 1343,
-      "social_media": 383
+      "total": 1754,
+      "website": 1368,
+      "social_media": 386,
+      "denominational": 0
     },
     "GA": {
-      "total": 5066,
-      "website": 4238,
-      "social_media": 828
+      "total": 5095,
+      "website": 4259,
+      "social_media": 836,
+      "denominational": 0
     },
     "TN": {
-      "total": 2330,
-      "website": 1967,
-      "social_media": 363
+      "total": 2350,
+      "website": 1976,
+      "social_media": 374,
+      "denominational": 0
     },
     "LA": {
-      "total": 1677,
-      "website": 1312,
-      "social_media": 365
+      "total": 1700,
+      "website": 1328,
+      "social_media": 372,
+      "denominational": 0
     },
     "MS": {
-      "total": 982,
-      "website": 702,
-      "social_media": 280
+      "total": 985,
+      "website": 700,
+      "social_media": 285,
+      "denominational": 0
     },
     "AR": {
-      "total": 1205,
-      "website": 927,
-      "social_media": 278
+      "total": 1212,
+      "website": 933,
+      "social_media": 279,
+      "denominational": 0
     },
     "OK": {
-      "total": 1638,
-      "website": 1346,
-      "social_media": 292
+      "total": 1644,
+      "website": 1349,
+      "social_media": 295,
+      "denominational": 0
     },
     "TX": {
-      "total": 11528,
-      "website": 9767,
-      "social_media": 1761
+      "total": 11612,
+      "website": 9819,
+      "social_media": 1793,
+      "denominational": 0
     },
     "IN": {
-      "total": 3515,
-      "website": 3077,
-      "social_media": 438
+      "total": 3541,
+      "website": 3091,
+      "social_media": 450,
+      "denominational": 0
     },
     "MN": {
-      "total": 3067,
-      "website": 2818,
-      "social_media": 249
+      "total": 3061,
+      "website": 2808,
+      "social_media": 253,
+      "denominational": 0
     },
     "SD": {
-      "total": 615,
-      "website": 537,
-      "social_media": 78
+      "total": 593,
+      "website": 512,
+      "social_media": 81,
+      "denominational": 0
     },
     "IL": {
-      "total": 5930,
-      "website": 5162,
-      "social_media": 768
+      "total": 5914,
+      "website": 5137,
+      "social_media": 777,
+      "denominational": 0
     },
     "MI": {
-      "total": 4771,
-      "website": 4288,
-      "social_media": 483
+      "total": 4754,
+      "website": 4266,
+      "social_media": 488,
+      "denominational": 0
     },
     "IA": {
-      "total": 1899,
-      "website": 1706,
-      "social_media": 193
+      "total": 1818,
+      "website": 1624,
+      "social_media": 194,
+      "denominational": 0
     },
     "OH": {
-      "total": 5639,
-      "website": 4895,
-      "social_media": 744
+      "total": 5657,
+      "website": 4894,
+      "social_media": 763,
+      "denominational": 0
     },
     "WI": {
-      "total": 2804,
-      "website": 2624,
-      "social_media": 180
+      "total": 2786,
+      "website": 2603,
+      "social_media": 183,
+      "denominational": 0
     },
     "NE": {
-      "total": 1180,
-      "website": 1009,
-      "social_media": 171
+      "total": 1153,
+      "website": 979,
+      "social_media": 174,
+      "denominational": 0
     },
     "ND": {
-      "total": 609,
-      "website": 519,
-      "social_media": 90
+      "total": 601,
+      "website": 511,
+      "social_media": 90,
+      "denominational": 0
     },
     "MT": {
-      "total": 661,
-      "website": 610,
-      "social_media": 51
+      "total": 654,
+      "website": 598,
+      "social_media": 56,
+      "denominational": 0
     },
     "MO": {
-      "total": 4089,
-      "website": 3375,
-      "social_media": 714
+      "total": 4084,
+      "website": 3367,
+      "social_media": 717,
+      "denominational": 0
     },
     "KS": {
-      "total": 1820,
-      "website": 1581,
-      "social_media": 239
+      "total": 1806,
+      "website": 1565,
+      "social_media": 241,
+      "denominational": 0
     },
     "MA": {
-      "total": 1940,
-      "website": 1761,
-      "social_media": 179
+      "total": 1977,
+      "website": 1791,
+      "social_media": 186,
+      "denominational": 0
     },
     "NY": {
-      "total": 6537,
-      "website": 5644,
-      "social_media": 893
+      "total": 6572,
+      "website": 5663,
+      "social_media": 909,
+      "denominational": 0
     },
     "ME": {
-      "total": 441,
-      "website": 381,
-      "social_media": 60
+      "total": 453,
+      "website": 392,
+      "social_media": 61,
+      "denominational": 0
     },
     "VT": {
       "total": 213,
       "website": 203,
-      "social_media": 10
+      "social_media": 10,
+      "denominational": 0
     },
     "CT": {
-      "total": 1302,
-      "website": 1148,
-      "social_media": 154
+      "total": 1313,
+      "website": 1158,
+      "social_media": 155,
+      "denominational": 0
     },
     "NH": {
-      "total": 462,
-      "website": 440,
-      "social_media": 22
+      "total": 463,
+      "website": 441,
+      "social_media": 22,
+      "denominational": 0
     },
     "NJ": {
-      "total": 2962,
-      "website": 2610,
-      "social_media": 352
+      "total": 2961,
+      "website": 2602,
+      "social_media": 359,
+      "denominational": 0
     },
     "MD": {
-      "total": 3286,
-      "website": 2899,
-      "social_media": 387
+      "total": 3319,
+      "website": 2923,
+      "social_media": 396,
+      "denominational": 0
     },
     "DC": {
-      "total": 447,
-      "website": 414,
-      "social_media": 33
+      "total": 448,
+      "website": 415,
+      "social_media": 33,
+      "denominational": 0
     },
     "PA": {
-      "total": 5604,
-      "website": 4902,
-      "social_media": 702
+      "total": 5629,
+      "website": 4906,
+      "social_media": 723,
+      "denominational": 0
     },
     "DE": {
-      "total": 418,
-      "website": 361,
-      "social_media": 57
+      "total": 422,
+      "website": 364,
+      "social_media": 58,
+      "denominational": 0
     },
     "UT": {
-      "total": 360,
-      "website": 339,
-      "social_media": 21
+      "total": 363,
+      "website": 342,
+      "social_media": 21,
+      "denominational": 0
     },
     "NV": {
-      "total": 683,
-      "website": 586,
-      "social_media": 97
+      "total": 684,
+      "website": 587,
+      "social_media": 97,
+      "denominational": 0
     },
     "CO": {
-      "total": 2192,
-      "website": 2051,
-      "social_media": 141
+      "total": 2195,
+      "website": 2049,
+      "social_media": 146,
+      "denominational": 0
     },
     "NM": {
-      "total": 942,
-      "website": 817,
-      "social_media": 125
+      "total": 941,
+      "website": 813,
+      "social_media": 128,
+      "denominational": 0
     },
     "ID": {
-      "total": 604,
-      "website": 560,
-      "social_media": 44
+      "total": 601,
+      "website": 557,
+      "social_media": 44,
+      "denominational": 0
     },
     "AZ": {
-      "total": 2054,
-      "website": 1868,
-      "social_media": 186
+      "total": 2051,
+      "website": 1864,
+      "social_media": 187,
+      "denominational": 0
     },
     "WY": {
-      "total": 295,
-      "website": 271,
-      "social_media": 24
+      "total": 285,
+      "website": 261,
+      "social_media": 24,
+      "denominational": 0
     },
     "GU": {
       "total": 15,
       "website": 15,
-      "social_media": 0
+      "social_media": 0,
+      "denominational": 0
     },
     "MP": {
       "total": 14,
       "website": 13,
-      "social_media": 1
+      "social_media": 1,
+      "denominational": 0
     },
     "HI": {
-      "total": 669,
-      "website": 612,
-      "social_media": 57
+      "total": 676,
+      "website": 618,
+      "social_media": 58,
+      "denominational": 0
     },
     "AK": {
-      "total": 475,
+      "total": 477,
       "website": 413,
-      "social_media": 62
+      "social_media": 64,
+      "denominational": 0
     },
     "RI": {
       "total": 397,
       "website": 353,
-      "social_media": 44
+      "social_media": 44,
+      "denominational": 0
     },
     "KY": {
-      "total": 1510,
-      "website": 1221,
-      "social_media": 289
+      "total": 1527,
+      "website": 1234,
+      "social_media": 293,
+      "denominational": 0
     },
     "PR": {
-      "total": 130,
-      "website": 75,
-      "social_media": 55
+      "total": 136,
+      "website": 79,
+      "social_media": 57,
+      "denominational": 0
     },
     "VI": {
-      "total": 29,
-      "website": 22,
-      "social_media": 7
+      "total": 30,
+      "website": 23,
+      "social_media": 7,
+      "denominational": 0
     },
     "AS": {
       "total": 4,
       "website": 4,
-      "social_media": 0
+      "social_media": 0,
+      "denominational": 0
     }
   }
 }
