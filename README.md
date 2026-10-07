@@ -19,11 +19,11 @@ Hotchkissmade is building the open-source database of US Churches. Starting with
 <!-- STATS_START -->
 | Metric | Count |
 |--------|-------|
-| Churches with website | 119,353 |
-| Churches with social media | 18,586 |
-| **Total** | **137,939** |
+| Churches with website | 119,373 |
+| Churches with social media | 18,592 |
+| **Total** | **137,965** |
 
-*Last updated: 2026-10-06*
+*Last updated: 2026-10-07*
 <!-- STATS_END -->
 
 ## What's in a record
