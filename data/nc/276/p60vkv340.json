@@ -1,0 +1,33 @@
+{
+  "id": "p60vkv340",
+  "url": "https://constellation.church/p60vkv340",
+  "name": "St Philip Lutheran Church",
+  "displayName": "St. Philip Lutheran Church",
+  "address": {
+    "street": "7304 Falls of the Neuse Rd",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27615"
+  },
+  "coordinates": {
+    "latitude": 35.88446617126465,
+    "longitude": -78.62601470947266
+  },
+  "website": "https://st-philip.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e407331f-fe22-4767-b32e-b3512ed59c07",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e407331f-fe22-4767-b32e-b3512ed59c07"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "st-philip.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561155861"
+    }
+  ],
+  "advisories": []
+}

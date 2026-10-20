@@ -1,0 +1,33 @@
+{
+  "id": "npqa3nt62",
+  "url": "https://constellation.church/npqa3nt62",
+  "name": "Trinity Church",
+  "displayName": "Trinity Church",
+  "address": {
+    "street": "1 Queen Anne Sq",
+    "city": "Newport",
+    "state": "RI",
+    "zip": "02840-6855"
+  },
+  "coordinates": {
+    "latitude": 41.48725509643555,
+    "longitude": -71.31302261352539
+  },
+  "website": "https://trinitynewport.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-rhode-island/list/trinity-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-rhode-island/trinity-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitynewport.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "050262104"
+    }
+  ],
+  "advisories": []
+}

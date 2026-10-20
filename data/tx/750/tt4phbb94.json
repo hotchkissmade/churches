@@ -1,0 +1,33 @@
+{
+  "id": "tt4phbb94",
+  "url": "https://constellation.church/tt4phbb94",
+  "name": "First Baptist Church of Allen",
+  "displayName": "First Baptist Church of Allen",
+  "address": {
+    "street": "201 E MCDERMOTT DR",
+    "city": "ALLEN",
+    "state": "TX",
+    "zip": "75002"
+  },
+  "coordinates": {
+    "latitude": 33.1018009185791,
+    "longitude": -96.66842651367188
+  },
+  "website": "https://fbcallen.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-allen/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-allen"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcallen.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751321109"
+    }
+  ],
+  "advisories": []
+}

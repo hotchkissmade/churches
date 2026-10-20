@@ -1,0 +1,33 @@
+{
+  "id": "h9np4xy25",
+  "url": "https://constellation.church/h9np4xy25",
+  "name": "Hill Lutheran Church",
+  "displayName": "Hill Lutheran Church",
+  "address": {
+    "street": "998 N Mill St",
+    "city": "Lebanon",
+    "state": "PA",
+    "zip": "17046-9335"
+  },
+  "coordinates": {
+    "latitude": 40.34378433227539,
+    "longitude": -76.48884582519531
+  },
+  "website": "https://hlc.worthyofpraise.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fbe6b381-8a39-4942-9a2b-a97265020a74",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fbe6b381-8a39-4942-9a2b-a97265020a74"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hlc.worthyofpraise.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236396085"
+    }
+  ],
+  "advisories": []
+}

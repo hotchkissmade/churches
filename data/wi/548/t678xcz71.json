@@ -1,0 +1,33 @@
+{
+  "id": "t678xcz71",
+  "url": "https://constellation.church/t678xcz71",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "10394 State Road 70",
+    "city": "Siren",
+    "state": "WI",
+    "zip": "54872-8520"
+  },
+  "coordinates": {
+    "latitude": 45.772071838378906,
+    "longitude": -92.51881408691406
+  },
+  "website": "https://tlcfalun.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=df50ceb8-5684-426c-b38f-feb0e0bf4636",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "df50ceb8-5684-426c-b38f-feb0e0bf4636"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcfalun.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391464300"
+    }
+  ],
+  "advisories": []
+}

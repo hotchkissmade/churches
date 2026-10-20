@@ -1,0 +1,33 @@
+{
+  "id": "emmnpa611",
+  "url": "https://constellation.church/emmnpa611",
+  "name": "New Song Community Church",
+  "displayName": "New Song Community Church",
+  "address": {
+    "street": "1292 Baker St",
+    "city": "Plymouth",
+    "state": "IN",
+    "zip": "46563"
+  },
+  "coordinates": {
+    "latitude": 41.34663009643555,
+    "longitude": -86.29138946533203
+  },
+  "website": "https://mynsc.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f3b4e456-3f16-4490-9a80-5360fffa31e6&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f3b4e456-3f16-4490-9a80-5360fffa31e6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mynsc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900171475"
+    }
+  ],
+  "advisories": []
+}

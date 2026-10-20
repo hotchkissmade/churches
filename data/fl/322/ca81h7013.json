@@ -1,0 +1,33 @@
+{
+  "id": "ca81h7013",
+  "url": "https://constellation.church/ca81h7013",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "1950 Silver St",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32206-3650"
+  },
+  "coordinates": {
+    "latitude": 30.348461151123047,
+    "longitude": -81.65694808959961
+  },
+  "website": "https://stjohnsjax.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c9389458-9c89-4514-8e60-22bf0b1f1a9a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c9389458-9c89-4514-8e60-22bf0b1f1a9a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsjax.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590651102"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "smbnfrb23",
+  "url": "https://constellation.church/smbnfrb23",
+  "name": "Mt Zion-St Luke Lutheran Church",
+  "displayName": "Mount Zion-St Luke Lutheran Church",
+  "address": {
+    "street": "401 Randolph St",
+    "city": "Oglethorpe",
+    "state": "GA",
+    "zip": "31068"
+  },
+  "coordinates": {
+    "latitude": 32.29501152038574,
+    "longitude": -84.06563186645508
+  },
+  "website": "https://mzsl.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=58a30efe-96d0-4920-b1f9-cba47d948fea",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "58a30efe-96d0-4920-b1f9-cba47d948fea"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mzsl.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581711900"
+    }
+  ],
+  "advisories": []
+}

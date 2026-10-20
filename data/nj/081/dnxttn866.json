@@ -1,0 +1,33 @@
+{
+  "id": "dnxttn866",
+  "url": "https://constellation.church/dnxttn866",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "10 W Maple Ave",
+    "city": "Merchantville",
+    "state": "NJ",
+    "zip": "08109"
+  },
+  "coordinates": {
+    "latitude": 39.950212478637695,
+    "longitude": -75.04894638061523
+  },
+  "website": "https://fpcmerchantville.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/5050/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "5050"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcmerchantville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "210634567"
+    }
+  ],
+  "advisories": []
+}

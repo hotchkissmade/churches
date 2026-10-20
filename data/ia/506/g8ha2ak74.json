@@ -1,0 +1,33 @@
+{
+  "id": "g8ha2ak74",
+  "url": "https://constellation.church/g8ha2ak74",
+  "name": "American Lutheran Church",
+  "displayName": "American Lutheran Church",
+  "address": {
+    "street": "1103 F Ave",
+    "city": "Grundy Center",
+    "state": "IA",
+    "zip": "50638-1030"
+  },
+  "coordinates": {
+    "latitude": 42.36271667480469,
+    "longitude": -92.77828979492188
+  },
+  "website": "https://alcgc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b4df24f2-eb74-4101-974f-fd68a11cd386",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b4df24f2-eb74-4101-974f-fd68a11cd386"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "alcgc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420886967"
+    }
+  ],
+  "advisories": []
+}

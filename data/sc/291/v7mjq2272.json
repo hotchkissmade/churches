@@ -1,0 +1,33 @@
+{
+  "id": "v7mjq2272",
+  "url": "https://constellation.church/v7mjq2272",
+  "name": "Green Hill Baptist Church",
+  "displayName": "Green Hill Baptist Church",
+  "address": {
+    "street": "1734 Augusta Rd",
+    "city": "West Columbia",
+    "state": "SC",
+    "zip": "29169"
+  },
+  "coordinates": {
+    "latitude": 33.98599815368652,
+    "longitude": -81.0831413269043
+  },
+  "website": "https://greenhillbc.org",
+  "listingUrl": "https://churches.sbc.net/church/green-hill-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "green-hill-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "greenhillbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570508460"
+    }
+  ],
+  "advisories": []
+}

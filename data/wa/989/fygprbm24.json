@@ -1,0 +1,33 @@
+{
+  "id": "fygprbm24",
+  "url": "https://constellation.church/fygprbm24",
+  "name": "Stone Church of the Assemblies of God",
+  "displayName": "Stone Church of the Assemblies of God",
+  "address": {
+    "street": "3303 Englewood Ave",
+    "city": "Yakima",
+    "state": "WA",
+    "zip": "98902"
+  },
+  "coordinates": {
+    "latitude": 46.60775375366211,
+    "longitude": -120.55300903320312
+  },
+  "website": "https://stonechurch.us",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=31f6f459-b1c3-45dd-823c-4c195433eca6&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "31f6f459-b1c3-45dd-823c-4c195433eca6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stonechurch.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910699380"
+    }
+  ],
+  "advisories": []
+}

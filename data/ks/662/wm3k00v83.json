@@ -1,0 +1,33 @@
+{
+  "id": "wm3k00v83",
+  "url": "https://constellation.church/wm3k00v83",
+  "name": "Lenexa Baptist Church",
+  "displayName": "Lenexa Baptist Church",
+  "address": {
+    "street": "15320 W 87th Street Pkwy",
+    "city": "Lenexa",
+    "state": "KS",
+    "zip": "66219"
+  },
+  "coordinates": {
+    "latitude": 38.97203063964844,
+    "longitude": -94.76416015625
+  },
+  "website": "https://lenexabaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/lenexa-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lenexa-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lenexabaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "481088165"
+    }
+  ],
+  "advisories": []
+}

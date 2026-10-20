@@ -1,0 +1,33 @@
+{
+  "id": "ebcvsnk08",
+  "url": "https://constellation.church/ebcvsnk08",
+  "name": "Mendham United Methodist Church",
+  "displayName": "Mendham United Methodist Church",
+  "address": {
+    "street": "10 E Main St",
+    "city": "Mendham",
+    "state": "NJ",
+    "zip": "07945-1505"
+  },
+  "coordinates": {
+    "latitude": 40.77629470825195,
+    "longitude": -74.59977340698242
+  },
+  "website": "https://mendhamumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFAr6IAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFAr6IAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mendhamumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222480756"
+    }
+  ],
+  "advisories": []
+}

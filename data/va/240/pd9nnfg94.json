@@ -1,0 +1,33 @@
+{
+  "id": "pd9nnfg94",
+  "url": "https://constellation.church/pd9nnfg94",
+  "name": "St Philip Lutheran Church",
+  "displayName": "St. Philip Lutheran Church",
+  "address": {
+    "street": "8115 Williamson Rd",
+    "city": "Roanoke",
+    "state": "VA",
+    "zip": "24019-6949"
+  },
+  "coordinates": {
+    "latitude": 37.35382652282715,
+    "longitude": -79.93306350708008
+  },
+  "website": "https://stphiliplutheran.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=06686ed1-3154-444a-be1e-e01a8318dafc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "06686ed1-3154-444a-be1e-e01a8318dafc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stphiliplutheran.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541087322"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gt14mdx16",
+  "url": "https://constellation.church/gt14mdx16",
+  "name": "St. Philip's Episcopal Church",
+  "displayName": "St. Philip's Episcopal Church",
+  "address": {
+    "street": "5400 Old Canton Rd",
+    "city": "Jackson",
+    "state": "MS",
+    "zip": "39211-4277"
+  },
+  "coordinates": {
+    "latitude": 32.370798110961914,
+    "longitude": -90.13042449951172
+  },
+  "website": "https://stphilipsjackson.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-mississippi/list/st-philips-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-mississippi/st-philips-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stphilipsjackson.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "646023699"
+    }
+  ],
+  "advisories": []
+}

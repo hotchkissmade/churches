@@ -1,0 +1,33 @@
+{
+  "id": "kgdepyb21",
+  "url": "https://constellation.church/kgdepyb21",
+  "name": "Gethsemane Lutheran Church",
+  "displayName": "Gethsemane Lutheran Church",
+  "address": {
+    "street": "35 E Stanton Ave",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43214-1110"
+  },
+  "coordinates": {
+    "latitude": 40.07444381713867,
+    "longitude": -83.01763534545898
+  },
+  "website": "https://gethsemane.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=80d98d6d-c0c8-4489-b50c-1d912fa2dc10",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "80d98d6d-c0c8-4489-b50c-1d912fa2dc10"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gethsemane.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310745246"
+    }
+  ],
+  "advisories": []
+}

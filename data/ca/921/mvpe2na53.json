@@ -1,0 +1,33 @@
+{
+  "id": "mvpe2na53",
+  "url": "https://constellation.church/mvpe2na53",
+  "name": "Clairemont Lutheran Church",
+  "displayName": "Clairemont Lutheran Church",
+  "address": {
+    "street": "4271 Clairemont Mesa Blvd",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92117-2721"
+  },
+  "coordinates": {
+    "latitude": 32.83213233947754,
+    "longitude": -117.20069885253906
+  },
+  "website": "https://clairemontlc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a8fa8cf1-478d-4c62-a2e8-5895c39f3a78",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a8fa8cf1-478d-4c62-a2e8-5895c39f3a78"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clairemontlc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951945253"
+    }
+  ],
+  "advisories": []
+}

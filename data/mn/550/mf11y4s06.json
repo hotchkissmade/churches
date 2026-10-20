@@ -1,0 +1,33 @@
+{
+  "id": "mf11y4s06",
+  "url": "https://constellation.church/mf11y4s06",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "503 W 6th St",
+    "city": "Red Wing",
+    "state": "MN",
+    "zip": "55066-2608"
+  },
+  "coordinates": {
+    "latitude": 44.56117630004883,
+    "longitude": -92.53340148925781
+  },
+  "website": "https://firstpresbyterianredwing.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/3909/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "3909"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpresbyterianredwing.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410711475"
+    }
+  ],
+  "advisories": []
+}

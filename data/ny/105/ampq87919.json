@@ -1,0 +1,33 @@
+{
+  "id": "ampq87919",
+  "url": "https://constellation.church/ampq87919",
+  "name": "Church of St. Mary the Virgin, Chappaqua",
+  "displayName": "Church of St. Mary the Virgin, Chappaqua",
+  "address": {
+    "street": "191 South Greeley Ave.",
+    "city": "Chappaqua",
+    "state": "NY",
+    "zip": "10514"
+  },
+  "coordinates": {
+    "latitude": 41.15559005737305,
+    "longitude": -73.77230072021484
+  },
+  "website": "https://smtv.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-new-york/list/church-st-mary-virgin",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-new-york/church-st-mary-virgin"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "smtv.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "133343292"
+    }
+  ],
+  "advisories": []
+}

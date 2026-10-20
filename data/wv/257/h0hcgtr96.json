@@ -1,0 +1,33 @@
+{
+  "id": "h0hcgtr96",
+  "url": "https://constellation.church/h0hcgtr96",
+  "name": "Westmoreland Baptist Church",
+  "displayName": "Westmoreland Baptist Church",
+  "address": {
+    "street": "3401 Hughes St",
+    "city": "Huntington",
+    "state": "WV",
+    "zip": "25704"
+  },
+  "coordinates": {
+    "latitude": 38.40020561218262,
+    "longitude": -82.50511169433594
+  },
+  "website": "https://westmorelandsbc.com",
+  "listingUrl": "https://churches.sbc.net/church/westmoreland-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "westmoreland-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westmorelandsbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "550481469"
+    }
+  ],
+  "advisories": []
+}

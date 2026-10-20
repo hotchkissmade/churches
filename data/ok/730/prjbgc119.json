@@ -1,0 +1,33 @@
+{
+  "id": "prjbgc119",
+  "url": "https://constellation.church/prjbgc119",
+  "name": "Living Waters Church",
+  "displayName": "Living Waters Church",
+  "address": {
+    "street": "11889 Albright St",
+    "city": "Jones",
+    "state": "OK",
+    "zip": "73049"
+  },
+  "coordinates": {
+    "latitude": 35.55926513671875,
+    "longitude": -97.32062530517578
+  },
+  "website": "https://thelivingwaters.church",
+  "listingUrl": "https://churches.sbc.net/church/living-waters-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "living-waters-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thelivingwaters.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "331905873"
+    }
+  ],
+  "advisories": []
+}

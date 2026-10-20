@@ -1,0 +1,33 @@
+{
+  "id": "s36e7p184",
+  "url": "https://constellation.church/s36e7p184",
+  "name": "Harrington Baptist Church",
+  "displayName": "Harrington Baptist Church",
+  "address": {
+    "street": "111 E Liberty St",
+    "city": "Harrington",
+    "state": "DE",
+    "zip": "19952"
+  },
+  "coordinates": {
+    "latitude": 38.92488670349121,
+    "longitude": -75.5738525390625
+  },
+  "website": "https://hbclife.net",
+  "listingUrl": "https://churches.sbc.net/church/harrington-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "harrington-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hbclife.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510232197"
+    }
+  ],
+  "advisories": []
+}

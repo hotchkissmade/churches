@@ -1,0 +1,33 @@
+{
+  "id": "z9c6g0807",
+  "url": "https://constellation.church/z9c6g0807",
+  "name": "New Presbyterian Church",
+  "displayName": "New Presbyterian Church",
+  "address": {
+    "street": "512 NE 26 Street",
+    "city": "Wilton Manors",
+    "state": "FL",
+    "zip": "33305"
+  },
+  "coordinates": {
+    "latitude": 26.159116744995117,
+    "longitude": -80.13923263549805
+  },
+  "website": "https://newpres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6648",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6648"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "271068624"
+    }
+  ],
+  "advisories": []
+}

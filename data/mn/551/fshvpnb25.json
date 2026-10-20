@@ -1,0 +1,33 @@
+{
+  "id": "fshvpnb25",
+  "url": "https://constellation.church/fshvpnb25",
+  "name": "Woodbury Lutheran Church",
+  "displayName": "Woodbury Lutheran Church",
+  "address": {
+    "street": "7380 Afton Road",
+    "city": "Woodbury",
+    "state": "MN",
+    "zip": "55125"
+  },
+  "coordinates": {
+    "latitude": 44.923641204833984,
+    "longitude": -92.95691680908203
+  },
+  "website": "https://wlc.church",
+  "listingUrl": "https://locator.lcms.org/church/C/989989",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "989989"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wlc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910811792"
+    }
+  ],
+  "advisories": []
+}

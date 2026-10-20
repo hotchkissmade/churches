@@ -1,0 +1,33 @@
+{
+  "id": "rvdnvk055",
+  "url": "https://constellation.church/rvdnvk055",
+  "name": "St Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "220 3rd St South",
+    "city": "Hackensack",
+    "state": "MN",
+    "zip": "56452"
+  },
+  "coordinates": {
+    "latitude": 46.92792892456055,
+    "longitude": -94.5196304321289
+  },
+  "website": "https://stpaulselcahackensack.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=02a848fc-d68b-46c5-88f9-3867fdfb5bc8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "02a848fc-d68b-46c5-88f9-3867fdfb5bc8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulselcahackensack.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416108776"
+    }
+  ],
+  "advisories": []
+}

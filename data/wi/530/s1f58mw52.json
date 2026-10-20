@@ -1,0 +1,33 @@
+{
+  "id": "s1f58mw52",
+  "url": "https://constellation.church/s1f58mw52",
+  "name": "Immanuel Evangelical Lutheran Church",
+  "displayName": "Immanuel Evangelical Lutheran Church",
+  "address": {
+    "street": "209 N 9th St",
+    "city": "Watertown",
+    "state": "WI",
+    "zip": "53094-3903"
+  },
+  "coordinates": {
+    "latitude": 43.19435691833496,
+    "longitude": -88.71516418457031
+  },
+  "website": "https://watertownimmanuel.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ee928dd8-2453-4d30-8b97-4db723f71d8f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ee928dd8-2453-4d30-8b97-4db723f71d8f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "watertownimmanuel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391582773"
+    }
+  ],
+  "advisories": []
+}

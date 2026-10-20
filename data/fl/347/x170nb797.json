@@ -1,0 +1,33 @@
+{
+  "id": "x170nb797",
+  "url": "https://constellation.church/x170nb797",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "1308 Cleveland Ave",
+    "city": "Wildwood",
+    "state": "FL",
+    "zip": "34785"
+  },
+  "coordinates": {
+    "latitude": 28.865137100219727,
+    "longitude": -82.02536010742188
+  },
+  "website": "https://onehopeassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=544e2684-aa0b-402a-b309-dfd52e5d85ec&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "544e2684-aa0b-402a-b309-dfd52e5d85ec"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "onehopeassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591975704"
+    }
+  ],
+  "advisories": []
+}

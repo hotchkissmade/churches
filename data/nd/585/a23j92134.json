@@ -1,0 +1,33 @@
+{
+  "id": "a23j92134",
+  "url": "https://constellation.church/a23j92134",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "102 Butte Ave S",
+    "city": "Center",
+    "state": "ND",
+    "zip": "58530"
+  },
+  "coordinates": {
+    "latitude": 47.115074157714844,
+    "longitude": -101.29673767089844
+  },
+  "website": "https://splccenter.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3976bd66-bd3c-49af-a262-ff2df94abe4b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3976bd66-bd3c-49af-a262-ff2df94abe4b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "splccenter.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450386047"
+    }
+  ],
+  "advisories": []
+}

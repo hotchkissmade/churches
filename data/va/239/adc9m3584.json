@@ -1,0 +1,33 @@
+{
+  "id": "adc9m3584",
+  "url": "https://constellation.church/adc9m3584",
+  "name": "Bethesda Baptist Church",
+  "displayName": "Bethesda Baptist Church",
+  "address": {
+    "street": "1614 Buggs Island Rd",
+    "city": "Boydton",
+    "state": "VA",
+    "zip": "23917"
+  },
+  "coordinates": {
+    "latitude": 36.565595626831055,
+    "longitude": -78.2698860168457
+  },
+  "website": "https://camp-concord.concordbaptistassoc.org/findachurch",
+  "listingUrl": "https://churches.sbc.net/church/bethesda-baptist-church-8/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bethesda-baptist-church-8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "camp-concord.concordbaptistassoc.org/findachurch"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541252070"
+    }
+  ],
+  "advisories": []
+}

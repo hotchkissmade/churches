@@ -1,0 +1,33 @@
+{
+  "id": "ewakstf22",
+  "url": "https://constellation.church/ewakstf22",
+  "name": "Dillman Church",
+  "displayName": "Dillman Church",
+  "address": {
+    "street": "8888 S 1100 W",
+    "city": "Warren",
+    "state": "IN",
+    "zip": "46792"
+  },
+  "coordinates": {
+    "latitude": 40.61185836791992,
+    "longitude": -85.42936706542969
+  },
+  "website": "https://dillmanchurch.org",
+  "listingUrl": "https://ub.org/churches/find-a-church/dillman-church",
+  "identifiers": [
+    {
+      "namespace": "org.ub.id",
+      "value": "dillman-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dillmanchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351513775"
+    }
+  ],
+  "advisories": []
+}

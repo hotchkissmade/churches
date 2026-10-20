@@ -1,0 +1,33 @@
+{
+  "id": "mqrq4zf53",
+  "url": "https://constellation.church/mqrq4zf53",
+  "name": "Colonial Oaks Baptist Church",
+  "displayName": "Colonial Oaks Baptist Church",
+  "address": {
+    "street": "6901 Bee Ridge Rd",
+    "city": "Sarasota",
+    "state": "FL",
+    "zip": "34241"
+  },
+  "coordinates": {
+    "latitude": 27.299320220947266,
+    "longitude": -82.43478393554688
+  },
+  "website": "https://mycobc.org",
+  "listingUrl": "https://churches.sbc.net/church/colonial-oaks-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "colonial-oaks-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mycobc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592583277"
+    }
+  ],
+  "advisories": []
+}

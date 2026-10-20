@@ -1,0 +1,33 @@
+{
+  "id": "mk6vtx249",
+  "url": "https://constellation.church/mk6vtx249",
+  "name": "Luther Memorial Church",
+  "displayName": "Luther Memorial Church",
+  "address": {
+    "street": "1201 Grandview Ave",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50316-1528"
+  },
+  "coordinates": {
+    "latitude": 41.62032508850098,
+    "longitude": -93.60420227050781
+  },
+  "website": "https://luthermemorialdsm.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8af9df81-b03a-4e9f-b4bf-9ae6232bb9d0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8af9df81-b03a-4e9f-b4bf-9ae6232bb9d0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "luthermemorialdsm.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426081637"
+    }
+  ],
+  "advisories": []
+}

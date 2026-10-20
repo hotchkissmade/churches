@@ -1,0 +1,33 @@
+{
+  "id": "pmqdmt740",
+  "url": "https://constellation.church/pmqdmt740",
+  "name": "Bowling Green Baptist Church",
+  "displayName": "Bowling Green Baptist Church",
+  "address": {
+    "street": "225 N Main St",
+    "city": "Bowling Green",
+    "state": "VA",
+    "zip": "22427"
+  },
+  "coordinates": {
+    "latitude": 38.05296516418457,
+    "longitude": -77.34760284423828
+  },
+  "website": "https://bgbcva.org",
+  "listingUrl": "https://churches.sbc.net/church/bowling-green-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bowling-green-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bgbcva.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541010327"
+    }
+  ],
+  "advisories": []
+}

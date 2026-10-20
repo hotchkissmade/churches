@@ -1,0 +1,33 @@
+{
+  "id": "v1dkbf724",
+  "url": "https://constellation.church/v1dkbf724",
+  "name": "Crosswalk Portland",
+  "displayName": "Crosswalk Portland",
+  "address": {
+    "street": "1415 NE 223rd Ave",
+    "city": "Fairview",
+    "state": "OR",
+    "zip": "97024-2651"
+  },
+  "coordinates": {
+    "latitude": 45.533348083496094,
+    "longitude": -122.43452453613281
+  },
+  "website": "https://crosswalkvillage.com/crosswalk-reno",
+  "listingUrl": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=142916",
+  "identifiers": [
+    {
+      "namespace": "org.adventistdirectory.id",
+      "value": "142916"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "crosswalkvillage.com/crosswalk-reno"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "260131022"
+    }
+  ],
+  "advisories": []
+}

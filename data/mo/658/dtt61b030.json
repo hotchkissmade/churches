@@ -1,0 +1,33 @@
+{
+  "id": "dtt61b030",
+  "url": "https://constellation.church/dtt61b030",
+  "name": "High Street Baptist Church",
+  "displayName": "High Street Baptist Church",
+  "address": {
+    "street": "900 N Eastgate Ave",
+    "city": "Springfield",
+    "state": "MO",
+    "zip": "65802"
+  },
+  "coordinates": {
+    "latitude": 37.21580123901367,
+    "longitude": -93.22396850585938
+  },
+  "website": "https://highstreet.org/about",
+  "listingUrl": "https://churches.sbc.net/church/high-street-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "high-street-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "highstreet.org/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440563819"
+    }
+  ],
+  "advisories": []
+}

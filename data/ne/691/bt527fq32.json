@@ -1,0 +1,33 @@
+{
+  "id": "bt527fq32",
+  "url": "https://constellation.church/bt527fq32",
+  "name": "Holy Trinity Lutheran Church",
+  "displayName": "Holy Trinity Lutheran Church",
+  "address": {
+    "street": "2305 San Marino Rd",
+    "city": "Sidney",
+    "state": "NE",
+    "zip": "69162-2339"
+  },
+  "coordinates": {
+    "latitude": 41.131025314331055,
+    "longitude": -102.97937774658203
+  },
+  "website": "https://holytrinitysidney.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ba73cfc5-cf6c-4616-9ad9-0ea46b61860f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ba73cfc5-cf6c-4616-9ad9-0ea46b61860f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holytrinitysidney.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470635205"
+    }
+  ],
+  "advisories": []
+}

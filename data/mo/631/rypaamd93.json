@@ -1,0 +1,33 @@
+{
+  "id": "rypaamd93",
+  "url": "https://constellation.church/rypaamd93",
+  "name": "First Baptist Church St John",
+  "displayName": "First Baptist Church St. John",
+  "address": {
+    "street": "8665 Saint Charles Rock Rd",
+    "city": "Saint Louis",
+    "state": "MO",
+    "zip": "63114"
+  },
+  "coordinates": {
+    "latitude": 38.708248138427734,
+    "longitude": -90.34468841552734
+  },
+  "website": "https://fbcstjohn.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-st-john/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-st-john"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcstjohn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430692181"
+    }
+  ],
+  "advisories": []
+}

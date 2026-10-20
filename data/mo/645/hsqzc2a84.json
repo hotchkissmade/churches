@@ -1,0 +1,33 @@
+{
+  "id": "hsqzc2a84",
+  "url": "https://constellation.church/hsqzc2a84",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "302 S 10th St",
+    "city": "Saint Joseph",
+    "state": "MO",
+    "zip": "64501-2724"
+  },
+  "coordinates": {
+    "latitude": 39.764699935913086,
+    "longitude": -94.84835052490234
+  },
+  "website": "https://flcsj.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c21f0b91-df92-4704-8d64-4f8787efd805",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c21f0b91-df92-4704-8d64-4f8787efd805"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcsj.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440569641"
+    }
+  ],
+  "advisories": []
+}

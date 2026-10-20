@@ -1,0 +1,33 @@
+{
+  "id": "h3v8h4382",
+  "url": "https://constellation.church/h3v8h4382",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "1748 Brannan Rd",
+    "city": "McDonough",
+    "state": "GA",
+    "zip": "30253-4323"
+  },
+  "coordinates": {
+    "latitude": 33.51377296447754,
+    "longitude": -84.18846130371094
+  },
+  "website": "https://storyofgod.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0b1e9e2e-72af-412f-a781-dc0ab95cb70b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0b1e9e2e-72af-412f-a781-dc0ab95cb70b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "storyofgod.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581559809"
+    }
+  ],
+  "advisories": []
+}

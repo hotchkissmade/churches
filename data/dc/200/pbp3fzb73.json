@@ -1,0 +1,33 @@
+{
+  "id": "pbp3fzb73",
+  "url": "https://constellation.church/pbp3fzb73",
+  "name": "Western Presbyterian Church",
+  "displayName": "Western Presbyterian Church",
+  "address": {
+    "street": "2401 Virginia Ave NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20037"
+  },
+  "coordinates": {
+    "latitude": 38.8985481262207,
+    "longitude": -77.05171966552734
+  },
+  "website": "https://westernpresbyterian.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/431/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "431"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westernpresbyterian.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "530196614"
+    }
+  ],
+  "advisories": []
+}

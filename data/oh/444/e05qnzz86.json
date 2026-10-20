@@ -1,0 +1,33 @@
+{
+  "id": "e05qnzz86",
+  "url": "https://constellation.church/e05qnzz86",
+  "name": "Beacon of Hope",
+  "displayName": "Beacon of Hope",
+  "address": {
+    "street": "3559 N Park Ave",
+    "city": "Warren",
+    "state": "OH",
+    "zip": "44483"
+  },
+  "coordinates": {
+    "latitude": 41.26866912841797,
+    "longitude": -80.81427383422852
+  },
+  "website": "https://beaconforthecity.org/about",
+  "listingUrl": "https://churches.sbc.net/church/beacon-of-hope/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "beacon-of-hope"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "beaconforthecity.org/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "300559806"
+    }
+  ],
+  "advisories": []
+}

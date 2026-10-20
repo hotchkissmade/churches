@@ -1,0 +1,37 @@
+{
+  "id": "znrwsdw31",
+  "url": "https://constellation.church/znrwsdw31",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "230 N. Roosevelt Ave.",
+    "city": "Cherokee",
+    "state": "IA",
+    "zip": "51012"
+  },
+  "coordinates": {
+    "latitude": 42.751590728759766,
+    "longitude": -95.54438781738281
+  },
+  "website": "https://trinitycherokee.org",
+  "listingUrl": "https://idwlcms.org/congregation.php?id=33",
+  "identifiers": [
+    {
+      "namespace": "org.idwlcms.id",
+      "value": "33"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitycherokee.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420894603"
+    },
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "152653"
+    }
+  ],
+  "advisories": []
+}

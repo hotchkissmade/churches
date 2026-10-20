@@ -1,0 +1,33 @@
+{
+  "id": "tkm9hrc42",
+  "url": "https://constellation.church/tkm9hrc42",
+  "name": "Hope Church San Diego",
+  "displayName": "Hope Church San Diego",
+  "address": {
+    "street": "5651 Water St",
+    "city": "La Mesa",
+    "state": "CA",
+    "zip": "91942"
+  },
+  "coordinates": {
+    "latitude": 32.78215980529785,
+    "longitude": -116.99120330810547
+  },
+  "website": "https://hopechurchsandiego.com",
+  "listingUrl": "https://churches.sbc.net/church/hope-church-san-diego/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hope-church-san-diego"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopechurchsandiego.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330915872"
+    }
+  ],
+  "advisories": []
+}

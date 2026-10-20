@@ -1,0 +1,33 @@
+{
+  "id": "mxbb9nd25",
+  "url": "https://constellation.church/mxbb9nd25",
+  "name": "Church of St. Thomas",
+  "displayName": "Church of St. Thomas",
+  "address": {
+    "street": "317 S Mary St",
+    "city": "Eustis",
+    "state": "FL",
+    "zip": "32726-4201"
+  },
+  "coordinates": {
+    "latitude": 28.849992752075195,
+    "longitude": -81.67923355102539
+  },
+  "website": "https://stthomaseustis.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-central-florida/list/church-st-thomas",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-central-florida/church-st-thomas"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stthomaseustis.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590951532"
+    }
+  ],
+  "advisories": []
+}

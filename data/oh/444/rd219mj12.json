@@ -1,0 +1,33 @@
+{
+  "id": "rd219mj12",
+  "url": "https://constellation.church/rd219mj12",
+  "name": "Good Hope Lutheran Church",
+  "displayName": "Good Hope Lutheran Church",
+  "address": {
+    "street": "12030 Market St",
+    "city": "North Lima",
+    "state": "OH",
+    "zip": "44452-9512"
+  },
+  "coordinates": {
+    "latitude": 40.94363975524902,
+    "longitude": -80.6579704284668
+  },
+  "website": "https://ghlc-northlima.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ef747416-f87a-4d1d-ab4e-88821432c7af",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ef747416-f87a-4d1d-ab4e-88821432c7af"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ghlc-northlima.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341203213"
+    }
+  ],
+  "advisories": []
+}

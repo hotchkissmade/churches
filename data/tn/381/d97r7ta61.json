@@ -1,0 +1,33 @@
+{
+  "id": "d97r7ta61",
+  "url": "https://constellation.church/d97r7ta61",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "166 Poplar Ave",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38103"
+  },
+  "coordinates": {
+    "latitude": 35.14965629577637,
+    "longitude": -90.04854202270508
+  },
+  "website": "https://firstpresmemphis.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/11497/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "11497"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpresmemphis.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620478239"
+    }
+  ],
+  "advisories": []
+}

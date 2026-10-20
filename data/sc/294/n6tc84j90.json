@@ -1,0 +1,37 @@
+{
+  "id": "n6tc84j90",
+  "url": "https://constellation.church/n6tc84j90",
+  "name": "Radiant Church Charleston",
+  "displayName": "Radiant Church Charleston",
+  "address": {
+    "street": "4870 Piedmont Ave",
+    "city": "N Charleston",
+    "state": "SC",
+    "zip": "29406"
+  },
+  "coordinates": {
+    "latitude": 32.881242752075195,
+    "longitude": -80.0040054321289
+  },
+  "website": "https://radiantcharleston.org",
+  "listingUrl": "https://churches.sbc.net/church/radiant-church-charleston/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "radiant-church-charleston"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "radiantcharleston.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "814812918"
+    },
+    {
+      "namespace": "org.converge.id",
+      "value": "38598"
+    }
+  ],
+  "advisories": []
+}

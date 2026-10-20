@@ -1,0 +1,33 @@
+{
+  "id": "d3sr6f949",
+  "url": "https://constellation.church/d3sr6f949",
+  "name": "Church of St. John the Divine",
+  "displayName": "Church of St. John the Divine",
+  "address": {
+    "street": "183 E Bay St.",
+    "city": "Costa Mesa",
+    "state": "CA",
+    "zip": "92627-2145"
+  },
+  "coordinates": {
+    "latitude": 33.64535331726074,
+    "longitude": -117.90995788574219
+  },
+  "website": "https://stjohncm.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-los-angeles/list/church-st-john-divine",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-los-angeles/church-st-john-divine"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohncm.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952234734"
+    }
+  ],
+  "advisories": []
+}

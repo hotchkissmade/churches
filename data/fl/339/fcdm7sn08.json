@@ -1,0 +1,33 @@
+{
+  "id": "fcdm7sn08",
+  "url": "https://constellation.church/fcdm7sn08",
+  "name": "Messiah Lutheran Church",
+  "displayName": "Messiah Lutheran Church",
+  "address": {
+    "street": "2691 NE Pine Island Rd",
+    "city": "Cape Coral",
+    "state": "FL",
+    "zip": "33909-6507"
+  },
+  "coordinates": {
+    "latitude": 26.67951011657715,
+    "longitude": -81.91699600219727
+  },
+  "website": "https://messiahnfm.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c8f21351-bd1b-44c9-b40e-ca4ba1774007",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c8f21351-bd1b-44c9-b40e-ca4ba1774007"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "messiahnfm.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591720677"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "d6wr8bg52",
+  "url": "https://constellation.church/d6wr8bg52",
+  "name": "Bayside Chapel",
+  "displayName": "Bayside Chapel",
+  "address": {
+    "street": "145 NE Collins St",
+    "city": "Depoe Bay",
+    "state": "OR",
+    "zip": "97341"
+  },
+  "coordinates": {
+    "latitude": 44.8117790222168,
+    "longitude": -124.05921173095703
+  },
+  "website": "https://baysidechapeloregon.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=bd3e6d41-d7d2-4df4-b240-0b1e721fae93&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "bd3e6d41-d7d2-4df4-b240-0b1e721fae93"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "baysidechapeloregon.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930871064"
+    }
+  ],
+  "advisories": []
+}

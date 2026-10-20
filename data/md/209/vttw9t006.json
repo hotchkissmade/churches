@@ -1,0 +1,33 @@
+{
+  "id": "vttw9t006",
+  "url": "https://constellation.church/vttw9t006",
+  "name": "Legacy Church",
+  "displayName": "Legacy Church",
+  "address": {
+    "street": "12050 Tech Rd",
+    "city": "Silver Spring",
+    "state": "MD",
+    "zip": "20904"
+  },
+  "coordinates": {
+    "latitude": 39.052711486816406,
+    "longitude": -76.9697380065918
+  },
+  "website": "https://visitlegacy.church/en/welcome",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=e33b1f46-161b-432e-83db-bd4d07d38150&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "e33b1f46-161b-432e-83db-bd4d07d38150"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "visitlegacy.church/en/welcome"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521282103"
+    }
+  ],
+  "advisories": []
+}

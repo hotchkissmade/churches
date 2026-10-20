@@ -1,0 +1,33 @@
+{
+  "id": "v41xzj977",
+  "url": "https://constellation.church/v41xzj977",
+  "name": "Mt Washington Baptist Church",
+  "displayName": "Mount Washington Baptist Church",
+  "address": {
+    "street": "9623 E Independence Ave",
+    "city": "Independence",
+    "state": "MO",
+    "zip": "64053"
+  },
+  "coordinates": {
+    "latitude": 39.102800369262695,
+    "longitude": -94.4627456665039
+  },
+  "website": "https://mwbc.us",
+  "listingUrl": "https://churches.sbc.net/church/mt-washington-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mt-washington-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mwbc.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440591532"
+    }
+  ],
+  "advisories": []
+}

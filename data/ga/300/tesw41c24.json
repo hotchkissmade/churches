@@ -1,0 +1,33 @@
+{
+  "id": "tesw41c24",
+  "url": "https://constellation.church/tesw41c24",
+  "name": "The Church at Haynes Creek, Inc.",
+  "displayName": "The Church at Haynes Creek",
+  "address": {
+    "street": "1242 Mount Zion Rd",
+    "city": "Oxford",
+    "state": "GA",
+    "zip": "30054"
+  },
+  "coordinates": {
+    "latitude": 33.62133979797363,
+    "longitude": -83.869384765625
+  },
+  "website": "https://haynescreek.com",
+  "listingUrl": "https://churches.sbc.net/church/the-church-at-haynes-creek-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-church-at-haynes-creek-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "haynescreek.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "833309461"
+    }
+  ],
+  "advisories": []
+}

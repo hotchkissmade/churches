@@ -1,0 +1,33 @@
+{
+  "id": "tczt68j43",
+  "url": "https://constellation.church/tczt68j43",
+  "name": "Coshocton Baptist Church",
+  "displayName": "Coshocton Baptist Church",
+  "address": {
+    "street": "1631 Denman Ave",
+    "city": "Coshocton",
+    "state": "OH",
+    "zip": "43812"
+  },
+  "coordinates": {
+    "latitude": 40.26103591918945,
+    "longitude": -81.84602355957031
+  },
+  "website": "https://coshoctonbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/coshocton-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "coshocton-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "coshoctonbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311431271"
+    }
+  ],
+  "advisories": []
+}

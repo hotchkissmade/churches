@@ -1,0 +1,33 @@
+{
+  "id": "nsjhv9509",
+  "url": "https://constellation.church/nsjhv9509",
+  "name": "Wake Forest United Methodist Church",
+  "displayName": "Wake Forest United Methodist Church",
+  "address": {
+    "street": "905 S Main St",
+    "city": "Wake Forest",
+    "state": "NC",
+    "zip": "27587-9277"
+  },
+  "coordinates": {
+    "latitude": 35.96808052062988,
+    "longitude": -78.51630020141602
+  },
+  "website": "https://wakeforestumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF58KIAT",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF58KIAT"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wakeforestumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "272096790"
+    }
+  ],
+  "advisories": []
+}

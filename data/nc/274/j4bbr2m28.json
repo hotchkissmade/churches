@@ -1,0 +1,33 @@
+{
+  "id": "j4bbr2m28",
+  "url": "https://constellation.church/j4bbr2m28",
+  "name": "St. Barnabas Episcopal Church",
+  "displayName": "St. Barnabas Episcopal Church",
+  "address": {
+    "street": "1300 Jefferson Rd",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27410-3529"
+  },
+  "coordinates": {
+    "latitude": 36.11611557006836,
+    "longitude": -79.86980056762695
+  },
+  "website": "https://stbarnabasgreensboro.net/about.htm",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-north-carolina/list/st-barnabas-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-north-carolina/st-barnabas-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stbarnabasgreensboro.net/about.htm"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581488809"
+    }
+  ],
+  "advisories": []
+}

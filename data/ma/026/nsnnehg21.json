@@ -1,0 +1,37 @@
+{
+  "id": "nsnnehg21",
+  "url": "https://constellation.church/nsnnehg21",
+  "name": "Church of the Redeemer",
+  "displayName": "Church of the Redeemer",
+  "address": {
+    "street": "2736 Falmouth Rd",
+    "city": "Osterville",
+    "state": "MA",
+    "zip": "02655"
+  },
+  "coordinates": {
+    "latitude": 41.653425216674805,
+    "longitude": -70.3847885131836
+  },
+  "website": "https://bayberrychristianschool.com",
+  "listingUrl": "https://churches.sbc.net/church/church-of-the-redeemer-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "church-of-the-redeemer-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bayberrychristianschool.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "043034910"
+    },
+    {
+      "namespace": "org.adventistdirectory.id",
+      "value": "179938"
+    }
+  ],
+  "advisories": []
+}

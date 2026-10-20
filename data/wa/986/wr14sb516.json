@@ -1,0 +1,37 @@
+{
+  "id": "wr14sb516",
+  "url": "https://constellation.church/wr14sb516",
+  "name": "River City Church Vancouver",
+  "displayName": "River City Church Vancouver",
+  "address": {
+    "street": "2400 E Fourth Plain Blvd",
+    "city": "Vancouver",
+    "state": "WA",
+    "zip": "98661"
+  },
+  "coordinates": {
+    "latitude": 45.638916015625,
+    "longitude": -122.64585876464844
+  },
+  "website": "https://rivercityvancouver.com",
+  "listingUrl": "https://churches.sbc.net/church/river-city-church-vancouver/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "river-city-church-vancouver"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rivercityvancouver.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "824693621"
+    },
+    {
+      "namespace": "org.nabconference.id",
+      "value": "river-city-church-2"
+    }
+  ],
+  "advisories": []
+}

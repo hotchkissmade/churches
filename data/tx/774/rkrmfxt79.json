@@ -1,0 +1,33 @@
+{
+  "id": "rkrmfxt79",
+  "url": "https://constellation.church/rkrmfxt79",
+  "name": "New Wine Chapel",
+  "displayName": "New Wine Chapel",
+  "address": {
+    "street": "8000 Powerline Road",
+    "city": "Richmond",
+    "state": "TX",
+    "zip": "77469"
+  },
+  "coordinates": {
+    "latitude": 29.486238479614258,
+    "longitude": -95.76481628417969
+  },
+  "website": "https://newwinechapel.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=702&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "702"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newwinechapel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "455446157"
+    }
+  ],
+  "advisories": []
+}

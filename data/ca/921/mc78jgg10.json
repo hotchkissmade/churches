@@ -1,0 +1,33 @@
+{
+  "id": "mc78jgg10",
+  "url": "https://constellation.church/mc78jgg10",
+  "name": "Cathedral Church of St. Paul",
+  "displayName": "Cathedral Church of St. Paul",
+  "address": {
+    "street": "2728 6th Ave",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92103-6301"
+  },
+  "coordinates": {
+    "latitude": 32.73396873474121,
+    "longitude": -117.15980529785156
+  },
+  "website": "https://stpaulcathedral.org/music",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-san-diego/list/cathedral-church-st-paul",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-san-diego/cathedral-church-st-paul"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulcathedral.org/music"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951716810"
+    }
+  ],
+  "advisories": []
+}

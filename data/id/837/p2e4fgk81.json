@@ -1,0 +1,33 @@
+{
+  "id": "p2e4fgk81",
+  "url": "https://constellation.church/p2e4fgk81",
+  "name": "Silver Sage Baptist Church",
+  "displayName": "Silver Sage Baptist Church",
+  "address": {
+    "street": "5858 S Maple Grove Rd",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83709"
+  },
+  "coordinates": {
+    "latitude": 43.549373626708984,
+    "longitude": -116.2936782836914
+  },
+  "website": "https://silversagebc.com",
+  "listingUrl": "https://churches.sbc.net/church/silver-sage-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "silver-sage-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "silversagebc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "943246512"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gzv0b0v37",
+  "url": "https://constellation.church/gzv0b0v37",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "1600 20th St",
+    "city": "Rock Island",
+    "state": "IL",
+    "zip": "61201-3621"
+  },
+  "coordinates": {
+    "latitude": 41.49520301818848,
+    "longitude": -90.57269287109375
+  },
+  "website": "https://firstlutheranri.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2494962f-894a-4ee2-8baf-6194c86cce68",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2494962f-894a-4ee2-8baf-6194c86cce68"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranri.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362202885"
+    }
+  ],
+  "advisories": []
+}

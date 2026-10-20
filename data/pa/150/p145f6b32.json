@@ -1,0 +1,33 @@
+{
+  "id": "p145f6b32",
+  "url": "https://constellation.church/p145f6b32",
+  "name": "Prince of Peace Church",
+  "displayName": "Prince of Peace Church",
+  "address": {
+    "street": "1314 Gringo Road",
+    "city": "Aliquippa",
+    "state": "PA",
+    "zip": "15001"
+  },
+  "coordinates": {
+    "latitude": 40.56442642211914,
+    "longitude": -80.27056503295898
+  },
+  "website": "https://pop-church.com",
+  "listingUrl": "https://www.acna.org/admin_units/136",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "136"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pop-church.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251545867"
+    }
+  ],
+  "advisories": []
+}

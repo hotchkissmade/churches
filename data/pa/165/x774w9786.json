@@ -1,0 +1,33 @@
+{
+  "id": "x774w9786",
+  "url": "https://constellation.church/x774w9786",
+  "name": "Messiah Lutheran Church",
+  "displayName": "Messiah Lutheran Church",
+  "address": {
+    "street": "2025 Eastern Ave",
+    "city": "Erie",
+    "state": "PA",
+    "zip": "16510-1713"
+  },
+  "coordinates": {
+    "latitude": 42.13871192932129,
+    "longitude": -80.01687240600586
+  },
+  "website": "https://messiah-erie.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9d570077-291c-4567-b5ba-1a99ccac42eb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9d570077-291c-4567-b5ba-1a99ccac42eb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "messiah-erie.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251200699"
+    }
+  ],
+  "advisories": []
+}

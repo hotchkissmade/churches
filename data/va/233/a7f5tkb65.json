@@ -1,0 +1,33 @@
+{
+  "id": "a7f5tkb65",
+  "url": "https://constellation.church/a7f5tkb65",
+  "name": "Jackson Memorial Baptist Church",
+  "displayName": "Jackson Memorial Baptist Church",
+  "address": {
+    "street": "4316 Bruce Rd",
+    "city": "Chesapeake",
+    "state": "VA",
+    "zip": "23321"
+  },
+  "coordinates": {
+    "latitude": 36.845476150512695,
+    "longitude": -76.41104507446289
+  },
+  "website": "https://jacksonmemorial.org",
+  "listingUrl": "https://churches.sbc.net/church/jackson-memorial-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "jackson-memorial-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jacksonmemorial.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540570301"
+    }
+  ],
+  "advisories": []
+}

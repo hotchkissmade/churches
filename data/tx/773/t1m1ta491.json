@@ -1,0 +1,33 @@
+{
+  "id": "t1m1ta491",
+  "url": "https://constellation.church/t1m1ta491",
+  "name": "Kings Church",
+  "displayName": "Kings Church",
+  "address": {
+    "street": "406 Shadywood Cir",
+    "city": "Conroe",
+    "state": "TX",
+    "zip": "77304"
+  },
+  "coordinates": {
+    "latitude": 30.331954956054688,
+    "longitude": -95.50574493408203
+  },
+  "website": "https://kingschurchconroe.org",
+  "listingUrl": "https://churches.sbc.net/church/kings-church-10/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "kings-church-10"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kingschurchconroe.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371782733"
+    }
+  ],
+  "advisories": []
+}

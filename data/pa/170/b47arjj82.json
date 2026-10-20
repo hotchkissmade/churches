@@ -1,0 +1,33 @@
+{
+  "id": "b47arjj82",
+  "url": "https://constellation.church/b47arjj82",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "Allegheny & Swatara St",
+    "city": "Dauphin",
+    "state": "PA",
+    "zip": "17018"
+  },
+  "coordinates": {
+    "latitude": 40.366788007063,
+    "longitude": -76.93184503277
+  },
+  "website": "https://ziondauphin.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bae056bc-ce6f-467c-ad56-2cd48f425e82",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bae056bc-ce6f-467c-ad56-2cd48f425e82"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ziondauphin.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232329702"
+    }
+  ],
+  "advisories": []
+}

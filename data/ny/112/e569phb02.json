@@ -1,0 +1,33 @@
+{
+  "id": "e569phb02",
+  "url": "https://constellation.church/e569phb02",
+  "name": "Iglesia Misionera",
+  "displayName": "Iglesia Misionera",
+  "address": {
+    "street": "262 Union Ave",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11211"
+  },
+  "coordinates": {
+    "latitude": 40.68755340576172,
+    "longitude": -73.87736129760742
+  },
+  "website": "https://iembrooklyn.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=8fa13774-801c-4f20-80e3-621e68e30b80&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "8fa13774-801c-4f20-80e3-621e68e30b80"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "iembrooklyn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "116084130"
+    }
+  ],
+  "advisories": []
+}

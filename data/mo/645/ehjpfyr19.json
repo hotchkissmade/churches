@@ -1,0 +1,33 @@
+{
+  "id": "ehjpfyr19",
+  "url": "https://constellation.church/ehjpfyr19",
+  "name": "Renovation Church",
+  "displayName": "Renovation Church",
+  "address": {
+    "street": "3822 Cook Rd",
+    "city": "Saint Joseph",
+    "state": "MO",
+    "zip": "64505"
+  },
+  "coordinates": {
+    "latitude": 39.805368423461914,
+    "longitude": -94.79924011230469
+  },
+  "website": "https://renovatethecity.com",
+  "listingUrl": "https://churches.sbc.net/church/renovation-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "renovation-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "renovatethecity.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "472961242"
+    }
+  ],
+  "advisories": []
+}

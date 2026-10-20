@@ -1,0 +1,33 @@
+{
+  "id": "psgdcng05",
+  "url": "https://constellation.church/psgdcng05",
+  "name": "Philippine International Church",
+  "displayName": "Philippine International Church",
+  "address": {
+    "street": "187 Church Street",
+    "city": "Newton",
+    "state": "MA",
+    "zip": "02458"
+  },
+  "coordinates": {
+    "latitude": 42.3546199798584,
+    "longitude": -71.1871566772461
+  },
+  "website": "https://picboston.org",
+  "listingUrl": "https://churches.sbc.net/church/philippine-international-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "philippine-international-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "picboston.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "841686983"
+    }
+  ],
+  "advisories": []
+}

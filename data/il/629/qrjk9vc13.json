@@ -1,0 +1,33 @@
+{
+  "id": "qrjk9vc13",
+  "url": "https://constellation.church/qrjk9vc13",
+  "name": "Lockard Chapel Church",
+  "displayName": "Lockard Chapel Church",
+  "address": {
+    "street": "1580 Berryville Rd",
+    "city": "Jonesboro",
+    "state": "IL",
+    "zip": "62952"
+  },
+  "coordinates": {
+    "latitude": 37.44346237182617,
+    "longitude": -89.30443572998047
+  },
+  "website": "https://afcministries.com/concert-schedule.html",
+  "listingUrl": "https://churches.sbc.net/church/lockard-chapel-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lockard-chapel-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "afcministries.com/concert-schedule.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371060213"
+    }
+  ],
+  "advisories": []
+}

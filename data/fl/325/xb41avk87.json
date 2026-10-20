@@ -1,0 +1,33 @@
+{
+  "id": "xb41avk87",
+  "url": "https://constellation.church/xb41avk87",
+  "name": "Concord Presbyterian Church",
+  "displayName": "Concord Presbyterian Church",
+  "address": {
+    "street": "4191 Gulf Breeze Parkway",
+    "city": "Gulf Breeze",
+    "state": "FL",
+    "zip": "32563"
+  },
+  "coordinates": {
+    "latitude": 30.391874313354492,
+    "longitude": -87.04853820800781
+  },
+  "website": "https://coastal-church-craft.lovable.app",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/225",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "225"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "coastal-church-craft.lovable.app"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592157522"
+    }
+  ],
+  "advisories": []
+}

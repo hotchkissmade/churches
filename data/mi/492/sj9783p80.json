@@ -1,0 +1,33 @@
+{
+  "id": "sj9783p80",
+  "url": "https://constellation.church/sj9783p80",
+  "name": "St Johns Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "3448 N Adrian Hwy",
+    "city": "Adrian",
+    "state": "MI",
+    "zip": "49221-1140"
+  },
+  "coordinates": {
+    "latitude": 41.9366340637207,
+    "longitude": -84.00727081298828
+  },
+  "website": "https://stjohnsadrian.org",
+  "listingUrl": "https://locator.lcms.org/church/C/3790",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "3790"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsadrian.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "386006496"
+    }
+  ],
+  "advisories": []
+}

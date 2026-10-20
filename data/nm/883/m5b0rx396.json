@@ -1,0 +1,33 @@
+{
+  "id": "m5b0rx396",
+  "url": "https://constellation.church/m5b0rx396",
+  "name": "Mayhill Baptist Church",
+  "displayName": "Mayhill Baptist Church",
+  "address": {
+    "street": "3510 US Hwy 82",
+    "city": "Mayhill",
+    "state": "NM",
+    "zip": "88339"
+  },
+  "coordinates": {
+    "latitude": 32.893266677856445,
+    "longitude": -105.47698974609375
+  },
+  "website": "https://mayhillbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/mayhill-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mayhill-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mayhillbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850315860"
+    }
+  ],
+  "advisories": []
+}

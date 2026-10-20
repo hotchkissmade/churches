@@ -1,0 +1,33 @@
+{
+  "id": "h8aap4n50",
+  "url": "https://constellation.church/h8aap4n50",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "110 3rd Ave E",
+    "city": "Ada",
+    "state": "MN",
+    "zip": "56510-1323"
+  },
+  "coordinates": {
+    "latitude": 47.29890060424805,
+    "longitude": -96.51225280761719
+  },
+  "website": "https://glcada.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1af227b5-4332-46b8-b4f5-77762b7dabcc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1af227b5-4332-46b8-b4f5-77762b7dabcc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "glcada.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410847704"
+    }
+  ],
+  "advisories": []
+}

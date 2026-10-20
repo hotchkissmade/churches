@@ -1,0 +1,33 @@
+{
+  "id": "bgxg4aw83",
+  "url": "https://constellation.church/bgxg4aw83",
+  "name": "Christ The Servant Lutheran Church",
+  "displayName": "Christ The Servant Lutheran Church",
+  "address": {
+    "street": "2121 E University Dr",
+    "city": "Denton",
+    "state": "TX",
+    "zip": "76209-7825"
+  },
+  "coordinates": {
+    "latitude": 33.23636817932129,
+    "longitude": -97.10540771484375
+  },
+  "website": "https://ctsdenton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fc45f65c-7d69-4f4b-a109-2ac0f4c3832d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fc45f65c-7d69-4f4b-a109-2ac0f4c3832d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ctsdenton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751917362"
+    }
+  ],
+  "advisories": []
+}

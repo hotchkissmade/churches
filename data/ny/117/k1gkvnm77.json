@@ -1,0 +1,33 @@
+{
+  "id": "k1gkvnm77",
+  "url": "https://constellation.church/k1gkvnm77",
+  "name": "St John's Evangelical Lutheran Church",
+  "displayName": "St. John's Evangelical Lutheran Church",
+  "address": {
+    "street": "36 E John St",
+    "city": "Lindenhurst",
+    "state": "NY",
+    "zip": "11757-4159"
+  },
+  "coordinates": {
+    "latitude": 40.6893310546875,
+    "longitude": -73.37383270263672
+  },
+  "website": "https://saintjohnslindy.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d6fbd9cf-2351-4649-91e1-e61e5420c9cb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d6fbd9cf-2351-4649-91e1-e61e5420c9cb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintjohnslindy.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "116002301"
+    }
+  ],
+  "advisories": []
+}

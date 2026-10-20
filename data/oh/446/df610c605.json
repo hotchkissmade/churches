@@ -1,0 +1,33 @@
+{
+  "id": "df610c605",
+  "url": "https://constellation.church/df610c605",
+  "name": "Community Baptist Church",
+  "displayName": "Community Baptist Church",
+  "address": {
+    "street": "420 E 3rd St",
+    "city": "Dover",
+    "state": "OH",
+    "zip": "44622"
+  },
+  "coordinates": {
+    "latitude": 40.52555847167969,
+    "longitude": -81.47168350219727
+  },
+  "website": "https://communitybaptistdover.org/index.html",
+  "listingUrl": "https://churches.sbc.net/church/community-baptist-church-24/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "community-baptist-church-24"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "communitybaptistdover.org/index.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341264958"
+    }
+  ],
+  "advisories": []
+}

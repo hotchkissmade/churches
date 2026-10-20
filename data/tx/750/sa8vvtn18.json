@@ -1,0 +1,33 @@
+{
+  "id": "sa8vvtn18",
+  "url": "https://constellation.church/sa8vvtn18",
+  "name": "Valley Creek Church",
+  "displayName": "Valley Creek Church",
+  "address": {
+    "street": "5800 Long Prairie Rd",
+    "city": "Flower Mound",
+    "state": "TX",
+    "zip": "75028"
+  },
+  "coordinates": {
+    "latitude": 33.064828872680664,
+    "longitude": -97.07731628417969
+  },
+  "website": "https://valleycreek.org",
+  "listingUrl": "https://churches.sbc.net/church/valley-creek-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "valley-creek-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "valleycreek.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752414605"
+    }
+  ],
+  "advisories": []
+}

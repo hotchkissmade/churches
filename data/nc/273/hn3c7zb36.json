@@ -1,0 +1,33 @@
+{
+  "id": "hn3c7zb36",
+  "url": "https://constellation.church/hn3c7zb36",
+  "name": "St. Bartholomew's Episcopal Church",
+  "displayName": "St. Bartholomew's Episcopal Church",
+  "address": {
+    "street": "204 West Salisbury Street",
+    "city": "Pittsboro",
+    "state": "NC",
+    "zip": "27312-9483"
+  },
+  "coordinates": {
+    "latitude": 35.722328186035156,
+    "longitude": -79.18091583251953
+  },
+  "website": "https://saint-barts.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-north-carolina/list/st-bartholomews-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-north-carolina/st-bartholomews-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saint-barts.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "566149173"
+    }
+  ],
+  "advisories": []
+}

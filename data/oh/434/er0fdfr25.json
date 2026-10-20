@@ -1,0 +1,33 @@
+{
+  "id": "er0fdfr25",
+  "url": "https://constellation.church/er0fdfr25",
+  "name": "Bethel Church",
+  "displayName": "Bethel Church",
+  "address": {
+    "street": "2920 State Route 590",
+    "city": "Elmore",
+    "state": "OH",
+    "zip": "43416"
+  },
+  "coordinates": {
+    "latitude": 41.47325325012207,
+    "longitude": -83.22148132324219
+  },
+  "website": "https://experiencebethel.org",
+  "listingUrl": "https://ub.org/churches/find-a-church/bethel-church",
+  "identifiers": [
+    {
+      "namespace": "org.ub.id",
+      "value": "bethel-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "experiencebethel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341088548"
+    }
+  ],
+  "advisories": []
+}

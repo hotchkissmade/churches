@@ -1,0 +1,33 @@
+{
+  "id": "p55y4wf76",
+  "url": "https://constellation.church/p55y4wf76",
+  "name": "Mainstreet Church",
+  "displayName": "Mainstreet Church",
+  "address": {
+    "street": "5465 Moline-Martin Rd",
+    "city": "Walbridge",
+    "state": "OH",
+    "zip": "43465"
+  },
+  "coordinates": {
+    "latitude": 41.5568733215332,
+    "longitude": -83.5017318725586
+  },
+  "website": "https://mainstreetlife.org",
+  "listingUrl": "https://ub.org/churches/find-a-church/mainstreet-church",
+  "identifiers": [
+    {
+      "namespace": "org.ub.id",
+      "value": "mainstreet-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mainstreetlife.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341366630"
+    }
+  ],
+  "advisories": []
+}

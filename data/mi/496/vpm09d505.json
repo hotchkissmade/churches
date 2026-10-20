@@ -1,0 +1,33 @@
+{
+  "id": "vpm09d505",
+  "url": "https://constellation.church/vpm09d505",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "6012 S Lake St",
+    "city": "Glen Arbor",
+    "state": "MI",
+    "zip": "49636-9724"
+  },
+  "coordinates": {
+    "latitude": 44.89670753479004,
+    "longitude": -85.98918914794922
+  },
+  "website": "https://bethlehemglenarbor.org",
+  "listingUrl": "https://locator.lcms.org/church/C/355999",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "355999"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethlehemglenarbor.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "386176806"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c21rx8r94",
+  "url": "https://constellation.church/c21rx8r94",
+  "name": "Faith Chapel",
+  "displayName": "Faith Chapel",
+  "address": {
+    "street": "9400 Campo Rd",
+    "city": "Spring Valley",
+    "state": "CA",
+    "zip": "91977"
+  },
+  "coordinates": {
+    "latitude": 32.75013542175293,
+    "longitude": -116.99384307861328
+  },
+  "website": "https://faithchapelsd.com/events",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f592a9c5-5b85-4f19-92cc-e113dc71b67d&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f592a9c5-5b85-4f19-92cc-e113dc71b67d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithchapelsd.com/events"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953571954"
+    }
+  ],
+  "advisories": []
+}

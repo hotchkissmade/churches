@@ -1,0 +1,37 @@
+{
+  "id": "tqbzddr77",
+  "url": "https://constellation.church/tqbzddr77",
+  "name": "Guide Church",
+  "displayName": "Guide Church",
+  "address": {
+    "street": "4770 Britton Pkwy",
+    "city": "Hilliard",
+    "state": "OH",
+    "zip": "43026"
+  },
+  "coordinates": {
+    "latitude": 40.05051803588867,
+    "longitude": -83.13317489624023
+  },
+  "website": "https://guidechurch.com",
+  "listingUrl": "https://churches.sbc.net/church/guide-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "guide-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "guidechurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "453461505"
+    },
+    {
+      "namespace": "org.converge.id",
+      "value": "38113"
+    }
+  ],
+  "advisories": []
+}

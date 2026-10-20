@@ -1,0 +1,33 @@
+{
+  "id": "tsw98jm04",
+  "url": "https://constellation.church/tsw98jm04",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "2001 6th Ave SE",
+    "city": "Austin",
+    "state": "MN",
+    "zip": "55912-4321"
+  },
+  "coordinates": {
+    "latitude": 43.661935806274414,
+    "longitude": -92.9441909790039
+  },
+  "website": "https://graceluthaustin.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9c84061b-5ecd-4b45-a0c7-42803c5bd1ac",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9c84061b-5ecd-4b45-a0c7-42803c5bd1ac"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceluthaustin.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410850420"
+    }
+  ],
+  "advisories": []
+}

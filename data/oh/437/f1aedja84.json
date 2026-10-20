@@ -1,0 +1,33 @@
+{
+  "id": "f1aedja84",
+  "url": "https://constellation.church/f1aedja84",
+  "name": "Spring Hills Community Church",
+  "displayName": "Spring Hills Community Church",
+  "address": {
+    "street": "10625 Stone Quarry Rd NW",
+    "city": "Somerset",
+    "state": "OH",
+    "zip": "43783"
+  },
+  "coordinates": {
+    "latitude": 39.84927749633789,
+    "longitude": -82.33688354492188
+  },
+  "website": "https://springhillscc.org",
+  "listingUrl": "https://churches.sbc.net/church/spring-hills-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "spring-hills-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "springhillscc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "208030552"
+    }
+  ],
+  "advisories": []
+}

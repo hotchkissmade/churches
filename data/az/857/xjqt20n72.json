@@ -1,0 +1,33 @@
+{
+  "id": "xjqt20n72",
+  "url": "https://constellation.church/xjqt20n72",
+  "name": "Tanque Verde Lutheran Church",
+  "displayName": "Tanque Verde Lutheran Church",
+  "address": {
+    "street": "8625 E Tanque Verde Rd",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85749-8918"
+  },
+  "coordinates": {
+    "latitude": 32.258535385131836,
+    "longitude": -110.8075180053711
+  },
+  "website": "https://tvlc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b43bf0bc-f729-40b0-b5f6-bea591bbf689",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b43bf0bc-f729-40b0-b5f6-bea591bbf689"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tvlc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860309129"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pgp117q69",
+  "url": "https://constellation.church/pgp117q69",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "112 Robin Rd",
+    "city": "Macomb",
+    "state": "IL",
+    "zip": "61455"
+  },
+  "coordinates": {
+    "latitude": 40.459781646728516,
+    "longitude": -90.70261001586914
+  },
+  "website": "https://macombassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=30907ac6-3cf2-4482-a4df-03d8289b8477&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "30907ac6-3cf2-4482-a4df-03d8289b8477"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "macombassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370755835"
+    }
+  ],
+  "advisories": []
+}

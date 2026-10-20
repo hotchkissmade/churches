@@ -1,0 +1,33 @@
+{
+  "id": "h7j0r2s89",
+  "url": "https://constellation.church/h7j0r2s89",
+  "name": "Palmetto Shores Church",
+  "displayName": "Palmetto Shores Church",
+  "address": {
+    "street": "6250 Dick Pond Rd",
+    "city": "Myrtle Beach",
+    "state": "SC",
+    "zip": "29588"
+  },
+  "coordinates": {
+    "latitude": 33.68951988220215,
+    "longitude": -79.0058708190918
+  },
+  "website": "https://psc.church",
+  "listingUrl": "https://churches.sbc.net/church/palmetto-shores-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "palmetto-shores-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "psc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "205365292"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "m80f23z17",
+  "url": "https://constellation.church/m80f23z17",
+  "name": "Leesburg Presbyterian Church",
+  "displayName": "Leesburg Presbyterian Church",
+  "address": {
+    "street": "1831 Perry Hwy",
+    "city": "Volant",
+    "state": "PA",
+    "zip": "16156"
+  },
+  "coordinates": {
+    "latitude": 41.13264465332031,
+    "longitude": -80.21977996826172
+  },
+  "website": "https://leesburgecochurch.org",
+  "listingUrl": "https://eco-pres.org/churches/leesburg-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "leesburg-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "leesburgecochurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251289816"
+    }
+  ],
+  "advisories": []
+}

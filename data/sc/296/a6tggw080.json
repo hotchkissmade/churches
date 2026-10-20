@@ -1,0 +1,33 @@
+{
+  "id": "a6tggw080",
+  "url": "https://constellation.church/a6tggw080",
+  "name": "Mt Carmel Baptist Church",
+  "displayName": "Mount Carmel Baptist Church",
+  "address": {
+    "street": "1623 Hester Store Rd",
+    "city": "Easley",
+    "state": "SC",
+    "zip": "29640"
+  },
+  "coordinates": {
+    "latitude": 34.898441314697266,
+    "longitude": -82.54283142089844
+  },
+  "website": "https://mcbc.church",
+  "listingUrl": "https://churches.sbc.net/church/mt-carmel-baptist-church-11/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mt-carmel-baptist-church-11"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mcbc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570600068"
+    }
+  ],
+  "advisories": []
+}

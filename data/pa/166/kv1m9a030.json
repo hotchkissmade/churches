@@ -1,0 +1,33 @@
+{
+  "id": "kv1m9a030",
+  "url": "https://constellation.church/kv1m9a030",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "1401 12th Ave",
+    "city": "Altoona",
+    "state": "PA",
+    "zip": "16601-3388"
+  },
+  "coordinates": {
+    "latitude": 40.51473045349121,
+    "longitude": -78.4041976928711
+  },
+  "website": "https://firstlutheranaltoona.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6381a2ab-0249-4d77-a9af-a81c519fcffa",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6381a2ab-0249-4d77-a9af-a81c519fcffa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranaltoona.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "230581240"
+    }
+  ],
+  "advisories": []
+}

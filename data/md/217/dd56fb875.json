@@ -1,0 +1,33 @@
+{
+  "id": "dd56fb875",
+  "url": "https://constellation.church/dd56fb875",
+  "name": "Mt. Airy Baptist Church",
+  "displayName": "Mount Airy Baptist Church",
+  "address": {
+    "street": "1402 North Main Street",
+    "city": "Mount Airy",
+    "state": "MD",
+    "zip": "21771"
+  },
+  "coordinates": {
+    "latitude": 39.38972282409668,
+    "longitude": -77.14357376098633
+  },
+  "website": "https://mtairybaptistchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/mt-airy-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mt-airy-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mtairybaptistchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521204590"
+    }
+  ],
+  "advisories": []
+}

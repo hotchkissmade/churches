@@ -1,0 +1,33 @@
+{
+  "id": "k0g5xkf71",
+  "url": "https://constellation.church/k0g5xkf71",
+  "name": "St Matthew Lutheran Church",
+  "displayName": "St. Matthew Lutheran Church",
+  "address": {
+    "street": "7564 Cottage Grove Rd",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53718-6586"
+  },
+  "coordinates": {
+    "latitude": 43.087812423706055,
+    "longitude": -89.24870681762695
+  },
+  "website": "https://newlifelc.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=eb799a7a-3044-4a6a-ae6d-a2ff18cce903",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "eb799a7a-3044-4a6a-ae6d-a2ff18cce903"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newlifelc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391133354"
+    }
+  ],
+  "advisories": []
+}

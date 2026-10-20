@@ -1,0 +1,33 @@
+{
+  "id": "bec67ny35",
+  "url": "https://constellation.church/bec67ny35",
+  "name": "Southside Baptist Church",
+  "displayName": "Southside Baptist Church",
+  "address": {
+    "street": "410 S Main St",
+    "city": "Greer",
+    "state": "SC",
+    "zip": "29650"
+  },
+  "coordinates": {
+    "latitude": 34.93155860900879,
+    "longitude": -82.23164367675781
+  },
+  "website": "https://sbcgreer.org",
+  "listingUrl": "https://churches.sbc.net/church/southside-baptist-church-40/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "southside-baptist-church-40"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sbcgreer.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570698103"
+    }
+  ],
+  "advisories": []
+}

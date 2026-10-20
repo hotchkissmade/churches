@@ -1,0 +1,33 @@
+{
+  "id": "v9c7exd19",
+  "url": "https://constellation.church/v9c7exd19",
+  "name": "Central Assembly of God",
+  "displayName": "Central Assembly of God",
+  "address": {
+    "street": "6767 20th St",
+    "city": "Vero Beach",
+    "state": "FL",
+    "zip": "32966"
+  },
+  "coordinates": {
+    "latitude": 27.637807846069336,
+    "longitude": -80.46632766723633
+  },
+  "website": "https://centralassembly.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ad87b63c-81ed-4605-968f-b1c2c6e06d59&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ad87b63c-81ed-4605-968f-b1c2c6e06d59"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centralassembly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591892295"
+    }
+  ],
+  "advisories": []
+}

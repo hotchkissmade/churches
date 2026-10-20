@@ -1,0 +1,33 @@
+{
+  "id": "syzyb4p28",
+  "url": "https://constellation.church/syzyb4p28",
+  "name": "Ridgecrest Baptist Church, St Charles",
+  "displayName": "Ridgecrest Baptist Church, St. Charles",
+  "address": {
+    "street": "1731 Zumbehl Rd",
+    "city": "Saint Charles",
+    "state": "MO",
+    "zip": "63303"
+  },
+  "coordinates": {
+    "latitude": 38.77398681640625,
+    "longitude": -90.5281982421875
+  },
+  "website": "https://ridgecrest.org",
+  "listingUrl": "https://churches.sbc.net/church/ridgecrest-baptist-church-st-charles/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "ridgecrest-baptist-church-st-charles"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ridgecrest.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430864255"
+    }
+  ],
+  "advisories": []
+}

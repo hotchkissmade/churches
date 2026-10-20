@@ -1,0 +1,33 @@
+{
+  "id": "mgdqmwn21",
+  "url": "https://constellation.church/mgdqmwn21",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "3S460 Curtis Ave",
+    "city": "Warrenville",
+    "state": "IL",
+    "zip": "60555-3405"
+  },
+  "coordinates": {
+    "latitude": 41.81905174255371,
+    "longitude": -88.18102264404297
+  },
+  "website": "https://tlcwarrenville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=13e0374b-b02a-4996-a871-df67904e5a3e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "13e0374b-b02a-4996-a871-df67904e5a3e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcwarrenville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363118524"
+    }
+  ],
+  "advisories": []
+}

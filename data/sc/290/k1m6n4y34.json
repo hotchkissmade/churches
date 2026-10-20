@@ -1,0 +1,33 @@
+{
+  "id": "k1m6n4y34",
+  "url": "https://constellation.church/k1m6n4y34",
+  "name": "State Street Baptist Church",
+  "displayName": "State Street Baptist Church",
+  "address": {
+    "street": "1420 State St",
+    "city": "Cayce",
+    "state": "SC",
+    "zip": "29033"
+  },
+  "coordinates": {
+    "latitude": 33.98042869567871,
+    "longitude": -81.05508804321289
+  },
+  "website": "https://statestreetbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/state-street-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "state-street-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "statestreetbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570366561"
+    }
+  ],
+  "advisories": []
+}

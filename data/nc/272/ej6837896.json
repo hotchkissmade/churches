@@ -1,0 +1,33 @@
+{
+  "id": "ej6837896",
+  "url": "https://constellation.church/ej6837896",
+  "name": "Main Street Baptist Church",
+  "displayName": "Main Street Baptist Church",
+  "address": {
+    "street": "126 N Main St",
+    "city": "Kernersville",
+    "state": "NC",
+    "zip": "27284"
+  },
+  "coordinates": {
+    "latitude": 36.12060356140137,
+    "longitude": -80.07252883911133
+  },
+  "website": "https://mainstreetlife.cc",
+  "listingUrl": "https://churches.sbc.net/church/main-street-baptist-church-12/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "main-street-baptist-church-12"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mainstreetlife.cc"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560729778"
+    }
+  ],
+  "advisories": []
+}

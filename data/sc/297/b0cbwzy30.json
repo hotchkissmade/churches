@@ -1,0 +1,33 @@
+{
+  "id": "b0cbwzy30",
+  "url": "https://constellation.church/b0cbwzy30",
+  "name": "Temple Presbyterian Church",
+  "displayName": "Temple Presbyterian Church",
+  "address": {
+    "street": "1105 N. Beersheba Road",
+    "city": "Clover",
+    "state": "SC",
+    "zip": "29710"
+  },
+  "coordinates": {
+    "latitude": 35.06850624084473,
+    "longitude": -81.30263137817383
+  },
+  "website": "https://templepca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/978",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "978"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "templepca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570765008"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vtm4dse67",
+  "url": "https://constellation.church/vtm4dse67",
+  "name": "Westwood Christian Community",
+  "displayName": "Westwood Christian Community",
+  "address": {
+    "street": "9252 16th Ave SW",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98106"
+  },
+  "coordinates": {
+    "latitude": 47.51980972290039,
+    "longitude": -122.35486602783203
+  },
+  "website": "https://wccseattle.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=71babb49-6ce4-4c67-adfe-766cd76b1f0a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "71babb49-6ce4-4c67-adfe-766cd76b1f0a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wccseattle.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911192646"
+    }
+  ],
+  "advisories": []
+}

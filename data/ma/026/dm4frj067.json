@@ -1,0 +1,37 @@
+{
+  "id": "dm4frj067",
+  "url": "https://constellation.church/dm4frj067",
+  "name": "Osterville Baptist Church",
+  "displayName": "Osterville Baptist Church",
+  "address": {
+    "street": "824 Main St",
+    "city": "Osterville",
+    "state": "MA",
+    "zip": "02655"
+  },
+  "coordinates": {
+    "latitude": 41.62849044799805,
+    "longitude": -70.38528442382812
+  },
+  "website": "https://ostervillebaptist.org",
+  "listingUrl": "https://converge.org/church/osterville-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "org.converge.id",
+      "value": "38557"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ostervillebaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042755064"
+    },
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "osterville-baptist-church"
+    }
+  ],
+  "advisories": []
+}

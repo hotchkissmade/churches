@@ -1,0 +1,33 @@
+{
+  "id": "beb887851",
+  "url": "https://constellation.church/beb887851",
+  "name": "Harrison United Brethren Church",
+  "displayName": "Harrison United Brethren Church",
+  "address": {
+    "street": "250 East Main Street",
+    "city": "Harrison",
+    "state": "MI",
+    "zip": "48625"
+  },
+  "coordinates": {
+    "latitude": 44.01953887939453,
+    "longitude": -84.79873275756836
+  },
+  "website": "https://harrisonunitedbrethrenchurch.com",
+  "listingUrl": "https://ub.org/churches/find-a-church/harrison-united-brethren-church",
+  "identifiers": [
+    {
+      "namespace": "org.ub.id",
+      "value": "harrison-united-brethren-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "harrisonunitedbrethrenchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382405508"
+    }
+  ],
+  "advisories": []
+}

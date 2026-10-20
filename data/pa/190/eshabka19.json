@@ -1,0 +1,33 @@
+{
+  "id": "eshabka19",
+  "url": "https://constellation.church/eshabka19",
+  "name": "Church of the Holy Nativity",
+  "displayName": "Church of the Holy Nativity",
+  "address": {
+    "street": "205 Huntingdon Pike",
+    "city": "Rockledge",
+    "state": "PA",
+    "zip": "19046-4444"
+  },
+  "coordinates": {
+    "latitude": 40.08083915710449,
+    "longitude": -75.08837509155273
+  },
+  "website": "https://holynativityrockledge.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/church-holy-nativity-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/church-holy-nativity-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holynativityrockledge.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231385343"
+    }
+  ],
+  "advisories": []
+}

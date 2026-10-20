@@ -1,0 +1,33 @@
+{
+  "id": "gtbmv7d93",
+  "url": "https://constellation.church/gtbmv7d93",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "310 N Johnson St",
+    "city": "Iowa City",
+    "state": "IA",
+    "zip": "52245-2834"
+  },
+  "coordinates": {
+    "latitude": 41.66501235961914,
+    "longitude": -91.52699279785156
+  },
+  "website": "https://zionlutheran-ic.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=510b7b5d-6a64-4159-927d-e6f947e6d764",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "510b7b5d-6a64-4159-927d-e6f947e6d764"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionlutheran-ic.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421010633"
+    }
+  ],
+  "advisories": []
+}

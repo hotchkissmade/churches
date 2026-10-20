@@ -1,0 +1,33 @@
+{
+  "id": "j64zvvm09",
+  "url": "https://constellation.church/j64zvvm09",
+  "name": "St. Matthew's Church",
+  "displayName": "St. Matthew's Church",
+  "address": {
+    "street": "1410 Chapline St",
+    "city": "Wheeling",
+    "state": "WV",
+    "zip": "26003-3522"
+  },
+  "coordinates": {
+    "latitude": 40.065181732177734,
+    "longitude": -80.72079086303711
+  },
+  "website": "https://stmatts.com/worship",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-virginia/list/st-matthews-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-virginia/st-matthews-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmatts.com/worship"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "550397070"
+    }
+  ],
+  "advisories": []
+}

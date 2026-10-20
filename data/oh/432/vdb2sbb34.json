@@ -1,0 +1,33 @@
+{
+  "id": "vdb2sbb34",
+  "url": "https://constellation.church/vdb2sbb34",
+  "name": "Cross City Church",
+  "displayName": "Cross City Church",
+  "address": {
+    "street": "935 Northridge Rd",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43224"
+  },
+  "coordinates": {
+    "latitude": 40.04080390930176,
+    "longitude": -82.99088668823242
+  },
+  "website": "https://crosscitychurch.org",
+  "listingUrl": "https://churches.efca.org/?id=263422",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "263422"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "crosscitychurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "273146669"
+    }
+  ],
+  "advisories": []
+}

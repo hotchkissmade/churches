@@ -1,0 +1,33 @@
+{
+  "id": "waf7crz40",
+  "url": "https://constellation.church/waf7crz40",
+  "name": "Calvary Lutheran Church",
+  "displayName": "Calvary Lutheran Church",
+  "address": {
+    "street": "108 Eastman St",
+    "city": "Cranford",
+    "state": "NJ",
+    "zip": "07016-2122"
+  },
+  "coordinates": {
+    "latitude": 40.65671348571777,
+    "longitude": -74.30682754516602
+  },
+  "website": "https://calvarycranford.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d788bd7c-d84a-4e0f-b8d2-b81cc1fda3d3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d788bd7c-d84a-4e0f-b8d2-b81cc1fda3d3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "calvarycranford.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221593520"
+    }
+  ],
+  "advisories": []
+}

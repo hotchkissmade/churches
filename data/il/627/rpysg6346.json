@@ -1,0 +1,33 @@
+{
+  "id": "rpysg6346",
+  "url": "https://constellation.church/rpysg6346",
+  "name": "Diocese of Springfield",
+  "displayName": "Diocese of Springfield",
+  "address": {
+    "street": "821 S. 2nd St",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62704"
+  },
+  "coordinates": {
+    "latitude": 39.7932751,
+    "longitude": -89.6539597
+  },
+  "website": "https://episcopalspringfield.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-springfield/list/diocese-springfield",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-springfield/diocese-springfield"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "episcopalspringfield.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370729908"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "t0ew41853",
+  "url": "https://constellation.church/t0ew41853",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "11007 S 76th Ave",
+    "city": "Worth",
+    "state": "IL",
+    "zip": "60482-1192"
+  },
+  "coordinates": {
+    "latitude": 41.69075584411621,
+    "longitude": -87.80692291259766
+  },
+  "website": "https://stmarkworth.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=36a5f290-e22b-4af1-8e78-9912a940f48d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "36a5f290-e22b-4af1-8e78-9912a940f48d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkworth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362549447"
+    }
+  ],
+  "advisories": []
+}

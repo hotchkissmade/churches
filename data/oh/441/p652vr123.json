@@ -1,0 +1,33 @@
+{
+  "id": "p652vr123",
+  "url": "https://constellation.church/p652vr123",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "7500 State Rd",
+    "city": "Parma",
+    "state": "OH",
+    "zip": "44134-6102"
+  },
+  "coordinates": {
+    "latitude": 41.361595153808594,
+    "longitude": -81.71817016601562
+  },
+  "website": "https://blc7500.com",
+  "listingUrl": "https://locator.lcms.org/church/C/699199",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "699199"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blc7500.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341047960"
+    }
+  ],
+  "advisories": []
+}

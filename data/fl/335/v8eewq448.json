@@ -1,0 +1,33 @@
+{
+  "id": "v8eewq448",
+  "url": "https://constellation.church/v8eewq448",
+  "name": "Parkway Baptist",
+  "displayName": "Parkway Baptist Church",
+  "address": {
+    "street": "4305 J L Redman Pkwy",
+    "city": "Plant City",
+    "state": "FL",
+    "zip": "33567"
+  },
+  "coordinates": {
+    "latitude": 32.641775131225586,
+    "longitude": -93.23320770263672
+  },
+  "website": "https://parkwaybaptist.church",
+  "listingUrl": "https://churches.sbc.net/church/parkway-baptist/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "parkway-baptist"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parkwaybaptist.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591796279"
+    }
+  ],
+  "advisories": []
+}

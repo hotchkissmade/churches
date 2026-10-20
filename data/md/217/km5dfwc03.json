@@ -1,0 +1,33 @@
+{
+  "id": "km5dfwc03",
+  "url": "https://constellation.church/km5dfwc03",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "10634 Church Hill Rd",
+    "city": "Myersville",
+    "state": "MD",
+    "zip": "21773"
+  },
+  "coordinates": {
+    "latitude": 39.526193618774414,
+    "longitude": -77.55469512939453
+  },
+  "website": "https://stjohnsmyersville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e55b73eb-4b74-4552-bb32-705906dddad2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e55b73eb-4b74-4552-bb32-705906dddad2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsmyersville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521313671"
+    }
+  ],
+  "advisories": []
+}

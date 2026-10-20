@@ -1,0 +1,33 @@
+{
+  "id": "agsyah711",
+  "url": "https://constellation.church/agsyah711",
+  "name": "Concordia Lutheran Church",
+  "displayName": "Concordia Lutheran Church",
+  "address": {
+    "street": "818 Arsenal St",
+    "city": "Watertown",
+    "state": "NY",
+    "zip": "13601-2346"
+  },
+  "coordinates": {
+    "latitude": 43.97663879394531,
+    "longitude": -75.92813491821289
+  },
+  "website": "https://concordialutheranwatertown.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=38c4b33c-f406-4e7b-9f79-bf9f84f3b0ee",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "38c4b33c-f406-4e7b-9f79-bf9f84f3b0ee"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "concordialutheranwatertown.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "166039820"
+    }
+  ],
+  "advisories": []
+}

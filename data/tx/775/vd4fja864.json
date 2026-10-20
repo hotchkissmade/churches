@@ -1,0 +1,33 @@
+{
+  "id": "vd4fja864",
+  "url": "https://constellation.church/vd4fja864",
+  "name": "South Main Baptist Church",
+  "displayName": "South Main Baptist Church",
+  "address": {
+    "street": "4300 E Sam Houston Pkwy S",
+    "city": "Pasadena",
+    "state": "TX",
+    "zip": "77505"
+  },
+  "coordinates": {
+    "latitude": 29.643844604492188,
+    "longitude": -95.15962982177734
+  },
+  "website": "https://southmain.org",
+  "listingUrl": "https://churches.sbc.net/church/south-main-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "south-main-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southmain.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741260707"
+    }
+  ],
+  "advisories": []
+}

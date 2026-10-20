@@ -1,0 +1,37 @@
+{
+  "id": "j23ew0702",
+  "url": "https://constellation.church/j23ew0702",
+  "name": "St John Evangelical Lutheran Church",
+  "displayName": "St. John Evangelical Lutheran Church",
+  "address": {
+    "street": null,
+    "city": "West Alexandria",
+    "state": "OH",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 39.71424102783203,
+    "longitude": -84.50050735473633
+  },
+  "website": "https://stjohningomar.org",
+  "listingUrl": "https://lcmc.net/congregation/123360",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "123360"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohningomar.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311390800"
+    },
+    {
+      "namespace": "org.elca.id",
+      "value": "7d399d39-7574-429f-affb-c668817e7d19"
+    }
+  ],
+  "advisories": []
+}

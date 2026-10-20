@@ -1,0 +1,33 @@
+{
+  "id": "stt0ztk18",
+  "url": "https://constellation.church/stt0ztk18",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "2702 1st St",
+    "city": "Mahtowa",
+    "state": "MN",
+    "zip": "55707-8674"
+  },
+  "coordinates": {
+    "latitude": 46.57708168029785,
+    "longitude": -92.62788391113281
+  },
+  "website": "https://salemmahtowa.weebly.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9a4ef924-8feb-4d1d-a655-67de0ad5afb0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9a4ef924-8feb-4d1d-a655-67de0ad5afb0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemmahtowa.weebly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411474904"
+    }
+  ],
+  "advisories": []
+}

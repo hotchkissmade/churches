@@ -1,0 +1,33 @@
+{
+  "id": "t8j7xy136",
+  "url": "https://constellation.church/t8j7xy136",
+  "name": "Myrtle Beach Community Church",
+  "displayName": "Myrtle Beach Community Church",
+  "address": {
+    "street": "557 George Bishop Pkwy",
+    "city": "Myrtle Beach",
+    "state": "SC",
+    "zip": "29579"
+  },
+  "coordinates": {
+    "latitude": 33.71203422546387,
+    "longitude": -78.93806457519531
+  },
+  "website": "https://beachchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/myrtle-beach-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "myrtle-beach-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "beachchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570955147"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xt2hsnc20",
+  "url": "https://constellation.church/xt2hsnc20",
+  "name": "Ridgewood United Methodist Church",
+  "displayName": "Ridgewood United Methodist Church",
+  "address": {
+    "street": "100 Dayton St",
+    "city": "Ridgewood",
+    "state": "NJ",
+    "zip": "07450-4437"
+  },
+  "coordinates": {
+    "latitude": 40.97821235656738,
+    "longitude": -74.11824798583984
+  },
+  "website": "https://ridgewoodumc.net/wp",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKLgIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKLgIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ridgewoodumc.net/wp"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221500588"
+    }
+  ],
+  "advisories": []
+}

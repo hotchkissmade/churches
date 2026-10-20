@@ -1,0 +1,33 @@
+{
+  "id": "jvhhjse37",
+  "url": "https://constellation.church/jvhhjse37",
+  "name": "First Baptist Church of Pinson",
+  "displayName": "First Baptist Church of Pinson",
+  "address": {
+    "street": "4036 Spring St",
+    "city": "Pinson",
+    "state": "AL",
+    "zip": "35126"
+  },
+  "coordinates": {
+    "latitude": 33.69091606140137,
+    "longitude": -86.68907928466797
+  },
+  "website": "https://fbcpinson.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-pinson/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-pinson"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcpinson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630573459"
+    }
+  ],
+  "advisories": []
+}

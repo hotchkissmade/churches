@@ -1,0 +1,33 @@
+{
+  "id": "gkh8hne53",
+  "url": "https://constellation.church/gkh8hne53",
+  "name": "St. Peter's Episcopal Church",
+  "displayName": "St. Peter's Episcopal Church",
+  "address": {
+    "street": "42 Sweden Rd",
+    "city": "Bridgton",
+    "state": "ME",
+    "zip": "04009"
+  },
+  "coordinates": {
+    "latitude": 44.06393623352051,
+    "longitude": -70.73697280883789
+  },
+  "website": "https://stpetersbridgton.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maine/list/st-peters-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maine/st-peters-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpetersbridgton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "010495097"
+    }
+  ],
+  "advisories": []
+}

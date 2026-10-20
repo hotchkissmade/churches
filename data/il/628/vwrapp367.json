@@ -1,0 +1,33 @@
+{
+  "id": "vwrapp367",
+  "url": "https://constellation.church/vwrapp367",
+  "name": "First Baptist Church of Carmi",
+  "displayName": "First Baptist Church of Carmi",
+  "address": {
+    "street": "301 Oak",
+    "city": "Carmi",
+    "state": "IL",
+    "zip": "62821"
+  },
+  "coordinates": {
+    "latitude": 38.08751678466797,
+    "longitude": -88.16502380371094
+  },
+  "website": "https://firstbaptistcarmi.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-carmi/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-carmi"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistcarmi.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370759561"
+    }
+  ],
+  "advisories": []
+}

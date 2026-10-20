@@ -1,0 +1,33 @@
+{
+  "id": "zdjtmzf74",
+  "url": "https://constellation.church/zdjtmzf74",
+  "name": "Cherokee Presbyterian Church",
+  "displayName": "Cherokee Presbyterian Church",
+  "address": {
+    "street": "1498 Johnson Brady Road",
+    "city": "Canton",
+    "state": "GA",
+    "zip": "30115"
+  },
+  "coordinates": {
+    "latitude": 34.2403507232666,
+    "longitude": -84.38544464111328
+  },
+  "website": "https://cherokee-pca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/170",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "170"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cherokee-pca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581494581"
+    }
+  ],
+  "advisories": []
+}

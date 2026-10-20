@@ -1,0 +1,37 @@
+{
+  "id": "yhkc0jr04",
+  "url": "https://constellation.church/yhkc0jr04",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "116 Titcomb",
+    "city": "Poth",
+    "state": "TX",
+    "zip": "78147"
+  },
+  "coordinates": {
+    "latitude": 29.072044372558594,
+    "longitude": -98.08110809326172
+  },
+  "website": "https://stjohnpoth.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=826ed6ca-d96b-4adb-8f12-e7781f6c0822",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "826ed6ca-d96b-4adb-8f12-e7781f6c0822"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnpoth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742026965"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "746226251"
+    }
+  ],
+  "advisories": []
+}

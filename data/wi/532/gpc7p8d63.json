@@ -1,0 +1,33 @@
+{
+  "id": "gpc7p8d63",
+  "url": "https://constellation.church/gpc7p8d63",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "3030 W Oklahoma Ave",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53215-4351"
+  },
+  "coordinates": {
+    "latitude": 42.989017486572266,
+    "longitude": -87.95257949829102
+  },
+  "website": "https://grace-ok.org",
+  "listingUrl": "https://locator.lcms.org/church/C/588803",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "588803"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grace-ok.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237043224"
+    }
+  ],
+  "advisories": []
+}

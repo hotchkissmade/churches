@@ -1,0 +1,33 @@
+{
+  "id": "mmfw49f57",
+  "url": "https://constellation.church/mmfw49f57",
+  "name": "Keystone Baptist Church",
+  "displayName": "Keystone Baptist Church",
+  "address": {
+    "street": "212 Fleetwood Dr",
+    "city": "Lynchburg",
+    "state": "VA",
+    "zip": "24501"
+  },
+  "coordinates": {
+    "latitude": 37.3939151763916,
+    "longitude": -79.20617294311523
+  },
+  "website": "https://kbchurch.net",
+  "listingUrl": "https://churches.sbc.net/church/keystone-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "keystone-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kbchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540939227"
+    }
+  ],
+  "advisories": []
+}

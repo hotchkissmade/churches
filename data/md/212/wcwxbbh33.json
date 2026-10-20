@@ -1,0 +1,33 @@
+{
+  "id": "wcwxbbh33",
+  "url": "https://constellation.church/wcwxbbh33",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "8808 Harford Rd",
+    "city": "Parkville",
+    "state": "MD",
+    "zip": "21234-4122"
+  },
+  "coordinates": {
+    "latitude": 39.38445854187012,
+    "longitude": -76.53421401977539
+  },
+  "website": "https://stjohnsparkville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1b813f6d-ad49-4824-af5a-af04a06ddd62",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1b813f6d-ad49-4824-af5a-af04a06ddd62"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsparkville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "526012034"
+    }
+  ],
+  "advisories": []
+}

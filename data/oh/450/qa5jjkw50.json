@@ -1,0 +1,33 @@
+{
+  "id": "qa5jjkw50",
+  "url": "https://constellation.church/qa5jjkw50",
+  "name": "Somerville Community Church",
+  "displayName": "Somerville Community Church",
+  "address": {
+    "street": "207 Walnut St",
+    "city": "Somerville",
+    "state": "OH",
+    "zip": "45064"
+  },
+  "coordinates": {
+    "latitude": 39.56127166748047,
+    "longitude": -84.64178466796875
+  },
+  "website": "https://hope24-7.org",
+  "listingUrl": "https://churches.sbc.net/church/somerville-community-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "somerville-community-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hope24-7.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "352560477"
+    }
+  ],
+  "advisories": []
+}

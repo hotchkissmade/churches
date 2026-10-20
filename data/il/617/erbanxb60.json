@@ -1,0 +1,33 @@
+{
+  "id": "erbanxb60",
+  "url": "https://constellation.church/erbanxb60",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "100 W Cherry St",
+    "city": "Fairbury",
+    "state": "IL",
+    "zip": "61739-1148"
+  },
+  "coordinates": {
+    "latitude": 40.75154495239258,
+    "longitude": -88.51415252685547
+  },
+  "website": "https://trinitylutheranchurchfairburyil.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b0993a75-b929-4abb-9f04-79fba348c03c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b0993a75-b929-4abb-9f04-79fba348c03c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylutheranchurchfairburyil.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371001369"
+    }
+  ],
+  "advisories": []
+}

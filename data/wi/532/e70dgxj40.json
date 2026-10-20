@@ -1,0 +1,33 @@
+{
+  "id": "e70dgxj40",
+  "url": "https://constellation.church/e70dgxj40",
+  "name": "Redeemer Lutheran Church",
+  "displayName": "Redeemer Lutheran Church",
+  "address": {
+    "street": "631 N 19th St",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53233-2152"
+  },
+  "coordinates": {
+    "latitude": 43.03851318359375,
+    "longitude": -87.93690490722656
+  },
+  "website": "https://redeemermilwaukee.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4d7283bb-3bcc-47e4-8105-244fe5de6529",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4d7283bb-3bcc-47e4-8105-244fe5de6529"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemermilwaukee.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390972351"
+    }
+  ],
+  "advisories": []
+}

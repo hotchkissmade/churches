@@ -1,0 +1,33 @@
+{
+  "id": "q3djpad28",
+  "url": "https://constellation.church/q3djpad28",
+  "name": "The Citadel",
+  "displayName": "The Citadel",
+  "address": {
+    "street": "3602 S 12th Ave",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85713"
+  },
+  "coordinates": {
+    "latitude": 32.18135643005371,
+    "longitude": -110.97794342041016
+  },
+  "website": "https://thecitadeltucson.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=78a36e24-8387-4560-95e8-2831f81a7856&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "78a36e24-8387-4560-95e8-2831f81a7856"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thecitadeltucson.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "874648569"
+    }
+  ],
+  "advisories": []
+}

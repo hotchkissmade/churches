@@ -1,0 +1,33 @@
+{
+  "id": "fdq9mjf55",
+  "url": "https://constellation.church/fdq9mjf55",
+  "name": "New Jerusalem Lutheran Church",
+  "displayName": "New Jerusalem Lutheran Church",
+  "address": {
+    "street": "12942 Lutheran Church Rd",
+    "city": "Lovettsville",
+    "state": "VA",
+    "zip": "20180-2007"
+  },
+  "coordinates": {
+    "latitude": 39.25802230834961,
+    "longitude": -77.63957595825195
+  },
+  "website": "https://njlclovettsville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ca5d92c6-93cd-4249-b024-5e5a9668917f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ca5d92c6-93cd-4249-b024-5e5a9668917f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "njlclovettsville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541181160"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mpzbems37",
+  "url": "https://constellation.church/mpzbems37",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "5th & Race Sts",
+    "city": "Mifflinville",
+    "state": "PA",
+    "zip": "18631"
+  },
+  "coordinates": {
+    "latitude": 41.029319004661,
+    "longitude": -76.309461968466
+  },
+  "website": "https://stjohnslutheranmifflinville.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fb96bf7e-951f-40d5-8f37-8267c3af81a1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fb96bf7e-951f-40d5-8f37-8267c3af81a1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnslutheranmifflinville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750131967"
+    }
+  ],
+  "advisories": []
+}

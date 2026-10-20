@@ -1,0 +1,33 @@
+{
+  "id": "c08jgmp10",
+  "url": "https://constellation.church/c08jgmp10",
+  "name": "Green Pond Baptist Church",
+  "displayName": "Green Pond Baptist Church",
+  "address": {
+    "street": "5995 Green Pond Church Rd",
+    "city": "Polk City",
+    "state": "FL",
+    "zip": "33868"
+  },
+  "coordinates": {
+    "latitude": 28.326772689819336,
+    "longitude": -81.84477615356445
+  },
+  "website": "https://greenpondbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/green-pond-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "green-pond-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "greenpondbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592746033"
+    }
+  ],
+  "advisories": []
+}

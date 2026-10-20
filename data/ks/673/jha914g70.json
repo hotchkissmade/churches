@@ -1,0 +1,33 @@
+{
+  "id": "jha914g70",
+  "url": "https://constellation.church/jha914g70",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "1323 4th St",
+    "city": "Oswego",
+    "state": "KS",
+    "zip": "67356"
+  },
+  "coordinates": {
+    "latitude": 37.16719055175781,
+    "longitude": -95.11608123779297
+  },
+  "website": "https://oswegoag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=bf443091-2237-41df-9400-47d79b672e77&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "bf443091-2237-41df-9400-47d79b672e77"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oswegoag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480964372"
+    }
+  ],
+  "advisories": []
+}

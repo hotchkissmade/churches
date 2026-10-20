@@ -1,0 +1,33 @@
+{
+  "id": "w0qhp2s13",
+  "url": "https://constellation.church/w0qhp2s13",
+  "name": "Oak Ridge Presbyterian Church",
+  "displayName": "Oak Ridge Presbyterian Church",
+  "address": {
+    "street": "321 Oak Ridge Rd",
+    "city": "Oak Ridge",
+    "state": "NJ",
+    "zip": "07438"
+  },
+  "coordinates": {
+    "latitude": 41.04686737060547,
+    "longitude": -74.48558807373047
+  },
+  "website": "https://orpcnj.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/4725/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "4725"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "orpcnj.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221727204"
+    }
+  ],
+  "advisories": []
+}

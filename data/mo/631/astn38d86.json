@@ -1,0 +1,33 @@
+{
+  "id": "astn38d86",
+  "url": "https://constellation.church/astn38d86",
+  "name": "Christ Church Cathedral",
+  "displayName": "Christ Church Cathedral",
+  "address": {
+    "street": "1210 Locust Street",
+    "city": "Saint Louis",
+    "state": "MO",
+    "zip": "63103-2322"
+  },
+  "coordinates": {
+    "latitude": 38.63053894042969,
+    "longitude": -90.19843673706055
+  },
+  "website": "https://christchurchcathedral.us/home",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-missouri/list/christ-church-cathedral",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-missouri/christ-church-cathedral"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christchurchcathedral.us/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430653277"
+    }
+  ],
+  "advisories": []
+}

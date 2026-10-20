@@ -1,0 +1,33 @@
+{
+  "id": "fdt010d59",
+  "url": "https://constellation.church/fdt010d59",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "6.7 Mi SE of PA 982 on Bethel Church Rd (SR 2033)",
+    "city": "Latrobe",
+    "state": "PA",
+    "zip": "15650"
+  },
+  "coordinates": {
+    "latitude": 40.191762924194336,
+    "longitude": -79.3376693725586
+  },
+  "website": "https://bethellatrobe.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ae3d036a-21a2-44ad-854c-ea30a8410c27",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ae3d036a-21a2-44ad-854c-ea30a8410c27"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethellatrobe.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251357169"
+    }
+  ],
+  "advisories": []
+}

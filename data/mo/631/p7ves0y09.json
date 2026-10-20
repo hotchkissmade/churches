@@ -1,0 +1,33 @@
+{
+  "id": "p7ves0y09",
+  "url": "https://constellation.church/p7ves0y09",
+  "name": "Jewel Baptist Church",
+  "displayName": "Jewel Baptist Church",
+  "address": {
+    "street": "4618 Minnesota Ave",
+    "city": "Saint Louis",
+    "state": "MO",
+    "zip": "63111"
+  },
+  "coordinates": {
+    "latitude": 38.572383880615234,
+    "longitude": -90.23896789550781
+  },
+  "website": "https://jewelchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/jewel-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "jewel-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jewelchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430736362"
+    }
+  ],
+  "advisories": []
+}

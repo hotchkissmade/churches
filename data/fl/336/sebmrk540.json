@@ -1,0 +1,33 @@
+{
+  "id": "sebmrk540",
+  "url": "https://constellation.church/sebmrk540",
+  "name": "St. Andrew's Episcopal Church",
+  "displayName": "St. Andrew's Episcopal Church",
+  "address": {
+    "street": "509 E Twiggs St",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33602-3934"
+  },
+  "coordinates": {
+    "latitude": 27.949548721313477,
+    "longitude": -82.4565200805664
+  },
+  "website": "https://saintandrewstampa.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-southwest-florida/list/st-andrews-episcopal-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-southwest-florida/st-andrews-episcopal-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintandrewstampa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590816461"
+    }
+  ],
+  "advisories": []
+}

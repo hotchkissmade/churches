@@ -1,0 +1,29 @@
+{
+  "id": "abap6v110",
+  "url": "https://constellation.church/abap6v110",
+  "name": "MINNEHAHA ACADEMY",
+  "displayName": "Minnehaha Academy",
+  "address": {
+    "street": "3100 W RIVER PKWY",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55406"
+  },
+  "coordinates": {
+    "latitude": 44.945892,
+    "longitude": -93.2056199
+  },
+  "website": "https://minnehahaacademy.net",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410693870"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "minnehahaacademy.net"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xjr0vtv40",
+  "url": "https://constellation.church/xjr0vtv40",
+  "name": "Pendleton Street Baptist Church",
+  "displayName": "Pendleton Street Baptist Church",
+  "address": {
+    "street": "601 S Pendleton St",
+    "city": "Easley",
+    "state": "SC",
+    "zip": "29640"
+  },
+  "coordinates": {
+    "latitude": 34.82158088684082,
+    "longitude": -82.60101699829102
+  },
+  "website": "https://psbceasley.org",
+  "listingUrl": "https://churches.sbc.net/church/pendleton-street-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pendleton-street-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "psbceasley.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800678142"
+    }
+  ],
+  "advisories": []
+}

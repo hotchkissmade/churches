@@ -1,0 +1,33 @@
+{
+  "id": "kcqsmmh28",
+  "url": "https://constellation.church/kcqsmmh28",
+  "name": "South Gate Baptist Church",
+  "displayName": "South Gate Baptist Church",
+  "address": {
+    "street": "5701 S Farm Road 157",
+    "city": "Springfield",
+    "state": "MO",
+    "zip": "65810"
+  },
+  "coordinates": {
+    "latitude": 37.11041259765625,
+    "longitude": -93.29603576660156
+  },
+  "website": "https://southgate.org",
+  "listingUrl": "https://churches.sbc.net/church/south-gate-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "south-gate-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southgate.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431512746"
+    }
+  ],
+  "advisories": []
+}

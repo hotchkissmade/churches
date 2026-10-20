@@ -1,0 +1,33 @@
+{
+  "id": "egtvar821",
+  "url": "https://constellation.church/egtvar821",
+  "name": "Palm UMC",
+  "displayName": "Palm UMC United Methodist Church",
+  "address": {
+    "street": "438 West Tulare St",
+    "city": "Dinuba",
+    "state": "CA",
+    "zip": "93618"
+  },
+  "coordinates": {
+    "latitude": 36.538028717041016,
+    "longitude": -119.39375305175781
+  },
+  "website": "https://palmumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFGhQIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFGhQIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "palmumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "901250421"
+    }
+  ],
+  "advisories": []
+}

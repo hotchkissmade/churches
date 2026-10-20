@@ -1,0 +1,33 @@
+{
+  "id": "mhb4y5g28",
+  "url": "https://constellation.church/mhb4y5g28",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "212 S Front St",
+    "city": "Hamilton",
+    "state": "OH",
+    "zip": "45011-2832"
+  },
+  "coordinates": {
+    "latitude": 39.39855766296387,
+    "longitude": -84.56405258178711
+  },
+  "website": "https://zionhamilton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ea4912f9-bea2-4d2a-b6e7-45800863f311",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ea4912f9-bea2-4d2a-b6e7-45800863f311"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionhamilton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310544749"
+    }
+  ],
+  "advisories": []
+}

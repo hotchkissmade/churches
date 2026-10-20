@@ -1,0 +1,33 @@
+{
+  "id": "kdfzr7p20",
+  "url": "https://constellation.church/kdfzr7p20",
+  "name": "St. Paul's Episcopal Church",
+  "displayName": "St. Paul's Episcopal Church",
+  "address": {
+    "street": "126 Black Rock Rd",
+    "city": "Oaks",
+    "state": "PA",
+    "zip": "19456-0404"
+  },
+  "coordinates": {
+    "latitude": 40.12309265136719,
+    "longitude": -75.43706130981445
+  },
+  "website": "https://stpaulsoaks.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/st-pauls-episcopal-church-4",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/st-pauls-episcopal-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsoaks.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232012758"
+    }
+  ],
+  "advisories": []
+}

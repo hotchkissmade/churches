@@ -1,0 +1,33 @@
+{
+  "id": "rn6zm5m96",
+  "url": "https://constellation.church/rn6zm5m96",
+  "name": "Jehu's Table",
+  "displayName": "Jehu's Table",
+  "address": {
+    "street": "2424 Linden Blvd",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11208-4829"
+  },
+  "coordinates": {
+    "latitude": 40.66546630859375,
+    "longitude": -73.87389755249023
+  },
+  "website": "https://jehustable.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=30d5fdee-9c6b-41f8-8721-58dbab8dcdbe",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "30d5fdee-9c6b-41f8-8721-58dbab8dcdbe"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jehustable.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "831735472"
+    }
+  ],
+  "advisories": []
+}

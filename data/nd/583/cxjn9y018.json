@@ -1,0 +1,33 @@
+{
+  "id": "cxjn9y018",
+  "url": "https://constellation.church/cxjn9y018",
+  "name": "Warwick Lutheran Church",
+  "displayName": "Warwick Lutheran Church",
+  "address": {
+    "street": "427 Main St",
+    "city": "Warwick",
+    "state": "ND",
+    "zip": "58381-8121"
+  },
+  "coordinates": {
+    "latitude": 47.8566322,
+    "longitude": -98.7094597
+  },
+  "website": "https://morningstarparish.net/warwick-lutheran-church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b3f28ab1-aafd-4ab7-ba41-2f031fa145dc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b3f28ab1-aafd-4ab7-ba41-2f031fa145dc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "morningstarparish.net/warwick-lutheran-church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450377750"
+    }
+  ],
+  "advisories": []
+}

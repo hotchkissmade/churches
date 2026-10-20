@@ -1,0 +1,33 @@
+{
+  "id": "f7ka7tz77",
+  "url": "https://constellation.church/f7ka7tz77",
+  "name": "Peace Lutheran Church",
+  "displayName": "Peace Lutheran Church",
+  "address": {
+    "street": "101 Candlelight Ln",
+    "city": "Morris",
+    "state": "IL",
+    "zip": "60450-1001"
+  },
+  "coordinates": {
+    "latitude": 41.3791561126709,
+    "longitude": -88.43110656738281
+  },
+  "website": "https://plcmorris.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4af24224-501f-45fc-8582-5eacacf6d0c3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4af24224-501f-45fc-8582-5eacacf6d0c3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "plcmorris.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363804540"
+    }
+  ],
+  "advisories": []
+}

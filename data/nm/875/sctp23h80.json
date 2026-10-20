@@ -1,0 +1,33 @@
+{
+  "id": "sctp23h80",
+  "url": "https://constellation.church/sctp23h80",
+  "name": "White Rock Baptist Church",
+  "displayName": "White Rock Baptist Church",
+  "address": {
+    "street": "80 State Road 4",
+    "city": "White Rock",
+    "state": "NM",
+    "zip": "87547"
+  },
+  "coordinates": {
+    "latitude": 35.82484245300293,
+    "longitude": -106.21552276611328
+  },
+  "website": "https://wrbcnm.org",
+  "listingUrl": "https://churches.sbc.net/church/white-rock-baptist-church-4/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "white-rock-baptist-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wrbcnm.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850224683"
+    }
+  ],
+  "advisories": []
+}

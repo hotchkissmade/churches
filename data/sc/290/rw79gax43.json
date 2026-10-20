@@ -1,0 +1,33 @@
+{
+  "id": "rw79gax43",
+  "url": "https://constellation.church/rw79gax43",
+  "name": "LifeSpring Church",
+  "displayName": "LifeSpring Church",
+  "address": {
+    "street": "1062 Ridgeway Rd",
+    "city": "Lugoff",
+    "state": "SC",
+    "zip": "29078"
+  },
+  "coordinates": {
+    "latitude": 34.22675132751465,
+    "longitude": -80.70013427734375
+  },
+  "website": "https://lifespringsc.com",
+  "listingUrl": "https://churches.sbc.net/church/lifespring-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lifespring-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lifespringsc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570878074"
+    }
+  ],
+  "advisories": []
+}

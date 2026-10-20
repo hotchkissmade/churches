@@ -1,0 +1,33 @@
+{
+  "id": "qn32x0y03",
+  "url": "https://constellation.church/qn32x0y03",
+  "name": "Redeemer",
+  "displayName": "Redeemer Orthodox Presbyterian Church",
+  "address": {
+    "street": "P.O. Box 865",
+    "city": "Ada",
+    "state": "MI",
+    "zip": "49301"
+  },
+  "coordinates": {
+    "latitude": 42.94412612915039,
+    "longitude": -85.45547485351562
+  },
+  "website": "https://redeemer-opc.org",
+  "listingUrl": "https://opc.org/church.html?church_id=114",
+  "identifiers": [
+    {
+      "namespace": "org.opc.id",
+      "value": "114"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemer-opc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "383444248"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "syk8p6349",
+  "url": "https://constellation.church/syk8p6349",
+  "name": "Episcopal Diocese of Rhode Island",
+  "displayName": "Episcopal Diocese of Rhode Island",
+  "address": {
+    "street": "275 North Main Street",
+    "city": "Providence",
+    "state": "RI",
+    "zip": "02903"
+  },
+  "coordinates": {
+    "latitude": 41.8316666,
+    "longitude": -71.4105386
+  },
+  "website": "https://episcopalri.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/rhode-island/list/episcopal-diocese-rhode-island",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "rhode-island/episcopal-diocese-rhode-island"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "episcopalri.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "050258952"
+    }
+  ],
+  "advisories": []
+}

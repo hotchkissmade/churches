@@ -1,0 +1,33 @@
+{
+  "id": "svw5khv35",
+  "url": "https://constellation.church/svw5khv35",
+  "name": "Orange Baptist Church",
+  "displayName": "Orange Baptist Church",
+  "address": {
+    "street": "18962 96th St",
+    "city": "Live Oak",
+    "state": "FL",
+    "zip": "32060"
+  },
+  "coordinates": {
+    "latitude": 30.275257110595703,
+    "longitude": -83.14237976074219
+  },
+  "website": "https://obcva.org/watch-services",
+  "listingUrl": "https://churches.sbc.net/church/orange-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "orange-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "obcva.org/watch-services"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "331071064"
+    }
+  ],
+  "advisories": []
+}

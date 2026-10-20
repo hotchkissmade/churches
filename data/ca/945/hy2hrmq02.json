@@ -1,0 +1,33 @@
+{
+  "id": "hy2hrmq02",
+  "url": "https://constellation.church/hy2hrmq02",
+  "name": "Hillside Christian Center",
+  "displayName": "Hillside Christian Center",
+  "address": {
+    "street": "100 Anderson Rd",
+    "city": "Napa",
+    "state": "CA",
+    "zip": "94558"
+  },
+  "coordinates": {
+    "latitude": 38.25091361999512,
+    "longitude": -122.26769256591797
+  },
+  "website": "https://hccnapa.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=56e88787-7143-44dc-a118-3fc64790ad4c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "56e88787-7143-44dc-a118-3fc64790ad4c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hccnapa.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942634834"
+    }
+  ],
+  "advisories": []
+}

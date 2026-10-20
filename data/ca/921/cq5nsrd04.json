@@ -1,0 +1,33 @@
+{
+  "id": "cq5nsrd04",
+  "url": "https://constellation.church/cq5nsrd04",
+  "name": "St. Timothy's Episcopal Church",
+  "displayName": "St. Timothy's Episcopal Church",
+  "address": {
+    "street": "10125 Azuaga St",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92129-4000"
+  },
+  "coordinates": {
+    "latitude": 32.95934867858887,
+    "longitude": -117.10697937011719
+  },
+  "website": "https://sttimsandiego.org/minister-of-music-needed",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-san-diego/list/st-timothys-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-san-diego/st-timothys-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sttimsandiego.org/minister-of-music-needed"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "200547793"
+    }
+  ],
+  "advisories": []
+}

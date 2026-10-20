@@ -1,0 +1,33 @@
+{
+  "id": "dwbz94262",
+  "url": "https://constellation.church/dwbz94262",
+  "name": "New Song Church",
+  "displayName": "New Song Church",
+  "address": {
+    "street": "1550 Greenbriar Avenue",
+    "city": "Corona",
+    "state": "CA",
+    "zip": "92880"
+  },
+  "coordinates": {
+    "latitude": 33.90305137634277,
+    "longitude": -117.58798217773438
+  },
+  "website": "https://newsongcorona.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6767",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6767"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newsongcorona.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330829054"
+    }
+  ],
+  "advisories": []
+}

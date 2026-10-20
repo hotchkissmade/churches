@@ -1,0 +1,37 @@
+{
+  "id": "m2yh3rq14",
+  "url": "https://constellation.church/m2yh3rq14",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "310 Medayto Dr",
+    "city": "Spicer",
+    "state": "MN",
+    "zip": "56288-4631"
+  },
+  "coordinates": {
+    "latitude": 45.23889350891113,
+    "longitude": -94.94234848022461
+  },
+  "website": "https://faithspicer.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b3e46aeb-ecdc-47e9-82f0-93e1d73cd348",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b3e46aeb-ecdc-47e9-82f0-93e1d73cd348"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithspicer.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411301286"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "412021258"
+    }
+  ],
+  "advisories": []
+}

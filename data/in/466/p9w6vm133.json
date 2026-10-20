@@ -1,0 +1,33 @@
+{
+  "id": "p9w6vm133",
+  "url": "https://constellation.church/p9w6vm133",
+  "name": "Sunnyside Presbyterian Church",
+  "displayName": "Sunnyside Presbyterian Church",
+  "address": {
+    "street": "115 S Frances St",
+    "city": "South Bend",
+    "state": "IN",
+    "zip": "46617"
+  },
+  "coordinates": {
+    "latitude": 41.676021575927734,
+    "longitude": -86.23713684082031
+  },
+  "website": "https://sunnysidechurch.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/2168/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "2168"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sunnysidechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "350999227"
+    }
+  ],
+  "advisories": []
+}

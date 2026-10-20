@@ -1,0 +1,33 @@
+{
+  "id": "h59308g54",
+  "url": "https://constellation.church/h59308g54",
+  "name": "Elim Lutheran Church",
+  "displayName": "Elim Lutheran Church",
+  "address": {
+    "street": "302 W Church St",
+    "city": "Marshalltown",
+    "state": "IA",
+    "zip": "50158-2739"
+  },
+  "coordinates": {
+    "latitude": 42.04775619506836,
+    "longitude": -92.9183235168457
+  },
+  "website": "https://elimlutheranmarshalltown.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=292d6476-8a94-454d-8d0e-ff16bb100742",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "292d6476-8a94-454d-8d0e-ff16bb100742"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elimlutheranmarshalltown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426020589"
+    }
+  ],
+  "advisories": []
+}

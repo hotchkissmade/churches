@@ -1,0 +1,33 @@
+{
+  "id": "j942rnw81",
+  "url": "https://constellation.church/j942rnw81",
+  "name": "St. Mary's Episcopal Church",
+  "displayName": "St. Mary's Episcopal Church",
+  "address": {
+    "street": "24 N Masonic St",
+    "city": "Bellville",
+    "state": "TX",
+    "zip": "77418-1444"
+  },
+  "coordinates": {
+    "latitude": 29.9512939453125,
+    "longitude": -96.2585220336914
+  },
+  "website": "https://stmarysbellville.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-texas/list/st-marys-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-texas/st-marys-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarysbellville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742282401"
+    }
+  ],
+  "advisories": []
+}

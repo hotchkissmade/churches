@@ -1,0 +1,33 @@
+{
+  "id": "vc5dr8z53",
+  "url": "https://constellation.church/vc5dr8z53",
+  "name": "Lansdowne Friends Meeting",
+  "displayName": "Lansdowne Friends Meeting",
+  "address": {
+    "street": "120 N Lansdowne Ave",
+    "city": "Lansdowne",
+    "state": "PA",
+    "zip": "19050"
+  },
+  "coordinates": {
+    "latitude": 39.9432437,
+    "longitude": -75.2737556
+  },
+  "website": "https://lansdownefriendsmeeting.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/lansdowne-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "lansdowne-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lansdownefriendsmeeting.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232801925"
+    }
+  ],
+  "advisories": []
+}

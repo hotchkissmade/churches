@@ -1,0 +1,33 @@
+{
+  "id": "gy5z2kf25",
+  "url": "https://constellation.church/gy5z2kf25",
+  "name": "Trinity Evangelical Lutheran Church",
+  "displayName": "Trinity Evangelical Lutheran Church",
+  "address": {
+    "street": "38 N High St",
+    "city": "Arendtsville",
+    "state": "PA",
+    "zip": "17303"
+  },
+  "coordinates": {
+    "latitude": 39.92343330383301,
+    "longitude": -77.30130004882812
+  },
+  "website": "https://trinityarendtsville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b8f1bd3f-a786-4c9e-bde7-25e195d3a694",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b8f1bd3f-a786-4c9e-bde7-25e195d3a694"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityarendtsville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232278015"
+    }
+  ],
+  "advisories": []
+}

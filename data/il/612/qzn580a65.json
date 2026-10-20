@@ -1,0 +1,33 @@
+{
+  "id": "qzn580a65",
+  "url": "https://constellation.church/qzn580a65",
+  "name": "Trinity Evangelical Lutheran Church",
+  "displayName": "Trinity Evangelical Lutheran Church",
+  "address": {
+    "street": "1330 13th St",
+    "city": "Moline",
+    "state": "IL",
+    "zip": "61265-3016"
+  },
+  "coordinates": {
+    "latitude": 41.498390197753906,
+    "longitude": -90.51737976074219
+  },
+  "website": "https://tlcmoline.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2a551ea6-4f84-454a-8d88-921b593fb677",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2a551ea6-4f84-454a-8d88-921b593fb677"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcmoline.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362406268"
+    }
+  ],
+  "advisories": []
+}

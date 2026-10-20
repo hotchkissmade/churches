@@ -1,0 +1,33 @@
+{
+  "id": "bp3cqzv33",
+  "url": "https://constellation.church/bp3cqzv33",
+  "name": "Howard’s Creek Church",
+  "displayName": "Howard’s Creek Church",
+  "address": {
+    "street": "240 Howards Creek Church Rd",
+    "city": "Boone",
+    "state": "NC",
+    "zip": "28607"
+  },
+  "coordinates": {
+    "latitude": 36.24411964416504,
+    "longitude": -81.66396713256836
+  },
+  "website": "https://howardscreekchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/howards-creek-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "howards-creek-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "howardscreekchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561393600"
+    }
+  ],
+  "advisories": []
+}

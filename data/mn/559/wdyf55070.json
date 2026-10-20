@@ -1,0 +1,33 @@
+{
+  "id": "wdyf55070",
+  "url": "https://constellation.church/wdyf55070",
+  "name": "St. Peter's Episcopal Church",
+  "displayName": "St. Peter's Episcopal Church",
+  "address": {
+    "street": "101 NE 1st St",
+    "city": "Kasson",
+    "state": "MN",
+    "zip": "55944"
+  },
+  "coordinates": {
+    "latitude": 44.03056526184082,
+    "longitude": -92.74727249145508
+  },
+  "website": "https://stpeterskasson.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/st-peter-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/st-peter-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpeterskasson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411897958"
+    }
+  ],
+  "advisories": []
+}

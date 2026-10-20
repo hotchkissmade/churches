@@ -1,0 +1,33 @@
+{
+  "id": "y31nexx10",
+  "url": "https://constellation.church/y31nexx10",
+  "name": "Covenant Presbyterian Church",
+  "displayName": "Covenant Presbyterian Church",
+  "address": {
+    "street": "66 S. Palouse Street",
+    "city": "Walla Walla",
+    "state": "WA",
+    "zip": "99362"
+  },
+  "coordinates": {
+    "latitude": 46.06553649902344,
+    "longitude": -118.33876037597656
+  },
+  "website": "https://covenantwallawalla.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4583",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4583"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covenantwallawalla.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "753115162"
+    }
+  ],
+  "advisories": []
+}

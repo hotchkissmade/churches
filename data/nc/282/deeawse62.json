@@ -1,0 +1,33 @@
+{
+  "id": "deeawse62",
+  "url": "https://constellation.church/deeawse62",
+  "name": "East Charlotte Presbyterian Church",
+  "displayName": "East Charlotte Presbyterian Church",
+  "address": {
+    "street": "10101 Robinson Church Road",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28215"
+  },
+  "coordinates": {
+    "latitude": 35.240501403808594,
+    "longitude": -80.67266082763672
+  },
+  "website": "https://eastcharlottepres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5915",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5915"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastcharlottepres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "465271133"
+    }
+  ],
+  "advisories": []
+}

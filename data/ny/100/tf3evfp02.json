@@ -1,0 +1,37 @@
+{
+  "id": "tf3evfp02",
+  "url": "https://constellation.church/tf3evfp02",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "123 E 15th St",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10003-3557"
+  },
+  "coordinates": {
+    "latitude": 40.73464393615723,
+    "longitude": -73.98805618286133
+  },
+  "website": "https://christlutheranchurchnyc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1db4d4b6-2235-4aa4-9de8-46815e116e26",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1db4d4b6-2235-4aa4-9de8-46815e116e26"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christlutheranchurchnyc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "133195225"
+    },
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "11952"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qr8ggx196",
+  "url": "https://constellation.church/qr8ggx196",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "221 S Ellis Ave",
+    "city": "Peshtigo",
+    "state": "WI",
+    "zip": "54157-1403"
+  },
+  "coordinates": {
+    "latitude": 45.052263259887695,
+    "longitude": -87.75388717651367
+  },
+  "website": "https://zionpeshtigo.org/page/bulletins",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24624",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24624"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionpeshtigo.org/page/bulletins"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391429542"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ebzn2hs39",
+  "url": "https://constellation.church/ebzn2hs39",
+  "name": "Monterey Baptist Church",
+  "displayName": "Monterey Baptist Church",
+  "address": {
+    "street": "12501 Lomas Blvd NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87112"
+  },
+  "coordinates": {
+    "latitude": 35.08710289001465,
+    "longitude": -106.50909423828125
+  },
+  "website": "https://montereybaptist.church",
+  "listingUrl": "https://churches.sbc.net/church/monterey-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "monterey-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "montereybaptist.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850322724"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a79nr8p56",
+  "url": "https://constellation.church/a79nr8p56",
+  "name": "Fountain Lutheran Church",
+  "displayName": "Fountain Lutheran Church",
+  "address": {
+    "street": "314 Main St",
+    "city": "Fountain",
+    "state": "MN",
+    "zip": "55935"
+  },
+  "coordinates": {
+    "latitude": 43.74318313598633,
+    "longitude": -92.13661193847656
+  },
+  "website": "https://fountainlutheranchurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fb24f1ff-a231-4dfd-a2b6-e0f0b0a54e20",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fb24f1ff-a231-4dfd-a2b6-e0f0b0a54e20"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fountainlutheranchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411349411"
+    }
+  ],
+  "advisories": []
+}

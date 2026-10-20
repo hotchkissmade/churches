@@ -1,0 +1,33 @@
+{
+  "id": "v5a4rb404",
+  "url": "https://constellation.church/v5a4rb404",
+  "name": "St. Anne Church",
+  "displayName": "St. Anne Church",
+  "address": {
+    "street": "560 Oak Ridge Turnpike",
+    "city": "Oak Ridge",
+    "state": "TN",
+    "zip": "37830-7164"
+  },
+  "coordinates": {
+    "latitude": 36.03310203552246,
+    "longitude": -84.22731399536133
+  },
+  "website": "https://stanneorthodoxchurch.com",
+  "listingUrl": "https://www.oca.org/parishes/oca-so-knxsan",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-so-knxsan"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stanneorthodoxchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621735806"
+    }
+  ],
+  "advisories": []
+}

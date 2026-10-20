@@ -1,0 +1,33 @@
+{
+  "id": "msf4kmd64",
+  "url": "https://constellation.church/msf4kmd64",
+  "name": "River Bend Baptist Church",
+  "displayName": "River Bend Baptist Church",
+  "address": {
+    "street": "27600 FM 1093 Rd",
+    "city": "Fulshear",
+    "state": "TX",
+    "zip": "77441"
+  },
+  "coordinates": {
+    "latitude": 29.69477653503418,
+    "longitude": -95.86042022705078
+  },
+  "website": "https://houstonsfirst.org/ministries/hunt-retreat",
+  "listingUrl": "https://churches.sbc.net/church/river-bend-baptist-church-4/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "river-bend-baptist-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "houstonsfirst.org/ministries/hunt-retreat"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "043599162"
+    }
+  ],
+  "advisories": []
+}

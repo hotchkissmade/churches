@@ -1,0 +1,33 @@
+{
+  "id": "jv38amw82",
+  "url": "https://constellation.church/jv38amw82",
+  "name": "St Matthews First Baptist Church",
+  "displayName": "St. Matthews First Baptist Church",
+  "address": {
+    "street": "1410 Bridge St",
+    "city": "St Matthews",
+    "state": "SC",
+    "zip": "29135"
+  },
+  "coordinates": {
+    "latitude": 33.666093826293945,
+    "longitude": -80.78092193603516
+  },
+  "website": "https://fbcstmatthews.org",
+  "listingUrl": "https://churches.sbc.net/church/st-matthews-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "st-matthews-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcstmatthews.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570481916"
+    }
+  ],
+  "advisories": []
+}

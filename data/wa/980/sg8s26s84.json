@@ -1,0 +1,37 @@
+{
+  "id": "sg8s26s84",
+  "url": "https://constellation.church/sg8s26s84",
+  "name": "Calvary Lutheran Church",
+  "displayName": "Calvary Lutheran Church",
+  "address": {
+    "street": "2415 S 320th St",
+    "city": "Federal Way",
+    "state": "WA",
+    "zip": "98003-5442"
+  },
+  "coordinates": {
+    "latitude": 47.31454849243164,
+    "longitude": -122.30196380615234
+  },
+  "website": "https://calvaryfw.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bfe48d4a-2f82-4dbc-a348-fd0e9d9cfbc3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bfe48d4a-2f82-4dbc-a348-fd0e9d9cfbc3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "calvaryfw.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910854208"
+    },
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "9051"
+    }
+  ],
+  "advisories": []
+}

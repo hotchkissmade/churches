@@ -1,0 +1,33 @@
+{
+  "id": "sj28z8d58",
+  "url": "https://constellation.church/sj28z8d58",
+  "name": "South Creek Church",
+  "displayName": "South Creek Church",
+  "address": {
+    "street": "3145 W Republic Rd",
+    "city": "Springfield",
+    "state": "MO",
+    "zip": "65807"
+  },
+  "coordinates": {
+    "latitude": 37.138824462890625,
+    "longitude": -93.34319305419922
+  },
+  "website": "https://southcreekchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/south-creek-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "south-creek-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southcreekchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "562351962"
+    }
+  ],
+  "advisories": []
+}

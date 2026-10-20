@@ -1,0 +1,33 @@
+{
+  "id": "m9q1qca82",
+  "url": "https://constellation.church/m9q1qca82",
+  "name": "Peace Lutheran Church",
+  "displayName": "Peace Lutheran Church",
+  "address": {
+    "street": "210 NW 9th St",
+    "city": "Pendleton",
+    "state": "OR",
+    "zip": "97801-1579"
+  },
+  "coordinates": {
+    "latitude": 45.673980712890625,
+    "longitude": -118.79617309570312
+  },
+  "website": "https://peaceinpendleton.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=add39b91-ad80-45ac-a09e-b331372534bb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "add39b91-ad80-45ac-a09e-b331372534bb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "peaceinpendleton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "936097751"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "y6egtzw10",
+  "url": "https://constellation.church/y6egtzw10",
+  "name": "Peoples Covenant Church",
+  "displayName": "Peoples Covenant Church",
+  "address": {
+    "street": "800 S Standard Avenue",
+    "city": "San Juan",
+    "state": "TX",
+    "zip": "78589"
+  },
+  "coordinates": {
+    "latitude": 26.18681526184082,
+    "longitude": -98.15928649902344
+  },
+  "website": "https://peoplescov.church",
+  "listingUrl": "https://churches.sbc.net/church/peoples-covenant-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "peoples-covenant-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "peoplescov.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742574985"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "h9t8kbs44",
+  "url": "https://constellation.church/h9t8kbs44",
+  "name": "East Cooper Baptist Church",
+  "displayName": "East Cooper Baptist Church",
+  "address": {
+    "street": "361 Egypt Rd",
+    "city": "Mt Pleasant",
+    "state": "SC",
+    "zip": "29464"
+  },
+  "coordinates": {
+    "latitude": 32.84939384460449,
+    "longitude": -79.85679626464844
+  },
+  "website": "https://eastcooperbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/east-cooper-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "east-cooper-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastcooperbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570697258"
+    }
+  ],
+  "advisories": []
+}

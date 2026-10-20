@@ -1,0 +1,33 @@
+{
+  "id": "e47eqt516",
+  "url": "https://constellation.church/e47eqt516",
+  "name": "Portrait Church",
+  "displayName": "Portrait Church",
+  "address": {
+    "street": "1275 W Park Ave #7638",
+    "city": "Redlands",
+    "state": "CA",
+    "zip": "92373"
+  },
+  "coordinates": {
+    "latitude": 34.059152,
+    "longitude": -117.1996146
+  },
+  "website": "https://portrait.church/staff",
+  "listingUrl": "https://churches.sbc.net/church/portrait-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "portrait-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "portrait.church/staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "874195558"
+    }
+  ],
+  "advisories": []
+}

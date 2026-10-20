@@ -1,0 +1,33 @@
+{
+  "id": "df19qy038",
+  "url": "https://constellation.church/df19qy038",
+  "name": "Westside Baptist Church",
+  "displayName": "Westside Baptist Church",
+  "address": {
+    "street": "1522 N 24th St",
+    "city": "Corsicana",
+    "state": "TX",
+    "zip": "75110"
+  },
+  "coordinates": {
+    "latitude": 32.09889793395996,
+    "longitude": -96.48811340332031
+  },
+  "website": "https://westsidebaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/westside-baptist-church-42/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "westside-baptist-church-42"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westsidebaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521042002"
+    }
+  ],
+  "advisories": []
+}

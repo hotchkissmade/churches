@@ -1,0 +1,33 @@
+{
+  "id": "ms6347p40",
+  "url": "https://constellation.church/ms6347p40",
+  "name": "Episcopal Church in Almaden",
+  "displayName": "Episcopal Church in Almaden",
+  "address": {
+    "street": "6581 Camden Ave",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95120-1908"
+  },
+  "coordinates": {
+    "latitude": 37.22273635864258,
+    "longitude": -121.85746765136719
+  },
+  "website": "https://churchsanjose.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-el-camino-real/list/episcopal-church-almaden",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-el-camino-real/episcopal-church-almaden"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchsanjose.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941686552"
+    }
+  ],
+  "advisories": []
+}

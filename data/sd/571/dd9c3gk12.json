@@ -1,0 +1,33 @@
+{
+  "id": "dd9c3gk12",
+  "url": "https://constellation.church/dd9c3gk12",
+  "name": "Sioux Falls, SD",
+  "displayName": "United Church of God Sioux Falls",
+  "address": {
+    "street": "27213 473rd Ave",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57108"
+  },
+  "coordinates": {
+    "latitude": 43.44391632080078,
+    "longitude": -96.74811553955078
+  },
+  "website": "https://sfhopechurch.com/by-laws",
+  "listingUrl": "https://www.ucg.org/congregations/sioux-falls-sd",
+  "identifiers": [
+    {
+      "namespace": "org.ucg.id",
+      "value": "sioux-falls-sd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sfhopechurch.com/by-laws"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460432566"
+    }
+  ],
+  "advisories": []
+}

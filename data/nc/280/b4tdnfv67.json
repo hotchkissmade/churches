@@ -1,0 +1,33 @@
+{
+  "id": "b4tdnfv67",
+  "url": "https://constellation.church/b4tdnfv67",
+  "name": "Westport Baptist Church",
+  "displayName": "Westport Baptist Church",
+  "address": {
+    "street": "2372 Lake Shore Rd S",
+    "city": "Denver",
+    "state": "NC",
+    "zip": "28037"
+  },
+  "coordinates": {
+    "latitude": 35.49398231506348,
+    "longitude": -80.99363708496094
+  },
+  "website": "https://westport.church",
+  "listingUrl": "https://churches.sbc.net/church/westport-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "westport-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westport.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "566148261"
+    }
+  ],
+  "advisories": []
+}

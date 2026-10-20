@@ -1,0 +1,33 @@
+{
+  "id": "fkbyy0a12",
+  "url": "https://constellation.church/fkbyy0a12",
+  "name": "East Brunswick Community Church",
+  "displayName": "East Brunswick Community Church",
+  "address": {
+    "street": "144 Tices Lane",
+    "city": "East Brunswick",
+    "state": "NJ",
+    "zip": "08816"
+  },
+  "coordinates": {
+    "latitude": 40.453060150146484,
+    "longitude": -74.41550827026367
+  },
+  "website": "https://myebcc.org",
+  "listingUrl": "https://churches.sbc.net/church/east-brunswick-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "east-brunswick-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "myebcc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "872972128"
+    }
+  ],
+  "advisories": []
+}

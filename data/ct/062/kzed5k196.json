@@ -1,0 +1,33 @@
+{
+  "id": "kzed5k196",
+  "url": "https://constellation.church/kzed5k196",
+  "name": "The Worship Center",
+  "displayName": "The Worship Center",
+  "address": {
+    "street": "99 Marjorie Circle",
+    "city": "Hebron",
+    "state": "CT",
+    "zip": "06248"
+  },
+  "coordinates": {
+    "latitude": 41.68373107910156,
+    "longitude": -72.4229850769043
+  },
+  "website": "https://theworshipcenterct.org",
+  "listingUrl": "https://churches.sbc.net/church/the-worship-center/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-worship-center"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "theworshipcenterct.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222847592"
+    }
+  ],
+  "advisories": []
+}

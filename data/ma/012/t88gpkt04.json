@@ -1,0 +1,33 @@
+{
+  "id": "t88gpkt04",
+  "url": "https://constellation.church/t88gpkt04",
+  "name": "St. Nicholas Church",
+  "displayName": "St. Nicholas Church",
+  "address": {
+    "street": "1304 North St",
+    "city": "Pittsfield",
+    "state": "MA",
+    "zip": "01201-1541"
+  },
+  "coordinates": {
+    "latitude": 42.479984283447266,
+    "longitude": -73.24567031860352
+  },
+  "website": "https://stnicholaspittsfield.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ne-ptfsnc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ne-ptfsnc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stnicholaspittsfield.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "043099493"
+    }
+  ],
+  "advisories": []
+}

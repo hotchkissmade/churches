@@ -1,0 +1,33 @@
+{
+  "id": "bbxg0w997",
+  "url": "https://constellation.church/bbxg0w997",
+  "name": "Salem Presbyterian Church",
+  "displayName": "Salem Presbyterian Church",
+  "address": {
+    "street": "600 Holly Avenue",
+    "city": "Winston-Salem",
+    "state": "NC",
+    "zip": "27101"
+  },
+  "coordinates": {
+    "latitude": 36.096435546875,
+    "longitude": -80.24990463256836
+  },
+  "website": "https://salempresws.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5582",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5582"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salempresws.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "851191260"
+    }
+  ],
+  "advisories": []
+}

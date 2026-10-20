@@ -1,0 +1,33 @@
+{
+  "id": "x1mf46824",
+  "url": "https://constellation.church/x1mf46824",
+  "name": "Kingwood Southern Baptist Church",
+  "displayName": "Kingwood Southern Baptist Church",
+  "address": {
+    "street": "18508 Veterans Memorial Hwy",
+    "city": "Kingwood",
+    "state": "WV",
+    "zip": "26537"
+  },
+  "coordinates": {
+    "latitude": 39.479618072509766,
+    "longitude": -79.71866607666016
+  },
+  "website": "https://kingwoodsbc.com",
+  "listingUrl": "https://churches.sbc.net/church/kingwood-southern-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "kingwood-southern-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kingwoodsbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "550389231"
+    }
+  ],
+  "advisories": []
+}

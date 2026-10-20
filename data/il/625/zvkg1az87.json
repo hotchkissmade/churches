@@ -1,0 +1,33 @@
+{
+  "id": "zvkg1az87",
+  "url": "https://constellation.church/zvkg1az87",
+  "name": "Oreana Baptist Church",
+  "displayName": "Oreana Baptist Church",
+  "address": {
+    "street": "107 W Bower St",
+    "city": "Oreana",
+    "state": "IL",
+    "zip": "62554"
+  },
+  "coordinates": {
+    "latitude": 39.93814468383789,
+    "longitude": -88.86579895019531
+  },
+  "website": "https://oreanabaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/oreana-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "oreana-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oreanabaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "376084344"
+    }
+  ],
+  "advisories": []
+}

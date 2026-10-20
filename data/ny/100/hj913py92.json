@@ -1,0 +1,33 @@
+{
+  "id": "hj913py92",
+  "url": "https://constellation.church/hj913py92",
+  "name": "St. Michael's Church, Manhattan",
+  "displayName": "St. Michael's Church, Manhattan",
+  "address": {
+    "street": "225 W. 99th St.",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10025"
+  },
+  "coordinates": {
+    "latitude": 40.796342849731445,
+    "longitude": -73.9689826965332
+  },
+  "website": "https://saintmichaelschurch.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-new-york/list/st-michaels-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-new-york/st-michaels-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintmichaelschurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "131656684"
+    }
+  ],
+  "advisories": []
+}

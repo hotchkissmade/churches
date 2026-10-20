@@ -1,0 +1,33 @@
+{
+  "id": "d074ce851",
+  "url": "https://constellation.church/d074ce851",
+  "name": "New England Grace Presbyterian Church",
+  "displayName": "New England Grace Presbyterian Church",
+  "address": {
+    "street": "139 Vanderbilt Avenue",
+    "city": "West Hartford",
+    "state": "CT",
+    "zip": "06110"
+  },
+  "coordinates": {
+    "latitude": 41.7356995,
+    "longitude": -72.7183467
+  },
+  "website": "https://negrace.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5390",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5390"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "negrace.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "300528195"
+    }
+  ],
+  "advisories": []
+}

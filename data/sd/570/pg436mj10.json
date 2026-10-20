@@ -1,0 +1,33 @@
+{
+  "id": "pg436mj10",
+  "url": "https://constellation.church/pg436mj10",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "607 W Main St",
+    "city": "Elk Point",
+    "state": "SD",
+    "zip": "57025-2295"
+  },
+  "coordinates": {
+    "latitude": 42.68975830078125,
+    "longitude": -96.69034576416016
+  },
+  "website": "https://immanuelelkpoint.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dced3e5d-9ccb-4071-829a-f5caa5c6b8be",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dced3e5d-9ccb-4071-829a-f5caa5c6b8be"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "immanuelelkpoint.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460334653"
+    }
+  ],
+  "advisories": []
+}

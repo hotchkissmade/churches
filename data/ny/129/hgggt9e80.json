@@ -1,0 +1,33 @@
+{
+  "id": "hgggt9e80",
+  "url": "https://constellation.church/hgggt9e80",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "164 Prospect Ave",
+    "city": "Plattsburgh",
+    "state": "NY",
+    "zip": "12901"
+  },
+  "coordinates": {
+    "latitude": 44.70469284057617,
+    "longitude": -73.47401809692383
+  },
+  "website": "https://plattsburghag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=243b4ecc-59fb-46b4-99f0-5b2f19f67f02&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "243b4ecc-59fb-46b4-99f0-5b2f19f67f02"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "plattsburghag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "141584658"
+    }
+  ],
+  "advisories": []
+}

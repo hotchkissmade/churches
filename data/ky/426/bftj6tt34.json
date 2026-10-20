@@ -1,0 +1,33 @@
+{
+  "id": "bftj6tt34",
+  "url": "https://constellation.church/bftj6tt34",
+  "name": "First Baptist Church Jamestown",
+  "displayName": "First Baptist Church Jamestown",
+  "address": {
+    "street": "165 West Cumberland Avenue",
+    "city": "Jamestown",
+    "state": "KY",
+    "zip": "42629"
+  },
+  "coordinates": {
+    "latitude": 36.98344039916992,
+    "longitude": -85.06591796875
+  },
+  "website": "https://jfirst.church",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-jamestown/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-jamestown"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jfirst.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310791342"
+    }
+  ],
+  "advisories": []
+}

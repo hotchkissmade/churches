@@ -1,0 +1,33 @@
+{
+  "id": "wwhsfja73",
+  "url": "https://constellation.church/wwhsfja73",
+  "name": "First Federated Presbyterian Church",
+  "displayName": "First Federated Presbyterian Church",
+  "address": {
+    "street": "10786 Mahoning Ave",
+    "city": "North Jackson",
+    "state": "OH",
+    "zip": "44451"
+  },
+  "coordinates": {
+    "latitude": 41.100433349609375,
+    "longitude": -80.85313034057617
+  },
+  "website": "https://firstfederatedchurch.net",
+  "listingUrl": "https://church-trends.pcusa.org/church/6563/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "6563"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstfederatedchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340925576"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "kr3ns2p80",
+  "url": "https://constellation.church/kr3ns2p80",
+  "name": "St. Anthony the Great Church",
+  "displayName": "St. Anthony the Great Church",
+  "address": {
+    "street": "66 St. Anthony Way",
+    "city": "Bozeman",
+    "state": "MT",
+    "zip": "59715"
+  },
+  "coordinates": {
+    "latitude": 45.72450637817383,
+    "longitude": -111.14620971679688
+  },
+  "website": "https://orthodoxbozeman.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-we-bozomc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-we-bozomc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "orthodoxbozeman.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "200615313"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810543692"
+    }
+  ],
+  "advisories": []
+}

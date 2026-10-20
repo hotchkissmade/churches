@@ -1,0 +1,33 @@
+{
+  "id": "xeh2tjp31",
+  "url": "https://constellation.church/xeh2tjp31",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "112 E. 23rd Ave",
+    "city": "Bellevue",
+    "state": "NE",
+    "zip": "68005"
+  },
+  "coordinates": {
+    "latitude": 41.135650634765625,
+    "longitude": -95.89260864257812
+  },
+  "website": "https://firstbellevue.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-648/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-648"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbellevue.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "476050001"
+    }
+  ],
+  "advisories": []
+}

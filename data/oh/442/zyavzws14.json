@@ -1,0 +1,33 @@
+{
+  "id": "zyavzws14",
+  "url": "https://constellation.church/zyavzws14",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "146 High St",
+    "city": "Wadsworth",
+    "state": "OH",
+    "zip": "44281-1859"
+  },
+  "coordinates": {
+    "latitude": 41.02680969238281,
+    "longitude": -81.72994995117188
+  },
+  "website": "https://gracewadsworth.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4bd4ca71-e471-428a-a8ee-2a81253c9fa2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4bd4ca71-e471-428a-a8ee-2a81253c9fa2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracewadsworth.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340733150"
+    }
+  ],
+  "advisories": []
+}

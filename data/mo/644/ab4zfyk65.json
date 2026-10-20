@@ -1,0 +1,33 @@
+{
+  "id": "ab4zfyk65",
+  "url": "https://constellation.church/ab4zfyk65",
+  "name": "First Baptist Church Savannah",
+  "displayName": "First Baptist Church Savannah",
+  "address": {
+    "street": "500 E Pawnee St",
+    "city": "Savannah",
+    "state": "MO",
+    "zip": "64485"
+  },
+  "coordinates": {
+    "latitude": 39.93382263183594,
+    "longitude": -94.81864929199219
+  },
+  "website": "https://fbcsavmo.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-savannah/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-savannah"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcsavmo.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421306194"
+    }
+  ],
+  "advisories": []
+}

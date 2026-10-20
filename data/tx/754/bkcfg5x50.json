@@ -1,0 +1,33 @@
+{
+  "id": "bkcfg5x50",
+  "url": "https://constellation.church/bkcfg5x50",
+  "name": "Church of the Holy Trinity",
+  "displayName": "Church of the Holy Trinity",
+  "address": {
+    "street": "623 Star St",
+    "city": "Bonham",
+    "state": "TX",
+    "zip": "75418-3630"
+  },
+  "coordinates": {
+    "latitude": 33.57985496520996,
+    "longitude": -96.18148040771484
+  },
+  "website": "https://holytrinitybonhamtx.org/about-us",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-dallas/list/church-holy-trinity",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-dallas/church-holy-trinity"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holytrinitybonhamtx.org/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752326354"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "k85njkm38",
+  "url": "https://constellation.church/k85njkm38",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "28 N 3rd St",
+    "city": "Mount Wolf",
+    "state": "PA",
+    "zip": "17347-6728"
+  },
+  "coordinates": {
+    "latitude": 40.063737869262695,
+    "longitude": -76.70536422729492
+  },
+  "website": "https://stjohnmtwolf.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e67a6982-7d10-4ae9-98c7-9bafc29337d6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e67a6982-7d10-4ae9-98c7-9bafc29337d6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnmtwolf.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232062478"
+    }
+  ],
+  "advisories": []
+}

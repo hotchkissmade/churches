@@ -1,0 +1,33 @@
+{
+  "id": "w68ash030",
+  "url": "https://constellation.church/w68ash030",
+  "name": "St. Andrews Presbyterian Church",
+  "displayName": "St. Andrew's Presbyterian Church",
+  "address": {
+    "street": "256 GA Hwy 27 E",
+    "city": "Americus",
+    "state": "GA",
+    "zip": "31709"
+  },
+  "coordinates": {
+    "latitude": 32.07068061828613,
+    "longitude": -84.19331359863281
+  },
+  "website": "https://saintandrewspca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/68",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "68"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintandrewspca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581890353"
+    }
+  ],
+  "advisories": []
+}

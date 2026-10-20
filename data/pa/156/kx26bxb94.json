@@ -1,0 +1,33 @@
+{
+  "id": "kx26bxb94",
+  "url": "https://constellation.church/kx26bxb94",
+  "name": "Pioneer Presbyterian Church",
+  "displayName": "Pioneer Presbyterian Church",
+  "address": {
+    "street": "240 West Main Street",
+    "city": "Ligonier",
+    "state": "PA",
+    "zip": "15658"
+  },
+  "coordinates": {
+    "latitude": 40.24491882324219,
+    "longitude": -79.24023818969727
+  },
+  "website": "https://pioneerpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/838",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "838"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pioneerpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251398380"
+    }
+  ],
+  "advisories": []
+}

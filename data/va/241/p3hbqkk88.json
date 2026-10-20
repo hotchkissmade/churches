@@ -1,0 +1,33 @@
+{
+  "id": "p3hbqkk88",
+  "url": "https://constellation.church/p3hbqkk88",
+  "name": "Troutville Baptist Church",
+  "displayName": "Troutville Baptist Church",
+  "address": {
+    "street": "5520 Lee Hwy",
+    "city": "Troutville",
+    "state": "VA",
+    "zip": "24175"
+  },
+  "coordinates": {
+    "latitude": 37.41892623901367,
+    "longitude": -79.87420654296875
+  },
+  "website": "https://troutvillebaptist.church",
+  "listingUrl": "https://churches.sbc.net/church/troutville-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "troutville-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "troutvillebaptist.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541250988"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a7snc7f83",
+  "url": "https://constellation.church/a7snc7f83",
+  "name": "Nexus Christian Church",
+  "displayName": "Nexus Christian Church",
+  "address": {
+    "street": "1496 Deer Crossing Ln",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43085"
+  },
+  "coordinates": {
+    "latitude": 40.121490478515625,
+    "longitude": -82.97645568847656
+  },
+  "website": "https://churchnexus.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=788fd683-8d12-449d-801b-427f4f4658cf&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "788fd683-8d12-449d-801b-427f4f4658cf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchnexus.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "933546337"
+    }
+  ],
+  "advisories": []
+}

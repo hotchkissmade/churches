@@ -1,0 +1,33 @@
+{
+  "id": "e6rpcfn34",
+  "url": "https://constellation.church/e6rpcfn34",
+  "name": "Chapelhill Church",
+  "displayName": "Chapelhill Church",
+  "address": {
+    "street": "5357 Chapel Hill Rd",
+    "city": "Douglasville",
+    "state": "GA",
+    "zip": "30135"
+  },
+  "coordinates": {
+    "latitude": 33.658884048461914,
+    "longitude": -84.71427536010742
+  },
+  "website": "https://chapelhill.cc",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=363dda8a-2593-4cb3-8159-5918147c7895&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "363dda8a-2593-4cb3-8159-5918147c7895"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chapelhill.cc"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "582626668"
+    }
+  ],
+  "advisories": []
+}

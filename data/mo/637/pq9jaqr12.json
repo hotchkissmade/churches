@@ -1,0 +1,33 @@
+{
+  "id": "pq9jaqr12",
+  "url": "https://constellation.church/pq9jaqr12",
+  "name": "Lynwood Baptist Church",
+  "displayName": "Lynwood Baptist Church",
+  "address": {
+    "street": "2935 Lynwood Hills Dr",
+    "city": "Cape Girardeau",
+    "state": "MO",
+    "zip": "63701"
+  },
+  "coordinates": {
+    "latitude": 37.33825874328613,
+    "longitude": -89.58080291748047
+  },
+  "website": "https://lynwood.church",
+  "listingUrl": "https://churches.sbc.net/church/lynwood-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lynwood-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lynwood.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430995505"
+    }
+  ],
+  "advisories": []
+}

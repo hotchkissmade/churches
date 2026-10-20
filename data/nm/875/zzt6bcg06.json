@@ -1,0 +1,33 @@
+{
+  "id": "zzt6bcg06",
+  "url": "https://constellation.church/zzt6bcg06",
+  "name": "First Baptist Church of Santa Fe",
+  "displayName": "First Baptist Church of Santa Fe",
+  "address": {
+    "street": "1605 Old Pecos Trail",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87505"
+  },
+  "coordinates": {
+    "latitude": 35.66222953796387,
+    "longitude": -105.93696594238281
+  },
+  "website": "https://fbcsantafe.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-santa-fe/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-santa-fe"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcsantafe.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850166784"
+    }
+  ],
+  "advisories": []
+}

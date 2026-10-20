@@ -1,0 +1,33 @@
+{
+  "id": "r4thm6782",
+  "url": "https://constellation.church/r4thm6782",
+  "name": "St. Andrews Presbyterian Church",
+  "displayName": "St. Andrew's Presbyterian Church",
+  "address": {
+    "street": "6952 St. Andrews Road",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29212"
+  },
+  "coordinates": {
+    "latitude": 34.07449150085449,
+    "longitude": -81.17588424682617
+  },
+  "website": "https://sapc.net",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/958",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "958"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sapc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570753651"
+    }
+  ],
+  "advisories": []
+}

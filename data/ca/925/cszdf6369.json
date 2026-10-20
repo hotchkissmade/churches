@@ -1,0 +1,33 @@
+{
+  "id": "cszdf6369",
+  "url": "https://constellation.church/cszdf6369",
+  "name": "Magnolia Church",
+  "displayName": "Magnolia Church",
+  "address": {
+    "street": "8351 Magnolia Ave",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92504"
+  },
+  "coordinates": {
+    "latitude": 33.93309211730957,
+    "longitude": -117.42455291748047
+  },
+  "website": "https://magonline.com",
+  "listingUrl": "https://churches.sbc.net/church/magnolia-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "magnolia-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "magonline.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952282505"
+    }
+  ],
+  "advisories": []
+}

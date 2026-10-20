@@ -1,0 +1,33 @@
+{
+  "id": "e9kch7z15",
+  "url": "https://constellation.church/e9kch7z15",
+  "name": "Tallmadge United Methodist Church",
+  "displayName": "Tallmadge United Methodist Church",
+  "address": {
+    "street": "207 North Munroe Road",
+    "city": "Tallmadge",
+    "state": "OH",
+    "zip": "44278"
+  },
+  "coordinates": {
+    "latitude": 41.10684776306152,
+    "longitude": -81.41724395751953
+  },
+  "website": "https://tallmadgeumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFNMGIA5",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFNMGIA5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tallmadgeumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "346529615"
+    }
+  ],
+  "advisories": []
+}

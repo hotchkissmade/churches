@@ -1,0 +1,33 @@
+{
+  "id": "bxaewyw19",
+  "url": "https://constellation.church/bxaewyw19",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "5001 NE Loop 820",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76137"
+  },
+  "coordinates": {
+    "latitude": 32.840402603149414,
+    "longitude": -97.27054595947266
+  },
+  "website": "https://fbcfw.org/about/leadership",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-1197/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-1197"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcfw.org/about/leadership"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750908996"
+    }
+  ],
+  "advisories": []
+}

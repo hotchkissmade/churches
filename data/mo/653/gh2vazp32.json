@@ -1,0 +1,33 @@
+{
+  "id": "gh2vazp32",
+  "url": "https://constellation.church/gh2vazp32",
+  "name": "Southside Assembly of God",
+  "displayName": "Southside Assembly of God",
+  "address": {
+    "street": "925 W Morrow St",
+    "city": "Marshall",
+    "state": "MO",
+    "zip": "65340"
+  },
+  "coordinates": {
+    "latitude": 39.10471534729004,
+    "longitude": -93.21087646484375
+  },
+  "website": "https://southsideag.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=537fe871-ff2d-49cf-8390-8880d6bca6db&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "537fe871-ff2d-49cf-8390-8880d6bca6db"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southsideag.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431307362"
+    }
+  ],
+  "advisories": []
+}

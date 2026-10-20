@@ -1,0 +1,33 @@
+{
+  "id": "n60ppvg23",
+  "url": "https://constellation.church/n60ppvg23",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "830 Lafayette Rd",
+    "city": "Medina",
+    "state": "OH",
+    "zip": "44256"
+  },
+  "coordinates": {
+    "latitude": 41.12623596191406,
+    "longitude": -81.88544464111328
+  },
+  "website": "https://medinaag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=915d426f-28a0-4541-81e5-2001959fe25a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "915d426f-28a0-4541-81e5-2001959fe25a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "medinaag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341361210"
+    }
+  ],
+  "advisories": []
+}

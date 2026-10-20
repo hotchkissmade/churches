@@ -1,0 +1,33 @@
+{
+  "id": "kbstfac79",
+  "url": "https://constellation.church/kbstfac79",
+  "name": "Greene Road CRC",
+  "displayName": "Greene Road Christian Reformed Church",
+  "address": {
+    "street": "518 N Greene Rd",
+    "city": "Goshen",
+    "state": "IN",
+    "zip": "46526"
+  },
+  "coordinates": {
+    "latitude": 41.59273147583008,
+    "longitude": -85.86721801757812
+  },
+  "website": "https://goshen.church/live",
+  "listingUrl": "https://www.crcna.org/churches/5735",
+  "identifiers": [
+    {
+      "namespace": "org.crcna.id",
+      "value": "5735"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goshen.church/live"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237241329"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pe24kbj10",
+  "url": "https://constellation.church/pe24kbj10",
+  "name": "Sinai Lutheran Church",
+  "displayName": "Sinai Lutheran Church",
+  "address": {
+    "street": "950 E 8th St",
+    "city": "Fremont",
+    "state": "NE",
+    "zip": "68025-5225"
+  },
+  "coordinates": {
+    "latitude": 41.43669509887695,
+    "longitude": -96.48519897460938
+  },
+  "website": "https://sinailutheran.com/history.html",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3e685e85-e57e-435f-95c3-cd2d688be385",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3e685e85-e57e-435f-95c3-cd2d688be385"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sinailutheran.com/history.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470413919"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cqj8h6r22",
+  "url": "https://constellation.church/cqj8h6r22",
+  "name": "LifeSpring Church",
+  "displayName": "LifeSpring Church",
+  "address": {
+    "street": "13904 S 36th St",
+    "city": "Bellevue",
+    "state": "NE",
+    "zip": "68123"
+  },
+  "coordinates": {
+    "latitude": 41.104103088378906,
+    "longitude": -95.96749877929688
+  },
+  "website": "https://lifespring.church",
+  "listingUrl": "https://churches.sbc.net/church/lifespring-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lifespring-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lifespring.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470764771"
+    }
+  ],
+  "advisories": []
+}

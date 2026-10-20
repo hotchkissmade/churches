@@ -1,0 +1,33 @@
+{
+  "id": "nbze11p93",
+  "url": "https://constellation.church/nbze11p93",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "1701 W Old Shakopee Rd",
+    "city": "Bloomington",
+    "state": "MN",
+    "zip": "55431-3025"
+  },
+  "coordinates": {
+    "latitude": 44.8233647,
+    "longitude": -93.3012516
+  },
+  "website": "https://stlukesbloomington.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5c925a53-363f-4540-896b-de2ba07043bc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5c925a53-363f-4540-896b-de2ba07043bc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesbloomington.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410829543"
+    }
+  ],
+  "advisories": []
+}

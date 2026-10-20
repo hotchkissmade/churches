@@ -1,0 +1,33 @@
+{
+  "id": "qkhnkv465",
+  "url": "https://constellation.church/qkhnkv465",
+  "name": "Union Baptist Church",
+  "displayName": "Union Baptist Church",
+  "address": {
+    "street": "1628 W Union Rd",
+    "city": "Picayune",
+    "state": "MS",
+    "zip": "39466"
+  },
+  "coordinates": {
+    "latitude": 30.584543228149414,
+    "longitude": -89.54565048217773
+  },
+  "website": "https://ubcnet.org",
+  "listingUrl": "https://churches.sbc.net/church/union-baptist-church-5/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "union-baptist-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ubcnet.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640505217"
+    }
+  ],
+  "advisories": []
+}

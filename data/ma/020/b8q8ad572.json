@@ -1,0 +1,33 @@
+{
+  "id": "b8q8ad572",
+  "url": "https://constellation.church/b8q8ad572",
+  "name": "Saint Lukes Lutheran Church",
+  "displayName": "St. Luke's Lutheran Church",
+  "address": {
+    "street": "950 East St",
+    "city": "Dedham",
+    "state": "MA",
+    "zip": "02026-6335"
+  },
+  "coordinates": {
+    "latitude": 42.22977256774902,
+    "longitude": -71.16047286987305
+  },
+  "website": "https://stlukesdedham.org/content.cfm",
+  "listingUrl": "https://locator.lcms.org/church/C/231017",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "231017"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesdedham.org/content.cfm"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "046047895"
+    }
+  ],
+  "advisories": []
+}

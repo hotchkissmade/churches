@@ -1,0 +1,33 @@
+{
+  "id": "e2y4y5t63",
+  "url": "https://constellation.church/e2y4y5t63",
+  "name": "Holy Trinity Church",
+  "displayName": "Holy Trinity Church",
+  "address": {
+    "street": "830 Jefferson Ave",
+    "city": "Rahway",
+    "state": "NJ",
+    "zip": "07065-2618"
+  },
+  "coordinates": {
+    "latitude": 40.60611343383789,
+    "longitude": -74.29143905639648
+  },
+  "website": "https://orthodoxrahway.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ny-rahhtc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ny-rahhtc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "orthodoxrahway.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222054709"
+    }
+  ],
+  "advisories": []
+}

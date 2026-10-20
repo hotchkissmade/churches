@@ -1,0 +1,33 @@
+{
+  "id": "n1zsdhs48",
+  "url": "https://constellation.church/n1zsdhs48",
+  "name": "Falls Church",
+  "displayName": "Falls Church",
+  "address": {
+    "street": "Ste 9 2701 S Minnesota Ave",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57105"
+  },
+  "coordinates": {
+    "latitude": 43.51995658874512,
+    "longitude": -96.73210144042969
+  },
+  "website": "https://falls.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=37e7403c-914e-4aee-9358-5d3f28155f8d&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "37e7403c-914e-4aee-9358-5d3f28155f8d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "falls.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "680630642"
+    }
+  ],
+  "advisories": []
+}

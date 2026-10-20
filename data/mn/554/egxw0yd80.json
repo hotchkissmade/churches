@@ -1,0 +1,33 @@
+{
+  "id": "egxw0yd80",
+  "url": "https://constellation.church/egxw0yd80",
+  "name": "House Of Hope Lutheran Church",
+  "displayName": "House Of Hope Lutheran Church",
+  "address": {
+    "street": "4800 Boone Ave N",
+    "city": "New Hope",
+    "state": "MN",
+    "zip": "55428-4427"
+  },
+  "coordinates": {
+    "latitude": 45.041595458984375,
+    "longitude": -93.38965606689453
+  },
+  "website": "https://hohlc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9c1e783e-3cef-4b4d-8b97-7d9a8d2dee31",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9c1e783e-3cef-4b4d-8b97-7d9a8d2dee31"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hohlc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410941917"
+    }
+  ],
+  "advisories": []
+}

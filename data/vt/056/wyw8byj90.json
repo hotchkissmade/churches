@@ -1,0 +1,33 @@
+{
+  "id": "wyw8byj90",
+  "url": "https://constellation.church/wyw8byj90",
+  "name": "St. Mary's Episcopal Parish",
+  "displayName": "St. Mary's Episcopal Parish",
+  "address": {
+    "street": "203 S Main St",
+    "city": "Northfield",
+    "state": "VT",
+    "zip": "05663-5670"
+  },
+  "coordinates": {
+    "latitude": 44.14607620239258,
+    "longitude": -72.65606307983398
+  },
+  "website": "https://stmarysnorthfield.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/episcopal-church-vermont/list/st-marys-episcopal-parish",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "episcopal-church-vermont/st-marys-episcopal-parish"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarysnorthfield.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030304785"
+    }
+  ],
+  "advisories": []
+}

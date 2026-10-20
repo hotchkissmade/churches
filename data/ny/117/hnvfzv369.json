@@ -1,0 +1,33 @@
+{
+  "id": "hnvfzv369",
+  "url": "https://constellation.church/hnvfzv369",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "175 E Main St",
+    "city": "Smithtown",
+    "state": "NY",
+    "zip": "11787-2808"
+  },
+  "coordinates": {
+    "latitude": 40.85674858093262,
+    "longitude": -73.18814468383789
+  },
+  "website": "https://fpcsmithtown.net/index.html",
+  "listingUrl": "https://church-trends.pcusa.org/church/5314/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "5314"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcsmithtown.net/index.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112014230"
+    }
+  ],
+  "advisories": []
+}

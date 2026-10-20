@@ -1,0 +1,33 @@
+{
+  "id": "k1hzqc727",
+  "url": "https://constellation.church/k1hzqc727",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "680 Leigh Ave",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95128-2758"
+  },
+  "coordinates": {
+    "latitude": 37.3153379,
+    "longitude": -121.9233931
+  },
+  "website": "https://immanuellutheransj.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0e48df8e-e4c7-4fa5-b0b4-402c374f6f52",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0e48df8e-e4c7-4fa5-b0b4-402c374f6f52"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "immanuellutheransj.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941547646"
+    }
+  ],
+  "advisories": []
+}

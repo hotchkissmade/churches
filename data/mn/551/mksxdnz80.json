@@ -1,0 +1,33 @@
+{
+  "id": "mksxdnz80",
+  "url": "https://constellation.church/mksxdnz80",
+  "name": "Pilgrim Lutheran Church",
+  "displayName": "Pilgrim Lutheran Church",
+  "address": {
+    "street": "1935 St Clair Ave",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip": "55105-1646"
+  },
+  "coordinates": {
+    "latitude": 44.93445587158203,
+    "longitude": -93.1818618774414
+  },
+  "website": "https://pilgrimstpaul.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a705ac3e-0591-46b4-982d-cad63f1f5971",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a705ac3e-0591-46b4-982d-cad63f1f5971"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pilgrimstpaul.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410705798"
+    }
+  ],
+  "advisories": []
+}

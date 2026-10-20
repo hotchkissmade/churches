@@ -1,0 +1,33 @@
+{
+  "id": "e4a807y69",
+  "url": "https://constellation.church/e4a807y69",
+  "name": "The River Church of Duluth",
+  "displayName": "The River Church of Duluth",
+  "address": {
+    "street": "1902 E 4th St",
+    "city": "Duluth",
+    "state": "MN",
+    "zip": "55812"
+  },
+  "coordinates": {
+    "latitude": 46.8076286315918,
+    "longitude": -92.07846069335938
+  },
+  "website": "https://riverchurchduluth.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=67a23c98-ee38-472e-b4e8-177d8da56aad&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "67a23c98-ee38-472e-b4e8-177d8da56aad"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "riverchurchduluth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410911367"
+    }
+  ],
+  "advisories": []
+}

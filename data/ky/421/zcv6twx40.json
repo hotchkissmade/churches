@@ -1,0 +1,33 @@
+{
+  "id": "zcv6twx40",
+  "url": "https://constellation.church/zcv6twx40",
+  "name": "Onesong Church",
+  "displayName": "Onesong Church",
+  "address": {
+    "street": "1333 Magnolia St Ste B2",
+    "city": "Bowling Green",
+    "state": "KY",
+    "zip": "42104"
+  },
+  "coordinates": {
+    "latitude": 36.98066520690918,
+    "longitude": -86.44257736206055
+  },
+  "website": "https://onesongchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/onesong-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "onesong-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "onesongchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "843842407"
+    }
+  ],
+  "advisories": []
+}

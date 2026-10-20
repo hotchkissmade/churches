@@ -1,0 +1,33 @@
+{
+  "id": "fzsfx9w12",
+  "url": "https://constellation.church/fzsfx9w12",
+  "name": "Peace Lutheran Church",
+  "displayName": "Peace Lutheran Church",
+  "address": {
+    "street": "1744 Walnut St",
+    "city": "Lauderdale",
+    "state": "MN",
+    "zip": "55113-5244"
+  },
+  "coordinates": {
+    "latitude": 44.99374008178711,
+    "longitude": -93.20481872558594
+  },
+  "website": "https://peacelauderdale.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b8ba5122-3c82-445a-95f4-b213530f5c8b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b8ba5122-3c82-445a-95f4-b213530f5c8b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "peacelauderdale.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416094585"
+    }
+  ],
+  "advisories": []
+}

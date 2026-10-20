@@ -1,0 +1,33 @@
+{
+  "id": "y38vwsz64",
+  "url": "https://constellation.church/y38vwsz64",
+  "name": "Sower Church",
+  "displayName": "Sower Church",
+  "address": {
+    "street": "2640 R St",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68503"
+  },
+  "coordinates": {
+    "latitude": 40.81703758239746,
+    "longitude": -96.68289184570312
+  },
+  "website": "https://sowerchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/sower-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sower-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sowerchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "843642966"
+    }
+  ],
+  "advisories": []
+}

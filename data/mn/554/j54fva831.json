@@ -1,0 +1,33 @@
+{
+  "id": "j54fva831",
+  "url": "https://constellation.church/j54fva831",
+  "name": "Vista Lutheran Church",
+  "displayName": "Vista Lutheran Church",
+  "address": {
+    "street": "4003 Wooddale Ave S",
+    "city": "St Louis Park",
+    "state": "MN",
+    "zip": "55416-2916"
+  },
+  "coordinates": {
+    "latitude": 44.929283142089844,
+    "longitude": -93.34615325927734
+  },
+  "website": "https://vistalutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=686a0fd1-6321-43be-ad38-b2aef76cd820",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "686a0fd1-6321-43be-ad38-b2aef76cd820"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "vistalutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "841921072"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qgx5caz03",
+  "url": "https://constellation.church/qgx5caz03",
+  "name": "O'Neill Assembly of God",
+  "displayName": "O'Neill Assembly of God",
+  "address": {
+    "street": "204 N 7th St",
+    "city": "Oneill",
+    "state": "NE",
+    "zip": "68763"
+  },
+  "coordinates": {
+    "latitude": 42.45906066894531,
+    "longitude": -98.64259338378906
+  },
+  "website": "https://oneillag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=aa90b32c-6996-45bd-b45b-91fa23ac219c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "aa90b32c-6996-45bd-b45b-91fa23ac219c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oneillag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470651268"
+    }
+  ],
+  "advisories": []
+}

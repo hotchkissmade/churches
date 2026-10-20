@@ -1,0 +1,33 @@
+{
+  "id": "hcgcspz61",
+  "url": "https://constellation.church/hcgcspz61",
+  "name": "Twin Lakes Church",
+  "displayName": "Twin Lakes Church",
+  "address": {
+    "street": "2701 Cabrillo College Drive",
+    "city": "Aptos",
+    "state": "CA",
+    "zip": "95003"
+  },
+  "coordinates": {
+    "latitude": 36.98535346984863,
+    "longitude": -121.9287109375
+  },
+  "website": "https://tlc.org/about",
+  "listingUrl": "https://venturechurches.org/churches/twin-lakes-church/",
+  "identifiers": [
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "twin-lakes-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlc.org/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941251128"
+    }
+  ],
+  "advisories": []
+}

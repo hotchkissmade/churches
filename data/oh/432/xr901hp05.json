@@ -1,0 +1,33 @@
+{
+  "id": "xr901hp05",
+  "url": "https://constellation.church/xr901hp05",
+  "name": "St Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "322 Stewart Ave",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43206-2726"
+  },
+  "coordinates": {
+    "latitude": 39.9420519,
+    "longitude": -82.9881429
+  },
+  "website": "https://stpaulsk8.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24254",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24254"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsk8.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "316401752"
+    }
+  ],
+  "advisories": []
+}

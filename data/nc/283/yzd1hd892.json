@@ -1,0 +1,33 @@
+{
+  "id": "yzd1hd892",
+  "url": "https://constellation.church/yzd1hd892",
+  "name": "St James Lutheran Church",
+  "displayName": "St. James Lutheran Church",
+  "address": {
+    "street": "1424 Morganton Rd",
+    "city": "Fayetteville",
+    "state": "NC",
+    "zip": "28305-4734"
+  },
+  "coordinates": {
+    "latitude": 35.05815315246582,
+    "longitude": -78.90356826782227
+  },
+  "website": "https://saintjamesfay.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fe6caefc-e93a-4984-a60d-ed13b6be649d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fe6caefc-e93a-4984-a60d-ed13b6be649d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintjamesfay.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561242203"
+    }
+  ],
+  "advisories": []
+}

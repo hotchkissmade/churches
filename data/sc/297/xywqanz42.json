@@ -1,0 +1,33 @@
+{
+  "id": "xywqanz42",
+  "url": "https://constellation.church/xywqanz42",
+  "name": "First Baptist Church of Rock Hill",
+  "displayName": "First Baptist Church of Rock Hill",
+  "address": {
+    "street": "481 Hood Center Drive",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29730"
+  },
+  "coordinates": {
+    "latitude": 34.93861198425293,
+    "longitude": -80.98481750488281
+  },
+  "website": "https://fbcrockhill.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-rock-hill/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-rock-hill"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcrockhill.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570314393"
+    }
+  ],
+  "advisories": []
+}

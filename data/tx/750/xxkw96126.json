@@ -1,0 +1,33 @@
+{
+  "id": "xxkw96126",
+  "url": "https://constellation.church/xxkw96126",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "1515 N Travis St",
+    "city": "Sherman",
+    "state": "TX",
+    "zip": "75092-3759"
+  },
+  "coordinates": {
+    "latitude": 33.65062713623047,
+    "longitude": -96.61345672607422
+  },
+  "website": "https://tlc-sherman.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=eff79d7b-de64-4274-aaed-b78a2884b4e2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "eff79d7b-de64-4274-aaed-b78a2884b4e2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlc-sherman.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751980745"
+    }
+  ],
+  "advisories": []
+}

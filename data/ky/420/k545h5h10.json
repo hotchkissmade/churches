@@ -1,0 +1,33 @@
+{
+  "id": "k545h5h10",
+  "url": "https://constellation.church/k545h5h10",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "101 Amber Ct",
+    "city": "Eddyville",
+    "state": "KY",
+    "zip": "42038"
+  },
+  "coordinates": {
+    "latitude": 37.092233657836914,
+    "longitude": -88.08819580078125
+  },
+  "website": "https://eddyvilleassembly.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ba19807d-e638-4a26-a2aa-13802b0196db&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ba19807d-e638-4a26-a2aa-13802b0196db"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eddyvilleassembly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510557801"
+    }
+  ],
+  "advisories": []
+}

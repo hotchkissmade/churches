@@ -1,0 +1,33 @@
+{
+  "id": "c26pszc21",
+  "url": "https://constellation.church/c26pszc21",
+  "name": "Unity Baptist Church",
+  "displayName": "Unity Baptist Church",
+  "address": {
+    "street": "4951 Mount Sinai Rd",
+    "city": "Prince George",
+    "state": "VA",
+    "zip": "23875"
+  },
+  "coordinates": {
+    "latitude": 37.24606704711914,
+    "longitude": -77.2711067199707
+  },
+  "website": "https://unitybaptist.us/missions",
+  "listingUrl": "https://churches.sbc.net/church/unity-baptist-church-34/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "unity-baptist-church-34"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "unitybaptist.us/missions"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "542006221"
+    }
+  ],
+  "advisories": []
+}

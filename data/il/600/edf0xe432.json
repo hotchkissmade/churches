@@ -1,0 +1,33 @@
+{
+  "id": "edf0xe432",
+  "url": "https://constellation.church/edf0xe432",
+  "name": "Iglesia Cristiana El Camino",
+  "displayName": "Iglesia Cristiana El Camino",
+  "address": {
+    "street": "505 State St",
+    "city": "Des Plaines",
+    "state": "IL",
+    "zip": "60018"
+  },
+  "coordinates": {
+    "latitude": 42.05331611633301,
+    "longitude": -87.91127014160156
+  },
+  "website": "https://iglesiaecc.org",
+  "listingUrl": "https://churches.sbc.net/church/iglesia-cristiana-el-camino/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "iglesia-cristiana-el-camino"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "iglesiaecc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "263743611"
+    }
+  ],
+  "advisories": []
+}

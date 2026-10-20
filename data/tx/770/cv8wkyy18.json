@@ -1,0 +1,33 @@
+{
+  "id": "cv8wkyy18",
+  "url": "https://constellation.church/cv8wkyy18",
+  "name": "Second Baptist Church",
+  "displayName": "Second Baptist Church",
+  "address": {
+    "street": "6400 Woodway Dr",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77057"
+  },
+  "coordinates": {
+    "latitude": 29.75783348083496,
+    "longitude": -95.4988021850586
+  },
+  "website": "https://second.org/woodway",
+  "listingUrl": "https://churches.sbc.net/church/second-baptist-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "second-baptist-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "second.org/woodway"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741222252"
+    }
+  ],
+  "advisories": []
+}

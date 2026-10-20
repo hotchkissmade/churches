@@ -1,0 +1,33 @@
+{
+  "id": "y51hy8f48",
+  "url": "https://constellation.church/y51hy8f48",
+  "name": "St James Lutheran Church",
+  "displayName": "St. James Lutheran Church",
+  "address": {
+    "street": "1148 4th St SE",
+    "city": "Mason City",
+    "state": "IA",
+    "zip": "50401-4314"
+  },
+  "coordinates": {
+    "latitude": 43.14828109741211,
+    "longitude": -93.17668914794922
+  },
+  "website": "https://stjamesmc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ede0ce7f-84d2-41e4-bcba-e1327b058988",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ede0ce7f-84d2-41e4-bcba-e1327b058988"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamesmc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420862402"
+    }
+  ],
+  "advisories": []
+}

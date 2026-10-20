@@ -1,0 +1,33 @@
+{
+  "id": "e3gy98d28",
+  "url": "https://constellation.church/e3gy98d28",
+  "name": "St. Paul's Episcopal Church",
+  "displayName": "St. Paul's Episcopal Church",
+  "address": {
+    "street": "11 E 40th St",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64111-4909"
+  },
+  "coordinates": {
+    "latitude": 39.05387306213379,
+    "longitude": -94.58572387695312
+  },
+  "website": "https://speds.org/st-pauls-life/summer-in-the-city",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-missouri/list/st-pauls-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-missouri/st-pauls-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "speds.org/st-pauls-life/summer-in-the-city"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440556859"
+    }
+  ],
+  "advisories": []
+}

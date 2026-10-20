@@ -1,0 +1,33 @@
+{
+  "id": "mbgtprx38",
+  "url": "https://constellation.church/mbgtprx38",
+  "name": "Church of St. Philip the Apostle",
+  "displayName": "Church of St. Philip the Apostle",
+  "address": {
+    "street": "2660 Hardy Dr",
+    "city": "Lemon Grove",
+    "state": "CA",
+    "zip": "91945-2936"
+  },
+  "coordinates": {
+    "latitude": 32.73402976989746,
+    "longitude": -117.02838134765625
+  },
+  "website": "https://stphiliplemongrove.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-san-diego/list/church-st-philip-apostle",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-san-diego/church-st-philip-apostle"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stphiliplemongrove.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330194946"
+    }
+  ],
+  "advisories": []
+}

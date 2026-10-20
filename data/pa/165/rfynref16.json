@@ -1,0 +1,33 @@
+{
+  "id": "rfynref16",
+  "url": "https://constellation.church/rfynref16",
+  "name": "Faith Reformed Church",
+  "displayName": "Faith Reformed Church",
+  "address": {
+    "street": "2953 Saltsman Road",
+    "city": "Erie",
+    "state": "PA",
+    "zip": "16510"
+  },
+  "coordinates": {
+    "latitude": 42.135643005371094,
+    "longitude": -79.98974609375
+  },
+  "website": "https://frcerie.info",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/401",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "401"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "frcerie.info"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251409994"
+    }
+  ],
+  "advisories": []
+}

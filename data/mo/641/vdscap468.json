@@ -1,0 +1,33 @@
+{
+  "id": "vdscap468",
+  "url": "https://constellation.church/vdscap468",
+  "name": "St. Mary's Episcopal Church",
+  "displayName": "St. Mary's Episcopal Church",
+  "address": {
+    "street": "1307 Holmes St",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64106-2845"
+  },
+  "coordinates": {
+    "latitude": 39.098026275634766,
+    "longitude": -94.57482147216797
+  },
+  "website": "https://stmaryskcmo.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-missouri/list/st-marys-episcopal-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-missouri/st-marys-episcopal-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmaryskcmo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430891736"
+    }
+  ],
+  "advisories": []
+}

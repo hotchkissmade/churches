@@ -1,0 +1,33 @@
+{
+  "id": "m61y8zq71",
+  "url": "https://constellation.church/m61y8zq71",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "18645 Dixie Hwy",
+    "city": "Homewood",
+    "state": "IL",
+    "zip": "60430-3714"
+  },
+  "coordinates": {
+    "latitude": 41.5509090423584,
+    "longitude": -87.66500854492188
+  },
+  "website": "https://faithhomewood.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ad0275fb-10f9-4fb1-a6d2-a234d6f5af00",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ad0275fb-10f9-4fb1-a6d2-a234d6f5af00"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithhomewood.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362515676"
+    }
+  ],
+  "advisories": []
+}

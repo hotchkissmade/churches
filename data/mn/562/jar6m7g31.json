@@ -1,0 +1,33 @@
+{
+  "id": "jar6m7g31",
+  "url": "https://constellation.church/jar6m7g31",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "500 Village Dr",
+    "city": "Marshall",
+    "state": "MN",
+    "zip": "56258-1538"
+  },
+  "coordinates": {
+    "latitude": 44.4549501,
+    "longitude": -95.7687149
+  },
+  "website": "https://christlutheran-marshallmn.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24420",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24420"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christlutheran-marshallmn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410968108"
+    }
+  ],
+  "advisories": []
+}

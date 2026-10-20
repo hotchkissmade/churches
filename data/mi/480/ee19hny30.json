@@ -1,0 +1,33 @@
+{
+  "id": "ee19hny30",
+  "url": "https://constellation.church/ee19hny30",
+  "name": "Lutheran Church Of The Redeemer",
+  "displayName": "Lutheran Church Of The Redeemer",
+  "address": {
+    "street": "1800 W Maple Rd",
+    "city": "Birmingham",
+    "state": "MI",
+    "zip": "48009-1567"
+  },
+  "coordinates": {
+    "latitude": 42.54694175720215,
+    "longitude": -83.23727035522461
+  },
+  "website": "https://lcr.church",
+  "listingUrl": "https://locator.lcms.org/church/C/82583",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "82583"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcr.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381417680"
+    }
+  ],
+  "advisories": []
+}

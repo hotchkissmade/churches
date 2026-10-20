@@ -1,0 +1,33 @@
+{
+  "id": "qk50nj960",
+  "url": "https://constellation.church/qk50nj960",
+  "name": "Manhattan Baptist Church",
+  "displayName": "Manhattan Baptist Church",
+  "address": {
+    "street": "4300 S Manhattan Ave",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33611"
+  },
+  "coordinates": {
+    "latitude": 40.81546592712402,
+    "longitude": -73.95439529418945
+  },
+  "website": "https://manhattanbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/manhattan-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "manhattan-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "manhattanbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591967172"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jmzfgej33",
+  "url": "https://constellation.church/jmzfgej33",
+  "name": "Lutheran Church of the Resurrection",
+  "displayName": "Lutheran Church of the Resurrection",
+  "address": {
+    "street": "4315 Nottingham Way",
+    "city": "Hamilton Square",
+    "state": "NJ",
+    "zip": "08690-3813"
+  },
+  "coordinates": {
+    "latitude": 40.2244930267334,
+    "longitude": -74.64822006225586
+  },
+  "website": "https://resurrectiononline.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0e49a435-bb21-4cf4-9c27-ce2a49de822e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0e49a435-bb21-4cf4-9c27-ce2a49de822e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "resurrectiononline.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222290906"
+    }
+  ],
+  "advisories": []
+}

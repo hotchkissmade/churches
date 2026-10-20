@@ -1,0 +1,33 @@
+{
+  "id": "ht2tghs05",
+  "url": "https://constellation.church/ht2tghs05",
+  "name": "Carondelet Baptist Church",
+  "displayName": "Carondelet Baptist Church",
+  "address": {
+    "street": "7309 Virginia Ave",
+    "city": "Saint Louis",
+    "state": "MO",
+    "zip": "63111"
+  },
+  "coordinates": {
+    "latitude": 38.55239677429199,
+    "longitude": -90.25916290283203
+  },
+  "website": "https://carondeletbaptist.church",
+  "listingUrl": "https://churches.sbc.net/church/carondelet-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "carondelet-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "carondeletbaptist.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430762709"
+    }
+  ],
+  "advisories": []
+}

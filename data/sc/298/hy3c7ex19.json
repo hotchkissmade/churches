@@ -1,0 +1,33 @@
+{
+  "id": "hy3c7ex19",
+  "url": "https://constellation.church/hy3c7ex19",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "961 Trail Ridge Rd",
+    "city": "Aiken",
+    "state": "SC",
+    "zip": "29803-7724"
+  },
+  "coordinates": {
+    "latitude": 33.5296516418457,
+    "longitude": -81.75179290771484
+  },
+  "website": "https://stpaullc.net/live-broadcast",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8363aeb2-9ba9-4a08-b4b4-d238dee07539",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8363aeb2-9ba9-4a08-b4b4-d238dee07539"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaullc.net/live-broadcast"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570476125"
+    }
+  ],
+  "advisories": []
+}

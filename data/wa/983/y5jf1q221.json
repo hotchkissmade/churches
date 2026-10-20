@@ -1,0 +1,33 @@
+{
+  "id": "y5jf1q221",
+  "url": "https://constellation.church/y5jf1q221",
+  "name": "Harper Church",
+  "displayName": "Harper Church",
+  "address": {
+    "street": "10384 SE Sedgwick Rd",
+    "city": "Port Orchard",
+    "state": "WA",
+    "zip": "98366-8978"
+  },
+  "coordinates": {
+    "latitude": 47.50452423095703,
+    "longitude": -122.51476287841797
+  },
+  "website": "https://harperchurch.org/location",
+  "listingUrl": "https://churches.efca.org/?id=12070",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12070"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "harperchurch.org/location"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910930239"
+    }
+  ],
+  "advisories": []
+}

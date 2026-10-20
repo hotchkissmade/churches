@@ -1,0 +1,33 @@
+{
+  "id": "s48f86f82",
+  "url": "https://constellation.church/s48f86f82",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "235 S Green St",
+    "city": "Somonauk",
+    "state": "IL",
+    "zip": "60552"
+  },
+  "coordinates": {
+    "latitude": 41.632198333740234,
+    "longitude": -88.68400955200195
+  },
+  "website": "https://elcastjohns.org/home/index.php/st-johns-journal",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=78397beb-19f3-4e0f-abb9-ce83bf7c41c4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "78397beb-19f3-4e0f-abb9-ce83bf7c41c4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elcastjohns.org/home/index.php/st-johns-journal"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362996545"
+    }
+  ],
+  "advisories": []
+}

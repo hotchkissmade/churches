@@ -1,0 +1,33 @@
+{
+  "id": "dnxtweg02",
+  "url": "https://constellation.church/dnxtweg02",
+  "name": "Journey Church",
+  "displayName": "Journey Church",
+  "address": {
+    "street": "3225 E County 14th St",
+    "city": "Yuma",
+    "state": "AZ",
+    "zip": "85365-9619"
+  },
+  "coordinates": {
+    "latitude": 32.62474250793457,
+    "longitude": -114.57808685302734
+  },
+  "website": "https://journeyyuma.church",
+  "listingUrl": "https://churches.efca.org/?id=234651",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "234651"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "journeyyuma.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "861094663"
+    }
+  ],
+  "advisories": []
+}

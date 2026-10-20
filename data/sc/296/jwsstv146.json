@@ -1,0 +1,33 @@
+{
+  "id": "jwsstv146",
+  "url": "https://constellation.church/jwsstv146",
+  "name": "Griffin Baptist Church",
+  "displayName": "Griffin Baptist Church",
+  "address": {
+    "street": "1629 Pumpkintown Hwy",
+    "city": "Pickens",
+    "state": "SC",
+    "zip": "29671"
+  },
+  "coordinates": {
+    "latitude": 34.92860984802246,
+    "longitude": -82.66985321044922
+  },
+  "website": "https://griffinchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/griffin-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "griffin-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "griffinchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570759635"
+    }
+  ],
+  "advisories": []
+}

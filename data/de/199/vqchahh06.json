@@ -1,0 +1,33 @@
+{
+  "id": "vqchahh06",
+  "url": "https://constellation.church/vqchahh06",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "101 S Walnut St",
+    "city": "Milford",
+    "state": "DE",
+    "zip": "19963"
+  },
+  "coordinates": {
+    "latitude": 38.9123477935791,
+    "longitude": -75.42829895019531
+  },
+  "website": "https://fpcmilford.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/356/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "356"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcmilford.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "516001269"
+    }
+  ],
+  "advisories": []
+}

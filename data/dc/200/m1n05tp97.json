@@ -1,0 +1,33 @@
+{
+  "id": "m1n05tp97",
+  "url": "https://constellation.church/m1n05tp97",
+  "name": "St. David's",
+  "displayName": "St. David's",
+  "address": {
+    "street": "5150 Macomb St NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20016-2699"
+  },
+  "coordinates": {
+    "latitude": 38.9323673248291,
+    "longitude": -77.10614013671875
+  },
+  "website": "https://stdavidsdc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/st-davids",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/st-davids"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stdavidsdc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "530235763"
+    }
+  ],
+  "advisories": []
+}

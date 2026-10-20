@@ -1,0 +1,33 @@
+{
+  "id": "r8rcy2d73",
+  "url": "https://constellation.church/r8rcy2d73",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "1180 8th Ave",
+    "city": "Cumberland",
+    "state": "WI",
+    "zip": "54829-9104"
+  },
+  "coordinates": {
+    "latitude": 45.53134536743164,
+    "longitude": -92.03092956542969
+  },
+  "website": "https://firstlutherancumberland.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d10f9c7c-ac70-4b71-a7ff-9197bdb121fa",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d10f9c7c-ac70-4b71-a7ff-9197bdb121fa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutherancumberland.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391303228"
+    }
+  ],
+  "advisories": []
+}

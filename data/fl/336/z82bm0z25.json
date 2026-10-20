@@ -1,0 +1,33 @@
+{
+  "id": "z82bm0z25",
+  "url": "https://constellation.church/z82bm0z25",
+  "name": "First Baptist Church of Tampa",
+  "displayName": "First Baptist Church of Tampa",
+  "address": {
+    "street": "302 W Kennedy Blvd",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33606"
+  },
+  "coordinates": {
+    "latitude": 27.94576644897461,
+    "longitude": -82.46290588378906
+  },
+  "website": "https://fbctampa.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-tampa/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-tampa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbctampa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590683260"
+    }
+  ],
+  "advisories": []
+}

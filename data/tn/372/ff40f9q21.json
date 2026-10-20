@@ -1,0 +1,33 @@
+{
+  "id": "ff40f9q21",
+  "url": "https://constellation.church/ff40f9q21",
+  "name": "Concordia Lutheran Church",
+  "displayName": "Concordia Lutheran Church",
+  "address": {
+    "street": "3501 Central Ave",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37205-2341"
+  },
+  "coordinates": {
+    "latitude": 36.1379337310791,
+    "longitude": -86.82359313964844
+  },
+  "website": "https://concordianashville.org",
+  "listingUrl": "https://locator.lcms.org/church/C/625268",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "625268"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "concordianashville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237038922"
+    }
+  ],
+  "advisories": []
+}

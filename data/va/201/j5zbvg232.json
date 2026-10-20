@@ -1,0 +1,33 @@
+{
+  "id": "j5zbvg232",
+  "url": "https://constellation.church/j5zbvg232",
+  "name": "Grace Hill Church",
+  "displayName": "Grace Hill Church",
+  "address": {
+    "street": "700 Bennett St",
+    "city": "Herndon",
+    "state": "VA",
+    "zip": "20170"
+  },
+  "coordinates": {
+    "latitude": 38.98583793640137,
+    "longitude": -77.37669372558594
+  },
+  "website": "https://gracehillchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/grace-hill-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grace-hill-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracehillchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "812790225"
+    }
+  ],
+  "advisories": []
+}

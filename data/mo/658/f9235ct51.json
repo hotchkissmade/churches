@@ -1,0 +1,33 @@
+{
+  "id": "f9235ct51",
+  "url": "https://constellation.church/f9235ct51",
+  "name": "Southern Missouri",
+  "displayName": "Southern Missouri",
+  "address": {
+    "street": "528 W Battlefield St",
+    "city": "Springfield",
+    "state": "MO",
+    "zip": "65807"
+  },
+  "coordinates": {
+    "latitude": 37.1594181060791,
+    "longitude": -93.2985610961914
+  },
+  "website": "https://somoag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=58f4ac8c-0059-4659-8465-ddaf3951b3f9&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "58f4ac8c-0059-4659-8465-ddaf3951b3f9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "somoag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "446000911"
+    }
+  ],
+  "advisories": []
+}

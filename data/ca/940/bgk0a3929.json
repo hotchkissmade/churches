@@ -1,0 +1,33 @@
+{
+  "id": "bgk0a3929",
+  "url": "https://constellation.church/bgk0a3929",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "1715 Grant Rd",
+    "city": "Los Altos",
+    "state": "CA",
+    "zip": "94024-6844"
+  },
+  "coordinates": {
+    "latitude": 37.349470138549805,
+    "longitude": -122.0769271850586
+  },
+  "website": "https://ilclosaltos.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6378e4a7-8e04-412e-8174-b228b39e2159",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6378e4a7-8e04-412e-8174-b228b39e2159"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ilclosaltos.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "946036991"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gmeq1ry75",
+  "url": "https://constellation.church/gmeq1ry75",
+  "name": "North Park Baptist Church",
+  "displayName": "North Park Baptist Church",
+  "address": {
+    "street": "5200 Park Avenue",
+    "city": "Bridgeport",
+    "state": "CT",
+    "zip": "06604"
+  },
+  "coordinates": {
+    "latitude": 41.22354316711426,
+    "longitude": -73.24072647094727
+  },
+  "website": "https://northparkonline.com",
+  "listingUrl": "https://churches.sbc.net/church/north-park-baptist-church-4/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "north-park-baptist-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northparkonline.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "061038727"
+    }
+  ],
+  "advisories": []
+}

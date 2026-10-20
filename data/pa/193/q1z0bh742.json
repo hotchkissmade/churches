@@ -1,0 +1,33 @@
+{
+  "id": "q1z0bh742",
+  "url": "https://constellation.church/q1z0bh742",
+  "name": "The Church of the Trinity",
+  "displayName": "The Church of the Trinity",
+  "address": {
+    "street": "323 E Lincoln Hwy",
+    "city": "Coatesville",
+    "state": "PA",
+    "zip": "19320-3409"
+  },
+  "coordinates": {
+    "latitude": 35.46066856384277,
+    "longitude": -78.046875
+  },
+  "website": "https://trinitycoatesville.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/church-trinity",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/church-trinity"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitycoatesville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231929575"
+    }
+  ],
+  "advisories": []
+}

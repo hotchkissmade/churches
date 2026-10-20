@@ -1,0 +1,33 @@
+{
+  "id": "d2r9b1491",
+  "url": "https://constellation.church/d2r9b1491",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "1620 11th Ave",
+    "city": "Granite Falls",
+    "state": "MN",
+    "zip": "56241"
+  },
+  "coordinates": {
+    "latitude": 44.808210372924805,
+    "longitude": -95.56236267089844
+  },
+  "website": "https://granitefallsag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=b4ffc24e-fe10-44eb-a96a-493b46bef5d9&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "b4ffc24e-fe10-44eb-a96a-493b46bef5d9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "granitefallsag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411359177"
+    }
+  ],
+  "advisories": []
+}

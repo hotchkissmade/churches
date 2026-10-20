@@ -1,0 +1,33 @@
+{
+  "id": "apcsrp097",
+  "url": "https://constellation.church/apcsrp097",
+  "name": "Good Shepherd Lutheran Church",
+  "displayName": "Good Shepherd Lutheran Church",
+  "address": {
+    "street": "7600 Cahill Ave",
+    "city": "Inver Grove Heights",
+    "state": "MN",
+    "zip": "55076-3003"
+  },
+  "coordinates": {
+    "latitude": 44.83981704711914,
+    "longitude": -93.04058074951172
+  },
+  "website": "https://goodshepherdigh.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=07eb42df-5657-4cae-b512-5e64d4b3a24d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "07eb42df-5657-4cae-b512-5e64d4b3a24d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherdigh.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410875037"
+    }
+  ],
+  "advisories": []
+}

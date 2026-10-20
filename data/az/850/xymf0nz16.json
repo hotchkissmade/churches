@@ -1,0 +1,33 @@
+{
+  "id": "xymf0nz16",
+  "url": "https://constellation.church/xymf0nz16",
+  "name": "Church in Phoenix",
+  "displayName": "Church in Phoenix",
+  "address": {
+    "street": "17803 N 27th Ave",
+    "city": "Phoeniz",
+    "state": "AZ",
+    "zip": "85053"
+  },
+  "coordinates": {
+    "latitude": 33.64762306213379,
+    "longitude": -112.1168441772461
+  },
+  "website": "https://churchinphoenix.org",
+  "listingUrl": "https://localchurches.org/churches/phoenix-az-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "phoenix-az-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinphoenix.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860441927"
+    }
+  ],
+  "advisories": []
+}

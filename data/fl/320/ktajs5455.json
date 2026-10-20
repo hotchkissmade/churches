@@ -1,0 +1,33 @@
+{
+  "id": "ktajs5455",
+  "url": "https://constellation.church/ktajs5455",
+  "name": "Mercy Hill Church",
+  "displayName": "Mercy Hill Church",
+  "address": {
+    "street": "85520 Miner Rd",
+    "city": "Yulee",
+    "state": "FL",
+    "zip": "32097"
+  },
+  "coordinates": {
+    "latitude": 30.616533279418945,
+    "longitude": -81.57609558105469
+  },
+  "website": "https://mercyhillfl.com",
+  "listingUrl": "https://churches.sbc.net/church/mercy-hill-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mercy-hill-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mercyhillfl.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593200264"
+    }
+  ],
+  "advisories": []
+}

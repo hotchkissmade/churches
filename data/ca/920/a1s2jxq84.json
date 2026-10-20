@@ -1,0 +1,33 @@
+{
+  "id": "a1s2jxq84",
+  "url": "https://constellation.church/a1s2jxq84",
+  "name": "St. Bartholomew's Episcopal Church",
+  "displayName": "St. Bartholomew's Episcopal Church",
+  "address": {
+    "street": "16275 Pomerado Rd",
+    "city": "Poway",
+    "state": "CA",
+    "zip": "92064-1826"
+  },
+  "coordinates": {
+    "latitude": 33.00850486755371,
+    "longitude": -117.05613708496094
+  },
+  "website": "https://stbartschurch.org/clergyandstaff",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-san-diego/list/st-bartholomews-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-san-diego/st-bartholomews-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stbartschurch.org/clergyandstaff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941546656"
+    }
+  ],
+  "advisories": []
+}

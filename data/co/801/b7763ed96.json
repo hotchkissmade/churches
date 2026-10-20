@@ -1,0 +1,33 @@
+{
+  "id": "b7763ed96",
+  "url": "https://constellation.church/b7763ed96",
+  "name": "Castlewood Canyon Church",
+  "displayName": "Castlewood Canyon Church",
+  "address": {
+    "street": "389 Castlewood Canyon Rd",
+    "city": "Franktown",
+    "state": "CO",
+    "zip": "80116"
+  },
+  "coordinates": {
+    "latitude": 39.37072944641113,
+    "longitude": -104.76488494873047
+  },
+  "website": "https://ccanyonc.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d9cb4712-c729-4075-a3de-4aac63d03d5e&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d9cb4712-c729-4075-a3de-4aac63d03d5e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ccanyonc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "841079899"
+    }
+  ],
+  "advisories": []
+}

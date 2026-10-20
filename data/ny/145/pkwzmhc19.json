@@ -1,0 +1,33 @@
+{
+  "id": "pkwzmhc19",
+  "url": "https://constellation.church/pkwzmhc19",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "1765 Plank Rd",
+    "city": "Webster",
+    "state": "NY",
+    "zip": "14580-9380"
+  },
+  "coordinates": {
+    "latitude": 43.18148612976074,
+    "longitude": -77.38621520996094
+  },
+  "website": "https://bethlehemlutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4a64c223-2b51-4772-a627-d291ba4c8dc3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4a64c223-2b51-4772-a627-d291ba4c8dc3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethlehemlutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161123886"
+    }
+  ],
+  "advisories": []
+}

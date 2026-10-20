@@ -1,0 +1,33 @@
+{
+  "id": "dxhnsnz56",
+  "url": "https://constellation.church/dxhnsnz56",
+  "name": "First Baptist Church of Destin",
+  "displayName": "First Baptist Church of Destin",
+  "address": {
+    "street": "201 Beach Dr",
+    "city": "Destin",
+    "state": "FL",
+    "zip": "32541"
+  },
+  "coordinates": {
+    "latitude": 30.395097732543945,
+    "longitude": -86.49153900146484
+  },
+  "website": "https://firstbaptistdestin.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-destin/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-destin"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistdestin.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592352093"
+    }
+  ],
+  "advisories": []
+}

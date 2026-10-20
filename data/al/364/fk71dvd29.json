@@ -1,0 +1,33 @@
+{
+  "id": "fk71dvd29",
+  "url": "https://constellation.church/fk71dvd29",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "336 Belleville Avenue",
+    "city": "Brewton",
+    "state": "AL",
+    "zip": "36426"
+  },
+  "coordinates": {
+    "latitude": 31.108352661132812,
+    "longitude": -87.07120513916016
+  },
+  "website": "https://fpcbrewton.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1186",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1186"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcbrewton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630708120"
+    }
+  ],
+  "advisories": []
+}

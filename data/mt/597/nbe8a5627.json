@@ -1,0 +1,33 @@
+{
+  "id": "nbe8a5627",
+  "url": "https://constellation.church/nbe8a5627",
+  "name": "St. James' Episcopal Church",
+  "displayName": "St. James' Episcopal Church",
+  "address": {
+    "street": "5 West Olive Street",
+    "city": "Bozeman",
+    "state": "MT",
+    "zip": "59715"
+  },
+  "coordinates": {
+    "latitude": 45.67741012573242,
+    "longitude": -111.03743743896484
+  },
+  "website": "https://stjamesbozeman.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-montana/list/st-james-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-montana/st-james-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamesbozeman.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "816005491"
+    }
+  ],
+  "advisories": []
+}

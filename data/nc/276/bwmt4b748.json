@@ -1,0 +1,33 @@
+{
+  "id": "bwmt4b748",
+  "url": "https://constellation.church/bwmt4b748",
+  "name": "Saint Andrews Presbyterian Church",
+  "displayName": "St. Andrew's Presbyterian Church",
+  "address": {
+    "street": "7506 Falls of Neuse Rd",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27615"
+  },
+  "coordinates": {
+    "latitude": 35.88692092895508,
+    "longitude": -78.62624740600586
+  },
+  "website": "https://sapc.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/23291/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "23291"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sapc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561127278"
+    }
+  ],
+  "advisories": []
+}

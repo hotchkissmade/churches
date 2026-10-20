@@ -1,0 +1,33 @@
+{
+  "id": "b96h3dw92",
+  "url": "https://constellation.church/b96h3dw92",
+  "name": "Zion Church",
+  "displayName": "Zion Church",
+  "address": {
+    "street": "5511 S. 27th Street",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68512"
+  },
+  "coordinates": {
+    "latitude": 40.758047103881836,
+    "longitude": -96.68306732177734
+  },
+  "website": "https://zionpca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/291",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "291"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionpca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470663636"
+    }
+  ],
+  "advisories": []
+}

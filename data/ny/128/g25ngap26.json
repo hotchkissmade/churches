@@ -1,0 +1,33 @@
+{
+  "id": "g25ngap26",
+  "url": "https://constellation.church/g25ngap26",
+  "name": "Calvary Assembly of God",
+  "displayName": "Calvary Assembly of God",
+  "address": {
+    "street": "100 Sherman Ave",
+    "city": "Glens Falls",
+    "state": "NY",
+    "zip": "12801"
+  },
+  "coordinates": {
+    "latitude": 43.30911636352539,
+    "longitude": -73.65839767456055
+  },
+  "website": "https://agcalvary.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=adb4811d-a3f4-4041-8ea3-4f79b1292d44&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "adb4811d-a3f4-4041-8ea3-4f79b1292d44"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "agcalvary.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "141539644"
+    }
+  ],
+  "advisories": []
+}

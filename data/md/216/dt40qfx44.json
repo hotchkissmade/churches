@@ -1,0 +1,33 @@
+{
+  "id": "dt40qfx44",
+  "url": "https://constellation.church/dt40qfx44",
+  "name": "Christ Church Denton",
+  "displayName": "Christ Church Denton",
+  "address": {
+    "street": "107 Gay St",
+    "city": "Denton",
+    "state": "MD",
+    "zip": "21629"
+  },
+  "coordinates": {
+    "latitude": 38.88749694824219,
+    "longitude": -75.83274459838867
+  },
+  "website": "https://christchurchdenton.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-easton/list/christ-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-easton/christ-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christchurchdenton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521878864"
+    }
+  ],
+  "advisories": []
+}

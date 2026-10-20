@@ -1,0 +1,37 @@
+{
+  "id": "q7wemta12",
+  "url": "https://constellation.church/q7wemta12",
+  "name": "Chicago MFM 1",
+  "displayName": "Chicago MFM 1",
+  "address": {
+    "street": "2020 W. Devon Avenue",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60659"
+  },
+  "coordinates": {
+    "latitude": 41.99799728393555,
+    "longitude": -87.68093490600586
+  },
+  "website": "https://mfmchicago1.org",
+  "listingUrl": "https://mfmamerica.org/directory-branches/listing/mfm-chicago-1/",
+  "identifiers": [
+    {
+      "namespace": "org.mfmamerica.id",
+      "value": "761"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mfmchicago1.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "364482903"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "562500971"
+    }
+  ],
+  "advisories": []
+}

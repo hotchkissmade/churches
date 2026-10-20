@@ -1,0 +1,33 @@
+{
+  "id": "jzaad5932",
+  "url": "https://constellation.church/jzaad5932",
+  "name": "Rockvale Baptist Church",
+  "displayName": "Rockvale Baptist Church",
+  "address": {
+    "street": "652 Old Grove Rd",
+    "city": "Piedmont",
+    "state": "SC",
+    "zip": "29673"
+  },
+  "coordinates": {
+    "latitude": 34.77054405212402,
+    "longitude": -82.41680526733398
+  },
+  "website": "https://rockvalebc.org",
+  "listingUrl": "https://churches.sbc.net/church/rockvale-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "rockvale-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rockvalebc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570738121"
+    }
+  ],
+  "advisories": []
+}

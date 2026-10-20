@@ -1,0 +1,33 @@
+{
+  "id": "yvnc2ch10",
+  "url": "https://constellation.church/yvnc2ch10",
+  "name": "St. Paul's Episcopal Church",
+  "displayName": "St. Paul's Episcopal Church",
+  "address": {
+    "street": "St Paul's Episcopal Church, 100 E High St",
+    "city": "Mt Vernon",
+    "state": "OH",
+    "zip": "43050-3402"
+  },
+  "coordinates": {
+    "latitude": 40.39365005493164,
+    "longitude": -82.48392105102539
+  },
+  "website": "https://stpaulsmtvernon.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-ohio/list/st-pauls-church-5",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-ohio/st-pauls-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsmtvernon.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "314420546"
+    }
+  ],
+  "advisories": []
+}

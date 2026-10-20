@@ -1,0 +1,33 @@
+{
+  "id": "a8n2cms88",
+  "url": "https://constellation.church/a8n2cms88",
+  "name": "St. Stephen's Episcopal Church",
+  "displayName": "St. Stephen's Episcopal Church",
+  "address": {
+    "street": "220 South Wayne St",
+    "city": "Milledgeville",
+    "state": "GA",
+    "zip": "31061-3442"
+  },
+  "coordinates": {
+    "latitude": 33.07883644104004,
+    "longitude": -83.2259407043457
+  },
+  "website": "https://ststephensga.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-atlanta/list/st-stephens-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-atlanta/st-stephens-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ststephensga.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581133432"
+    }
+  ],
+  "advisories": []
+}

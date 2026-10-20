@@ -1,0 +1,33 @@
+{
+  "id": "b52yb7691",
+  "url": "https://constellation.church/b52yb7691",
+  "name": "Capital Church",
+  "displayName": "Capital Church",
+  "address": {
+    "street": "1010 E 700 S Salt Lake City",
+    "city": null,
+    "state": "UT",
+    "zip": "84102"
+  },
+  "coordinates": {
+    "latitude": 40.75376510620117,
+    "longitude": -111.8619384765625
+  },
+  "website": "https://capitalchurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=6d7bdbd8-5995-4331-ac66-4ab964a1080d&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "6d7bdbd8-5995-4331-ac66-4ab964a1080d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "capitalchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "841419049"
+    }
+  ],
+  "advisories": []
+}

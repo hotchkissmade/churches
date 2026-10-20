@@ -1,0 +1,33 @@
+{
+  "id": "a38pc1943",
+  "url": "https://constellation.church/a38pc1943",
+  "name": "Hillside Baptist Church",
+  "displayName": "Hillside Baptist Church",
+  "address": {
+    "street": "5200 Omalley Rd",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "99507"
+  },
+  "coordinates": {
+    "latitude": 61.12271499633789,
+    "longitude": -149.78487396240234
+  },
+  "website": "https://hillsidebaptist.church",
+  "listingUrl": "https://churches.sbc.net/church/hillside-baptist-church-9/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hillside-baptist-church-9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hillsidebaptist.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "926009164"
+    }
+  ],
+  "advisories": []
+}

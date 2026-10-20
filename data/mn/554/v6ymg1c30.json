@@ -1,0 +1,33 @@
+{
+  "id": "v6ymg1c30",
+  "url": "https://constellation.church/v6ymg1c30",
+  "name": "Cedar Valley Church Bloomington",
+  "displayName": "Cedar Valley Church Bloomington",
+  "address": {
+    "street": "8600 Bloomington Ave S",
+    "city": "Bloomington",
+    "state": "MN",
+    "zip": "55425"
+  },
+  "coordinates": {
+    "latitude": 44.845863342285156,
+    "longitude": -93.2535629272461
+  },
+  "website": "https://cvchurch.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=00583145-6540-4b08-96e5-beb53cc4597d&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "00583145-6540-4b08-96e5-beb53cc4597d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cvchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411269285"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "azextv206",
+  "url": "https://constellation.church/azextv206",
+  "name": "Mamrelund Lutheran Church",
+  "displayName": "Mamrelund Lutheran Church",
+  "address": {
+    "street": "410 Eastern Ave",
+    "city": "Stanton",
+    "state": "IA",
+    "zip": "51573"
+  },
+  "coordinates": {
+    "latitude": 40.982460021972656,
+    "longitude": -95.10014343261719
+  },
+  "website": "https://mamrelund.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f1c09465-f208-41a1-8114-92a404a80433",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f1c09465-f208-41a1-8114-92a404a80433"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mamrelund.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420752680"
+    }
+  ],
+  "advisories": []
+}

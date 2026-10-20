@@ -1,0 +1,33 @@
+{
+  "id": "ep0rqbn48",
+  "url": "https://constellation.church/ep0rqbn48",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "4540 N Oakland Gravel Rd",
+    "city": "Columbia",
+    "state": "MO",
+    "zip": "65202-9224"
+  },
+  "coordinates": {
+    "latitude": 38.99832725524902,
+    "longitude": -92.3018913269043
+  },
+  "website": "https://gracecomochurch.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24473",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24473"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracecomochurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431147215"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "am47k0c09",
+  "url": "https://constellation.church/am47k0c09",
+  "name": "All Saints of North America Church",
+  "displayName": "All Saints of North America Church",
+  "address": {
+    "street": "10440 4th St NW",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87114-2218"
+  },
+  "coordinates": {
+    "latitude": 35.2047176361084,
+    "longitude": -106.61296081542969
+  },
+  "website": "https://allsaintsofnorthamerica.net/schedule",
+  "listingUrl": "https://www.oca.org/parishes/oca-so-abqscd",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-so-abqscd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allsaintsofnorthamerica.net/schedule"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "352201101"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "w98mexy61",
+  "url": "https://constellation.church/w98mexy61",
+  "name": "Pleasant Valley Lutheran Church",
+  "displayName": "Pleasant Valley Lutheran Church",
+  "address": {
+    "street": "1234 Township Road 523",
+    "city": "Ashland",
+    "state": "OH",
+    "zip": "44805-9509"
+  },
+  "coordinates": {
+    "latitude": 40.8763676,
+    "longitude": -82.2268796
+  },
+  "website": "https://pleasantvalleylutheranlucas.org/staff",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e4d99f80-4f23-46b9-b4c0-43a0d5c35154",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e4d99f80-4f23-46b9-b4c0-43a0d5c35154"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pleasantvalleylutheranlucas.org/staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "346562164"
+    }
+  ],
+  "advisories": []
+}

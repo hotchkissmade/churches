@@ -1,0 +1,33 @@
+{
+  "id": "vf5226p59",
+  "url": "https://constellation.church/vf5226p59",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "3020 Grace Church Rd",
+    "city": "Salisbury",
+    "state": "NC",
+    "zip": "28147-8615"
+  },
+  "coordinates": {
+    "latitude": 35.61753845214844,
+    "longitude": -80.58691024780273
+  },
+  "website": "https://grace-salisbury.com/who-we-are/our-history",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d68abe53-ade4-4615-956a-a89117109629",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d68abe53-ade4-4615-956a-a89117109629"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grace-salisbury.com/who-we-are/our-history"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561119038"
+    }
+  ],
+  "advisories": []
+}

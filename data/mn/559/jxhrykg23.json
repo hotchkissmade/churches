@@ -1,0 +1,33 @@
+{
+  "id": "jxhrykg23",
+  "url": "https://constellation.church/jxhrykg23",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "301 2nd Ave",
+    "city": "Wanamingo",
+    "state": "MN",
+    "zip": "55983-3837"
+  },
+  "coordinates": {
+    "latitude": 44.30302429199219,
+    "longitude": -92.78914642333984
+  },
+  "website": "https://trinitywanamingo.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=25f38177-9759-4da0-81e1-d92d9eaa3d38",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "25f38177-9759-4da0-81e1-d92d9eaa3d38"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitywanamingo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237192423"
+    }
+  ],
+  "advisories": []
+}

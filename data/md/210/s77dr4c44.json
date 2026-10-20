@@ -1,0 +1,33 @@
+{
+  "id": "s77dr4c44",
+  "url": "https://constellation.church/s77dr4c44",
+  "name": "Towne Baptist Church",
+  "displayName": "Towne Baptist Church",
+  "address": {
+    "street": "536 Trimble Rd",
+    "city": "Joppa",
+    "state": "MD",
+    "zip": "21085"
+  },
+  "coordinates": {
+    "latitude": 39.42290115356445,
+    "longitude": -76.35342788696289
+  },
+  "website": "https://townebaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/towne-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "towne-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "townebaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521323295"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jm7kxkb56",
+  "url": "https://constellation.church/jm7kxkb56",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "100 School Street",
+    "city": "Greer",
+    "state": "SC",
+    "zip": "29651"
+  },
+  "coordinates": {
+    "latitude": 34.93657112121582,
+    "longitude": -82.228271484375
+  },
+  "website": "https://fpcgreer.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/22390/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "22390"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcgreer.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570401085"
+    }
+  ],
+  "advisories": []
+}

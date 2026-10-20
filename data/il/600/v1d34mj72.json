@@ -1,0 +1,33 @@
+{
+  "id": "v1d34mj72",
+  "url": "https://constellation.church/v1d34mj72",
+  "name": "First Korean Presbyterian Church",
+  "displayName": "First Korean Presbyterian Church",
+  "address": {
+    "street": "900 N. Milwaukee Avenue",
+    "city": "Glenview",
+    "state": "IL",
+    "zip": "60025"
+  },
+  "coordinates": {
+    "latitude": 42.07145690917969,
+    "longitude": -87.85494232177734
+  },
+  "website": "https://fkpcem.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1525",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1525"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fkpcem.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363415374"
+    }
+  ],
+  "advisories": []
+}

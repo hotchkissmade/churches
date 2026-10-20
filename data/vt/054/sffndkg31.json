@@ -1,0 +1,33 @@
+{
+  "id": "sffndkg31",
+  "url": "https://constellation.church/sffndkg31",
+  "name": "Holy Trinity Episcopal Church",
+  "displayName": "Holy Trinity Episcopal Church",
+  "address": {
+    "street": "38 Grand Ave",
+    "city": "Swanton",
+    "state": "VT",
+    "zip": "05488-1427"
+  },
+  "coordinates": {
+    "latitude": 44.917396545410156,
+    "longitude": -73.12378311157227
+  },
+  "website": "https://holytrinityswanton.org/services.htm",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/episcopal-church-vermont/list/holy-trinity-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "episcopal-church-vermont/holy-trinity-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holytrinityswanton.org/services.htm"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030295867"
+    }
+  ],
+  "advisories": []
+}

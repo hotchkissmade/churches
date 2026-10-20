@@ -1,0 +1,33 @@
+{
+  "id": "xx3g2wv65",
+  "url": "https://constellation.church/xx3g2wv65",
+  "name": "St. Edward the Confessor",
+  "displayName": "St. Edward the Confessor",
+  "address": {
+    "street": "460 N Grandview St",
+    "city": "Mount Dora",
+    "state": "FL",
+    "zip": "32757-5676"
+  },
+  "coordinates": {
+    "latitude": 28.80002784729004,
+    "longitude": -81.64009094238281
+  },
+  "website": "https://stedwardsepiscopal.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-central-florida/list/st-edward-confessor",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-central-florida/st-edward-confessor"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stedwardsepiscopal.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591021915"
+    }
+  ],
+  "advisories": []
+}

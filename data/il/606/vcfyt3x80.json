@@ -1,0 +1,33 @@
+{
+  "id": "vcfyt3x80",
+  "url": "https://constellation.church/vcfyt3x80",
+  "name": "Crossroads Church",
+  "displayName": "Crossroads Church",
+  "address": {
+    "street": "910 N Lake Shore Dr Apt 1818",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60611-1524"
+  },
+  "coordinates": {
+    "latitude": 41.96224403381348,
+    "longitude": -87.66424942016602
+  },
+  "website": "https://crossroadschicago.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/25178",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "25178"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "crossroadschicago.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810663703"
+    }
+  ],
+  "advisories": []
+}

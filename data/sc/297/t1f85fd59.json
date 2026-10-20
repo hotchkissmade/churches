@@ -1,0 +1,33 @@
+{
+  "id": "t1f85fd59",
+  "url": "https://constellation.church/t1f85fd59",
+  "name": "Unity Baptist Church",
+  "displayName": "Unity Baptist Church",
+  "address": {
+    "street": "2300 Irene Bridge Hwy",
+    "city": "Hickory Grove",
+    "state": "SC",
+    "zip": "29717"
+  },
+  "coordinates": {
+    "latitude": 34.984540939331055,
+    "longitude": -81.428955078125
+  },
+  "website": "https://unitybaptistchurch.life",
+  "listingUrl": "https://churches.sbc.net/church/unity-baptist-church-25/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "unity-baptist-church-25"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "unitybaptistchurch.life"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630716755"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p02dmw612",
+  "url": "https://constellation.church/p02dmw612",
+  "name": "First Baptist Church of Jacksonville",
+  "displayName": "First Baptist Church of Jacksonville",
+  "address": {
+    "street": "125 W Ashley Street",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32202"
+  },
+  "coordinates": {
+    "latitude": 30.331472396850586,
+    "longitude": -81.65880584716797
+  },
+  "website": "https://fbcjax.com/esl",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-jacksonville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-jacksonville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcjax.com/esl"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "271283046"
+    }
+  ],
+  "advisories": []
+}

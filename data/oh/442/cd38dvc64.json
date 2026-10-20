@@ -1,0 +1,33 @@
+{
+  "id": "cd38dvc64",
+  "url": "https://constellation.church/cd38dvc64",
+  "name": "Medina United Methodist Church",
+  "displayName": "Medina United Methodist Church",
+  "address": {
+    "street": "4747 Foote Road",
+    "city": "Medina",
+    "state": "OH",
+    "zip": "44256"
+  },
+  "coordinates": {
+    "latitude": 41.146331787109375,
+    "longitude": -81.83277893066406
+  },
+  "website": "https://medinaumc.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFDnOIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFDnOIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "medinaumc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340801304"
+    }
+  ],
+  "advisories": []
+}

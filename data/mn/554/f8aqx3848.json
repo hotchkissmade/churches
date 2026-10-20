@@ -1,0 +1,33 @@
+{
+  "id": "f8aqx3848",
+  "url": "https://constellation.church/f8aqx3848",
+  "name": "Gustavus Adolphus Lutheran Church",
+  "displayName": "Gustavus Adolphus Lutheran Church",
+  "address": {
+    "street": "1509 27th Ave NE",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55418-3034"
+  },
+  "coordinates": {
+    "latitude": 45.017189025878906,
+    "longitude": -93.23787689208984
+  },
+  "website": "https://gachurchmpls.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fb871176-131f-472f-a01b-e8c6448e7fe4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fb871176-131f-472f-a01b-e8c6448e7fe4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gachurchmpls.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410760818"
+    }
+  ],
+  "advisories": []
+}

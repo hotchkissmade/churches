@@ -1,0 +1,33 @@
+{
+  "id": "p8xwgbw76",
+  "url": "https://constellation.church/p8xwgbw76",
+  "name": "Church of the Epiphany, Manhattan",
+  "displayName": "Church of the Epiphany, Manhattan",
+  "address": {
+    "street": "351 East 74th Street",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10021"
+  },
+  "coordinates": {
+    "latitude": 40.7696533203125,
+    "longitude": -73.95552444458008
+  },
+  "website": "https://janhus.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-new-york/list/epiphany-manhattan",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-new-york/epiphany-manhattan"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "janhus.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "131635255"
+    }
+  ],
+  "advisories": []
+}

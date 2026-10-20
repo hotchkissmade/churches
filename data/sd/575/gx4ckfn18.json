@@ -1,0 +1,33 @@
+{
+  "id": "gx4ckfn18",
+  "url": "https://constellation.church/gx4ckfn18",
+  "name": "Diocese of South Dakota Office",
+  "displayName": "Diocese of South Dakota Office",
+  "address": {
+    "street": "408 North Jefferson Ave.",
+    "city": "Pierre",
+    "state": "SD",
+    "zip": "57501"
+  },
+  "coordinates": {
+    "latitude": 44.3678661,
+    "longitude": -100.336971
+  },
+  "website": "https://episcopalchurchsd.org/staff",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/south-dakota/list/diocese-south-dakota-office",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "south-dakota/diocese-south-dakota-office"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "episcopalchurchsd.org/staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460224597"
+    }
+  ],
+  "advisories": []
+}

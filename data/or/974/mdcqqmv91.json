@@ -1,0 +1,33 @@
+{
+  "id": "mdcqqmv91",
+  "url": "https://constellation.church/mdcqqmv91",
+  "name": "New Life Church",
+  "displayName": "New Life Church",
+  "address": {
+    "street": "2080 19th St",
+    "city": "Springfield",
+    "state": "OR",
+    "zip": "97477"
+  },
+  "coordinates": {
+    "latitude": 44.06557273864746,
+    "longitude": -122.99705505371094
+  },
+  "website": "https://nlcchurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=e58561bf-9bb3-4892-83e5-129511923536&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "e58561bf-9bb3-4892-83e5-129511923536"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nlcchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930473173"
+    }
+  ],
+  "advisories": []
+}

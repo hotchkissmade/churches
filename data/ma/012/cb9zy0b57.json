@@ -1,0 +1,33 @@
+{
+  "id": "cb9zy0b57",
+  "url": "https://constellation.church/cb9zy0b57",
+  "name": "First Baptist Church – Williamstown",
+  "displayName": "First Baptist Church – Williamstown",
+  "address": {
+    "street": "731 Main Street",
+    "city": "Williamstown",
+    "state": "MA",
+    "zip": "01267"
+  },
+  "coordinates": {
+    "latitude": 42.710594177246094,
+    "longitude": -73.19829177856445
+  },
+  "website": "https://williamstownfirstbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-williamstown/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-williamstown"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "williamstownfirstbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222484734"
+    }
+  ],
+  "advisories": []
+}

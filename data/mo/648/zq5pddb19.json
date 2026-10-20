@@ -1,0 +1,33 @@
+{
+  "id": "zq5pddb19",
+  "url": "https://constellation.church/zq5pddb19",
+  "name": "First Baptist Church Joplin",
+  "displayName": "First Baptist Church Joplin",
+  "address": {
+    "street": "4128 Connecticut Ave",
+    "city": "Joplin",
+    "state": "MO",
+    "zip": "64804"
+  },
+  "coordinates": {
+    "latitude": 37.04298210144043,
+    "longitude": -94.49916076660156
+  },
+  "website": "https://firstjoplin.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-joplin/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-joplin"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstjoplin.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440656876"
+    }
+  ],
+  "advisories": []
+}

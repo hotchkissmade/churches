@@ -1,0 +1,33 @@
+{
+  "id": "t8h1kyw08",
+  "url": "https://constellation.church/t8h1kyw08",
+  "name": "Lakeview",
+  "displayName": "Lakeview Baptist Church",
+  "address": {
+    "street": "1600 E Glenn Ave",
+    "city": "Auburn",
+    "state": "AL",
+    "zip": "36830"
+  },
+  "coordinates": {
+    "latitude": 32.60821723937988,
+    "longitude": -85.44660186767578
+  },
+  "website": "https://lakeviewbaptist.org/lakeview-staff",
+  "listingUrl": "https://churches.sbc.net/church/lakeview-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lakeview-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lakeviewbaptist.org/lakeview-staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800906839"
+    }
+  ],
+  "advisories": []
+}

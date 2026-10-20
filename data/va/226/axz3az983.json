@@ -1,0 +1,33 @@
+{
+  "id": "axz3az983",
+  "url": "https://constellation.church/axz3az983",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "4260 Fort Valley Rd",
+    "city": "Fort Valley",
+    "state": "VA",
+    "zip": "22652-2612"
+  },
+  "coordinates": {
+    "latitude": 38.81309700012207,
+    "longitude": -78.4481315612793
+  },
+  "website": "https://faithlutheran-fortvalley.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4e7aa6f0-e3cd-4225-9a85-a09ac38bfd10",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4e7aa6f0-e3cd-4225-9a85-a09ac38bfd10"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithlutheran-fortvalley.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541252043"
+    }
+  ],
+  "advisories": []
+}

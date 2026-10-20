@@ -1,0 +1,33 @@
+{
+  "id": "d18hwbf65",
+  "url": "https://constellation.church/d18hwbf65",
+  "name": "St. George",
+  "displayName": "St. George Coptic Orthodox Church",
+  "address": {
+    "street": "13216 NE 100th St",
+    "city": "Kirkland",
+    "state": "WA",
+    "zip": "98033"
+  },
+  "coordinates": {
+    "latitude": 47.689979553222656,
+    "longitude": -122.16407012939453
+  },
+  "website": "https://stgeorgeseattle.org",
+  "listingUrl": "https://copticchurch.net/directory/church/221",
+  "identifiers": [
+    {
+      "namespace": "net.copticchurch.id",
+      "value": "221"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stgeorgeseattle.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "912144585"
+    }
+  ],
+  "advisories": []
+}

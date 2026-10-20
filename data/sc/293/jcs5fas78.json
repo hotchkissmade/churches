@@ -1,0 +1,33 @@
+{
+  "id": "jcs5fas78",
+  "url": "https://constellation.church/jcs5fas78",
+  "name": "Southport Church",
+  "displayName": "Southport Church",
+  "address": {
+    "street": "625 Southport Rd",
+    "city": "Roebuck",
+    "state": "SC",
+    "zip": "29376"
+  },
+  "coordinates": {
+    "latitude": 34.909332275390625,
+    "longitude": -81.95246887207031
+  },
+  "website": "https://spchurchroebuck.org",
+  "listingUrl": "https://churches.sbc.net/church/southport-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "southport-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "spchurchroebuck.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570612378"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "j63cmjn26",
+  "url": "https://constellation.church/j63cmjn26",
+  "name": "Lutheran Church Of The Good Shepherd",
+  "displayName": "Lutheran Church Of The Good Shepherd",
+  "address": {
+    "street": "1111 N Elmhurst Rd",
+    "city": "Prospect Heights",
+    "state": "IL",
+    "zip": "60070-1011"
+  },
+  "coordinates": {
+    "latitude": 42.1221923828125,
+    "longitude": -87.93644332885742
+  },
+  "website": "https://lcgoodshepherd.com/index.html",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7e2a80c5-0f23-4fc4-9214-dd5f5f582dfa",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7e2a80c5-0f23-4fc4-9214-dd5f5f582dfa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcgoodshepherd.com/index.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362613320"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qj137sm08",
+  "url": "https://constellation.church/qj137sm08",
+  "name": "Connectionpointe Church",
+  "displayName": "Connectionpointe Church",
+  "address": {
+    "street": "4314 N Romero Rd",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85705"
+  },
+  "coordinates": {
+    "latitude": 32.28646659851074,
+    "longitude": -111.00325012207031
+  },
+  "website": "https://cpc-tucson.org",
+  "listingUrl": "https://churches.sbc.net/church/connectionpointe-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "connectionpointe-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cpc-tucson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942380644"
+    }
+  ],
+  "advisories": []
+}

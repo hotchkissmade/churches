@@ -1,0 +1,33 @@
+{
+  "id": "mk0xcwq44",
+  "url": "https://constellation.church/mk0xcwq44",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "3747 Liberty Ave",
+    "city": "Vermilion",
+    "state": "OH",
+    "zip": "44089-2359"
+  },
+  "coordinates": {
+    "latitude": 41.42408752441406,
+    "longitude": -82.32281494140625
+  },
+  "website": "https://trinityvermilion.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=86b7bbc4-7011-4782-b8b0-755de8ab134e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "86b7bbc4-7011-4782-b8b0-755de8ab134e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityvermilion.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341302475"
+    }
+  ],
+  "advisories": []
+}

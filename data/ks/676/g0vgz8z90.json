@@ -1,0 +1,33 @@
+{
+  "id": "g0vgz8z90",
+  "url": "https://constellation.church/g0vgz8z90",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "425 N Main St",
+    "city": "Russell",
+    "state": "KS",
+    "zip": "67665-2752"
+  },
+  "coordinates": {
+    "latitude": 38.889997482299805,
+    "longitude": -98.85968017578125
+  },
+  "website": "https://stjohnrussell.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d6342a35-0673-4daa-9ce3-ccde75b83463",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d6342a35-0673-4daa-9ce3-ccde75b83463"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnrussell.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480672898"
+    }
+  ],
+  "advisories": []
+}

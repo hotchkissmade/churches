@@ -1,0 +1,33 @@
+{
+  "id": "k6t2mkm44",
+  "url": "https://constellation.church/k6t2mkm44",
+  "name": "Real Life Church",
+  "displayName": "Real Life Church",
+  "address": {
+    "street": "2353 Chatsworth St N",
+    "city": "Roseville",
+    "state": "MN",
+    "zip": "55113"
+  },
+  "coordinates": {
+    "latitude": 45.01251220703125,
+    "longitude": -93.14210510253906
+  },
+  "website": "https://reallifemn.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=e848d0d9-186c-4a64-b031-6f0a5146ecbe&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "e848d0d9-186c-4a64-b031-6f0a5146ecbe"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "reallifemn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411524240"
+    }
+  ],
+  "advisories": []
+}

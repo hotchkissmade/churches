@@ -1,0 +1,33 @@
+{
+  "id": "v0gnkcm92",
+  "url": "https://constellation.church/v0gnkcm92",
+  "name": "Prince Of Peace Evangelical Lutheran Church",
+  "displayName": "Prince Of Peace Evangelical Lutheran Church",
+  "address": {
+    "street": "2600 75th St",
+    "city": "Woodridge",
+    "state": "IL",
+    "zip": "60517-2852"
+  },
+  "coordinates": {
+    "latitude": 41.750885009765625,
+    "longitude": -88.04655456542969
+  },
+  "website": "https://popwoodridge.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6add464e-5041-4808-86d6-7fac7344f99d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6add464e-5041-4808-86d6-7fac7344f99d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "popwoodridge.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363296459"
+    }
+  ],
+  "advisories": []
+}

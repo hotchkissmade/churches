@@ -1,0 +1,33 @@
+{
+  "id": "egr6atm53",
+  "url": "https://constellation.church/egr6atm53",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "1300 Pearl St",
+    "city": "Belvidere",
+    "state": "IL",
+    "zip": "61008-5217"
+  },
+  "coordinates": {
+    "latitude": 42.24761199951172,
+    "longitude": -88.841796875
+  },
+  "website": "https://zionbelvidere.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=555e63c5-bbc3-4610-9e4c-0809820e71b6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "555e63c5-bbc3-4610-9e4c-0809820e71b6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionbelvidere.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366067433"
+    }
+  ],
+  "advisories": []
+}

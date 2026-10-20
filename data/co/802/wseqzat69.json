@@ -1,0 +1,33 @@
+{
+  "id": "wseqzat69",
+  "url": "https://constellation.church/wseqzat69",
+  "name": "North Metro Church",
+  "displayName": "North Metro Church",
+  "address": {
+    "street": "12505 Colorado Blvd",
+    "city": "Thornton",
+    "state": "CO",
+    "zip": "80241"
+  },
+  "coordinates": {
+    "latitude": 39.92373275756836,
+    "longitude": -104.94148254394531
+  },
+  "website": "https://northmetrochurch.org/about-2/what-we-believe",
+  "listingUrl": "https://churches.sbc.net/church/north-metro-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "north-metro-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northmetrochurch.org/about-2/what-we-believe"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840519782"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "m55eyzx09",
+  "url": "https://constellation.church/m55eyzx09",
+  "name": "First Baptist Church Spokane",
+  "displayName": "First Baptist Church Spokane",
+  "address": {
+    "street": "773 Spokane Rd",
+    "city": "Spokane",
+    "state": "MO",
+    "zip": "65754"
+  },
+  "coordinates": {
+    "latitude": 36.86746406555176,
+    "longitude": -93.29743957519531
+  },
+  "website": "https://spokanefbc.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-spokane/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-spokane"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "spokanefbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431272039"
+    }
+  ],
+  "advisories": []
+}

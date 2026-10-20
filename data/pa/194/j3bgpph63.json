@@ -1,0 +1,33 @@
+{
+  "id": "j3bgpph63",
+  "url": "https://constellation.church/j3bgpph63",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "1802 Skippack Pike",
+    "city": "Blue Bell",
+    "state": "PA",
+    "zip": "19422-1380"
+  },
+  "coordinates": {
+    "latitude": 40.173397064208984,
+    "longitude": -75.30243682861328
+  },
+  "website": "https://stjohnbluebell.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=88804ab7-b3f8-4a90-901c-aeb58f6dea51",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "88804ab7-b3f8-4a90-901c-aeb58f6dea51"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnbluebell.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232480638"
+    }
+  ],
+  "advisories": []
+}

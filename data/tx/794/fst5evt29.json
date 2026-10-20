@@ -1,0 +1,33 @@
+{
+  "id": "fst5evt29",
+  "url": "https://constellation.church/fst5evt29",
+  "name": "Indiana Avenue Baptist Church",
+  "displayName": "Indiana Avenue Baptist Church",
+  "address": {
+    "street": "9507 Indiana Ave",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79423"
+  },
+  "coordinates": {
+    "latitude": 33.50771713256836,
+    "longitude": -101.88520050048828
+  },
+  "website": "https://iabc.org",
+  "listingUrl": "https://churches.sbc.net/church/indiana-avenue-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "indiana-avenue-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "iabc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751918666"
+    }
+  ],
+  "advisories": []
+}

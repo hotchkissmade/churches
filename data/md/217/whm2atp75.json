@@ -1,0 +1,33 @@
+{
+  "id": "whm2atp75",
+  "url": "https://constellation.church/whm2atp75",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "5 E Main St",
+    "city": "Burkittsville",
+    "state": "MD",
+    "zip": "21718-9207"
+  },
+  "coordinates": {
+    "latitude": 39.393476486206055,
+    "longitude": -77.62884521484375
+  },
+  "website": "https://stpaulsburkittsville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2027de29-2e8e-46bf-b3ea-f56f9e1bec97",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2027de29-2e8e-46bf-b3ea-f56f9e1bec97"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsburkittsville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521329947"
+    }
+  ],
+  "advisories": []
+}

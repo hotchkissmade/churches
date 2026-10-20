@@ -1,0 +1,33 @@
+{
+  "id": "qx1xq2d48",
+  "url": "https://constellation.church/qx1xq2d48",
+  "name": "Hixson Presbyterian Church",
+  "displayName": "Hixson Presbyterian Church",
+  "address": {
+    "street": "1450 Jackson Mill Drive",
+    "city": "Hixson",
+    "state": "TN",
+    "zip": "37343"
+  },
+  "coordinates": {
+    "latitude": 35.141767501831055,
+    "longitude": -85.25149154663086
+  },
+  "website": "https://hixsonpres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/597",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "597"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hixsonpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621153961"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qzmxtfd21",
+  "url": "https://constellation.church/qzmxtfd21",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "141 East St",
+    "city": "Williamstown",
+    "state": "PA",
+    "zip": "17098-1440"
+  },
+  "coordinates": {
+    "latitude": 40.5810432434082,
+    "longitude": -76.61795043945312
+  },
+  "website": "https://immanuelluthwilliamstown.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f6602a1c-1ef9-48e8-8a68-c6b81fa055ba",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f6602a1c-1ef9-48e8-8a68-c6b81fa055ba"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "immanuelluthwilliamstown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231943821"
+    }
+  ],
+  "advisories": []
+}

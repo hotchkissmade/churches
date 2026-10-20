@@ -1,0 +1,37 @@
+{
+  "id": "t7v7e0622",
+  "url": "https://constellation.church/t7v7e0622",
+  "name": "Redeemer Presbyterian Church",
+  "displayName": "Redeemer Presbyterian Church",
+  "address": {
+    "street": "7820 Silverado Trail",
+    "city": "McKinney",
+    "state": "TX",
+    "zip": "75070"
+  },
+  "coordinates": {
+    "latitude": 33.16049385070801,
+    "longitude": -96.7159423828125
+  },
+  "website": "https://redeemermckinney.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1666",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1666"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemermckinney.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030465607"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "463189288"
+    }
+  ],
+  "advisories": []
+}

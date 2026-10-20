@@ -1,0 +1,33 @@
+{
+  "id": "mps4ja542",
+  "url": "https://constellation.church/mps4ja542",
+  "name": "Lighthouse Assembly of God",
+  "displayName": "Lighthouse Assembly of God",
+  "address": {
+    "street": "2339 W Cart Rd",
+    "city": "Richmond",
+    "state": "IN",
+    "zip": "47374"
+  },
+  "coordinates": {
+    "latitude": 39.869977951049805,
+    "longitude": -84.86892700195312
+  },
+  "website": "https://lighthouse-ag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=c26829c1-3310-479d-9109-e774636d9976&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "c26829c1-3310-479d-9109-e774636d9976"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lighthouse-ag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351511215"
+    }
+  ],
+  "advisories": []
+}

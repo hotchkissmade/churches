@@ -1,0 +1,33 @@
+{
+  "id": "gg44bm387",
+  "url": "https://constellation.church/gg44bm387",
+  "name": "Highland Presbyterian Church",
+  "displayName": "Highland Presbyterian Church",
+  "address": {
+    "street": "708 Highland Ave",
+    "city": "New Castle",
+    "state": "PA",
+    "zip": "16101"
+  },
+  "coordinates": {
+    "latitude": 41.008859634399414,
+    "longitude": -80.3397216796875
+  },
+  "website": "https://highland-presby.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/480/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "480"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "highland-presby.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251005198"
+    }
+  ],
+  "advisories": []
+}

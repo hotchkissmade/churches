@@ -1,0 +1,33 @@
+{
+  "id": "h0fr44737",
+  "url": "https://constellation.church/h0fr44737",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "312 Main St",
+    "city": "Atwater",
+    "state": "MN",
+    "zip": "56209"
+  },
+  "coordinates": {
+    "latitude": 45.13323974609375,
+    "longitude": -94.7780532836914
+  },
+  "website": "https://blcatwater.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=34cc188b-ad3b-425f-abca-eb49dd42a80c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "34cc188b-ad3b-425f-abca-eb49dd42a80c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blcatwater.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410840988"
+    }
+  ],
+  "advisories": []
+}

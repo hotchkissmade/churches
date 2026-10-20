@@ -1,0 +1,33 @@
+{
+  "id": "m9ggeyh48",
+  "url": "https://constellation.church/m9ggeyh48",
+  "name": "Emmanuel Lutheran Church",
+  "displayName": "Emmanuel Lutheran Church",
+  "address": {
+    "street": "360 Princeton Ave",
+    "city": "Elyria",
+    "state": "OH",
+    "zip": "44035-6462"
+  },
+  "coordinates": {
+    "latitude": 41.364227294921875,
+    "longitude": -82.092041015625
+  },
+  "website": "https://elc-elyria.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=24e7d97e-37e0-40f2-916d-c07fededbf64",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "24e7d97e-37e0-40f2-916d-c07fededbf64"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elc-elyria.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341050775"
+    }
+  ],
+  "advisories": []
+}

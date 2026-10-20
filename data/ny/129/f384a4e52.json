@@ -1,0 +1,33 @@
+{
+  "id": "f384a4e52",
+  "url": "https://constellation.church/f384a4e52",
+  "name": "Lutheran Church Of The Redeemer",
+  "displayName": "Lutheran Church Of The Redeemer",
+  "address": {
+    "street": "10 Adirondack Ln",
+    "city": "Plattsburgh",
+    "state": "NY",
+    "zip": "12901-3202"
+  },
+  "coordinates": {
+    "latitude": 44.6864013671875,
+    "longitude": -73.47259902954102
+  },
+  "website": "https://plattsburghredeemer.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=142f407e-f281-4e6f-a71a-f6f89924c006",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "142f407e-f281-4e6f-a71a-f6f89924c006"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "plattsburghredeemer.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "141587341"
+    }
+  ],
+  "advisories": []
+}

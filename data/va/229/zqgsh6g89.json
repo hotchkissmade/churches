@@ -1,0 +1,33 @@
+{
+  "id": "zqgsh6g89",
+  "url": "https://constellation.church/zqgsh6g89",
+  "name": "Peace Lutheran Church",
+  "displayName": "Peace Lutheran Church",
+  "address": {
+    "street": "1510 Broad Crossing Rd",
+    "city": "Charlottesville",
+    "state": "VA",
+    "zip": "22911-7483"
+  },
+  "coordinates": {
+    "latitude": 38.12127685546875,
+    "longitude": -78.44640731811523
+  },
+  "website": "https://plchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0c04bdcf-baa6-46b2-953f-08fe775e17c1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0c04bdcf-baa6-46b2-953f-08fe775e17c1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "plchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541305602"
+    }
+  ],
+  "advisories": []
+}

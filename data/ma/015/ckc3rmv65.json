@@ -1,0 +1,33 @@
+{
+  "id": "ckc3rmv65",
+  "url": "https://constellation.church/ckc3rmv65",
+  "name": "Chapel On the Hill",
+  "displayName": "Chapel On the Hill",
+  "address": {
+    "street": "145 Memorial Drive",
+    "city": "Shrewsbury",
+    "state": "MA",
+    "zip": "01545"
+  },
+  "coordinates": {
+    "latitude": 42.26002502441406,
+    "longitude": -71.71044540405273
+  },
+  "website": "https://cothma.org",
+  "listingUrl": "https://churches.sbc.net/church/chapel-on-the-hill/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "chapel-on-the-hill"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cothma.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222573004"
+    }
+  ],
+  "advisories": []
+}

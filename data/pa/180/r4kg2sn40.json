@@ -1,0 +1,33 @@
+{
+  "id": "r4kg2sn40",
+  "url": "https://constellation.church/r4kg2sn40",
+  "name": "Emmanuel Lutheran Church",
+  "displayName": "Emmanuel Lutheran Church",
+  "address": {
+    "street": "3175 Valley View Dr",
+    "city": "Bath",
+    "state": "PA",
+    "zip": "18014-9465"
+  },
+  "coordinates": {
+    "latitude": 40.760257720947266,
+    "longitude": -75.45904159545898
+  },
+  "website": "https://emmanuels.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=19009773-8583-4997-a09b-afabe6d5a5ea",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "19009773-8583-4997-a09b-afabe6d5a5ea"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emmanuels.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "246022946"
+    }
+  ],
+  "advisories": []
+}

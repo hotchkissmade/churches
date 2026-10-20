@@ -1,0 +1,33 @@
+{
+  "id": "ezzzbkb61",
+  "url": "https://constellation.church/ezzzbkb61",
+  "name": "Trinity Church",
+  "displayName": "Trinity Church",
+  "address": {
+    "street": "535 Okanogan Ave",
+    "city": "Wentachee",
+    "state": "WA",
+    "zip": "98801"
+  },
+  "coordinates": {
+    "latitude": 47.41526412963867,
+    "longitude": -120.31322479248047
+  },
+  "website": "https://wbbcu.org",
+  "listingUrl": "https://www.acna.org/admin_units/1678",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "1678"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wbbcu.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910604174"
+    }
+  ],
+  "advisories": []
+}

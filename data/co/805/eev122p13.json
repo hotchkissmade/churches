@@ -1,0 +1,33 @@
+{
+  "id": "eev122p13",
+  "url": "https://constellation.church/eev122p13",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "4610 Hogan Dr",
+    "city": "Fort Collins",
+    "state": "CO",
+    "zip": "80525-3704"
+  },
+  "coordinates": {
+    "latitude": 40.5228385925293,
+    "longitude": -105.0704345703125
+  },
+  "website": "https://stpeterwels.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24500",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24500"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpeterwels.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237415850"
+    }
+  ],
+  "advisories": []
+}

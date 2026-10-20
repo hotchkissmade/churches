@@ -1,0 +1,33 @@
+{
+  "id": "pm9aaar34",
+  "url": "https://constellation.church/pm9aaar34",
+  "name": "St Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "200 N Cedar St",
+    "city": "Imlay City",
+    "state": "MI",
+    "zip": "48444-1124"
+  },
+  "coordinates": {
+    "latitude": 43.02587127685547,
+    "longitude": -83.07104873657227
+  },
+  "website": "https://httpswwwstpaulslutheranic.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=13a4408d-82da-455c-9fd7-310676afc71e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "13a4408d-82da-455c-9fd7-310676afc71e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "httpswwwstpaulslutheranic.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382208509"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hc85kvn58",
+  "url": "https://constellation.church/hc85kvn58",
+  "name": "Fourth Avenue United Methodist Church",
+  "displayName": "Fourth Avenue United Methodist Church",
+  "address": {
+    "street": "318 W St Catherine St",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40203"
+  },
+  "coordinates": {
+    "latitude": 38.23724174499512,
+    "longitude": -85.75941848754883
+  },
+  "website": "https://fourthavenue.us",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFBJmIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFBJmIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fourthavenue.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "610500813"
+    }
+  ],
+  "advisories": []
+}

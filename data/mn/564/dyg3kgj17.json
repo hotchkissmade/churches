@@ -1,0 +1,33 @@
+{
+  "id": "dyg3kgj17",
+  "url": "https://constellation.church/dyg3kgj17",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "402 Main St",
+    "city": "Palisade",
+    "state": "MN",
+    "zip": "56469"
+  },
+  "coordinates": {
+    "latitude": 46.7131502,
+    "longitude": -93.4883588
+  },
+  "website": "https://bethellutheranpalisade.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c01d176d-c5d8-46e6-a98f-0fa662acfd1e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c01d176d-c5d8-46e6-a98f-0fa662acfd1e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethellutheranpalisade.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411506631"
+    }
+  ],
+  "advisories": []
+}

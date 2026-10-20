@@ -1,0 +1,33 @@
+{
+  "id": "x29c9z760",
+  "url": "https://constellation.church/x29c9z760",
+  "name": "Grace Church",
+  "displayName": "Grace Church",
+  "address": {
+    "street": "440 N Illinois Ave",
+    "city": "Mason City",
+    "state": "IA",
+    "zip": "50401-2587"
+  },
+  "coordinates": {
+    "latitude": 43.15605926513672,
+    "longitude": -93.17213439941406
+  },
+  "website": "https://gracemc.org",
+  "listingUrl": "https://churches.efca.org/?id=173377",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "173377"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracemc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420885802"
+    }
+  ],
+  "advisories": []
+}

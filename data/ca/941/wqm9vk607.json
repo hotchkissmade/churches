@@ -1,0 +1,33 @@
+{
+  "id": "wqm9vk607",
+  "url": "https://constellation.church/wqm9vk607",
+  "name": "Holy Trinity Cathedral",
+  "displayName": "Holy Trinity Cathedral",
+  "address": {
+    "street": "1520 Green St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94123-5102"
+  },
+  "coordinates": {
+    "latitude": 37.79767036437988,
+    "longitude": -122.42413330078125
+  },
+  "website": "https://holy-trinity.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-we-sfohtk",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-we-sfohtk"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holy-trinity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941270339"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cavnavg14",
+  "url": "https://constellation.church/cavnavg14",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "4501 Clinton Ave",
+    "city": "Lorain",
+    "state": "OH",
+    "zip": "44055-3457"
+  },
+  "coordinates": {
+    "latitude": 41.42801856994629,
+    "longitude": -82.12592315673828
+  },
+  "website": "https://christlutheranlorain.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=909c1507-b151-47cf-bdd0-634832dc82c1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "909c1507-b151-47cf-bdd0-634832dc82c1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christlutheranlorain.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340924484"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "yrfbh4h33",
+  "url": "https://constellation.church/yrfbh4h33",
+  "name": "Earle Street Baptist Church",
+  "displayName": "Earle Street Baptist Church",
+  "address": {
+    "street": "225 W Earle St",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29609"
+  },
+  "coordinates": {
+    "latitude": 34.86293983459473,
+    "longitude": -82.40016174316406
+  },
+  "website": "https://esbcgreenville.org",
+  "listingUrl": "https://churches.sbc.net/church/earle-street-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "earle-street-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "esbcgreenville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570352248"
+    }
+  ],
+  "advisories": []
+}

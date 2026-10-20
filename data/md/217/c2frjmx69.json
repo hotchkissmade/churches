@@ -1,0 +1,33 @@
+{
+  "id": "c2frjmx69",
+  "url": "https://constellation.church/c2frjmx69",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "15 N Church St",
+    "city": "Thurmont",
+    "state": "MD",
+    "zip": "21788-2028"
+  },
+  "coordinates": {
+    "latitude": 39.624616622924805,
+    "longitude": -77.41133880615234
+  },
+  "website": "https://stjlcthurmont.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=85da231e-6cb3-4788-8274-f1cd1c415cbd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "85da231e-6cb3-4788-8274-f1cd1c415cbd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjlcthurmont.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "526044102"
+    }
+  ],
+  "advisories": []
+}

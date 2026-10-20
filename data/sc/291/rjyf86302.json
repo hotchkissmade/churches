@@ -1,0 +1,33 @@
+{
+  "id": "rjyf86302",
+  "url": "https://constellation.church/rjyf86302",
+  "name": "Pomaria Lutheran Church",
+  "displayName": "Pomaria Lutheran Church",
+  "address": {
+    "street": "210 Folk St.",
+    "city": "Pomaria",
+    "state": "SC",
+    "zip": "29126"
+  },
+  "coordinates": {
+    "latitude": 34.270986557006836,
+    "longitude": -81.4165153503418
+  },
+  "website": "https://pomarialutheran.church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7a97748a-f3f0-4b02-a15e-fa6ce1c940f2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7a97748a-f3f0-4b02-a15e-fa6ce1c940f2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pomarialutheran.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "576070296"
+    }
+  ],
+  "advisories": []
+}

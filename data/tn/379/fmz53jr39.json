@@ -1,0 +1,33 @@
+{
+  "id": "fmz53jr39",
+  "url": "https://constellation.church/fmz53jr39",
+  "name": "First Baptist Concord",
+  "displayName": "First Baptist Church Concord",
+  "address": {
+    "street": "11704 Kingston Pike",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37934"
+  },
+  "coordinates": {
+    "latitude": 35.875057220458984,
+    "longitude": -84.17107772827148
+  },
+  "website": "https://fbcknox.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-concord/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-concord"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcknox.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620800819"
+    }
+  ],
+  "advisories": []
+}

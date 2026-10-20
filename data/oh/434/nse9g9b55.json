@@ -1,0 +1,33 @@
+{
+  "id": "nse9g9b55",
+  "url": "https://constellation.church/nse9g9b55",
+  "name": "Journey Church",
+  "displayName": "Journey Church",
+  "address": {
+    "street": "565 S State Route 19 Fremont",
+    "city": null,
+    "state": "OH",
+    "zip": "43420"
+  },
+  "coordinates": {
+    "latitude": 41.32913250347,
+    "longitude": -83.051589388896
+  },
+  "website": "https://explorejourney.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d92522b4-5a70-4274-a06f-bd19062ecff2&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d92522b4-5a70-4274-a06f-bd19062ecff2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "explorejourney.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760830487"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a89adjn02",
+  "url": "https://constellation.church/a89adjn02",
+  "name": "Stone Presbyterian Church",
+  "displayName": "Stone Presbyterian Church",
+  "address": {
+    "street": "140 Chestnut St",
+    "city": "Watertown",
+    "state": "NY",
+    "zip": "13601-4319"
+  },
+  "coordinates": {
+    "latitude": 43.96141815185547,
+    "longitude": -75.91555404663086
+  },
+  "website": "https://stonepreschurch.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/5875/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "5875"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stonepreschurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "150532101"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pgwx6j840",
+  "url": "https://constellation.church/pgwx6j840",
+  "name": "Paynesville Lutheran Church",
+  "displayName": "Paynesville Lutheran Church",
+  "address": {
+    "street": "657 Maple St",
+    "city": "Paynesville",
+    "state": "MN",
+    "zip": "56362-1425"
+  },
+  "coordinates": {
+    "latitude": 45.375240325927734,
+    "longitude": -94.7215576171875
+  },
+  "website": "https://paynesvillelutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e3c5c941-7021-4ce9-84d8-4e089450492f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e3c5c941-7021-4ce9-84d8-4e089450492f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "paynesvillelutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410985512"
+    }
+  ],
+  "advisories": []
+}

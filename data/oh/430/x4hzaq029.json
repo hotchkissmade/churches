@@ -1,0 +1,33 @@
+{
+  "id": "x4hzaq029",
+  "url": "https://constellation.church/x4hzaq029",
+  "name": "The Life Church PC/G",
+  "displayName": "The Life Church",
+  "address": {
+    "street": "101 Lancaster Dr",
+    "city": "Heath",
+    "state": "OH",
+    "zip": "43056"
+  },
+  "coordinates": {
+    "latitude": 40.038818359375,
+    "longitude": -82.4478645324707
+  },
+  "website": "https://clcheath.com/about-us",
+  "listingUrl": "https://rforw.pcg.org/ChurchDetails.aspx?contactID=711922",
+  "identifiers": [
+    {
+      "namespace": "org.pcg.rforw.id",
+      "value": "711922"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clcheath.com/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311090663"
+    }
+  ],
+  "advisories": []
+}

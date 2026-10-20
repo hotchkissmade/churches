@@ -1,0 +1,33 @@
+{
+  "id": "m75s8nv04",
+  "url": "https://constellation.church/m75s8nv04",
+  "name": "Holy Spirit Church",
+  "displayName": "Holy Spirit Church",
+  "address": {
+    "street": "700 Shamrock Blvd",
+    "city": "Venice",
+    "state": "FL",
+    "zip": "34293-1835"
+  },
+  "coordinates": {
+    "latitude": 27.073848724365234,
+    "longitude": -82.40076065063477
+  },
+  "website": "https://hsoc-venice.com",
+  "listingUrl": "https://www.oca.org/parishes/oca-so-vnchsm",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-so-vnchsm"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hsoc-venice.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "650082873"
+    }
+  ],
+  "advisories": []
+}

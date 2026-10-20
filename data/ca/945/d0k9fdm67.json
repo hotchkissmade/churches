@@ -1,0 +1,33 @@
+{
+  "id": "d0k9fdm67",
+  "url": "https://constellation.church/d0k9fdm67",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "1360 E Tregallas Rd",
+    "city": "Antioch",
+    "state": "CA",
+    "zip": "94509-6522"
+  },
+  "coordinates": {
+    "latitude": 37.994802474975586,
+    "longitude": -121.78629302978516
+  },
+  "website": "https://stjohnsantioch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=33a931f7-9adc-46c8-aa12-f8cf103ba004",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "33a931f7-9adc-46c8-aa12-f8cf103ba004"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsantioch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942279024"
+    }
+  ],
+  "advisories": []
+}

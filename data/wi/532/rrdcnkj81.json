@@ -1,0 +1,33 @@
+{
+  "id": "rrdcnkj81",
+  "url": "https://constellation.church/rrdcnkj81",
+  "name": "Unity Lutheran Church",
+  "displayName": "Unity Lutheran Church",
+  "address": {
+    "street": "1025 E Oklahoma Ave",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53207-2463"
+  },
+  "coordinates": {
+    "latitude": 42.98801803588867,
+    "longitude": -87.89598083496094
+  },
+  "website": "https://unitymilwaukee.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=793e6717-afa5-4c55-a28c-e850e5055fcc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "793e6717-afa5-4c55-a28c-e850e5055fcc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "unitymilwaukee.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391017387"
+    }
+  ],
+  "advisories": []
+}

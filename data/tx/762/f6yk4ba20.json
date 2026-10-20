@@ -1,0 +1,33 @@
+{
+  "id": "f6yk4ba20",
+  "url": "https://constellation.church/f6yk4ba20",
+  "name": "Redeemer Church, Corinth",
+  "displayName": "Redeemer Church, Corinth",
+  "address": {
+    "street": "1404 N Corinth St Ste 301",
+    "city": "Corinth",
+    "state": "TX",
+    "zip": "76208"
+  },
+  "coordinates": {
+    "latitude": 33.157888412475586,
+    "longitude": -97.06305694580078
+  },
+  "website": "https://redeemerdenton.com",
+  "listingUrl": "https://churches.sbc.net/church/redeemer-church-corinth/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "redeemer-church-corinth"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerdenton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "463761571"
+    }
+  ],
+  "advisories": []
+}

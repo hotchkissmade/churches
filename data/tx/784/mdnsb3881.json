@@ -1,0 +1,33 @@
+{
+  "id": "mdnsb3881",
+  "url": "https://constellation.church/mdnsb3881",
+  "name": "St John Baptist Church",
+  "displayName": "St. John Baptist Church",
+  "address": {
+    "street": "5445 GREENWOOD DR",
+    "city": "CORPUS CHRISTI",
+    "state": "TX",
+    "zip": "78417"
+  },
+  "coordinates": {
+    "latitude": 27.736974716186523,
+    "longitude": -97.44559478759766
+  },
+  "website": "https://stjohnbc.org",
+  "listingUrl": "https://churches.sbc.net/church/st-john-baptist-church-7/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "st-john-baptist-church-7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741321312"
+    }
+  ],
+  "advisories": []
+}

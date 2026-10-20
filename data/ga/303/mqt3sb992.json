@@ -1,0 +1,33 @@
+{
+  "id": "mqt3sb992",
+  "url": "https://constellation.church/mqt3sb992",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "4137 Washington Rd",
+    "city": "East Point",
+    "state": "GA",
+    "zip": "30344-7001"
+  },
+  "coordinates": {
+    "latitude": 33.642683029174805,
+    "longitude": -84.49015426635742
+  },
+  "website": "https://stmarklutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=943c3ed8-a164-4af5-aca9-c223c80efea5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "943c3ed8-a164-4af5-aca9-c223c80efea5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarklutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800214350"
+    }
+  ],
+  "advisories": []
+}

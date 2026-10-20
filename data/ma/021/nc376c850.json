@@ -1,0 +1,33 @@
+{
+  "id": "nc376c850",
+  "url": "https://constellation.church/nc376c850",
+  "name": "Fort Square Presbyterian Church",
+  "displayName": "Fort Square Presbyterian Church",
+  "address": {
+    "street": "16 Pleasant St",
+    "city": "Quincy",
+    "state": "MA",
+    "zip": "02169"
+  },
+  "coordinates": {
+    "latitude": 42.24342155456543,
+    "longitude": -71.00654983520508
+  },
+  "website": "https://fortsquare.org",
+  "listingUrl": "https://eco-pres.org/churches/fort-square-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "fort-square-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fortsquare.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042154121"
+    }
+  ],
+  "advisories": []
+}

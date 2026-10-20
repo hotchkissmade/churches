@@ -1,0 +1,33 @@
+{
+  "id": "pgs7jc860",
+  "url": "https://constellation.church/pgs7jc860",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "708 Hard Rd",
+    "city": "Webster",
+    "state": "NY",
+    "zip": "14580"
+  },
+  "coordinates": {
+    "latitude": 43.2274055480957,
+    "longitude": -77.46043395996094
+  },
+  "website": "https://websterag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=45a5fda8-ef3e-45ad-bcea-66a7ad01d5cb&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "45a5fda8-ef3e-45ad-bcea-66a7ad01d5cb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "websterag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161036350"
+    }
+  ],
+  "advisories": []
+}

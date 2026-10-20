@@ -1,0 +1,33 @@
+{
+  "id": "jvanjz330",
+  "url": "https://constellation.church/jvanjz330",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "3001 Salem Rd",
+    "city": "Parrottsville",
+    "state": "TN",
+    "zip": "37843-2217"
+  },
+  "coordinates": {
+    "latitude": 36.01918601989746,
+    "longitude": -83.03704452514648
+  },
+  "website": "https://parrottsvillelutherans.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a438b33e-796a-488a-ac34-8f00ff1f6bae",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a438b33e-796a-488a-ac34-8f00ff1f6bae"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parrottsvillelutherans.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "626043317"
+    }
+  ],
+  "advisories": []
+}

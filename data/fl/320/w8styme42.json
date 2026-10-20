@@ -1,0 +1,33 @@
+{
+  "id": "w8styme42",
+  "url": "https://constellation.church/w8styme42",
+  "name": "Northside Baptist Church",
+  "displayName": "Northside Baptist Church",
+  "address": {
+    "street": "7415 NW County Road 225",
+    "city": "Starke",
+    "state": "FL",
+    "zip": "32091"
+  },
+  "coordinates": {
+    "latitude": 30.039433624041,
+    "longitude": -82.166849723585
+  },
+  "website": "https://nbcstarke.com",
+  "listingUrl": "https://churches.sbc.net/church/northside-baptist-church-5/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northside-baptist-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nbcstarke.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592510799"
+    }
+  ],
+  "advisories": []
+}

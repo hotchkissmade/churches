@@ -1,0 +1,33 @@
+{
+  "id": "t5eaj7656",
+  "url": "https://constellation.church/t5eaj7656",
+  "name": "First Baptist Church of Marietta",
+  "displayName": "First Baptist Church of Marietta",
+  "address": {
+    "street": "148 Church St NE",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30060"
+  },
+  "coordinates": {
+    "latitude": 33.95505714416504,
+    "longitude": -84.54961776733398
+  },
+  "website": "https://mariettafbc.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-marietta/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-marietta"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mariettafbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580625579"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "af4kvc931",
+  "url": "https://constellation.church/af4kvc931",
+  "name": "Saint Paul's Church, Spring Valley",
+  "displayName": "St. Paul's Church, Spring Valley",
+  "address": {
+    "street": "26 S. Madison Ave",
+    "city": "Spring Valley",
+    "state": "NY",
+    "zip": "10977"
+  },
+  "coordinates": {
+    "latitude": 41.1091251373291,
+    "longitude": -74.04607009887695
+  },
+  "website": "https://stpaulsspringvalley.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-new-york/list/saint-pauls-spring-valley",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-new-york/saint-pauls-spring-valley"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsspringvalley.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "131953498"
+    }
+  ],
+  "advisories": []
+}

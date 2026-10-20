@@ -1,0 +1,37 @@
+{
+  "id": "mvx5dez14",
+  "url": "https://constellation.church/mvx5dez14",
+  "name": "First United Methodist Church of Fort Scott",
+  "displayName": "First United Methodist Church of Fort Scott",
+  "address": {
+    "street": "301 S National Ave",
+    "city": "Fort Scott",
+    "state": "KS",
+    "zip": "66701-1313"
+  },
+  "coordinates": {
+    "latitude": 37.83852958679199,
+    "longitude": -94.70704650878906
+  },
+  "website": "https://firstumcfortscott.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMoKIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMoKIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstumcfortscott.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480548934"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480559096"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wyf2cmh25",
+  "url": "https://constellation.church/wyf2cmh25",
+  "name": "Waco, First Baptist Church",
+  "displayName": "Waco, First Baptist Church",
+  "address": {
+    "street": "500 Webster Ave.",
+    "city": "Waco",
+    "state": "TX",
+    "zip": "76706"
+  },
+  "coordinates": {
+    "latitude": 31.552932739257812,
+    "longitude": -97.1280746459961
+  },
+  "website": "https://fbcwaco.org",
+  "listingUrl": "https://churches.sbc.net/church/waco-first-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "waco-first-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcwaco.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "746070744"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "y577hd974",
+  "url": "https://constellation.church/y577hd974",
+  "name": "Holy Trinity Church",
+  "displayName": "Holy Trinity Church",
+  "address": {
+    "street": "46 Seymour St",
+    "city": "Yonkers",
+    "state": "NY",
+    "zip": "10701"
+  },
+  "coordinates": {
+    "latitude": 40.93813705444336,
+    "longitude": -73.88261795043945
+  },
+  "website": "https://holytrinityyonkers.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ny-yonhtc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ny-yonhtc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holytrinityyonkers.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "131820171"
+    }
+  ],
+  "advisories": []
+}

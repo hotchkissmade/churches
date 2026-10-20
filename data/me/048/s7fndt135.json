@@ -1,0 +1,33 @@
+{
+  "id": "s7fndt135",
+  "url": "https://constellation.church/s7fndt135",
+  "name": "Thomaston Assembly of God",
+  "displayName": "Thomaston Assembly of God",
+  "address": {
+    "street": "14 Roxbury St",
+    "city": "Thomaston",
+    "state": "ME",
+    "zip": "04861"
+  },
+  "coordinates": {
+    "latitude": 44.0794677734375,
+    "longitude": -69.17487716674805
+  },
+  "website": "https://thomastonag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a0c6a75a-6126-4f10-9b85-6ba385e95aec&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "a0c6a75a-6126-4f10-9b85-6ba385e95aec"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thomastonag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "010385030"
+    }
+  ],
+  "advisories": []
+}

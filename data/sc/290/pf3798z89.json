@@ -1,0 +1,33 @@
+{
+  "id": "pf3798z89",
+  "url": "https://constellation.church/pf3798z89",
+  "name": "Providence Lutheran Church",
+  "displayName": "Providence Lutheran Church",
+  "address": {
+    "street": "840 Old Chapin Rd",
+    "city": "Lexington",
+    "state": "SC",
+    "zip": "29072-9596"
+  },
+  "coordinates": {
+    "latitude": 34.01971244812012,
+    "longitude": -81.26386642456055
+  },
+  "website": "https://providencelutheranchurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dfdc2c43-05f6-4889-a15a-51fd7ea3bbef",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dfdc2c43-05f6-4889-a15a-51fd7ea3bbef"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "providencelutheranchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510465057"
+    }
+  ],
+  "advisories": []
+}

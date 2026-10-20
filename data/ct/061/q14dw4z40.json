@@ -1,0 +1,33 @@
+{
+  "id": "q14dw4z40",
+  "url": "https://constellation.church/q14dw4z40",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "46 Woodland St",
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06105-2329"
+  },
+  "coordinates": {
+    "latitude": 41.77047920227051,
+    "longitude": -72.70113372802734
+  },
+  "website": "https://graceistheplace.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=02a1173b-68d1-46bf-9da4-6bf250e72558",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "02a1173b-68d1-46bf-9da4-6bf250e72558"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceistheplace.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "060769330"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mgfpbdm19",
+  "url": "https://constellation.church/mgfpbdm19",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "810 W 4th St",
+    "city": "Dixon",
+    "state": "MO",
+    "zip": "65459"
+  },
+  "coordinates": {
+    "latitude": 37.9976749420166,
+    "longitude": -92.10646057128906
+  },
+  "website": "https://dixonassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=e80a179e-6e4d-4755-9a7a-f4d328f4b68e&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "e80a179e-6e4d-4755-9a7a-f4d328f4b68e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dixonassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431271437"
+    }
+  ],
+  "advisories": []
+}

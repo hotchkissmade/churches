@@ -1,0 +1,33 @@
+{
+  "id": "pvq42fs22",
+  "url": "https://constellation.church/pvq42fs22",
+  "name": "Andover Lutheran Church",
+  "displayName": "Andover Lutheran Church",
+  "address": {
+    "street": "115 Dakota Rd",
+    "city": "Windom",
+    "state": "KS",
+    "zip": "67491-9327"
+  },
+  "coordinates": {
+    "latitude": 38.303932189941406,
+    "longitude": -97.90398406982422
+  },
+  "website": "https://andoverlutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c6b3d15e-1759-45f3-86c3-bb129bd15f22",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c6b3d15e-1759-45f3-86c3-bb129bd15f22"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "andoverlutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480963623"
+    }
+  ],
+  "advisories": []
+}

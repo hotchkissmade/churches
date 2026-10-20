@@ -1,0 +1,33 @@
+{
+  "id": "gajy9vb55",
+  "url": "https://constellation.church/gajy9vb55",
+  "name": "Delta Church",
+  "displayName": "Delta Church",
+  "address": {
+    "street": "1220 Outer Park Dr",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62704"
+  },
+  "coordinates": {
+    "latitude": 39.77371025085449,
+    "longitude": -89.67292404174805
+  },
+  "website": "https://deltachurch.net",
+  "listingUrl": "https://churches.sbc.net/church/delta-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "delta-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "deltachurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "203013230"
+    }
+  ],
+  "advisories": []
+}

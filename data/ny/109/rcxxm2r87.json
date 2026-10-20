@@ -1,0 +1,33 @@
+{
+  "id": "rcxxm2r87",
+  "url": "https://constellation.church/rcxxm2r87",
+  "name": "First Evangelical Baptist Church",
+  "displayName": "First Evangelical Baptist Church",
+  "address": {
+    "street": "4 Lincoln St",
+    "city": "Haverstraw",
+    "state": "NY",
+    "zip": "10927"
+  },
+  "coordinates": {
+    "latitude": 41.19810104370117,
+    "longitude": -73.96531295776367
+  },
+  "website": "https://febchaverstraw.org",
+  "listingUrl": "https://churches.sbc.net/church/first-evangelical-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-evangelical-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "febchaverstraw.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "464247496"
+    }
+  ],
+  "advisories": []
+}

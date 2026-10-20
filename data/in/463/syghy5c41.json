@@ -1,0 +1,33 @@
+{
+  "id": "syghy5c41",
+  "url": "https://constellation.church/syghy5c41",
+  "name": "Trinity Presbyterian Church",
+  "displayName": "Trinity Presbyterian Church",
+  "address": {
+    "street": "703 15th Street",
+    "city": "DeMotte",
+    "state": "IN",
+    "zip": "46310"
+  },
+  "coordinates": {
+    "latitude": 41.1879608,
+    "longitude": -87.2071558
+  },
+  "website": "https://demottepca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5100",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5100"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "demottepca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "202329005"
+    }
+  ],
+  "advisories": []
+}

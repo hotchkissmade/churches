@@ -1,0 +1,33 @@
+{
+  "id": "pj2cwj524",
+  "url": "https://constellation.church/pj2cwj524",
+  "name": "Harbor of Grace Lutheran Church",
+  "displayName": "Harbor of Grace Lutheran Church",
+  "address": {
+    "street": "1132 W Southern Ave",
+    "city": "Muskegon",
+    "state": "MI",
+    "zip": "49441-2241"
+  },
+  "coordinates": {
+    "latitude": 43.22458457946777,
+    "longitude": -86.27102661132812
+  },
+  "website": "https://harborofgrace.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a9b347ee-dbc9-4248-8f84-16a8c9a2ae17",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a9b347ee-dbc9-4248-8f84-16a8c9a2ae17"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "harborofgrace.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "843226366"
+    }
+  ],
+  "advisories": []
+}

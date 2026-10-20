@@ -1,0 +1,33 @@
+{
+  "id": "zhmgjyv03",
+  "url": "https://constellation.church/zhmgjyv03",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "103 S Cedardale Mountainair",
+    "city": null,
+    "state": "NM",
+    "zip": "87036"
+  },
+  "coordinates": {
+    "latitude": 34.5202693939209,
+    "longitude": -106.2483139038086
+  },
+  "website": "https://mountainair.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d211df54-f084-48ba-87c4-5b5b30652167&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d211df54-f084-48ba-87c4-5b5b30652167"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mountainair.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850298752"
+    }
+  ],
+  "advisories": []
+}

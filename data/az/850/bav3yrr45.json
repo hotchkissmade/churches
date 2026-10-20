@@ -1,0 +1,33 @@
+{
+  "id": "bav3yrr45",
+  "url": "https://constellation.church/bav3yrr45",
+  "name": "First Southern Baptist Church Phoenix",
+  "displayName": "First Southern Baptist Church Phoenix",
+  "address": {
+    "street": "3535 W Georgia Ave",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85019"
+  },
+  "coordinates": {
+    "latitude": 33.51415824890137,
+    "longitude": -112.13567352294922
+  },
+  "website": "https://firstphx.org",
+  "listingUrl": "https://churches.sbc.net/church/first-southern-baptist-church-phoenix/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-southern-baptist-church-phoenix"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstphx.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860137800"
+    }
+  ],
+  "advisories": []
+}

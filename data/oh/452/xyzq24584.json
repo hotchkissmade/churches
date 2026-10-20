@@ -1,0 +1,33 @@
+{
+  "id": "xyzq24584",
+  "url": "https://constellation.church/xyzq24584",
+  "name": "New City Presbyterian Church",
+  "displayName": "New City Presbyterian Church",
+  "address": {
+    "street": "4400 Floral Avenue",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45212"
+  },
+  "coordinates": {
+    "latitude": 39.15658760070801,
+    "longitude": -84.45039367675781
+  },
+  "website": "https://newcitycincy.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5338",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5338"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newcitycincy.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "270618054"
+    }
+  ],
+  "advisories": []
+}

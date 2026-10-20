@@ -1,0 +1,33 @@
+{
+  "id": "xecg6a586",
+  "url": "https://constellation.church/xecg6a586",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "301 Clark St",
+    "city": "Watertown",
+    "state": "WI",
+    "zip": "53094-7022"
+  },
+  "coordinates": {
+    "latitude": 43.177764892578125,
+    "longitude": -88.72319030761719
+  },
+  "website": "https://stlukeswatertown.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24933",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24933"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukeswatertown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391146070"
+    }
+  ],
+  "advisories": []
+}

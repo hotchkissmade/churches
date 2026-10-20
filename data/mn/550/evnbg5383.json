@@ -1,0 +1,33 @@
+{
+  "id": "evnbg5383",
+  "url": "https://constellation.church/evnbg5383",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "339 Division St",
+    "city": "Sandstone",
+    "state": "MN",
+    "zip": "55072-5101"
+  },
+  "coordinates": {
+    "latitude": 46.1275520324707,
+    "longitude": -92.86384582519531
+  },
+  "website": "https://gelsandstone.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3a84a813-5c94-4e41-87d6-57cd5d0b11cb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3a84a813-5c94-4e41-87d6-57cd5d0b11cb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gelsandstone.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411857516"
+    }
+  ],
+  "advisories": []
+}

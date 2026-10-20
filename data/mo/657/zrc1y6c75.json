@@ -1,0 +1,33 @@
+{
+  "id": "zrc1y6c75",
+  "url": "https://constellation.church/zrc1y6c75",
+  "name": "First Baptist Church Mount Vernon",
+  "displayName": "First Baptist Church Mount Vernon",
+  "address": {
+    "street": "602 S Hickory St",
+    "city": "Mount Vernon",
+    "state": "MO",
+    "zip": "65712"
+  },
+  "coordinates": {
+    "latitude": 37.09943771362305,
+    "longitude": -93.81768035888672
+  },
+  "website": "https://firstbaptistmv.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-mount-vernon/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-mount-vernon"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistmv.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430908924"
+    }
+  ],
+  "advisories": []
+}

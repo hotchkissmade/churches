@@ -1,0 +1,33 @@
+{
+  "id": "d0yvqmj43",
+  "url": "https://constellation.church/d0yvqmj43",
+  "name": "Heartland Church",
+  "displayName": "Heartland Church",
+  "address": {
+    "street": "3580 Getwell Rd",
+    "city": "Southaven",
+    "state": "MS",
+    "zip": "38672"
+  },
+  "coordinates": {
+    "latitude": 34.91180992126465,
+    "longitude": -89.93661499023438
+  },
+  "website": "https://heartlandchurch.cc",
+  "listingUrl": "https://churches.sbc.net/church/heartland-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "heartland-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "heartlandchurch.cc"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810665156"
+    }
+  ],
+  "advisories": []
+}

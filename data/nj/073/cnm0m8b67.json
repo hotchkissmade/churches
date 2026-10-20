@@ -1,0 +1,33 @@
+{
+  "id": "cnm0m8b67",
+  "url": "https://constellation.church/cnm0m8b67",
+  "name": "St Mark",
+  "displayName": "St. Mark Coptic Orthodox Church",
+  "address": {
+    "street": "427 West Side Ave",
+    "city": "Jersey City",
+    "state": "NJ",
+    "zip": "07304"
+  },
+  "coordinates": {
+    "latitude": 40.71617317199707,
+    "longitude": -74.08628463745117
+  },
+  "website": "https://saintmark.com",
+  "listingUrl": "https://copticchurch.net/directory/church/89",
+  "identifiers": [
+    {
+      "namespace": "net.copticchurch.id",
+      "value": "89"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintmark.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222023367"
+    }
+  ],
+  "advisories": []
+}

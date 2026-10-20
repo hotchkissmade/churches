@@ -1,0 +1,33 @@
+{
+  "id": "m5yssb933",
+  "url": "https://constellation.church/m5yssb933",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "600 S Water St",
+    "city": "Kent",
+    "state": "OH",
+    "zip": "44240-3550"
+  },
+  "coordinates": {
+    "latitude": 41.148155212402344,
+    "longitude": -81.35843276977539
+  },
+  "website": "https://trinitylutherankent.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9843c347-937e-405e-814a-61e601eccd48",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9843c347-937e-405e-814a-61e601eccd48"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylutherankent.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340929330"
+    }
+  ],
+  "advisories": []
+}

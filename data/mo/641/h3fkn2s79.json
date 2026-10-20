@@ -1,0 +1,33 @@
+{
+  "id": "h3fkn2s79",
+  "url": "https://constellation.church/h3fkn2s79",
+  "name": "St John's United Methodist Church",
+  "displayName": "St. John's United Methodist Church",
+  "address": {
+    "street": "6900 Ward Pkwy",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64113-2018"
+  },
+  "coordinates": {
+    "latitude": 39.00376892089844,
+    "longitude": -94.60383605957031
+  },
+  "website": "https://stjohnsumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFLWbIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFLWbIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "446005529"
+    }
+  ],
+  "advisories": []
+}

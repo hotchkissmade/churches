@@ -1,0 +1,33 @@
+{
+  "id": "p4gwc0813",
+  "url": "https://constellation.church/p4gwc0813",
+  "name": "Eagle Ridge Church",
+  "displayName": "Eagle Ridge Church",
+  "address": {
+    "street": "25891 Holland Rd",
+    "city": "Menifee",
+    "state": "CA",
+    "zip": "92584"
+  },
+  "coordinates": {
+    "latitude": 33.67061805725098,
+    "longitude": -117.20753479003906
+  },
+  "website": "https://eagleridge.church",
+  "listingUrl": "https://churches.sbc.net/church/eagle-ridge-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "eagle-ridge-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eagleridge.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330013295"
+    }
+  ],
+  "advisories": []
+}

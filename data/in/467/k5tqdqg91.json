@@ -1,0 +1,33 @@
+{
+  "id": "k5tqdqg91",
+  "url": "https://constellation.church/k5tqdqg91",
+  "name": "Mount Pleasant Lutheran Church",
+  "displayName": "Mount Pleasant Lutheran Church",
+  "address": {
+    "street": "2520 N 600 E",
+    "city": "Kendallville",
+    "state": "IN",
+    "zip": "46755-9603"
+  },
+  "coordinates": {
+    "latitude": 41.388254165649414,
+    "longitude": -85.30850219726562
+  },
+  "website": "https://mountpleasantlutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3b3865f4-76be-49a6-a150-24cfdb992220",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3b3865f4-76be-49a6-a150-24cfdb992220"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mountpleasantlutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "912093513"
+    }
+  ],
+  "advisories": []
+}

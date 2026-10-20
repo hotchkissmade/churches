@@ -1,0 +1,33 @@
+{
+  "id": "mmjfa2307",
+  "url": "https://constellation.church/mmjfa2307",
+  "name": "St. Tikhon Church",
+  "displayName": "St. Tikhon Church",
+  "address": {
+    "street": "357 Lookout High St",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37419"
+  },
+  "coordinates": {
+    "latitude": 35.03482627868652,
+    "longitude": -85.3653335571289
+  },
+  "website": "https://orthodoxchattanooga.com/about-sttikhons",
+  "listingUrl": "https://www.oca.org/parishes/oca-so-chastm",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-so-chastm"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "orthodoxchattanooga.com/about-sttikhons"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "320094374"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ckpgeez55",
+  "url": "https://constellation.church/ckpgeez55",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "5330 E Frontage Ln",
+    "city": "Olney",
+    "state": "IL",
+    "zip": "62450-4833"
+  },
+  "coordinates": {
+    "latitude": 38.732101222275,
+    "longitude": -88.049250982257
+  },
+  "website": "https://trinityolney.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c6643ec3-2921-43f7-89fa-330cacd26718",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c6643ec3-2921-43f7-89fa-330cacd26718"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityolney.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370844264"
+    }
+  ],
+  "advisories": []
+}

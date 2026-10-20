@@ -1,0 +1,33 @@
+{
+  "id": "ry9txbq14",
+  "url": "https://constellation.church/ry9txbq14",
+  "name": "North Park Baptist Church",
+  "displayName": "North Park Baptist Church",
+  "address": {
+    "street": "2047 Prospect Ave",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32814"
+  },
+  "coordinates": {
+    "latitude": 28.55448341369629,
+    "longitude": -81.3642692565918
+  },
+  "website": "https://northparkbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/north-park-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "north-park-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northparkbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "596001573"
+    }
+  ],
+  "advisories": []
+}

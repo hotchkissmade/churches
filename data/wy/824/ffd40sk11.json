@@ -1,0 +1,33 @@
+{
+  "id": "ffd40sk11",
+  "url": "https://constellation.church/ffd40sk11",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "2025 23rd St",
+    "city": "Cody",
+    "state": "WY",
+    "zip": "82414-4923"
+  },
+  "coordinates": {
+    "latitude": 44.51723289489746,
+    "longitude": -109.04574584960938
+  },
+  "website": "https://codyfirstpresbyterian.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/9545/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "9545"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "codyfirstpresbyterian.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "830202555"
+    }
+  ],
+  "advisories": []
+}

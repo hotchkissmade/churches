@@ -1,0 +1,33 @@
+{
+  "id": "qpewf6p21",
+  "url": "https://constellation.church/qpewf6p21",
+  "name": "New Home Baptist Church",
+  "displayName": "New Home Baptist Church",
+  "address": {
+    "street": "901 N Galloway Rd",
+    "city": "Lakeland",
+    "state": "FL",
+    "zip": "33810"
+  },
+  "coordinates": {
+    "latitude": 28.051429748535156,
+    "longitude": -82.01824188232422
+  },
+  "website": "https://nhbclakeland.com",
+  "listingUrl": "https://churches.sbc.net/church/new-home-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-home-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nhbclakeland.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591887574"
+    }
+  ],
+  "advisories": []
+}

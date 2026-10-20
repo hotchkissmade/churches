@@ -1,0 +1,33 @@
+{
+  "id": "r4ys8sf53",
+  "url": "https://constellation.church/r4ys8sf53",
+  "name": "Coastal Church",
+  "displayName": "Coastal Church",
+  "address": {
+    "street": "101 Village Ave",
+    "city": "Yorktown",
+    "state": "VA",
+    "zip": "23693"
+  },
+  "coordinates": {
+    "latitude": 37.115989685058594,
+    "longitude": -76.46224594116211
+  },
+  "website": "https://gocoastal.org/yorktown",
+  "listingUrl": "https://churches.sbc.net/church/coastal-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "coastal-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gocoastal.org/yorktown"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752987699"
+    }
+  ],
+  "advisories": []
+}

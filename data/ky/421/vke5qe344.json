@@ -1,0 +1,33 @@
+{
+  "id": "vke5qe344",
+  "url": "https://constellation.church/vke5qe344",
+  "name": "Lifepoint Church of Franklin",
+  "displayName": "Lifepoint Church of Franklin",
+  "address": {
+    "street": "840 Witt Road",
+    "city": "Franklin",
+    "state": "KY",
+    "zip": "42134"
+  },
+  "coordinates": {
+    "latitude": 36.70973777770996,
+    "longitude": -86.59027481079102
+  },
+  "website": "https://lifepointfranklin.com",
+  "listingUrl": "https://churches.sbc.net/church/lifepoint-church-of-franklin/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lifepoint-church-of-franklin"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lifepointfranklin.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "472692902"
+    }
+  ],
+  "advisories": []
+}

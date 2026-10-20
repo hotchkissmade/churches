@@ -1,0 +1,33 @@
+{
+  "id": "jhcg4z874",
+  "url": "https://constellation.church/jhcg4z874",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "1152 Main St",
+    "city": "Harrisburg",
+    "state": "PA",
+    "zip": "17113-1558"
+  },
+  "coordinates": {
+    "latitude": 40.2384033203125,
+    "longitude": -76.81451416015625
+  },
+  "website": "https://steeltonpa.com/for-residents/local-churches",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=832674a5-5eb3-4025-afcc-87d8a5fe27aa",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "832674a5-5eb3-4025-afcc-87d8a5fe27aa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "steeltonpa.com/for-residents/local-churches"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232132337"
+    }
+  ],
+  "advisories": []
+}

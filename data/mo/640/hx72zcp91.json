@@ -1,0 +1,33 @@
+{
+  "id": "hx72zcp91",
+  "url": "https://constellation.church/hx72zcp91",
+  "name": "LifeQuest Community Church",
+  "displayName": "LifeQuest Community Church",
+  "address": {
+    "street": "1400 N Scott Ave",
+    "city": "Belton",
+    "state": "MO",
+    "zip": "64012"
+  },
+  "coordinates": {
+    "latitude": 38.83865737915039,
+    "longitude": -94.53390502929688
+  },
+  "website": "https://lifequest.church",
+  "listingUrl": "https://churches.sbc.net/church/lifequest-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lifequest-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lifequest.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "331037340"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "r5b43d013",
+  "url": "https://constellation.church/r5b43d013",
+  "name": "Friedens Lutheran Church",
+  "displayName": "Friedens Lutheran Church",
+  "address": {
+    "street": "131 S Main St",
+    "city": "Friedens",
+    "state": "PA",
+    "zip": "15541-8404"
+  },
+  "coordinates": {
+    "latitude": 40.050289154052734,
+    "longitude": -78.9974136352539
+  },
+  "website": "https://friedenslutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5ca52be9-832c-4bf7-b5d5-5b7326a9b40b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5ca52be9-832c-4bf7-b5d5-5b7326a9b40b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "friedenslutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251115267"
+    }
+  ],
+  "advisories": []
+}

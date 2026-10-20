@@ -1,0 +1,33 @@
+{
+  "id": "e660dfr66",
+  "url": "https://constellation.church/e660dfr66",
+  "name": "Housatonic Friends Meeting",
+  "displayName": "Housatonic Friends Meeting",
+  "address": {
+    "street": "300 Danbury Road",
+    "city": "New Milford",
+    "state": "CT",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 41.536441802978516,
+    "longitude": -73.42301559448242
+  },
+  "website": "https://housatonicmeeting.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/housatonic-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "housatonic-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "housatonicmeeting.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "060935692"
+    }
+  ],
+  "advisories": []
+}

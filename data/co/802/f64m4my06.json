@@ -1,0 +1,33 @@
+{
+  "id": "f64m4my06",
+  "url": "https://constellation.church/f64m4my06",
+  "name": "The Episcopal Church in Colorado (Diocesan Offices)",
+  "displayName": "The Episcopal Church in Colorado (Diocesan Offices)",
+  "address": {
+    "street": "1300 N Washington St.",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80203"
+  },
+  "coordinates": {
+    "latitude": 39.736942291259766,
+    "longitude": -104.97843170166016
+  },
+  "website": "https://coef.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/colorado/list/episcopal-church-colorado-diocesan-offices",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "colorado/episcopal-church-colorado-diocesan-offices"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "coef.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840928596"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mvp5g9y40",
+  "url": "https://constellation.church/mvp5g9y40",
+  "name": "Bethany Lutheran Church",
+  "displayName": "Bethany Lutheran Church",
+  "address": {
+    "street": "415 Bridge Ave",
+    "city": "Star Prairie",
+    "state": "WI",
+    "zip": "54026-9217"
+  },
+  "coordinates": {
+    "latitude": 45.19670867919922,
+    "longitude": -92.53411865234375
+  },
+  "website": "https://blcsp.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8f33f1c7-d63f-4b00-a96a-af759d4e7617",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8f33f1c7-d63f-4b00-a96a-af759d4e7617"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blcsp.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391300926"
+    }
+  ],
+  "advisories": []
+}

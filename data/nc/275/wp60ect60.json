@@ -1,0 +1,33 @@
+{
+  "id": "wp60ect60",
+  "url": "https://constellation.church/wp60ect60",
+  "name": "Red Mountain Baptist Church",
+  "displayName": "Red Mountain Baptist Church",
+  "address": {
+    "street": "1322 Red Mountain Rd",
+    "city": "Rougemont",
+    "state": "NC",
+    "zip": "27572"
+  },
+  "coordinates": {
+    "latitude": 36.22558403015137,
+    "longitude": -78.89880752563477
+  },
+  "website": "https://redmountainbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/red-mountain-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "red-mountain-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redmountainbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311758269"
+    }
+  ],
+  "advisories": []
+}

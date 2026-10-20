@@ -1,0 +1,33 @@
+{
+  "id": "mp511ev22",
+  "url": "https://constellation.church/mp511ev22",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "14088 Clayton Rd",
+    "city": "Chesterfield",
+    "state": "MO",
+    "zip": "63017-8356"
+  },
+  "coordinates": {
+    "latitude": 38.62601852416992,
+    "longitude": -90.51154327392578
+  },
+  "website": "https://youmattertogod.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ff5b9af7-a6e4-43e6-92bd-7ee638665c56",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ff5b9af7-a6e4-43e6-92bd-7ee638665c56"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "youmattertogod.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "436056753"
+    }
+  ],
+  "advisories": []
+}

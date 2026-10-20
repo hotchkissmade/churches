@@ -1,0 +1,33 @@
+{
+  "id": "fyjr6br90",
+  "url": "https://constellation.church/fyjr6br90",
+  "name": "Woodside Baptist Church",
+  "displayName": "Woodside Baptist Church",
+  "address": {
+    "street": "2450 NE 28th St",
+    "city": "Ocala",
+    "state": "FL",
+    "zip": "34470"
+  },
+  "coordinates": {
+    "latitude": 29.214481353759766,
+    "longitude": -82.10241317749023
+  },
+  "website": "https://wbcocala.org",
+  "listingUrl": "https://churches.sbc.net/church/woodside-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "woodside-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wbcocala.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593147466"
+    }
+  ],
+  "advisories": []
+}

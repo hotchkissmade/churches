@@ -1,0 +1,33 @@
+{
+  "id": "sbe3ab646",
+  "url": "https://constellation.church/sbe3ab646",
+  "name": "Atlanta Westside Presbyterian Church",
+  "displayName": "Atlanta Westside Presbyterian Church",
+  "address": {
+    "street": "1255 Collier Road NW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30318"
+  },
+  "coordinates": {
+    "latitude": 33.812734603881836,
+    "longitude": -84.42880249023438
+  },
+  "website": "https://atlantawestside.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5016",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5016"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "atlantawestside.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "261165077"
+    }
+  ],
+  "advisories": []
+}

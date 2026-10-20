@@ -1,0 +1,33 @@
+{
+  "id": "g70afqt06",
+  "url": "https://constellation.church/g70afqt06",
+  "name": "All Hallows Parish",
+  "displayName": "All Hallows Parish",
+  "address": {
+    "street": "3600 Solomons Island Rd",
+    "city": "Edgewater",
+    "state": "MD",
+    "zip": "21037"
+  },
+  "coordinates": {
+    "latitude": 38.91063117980957,
+    "longitude": -76.58128356933594
+  },
+  "website": "https://allhallowsparish.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maryland/list/all-hallows-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maryland/all-hallows-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allhallowsparish.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521000342"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hyrg1d818",
+  "url": "https://constellation.church/hyrg1d818",
+  "name": "New York Finnish Lutheran Church",
+  "displayName": "New York Finnish Lutheran Church",
+  "address": {
+    "street": "83 Christopher St",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10014-4248"
+  },
+  "coordinates": {
+    "latitude": 40.7336393,
+    "longitude": -74.0037607
+  },
+  "website": "https://finnchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a3c10d93-61c3-4006-8cac-ac672e17ffa5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a3c10d93-61c3-4006-8cac-ac672e17ffa5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "finnchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "136170061"
+    }
+  ],
+  "advisories": []
+}

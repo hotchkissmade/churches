@@ -1,0 +1,33 @@
+{
+  "id": "jvrecw960",
+  "url": "https://constellation.church/jvrecw960",
+  "name": "Glenwood Lutheran Church",
+  "displayName": "Glenwood Lutheran Church",
+  "address": {
+    "street": "2545 Monroe St",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43620-1519"
+  },
+  "coordinates": {
+    "latitude": 41.65957069396973,
+    "longitude": -83.56092071533203
+  },
+  "website": "https://glenwoodlutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5c8557fb-39e7-4bc7-8196-394d35f3bbfe",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5c8557fb-39e7-4bc7-8196-394d35f3bbfe"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "glenwoodlutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "344436061"
+    }
+  ],
+  "advisories": []
+}

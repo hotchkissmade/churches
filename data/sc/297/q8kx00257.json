@@ -1,0 +1,33 @@
+{
+  "id": "q8kx00257",
+  "url": "https://constellation.church/q8kx00257",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "426 Oakland Ave",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29730-3530"
+  },
+  "coordinates": {
+    "latitude": 34.93611717224121,
+    "longitude": -81.02705001831055
+  },
+  "website": "https://gracerockhill.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=517f20f4-6f3b-46a1-82d5-8bf0b192bfa0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "517f20f4-6f3b-46a1-82d5-8bf0b192bfa0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracerockhill.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570611642"
+    }
+  ],
+  "advisories": []
+}

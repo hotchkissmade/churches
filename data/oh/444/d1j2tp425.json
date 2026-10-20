@@ -1,0 +1,33 @@
+{
+  "id": "d1j2tp425",
+  "url": "https://constellation.church/d1j2tp425",
+  "name": "Jerusalem Lutheran Church",
+  "displayName": "Jerusalem Lutheran Church",
+  "address": {
+    "street": "415 S Main St",
+    "city": "Columbiana",
+    "state": "OH",
+    "zip": "44408-1510"
+  },
+  "coordinates": {
+    "latitude": 40.87983703613281,
+    "longitude": -80.69429397583008
+  },
+  "website": "https://jerluthcolumbiana.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2692c531-bd4d-43eb-bd40-a8181c6c6105",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2692c531-bd4d-43eb-bd40-a8181c6c6105"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jerluthcolumbiana.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "346529973"
+    }
+  ],
+  "advisories": []
+}

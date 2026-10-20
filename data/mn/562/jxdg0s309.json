@@ -1,0 +1,33 @@
+{
+  "id": "jxdg0s309",
+  "url": "https://constellation.church/jxdg0s309",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "631 N 7th St",
+    "city": "Montevideo",
+    "state": "MN",
+    "zip": "56265-1609"
+  },
+  "coordinates": {
+    "latitude": 44.95149230957031,
+    "longitude": -95.71822357177734
+  },
+  "website": "https://slcmonte.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8ca3c22c-62b5-46e7-b59a-9bbdb0012864",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8ca3c22c-62b5-46e7-b59a-9bbdb0012864"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "slcmonte.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411413302"
+    }
+  ],
+  "advisories": []
+}

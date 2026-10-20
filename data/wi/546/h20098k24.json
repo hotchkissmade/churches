@@ -1,0 +1,33 @@
+{
+  "id": "h20098k24",
+  "url": "https://constellation.church/h20098k24",
+  "name": "English Lutheran Church",
+  "displayName": "English Lutheran Church",
+  "address": {
+    "street": "1509 King St",
+    "city": "La Crosse",
+    "state": "WI",
+    "zip": "54601-4270"
+  },
+  "coordinates": {
+    "latitude": 43.810543060302734,
+    "longitude": -91.23307800292969
+  },
+  "website": "https://englishlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9a597bde-5ee3-402b-a68a-7f787a8fe9ba",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9a597bde-5ee3-402b-a68a-7f787a8fe9ba"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "englishlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390906319"
+    }
+  ],
+  "advisories": []
+}

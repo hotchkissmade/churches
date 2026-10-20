@@ -1,0 +1,33 @@
+{
+  "id": "wwgw87y55",
+  "url": "https://constellation.church/wwgw87y55",
+  "name": "Easley First Baptist Church",
+  "displayName": "Easley First Baptist Church",
+  "address": {
+    "street": "300 E 1st Ave",
+    "city": "Easley",
+    "state": "SC",
+    "zip": "29640"
+  },
+  "coordinates": {
+    "latitude": 34.829322814941406,
+    "longitude": -82.59894180297852
+  },
+  "website": "https://efbc.org",
+  "listingUrl": "https://churches.sbc.net/church/easley-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "easley-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "efbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "576000460"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vvqdraw24",
+  "url": "https://constellation.church/vvqdraw24",
+  "name": "Citizens Baptist Church",
+  "displayName": "Citizens Baptist Church",
+  "address": {
+    "street": "178 W Schrock Rd Ste B",
+    "city": "Westerville",
+    "state": "OH",
+    "zip": "43081"
+  },
+  "coordinates": {
+    "latitude": 40.11044502258301,
+    "longitude": -82.93267822265625
+  },
+  "website": "https://citizenschurch.net",
+  "listingUrl": "https://churches.sbc.net/church/citizens-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "citizens-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "citizenschurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "844309792"
+    }
+  ],
+  "advisories": []
+}

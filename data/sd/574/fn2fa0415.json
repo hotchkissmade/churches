@@ -1,0 +1,33 @@
+{
+  "id": "fn2fa0415",
+  "url": "https://constellation.church/fn2fa0415",
+  "name": "Concordia Lutheran Church",
+  "displayName": "Concordia Lutheran Church",
+  "address": {
+    "street": "307 Swift Ave",
+    "city": "Cresbard",
+    "state": "SD",
+    "zip": "57435"
+  },
+  "coordinates": {
+    "latitude": 45.16984939575195,
+    "longitude": -98.95014190673828
+  },
+  "website": "https://concordiacresbard.org",
+  "listingUrl": "https://locator.lcms.org/church/C/212284",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "212284"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "concordiacresbard.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460307130"
+    }
+  ],
+  "advisories": []
+}

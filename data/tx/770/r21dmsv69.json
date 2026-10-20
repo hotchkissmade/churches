@@ -1,0 +1,33 @@
+{
+  "id": "r21dmsv69",
+  "url": "https://constellation.church/r21dmsv69",
+  "name": "Covenant Lutheran Church",
+  "displayName": "Covenant Lutheran Church",
+  "address": {
+    "street": "2901 Barker Cypress Rd",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77084-5636"
+  },
+  "coordinates": {
+    "latitude": 29.80997657775879,
+    "longitude": -95.68782806396484
+  },
+  "website": "https://covenantlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dbc94db6-420a-4930-84de-9d7f0ff8fa0d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dbc94db6-420a-4930-84de-9d7f0ff8fa0d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covenantlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760097927"
+    }
+  ],
+  "advisories": []
+}

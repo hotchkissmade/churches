@@ -1,0 +1,33 @@
+{
+  "id": "r37sazp25",
+  "url": "https://constellation.church/r37sazp25",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "30470 Pauba Rd",
+    "city": "Temecula",
+    "state": "CA",
+    "zip": "92592-6214"
+  },
+  "coordinates": {
+    "latitude": 33.49785041809082,
+    "longitude": -117.12928771972656
+  },
+  "website": "https://trinitytemecula.info",
+  "listingUrl": "https://locator.lcms.org/church/C/47",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "47"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitytemecula.info"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330392285"
+    }
+  ],
+  "advisories": []
+}

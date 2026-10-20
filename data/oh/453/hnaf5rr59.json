@@ -1,0 +1,33 @@
+{
+  "id": "hnaf5rr59",
+  "url": "https://constellation.church/hnaf5rr59",
+  "name": "Dayton Avenue Baptist Church",
+  "displayName": "Dayton Avenue Baptist Church",
+  "address": {
+    "street": "1121 Dayton Ave",
+    "city": "Xenia",
+    "state": "OH",
+    "zip": "45385"
+  },
+  "coordinates": {
+    "latitude": 39.69240951538086,
+    "longitude": -83.95476150512695
+  },
+  "website": "https://daytonave.org",
+  "listingUrl": "https://churches.sbc.net/church/dayton-avenue-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "dayton-avenue-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "daytonave.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310714361"
+    }
+  ],
+  "advisories": []
+}

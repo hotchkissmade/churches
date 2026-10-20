@@ -1,0 +1,33 @@
+{
+  "id": "cgh2s6a69",
+  "url": "https://constellation.church/cgh2s6a69",
+  "name": "Otterville Southern Baptist Church",
+  "displayName": "Otterville Southern Baptist Church",
+  "address": {
+    "street": "103 E Main St",
+    "city": "Otterville",
+    "state": "IL",
+    "zip": "62052"
+  },
+  "coordinates": {
+    "latitude": 39.050994873046875,
+    "longitude": -90.39794921875
+  },
+  "website": "https://ottervillesbc.com",
+  "listingUrl": "https://churches.sbc.net/church/otterville-southern-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "otterville-southern-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ottervillesbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371129766"
+    }
+  ],
+  "advisories": []
+}

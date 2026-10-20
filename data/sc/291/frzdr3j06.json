@@ -1,0 +1,33 @@
+{
+  "id": "frzdr3j06",
+  "url": "https://constellation.church/frzdr3j06",
+  "name": "Home Branch Baptist Church",
+  "displayName": "Home Branch Baptist Church",
+  "address": {
+    "street": "2398 Home Branch Rd",
+    "city": "Manning",
+    "state": "SC",
+    "zip": "29102"
+  },
+  "coordinates": {
+    "latitude": 33.74447822570801,
+    "longitude": -80.31792831420898
+  },
+  "website": "https://homebranchbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/home-branch-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "home-branch-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "homebranchbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "582320774"
+    }
+  ],
+  "advisories": []
+}

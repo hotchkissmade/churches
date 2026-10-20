@@ -1,0 +1,33 @@
+{
+  "id": "q0ap03v12",
+  "url": "https://constellation.church/q0ap03v12",
+  "name": "First Baptist Church of Silver City",
+  "displayName": "First Baptist Church of Silver City",
+  "address": {
+    "street": "2300 N Swan St",
+    "city": "Silver City",
+    "state": "NM",
+    "zip": "88061"
+  },
+  "coordinates": {
+    "latitude": 32.78834342956543,
+    "longitude": -108.26879119873047
+  },
+  "website": "https://fbcsilvercity.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-silver-city/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-silver-city"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcsilvercity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850310177"
+    }
+  ],
+  "advisories": []
+}

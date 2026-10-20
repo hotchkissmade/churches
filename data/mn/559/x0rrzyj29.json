@@ -1,0 +1,33 @@
+{
+  "id": "x0rrzyj29",
+  "url": "https://constellation.church/x0rrzyj29",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "419 E Grove St",
+    "city": "Caledonia",
+    "state": "MN",
+    "zip": "55921-1378"
+  },
+  "coordinates": {
+    "latitude": 43.63396072387695,
+    "longitude": -91.49340057373047
+  },
+  "website": "https://immanuelcaledonia.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8d86d014-9685-402c-a4e9-28bfd0f1dacd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8d86d014-9685-402c-a4e9-28bfd0f1dacd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "immanuelcaledonia.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411329797"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "fgk2b1v08",
+  "url": "https://constellation.church/fgk2b1v08",
+  "name": "First Central Presbyterian Church",
+  "displayName": "First Central Presbyterian Church",
+  "address": {
+    "street": "400 Orange St",
+    "city": "Abilene",
+    "state": "TX",
+    "zip": "79601-5652"
+  },
+  "coordinates": {
+    "latitude": 32.45362663269043,
+    "longitude": -99.7377700805664
+  },
+  "website": "https://fcpc.net",
+  "listingUrl": "https://church-trends.pcusa.org/church/9768/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "9768"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fcpc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751330538"
+    }
+  ],
+  "advisories": []
+}

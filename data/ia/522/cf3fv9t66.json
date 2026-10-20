@@ -1,0 +1,33 @@
+{
+  "id": "cf3fv9t66",
+  "url": "https://constellation.church/cf3fv9t66",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "201 N Ford St",
+    "city": "Anamosa",
+    "state": "IA",
+    "zip": "52205-1115"
+  },
+  "coordinates": {
+    "latitude": 42.11030387878418,
+    "longitude": -91.28536224365234
+  },
+  "website": "https://stpaulanamosa.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b6f73c92-bb4f-4233-888c-b47dc09b5085",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b6f73c92-bb4f-4233-888c-b47dc09b5085"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulanamosa.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426024098"
+    }
+  ],
+  "advisories": []
+}

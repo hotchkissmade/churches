@@ -1,0 +1,33 @@
+{
+  "id": "qpzypca89",
+  "url": "https://constellation.church/qpzypca89",
+  "name": "Church of the Good Shepherd",
+  "displayName": "Church of the Good Shepherd",
+  "address": {
+    "street": "301 Corral De Tierra Rd",
+    "city": "Salinas",
+    "state": "CA",
+    "zip": "93908"
+  },
+  "coordinates": {
+    "latitude": 36.54123115539551,
+    "longitude": -121.72602081298828
+  },
+  "website": "https://goodshepherdcorral.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-el-camino-real/list/church-good-shepherd",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-el-camino-real/church-good-shepherd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherdcorral.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941595238"
+    }
+  ],
+  "advisories": []
+}

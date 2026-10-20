@@ -1,0 +1,33 @@
+{
+  "id": "e7819p429",
+  "url": "https://constellation.church/e7819p429",
+  "name": "St Peter's Lutheran Church",
+  "displayName": "St. Peter's Lutheran Church",
+  "address": {
+    "street": "6309 S Wilson Pl",
+    "city": "Clinton",
+    "state": "WA",
+    "zip": "98236"
+  },
+  "coordinates": {
+    "latitude": 47.98128128051758,
+    "longitude": -122.35582733154297
+  },
+  "website": "https://stpeterslutheranclinton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bd5eacdb-035c-48b3-a6dc-67040303ec3d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bd5eacdb-035c-48b3-a6dc-67040303ec3d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpeterslutheranclinton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911226551"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rpwc0nj02",
+  "url": "https://constellation.church/rpwc0nj02",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "3701 Jones Creek Road",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70816"
+  },
+  "coordinates": {
+    "latitude": 30.419063568115234,
+    "longitude": -91.01336669921875
+  },
+  "website": "https://wpcbr.org/sermons",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1166",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1166"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wpcbr.org/sermons"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "721077447"
+    }
+  ],
+  "advisories": []
+}

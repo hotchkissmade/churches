@@ -1,0 +1,33 @@
+{
+  "id": "ey31dgz07",
+  "url": "https://constellation.church/ey31dgz07",
+  "name": "Shepherd Of Life Lutheran Church",
+  "displayName": "Shepherd Of Life Lutheran Church",
+  "address": {
+    "street": "715 E Lamar Blvd",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76011-3845"
+  },
+  "coordinates": {
+    "latitude": 32.76532554626465,
+    "longitude": -97.10101318359375
+  },
+  "website": "https://bluelamb.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=acf3fd20-70b5-4e27-931a-2f35acb0a1a6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "acf3fd20-70b5-4e27-931a-2f35acb0a1a6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bluelamb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751956168"
+    }
+  ],
+  "advisories": []
+}

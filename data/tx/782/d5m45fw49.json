@@ -1,0 +1,33 @@
+{
+  "id": "d5m45fw49",
+  "url": "https://constellation.church/d5m45fw49",
+  "name": "Mosaic Church",
+  "displayName": "Mosaic Church",
+  "address": {
+    "street": "6820 Ingram Rd",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78238"
+  },
+  "coordinates": {
+    "latitude": 29.4638614654541,
+    "longitude": -98.62447357177734
+  },
+  "website": "https://rescuepoint.church",
+  "listingUrl": "https://churches.sbc.net/church/mosaic-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mosaic-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rescuepoint.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "852926145"
+    }
+  ],
+  "advisories": []
+}

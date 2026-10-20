@@ -1,0 +1,33 @@
+{
+  "id": "jc3h61x37",
+  "url": "https://constellation.church/jc3h61x37",
+  "name": "Howertons Baptist Church",
+  "displayName": "Howertons Baptist Church",
+  "address": {
+    "street": "3875 Essex Mill Rd",
+    "city": "Dunnsville",
+    "state": "VA",
+    "zip": "22454"
+  },
+  "coordinates": {
+    "latitude": 37.83545112609863,
+    "longitude": -76.88854217529297
+  },
+  "website": "https://howertonsbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/howertons-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "howertons-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "howertonsbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541336872"
+    }
+  ],
+  "advisories": []
+}

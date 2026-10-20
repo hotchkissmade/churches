@@ -1,0 +1,33 @@
+{
+  "id": "vrcy33c06",
+  "url": "https://constellation.church/vrcy33c06",
+  "name": "Evangelical Lutheran Church Of The Good Shepherd",
+  "displayName": "Evangelical Lutheran Church Of The Good Shepherd",
+  "address": {
+    "street": "3099 Chapel Hill Rd",
+    "city": "Douglasville",
+    "state": "GA",
+    "zip": "30135-1779"
+  },
+  "coordinates": {
+    "latitude": 33.72236442565918,
+    "longitude": -84.72582244873047
+  },
+  "website": "https://mylcgs.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d1ad7d58-51eb-4778-9e46-6a6c766cee03",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d1ad7d58-51eb-4778-9e46-6a6c766cee03"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mylcgs.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581950602"
+    }
+  ],
+  "advisories": []
+}

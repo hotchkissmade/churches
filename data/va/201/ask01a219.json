@@ -1,0 +1,33 @@
+{
+  "id": "ask01a219",
+  "url": "https://constellation.church/ask01a219",
+  "name": "Gainesville Presbyterian Church",
+  "displayName": "Gainesville Presbyterian Church",
+  "address": {
+    "street": "16127 Lee Highway",
+    "city": "Gainesville",
+    "state": "VA",
+    "zip": "20155"
+  },
+  "coordinates": {
+    "latitude": 38.781232833862305,
+    "longitude": -77.66843795776367
+  },
+  "website": "https://gpcweb.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/501",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "501"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gpcweb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541217226"
+    }
+  ],
+  "advisories": []
+}

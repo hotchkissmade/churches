@@ -1,0 +1,33 @@
+{
+  "id": "z5a3c6r75",
+  "url": "https://constellation.church/z5a3c6r75",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "68 Green Ave",
+    "city": "Castleton On Hudson",
+    "state": "NY",
+    "zip": "12033-1523"
+  },
+  "coordinates": {
+    "latitude": 42.52836990356445,
+    "longitude": -73.74935913085938
+  },
+  "website": "https://tclparish.org/trinity",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e48ac61f-c8a9-433e-9316-3523f92a6536",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e48ac61f-c8a9-433e-9316-3523f92a6536"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tclparish.org/trinity"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "146021865"
+    }
+  ],
+  "advisories": []
+}

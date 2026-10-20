@@ -1,0 +1,33 @@
+{
+  "id": "as2efmg42",
+  "url": "https://constellation.church/as2efmg42",
+  "name": "Grace Presbyterian Church",
+  "displayName": "Grace Presbyterian Church",
+  "address": {
+    "street": "49 Varden Drive",
+    "city": "Aiken",
+    "state": "SC",
+    "zip": "29803"
+  },
+  "coordinates": {
+    "latitude": 33.52974510192871,
+    "longitude": -81.74716186523438
+  },
+  "website": "https://grace-of-aiken.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/548",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "548"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grace-of-aiken.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570711503"
+    }
+  ],
+  "advisories": []
+}

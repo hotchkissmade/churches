@@ -1,0 +1,33 @@
+{
+  "id": "tkk9r6q39",
+  "url": "https://constellation.church/tkk9r6q39",
+  "name": "Westwood Lutheran Church",
+  "displayName": "Westwood Lutheran Church",
+  "address": {
+    "street": "9001 Cedar Lake Rd S",
+    "city": "St Louis Park",
+    "state": "MN",
+    "zip": "55426-2354"
+  },
+  "coordinates": {
+    "latitude": 44.95484924316406,
+    "longitude": -93.39187622070312
+  },
+  "website": "https://westwood.church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=782c390b-1029-49b4-a12e-22e6c71532d9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "782c390b-1029-49b4-a12e-22e6c71532d9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westwood.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410734779"
+    }
+  ],
+  "advisories": []
+}

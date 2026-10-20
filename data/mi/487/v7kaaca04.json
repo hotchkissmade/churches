@@ -1,0 +1,33 @@
+{
+  "id": "v7kaaca04",
+  "url": "https://constellation.church/v7kaaca04",
+  "name": "Saint Lorenz Lutheran Church",
+  "displayName": "St. Lorenz Lutheran Church",
+  "address": {
+    "street": "1030 W Tuscola St",
+    "city": "Frankenmuth",
+    "state": "MI",
+    "zip": "48734-9201"
+  },
+  "coordinates": {
+    "latitude": 43.33016586303711,
+    "longitude": -83.75559997558594
+  },
+  "website": "https://stlorenz.org",
+  "listingUrl": "https://locator.lcms.org/church/C/334549",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "334549"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlorenz.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381565701"
+    }
+  ],
+  "advisories": []
+}

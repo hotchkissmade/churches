@@ -1,0 +1,33 @@
+{
+  "id": "bf38q6n59",
+  "url": "https://constellation.church/bf38q6n59",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "123 S Jefferson St",
+    "city": "Ossian",
+    "state": "IN",
+    "zip": "46777"
+  },
+  "coordinates": {
+    "latitude": 40.87948417663574,
+    "longitude": -85.16650772094727
+  },
+  "website": "https://ossianfp.church",
+  "listingUrl": "https://church-trends.pcusa.org/church/2071/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "2071"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ossianfp.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351571136"
+    }
+  ],
+  "advisories": []
+}

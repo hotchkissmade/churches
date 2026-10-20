@@ -1,0 +1,33 @@
+{
+  "id": "pj3m3kr67",
+  "url": "https://constellation.church/pj3m3kr67",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "1551 Rock Glen Rd",
+    "city": "Bloomsburg",
+    "state": "PA",
+    "zip": "17815-6305"
+  },
+  "coordinates": {
+    "latitude": 40.982078552246094,
+    "longitude": -76.20880126953125
+  },
+  "website": "https://mountaingrovelutheranparish.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f49d1044-22c0-4bfb-9875-1218e2396f64",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f49d1044-22c0-4bfb-9875-1218e2396f64"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mountaingrovelutheranparish.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232544401"
+    }
+  ],
+  "advisories": []
+}

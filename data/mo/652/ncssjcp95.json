@@ -1,0 +1,33 @@
+{
+  "id": "ncssjcp95",
+  "url": "https://constellation.church/ncssjcp95",
+  "name": "Crossroads Cathedral",
+  "displayName": "Crossroads Cathedral",
+  "address": {
+    "street": "229 S Allen St",
+    "city": "Centralia",
+    "state": "MO",
+    "zip": "65240"
+  },
+  "coordinates": {
+    "latitude": 39.20961952209473,
+    "longitude": -92.13961029052734
+  },
+  "website": "https://assemblyofgodchurch-centralia.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a86f2158-9265-43a9-a77d-6f567b13563c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "a86f2158-9265-43a9-a77d-6f567b13563c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "assemblyofgodchurch-centralia.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431315209"
+    }
+  ],
+  "advisories": []
+}

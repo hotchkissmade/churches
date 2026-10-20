@@ -1,0 +1,33 @@
+{
+  "id": "y1aftzt04",
+  "url": "https://constellation.church/y1aftzt04",
+  "name": "United Church of Underhill",
+  "displayName": "United Church of Underhill",
+  "address": {
+    "street": "7 Park St",
+    "city": "Underhill",
+    "state": "VT",
+    "zip": "05489-0265"
+  },
+  "coordinates": {
+    "latitude": 44.525211334228516,
+    "longitude": -72.94455337524414
+  },
+  "website": "https://unitedchurchofunderhill.com/give/donate",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFJqjIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFJqjIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "unitedchurchofunderhill.com/give/donate"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030266880"
+    }
+  ],
+  "advisories": []
+}

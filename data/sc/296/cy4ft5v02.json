@@ -1,0 +1,33 @@
+{
+  "id": "cy4ft5v02",
+  "url": "https://constellation.church/cy4ft5v02",
+  "name": "Norris First Baptist Church",
+  "displayName": "Norris First Baptist Church",
+  "address": {
+    "street": "118 N Norris Dr",
+    "city": "Norris",
+    "state": "SC",
+    "zip": "29667"
+  },
+  "coordinates": {
+    "latitude": 34.76109313964844,
+    "longitude": -82.75230026245117
+  },
+  "website": "https://fbcnorris.org",
+  "listingUrl": "https://churches.sbc.net/church/norris-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "norris-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcnorris.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570797638"
+    }
+  ],
+  "advisories": []
+}

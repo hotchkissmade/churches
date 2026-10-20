@@ -1,0 +1,33 @@
+{
+  "id": "ncj7pfd86",
+  "url": "https://constellation.church/ncj7pfd86",
+  "name": "Greenbrier Baptist Church",
+  "displayName": "Greenbrier Baptist Church",
+  "address": {
+    "street": "20810 National Pike",
+    "city": "Boonsboro",
+    "state": "MD",
+    "zip": "21713"
+  },
+  "coordinates": {
+    "latitude": 39.57151985168457,
+    "longitude": -77.64580917358398
+  },
+  "website": "https://greenbrieronline.org",
+  "listingUrl": "https://churches.sbc.net/church/greenbrier-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "greenbrier-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "greenbrieronline.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "522295339"
+    }
+  ],
+  "advisories": []
+}

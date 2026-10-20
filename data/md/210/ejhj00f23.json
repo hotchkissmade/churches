@@ -1,0 +1,33 @@
+{
+  "id": "ejhj00f23",
+  "url": "https://constellation.church/ejhj00f23",
+  "name": "City of Hope Church",
+  "displayName": "City of Hope Church",
+  "address": {
+    "street": "8775 Cloudleap Court",
+    "city": "Columbia",
+    "state": "MD",
+    "zip": "21045"
+  },
+  "coordinates": {
+    "latitude": 39.2064997,
+    "longitude": -76.8164444
+  },
+  "website": "https://cityofhopechurch.net/livestream",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4701",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4701"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cityofhopechurch.net/livestream"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "711022119"
+    }
+  ],
+  "advisories": []
+}

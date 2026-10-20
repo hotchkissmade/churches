@@ -1,0 +1,33 @@
+{
+  "id": "p1js1mx81",
+  "url": "https://constellation.church/p1js1mx81",
+  "name": "Covenant Presbyterian Church",
+  "displayName": "Covenant Presbyterian Church",
+  "address": {
+    "street": "1303 E. Denman Avenue",
+    "city": "Lufkin",
+    "state": "TX",
+    "zip": "75901"
+  },
+  "coordinates": {
+    "latitude": 31.324583053588867,
+    "longitude": -94.70976257324219
+  },
+  "website": "https://sermonaudio.com/broadcasters/covenantlufkin",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1198",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1198"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sermonaudio.com/broadcasters/covenantlufkin"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752415719"
+    }
+  ],
+  "advisories": []
+}

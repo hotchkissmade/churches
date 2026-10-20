@@ -1,0 +1,33 @@
+{
+  "id": "f5xe9gp85",
+  "url": "https://constellation.church/f5xe9gp85",
+  "name": "St. James Episcopal School of Dallas",
+  "displayName": "St. James Episcopal School of Dallas",
+  "address": {
+    "street": "9845 McCree Road",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75238"
+  },
+  "coordinates": {
+    "latitude": 32.8720738,
+    "longitude": -96.7172052
+  },
+  "website": "https://stjamesdallas.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/dallas/list/st-james-episcopal-school-dallas",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "dallas/st-james-episcopal-school-dallas"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamesdallas.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752367341"
+    }
+  ],
+  "advisories": []
+}

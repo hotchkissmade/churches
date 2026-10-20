@@ -1,0 +1,33 @@
+{
+  "id": "e20emg524",
+  "url": "https://constellation.church/e20emg524",
+  "name": "Cornersburg Baptist Church",
+  "displayName": "Cornersburg Baptist Church",
+  "address": {
+    "street": "3898 Tippecanoe Rd",
+    "city": "Youngstown",
+    "state": "OH",
+    "zip": "44511"
+  },
+  "coordinates": {
+    "latitude": 41.06114387512207,
+    "longitude": -80.71121978759766
+  },
+  "website": "https://cornersburg.org",
+  "listingUrl": "https://churches.sbc.net/church/cornersburg-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cornersburg-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cornersburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341345370"
+    }
+  ],
+  "advisories": []
+}

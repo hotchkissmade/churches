@@ -1,0 +1,33 @@
+{
+  "id": "z7mzxqk55",
+  "url": "https://constellation.church/z7mzxqk55",
+  "name": "Richfield Bible Church",
+  "displayName": "Richfield Bible Church",
+  "address": {
+    "street": "6215 Oliver Ave S",
+    "city": "Richfield",
+    "state": "MN",
+    "zip": "55423"
+  },
+  "coordinates": {
+    "latitude": 44.89011764526367,
+    "longitude": -93.30717468261719
+  },
+  "website": "https://richfieldbiblechurch.com",
+  "listingUrl": "https://churches.sbc.net/church/richfield-bible-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "richfield-bible-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "richfieldbiblechurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "821356672"
+    }
+  ],
+  "advisories": []
+}

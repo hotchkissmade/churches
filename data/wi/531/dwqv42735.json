@@ -1,0 +1,33 @@
+{
+  "id": "dwqv42735",
+  "url": "https://constellation.church/dwqv42735",
+  "name": "Kenosha City Church",
+  "displayName": "Kenosha City Church",
+  "address": {
+    "street": "6009 Pershing Blvd",
+    "city": "Kenosha",
+    "state": "WI",
+    "zip": "53142"
+  },
+  "coordinates": {
+    "latitude": 42.58053970336914,
+    "longitude": -87.86259078979492
+  },
+  "website": "https://kenosha.church",
+  "listingUrl": "https://nabconference.org/directory/kenosha-city-church/",
+  "identifiers": [
+    {
+      "namespace": "org.nabconference.id",
+      "value": "kenosha-city-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kenosha.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391205211"
+    }
+  ],
+  "advisories": []
+}

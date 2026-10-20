@@ -1,0 +1,33 @@
+{
+  "id": "cctas3v67",
+  "url": "https://constellation.church/cctas3v67",
+  "name": "Anglican Church of the Epiphany",
+  "displayName": "Anglican Church of the Epiphany",
+  "address": {
+    "street": "15151 Cordova Road",
+    "city": "La Mirada",
+    "state": "CA",
+    "zip": "90638"
+  },
+  "coordinates": {
+    "latitude": 33.91601371765137,
+    "longitude": -118.00716400146484
+  },
+  "website": "https://acelamirada.org",
+  "listingUrl": "https://www.acna.org/admin_units/430",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "430"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "acelamirada.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "383820614"
+    }
+  ],
+  "advisories": []
+}

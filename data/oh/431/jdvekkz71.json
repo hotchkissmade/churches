@@ -1,0 +1,33 @@
+{
+  "id": "jdvekkz71",
+  "url": "https://constellation.church/jdvekkz71",
+  "name": "David Lutheran Church",
+  "displayName": "David Lutheran Church",
+  "address": {
+    "street": "300 Groveport Pike",
+    "city": "Canal Winchester",
+    "state": "OH",
+    "zip": "43110-9747"
+  },
+  "coordinates": {
+    "latitude": 39.8445176,
+    "longitude": -82.8150725
+  },
+  "website": "https://davidlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f3367567-7ec0-4247-9411-badf855a74cd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f3367567-7ec0-4247-9411-badf855a74cd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "davidlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310727944"
+    }
+  ],
+  "advisories": []
+}

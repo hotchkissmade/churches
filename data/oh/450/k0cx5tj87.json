@@ -1,0 +1,33 @@
+{
+  "id": "k0cx5tj87",
+  "url": "https://constellation.church/k0cx5tj87",
+  "name": "Springboro Baptist Church",
+  "displayName": "Springboro Baptist Church",
+  "address": {
+    "street": "125 E Mill St",
+    "city": "Springboro",
+    "state": "OH",
+    "zip": "45066"
+  },
+  "coordinates": {
+    "latitude": 39.54989051818848,
+    "longitude": -84.23162841796875
+  },
+  "website": "https://springborobaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/springboro-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "springboro-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "springborobaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311051344"
+    }
+  ],
+  "advisories": []
+}

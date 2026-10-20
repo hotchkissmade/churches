@@ -1,0 +1,33 @@
+{
+  "id": "vxb4krd53",
+  "url": "https://constellation.church/vxb4krd53",
+  "name": "Springdale Baptist Church",
+  "displayName": "Springdale Baptist Church",
+  "address": {
+    "street": "3016 Selma St",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76111"
+  },
+  "coordinates": {
+    "latitude": 32.789194107055664,
+    "longitude": -97.30281066894531
+  },
+  "website": "https://springdalebc.com",
+  "listingUrl": "https://churches.sbc.net/church/springdale-baptist-church-10/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "springdale-baptist-church-10"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "springdalebc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750878553"
+    }
+  ],
+  "advisories": []
+}

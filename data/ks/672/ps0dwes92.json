@@ -1,0 +1,33 @@
+{
+  "id": "ps0dwes92",
+  "url": "https://constellation.church/ps0dwes92",
+  "name": "Midway Baptist Church",
+  "displayName": "Midway Baptist Church",
+  "address": {
+    "street": "5135 S Broadway St",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67216"
+  },
+  "coordinates": {
+    "latitude": 37.60186576843262,
+    "longitude": -97.33606719970703
+  },
+  "website": "https://midwaywichita.com",
+  "listingUrl": "https://churches.sbc.net/church/midway-baptist-church-59/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "midway-baptist-church-59"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "midwaywichita.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480797755"
+    }
+  ],
+  "advisories": []
+}

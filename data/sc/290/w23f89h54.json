@@ -1,0 +1,33 @@
+{
+  "id": "w23f89h54",
+  "url": "https://constellation.church/w23f89h54",
+  "name": "Lexington Presbyterian Church",
+  "displayName": "Lexington Presbyterian Church",
+  "address": {
+    "street": "246 Barr Road",
+    "city": "Lexington",
+    "state": "SC",
+    "zip": "29072"
+  },
+  "coordinates": {
+    "latitude": 33.97452354431152,
+    "longitude": -81.26254653930664
+  },
+  "website": "https://lexpreschurch.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/690",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "690"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lexpreschurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570720018"
+    }
+  ],
+  "advisories": []
+}

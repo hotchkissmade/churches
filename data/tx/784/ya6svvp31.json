@@ -1,0 +1,33 @@
+{
+  "id": "ya6svvp31",
+  "url": "https://constellation.church/ya6svvp31",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "3115 Ocean Dr",
+    "city": "Corp Christi",
+    "state": "TX",
+    "zip": "78404"
+  },
+  "coordinates": {
+    "latitude": 27.764007568359375,
+    "longitude": -97.38294982910156
+  },
+  "website": "https://firstcorpus.org/our-story",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-14/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-14"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstcorpus.org/our-story"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742615562"
+    }
+  ],
+  "advisories": []
+}

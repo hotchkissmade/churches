@@ -1,0 +1,33 @@
+{
+  "id": "f3qw7en98",
+  "url": "https://constellation.church/f3qw7en98",
+  "name": "Redeemer Lutheran Church",
+  "displayName": "Redeemer Lutheran Church",
+  "address": {
+    "street": "800 5th St",
+    "city": "Lancaster",
+    "state": "PA",
+    "zip": "17603-5027"
+  },
+  "coordinates": {
+    "latitude": 40.031782150268555,
+    "longitude": -76.3228530883789
+  },
+  "website": "https://redeemerlutheranchurch.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=453a8289-46b1-471e-9b13-45128bef75b9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "453a8289-46b1-471e-9b13-45128bef75b9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerlutheranchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231946925"
+    }
+  ],
+  "advisories": []
+}

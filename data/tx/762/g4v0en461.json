@@ -1,0 +1,33 @@
+{
+  "id": "g4v0en461",
+  "url": "https://constellation.church/g4v0en461",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "3033 Meadowview Dr",
+    "city": "Corinth",
+    "state": "TX",
+    "zip": "76210"
+  },
+  "coordinates": {
+    "latitude": 33.13500785827637,
+    "longitude": -97.05939483642578
+  },
+  "website": "https://fbccorinth.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-1257/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-1257"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbccorinth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751925042"
+    }
+  ],
+  "advisories": []
+}

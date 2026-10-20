@@ -1,0 +1,33 @@
+{
+  "id": "h5rpcc276",
+  "url": "https://constellation.church/h5rpcc276",
+  "name": "First Baptist Church of Rochester",
+  "displayName": "First Baptist Church of Rochester",
+  "address": {
+    "street": "305 State St",
+    "city": "Rochester",
+    "state": "IL",
+    "zip": "62563"
+  },
+  "coordinates": {
+    "latitude": 39.74798393249512,
+    "longitude": -89.53071594238281
+  },
+  "website": "https://rochesterfirstbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-rochester/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-rochester"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rochesterfirstbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371032362"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "e8ccjcx81",
+  "url": "https://constellation.church/e8ccjcx81",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "14940 62nd St N",
+    "city": "Stillwater",
+    "state": "MN",
+    "zip": "55082-6623"
+  },
+  "coordinates": {
+    "latitude": 45.039305,
+    "longitude": -92.8040241
+  },
+  "website": "https://salemlutheran.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24432",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24432"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416044580"
+    }
+  ],
+  "advisories": []
+}

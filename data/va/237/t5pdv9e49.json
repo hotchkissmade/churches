@@ -1,0 +1,33 @@
+{
+  "id": "t5pdv9e49",
+  "url": "https://constellation.church/t5pdv9e49",
+  "name": "Westhaven Baptist Church",
+  "displayName": "Westhaven Baptist Church",
+  "address": {
+    "street": "4900 Caroline Ave",
+    "city": "Portsmouth",
+    "state": "VA",
+    "zip": "23707"
+  },
+  "coordinates": {
+    "latitude": 36.83269691467285,
+    "longitude": -76.35600662231445
+  },
+  "website": "https://westhavenbaptist.church",
+  "listingUrl": "https://churches.sbc.net/church/westhaven-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "westhaven-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westhavenbaptist.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540646391"
+    }
+  ],
+  "advisories": []
+}

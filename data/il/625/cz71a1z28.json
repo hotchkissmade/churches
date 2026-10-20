@@ -1,0 +1,37 @@
+{
+  "id": "cz71a1z28",
+  "url": "https://constellation.church/cz71a1z28",
+  "name": "First Evangelical Lutheran Church",
+  "displayName": "First Evangelical Lutheran Church",
+  "address": {
+    "street": "250 W Decatur St",
+    "city": "Decatur",
+    "state": "IL",
+    "zip": "62522-3307"
+  },
+  "coordinates": {
+    "latitude": 39.83854293823242,
+    "longitude": -88.95833587646484
+  },
+  "website": "https://felcdecatur.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5f1298fa-8948-433a-9fdb-448b1fa8d1ec",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5f1298fa-8948-433a-9fdb-448b1fa8d1ec"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "felcdecatur.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "203121770"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370661143"
+    }
+  ],
+  "advisories": []
+}

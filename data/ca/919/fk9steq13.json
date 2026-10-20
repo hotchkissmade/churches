@@ -1,0 +1,33 @@
+{
+  "id": "fk9steq13",
+  "url": "https://constellation.church/fk9steq13",
+  "name": "Church in Chula Vista",
+  "displayName": "Church in Chula Vista",
+  "address": {
+    "street": "430 Second Ave",
+    "city": "Chula Vista",
+    "state": "CA",
+    "zip": "91910"
+  },
+  "coordinates": {
+    "latitude": 32.63770294189453,
+    "longitude": -117.07440948486328
+  },
+  "website": "https://fccchulavista.org",
+  "listingUrl": "https://localchurches.org/churches/chula-vista-ca-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "chula-vista-ca-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fccchulavista.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330577527"
+    }
+  ],
+  "advisories": []
+}

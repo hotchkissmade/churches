@@ -1,0 +1,37 @@
+{
+  "id": "dz9z61g72",
+  "url": "https://constellation.church/dz9z61g72",
+  "name": "Corning First Baptist Church",
+  "displayName": "Corning First Baptist Church",
+  "address": {
+    "street": "701 W 3rd St",
+    "city": "Corning",
+    "state": "AR",
+    "zip": "72422"
+  },
+  "coordinates": {
+    "latitude": 36.40586280822754,
+    "longitude": -90.58472442626953
+  },
+  "website": "https://corningfbc.com",
+  "listingUrl": "https://churches.sbc.net/church/corning-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "corning-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "corningfbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941544376"
+    },
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "first-baptist-church-corning"
+    }
+  ],
+  "advisories": []
+}

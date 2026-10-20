@@ -1,0 +1,33 @@
+{
+  "id": "b1dm4yd77",
+  "url": "https://constellation.church/b1dm4yd77",
+  "name": "The Alpine Chapel",
+  "displayName": "The Alpine Chapel",
+  "address": {
+    "street": "122 S Aspen",
+    "city": "TELLURIDE",
+    "state": "CO",
+    "zip": "81435"
+  },
+  "coordinates": {
+    "latitude": 37.93735694885254,
+    "longitude": -107.81385040283203
+  },
+  "website": "https://thealpinechapel.com",
+  "listingUrl": "https://churches.sbc.net/church/the-alpine-chapel/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-alpine-chapel"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thealpinechapel.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "830998314"
+    }
+  ],
+  "advisories": []
+}

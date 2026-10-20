@@ -1,0 +1,33 @@
+{
+  "id": "rqs6rgj16",
+  "url": "https://constellation.church/rqs6rgj16",
+  "name": "First Baptist Church of Salt Springs",
+  "displayName": "First Baptist Church of Salt Springs",
+  "address": {
+    "street": "24100 NE Hwy 314",
+    "city": "Salt Springs",
+    "state": "FL",
+    "zip": "32134"
+  },
+  "coordinates": {
+    "latitude": 29.334335327148438,
+    "longitude": -81.7542495727539
+  },
+  "website": "https://fbcsaltsprings.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-salt-springs/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-salt-springs"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcsaltsprings.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591761692"
+    }
+  ],
+  "advisories": []
+}

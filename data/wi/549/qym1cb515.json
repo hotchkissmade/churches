@@ -1,0 +1,33 @@
+{
+  "id": "qym1cb515",
+  "url": "https://constellation.church/qym1cb515",
+  "name": "Water City Church",
+  "displayName": "Water City Church",
+  "address": {
+    "street": "443 Algoma Blvd",
+    "city": "Oshkosh",
+    "state": "WI",
+    "zip": "54901"
+  },
+  "coordinates": {
+    "latitude": 44.021018981933594,
+    "longitude": -88.54397964477539
+  },
+  "website": "https://watercitychurch.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=4c4329d8-cdd2-4291-94e0-4f26b1032aa2&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "4c4329d8-cdd2-4291-94e0-4f26b1032aa2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "watercitychurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "208587246"
+    }
+  ],
+  "advisories": []
+}

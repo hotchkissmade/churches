@@ -1,0 +1,33 @@
+{
+  "id": "zbv0n5y09",
+  "url": "https://constellation.church/zbv0n5y09",
+  "name": "Riviera Baptist Church",
+  "displayName": "Riviera Baptist Church",
+  "address": {
+    "street": "3071 River Rd",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97404"
+  },
+  "coordinates": {
+    "latitude": 44.1077880859375,
+    "longitude": -123.13214874267578
+  },
+  "website": "https://rivierabaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/riviera-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "riviera-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rivierabaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930621615"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cnmehbs09",
+  "url": "https://constellation.church/cnmehbs09",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "2335 S Webster Ave",
+    "city": "Green Bay",
+    "state": "WI",
+    "zip": "54301-2123"
+  },
+  "coordinates": {
+    "latitude": 44.47922897338867,
+    "longitude": -88.02513885498047
+  },
+  "website": "https://flcgb.com",
+  "listingUrl": "https://locator.lcms.org/church/C/376305",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "376305"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcgb.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391146990"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mdy0bvt91",
+  "url": "https://constellation.church/mdy0bvt91",
+  "name": "Grace Presbyterian Church",
+  "displayName": "Grace Presbyterian Church",
+  "address": {
+    "street": "4012 Birdsville Road",
+    "city": "Davidsonville",
+    "state": "MD",
+    "zip": "21035"
+  },
+  "coordinates": {
+    "latitude": 38.8906364440918,
+    "longitude": -76.59915924072266
+  },
+  "website": "https://gracepres.church",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1572",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1572"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracepres.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521950742"
+    }
+  ],
+  "advisories": []
+}

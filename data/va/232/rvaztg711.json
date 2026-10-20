@@ -1,0 +1,33 @@
+{
+  "id": "rvaztg711",
+  "url": "https://constellation.church/rvaztg711",
+  "name": "Hatcher Memorial Baptist Church",
+  "displayName": "Hatcher Memorial Baptist Church",
+  "address": {
+    "street": "2300 Dumbarton Rd",
+    "city": "Henrico",
+    "state": "VA",
+    "zip": "23228"
+  },
+  "coordinates": {
+    "latitude": 37.60421371459961,
+    "longitude": -77.47230529785156
+  },
+  "website": "https://hatcherchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/hatcher-memorial-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hatcher-memorial-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hatcherchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540627087"
+    }
+  ],
+  "advisories": []
+}

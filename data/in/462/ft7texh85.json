@@ -1,0 +1,33 @@
+{
+  "id": "ft7texh85",
+  "url": "https://constellation.church/ft7texh85",
+  "name": "St. Paul's Episcopal Church",
+  "displayName": "St. Paul's Episcopal Church",
+  "address": {
+    "street": "6050 N Meridian St",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46208-1549"
+  },
+  "coordinates": {
+    "latitude": 39.864797592163086,
+    "longitude": -86.1568603515625
+  },
+  "website": "https://stpaulsindy.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-indianapolis/list/st-pauls-episcopal-church-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-indianapolis/st-pauls-episcopal-church-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsindy.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351006402"
+    }
+  ],
+  "advisories": []
+}

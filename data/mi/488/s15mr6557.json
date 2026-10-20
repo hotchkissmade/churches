@@ -1,0 +1,33 @@
+{
+  "id": "s15mr6557",
+  "url": "https://constellation.church/s15mr6557",
+  "name": "Church of Jubilee",
+  "displayName": "Church of Jubilee",
+  "address": {
+    "street": "3910 S Ruess Rd",
+    "city": "Owosso",
+    "state": "MI",
+    "zip": "48867"
+  },
+  "coordinates": {
+    "latitude": 42.937299728393555,
+    "longitude": -84.2425651550293
+  },
+  "website": "https://churchofjubilee.com",
+  "listingUrl": "https://rforw.pcg.org/ChurchDetails.aspx?contactID=991109",
+  "identifiers": [
+    {
+      "namespace": "org.pcg.rforw.id",
+      "value": "991109"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchofjubilee.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "383512368"
+    }
+  ],
+  "advisories": []
+}

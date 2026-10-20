@@ -1,0 +1,33 @@
+{
+  "id": "dcqrv7054",
+  "url": "https://constellation.church/dcqrv7054",
+  "name": "St. James, Indian Head",
+  "displayName": "St. James, Indian Head",
+  "address": {
+    "street": "7 Potomac Ave",
+    "city": "Indian Head",
+    "state": "MD",
+    "zip": "20640-1798"
+  },
+  "coordinates": {
+    "latitude": 38.59972381591797,
+    "longitude": -77.16312789916992
+  },
+  "website": "https://stjamesindianhead.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/st-james-church-indian-head",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/st-james-church-indian-head"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamesindianhead.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521206784"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "aa4qmed80",
+  "url": "https://constellation.church/aa4qmed80",
+  "name": "Splitlog Baptist Church",
+  "displayName": "Splitlog Baptist Church",
+  "address": {
+    "street": "3670 Splitlog Rd",
+    "city": "Goodman",
+    "state": "MO",
+    "zip": "64843"
+  },
+  "coordinates": {
+    "latitude": 36.708391189575195,
+    "longitude": -94.45850372314453
+  },
+  "website": "https://splitlogbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/splitlog-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "splitlog-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "splitlogbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431279940"
+    }
+  ],
+  "advisories": []
+}

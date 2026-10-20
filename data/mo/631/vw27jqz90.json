@@ -1,0 +1,33 @@
+{
+  "id": "vw27jqz90",
+  "url": "https://constellation.church/vw27jqz90",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "123 Carson Rd",
+    "city": "Ferguson",
+    "state": "MO",
+    "zip": "63135-2311"
+  },
+  "coordinates": {
+    "latitude": 38.74460029602051,
+    "longitude": -90.30692291259766
+  },
+  "website": "https://zionferguson.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a1c78887-ce3d-491a-a4ff-a5bd30a36fe4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a1c78887-ce3d-491a-a4ff-a5bd30a36fe4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionferguson.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "436013044"
+    }
+  ],
+  "advisories": []
+}

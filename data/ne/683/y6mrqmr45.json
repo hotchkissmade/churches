@@ -1,0 +1,33 @@
+{
+  "id": "y6mrqmr45",
+  "url": "https://constellation.church/y6mrqmr45",
+  "name": "American Lutheran Church",
+  "displayName": "American Lutheran Church",
+  "address": {
+    "street": "601 5th St",
+    "city": "Adams",
+    "state": "NE",
+    "zip": "68301"
+  },
+  "coordinates": {
+    "latitude": 40.458574295043945,
+    "longitude": -96.5085678100586
+  },
+  "website": "https://adamslutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ae7aaa08-ef8b-487f-a0b9-e448662406f6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ae7aaa08-ef8b-487f-a0b9-e448662406f6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "adamslutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470649217"
+    }
+  ],
+  "advisories": []
+}

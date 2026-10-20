@@ -1,0 +1,33 @@
+{
+  "id": "esry7fg47",
+  "url": "https://constellation.church/esry7fg47",
+  "name": "Camano Lutheran Church",
+  "displayName": "Camano Lutheran Church",
+  "address": {
+    "street": "850 Heichel Rd",
+    "city": "Camano Island",
+    "state": "WA",
+    "zip": "98282-8804"
+  },
+  "coordinates": {
+    "latitude": 48.24164581298828,
+    "longitude": -122.43897247314453
+  },
+  "website": "https://camanolutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cc16ada1-62eb-4cef-af19-489a2521b9e3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cc16ada1-62eb-4cef-af19-489a2521b9e3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "camanolutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910977610"
+    }
+  ],
+  "advisories": []
+}

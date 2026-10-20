@@ -1,0 +1,33 @@
+{
+  "id": "fa7hpac46",
+  "url": "https://constellation.church/fa7hpac46",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "505 Pine St",
+    "city": "Brunsville",
+    "state": "IA",
+    "zip": "51008"
+  },
+  "coordinates": {
+    "latitude": 42.80904769897461,
+    "longitude": -96.26606750488281
+  },
+  "website": "https://stpeterbrunsville.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e7d8d18f-7e45-494b-9784-b527ce13a4ab",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e7d8d18f-7e45-494b-9784-b527ce13a4ab"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpeterbrunsville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426096277"
+    }
+  ],
+  "advisories": []
+}

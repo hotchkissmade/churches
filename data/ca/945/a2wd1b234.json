@@ -1,0 +1,33 @@
+{
+  "id": "a2wd1b234",
+  "url": "https://constellation.church/a2wd1b234",
+  "name": "Resurrection Lutheran Church",
+  "displayName": "Resurrection Lutheran Church",
+  "address": {
+    "street": "7557 Amador Valley Blvd",
+    "city": "Dublin",
+    "state": "CA",
+    "zip": "94568-2421"
+  },
+  "coordinates": {
+    "latitude": 37.70979881286621,
+    "longitude": -121.9297866821289
+  },
+  "website": "https://rldublin.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=da82b423-1ac5-4a95-871a-8f0365e3ee0f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "da82b423-1ac5-4a95-871a-8f0365e3ee0f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rldublin.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942393284"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "zx2wez710",
+  "url": "https://constellation.church/zx2wez710",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "200 N Hickory St",
+    "city": "Toluca",
+    "state": "IL",
+    "zip": "61369-9784"
+  },
+  "coordinates": {
+    "latitude": 41.00312614440918,
+    "longitude": -89.12415313720703
+  },
+  "website": "https://stjohnstoluca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=79e2000b-9e9b-41fc-905d-58bfaf76413a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "79e2000b-9e9b-41fc-905d-58bfaf76413a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnstoluca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362971956"
+    }
+  ],
+  "advisories": []
+}

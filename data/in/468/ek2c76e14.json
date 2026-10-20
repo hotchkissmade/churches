@@ -1,0 +1,33 @@
+{
+  "id": "ek2c76e14",
+  "url": "https://constellation.church/ek2c76e14",
+  "name": "Messiah Evangelical Lutheran Church",
+  "displayName": "Messiah Evangelical Lutheran Church",
+  "address": {
+    "street": "7211 Stellhorn Rd",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46815-5551"
+  },
+  "coordinates": {
+    "latitude": 41.12166213989258,
+    "longitude": -85.0481948852539
+  },
+  "website": "https://messiahlc.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0a778c8b-d36a-4d71-87e9-92c10111f1da",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0a778c8b-d36a-4d71-87e9-92c10111f1da"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "messiahlc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351108277"
+    }
+  ],
+  "advisories": []
+}

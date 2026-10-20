@@ -1,0 +1,33 @@
+{
+  "id": "jgdc2ee26",
+  "url": "https://constellation.church/jgdc2ee26",
+  "name": "Church in Bothell",
+  "displayName": "Church in Bothell",
+  "address": {
+    "street": "10201 E Riverside Dr",
+    "city": "Bothell",
+    "state": "WA",
+    "zip": "98011"
+  },
+  "coordinates": {
+    "latitude": 47.75594711303711,
+    "longitude": -122.20259094238281
+  },
+  "website": "https://churchinbothell.org",
+  "listingUrl": "https://localchurches.org/churches/bothell-wa-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "bothell-wa-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinbothell.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "320606199"
+    }
+  ],
+  "advisories": []
+}

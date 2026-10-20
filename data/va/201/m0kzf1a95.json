@@ -1,0 +1,33 @@
+{
+  "id": "m0kzf1a95",
+  "url": "https://constellation.church/m0kzf1a95",
+  "name": "Warrenton Baptist Church",
+  "displayName": "Warrenton Baptist Church",
+  "address": {
+    "street": "123 Main Street",
+    "city": "Warrenton",
+    "state": "VA",
+    "zip": "20186"
+  },
+  "coordinates": {
+    "latitude": 38.71219444274902,
+    "longitude": -77.79199600219727
+  },
+  "website": "https://warrentonbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/warrenton-baptist-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "warrenton-baptist-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "warrentonbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540584102"
+    }
+  ],
+  "advisories": []
+}

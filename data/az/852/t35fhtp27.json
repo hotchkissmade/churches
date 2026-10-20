@@ -1,0 +1,33 @@
+{
+  "id": "t35fhtp27",
+  "url": "https://constellation.church/t35fhtp27",
+  "name": "Faith Church",
+  "displayName": "Faith Church",
+  "address": {
+    "street": "2125 E Chandler Blvd",
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85225-5849"
+  },
+  "coordinates": {
+    "latitude": 33.305734634399414,
+    "longitude": -111.80419158935547
+  },
+  "website": "https://faithchurchaz.org",
+  "listingUrl": "https://churches.efca.org/?id=12169",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12169"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithchurchaz.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860423358"
+    }
+  ],
+  "advisories": []
+}

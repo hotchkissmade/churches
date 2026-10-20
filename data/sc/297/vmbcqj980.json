@@ -1,0 +1,33 @@
+{
+  "id": "vmbcqj980",
+  "url": "https://constellation.church/vmbcqj980",
+  "name": "Catawba Baptist Church",
+  "displayName": "Catawba Baptist Church",
+  "address": {
+    "street": "1144 Riverside Rd",
+    "city": "Lancaster",
+    "state": "SC",
+    "zip": "29720"
+  },
+  "coordinates": {
+    "latitude": 34.733510971069336,
+    "longitude": -80.83324432373047
+  },
+  "website": "https://catawbabaptistlancaster.com",
+  "listingUrl": "https://churches.sbc.net/church/catawba-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "catawba-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "catawbabaptistlancaster.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570711057"
+    }
+  ],
+  "advisories": []
+}

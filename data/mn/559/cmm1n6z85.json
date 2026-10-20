@@ -1,0 +1,33 @@
+{
+  "id": "cmm1n6z85",
+  "url": "https://constellation.church/cmm1n6z85",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "810 3rd Ave SE",
+    "city": "Rochester",
+    "state": "MN",
+    "zip": "55904-7303"
+  },
+  "coordinates": {
+    "latitude": 44.01428031921387,
+    "longitude": -92.4583969116211
+  },
+  "website": "https://bethellutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=eee0365c-9c0b-460b-8759-2c892f3d2d95",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "eee0365c-9c0b-460b-8759-2c892f3d2d95"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethellutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410713886"
+    }
+  ],
+  "advisories": []
+}

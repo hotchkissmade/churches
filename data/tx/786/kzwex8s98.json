@@ -1,0 +1,33 @@
+{
+  "id": "kzwex8s98",
+  "url": "https://constellation.church/kzwex8s98",
+  "name": "New Hope Lutheran Chapel",
+  "displayName": "New Hope Lutheran Chapel",
+  "address": {
+    "street": "819 Elm St",
+    "city": "Blanco",
+    "state": "TX",
+    "zip": "78606"
+  },
+  "coordinates": {
+    "latitude": 30.10252571105957,
+    "longitude": -98.42169952392578
+  },
+  "website": "https://newhopeblanco.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=92de3515-1b60-4291-a122-fc78eebee9a8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "92de3515-1b60-4291-a122-fc78eebee9a8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newhopeblanco.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "208780039"
+    }
+  ],
+  "advisories": []
+}

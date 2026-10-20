@@ -1,0 +1,33 @@
+{
+  "id": "tr2af4b78",
+  "url": "https://constellation.church/tr2af4b78",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "215 East Commerce Street",
+    "city": "Greenville",
+    "state": "AL",
+    "zip": "36037"
+  },
+  "coordinates": {
+    "latitude": 31.82970428466797,
+    "longitude": -86.62181091308594
+  },
+  "website": "https://fpchurchgreenville.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/445",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "445"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpchurchgreenville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630823769"
+    }
+  ],
+  "advisories": []
+}

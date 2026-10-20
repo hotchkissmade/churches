@@ -1,0 +1,33 @@
+{
+  "id": "tt2gpz698",
+  "url": "https://constellation.church/tt2gpz698",
+  "name": "Church in Charlotte",
+  "displayName": "Church in Charlotte",
+  "address": {
+    "street": "8700 Hood Rd",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28215"
+  },
+  "coordinates": {
+    "latitude": 35.26112937927246,
+    "longitude": -80.68939590454102
+  },
+  "website": "https://thechurchincharlotte.org",
+  "listingUrl": "https://localchurches.org/churches/charlotte-nc-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "charlotte-nc-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thechurchincharlotte.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "562109121"
+    }
+  ],
+  "advisories": []
+}

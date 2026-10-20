@@ -1,0 +1,33 @@
+{
+  "id": "zbeycmc92",
+  "url": "https://constellation.church/zbeycmc92",
+  "name": "St. Margaret's Episcopal Church",
+  "displayName": "St. Margaret's Episcopal Church",
+  "address": {
+    "street": "47535 State Highway 74",
+    "city": "Palm Desert",
+    "state": "CA",
+    "zip": "92260-5946"
+  },
+  "coordinates": {
+    "latitude": 33.703386306762695,
+    "longitude": -116.39754486083984
+  },
+  "website": "https://stmargarets.org/upcoming-events.html",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-san-diego/list/st-margarets-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-san-diego/st-margarets-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmargarets.org/upcoming-events.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952284938"
+    }
+  ],
+  "advisories": []
+}

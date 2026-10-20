@@ -1,0 +1,33 @@
+{
+  "id": "a6fpeqc12",
+  "url": "https://constellation.church/a6fpeqc12",
+  "name": "Evergreen Church",
+  "displayName": "Evergreen Church",
+  "address": {
+    "street": "400 Windgate Rd",
+    "city": "Peachtree City",
+    "state": "GA",
+    "zip": "30269"
+  },
+  "coordinates": {
+    "latitude": 33.39742851257324,
+    "longitude": -84.5655517578125
+  },
+  "website": "https://evergreenchurchga.org/adults",
+  "listingUrl": "https://eco-pres.org/churches/evergreen-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "evergreen-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "evergreenchurchga.org/adults"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "462276687"
+    }
+  ],
+  "advisories": []
+}

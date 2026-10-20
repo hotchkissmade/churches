@@ -1,0 +1,33 @@
+{
+  "id": "xvyq7ym31",
+  "url": "https://constellation.church/xvyq7ym31",
+  "name": "Portland Friends Meeting (NEYM)",
+  "displayName": "Portland Friends Meeting (NEYM)",
+  "address": {
+    "street": "1837 Forest Ave",
+    "city": "Portland",
+    "state": "ME",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 43.70060348510742,
+    "longitude": -70.31779098510742
+  },
+  "website": "https://portlandfriendsmeeting.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/portland-friends-meeting-neym/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "portland-friends-meeting-neym"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "portlandfriendsmeeting.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "016043989"
+    }
+  ],
+  "advisories": []
+}

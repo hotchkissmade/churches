@@ -1,0 +1,33 @@
+{
+  "id": "t5hn82b62",
+  "url": "https://constellation.church/t5hn82b62",
+  "name": "Genesis Church, Eureka",
+  "displayName": "Genesis Church, Eureka",
+  "address": {
+    "street": "18401 Old US Highway 66",
+    "city": "Eureka",
+    "state": "MO",
+    "zip": "63025"
+  },
+  "coordinates": {
+    "latitude": 38.483394622802734,
+    "longitude": -90.75323486328125
+  },
+  "website": "https://genesiseureka.com",
+  "listingUrl": "https://churches.sbc.net/church/genesis-church-eureka/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "genesis-church-eureka"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "genesiseureka.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "205950034"
+    }
+  ],
+  "advisories": []
+}

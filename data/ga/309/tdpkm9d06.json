@@ -1,0 +1,33 @@
+{
+  "id": "tdpkm9d06",
+  "url": "https://constellation.church/tdpkm9d06",
+  "name": "The Assembly at Augusta",
+  "displayName": "The Assembly at Augusta",
+  "address": {
+    "street": "4207 Wheeler Rd",
+    "city": "Augusta",
+    "state": "GA",
+    "zip": "30907"
+  },
+  "coordinates": {
+    "latitude": 33.4879093170166,
+    "longitude": -82.11840057373047
+  },
+  "website": "https://assemblyaugusta.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=4cbcf3c6-c903-4a4c-932d-8d7ff0ecef63&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "4cbcf3c6-c903-4a4c-932d-8d7ff0ecef63"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "assemblyaugusta.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581409068"
+    }
+  ],
+  "advisories": []
+}

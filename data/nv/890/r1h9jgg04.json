@@ -1,0 +1,33 @@
+{
+  "id": "r1h9jgg04",
+  "url": "https://constellation.church/r1h9jgg04",
+  "name": "Renaissance Baptist Church",
+  "displayName": "Renaissance Baptist Church",
+  "address": {
+    "street": "3277 W Craig Rd Ste 100",
+    "city": "N Las Vegas",
+    "state": "NV",
+    "zip": "89032"
+  },
+  "coordinates": {
+    "latitude": 36.23879432678223,
+    "longitude": -115.18451690673828
+  },
+  "website": "https://rchurchvegas.com",
+  "listingUrl": "https://churches.sbc.net/church/renaissance-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "renaissance-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rchurchvegas.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "342031227"
+    }
+  ],
+  "advisories": []
+}

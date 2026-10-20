@@ -1,0 +1,33 @@
+{
+  "id": "rj8zd9e34",
+  "url": "https://constellation.church/rj8zd9e34",
+  "name": "Church in Lowell",
+  "displayName": "Church in Lowell",
+  "address": {
+    "street": "148 Riverside St",
+    "city": "Lowell",
+    "state": "MA",
+    "zip": "01854"
+  },
+  "coordinates": {
+    "latitude": 42.6533943,
+    "longitude": -71.3279633
+  },
+  "website": "https://churchinlowell.org",
+  "listingUrl": "https://localchurches.org/churches/lowell-ma-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "lowell-ma-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinlowell.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "453092137"
+    }
+  ],
+  "advisories": []
+}

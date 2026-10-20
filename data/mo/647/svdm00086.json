@@ -1,0 +1,33 @@
+{
+  "id": "svdm00086",
+  "url": "https://constellation.church/svdm00086",
+  "name": "Good Hope Baptist Church",
+  "displayName": "Good Hope Baptist Church",
+  "address": {
+    "street": "3044 SE Highway U",
+    "city": "Clinton",
+    "state": "MO",
+    "zip": "64735"
+  },
+  "coordinates": {
+    "latitude": 38.31814384460449,
+    "longitude": -93.61027526855469
+  },
+  "website": "https://goodhopeclinton.org",
+  "listingUrl": "https://churches.sbc.net/church/good-hope-baptist-church-25/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "good-hope-baptist-church-25"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodhopeclinton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431122923"
+    }
+  ],
+  "advisories": []
+}

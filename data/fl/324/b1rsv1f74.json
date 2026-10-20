@@ -1,0 +1,33 @@
+{
+  "id": "b1rsv1f74",
+  "url": "https://constellation.church/b1rsv1f74",
+  "name": "First Baptist Church of Blountstown",
+  "displayName": "First Baptist Church of Blountstown",
+  "address": {
+    "street": "16693 SE Pear St",
+    "city": "Blountstown",
+    "state": "FL",
+    "zip": "32424"
+  },
+  "coordinates": {
+    "latitude": 30.441492080688477,
+    "longitude": -85.04537582397461
+  },
+  "website": "https://fbcblountstown.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-blountstown/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-blountstown"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcblountstown.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590823938"
+    }
+  ],
+  "advisories": []
+}

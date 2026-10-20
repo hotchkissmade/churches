@@ -1,0 +1,33 @@
+{
+  "id": "v94gswz73",
+  "url": "https://constellation.church/v94gswz73",
+  "name": "First Baptist Church of Manteno",
+  "displayName": "First Baptist Church of Manteno",
+  "address": {
+    "street": "300 E Third St",
+    "city": "Manteno",
+    "state": "IL",
+    "zip": "60950"
+  },
+  "coordinates": {
+    "latitude": 41.250017166137695,
+    "longitude": -87.82840728759766
+  },
+  "website": "https://fbcmanteno.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-manteno/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-manteno"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcmanteno.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362853040"
+    }
+  ],
+  "advisories": []
+}

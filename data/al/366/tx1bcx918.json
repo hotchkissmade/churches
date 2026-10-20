@@ -1,0 +1,33 @@
+{
+  "id": "tx1bcx918",
+  "url": "https://constellation.church/tx1bcx918",
+  "name": "Our Savior Lutheran Church",
+  "displayName": "Our Savior Lutheran Church",
+  "address": {
+    "street": "5101 Government Blvd",
+    "city": "MOBILE",
+    "state": "AL",
+    "zip": "36693"
+  },
+  "coordinates": {
+    "latitude": 30.610469818115234,
+    "longitude": -88.16056823730469
+  },
+  "website": "https://oursavior-mobile.org",
+  "listingUrl": "https://locator.lcms.org/church/C/600278",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "600278"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oursavior-mobile.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630572679"
+    }
+  ],
+  "advisories": []
+}

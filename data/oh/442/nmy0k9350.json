@@ -1,0 +1,33 @@
+{
+  "id": "nmy0k9350",
+  "url": "https://constellation.church/nmy0k9350",
+  "name": "New Horizons Lutheran Church",
+  "displayName": "New Horizons Lutheran Church",
+  "address": {
+    "street": "8439 River Corners Rd",
+    "city": "Homerville",
+    "state": "OH",
+    "zip": "44235-9532"
+  },
+  "coordinates": {
+    "latitude": 41.044281,
+    "longitude": -82.0961999
+  },
+  "website": "https://newhorizonshomerville.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6fa7337c-c4b1-4937-9b9a-49a69368ff4e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6fa7337c-c4b1-4937-9b9a-49a69368ff4e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newhorizonshomerville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "263100677"
+    }
+  ],
+  "advisories": []
+}

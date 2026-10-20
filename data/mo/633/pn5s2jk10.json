@@ -1,0 +1,33 @@
+{
+  "id": "pn5s2jk10",
+  "url": "https://constellation.church/pn5s2jk10",
+  "name": "Second Baptist Church Bowling Green",
+  "displayName": "Second Baptist Church Bowling Green",
+  "address": {
+    "street": "319 W Church St",
+    "city": "Bowling Green",
+    "state": "MO",
+    "zip": "63334"
+  },
+  "coordinates": {
+    "latitude": 39.34292030334473,
+    "longitude": -91.19673919677734
+  },
+  "website": "https://2bcbg.com",
+  "listingUrl": "https://churches.sbc.net/church/second-baptist-church-bowling-green/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "second-baptist-church-bowling-green"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "2bcbg.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430811990"
+    }
+  ],
+  "advisories": []
+}

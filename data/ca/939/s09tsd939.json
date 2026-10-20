@@ -1,0 +1,33 @@
+{
+  "id": "s09tsd939",
+  "url": "https://constellation.church/s09tsd939",
+  "name": "Peninsula Church",
+  "displayName": "Peninsula Church",
+  "address": {
+    "street": "520 Pine Ave",
+    "city": "Pacific Grove",
+    "state": "CA",
+    "zip": "93950"
+  },
+  "coordinates": {
+    "latitude": 36.61851119995117,
+    "longitude": -121.91728973388672
+  },
+  "website": "https://penchurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=05b9e2d8-4d24-4b09-be5b-5a6fe720f560&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "05b9e2d8-4d24-4b09-be5b-5a6fe720f560"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "penchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941713629"
+    }
+  ],
+  "advisories": []
+}

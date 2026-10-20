@@ -1,0 +1,33 @@
+{
+  "id": "arm5pfv91",
+  "url": "https://constellation.church/arm5pfv91",
+  "name": "Wayne City Baptist Church",
+  "displayName": "Wayne City Baptist Church",
+  "address": {
+    "street": "204 E Meadow",
+    "city": "Wayne City",
+    "state": "IL",
+    "zip": "62895"
+  },
+  "coordinates": {
+    "latitude": 38.345144271850586,
+    "longitude": -88.58590316772461
+  },
+  "website": "https://waynecitybaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/wayne-city-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "wayne-city-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "waynecitybaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362717875"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hqkac6b78",
+  "url": "https://constellation.church/hqkac6b78",
+  "name": "Berrendo Baptist Church",
+  "displayName": "Berrendo Baptist Church",
+  "address": {
+    "street": "401 W Berrendo Rd",
+    "city": "Roswell",
+    "state": "NM",
+    "zip": "88201"
+  },
+  "coordinates": {
+    "latitude": 33.43850135803223,
+    "longitude": -104.52852630615234
+  },
+  "website": "https://berrendobaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/berrendo-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "berrendo-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "berrendobaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850305642"
+    }
+  ],
+  "advisories": []
+}

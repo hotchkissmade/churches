@@ -1,0 +1,33 @@
+{
+  "id": "jhmz8jh52",
+  "url": "https://constellation.church/jhmz8jh52",
+  "name": "St. Andrew's Episcopal Church",
+  "displayName": "St. Andrew's Episcopal Church",
+  "address": {
+    "street": "6401 Wornall Terrace",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64113-1755"
+  },
+  "coordinates": {
+    "latitude": 39.01165771484375,
+    "longitude": -94.59371948242188
+  },
+  "website": "https://standrewkc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-missouri/list/st-andrews-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-missouri/st-andrews-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewkc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440593003"
+    }
+  ],
+  "advisories": []
+}

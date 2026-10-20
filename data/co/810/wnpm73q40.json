@@ -1,0 +1,33 @@
+{
+  "id": "wnpm73q40",
+  "url": "https://constellation.church/wnpm73q40",
+  "name": "West Assembly of God",
+  "displayName": "West Assembly of God",
+  "address": {
+    "street": "406 W Eugene Ave",
+    "city": "Fowler",
+    "state": "CO",
+    "zip": "81039"
+  },
+  "coordinates": {
+    "latitude": 38.12741279602051,
+    "longitude": -104.02850341796875
+  },
+  "website": "https://westassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=1d0b8a05-fb77-44ba-975d-a5f1dc06a78a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "1d0b8a05-fb77-44ba-975d-a5f1dc06a78a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "841441032"
+    }
+  ],
+  "advisories": []
+}

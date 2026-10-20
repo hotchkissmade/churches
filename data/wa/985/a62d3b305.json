@@ -1,0 +1,33 @@
+{
+  "id": "a62d3b305",
+  "url": "https://constellation.church/a62d3b305",
+  "name": "St. John | San Juan, Olympia",
+  "displayName": "St. John | San Juan, Olympia",
+  "address": {
+    "street": "114 20th Ave SE",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98501-2999"
+  },
+  "coordinates": {
+    "latitude": 47.031124114990234,
+    "longitude": -122.9002914428711
+  },
+  "website": "https://stjohnsoly.org/worship/worship-schedule",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-olympia/list/st-johns-episcopal-church-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-olympia/st-johns-episcopal-church-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsoly.org/worship/worship-schedule"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910630757"
+    }
+  ],
+  "advisories": []
+}

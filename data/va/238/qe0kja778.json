@@ -1,0 +1,33 @@
+{
+  "id": "qe0kja778",
+  "url": "https://constellation.church/qe0kja778",
+  "name": "Centralia Presbyterian Church",
+  "displayName": "Centralia Presbyterian Church",
+  "address": {
+    "street": "4625 Centralia Road",
+    "city": "Chester",
+    "state": "VA",
+    "zip": "23831"
+  },
+  "coordinates": {
+    "latitude": 37.3810122,
+    "longitude": -77.4583256
+  },
+  "website": "https://centraliapca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/161",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "161"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centraliapca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541128916"
+    }
+  ],
+  "advisories": []
+}

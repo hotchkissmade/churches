@@ -1,0 +1,33 @@
+{
+  "id": "hmnrxyc84",
+  "url": "https://constellation.church/hmnrxyc84",
+  "name": "St. Peter's Church",
+  "displayName": "St. Peter's Church",
+  "address": {
+    "street": "3695 Rogers Ave",
+    "city": "Ellicott City",
+    "state": "MD",
+    "zip": "21043-4175"
+  },
+  "coordinates": {
+    "latitude": 39.2695441,
+    "longitude": -76.8094617
+  },
+  "website": "https://stpetersec.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maryland/list/st-peters-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maryland/st-peters-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpetersec.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520986332"
+    }
+  ],
+  "advisories": []
+}

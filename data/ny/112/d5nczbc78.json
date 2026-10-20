@@ -1,0 +1,33 @@
+{
+  "id": "d5nczbc78",
+  "url": "https://constellation.church/d5nczbc78",
+  "name": "St. Gabriel's Episcopal Church",
+  "displayName": "St. Gabriel's Episcopal Church",
+  "address": {
+    "street": "331 Hawthorne St",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11225"
+  },
+  "coordinates": {
+    "latitude": 40.658233642578125,
+    "longitude": -73.94906997680664
+  },
+  "website": "https://stgabrielschurchbrooklyn.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-gabriels-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-gabriels-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stgabrielschurchbrooklyn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112463892"
+    }
+  ],
+  "advisories": []
+}

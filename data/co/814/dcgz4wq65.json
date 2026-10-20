@@ -1,0 +1,41 @@
+{
+  "id": "dcgz4wq65",
+  "url": "https://constellation.church/dcgz4wq65",
+  "name": "United Church of the San Juans Lutheran Church",
+  "displayName": "United Church of the San Juans Lutheran Church",
+  "address": {
+    "street": "295 N Lena St",
+    "city": "Ridgway",
+    "state": "CO",
+    "zip": "81432"
+  },
+  "coordinates": {
+    "latitude": 38.15326118469238,
+    "longitude": -107.75640106201172
+  },
+  "website": "https://ucsjridgway.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=27d20cef-ac62-474a-9463-9039a6b349cb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "27d20cef-ac62-474a-9463-9039a6b349cb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ucsjridgway.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "651184929"
+    },
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "12341"
+    },
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMDFIA5"
+    }
+  ],
+  "advisories": []
+}

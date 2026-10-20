@@ -1,0 +1,33 @@
+{
+  "id": "v1wd69w74",
+  "url": "https://constellation.church/v1wd69w74",
+  "name": "Fairton Christian Center",
+  "displayName": "Fairton Christian Center",
+  "address": {
+    "street": "199 Fairton Millville Rd",
+    "city": "Fairton",
+    "state": "NJ",
+    "zip": "08320"
+  },
+  "coordinates": {
+    "latitude": 39.376522064208984,
+    "longitude": -75.20101928710938
+  },
+  "website": "https://fairton.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=36be82f0-cb14-4f53-987c-c2836ef4dea7&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "36be82f0-cb14-4f53-987c-c2836ef4dea7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fairton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222236502"
+    }
+  ],
+  "advisories": []
+}

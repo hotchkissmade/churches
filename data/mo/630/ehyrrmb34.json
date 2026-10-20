@@ -1,0 +1,33 @@
+{
+  "id": "ehyrrmb34",
+  "url": "https://constellation.church/ehyrrmb34",
+  "name": "Pacific Heights Baptist Church",
+  "displayName": "Pacific Heights Baptist Church",
+  "address": {
+    "street": "523 W Saint Louis St",
+    "city": "Pacific",
+    "state": "MO",
+    "zip": "63069"
+  },
+  "coordinates": {
+    "latitude": 38.48240661621094,
+    "longitude": -90.74750518798828
+  },
+  "website": "https://pacificheightsbc.org/about-us",
+  "listingUrl": "https://churches.sbc.net/church/pacific-heights-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pacific-heights-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pacificheightsbc.org/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "743062394"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cnze4xe28",
+  "url": "https://constellation.church/cnze4xe28",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "217 S Molalla Ave",
+    "city": "Molalla",
+    "state": "OR",
+    "zip": "97038"
+  },
+  "coordinates": {
+    "latitude": 45.14607238769531,
+    "longitude": -122.57762908935547
+  },
+  "website": "https://molallaassemblyofgod.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d0e544ff-f3b2-4f55-ab31-314b87f2b939&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d0e544ff-f3b2-4f55-ab31-314b87f2b939"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "molallaassemblyofgod.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930566274"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nfrdnpf95",
+  "url": "https://constellation.church/nfrdnpf95",
+  "name": "Church of Hope",
+  "displayName": "Church of Hope",
+  "address": {
+    "street": "2300 Lakewood Ranch Blvd",
+    "city": "Sarasota",
+    "state": "FL",
+    "zip": "34240"
+  },
+  "coordinates": {
+    "latitude": 27.350183486938477,
+    "longitude": -82.44499969482422
+  },
+  "website": "https://churchofhope.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=58ce23b8-c335-44a3-83c6-0d661adf57a5&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "58ce23b8-c335-44a3-83c6-0d661adf57a5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchofhope.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592387910"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bj23kbs78",
+  "url": "https://constellation.church/bj23kbs78",
+  "name": "Chapel of the Plains",
+  "displayName": "Chapel of the Plains",
+  "address": {
+    "street": "41921 Marble Ave",
+    "city": "Stoneham",
+    "state": "CO",
+    "zip": "80754"
+  },
+  "coordinates": {
+    "latitude": 40.608978271484375,
+    "longitude": -103.66664123535156
+  },
+  "website": "https://chapeloftheplains.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=b6328e61-865c-426f-ac9d-3e8a104488ca&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "b6328e61-865c-426f-ac9d-3e8a104488ca"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chapeloftheplains.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "841528371"
+    }
+  ],
+  "advisories": []
+}

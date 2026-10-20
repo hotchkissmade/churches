@@ -1,0 +1,33 @@
+{
+  "id": "mdzrqne37",
+  "url": "https://constellation.church/mdzrqne37",
+  "name": "Farnham Baptist Church",
+  "displayName": "Farnham Baptist Church",
+  "address": {
+    "street": "4632 Farnham Creek Rd",
+    "city": "Farnham",
+    "state": "VA",
+    "zip": "22460"
+  },
+  "coordinates": {
+    "latitude": 37.8448429107666,
+    "longitude": -76.61221694946289
+  },
+  "website": "https://farnhambaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/farnham-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "farnham-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "farnhambaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541063926"
+    }
+  ],
+  "advisories": []
+}

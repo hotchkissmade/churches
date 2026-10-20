@@ -1,0 +1,33 @@
+{
+  "id": "v17pnst82",
+  "url": "https://constellation.church/v17pnst82",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "1700 Stitzel Rd",
+    "city": "Elko",
+    "state": "NV",
+    "zip": "89801-8842"
+  },
+  "coordinates": {
+    "latitude": 40.82891082763672,
+    "longitude": -115.73004150390625
+  },
+  "website": "https://elkofaith.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d0193c42-d8dd-4e10-a87f-9e794efed466",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d0193c42-d8dd-4e10-a87f-9e794efed466"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elkofaith.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "880304966"
+    }
+  ],
+  "advisories": []
+}

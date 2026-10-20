@@ -1,0 +1,33 @@
+{
+  "id": "e84nd3144",
+  "url": "https://constellation.church/e84nd3144",
+  "name": "Monadnock Quaker Meeting",
+  "displayName": "Monadnock Quaker Meeting",
+  "address": {
+    "street": "3 Davidson Rd",
+    "city": "Jaffrey",
+    "state": "NH",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 42.83708953857422,
+    "longitude": -71.98644638061523
+  },
+  "website": "https://monadnockquakermeeting.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/monadnock-quaker-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "monadnock-quaker-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "monadnockquakermeeting.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "834718139"
+    }
+  ],
+  "advisories": []
+}

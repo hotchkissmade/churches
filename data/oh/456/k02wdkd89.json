@@ -1,0 +1,33 @@
+{
+  "id": "k02wdkd89",
+  "url": "https://constellation.church/k02wdkd89",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "303 E 3rd St",
+    "city": "Waverly",
+    "state": "OH",
+    "zip": "45690"
+  },
+  "coordinates": {
+    "latitude": 39.127309799194336,
+    "longitude": -82.98108673095703
+  },
+  "website": "https://fbcwaverly.net",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-1003/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-1003"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcwaverly.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310896462"
+    }
+  ],
+  "advisories": []
+}

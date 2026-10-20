@@ -1,0 +1,33 @@
+{
+  "id": "jtrqv6055",
+  "url": "https://constellation.church/jtrqv6055",
+  "name": "St. George's Church",
+  "displayName": "St. George's Church",
+  "address": {
+    "street": "905 Princess Anne St",
+    "city": "Fredericksburg",
+    "state": "VA",
+    "zip": "22401-5821"
+  },
+  "coordinates": {
+    "latitude": 38.302520751953125,
+    "longitude": -77.46005630493164
+  },
+  "website": "https://stgeorgesepiscopal.net",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-virginia/list/st-georges-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-virginia/st-georges-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stgeorgesepiscopal.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540700466"
+    }
+  ],
+  "advisories": []
+}

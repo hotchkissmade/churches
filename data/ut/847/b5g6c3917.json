@@ -1,0 +1,33 @@
+{
+  "id": "b5g6c3917",
+  "url": "https://constellation.church/b5g6c3917",
+  "name": "First Southern Baptist Church",
+  "displayName": "First Southern Baptist Church",
+  "address": {
+    "street": "475 W. Buena Vista Blvd.",
+    "city": "Washington",
+    "state": "UT",
+    "zip": "84780"
+  },
+  "coordinates": {
+    "latitude": 37.13500785827637,
+    "longitude": -113.51799774169922
+  },
+  "website": "https://fsbcstg.org",
+  "listingUrl": "https://churches.sbc.net/church/first-southern-baptist-church-59/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-southern-baptist-church-59"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fsbcstg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942783128"
+    }
+  ],
+  "advisories": []
+}

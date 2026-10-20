@@ -1,0 +1,33 @@
+{
+  "id": "rwavf0f88",
+  "url": "https://constellation.church/rwavf0f88",
+  "name": "The Rock Church",
+  "displayName": "The Rock Church",
+  "address": {
+    "street": "1400 Norris Rd",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93308"
+  },
+  "coordinates": {
+    "latitude": 35.420127868652344,
+    "longitude": -119.04986572265625
+  },
+  "website": "https://therockchurchbakersfield.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=09f1cb77-f92c-467b-817e-92824e60bd46&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "09f1cb77-f92c-467b-817e-92824e60bd46"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "therockchurchbakersfield.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953821596"
+    }
+  ],
+  "advisories": []
+}

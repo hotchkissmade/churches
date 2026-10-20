@@ -1,0 +1,33 @@
+{
+  "id": "sr2gw1y81",
+  "url": "https://constellation.church/sr2gw1y81",
+  "name": "Grace Church",
+  "displayName": "Grace Church",
+  "address": {
+    "street": "805 Blossom Road",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14610"
+  },
+  "coordinates": {
+    "latitude": 43.1488825,
+    "longitude": -77.5499913
+  },
+  "website": "https://gracechurchpca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4464",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4464"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracechurchpca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "270022828"
+    }
+  ],
+  "advisories": []
+}

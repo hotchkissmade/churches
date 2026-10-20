@@ -1,0 +1,33 @@
+{
+  "id": "s2m5xkc08",
+  "url": "https://constellation.church/s2m5xkc08",
+  "name": "United Church of Kanab",
+  "displayName": "United Church of Kanab",
+  "address": {
+    "street": "530 S 100 E",
+    "city": "Kanab",
+    "state": "UT",
+    "zip": "84741"
+  },
+  "coordinates": {
+    "latitude": 37.039710227975,
+    "longitude": -112.526056370104
+  },
+  "website": "https://sites.google.com/view/united-church-kanab-fredonia/home",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKBhIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKBhIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sites.google.com/view/united-church-kanab-fredonia/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "870446193"
+    }
+  ],
+  "advisories": []
+}

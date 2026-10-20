@@ -1,0 +1,33 @@
+{
+  "id": "jx67ec966",
+  "url": "https://constellation.church/jx67ec966",
+  "name": "First Southern Baptist Church",
+  "displayName": "First Southern Baptist Church",
+  "address": {
+    "street": "1818 South Main",
+    "city": "Fort Scott",
+    "state": "KS",
+    "zip": "66701"
+  },
+  "coordinates": {
+    "latitude": 37.818016052246094,
+    "longitude": -94.70627975463867
+  },
+  "website": "https://fortscottfsbc.com",
+  "listingUrl": "https://churches.sbc.net/church/first-southern-baptist-church-18/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-southern-baptist-church-18"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fortscottfsbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480950172"
+    }
+  ],
+  "advisories": []
+}

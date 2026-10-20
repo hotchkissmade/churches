@@ -1,0 +1,33 @@
+{
+  "id": "ajx56kd09",
+  "url": "https://constellation.church/ajx56kd09",
+  "name": "First Southern Baptist Church",
+  "displayName": "First Southern Baptist Church",
+  "address": {
+    "street": "2206 Ohio St",
+    "city": "Augusta",
+    "state": "KS",
+    "zip": "67010"
+  },
+  "coordinates": {
+    "latitude": 37.698808670043945,
+    "longitude": -96.97100830078125
+  },
+  "website": "https://augustafsbc.com",
+  "listingUrl": "https://churches.sbc.net/church/first-southern-baptist-church-61/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-southern-baptist-church-61"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "augustafsbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480883717"
+    }
+  ],
+  "advisories": []
+}

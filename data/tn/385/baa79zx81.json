@@ -1,0 +1,33 @@
+{
+  "id": "baa79zx81",
+  "url": "https://constellation.church/baa79zx81",
+  "name": "Living Light Church",
+  "displayName": "Living Light Church",
+  "address": {
+    "street": "1555 Gainesboro Grade",
+    "city": "Cookeville",
+    "state": "TN",
+    "zip": "38501"
+  },
+  "coordinates": {
+    "latitude": 36.1849585,
+    "longitude": -85.5300376
+  },
+  "website": "https://livinglightchurchtn.com",
+  "listingUrl": "https://churches.sbc.net/church/living-light-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "living-light-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "livinglightchurchtn.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "332802422"
+    }
+  ],
+  "advisories": []
+}

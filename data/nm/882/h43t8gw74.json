@@ -1,0 +1,33 @@
+{
+  "id": "h43t8gw74",
+  "url": "https://constellation.church/h43t8gw74",
+  "name": "First Baptist Church of Hobbs",
+  "displayName": "First Baptist Church of Hobbs",
+  "address": {
+    "street": "301 E Snyder St",
+    "city": "Hobbs",
+    "state": "NM",
+    "zip": "88240"
+  },
+  "coordinates": {
+    "latitude": 32.703420639038086,
+    "longitude": -103.13312530517578
+  },
+  "website": "https://fbchobbs.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-hobbs/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-hobbs"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbchobbs.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "856000296"
+    }
+  ],
+  "advisories": []
+}

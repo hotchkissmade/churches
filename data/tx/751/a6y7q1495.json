@@ -1,0 +1,33 @@
+{
+  "id": "a6y7q1495",
+  "url": "https://constellation.church/a6y7q1495",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "2000 West Fair Street",
+    "city": "Kaufman",
+    "state": "TX",
+    "zip": "75142"
+  },
+  "coordinates": {
+    "latitude": 32.58844757080078,
+    "longitude": -96.32003784179688
+  },
+  "website": "https://fbckaufman.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-251/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-251"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbckaufman.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750904058"
+    }
+  ],
+  "advisories": []
+}

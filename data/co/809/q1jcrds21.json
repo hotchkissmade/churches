@@ -1,0 +1,33 @@
+{
+  "id": "q1jcrds21",
+  "url": "https://constellation.church/q1jcrds21",
+  "name": "First Presbyterian Church of Colorado Springs",
+  "displayName": "First Presbyterian Church of Colorado Springs",
+  "address": {
+    "street": "219 E Bijou St",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80903"
+  },
+  "coordinates": {
+    "latitude": 38.83617401123047,
+    "longitude": -104.8198013305664
+  },
+  "website": "https://firstprescos.org",
+  "listingUrl": "https://eco-pres.org/churches/first-presbyterian-church-of-colorado-springs/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "first-presbyterian-church-of-colorado-springs"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstprescos.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840416230"
+    }
+  ],
+  "advisories": []
+}

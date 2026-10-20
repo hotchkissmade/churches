@@ -1,0 +1,33 @@
+{
+  "id": "cmg8gsk42",
+  "url": "https://constellation.church/cmg8gsk42",
+  "name": "St Mark's Lutheran Church",
+  "displayName": "St. Mark's Lutheran Church",
+  "address": {
+    "street": "1373 N Main St",
+    "city": "Hampstead",
+    "state": "MD",
+    "zip": "21074-2148"
+  },
+  "coordinates": {
+    "latitude": 39.612178802490234,
+    "longitude": -76.85253524780273
+  },
+  "website": "https://stmarkshampstead.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=521da603-d8b1-431f-a529-e3038d2d3a33",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "521da603-d8b1-431f-a529-e3038d2d3a33"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkshampstead.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521336158"
+    }
+  ],
+  "advisories": []
+}

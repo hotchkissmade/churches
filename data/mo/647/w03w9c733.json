@@ -1,0 +1,33 @@
+{
+  "id": "w03w9c733",
+  "url": "https://constellation.church/w03w9c733",
+  "name": "First Baptist Church Jasper",
+  "displayName": "First Baptist Church Jasper",
+  "address": {
+    "street": "915 S Main St",
+    "city": "Jasper",
+    "state": "MO",
+    "zip": "64755"
+  },
+  "coordinates": {
+    "latitude": 37.32583045959473,
+    "longitude": -94.30354309082031
+  },
+  "website": "https://jasperbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-jasper/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-jasper"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jasperbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431311326"
+    }
+  ],
+  "advisories": []
+}

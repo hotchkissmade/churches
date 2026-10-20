@@ -1,0 +1,33 @@
+{
+  "id": "dd2vmyq39",
+  "url": "https://constellation.church/dd2vmyq39",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "1433 West Delmar",
+    "city": "Godfrey",
+    "state": "IL",
+    "zip": "62035"
+  },
+  "coordinates": {
+    "latitude": 38.92828559875488,
+    "longitude": -90.21354675292969
+  },
+  "website": "https://wpcgodfrey.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1107",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1107"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wpcgodfrey.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371038392"
+    }
+  ],
+  "advisories": []
+}

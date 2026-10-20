@@ -1,0 +1,33 @@
+{
+  "id": "h491rjq18",
+  "url": "https://constellation.church/h491rjq18",
+  "name": "ST. DAVID'S EPISCOPAL CHURCH",
+  "displayName": "St. David's Episcopal Church",
+  "address": {
+    "street": "1300 Wiltshire Ave",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78209-6098"
+  },
+  "coordinates": {
+    "latitude": 29.481245040893555,
+    "longitude": -98.4385986328125
+  },
+  "website": "https://saintdavids.net",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/west-texas/list/st-davids-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "west-texas/st-davids-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintdavids.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741266227"
+    }
+  ],
+  "advisories": []
+}

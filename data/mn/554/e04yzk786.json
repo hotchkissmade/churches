@@ -1,0 +1,33 @@
+{
+  "id": "e04yzk786",
+  "url": "https://constellation.church/e04yzk786",
+  "name": "Akina Community Church",
+  "displayName": "Akina Community Church",
+  "address": {
+    "street": "3249 30th Ave S",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55406"
+  },
+  "coordinates": {
+    "latitude": 44.9440884,
+    "longitude": -93.2283052
+  },
+  "website": "https://akinampls.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=dc3a9340-6b03-4f06-b7f2-9f6452afbea3&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "dc3a9340-6b03-4f06-b7f2-9f6452afbea3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "akinampls.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411776590"
+    }
+  ],
+  "advisories": []
+}

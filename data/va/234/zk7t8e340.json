@@ -1,0 +1,33 @@
+{
+  "id": "zk7t8e340",
+  "url": "https://constellation.church/zk7t8e340",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "2730 Bridge Rd",
+    "city": "Suffolk",
+    "state": "VA",
+    "zip": "23435-1710"
+  },
+  "coordinates": {
+    "latitude": 36.871408462524414,
+    "longitude": -76.48904037475586
+  },
+  "website": "https://faithlutheransuffolkva.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f734e084-16d2-42e5-bc9e-f5a8080eb891",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f734e084-16d2-42e5-bc9e-f5a8080eb891"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithlutheransuffolkva.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541900477"
+    }
+  ],
+  "advisories": []
+}

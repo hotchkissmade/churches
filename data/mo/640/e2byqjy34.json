@@ -1,0 +1,33 @@
+{
+  "id": "e2byqjy34",
+  "url": "https://constellation.church/e2byqjy34",
+  "name": "St. Mary Magdalene",
+  "displayName": "St. Mary Magdalene",
+  "address": {
+    "street": "16808 Holmes Rd.",
+    "city": "Belton",
+    "state": "MO",
+    "zip": "64012"
+  },
+  "coordinates": {
+    "latitude": 38.823707580566406,
+    "longitude": -94.58621215820312
+  },
+  "website": "https://marymag.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-missouri/list/st-mary-magdalene",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-missouri/st-mary-magdalene"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "marymag.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "203960253"
+    }
+  ],
+  "advisories": []
+}

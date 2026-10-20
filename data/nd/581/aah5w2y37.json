@@ -1,0 +1,33 @@
+{
+  "id": "aah5w2y37",
+  "url": "https://constellation.church/aah5w2y37",
+  "name": "Olivet Lutheran Church",
+  "displayName": "Olivet Lutheran Church",
+  "address": {
+    "street": "1330 University Dr S",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58103-4145"
+  },
+  "coordinates": {
+    "latitude": 46.85987854003906,
+    "longitude": -96.79778289794922
+  },
+  "website": "https://olivet.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e02d79f1-3e62-4b7a-9f3f-a7857bc73da9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e02d79f1-3e62-4b7a-9f3f-a7857bc73da9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "olivet.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450226425"
+    }
+  ],
+  "advisories": []
+}

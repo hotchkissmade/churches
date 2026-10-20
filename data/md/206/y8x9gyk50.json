@@ -1,0 +1,33 @@
+{
+  "id": "y8x9gyk50",
+  "url": "https://constellation.church/y8x9gyk50",
+  "name": "Peace Lutheran Church",
+  "displayName": "Peace Lutheran Church",
+  "address": {
+    "street": "401 Smallwood Dr",
+    "city": "Saint Charles",
+    "state": "MD",
+    "zip": "20602-2880"
+  },
+  "coordinates": {
+    "latitude": 38.603200912475586,
+    "longitude": -76.9107437133789
+  },
+  "website": "https://myplc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=706b2f68-ae8b-4b1f-b4b8-ef699d3ea5b9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "706b2f68-ae8b-4b1f-b4b8-ef699d3ea5b9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "myplc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521118702"
+    }
+  ],
+  "advisories": []
+}

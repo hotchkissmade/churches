@@ -1,0 +1,33 @@
+{
+  "id": "dtdgyce42",
+  "url": "https://constellation.church/dtdgyce42",
+  "name": "Del Aire Baptist Church",
+  "displayName": "Del Aire Baptist Church",
+  "address": {
+    "street": "4951 W 119th Pl",
+    "city": "Hawthorne",
+    "state": "CA",
+    "zip": "90250"
+  },
+  "coordinates": {
+    "latitude": 33.92471885681152,
+    "longitude": -118.3654556274414
+  },
+  "website": "https://delairebc.org",
+  "listingUrl": "https://churches.sbc.net/church/del-aire-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "del-aire-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "delairebc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "956150291"
+    }
+  ],
+  "advisories": []
+}

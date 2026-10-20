@@ -1,0 +1,33 @@
+{
+  "id": "q7vb8kb56",
+  "url": "https://constellation.church/q7vb8kb56",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "299 Berkeley St",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02116-2001"
+  },
+  "coordinates": {
+    "latitude": 42.35385322570801,
+    "longitude": -71.07412719726562
+  },
+  "website": "https://flc-boston.org",
+  "listingUrl": "https://locator.lcms.org/church/C/93165",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "93165"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flc-boston.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042103775"
+    }
+  ],
+  "advisories": []
+}

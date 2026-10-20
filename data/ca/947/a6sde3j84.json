@@ -1,0 +1,33 @@
+{
+  "id": "a6sde3j84",
+  "url": "https://constellation.church/a6sde3j84",
+  "name": "Church in Berkeley",
+  "displayName": "Church in Berkeley",
+  "address": {
+    "street": "2430 Dana St",
+    "city": "Berkeley",
+    "state": "CA",
+    "zip": "94704"
+  },
+  "coordinates": {
+    "latitude": 37.86540985107422,
+    "longitude": -122.26110076904297
+  },
+  "website": "https://churchinberkeley.org",
+  "listingUrl": "https://localchurches.org/churches/berkeley-ca-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "berkeley-ca-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinberkeley.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942194153"
+    }
+  ],
+  "advisories": []
+}

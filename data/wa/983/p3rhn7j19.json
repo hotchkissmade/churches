@@ -1,0 +1,33 @@
+{
+  "id": "p3rhn7j19",
+  "url": "https://constellation.church/p3rhn7j19",
+  "name": "First Baptist Church of Sequim",
+  "displayName": "First Baptist Church of Sequim",
+  "address": {
+    "street": "1323 SEQUIM DUNGENESS WAY",
+    "city": "SEQUIM",
+    "state": "WA",
+    "zip": "98382"
+  },
+  "coordinates": {
+    "latitude": 48.098655700683594,
+    "longitude": -123.10260772705078
+  },
+  "website": "https://fbcsequim.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-sequim/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-sequim"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcsequim.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911238900"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "w25r58264",
+  "url": "https://constellation.church/w25r58264",
+  "name": "Emanuel Lutheran Church",
+  "displayName": "Emanuel Lutheran Church",
+  "address": {
+    "street": "9812 US Highway 41 S",
+    "city": "Skandia",
+    "state": "MI",
+    "zip": "49885-9520"
+  },
+  "coordinates": {
+    "latitude": 46.50733184814453,
+    "longitude": -87.60101318359375
+  },
+  "website": "https://be-lutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=26ff317f-9a75-4be6-ad33-d86db2b57e0b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "26ff317f-9a75-4be6-ad33-d86db2b57e0b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "be-lutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382451581"
+    }
+  ],
+  "advisories": []
+}

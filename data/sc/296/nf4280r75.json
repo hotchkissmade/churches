@@ -1,0 +1,33 @@
+{
+  "id": "nf4280r75",
+  "url": "https://constellation.church/nf4280r75",
+  "name": "Neals Creek Baptist Church",
+  "displayName": "Neals Creek Baptist Church",
+  "address": {
+    "street": "3204 Amity Road Ext",
+    "city": "Anderson",
+    "state": "SC",
+    "zip": "29621"
+  },
+  "coordinates": {
+    "latitude": 34.48326301574707,
+    "longitude": -82.56195068359375
+  },
+  "website": "https://nealscreek.org",
+  "listingUrl": "https://churches.sbc.net/church/neals-creek-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "neals-creek-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nealscreek.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570473589"
+    }
+  ],
+  "advisories": []
+}

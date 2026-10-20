@@ -1,0 +1,33 @@
+{
+  "id": "a47b88a28",
+  "url": "https://constellation.church/a47b88a28",
+  "name": "Sunnyslope Christian Center",
+  "displayName": "Sunnyslope Christian Center",
+  "address": {
+    "street": "1520 Sunnyslope Rd",
+    "city": "Hollister",
+    "state": "CA",
+    "zip": "95023"
+  },
+  "coordinates": {
+    "latitude": 36.83955192565918,
+    "longitude": -121.37503051757812
+  },
+  "website": "https://scchollister.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=62a0ed39-4468-46d0-a415-f3f70a83c8d2&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "62a0ed39-4468-46d0-a415-f3f70a83c8d2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "scchollister.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942429665"
+    }
+  ],
+  "advisories": []
+}

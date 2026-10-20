@@ -1,0 +1,33 @@
+{
+  "id": "nv1mn3f67",
+  "url": "https://constellation.church/nv1mn3f67",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "100 Peace Rdg",
+    "city": "Lake City",
+    "state": "MN",
+    "zip": "55041-5500"
+  },
+  "coordinates": {
+    "latitude": 44.433475494384766,
+    "longitude": -92.2840576171875
+  },
+  "website": "https://firstlc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dcafa1ec-d798-4640-a013-246f3a737292",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dcafa1ec-d798-4640-a013-246f3a737292"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410872473"
+    }
+  ],
+  "advisories": []
+}

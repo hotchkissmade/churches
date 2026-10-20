@@ -1,0 +1,33 @@
+{
+  "id": "w3cvgw290",
+  "url": "https://constellation.church/w3cvgw290",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "850 Cooper Ave",
+    "city": "Yuba City",
+    "state": "CA",
+    "zip": "95991-3849"
+  },
+  "coordinates": {
+    "latitude": 39.13835144042969,
+    "longitude": -121.62384033203125
+  },
+  "website": "https://flcyc.org",
+  "listingUrl": "https://locator.lcms.org/church/C/997764",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "997764"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcyc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941279822"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "zfd1bwr60",
+  "url": "https://constellation.church/zfd1bwr60",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "519 S Main St",
+    "city": "Kirklin",
+    "state": "IN",
+    "zip": "46050"
+  },
+  "coordinates": {
+    "latitude": 40.186689376831055,
+    "longitude": -86.35653686523438
+  },
+  "website": "https://kagchurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a8ac5bbe-8fe1-4d50-9d8f-4479085362d5&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "a8ac5bbe-8fe1-4d50-9d8f-4479085362d5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kagchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351553690"
+    }
+  ],
+  "advisories": []
+}

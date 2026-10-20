@@ -1,0 +1,33 @@
+{
+  "id": "r09xrvc79",
+  "url": "https://constellation.church/r09xrvc79",
+  "name": "St James Lutheran Church",
+  "displayName": "St. James Lutheran Church",
+  "address": {
+    "street": "5665 Merle Hay Rd",
+    "city": "Johnston",
+    "state": "IA",
+    "zip": "50131-1214"
+  },
+  "coordinates": {
+    "latitude": 41.66345977783203,
+    "longitude": -93.69686889648438
+  },
+  "website": "https://stjamesjohnston.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cdaeafb7-379e-4b31-8fbc-66a14cf0078c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cdaeafb7-379e-4b31-8fbc-66a14cf0078c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamesjohnston.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421078119"
+    }
+  ],
+  "advisories": []
+}

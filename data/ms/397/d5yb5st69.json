@@ -1,0 +1,33 @@
+{
+  "id": "d5yb5st69",
+  "url": "https://constellation.church/d5yb5st69",
+  "name": "First Baptist Church Starkville",
+  "displayName": "First Baptist Church Starkville",
+  "address": {
+    "street": "106 E Lampkin St",
+    "city": "Starkville",
+    "state": "MS",
+    "zip": "39759"
+  },
+  "coordinates": {
+    "latitude": 33.46219825744629,
+    "longitude": -88.81566619873047
+  },
+  "website": "https://fbcstarkville.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-starkville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-starkville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcstarkville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "463534138"
+    }
+  ],
+  "advisories": []
+}

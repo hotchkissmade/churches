@@ -1,0 +1,33 @@
+{
+  "id": "c9dv0nb79",
+  "url": "https://constellation.church/c9dv0nb79",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "4120 17th Ave S",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55407-3318"
+  },
+  "coordinates": {
+    "latitude": 44.92813491821289,
+    "longitude": -93.25016784667969
+  },
+  "website": "https://bethel-mpls.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=de522d3b-715b-462d-92a5-7aa515721b25",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "de522d3b-715b-462d-92a5-7aa515721b25"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethel-mpls.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410732497"
+    }
+  ],
+  "advisories": []
+}

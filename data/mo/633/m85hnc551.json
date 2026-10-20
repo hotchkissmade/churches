@@ -1,0 +1,33 @@
+{
+  "id": "m85hnc551",
+  "url": "https://constellation.church/m85hnc551",
+  "name": "First Assembly Church",
+  "displayName": "First Assembly Church",
+  "address": {
+    "street": "4750 N Service Rd",
+    "city": "Saint Peters",
+    "state": "MO",
+    "zip": "63376"
+  },
+  "coordinates": {
+    "latitude": 38.799598693847656,
+    "longitude": -90.59658813476562
+  },
+  "website": "https://firstassemblychurch.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=81c3782b-3c61-4e63-ba4d-094903dccb5a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "81c3782b-3c61-4e63-ba4d-094903dccb5a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstassemblychurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431316630"
+    }
+  ],
+  "advisories": []
+}

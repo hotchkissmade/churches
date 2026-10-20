@@ -1,0 +1,33 @@
+{
+  "id": "k0n42et92",
+  "url": "https://constellation.church/k0n42et92",
+  "name": "Bethany Lutheran Church",
+  "displayName": "Bethany Lutheran Church",
+  "address": {
+    "street": "4702 S East St",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46227-1652"
+  },
+  "coordinates": {
+    "latitude": 39.69692611694336,
+    "longitude": -86.14985656738281
+  },
+  "website": "https://bethanyindy.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b4a05cb1-3968-4392-95b8-44ae67503835",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b4a05cb1-3968-4392-95b8-44ae67503835"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanyindy.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351409373"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sg7nefd24",
+  "url": "https://constellation.church/sg7nefd24",
+  "name": "Rocky Mountain Church",
+  "displayName": "Rocky Mountain Church",
+  "address": {
+    "street": "451 Promontory Dr",
+    "city": "Estes Park",
+    "state": "CO",
+    "zip": "80517-7938"
+  },
+  "coordinates": {
+    "latitude": 40.33940315246582,
+    "longitude": -105.53221130371094
+  },
+  "website": "https://rockymountainchurch.com",
+  "listingUrl": "https://churches.efca.org/?id=173780",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "173780"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rockymountainchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "841275395"
+    }
+  ],
+  "advisories": []
+}

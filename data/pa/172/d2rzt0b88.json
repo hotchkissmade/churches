@@ -1,0 +1,33 @@
+{
+  "id": "d2rzt0b88",
+  "url": "https://constellation.church/d2rzt0b88",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "420 Baltimore Rd",
+    "city": "Shippensburg",
+    "state": "PA",
+    "zip": "17257"
+  },
+  "coordinates": {
+    "latitude": 40.04495811462402,
+    "longitude": -77.50121688842773
+  },
+  "website": "https://agshp.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=68c7c055-e091-4002-bdf1-a36bd1c1fd42&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "68c7c055-e091-4002-bdf1-a36bd1c1fd42"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "agshp.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232131952"
+    }
+  ],
+  "advisories": []
+}

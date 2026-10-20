@@ -1,0 +1,37 @@
+{
+  "id": "ft9pef452",
+  "url": "https://constellation.church/ft9pef452",
+  "name": "Union Community Church",
+  "displayName": "Union Community Church",
+  "address": {
+    "street": "5615 Union Road",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28056"
+  },
+  "coordinates": {
+    "latitude": 35.18033790588379,
+    "longitude": -81.13230895996094
+  },
+  "website": "https://union-communitychurch.com",
+  "listingUrl": "https://eco-pres.org/churches/union-community-church-inc/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "union-community-church-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "union-communitychurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237450970"
+    },
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "20948"
+    }
+  ],
+  "advisories": []
+}

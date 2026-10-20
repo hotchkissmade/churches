@@ -1,0 +1,33 @@
+{
+  "id": "abs7rct95",
+  "url": "https://constellation.church/abs7rct95",
+  "name": "Good Shepherd Lutheran Church",
+  "displayName": "Good Shepherd Lutheran Church",
+  "address": {
+    "street": "7000 Creedmoor Rd",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27613-3652"
+  },
+  "coordinates": {
+    "latitude": 35.88252258300781,
+    "longitude": -78.67857360839844
+  },
+  "website": "https://gslchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=def18b86-796e-40c3-bee8-9c14aaf6f6f2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "def18b86-796e-40c3-bee8-9c14aaf6f6f2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gslchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561543975"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "e3dazsy60",
+  "url": "https://constellation.church/e3dazsy60",
+  "name": "Carrow Baptist Church",
+  "displayName": "Carrow Baptist Church",
+  "address": {
+    "street": "5545 Susquehanna Dr",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23462"
+  },
+  "coordinates": {
+    "latitude": 36.83180046081543,
+    "longitude": -76.1833610534668
+  },
+  "website": "https://carrowbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/carrow-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "carrow-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "carrowbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540784545"
+    }
+  ],
+  "advisories": []
+}

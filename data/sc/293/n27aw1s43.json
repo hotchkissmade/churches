@@ -1,0 +1,33 @@
+{
+  "id": "n27aw1s43",
+  "url": "https://constellation.church/n27aw1s43",
+  "name": "Spartanburg First Baptist Church",
+  "displayName": "Spartanburg First Baptist Church",
+  "address": {
+    "street": "250 E Main St",
+    "city": "Spartanburg",
+    "state": "SC",
+    "zip": "29306"
+  },
+  "coordinates": {
+    "latitude": 34.950876235961914,
+    "longitude": -81.92678833007812
+  },
+  "website": "https://fbs.org",
+  "listingUrl": "https://churches.sbc.net/church/spartanburg-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "spartanburg-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbs.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570339440"
+    }
+  ],
+  "advisories": []
+}

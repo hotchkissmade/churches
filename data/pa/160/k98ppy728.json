@@ -1,0 +1,33 @@
+{
+  "id": "k98ppy728",
+  "url": "https://constellation.church/k98ppy728",
+  "name": "Holy Trinity Lutheran Church",
+  "displayName": "Holy Trinity Lutheran Church",
+  "address": {
+    "street": "2217 Chicora Rd",
+    "city": "Chicora",
+    "state": "PA",
+    "zip": "16025-3127"
+  },
+  "coordinates": {
+    "latitude": 40.964433670043945,
+    "longitude": -79.71834945678711
+  },
+  "website": "https://holytrinitychicora.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ed19f3b1-981a-46a1-aff4-6a7a8a04d32e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ed19f3b1-981a-46a1-aff4-6a7a8a04d32e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holytrinitychicora.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251551506"
+    }
+  ],
+  "advisories": []
+}

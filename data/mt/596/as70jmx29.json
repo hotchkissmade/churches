@@ -1,0 +1,33 @@
+{
+  "id": "as70jmx29",
+  "url": "https://constellation.church/as70jmx29",
+  "name": "Valley View Lutheran Church",
+  "displayName": "Valley View Lutheran Church",
+  "address": {
+    "street": "3000 N Benton Ave",
+    "city": "Helena",
+    "state": "MT",
+    "zip": "59601-0235"
+  },
+  "coordinates": {
+    "latitude": 46.61591339111328,
+    "longitude": -112.04186248779297
+  },
+  "website": "https://valleyviewlutheran.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24104",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24104"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "valleyviewlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810398682"
+    }
+  ],
+  "advisories": []
+}

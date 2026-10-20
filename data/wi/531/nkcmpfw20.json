@@ -1,0 +1,33 @@
+{
+  "id": "nkcmpfw20",
+  "url": "https://constellation.church/nkcmpfw20",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "2507 5th Ave",
+    "city": "South Milwaukee",
+    "state": "WI",
+    "zip": "53172-2710"
+  },
+  "coordinates": {
+    "latitude": 42.90561866760254,
+    "longitude": -87.85126495361328
+  },
+  "website": "https://tlcsm.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e1d6d0cc-d21a-4c03-b753-dd01a4c1cdd9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e1d6d0cc-d21a-4c03-b753-dd01a4c1cdd9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcsm.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391304608"
+    }
+  ],
+  "advisories": []
+}

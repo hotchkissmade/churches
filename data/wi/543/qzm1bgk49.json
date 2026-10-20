@@ -1,0 +1,37 @@
+{
+  "id": "qzm1bgk49",
+  "url": "https://constellation.church/qzm1bgk49",
+  "name": "Central Church Assembly of God",
+  "displayName": "Central Church Assembly of God",
+  "address": {
+    "street": "831 Schoen St",
+    "city": "Green Bay",
+    "state": "WI",
+    "zip": "54302"
+  },
+  "coordinates": {
+    "latitude": 44.4898796081543,
+    "longitude": -87.98068618774414
+  },
+  "website": "https://mycentral.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=4d856c5b-3f96-4ca2-b3a0-c175e9143c7f&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "4d856c5b-3f96-4ca2-b3a0-c175e9143c7f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mycentral.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391406040"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "462838859"
+    }
+  ],
+  "advisories": []
+}

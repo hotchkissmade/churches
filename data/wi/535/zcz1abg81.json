@@ -1,0 +1,33 @@
+{
+  "id": "zcz1abg81",
+  "url": "https://constellation.church/zcz1abg81",
+  "name": "Evangelical Lutheran Church",
+  "displayName": "Evangelical Lutheran Church",
+  "address": {
+    "street": "315 E Main St",
+    "city": "Mount Horeb",
+    "state": "WI",
+    "zip": "53572-2032"
+  },
+  "coordinates": {
+    "latitude": 43.00851249694824,
+    "longitude": -89.73534393310547
+  },
+  "website": "https://elcmthoreb.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=30143ebb-129b-49bc-ac57-75e659c9a6a6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "30143ebb-129b-49bc-ac57-75e659c9a6a6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elcmthoreb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396030797"
+    }
+  ],
+  "advisories": []
+}

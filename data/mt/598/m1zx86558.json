@@ -1,0 +1,33 @@
+{
+  "id": "m1zx86558",
+  "url": "https://constellation.church/m1zx86558",
+  "name": "Christian Life Center",
+  "displayName": "Christian Life Center",
+  "address": {
+    "street": "3801 S Russell St",
+    "city": "Missoula",
+    "state": "MT",
+    "zip": "59801"
+  },
+  "coordinates": {
+    "latitude": 46.8356819152832,
+    "longitude": -114.01941680908203
+  },
+  "website": "https://missoulachurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=67e1ff49-8f69-49ba-b6a4-5a41cab3d324&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "67e1ff49-8f69-49ba-b6a4-5a41cab3d324"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "missoulachurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810344962"
+    }
+  ],
+  "advisories": []
+}

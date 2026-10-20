@@ -1,0 +1,33 @@
+{
+  "id": "r04ke2p30",
+  "url": "https://constellation.church/r04ke2p30",
+  "name": "Alvin Lutheran Church",
+  "displayName": "Alvin Lutheran Church",
+  "address": {
+    "street": "1800 Fm 1462 Rd",
+    "city": "Alvin",
+    "state": "TX",
+    "zip": "77511-0110"
+  },
+  "coordinates": {
+    "latitude": 29.399194717407227,
+    "longitude": -95.26194763183594
+  },
+  "website": "https://alvin.church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=60808b6a-fcfa-4872-b539-26f6dbc23eee",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "60808b6a-fcfa-4872-b539-26f6dbc23eee"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "alvin.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741616828"
+    }
+  ],
+  "advisories": []
+}

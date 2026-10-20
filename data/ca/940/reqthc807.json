@@ -1,0 +1,33 @@
+{
+  "id": "reqthc807",
+  "url": "https://constellation.church/reqthc807",
+  "name": "Sunnyvale International Church of the Assemblies of God",
+  "displayName": "Sunnyvale International Church of the Assemblies of God",
+  "address": {
+    "street": "521 E Weddell Dr",
+    "city": "Sunnyvale",
+    "state": "CA",
+    "zip": "94089"
+  },
+  "coordinates": {
+    "latitude": 37.39724540710449,
+    "longitude": -122.0168685913086
+  },
+  "website": "https://sunnyvaleic.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=7a1bc69b-000f-44cb-a740-f5d858cbc4b1&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "7a1bc69b-000f-44cb-a740-f5d858cbc4b1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sunnyvaleic.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "946091912"
+    }
+  ],
+  "advisories": []
+}

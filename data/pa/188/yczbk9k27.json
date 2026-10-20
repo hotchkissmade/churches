@@ -1,0 +1,33 @@
+{
+  "id": "yczbk9k27",
+  "url": "https://constellation.church/yczbk9k27",
+  "name": "Rome Presbyterian Church",
+  "displayName": "Rome Presbyterian Church",
+  "address": {
+    "street": "939 Main St",
+    "city": "Rome",
+    "state": "PA",
+    "zip": "18837"
+  },
+  "coordinates": {
+    "latitude": 41.857852935791016,
+    "longitude": -76.34232711791992
+  },
+  "website": "https://romepres.com",
+  "listingUrl": "https://eco-pres.org/churches/rome-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "rome-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "romepres.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232427060"
+    }
+  ],
+  "advisories": []
+}

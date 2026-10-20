@@ -1,0 +1,33 @@
+{
+  "id": "ee13e0r92",
+  "url": "https://constellation.church/ee13e0r92",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "1200 S Collins",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76010-2846"
+  },
+  "coordinates": {
+    "latitude": 32.72366142272949,
+    "longitude": -97.09800720214844
+  },
+  "website": "https://firstprestexas.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/8733/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "8733"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstprestexas.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750827407"
+    }
+  ],
+  "advisories": []
+}

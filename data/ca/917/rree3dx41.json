@@ -1,0 +1,33 @@
+{
+  "id": "rree3dx41",
+  "url": "https://constellation.church/rree3dx41",
+  "name": "GracePoint",
+  "displayName": "GracePoint",
+  "address": {
+    "street": "13050 2nd St",
+    "city": "Chino",
+    "state": "CA",
+    "zip": "91710"
+  },
+  "coordinates": {
+    "latitude": 34.0162296295166,
+    "longitude": -117.69727325439453
+  },
+  "website": "https://gracepointbic.org",
+  "listingUrl": "https://bicus.org/church/gracepoint/",
+  "identifiers": [
+    {
+      "namespace": "org.bicus.id",
+      "value": "19400"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracepointbic.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "473354195"
+    }
+  ],
+  "advisories": []
+}

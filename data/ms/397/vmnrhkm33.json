@@ -1,0 +1,33 @@
+{
+  "id": "vmnrhkm33",
+  "url": "https://constellation.church/vmnrhkm33",
+  "name": "Grace Presbyterian Church at Starkville",
+  "displayName": "Grace Presbyterian Church at Starkville",
+  "address": {
+    "street": "525 Academy Road",
+    "city": "Starkville",
+    "state": "MS",
+    "zip": "39759"
+  },
+  "coordinates": {
+    "latitude": 33.44276237487793,
+    "longitude": -88.8126449584961
+  },
+  "website": "https://gracestarkville.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/530",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "530"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracestarkville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640629566"
+    }
+  ],
+  "advisories": []
+}

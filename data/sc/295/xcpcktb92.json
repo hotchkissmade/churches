@@ -1,0 +1,33 @@
+{
+  "id": "xcpcktb92",
+  "url": "https://constellation.church/xcpcktb92",
+  "name": "Living Water Baptist Church",
+  "displayName": "Living Water Baptist Church",
+  "address": {
+    "street": "1569 Highway 9 E",
+    "city": "Longs",
+    "state": "SC",
+    "zip": "29568"
+  },
+  "coordinates": {
+    "latitude": 33.9003045,
+    "longitude": -78.6994807
+  },
+  "website": "https://livingwaterbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/living-water-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "living-water-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "livingwaterbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570909089"
+    }
+  ],
+  "advisories": []
+}

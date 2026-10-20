@@ -1,0 +1,33 @@
+{
+  "id": "rh1yepm30",
+  "url": "https://constellation.church/rh1yepm30",
+  "name": "Grace And Glory Lutheran Church",
+  "displayName": "Grace And Glory Lutheran Church",
+  "address": {
+    "street": "683 Thomas Jefferson Pkwy",
+    "city": "Palmyra",
+    "state": "VA",
+    "zip": "22963-4834"
+  },
+  "coordinates": {
+    "latitude": 37.86264228820801,
+    "longitude": -78.2778549194336
+  },
+  "website": "https://graceandglory.church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2df4dc31-07c3-4a2c-8974-eaed5ae5ede9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2df4dc31-07c3-4a2c-8974-eaed5ae5ede9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceandglory.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311755047"
+    }
+  ],
+  "advisories": []
+}

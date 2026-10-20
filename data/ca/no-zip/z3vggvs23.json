@@ -1,0 +1,33 @@
+{
+  "id": "z3vggvs23",
+  "url": "https://constellation.church/z3vggvs23",
+  "name": "San Francisco Friends Meeting",
+  "displayName": "San Francisco Friends Meeting",
+  "address": {
+    "street": "65 9th St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 37.77670097351074,
+    "longitude": -122.41513061523438
+  },
+  "website": "https://sfquakers.org/about-us/worship",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/san-francisco-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "san-francisco-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sfquakers.org/about-us/worship"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941704777"
+    }
+  ],
+  "advisories": []
+}

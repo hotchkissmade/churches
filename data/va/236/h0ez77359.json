@@ -1,0 +1,33 @@
+{
+  "id": "h0ez77359",
+  "url": "https://constellation.church/h0ez77359",
+  "name": "Seaford Baptist Church",
+  "displayName": "Seaford Baptist Church",
+  "address": {
+    "street": "1311 Seaford Rd",
+    "city": "Seaford",
+    "state": "VA",
+    "zip": "23696"
+  },
+  "coordinates": {
+    "latitude": 37.18710136413574,
+    "longitude": -76.44136047363281
+  },
+  "website": "https://seafordbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/seaford-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "seaford-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "seafordbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540786048"
+    }
+  ],
+  "advisories": []
+}

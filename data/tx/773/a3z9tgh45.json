@@ -1,0 +1,33 @@
+{
+  "id": "a3z9tgh45",
+  "url": "https://constellation.church/a3z9tgh45",
+  "name": "Spring First Church",
+  "displayName": "Spring First Church",
+  "address": {
+    "street": "1851 Spring Cypress Rd",
+    "city": "Spring",
+    "state": "TX",
+    "zip": "77388"
+  },
+  "coordinates": {
+    "latitude": 30.07117462158203,
+    "longitude": -95.44287490844727
+  },
+  "website": "https://springfirst.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ac933eb8-bb01-4865-a3f8-a0eb606bad1c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ac933eb8-bb01-4865-a3f8-a0eb606bad1c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "springfirst.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760047922"
+    }
+  ],
+  "advisories": []
+}

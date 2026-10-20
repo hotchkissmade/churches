@@ -1,0 +1,33 @@
+{
+  "id": "td9wfwt61",
+  "url": "https://constellation.church/td9wfwt61",
+  "name": "Church in the Canyon",
+  "displayName": "Church in the Canyon",
+  "address": {
+    "street": "4235 Las Virgenes Road",
+    "city": "Calabasas",
+    "state": "CA",
+    "zip": "91302"
+  },
+  "coordinates": {
+    "latitude": 34.13666915893555,
+    "longitude": -118.70267486572266
+  },
+  "website": "https://churchinthecanyon.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/125",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "125"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinthecanyon.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953214526"
+    }
+  ],
+  "advisories": []
+}

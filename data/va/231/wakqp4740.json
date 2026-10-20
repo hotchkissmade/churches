@@ -1,0 +1,33 @@
+{
+  "id": "wakqp4740",
+  "url": "https://constellation.church/wakqp4740",
+  "name": "Dover Baptist Church",
+  "displayName": "Dover Baptist Church",
+  "address": {
+    "street": "635 Manakin Rd",
+    "city": "Manakin Sabot",
+    "state": "VA",
+    "zip": "23103"
+  },
+  "coordinates": {
+    "latitude": 37.60877990722656,
+    "longitude": -77.70261764526367
+  },
+  "website": "https://doverbc.org/ministers",
+  "listingUrl": "https://churches.sbc.net/church/dover-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "dover-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "doverbc.org/ministers"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540852647"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wz5sfbk79",
+  "url": "https://constellation.church/wz5sfbk79",
+  "name": "First Southern Baptist Church of Quincy",
+  "displayName": "First Southern Baptist Church of Quincy",
+  "address": {
+    "street": "1423 Harrison St",
+    "city": "Quincy",
+    "state": "IL",
+    "zip": "62301"
+  },
+  "coordinates": {
+    "latitude": 39.913818359375,
+    "longitude": -91.39226531982422
+  },
+  "website": "https://quincyfirstsouthern.org",
+  "listingUrl": "https://churches.sbc.net/church/first-southern-baptist-church-of-quincy/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-southern-baptist-church-of-quincy"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "quincyfirstsouthern.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371109583"
+    }
+  ],
+  "advisories": []
+}

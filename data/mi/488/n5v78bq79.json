@@ -1,0 +1,33 @@
+{
+  "id": "n5v78bq79",
+  "url": "https://constellation.church/n5v78bq79",
+  "name": "Martin Luther Chapel",
+  "displayName": "Martin Luther Chapel",
+  "address": {
+    "street": "444 Abbot Rd",
+    "city": "East Lansing",
+    "state": "MI",
+    "zip": "48823-3321"
+  },
+  "coordinates": {
+    "latitude": 42.73783874511719,
+    "longitude": -84.48324584960938
+  },
+  "website": "https://martinlutherchapel.org",
+  "listingUrl": "https://locator.lcms.org/church/C/268340",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "268340"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "martinlutherchapel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "386038269"
+    }
+  ],
+  "advisories": []
+}

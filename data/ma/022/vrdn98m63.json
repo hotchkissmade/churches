@@ -1,0 +1,33 @@
+{
+  "id": "vrdn98m63",
+  "url": "https://constellation.church/vrdn98m63",
+  "name": "Holy Trinity Cathedral",
+  "displayName": "Holy Trinity Cathedral",
+  "address": {
+    "street": "165 Park Dr",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02215"
+  },
+  "coordinates": {
+    "latitude": 42.341108322143555,
+    "longitude": -71.09891128540039
+  },
+  "website": "https://holytrinityorthodox.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ne-boshtk",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ne-boshtk"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holytrinityorthodox.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "046053825"
+    }
+  ],
+  "advisories": []
+}

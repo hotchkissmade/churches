@@ -1,0 +1,33 @@
+{
+  "id": "gk38m2c97",
+  "url": "https://constellation.church/gk38m2c97",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "642 Telfair Street",
+    "city": "Augusta",
+    "state": "GA",
+    "zip": "30901"
+  },
+  "coordinates": {
+    "latitude": 33.4704647064209,
+    "longitude": -81.96474075317383
+  },
+  "website": "https://firstpresaugusta.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/438",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "438"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpresaugusta.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580566181"
+    }
+  ],
+  "advisories": []
+}

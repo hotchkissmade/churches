@@ -1,0 +1,33 @@
+{
+  "id": "vyp6he710",
+  "url": "https://constellation.church/vyp6he710",
+  "name": "Temple Baptist Church",
+  "displayName": "Temple Baptist Church",
+  "address": {
+    "street": "235 Harpersville Rd",
+    "city": "Newport News",
+    "state": "VA",
+    "zip": "23601"
+  },
+  "coordinates": {
+    "latitude": 37.05754089355469,
+    "longitude": -76.46971893310547
+  },
+  "website": "https://templechurch.net",
+  "listingUrl": "https://churches.sbc.net/church/temple-baptist-church-42/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "temple-baptist-church-42"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "templechurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540641417"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ch31vet06",
+  "url": "https://constellation.church/ch31vet06",
+  "name": "Christ Episcopal Church",
+  "displayName": "Christ Episcopal Church",
+  "address": {
+    "street": "311 S Orange St",
+    "city": "Media",
+    "state": "PA",
+    "zip": "19063-3190"
+  },
+  "coordinates": {
+    "latitude": 39.916481018066406,
+    "longitude": -75.39300155639648
+  },
+  "website": "https://christchurchmedia.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/christ-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/christ-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christchurchmedia.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231365085"
+    }
+  ],
+  "advisories": []
+}

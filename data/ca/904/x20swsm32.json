@@ -1,0 +1,33 @@
+{
+  "id": "x20swsm32",
+  "url": "https://constellation.church/x20swsm32",
+  "name": "St Paul's Evangelical Lutheran Church",
+  "displayName": "St. Paul's Evangelical Lutheran Church",
+  "address": {
+    "street": "958 Lincoln Blvd",
+    "city": "Santa Monica",
+    "state": "CA",
+    "zip": "90403-2807"
+  },
+  "coordinates": {
+    "latitude": 34.02496147155762,
+    "longitude": -118.49803161621094
+  },
+  "website": "https://stpaulsantamonica.org/worship",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7325e455-016f-4758-9585-97465c3f0b2b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7325e455-016f-4758-9585-97465c3f0b2b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsantamonica.org/worship"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951691310"
+    }
+  ],
+  "advisories": []
+}

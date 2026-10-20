@@ -1,0 +1,33 @@
+{
+  "id": "kcwebv666",
+  "url": "https://constellation.church/kcwebv666",
+  "name": "Bethel Baptist Church",
+  "displayName": "Bethel Baptist Church",
+  "address": {
+    "street": "1300 Bethel Rd",
+    "city": "Odin",
+    "state": "IL",
+    "zip": "62870"
+  },
+  "coordinates": {
+    "latitude": 38.5831241607666,
+    "longitude": -89.08200073242188
+  },
+  "website": "https://odinbethelbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/bethel-baptist-church-119/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bethel-baptist-church-119"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "odinbethelbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371238003"
+    }
+  ],
+  "advisories": []
+}

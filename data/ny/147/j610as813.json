@@ -1,0 +1,33 @@
+{
+  "id": "j610as813",
+  "url": "https://constellation.church/j610as813",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "419 Laurens St",
+    "city": "Olean",
+    "state": "NY",
+    "zip": "14760-2515"
+  },
+  "coordinates": {
+    "latitude": 42.0793571472168,
+    "longitude": -78.43497848510742
+  },
+  "website": "https://lutheranolean.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=558e1ffe-ec58-447f-be28-ec4b5f4b9d95",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "558e1ffe-ec58-447f-be28-ec4b5f4b9d95"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lutheranolean.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "160815182"
+    }
+  ],
+  "advisories": []
+}

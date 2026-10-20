@@ -1,0 +1,33 @@
+{
+  "id": "n0edpsx81",
+  "url": "https://constellation.church/n0edpsx81",
+  "name": "St Martin Lutheran Church",
+  "displayName": "St. Martin Lutheran Church",
+  "address": {
+    "street": "156 S William St",
+    "city": "Marine City",
+    "state": "MI",
+    "zip": "48039-3607"
+  },
+  "coordinates": {
+    "latitude": 42.71908187866211,
+    "longitude": -82.4948616027832
+  },
+  "website": "https://stmartinsmarinecity.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b12f30e0-69a5-412e-91f0-77dcfe77a3f3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b12f30e0-69a5-412e-91f0-77dcfe77a3f3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmartinsmarinecity.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382129353"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pgfeja737",
+  "url": "https://constellation.church/pgfeja737",
+  "name": "The Church at Odessa, Inc.",
+  "displayName": "The Church at Odessa",
+  "address": {
+    "street": "1234 Gunn Hwy",
+    "city": "Odessa",
+    "state": "FL",
+    "zip": "33556"
+  },
+  "coordinates": {
+    "latitude": 28.17741584777832,
+    "longitude": -82.59159088134766
+  },
+  "website": "https://churchatodessa.org",
+  "listingUrl": "https://churches.sbc.net/church/the-church-at-odessa-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-church-at-odessa-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchatodessa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "812387659"
+    }
+  ],
+  "advisories": []
+}

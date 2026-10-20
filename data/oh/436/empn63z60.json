@@ -1,0 +1,33 @@
+{
+  "id": "empn63z60",
+  "url": "https://constellation.church/empn63z60",
+  "name": "Memorial Lutheran Church",
+  "displayName": "Memorial Lutheran Church",
+  "address": {
+    "street": "3215 Douglas Rd",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43606-2057"
+  },
+  "coordinates": {
+    "latitude": 41.6801872253418,
+    "longitude": -83.60537719726562
+  },
+  "website": "https://memorial-lutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=508b774a-3835-4c41-aa4e-4fb72ed7aa1b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "508b774a-3835-4c41-aa4e-4fb72ed7aa1b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "memorial-lutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "344470749"
+    }
+  ],
+  "advisories": []
+}

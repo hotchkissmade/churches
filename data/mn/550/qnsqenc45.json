@@ -1,0 +1,33 @@
+{
+  "id": "qnsqenc45",
+  "url": "https://constellation.church/qnsqenc45",
+  "name": "Hosanna Lutheran Church",
+  "displayName": "Hosanna Lutheran Church",
+  "address": {
+    "street": "9300 Scandia Trl N",
+    "city": "Forest Lake",
+    "state": "MN",
+    "zip": "55025-8932"
+  },
+  "coordinates": {
+    "latitude": 45.25160598754883,
+    "longitude": -92.91661071777344
+  },
+  "website": "https://hosannaforestlake.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=824d0eed-882f-456d-bd3a-3601fb001266",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "824d0eed-882f-456d-bd3a-3601fb001266"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hosannaforestlake.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416175395"
+    }
+  ],
+  "advisories": []
+}

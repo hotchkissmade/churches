@@ -1,0 +1,37 @@
+{
+  "id": "gj6ebyk80",
+  "url": "https://constellation.church/gj6ebyk80",
+  "name": "Christ Proclamation Church",
+  "displayName": "Christ Proclamation Church",
+  "address": {
+    "street": "100 Pigeon Hill Road",
+    "city": "Windsor",
+    "state": "CT",
+    "zip": "06095"
+  },
+  "coordinates": {
+    "latitude": 41.862361907958984,
+    "longitude": -72.65846633911133
+  },
+  "website": "https://christproclamation.org",
+  "listingUrl": "https://churches.sbc.net/church/christ-proclamation-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "christ-proclamation-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christproclamation.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "814743773"
+    },
+    {
+      "namespace": "org.converge.id",
+      "value": "40893"
+    }
+  ],
+  "advisories": []
+}

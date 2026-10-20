@@ -1,0 +1,33 @@
+{
+  "id": "mv1b9f420",
+  "url": "https://constellation.church/mv1b9f420",
+  "name": "Salem Baptist Church",
+  "displayName": "Salem Baptist Church",
+  "address": {
+    "street": "24032 Sparta Rd",
+    "city": "Milford",
+    "state": "VA",
+    "zip": "22514"
+  },
+  "coordinates": {
+    "latitude": 37.99013710021973,
+    "longitude": -77.23291778564453
+  },
+  "website": "https://salembaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/salem-baptist-church-52/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "salem-baptist-church-52"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salembaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540888133"
+    }
+  ],
+  "advisories": []
+}

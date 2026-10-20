@@ -1,0 +1,33 @@
+{
+  "id": "nxnp9dt02",
+  "url": "https://constellation.church/nxnp9dt02",
+  "name": "St. John's Episcopal Church",
+  "displayName": "St. John's Episcopal Church",
+  "address": {
+    "street": "300 3rd St",
+    "city": "Palacios",
+    "state": "TX",
+    "zip": "77465-4802"
+  },
+  "coordinates": {
+    "latitude": 28.701387405395508,
+    "longitude": -96.2134780883789
+  },
+  "website": "https://saintjohnspalacios.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-texas/list/st-johns-episcopal-church-5",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-texas/st-johns-episcopal-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintjohnspalacios.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "746242790"
+    }
+  ],
+  "advisories": []
+}

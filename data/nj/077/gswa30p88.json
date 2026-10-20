@@ -1,0 +1,33 @@
+{
+  "id": "gswa30p88",
+  "url": "https://constellation.church/gswa30p88",
+  "name": "Ballard United Methodist Church",
+  "displayName": "Ballard United Methodist Church",
+  "address": {
+    "street": "1515 4th Ave",
+    "city": "Asbury Park",
+    "state": "NJ",
+    "zip": "07712-4963"
+  },
+  "coordinates": {
+    "latitude": 40.22601318359375,
+    "longitude": -74.02323532104492
+  },
+  "website": "https://ballardumc.org/thrift-shop",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFEh7IAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFEh7IAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ballardumc.org/thrift-shop"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222290385"
+    }
+  ],
+  "advisories": []
+}

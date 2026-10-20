@@ -1,0 +1,33 @@
+{
+  "id": "kknxbx094",
+  "url": "https://constellation.church/kknxbx094",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "470 Yocumtown Rd",
+    "city": "Etters",
+    "state": "PA",
+    "zip": "17319-9008"
+  },
+  "coordinates": {
+    "latitude": 40.16650581359863,
+    "longitude": -76.78222274780273
+  },
+  "website": "https://zionetters.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3cf42095-bfc9-403e-a66e-26b01ff481fb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3cf42095-bfc9-403e-a66e-26b01ff481fb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionetters.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236440062"
+    }
+  ],
+  "advisories": []
+}

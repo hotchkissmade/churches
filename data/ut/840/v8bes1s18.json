@@ -1,0 +1,33 @@
+{
+  "id": "v8bes1s18",
+  "url": "https://constellation.church/v8bes1s18",
+  "name": "Redeeming Life Church",
+  "displayName": "Redeeming Life Church",
+  "address": {
+    "street": "696 N 400 E",
+    "city": "Bountiful",
+    "state": "UT",
+    "zip": "84010"
+  },
+  "coordinates": {
+    "latitude": 40.896934509277344,
+    "longitude": -111.87210845947266
+  },
+  "website": "https://redeeminglifeutah.net",
+  "listingUrl": "https://churches.sbc.net/church/redeeming-life-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "redeeming-life-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeeminglifeutah.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "473537942"
+    }
+  ],
+  "advisories": []
+}

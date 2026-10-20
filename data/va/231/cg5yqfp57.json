@@ -1,0 +1,33 @@
+{
+  "id": "cg5yqfp57",
+  "url": "https://constellation.church/cg5yqfp57",
+  "name": "New Bethesda Baptist Church",
+  "displayName": "New Bethesda Baptist Church",
+  "address": {
+    "street": "9019 New Bethesda Rd",
+    "city": "Mechanicsville",
+    "state": "VA",
+    "zip": "23116"
+  },
+  "coordinates": {
+    "latitude": 37.64403533935547,
+    "longitude": -77.25644302368164
+  },
+  "website": "https://newbethesdabaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/new-bethesda-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-bethesda-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newbethesdabaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540713601"
+    }
+  ],
+  "advisories": []
+}

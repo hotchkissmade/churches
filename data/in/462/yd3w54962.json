@@ -1,0 +1,33 @@
+{
+  "id": "yd3w54962",
+  "url": "https://constellation.church/yd3w54962",
+  "name": "Refuge Church",
+  "displayName": "Refuge Church",
+  "address": {
+    "street": "2273 S Hunter Rd",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46239"
+  },
+  "coordinates": {
+    "latitude": 39.737375259399414,
+    "longitude": -86.04925918579102
+  },
+  "website": "https://refugeindy.com",
+  "listingUrl": "https://churches.sbc.net/church/refuge-church-6/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "refuge-church-6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "refugeindy.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820911022"
+    }
+  ],
+  "advisories": []
+}

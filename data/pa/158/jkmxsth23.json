@@ -1,0 +1,33 @@
+{
+  "id": "jkmxsth23",
+  "url": "https://constellation.church/jkmxsth23",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "160 Franklin Ave",
+    "city": "Brookville",
+    "state": "PA",
+    "zip": "15825-1164"
+  },
+  "coordinates": {
+    "latitude": 41.1613604,
+    "longitude": -79.0767636
+  },
+  "website": "https://gracelutheranbrookville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b830f80e-2096-4883-aa23-20f1b31ead29",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b830f80e-2096-4883-aa23-20f1b31ead29"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelutheranbrookville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237390880"
+    }
+  ],
+  "advisories": []
+}

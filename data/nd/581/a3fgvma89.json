@@ -1,0 +1,33 @@
+{
+  "id": "a3fgvma89",
+  "url": "https://constellation.church/a3fgvma89",
+  "name": "Living Waters Lutheran Church",
+  "displayName": "Living Waters Lutheran Church",
+  "address": {
+    "street": "4451 40th Ave S",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58104-7544"
+  },
+  "coordinates": {
+    "latitude": 46.81902313232422,
+    "longitude": -96.85933685302734
+  },
+  "website": "https://livingwaters.fm",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a7f1aa07-7cc9-4620-951d-d41f3dc13fa8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a7f1aa07-7cc9-4620-951d-d41f3dc13fa8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "livingwaters.fm"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760742651"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "zg5ee7380",
+  "url": "https://constellation.church/zg5ee7380",
+  "name": "Gloria Dei Lutheran Church",
+  "displayName": "Gloria Dei Lutheran Church",
+  "address": {
+    "street": "123 E Market St",
+    "city": "Iowa City",
+    "state": "IA",
+    "zip": "52245-1731"
+  },
+  "coordinates": {
+    "latitude": 41.663394927978516,
+    "longitude": -91.53363800048828
+  },
+  "website": "https://gatheredbygrace.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a07a8d99-07ec-4578-b45c-5d267a8d7bc3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a07a8d99-07ec-4578-b45c-5d267a8d7bc3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gatheredbygrace.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420859508"
+    }
+  ],
+  "advisories": []
+}

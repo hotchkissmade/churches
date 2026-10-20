@@ -1,0 +1,33 @@
+{
+  "id": "je3bs7f90",
+  "url": "https://constellation.church/je3bs7f90",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "7900 McCart Ave",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76123-2062"
+  },
+  "coordinates": {
+    "latitude": 32.62741661071777,
+    "longitude": -97.37059020996094
+  },
+  "website": "https://fwgrace.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=34dd25c7-3a64-4be3-b8d5-3baf5ace6299",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "34dd25c7-3a64-4be3-b8d5-3baf5ace6299"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fwgrace.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751294786"
+    }
+  ],
+  "advisories": []
+}

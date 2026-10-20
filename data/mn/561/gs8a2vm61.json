@@ -1,0 +1,33 @@
+{
+  "id": "gs8a2vm61",
+  "url": "https://constellation.church/gs8a2vm61",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "111 S Main St",
+    "city": "Dundee",
+    "state": "MN",
+    "zip": "56131-1183"
+  },
+  "coordinates": {
+    "latitude": 43.84429931640625,
+    "longitude": -95.46651458740234
+  },
+  "website": null,
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=05392bc8-f8a5-4529-9fd1-42d1a67f291f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "05392bc8-f8a5-4529-9fd1-42d1a67f291f"
+    },
+    {
+      "namespace": "com.facebook.page",
+      "value": "firstlutherandundee"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411264115"
+    }
+  ],
+  "advisories": []
+}

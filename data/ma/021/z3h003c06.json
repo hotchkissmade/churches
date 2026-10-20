@@ -1,0 +1,33 @@
+{
+  "id": "z3h003c06",
+  "url": "https://constellation.church/z3h003c06",
+  "name": "Church of Abundant Life",
+  "displayName": "Church of Abundant Life",
+  "address": {
+    "street": "1881 Washington St",
+    "city": "Braintree",
+    "state": "MA",
+    "zip": "02184"
+  },
+  "coordinates": {
+    "latitude": 42.17582702636719,
+    "longitude": -71.01386260986328
+  },
+  "website": "https://albag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=1a4a6622-c832-4fa5-bb58-f14983089d35&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "1a4a6622-c832-4fa5-bb58-f14983089d35"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "albag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "043129555"
+    }
+  ],
+  "advisories": []
+}

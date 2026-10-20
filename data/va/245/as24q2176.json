@@ -1,0 +1,33 @@
+{
+  "id": "as24q2176",
+  "url": "https://constellation.church/as24q2176",
+  "name": "Sandusky Baptist Church",
+  "displayName": "Sandusky Baptist Church",
+  "address": {
+    "street": "915 Catalina Place",
+    "city": "Lynchburg",
+    "state": "VA",
+    "zip": "24502"
+  },
+  "coordinates": {
+    "latitude": 37.37805366516113,
+    "longitude": -79.19377899169922
+  },
+  "website": "https://sanduskybaptist.net",
+  "listingUrl": "https://churches.sbc.net/church/sandusky-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sandusky-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sanduskybaptist.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540722630"
+    }
+  ],
+  "advisories": []
+}

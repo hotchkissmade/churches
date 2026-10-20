@@ -1,0 +1,33 @@
+{
+  "id": "d9qme7859",
+  "url": "https://constellation.church/d9qme7859",
+  "name": "New Colony Baptist Church",
+  "displayName": "New Colony Baptist Church",
+  "address": {
+    "street": "30 River Street",
+    "city": "Billerica",
+    "state": "MA",
+    "zip": "01821"
+  },
+  "coordinates": {
+    "latitude": 42.5587100982666,
+    "longitude": -71.27332305908203
+  },
+  "website": "https://newcolony.org",
+  "listingUrl": "https://churches.sbc.net/church/new-colony-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-colony-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newcolony.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "043141940"
+    }
+  ],
+  "advisories": []
+}

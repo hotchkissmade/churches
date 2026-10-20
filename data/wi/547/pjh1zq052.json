@@ -1,0 +1,33 @@
+{
+  "id": "pjh1zq052",
+  "url": "https://constellation.church/pjh1zq052",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "3214 Golf Rd",
+    "city": "Eau Claire",
+    "state": "WI",
+    "zip": "54701-8016"
+  },
+  "coordinates": {
+    "latitude": 44.76944351196289,
+    "longitude": -91.45533752441406
+  },
+  "website": "https://immanuelec.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=84ed6d0f-4547-4d96-b2c9-c215938be2fb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "84ed6d0f-4547-4d96-b2c9-c215938be2fb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "immanuelec.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390990193"
+    }
+  ],
+  "advisories": []
+}

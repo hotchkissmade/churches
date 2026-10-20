@@ -1,0 +1,33 @@
+{
+  "id": "b36ghdd10",
+  "url": "https://constellation.church/b36ghdd10",
+  "name": "Woodland Church",
+  "displayName": "Woodland Church",
+  "address": {
+    "street": "N10234 Curry Rd",
+    "city": "Ironwood",
+    "state": "MI",
+    "zip": "49938"
+  },
+  "coordinates": {
+    "latitude": 46.468088150024414,
+    "longitude": -90.16089630126953
+  },
+  "website": "https://woodlandcc.org",
+  "listingUrl": "https://converge.org/church/woodland-church/",
+  "identifiers": [
+    {
+      "namespace": "org.converge.id",
+      "value": "38970"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "woodlandcc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382520027"
+    }
+  ],
+  "advisories": []
+}

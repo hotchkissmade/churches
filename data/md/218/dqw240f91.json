@@ -1,0 +1,33 @@
+{
+  "id": "dqw240f91",
+  "url": "https://constellation.church/dqw240f91",
+  "name": "Canvas Church",
+  "displayName": "Canvas Church",
+  "address": {
+    "street": "219 N Division St",
+    "city": "Salisbury",
+    "state": "MD",
+    "zip": "21801"
+  },
+  "coordinates": {
+    "latitude": 38.3682609,
+    "longitude": -75.599878
+  },
+  "website": "https://canvaschurchdmv.com",
+  "listingUrl": "https://churches.sbc.net/church/canvas-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "canvas-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "canvaschurchdmv.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "834036452"
+    }
+  ],
+  "advisories": []
+}

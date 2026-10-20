@@ -1,0 +1,33 @@
+{
+  "id": "g41wh1k35",
+  "url": "https://constellation.church/g41wh1k35",
+  "name": "St. Thomas Episcopal Church",
+  "displayName": "St. Thomas Episcopal Church",
+  "address": {
+    "street": "226 Washington St",
+    "city": "Menasha",
+    "state": "WI",
+    "zip": "54952-3396"
+  },
+  "coordinates": {
+    "latitude": 44.194162368774414,
+    "longitude": -88.45483016967773
+  },
+  "website": "https://stthomaswi.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-fond-du-lac/list/st-thomas-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-fond-du-lac/st-thomas-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stthomaswi.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390816875"
+    }
+  ],
+  "advisories": []
+}

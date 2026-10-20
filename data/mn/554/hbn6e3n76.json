@@ -1,0 +1,33 @@
+{
+  "id": "hbn6e3n76",
+  "url": "https://constellation.church/hbn6e3n76",
+  "name": "Edina Community Lutheran Church",
+  "displayName": "Edina Community Lutheran Church",
+  "address": {
+    "street": "4113 W 54th St",
+    "city": "Edina",
+    "state": "MN",
+    "zip": "55424-1432"
+  },
+  "coordinates": {
+    "latitude": 44.905029296875,
+    "longitude": -93.3321533203125
+  },
+  "website": "https://eclc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4cd16fc9-1957-4292-a479-a1dd114e2833",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4cd16fc9-1957-4292-a479-a1dd114e2833"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eclc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410836936"
+    }
+  ],
+  "advisories": []
+}

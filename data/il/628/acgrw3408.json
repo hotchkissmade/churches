@@ -1,0 +1,33 @@
+{
+  "id": "acgrw3408",
+  "url": "https://constellation.church/acgrw3408",
+  "name": "Old Du Quoin Baptist Church",
+  "displayName": "Old Du Quoin Baptist Church",
+  "address": {
+    "street": "8831 Old State Route 14",
+    "city": "Du Quoin",
+    "state": "IL",
+    "zip": "62832"
+  },
+  "coordinates": {
+    "latitude": 37.97093200683594,
+    "longitude": -89.18770599365234
+  },
+  "website": "https://oldduquoinbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/old-du-quoin-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "old-du-quoin-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oldduquoinbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371156437"
+    }
+  ],
+  "advisories": []
+}

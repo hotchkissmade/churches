@@ -1,0 +1,33 @@
+{
+  "id": "rkbhb7c43",
+  "url": "https://constellation.church/rkbhb7c43",
+  "name": "Salt House",
+  "displayName": "Salt House",
+  "address": {
+    "street": "11920 NE 80th St",
+    "city": "Kirkland",
+    "state": "WA",
+    "zip": "98033-8118"
+  },
+  "coordinates": {
+    "latitude": 47.675724029541016,
+    "longitude": -122.1808853149414
+  },
+  "website": "https://salthousechurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=63b2045c-f2d4-4b33-910b-f963f4412a18",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "63b2045c-f2d4-4b33-910b-f963f4412a18"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salthousechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "823861583"
+    }
+  ],
+  "advisories": []
+}

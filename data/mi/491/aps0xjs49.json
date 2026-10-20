@@ -1,0 +1,33 @@
+{
+  "id": "aps0xjs49",
+  "url": "https://constellation.church/aps0xjs49",
+  "name": "Lake Michigan Christian Center",
+  "displayName": "Lake Michigan Christian Center",
+  "address": {
+    "street": "9955 Church St",
+    "city": "Bridgman",
+    "state": "MI",
+    "zip": "49106"
+  },
+  "coordinates": {
+    "latitude": 41.938676834106445,
+    "longitude": -86.55141830444336
+  },
+  "website": "https://lmccmi.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=1b8224d9-8fc7-49a3-9d10-89844eb2bd97&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "1b8224d9-8fc7-49a3-9d10-89844eb2bd97"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lmccmi.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382434005"
+    }
+  ],
+  "advisories": []
+}

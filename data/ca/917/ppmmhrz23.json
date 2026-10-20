@@ -1,0 +1,33 @@
+{
+  "id": "ppmmhrz23",
+  "url": "https://constellation.church/ppmmhrz23",
+  "name": "Saint Stephen Baptist Church",
+  "displayName": "St. Stephen Baptist Church",
+  "address": {
+    "street": "1720 N Walnut Ave",
+    "city": "La Puente",
+    "state": "CA",
+    "zip": "91744"
+  },
+  "coordinates": {
+    "latitude": 34.04977989196777,
+    "longitude": -117.93406677246094
+  },
+  "website": "https://stsbc.org",
+  "listingUrl": "https://churches.sbc.net/church/saint-stephen-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "saint-stephen-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stsbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953901201"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gw2q0pq35",
+  "url": "https://constellation.church/gw2q0pq35",
+  "name": "Saint Thomas Church, Manhattan",
+  "displayName": "St. Thomas Church, Manhattan",
+  "address": {
+    "street": "1 West 53rd Street",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10019"
+  },
+  "coordinates": {
+    "latitude": 40.760765075683594,
+    "longitude": -73.97612762451172
+  },
+  "website": "https://saintthomaschurch.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-new-york/list/saint-thomas-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-new-york/saint-thomas-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintthomaschurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "131655276"
+    }
+  ],
+  "advisories": []
+}

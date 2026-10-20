@@ -1,0 +1,33 @@
+{
+  "id": "d9834ek35",
+  "url": "https://constellation.church/d9834ek35",
+  "name": "St John's Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "2190 Jackson Hwy",
+    "city": "Chehalis",
+    "state": "WA",
+    "zip": "98532-4410"
+  },
+  "coordinates": {
+    "latitude": 46.64521789550781,
+    "longitude": -122.93358612060547
+  },
+  "website": "https://stjohnschehalis.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=336e9d1b-e332-4e4e-be0e-1de66b76ab4f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "336e9d1b-e332-4e4e-be0e-1de66b76ab4f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnschehalis.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910935234"
+    }
+  ],
+  "advisories": []
+}

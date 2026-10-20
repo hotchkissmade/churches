@@ -1,0 +1,33 @@
+{
+  "id": "fj57fmp25",
+  "url": "https://constellation.church/fj57fmp25",
+  "name": "First Baptist Church of Cleveland, Inc.",
+  "displayName": "First Baptist Church of Cleveland",
+  "address": {
+    "street": "25 Church St",
+    "city": "Cleveland",
+    "state": "GA",
+    "zip": "30528"
+  },
+  "coordinates": {
+    "latitude": 34.6000919342041,
+    "longitude": -83.762939453125
+  },
+  "website": "https://firstcleveland.com/our-team",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-cleveland-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-cleveland-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstcleveland.com/our-team"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581530942"
+    }
+  ],
+  "advisories": []
+}

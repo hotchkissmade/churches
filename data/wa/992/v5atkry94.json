@@ -1,0 +1,33 @@
+{
+  "id": "v5atkry94",
+  "url": "https://constellation.church/v5atkry94",
+  "name": "East Valley Baptist Church",
+  "displayName": "East Valley Baptist Church",
+  "address": {
+    "street": "14516 E Wellesley Ave",
+    "city": "Spokane Valley",
+    "state": "WA",
+    "zip": "99216"
+  },
+  "coordinates": {
+    "latitude": 47.700225830078125,
+    "longitude": -117.20917510986328
+  },
+  "website": "https://eastvalleybaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/east-valley-baptist-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "east-valley-baptist-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastvalleybaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "364546005"
+    }
+  ],
+  "advisories": []
+}

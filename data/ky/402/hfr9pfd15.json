@@ -1,0 +1,33 @@
+{
+  "id": "hfr9pfd15",
+  "url": "https://constellation.church/hfr9pfd15",
+  "name": "Louisville Chinese Christian Church",
+  "displayName": "Louisville Chinese Christian Church",
+  "address": {
+    "street": "6120 Lovers Ln",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40291"
+  },
+  "coordinates": {
+    "latitude": 38.1542911529541,
+    "longitude": -85.5747184753418
+  },
+  "website": "https://louisvilleccc.org",
+  "listingUrl": "https://churches.sbc.net/church/louisville-chinese-christian-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "louisville-chinese-christian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "louisvilleccc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311131796"
+    }
+  ],
+  "advisories": []
+}

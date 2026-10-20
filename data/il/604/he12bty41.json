@@ -1,0 +1,33 @@
+{
+  "id": "he12bty41",
+  "url": "https://constellation.church/he12bty41",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "18324 Ashland Ave",
+    "city": "Homewood",
+    "state": "IL",
+    "zip": "60430-3403"
+  },
+  "coordinates": {
+    "latitude": 41.55616569519043,
+    "longitude": -87.6556510925293
+  },
+  "website": "https://salemhomewood.org",
+  "listingUrl": "https://locator.lcms.org/church/C/425211",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "425211"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemhomewood.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366003984"
+    }
+  ],
+  "advisories": []
+}

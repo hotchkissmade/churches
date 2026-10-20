@@ -1,0 +1,33 @@
+{
+  "id": "fscdt9e48",
+  "url": "https://constellation.church/fscdt9e48",
+  "name": "Lawndale Presbyterian Church",
+  "displayName": "Lawndale Presbyterian Church",
+  "address": {
+    "street": "1500 Lawndale Drive",
+    "city": "Tupelo",
+    "state": "MS",
+    "zip": "38801"
+  },
+  "coordinates": {
+    "latitude": 34.24098777770996,
+    "longitude": -88.72930908203125
+  },
+  "website": "https://lawndalepc.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/682",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "682"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lawndalepc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640584629"
+    }
+  ],
+  "advisories": []
+}

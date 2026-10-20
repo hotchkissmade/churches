@@ -1,0 +1,33 @@
+{
+  "id": "jbhapq507",
+  "url": "https://constellation.church/jbhapq507",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "72 Spring St",
+    "city": "Kingston",
+    "state": "NY",
+    "zip": "12401-6333"
+  },
+  "coordinates": {
+    "latitude": 41.91876792907715,
+    "longitude": -73.98858261108398
+  },
+  "website": "https://trinitykingston.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=28aa7fb9-f672-4ff7-b3b2-d76a321b5708",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "28aa7fb9-f672-4ff7-b3b2-d76a321b5708"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitykingston.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "141338572"
+    }
+  ],
+  "advisories": []
+}

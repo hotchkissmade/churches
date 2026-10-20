@@ -1,0 +1,33 @@
+{
+  "id": "z29jhfh08",
+  "url": "https://constellation.church/z29jhfh08",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "2001 S El Camino Real",
+    "city": "Oceanside",
+    "state": "CA",
+    "zip": "92054-6230"
+  },
+  "coordinates": {
+    "latitude": 33.192155838012695,
+    "longitude": -117.32905578613281
+  },
+  "website": "https://oceansidechurchandpreschool.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/625/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "625"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oceansidechurchandpreschool.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952485559"
+    }
+  ],
+  "advisories": []
+}

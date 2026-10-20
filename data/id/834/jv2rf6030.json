@@ -1,0 +1,33 @@
+{
+  "id": "jv2rf6030",
+  "url": "https://constellation.church/jv2rf6030",
+  "name": "The Falls Church",
+  "displayName": "The Falls Church",
+  "address": {
+    "street": "6070 S 15th E",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "83404"
+  },
+  "coordinates": {
+    "latitude": 43.44308662414551,
+    "longitude": -112.00630187988281
+  },
+  "website": "https://thefalls.church",
+  "listingUrl": "https://churches.sbc.net/church/the-falls-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-falls-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thefalls.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820468883"
+    }
+  ],
+  "advisories": []
+}

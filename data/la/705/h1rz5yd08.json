@@ -1,0 +1,33 @@
+{
+  "id": "h1rz5yd08",
+  "url": "https://constellation.church/h1rz5yd08",
+  "name": "Teche Baptist Church",
+  "displayName": "Teche Baptist Church",
+  "address": {
+    "street": "3634 Grand Point Hwy",
+    "city": "Breaux Bridge",
+    "state": "LA",
+    "zip": "70517"
+  },
+  "coordinates": {
+    "latitude": 30.287202835083008,
+    "longitude": -91.8749771118164
+  },
+  "website": "https://techebaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/teche-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "teche-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "techebaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "721504479"
+    }
+  ],
+  "advisories": []
+}

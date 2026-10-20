@@ -1,0 +1,33 @@
+{
+  "id": "fgs48e879",
+  "url": "https://constellation.church/fgs48e879",
+  "name": "Texas MFM City of Refuge (Solution Center)",
+  "displayName": "Texas MFM City of Refuge (Solution Center)",
+  "address": {
+    "street": "9102 Cook Rd.",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77099"
+  },
+  "coordinates": {
+    "latitude": 29.679292678833008,
+    "longitude": -95.59632110595703
+  },
+  "website": "https://mfmcityofrefuge.com",
+  "listingUrl": "https://mfmamerica.org/directory-branches/listing/mfm-houston-3/",
+  "identifiers": [
+    {
+      "namespace": "org.mfmamerica.id",
+      "value": "845"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mfmcityofrefuge.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "272860495"
+    }
+  ],
+  "advisories": []
+}

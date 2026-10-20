@@ -1,0 +1,33 @@
+{
+  "id": "ffa1qjx20",
+  "url": "https://constellation.church/ffa1qjx20",
+  "name": "First Baptist Church of Plant City",
+  "displayName": "First Baptist Church of Plant City",
+  "address": {
+    "street": "3309 James L Redman Parkway",
+    "city": "Plant City",
+    "state": "FL",
+    "zip": "33566"
+  },
+  "coordinates": {
+    "latitude": 28.018503189086914,
+    "longitude": -82.12346267700195
+  },
+  "website": "https://fbcpc.com/staff",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-plant-city/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-plant-city"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcpc.com/staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590895024"
+    }
+  ],
+  "advisories": []
+}

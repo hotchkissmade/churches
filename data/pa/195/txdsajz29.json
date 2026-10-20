@@ -1,0 +1,33 @@
+{
+  "id": "txdsajz29",
+  "url": "https://constellation.church/txdsajz29",
+  "name": "Evangelical Lutheran Friedens Church",
+  "displayName": "Evangelical Lutheran Friedens Church",
+  "address": {
+    "street": "537 N Main St",
+    "city": "Bernville",
+    "state": "PA",
+    "zip": "19506-9508"
+  },
+  "coordinates": {
+    "latitude": 40.43606948852539,
+    "longitude": -76.11439895629883
+  },
+  "website": "https://lutheranchurchberks.com/pastor",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e9868ae7-4a56-442f-9fc9-e866c7964db1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e9868ae7-4a56-442f-9fc9-e866c7964db1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lutheranchurchberks.com/pastor"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231540463"
+    }
+  ],
+  "advisories": []
+}

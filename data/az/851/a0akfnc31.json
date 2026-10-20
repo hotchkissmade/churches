@@ -1,0 +1,33 @@
+{
+  "id": "a0akfnc31",
+  "url": "https://constellation.church/a0akfnc31",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "1805 E Sierra Pkwy",
+    "city": "Casa Grande",
+    "state": "AZ",
+    "zip": "85122-5756"
+  },
+  "coordinates": {
+    "latitude": 32.874406814575195,
+    "longitude": -111.70867919921875
+  },
+  "website": "https://gracebythecross.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24002",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24002"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracebythecross.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860466639"
+    }
+  ],
+  "advisories": []
+}

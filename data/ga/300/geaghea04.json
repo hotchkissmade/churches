@@ -1,0 +1,33 @@
+{
+  "id": "geaghea04",
+  "url": "https://constellation.church/geaghea04",
+  "name": "St. Benedict's Episcopal Church",
+  "displayName": "St. Benedict's Episcopal Church",
+  "address": {
+    "street": "2160 Cooper Lake Rd SE",
+    "city": "Smyrna",
+    "state": "GA",
+    "zip": "30080-6328"
+  },
+  "coordinates": {
+    "latitude": 33.8953914642334,
+    "longitude": -84.45355606079102
+  },
+  "website": "https://mysaintb.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-atlanta/list/st-benedicts-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-atlanta/st-benedicts-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mysaintb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "263542342"
+    }
+  ],
+  "advisories": []
+}

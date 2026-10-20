@@ -1,0 +1,33 @@
+{
+  "id": "gxwsht589",
+  "url": "https://constellation.church/gxwsht589",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "1700 W War Memorial Dr",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61614-6724"
+  },
+  "coordinates": {
+    "latitude": 40.73328,
+    "longitude": -89.615818
+  },
+  "website": "https://salemofpeoria.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=047056a6-40f1-4c5d-9f47-3cf641346a36",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "047056a6-40f1-4c5d-9f47-3cf641346a36"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemofpeoria.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370752349"
+    }
+  ],
+  "advisories": []
+}

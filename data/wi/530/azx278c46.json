@@ -1,0 +1,33 @@
+{
+  "id": "azx278c46",
+  "url": "https://constellation.church/azx278c46",
+  "name": "St. Luke United Methodist Church",
+  "displayName": "St. Luke United Methodist Church",
+  "address": {
+    "street": "623 Ontario Ave",
+    "city": "Sheboygan",
+    "state": "WI",
+    "zip": "53081"
+  },
+  "coordinates": {
+    "latitude": 43.75472640991211,
+    "longitude": -87.71055221557617
+  },
+  "website": "https://stluke.net",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFLbCIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFLbCIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stluke.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390830665"
+    }
+  ],
+  "advisories": []
+}

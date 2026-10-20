@@ -1,0 +1,33 @@
+{
+  "id": "a45q53a29",
+  "url": "https://constellation.church/a45q53a29",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "225 E Harris St",
+    "city": "Appleton",
+    "state": "WI",
+    "zip": "54911-5438"
+  },
+  "coordinates": {
+    "latitude": 44.2648389,
+    "longitude": -88.4038162
+  },
+  "website": "https://stpaulappletonwi.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24569",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24569"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulappletonwi.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390902201"
+    }
+  ],
+  "advisories": []
+}

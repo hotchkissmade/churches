@@ -1,0 +1,33 @@
+{
+  "id": "rjasm8327",
+  "url": "https://constellation.church/rjasm8327",
+  "name": "Iglesia Bethel",
+  "displayName": "Iglesia Bethel",
+  "address": {
+    "street": "791 Lombardi Ct Ste 111 Santa Rosa",
+    "city": null,
+    "state": "CA",
+    "zip": "95407"
+  },
+  "coordinates": {
+    "latitude": 38.42691230773926,
+    "longitude": -122.74932098388672
+  },
+  "website": "https://iglesiabethel.org/domingos",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=59ad96a0-d6b6-4adc-8ab6-994e94da561b&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "59ad96a0-d6b6-4adc-8ab6-994e94da561b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "iglesiabethel.org/domingos"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "680439499"
+    }
+  ],
+  "advisories": []
+}

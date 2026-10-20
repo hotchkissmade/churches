@@ -1,0 +1,33 @@
+{
+  "id": "nmaak7a54",
+  "url": "https://constellation.church/nmaak7a54",
+  "name": "Trinity United Methodist Church",
+  "displayName": "Trinity United Methodist Church",
+  "address": {
+    "street": "137 Main St",
+    "city": "Montpelier",
+    "state": "VT",
+    "zip": "05602-2909"
+  },
+  "coordinates": {
+    "latitude": 44.26144027709961,
+    "longitude": -72.57357788085938
+  },
+  "website": "https://trinityvt.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFM1yIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFM1yIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityvt.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030179599"
+    }
+  ],
+  "advisories": []
+}

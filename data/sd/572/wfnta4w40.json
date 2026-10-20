@@ -1,0 +1,33 @@
+{
+  "id": "wfnta4w40",
+  "url": "https://constellation.church/wfnta4w40",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "202 2nd St SE",
+    "city": "Watertown",
+    "state": "SD",
+    "zip": "57201-4308"
+  },
+  "coordinates": {
+    "latitude": 44.896995544433594,
+    "longitude": -97.11209106445312
+  },
+  "website": "https://glcwtn.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c04769d3-f8dd-4e12-850a-d5b98e1589d1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c04769d3-f8dd-4e12-850a-d5b98e1589d1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "glcwtn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460225869"
+    }
+  ],
+  "advisories": []
+}

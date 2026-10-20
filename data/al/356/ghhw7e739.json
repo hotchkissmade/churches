@@ -1,0 +1,33 @@
+{
+  "id": "ghhw7e739",
+  "url": "https://constellation.church/ghhw7e739",
+  "name": "Lee Heights Baptist",
+  "displayName": "Lee Heights Baptist Church",
+  "address": {
+    "street": "35 Sevier Ave",
+    "city": "Florence",
+    "state": "AL",
+    "zip": "35630"
+  },
+  "coordinates": {
+    "latitude": 34.82949638366699,
+    "longitude": -87.62258911132812
+  },
+  "website": "https://leeheights.org",
+  "listingUrl": "https://churches.sbc.net/church/lee-heights-baptist/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lee-heights-baptist"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "leeheights.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237181946"
+    }
+  ],
+  "advisories": []
+}

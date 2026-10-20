@@ -1,0 +1,33 @@
+{
+  "id": "d71npny22",
+  "url": "https://constellation.church/d71npny22",
+  "name": "Neighborhood Church",
+  "displayName": "Neighborhood Church",
+  "address": {
+    "street": "5921 Stoddard Rd",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95356"
+  },
+  "coordinates": {
+    "latitude": 37.72439002990723,
+    "longitude": -121.06912231445312
+  },
+  "website": "https://yourmnc.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=4cf779d9-2fad-4c23-b4b8-1d346b134395&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "4cf779d9-2fad-4c23-b4b8-1d346b134395"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "yourmnc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942203932"
+    }
+  ],
+  "advisories": []
+}

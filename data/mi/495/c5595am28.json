@@ -1,0 +1,33 @@
+{
+  "id": "c5595am28",
+  "url": "https://constellation.church/c5595am28",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "250 Commerce Ave SW",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49503-4126"
+  },
+  "coordinates": {
+    "latitude": 42.958133697509766,
+    "longitude": -85.66888427734375
+  },
+  "website": "https://bethlehemchurchgr.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5eedbb6f-f7c3-4f9a-aa6c-1b1d405d9071",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5eedbb6f-f7c3-4f9a-aa6c-1b1d405d9071"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethlehemchurchgr.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381374222"
+    }
+  ],
+  "advisories": []
+}

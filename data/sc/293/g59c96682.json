@@ -1,0 +1,33 @@
+{
+  "id": "g59c96682",
+  "url": "https://constellation.church/g59c96682",
+  "name": "Union Baptist Church",
+  "displayName": "Union Baptist Church",
+  "address": {
+    "street": "536 Old Quaker Church Rd",
+    "city": "Laurens",
+    "state": "SC",
+    "zip": "29360"
+  },
+  "coordinates": {
+    "latitude": 34.454050064086914,
+    "longitude": -82.14485168457031
+  },
+  "website": "https://unionbaptistlaurens.church",
+  "listingUrl": "https://churches.sbc.net/church/union-baptist-church-26/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "union-baptist-church-26"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "unionbaptistlaurens.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570713404"
+    }
+  ],
+  "advisories": []
+}

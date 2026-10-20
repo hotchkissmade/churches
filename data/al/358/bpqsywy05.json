@@ -1,0 +1,33 @@
+{
+  "id": "bpqsywy05",
+  "url": "https://constellation.church/bpqsywy05",
+  "name": "Southwood Presbyterian Church",
+  "displayName": "Southwood Presbyterian Church",
+  "address": {
+    "street": "1000 Carl T. Jones Drive",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35802"
+  },
+  "coordinates": {
+    "latitude": 34.68654823303223,
+    "longitude": -86.55824279785156
+  },
+  "website": "https://southwood.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1141",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1141"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southwood.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630982667"
+    }
+  ],
+  "advisories": []
+}

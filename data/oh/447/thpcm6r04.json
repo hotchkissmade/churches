@@ -1,0 +1,33 @@
+{
+  "id": "thpcm6r04",
+  "url": "https://constellation.church/thpcm6r04",
+  "name": "Trinity Church PCA",
+  "displayName": "Trinity Church PCA",
+  "address": {
+    "street": "455 55th Street NW",
+    "city": "North Canton",
+    "state": "OH",
+    "zip": "44720"
+  },
+  "coordinates": {
+    "latitude": 40.8603789,
+    "longitude": -81.3715653
+  },
+  "website": "https://trinitychurchohio.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6462",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6462"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitychurchohio.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "833819567"
+    }
+  ],
+  "advisories": []
+}

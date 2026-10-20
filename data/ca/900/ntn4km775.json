@@ -1,0 +1,33 @@
+{
+  "id": "ntn4km775",
+  "url": "https://constellation.church/ntn4km775",
+  "name": "Church in East Los Angeles",
+  "displayName": "Church in East Los Angeles",
+  "address": {
+    "street": "1135 S Kern Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90022"
+  },
+  "coordinates": {
+    "latitude": 34.018446,
+    "longitude": -118.166947
+  },
+  "website": "https://churchineastla.org",
+  "listingUrl": "https://localchurches.org/churches/east-los-angeles-ca-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "east-los-angeles-ca-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchineastla.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "954305755"
+    }
+  ],
+  "advisories": []
+}

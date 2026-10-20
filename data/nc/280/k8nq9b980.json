@@ -1,0 +1,33 @@
+{
+  "id": "k8nq9b980",
+  "url": "https://constellation.church/k8nq9b980",
+  "name": "Southlake Presbyterian Church",
+  "displayName": "Southlake Presbyterian Church",
+  "address": {
+    "street": "13820 Hagers Ferry Road",
+    "city": "Huntersville",
+    "state": "NC",
+    "zip": "28078"
+  },
+  "coordinates": {
+    "latitude": 35.42938804626465,
+    "longitude": -80.93614959716797
+  },
+  "website": "https://slchurch.net",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/309",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "309"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "slchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561588477"
+    }
+  ],
+  "advisories": []
+}

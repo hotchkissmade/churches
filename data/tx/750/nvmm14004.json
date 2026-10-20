@@ -1,0 +1,33 @@
+{
+  "id": "nvmm14004",
+  "url": "https://constellation.church/nvmm14004",
+  "name": "Hunters Glen Baptist Church",
+  "displayName": "Hunters Glen Baptist Church",
+  "address": {
+    "street": "4001 Custer Road",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75023"
+  },
+  "coordinates": {
+    "latitude": 33.05068778991699,
+    "longitude": -96.734130859375
+  },
+  "website": "https://huntersglen.org",
+  "listingUrl": "https://churches.sbc.net/church/hunters-glen-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hunters-glen-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "huntersglen.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751826501"
+    }
+  ],
+  "advisories": []
+}

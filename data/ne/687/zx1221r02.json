@@ -1,0 +1,33 @@
+{
+  "id": "zx1221r02",
+  "url": "https://constellation.church/zx1221r02",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "103 W 3rd St",
+    "city": "Emerson",
+    "state": "NE",
+    "zip": "68733"
+  },
+  "coordinates": {
+    "latitude": 42.280473922863,
+    "longitude": -96.72688163204
+  },
+  "website": "https://stpaulsemerson.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=63b42ce6-dddb-4ac3-87b4-30ab8eb2d349",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "63b42ce6-dddb-4ac3-87b4-30ab8eb2d349"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsemerson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470397559"
+    }
+  ],
+  "advisories": []
+}

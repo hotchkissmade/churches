@@ -1,0 +1,33 @@
+{
+  "id": "zdj0ah224",
+  "url": "https://constellation.church/zdj0ah224",
+  "name": "All Souls' church",
+  "displayName": "All Souls' church",
+  "address": {
+    "street": "10 Mill Pond Road",
+    "city": "Stony Brook",
+    "state": "NY",
+    "zip": "11790"
+  },
+  "coordinates": {
+    "latitude": 40.915863037109375,
+    "longitude": -73.14667892456055
+  },
+  "website": "https://allsouls-stonybrook.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/all-souls-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/all-souls-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allsouls-stonybrook.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112627685"
+    }
+  ],
+  "advisories": []
+}

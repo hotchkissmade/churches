@@ -1,0 +1,33 @@
+{
+  "id": "nzgpzfr40",
+  "url": "https://constellation.church/nzgpzfr40",
+  "name": "Exodus MCC",
+  "displayName": "Exodus Metropolitan Community Church",
+  "address": {
+    "street": "1933 S 27th St",
+    "city": "Abilene",
+    "state": "TX",
+    "zip": "79602"
+  },
+  "coordinates": {
+    "latitude": 32.41488456726074,
+    "longitude": -99.74617767333984
+  },
+  "website": "https://exodusmcc.org",
+  "listingUrl": "https://visitmccchurch.com/our-churches/mcc-churches-in-the-united-states/mcc-churches-in-tx/exodus-mcc/",
+  "identifiers": [
+    {
+      "namespace": "com.visitmccchurch.id",
+      "value": "TX/exodus-mcc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "exodusmcc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752599819"
+    }
+  ],
+  "advisories": []
+}

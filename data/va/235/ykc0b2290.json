@@ -1,0 +1,33 @@
+{
+  "id": "ykc0b2290",
+  "url": "https://constellation.church/ykc0b2290",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "1301 Colley Ave",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip": "23517-1703"
+  },
+  "coordinates": {
+    "latitude": 36.86722946166992,
+    "longitude": -76.2989273071289
+  },
+  "website": "https://flcnorfolk.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e41f4568-4857-43ab-a1b5-52c3a19e3bdf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e41f4568-4857-43ab-a1b5-52c3a19e3bdf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcnorfolk.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "546002818"
+    }
+  ],
+  "advisories": []
+}

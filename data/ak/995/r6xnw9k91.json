@@ -1,0 +1,33 @@
+{
+  "id": "r6xnw9k91",
+  "url": "https://constellation.church/r6xnw9k91",
+  "name": "St. Innocent Cathedral",
+  "displayName": "St. Innocent Cathedral",
+  "address": {
+    "street": "401 Turpin St",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "99521-5407"
+  },
+  "coordinates": {
+    "latitude": 61.21821594238281,
+    "longitude": -149.7551498413086
+  },
+  "website": "https://stinnocentcathedral.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ak-ancsik",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ak-ancsik"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stinnocentcathedral.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920119971"
+    }
+  ],
+  "advisories": []
+}

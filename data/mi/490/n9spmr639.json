@@ -1,0 +1,33 @@
+{
+  "id": "n9spmr639",
+  "url": "https://constellation.church/n9spmr639",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "200 W Mansion St",
+    "city": "Marshall",
+    "state": "MI",
+    "zip": "49068-1122"
+  },
+  "coordinates": {
+    "latitude": 42.27313232421875,
+    "longitude": -84.96153259277344
+  },
+  "website": "https://fpcmarshall.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/3301/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "3301"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcmarshall.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381398845"
+    }
+  ],
+  "advisories": []
+}

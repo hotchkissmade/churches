@@ -1,0 +1,37 @@
+{
+  "id": "h7c99dc59",
+  "url": "https://constellation.church/h7c99dc59",
+  "name": "Kent Friends Meeting",
+  "displayName": "Kent Friends Meeting",
+  "address": {
+    "street": "1435 E Main St",
+    "city": "Kent",
+    "state": "OH",
+    "zip": "44240"
+  },
+  "coordinates": {
+    "latitude": 41.154624938964844,
+    "longitude": -81.3372573852539
+  },
+  "website": "https://kentmethodist.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/kent-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "kent-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kentmethodist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340768862"
+    },
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFDjYIAX"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kntqcd872",
+  "url": "https://constellation.church/kntqcd872",
+  "name": "Elim Lutheran Church",
+  "displayName": "Elim Lutheran Church",
+  "address": {
+    "street": "220 Stanley St",
+    "city": "Petaluma",
+    "state": "CA",
+    "zip": "94952-2633"
+  },
+  "coordinates": {
+    "latitude": 38.23219299316406,
+    "longitude": -122.64849090576172
+  },
+  "website": "https://elimpetaluma.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9b3db3c2-e296-4899-ba22-3f47cc61a7ca",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9b3db3c2-e296-4899-ba22-3f47cc61a7ca"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elimpetaluma.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942453281"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "s8x0ctp15",
+  "url": "https://constellation.church/s8x0ctp15",
+  "name": "Velocity Church",
+  "displayName": "Velocity Church",
+  "address": {
+    "street": "3630 George Washington Memorial Hwy",
+    "city": "Yorktown",
+    "state": "VA",
+    "zip": "23693"
+  },
+  "coordinates": {
+    "latitude": 37.13434410095215,
+    "longitude": -76.45741653442383
+  },
+  "website": "https://velocitychurch.cc",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a94ffb59-4076-4c99-a8ce-b27679fc3d2a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "a94ffb59-4076-4c99-a8ce-b27679fc3d2a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "velocitychurch.cc"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "455596726"
+    }
+  ],
+  "advisories": []
+}

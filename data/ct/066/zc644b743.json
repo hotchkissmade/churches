@@ -1,0 +1,37 @@
+{
+  "id": "zc644b743",
+  "url": "https://constellation.church/zc644b743",
+  "name": "Dominion House",
+  "displayName": "RCCG Dominion House",
+  "address": {
+    "street": "58 Dixon Street,",
+    "city": "Bridgeport",
+    "state": "CT",
+    "zip": "06604"
+  },
+  "coordinates": {
+    "latitude": 41.19586944580078,
+    "longitude": -73.15874099731445
+  },
+  "website": "https://rccgconnecticut.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=67&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "67"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rccgconnecticut.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "061604611"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "261633070"
+    }
+  ],
+  "advisories": []
+}

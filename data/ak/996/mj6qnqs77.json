@@ -1,0 +1,33 @@
+{
+  "id": "mj6qnqs77",
+  "url": "https://constellation.church/mj6qnqs77",
+  "name": "Summit Worship Center",
+  "displayName": "Summit Worship Center",
+  "address": {
+    "street": "125 W Riley Ave",
+    "city": "Wasilla",
+    "state": "AK",
+    "zip": "99654"
+  },
+  "coordinates": {
+    "latitude": 61.571468353271484,
+    "longitude": -149.45230865478516
+  },
+  "website": "https://summitwc.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=56f33e47-db7a-48da-97c7-403a6563d3e9&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "56f33e47-db7a-48da-97c7-403a6563d3e9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "summitwc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920074327"
+    }
+  ],
+  "advisories": []
+}

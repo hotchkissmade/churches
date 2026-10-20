@@ -1,0 +1,33 @@
+{
+  "id": "gpamqs889",
+  "url": "https://constellation.church/gpamqs889",
+  "name": "Central Baptist Church",
+  "displayName": "Central Baptist Church",
+  "address": {
+    "street": "801 S Margaret Ave",
+    "city": "Kirbyville",
+    "state": "TX",
+    "zip": "75956"
+  },
+  "coordinates": {
+    "latitude": 30.65336036682129,
+    "longitude": -93.89566040039062
+  },
+  "website": "https://cbckirbyville.com",
+  "listingUrl": "https://churches.sbc.net/church/central-baptist-church-12/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "central-baptist-church-12"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cbckirbyville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "746204986"
+    }
+  ],
+  "advisories": []
+}

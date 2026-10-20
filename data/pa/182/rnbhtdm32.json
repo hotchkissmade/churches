@@ -1,0 +1,33 @@
+{
+  "id": "rnbhtdm32",
+  "url": "https://constellation.church/rnbhtdm32",
+  "name": "All Saints Episcopal Church",
+  "displayName": "All Saints Episcopal Church",
+  "address": {
+    "street": "301 N 2nd St",
+    "city": "Lehighton",
+    "state": "PA",
+    "zip": "18235"
+  },
+  "coordinates": {
+    "latitude": 40.837223052978516,
+    "longitude": -75.71062088012695
+  },
+  "website": "https://allsaintslehighton.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-bethlehem/list/all-saints-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-bethlehem/all-saints-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allsaintslehighton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236424473"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "v2nf55x81",
+  "url": "https://constellation.church/v2nf55x81",
+  "name": "Canyon Creek Presbyterian Church",
+  "displayName": "Canyon Creek Presbyterian Church",
+  "address": {
+    "street": "3901 North Star Rd",
+    "city": "Richardson",
+    "state": "TX",
+    "zip": "75082-2611"
+  },
+  "coordinates": {
+    "latitude": 33.00334358215332,
+    "longitude": -96.6486587524414
+  },
+  "website": "https://canyoncreekpres.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/10512/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "10512"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "canyoncreekpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751337637"
+    }
+  ],
+  "advisories": []
+}

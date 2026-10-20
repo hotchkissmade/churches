@@ -1,0 +1,33 @@
+{
+  "id": "dg5xm4k97",
+  "url": "https://constellation.church/dg5xm4k97",
+  "name": "Edwards Road Baptist Church",
+  "displayName": "Edwards Road Baptist Church",
+  "address": {
+    "street": "1050 Edwards Rd",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29615"
+  },
+  "coordinates": {
+    "latitude": 34.884714126586914,
+    "longitude": -82.33785247802734
+  },
+  "website": "https://edwardsroad.org",
+  "listingUrl": "https://churches.sbc.net/church/edwards-road-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "edwards-road-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "edwardsroad.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570421715"
+    }
+  ],
+  "advisories": []
+}

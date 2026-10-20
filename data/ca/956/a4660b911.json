@@ -1,0 +1,33 @@
+{
+  "id": "a4660b911",
+  "url": "https://constellation.church/a4660b911",
+  "name": "St. Luke's Episcopal Church",
+  "displayName": "St. Luke's Episcopal Church",
+  "address": {
+    "street": "124 Orange St",
+    "city": "Auburn",
+    "state": "CA",
+    "zip": "95603-5233"
+  },
+  "coordinates": {
+    "latitude": 38.898109436035156,
+    "longitude": -121.06964874267578
+  },
+  "website": "https://saintlukesauburn.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-northern-california/list/st-lukes-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-northern-california/st-lukes-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintlukesauburn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941706055"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "d1emp3740",
+  "url": "https://constellation.church/d1emp3740",
+  "name": "Atonement Lutheran Church",
+  "displayName": "Atonement Lutheran Church",
+  "address": {
+    "street": "601 E 98th St",
+    "city": "Bloomington",
+    "state": "MN",
+    "zip": "55420-5099"
+  },
+  "coordinates": {
+    "latitude": 44.825857162475586,
+    "longitude": -93.2679214477539
+  },
+  "website": "https://alcblm.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e5107d67-30b2-4963-966e-bb52f6f1f208",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e5107d67-30b2-4963-966e-bb52f6f1f208"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "alcblm.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416008875"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "r1eg5fk10",
+  "url": "https://constellation.church/r1eg5fk10",
+  "name": "Holy Comforter, DC",
+  "displayName": "Holy Comforter, DC",
+  "address": {
+    "street": "701 Oglethorpe St NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20011-2021"
+  },
+  "coordinates": {
+    "latitude": 38.96138572692871,
+    "longitude": -77.02275848388672
+  },
+  "website": "https://holycomforterdc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/holy-comforter-dc",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/holy-comforter-dc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holycomforterdc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520228395"
+    }
+  ],
+  "advisories": []
+}

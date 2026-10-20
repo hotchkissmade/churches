@@ -1,0 +1,33 @@
+{
+  "id": "fhcw6c603",
+  "url": "https://constellation.church/fhcw6c603",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "213 Saint Johns Church Rd",
+    "city": "Lexington",
+    "state": "SC",
+    "zip": "29072-9240"
+  },
+  "coordinates": {
+    "latitude": 34.01609420776367,
+    "longitude": -81.36065673828125
+  },
+  "website": "https://stjohnslexington.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=10eec877-68aa-400a-97b9-f6348d0b9b9f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "10eec877-68aa-400a-97b9-f6348d0b9b9f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnslexington.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570765581"
+    }
+  ],
+  "advisories": []
+}

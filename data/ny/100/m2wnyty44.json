@@ -1,0 +1,33 @@
+{
+  "id": "m2wnyty44",
+  "url": "https://constellation.church/m2wnyty44",
+  "name": "St Peter's Lutheran Church Of Manhattan",
+  "displayName": "St. Peter's Lutheran Church Of Manhattan",
+  "address": {
+    "street": "619 Lexington Ave",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10022-4613"
+  },
+  "coordinates": {
+    "latitude": 40.75856399536133,
+    "longitude": -73.97050094604492
+  },
+  "website": "https://saintpeters.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5e648b02-f498-41ef-94c9-045dad10b122",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5e648b02-f498-41ef-94c9-045dad10b122"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintpeters.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "131656685"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "at61q2q73",
+  "url": "https://constellation.church/at61q2q73",
+  "name": "St Andrew Lutheran Church",
+  "displayName": "St. Andrew Lutheran Church",
+  "address": {
+    "street": "11345 Miller Rd",
+    "city": "Whittier",
+    "state": "CA",
+    "zip": "90604-1954"
+  },
+  "coordinates": {
+    "latitude": 33.92795753479004,
+    "longitude": -118.01852416992188
+  },
+  "website": "https://standrewlutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=20fca8f1-f90d-4d30-99f3-b9be0e629db6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "20fca8f1-f90d-4d30-99f3-b9be0e629db6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewlutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952213315"
+    }
+  ],
+  "advisories": []
+}

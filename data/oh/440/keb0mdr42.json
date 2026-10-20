@@ -1,0 +1,33 @@
+{
+  "id": "keb0mdr42",
+  "url": "https://constellation.church/keb0mdr42",
+  "name": "Celebration Lutheran Church",
+  "displayName": "Celebration Lutheran Church",
+  "address": {
+    "street": "10621 Auburn Rd",
+    "city": "Chardon",
+    "state": "OH",
+    "zip": "44024-9646"
+  },
+  "coordinates": {
+    "latitude": 41.5827522277832,
+    "longitude": -81.2413558959961
+  },
+  "website": "https://celebration-lutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c878ba0a-1038-4424-85fc-958ddfee708f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c878ba0a-1038-4424-85fc-958ddfee708f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "celebration-lutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341659884"
+    }
+  ],
+  "advisories": []
+}

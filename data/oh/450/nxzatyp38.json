@@ -1,0 +1,33 @@
+{
+  "id": "nxzatyp38",
+  "url": "https://constellation.church/nxzatyp38",
+  "name": "Life Church",
+  "displayName": "Life Church",
+  "address": {
+    "street": "457 S Main St",
+    "city": "Monroe",
+    "state": "OH",
+    "zip": "45050"
+  },
+  "coordinates": {
+    "latitude": 39.43918800354004,
+    "longitude": -84.36434173583984
+  },
+  "website": "https://monroelife.church",
+  "listingUrl": "https://churches.sbc.net/church/life-church-4/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "life-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "monroelife.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "844249237"
+    }
+  ],
+  "advisories": []
+}

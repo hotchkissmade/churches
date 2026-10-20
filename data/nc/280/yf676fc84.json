@@ -1,0 +1,33 @@
+{
+  "id": "yf676fc84",
+  "url": "https://constellation.church/yf676fc84",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "100 Saint Johns Church Rd",
+    "city": "Concord",
+    "state": "NC",
+    "zip": "28025-1325"
+  },
+  "coordinates": {
+    "latitude": 35.418779373168945,
+    "longitude": -80.47505950927734
+  },
+  "website": "https://stjohnsconcord.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5f7e5e05-47e9-4fc3-9b79-231a47d61616",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5f7e5e05-47e9-4fc3-9b79-231a47d61616"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsconcord.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560599230"
+    }
+  ],
+  "advisories": []
+}

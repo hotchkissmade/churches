@@ -1,0 +1,33 @@
+{
+  "id": "w4k10xx11",
+  "url": "https://constellation.church/w4k10xx11",
+  "name": "Airway Heights Baptist Church",
+  "displayName": "Airway Heights Baptist Church",
+  "address": {
+    "street": "12322 W Sunset Hwy",
+    "city": "Airway Heights",
+    "state": "WA",
+    "zip": "99001"
+  },
+  "coordinates": {
+    "latitude": 47.643402099609375,
+    "longitude": -117.58198547363281
+  },
+  "website": "https://ahbc.us",
+  "listingUrl": "https://churches.sbc.net/church/airway-heights-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "airway-heights-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ahbc.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911229630"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ez0kw9a23",
+  "url": "https://constellation.church/ez0kw9a23",
+  "name": "Free Church of St. John",
+  "displayName": "Free Church of St. John",
+  "address": {
+    "street": "3089 Emerald St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19134-3144"
+  },
+  "coordinates": {
+    "latitude": 39.99264335632324,
+    "longitude": -75.11407852172852
+  },
+  "website": "https://freechurchstjohn.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/free-church-st-john",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/free-church-st-john"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "freechurchstjohn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231365236"
+    }
+  ],
+  "advisories": []
+}

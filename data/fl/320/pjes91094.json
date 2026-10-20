@@ -1,0 +1,33 @@
+{
+  "id": "pjes91094",
+  "url": "https://constellation.church/pjes91094",
+  "name": "River Rock Church",
+  "displayName": "River Rock Church",
+  "address": {
+    "street": "105 Greenleaf Dr",
+    "city": "Ponte Vedra",
+    "state": "FL",
+    "zip": "32081"
+  },
+  "coordinates": {
+    "latitude": 30.065536499023438,
+    "longitude": -81.43909072875977
+  },
+  "website": "https://riverrockfl.com",
+  "listingUrl": "https://churches.sbc.net/church/river-rock-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "river-rock-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "riverrockfl.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "301298322"
+    }
+  ],
+  "advisories": []
+}

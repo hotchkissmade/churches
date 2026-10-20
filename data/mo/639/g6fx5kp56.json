@@ -1,0 +1,33 @@
+{
+  "id": "g6fx5kp56",
+  "url": "https://constellation.church/g6fx5kp56",
+  "name": "Second Baptist Church Poplar Bluff",
+  "displayName": "Second Baptist Church Poplar Bluff",
+  "address": {
+    "street": "503 W Pine St",
+    "city": "Poplar Bluff",
+    "state": "MO",
+    "zip": "63901"
+  },
+  "coordinates": {
+    "latitude": 36.75756072998047,
+    "longitude": -90.39571380615234
+  },
+  "website": "https://secondbaptistpb.com",
+  "listingUrl": "https://churches.sbc.net/church/second-baptist-church-poplar-bluff/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "second-baptist-church-poplar-bluff"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "secondbaptistpb.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430688875"
+    }
+  ],
+  "advisories": []
+}

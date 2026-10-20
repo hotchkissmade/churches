@@ -1,0 +1,33 @@
+{
+  "id": "kqh5gaz09",
+  "url": "https://constellation.church/kqh5gaz09",
+  "name": "Cornerstone Church PCA",
+  "displayName": "Cornerstone Church PCA",
+  "address": {
+    "street": "4219 Hanover Pike",
+    "city": "Manchester",
+    "state": "MD",
+    "zip": "21102"
+  },
+  "coordinates": {
+    "latitude": 39.69057273864746,
+    "longitude": -76.89823913574219
+  },
+  "website": "https://cstone.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4997",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4997"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cstone.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "562550628"
+    }
+  ],
+  "advisories": []
+}

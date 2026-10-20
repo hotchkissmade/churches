@@ -1,0 +1,33 @@
+{
+  "id": "j3gkkcv96",
+  "url": "https://constellation.church/j3gkkcv96",
+  "name": "Spring City Baptist Church",
+  "displayName": "Spring City Baptist Church",
+  "address": {
+    "street": "6086 Dutch Elm Dr",
+    "city": "Joplin",
+    "state": "MO",
+    "zip": "64804"
+  },
+  "coordinates": {
+    "latitude": 36.98682975769043,
+    "longitude": -94.53304290771484
+  },
+  "website": "https://scbcjoplin.com",
+  "listingUrl": "https://churches.sbc.net/church/spring-city-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "spring-city-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "scbcjoplin.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900595460"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jfc979q04",
+  "url": "https://constellation.church/jfc979q04",
+  "name": "Emmanuel Presbyterian Church",
+  "displayName": "Emmanuel Presbyterian Church",
+  "address": {
+    "street": "233 Arrowwood Lane",
+    "city": "Franklin",
+    "state": "NC",
+    "zip": "28734"
+  },
+  "coordinates": {
+    "latitude": 35.166242599487305,
+    "longitude": -83.42326354980469
+  },
+  "website": "https://emmanuelpresbyterian.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1295",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1295"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emmanuelpresbyterian.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561868113"
+    }
+  ],
+  "advisories": []
+}

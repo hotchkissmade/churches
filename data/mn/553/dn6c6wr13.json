@@ -1,0 +1,33 @@
+{
+  "id": "dn6c6wr13",
+  "url": "https://constellation.church/dn6c6wr13",
+  "name": "Excelsior United Methodist Church",
+  "displayName": "Excelsior United Methodist Church",
+  "address": {
+    "street": "881 3rd Ave",
+    "city": "Excelsior",
+    "state": "MN",
+    "zip": "55331-3311"
+  },
+  "coordinates": {
+    "latitude": 44.900672912597656,
+    "longitude": -93.55523681640625
+  },
+  "website": "https://excelsiorumc.org/about-us/our-staff",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFNXbIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFNXbIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "excelsiorumc.org/about-us/our-staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416008801"
+    }
+  ],
+  "advisories": []
+}

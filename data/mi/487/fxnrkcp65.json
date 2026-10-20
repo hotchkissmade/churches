@@ -1,0 +1,33 @@
+{
+  "id": "fxnrkcp65",
+  "url": "https://constellation.church/fxnrkcp65",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "749 N Pine Rd",
+    "city": "Bay City",
+    "state": "MI",
+    "zip": "48708-9206"
+  },
+  "coordinates": {
+    "latitude": 43.58658981323242,
+    "longitude": -83.83720397949219
+  },
+  "website": "https://bethellutheranbc.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24193",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24193"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethellutheranbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381876250"
+    }
+  ],
+  "advisories": []
+}

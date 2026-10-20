@@ -1,0 +1,33 @@
+{
+  "id": "kzknts246",
+  "url": "https://constellation.church/kzknts246",
+  "name": "Peachtree Road Lutheran Church",
+  "displayName": "Peachtree Road Lutheran Church",
+  "address": {
+    "street": "3686 Peachtree Rd NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30319-1214"
+  },
+  "coordinates": {
+    "latitude": 33.85533332824707,
+    "longitude": -84.35441207885742
+  },
+  "website": "https://peachtreelutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=22fe7712-ae02-4938-b8a1-9b811ea7d533",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "22fe7712-ae02-4938-b8a1-9b811ea7d533"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "peachtreelutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580694337"
+    }
+  ],
+  "advisories": []
+}

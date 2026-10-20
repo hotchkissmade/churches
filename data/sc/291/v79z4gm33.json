@@ -1,0 +1,33 @@
+{
+  "id": "v79z4gm33",
+  "url": "https://constellation.church/v79z4gm33",
+  "name": "Ridge Spring Baptist Church",
+  "displayName": "Ridge Spring Baptist Church",
+  "address": {
+    "street": "108 Church Cir",
+    "city": "Ridge Spring",
+    "state": "SC",
+    "zip": "29129"
+  },
+  "coordinates": {
+    "latitude": 33.845930099487305,
+    "longitude": -81.66285705566406
+  },
+  "website": "https://ridgespringbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/ridge-spring-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "ridge-spring-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ridgespringbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570506350"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hytxhkq90",
+  "url": "https://constellation.church/hytxhkq90",
+  "name": "South Aiken Baptist Church",
+  "displayName": "South Aiken Baptist Church",
+  "address": {
+    "street": "980 Dougherty Rd",
+    "city": "Aiken",
+    "state": "SC",
+    "zip": "29803"
+  },
+  "coordinates": {
+    "latitude": 33.516584396362305,
+    "longitude": -81.72650527954102
+  },
+  "website": "https://sabchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/south-aiken-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "south-aiken-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sabchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570608081"
+    }
+  ],
+  "advisories": []
+}

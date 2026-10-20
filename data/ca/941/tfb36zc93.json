@@ -1,0 +1,33 @@
+{
+  "id": "tfb36zc93",
+  "url": "https://constellation.church/tfb36zc93",
+  "name": "New Life Church",
+  "displayName": "New Life Church",
+  "address": {
+    "street": "884 Rhode Island St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94107"
+  },
+  "coordinates": {
+    "latitude": 37.758575439453125,
+    "longitude": -122.40228271484375
+  },
+  "website": "https://newlifesanfrancisco.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=920d336f-4222-48cc-bc5e-95e622def1db&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "920d336f-4222-48cc-bc5e-95e622def1db"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newlifesanfrancisco.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "943273810"
+    }
+  ],
+  "advisories": []
+}

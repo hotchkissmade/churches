@@ -1,0 +1,33 @@
+{
+  "id": "mv482x382",
+  "url": "https://constellation.church/mv482x382",
+  "name": "LakeView Church",
+  "displayName": "LakeView Church",
+  "address": {
+    "street": "2200 Lincoln Ave",
+    "city": "Stoughton",
+    "state": "WI",
+    "zip": "53589-5150"
+  },
+  "coordinates": {
+    "latitude": 42.93841552734375,
+    "longitude": -89.23666381835938
+  },
+  "website": "https://lakeviewfree.org",
+  "listingUrl": "https://churches.efca.org/?id=12092",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12092"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lakeviewfree.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391199152"
+    }
+  ],
+  "advisories": []
+}

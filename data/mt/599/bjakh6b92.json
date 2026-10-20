@@ -1,0 +1,33 @@
+{
+  "id": "bjakh6b92",
+  "url": "https://constellation.church/bjakh6b92",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "603 S Main St",
+    "city": "Kalispell",
+    "state": "MT",
+    "zip": "59901-4852"
+  },
+  "coordinates": {
+    "latitude": 48.192649841308594,
+    "longitude": -114.31137084960938
+  },
+  "website": "https://flbc.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9cfc23a6-30c3-41e3-a339-a54fda3abbce",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9cfc23a6-30c3-41e3-a339-a54fda3abbce"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flbc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "816013705"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rktpn9h59",
+  "url": "https://constellation.church/rktpn9h59",
+  "name": "Covenant Presbyterian Church at Cleveland",
+  "displayName": "Covenant Presbyterian Church at Cleveland",
+  "address": {
+    "street": "Bishop Rd. & Hwy 8",
+    "city": "Cleveland",
+    "state": "MS",
+    "zip": "38732"
+  },
+  "coordinates": {
+    "latitude": 33.748579025268555,
+    "longitude": -90.746337890625
+  },
+  "website": "https://covenantcleveland.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/295",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "295"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covenantcleveland.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640663450"
+    }
+  ],
+  "advisories": []
+}

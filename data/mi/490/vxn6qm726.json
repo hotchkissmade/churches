@@ -1,0 +1,33 @@
+{
+  "id": "vxn6qm726",
+  "url": "https://constellation.church/vxn6qm726",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "111 Capital Ave NE",
+    "city": "Battle Creek",
+    "state": "MI",
+    "zip": "49017"
+  },
+  "coordinates": {
+    "latitude": 42.32201385498047,
+    "longitude": -85.17865753173828
+  },
+  "website": "https://firstpresbc.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/3281/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "3281"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpresbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "412084997"
+    }
+  ],
+  "advisories": []
+}

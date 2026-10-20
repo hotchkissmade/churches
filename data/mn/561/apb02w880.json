@@ -1,0 +1,33 @@
+{
+  "id": "apb02w880",
+  "url": "https://constellation.church/apb02w880",
+  "name": "Our Savior Lutheran Church",
+  "displayName": "Our Savior Lutheran Church",
+  "address": {
+    "street": "614 Logan Ave",
+    "city": "Jackson",
+    "state": "MN",
+    "zip": "56143-1416"
+  },
+  "coordinates": {
+    "latitude": 43.62225341796875,
+    "longitude": -94.99446868896484
+  },
+  "website": "https://oursaviorsjackson.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a2d18407-ff56-4302-886b-9036468b303b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a2d18407-ff56-4302-886b-9036468b303b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oursaviorsjackson.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410723819"
+    }
+  ],
+  "advisories": []
+}

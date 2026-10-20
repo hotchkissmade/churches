@@ -1,0 +1,33 @@
+{
+  "id": "v4b01qm59",
+  "url": "https://constellation.church/v4b01qm59",
+  "name": "Holy Trinity Lutheran Church",
+  "displayName": "Holy Trinity Lutheran Church",
+  "address": {
+    "street": "800 Broad St",
+    "city": "Kingsport",
+    "state": "TN",
+    "zip": "37660-3718"
+  },
+  "coordinates": {
+    "latitude": 36.552019119262695,
+    "longitude": -82.55440139770508
+  },
+  "website": "https://holytrinitykingsport.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cc31f193-fbda-4d55-9a28-8b37c2005afb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cc31f193-fbda-4d55-9a28-8b37c2005afb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holytrinitykingsport.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620600168"
+    }
+  ],
+  "advisories": []
+}

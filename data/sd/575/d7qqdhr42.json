@@ -1,0 +1,37 @@
+{
+  "id": "d7qqdhr42",
+  "url": "https://constellation.church/d7qqdhr42",
+  "name": "Resurrection Lutheran Church",
+  "displayName": "Resurrection Lutheran Church",
+  "address": {
+    "street": "103 N. Taylor Avenue",
+    "city": "Pierre",
+    "state": "SD",
+    "zip": "57501"
+  },
+  "coordinates": {
+    "latitude": 44.36462211608887,
+    "longitude": -100.32688903808594
+  },
+  "website": "https://rlcpierre.com",
+  "listingUrl": "https://lcmc.net/congregation/123936",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "123936"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rlcpierre.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460309107"
+    },
+    {
+      "namespace": "org.elca.id",
+      "value": "b22ff2b4-a9eb-49fc-9fcc-8ed11baec12c"
+    }
+  ],
+  "advisories": []
+}

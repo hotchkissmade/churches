@@ -1,0 +1,33 @@
+{
+  "id": "e64p1wz25",
+  "url": "https://constellation.church/e64p1wz25",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "5550 Munger Rd",
+    "city": "Dayton",
+    "state": "OH",
+    "zip": "45459-1175"
+  },
+  "coordinates": {
+    "latitude": 39.67094039916992,
+    "longitude": -84.20794677734375
+  },
+  "website": "https://zionelc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=48b0b2e4-ed43-4377-bb21-df5c16571f67",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "48b0b2e4-ed43-4377-bb21-df5c16571f67"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionelc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "316048068"
+    }
+  ],
+  "advisories": []
+}

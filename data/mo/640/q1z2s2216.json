@@ -1,0 +1,33 @@
+{
+  "id": "q1z2s2216",
+  "url": "https://constellation.church/q1z2s2216",
+  "name": "Pisgah Baptist Church, Excelsior Springs",
+  "displayName": "Pisgah Baptist Church, Excelsior Springs",
+  "address": {
+    "street": "112 Pisgah Dr",
+    "city": "Excelsior Springs",
+    "state": "MO",
+    "zip": "64024"
+  },
+  "coordinates": {
+    "latitude": 39.33873176574707,
+    "longitude": -94.17449951171875
+  },
+  "website": "https://pisgahbc.org",
+  "listingUrl": "https://churches.sbc.net/church/pisgah-baptist-church-excelsior-springs/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pisgah-baptist-church-excelsior-springs"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pisgahbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431343690"
+    }
+  ],
+  "advisories": []
+}

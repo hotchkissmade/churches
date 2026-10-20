@@ -1,0 +1,33 @@
+{
+  "id": "qarn00s60",
+  "url": "https://constellation.church/qarn00s60",
+  "name": "The Kirk Presbyterian",
+  "displayName": "The Kirk Presbyterian",
+  "address": {
+    "street": "3212 Bee Road",
+    "city": "Savannah",
+    "state": "GA",
+    "zip": "31404"
+  },
+  "coordinates": {
+    "latitude": 32.04123878479004,
+    "longitude": -81.07815170288086
+  },
+  "website": "https://kirkpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4064",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4064"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kirkpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "582434057"
+    }
+  ],
+  "advisories": []
+}

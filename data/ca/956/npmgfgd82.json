@@ -1,0 +1,33 @@
+{
+  "id": "npmgfgd82",
+  "url": "https://constellation.church/npmgfgd82",
+  "name": "Grace Family Church",
+  "displayName": "Grace Family Church",
+  "address": {
+    "street": "7031 Watt Ave",
+    "city": "North Highlands",
+    "state": "CA",
+    "zip": "95660"
+  },
+  "coordinates": {
+    "latitude": 38.69534111022949,
+    "longitude": -121.38481140136719
+  },
+  "website": "https://gfchurch.com",
+  "listingUrl": "https://nabconference.org/directory/grace-family-church/",
+  "identifiers": [
+    {
+      "namespace": "org.nabconference.id",
+      "value": "grace-family-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gfchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "731685018"
+    }
+  ],
+  "advisories": []
+}

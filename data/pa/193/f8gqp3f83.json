@@ -1,0 +1,33 @@
+{
+  "id": "f8gqp3f83",
+  "url": "https://constellation.church/f8gqp3f83",
+  "name": "Grove UMC",
+  "displayName": "Grove UMC United Methodist Church",
+  "address": {
+    "street": "490 W Boot Rd",
+    "city": "West Chester",
+    "state": "PA",
+    "zip": "19380-1112"
+  },
+  "coordinates": {
+    "latitude": 40.00474739074707,
+    "longitude": -75.63320541381836
+  },
+  "website": "https://grovechurch.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFENpIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFENpIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grovechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231734541"
+    }
+  ],
+  "advisories": []
+}

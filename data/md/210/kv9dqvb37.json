@@ -1,0 +1,33 @@
+{
+  "id": "kv9dqvb37",
+  "url": "https://constellation.church/kv9dqvb37",
+  "name": "Long Green Baptist Church",
+  "displayName": "Long Green Baptist Church",
+  "address": {
+    "street": "13010 Manor Road",
+    "city": "Glen Arm",
+    "state": "MD",
+    "zip": "21057"
+  },
+  "coordinates": {
+    "latitude": 39.48081588745117,
+    "longitude": -76.51942825317383
+  },
+  "website": "https://longgreenbc.org",
+  "listingUrl": "https://churches.sbc.net/church/long-green-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "long-green-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "longgreenbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521387202"
+    }
+  ],
+  "advisories": []
+}

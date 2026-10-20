@@ -1,0 +1,33 @@
+{
+  "id": "m8cm08z12",
+  "url": "https://constellation.church/m8cm08z12",
+  "name": "St John's Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "157 Ladys Island Dr",
+    "city": "Beaufort",
+    "state": "SC",
+    "zip": "29907-1647"
+  },
+  "coordinates": {
+    "latitude": 32.405473709106445,
+    "longitude": -80.65652847290039
+  },
+  "website": "https://stjohnsbeaufort.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a4446953-0e29-466d-a195-4bbf1a4bb63b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a4446953-0e29-466d-a195-4bbf1a4bb63b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsbeaufort.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570691206"
+    }
+  ],
+  "advisories": []
+}

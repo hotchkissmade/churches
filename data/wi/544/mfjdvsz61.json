@@ -1,0 +1,33 @@
+{
+  "id": "mfjdvsz61",
+  "url": "https://constellation.church/mfjdvsz61",
+  "name": "Hillside Church",
+  "displayName": "Hillside Church",
+  "address": {
+    "street": "1501 N Pier St",
+    "city": "Merrill",
+    "state": "WI",
+    "zip": "54452"
+  },
+  "coordinates": {
+    "latitude": 45.19497299194336,
+    "longitude": -89.69208145141602
+  },
+  "website": "https://hillsidemerrill.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=1d6c5ce5-aa04-46e3-94c3-721c156f8b7f&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "1d6c5ce5-aa04-46e3-94c3-721c156f8b7f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hillsidemerrill.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391370643"
+    }
+  ],
+  "advisories": []
+}

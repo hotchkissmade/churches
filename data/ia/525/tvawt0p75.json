@@ -1,0 +1,33 @@
+{
+  "id": "tvawt0p75",
+  "url": "https://constellation.church/tvawt0p75",
+  "name": "St Paul Evangelical Lutheran Church",
+  "displayName": "St. Paul Evangelical Lutheran Church",
+  "address": {
+    "street": "335 N 8th St",
+    "city": "Albia",
+    "state": "IA",
+    "zip": "52531-1328"
+  },
+  "coordinates": {
+    "latitude": 41.031368255615234,
+    "longitude": -92.79872131347656
+  },
+  "website": "https://stpaulsalbia.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d7403b95-4eb3-4f66-9eec-6190463bac83",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d7403b95-4eb3-4f66-9eec-6190463bac83"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsalbia.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421067649"
+    }
+  ],
+  "advisories": []
+}

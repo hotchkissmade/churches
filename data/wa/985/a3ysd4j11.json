@@ -1,0 +1,33 @@
+{
+  "id": "a3ysd4j11",
+  "url": "https://constellation.church/a3ysd4j11",
+  "name": "Shelton Presbyterian Church",
+  "displayName": "Shelton Presbyterian Church",
+  "address": {
+    "street": "1430 Shelton Springs Rd",
+    "city": "Shelton",
+    "state": "WA",
+    "zip": "98584"
+  },
+  "coordinates": {
+    "latitude": 47.24546432495117,
+    "longitude": -123.1346435546875
+  },
+  "website": "https://sheltonpres.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/11779/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "11779"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sheltonpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911907677"
+    }
+  ],
+  "advisories": []
+}

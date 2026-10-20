@@ -1,0 +1,37 @@
+{
+  "id": "ftrze6t96",
+  "url": "https://constellation.church/ftrze6t96",
+  "name": "Resurrection Lutheran Church",
+  "displayName": "Resurrection Lutheran Church",
+  "address": {
+    "street": "3309 N Seminary Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60657-2220"
+  },
+  "coordinates": {
+    "latitude": 41.941856384277344,
+    "longitude": -87.65649795532227
+  },
+  "website": "https://resurrectionchicago.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=145eea38-f26a-405f-8b4e-457997bc3666",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "145eea38-f26a-405f-8b4e-457997bc3666"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "resurrectionchicago.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362167786"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366008829"
+    }
+  ],
+  "advisories": []
+}

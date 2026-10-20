@@ -1,0 +1,33 @@
+{
+  "id": "ag79yja27",
+  "url": "https://constellation.church/ag79yja27",
+  "name": "Sarasota Baptist Church",
+  "displayName": "Sarasota Baptist Church",
+  "address": {
+    "street": "7091 Proctor Rd",
+    "city": "Sarasota",
+    "state": "FL",
+    "zip": "34241"
+  },
+  "coordinates": {
+    "latitude": 27.285057067871094,
+    "longitude": -82.43045425415039
+  },
+  "website": "https://sarasotabaptist.com/kidventure",
+  "listingUrl": "https://churches.sbc.net/church/sarasota-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sarasota-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sarasotabaptist.com/kidventure"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592433486"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bybb94459",
+  "url": "https://constellation.church/bybb94459",
+  "name": "First CRC",
+  "displayName": "First Christian Reformed Church",
+  "address": {
+    "street": "2175 Leoni Dr",
+    "city": "Hanford",
+    "state": "CA",
+    "zip": "93230"
+  },
+  "coordinates": {
+    "latitude": 36.35124397277832,
+    "longitude": -119.64778900146484
+  },
+  "website": "https://hanfordcrc.org",
+  "listingUrl": "https://www.crcna.org/churches/1821",
+  "identifiers": [
+    {
+      "namespace": "org.crcna.id",
+      "value": "1821"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hanfordcrc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942145498"
+    }
+  ],
+  "advisories": []
+}

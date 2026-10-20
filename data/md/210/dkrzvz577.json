@@ -1,0 +1,33 @@
+{
+  "id": "dkrzvz577",
+  "url": "https://constellation.church/dkrzvz577",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "108 S. Stokes Street",
+    "city": "Havre de Grace",
+    "state": "MD",
+    "zip": "21078"
+  },
+  "coordinates": {
+    "latitude": 39.54726028442383,
+    "longitude": -76.09363174438477
+  },
+  "website": "https://fbchdg.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-640/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-640"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbchdg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521164885"
+    }
+  ],
+  "advisories": []
+}

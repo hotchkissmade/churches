@@ -1,0 +1,33 @@
+{
+  "id": "k3py8e893",
+  "url": "https://constellation.church/k3py8e893",
+  "name": "MCC San Antonio",
+  "displayName": "Metropolitan Community Church San Antonio",
+  "address": {
+    "street": "611 E Myrtle St",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78212"
+  },
+  "coordinates": {
+    "latitude": 29.444782257080078,
+    "longitude": -98.48761749267578
+  },
+  "website": "https://mccofsanantonio.org",
+  "listingUrl": "https://visitmccchurch.com/our-churches/mcc-churches-in-the-united-states/mcc-churches-in-tx/mcc-san-antonio/",
+  "identifiers": [
+    {
+      "namespace": "com.visitmccchurch.id",
+      "value": "TX/mcc-san-antonio"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mccofsanantonio.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742741216"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "f708dc291",
+  "url": "https://constellation.church/f708dc291",
+  "name": "Hayward United Methodist Church",
+  "displayName": "Hayward United Methodist Church",
+  "address": {
+    "street": "10285 Olker Rd",
+    "city": "Hayward",
+    "state": "WI",
+    "zip": "54843"
+  },
+  "coordinates": {
+    "latitude": 46.00434112548828,
+    "longitude": -91.46814346313477
+  },
+  "website": "https://haywardumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMQlIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMQlIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "haywardumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391469143"
+    }
+  ],
+  "advisories": []
+}

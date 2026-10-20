@@ -1,0 +1,33 @@
+{
+  "id": "spk1kw625",
+  "url": "https://constellation.church/spk1kw625",
+  "name": "Grace Church in New York",
+  "displayName": "Grace Church in New York",
+  "address": {
+    "street": "802 Broadway",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10003"
+  },
+  "coordinates": {
+    "latitude": 40.73197937011719,
+    "longitude": -73.99090194702148
+  },
+  "website": "https://gracechurchnyc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-new-york/list/grace-church-2",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-new-york/grace-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracechurchnyc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "135562327"
+    }
+  ],
+  "advisories": []
+}

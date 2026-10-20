@@ -1,0 +1,33 @@
+{
+  "id": "h0311ez17",
+  "url": "https://constellation.church/h0311ez17",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "619 Broadway N",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58102-4418"
+  },
+  "coordinates": {
+    "latitude": 46.88279724121094,
+    "longitude": -96.78687286376953
+  },
+  "website": "https://flcfargo.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5c6cee46-9f0e-4558-adbf-c8bf8053efa4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5c6cee46-9f0e-4558-adbf-c8bf8053efa4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcfargo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450231178"
+    }
+  ],
+  "advisories": []
+}

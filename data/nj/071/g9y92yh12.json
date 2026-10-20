@@ -1,0 +1,33 @@
+{
+  "id": "g9y92yh12",
+  "url": "https://constellation.church/g9y92yh12",
+  "name": "Church in Nutley",
+  "displayName": "Church in Nutley",
+  "address": {
+    "street": "192 Centre St",
+    "city": "Nutley",
+    "state": "NJ",
+    "zip": "07110"
+  },
+  "coordinates": {
+    "latitude": 40.812255859375,
+    "longitude": -74.15457534790039
+  },
+  "website": "https://churchinnutley.org",
+  "listingUrl": "https://localchurches.org/churches/nutley-nj-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "nutley-nj-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinnutley.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "223231821"
+    }
+  ],
+  "advisories": []
+}

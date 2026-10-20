@@ -1,0 +1,33 @@
+{
+  "id": "c6gfz2v90",
+  "url": "https://constellation.church/c6gfz2v90",
+  "name": "Hope Lutheran Church",
+  "displayName": "Hope Lutheran Church",
+  "address": {
+    "street": "1901 Middleborough Rd",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21221-3017"
+  },
+  "coordinates": {
+    "latitude": 39.30702781677246,
+    "longitude": -76.43241882324219
+  },
+  "website": "https://hopeelca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6b9c916a-c10e-4a8f-ac66-73ee39a7f65f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6b9c916a-c10e-4a8f-ac66-73ee39a7f65f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopeelca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520709145"
+    }
+  ],
+  "advisories": []
+}

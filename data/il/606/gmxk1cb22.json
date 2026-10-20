@@ -1,0 +1,33 @@
+{
+  "id": "gmxk1cb22",
+  "url": "https://constellation.church/gmxk1cb22",
+  "name": "Chicagoland Community Church",
+  "displayName": "Chicagoland Community Church",
+  "address": {
+    "street": "836 W Aldine Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60657"
+  },
+  "coordinates": {
+    "latitude": 41.94186973571777,
+    "longitude": -87.65081787109375
+  },
+  "website": "https://chicagolandcc.org",
+  "listingUrl": "https://churches.sbc.net/church/chicagoland-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "chicagoland-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chicagolandcc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "522251572"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "f5jtct036",
+  "url": "https://constellation.church/f5jtct036",
+  "name": "All Shepherds Lutheran Church",
+  "displayName": "All Shepherds Lutheran Church",
+  "address": {
+    "street": "6580 Columbus Pike",
+    "city": "Lewis Center",
+    "state": "OH",
+    "zip": "43035-9009"
+  },
+  "coordinates": {
+    "latitude": 40.198163986206055,
+    "longitude": -83.02951049804688
+  },
+  "website": "https://allshepherds.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b4a3d531-854c-45a6-8466-0f29ff7f4eaf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b4a3d531-854c-45a6-8466-0f29ff7f4eaf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allshepherds.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311222330"
+    }
+  ],
+  "advisories": []
+}

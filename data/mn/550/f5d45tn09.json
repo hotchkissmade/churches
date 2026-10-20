@@ -1,0 +1,33 @@
+{
+  "id": "f5d45tn09",
+  "url": "https://constellation.church/f5d45tn09",
+  "name": "First Evangelical Lutheran Church",
+  "displayName": "First Evangelical Lutheran Church",
+  "address": {
+    "street": "1000 S Jay Ave",
+    "city": "Rush City",
+    "state": "MN",
+    "zip": "55069-5068"
+  },
+  "coordinates": {
+    "latitude": 45.67812919616699,
+    "longitude": -92.97518157958984
+  },
+  "website": "https://rushcityfirstlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=80f74303-e796-4500-a13e-bf51e17b5729",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "80f74303-e796-4500-a13e-bf51e17b5729"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rushcityfirstlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410764111"
+    }
+  ],
+  "advisories": []
+}

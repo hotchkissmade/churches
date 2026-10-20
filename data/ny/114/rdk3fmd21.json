@@ -1,0 +1,33 @@
+{
+  "id": "rdk3fmd21",
+  "url": "https://constellation.church/rdk3fmd21",
+  "name": "All Saints Church",
+  "displayName": "All Saints Church",
+  "address": {
+    "street": "85-45 96th Street",
+    "city": "Woodhaven",
+    "state": "NY",
+    "zip": "11421"
+  },
+  "coordinates": {
+    "latitude": 40.69613075256348,
+    "longitude": -73.84923934936523
+  },
+  "website": "https://allsaintswoodhaven.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/all-saints-episcopal-church-4",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/all-saints-episcopal-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allsaintswoodhaven.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112022945"
+    }
+  ],
+  "advisories": []
+}

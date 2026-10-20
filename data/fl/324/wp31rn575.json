@@ -1,0 +1,33 @@
+{
+  "id": "wp31rn575",
+  "url": "https://constellation.church/wp31rn575",
+  "name": "Sneads Assembly of God",
+  "displayName": "Sneads Assembly of God",
+  "address": {
+    "street": "2062 River Rd",
+    "city": "Sneads",
+    "state": "FL",
+    "zip": "32460"
+  },
+  "coordinates": {
+    "latitude": 30.712881088256836,
+    "longitude": -84.93157958984375
+  },
+  "website": "https://sneadsag.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=c80e6d19-0db2-47aa-b9e0-bc0897e4c6fe&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "c80e6d19-0db2-47aa-b9e0-bc0897e4c6fe"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sneadsag.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592176219"
+    }
+  ],
+  "advisories": []
+}

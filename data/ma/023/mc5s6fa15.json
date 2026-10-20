@@ -1,0 +1,37 @@
+{
+  "id": "mc5s6fa15",
+  "url": "https://constellation.church/mc5s6fa15",
+  "name": "First Baptist Church – Rockland",
+  "displayName": "First Baptist Church – Rockland",
+  "address": {
+    "street": "200 Union Street",
+    "city": "Rockland",
+    "state": "MA",
+    "zip": "02370"
+  },
+  "coordinates": {
+    "latitude": 42.127838134765625,
+    "longitude": -70.91536331176758
+  },
+  "website": null,
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-rockland/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-rockland"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042309715"
+    },
+    {
+      "namespace": "org.converge.id",
+      "value": "37975"
+    },
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "first-baptist-church-32"
+    }
+  ],
+  "advisories": []
+}

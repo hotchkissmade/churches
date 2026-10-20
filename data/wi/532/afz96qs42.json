@@ -1,0 +1,33 @@
+{
+  "id": "afz96qs42",
+  "url": "https://constellation.church/afz96qs42",
+  "name": "St Lucas Lutheran Church",
+  "displayName": "St. Lucas Lutheran Church",
+  "address": {
+    "street": "2605 S Kinnickinnic Ave",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53207-2101"
+  },
+  "coordinates": {
+    "latitude": 42.9974453,
+    "longitude": -87.900118
+  },
+  "website": "https://saintlucas.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24838",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24838"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintlucas.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390808485"
+    }
+  ],
+  "advisories": []
+}

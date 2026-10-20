@@ -1,0 +1,33 @@
+{
+  "id": "heph76n61",
+  "url": "https://constellation.church/heph76n61",
+  "name": "University Lutheran Church",
+  "displayName": "University Lutheran Church",
+  "address": {
+    "street": "1826 W University Ave",
+    "city": "Gainesville",
+    "state": "FL",
+    "zip": "32603-1838"
+  },
+  "coordinates": {
+    "latitude": 29.652157,
+    "longitude": -82.346703
+  },
+  "website": "https://ulcgainesville.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=51dc4d4a-a9f2-46df-b80a-cd2aa25d3267",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "51dc4d4a-a9f2-46df-b80a-cd2aa25d3267"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ulcgainesville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591091078"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tss0tzx37",
+  "url": "https://constellation.church/tss0tzx37",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "407 Fort St",
+    "city": "Minden",
+    "state": "LA",
+    "zip": "71055"
+  },
+  "coordinates": {
+    "latitude": 32.61829948425293,
+    "longitude": -93.27674102783203
+  },
+  "website": "https://firstagminden.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f50d97bc-0325-4712-819c-f6eae44cec94&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f50d97bc-0325-4712-819c-f6eae44cec94"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstagminden.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720871800"
+    }
+  ],
+  "advisories": []
+}

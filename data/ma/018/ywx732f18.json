@@ -1,0 +1,33 @@
+{
+  "id": "ywx732f18",
+  "url": "https://constellation.church/ywx732f18",
+  "name": "Burlington Presbyterian Church",
+  "displayName": "Burlington Presbyterian Church",
+  "address": {
+    "street": "335 Cambridge St",
+    "city": "Burlington",
+    "state": "MA",
+    "zip": "01803-2046"
+  },
+  "coordinates": {
+    "latitude": 42.51776123046875,
+    "longitude": -71.20949935913086
+  },
+  "website": "https://burlingtonpres.org/privacy-declaration",
+  "listingUrl": "https://church-trends.pcusa.org/church/3718/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "3718"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "burlingtonpres.org/privacy-declaration"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042574118"
+    }
+  ],
+  "advisories": []
+}

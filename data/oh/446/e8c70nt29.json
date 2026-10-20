@@ -1,0 +1,33 @@
+{
+  "id": "e8c70nt29",
+  "url": "https://constellation.church/e8c70nt29",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "3295 S Union Ave",
+    "city": "Alliance",
+    "state": "OH",
+    "zip": "44601-5365"
+  },
+  "coordinates": {
+    "latitude": 40.886966705322266,
+    "longitude": -81.10687255859375
+  },
+  "website": "https://livingbody.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d83d4697-fa07-4990-a3aa-50df8dce2216",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d83d4697-fa07-4990-a3aa-50df8dce2216"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "livingbody.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340878920"
+    }
+  ],
+  "advisories": []
+}

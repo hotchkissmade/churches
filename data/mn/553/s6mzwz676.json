@@ -1,0 +1,33 @@
+{
+  "id": "s6mzwz676",
+  "url": "https://constellation.church/s6mzwz676",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "PO Box C",
+    "city": "Winthrop",
+    "state": "MN",
+    "zip": "55396-0439"
+  },
+  "coordinates": {
+    "latitude": 44.54437255859375,
+    "longitude": -94.37274169921875
+  },
+  "website": "https://zionwinthrop.com/calendar",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24382",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24382"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionwinthrop.com/calendar"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410764119"
+    }
+  ],
+  "advisories": []
+}

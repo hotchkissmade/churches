@@ -1,0 +1,33 @@
+{
+  "id": "aajm0wh95",
+  "url": "https://constellation.church/aajm0wh95",
+  "name": "North Monroe Baptist Church",
+  "displayName": "North Monroe Baptist Church",
+  "address": {
+    "street": "210 Finks Hideaway Rd",
+    "city": "Monroe",
+    "state": "LA",
+    "zip": "71203"
+  },
+  "coordinates": {
+    "latitude": 32.568132400512695,
+    "longitude": -92.07113647460938
+  },
+  "website": "https://northmonroe.com/staff",
+  "listingUrl": "https://churches.sbc.net/church/north-monroe-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "north-monroe-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northmonroe.com/staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720651467"
+    }
+  ],
+  "advisories": []
+}

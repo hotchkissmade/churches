@@ -1,0 +1,33 @@
+{
+  "id": "abag1dk40",
+  "url": "https://constellation.church/abag1dk40",
+  "name": "St Matthew's Lutheran Church",
+  "displayName": "St. Matthew's Lutheran Church",
+  "address": {
+    "street": "2654 W Builders Dr",
+    "city": "Taylorsville",
+    "state": "UT",
+    "zip": "84129-1530"
+  },
+  "coordinates": {
+    "latitude": 40.657684326171875,
+    "longitude": -111.95713806152344
+  },
+  "website": "https://stmatthewsut.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=25a03ebc-24ab-4d5e-9fce-44756cbb2fbe",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "25a03ebc-24ab-4d5e-9fce-44756cbb2fbe"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmatthewsut.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "870456924"
+    }
+  ],
+  "advisories": []
+}

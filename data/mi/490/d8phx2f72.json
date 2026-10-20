@@ -1,0 +1,33 @@
+{
+  "id": "d8phx2f72",
+  "url": "https://constellation.church/d8phx2f72",
+  "name": "Sunnyside United Methodist Church",
+  "displayName": "Sunnyside United Methodist Church",
+  "address": {
+    "street": "2800 Gull Rd",
+    "city": "Kalamazoo",
+    "state": "MI",
+    "zip": "49048-1384"
+  },
+  "coordinates": {
+    "latitude": 42.311981201171875,
+    "longitude": -85.54470825195312
+  },
+  "website": "https://sunnysideumc.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFK4WIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFK4WIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sunnysideumc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382263272"
+    }
+  ],
+  "advisories": []
+}

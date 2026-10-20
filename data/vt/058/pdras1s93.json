@@ -1,0 +1,37 @@
+{
+  "id": "pdras1s93",
+  "url": "https://constellation.church/pdras1s93",
+  "name": "St. Andrew's Episcopal Church",
+  "displayName": "St. Andrew's Episcopal Church",
+  "address": {
+    "street": "1265 Main St",
+    "city": "St Johnsbury",
+    "state": "VT",
+    "zip": "05819-2697"
+  },
+  "coordinates": {
+    "latitude": 44.419729232788086,
+    "longitude": -72.02059555053711
+  },
+  "website": "https://standrewsinvt.org/about",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/episcopal-church-vermont/list/st-andrews-episcopal-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "episcopal-church-vermont/st-andrews-episcopal-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewsinvt.org/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "036010143"
+    },
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ne-sjbsom"
+    }
+  ],
+  "advisories": []
+}

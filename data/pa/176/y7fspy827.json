@@ -1,0 +1,33 @@
+{
+  "id": "y7fspy827",
+  "url": "https://constellation.church/y7fspy827",
+  "name": "Pequea BIC Church",
+  "displayName": "Pequea BIC Church",
+  "address": {
+    "street": "40 Church Rd.",
+    "city": "Lancaster",
+    "state": "PA",
+    "zip": "17603"
+  },
+  "coordinates": {
+    "latitude": 39.9571533203125,
+    "longitude": -76.31183242797852
+  },
+  "website": "https://pequeachurch.com",
+  "listingUrl": "https://bicus.org/church/pequea-bic-church/",
+  "identifiers": [
+    {
+      "namespace": "org.bicus.id",
+      "value": "384"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pequeachurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232133077"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "d54x91a12",
+  "url": "https://constellation.church/d54x91a12",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "6550 Fairmont Blvd",
+    "city": "Yorba Linda",
+    "state": "CA",
+    "zip": "92886-6600"
+  },
+  "coordinates": {
+    "latitude": 33.86711311340332,
+    "longitude": -117.77782440185547
+  },
+  "website": "https://gracelutheran.church",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24040",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24040"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelutheran.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953085225"
+    }
+  ],
+  "advisories": []
+}

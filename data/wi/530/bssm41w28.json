@@ -1,0 +1,33 @@
+{
+  "id": "bssm41w28",
+  "url": "https://constellation.church/bssm41w28",
+  "name": "Dr Martin Luther Lutheran Church",
+  "displayName": "Dr Martin Luther Lutheran Church",
+  "address": {
+    "street": "325 S Main St",
+    "city": "Oconomowoc",
+    "state": "WI",
+    "zip": "53066-3688"
+  },
+  "coordinates": {
+    "latitude": 43.107683181762695,
+    "longitude": -88.49887466430664
+  },
+  "website": "https://drmartinlutherchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0ac9e7a5-93e2-4497-ac24-dcba9505cd77",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0ac9e7a5-93e2-4497-ac24-dcba9505cd77"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "drmartinlutherchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390931785"
+    }
+  ],
+  "advisories": []
+}

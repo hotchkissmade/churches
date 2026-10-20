@@ -1,0 +1,33 @@
+{
+  "id": "qrfwcgw08",
+  "url": "https://constellation.church/qrfwcgw08",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "988 Roosevelt Trail",
+    "city": "Windham",
+    "state": "ME",
+    "zip": "04062"
+  },
+  "coordinates": {
+    "latitude": 43.85848045349121,
+    "longitude": -70.45701217651367
+  },
+  "website": "https://flcwindham.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=40e9f5ca-71ac-4b45-8728-b9c293178160",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "40e9f5ca-71ac-4b45-8728-b9c293178160"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcwindham.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "010379085"
+    }
+  ],
+  "advisories": []
+}

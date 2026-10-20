@@ -1,0 +1,33 @@
+{
+  "id": "dkn169c27",
+  "url": "https://constellation.church/dkn169c27",
+  "name": "Bethel Worship Center",
+  "displayName": "Bethel Worship Center",
+  "address": {
+    "street": "11117 US Highway 231 Wetumpka",
+    "city": null,
+    "state": "AL",
+    "zip": "36092"
+  },
+  "coordinates": {
+    "latitude": 32.5904483795166,
+    "longitude": -86.21280288696289
+  },
+  "website": "https://bethelwetumpka.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=6f3b310f-fe32-48e9-8c2d-b0333440ccae&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "6f3b310f-fe32-48e9-8c2d-b0333440ccae"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelwetumpka.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630838329"
+    }
+  ],
+  "advisories": []
+}

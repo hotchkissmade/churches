@@ -1,0 +1,33 @@
+{
+  "id": "eph0rd192",
+  "url": "https://constellation.church/eph0rd192",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "116 S B St",
+    "city": "Monmouth",
+    "state": "IL",
+    "zip": "61462-1615"
+  },
+  "coordinates": {
+    "latitude": 40.91133117675781,
+    "longitude": -90.651123046875
+  },
+  "website": "https://flcmonmouth.org/day-care",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fbe5346f-87e0-47f6-9313-9a7052afa366",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fbe5346f-87e0-47f6-9313-9a7052afa366"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcmonmouth.org/day-care"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370690425"
+    }
+  ],
+  "advisories": []
+}

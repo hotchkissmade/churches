@@ -1,0 +1,33 @@
+{
+  "id": "qdkf0ft50",
+  "url": "https://constellation.church/qdkf0ft50",
+  "name": "Lutheran Church Of The Resurrection",
+  "displayName": "Lutheran Church Of The Resurrection",
+  "address": {
+    "street": "3115 Victoria St N",
+    "city": "Roseville",
+    "state": "MN",
+    "zip": "55113-1935"
+  },
+  "coordinates": {
+    "latitude": 44.9997444152832,
+    "longitude": -93.13790893554688
+  },
+  "website": "https://lcrelca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=73034cc7-1062-4e10-b8e2-779f3a641d0f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "73034cc7-1062-4e10-b8e2-779f3a641d0f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcrelca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410953996"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "g26pj0h34",
+  "url": "https://constellation.church/g26pj0h34",
+  "name": "Church of the Atonement",
+  "displayName": "Church of the Atonement",
+  "address": {
+    "street": "5073 E Capitol St SE",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20019-5327"
+  },
+  "coordinates": {
+    "latitude": 38.8894100189209,
+    "longitude": -76.9272232055664
+  },
+  "website": "https://atonementepiscopaldc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/church-atonement",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/church-atonement"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "atonementepiscopaldc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521848057"
+    }
+  ],
+  "advisories": []
+}

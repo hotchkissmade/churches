@@ -1,0 +1,33 @@
+{
+  "id": "p4460b438",
+  "url": "https://constellation.church/p4460b438",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "45 Falconer St.",
+    "city": "Frewsburg",
+    "state": "NY",
+    "zip": "14738"
+  },
+  "coordinates": {
+    "latitude": 42.05733299255371,
+    "longitude": -79.15829467773438
+  },
+  "website": "https://zionfrewsburg.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1bfe4e4f-e299-4999-85fa-5b95063f89f8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1bfe4e4f-e299-4999-85fa-5b95063f89f8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionfrewsburg.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161163570"
+    }
+  ],
+  "advisories": []
+}

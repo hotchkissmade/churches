@@ -1,0 +1,33 @@
+{
+  "id": "vmv21qv51",
+  "url": "https://constellation.church/vmv21qv51",
+  "name": "St. Peter's Episcopal Church",
+  "displayName": "St. Peter's Episcopal Church",
+  "address": {
+    "street": "3825 E Henrietta Rd",
+    "city": "Henrietta",
+    "state": "NY",
+    "zip": "14467-9147"
+  },
+  "coordinates": {
+    "latitude": 43.046363830566406,
+    "longitude": -77.62052154541016
+  },
+  "website": "https://henriettachurch.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-rochester/list/st-peters",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-rochester/st-peters"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "henriettachurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161247233"
+    }
+  ],
+  "advisories": []
+}

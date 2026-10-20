@@ -1,0 +1,33 @@
+{
+  "id": "ed7df6z50",
+  "url": "https://constellation.church/ed7df6z50",
+  "name": "Deer Valley Lutheran Church",
+  "displayName": "Deer Valley Lutheran Church",
+  "address": {
+    "street": "220 W Union Hills Dr",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85027-5667"
+  },
+  "coordinates": {
+    "latitude": 33.655385971069336,
+    "longitude": -112.07694244384766
+  },
+  "website": "https://deervalley.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/23995",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "23995"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "deervalley.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860436315"
+    }
+  ],
+  "advisories": []
+}

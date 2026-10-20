@@ -1,0 +1,33 @@
+{
+  "id": "cn0xf5r45",
+  "url": "https://constellation.church/cn0xf5r45",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "38460 Lincoln Trl",
+    "city": "North Branch",
+    "state": "MN",
+    "zip": "55056-5834"
+  },
+  "coordinates": {
+    "latitude": 45.50587463378906,
+    "longitude": -92.96946716308594
+  },
+  "website": "https://trinitynorthbranch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8d263753-6c94-412d-b01b-ac8ef1efa1ba",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8d263753-6c94-412d-b01b-ac8ef1efa1ba"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitynorthbranch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410732184"
+    }
+  ],
+  "advisories": []
+}

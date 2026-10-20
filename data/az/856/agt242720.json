@@ -1,0 +1,33 @@
+{
+  "id": "agt242720",
+  "url": "https://constellation.church/agt242720",
+  "name": "Sierra Vista United Methodist Church",
+  "displayName": "Sierra Vista United Methodist Church",
+  "address": {
+    "street": "3225 Saint Andrews Dr",
+    "city": "Sierra Vista",
+    "state": "AZ",
+    "zip": "85650-6654"
+  },
+  "coordinates": {
+    "latitude": 31.510204315185547,
+    "longitude": -110.2651596069336
+  },
+  "website": "https://sierravistamethodist.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFO5ZIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFO5ZIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sierravistamethodist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860282626"
+    }
+  ],
+  "advisories": []
+}

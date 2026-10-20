@@ -1,0 +1,33 @@
+{
+  "id": "dgqtv1083",
+  "url": "https://constellation.church/dgqtv1083",
+  "name": "Jerusalem Lutheran Church",
+  "displayName": "Jerusalem Lutheran Church",
+  "address": {
+    "street": "9282 Acme Rd",
+    "city": "Seville",
+    "state": "OH",
+    "zip": "44273-9754"
+  },
+  "coordinates": {
+    "latitude": 41.02077865600586,
+    "longitude": -81.79641723632812
+  },
+  "website": "https://jelc-seville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9abf44ee-4d7c-4fc2-9491-2869ee0dcbd0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9abf44ee-4d7c-4fc2-9491-2869ee0dcbd0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jelc-seville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "346004564"
+    }
+  ],
+  "advisories": []
+}

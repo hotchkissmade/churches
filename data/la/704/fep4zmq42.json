@@ -1,0 +1,33 @@
+{
+  "id": "fep4zmq42",
+  "url": "https://constellation.church/fep4zmq42",
+  "name": "Saint Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "707 W Dakota St",
+    "city": "Hammond",
+    "state": "LA",
+    "zip": "70401-2413"
+  },
+  "coordinates": {
+    "latitude": 30.508848190307617,
+    "longitude": -90.47068786621094
+  },
+  "website": "https://mobile.stpaulhammond.org",
+  "listingUrl": "https://locator.lcms.org/church/C/391677",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "391677"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mobile.stpaulhammond.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720684496"
+    }
+  ],
+  "advisories": []
+}

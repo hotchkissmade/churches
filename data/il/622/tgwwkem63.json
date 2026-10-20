@@ -1,0 +1,33 @@
+{
+  "id": "tgwwkem63",
+  "url": "https://constellation.church/tgwwkem63",
+  "name": "First Baptist Church of Dupo",
+  "displayName": "First Baptist Church of Dupo",
+  "address": {
+    "street": "620 Godin Ave",
+    "city": "Dupo",
+    "state": "IL",
+    "zip": "62239"
+  },
+  "coordinates": {
+    "latitude": 38.520103454589844,
+    "longitude": -90.20347595214844
+  },
+  "website": "https://fbcdupo.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-dupo/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-dupo"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcdupo.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370805015"
+    }
+  ],
+  "advisories": []
+}

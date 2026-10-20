@@ -1,0 +1,33 @@
+{
+  "id": "shy61f175",
+  "url": "https://constellation.church/shy61f175",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "231 2nd St SE",
+    "city": "Cook",
+    "state": "MN",
+    "zip": "55723-2604"
+  },
+  "coordinates": {
+    "latitude": 47.85026168823242,
+    "longitude": -92.6861343383789
+  },
+  "website": "https://trinitycook.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b53e78f2-f98b-4f2f-90c8-fd2568bcb67a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b53e78f2-f98b-4f2f-90c8-fd2568bcb67a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitycook.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411328650"
+    }
+  ],
+  "advisories": []
+}

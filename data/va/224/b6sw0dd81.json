@@ -1,0 +1,33 @@
+{
+  "id": "b6sw0dd81",
+  "url": "https://constellation.church/b6sw0dd81",
+  "name": "Oakland Baptist Church",
+  "displayName": "Oakland Baptist Church",
+  "address": {
+    "street": "5520 James Madison Pkwy",
+    "city": "King George",
+    "state": "VA",
+    "zip": "22485"
+  },
+  "coordinates": {
+    "latitude": 38.337839126586914,
+    "longitude": -77.08173751831055
+  },
+  "website": "https://oaklandbc.com",
+  "listingUrl": "https://churches.sbc.net/church/oakland-baptist-church-14/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "oakland-baptist-church-14"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oaklandbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "546047315"
+    }
+  ],
+  "advisories": []
+}

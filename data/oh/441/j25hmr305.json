@@ -1,0 +1,33 @@
+{
+  "id": "j25hmr305",
+  "url": "https://constellation.church/j25hmr305",
+  "name": "City Reach Church Cleveland West",
+  "displayName": "City Reach Church Cleveland West",
+  "address": {
+    "street": "3801 Clark Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44109"
+  },
+  "coordinates": {
+    "latitude": 41.469667,
+    "longitude": -81.710407
+  },
+  "website": "https://cleveland.cityreachchurch.org/about",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=b56f876a-c6d4-407f-8d3d-53aea914968b&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "b56f876a-c6d4-407f-8d3d-53aea914968b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cleveland.cityreachchurch.org/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "453996228"
+    }
+  ],
+  "advisories": []
+}

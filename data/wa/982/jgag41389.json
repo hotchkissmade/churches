@@ -1,0 +1,33 @@
+{
+  "id": "jgag41389",
+  "url": "https://constellation.church/jgag41389",
+  "name": "Oak Harbor Lutheran Church",
+  "displayName": "Oak Harbor Lutheran Church",
+  "address": {
+    "street": "1253 NW 2nd Ave",
+    "city": "Oak Harbor",
+    "state": "WA",
+    "zip": "98277-7220"
+  },
+  "coordinates": {
+    "latitude": 48.30004119873047,
+    "longitude": -122.67325592041016
+  },
+  "website": "https://oakharborlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d293c7cc-e6fa-4cca-b90c-546751b054a9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d293c7cc-e6fa-4cca-b90c-546751b054a9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oakharborlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "916200388"
+    }
+  ],
+  "advisories": []
+}

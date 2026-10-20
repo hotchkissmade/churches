@@ -1,0 +1,33 @@
+{
+  "id": "v1pfmnp89",
+  "url": "https://constellation.church/v1pfmnp89",
+  "name": "Covenant United Methodist Church",
+  "displayName": "Covenant United Methodist Church",
+  "address": {
+    "street": "1124 Culver Rd",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14609-5451"
+  },
+  "coordinates": {
+    "latitude": 43.165916442871094,
+    "longitude": -77.56246948242188
+  },
+  "website": "https://covenantroc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFJ4yIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFJ4yIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covenantroc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "160962776"
+    }
+  ],
+  "advisories": []
+}

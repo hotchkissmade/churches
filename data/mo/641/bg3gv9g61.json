@@ -1,0 +1,33 @@
+{
+  "id": "bg3gv9g61",
+  "url": "https://constellation.church/bg3gv9g61",
+  "name": "Gashland Baptist Church",
+  "displayName": "Gashland Baptist Church",
+  "address": {
+    "street": "601 NE Barry Rd",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64155"
+  },
+  "coordinates": {
+    "latitude": 39.245798110961914,
+    "longitude": -94.57318115234375
+  },
+  "website": "https://gashlandbc.org",
+  "listingUrl": "https://churches.sbc.net/church/gashland-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "gashland-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gashlandbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "436040880"
+    }
+  ],
+  "advisories": []
+}

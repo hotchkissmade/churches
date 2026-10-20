@@ -1,0 +1,33 @@
+{
+  "id": "zb4d2xn83",
+  "url": "https://constellation.church/zb4d2xn83",
+  "name": "Shoreline Bible Church",
+  "displayName": "Shoreline Bible Church",
+  "address": {
+    "street": "1060 W Granada Blvd",
+    "city": "Ormond Beach",
+    "state": "FL",
+    "zip": "32174"
+  },
+  "coordinates": {
+    "latitude": 29.273723602294922,
+    "longitude": -81.0943374633789
+  },
+  "website": "https://ormondgrace.org",
+  "listingUrl": "https://churches.sbc.net/church/shoreline-bible-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "shoreline-bible-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ormondgrace.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591905936"
+    }
+  ],
+  "advisories": []
+}

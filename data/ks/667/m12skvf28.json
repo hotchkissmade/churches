@@ -1,0 +1,33 @@
+{
+  "id": "m12skvf28",
+  "url": "https://constellation.church/m12skvf28",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "304 W 3rd St",
+    "city": "Pittsburg",
+    "state": "KS",
+    "zip": "66762-4707"
+  },
+  "coordinates": {
+    "latitude": 37.41013526916504,
+    "longitude": -94.70820617675781
+  },
+  "website": "https://stjohnpittsburg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c615cc67-77f8-4627-b150-a886c51d4311",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c615cc67-77f8-4627-b150-a886c51d4311"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnpittsburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480622402"
+    }
+  ],
+  "advisories": []
+}

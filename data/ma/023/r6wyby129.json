@@ -1,0 +1,33 @@
+{
+  "id": "r6wyby129",
+  "url": "https://constellation.church/r6wyby129",
+  "name": "Grace Church – Avon",
+  "displayName": "Grace Church – Avon",
+  "address": {
+    "street": "101 Wales Ave",
+    "city": "Avon",
+    "state": "MA",
+    "zip": "02322"
+  },
+  "coordinates": {
+    "latitude": 42.14500045776367,
+    "longitude": -71.0557975769043
+  },
+  "website": "https://thatsgrace.org",
+  "listingUrl": "https://churches.sbc.net/church/grace-church-avon/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grace-church-avon"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thatsgrace.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "274402635"
+    }
+  ],
+  "advisories": []
+}

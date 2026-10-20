@@ -1,0 +1,33 @@
+{
+  "id": "mm5r6jb09",
+  "url": "https://constellation.church/mm5r6jb09",
+  "name": "Lighthouse Worship Center",
+  "displayName": "Lighthouse Worship Center",
+  "address": {
+    "street": "17 Chestnut Ave",
+    "city": "Hillburn",
+    "state": "NY",
+    "zip": "10931"
+  },
+  "coordinates": {
+    "latitude": 41.12322807312012,
+    "longitude": -74.17170333862305
+  },
+  "website": "https://lighthousehillburn.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=c345abf9-9337-4dd0-9a51-cd82e72ee56a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "c345abf9-9337-4dd0-9a51-cd82e72ee56a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lighthousehillburn.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "133201205"
+    }
+  ],
+  "advisories": []
+}

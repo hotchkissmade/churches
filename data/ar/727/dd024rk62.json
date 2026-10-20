@@ -1,0 +1,33 @@
+{
+  "id": "dd024rk62",
+  "url": "https://constellation.church/dd024rk62",
+  "name": "Centro Cristiano",
+  "displayName": "Centro Cristiano",
+  "address": {
+    "street": "2121 S 1st St",
+    "city": "Rogers",
+    "state": "AR",
+    "zip": "72758"
+  },
+  "coordinates": {
+    "latitude": 36.30708312988281,
+    "longitude": -94.11595153808594
+  },
+  "website": "https://ccrogers.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=cc0a5b2f-3559-43a0-893d-0b765c1266ce&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "cc0a5b2f-3559-43a0-893d-0b765c1266ce"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ccrogers.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "710772914"
+    }
+  ],
+  "advisories": []
+}

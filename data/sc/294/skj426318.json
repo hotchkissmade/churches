@@ -1,0 +1,33 @@
+{
+  "id": "skj426318",
+  "url": "https://constellation.church/skj426318",
+  "name": "Ridge Baptist Church",
+  "displayName": "Ridge Baptist Church",
+  "address": {
+    "street": "2168 Ridge Church Rd",
+    "city": "Summerville",
+    "state": "SC",
+    "zip": "29486"
+  },
+  "coordinates": {
+    "latitude": 33.04166221618652,
+    "longitude": -80.11138916015625
+  },
+  "website": "https://theridgesummerville.org",
+  "listingUrl": "https://churches.sbc.net/church/ridge-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "ridge-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "theridgesummerville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570521476"
+    }
+  ],
+  "advisories": []
+}

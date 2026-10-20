@@ -1,0 +1,33 @@
+{
+  "id": "j22gnze11",
+  "url": "https://constellation.church/j22gnze11",
+  "name": "Essential Church",
+  "displayName": "Essential Church",
+  "address": {
+    "street": "4020 Ware Neck Dr",
+    "city": "Virginia Bch",
+    "state": "VA",
+    "zip": "23456"
+  },
+  "coordinates": {
+    "latitude": 36.77343559265137,
+    "longitude": -76.12411880493164
+  },
+  "website": "https://essentialchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/essential-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "essential-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "essentialchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541458213"
+    }
+  ],
+  "advisories": []
+}

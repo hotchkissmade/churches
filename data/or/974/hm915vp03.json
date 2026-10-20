@@ -1,0 +1,33 @@
+{
+  "id": "hm915vp03",
+  "url": "https://constellation.church/hm915vp03",
+  "name": "Bethesda Lutheran Church",
+  "displayName": "Bethesda Lutheran Church",
+  "address": {
+    "street": "4445 Royal Ave",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97402-1752"
+  },
+  "coordinates": {
+    "latitude": 44.070552825927734,
+    "longitude": -123.17142486572266
+  },
+  "website": "https://bethesdalutheranchurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0579ab02-7343-471b-a8ca-354c6d032ecd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0579ab02-7343-471b-a8ca-354c6d032ecd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethesdalutheranchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930358654"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "f7kee4b70",
+  "url": "https://constellation.church/f7kee4b70",
+  "name": "Norris Ferry Community Church",
+  "displayName": "Norris Ferry Community Church",
+  "address": {
+    "street": "10509 Norris Ferry Rd",
+    "city": "Shreveport",
+    "state": "LA",
+    "zip": "71106"
+  },
+  "coordinates": {
+    "latitude": 32.354360580444336,
+    "longitude": -93.71308898925781
+  },
+  "website": "https://norrisferrychurch.org",
+  "listingUrl": "https://churches.sbc.net/church/norris-ferry-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "norris-ferry-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "norrisferrychurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "010844824"
+    }
+  ],
+  "advisories": []
+}

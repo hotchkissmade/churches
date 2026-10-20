@@ -1,0 +1,33 @@
+{
+  "id": "a8pp88x28",
+  "url": "https://constellation.church/a8pp88x28",
+  "name": "State College Friends Meeting",
+  "displayName": "State College Friends Meeting",
+  "address": {
+    "street": "611 E Prospect Ave",
+    "city": "State College",
+    "state": "PA",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 40.79817199707031,
+    "longitude": -77.84976196289062
+  },
+  "website": "https://statecollegefriends.org/donate",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/state-college-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "state-college-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "statecollegefriends.org/donate"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "246024065"
+    }
+  ],
+  "advisories": []
+}

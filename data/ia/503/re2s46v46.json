@@ -1,0 +1,33 @@
+{
+  "id": "re2s46v46",
+  "url": "https://constellation.church/re2s46v46",
+  "name": "Capitol Hill Lutheran Church",
+  "displayName": "Capitol Hill Lutheran Church",
+  "address": {
+    "street": "511 Des Moines St",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50309-5450"
+  },
+  "coordinates": {
+    "latitude": 41.59159851074219,
+    "longitude": -93.61141204833984
+  },
+  "website": "https://chlcdesmoines.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b1a210be-28d8-4abc-8180-fb2a0fbb8851",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b1a210be-28d8-4abc-8180-fb2a0fbb8851"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chlcdesmoines.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "743030671"
+    }
+  ],
+  "advisories": []
+}

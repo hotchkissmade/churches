@@ -1,0 +1,33 @@
+{
+  "id": "r995kjf17",
+  "url": "https://constellation.church/r995kjf17",
+  "name": "Lutheran Church Of The Cross",
+  "displayName": "Lutheran Church Of The Cross",
+  "address": {
+    "street": "1402 16th St E",
+    "city": "West Fargo",
+    "state": "ND",
+    "zip": "58078-3411"
+  },
+  "coordinates": {
+    "latitude": 46.86045455932617,
+    "longitude": -96.87432098388672
+  },
+  "website": "https://lcc-wf.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=52f1e8db-f615-48d5-a023-8cf8d0c22c0e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "52f1e8db-f615-48d5-a023-8cf8d0c22c0e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcc-wf.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450360370"
+    }
+  ],
+  "advisories": []
+}

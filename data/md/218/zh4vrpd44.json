@@ -1,0 +1,33 @@
+{
+  "id": "zh4vrpd44",
+  "url": "https://constellation.church/zh4vrpd44",
+  "name": "Pocomoke First Baptist Church",
+  "displayName": "Pocomoke First Baptist Church",
+  "address": {
+    "street": "204 4th St",
+    "city": "Pocomoke City",
+    "state": "MD",
+    "zip": "21851"
+  },
+  "coordinates": {
+    "latitude": 38.07369804382324,
+    "longitude": -75.5663070678711
+  },
+  "website": "https://fbcpocomoke.com",
+  "listingUrl": "https://churches.sbc.net/church/pocomoke-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pocomoke-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcpocomoke.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520730222"
+    }
+  ],
+  "advisories": []
+}

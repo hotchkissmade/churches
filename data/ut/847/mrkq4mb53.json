@@ -1,0 +1,33 @@
+{
+  "id": "mrkq4mb53",
+  "url": "https://constellation.church/mrkq4mb53",
+  "name": "New Promise Lutheran Church",
+  "displayName": "New Promise Lutheran Church",
+  "address": {
+    "street": "244 S Valley View Dr",
+    "city": "St George",
+    "state": "UT",
+    "zip": "84770-5848"
+  },
+  "coordinates": {
+    "latitude": 37.10446548461914,
+    "longitude": -113.61420440673828
+  },
+  "website": "https://newpromiselutheran.church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1e61943e-4a11-4b0d-ab98-1737aae4df2a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1e61943e-4a11-4b0d-ab98-1737aae4df2a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newpromiselutheran.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "870545600"
+    }
+  ],
+  "advisories": []
+}

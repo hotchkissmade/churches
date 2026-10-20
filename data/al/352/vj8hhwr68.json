@@ -1,0 +1,33 @@
+{
+  "id": "vj8hhwr68",
+  "url": "https://constellation.church/vj8hhwr68",
+  "name": "North Shelby Baptist Church",
+  "displayName": "North Shelby Baptist Church",
+  "address": {
+    "street": "4100 Belcher Dr",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35242"
+  },
+  "coordinates": {
+    "latitude": 33.375932693481445,
+    "longitude": -86.66752243041992
+  },
+  "website": "https://northshelbybaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/north-shelby-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "north-shelby-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northshelbybaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "631105076"
+    }
+  ],
+  "advisories": []
+}

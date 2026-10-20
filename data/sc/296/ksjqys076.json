@@ -1,0 +1,33 @@
+{
+  "id": "ksjqys076",
+  "url": "https://constellation.church/ksjqys076",
+  "name": "West Pelzer Baptist Church",
+  "displayName": "West Pelzer Baptist Church",
+  "address": {
+    "street": "29 Main St",
+    "city": "Pelzer",
+    "state": "SC",
+    "zip": "29669"
+  },
+  "coordinates": {
+    "latitude": 34.64430809020996,
+    "longitude": -82.46911239624023
+  },
+  "website": "https://westpelzerbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/west-pelzer-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "west-pelzer-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westpelzerbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570560849"
+    }
+  ],
+  "advisories": []
+}

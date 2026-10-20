@@ -1,0 +1,33 @@
+{
+  "id": "gz86m5107",
+  "url": "https://constellation.church/gz86m5107",
+  "name": "St. John the Baptist, Seattle",
+  "displayName": "St. John the Baptist, Seattle",
+  "address": {
+    "street": "3050 California Ave SW",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98116-3302"
+  },
+  "coordinates": {
+    "latitude": 47.57598114013672,
+    "longitude": -122.38639068603516
+  },
+  "website": "https://stjohnsea.org/baptism",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-olympia/list/church-st-john-baptist",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-olympia/church-st-john-baptist"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsea.org/baptism"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910672545"
+    }
+  ],
+  "advisories": []
+}

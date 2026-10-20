@@ -1,0 +1,33 @@
+{
+  "id": "k9defbb27",
+  "url": "https://constellation.church/k9defbb27",
+  "name": "Trinity Episcopal Cathedral",
+  "displayName": "Trinity Episcopal Cathedral",
+  "address": {
+    "street": "81 N 2nd St",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95113-1282"
+  },
+  "coordinates": {
+    "latitude": 37.337881088256836,
+    "longitude": -121.8907699584961
+  },
+  "website": "https://trinitysj.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-el-camino-real/list/trinity-episcopal-cathedral",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-el-camino-real/trinity-episcopal-cathedral"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitysj.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941156841"
+    }
+  ],
+  "advisories": []
+}

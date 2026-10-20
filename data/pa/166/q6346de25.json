@@ -1,0 +1,33 @@
+{
+  "id": "q6346de25",
+  "url": "https://constellation.church/q6346de25",
+  "name": "Glendale Assembly of God",
+  "displayName": "Glendale Assembly of God",
+  "address": {
+    "street": "1153 Main St",
+    "city": "Coalport",
+    "state": "PA",
+    "zip": "16627"
+  },
+  "coordinates": {
+    "latitude": 40.75111770629883,
+    "longitude": -78.53506088256836
+  },
+  "website": "https://glendaleassembly.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=3a49a9ae-ed5e-416f-943b-a33d55608fe8&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "3a49a9ae-ed5e-416f-943b-a33d55608fe8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "glendaleassembly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251427562"
+    }
+  ],
+  "advisories": []
+}

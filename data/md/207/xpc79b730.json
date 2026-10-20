@@ -1,0 +1,33 @@
+{
+  "id": "xpc79b730",
+  "url": "https://constellation.church/xpc79b730",
+  "name": "Wallace Presbyterian Church",
+  "displayName": "Wallace Presbyterian Church",
+  "address": {
+    "street": "3725 Metzerott Road",
+    "city": "College Park",
+    "state": "MD",
+    "zip": "20740"
+  },
+  "coordinates": {
+    "latitude": 39.00006866455078,
+    "longitude": -76.94546890258789
+  },
+  "website": "https://wallacepca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1049",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1049"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wallacepca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "530196634"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "x5qedrm16",
+  "url": "https://constellation.church/x5qedrm16",
+  "name": "Tallowood Baptist Church",
+  "displayName": "Tallowood Baptist Church",
+  "address": {
+    "street": "555 Tallowood Rd",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77024"
+  },
+  "coordinates": {
+    "latitude": 29.775400161743164,
+    "longitude": -95.5523910522461
+  },
+  "website": "https://tallowood.org",
+  "listingUrl": "https://churches.sbc.net/church/tallowood-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "tallowood-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tallowood.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741388596"
+    }
+  ],
+  "advisories": []
+}

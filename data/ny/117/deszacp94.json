@@ -1,0 +1,33 @@
+{
+  "id": "deszacp94",
+  "url": "https://constellation.church/deszacp94",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "2150 Centre Ave",
+    "city": "Bellmore",
+    "state": "NY",
+    "zip": "11710-3425"
+  },
+  "coordinates": {
+    "latitude": 40.66991424560547,
+    "longitude": -73.53174209594727
+  },
+  "website": "https://stjohnbellmore.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=85b2d096-3994-4f1e-b43d-ba5a2338e315",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "85b2d096-3994-4f1e-b43d-ba5a2338e315"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnbellmore.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112663012"
+    }
+  ],
+  "advisories": []
+}

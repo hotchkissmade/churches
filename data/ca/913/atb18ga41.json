@@ -1,0 +1,33 @@
+{
+  "id": "atb18ga41",
+  "url": "https://constellation.church/atb18ga41",
+  "name": "New Hope Lutheran Church",
+  "displayName": "New Hope Lutheran Church",
+  "address": {
+    "street": "29295 Agoura Rd",
+    "city": "Agoura Hills",
+    "state": "CA",
+    "zip": "91301-2521"
+  },
+  "coordinates": {
+    "latitude": 34.14410972595215,
+    "longitude": -118.76361846923828
+  },
+  "website": "https://newhopeagoura.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cfa9be14-30e9-423e-9586-a95cb1651e95",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cfa9be14-30e9-423e-9586-a95cb1651e95"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newhopeagoura.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953463503"
+    }
+  ],
+  "advisories": []
+}

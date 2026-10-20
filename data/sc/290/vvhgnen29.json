@@ -1,0 +1,33 @@
+{
+  "id": "vvhgnen29",
+  "url": "https://constellation.church/vvhgnen29",
+  "name": "Willow Lake Church",
+  "displayName": "Willow Lake Church",
+  "address": {
+    "street": "111 Pine Wedge Dr",
+    "city": "Blythewood",
+    "state": "SC",
+    "zip": "29016"
+  },
+  "coordinates": {
+    "latitude": 34.18498992919922,
+    "longitude": -80.9613265991211
+  },
+  "website": "https://willowlakechurch.org",
+  "listingUrl": "https://churches.sbc.net/church/willow-lake-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "willow-lake-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "willowlakechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "571063541"
+    }
+  ],
+  "advisories": []
+}

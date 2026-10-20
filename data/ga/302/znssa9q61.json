@@ -1,0 +1,33 @@
+{
+  "id": "znssa9q61",
+  "url": "https://constellation.church/znssa9q61",
+  "name": "The Rock Presbyterian Church",
+  "displayName": "The Rock Presbyterian Church",
+  "address": {
+    "street": "33 White Drive",
+    "city": "Stockbridge",
+    "state": "GA",
+    "zip": "30281"
+  },
+  "coordinates": {
+    "latitude": 33.57172966003418,
+    "longitude": -84.1485366821289
+  },
+  "website": "https://sites.google.com/view/therockpca-org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/985",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "985"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sites.google.com/view/therockpca-org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581740251"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qbh19sf37",
+  "url": "https://constellation.church/qbh19sf37",
+  "name": "Southwood Baptist Church",
+  "displayName": "Southwood Baptist Church",
+  "address": {
+    "street": "4020 S 102nd East Ave",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74146"
+  },
+  "coordinates": {
+    "latitude": 36.10573768615723,
+    "longitude": -95.8642578125
+  },
+  "website": "https://swood.net",
+  "listingUrl": "https://churches.sbc.net/church/southwood-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "southwood-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "swood.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "731006221"
+    }
+  ],
+  "advisories": []
+}

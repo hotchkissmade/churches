@@ -1,0 +1,33 @@
+{
+  "id": "rsvxn2887",
+  "url": "https://constellation.church/rsvxn2887",
+  "name": "Landrum First Baptist Church",
+  "displayName": "Landrum First Baptist Church",
+  "address": {
+    "street": "300 E Rutherford St",
+    "city": "Landrum",
+    "state": "SC",
+    "zip": "29356"
+  },
+  "coordinates": {
+    "latitude": 35.17498779296875,
+    "longitude": -82.18610382080078
+  },
+  "website": "https://fbclandrum.com",
+  "listingUrl": "https://churches.sbc.net/church/landrum-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "landrum-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbclandrum.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570377868"
+    }
+  ],
+  "advisories": []
+}

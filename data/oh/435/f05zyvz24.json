@@ -1,0 +1,33 @@
+{
+  "id": "f05zyvz24",
+  "url": "https://constellation.church/f05zyvz24",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "1801 E 2nd St",
+    "city": "Defiance",
+    "state": "OH",
+    "zip": "43512-2501"
+  },
+  "coordinates": {
+    "latitude": 41.282400131225586,
+    "longitude": -84.33296203613281
+  },
+  "website": "https://zionslutheranchurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b7830bb1-4482-4594-8fd9-500eb2285473",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b7830bb1-4482-4594-8fd9-500eb2285473"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionslutheranchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "346408697"
+    }
+  ],
+  "advisories": []
+}

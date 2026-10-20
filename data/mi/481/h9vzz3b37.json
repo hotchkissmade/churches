@@ -1,0 +1,33 @@
+{
+  "id": "h9vzz3b37",
+  "url": "https://constellation.church/h9vzz3b37",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "3050 S Fletcher Rd",
+    "city": "Chelsea",
+    "state": "MI",
+    "zip": "48118-9205"
+  },
+  "coordinates": {
+    "latitude": 42.238712310791016,
+    "longitude": -83.97476196289062
+  },
+  "website": "https://zionchelsea.org/about-us",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=86d60a4a-b8e8-407f-98e0-cfa5420a8f65",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "86d60a4a-b8e8-407f-98e0-cfa5420a8f65"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionchelsea.org/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "386094692"
+    }
+  ],
+  "advisories": []
+}

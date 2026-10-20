@@ -1,0 +1,33 @@
+{
+  "id": "k6g7ef843",
+  "url": "https://constellation.church/k6g7ef843",
+  "name": "Shepherd Of The Hill Lutheran Church",
+  "displayName": "Shepherd Of The Hill Lutheran Church",
+  "address": {
+    "street": "925 E 9th St",
+    "city": "Lockport",
+    "state": "IL",
+    "zip": "60441-3237"
+  },
+  "coordinates": {
+    "latitude": 41.59116744995117,
+    "longitude": -88.04146957397461
+  },
+  "website": "https://shepherdofthehill.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5fe4edc2-3181-4f4f-8f51-0d2fda35c89c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5fe4edc2-3181-4f4f-8f51-0d2fda35c89c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "shepherdofthehill.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362557614"
+    }
+  ],
+  "advisories": []
+}

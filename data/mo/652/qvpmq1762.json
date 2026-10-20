@@ -1,0 +1,33 @@
+{
+  "id": "qvpmq1762",
+  "url": "https://constellation.church/qvpmq1762",
+  "name": "First Baptist Church Salisbury",
+  "displayName": "First Baptist Church Salisbury",
+  "address": {
+    "street": "118 E 3rd St",
+    "city": "Salisbury",
+    "state": "MO",
+    "zip": "65281"
+  },
+  "coordinates": {
+    "latitude": 39.42307090759277,
+    "longitude": -92.8003158569336
+  },
+  "website": "https://fbcsalisbury.com/events",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-salisbury/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-salisbury"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcsalisbury.com/events"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431055212"
+    }
+  ],
+  "advisories": []
+}

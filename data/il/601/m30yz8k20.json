@@ -1,0 +1,33 @@
+{
+  "id": "m30yz8k20",
+  "url": "https://constellation.church/m30yz8k20",
+  "name": "Holy Cross Lutheran Church",
+  "displayName": "Holy Cross Lutheran Church",
+  "address": {
+    "street": "802 E Geneva Rd",
+    "city": "Wheaton",
+    "state": "IL",
+    "zip": "60187-2808"
+  },
+  "coordinates": {
+    "latitude": 41.88751983642578,
+    "longitude": -88.09535598754883
+  },
+  "website": "https://holycrosswheaton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=93adcd7e-0b74-4dac-9bea-ef36d6d67d64",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "93adcd7e-0b74-4dac-9bea-ef36d6d67d64"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holycrosswheaton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366096795"
+    }
+  ],
+  "advisories": []
+}

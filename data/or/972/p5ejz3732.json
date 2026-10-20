@@ -1,0 +1,33 @@
+{
+  "id": "p5ejz3732",
+  "url": "https://constellation.church/p5ejz3732",
+  "name": "St James Lutheran Church",
+  "displayName": "St. James Lutheran Church",
+  "address": {
+    "street": "1315 SW Park Ave",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97201-3426"
+  },
+  "coordinates": {
+    "latitude": 45.51551818847656,
+    "longitude": -122.68347930908203
+  },
+  "website": "https://stjamespdx.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ae4a86aa-67db-4ff4-b8ba-7afc5f3189d7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ae4a86aa-67db-4ff4-b8ba-7afc5f3189d7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamespdx.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930480596"
+    }
+  ],
+  "advisories": []
+}

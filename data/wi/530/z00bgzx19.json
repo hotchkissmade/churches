@@ -1,0 +1,33 @@
+{
+  "id": "z00bgzx19",
+  "url": "https://constellation.church/z00bgzx19",
+  "name": "Our Savior Lutheran Church",
+  "displayName": "Our Savior Lutheran Church",
+  "address": {
+    "street": "145 E Lisbon Rd",
+    "city": "Oconomowoc",
+    "state": "WI",
+    "zip": "53066-2834"
+  },
+  "coordinates": {
+    "latitude": 43.11952590942383,
+    "longitude": -88.49748992919922
+  },
+  "website": "https://oslc-wi.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7bd067a5-84d8-4f55-b8d7-ea4c5e615b48",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7bd067a5-84d8-4f55-b8d7-ea4c5e615b48"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oslc-wi.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390990352"
+    }
+  ],
+  "advisories": []
+}

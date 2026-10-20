@@ -1,0 +1,33 @@
+{
+  "id": "va3fway27",
+  "url": "https://constellation.church/va3fway27",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "65 Washington Rd",
+    "city": "Westminster",
+    "state": "MD",
+    "zip": "21157-5640"
+  },
+  "coordinates": {
+    "latitude": 39.56191062927246,
+    "longitude": -76.98697280883789
+  },
+  "website": "https://fpcwest.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/337/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "337"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcwest.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521035694"
+    }
+  ],
+  "advisories": []
+}

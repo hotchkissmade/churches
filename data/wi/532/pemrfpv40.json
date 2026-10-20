@@ -1,0 +1,33 @@
+{
+  "id": "pemrfpv40",
+  "url": "https://constellation.church/pemrfpv40",
+  "name": "Saint Pauls Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "8080 N 47th St",
+    "city": "Brown Deer",
+    "state": "WI",
+    "zip": "53223-3727"
+  },
+  "coordinates": {
+    "latitude": 43.16518592834473,
+    "longitude": -87.9695816040039
+  },
+  "website": "https://stpaulsbrowndeer.org",
+  "listingUrl": "https://locator.lcms.org/church/C/112184",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "112184"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsbrowndeer.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391030591"
+    }
+  ],
+  "advisories": []
+}

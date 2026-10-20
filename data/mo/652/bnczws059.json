@@ -1,0 +1,33 @@
+{
+  "id": "bnczws059",
+  "url": "https://constellation.church/bnczws059",
+  "name": "First Baptist Church Moberly",
+  "displayName": "First Baptist Church Moberly",
+  "address": {
+    "street": "514 W Rollins St",
+    "city": "Moberly",
+    "state": "MO",
+    "zip": "65270"
+  },
+  "coordinates": {
+    "latitude": 39.418704986572266,
+    "longitude": -92.44255065917969
+  },
+  "website": "https://fbcmoberly.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-moberly/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-moberly"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcmoberly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430690318"
+    }
+  ],
+  "advisories": []
+}

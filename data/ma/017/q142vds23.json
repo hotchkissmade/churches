@@ -1,0 +1,33 @@
+{
+  "id": "q142vds23",
+  "url": "https://constellation.church/q142vds23",
+  "name": "Sudbury United Methodist Church",
+  "displayName": "Sudbury United Methodist Church",
+  "address": {
+    "street": "251 Old Sudbury Road",
+    "city": "Sudbury",
+    "state": "MA",
+    "zip": "01776"
+  },
+  "coordinates": {
+    "latitude": 42.38022994995117,
+    "longitude": -71.40958786010742
+  },
+  "website": "https://sudbury-umc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFLnIIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFLnIIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sudbury-umc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042852058"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "we8nv2s64",
+  "url": "https://constellation.church/we8nv2s64",
+  "name": "CrossPoint Presbyterian Church",
+  "displayName": "CrossPoint Presbyterian Church",
+  "address": {
+    "street": "4199 Kilby Road",
+    "city": "Park City",
+    "state": "UT",
+    "zip": "84098"
+  },
+  "coordinates": {
+    "latitude": 40.75191879272461,
+    "longitude": -111.59211730957031
+  },
+  "website": "https://crosspointpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5416",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5416"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "crosspointpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371594805"
+    }
+  ],
+  "advisories": []
+}

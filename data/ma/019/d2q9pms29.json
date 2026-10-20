@@ -1,0 +1,33 @@
+{
+  "id": "d2q9pms29",
+  "url": "https://constellation.church/d2q9pms29",
+  "name": "New Hope Assembly",
+  "displayName": "New Hope Assembly",
+  "address": {
+    "street": "9 Assembly Dr",
+    "city": "Saugus",
+    "state": "MA",
+    "zip": "01906"
+  },
+  "coordinates": {
+    "latitude": 42.4562873840332,
+    "longitude": -71.00814437866211
+  },
+  "website": "https://newhopesaugus.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=2bfeb85c-3e63-42f1-a64d-ef8ce6f74131&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "2bfeb85c-3e63-42f1-a64d-ef8ce6f74131"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newhopesaugus.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042774990"
+    }
+  ],
+  "advisories": []
+}

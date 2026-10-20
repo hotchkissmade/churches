@@ -1,0 +1,33 @@
+{
+  "id": "vq0wy1b03",
+  "url": "https://constellation.church/vq0wy1b03",
+  "name": "Royal City Church",
+  "displayName": "Royal City Church",
+  "address": {
+    "street": "8821 Aviation Blvd. #882471",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90009"
+  },
+  "coordinates": {
+    "latitude": 33.96124839782715,
+    "longitude": -118.3517074584961
+  },
+  "website": "https://royalcitychurch.org",
+  "listingUrl": "https://churches.sbc.net/church/royal-city-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "royal-city-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "royalcitychurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "862241847"
+    }
+  ],
+  "advisories": []
+}

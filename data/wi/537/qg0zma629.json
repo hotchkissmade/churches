@@ -1,0 +1,33 @@
+{
+  "id": "qg0zma629",
+  "url": "https://constellation.church/qg0zma629",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "312 Wisconsin Ave",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53703-2108"
+  },
+  "coordinates": {
+    "latitude": 43.076826095581055,
+    "longitude": -89.3878173828125
+  },
+  "website": "https://bethel-madison.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=227df2aa-14b9-47e8-a0af-653c2aa3c1de",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "227df2aa-14b9-47e8-a0af-653c2aa3c1de"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethel-madison.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390869781"
+    }
+  ],
+  "advisories": []
+}

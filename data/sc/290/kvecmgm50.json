@@ -1,0 +1,33 @@
+{
+  "id": "kvecmgm50",
+  "url": "https://constellation.church/kvecmgm50",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "401 Main at Church",
+    "city": "Gilbert",
+    "state": "SC",
+    "zip": "29054"
+  },
+  "coordinates": {
+    "latitude": 33.92055320739746,
+    "longitude": -81.39375686645508
+  },
+  "website": "https://gracelutheranchurchgilbert.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0e7a427e-4225-49d9-97d8-dfcd3c649db8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0e7a427e-4225-49d9-97d8-dfcd3c649db8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelutheranchurchgilbert.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570779351"
+    }
+  ],
+  "advisories": []
+}

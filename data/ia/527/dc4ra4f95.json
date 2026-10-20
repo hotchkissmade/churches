@@ -1,0 +1,33 @@
+{
+  "id": "dc4ra4f95",
+  "url": "https://constellation.church/dc4ra4f95",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "204 Highway 67",
+    "city": "Princeton",
+    "state": "IA",
+    "zip": "52768"
+  },
+  "coordinates": {
+    "latitude": 41.67632865905762,
+    "longitude": -90.34107971191406
+  },
+  "website": "https://zionprinceton.org/contact.html",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ceb56978-94d2-4170-a8c2-5dfa58e2d327",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ceb56978-94d2-4170-a8c2-5dfa58e2d327"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionprinceton.org/contact.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421081545"
+    }
+  ],
+  "advisories": []
+}

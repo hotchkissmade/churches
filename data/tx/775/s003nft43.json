@@ -1,0 +1,33 @@
+{
+  "id": "s003nft43",
+  "url": "https://constellation.church/s003nft43",
+  "name": "Parkway Church",
+  "displayName": "Parkway Church",
+  "address": {
+    "street": "3005 Pearland Pkwy",
+    "city": "Pearland",
+    "state": "TX",
+    "zip": "77581"
+  },
+  "coordinates": {
+    "latitude": 29.553325653076172,
+    "longitude": -95.26460266113281
+  },
+  "website": "https://parkwaychurch.com",
+  "listingUrl": "https://churches.sbc.net/church/parkway-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "parkway-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parkwaychurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741497710"
+    }
+  ],
+  "advisories": []
+}

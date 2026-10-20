@@ -1,0 +1,33 @@
+{
+  "id": "ykbkscb13",
+  "url": "https://constellation.church/ykbkscb13",
+  "name": "Lutheran Church of the Incarnation",
+  "displayName": "Lutheran Church of the Incarnation",
+  "address": {
+    "street": "1701 Russell Blvd",
+    "city": "Davis",
+    "state": "CA",
+    "zip": "95616-3138"
+  },
+  "coordinates": {
+    "latitude": 38.546831130981445,
+    "longitude": -121.77091979980469
+  },
+  "website": "https://lcidavis.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d8aca548-3967-4ba4-9d55-6be7e1203105",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d8aca548-3967-4ba4-9d55-6be7e1203105"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcidavis.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942391088"
+    }
+  ],
+  "advisories": []
+}

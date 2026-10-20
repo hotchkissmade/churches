@@ -1,0 +1,33 @@
+{
+  "id": "mm06rvz40",
+  "url": "https://constellation.church/mm06rvz40",
+  "name": "First Baptist Church Clarksdale",
+  "displayName": "First Baptist Church Clarksdale",
+  "address": {
+    "street": "213 N 2nd St",
+    "city": "Clarksdale",
+    "state": "MO",
+    "zip": "64430"
+  },
+  "coordinates": {
+    "latitude": 39.81164360046387,
+    "longitude": -94.55131530761719
+  },
+  "website": "https://clarksdalebaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-clarksdale/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-clarksdale"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clarksdalebaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431322881"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rtdwz7f13",
+  "url": "https://constellation.church/rtdwz7f13",
+  "name": "Red Hill Church",
+  "displayName": "Red Hill Church",
+  "address": {
+    "street": "39 Kettle River Dr",
+    "city": "Glen Carbon",
+    "state": "IL",
+    "zip": "62034"
+  },
+  "coordinates": {
+    "latitude": 38.780569076538086,
+    "longitude": -89.95921325683594
+  },
+  "website": "https://redhill.church",
+  "listingUrl": "https://churches.sbc.net/church/red-hill-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "red-hill-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redhill.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "472181963"
+    }
+  ],
+  "advisories": []
+}

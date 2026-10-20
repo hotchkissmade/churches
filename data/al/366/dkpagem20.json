@@ -1,0 +1,33 @@
+{
+  "id": "dkpagem20",
+  "url": "https://constellation.church/dkpagem20",
+  "name": "St. John's Episcopal Church",
+  "displayName": "St. John's Episcopal Church",
+  "address": {
+    "street": "1707 Government St",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36604-1103"
+  },
+  "coordinates": {
+    "latitude": 30.677722930908203,
+    "longitude": -88.08019638061523
+  },
+  "website": "https://stjohnsmobile.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-central-gulf-coast/list/st-johns-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-central-gulf-coast/st-johns-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsmobile.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630312921"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "r6y7abk04",
+  "url": "https://constellation.church/r6y7abk04",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "1120 Curlew Rd",
+    "city": "Dunedin",
+    "state": "FL",
+    "zip": "34698-1917"
+  },
+  "coordinates": {
+    "latitude": 28.049636840820312,
+    "longitude": -82.77667617797852
+  },
+  "website": "https://stmlc.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fba80e01-24a6-4bc8-9d82-d74e963ca8a6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fba80e01-24a6-4bc8-9d82-d74e963ca8a6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmlc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591259459"
+    }
+  ],
+  "advisories": []
+}

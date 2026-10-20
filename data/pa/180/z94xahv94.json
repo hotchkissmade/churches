@@ -1,0 +1,33 @@
+{
+  "id": "z94xahv94",
+  "url": "https://constellation.church/z94xahv94",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "20 Church Rd",
+    "city": "Hellertown",
+    "state": "PA",
+    "zip": "18055-9768"
+  },
+  "coordinates": {
+    "latitude": 40.601661682128906,
+    "longitude": -75.26330947875977
+  },
+  "website": "https://stlukesoldwilliams.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e05134be-43b4-4a15-b27e-4601fa304e90",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e05134be-43b4-4a15-b27e-4601fa304e90"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesoldwilliams.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231976329"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gt3z9g012",
+  "url": "https://constellation.church/gt3z9g012",
+  "name": "St. Matthew's Church",
+  "displayName": "St. Matthew's Church",
+  "address": {
+    "street": "210 South Main St",
+    "city": "Darlington",
+    "state": "SC",
+    "zip": "29532"
+  },
+  "coordinates": {
+    "latitude": 34.30072784423828,
+    "longitude": -79.86993408203125
+  },
+  "website": "https://saintmatthews.us",
+  "listingUrl": "https://www.acna.org/admin_units/1393",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "1393"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintmatthews.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570514176"
+    }
+  ],
+  "advisories": []
+}

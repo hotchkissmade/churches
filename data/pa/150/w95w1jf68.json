@@ -1,0 +1,33 @@
+{
+  "id": "w95w1jf68",
+  "url": "https://constellation.church/w95w1jf68",
+  "name": "Park Presbyterian Church",
+  "displayName": "Park Presbyterian Church",
+  "address": {
+    "street": "275 Commerce St",
+    "city": "Beaver",
+    "state": "PA",
+    "zip": "15009-2635"
+  },
+  "coordinates": {
+    "latitude": 40.69294738769531,
+    "longitude": -80.30846405029297
+  },
+  "website": "https://parkpres.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/5201/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "5201"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parkpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "250981155"
+    }
+  ],
+  "advisories": []
+}

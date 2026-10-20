@@ -1,0 +1,33 @@
+{
+  "id": "xcr7cnr03",
+  "url": "https://constellation.church/xcr7cnr03",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "8602 Bridgeport Way SW",
+    "city": "Lakewood",
+    "state": "WA",
+    "zip": "98499-2644"
+  },
+  "coordinates": {
+    "latitude": 47.1794548034668,
+    "longitude": -122.51847076416016
+  },
+  "website": "https://stjohnslakewood.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b23d384e-9c9d-4d8b-881d-dbf26e9bc0d7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b23d384e-9c9d-4d8b-881d-dbf26e9bc0d7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnslakewood.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910758852"
+    }
+  ],
+  "advisories": []
+}

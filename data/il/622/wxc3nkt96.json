@@ -1,0 +1,33 @@
+{
+  "id": "wxc3nkt96",
+  "url": "https://constellation.church/wxc3nkt96",
+  "name": "First Baptist Church of Waterloo",
+  "displayName": "First Baptist Church of Waterloo",
+  "address": {
+    "street": "320 Covington",
+    "city": "Waterloo",
+    "state": "IL",
+    "zip": "62298"
+  },
+  "coordinates": {
+    "latitude": 38.348772048950195,
+    "longitude": -90.1471176147461
+  },
+  "website": "https://fbcwaterloo.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-waterloo/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-waterloo"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcwaterloo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371138852"
+    }
+  ],
+  "advisories": []
+}

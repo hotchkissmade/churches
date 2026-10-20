@@ -1,0 +1,33 @@
+{
+  "id": "pf00byy48",
+  "url": "https://constellation.church/pf00byy48",
+  "name": "Oakland CRC",
+  "displayName": "Oakland Christian Reformed Church",
+  "address": {
+    "street": "4460 38th St",
+    "city": "Hamilton",
+    "state": "MI",
+    "zip": "49419"
+  },
+  "coordinates": {
+    "latitude": 42.742801666259766,
+    "longitude": -85.92060089111328
+  },
+  "website": "https://oaklandcrc.org",
+  "listingUrl": "https://www.crcna.org/churches/9645",
+  "identifiers": [
+    {
+      "namespace": "org.crcna.id",
+      "value": "9645"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oaklandcrc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "386095462"
+    }
+  ],
+  "advisories": []
+}

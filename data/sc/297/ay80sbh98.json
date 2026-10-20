@@ -1,0 +1,33 @@
+{
+  "id": "ay80sbh98",
+  "url": "https://constellation.church/ay80sbh98",
+  "name": "Sisk Memorial Baptist Church",
+  "displayName": "Sisk Memorial Baptist Church",
+  "address": {
+    "street": "115 Massey St",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29715"
+  },
+  "coordinates": {
+    "latitude": 35.00641059875488,
+    "longitude": -80.94683837890625
+  },
+  "website": "https://siskmbc.org",
+  "listingUrl": "https://churches.sbc.net/church/sisk-memorial-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sisk-memorial-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "siskmbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570476108"
+    }
+  ],
+  "advisories": []
+}

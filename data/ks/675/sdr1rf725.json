@@ -1,0 +1,33 @@
+{
+  "id": "sdr1rf725",
+  "url": "https://constellation.church/sdr1rf725",
+  "name": "Great Bend First United Methodist Church",
+  "displayName": "Great Bend First United Methodist Church",
+  "address": {
+    "street": "2123 Forest Avenue",
+    "city": "Great Bend",
+    "state": "KS",
+    "zip": "67530"
+  },
+  "coordinates": {
+    "latitude": 38.365333557128906,
+    "longitude": -98.76742553710938
+  },
+  "website": "https://gbfumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFNhHIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFNhHIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gbfumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480616245"
+    }
+  ],
+  "advisories": []
+}

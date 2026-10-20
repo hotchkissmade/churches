@@ -1,0 +1,33 @@
+{
+  "id": "sg3pz7434",
+  "url": "https://constellation.church/sg3pz7434",
+  "name": "First Baptist Church of Auburndale",
+  "displayName": "First Baptist Church of Auburndale",
+  "address": {
+    "street": "300 S Main St",
+    "city": "Auburndale",
+    "state": "FL",
+    "zip": "33823"
+  },
+  "coordinates": {
+    "latitude": 28.061941146850586,
+    "longitude": -81.78890991210938
+  },
+  "website": "https://fbcauburndale.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-auburndale/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-auburndale"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcauburndale.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590637835"
+    }
+  ],
+  "advisories": []
+}

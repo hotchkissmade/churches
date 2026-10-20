@@ -1,0 +1,33 @@
+{
+  "id": "wmpj68162",
+  "url": "https://constellation.church/wmpj68162",
+  "name": "Unity Baptist Church",
+  "displayName": "Unity Baptist Church",
+  "address": {
+    "street": "1290 NE 100th St",
+    "city": "Ocala",
+    "state": "FL",
+    "zip": "34479"
+  },
+  "coordinates": {
+    "latitude": 29.294572830200195,
+    "longitude": -82.12211608886719
+  },
+  "website": "https://ubcanthony.org",
+  "listingUrl": "https://churches.sbc.net/church/unity-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "unity-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ubcanthony.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592825397"
+    }
+  ],
+  "advisories": []
+}

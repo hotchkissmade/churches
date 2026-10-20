@@ -1,0 +1,33 @@
+{
+  "id": "dex0tc575",
+  "url": "https://constellation.church/dex0tc575",
+  "name": "Town Creek Baptist Church",
+  "displayName": "Town Creek Baptist Church",
+  "address": {
+    "street": "250 Town Creek Rd",
+    "city": "Aiken",
+    "state": "SC",
+    "zip": "29803"
+  },
+  "coordinates": {
+    "latitude": 33.512502670288086,
+    "longitude": -81.7399787902832
+  },
+  "website": "https://towncreekbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/town-creek-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "town-creek-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "towncreekbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570785652"
+    }
+  ],
+  "advisories": []
+}

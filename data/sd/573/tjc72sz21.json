@@ -1,0 +1,33 @@
+{
+  "id": "tjc72sz21",
+  "url": "https://constellation.church/tjc72sz21",
+  "name": "American Lutheran Church",
+  "displayName": "American Lutheran Church",
+  "address": {
+    "street": "155 4th St SE",
+    "city": "Huron",
+    "state": "SD",
+    "zip": "57350-2509"
+  },
+  "coordinates": {
+    "latitude": 44.362321853637695,
+    "longitude": -98.21111297607422
+  },
+  "website": "https://alc-huron.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5fecb883-d414-4eb8-8a2f-47cf38f125f2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5fecb883-d414-4eb8-8a2f-47cf38f125f2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "alc-huron.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460272142"
+    }
+  ],
+  "advisories": []
+}

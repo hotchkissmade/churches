@@ -1,0 +1,33 @@
+{
+  "id": "w1j51s536",
+  "url": "https://constellation.church/w1j51s536",
+  "name": "English Lutheran Church",
+  "displayName": "English Lutheran Church",
+  "address": {
+    "street": "146 Main St W",
+    "city": "Hazen",
+    "state": "ND",
+    "zip": "58545-4206"
+  },
+  "coordinates": {
+    "latitude": 47.29478073120117,
+    "longitude": -101.62598419189453
+  },
+  "website": "https://elchazen.weebly.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fc1ddbfb-67c1-4207-84c3-a6d0e7f93186",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fc1ddbfb-67c1-4207-84c3-a6d0e7f93186"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elchazen.weebly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450306056"
+    }
+  ],
+  "advisories": []
+}

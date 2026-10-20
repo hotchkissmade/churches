@@ -1,0 +1,33 @@
+{
+  "id": "khb1vs422",
+  "url": "https://constellation.church/khb1vs422",
+  "name": "First Baptist Church, Waskom",
+  "displayName": "First Baptist Church, Waskom",
+  "address": {
+    "street": "185 Colquitt St",
+    "city": "Waskom",
+    "state": "TX",
+    "zip": "75692"
+  },
+  "coordinates": {
+    "latitude": 32.47764205932617,
+    "longitude": -94.05683135986328
+  },
+  "website": "https://fbcwaskom.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-waskom/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-waskom"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcwaskom.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750974347"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "f2f6yj530",
+  "url": "https://constellation.church/f2f6yj530",
+  "name": "Cornerstone Church",
+  "displayName": "Cornerstone Church",
+  "address": {
+    "street": "411 E Main St",
+    "city": "Maiden",
+    "state": "NC",
+    "zip": "28650"
+  },
+  "coordinates": {
+    "latitude": 35.573639758485,
+    "longitude": -81.206052882044
+  },
+  "website": "https://cornerstonemaiden.com",
+  "listingUrl": "https://churches.sbc.net/church/cornerstone-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cornerstone-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cornerstonemaiden.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561933166"
+    }
+  ],
+  "advisories": []
+}

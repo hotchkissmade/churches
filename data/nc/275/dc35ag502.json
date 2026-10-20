@@ -1,0 +1,33 @@
+{
+  "id": "dc35ag502",
+  "url": "https://constellation.church/dc35ag502",
+  "name": "Roxboro",
+  "displayName": "Roxboro Baptist Church",
+  "address": {
+    "street": "202 S Main St",
+    "city": "Roxboro",
+    "state": "NC",
+    "zip": "27573"
+  },
+  "coordinates": {
+    "latitude": 36.392303466796875,
+    "longitude": -78.98408126831055
+  },
+  "website": "https://roxborobaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/roxboro/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "roxboro"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "roxborobaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560675682"
+    }
+  ],
+  "advisories": []
+}

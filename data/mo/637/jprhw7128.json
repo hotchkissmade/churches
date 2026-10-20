@@ -1,0 +1,33 @@
+{
+  "id": "jprhw7128",
+  "url": "https://constellation.church/jprhw7128",
+  "name": "First Baptist Church Scott City",
+  "displayName": "First Baptist Church Scott City",
+  "address": {
+    "street": "1102 2nd St",
+    "city": "Scott City",
+    "state": "MO",
+    "zip": "63780"
+  },
+  "coordinates": {
+    "latitude": 37.2202205657959,
+    "longitude": -89.52098083496094
+  },
+  "website": "https://firstbaptistscottcity.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-scott-city/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-scott-city"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistscottcity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431307587"
+    }
+  ],
+  "advisories": []
+}

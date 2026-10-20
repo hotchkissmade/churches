@@ -1,0 +1,33 @@
+{
+  "id": "rv0g37r40",
+  "url": "https://constellation.church/rv0g37r40",
+  "name": "St. Andrews church",
+  "displayName": "St. Andrew's church",
+  "address": {
+    "street": "244 E Main Street",
+    "city": "Yaphank",
+    "state": "NY",
+    "zip": "11980"
+  },
+  "coordinates": {
+    "latitude": 40.83669662475586,
+    "longitude": -72.91442489624023
+  },
+  "website": "https://standrewsyaphank.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-andrew-episcopal-church-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-andrew-episcopal-church-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewsyaphank.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112842176"
+    }
+  ],
+  "advisories": []
+}

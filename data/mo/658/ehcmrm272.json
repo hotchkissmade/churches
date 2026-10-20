@@ -1,0 +1,33 @@
+{
+  "id": "ehcmrm272",
+  "url": "https://constellation.church/ehcmrm272",
+  "name": "Covenant Presbyterian Church",
+  "displayName": "Covenant Presbyterian Church",
+  "address": {
+    "street": "2441 S Lone Pine Ave",
+    "city": "Springfield",
+    "state": "MO",
+    "zip": "65804"
+  },
+  "coordinates": {
+    "latitude": 37.16773986816406,
+    "longitude": -93.2478256225586
+  },
+  "website": "https://covenantspringfield.org",
+  "listingUrl": "https://eco-pres.org/churches/covenant-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "covenant-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covenantspringfield.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440649857"
+    }
+  ],
+  "advisories": []
+}

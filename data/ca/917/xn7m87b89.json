@@ -1,0 +1,33 @@
+{
+  "id": "xn7m87b89",
+  "url": "https://constellation.church/xn7m87b89",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "6868 N San Gabriel Blvd",
+    "city": "San Gabriel",
+    "state": "CA",
+    "zip": "91775-1044"
+  },
+  "coordinates": {
+    "latitude": 34.12384033203125,
+    "longitude": -118.08995056152344
+  },
+  "website": "https://trinitylutheransg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fd6d6672-977d-4d07-9551-470d4dab85ed",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fd6d6672-977d-4d07-9551-470d4dab85ed"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylutheransg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952115643"
+    }
+  ],
+  "advisories": []
+}

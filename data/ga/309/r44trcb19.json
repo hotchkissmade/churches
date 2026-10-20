@@ -1,0 +1,37 @@
+{
+  "id": "r44trcb19",
+  "url": "https://constellation.church/r44trcb19",
+  "name": "Hope Church Augusta",
+  "displayName": "Hope Church Augusta",
+  "address": {
+    "street": "4220 Belair Frontage Rd",
+    "city": "Augusta",
+    "state": "GA",
+    "zip": "30909"
+  },
+  "coordinates": {
+    "latitude": 33.4836483001709,
+    "longitude": -82.11847305297852
+  },
+  "website": "https://hopeaugusta.com",
+  "listingUrl": "https://churches.sbc.net/church/hope-church-augusta/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hope-church-augusta"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopeaugusta.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581957366"
+    },
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1307"
+    }
+  ],
+  "advisories": []
+}

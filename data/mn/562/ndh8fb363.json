@@ -1,0 +1,33 @@
+{
+  "id": "ndh8fb363",
+  "url": "https://constellation.church/ndh8fb363",
+  "name": "United Lutheran Church",
+  "displayName": "United Lutheran Church",
+  "address": {
+    "street": "811 Lakeview St",
+    "city": "Lake Lillian",
+    "state": "MN",
+    "zip": "56253-9541"
+  },
+  "coordinates": {
+    "latitude": 44.9411506652832,
+    "longitude": -94.87967681884766
+  },
+  "website": "https://llunitedlutheran.weebly.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c6e7cb72-5a62-431c-8e1a-cafc8a14abcd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c6e7cb72-5a62-431c-8e1a-cafc8a14abcd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "llunitedlutheran.weebly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "205504904"
+    }
+  ],
+  "advisories": []
+}

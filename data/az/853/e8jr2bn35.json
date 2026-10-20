@@ -1,0 +1,33 @@
+{
+  "id": "e8jr2bn35",
+  "url": "https://constellation.church/e8jr2bn35",
+  "name": "Emmanuel Baptist Church of Sun City",
+  "displayName": "Emmanuel Baptist Church of Sun City",
+  "address": {
+    "street": "12225 N 103rd Ave",
+    "city": "Sun City",
+    "state": "AZ",
+    "zip": "85351"
+  },
+  "coordinates": {
+    "latitude": 33.59579277038574,
+    "longitude": -112.28096771240234
+  },
+  "website": "https://ebcsuncity.com",
+  "listingUrl": "https://churches.sbc.net/church/emmanuel-baptist-church-of-sun-city/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "emmanuel-baptist-church-of-sun-city"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ebcsuncity.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "453629248"
+    }
+  ],
+  "advisories": []
+}

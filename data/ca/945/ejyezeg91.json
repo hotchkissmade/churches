@@ -1,0 +1,33 @@
+{
+  "id": "ejyezeg91",
+  "url": "https://constellation.church/ejyezeg91",
+  "name": "Walnut Creek Presbyterian Church",
+  "displayName": "Walnut Creek Presbyterian Church",
+  "address": {
+    "street": "1801 Lacassie Ave",
+    "city": "Walnut Creek",
+    "state": "CA",
+    "zip": "94596"
+  },
+  "coordinates": {
+    "latitude": 37.902687072753906,
+    "longitude": -122.0686264038086
+  },
+  "website": "https://wcpc.church",
+  "listingUrl": "https://eco-pres.org/churches/walnut-creek-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "walnut-creek-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wcpc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941196244"
+    }
+  ],
+  "advisories": []
+}

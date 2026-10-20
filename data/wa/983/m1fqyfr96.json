@@ -1,0 +1,33 @@
+{
+  "id": "m1fqyfr96",
+  "url": "https://constellation.church/m1fqyfr96",
+  "name": "Peace Lutheran Fellowship",
+  "displayName": "Peace Lutheran Fellowship",
+  "address": {
+    "street": "121 Marina View Dr",
+    "city": "Port Ludlow",
+    "state": "WA",
+    "zip": "98365"
+  },
+  "coordinates": {
+    "latitude": 47.92451477050781,
+    "longitude": -122.68219757080078
+  },
+  "website": "https://peacelutheranfellowship.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b5c1f38b-2631-48c0-b0c8-ddcc8ab3ec5f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b5c1f38b-2631-48c0-b0c8-ddcc8ab3ec5f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "peacelutheranfellowship.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "272942264"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rhexqpg42",
+  "url": "https://constellation.church/rhexqpg42",
+  "name": "University Baptist Church",
+  "displayName": "University Baptist Church",
+  "address": {
+    "street": "14707 Sussex Dr",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32826"
+  },
+  "coordinates": {
+    "latitude": 28.5854984,
+    "longitude": -81.1839636
+  },
+  "website": "https://ubcorlando.com/home",
+  "listingUrl": "https://churches.sbc.net/church/university-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "university-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ubcorlando.com/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "598591258"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "g4m128f05",
+  "url": "https://constellation.church/g4m128f05",
+  "name": "St. Innocent of Alaska Mission",
+  "displayName": "St. Innocent of Alaska Mission",
+  "address": {
+    "street": "305 Main St",
+    "city": "Oneonta",
+    "state": "NY",
+    "zip": "13820"
+  },
+  "coordinates": {
+    "latitude": 42.45589637756348,
+    "longitude": -75.05971145629883
+  },
+  "website": "https://stinnocentmission.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ny-onesim",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ny-onesim"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stinnocentmission.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030451388"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "d8as6wd16",
+  "url": "https://constellation.church/d8as6wd16",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "1022 N Main St",
+    "city": "Sandwich",
+    "state": "IL",
+    "zip": "60548-1049"
+  },
+  "coordinates": {
+    "latitude": 41.65620040893555,
+    "longitude": -88.62110137939453
+  },
+  "website": "https://wearesalemlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cbdbc8d2-a4e7-425b-98dd-d8f66724782d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cbdbc8d2-a4e7-425b-98dd-d8f66724782d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wearesalemlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363291610"
+    }
+  ],
+  "advisories": []
+}

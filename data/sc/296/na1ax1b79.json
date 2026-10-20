@@ -1,0 +1,33 @@
+{
+  "id": "na1ax1b79",
+  "url": "https://constellation.church/na1ax1b79",
+  "name": "University Lutheran Church",
+  "displayName": "University Lutheran Church",
+  "address": {
+    "street": "111 Sloan St",
+    "city": "Clemson",
+    "state": "SC",
+    "zip": "29631-1434"
+  },
+  "coordinates": {
+    "latitude": 34.6841057,
+    "longitude": -82.8381087
+  },
+  "website": "https://uniluclemson.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e9c6dcfd-667c-443b-9b88-16b40ec34585",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e9c6dcfd-667c-443b-9b88-16b40ec34585"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "uniluclemson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570521901"
+    }
+  ],
+  "advisories": []
+}

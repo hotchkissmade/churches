@@ -1,0 +1,33 @@
+{
+  "id": "f4rpb8t63",
+  "url": "https://constellation.church/f4rpb8t63",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "109 Washington St",
+    "city": "Sumner",
+    "state": "IA",
+    "zip": "50674-1653"
+  },
+  "coordinates": {
+    "latitude": 42.847930908203125,
+    "longitude": -92.09380340576172
+  },
+  "website": "https://mysumneriowa.com/stjohnlutheran.html",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=83da1f00-e51d-45a4-a72d-05cccef44f37",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "83da1f00-e51d-45a4-a72d-05cccef44f37"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mysumneriowa.com/stjohnlutheran.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420757457"
+    }
+  ],
+  "advisories": []
+}

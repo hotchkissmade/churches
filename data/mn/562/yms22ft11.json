@@ -1,0 +1,33 @@
+{
+  "id": "yms22ft11",
+  "url": "https://constellation.church/yms22ft11",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "510 Idaho Ave",
+    "city": "Morris",
+    "state": "MN",
+    "zip": "56267-1931"
+  },
+  "coordinates": {
+    "latitude": 45.58384323120117,
+    "longitude": -95.91832733154297
+  },
+  "website": "https://stpaulsmorris.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24352",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24352"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsmorris.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416165185"
+    }
+  ],
+  "advisories": []
+}

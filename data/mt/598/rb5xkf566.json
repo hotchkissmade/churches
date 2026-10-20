@@ -1,0 +1,33 @@
+{
+  "id": "rb5xkf566",
+  "url": "https://constellation.church/rb5xkf566",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "406 5th Ave SW",
+    "city": "Ronan",
+    "state": "MT",
+    "zip": "59864-2919"
+  },
+  "coordinates": {
+    "latitude": 47.52577209472656,
+    "longitude": -114.10460662841797
+  },
+  "website": "https://flcronan.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1d3ba229-9543-41ca-96a5-e2efdef5c1b2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1d3ba229-9543-41ca-96a5-e2efdef5c1b2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcronan.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840400258"
+    }
+  ],
+  "advisories": []
+}

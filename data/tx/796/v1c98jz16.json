@@ -1,0 +1,33 @@
+{
+  "id": "v1c98jz16",
+  "url": "https://constellation.church/v1c98jz16",
+  "name": "Trinity Baptist Church",
+  "displayName": "Trinity Baptist Church",
+  "address": {
+    "street": "871 WOODLAWN DR",
+    "city": "Abilene",
+    "state": "TX",
+    "zip": "79603"
+  },
+  "coordinates": {
+    "latitude": 32.45979881286621,
+    "longitude": -99.75888061523438
+  },
+  "website": "https://trinityabilene.com",
+  "listingUrl": "https://churches.sbc.net/church/trinity-baptist-church-151/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "trinity-baptist-church-151"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityabilene.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751492834"
+    }
+  ],
+  "advisories": []
+}

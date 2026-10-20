@@ -1,0 +1,33 @@
+{
+  "id": "bea16ep77",
+  "url": "https://constellation.church/bea16ep77",
+  "name": "Church on the Rock",
+  "displayName": "Church on the Rock",
+  "address": {
+    "street": "2170 Broadway Grand Junction",
+    "city": null,
+    "state": "CO",
+    "zip": "81507"
+  },
+  "coordinates": {
+    "latitude": 39.08550834655762,
+    "longitude": -108.64790344238281
+  },
+  "website": "https://cotrgj.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ad8c5d96-eaeb-4c40-9a54-bde31d26c09b&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ad8c5d96-eaeb-4c40-9a54-bde31d26c09b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cotrgj.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840954215"
+    }
+  ],
+  "advisories": []
+}

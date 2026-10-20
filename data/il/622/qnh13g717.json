@@ -1,0 +1,33 @@
+{
+  "id": "qnh13g717",
+  "url": "https://constellation.church/qnh13g717",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "105 E D St",
+    "city": "Belleville",
+    "state": "IL",
+    "zip": "62220-1205"
+  },
+  "coordinates": {
+    "latitude": 38.51788520812988,
+    "longitude": -89.9824333190918
+  },
+  "website": "https://stmarkbelleville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4ce4c0c2-4537-455e-841d-11ed75d74f79",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4ce4c0c2-4537-455e-841d-11ed75d74f79"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkbelleville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371019352"
+    }
+  ],
+  "advisories": []
+}

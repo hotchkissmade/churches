@@ -1,0 +1,33 @@
+{
+  "id": "v5ns45e70",
+  "url": "https://constellation.church/v5ns45e70",
+  "name": "Metropolitan Baptist Church",
+  "displayName": "Metropolitan Baptist Church",
+  "address": {
+    "street": "7200 Davie Rd Extension",
+    "city": "Hollywood",
+    "state": "FL",
+    "zip": "33024"
+  },
+  "coordinates": {
+    "latitude": 26.041677474975586,
+    "longitude": -80.23329544067383
+  },
+  "website": "https://metrobc.us",
+  "listingUrl": "https://churches.sbc.net/church/metropolitan-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "metropolitan-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "metrobc.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592687948"
+    }
+  ],
+  "advisories": []
+}

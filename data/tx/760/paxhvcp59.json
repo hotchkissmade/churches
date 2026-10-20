@@ -1,0 +1,33 @@
+{
+  "id": "paxhvcp59",
+  "url": "https://constellation.church/paxhvcp59",
+  "name": "Gateway Church of the Assemblies of God",
+  "displayName": "Gateway Church of the Assemblies of God",
+  "address": {
+    "street": "555 N Walnut Grove Rd",
+    "city": "Midlothian",
+    "state": "TX",
+    "zip": "76065"
+  },
+  "coordinates": {
+    "latitude": 32.48858070373535,
+    "longitude": -96.94303131103516
+  },
+  "website": "https://gcmidlo.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=27e6a64f-3053-4dca-b3da-d2ec524d0da1&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "27e6a64f-3053-4dca-b3da-d2ec524d0da1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gcmidlo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751847408"
+    }
+  ],
+  "advisories": []
+}

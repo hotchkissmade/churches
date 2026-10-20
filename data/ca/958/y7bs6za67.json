@@ -1,0 +1,33 @@
+{
+  "id": "y7bs6za67",
+  "url": "https://constellation.church/y7bs6za67",
+  "name": "Project Church of the Assemblies of God",
+  "displayName": "Project Church of the Assemblies of God",
+  "address": {
+    "street": "1200 2nd St",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95814"
+  },
+  "coordinates": {
+    "latitude": 38.58091926574707,
+    "longitude": -121.5054702758789
+  },
+  "website": "https://projectchurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=9321b1f8-d032-4d92-bec8-387e17354d30&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "9321b1f8-d032-4d92-bec8-387e17354d30"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "projectchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "461509743"
+    }
+  ],
+  "advisories": []
+}

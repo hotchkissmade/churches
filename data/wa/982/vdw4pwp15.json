@@ -1,0 +1,33 @@
+{
+  "id": "vdw4pwp15",
+  "url": "https://constellation.church/vdw4pwp15",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "2529 N Laventure Rd",
+    "city": "Mount Vernon",
+    "state": "WA",
+    "zip": "98273-9438"
+  },
+  "coordinates": {
+    "latitude": 48.443599700927734,
+    "longitude": -122.3145751953125
+  },
+  "website": "https://slcmv.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f5a4cc0d-6674-4fda-939c-affa7af4ebc2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f5a4cc0d-6674-4fda-939c-affa7af4ebc2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "slcmv.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910598095"
+    }
+  ],
+  "advisories": []
+}

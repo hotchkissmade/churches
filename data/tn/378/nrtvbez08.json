@@ -1,0 +1,33 @@
+{
+  "id": "nrtvbez08",
+  "url": "https://constellation.church/nrtvbez08",
+  "name": "Dumplin Baptist Church",
+  "displayName": "Dumplin Baptist Church",
+  "address": {
+    "street": "1843 W Dumplin Valley Rd",
+    "city": "New Market",
+    "state": "TN",
+    "zip": "37820"
+  },
+  "coordinates": {
+    "latitude": 36.00527381896973,
+    "longitude": -83.55868911743164
+  },
+  "website": "https://dbctn.net",
+  "listingUrl": "https://churches.sbc.net/church/dumplin-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "dumplin-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dbctn.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620995329"
+    }
+  ],
+  "advisories": []
+}

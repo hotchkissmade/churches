@@ -1,0 +1,33 @@
+{
+  "id": "z0t118e08",
+  "url": "https://constellation.church/z0t118e08",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "340 Grand Blvd",
+    "city": "Elgin",
+    "state": "IL",
+    "zip": "60120-4224"
+  },
+  "coordinates": {
+    "latitude": 42.04389572143555,
+    "longitude": -88.26471328735352
+  },
+  "website": "https://blcelgin.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f4903503-8ce7-48b6-b7d0-d844c979857f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f4903503-8ce7-48b6-b7d0-d844c979857f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blcelgin.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362678540"
+    }
+  ],
+  "advisories": []
+}

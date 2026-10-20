@@ -1,0 +1,33 @@
+{
+  "id": "xpvmjct15",
+  "url": "https://constellation.church/xpvmjct15",
+  "name": "Iglesia Hispana Central",
+  "displayName": "Iglesia Hispana Central",
+  "address": {
+    "street": "819 S Prairie",
+    "city": "Inglewood",
+    "state": "CA",
+    "zip": "90301"
+  },
+  "coordinates": {
+    "latitude": 33.95343208312988,
+    "longitude": -118.34415435791016
+  },
+  "website": "https://iglesiahispanacentral.org",
+  "listingUrl": "https://churches.sbc.net/church/iglesia-hispana-central/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "iglesia-hispana-central"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "iglesiahispanacentral.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "954840304"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wjpkfv123",
+  "url": "https://constellation.church/wjpkfv123",
+  "name": "St. Stephen's Episcopal Church",
+  "displayName": "St. Stephen's Episcopal Church",
+  "address": {
+    "street": "140 College Street",
+    "city": "Oxford",
+    "state": "NC",
+    "zip": "27565-2947"
+  },
+  "coordinates": {
+    "latitude": 36.3127555847168,
+    "longitude": -78.58948135375977
+  },
+  "website": "https://ststephensoxford.org/history",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-north-carolina/list/st-stephens-episcopal-church-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-north-carolina/st-stephens-episcopal-church-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ststephensoxford.org/history"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237419630"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "btytm0475",
+  "url": "https://constellation.church/btytm0475",
+  "name": "Bethel Church",
+  "displayName": "Bethel Church",
+  "address": {
+    "street": "1583 Blackwood-Clementon Blackwood",
+    "city": null,
+    "state": "NJ",
+    "zip": "08012"
+  },
+  "coordinates": {
+    "latitude": 39.80355262756348,
+    "longitude": -75.0491943359375
+  },
+  "website": "https://bethelnj.church/students",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=fe16b1b6-6fb9-4925-9002-7aa25a5fee6f&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "fe16b1b6-6fb9-4925-9002-7aa25a5fee6f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelnj.church/students"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221983439"
+    }
+  ],
+  "advisories": []
+}

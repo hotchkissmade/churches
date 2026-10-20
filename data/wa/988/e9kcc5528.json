@@ -1,0 +1,33 @@
+{
+  "id": "e9kcc5528",
+  "url": "https://constellation.church/e9kcc5528",
+  "name": "St Pauls Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "312 Palouse St",
+    "city": "Wenatchee",
+    "state": "WA",
+    "zip": "98801-2641"
+  },
+  "coordinates": {
+    "latitude": 47.42402648925781,
+    "longitude": -120.31645965576172
+  },
+  "website": "https://stpaulwen.com",
+  "listingUrl": "https://locator.lcms.org/church/C/961725",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "961725"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulwen.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911004389"
+    }
+  ],
+  "advisories": []
+}

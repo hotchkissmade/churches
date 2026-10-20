@@ -1,0 +1,33 @@
+{
+  "id": "hd01wkj87",
+  "url": "https://constellation.church/hd01wkj87",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "401 8th Ave S",
+    "city": "Princeton",
+    "state": "MN",
+    "zip": "55371-1912"
+  },
+  "coordinates": {
+    "latitude": 45.565250396728516,
+    "longitude": -93.58537292480469
+  },
+  "website": "https://immanuelprinceton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f981f44a-883b-461b-ba4b-f4be7acf9ea1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f981f44a-883b-461b-ba4b-f4be7acf9ea1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "immanuelprinceton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410873073"
+    }
+  ],
+  "advisories": []
+}

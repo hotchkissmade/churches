@@ -1,0 +1,33 @@
+{
+  "id": "v3p9npd31",
+  "url": "https://constellation.church/v3p9npd31",
+  "name": "Grace Church",
+  "displayName": "Grace Church",
+  "address": {
+    "street": "111 Bunker Dr",
+    "city": "Lake Havasu City",
+    "state": "AZ",
+    "zip": "86403-6856"
+  },
+  "coordinates": {
+    "latitude": 34.47451972961426,
+    "longitude": -114.31761932373047
+  },
+  "website": "https://grace-episcopal.net",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-arizona/list/grace-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-arizona/grace-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grace-episcopal.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860672895"
+    }
+  ],
+  "advisories": []
+}

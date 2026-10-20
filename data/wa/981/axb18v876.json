@@ -1,0 +1,33 @@
+{
+  "id": "axb18v876",
+  "url": "https://constellation.church/axb18v876",
+  "name": "Our Redeemer's Lutheran Church",
+  "displayName": "Our Redeemer's Lutheran Church",
+  "address": {
+    "street": "2400 NW 85th St",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98117-3733"
+  },
+  "coordinates": {
+    "latitude": 47.69068145751953,
+    "longitude": -122.38802337646484
+  },
+  "website": "https://ourredeemers.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a139d16e-3c78-4b53-9b4a-724de4664e06",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a139d16e-3c78-4b53-9b4a-724de4664e06"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ourredeemers.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "916001971"
+    }
+  ],
+  "advisories": []
+}

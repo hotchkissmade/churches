@@ -1,0 +1,33 @@
+{
+  "id": "v04atfk41",
+  "url": "https://constellation.church/v04atfk41",
+  "name": "Crossland Community Church",
+  "displayName": "Crossland Community Church",
+  "address": {
+    "street": "600 US 31W BYP STE 18D",
+    "city": "Bowling Green",
+    "state": "KY",
+    "zip": "42103"
+  },
+  "coordinates": {
+    "latitude": 36.98807334899902,
+    "longitude": -86.42826080322266
+  },
+  "website": "https://crossland.tv/about",
+  "listingUrl": "https://churches.sbc.net/church/crossland-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "crossland-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "crossland.tv/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "200157252"
+    }
+  ],
+  "advisories": []
+}

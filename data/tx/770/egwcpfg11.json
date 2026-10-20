@@ -1,0 +1,33 @@
+{
+  "id": "egwcpfg11",
+  "url": "https://constellation.church/egwcpfg11",
+  "name": "San Pablo/St. Paul's Episcopal",
+  "displayName": "San Pablo/St. Paul's Episcopal",
+  "address": {
+    "street": "7843 Park Place Blvd",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77087-4698"
+  },
+  "coordinates": {
+    "latitude": 29.68589210510254,
+    "longitude": -95.28195190429688
+  },
+  "website": "https://stpaulsanpablo.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-texas/list/san-pablost-pauls-episcopal",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-texas/san-pablost-pauls-episcopal"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsanpablo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760371617"
+    }
+  ],
+  "advisories": []
+}

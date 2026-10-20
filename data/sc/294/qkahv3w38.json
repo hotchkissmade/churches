@@ -1,0 +1,33 @@
+{
+  "id": "qkahv3w38",
+  "url": "https://constellation.church/qkahv3w38",
+  "name": "Doorway Baptist Church",
+  "displayName": "Doorway Baptist Church",
+  "address": {
+    "street": "7825 Dorchester Rd",
+    "city": "N Charleston",
+    "state": "SC",
+    "zip": "29418"
+  },
+  "coordinates": {
+    "latitude": 32.90443229675293,
+    "longitude": -80.08879089355469
+  },
+  "website": "https://doorwaybc.com",
+  "listingUrl": "https://churches.sbc.net/church/doorway-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "doorway-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "doorwaybc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "576005342"
+    }
+  ],
+  "advisories": []
+}

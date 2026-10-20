@@ -1,0 +1,33 @@
+{
+  "id": "a6m4wnf66",
+  "url": "https://constellation.church/a6m4wnf66",
+  "name": "Leavenworth Baptist Church",
+  "displayName": "Leavenworth Baptist Church",
+  "address": {
+    "street": "746 Spruce St",
+    "city": "Leavenworth",
+    "state": "KS",
+    "zip": "66048"
+  },
+  "coordinates": {
+    "latitude": 39.3104434,
+    "longitude": -94.9191756
+  },
+  "website": "https://leavenworthbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/leavenworth-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "leavenworth-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "leavenworthbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480871311"
+    }
+  ],
+  "advisories": []
+}

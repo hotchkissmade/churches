@@ -1,0 +1,33 @@
+{
+  "id": "nrss67t57",
+  "url": "https://constellation.church/nrss67t57",
+  "name": "Forestville Baptist Church",
+  "displayName": "Forestville Baptist Church",
+  "address": {
+    "street": "2 Old Mcelhaney Rd",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29617"
+  },
+  "coordinates": {
+    "latitude": 34.94967460632324,
+    "longitude": -82.49518585205078
+  },
+  "website": "https://forestville.org",
+  "listingUrl": "https://churches.sbc.net/church/forestville-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "forestville-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "forestville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570729265"
+    }
+  ],
+  "advisories": []
+}

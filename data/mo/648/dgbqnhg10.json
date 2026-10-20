@@ -1,0 +1,33 @@
+{
+  "id": "dgbqnhg10",
+  "url": "https://constellation.church/dgbqnhg10",
+  "name": "Grace Episcopal Church",
+  "displayName": "Grace Episcopal Church",
+  "address": {
+    "street": "820 Howard St",
+    "city": "Carthage",
+    "state": "MO",
+    "zip": "64836-2318"
+  },
+  "coordinates": {
+    "latitude": 37.172203063964844,
+    "longitude": -94.30868530273438
+  },
+  "website": "https://gracecarthage.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-missouri/list/grace-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-missouri/grace-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracecarthage.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440608719"
+    }
+  ],
+  "advisories": []
+}

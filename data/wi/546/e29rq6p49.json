@@ -1,0 +1,33 @@
+{
+  "id": "e29rq6p49",
+  "url": "https://constellation.church/e29rq6p49",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "N16303 Church Ln",
+    "city": "Galesville",
+    "state": "WI",
+    "zip": "54630-8768"
+  },
+  "coordinates": {
+    "latitude": 44.07630729675293,
+    "longitude": -91.35625457763672
+  },
+  "website": "https://bethelwels.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24950",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24950"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelwels.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391276943"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jgr4zqm24",
+  "url": "https://constellation.church/jgr4zqm24",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "245 Central Ave SE",
+    "city": "Milaca",
+    "state": "MN",
+    "zip": "56353"
+  },
+  "coordinates": {
+    "latitude": 45.75258255004883,
+    "longitude": -93.65076446533203
+  },
+  "website": "https://zionlutheranmilaca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0cbb5794-cf55-4dd5-8e93-5dd580565844",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0cbb5794-cf55-4dd5-8e93-5dd580565844"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionlutheranmilaca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410848579"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "gd98wdx72",
+  "url": "https://constellation.church/gd98wdx72",
+  "name": "St Stephen Lutheran Church",
+  "displayName": "St. Stephen Lutheran Church",
+  "address": {
+    "street": "901 Courtney Rd",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21227-1210"
+  },
+  "coordinates": {
+    "latitude": 39.26352882385254,
+    "longitude": -76.70070266723633
+  },
+  "website": "https://apostles-stephen.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=61236e2c-b88d-47b3-9ef3-b7d9fae9c58b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "61236e2c-b88d-47b3-9ef3-b7d9fae9c58b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "apostles-stephen.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "526015010"
+    },
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maryland/church-holy-apostles"
+    }
+  ],
+  "advisories": []
+}

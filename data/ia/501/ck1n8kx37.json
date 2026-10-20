@@ -1,0 +1,33 @@
+{
+  "id": "ck1n8kx37",
+  "url": "https://constellation.church/ck1n8kx37",
+  "name": "Palestine Lutheran Church",
+  "displayName": "Palestine Lutheran Church",
+  "address": {
+    "street": "1375 Highway 210",
+    "city": "Huxley",
+    "state": "IA",
+    "zip": "50124-8110"
+  },
+  "coordinates": {
+    "latitude": 41.87834358215332,
+    "longitude": -93.58134460449219
+  },
+  "website": "https://plchuxley.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=eedbccbb-8b1f-4e5d-8a37-d2d4cc9bedd0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "eedbccbb-8b1f-4e5d-8a37-d2d4cc9bedd0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "plchuxley.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237416394"
+    }
+  ],
+  "advisories": []
+}

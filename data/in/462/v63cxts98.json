@@ -1,0 +1,33 @@
+{
+  "id": "v63cxts98",
+  "url": "https://constellation.church/v63cxts98",
+  "name": "John Knox Presbyterian Church",
+  "displayName": "John Knox Presbyterian Church",
+  "address": {
+    "street": "3000 N High School Rd",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46224-2002"
+  },
+  "coordinates": {
+    "latitude": 39.80966377258301,
+    "longitude": -86.27092742919922
+  },
+  "website": "https://johnknox.org/serve/missions",
+  "listingUrl": "https://church-trends.pcusa.org/church/4553/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "4553"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "johnknox.org/serve/missions"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351311132"
+    }
+  ],
+  "advisories": []
+}

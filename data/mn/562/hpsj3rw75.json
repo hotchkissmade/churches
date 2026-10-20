@@ -1,0 +1,33 @@
+{
+  "id": "hpsj3rw75",
+  "url": "https://constellation.church/hpsj3rw75",
+  "name": "Big Bend Lutheran Church",
+  "displayName": "Big Bend Lutheran Church",
+  "address": {
+    "street": "8070 90th Ave NW",
+    "city": "Milan",
+    "state": "MN",
+    "zip": "56262-2601"
+  },
+  "coordinates": {
+    "latitude": 45.148887634277344,
+    "longitude": -95.77487182617188
+  },
+  "website": "https://bigbendlutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c31e716f-b930-42e3-b9d0-f3622622cf7b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c31e716f-b930-42e3-b9d0-f3622622cf7b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bigbendlutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410729973"
+    }
+  ],
+  "advisories": []
+}

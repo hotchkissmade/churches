@@ -1,0 +1,33 @@
+{
+  "id": "hekk6vq12",
+  "url": "https://constellation.church/hekk6vq12",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "600 N Ford Rd",
+    "city": "Zionsville",
+    "state": "IN",
+    "zip": "46077-1244"
+  },
+  "coordinates": {
+    "latitude": 39.953905,
+    "longitude": -86.279003
+  },
+  "website": "https://clczionsville.org/about/who-we-are",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6e94d449-c178-4464-9ce8-327c27aa4d2c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6e94d449-c178-4464-9ce8-327c27aa4d2c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clczionsville.org/about/who-we-are"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351615191"
+    }
+  ],
+  "advisories": []
+}

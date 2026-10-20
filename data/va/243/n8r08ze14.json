@@ -1,0 +1,33 @@
+{
+  "id": "n8r08ze14",
+  "url": "https://constellation.church/n8r08ze14",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "2 5th St NW",
+    "city": "Pulaski",
+    "state": "VA",
+    "zip": "24301-4612"
+  },
+  "coordinates": {
+    "latitude": 37.05129814147949,
+    "longitude": -80.78005981445312
+  },
+  "website": "https://trinitypulaski.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fdbee474-b6ba-4099-a3c8-413dc3281f4e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fdbee474-b6ba-4099-a3c8-413dc3281f4e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitypulaski.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540506435"
+    }
+  ],
+  "advisories": []
+}

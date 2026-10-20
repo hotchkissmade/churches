@@ -1,0 +1,33 @@
+{
+  "id": "vxa16pb79",
+  "url": "https://constellation.church/vxa16pb79",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "19 W 3rd St",
+    "city": "Chadwick",
+    "state": "IL",
+    "zip": "61014-9398"
+  },
+  "coordinates": {
+    "latitude": 42.014896392822266,
+    "longitude": -89.89189910888672
+  },
+  "website": "https://1stlutheranchadwick.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2a4ffb64-b0d8-4ce1-a23a-2ddcbdc90a8a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2a4ffb64-b0d8-4ce1-a23a-2ddcbdc90a8a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "1stlutheranchadwick.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366112462"
+    }
+  ],
+  "advisories": []
+}

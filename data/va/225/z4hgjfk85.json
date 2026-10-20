@@ -1,0 +1,33 @@
+{
+  "id": "z4hgjfk85",
+  "url": "https://constellation.church/z4hgjfk85",
+  "name": "Welcome Grove Baptist Church",
+  "displayName": "Welcome Grove Baptist Church",
+  "address": {
+    "street": "7368 Newland Rd",
+    "city": "Warsaw",
+    "state": "VA",
+    "zip": "22572"
+  },
+  "coordinates": {
+    "latitude": 38.0393641,
+    "longitude": -76.8637831
+  },
+  "website": "https://welcomegrove.org",
+  "listingUrl": "https://churches.sbc.net/church/welcome-grove-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "welcome-grove-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "welcomegrove.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540734379"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "paf1tzb49",
+  "url": "https://constellation.church/paf1tzb49",
+  "name": "Faith Christian Fellowship Church",
+  "displayName": "Faith Christian Fellowship Church",
+  "address": {
+    "street": "505 East 42nd Street",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21218"
+  },
+  "coordinates": {
+    "latitude": 39.33997344970703,
+    "longitude": -76.60868453979492
+  },
+  "website": "https://fcfchurch.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/371",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "371"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fcfchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521133376"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521296121"
+    }
+  ],
+  "advisories": []
+}

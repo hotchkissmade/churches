@@ -1,0 +1,33 @@
+{
+  "id": "mx66p4h38",
+  "url": "https://constellation.church/mx66p4h38",
+  "name": "Mount Zion Lutheran Church",
+  "displayName": "Mount Zion Lutheran Church",
+  "address": {
+    "street": "4520 W Ajo Hwy",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85746-9706"
+  },
+  "coordinates": {
+    "latitude": 32.17482948303223,
+    "longitude": -111.06146240234375
+  },
+  "website": "https://mountzionelca.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=749c9c10-d20c-4959-b828-50a6caf03fdb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "749c9c10-d20c-4959-b828-50a6caf03fdb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mountzionelca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860329291"
+    }
+  ],
+  "advisories": []
+}

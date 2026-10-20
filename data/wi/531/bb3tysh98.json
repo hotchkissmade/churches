@@ -1,0 +1,33 @@
+{
+  "id": "bb3tysh98",
+  "url": "https://constellation.church/bb3tysh98",
+  "name": "Elm Grove Lutheran Church",
+  "displayName": "Elm Grove Lutheran Church",
+  "address": {
+    "street": "945 N Terrace Dr",
+    "city": "Elm Grove",
+    "state": "WI",
+    "zip": "53122-2035"
+  },
+  "coordinates": {
+    "latitude": 43.04030418395996,
+    "longitude": -88.10293579101562
+  },
+  "website": "https://egl.org",
+  "listingUrl": "https://locator.lcms.org/church/C/286644",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "286644"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "egl.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390908369"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "w2dv6zn80",
+  "url": "https://constellation.church/w2dv6zn80",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "1209 N Broadway",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53202-2507"
+  },
+  "coordinates": {
+    "latitude": 43.045968,
+    "longitude": -87.9086957
+  },
+  "website": "https://gracedowntown.org/live-worship",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24834",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24834"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracedowntown.org/live-worship"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390840347"
+    }
+  ],
+  "advisories": []
+}

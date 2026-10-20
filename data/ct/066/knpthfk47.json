@@ -1,0 +1,33 @@
+{
+  "id": "knpthfk47",
+  "url": "https://constellation.church/knpthfk47",
+  "name": "St. George Church",
+  "displayName": "St. George Church",
+  "address": {
+    "street": "5490 Main St",
+    "city": "Trumbull",
+    "state": "CT",
+    "zip": "06611-2932"
+  },
+  "coordinates": {
+    "latitude": 41.244224548339844,
+    "longitude": -73.22130966186523
+  },
+  "website": "https://stgeorgetrumbull.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-al-trmsgc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-al-trmsgc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stgeorgetrumbull.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "061077469"
+    }
+  ],
+  "advisories": []
+}

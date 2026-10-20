@@ -1,0 +1,33 @@
+{
+  "id": "tsv6z6a32",
+  "url": "https://constellation.church/tsv6z6a32",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "221 N Louis Ave",
+    "city": "Coleman",
+    "state": "WI",
+    "zip": "54112-9505"
+  },
+  "coordinates": {
+    "latitude": 45.06785011291504,
+    "longitude": -88.03252410888672
+  },
+  "website": "https://trinitycoleman.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24614",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24614"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitycoleman.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396065943"
+    }
+  ],
+  "advisories": []
+}

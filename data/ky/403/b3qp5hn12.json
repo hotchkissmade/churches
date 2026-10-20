@@ -1,0 +1,33 @@
+{
+  "id": "b3qp5hn12",
+  "url": "https://constellation.church/b3qp5hn12",
+  "name": "United Presbyterian Church",
+  "displayName": "United Presbyterian Church",
+  "address": {
+    "street": "326 S Main",
+    "city": "Harrodsburg",
+    "state": "KY",
+    "zip": "40330"
+  },
+  "coordinates": {
+    "latitude": 37.759321212768555,
+    "longitude": -84.84392166137695
+  },
+  "website": "https://upcharrodsburg.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/9963/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "9963"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "upcharrodsburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "610471571"
+    }
+  ],
+  "advisories": []
+}

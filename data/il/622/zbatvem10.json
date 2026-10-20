@@ -1,0 +1,33 @@
+{
+  "id": "zbatvem10",
+  "url": "https://constellation.church/zbatvem10",
+  "name": "Mosaic Church",
+  "displayName": "Mosaic Church",
+  "address": {
+    "street": "1317 Pestalozzi St",
+    "city": "Highland",
+    "state": "IL",
+    "zip": "62249"
+  },
+  "coordinates": {
+    "latitude": 38.73659133911133,
+    "longitude": -89.68266296386719
+  },
+  "website": "https://mosaicil.com",
+  "listingUrl": "https://churches.sbc.net/church/mosaic-church-5/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mosaic-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mosaicil.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "273766967"
+    }
+  ],
+  "advisories": []
+}

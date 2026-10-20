@@ -1,0 +1,33 @@
+{
+  "id": "szfv21905",
+  "url": "https://constellation.church/szfv21905",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "7531 English Lake Rd",
+    "city": "Manitowoc",
+    "state": "WI",
+    "zip": "54220-9524"
+  },
+  "coordinates": {
+    "latitude": 44.0517174,
+    "longitude": -87.7573944
+  },
+  "website": "https://school.stjohnsnewtonburg.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24649",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24649"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "school.stjohnsnewtonburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390989799"
+    }
+  ],
+  "advisories": []
+}

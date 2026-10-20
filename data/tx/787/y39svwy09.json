@@ -1,0 +1,33 @@
+{
+  "id": "y39svwy09",
+  "url": "https://constellation.church/y39svwy09",
+  "name": "Church of the Resurrection",
+  "displayName": "Church of the Resurrection",
+  "address": {
+    "street": "2200 Justin Ln",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78757-2417"
+  },
+  "coordinates": {
+    "latitude": 30.345203399658203,
+    "longitude": -97.73591613769531
+  },
+  "website": "https://ecraustin.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-texas/list/church-resurrection",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-texas/church-resurrection"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ecraustin.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741469346"
+    }
+  ],
+  "advisories": []
+}

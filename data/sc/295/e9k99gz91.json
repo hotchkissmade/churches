@@ -1,0 +1,33 @@
+{
+  "id": "e9k99gz91",
+  "url": "https://constellation.church/e9k99gz91",
+  "name": "Hartsville First Baptist Church",
+  "displayName": "Hartsville First Baptist Church",
+  "address": {
+    "street": "104 E Home Ave",
+    "city": "Hartsville",
+    "state": "SC",
+    "zip": "29550"
+  },
+  "coordinates": {
+    "latitude": 34.37725639343262,
+    "longitude": -80.07464599609375
+  },
+  "website": "https://firstbaptisthartsville.org",
+  "listingUrl": "https://churches.sbc.net/church/hartsville-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hartsville-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptisthartsville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570400595"
+    }
+  ],
+  "advisories": []
+}

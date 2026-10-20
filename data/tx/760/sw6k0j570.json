@@ -1,0 +1,33 @@
+{
+  "id": "sw6k0j570",
+  "url": "https://constellation.church/sw6k0j570",
+  "name": "Masterpiece Church",
+  "displayName": "Masterpiece Church",
+  "address": {
+    "street": "3420 Brown Trl",
+    "city": "Bedford",
+    "state": "TX",
+    "zip": "76021"
+  },
+  "coordinates": {
+    "latitude": 32.85978889465332,
+    "longitude": -97.15929412841797
+  },
+  "website": "https://masterpiece.faith/home",
+  "listingUrl": "https://churches.sbc.net/church/masterpiece-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "masterpiece-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "masterpiece.faith/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751332848"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "k4cs9fk09",
+  "url": "https://constellation.church/k4cs9fk09",
+  "name": "Glyndon Lutheran Church",
+  "displayName": "Glyndon Lutheran Church",
+  "address": {
+    "street": "414 Parke Ave S",
+    "city": "Glyndon",
+    "state": "MN",
+    "zip": "56547-4306"
+  },
+  "coordinates": {
+    "latitude": 46.87232208251953,
+    "longitude": -96.58016967773438
+  },
+  "website": "https://glyndonlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ef65730d-ca97-4569-9a62-558326d49809",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ef65730d-ca97-4569-9a62-558326d49809"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "glyndonlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416170568"
+    }
+  ],
+  "advisories": []
+}

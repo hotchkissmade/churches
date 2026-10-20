@@ -1,0 +1,33 @@
+{
+  "id": "ab4hdq944",
+  "url": "https://constellation.church/ab4hdq944",
+  "name": "Evergreen Presbyterian Church",
+  "displayName": "Evergreen Presbyterian Church",
+  "address": {
+    "street": "1110 17th Street NE",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97301"
+  },
+  "coordinates": {
+    "latitude": 44.94623565673828,
+    "longitude": -123.01445770263672
+  },
+  "website": "https://evergreensalem.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4301",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4301"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "evergreensalem.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "931308213"
+    }
+  ],
+  "advisories": []
+}

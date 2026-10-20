@@ -1,0 +1,33 @@
+{
+  "id": "yvxgc2k95",
+  "url": "https://constellation.church/yvxgc2k95",
+  "name": "Nashville Assembly of God",
+  "displayName": "Nashville Assembly of God",
+  "address": {
+    "street": "735 Reed St",
+    "city": "Nashville",
+    "state": "MI",
+    "zip": "49073"
+  },
+  "coordinates": {
+    "latitude": 42.607086181640625,
+    "longitude": -85.08436584472656
+  },
+  "website": "https://minashvilleag.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=6e3f0ebb-a75f-4ed9-ae9c-eb95b794abcd&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "6e3f0ebb-a75f-4ed9-ae9c-eb95b794abcd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "minashvilleag.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "383168570"
+    }
+  ],
+  "advisories": []
+}

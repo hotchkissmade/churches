@@ -1,0 +1,33 @@
+{
+  "id": "j277fw349",
+  "url": "https://constellation.church/j277fw349",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "916 W Huron Ave",
+    "city": "Vassar",
+    "state": "MI",
+    "zip": "48768-1170"
+  },
+  "coordinates": {
+    "latitude": 43.37390899658203,
+    "longitude": -83.59325790405273
+  },
+  "website": "https://vassarlutherans.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24234",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24234"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "vassarlutherans.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382334784"
+    }
+  ],
+  "advisories": []
+}

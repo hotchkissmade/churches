@@ -1,0 +1,33 @@
+{
+  "id": "hjvpnqb81",
+  "url": "https://constellation.church/hjvpnqb81",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "21 E Constance Ave",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "zip": "93105"
+  },
+  "coordinates": {
+    "latitude": 34.43737602233887,
+    "longitude": -119.72220611572266
+  },
+  "website": "https://fpcsb.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/931/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "931"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcsb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951641439"
+    }
+  ],
+  "advisories": []
+}

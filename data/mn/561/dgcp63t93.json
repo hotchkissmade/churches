@@ -1,0 +1,33 @@
+{
+  "id": "dgcp63t93",
+  "url": "https://constellation.church/dgcp63t93",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "101 Sherman St S",
+    "city": "Lake Benton",
+    "state": "MN",
+    "zip": "56149-1104"
+  },
+  "coordinates": {
+    "latitude": 44.26062774658203,
+    "longitude": -96.29083251953125
+  },
+  "website": "https://gracelutheranlakebentonmn.weebly.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7d9d78d7-d7d0-4b3f-a09c-9b45d46a188b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7d9d78d7-d7d0-4b3f-a09c-9b45d46a188b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelutheranlakebentonmn.weebly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410790150"
+    }
+  ],
+  "advisories": []
+}

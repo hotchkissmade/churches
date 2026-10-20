@@ -1,0 +1,33 @@
+{
+  "id": "mtf9dwn35",
+  "url": "https://constellation.church/mtf9dwn35",
+  "name": "Bethany Presbyterian Church",
+  "displayName": "Bethany Presbyterian Church",
+  "address": {
+    "street": "3 Howe St",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98109-2525"
+  },
+  "coordinates": {
+    "latitude": 47.635494232177734,
+    "longitude": -122.3567886352539
+  },
+  "website": "https://bethanypc.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/9020/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "9020"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanypc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910646776"
+    }
+  ],
+  "advisories": []
+}

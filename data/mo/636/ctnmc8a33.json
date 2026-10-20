@@ -1,0 +1,33 @@
+{
+  "id": "ctnmc8a33",
+  "url": "https://constellation.church/ctnmc8a33",
+  "name": "First Baptist Church Ironton",
+  "displayName": "First Baptist Church Ironton",
+  "address": {
+    "street": "111 N Knob St",
+    "city": "Ironton",
+    "state": "MO",
+    "zip": "63650"
+  },
+  "coordinates": {
+    "latitude": 37.60078430175781,
+    "longitude": -90.62638854980469
+  },
+  "website": "https://irontonfbc.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-ironton/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-ironton"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "irontonfbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431741421"
+    }
+  ],
+  "advisories": []
+}

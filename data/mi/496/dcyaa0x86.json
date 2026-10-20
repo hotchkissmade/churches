@@ -1,0 +1,33 @@
+{
+  "id": "dcyaa0x86",
+  "url": "https://constellation.church/dcyaa0x86",
+  "name": "St. Mary's Church",
+  "displayName": "St. Mary's Church",
+  "address": {
+    "street": "815 Lincoln St",
+    "city": "Cadillac",
+    "state": "MI",
+    "zip": "49601-2033"
+  },
+  "coordinates": {
+    "latitude": 44.25486755371094,
+    "longitude": -85.38796997070312
+  },
+  "website": "https://stmaryscadillac.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-western-michigan/list/st-marys-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-western-michigan/st-marys-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmaryscadillac.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382729494"
+    }
+  ],
+  "advisories": []
+}

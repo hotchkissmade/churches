@@ -1,0 +1,33 @@
+{
+  "id": "g5szv8h07",
+  "url": "https://constellation.church/g5szv8h07",
+  "name": "Iglesia Episcopal San Mateo",
+  "displayName": "Iglesia Episcopal San Mateo",
+  "address": {
+    "street": "6635 Alder Dr",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77081-5201"
+  },
+  "coordinates": {
+    "latitude": 29.707969665527344,
+    "longitude": -95.48016357421875
+  },
+  "website": "https://iglesiasanmateo.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-texas/list/iglesia-episcopal-san-mateo",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-texas/iglesia-episcopal-san-mateo"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "iglesiasanmateo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741234164"
+    }
+  ],
+  "advisories": []
+}

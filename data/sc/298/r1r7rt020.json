@@ -1,0 +1,33 @@
+{
+  "id": "r1r7rt020",
+  "url": "https://constellation.church/r1r7rt020",
+  "name": "Fairview Presbyterian Church",
+  "displayName": "Fairview Presbyterian Church",
+  "address": {
+    "street": "1101 Carolina Ave",
+    "city": "North Augusta",
+    "state": "SC",
+    "zip": "29841"
+  },
+  "coordinates": {
+    "latitude": 33.50418281555176,
+    "longitude": -81.96823501586914
+  },
+  "website": "https://fairvieweco.com",
+  "listingUrl": "https://eco-pres.org/churches/fairview-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "fairview-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fairvieweco.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570405341"
+    }
+  ],
+  "advisories": []
+}

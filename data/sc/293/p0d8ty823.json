@@ -1,0 +1,33 @@
+{
+  "id": "p0d8ty823",
+  "url": "https://constellation.church/p0d8ty823",
+  "name": "Salem Presbyterian Church",
+  "displayName": "Salem Presbyterian Church",
+  "address": {
+    "street": "1907 Hickory Grove Road",
+    "city": "Gaffney",
+    "state": "SC",
+    "zip": "29340"
+  },
+  "coordinates": {
+    "latitude": 34.92893028259277,
+    "longitude": -81.4840202331543
+  },
+  "website": "https://salempca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/917",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "917"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salempca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570750087"
+    }
+  ],
+  "advisories": []
+}

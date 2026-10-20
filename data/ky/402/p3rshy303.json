@@ -1,0 +1,33 @@
+{
+  "id": "p3rshy303",
+  "url": "https://constellation.church/p3rshy303",
+  "name": "Maple Grove Baptist Church",
+  "displayName": "Maple Grove Baptist Church",
+  "address": {
+    "street": "5911 East Manslick Road",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40219"
+  },
+  "coordinates": {
+    "latitude": 38.12203407287598,
+    "longitude": -85.65180206298828
+  },
+  "website": "https://mymaplegrove.church",
+  "listingUrl": "https://churches.sbc.net/church/maple-grove-baptist-church-10/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "maple-grove-baptist-church-10"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mymaplegrove.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "610723543"
+    }
+  ],
+  "advisories": []
+}

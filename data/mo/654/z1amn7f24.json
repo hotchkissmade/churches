@@ -1,0 +1,33 @@
+{
+  "id": "z1amn7f24",
+  "url": "https://constellation.church/z1amn7f24",
+  "name": "Hickory Point Baptist Church",
+  "displayName": "Hickory Point Baptist Church",
+  "address": {
+    "street": "6 Ponder Slab Rd",
+    "city": "Iberia",
+    "state": "MO",
+    "zip": "65486"
+  },
+  "coordinates": {
+    "latitude": 38.12287139892578,
+    "longitude": -92.38239288330078
+  },
+  "website": "https://hickorypointbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/hickory-point-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hickory-point-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hickorypointbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431312776"
+    }
+  ],
+  "advisories": []
+}

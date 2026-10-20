@@ -1,0 +1,33 @@
+{
+  "id": "gc1qn2q27",
+  "url": "https://constellation.church/gc1qn2q27",
+  "name": "First Baptist Church Eddyville",
+  "displayName": "First Baptist Church Eddyville",
+  "address": {
+    "street": "216 Jenkins Rd",
+    "city": "Eddyville",
+    "state": "KY",
+    "zip": "42038"
+  },
+  "coordinates": {
+    "latitude": 37.096487045288086,
+    "longitude": -88.07650375366211
+  },
+  "website": "https://eddyvillefbc.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-eddyville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-eddyville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eddyvillefbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "610666143"
+    }
+  ],
+  "advisories": []
+}

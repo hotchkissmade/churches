@@ -1,0 +1,33 @@
+{
+  "id": "wts3a1231",
+  "url": "https://constellation.church/wts3a1231",
+  "name": "Cross Of Christ Lutheran Church",
+  "displayName": "Cross Of Christ Lutheran Church",
+  "address": {
+    "street": "1555 Hamilton Ave",
+    "city": "Waterbury",
+    "state": "CT",
+    "zip": "06706-2401"
+  },
+  "coordinates": {
+    "latitude": 41.530757904052734,
+    "longitude": -73.00655746459961
+  },
+  "website": "https://crossofchrist-wtby.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5a10f914-2793-444f-84e6-dc38cc45a4eb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5a10f914-2793-444f-84e6-dc38cc45a4eb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "crossofchrist-wtby.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "822161189"
+    }
+  ],
+  "advisories": []
+}

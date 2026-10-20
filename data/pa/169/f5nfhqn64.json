@@ -1,0 +1,33 @@
+{
+  "id": "f5nfhqn64",
+  "url": "https://constellation.church/f5nfhqn64",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "402 N Main St",
+    "city": "Coudersport",
+    "state": "PA",
+    "zip": "16915-0566"
+  },
+  "coordinates": {
+    "latitude": 41.77653503417969,
+    "longitude": -78.02050399780273
+  },
+  "website": "https://fpccoudy.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/7873/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "7873"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpccoudy.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251154080"
+    }
+  ],
+  "advisories": []
+}

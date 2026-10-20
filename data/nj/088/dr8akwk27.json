@@ -1,0 +1,33 @@
+{
+  "id": "dr8akwk27",
+  "url": "https://constellation.church/dr8akwk27",
+  "name": "Jesus House",
+  "displayName": "RCCG Jesus House",
+  "address": {
+    "street": "14 Macarthur Avenue",
+    "city": "Sayreville",
+    "state": "NJ",
+    "zip": "08872"
+  },
+  "coordinates": {
+    "latitude": 40.455970764160156,
+    "longitude": -74.36754989624023
+  },
+  "website": "https://jesushousenj.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=386&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "386"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jesushousenj.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "223656152"
+    }
+  ],
+  "advisories": []
+}

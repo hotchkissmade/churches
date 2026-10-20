@@ -1,0 +1,33 @@
+{
+  "id": "r7dxmqr75",
+  "url": "https://constellation.church/r7dxmqr75",
+  "name": "Duncan First Baptist Church",
+  "displayName": "Duncan First Baptist Church",
+  "address": {
+    "street": "101 E Main St",
+    "city": "Duncan",
+    "state": "SC",
+    "zip": "29334"
+  },
+  "coordinates": {
+    "latitude": 34.936092376708984,
+    "longitude": -82.13549423217773
+  },
+  "website": "https://duncanfirst.org",
+  "listingUrl": "https://churches.sbc.net/church/duncan-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "duncan-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "duncanfirst.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570383432"
+    }
+  ],
+  "advisories": []
+}

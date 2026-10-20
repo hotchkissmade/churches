@@ -1,0 +1,33 @@
+{
+  "id": "e209sp323",
+  "url": "https://constellation.church/e209sp323",
+  "name": "Oceanside Lutheran Church",
+  "displayName": "Oceanside Lutheran Church",
+  "address": {
+    "street": "62 Davison Ave",
+    "city": "Oceanside",
+    "state": "NY",
+    "zip": "11572-2241"
+  },
+  "coordinates": {
+    "latitude": 40.6412353515625,
+    "longitude": -73.63778305053711
+  },
+  "website": "https://oceansidelutheranchurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=06a874ad-fa9b-4b44-bc90-cae6de6e49a0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "06a874ad-fa9b-4b44-bc90-cae6de6e49a0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oceansidelutheranchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112460794"
+    }
+  ],
+  "advisories": []
+}

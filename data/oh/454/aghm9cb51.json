@@ -1,0 +1,33 @@
+{
+  "id": "aghm9cb51",
+  "url": "https://constellation.church/aghm9cb51",
+  "name": "Beavercreek Baptist Church",
+  "displayName": "Beavercreek Baptist Church",
+  "address": {
+    "street": "3511 Dayton Xenia Rd",
+    "city": "Beavercreek",
+    "state": "OH",
+    "zip": "45432"
+  },
+  "coordinates": {
+    "latitude": 39.731468200683594,
+    "longitude": -84.06546783447266
+  },
+  "website": "https://beavercreekbaptist.church",
+  "listingUrl": "https://churches.sbc.net/church/beavercreek-baptist-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "beavercreek-baptist-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "beavercreekbaptist.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "316066342"
+    }
+  ],
+  "advisories": []
+}

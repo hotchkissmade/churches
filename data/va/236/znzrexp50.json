@@ -1,0 +1,33 @@
+{
+  "id": "znzrexp50",
+  "url": "https://constellation.church/znzrexp50",
+  "name": "Messick Baptist Church",
+  "displayName": "Messick Baptist Church",
+  "address": {
+    "street": "1118 Poquoson Ave",
+    "city": "Poquoson",
+    "state": "VA",
+    "zip": "23662"
+  },
+  "coordinates": {
+    "latitude": 37.12756156921387,
+    "longitude": -76.35530090332031
+  },
+  "website": "https://messickbaptpoquosonva.org",
+  "listingUrl": "https://churches.sbc.net/church/messick-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "messick-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "messickbaptpoquosonva.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311638815"
+    }
+  ],
+  "advisories": []
+}

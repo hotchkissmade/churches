@@ -1,0 +1,33 @@
+{
+  "id": "txn1nfj44",
+  "url": "https://constellation.church/txn1nfj44",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "1025 Avenue D",
+    "city": "Plattsmouth",
+    "state": "NE",
+    "zip": "68048-1129"
+  },
+  "coordinates": {
+    "latitude": 41.01522636413574,
+    "longitude": -95.89141845703125
+  },
+  "website": "https://flcplattsmouth.360unite.com",
+  "listingUrl": "https://locator.lcms.org/church/C/725511",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "725511"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcplattsmouth.360unite.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470584522"
+    }
+  ],
+  "advisories": []
+}

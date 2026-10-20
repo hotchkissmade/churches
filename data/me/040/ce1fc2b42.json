@@ -1,0 +1,33 @@
+{
+  "id": "ce1fc2b42",
+  "url": "https://constellation.church/ce1fc2b42",
+  "name": "Crossroads Community Church",
+  "displayName": "Crossroads Community Church",
+  "address": {
+    "street": "14 Lewiston Rd",
+    "city": "Gray",
+    "state": "ME",
+    "zip": "04039"
+  },
+  "coordinates": {
+    "latitude": 43.89098358154297,
+    "longitude": -70.32741165161133
+  },
+  "website": "https://crossroadsmaine.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=e2a91176-4169-4da5-821b-9c2ac5654e48&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "e2a91176-4169-4da5-821b-9c2ac5654e48"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "crossroadsmaine.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222565315"
+    }
+  ],
+  "advisories": []
+}

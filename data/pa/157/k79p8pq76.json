@@ -1,0 +1,33 @@
+{
+  "id": "k79p8pq76",
+  "url": "https://constellation.church/k79p8pq76",
+  "name": "New Life Lutheran Church",
+  "displayName": "New Life Lutheran Church",
+  "address": {
+    "street": "1209 LeRoy Rd",
+    "city": "Marion Center",
+    "state": "PA",
+    "zip": "15759"
+  },
+  "coordinates": {
+    "latitude": 40.72634506225586,
+    "longitude": -79.02267837524414
+  },
+  "website": "https://findnewlifehere.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=15e26d26-f320-48ad-b5f3-758953f4c45b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "15e26d26-f320-48ad-b5f3-758953f4c45b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "findnewlifehere.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251728895"
+    }
+  ],
+  "advisories": []
+}

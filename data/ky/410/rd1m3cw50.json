@@ -1,0 +1,33 @@
+{
+  "id": "rd1m3cw50",
+  "url": "https://constellation.church/rd1m3cw50",
+  "name": "First Baptist Church Highland Heights",
+  "displayName": "First Baptist Church Highland Heights",
+  "address": {
+    "street": "2315 Alexandria Pike",
+    "city": "Highland Heights",
+    "state": "KY",
+    "zip": "41076"
+  },
+  "coordinates": {
+    "latitude": 39.04094314575195,
+    "longitude": -84.44864273071289
+  },
+  "website": "https://fbchighlandheights.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-highland-heights/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-highland-heights"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbchighlandheights.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "610600542"
+    }
+  ],
+  "advisories": []
+}

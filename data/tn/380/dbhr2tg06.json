@@ -1,0 +1,37 @@
+{
+  "id": "dbhr2tg06",
+  "url": "https://constellation.church/dbhr2tg06",
+  "name": "True Word Baptist Church",
+  "displayName": "True Word Baptist Church",
+  "address": {
+    "street": "6183 Quintard St",
+    "city": "Arlington",
+    "state": "TN",
+    "zip": "38002"
+  },
+  "coordinates": {
+    "latitude": 35.29483985900879,
+    "longitude": -89.66212844848633
+  },
+  "website": "https://christalonearlington.com",
+  "listingUrl": "https://churches.sbc.net/church/true-word-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "true-word-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christalonearlington.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "394013724"
+    },
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "27393"
+    }
+  ],
+  "advisories": []
+}

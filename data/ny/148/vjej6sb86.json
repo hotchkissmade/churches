@@ -1,0 +1,33 @@
+{
+  "id": "vjej6sb86",
+  "url": "https://constellation.church/vjej6sb86",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "31 N Dansville St",
+    "city": "Cohocton",
+    "state": "NY",
+    "zip": "14826"
+  },
+  "coordinates": {
+    "latitude": 42.50783348083496,
+    "longitude": -77.51034545898438
+  },
+  "website": "https://cohoctonag.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=0972a0cb-c28a-42ea-a9b0-16fd4f536016&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "0972a0cb-c28a-42ea-a9b0-16fd4f536016"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cohoctonag.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161587259"
+    }
+  ],
+  "advisories": []
+}

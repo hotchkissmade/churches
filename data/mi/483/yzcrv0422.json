@@ -1,0 +1,33 @@
+{
+  "id": "yzcrv0422",
+  "url": "https://constellation.church/yzcrv0422",
+  "name": "St. Mark Church",
+  "displayName": "St. Mark Church",
+  "address": {
+    "street": "400 W Hamlin Rd",
+    "city": "Rochester Hills",
+    "state": "MI",
+    "zip": "48307-3834"
+  },
+  "coordinates": {
+    "latitude": 42.65254211425781,
+    "longitude": -83.12494277954102
+  },
+  "website": "https://stmarkrochester.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-mw-rmismm",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-mw-rmismm"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkrochester.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382303242"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bqckjs267",
+  "url": "https://constellation.church/bqckjs267",
+  "name": "First St John Lutheran Church",
+  "displayName": "First St. John Lutheran Church",
+  "address": {
+    "street": "2471 Seaman St",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43605-1519"
+  },
+  "coordinates": {
+    "latitude": 41.6513614654541,
+    "longitude": -83.48987579345703
+  },
+  "website": "https://firststjohn.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=98449fb9-266f-48c2-9445-f8eb85d19dd0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "98449fb9-266f-48c2-9445-f8eb85d19dd0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firststjohn.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340898547"
+    }
+  ],
+  "advisories": []
+}

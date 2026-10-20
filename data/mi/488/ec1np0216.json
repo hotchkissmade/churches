@@ -1,0 +1,41 @@
+{
+  "id": "ec1np0216",
+  "url": "https://constellation.church/ec1np0216",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "2175 S Coldwater Rd",
+    "city": "Mount Pleasant",
+    "state": "MI",
+    "zip": "48858-9626"
+  },
+  "coordinates": {
+    "latitude": 43.627906799316406,
+    "longitude": -84.77910614013672
+  },
+  "website": "https://zionmpmi.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24242",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24242"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionmpmi.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381505639"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382281573"
+    },
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "615258"
+    }
+  ],
+  "advisories": []
+}

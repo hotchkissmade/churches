@@ -1,0 +1,33 @@
+{
+  "id": "ex1rj5a36",
+  "url": "https://constellation.church/ex1rj5a36",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "46 W High St",
+    "city": "New Bloomfield",
+    "state": "PA",
+    "zip": "17068-9650"
+  },
+  "coordinates": {
+    "latitude": 40.42007637023926,
+    "longitude": -77.18966293334961
+  },
+  "website": "https://clcnewbloomfield.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ca3a4fb6-72e6-4b9a-9d9a-97b3dada921f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ca3a4fb6-72e6-4b9a-9d9a-97b3dada921f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clcnewbloomfield.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237411079"
+    }
+  ],
+  "advisories": []
+}

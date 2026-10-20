@@ -1,0 +1,33 @@
+{
+  "id": "qypzfqx83",
+  "url": "https://constellation.church/qypzfqx83",
+  "name": "Journey Church",
+  "displayName": "Journey Church",
+  "address": {
+    "street": "400 Franklin Ave Ste 130 Phoenixville",
+    "city": null,
+    "state": "PA",
+    "zip": "19460"
+  },
+  "coordinates": {
+    "latitude": 40.14158630371094,
+    "longitude": -75.5213508605957
+  },
+  "website": "https://jrny.church/what-we-believe",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=1d12ebc1-4690-4928-918c-5c96837ccaa0&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "1d12ebc1-4690-4928-918c-5c96837ccaa0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jrny.church/what-we-believe"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "203618550"
+    }
+  ],
+  "advisories": []
+}

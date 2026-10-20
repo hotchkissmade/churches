@@ -1,0 +1,33 @@
+{
+  "id": "c2sxjwn94",
+  "url": "https://constellation.church/c2sxjwn94",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "37000 Union Lake Rd",
+    "city": "Harrison Township",
+    "state": "MI",
+    "zip": "48045-2327"
+  },
+  "coordinates": {
+    "latitude": 42.568526,
+    "longitude": -82.863605
+  },
+  "website": "https://bethlehem-church-elca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7fb756aa-ac37-45fe-bcb3-de20eab14e79",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7fb756aa-ac37-45fe-bcb3-de20eab14e79"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethlehem-church-elca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "386102293"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "genfn5n32",
+  "url": "https://constellation.church/genfn5n32",
+  "name": "Sunnyvale Presbyterian Church",
+  "displayName": "Sunnyvale Presbyterian Church",
+  "address": {
+    "street": "728 W Fremont Ave",
+    "city": "Sunnyvale",
+    "state": "CA",
+    "zip": "94087-3102"
+  },
+  "coordinates": {
+    "latitude": 37.351593017578125,
+    "longitude": -122.04264068603516
+  },
+  "website": "https://sunnyvalepres.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/4619/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "4619"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sunnyvalepres.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941457902"
+    }
+  ],
+  "advisories": []
+}

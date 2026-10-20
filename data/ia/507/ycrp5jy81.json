@@ -1,0 +1,33 @@
+{
+  "id": "ycrp5jy81",
+  "url": "https://constellation.church/ycrp5jy81",
+  "name": "St John's Lutheran Church Bennington",
+  "displayName": "St. John's Lutheran Church Bennington",
+  "address": {
+    "street": "4110 E Mount Vernon Rd",
+    "city": "Waterloo",
+    "state": "IA",
+    "zip": "50703-9463"
+  },
+  "coordinates": {
+    "latitude": 42.5844841003418,
+    "longitude": -92.25604248046875
+  },
+  "website": "https://stjohnsbennington.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f7a8ece4-0317-472a-ba06-4f27257419d9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f7a8ece4-0317-472a-ba06-4f27257419d9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsbennington.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930712845"
+    }
+  ],
+  "advisories": []
+}

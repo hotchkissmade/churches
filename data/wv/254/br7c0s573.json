@@ -1,0 +1,33 @@
+{
+  "id": "br7c0s573",
+  "url": "https://constellation.church/br7c0s573",
+  "name": "Pilgrim Presbyterian Church",
+  "displayName": "Pilgrim Presbyterian Church",
+  "address": {
+    "street": "601 Albert Street",
+    "city": "Martinsburg",
+    "state": "WV",
+    "zip": "25404"
+  },
+  "coordinates": {
+    "latitude": 39.4622859954834,
+    "longitude": -77.95439910888672
+  },
+  "website": "https://pilgrimpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/832",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "832"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pilgrimpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "550609481"
+    }
+  ],
+  "advisories": []
+}

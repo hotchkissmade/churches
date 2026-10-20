@@ -1,0 +1,33 @@
+{
+  "id": "aerx0gq79",
+  "url": "https://constellation.church/aerx0gq79",
+  "name": "First Baptist Church of Weston",
+  "displayName": "First Baptist Church of Weston",
+  "address": {
+    "street": "1420 Indian Trace",
+    "city": "Weston",
+    "state": "FL",
+    "zip": "33326"
+  },
+  "coordinates": {
+    "latitude": 26.102935791015625,
+    "longitude": -80.37095260620117
+  },
+  "website": "https://firstbaptistweston.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-weston/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-weston"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistweston.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "650321898"
+    }
+  ],
+  "advisories": []
+}

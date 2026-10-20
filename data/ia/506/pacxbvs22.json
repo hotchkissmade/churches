@@ -1,0 +1,41 @@
+{
+  "id": "pacxbvs22",
+  "url": "https://constellation.church/pacxbvs22",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "2029 Viking Ave",
+    "city": "Sumner",
+    "state": "IA",
+    "zip": "50674-9034"
+  },
+  "coordinates": {
+    "latitude": 42.756975,
+    "longitude": -92.1408195
+  },
+  "website": "https://stjohnsumner.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f6782481-a633-4b84-ae7f-e187a0cdfd4f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f6782481-a633-4b84-ae7f-e187a0cdfd4f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsumner.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420886853"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420953064"
+    },
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "882668"
+    }
+  ],
+  "advisories": []
+}

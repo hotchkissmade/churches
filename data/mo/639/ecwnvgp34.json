@@ -1,0 +1,33 @@
+{
+  "id": "ecwnvgp34",
+  "url": "https://constellation.church/ecwnvgp34",
+  "name": "Church of the Holy Cross",
+  "displayName": "Church of the Holy Cross",
+  "address": {
+    "street": "420 N. Main Street",
+    "city": "Poplar Bluff",
+    "state": "MO",
+    "zip": "63901-5108"
+  },
+  "coordinates": {
+    "latitude": 36.76002502441406,
+    "longitude": -90.39347076416016
+  },
+  "website": "https://holycrosspb.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-missouri/list/episcopal-church-holy-cross",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-missouri/episcopal-church-holy-cross"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holycrosspb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430783158"
+    }
+  ],
+  "advisories": []
+}

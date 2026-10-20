@@ -1,0 +1,33 @@
+{
+  "id": "etknt3204",
+  "url": "https://constellation.church/etknt3204",
+  "name": "Mountain Presbyterian Church",
+  "displayName": "Mountain Presbyterian Church",
+  "address": {
+    "street": "2478 Boyles Run Rd",
+    "city": "Sunbury",
+    "state": "PA",
+    "zip": "17801"
+  },
+  "coordinates": {
+    "latitude": 40.781484603881836,
+    "longitude": -76.7586441040039
+  },
+  "website": "https://mountainpresby.org",
+  "listingUrl": "https://eco-pres.org/churches/mountain-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "mountain-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mountainpresby.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "246017137"
+    }
+  ],
+  "advisories": []
+}

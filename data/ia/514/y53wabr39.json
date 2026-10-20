@@ -1,0 +1,37 @@
+{
+  "id": "y53wabr39",
+  "url": "https://constellation.church/y53wabr39",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "643 3rd Ave",
+    "city": "Manilla",
+    "state": "IA",
+    "zip": "51454"
+  },
+  "coordinates": {
+    "latitude": 41.886837005615234,
+    "longitude": -95.23506927490234
+  },
+  "website": "https://trinitylutheranmanilla.com",
+  "listingUrl": "https://idwlcms.org/congregation.php?id=111",
+  "identifiers": [
+    {
+      "namespace": "org.idwlcms.id",
+      "value": "111"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylutheranmanilla.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426139898"
+    },
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "546904"
+    }
+  ],
+  "advisories": []
+}

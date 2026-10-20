@@ -1,0 +1,33 @@
+{
+  "id": "hhvy05e02",
+  "url": "https://constellation.church/hhvy05e02",
+  "name": "Advent Lutheran Church",
+  "displayName": "Advent Lutheran Church",
+  "address": {
+    "street": "118 Revely St",
+    "city": "Spindale",
+    "state": "NC",
+    "zip": "28160-1538"
+  },
+  "coordinates": {
+    "latitude": 35.356045359168,
+    "longitude": -81.929862889276
+  },
+  "website": "https://adventelca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ded1474a-b7d4-4968-b696-9aabb7200324",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ded1474a-b7d4-4968-b696-9aabb7200324"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "adventelca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561414613"
+    }
+  ],
+  "advisories": []
+}

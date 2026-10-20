@@ -1,0 +1,33 @@
+{
+  "id": "cnx24mx41",
+  "url": "https://constellation.church/cnx24mx41",
+  "name": "St. James' Episcopal Church",
+  "displayName": "St. James' Episcopal Church",
+  "address": {
+    "street": "302 West Ave.",
+    "city": "Cedartown",
+    "state": "GA",
+    "zip": "30125-3422"
+  },
+  "coordinates": {
+    "latitude": 34.01138496398926,
+    "longitude": -85.25772094726562
+  },
+  "website": "https://stjamescedartown.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-atlanta/list/st-james-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-atlanta/st-james-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamescedartown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237081979"
+    }
+  ],
+  "advisories": []
+}

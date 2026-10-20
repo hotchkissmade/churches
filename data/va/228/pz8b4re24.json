@@ -1,0 +1,33 @@
+{
+  "id": "pz8b4re24",
+  "url": "https://constellation.church/pz8b4re24",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "263 Bethel Church Rd",
+    "city": "Edinburg",
+    "state": "VA",
+    "zip": "22824"
+  },
+  "coordinates": {
+    "latitude": 38.811988830566406,
+    "longitude": -78.6334457397461
+  },
+  "website": "https://bethelchurchofhamburg.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a7db73b7-1742-48dc-9b8d-f1fc928956b5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a7db73b7-1742-48dc-9b8d-f1fc928956b5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelchurchofhamburg.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541013679"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dnbabx048",
+  "url": "https://constellation.church/dnbabx048",
+  "name": "Luckey Baptist Church",
+  "displayName": "Luckey Baptist Church",
+  "address": {
+    "street": "5252 State Road Y",
+    "city": "De Soto",
+    "state": "MO",
+    "zip": "63020"
+  },
+  "coordinates": {
+    "latitude": 38.16911506652832,
+    "longitude": -90.60174560546875
+  },
+  "website": "https://luckeybaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/luckey-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "luckey-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "luckeybaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431349953"
+    }
+  ],
+  "advisories": []
+}

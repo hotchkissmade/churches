@@ -1,0 +1,33 @@
+{
+  "id": "e2ghf4w45",
+  "url": "https://constellation.church/e2ghf4w45",
+  "name": "Good Shepherd Lutheran Church",
+  "displayName": "Good Shepherd Lutheran Church",
+  "address": {
+    "street": "4141 Mormon Coulee Rd",
+    "city": "La Crosse",
+    "state": "WI",
+    "zip": "54601-7903"
+  },
+  "coordinates": {
+    "latitude": 43.77325439453125,
+    "longitude": -91.21672821044922
+  },
+  "website": "https://gslacrosse.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8e41bf58-af57-4249-97ca-e62b388284c6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8e41bf58-af57-4249-97ca-e62b388284c6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gslacrosse.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237014481"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fg941mr04",
+  "url": "https://constellation.church/fg941mr04",
+  "name": "SEED CHURCH",
+  "displayName": "Seed Church",
+  "address": {
+    "street": "6899 ELLESMERE WAY",
+    "city": "Cypress",
+    "state": "CA",
+    "zip": "90630"
+  },
+  "coordinates": {
+    "latitude": 33.7986585,
+    "longitude": -118.0121241
+  },
+  "website": "https://seedch.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "365123342"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "seedch.org"
+    }
+  ],
+  "advisories": []
+}

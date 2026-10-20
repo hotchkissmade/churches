@@ -1,0 +1,33 @@
+{
+  "id": "hwhp1yv28",
+  "url": "https://constellation.church/hwhp1yv28",
+  "name": "Lutheran Church Of Hope",
+  "displayName": "Lutheran Church Of Hope",
+  "address": {
+    "street": "1305 W 10th Ave",
+    "city": "Broomfield",
+    "state": "CO",
+    "zip": "80020-1770"
+  },
+  "coordinates": {
+    "latitude": 39.929325103759766,
+    "longitude": -105.08544158935547
+  },
+  "website": "https://lchope.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3ca20a6b-ffda-4bfa-983a-737c8cf416ce",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3ca20a6b-ffda-4bfa-983a-737c8cf416ce"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lchope.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "846131330"
+    }
+  ],
+  "advisories": []
+}

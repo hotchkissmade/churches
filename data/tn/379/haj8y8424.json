@@ -1,0 +1,37 @@
+{
+  "id": "haj8y8424",
+  "url": "https://constellation.church/haj8y8424",
+  "name": "Fountain City Church",
+  "displayName": "Fountain City Church",
+  "address": {
+    "street": "2801 Holbrook Dr",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37918"
+  },
+  "coordinates": {
+    "latitude": 36.037376403808594,
+    "longitude": -83.93526077270508
+  },
+  "website": "https://fountaincity.church",
+  "listingUrl": "https://churches.sbc.net/church/fountain-city-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "fountain-city-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fountaincity.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620605184"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "813473742"
+    }
+  ],
+  "advisories": []
+}

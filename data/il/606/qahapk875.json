@@ -1,0 +1,33 @@
+{
+  "id": "qahapk875",
+  "url": "https://constellation.church/qahapk875",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "3325 W Wrightwood Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60647-1405"
+  },
+  "coordinates": {
+    "latitude": 41.92811584472656,
+    "longitude": -87.7120590209961
+  },
+  "website": "https://stlukesls.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1d63ab64-a17b-4bc2-8d97-506068ae5292",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1d63ab64-a17b-4bc2-8d97-506068ae5292"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesls.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362412450"
+    }
+  ],
+  "advisories": []
+}

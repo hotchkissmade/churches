@@ -1,0 +1,33 @@
+{
+  "id": "kvdc2mr66",
+  "url": "https://constellation.church/kvdc2mr66",
+  "name": "Diamond Lake Lutheran Church",
+  "displayName": "Diamond Lake Lutheran Church",
+  "address": {
+    "street": "5760 Portland Ave",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55417-2462"
+  },
+  "coordinates": {
+    "latitude": 44.897953033447266,
+    "longitude": -93.26834106445312
+  },
+  "website": "https://dllc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fd15c0b7-221c-4a2b-ba91-e4c11353a982",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fd15c0b7-221c-4a2b-ba91-e4c11353a982"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dllc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410724043"
+    }
+  ],
+  "advisories": []
+}

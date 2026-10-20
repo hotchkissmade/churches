@@ -1,0 +1,41 @@
+{
+  "id": "xp6zk9803",
+  "url": "https://constellation.church/xp6zk9803",
+  "name": "Los Alamos Company",
+  "displayName": "Los Alamos Company",
+  "address": {
+    "street": "2525 Canyon Rd",
+    "city": "Los Alamos",
+    "state": "NM",
+    "zip": "87544-2361"
+  },
+  "coordinates": {
+    "latitude": 35.88446617126465,
+    "longitude": -106.30543518066406
+  },
+  "website": "https://unitedchurchla.org",
+  "listingUrl": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=21359",
+  "identifiers": [
+    {
+      "namespace": "org.adventistdirectory.id",
+      "value": "21359"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "unitedchurchla.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850119358"
+    },
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "9682"
+    },
+    {
+      "namespace": "org.rca.id",
+      "value": "1140132"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kw2rs0p88",
+  "url": "https://constellation.church/kw2rs0p88",
+  "name": "Calvary Chapel of Kansas City, Kansas",
+  "displayName": "Calvary Chapel of Kansas City, Kansas",
+  "address": {
+    "street": "2614 S 18th",
+    "city": "Kansas City",
+    "state": "KS",
+    "zip": "66106"
+  },
+  "coordinates": {
+    "latitude": 39.054086685180664,
+    "longitude": -94.64993286132812
+  },
+  "website": "https://calvarychapelkc.com/what-we-believe",
+  "listingUrl": "https://rforw.pcg.org/ChurchDetails.aspx?contactID=1005225",
+  "identifiers": [
+    {
+      "namespace": "org.pcg.rforw.id",
+      "value": "1005225"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "calvarychapelkc.com/what-we-believe"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "260305440"
+    }
+  ],
+  "advisories": []
+}

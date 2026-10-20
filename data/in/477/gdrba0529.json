@@ -1,0 +1,33 @@
+{
+  "id": "gdrba0529",
+  "url": "https://constellation.church/gdrba0529",
+  "name": "Sojourn Church",
+  "displayName": "Sojourn Church",
+  "address": {
+    "street": "1405 E Walnut St",
+    "city": "Evansville",
+    "state": "IN",
+    "zip": "47714"
+  },
+  "coordinates": {
+    "latitude": 37.973344802856445,
+    "longitude": -87.53910827636719
+  },
+  "website": "https://thesojourn.org/beliefs",
+  "listingUrl": "https://converge.org/church/sojourn-church/",
+  "identifiers": [
+    {
+      "namespace": "org.converge.id",
+      "value": "38714"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thesojourn.org/beliefs"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "261539898"
+    }
+  ],
+  "advisories": []
+}

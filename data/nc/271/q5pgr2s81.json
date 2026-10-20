@@ -1,0 +1,33 @@
+{
+  "id": "q5pgr2s81",
+  "url": "https://constellation.church/q5pgr2s81",
+  "name": "Beck’s Baptist Church",
+  "displayName": "Beck’s Baptist Church",
+  "address": {
+    "street": "5505 Becks Church Rd",
+    "city": "Winston-Salem",
+    "state": "NC",
+    "zip": "27106"
+  },
+  "coordinates": {
+    "latitude": 36.17385292053223,
+    "longitude": -80.29339981079102
+  },
+  "website": "https://becksbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/becks-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "becks-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "becksbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560657299"
+    }
+  ],
+  "advisories": []
+}

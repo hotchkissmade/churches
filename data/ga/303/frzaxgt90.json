@@ -1,0 +1,33 @@
+{
+  "id": "frzaxgt90",
+  "url": "https://constellation.church/frzaxgt90",
+  "name": "New Church of Atlanta",
+  "displayName": "New Church of Atlanta",
+  "address": {
+    "street": "2845 Amwiler Road",
+    "city": "Peachtree Corners",
+    "state": "GA",
+    "zip": "30360"
+  },
+  "coordinates": {
+    "latitude": 33.92635536193848,
+    "longitude": -84.25481033325195
+  },
+  "website": "https://newchurchatl.net",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4693",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4693"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newchurchatl.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "582293275"
+    }
+  ],
+  "advisories": []
+}

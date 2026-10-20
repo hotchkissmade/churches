@@ -1,0 +1,33 @@
+{
+  "id": "yg0r3rt17",
+  "url": "https://constellation.church/yg0r3rt17",
+  "name": "Trinity Lower Eastside",
+  "displayName": "Trinity Lower Eastside",
+  "address": {
+    "street": "602 E 9th St",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10009-5239"
+  },
+  "coordinates": {
+    "latitude": 40.72607612609863,
+    "longitude": -73.9802360534668
+  },
+  "website": "https://trinitylowereastside.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2f7ff3eb-1d9d-4c1e-afb8-89aa60803cde",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2f7ff3eb-1d9d-4c1e-afb8-89aa60803cde"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylowereastside.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "131987477"
+    }
+  ],
+  "advisories": []
+}

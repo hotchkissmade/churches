@@ -1,0 +1,33 @@
+{
+  "id": "v99kgha06",
+  "url": "https://constellation.church/v99kgha06",
+  "name": "Good Shepherd Lutheran Church",
+  "displayName": "Good Shepherd Lutheran Church",
+  "address": {
+    "street": "100 W Luray Ave",
+    "city": "Alexandria",
+    "state": "VA",
+    "zip": "22301-2032"
+  },
+  "coordinates": {
+    "latitude": 38.81721115112305,
+    "longitude": -77.06401062011719
+  },
+  "website": "https://gslutheran.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0865feaf-d877-4368-b4b2-32c4c7730fa7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0865feaf-d877-4368-b4b2-32c4c7730fa7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gslutheran.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "546045870"
+    }
+  ],
+  "advisories": []
+}

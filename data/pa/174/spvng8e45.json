@@ -1,0 +1,33 @@
+{
+  "id": "spvng8e45",
+  "url": "https://constellation.church/spvng8e45",
+  "name": "Providence Presbyterian Church",
+  "displayName": "Providence Presbyterian Church",
+  "address": {
+    "street": "1215 Church Road",
+    "city": "York",
+    "state": "PA",
+    "zip": "17404"
+  },
+  "coordinates": {
+    "latitude": 39.992597579956055,
+    "longitude": -76.77889633178711
+  },
+  "website": "https://yorkpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/868",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "868"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "yorkpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581698613"
+    }
+  ],
+  "advisories": []
+}

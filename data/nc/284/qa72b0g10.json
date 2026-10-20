@@ -1,0 +1,33 @@
+{
+  "id": "qa72b0g10",
+  "url": "https://constellation.church/qa72b0g10",
+  "name": "Kure Memorial Evangelical Lutheran Church",
+  "displayName": "Kure Memorial Evangelical Lutheran Church",
+  "address": {
+    "street": "117 Third Ave N",
+    "city": "Kure Beach",
+    "state": "NC",
+    "zip": "28449-3767"
+  },
+  "coordinates": {
+    "latitude": 33.99945259094238,
+    "longitude": -77.90789031982422
+  },
+  "website": "https://kmlc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b767ea04-102f-47c0-b2ff-d67bd08043fc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b767ea04-102f-47c0-b2ff-d67bd08043fc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kmlc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560898264"
+    }
+  ],
+  "advisories": []
+}

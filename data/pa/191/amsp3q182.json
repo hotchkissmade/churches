@@ -1,0 +1,29 @@
+{
+  "id": "amsp3q182",
+  "url": "https://constellation.church/amsp3q182",
+  "name": "CATHOLIC SOCIAL SERVICES",
+  "displayName": "Catholic Social Services",
+  "address": {
+    "street": "222 N 17TH ST",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19103"
+  },
+  "coordinates": {
+    "latitude": 40.959659576416016,
+    "longitude": -75.99789047241211
+  },
+  "website": "https://cssphiladelphia.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231352063"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cssphiladelphia.org"
+    }
+  ],
+  "advisories": []
+}

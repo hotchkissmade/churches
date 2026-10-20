@@ -1,0 +1,33 @@
+{
+  "id": "cfe1r3e16",
+  "url": "https://constellation.church/cfe1r3e16",
+  "name": "First CRC",
+  "displayName": "First Christian Reformed Church",
+  "address": {
+    "street": "1429 McDougall Ave",
+    "city": "Everett",
+    "state": "WA",
+    "zip": "98201"
+  },
+  "coordinates": {
+    "latitude": 47.997867584228516,
+    "longitude": -122.19953155517578
+  },
+  "website": "https://everettcrc.org",
+  "listingUrl": "https://www.crcna.org/churches/7820",
+  "identifiers": [
+    {
+      "namespace": "org.crcna.id",
+      "value": "7820"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "everettcrc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "916034576"
+    }
+  ],
+  "advisories": []
+}

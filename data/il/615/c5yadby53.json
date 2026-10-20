@@ -1,0 +1,33 @@
+{
+  "id": "c5yadby53",
+  "url": "https://constellation.church/c5yadby53",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "200 Stonegate Dr",
+    "city": "Canton",
+    "state": "IL",
+    "zip": "61520"
+  },
+  "coordinates": {
+    "latitude": 40.57684135437012,
+    "longitude": -90.03138732910156
+  },
+  "website": "https://cantonag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=5b73d2eb-0753-4694-9bb8-17cfeb325d7b&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "5b73d2eb-0753-4694-9bb8-17cfeb325d7b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cantonag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "376059743"
+    }
+  ],
+  "advisories": []
+}

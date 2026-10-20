@@ -1,0 +1,33 @@
+{
+  "id": "cp3ggm966",
+  "url": "https://constellation.church/cp3ggm966",
+  "name": "Community Lutheran Church",
+  "displayName": "Community Lutheran Church",
+  "address": {
+    "street": "96 Main St",
+    "city": "Enfield",
+    "state": "NH",
+    "zip": "03748-3049"
+  },
+  "coordinates": {
+    "latitude": 43.64030838012695,
+    "longitude": -72.14989471435547
+  },
+  "website": "https://clcenfield.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=92cb4d8a-d129-4d15-a0e4-ed0eaefd1fc1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "92cb4d8a-d129-4d15-a0e4-ed0eaefd1fc1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clcenfield.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "020278025"
+    }
+  ],
+  "advisories": []
+}

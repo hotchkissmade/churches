@@ -1,0 +1,33 @@
+{
+  "id": "j6xtdt161",
+  "url": "https://constellation.church/j6xtdt161",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "209 N Green St",
+    "city": "Valentine",
+    "state": "NE",
+    "zip": "69201"
+  },
+  "coordinates": {
+    "latitude": 42.87355995178223,
+    "longitude": -100.53958129882812
+  },
+  "website": "https://fbcvalentine.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-655/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-655"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcvalentine.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470666211"
+    }
+  ],
+  "advisories": []
+}

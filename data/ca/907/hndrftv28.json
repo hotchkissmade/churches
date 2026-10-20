@@ -1,0 +1,33 @@
+{
+  "id": "hndrftv28",
+  "url": "https://constellation.church/hndrftv28",
+  "name": "Central Baptist Church of Carson",
+  "displayName": "Central Baptist Church of Carson",
+  "address": {
+    "street": "1641 E Carson St",
+    "city": "Carson",
+    "state": "CA",
+    "zip": "90745"
+  },
+  "coordinates": {
+    "latitude": 33.83230018615723,
+    "longitude": -118.24270629882812
+  },
+  "website": "https://centralbccarson.org/meet-our-pastor",
+  "listingUrl": "https://churches.sbc.net/church/central-baptist-church-of-carson/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "central-baptist-church-of-carson"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centralbccarson.org/meet-our-pastor"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330829242"
+    }
+  ],
+  "advisories": []
+}

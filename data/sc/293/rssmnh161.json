@@ -1,0 +1,33 @@
+{
+  "id": "rssmnh161",
+  "url": "https://constellation.church/rssmnh161",
+  "name": "Unity Baptist Church",
+  "displayName": "Unity Baptist Church",
+  "address": {
+    "street": "4240 Walnut Grove Rd",
+    "city": "Roebuck",
+    "state": "SC",
+    "zip": "29376"
+  },
+  "coordinates": {
+    "latitude": 34.74726867675781,
+    "longitude": -81.95738220214844
+  },
+  "website": "https://unitybc.wixsite.com/woodruff",
+  "listingUrl": "https://churches.sbc.net/church/unity-baptist-church-20/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "unity-baptist-church-20"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "unitybc.wixsite.com/woodruff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570797827"
+    }
+  ],
+  "advisories": []
+}

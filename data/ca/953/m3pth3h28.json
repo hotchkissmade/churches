@@ -1,0 +1,33 @@
+{
+  "id": "m3pth3h28",
+  "url": "https://constellation.church/m3pth3h28",
+  "name": "Church in Merced",
+  "displayName": "Church in Merced",
+  "address": {
+    "street": "755 W 15th St",
+    "city": "Merced",
+    "state": "CA",
+    "zip": "95340"
+  },
+  "coordinates": {
+    "latitude": 37.3008752,
+    "longitude": -120.4883541
+  },
+  "website": "https://church-in-merced.org",
+  "listingUrl": "https://localchurches.org/churches/merced-ca-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "merced-ca-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "church-in-merced.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "770557365"
+    }
+  ],
+  "advisories": []
+}

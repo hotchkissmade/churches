@@ -1,0 +1,33 @@
+{
+  "id": "a3ejcfb18",
+  "url": "https://constellation.church/a3ejcfb18",
+  "name": "Emanuel Lutheran Church",
+  "displayName": "Emanuel Lutheran Church",
+  "address": {
+    "street": "200 Greenwood St",
+    "city": "Worcester",
+    "state": "MA",
+    "zip": "01607-1610"
+  },
+  "coordinates": {
+    "latitude": 42.22455406188965,
+    "longitude": -71.79579162597656
+  },
+  "website": "https://emanuelworc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c7d4fedd-cf70-4ec8-9dd1-80fbcdb59614",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c7d4fedd-cf70-4ec8-9dd1-80fbcdb59614"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emanuelworc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042199868"
+    }
+  ],
+  "advisories": []
+}

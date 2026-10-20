@@ -1,0 +1,33 @@
+{
+  "id": "nr5etb933",
+  "url": "https://constellation.church/nr5etb933",
+  "name": "Redeemer Lutheran Church",
+  "displayName": "Redeemer Lutheran Church",
+  "address": {
+    "street": "1001 Princeton St",
+    "city": "Fircrest",
+    "state": "WA",
+    "zip": "98466-6025"
+  },
+  "coordinates": {
+    "latitude": 47.23989486694336,
+    "longitude": -122.51642608642578
+  },
+  "website": "https://redeemerlc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ae9baf69-3eb9-4fa0-83cd-bdabbb4cb93a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ae9baf69-3eb9-4fa0-83cd-bdabbb4cb93a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerlc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910929683"
+    }
+  ],
+  "advisories": []
+}

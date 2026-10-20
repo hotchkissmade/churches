@@ -1,0 +1,33 @@
+{
+  "id": "c4tpdfw98",
+  "url": "https://constellation.church/c4tpdfw98",
+  "name": "Covenant Presbyterian Church",
+  "displayName": "Covenant Presbyterian Church",
+  "address": {
+    "street": "166 Pigeon Street",
+    "city": "Waynesville",
+    "state": "NC",
+    "zip": "28786"
+  },
+  "coordinates": {
+    "latitude": 35.4866569,
+    "longitude": -82.9866503
+  },
+  "website": "https://covenantpcawaynesville.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/299",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "299"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covenantpcawaynesville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561407347"
+    }
+  ],
+  "advisories": []
+}

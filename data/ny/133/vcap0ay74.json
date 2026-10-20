@@ -1,0 +1,29 @@
+{
+  "id": "vcap0ay74",
+  "url": "https://constellation.church/vcap0ay74",
+  "name": "FIRST BAPTIST CHURCH",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "PO BOX 127",
+    "city": "Earlville",
+    "state": "NY",
+    "zip": "13332"
+  },
+  "coordinates": {
+    "latitude": 42.73957824707031,
+    "longitude": -75.54655838012695
+  },
+  "website": "https://fbcearlville.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161101619"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcearlville.org"
+    }
+  ],
+  "advisories": []
+}

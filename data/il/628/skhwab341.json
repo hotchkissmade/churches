@@ -1,0 +1,33 @@
+{
+  "id": "skhwab341",
+  "url": "https://constellation.church/skhwab341",
+  "name": "Caldwell Baptist Church",
+  "displayName": "Caldwell Baptist Church",
+  "address": {
+    "street": "4630 Deering Rd",
+    "city": "Benton",
+    "state": "IL",
+    "zip": "62812"
+  },
+  "coordinates": {
+    "latitude": 37.9308299,
+    "longitude": -88.8907785
+  },
+  "website": "https://bentonil.com",
+  "listingUrl": "https://churches.sbc.net/church/caldwell-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "caldwell-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bentonil.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371359343"
+    }
+  ],
+  "advisories": []
+}

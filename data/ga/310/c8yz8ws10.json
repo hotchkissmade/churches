@@ -1,0 +1,33 @@
+{
+  "id": "c8yz8ws10",
+  "url": "https://constellation.church/c8yz8ws10",
+  "name": "First Baptist Church Montezuma",
+  "displayName": "First Baptist Church Montezuma",
+  "address": {
+    "street": "207 N Dooly St",
+    "city": "Montezuma",
+    "state": "GA",
+    "zip": "31063"
+  },
+  "coordinates": {
+    "latitude": 32.30278205871582,
+    "longitude": -84.02911758422852
+  },
+  "website": "https://fbcmtz.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-montezuma/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-montezuma"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcmtz.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580941453"
+    }
+  ],
+  "advisories": []
+}

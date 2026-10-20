@@ -1,0 +1,33 @@
+{
+  "id": "wbb1r7q88",
+  "url": "https://constellation.church/wbb1r7q88",
+  "name": "Gilead Lutheran Church",
+  "displayName": "Gilead Lutheran Church",
+  "address": {
+    "street": "308 Brick Church Rd",
+    "city": "Troy",
+    "state": "NY",
+    "zip": "12180"
+  },
+  "coordinates": {
+    "latitude": 42.76110649108887,
+    "longitude": -73.59567642211914
+  },
+  "website": "https://gileadlutheran.org/about-us",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c632df50-801a-451b-9381-ad575f785900",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c632df50-801a-451b-9381-ad575f785900"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gileadlutheran.org/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "146023508"
+    }
+  ],
+  "advisories": []
+}

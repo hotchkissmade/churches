@@ -1,0 +1,37 @@
+{
+  "id": "fka2mab48",
+  "url": "https://constellation.church/fka2mab48",
+  "name": "Olivet Baptist Church",
+  "displayName": "Olivet Baptist Church",
+  "address": {
+    "street": "1775 S Beretania St",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96826"
+  },
+  "coordinates": {
+    "latitude": 21.297489166259766,
+    "longitude": -157.83241271972656
+  },
+  "website": "https://olivetbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/olivet-baptist-church-12/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "olivet-baptist-church-12"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "olivetbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "990079728"
+    },
+    {
+      "namespace": "org.acna.id",
+      "value": "1634"
+    }
+  ],
+  "advisories": []
+}

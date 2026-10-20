@@ -1,0 +1,33 @@
+{
+  "id": "d6y809w22",
+  "url": "https://constellation.church/d6y809w22",
+  "name": "Zion Episcopal Church",
+  "displayName": "Zion Episcopal Church",
+  "address": {
+    "street": "5167 Main St.",
+    "city": "Manchester Center",
+    "state": "VT",
+    "zip": "05255"
+  },
+  "coordinates": {
+    "latitude": 43.17830276489258,
+    "longitude": -73.05160140991211
+  },
+  "website": "https://zionchurchmanchester.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/vermont/list/zion-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "vermont/zion-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionchurchmanchester.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "036004157"
+    }
+  ],
+  "advisories": []
+}

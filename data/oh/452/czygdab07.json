@@ -1,0 +1,33 @@
+{
+  "id": "czygdab07",
+  "url": "https://constellation.church/czygdab07",
+  "name": "Saint Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "5433 Madison Rd",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45227-1507"
+  },
+  "coordinates": {
+    "latitude": 39.160818099975586,
+    "longitude": -84.40000915527344
+  },
+  "website": "https://stpaulcincy.com",
+  "listingUrl": "https://locator.lcms.org/church/C/172244",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "172244"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulcincy.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310543309"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wt909g728",
+  "url": "https://constellation.church/wt909g728",
+  "name": "Gateway Trinity Lutheran Church Of The Elca",
+  "displayName": "Gateway Trinity Lutheran Church Of The Elca",
+  "address": {
+    "street": "11381 Gateway Blvd",
+    "city": "Fort Myers",
+    "state": "FL",
+    "zip": "33913-7937"
+  },
+  "coordinates": {
+    "latitude": 26.577634811401367,
+    "longitude": -81.7494888305664
+  },
+  "website": "https://gtlc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fb63d6c3-27dc-46df-b954-7f51b6641ab8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fb63d6c3-27dc-46df-b954-7f51b6641ab8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gtlc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "650218796"
+    }
+  ],
+  "advisories": []
+}

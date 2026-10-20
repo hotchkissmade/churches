@@ -1,0 +1,33 @@
+{
+  "id": "s2g7eat45",
+  "url": "https://constellation.church/s2g7eat45",
+  "name": "Abingdon Baptist Church",
+  "displayName": "Abingdon Baptist Church",
+  "address": {
+    "street": "361 W Main St",
+    "city": "Abingdon",
+    "state": "VA",
+    "zip": "24210"
+  },
+  "coordinates": {
+    "latitude": 36.70797157287598,
+    "longitude": -81.9829216003418
+  },
+  "website": "https://abingdonbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/abingdon-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "abingdon-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "abingdonbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "203196927"
+    }
+  ],
+  "advisories": []
+}

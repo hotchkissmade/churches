@@ -1,0 +1,33 @@
+{
+  "id": "a3seemb61",
+  "url": "https://constellation.church/a3seemb61",
+  "name": "Calvary Lutheran Church",
+  "displayName": "Calvary Lutheran Church",
+  "address": {
+    "street": "515 L St",
+    "city": "Rio Linda",
+    "state": "CA",
+    "zip": "95673-3429"
+  },
+  "coordinates": {
+    "latitude": 38.68966102600098,
+    "longitude": -121.45420837402344
+  },
+  "website": "https://clcrl.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0fed3acf-8e9b-4035-a7e6-d4bbc6e80068",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0fed3acf-8e9b-4035-a7e6-d4bbc6e80068"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clcrl.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942506922"
+    }
+  ],
+  "advisories": []
+}

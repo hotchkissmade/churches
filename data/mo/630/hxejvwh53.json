@@ -1,0 +1,33 @@
+{
+  "id": "hxejvwh53",
+  "url": "https://constellation.church/hxejvwh53",
+  "name": "St. Francis' Episcopal Church",
+  "displayName": "St. Francis' Episcopal Church",
+  "address": {
+    "street": "602 Rockwood Arbor Drive",
+    "city": "Eureka",
+    "state": "MO",
+    "zip": "63025"
+  },
+  "coordinates": {
+    "latitude": 38.50760078430176,
+    "longitude": -90.66201782226562
+  },
+  "website": "https://stfranciseureka.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-missouri/list/st-francis-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-missouri/st-francis-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stfranciseureka.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431590378"
+    }
+  ],
+  "advisories": []
+}

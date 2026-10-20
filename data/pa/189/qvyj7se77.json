@@ -1,0 +1,33 @@
+{
+  "id": "qvyj7se77",
+  "url": "https://constellation.church/qvyj7se77",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "19 S 5th St",
+    "city": "Perkasie",
+    "state": "PA",
+    "zip": "18944-1301"
+  },
+  "coordinates": {
+    "latitude": 40.372541427612305,
+    "longitude": -75.29440689086914
+  },
+  "website": "https://trinityperkasie.org/about",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=270ff763-e114-45b0-992f-7a4d969f2094",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "270ff763-e114-45b0-992f-7a4d969f2094"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityperkasie.org/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231463049"
+    }
+  ],
+  "advisories": []
+}

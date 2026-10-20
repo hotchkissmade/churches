@@ -1,0 +1,33 @@
+{
+  "id": "rahhmcn50",
+  "url": "https://constellation.church/rahhmcn50",
+  "name": "Grace Baptist Church",
+  "displayName": "Grace Baptist Church",
+  "address": {
+    "street": "6400 Greensboro Rd",
+    "city": "Ridgeway",
+    "state": "VA",
+    "zip": "24148"
+  },
+  "coordinates": {
+    "latitude": 36.60563087463379,
+    "longitude": -79.86242294311523
+  },
+  "website": "https://gbcridgeway.com",
+  "listingUrl": "https://churches.sbc.net/church/grace-baptist-church-64/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grace-baptist-church-64"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gbcridgeway.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541257216"
+    }
+  ],
+  "advisories": []
+}

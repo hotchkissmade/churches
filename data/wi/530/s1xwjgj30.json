@@ -1,0 +1,37 @@
+{
+  "id": "s1xwjgj30",
+  "url": "https://constellation.church/s1xwjgj30",
+  "name": "First Baptist Church- Watertown",
+  "displayName": "First Baptist Church- Watertown",
+  "address": {
+    "street": "160 Oakridge Ct",
+    "city": "Watertown",
+    "state": "WI",
+    "zip": "53094"
+  },
+  "coordinates": {
+    "latitude": 43.193992614746094,
+    "longitude": -88.69889831542969
+  },
+  "website": "https://firstwttn.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-watertown/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-watertown"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstwttn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391461440"
+    },
+    {
+      "namespace": "org.nabconference.id",
+      "value": "first-baptist-church-22"
+    }
+  ],
+  "advisories": []
+}

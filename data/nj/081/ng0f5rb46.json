@@ -1,0 +1,33 @@
+{
+  "id": "ng0f5rb46",
+  "url": "https://constellation.church/ng0f5rb46",
+  "name": "Temple Lutheran Church",
+  "displayName": "Temple Lutheran Church",
+  "address": {
+    "street": "5600 N Route 130",
+    "city": "Pennsauken",
+    "state": "NJ",
+    "zip": "08109"
+  },
+  "coordinates": {
+    "latitude": 39.9562873840332,
+    "longitude": -75.05731964111328
+  },
+  "website": "https://templelutheranchurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ef65de94-a90d-42cb-83fe-d03e058f8e2d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ef65de94-a90d-42cb-83fe-d03e058f8e2d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "templelutheranchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "216007146"
+    }
+  ],
+  "advisories": []
+}

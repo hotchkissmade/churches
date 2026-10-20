@@ -1,0 +1,33 @@
+{
+  "id": "wttr28710",
+  "url": "https://constellation.church/wttr28710",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "527 W 6th St",
+    "city": "Lawson",
+    "state": "MO",
+    "zip": "64062"
+  },
+  "coordinates": {
+    "latitude": 39.43975257873535,
+    "longitude": -94.2098388671875
+  },
+  "website": "https://lawsonag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=c9dbc22e-9658-4cb8-af0b-a9a341021e7f&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "c9dbc22e-9658-4cb8-af0b-a9a341021e7f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lawsonag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431269728"
+    }
+  ],
+  "advisories": []
+}

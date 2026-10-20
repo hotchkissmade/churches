@@ -1,0 +1,33 @@
+{
+  "id": "jwk7fyf52",
+  "url": "https://constellation.church/jwk7fyf52",
+  "name": "Redeemer Lutheran Church",
+  "displayName": "Redeemer Lutheran Church",
+  "address": {
+    "street": "16 Theiler Dr",
+    "city": "Tomahawk",
+    "state": "WI",
+    "zip": "54487-1707"
+  },
+  "coordinates": {
+    "latitude": 45.46398162841797,
+    "longitude": -89.72954559326172
+  },
+  "website": "https://redeemertomahawk.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24666",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24666"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemertomahawk.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237245750"
+    }
+  ],
+  "advisories": []
+}

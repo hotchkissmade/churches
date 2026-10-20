@@ -1,0 +1,33 @@
+{
+  "id": "hbnp84m73",
+  "url": "https://constellation.church/hbnp84m73",
+  "name": "Jerusalem Lutheran Church",
+  "displayName": "Jerusalem Lutheran Church",
+  "address": {
+    "street": "733 Ridge Rd",
+    "city": "Sellersville",
+    "state": "PA",
+    "zip": "18960-1339"
+  },
+  "coordinates": {
+    "latitude": 40.36703681945801,
+    "longitude": -75.33625030517578
+  },
+  "website": "https://jelchurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=21e96dc3-5e41-44e0-bf8a-393d66d67412",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "21e96dc3-5e41-44e0-bf8a-393d66d67412"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jelchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232225835"
+    }
+  ],
+  "advisories": []
+}

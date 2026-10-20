@@ -1,0 +1,33 @@
+{
+  "id": "mh7205p81",
+  "url": "https://constellation.church/mh7205p81",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "1401 Hawthorn Rd",
+    "city": "Salem",
+    "state": "IL",
+    "zip": "62881-1041"
+  },
+  "coordinates": {
+    "latitude": 38.63962173461914,
+    "longitude": -88.9594955444336
+  },
+  "website": "https://salemlc.org",
+  "listingUrl": "https://locator.lcms.org/church/C/808165",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "808165"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemlc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370916461"
+    }
+  ],
+  "advisories": []
+}

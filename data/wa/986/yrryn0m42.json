@@ -1,0 +1,33 @@
+{
+  "id": "yrryn0m42",
+  "url": "https://constellation.church/yrryn0m42",
+  "name": "Church At The Grove",
+  "displayName": "Church At The Grove",
+  "address": {
+    "street": "6004 NE 72nd Ave",
+    "city": "Vancouver",
+    "state": "WA",
+    "zip": "98661"
+  },
+  "coordinates": {
+    "latitude": 45.66592979431152,
+    "longitude": -122.59976959228516
+  },
+  "website": "https://churchatthegrove.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=4e10a7ce-4c45-43b3-bd1a-d410e006ab9a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "4e10a7ce-4c45-43b3-bd1a-d410e006ab9a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchatthegrove.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911517274"
+    }
+  ],
+  "advisories": []
+}

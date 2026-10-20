@@ -1,0 +1,33 @@
+{
+  "id": "m1kvs3d04",
+  "url": "https://constellation.church/m1kvs3d04",
+  "name": "St. James Mission",
+  "displayName": "St. James Mission",
+  "address": {
+    "street": "9 Tekoa Ln",
+    "city": "Beaufort",
+    "state": "SC",
+    "zip": "29902-6124"
+  },
+  "coordinates": {
+    "latitude": 32.40413856506348,
+    "longitude": -80.68645477294922
+  },
+  "website": "https://stjamesbeaufort.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-so-beasjm",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-so-beasjm"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamesbeaufort.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "455511982"
+    }
+  ],
+  "advisories": []
+}

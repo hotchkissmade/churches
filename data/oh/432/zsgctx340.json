@@ -1,0 +1,33 @@
+{
+  "id": "zsgctx340",
+  "url": "https://constellation.church/zsgctx340",
+  "name": "Boulevard Presbyterian Church",
+  "displayName": "Boulevard Presbyterian Church",
+  "address": {
+    "street": "1235 Northwest Blvd",
+    "city": "Grandview Heights",
+    "state": "OH",
+    "zip": "43212-3597"
+  },
+  "coordinates": {
+    "latitude": 39.98342514038086,
+    "longitude": -83.03839874267578
+  },
+  "website": "https://blvdchurch.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/6414/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "6414"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blvdchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "314398963"
+    }
+  ],
+  "advisories": []
+}

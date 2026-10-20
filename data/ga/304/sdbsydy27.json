@@ -1,0 +1,33 @@
+{
+  "id": "sdbsydy27",
+  "url": "https://constellation.church/sdbsydy27",
+  "name": "First Baptist Church of Statesboro, Inc.",
+  "displayName": "First Baptist Church of Statesboro",
+  "address": {
+    "street": "108 N Main St",
+    "city": "Statesboro",
+    "state": "GA",
+    "zip": "30458"
+  },
+  "coordinates": {
+    "latitude": 32.45199775695801,
+    "longitude": -81.78229141235352
+  },
+  "website": "https://fbcboro.church",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-statesboro-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-statesboro-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcboro.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580837325"
+    }
+  ],
+  "advisories": []
+}

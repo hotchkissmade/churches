@@ -1,0 +1,33 @@
+{
+  "id": "sbff27143",
+  "url": "https://constellation.church/sbff27143",
+  "name": "Lighthouse Assembly of God",
+  "displayName": "Lighthouse Assembly of God",
+  "address": {
+    "street": "1790 Sherman Ave",
+    "city": "Vicksburg",
+    "state": "MS",
+    "zip": "39183"
+  },
+  "coordinates": {
+    "latitude": 32.379220962524414,
+    "longitude": -90.83392333984375
+  },
+  "website": "https://lighthouseofvicksburg.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=eb81573c-25cb-4dfd-8369-99bb9e5de39a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "eb81573c-25cb-4dfd-8369-99bb9e5de39a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lighthouseofvicksburg.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "113681450"
+    }
+  ],
+  "advisories": []
+}

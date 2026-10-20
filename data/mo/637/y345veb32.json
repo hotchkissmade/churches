@@ -1,0 +1,33 @@
+{
+  "id": "y345veb32",
+  "url": "https://constellation.church/y345veb32",
+  "name": "Mercy Hill Church",
+  "displayName": "Mercy Hill Church",
+  "address": {
+    "street": "3757 State Highway 25",
+    "city": "Jackson",
+    "state": "MO",
+    "zip": "63755"
+  },
+  "coordinates": {
+    "latitude": 37.341670989990234,
+    "longitude": -89.66197204589844
+  },
+  "website": "https://mhchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/mercy-hill-church-5/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mercy-hill-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mhchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "010769734"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n0g1h0p09",
+  "url": "https://constellation.church/n0g1h0p09",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "1619 W 3rd St",
+    "city": "Mc Cook",
+    "state": "NE",
+    "zip": "69001-2121"
+  },
+  "coordinates": {
+    "latitude": 40.2147178,
+    "longitude": -100.629791
+  },
+  "website": "https://trinitymccook.com/site/default.asp",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24559",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24559"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitymccook.com/site/default.asp"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470539938"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qk62rdf29",
+  "url": "https://constellation.church/qk62rdf29",
+  "name": "Belmont Assembly of God",
+  "displayName": "Belmont Assembly of God",
+  "address": {
+    "street": "6050 W Belmont Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60634"
+  },
+  "coordinates": {
+    "latitude": 41.938602447509766,
+    "longitude": -87.77788162231445
+  },
+  "website": "https://belmontag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=1a38a265-5bb2-4571-86a1-9d9ce6d39be3&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "1a38a265-5bb2-4571-86a1-9d9ce6d39be3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "belmontag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237379668"
+    }
+  ],
+  "advisories": []
+}

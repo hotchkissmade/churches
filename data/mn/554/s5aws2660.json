@@ -1,0 +1,37 @@
+{
+  "id": "s5aws2660",
+  "url": "https://constellation.church/s5aws2660",
+  "name": "Augustana Lutheran Church",
+  "displayName": "Augustana Lutheran Church",
+  "address": {
+    "street": "1900 11th Ave S",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55404-2012"
+  },
+  "coordinates": {
+    "latitude": 44.963714599609375,
+    "longitude": -93.25843048095703
+  },
+  "website": "https://augmpls.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d769dc4a-f031-4714-81e9-142e4e99fdf7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d769dc4a-f031-4714-81e9-142e4e99fdf7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "augmpls.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410744069"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "461153640"
+    }
+  ],
+  "advisories": []
+}

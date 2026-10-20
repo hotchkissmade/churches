@@ -1,0 +1,33 @@
+{
+  "id": "g521hp098",
+  "url": "https://constellation.church/g521hp098",
+  "name": "Brownsville Baptist Church",
+  "displayName": "Brownsville Baptist Church",
+  "address": {
+    "street": "5 N Wilson Ave",
+    "city": "Brownsville",
+    "state": "TN",
+    "zip": "38012"
+  },
+  "coordinates": {
+    "latitude": 35.594215393066406,
+    "longitude": -89.26417541503906
+  },
+  "website": "https://brownsvillebaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/brownsville-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "brownsville-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "brownsvillebaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620589315"
+    }
+  ],
+  "advisories": []
+}

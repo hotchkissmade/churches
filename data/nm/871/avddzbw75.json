@@ -1,0 +1,33 @@
+{
+  "id": "avddzbw75",
+  "url": "https://constellation.church/avddzbw75",
+  "name": "Northdale Baptist Church",
+  "displayName": "Northdale Baptist Church",
+  "address": {
+    "street": "123 Osuna Rd NW",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87107"
+  },
+  "coordinates": {
+    "latitude": 35.1523494720459,
+    "longitude": -106.62935638427734
+  },
+  "website": "https://northdalebaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/northdale-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northdale-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northdalebaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850338422"
+    }
+  ],
+  "advisories": []
+}

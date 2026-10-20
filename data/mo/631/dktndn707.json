@@ -1,0 +1,33 @@
+{
+  "id": "dktndn707",
+  "url": "https://constellation.church/dktndn707",
+  "name": "St. Mark's Episcopal Church, St. Louis",
+  "displayName": "St. Mark's Episcopal Church, St. Louis",
+  "address": {
+    "street": "4714 Clifton Ave.",
+    "city": "Saint Louis",
+    "state": "MO",
+    "zip": "63109-2701"
+  },
+  "coordinates": {
+    "latitude": 38.58745193481445,
+    "longitude": -90.29512786865234
+  },
+  "website": "https://saintmarks-stl.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-missouri/list/st-marks-episcopal-church-st-louis",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-missouri/st-marks-episcopal-church-st-louis"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintmarks-stl.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "436003300"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dksjbkw25",
+  "url": "https://constellation.church/dksjbkw25",
+  "name": "Messiah Lutheran Church",
+  "displayName": "Messiah Lutheran Church",
+  "address": {
+    "street": "302 11th St",
+    "city": "Port Byron",
+    "state": "IL",
+    "zip": "61275-9038"
+  },
+  "coordinates": {
+    "latitude": 33.968435287475586,
+    "longitude": -84.2234115600586
+  },
+  "website": "https://messiahlutheranpb.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dca92e09-3325-4a02-bde6-8c6cfa6c0089",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dca92e09-3325-4a02-bde6-8c6cfa6c0089"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "messiahlutheranpb.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362785109"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dgra45e76",
+  "url": "https://constellation.church/dgra45e76",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "3990 W 74th Ave",
+    "city": "Westminster",
+    "state": "CO",
+    "zip": "80030-4709"
+  },
+  "coordinates": {
+    "latitude": 39.83076477050781,
+    "longitude": -105.03959655761719
+  },
+  "website": "https://westypres.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/1237/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "1237"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westypres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840486329"
+    }
+  ],
+  "advisories": []
+}

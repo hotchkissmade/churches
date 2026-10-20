@@ -1,0 +1,33 @@
+{
+  "id": "h26wes789",
+  "url": "https://constellation.church/h26wes789",
+  "name": "Port Royal United Methodist Church",
+  "displayName": "Port Royal United Methodist Church",
+  "address": {
+    "street": "1602 Columbia Ave",
+    "city": "Port Royal",
+    "state": "SC",
+    "zip": "29935-1806"
+  },
+  "coordinates": {
+    "latitude": 32.380632400512695,
+    "longitude": -80.69668197631836
+  },
+  "website": "https://portroyalumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFHwBIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFHwBIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "portroyalumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570439568"
+    }
+  ],
+  "advisories": []
+}

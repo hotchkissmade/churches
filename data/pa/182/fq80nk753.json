@@ -1,0 +1,33 @@
+{
+  "id": "fq80nk753",
+  "url": "https://constellation.church/fq80nk753",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "1302 N Old Stage Rd",
+    "city": "Albrightsville",
+    "state": "PA",
+    "zip": "18210"
+  },
+  "coordinates": {
+    "latitude": 41.01961135864258,
+    "longitude": -75.61742401123047
+  },
+  "website": "https://stpaulsalbrightsville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3c6b9b72-195d-4de4-a519-0d251205edc5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3c6b9b72-195d-4de4-a519-0d251205edc5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsalbrightsville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232101986"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "zv8q7sx03",
+  "url": "https://constellation.church/zv8q7sx03",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "956 N Liberty St",
+    "city": "Rushville",
+    "state": "IL",
+    "zip": "62681"
+  },
+  "coordinates": {
+    "latitude": 40.132150650024414,
+    "longitude": -90.56314849853516
+  },
+  "website": "https://rushvilleag.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=26e73079-0cac-40d4-9873-1a60cc6de663&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "26e73079-0cac-40d4-9873-1a60cc6de663"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rushvilleag.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "300314451"
+    }
+  ],
+  "advisories": []
+}

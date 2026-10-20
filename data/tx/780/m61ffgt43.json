@@ -1,0 +1,33 @@
+{
+  "id": "m61ffgt43",
+  "url": "https://constellation.church/m61ffgt43",
+  "name": "Somerset Baptist Church",
+  "displayName": "Somerset Baptist Church",
+  "address": {
+    "street": "19961 Somerset Rd.",
+    "city": "Somerset",
+    "state": "TX",
+    "zip": "78069"
+  },
+  "coordinates": {
+    "latitude": 29.22405433654785,
+    "longitude": -98.65923309326172
+  },
+  "website": "https://somersetbaptist.church",
+  "listingUrl": "https://churches.sbc.net/church/somerset-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "somerset-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "somersetbaptist.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742307933"
+    }
+  ],
+  "advisories": []
+}

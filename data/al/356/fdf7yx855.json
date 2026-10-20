@@ -1,0 +1,33 @@
+{
+  "id": "fdf7yx855",
+  "url": "https://constellation.church/fdf7yx855",
+  "name": "Athens First",
+  "displayName": "Athens First",
+  "address": {
+    "street": "201 E Hobbs Street",
+    "city": "Athens",
+    "state": "AL",
+    "zip": "35611"
+  },
+  "coordinates": {
+    "latitude": 34.80493927001953,
+    "longitude": -86.96804809570312
+  },
+  "website": "https://fbcathens.org",
+  "listingUrl": "https://churches.sbc.net/church/athens-first/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "athens-first"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcathens.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "636005383"
+    }
+  ],
+  "advisories": []
+}

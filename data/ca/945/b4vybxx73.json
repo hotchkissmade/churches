@@ -1,0 +1,33 @@
+{
+  "id": "b4vybxx73",
+  "url": "https://constellation.church/b4vybxx73",
+  "name": "San Ramon",
+  "displayName": "Iglesia ni Cristo — San Ramon",
+  "address": {
+    "street": "9300 Alcosta Boulevard",
+    "city": "San Ramon",
+    "state": "CA",
+    "zip": "94583"
+  },
+  "coordinates": {
+    "latitude": 37.73327827453613,
+    "longitude": -121.92332458496094
+  },
+  "website": "https://gccwc.org",
+  "listingUrl": "https://iglesianicristo.net/directory/locales/san-ramon-ext",
+  "identifiers": [
+    {
+      "namespace": "net.iglesianicristo.id",
+      "value": "51221"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gccwc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "831611407"
+    }
+  ],
+  "advisories": []
+}

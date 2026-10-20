@@ -1,0 +1,33 @@
+{
+  "id": "x1r79v792",
+  "url": "https://constellation.church/x1r79v792",
+  "name": "The Lutheran Church Of The Good Shepherd",
+  "displayName": "The Lutheran Church Of The Good Shepherd",
+  "address": {
+    "street": "1615 Morse Ave",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95864-2666"
+  },
+  "coordinates": {
+    "latitude": 38.59519958496094,
+    "longitude": -121.39286804199219
+  },
+  "website": "https://gschurch.us",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8dc4cbf7-b221-443e-b127-a2947c0c1867",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8dc4cbf7-b221-443e-b127-a2947c0c1867"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gschurch.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "946024526"
+    }
+  ],
+  "advisories": []
+}

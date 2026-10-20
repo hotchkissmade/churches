@@ -1,0 +1,29 @@
+{
+  "id": "cs03fgs31",
+  "url": "https://constellation.church/cs03fgs31",
+  "name": "DIOCESE OF ROCHESTER",
+  "displayName": "Diocese of Rochester",
+  "address": {
+    "street": "1150 BUFFALO RD",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14624"
+  },
+  "coordinates": {
+    "latitude": 43.1524635,
+    "longitude": -77.6813005
+  },
+  "website": "https://dor.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "160755765"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dor.org"
+    }
+  ],
+  "advisories": []
+}

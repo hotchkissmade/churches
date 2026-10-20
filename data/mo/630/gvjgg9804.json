@@ -1,0 +1,33 @@
+{
+  "id": "gvjgg9804",
+  "url": "https://constellation.church/gvjgg9804",
+  "name": "Central Baptist Church, Eureka",
+  "displayName": "Central Baptist Church, Eureka",
+  "address": {
+    "street": "601 N Central Ave",
+    "city": "Eureka",
+    "state": "MO",
+    "zip": "63025"
+  },
+  "coordinates": {
+    "latitude": 38.5091552734375,
+    "longitude": -90.62834167480469
+  },
+  "website": "https://cbcserves.org",
+  "listingUrl": "https://churches.sbc.net/church/central-baptist-church-eureka/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "central-baptist-church-eureka"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cbcserves.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430888804"
+    }
+  ],
+  "advisories": []
+}

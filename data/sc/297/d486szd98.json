@@ -1,0 +1,33 @@
+{
+  "id": "d486szd98",
+  "url": "https://constellation.church/d486szd98",
+  "name": "Lancaster First Baptist Church",
+  "displayName": "Lancaster First Baptist Church",
+  "address": {
+    "street": "300 S Market St",
+    "city": "Lancaster",
+    "state": "SC",
+    "zip": "29720"
+  },
+  "coordinates": {
+    "latitude": 34.717912673950195,
+    "longitude": -80.76737213134766
+  },
+  "website": "https://fbclancastersc.org",
+  "listingUrl": "https://churches.sbc.net/church/lancaster-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lancaster-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbclancastersc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "576000500"
+    }
+  ],
+  "advisories": []
+}

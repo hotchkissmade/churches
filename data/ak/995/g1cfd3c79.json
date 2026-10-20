@@ -1,0 +1,33 @@
+{
+  "id": "g1cfd3c79",
+  "url": "https://constellation.church/g1cfd3c79",
+  "name": "First Korean Baptist Church of Anchorage",
+  "displayName": "First Korean Baptist Church of Anchorage",
+  "address": {
+    "street": "5144 E 22nd Ave",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "99508"
+  },
+  "coordinates": {
+    "latitude": 61.19997024536133,
+    "longitude": -149.7842559814453
+  },
+  "website": "https://akchurch.net",
+  "listingUrl": "https://churches.sbc.net/church/first-korean-baptist-church-of-anchorage/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-korean-baptist-church-of-anchorage"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "akchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920129432"
+    }
+  ],
+  "advisories": []
+}

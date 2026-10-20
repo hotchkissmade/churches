@@ -1,0 +1,33 @@
+{
+  "id": "y7pesjf49",
+  "url": "https://constellation.church/y7pesjf49",
+  "name": "United Lutheran Church",
+  "displayName": "United Lutheran Church",
+  "address": {
+    "street": "1216 9th Ave",
+    "city": "Langdon",
+    "state": "ND",
+    "zip": "58249-1906"
+  },
+  "coordinates": {
+    "latitude": 48.76055908203125,
+    "longitude": -98.383056640625
+  },
+  "website": "https://unitedlangdon.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=26e05ac2-90b0-4548-bf2c-5f92f98af4c8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "26e05ac2-90b0-4548-bf2c-5f92f98af4c8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "unitedlangdon.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450553761"
+    }
+  ],
+  "advisories": []
+}

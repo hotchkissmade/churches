@@ -1,0 +1,33 @@
+{
+  "id": "d83nvf915",
+  "url": "https://constellation.church/d83nvf915",
+  "name": "All Saints",
+  "displayName": "All Saints",
+  "address": {
+    "street": "2080 Stine Rd. #5",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93309"
+  },
+  "coordinates": {
+    "latitude": 35.33645057678223,
+    "longitude": -119.05135345458984
+  },
+  "website": "https://allsaintsbakersfield.org",
+  "listingUrl": "https://www.acna.org/admin_units/628",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "628"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allsaintsbakersfield.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953212991"
+    }
+  ],
+  "advisories": []
+}

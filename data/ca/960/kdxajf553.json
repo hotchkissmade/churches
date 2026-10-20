@@ -1,0 +1,33 @@
+{
+  "id": "kdxajf553",
+  "url": "https://constellation.church/kdxajf553",
+  "name": "St James Lutheran Church",
+  "displayName": "St. James Lutheran Church",
+  "address": {
+    "street": "2500 Shasta View Dr",
+    "city": "Redding",
+    "state": "CA",
+    "zip": "96002-1560"
+  },
+  "coordinates": {
+    "latitude": 40.57045936584473,
+    "longitude": -122.32600402832031
+  },
+  "website": "https://stjamesca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7d3b77d9-cc0e-46b0-b0f8-29458616e22d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7d3b77d9-cc0e-46b0-b0f8-29458616e22d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamesca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942230467"
+    }
+  ],
+  "advisories": []
+}

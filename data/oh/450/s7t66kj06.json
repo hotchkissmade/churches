@@ -1,0 +1,33 @@
+{
+  "id": "s7t66kj06",
+  "url": "https://constellation.church/s7t66kj06",
+  "name": "Waynesville Community Church",
+  "displayName": "Waynesville Community Church",
+  "address": {
+    "street": "1009 Lytle Rd",
+    "city": "Waynesville",
+    "state": "OH",
+    "zip": "45068"
+  },
+  "coordinates": {
+    "latitude": 39.53989219665527,
+    "longitude": -84.09219741821289
+  },
+  "website": "https://waynesville.church",
+  "listingUrl": "https://churches.sbc.net/church/waynesville-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "waynesville-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "waynesville.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310898871"
+    }
+  ],
+  "advisories": []
+}

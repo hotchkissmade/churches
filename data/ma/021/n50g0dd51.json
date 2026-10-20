@@ -1,0 +1,33 @@
+{
+  "id": "n50g0dd51",
+  "url": "https://constellation.church/n50g0dd51",
+  "name": "Boston Harbor Community Church",
+  "displayName": "Boston Harbor Community Church",
+  "address": {
+    "street": "9 Salutation St",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02109"
+  },
+  "coordinates": {
+    "latitude": 42.365966796875,
+    "longitude": -71.05245971679688
+  },
+  "website": "https://bostonharbor.cc",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=b480cbc3-9cdb-4fe7-b083-ab88819cea07&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "b480cbc3-9cdb-4fe7-b083-ab88819cea07"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bostonharbor.cc"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222579980"
+    }
+  ],
+  "advisories": []
+}

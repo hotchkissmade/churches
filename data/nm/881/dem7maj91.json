@@ -1,0 +1,33 @@
+{
+  "id": "dem7maj91",
+  "url": "https://constellation.church/dem7maj91",
+  "name": "Gracepointe Church of Portales",
+  "displayName": "Gracepointe Church of Portales",
+  "address": {
+    "street": "207 S Avenue K",
+    "city": "Portales",
+    "state": "NM",
+    "zip": "88130"
+  },
+  "coordinates": {
+    "latitude": 34.180551528930664,
+    "longitude": -103.34646606445312
+  },
+  "website": "https://gracepointenm.com",
+  "listingUrl": "https://churches.sbc.net/church/gracepointe-church-of-portales/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "gracepointe-church-of-portales"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracepointenm.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "993291401"
+    }
+  ],
+  "advisories": []
+}

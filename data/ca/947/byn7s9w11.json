@@ -1,0 +1,33 @@
+{
+  "id": "byn7s9w11",
+  "url": "https://constellation.church/byn7s9w11",
+  "name": "St. Clement's Episcopal Church",
+  "displayName": "St. Clement's Episcopal Church",
+  "address": {
+    "street": "2837 Claremont Blvd",
+    "city": "Berkeley",
+    "state": "CA",
+    "zip": "94705-1446"
+  },
+  "coordinates": {
+    "latitude": 37.85939407348633,
+    "longitude": -122.2451171875
+  },
+  "website": "https://stclementsberkeley.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-california/list/st-clements-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-california/st-clements-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stclementsberkeley.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941156836"
+    }
+  ],
+  "advisories": []
+}

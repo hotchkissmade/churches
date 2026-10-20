@@ -1,0 +1,33 @@
+{
+  "id": "evnqjp045",
+  "url": "https://constellation.church/evnqjp045",
+  "name": "St Luke's Lutheran Church",
+  "displayName": "St. Luke's Lutheran Church",
+  "address": {
+    "street": "1500 Veterans Ave",
+    "city": "Stanton",
+    "state": "NE",
+    "zip": "68779-2345"
+  },
+  "coordinates": {
+    "latitude": 41.94552230834961,
+    "longitude": -97.23100280761719
+  },
+  "website": "https://stanton.net/stlukeschurch.html",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1f87a5ab-514f-434e-8706-405b0a6c8c07",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1f87a5ab-514f-434e-8706-405b0a6c8c07"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stanton.net/stlukeschurch.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470637396"
+    }
+  ],
+  "advisories": []
+}

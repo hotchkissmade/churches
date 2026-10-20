@@ -1,0 +1,33 @@
+{
+  "id": "g5s7jw531",
+  "url": "https://constellation.church/g5s7jw531",
+  "name": "Dover Presbyterian Church",
+  "displayName": "Dover Presbyterian Church",
+  "address": {
+    "street": "54 S State St",
+    "city": "Dover",
+    "state": "DE",
+    "zip": "19901"
+  },
+  "coordinates": {
+    "latitude": 39.15995788574219,
+    "longitude": -75.52545547485352
+  },
+  "website": "https://doverpresbyterian.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/345/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "345"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "doverpresbyterian.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510345293"
+    }
+  ],
+  "advisories": []
+}

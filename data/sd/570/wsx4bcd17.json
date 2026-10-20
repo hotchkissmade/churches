@@ -1,0 +1,33 @@
+{
+  "id": "wsx4bcd17",
+  "url": "https://constellation.church/wsx4bcd17",
+  "name": "Gayville Lutheran Church",
+  "displayName": "Gayville Lutheran Church",
+  "address": {
+    "street": "307 Washington St",
+    "city": "Gayville",
+    "state": "SD",
+    "zip": "57031-2034"
+  },
+  "coordinates": {
+    "latitude": 42.89070510864258,
+    "longitude": -97.17212677001953
+  },
+  "website": "https://gayvillesd.org/lutheran-church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b42e93c2-cc4b-4c0a-9498-e87d6c689e3e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b42e93c2-cc4b-4c0a-9498-e87d6c689e3e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gayvillesd.org/lutheran-church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460365157"
+    }
+  ],
+  "advisories": []
+}

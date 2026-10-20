@@ -1,0 +1,33 @@
+{
+  "id": "rnez17s10",
+  "url": "https://constellation.church/rnez17s10",
+  "name": "Shepherdstown United Methodist Church",
+  "displayName": "Shepherdstown United Methodist Church",
+  "address": {
+    "street": "1934 S York St",
+    "city": "Mechanicsburg",
+    "state": "PA",
+    "zip": "17055-5102"
+  },
+  "coordinates": {
+    "latitude": 40.17868423461914,
+    "longitude": -76.99222946166992
+  },
+  "website": "https://shepherdstownumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFHJrIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFHJrIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "shepherdstownumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231873894"
+    }
+  ],
+  "advisories": []
+}

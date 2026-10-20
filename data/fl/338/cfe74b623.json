@@ -1,0 +1,33 @@
+{
+  "id": "cfe74b623",
+  "url": "https://constellation.church/cfe74b623",
+  "name": "Lake Dale Baptist Church",
+  "displayName": "Lake Dale Baptist Church",
+  "address": {
+    "street": "3102 Heard Bridge Rd",
+    "city": "Wauchula",
+    "state": "FL",
+    "zip": "33873"
+  },
+  "coordinates": {
+    "latitude": 27.587656021118164,
+    "longitude": -81.76800537109375
+  },
+  "website": "https://lakedale.org",
+  "listingUrl": "https://churches.sbc.net/church/lake-dale-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lake-dale-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lakedale.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592334460"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bsgrd1v18",
+  "url": "https://constellation.church/bsgrd1v18",
+  "name": "Apostolic Christian Church of Rittman",
+  "displayName": "Apostolic Christian Church of Rittman",
+  "address": {
+    "street": "10699 Steiner Road",
+    "city": "Rittman",
+    "state": "OH",
+    "zip": "44270"
+  },
+  "coordinates": {
+    "latitude": 40.93056869506836,
+    "longitude": -81.78450012207031
+  },
+  "website": "https://rittmanacchurch.org",
+  "listingUrl": "https://www.apostolicchristian.org/congregations/rittman",
+  "identifiers": [
+    {
+      "namespace": "org.apostolicchristian.id",
+      "value": "rittman"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rittmanacchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341507224"
+    }
+  ],
+  "advisories": []
+}

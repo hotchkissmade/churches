@@ -1,0 +1,33 @@
+{
+  "id": "esr328m59",
+  "url": "https://constellation.church/esr328m59",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "1830 Route 12",
+    "city": "Gales Ferry",
+    "state": "CT",
+    "zip": "06335-1123"
+  },
+  "coordinates": {
+    "latitude": 41.44985580444336,
+    "longitude": -72.07352447509766
+  },
+  "website": "https://stlukegf.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0febe262-7a28-41d1-bf4f-e47a8d2d6d3e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0febe262-7a28-41d1-bf4f-e47a8d2d6d3e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukegf.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "060856603"
+    }
+  ],
+  "advisories": []
+}

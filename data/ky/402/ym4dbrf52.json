@@ -1,0 +1,33 @@
+{
+  "id": "ym4dbrf52",
+  "url": "https://constellation.church/ym4dbrf52",
+  "name": "Trinity Chapel",
+  "displayName": "Trinity Chapel",
+  "address": {
+    "street": "8617 Whipps Mill Rd",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40222"
+  },
+  "coordinates": {
+    "latitude": 38.25418663024902,
+    "longitude": -85.59400177001953
+  },
+  "website": "https://mytc.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=37e874a2-936d-466f-8305-c8709e00ec17&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "37e874a2-936d-466f-8305-c8709e00ec17"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mytc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "610656116"
+    }
+  ],
+  "advisories": []
+}

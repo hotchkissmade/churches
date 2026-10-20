@@ -1,0 +1,33 @@
+{
+  "id": "wv9g6t736",
+  "url": "https://constellation.church/wv9g6t736",
+  "name": "Apostolic Christian Church of Tremont",
+  "displayName": "Apostolic Christian Church of Tremont",
+  "address": {
+    "street": "601 South Chestnut Street",
+    "city": "Tremont",
+    "state": "IL",
+    "zip": "61568"
+  },
+  "coordinates": {
+    "latitude": 40.520687103271484,
+    "longitude": -89.48735046386719
+  },
+  "website": "https://tremontacc.com",
+  "listingUrl": "https://www.apostolicchristian.org/congregations/tremont",
+  "identifiers": [
+    {
+      "namespace": "org.apostolicchristian.id",
+      "value": "tremont"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tremontacc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370750775"
+    }
+  ],
+  "advisories": []
+}

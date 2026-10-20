@@ -1,0 +1,33 @@
+{
+  "id": "rpa1b0x30",
+  "url": "https://constellation.church/rpa1b0x30",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "91 Public Sq",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44113-2058"
+  },
+  "coordinates": {
+    "latitude": 41.500282287597656,
+    "longitude": -81.6946029663086
+  },
+  "website": "https://firstprescle.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/6354/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "6354"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstprescle.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340714475"
+    }
+  ],
+  "advisories": []
+}

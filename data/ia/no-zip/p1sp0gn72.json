@@ -1,0 +1,33 @@
+{
+  "id": "p1sp0gn72",
+  "url": "https://constellation.church/p1sp0gn72",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": null,
+    "city": "Ellsworth",
+    "state": "IA",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 42.31365966796875,
+    "longitude": -93.57903289794922
+  },
+  "website": "https://tlcellsworth.org",
+  "listingUrl": "https://lcmc.net/congregation/110110",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "110110"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcellsworth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420761062"
+    }
+  ],
+  "advisories": []
+}

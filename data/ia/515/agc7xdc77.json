@@ -1,0 +1,37 @@
+{
+  "id": "agc7xdc77",
+  "url": "https://constellation.church/agc7xdc77",
+  "name": "Timothy Lutheran Church",
+  "displayName": "Timothy Lutheran Church",
+  "address": {
+    "street": "3112 W Broadway",
+    "city": "Council Bluffs",
+    "state": "IA",
+    "zip": "51501"
+  },
+  "coordinates": {
+    "latitude": 41.26206588745117,
+    "longitude": -95.89447784423828
+  },
+  "website": "https://timothylutheran.net",
+  "listingUrl": "https://idwlcms.org/congregation.php?id=44",
+  "identifiers": [
+    {
+      "namespace": "org.idwlcms.id",
+      "value": "44"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "timothylutheran.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420776412"
+    },
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "208995"
+    }
+  ],
+  "advisories": []
+}

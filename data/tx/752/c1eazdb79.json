@@ -1,0 +1,33 @@
+{
+  "id": "c1eazdb79",
+  "url": "https://constellation.church/c1eazdb79",
+  "name": "St. Thomas the Apostle Church",
+  "displayName": "St. Thomas the Apostle Church",
+  "address": {
+    "street": "6525 Inwood Rd",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75209-5314"
+  },
+  "coordinates": {
+    "latitude": 32.83731651306152,
+    "longitude": -96.82208251953125
+  },
+  "website": "https://thedoubter.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-dallas/list/st-thomas-apostle-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-dallas/st-thomas-apostle-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thedoubter.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752257787"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "avz0c8c38",
+  "url": "https://constellation.church/avz0c8c38",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "3383 E Lake Lansing Rd",
+    "city": "East Lansing",
+    "state": "MI",
+    "zip": "48823-1572"
+  },
+  "coordinates": {
+    "latitude": 42.75840950012207,
+    "longitude": -84.47784042358398
+  },
+  "website": "https://stpaul-el.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d4937d53-9623-41c9-83df-91b333805940",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d4937d53-9623-41c9-83df-91b333805940"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaul-el.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237316415"
+    }
+  ],
+  "advisories": []
+}

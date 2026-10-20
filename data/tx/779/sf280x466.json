@@ -1,0 +1,33 @@
+{
+  "id": "sf280x466",
+  "url": "https://constellation.church/sf280x466",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "400 N Esplanade St",
+    "city": "Cuero",
+    "state": "TX",
+    "zip": "77954-3602"
+  },
+  "coordinates": {
+    "latitude": 29.093238830566406,
+    "longitude": -97.29060363769531
+  },
+  "website": "https://stmarkscuero.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=39cbaaf1-bc72-45b2-9ab7-cdc31315625c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "39cbaaf1-bc72-45b2-9ab7-cdc31315625c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkscuero.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741285096"
+    }
+  ],
+  "advisories": []
+}

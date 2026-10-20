@@ -1,0 +1,33 @@
+{
+  "id": "fep016570",
+  "url": "https://constellation.church/fep016570",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "1656 Lincoln Way",
+    "city": "White Oak",
+    "state": "PA",
+    "zip": "15131-1714"
+  },
+  "coordinates": {
+    "latitude": 40.34614372253418,
+    "longitude": -79.81655502319336
+  },
+  "website": "https://faithwhiteoak.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0f6cefb5-a07d-40cc-a299-7a5f3ae1a41e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0f6cefb5-a07d-40cc-a299-7a5f3ae1a41e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithwhiteoak.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251238809"
+    }
+  ],
+  "advisories": []
+}

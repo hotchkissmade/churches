@@ -1,0 +1,33 @@
+{
+  "id": "p7sytfx86",
+  "url": "https://constellation.church/p7sytfx86",
+  "name": "Westwood United Methodist Church",
+  "displayName": "Westwood United Methodist Church",
+  "address": {
+    "street": "538 Nichols Rd",
+    "city": "Kalamazoo",
+    "state": "MI",
+    "zip": "49006"
+  },
+  "coordinates": {
+    "latitude": 42.29743576049805,
+    "longitude": -85.62799835205078
+  },
+  "website": "https://westwood-umc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFGhNIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFGhNIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westwood-umc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381946305"
+    }
+  ],
+  "advisories": []
+}

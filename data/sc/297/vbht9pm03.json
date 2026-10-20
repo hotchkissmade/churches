@@ -1,0 +1,33 @@
+{
+  "id": "vbht9pm03",
+  "url": "https://constellation.church/vbht9pm03",
+  "name": "Filbert Presbyterian Church",
+  "displayName": "Filbert Presbyterian Church",
+  "address": {
+    "street": "2066 Filbert Highway",
+    "city": "York",
+    "state": "SC",
+    "zip": "29745"
+  },
+  "coordinates": {
+    "latitude": 35.04796028137207,
+    "longitude": -81.2542724609375
+  },
+  "website": "https://filbertpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/410",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "410"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "filbertpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570658817"
+    }
+  ],
+  "advisories": []
+}

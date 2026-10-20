@@ -1,0 +1,33 @@
+{
+  "id": "nx8kn7433",
+  "url": "https://constellation.church/nx8kn7433",
+  "name": "Advent Lutheran Church",
+  "displayName": "Advent Lutheran Church",
+  "address": {
+    "street": "8840 University City Blvd",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28213-0566"
+  },
+  "coordinates": {
+    "latitude": 35.29925537109375,
+    "longitude": -80.73397445678711
+  },
+  "website": "https://adventlu.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6e995bce-5090-49f5-86c4-9093efc58adf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6e995bce-5090-49f5-86c4-9093efc58adf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "adventlu.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561182420"
+    }
+  ],
+  "advisories": []
+}

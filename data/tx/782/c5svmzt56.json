@@ -1,0 +1,33 @@
+{
+  "id": "c5svmzt56",
+  "url": "https://constellation.church/c5svmzt56",
+  "name": "Faith Presbyterian Church",
+  "displayName": "Faith Presbyterian Church",
+  "address": {
+    "street": "1307 Blanco Woods",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78248"
+  },
+  "coordinates": {
+    "latitude": 29.598426818847656,
+    "longitude": -98.51116180419922
+  },
+  "website": "https://faithpca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/362",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "362"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithpca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742512592"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ge24bgn53",
+  "url": "https://constellation.church/ge24bgn53",
+  "name": "Moscow United Methodist Church",
+  "displayName": "Moscow United Methodist Church",
+  "address": {
+    "street": "126 Church St",
+    "city": "Moscow",
+    "state": "PA",
+    "zip": "18444-8639"
+  },
+  "coordinates": {
+    "latitude": 41.33711051940918,
+    "longitude": -75.5202751159668
+  },
+  "website": "https://moscowumc.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFN2PIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFN2PIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "moscowumc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231647604"
+    }
+  ],
+  "advisories": []
+}

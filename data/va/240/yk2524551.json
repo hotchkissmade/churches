@@ -1,0 +1,37 @@
+{
+  "id": "yk2524551",
+  "url": "https://constellation.church/yk2524551",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "2011 Brandon Ave SW",
+    "city": "Roanoke",
+    "state": "VA",
+    "zip": "24015-2711"
+  },
+  "coordinates": {
+    "latitude": 37.25809288024902,
+    "longitude": -79.98388290405273
+  },
+  "website": "https://christlutheranroanoke.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ea7df28a-2cc0-4a2a-a746-e55f3b172793",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ea7df28a-2cc0-4a2a-a746-e55f3b172793"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christlutheranroanoke.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540713730"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541896033"
+    }
+  ],
+  "advisories": []
+}

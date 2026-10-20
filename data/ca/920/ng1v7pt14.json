@@ -1,0 +1,33 @@
+{
+  "id": "ng1v7pt14",
+  "url": "https://constellation.church/ng1v7pt14",
+  "name": "Solana Beach Presbyterian Church",
+  "displayName": "Solana Beach Presbyterian Church",
+  "address": {
+    "street": "120 Stevens Ave",
+    "city": "Solana Beach",
+    "state": "CA",
+    "zip": "92075-2039"
+  },
+  "coordinates": {
+    "latitude": 32.99578285217285,
+    "longitude": -117.26171875
+  },
+  "website": "https://solanabeach.church/sunday-media",
+  "listingUrl": "https://church-trends.pcusa.org/church/609/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "609"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "solanabeach.church/sunday-media"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952129111"
+    }
+  ],
+  "advisories": []
+}

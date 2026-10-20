@@ -1,0 +1,33 @@
+{
+  "id": "jd36taq19",
+  "url": "https://constellation.church/jd36taq19",
+  "name": "St Matthew Lutheran Church",
+  "displayName": "St. Matthew Lutheran Church",
+  "address": {
+    "street": "318 Chester Ave",
+    "city": "Moorestown",
+    "state": "NJ",
+    "zip": "08057-2526"
+  },
+  "coordinates": {
+    "latitude": 39.96867370605469,
+    "longitude": -74.94446182250977
+  },
+  "website": "https://stmatthew-lutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a75bbbf2-f3a7-45ec-a53a-00a7e4de14e5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a75bbbf2-f3a7-45ec-a53a-00a7e4de14e5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmatthew-lutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "216008972"
+    }
+  ],
+  "advisories": []
+}

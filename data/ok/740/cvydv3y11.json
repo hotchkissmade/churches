@@ -1,0 +1,33 @@
+{
+  "id": "cvydv3y11",
+  "url": "https://constellation.church/cvydv3y11",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "120 N 3rd St",
+    "city": "Barnsdall",
+    "state": "OK",
+    "zip": "74002"
+  },
+  "coordinates": {
+    "latitude": 36.56247138977051,
+    "longitude": -96.15898895263672
+  },
+  "website": "https://barnsdallassembly.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=3d18c800-ffde-4e10-8ccb-1dbd7ca85983&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "3d18c800-ffde-4e10-8ccb-1dbd7ca85983"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "barnsdallassembly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "731302598"
+    }
+  ],
+  "advisories": []
+}

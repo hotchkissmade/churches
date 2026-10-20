@@ -1,0 +1,33 @@
+{
+  "id": "fj2e3ey43",
+  "url": "https://constellation.church/fj2e3ey43",
+  "name": "HillSpring Church",
+  "displayName": "HillSpring Church",
+  "address": {
+    "street": "8801 W 41st Street",
+    "city": "Sand Springs",
+    "state": "OK",
+    "zip": "74063"
+  },
+  "coordinates": {
+    "latitude": 36.10309028625488,
+    "longitude": -96.21039581298828
+  },
+  "website": "https://hillspring.tv",
+  "listingUrl": "https://churches.sbc.net/church/hillspring-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hillspring-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hillspring.tv"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "731373963"
+    }
+  ],
+  "advisories": []
+}

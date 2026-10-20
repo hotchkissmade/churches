@@ -1,0 +1,33 @@
+{
+  "id": "fr791e521",
+  "url": "https://constellation.church/fr791e521",
+  "name": "Bedford",
+  "displayName": "Bedford Baptist Church",
+  "address": {
+    "street": "1516 Oakwood St",
+    "city": "Bedford",
+    "state": "VA",
+    "zip": "24523"
+  },
+  "coordinates": {
+    "latitude": 37.34779167175293,
+    "longitude": -79.51466751098633
+  },
+  "website": "https://bedfordbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/bedford/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bedford"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bedfordbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540680978"
+    }
+  ],
+  "advisories": []
+}

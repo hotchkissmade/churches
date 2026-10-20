@@ -1,0 +1,33 @@
+{
+  "id": "jeee0gr12",
+  "url": "https://constellation.church/jeee0gr12",
+  "name": "First United Methodist Church of Miles City",
+  "displayName": "First United Methodist Church of Miles City",
+  "address": {
+    "street": "24 North 11th St",
+    "city": "Miles City",
+    "state": "MT",
+    "zip": "59301"
+  },
+  "coordinates": {
+    "latitude": 46.40868949890137,
+    "longitude": -105.8448486328125
+  },
+  "website": "https://milescitymethodists.weebly.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFH1OIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFH1OIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "milescitymethodists.weebly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810414764"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vj669ay91",
+  "url": "https://constellation.church/vj669ay91",
+  "name": "Exilic Church",
+  "displayName": "Exilic Church",
+  "address": {
+    "street": "240 W 37th St., Suite 201",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10018"
+  },
+  "coordinates": {
+    "latitude": 40.7534246,
+    "longitude": -73.9910433
+  },
+  "website": "https://exilic.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5976",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5976"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "exilic.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450937251"
+    }
+  ],
+  "advisories": []
+}

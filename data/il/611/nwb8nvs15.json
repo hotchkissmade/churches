@@ -1,0 +1,33 @@
+{
+  "id": "nwb8nvs15",
+  "url": "https://constellation.church/nwb8nvs15",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "675 N Mulford Rd",
+    "city": "Rockford",
+    "state": "IL",
+    "zip": "61107-3853"
+  },
+  "coordinates": {
+    "latitude": 42.27562713623047,
+    "longitude": -88.9991683959961
+  },
+  "website": "https://stmarklc.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=188ec18c-436f-4199-9814-041c847ae60c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "188ec18c-436f-4199-9814-041c847ae60c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarklc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362685011"
+    }
+  ],
+  "advisories": []
+}

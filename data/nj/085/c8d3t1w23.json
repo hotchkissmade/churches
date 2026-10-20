@@ -1,0 +1,33 @@
+{
+  "id": "c8d3t1w23",
+  "url": "https://constellation.church/c8d3t1w23",
+  "name": "Princeton Friends Meeting",
+  "displayName": "Princeton Friends Meeting",
+  "address": {
+    "street": "470 Quaker Rd",
+    "city": "Princeton",
+    "state": "NJ",
+    "zip": "08540"
+  },
+  "coordinates": {
+    "latitude": 40.327110290527344,
+    "longitude": -74.67695617675781
+  },
+  "website": "https://princetonfriendsmeeting.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/princeton-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "princeton-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "princetonfriendsmeeting.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "210738425"
+    }
+  ],
+  "advisories": []
+}

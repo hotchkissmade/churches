@@ -1,0 +1,33 @@
+{
+  "id": "x7mpd8267",
+  "url": "https://constellation.church/x7mpd8267",
+  "name": "First United Methodist Church of Vandalia",
+  "displayName": "First United Methodist Church of Vandalia",
+  "address": {
+    "street": "127 N 4th St",
+    "city": "Vandalia",
+    "state": "IL",
+    "zip": "62471-2308"
+  },
+  "coordinates": {
+    "latitude": 38.96257019042969,
+    "longitude": -89.09486389160156
+  },
+  "website": "https://vandaliafirstumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFDIwIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFDIwIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "vandaliafirstumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371082914"
+    }
+  ],
+  "advisories": []
+}

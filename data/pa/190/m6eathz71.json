@@ -1,0 +1,33 @@
+{
+  "id": "m6eathz71",
+  "url": "https://constellation.church/m6eathz71",
+  "name": "Church of St. Asaph",
+  "displayName": "Church of St. Asaph",
+  "address": {
+    "street": "27 Conshohocken State Road",
+    "city": "Bala Cynwyd",
+    "state": "PA",
+    "zip": "19004"
+  },
+  "coordinates": {
+    "latitude": 40.00305938720703,
+    "longitude": -75.2268180847168
+  },
+  "website": "https://saintasaphs.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/church-st-asaphs",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/church-st-asaphs"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintasaphs.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231352386"
+    }
+  ],
+  "advisories": []
+}

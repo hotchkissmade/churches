@@ -1,0 +1,33 @@
+{
+  "id": "neh1ejf18",
+  "url": "https://constellation.church/neh1ejf18",
+  "name": "Resurrection Lutheran Church",
+  "displayName": "Resurrection Lutheran Church",
+  "address": {
+    "street": "1700 NE 132nd Ave",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97230-3104"
+  },
+  "coordinates": {
+    "latitude": 45.535125732421875,
+    "longitude": -122.52647399902344
+  },
+  "website": "https://rlcpdx.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c1b6724f-ecc6-4aec-9d7a-e095f4e61630",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c1b6724f-ecc6-4aec-9d7a-e095f4e61630"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rlcpdx.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930516503"
+    }
+  ],
+  "advisories": []
+}

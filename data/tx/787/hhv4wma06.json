@@ -1,0 +1,33 @@
+{
+  "id": "hhv4wma06",
+  "url": "https://constellation.church/hhv4wma06",
+  "name": "Great Hills Baptist Church, Austin",
+  "displayName": "Great Hills Baptist Church, Austin",
+  "address": {
+    "street": "10500 Jollyville Rd",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78759"
+  },
+  "coordinates": {
+    "latitude": 30.39919662475586,
+    "longitude": -97.75164031982422
+  },
+  "website": "https://ghbc.org",
+  "listingUrl": "https://churches.sbc.net/church/great-hills-baptist-church-austin/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "great-hills-baptist-church-austin"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ghbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "746003426"
+    }
+  ],
+  "advisories": []
+}

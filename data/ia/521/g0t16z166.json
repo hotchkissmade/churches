@@ -1,0 +1,33 @@
+{
+  "id": "g0t16z166",
+  "url": "https://constellation.church/g0t16z166",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "130 Washington St",
+    "city": "West Union",
+    "state": "IA",
+    "zip": "52175-1308"
+  },
+  "coordinates": {
+    "latitude": 42.96031951904297,
+    "longitude": -91.80963897705078
+  },
+  "website": "https://zionwestunion.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fdd22786-58f4-4429-b57b-271ef945cfda",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fdd22786-58f4-4429-b57b-271ef945cfda"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionwestunion.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420997885"
+    }
+  ],
+  "advisories": []
+}

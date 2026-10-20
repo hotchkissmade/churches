@@ -1,0 +1,33 @@
+{
+  "id": "p01mckc28",
+  "url": "https://constellation.church/p01mckc28",
+  "name": "The King’s Church",
+  "displayName": "The King’s Church",
+  "address": {
+    "street": "730 S Florida Ave",
+    "city": "Lakeland",
+    "state": "FL",
+    "zip": "33801"
+  },
+  "coordinates": {
+    "latitude": 28.03571128845215,
+    "longitude": -81.95676040649414
+  },
+  "website": "https://kingschurchlkld.com",
+  "listingUrl": "https://churches.sbc.net/church/the-kings-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-kings-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kingschurchlkld.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "822790938"
+    }
+  ],
+  "advisories": []
+}

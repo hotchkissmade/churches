@@ -1,0 +1,33 @@
+{
+  "id": "fbhv54c56",
+  "url": "https://constellation.church/fbhv54c56",
+  "name": "Church in Palo Alto",
+  "displayName": "Church in Palo Alto",
+  "address": {
+    "street": "860 E Charleston Rd",
+    "city": "Palo Alto",
+    "state": "CA",
+    "zip": "94303"
+  },
+  "coordinates": {
+    "latitude": 37.421859,
+    "longitude": -122.103133
+  },
+  "website": "https://churchinpaloalto.org",
+  "listingUrl": "https://localchurches.org/churches/palo-alto-ca-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "palo-alto-ca-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinpaloalto.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "770336705"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "w0jjvz906",
+  "url": "https://constellation.church/w0jjvz906",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "1212 Minneapolis Ave",
+    "city": "Gladstone",
+    "state": "MI",
+    "zip": "49837-1418"
+  },
+  "coordinates": {
+    "latitude": 45.840789794921875,
+    "longitude": -87.02373886108398
+  },
+  "website": "https://firstlutheran-gladstone.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e8461f69-6ef8-4d57-ab9c-bc7a100ba8a4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e8461f69-6ef8-4d57-ab9c-bc7a100ba8a4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheran-gladstone.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381648300"
+    }
+  ],
+  "advisories": []
+}

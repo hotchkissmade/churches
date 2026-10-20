@@ -1,0 +1,33 @@
+{
+  "id": "r1vqn6811",
+  "url": "https://constellation.church/r1vqn6811",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "400 W Main St",
+    "city": "Laurens",
+    "state": "SC",
+    "zip": "29360"
+  },
+  "coordinates": {
+    "latitude": 34.4981746673584,
+    "longitude": -82.0197639465332
+  },
+  "website": "https://firstpreslaurens.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/22563/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "22563"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpreslaurens.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570375951"
+    }
+  ],
+  "advisories": []
+}

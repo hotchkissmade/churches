@@ -1,0 +1,33 @@
+{
+  "id": "xt7hg7b19",
+  "url": "https://constellation.church/xt7hg7b19",
+  "name": "Church in Chicago (Irving Park)",
+  "displayName": "Church in Chicago (Irving Park)",
+  "address": {
+    "street": "3915 W Irving Park Rd",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60618"
+  },
+  "coordinates": {
+    "latitude": 41.95341491699219,
+    "longitude": -87.72574996948242
+  },
+  "website": "https://thechurchinchicago.org",
+  "listingUrl": "https://localchurches.org/churches/chicago-irving-park-il-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "chicago-irving-park-il-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thechurchinchicago.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237414932"
+    }
+  ],
+  "advisories": []
+}

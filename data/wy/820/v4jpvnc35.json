@@ -1,0 +1,37 @@
+{
+  "id": "v4jpvnc35",
+  "url": "https://constellation.church/v4jpvnc35",
+  "name": "St Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "218 E 19th St",
+    "city": "Cheyenne",
+    "state": "WY",
+    "zip": "82001-4511"
+  },
+  "coordinates": {
+    "latitude": 41.136653900146484,
+    "longitude": -104.8141860961914
+  },
+  "website": "https://stpaulscheyenne.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4a187ccd-9ad3-4854-82c1-d86ef9752e54",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4a187ccd-9ad3-4854-82c1-d86ef9752e54"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulscheyenne.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "155671816"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "836000896"
+    }
+  ],
+  "advisories": []
+}

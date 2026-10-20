@@ -1,0 +1,33 @@
+{
+  "id": "g8gh2vd20",
+  "url": "https://constellation.church/g8gh2vd20",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "727 8th St",
+    "city": "Baraboo",
+    "state": "WI",
+    "zip": "53913-1794"
+  },
+  "coordinates": {
+    "latitude": 43.47496032714844,
+    "longitude": -89.73112487792969
+  },
+  "website": "https://stpaulsbaraboo.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=99b887a8-c5be-4216-a247-cfb06c9684c3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "99b887a8-c5be-4216-a247-cfb06c9684c3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsbaraboo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391454435"
+    }
+  ],
+  "advisories": []
+}

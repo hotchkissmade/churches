@@ -1,0 +1,33 @@
+{
+  "id": "v09saaf62",
+  "url": "https://constellation.church/v09saaf62",
+  "name": "New City Church",
+  "displayName": "New City Church",
+  "address": {
+    "street": "591 E Palm Ave",
+    "city": "El Segundo",
+    "state": "CA",
+    "zip": "90245"
+  },
+  "coordinates": {
+    "latitude": 33.92524528503418,
+    "longitude": -118.40995788574219
+  },
+  "website": "https://newcitychurchsb.org",
+  "listingUrl": "https://eco-pres.org/churches/new-city-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "new-city-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newcitychurchsb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953640634"
+    }
+  ],
+  "advisories": []
+}

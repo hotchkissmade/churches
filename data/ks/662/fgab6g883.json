@@ -1,0 +1,33 @@
+{
+  "id": "fgab6g883",
+  "url": "https://constellation.church/fgab6g883",
+  "name": "Overland Park Lutheran Church",
+  "displayName": "Overland Park Lutheran Church",
+  "address": {
+    "street": "7810 W 79th St",
+    "city": "Overland Park",
+    "state": "KS",
+    "zip": "66204-2858"
+  },
+  "coordinates": {
+    "latitude": 38.98628807067871,
+    "longitude": -94.67636108398438
+  },
+  "website": "https://oplutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=270f0bdb-ddf0-473c-bf90-2dd6fa7f5abe",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "270f0bdb-ddf0-473c-bf90-2dd6fa7f5abe"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oplutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480665913"
+    }
+  ],
+  "advisories": []
+}

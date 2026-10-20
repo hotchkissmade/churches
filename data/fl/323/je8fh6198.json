@@ -1,0 +1,33 @@
+{
+  "id": "je8fh6198",
+  "url": "https://constellation.church/je8fh6198",
+  "name": "Quincy First Baptist Church",
+  "displayName": "Quincy First Baptist Church",
+  "address": {
+    "street": "210 W Washington St",
+    "city": "Quincy",
+    "state": "FL",
+    "zip": "32351"
+  },
+  "coordinates": {
+    "latitude": 30.5896053314209,
+    "longitude": -84.579833984375
+  },
+  "website": "https://firstbaptistquincy.com",
+  "listingUrl": "https://churches.sbc.net/church/quincy-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "quincy-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistquincy.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590760202"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cctf5zw13",
+  "url": "https://constellation.church/cctf5zw13",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "204 S Abington Rd",
+    "city": "Clarks Green",
+    "state": "PA",
+    "zip": "18411"
+  },
+  "coordinates": {
+    "latitude": 41.4971516,
+    "longitude": -75.6947217
+  },
+  "website": "https://myservantchurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a7e2a837-4a27-414b-ab90-a8abee654280&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "a7e2a837-4a27-414b-ab90-a8abee654280"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "myservantchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232299029"
+    }
+  ],
+  "advisories": []
+}

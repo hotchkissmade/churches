@@ -1,0 +1,33 @@
+{
+  "id": "bh35ym986",
+  "url": "https://constellation.church/bh35ym986",
+  "name": "Foothills United Methodist Church",
+  "displayName": "Foothills United Methodist Church",
+  "address": {
+    "street": "4031 Avocado Blvd",
+    "city": "La Mesa",
+    "state": "CA",
+    "zip": "91941-7203"
+  },
+  "coordinates": {
+    "latitude": 32.75237846374512,
+    "longitude": -116.96149444580078
+  },
+  "website": "https://foothillsumc.org/sunday-services",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFHIbIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFHIbIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "foothillsumc.org/sunday-services"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952220885"
+    }
+  ],
+  "advisories": []
+}

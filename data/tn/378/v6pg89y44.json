@@ -1,0 +1,33 @@
+{
+  "id": "v6pg89y44",
+  "url": "https://constellation.church/v6pg89y44",
+  "name": "Alpha Baptist Church",
+  "displayName": "Alpha Baptist Church",
+  "address": {
+    "street": "245 Saint Johns Rd",
+    "city": "Morristown",
+    "state": "TN",
+    "zip": "37814"
+  },
+  "coordinates": {
+    "latitude": 36.17777061462402,
+    "longitude": -83.3819580078125
+  },
+  "website": "https://alphabaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/alpha-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "alpha-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "alphabaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620897866"
+    }
+  ],
+  "advisories": []
+}

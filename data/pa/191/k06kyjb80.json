@@ -1,0 +1,33 @@
+{
+  "id": "k06kyjb80",
+  "url": "https://constellation.church/k06kyjb80",
+  "name": "St David Lutheran Church",
+  "displayName": "St. David Lutheran Church",
+  "address": {
+    "street": "9169 Academy Rd",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19114-2859"
+  },
+  "coordinates": {
+    "latitude": 40.05769157409668,
+    "longitude": -75.00838851928711
+  },
+  "website": "https://stdavidselca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dbedfb24-1ac6-4d42-b38a-d9fa052fa2aa",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dbedfb24-1ac6-4d42-b38a-d9fa052fa2aa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stdavidselca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236434940"
+    }
+  ],
+  "advisories": []
+}

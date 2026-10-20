@@ -1,0 +1,33 @@
+{
+  "id": "herpyx923",
+  "url": "https://constellation.church/herpyx923",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "801 Pemberton Browns Mills Rd",
+    "city": "Pemberton",
+    "state": "NJ",
+    "zip": "08068-1515"
+  },
+  "coordinates": {
+    "latitude": 39.96725654602051,
+    "longitude": -74.66370391845703
+  },
+  "website": "https://stmarklutheranpemberton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=90e86caf-4709-4275-85ac-65afee05e20d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "90e86caf-4709-4275-85ac-65afee05e20d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarklutheranpemberton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222443979"
+    }
+  ],
+  "advisories": []
+}

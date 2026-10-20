@@ -1,0 +1,33 @@
+{
+  "id": "gb8j6ds23",
+  "url": "https://constellation.church/gb8j6ds23",
+  "name": "Second Baptist Church",
+  "displayName": "Second Baptist Church",
+  "address": {
+    "street": "3355 Johnson Road",
+    "city": "Petersburg",
+    "state": "VA",
+    "zip": "23805"
+  },
+  "coordinates": {
+    "latitude": 37.1792049407959,
+    "longitude": -77.40087509155273
+  },
+  "website": "https://secondbaptistpetersburg.org",
+  "listingUrl": "https://churches.sbc.net/church/second-baptist-church-11/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "second-baptist-church-11"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "secondbaptistpetersburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540598000"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "z008pd312",
+  "url": "https://constellation.church/z008pd312",
+  "name": "Elgin Baptist Church",
+  "displayName": "Elgin Baptist Church",
+  "address": {
+    "street": "2303 Belmont St",
+    "city": "Lancaster",
+    "state": "SC",
+    "zip": "29720"
+  },
+  "coordinates": {
+    "latitude": 34.67950248718262,
+    "longitude": -80.72077178955078
+  },
+  "website": "https://elginbaptistchurchlancaster.com",
+  "listingUrl": "https://churches.sbc.net/church/elgin-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "elgin-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elginbaptistchurchlancaster.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570891495"
+    }
+  ],
+  "advisories": []
+}

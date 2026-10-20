@@ -1,0 +1,33 @@
+{
+  "id": "v4akmj505",
+  "url": "https://constellation.church/v4akmj505",
+  "name": "Bethany Lutheran Church",
+  "displayName": "Bethany Lutheran Church",
+  "address": {
+    "street": "3209 Meadow Ln",
+    "city": "Manitowoc",
+    "state": "WI",
+    "zip": "54220-3643"
+  },
+  "coordinates": {
+    "latitude": 44.0953826,
+    "longitude": -87.6878801
+  },
+  "website": "https://bethanyeagles.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24645",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24645"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanyeagles.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390921592"
+    }
+  ],
+  "advisories": []
+}

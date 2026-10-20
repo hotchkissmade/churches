@@ -1,0 +1,33 @@
+{
+  "id": "jfnt78h98",
+  "url": "https://constellation.church/jfnt78h98",
+  "name": "La Grange Assembly of God",
+  "displayName": "La Grange Assembly of God",
+  "address": {
+    "street": "2109 W Highway 146 La Grange",
+    "city": null,
+    "state": "KY",
+    "zip": "40031"
+  },
+  "coordinates": {
+    "latitude": 38.402740478515625,
+    "longitude": -85.40053176879883
+  },
+  "website": "https://lagrangeag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=3540d6d6-4165-4e85-b6a8-9b92fe5bdf92&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "3540d6d6-4165-4e85-b6a8-9b92fe5bdf92"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lagrangeag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611333755"
+    }
+  ],
+  "advisories": []
+}

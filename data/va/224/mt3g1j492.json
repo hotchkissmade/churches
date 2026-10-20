@@ -1,0 +1,33 @@
+{
+  "id": "mt3g1j492",
+  "url": "https://constellation.church/mt3g1j492",
+  "name": "Kilmarnock United Methodist Church",
+  "displayName": "Kilmarnock United Methodist Church",
+  "address": {
+    "street": "89 E Church Street",
+    "city": "Kilmarnock",
+    "state": "VA",
+    "zip": "22482"
+  },
+  "coordinates": {
+    "latitude": 37.71194076538086,
+    "longitude": -76.3779525756836
+  },
+  "website": "https://kilmarnockumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMvaIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMvaIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kilmarnockumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541259464"
+    }
+  ],
+  "advisories": []
+}

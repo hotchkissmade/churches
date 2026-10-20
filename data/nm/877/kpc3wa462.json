@@ -1,0 +1,33 @@
+{
+  "id": "kpc3wa462",
+  "url": "https://constellation.church/kpc3wa462",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "2100 7th St",
+    "city": "Las Vegas",
+    "state": "NM",
+    "zip": "87701-4960"
+  },
+  "coordinates": {
+    "latitude": 35.61482238769531,
+    "longitude": -105.22423553466797
+  },
+  "website": "https://immanuellcms.org",
+  "listingUrl": "https://locator.lcms.org/church/C/500000",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "500000"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "immanuellcms.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237045440"
+    }
+  ],
+  "advisories": []
+}

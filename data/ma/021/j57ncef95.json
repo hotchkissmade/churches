@@ -1,0 +1,33 @@
+{
+  "id": "j57ncef95",
+  "url": "https://constellation.church/j57ncef95",
+  "name": "Seven Hills Presbyterian Church",
+  "displayName": "Seven Hills Presbyterian Church",
+  "address": {
+    "street": "52 Russell Street",
+    "city": "Cambridge",
+    "state": "MA",
+    "zip": "02140"
+  },
+  "coordinates": {
+    "latitude": 42.39365768432617,
+    "longitude": -71.12104415893555
+  },
+  "website": "https://sevenhillschurch.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5798",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5798"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sevenhillschurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "843797776"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bexrx1020",
+  "url": "https://constellation.church/bexrx1020",
+  "name": "United Church of Hinesburg (United Methodist)",
+  "displayName": "United Church of Hinesburg (United Methodist)",
+  "address": {
+    "street": "10570 Route 116",
+    "city": "Hinesburg",
+    "state": "VT",
+    "zip": "05461-0039"
+  },
+  "coordinates": {
+    "latitude": 44.330223083496094,
+    "longitude": -73.1109733581543
+  },
+  "website": "https://ucofh.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFClxIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFClxIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ucofh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222497932"
+    }
+  ],
+  "advisories": []
+}

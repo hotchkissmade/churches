@@ -1,0 +1,33 @@
+{
+  "id": "zzkd1ts80",
+  "url": "https://constellation.church/zzkd1ts80",
+  "name": "Southside Baptist Church, Henderson",
+  "displayName": "Southside Baptist Church, Henderson",
+  "address": {
+    "street": "1801 Old Nacogdoches Rd",
+    "city": "Henderson",
+    "state": "TX",
+    "zip": "75654"
+  },
+  "coordinates": {
+    "latitude": 32.134084701538086,
+    "longitude": -94.79684448242188
+  },
+  "website": "https://ssbchenderson.net",
+  "listingUrl": "https://churches.sbc.net/church/southside-baptist-church-henderson/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "southside-baptist-church-henderson"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ssbchenderson.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751939645"
+    }
+  ],
+  "advisories": []
+}

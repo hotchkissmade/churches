@@ -1,0 +1,33 @@
+{
+  "id": "qpdw3pr53",
+  "url": "https://constellation.church/qpdw3pr53",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "2695 Luther Dr",
+    "city": "Chambersburg",
+    "state": "PA",
+    "zip": "17202-8144"
+  },
+  "coordinates": {
+    "latitude": 39.95175552368164,
+    "longitude": -77.5671272277832
+  },
+  "website": "https://stlukechambersburg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1e1e1a9c-9b71-4baa-ac28-3bc5bef4b04f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1e1e1a9c-9b71-4baa-ac28-3bc5bef4b04f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukechambersburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251329580"
+    }
+  ],
+  "advisories": []
+}

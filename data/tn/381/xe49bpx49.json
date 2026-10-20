@@ -1,0 +1,33 @@
+{
+  "id": "xe49bpx49",
+  "url": "https://constellation.church/xe49bpx49",
+  "name": "Germantown Baptist Church",
+  "displayName": "Germantown Baptist Church",
+  "address": {
+    "street": "9450 Poplar Ave",
+    "city": "Germantown",
+    "state": "TN",
+    "zip": "38139"
+  },
+  "coordinates": {
+    "latitude": 35.06499671936035,
+    "longitude": -89.74748992919922
+  },
+  "website": "https://germantownbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/germantown-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "germantown-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "germantownbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621271563"
+    }
+  ],
+  "advisories": []
+}

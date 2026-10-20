@@ -1,0 +1,33 @@
+{
+  "id": "cf9zxfz04",
+  "url": "https://constellation.church/cf9zxfz04",
+  "name": "Park United Methodist Church",
+  "displayName": "Park United Methodist Church",
+  "address": {
+    "street": "30 North Lake Street",
+    "city": "North East",
+    "state": "PA",
+    "zip": "16428"
+  },
+  "coordinates": {
+    "latitude": 42.2172794342041,
+    "longitude": -79.83402633666992
+  },
+  "website": "https://pumcne.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF7uEIAT",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF7uEIAT"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pumcne.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "256057238"
+    }
+  ],
+  "advisories": []
+}

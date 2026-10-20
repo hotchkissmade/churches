@@ -1,0 +1,33 @@
+{
+  "id": "ajqzqt850",
+  "url": "https://constellation.church/ajqzqt850",
+  "name": "Pelion Baptist Church",
+  "displayName": "Pelion Baptist Church",
+  "address": {
+    "street": "841 Main St",
+    "city": "Pelion",
+    "state": "SC",
+    "zip": "29123"
+  },
+  "coordinates": {
+    "latitude": 33.764780044555664,
+    "longitude": -81.24745559692383
+  },
+  "website": "https://pelionbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/pelion-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pelion-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pelionbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570912038"
+    }
+  ],
+  "advisories": []
+}

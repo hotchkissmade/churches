@@ -1,0 +1,33 @@
+{
+  "id": "hg5zkks65",
+  "url": "https://constellation.church/hg5zkks65",
+  "name": "St. Gabriel's Episcopal Church",
+  "displayName": "St. Gabriel's Episcopal Church",
+  "address": {
+    "street": "101 E Roosevelt Blvd",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19120-4299"
+  },
+  "coordinates": {
+    "latitude": 40.026113510131836,
+    "longitude": -75.12306594848633
+  },
+  "website": "https://stgabrielepiscopalphila.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/st-gabriels-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/st-gabriels-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stgabrielepiscopalphila.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232079669"
+    }
+  ],
+  "advisories": []
+}

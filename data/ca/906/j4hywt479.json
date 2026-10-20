@@ -1,0 +1,33 @@
+{
+  "id": "j4hywt479",
+  "url": "https://constellation.church/j4hywt479",
+  "name": "Emanuel Lutheran Church",
+  "displayName": "Emanuel Lutheran Church",
+  "address": {
+    "street": "150 N Palm St",
+    "city": "La Habra",
+    "state": "CA",
+    "zip": "90631-4968"
+  },
+  "coordinates": {
+    "latitude": 33.93315315246582,
+    "longitude": -117.92424774169922
+  },
+  "website": "https://elclh.org/preschool",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9b932929-1221-4c48-8ca2-ad5e24fcf9fe",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9b932929-1221-4c48-8ca2-ad5e24fcf9fe"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elclh.org/preschool"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952113166"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "eh3kg0104",
+  "url": "https://constellation.church/eh3kg0104",
+  "name": "Church of the Good Shepherd",
+  "displayName": "Church of the Good Shepherd",
+  "address": {
+    "street": "39 Washington St",
+    "city": "Barre",
+    "state": "VT",
+    "zip": "05641-4236"
+  },
+  "coordinates": {
+    "latitude": 44.196598052978516,
+    "longitude": -72.49995803833008
+  },
+  "website": "https://goodshepherdbarrevt.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/episcopal-church-vermont/list/church-good-shepherd",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "episcopal-church-vermont/church-good-shepherd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherdbarrevt.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030300943"
+    }
+  ],
+  "advisories": []
+}

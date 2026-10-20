@@ -1,0 +1,33 @@
+{
+  "id": "p3y7q6g22",
+  "url": "https://constellation.church/p3y7q6g22",
+  "name": "Central Baptist Church (JC)",
+  "displayName": "Central Baptist Church (JC)",
+  "address": {
+    "street": "300 N Roan St",
+    "city": "Johnson City",
+    "state": "TN",
+    "zip": "37601"
+  },
+  "coordinates": {
+    "latitude": 36.320045471191406,
+    "longitude": -82.35367584228516
+  },
+  "website": "https://cbcjc.org",
+  "listingUrl": "https://churches.sbc.net/church/central-baptist-church-jc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "central-baptist-church-jc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cbcjc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620485726"
+    }
+  ],
+  "advisories": []
+}

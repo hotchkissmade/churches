@@ -1,0 +1,33 @@
+{
+  "id": "jxpcp0z32",
+  "url": "https://constellation.church/jxpcp0z32",
+  "name": "First Baptist Church of Tucker, Inc.",
+  "displayName": "First Baptist Church of Tucker",
+  "address": {
+    "street": "5073 Lavista Rd",
+    "city": "Tucker",
+    "state": "GA",
+    "zip": "30084"
+  },
+  "coordinates": {
+    "latitude": 33.855648040771484,
+    "longitude": -84.21419525146484
+  },
+  "website": "https://fbctucker.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-tucker-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-tucker-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbctucker.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580610063"
+    }
+  ],
+  "advisories": []
+}

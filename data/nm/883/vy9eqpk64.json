@@ -1,0 +1,33 @@
+{
+  "id": "vy9eqpk64",
+  "url": "https://constellation.church/vy9eqpk64",
+  "name": "Eternity Baptist Church",
+  "displayName": "Eternity Baptist Church",
+  "address": {
+    "street": "1205 25th St",
+    "city": "Alamogordo",
+    "state": "NM",
+    "zip": "88310"
+  },
+  "coordinates": {
+    "latitude": 32.92119026184082,
+    "longitude": -105.94669342041016
+  },
+  "website": "https://eternitybaptistalamo.org",
+  "listingUrl": "https://churches.sbc.net/church/eternity-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "eternity-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eternitybaptistalamo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850468975"
+    }
+  ],
+  "advisories": []
+}

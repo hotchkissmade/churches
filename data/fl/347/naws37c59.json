@@ -1,0 +1,33 @@
+{
+  "id": "naws37c59",
+  "url": "https://constellation.church/naws37c59",
+  "name": "Gateway Church",
+  "displayName": "Gateway Church",
+  "address": {
+    "street": "15550 County Road 565A Clermont",
+    "city": null,
+    "state": "FL",
+    "zip": "34711"
+  },
+  "coordinates": {
+    "latitude": 28.57216453552246,
+    "longitude": -81.80195236206055
+  },
+  "website": "https://gateway.life",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d21f86a2-808a-4dcb-8b77-0c294ae1b790&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d21f86a2-808a-4dcb-8b77-0c294ae1b790"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gateway.life"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592966018"
+    }
+  ],
+  "advisories": []
+}

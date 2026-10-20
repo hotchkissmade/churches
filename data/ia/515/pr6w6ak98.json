@@ -1,0 +1,33 @@
+{
+  "id": "pr6w6ak98",
+  "url": "https://constellation.church/pr6w6ak98",
+  "name": "St Pauls Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "22163 Sumac Road",
+    "city": "Neola",
+    "state": "IA",
+    "zip": "51559"
+  },
+  "coordinates": {
+    "latitude": 41.433837890625,
+    "longitude": -95.76161193847656
+  },
+  "website": "https://stpaulsneola.church",
+  "listingUrl": "https://lcmc.net/congregation/108402",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "108402"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsneola.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426065639"
+    }
+  ],
+  "advisories": []
+}

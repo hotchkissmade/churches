@@ -1,0 +1,33 @@
+{
+  "id": "d8zfkb603",
+  "url": "https://constellation.church/d8zfkb603",
+  "name": "Episcopal Diocese of Nebraska (Diocesan Offices)",
+  "displayName": "Episcopal Diocese of Nebraska (Diocesan Offices)",
+  "address": {
+    "street": "109 North 18th St.",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68102"
+  },
+  "coordinates": {
+    "latitude": 41.2598994,
+    "longitude": -95.9396939
+  },
+  "website": "https://dioneb.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/nebraska/list/episcopal-diocese-nebraska-diocesan-offices",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "nebraska/episcopal-diocese-nebraska-diocesan-offices"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dioneb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470376550"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qeebxz079",
+  "url": "https://constellation.church/qeebxz079",
+  "name": "Davis Lutheran Church",
+  "displayName": "Davis Lutheran Church",
+  "address": {
+    "street": "317 E 8th St",
+    "city": "Davis",
+    "state": "CA",
+    "zip": "95616-1936"
+  },
+  "coordinates": {
+    "latitude": 38.5510139465332,
+    "longitude": -121.74580383300781
+  },
+  "website": "https://davislutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9a1f8422-f8c2-41ac-b4e6-821b577082ba",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9a1f8422-f8c2-41ac-b4e6-821b577082ba"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "davislutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "946091518"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ce1z8hq78",
+  "url": "https://constellation.church/ce1z8hq78",
+  "name": "Menlo Church (Menlo Park Campus)",
+  "displayName": "Menlo Church (Menlo Park Campus)",
+  "address": {
+    "street": "950 Santa Cruz Ave",
+    "city": "Menlo Park",
+    "state": "CA",
+    "zip": "94025"
+  },
+  "coordinates": {
+    "latitude": 37.448930740356445,
+    "longitude": -122.18721008300781
+  },
+  "website": "https://menlo.church/about",
+  "listingUrl": "https://eco-pres.org/churches/menlo-church-menlo-park-site/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "menlo-church-menlo-park-site"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "menlo.church/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941167435"
+    }
+  ],
+  "advisories": []
+}

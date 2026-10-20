@@ -1,0 +1,33 @@
+{
+  "id": "npn728t85",
+  "url": "https://constellation.church/npn728t85",
+  "name": "First Baptist Church of Socorro",
+  "displayName": "First Baptist Church of Socorro",
+  "address": {
+    "street": "203 Spring St.",
+    "city": "Socorro",
+    "state": "NM",
+    "zip": "87801"
+  },
+  "coordinates": {
+    "latitude": 34.053396224975586,
+    "longitude": -106.89301300048828
+  },
+  "website": "https://firstbaptistsocorro.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-socorro/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-socorro"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistsocorro.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850314336"
+    }
+  ],
+  "advisories": []
+}

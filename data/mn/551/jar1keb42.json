@@ -1,0 +1,33 @@
+{
+  "id": "jar1keb42",
+  "url": "https://constellation.church/jar1keb42",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "464 Maria Ave",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip": "55106-4429"
+  },
+  "coordinates": {
+    "latitude": 44.958683013916016,
+    "longitude": -93.0748405456543
+  },
+  "website": "https://eastsidefirst.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=004a15ac-a625-448f-8818-bdc904ce24ec",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "004a15ac-a625-448f-8818-bdc904ce24ec"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastsidefirst.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410693959"
+    }
+  ],
+  "advisories": []
+}

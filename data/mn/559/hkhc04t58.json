@@ -1,0 +1,33 @@
+{
+  "id": "hkhc04t58",
+  "url": "https://constellation.church/hkhc04t58",
+  "name": "Leroy Lutheran Church",
+  "displayName": "Leroy Lutheran Church",
+  "address": {
+    "street": "120 W Luella St",
+    "city": "Le Roy",
+    "state": "MN",
+    "zip": "55951-1243"
+  },
+  "coordinates": {
+    "latitude": 43.51105499267578,
+    "longitude": -92.50505065917969
+  },
+  "website": "https://leroylutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2a7810a7-0093-44cb-827e-495774225d67",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2a7810a7-0093-44cb-827e-495774225d67"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "leroylutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410785151"
+    }
+  ],
+  "advisories": []
+}

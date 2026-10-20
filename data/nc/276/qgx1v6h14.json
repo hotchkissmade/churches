@@ -1,0 +1,33 @@
+{
+  "id": "qgx1v6h14",
+  "url": "https://constellation.church/qgx1v6h14",
+  "name": "Church of the Holy Cross",
+  "displayName": "Church of the Holy Cross",
+  "address": {
+    "street": "2301 W. Millbrook Road",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27612"
+  },
+  "coordinates": {
+    "latitude": 35.86069679260254,
+    "longitude": -78.68306350708008
+  },
+  "website": "https://holycross-raleigh.org",
+  "listingUrl": "https://www.acna.org/admin_units/202",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "202"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holycross-raleigh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800120706"
+    }
+  ],
+  "advisories": []
+}

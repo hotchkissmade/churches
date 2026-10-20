@@ -1,0 +1,33 @@
+{
+  "id": "keeerse41",
+  "url": "https://constellation.church/keeerse41",
+  "name": "Rockville United Methodist Church",
+  "displayName": "Rockville United Methodist Church",
+  "address": {
+    "street": "142 Grove St",
+    "city": "Rockville",
+    "state": "CT",
+    "zip": "06066"
+  },
+  "coordinates": {
+    "latitude": 41.86025619506836,
+    "longitude": -72.43352127075195
+  },
+  "website": "https://rockumchurch.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF3AqIAL",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF3AqIAL"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rockumchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "061283681"
+    }
+  ],
+  "advisories": []
+}

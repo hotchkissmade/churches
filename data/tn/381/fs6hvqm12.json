@@ -1,0 +1,33 @@
+{
+  "id": "fs6hvqm12",
+  "url": "https://constellation.church/fs6hvqm12",
+  "name": "Diocese of West Tennessee (Diocesan Offices)",
+  "displayName": "Diocese of West Tennessee (Diocesan Offices)",
+  "address": {
+    "street": "692 Poplar Ave.",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38105"
+  },
+  "coordinates": {
+    "latitude": 35.1458525,
+    "longitude": -90.034354
+  },
+  "website": "https://edwtn.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/west-tennessee/list/diocese-west-tennessee-diocesan-offices",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "west-tennessee/diocese-west-tennessee-diocesan-offices"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "edwtn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611013116"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "k4674gs35",
+  "url": "https://constellation.church/k4674gs35",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "2000 Luther Dr",
+    "city": "Peru",
+    "state": "IL",
+    "zip": "61354-1205"
+  },
+  "coordinates": {
+    "latitude": 41.339027404785156,
+    "longitude": -89.1286849975586
+  },
+  "website": "https://stjohnsperu.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fae3ab1b-c0bc-44e6-bf5b-738ec26c55be",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fae3ab1b-c0bc-44e6-bf5b-738ec26c55be"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsperu.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366129972"
+    }
+  ],
+  "advisories": []
+}

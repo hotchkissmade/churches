@@ -1,0 +1,33 @@
+{
+  "id": "pfhpsk390",
+  "url": "https://constellation.church/pfhpsk390",
+  "name": "St. Petersburg Presbyterian Church",
+  "displayName": "St. Petersburg Presbyterian Church",
+  "address": {
+    "street": "600 83rd Avenue NE",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33702"
+  },
+  "coordinates": {
+    "latitude": 27.84759521484375,
+    "longitude": -82.62931060791016
+  },
+  "website": "https://stpetepca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4365",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4365"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpetepca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "300029509"
+    }
+  ],
+  "advisories": []
+}

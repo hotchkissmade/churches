@@ -1,0 +1,33 @@
+{
+  "id": "zves3g535",
+  "url": "https://constellation.church/zves3g535",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "1225 Confederate Blvd",
+    "city": "Appomattox",
+    "state": "VA",
+    "zip": "24522"
+  },
+  "coordinates": {
+    "latitude": 37.35401153564453,
+    "longitude": -78.82188034057617
+  },
+  "website": "https://aaogchurchfamily.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=7f3a8cdb-3acb-4deb-8831-2b45540e0c1f&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "7f3a8cdb-3acb-4deb-8831-2b45540e0c1f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "aaogchurchfamily.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541590389"
+    }
+  ],
+  "advisories": []
+}

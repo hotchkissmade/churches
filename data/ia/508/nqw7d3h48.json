@@ -1,0 +1,37 @@
+{
+  "id": "nqw7d3h48",
+  "url": "https://constellation.church/nqw7d3h48",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "800 N Sumner Ave",
+    "city": "Creston",
+    "state": "IA",
+    "zip": "50801"
+  },
+  "coordinates": {
+    "latitude": 41.064924240112305,
+    "longitude": -94.37285614013672
+  },
+  "website": "https://trinitycreston.org",
+  "listingUrl": "https://idwlcms.org/congregation.php?id=45",
+  "identifiers": [
+    {
+      "namespace": "org.idwlcms.id",
+      "value": "45"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitycreston.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426140335"
+    },
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "212570"
+    }
+  ],
+  "advisories": []
+}

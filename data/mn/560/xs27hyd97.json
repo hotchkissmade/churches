@@ -1,0 +1,33 @@
+{
+  "id": "xs27hyd97",
+  "url": "https://constellation.church/xs27hyd97",
+  "name": "Hayward Lutheran Church",
+  "displayName": "Hayward Lutheran Church",
+  "address": {
+    "street": "200 Main St",
+    "city": "Hayward",
+    "state": "MN",
+    "zip": "56043"
+  },
+  "coordinates": {
+    "latitude": 43.64898681640625,
+    "longitude": -93.24451446533203
+  },
+  "website": "https://haywardtrondhjemparish.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3615e92c-a2ad-4f1b-8bc9-7128d0e098ab",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3615e92c-a2ad-4f1b-8bc9-7128d0e098ab"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "haywardtrondhjemparish.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410726152"
+    }
+  ],
+  "advisories": []
+}

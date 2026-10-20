@@ -1,0 +1,33 @@
+{
+  "id": "x44tth111",
+  "url": "https://constellation.church/x44tth111",
+  "name": "Acworth United Methodist Church",
+  "displayName": "Acworth United Methodist Church",
+  "address": {
+    "street": "4340 Collins Circle",
+    "city": "Acworth",
+    "state": "GA",
+    "zip": "30101-5222"
+  },
+  "coordinates": {
+    "latitude": 34.0618953704834,
+    "longitude": -84.68999099731445
+  },
+  "website": "https://acworthumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFHIiIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFHIiIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "acworthumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581540352"
+    }
+  ],
+  "advisories": []
+}

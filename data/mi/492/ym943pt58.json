@@ -1,0 +1,33 @@
+{
+  "id": "ym943pt58",
+  "url": "https://constellation.church/ym943pt58",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "3501 Morrill Rd",
+    "city": "Jackson",
+    "state": "MI",
+    "zip": "49201-8661"
+  },
+  "coordinates": {
+    "latitude": 42.2975959777832,
+    "longitude": -84.4312973022461
+  },
+  "website": "https://stlukewelsjackson.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24268",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24268"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukewelsjackson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237407649"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sksrv3323",
+  "url": "https://constellation.church/sksrv3323",
+  "name": "Awaken Church",
+  "displayName": "Awaken Church",
+  "address": {
+    "street": "3870 Leeds Ave, Suite 108",
+    "city": "N Charleston",
+    "state": "SC",
+    "zip": "29405"
+  },
+  "coordinates": {
+    "latitude": 32.84465980529785,
+    "longitude": -80.01640319824219
+  },
+  "website": "https://awakenchurch.cc",
+  "listingUrl": "https://churches.sbc.net/church/awaken-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "awaken-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "awakenchurch.cc"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "454610460"
+    }
+  ],
+  "advisories": []
+}

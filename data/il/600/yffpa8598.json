@@ -1,0 +1,33 @@
+{
+  "id": "yffpa8598",
+  "url": "https://constellation.church/yffpa8598",
+  "name": "Federated Church of Wauconda",
+  "displayName": "Federated Church of Wauconda",
+  "address": {
+    "street": "200 S Barrington Rd",
+    "city": "Wauconda",
+    "state": "IL",
+    "zip": "60084"
+  },
+  "coordinates": {
+    "latitude": 42.25783920288086,
+    "longitude": -88.13972091674805
+  },
+  "website": "https://federatedchurchofwauconda.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFLtuIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFLtuIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "federatedchurchofwauconda.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362284299"
+    }
+  ],
+  "advisories": []
+}

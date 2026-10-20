@@ -1,0 +1,33 @@
+{
+  "id": "rfc87ec73",
+  "url": "https://constellation.church/rfc87ec73",
+  "name": "Saint Matthew Lutheran Church",
+  "displayName": "St. Matthew Lutheran Church",
+  "address": {
+    "street": "302 3rd St NW",
+    "city": "Hazen",
+    "state": "ND",
+    "zip": "58545-4111"
+  },
+  "coordinates": {
+    "latitude": 47.29572677612305,
+    "longitude": -101.62801361083984
+  },
+  "website": "https://stmatthewhazen.org",
+  "listingUrl": "https://locator.lcms.org/church/C/406192",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "406192"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmatthewhazen.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450261985"
+    }
+  ],
+  "advisories": []
+}

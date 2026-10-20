@@ -1,0 +1,33 @@
+{
+  "id": "q8q3wha52",
+  "url": "https://constellation.church/q8q3wha52",
+  "name": "Victory House, Dallas Metro",
+  "displayName": "RCCG Victory House, Dallas Metro",
+  "address": {
+    "street": "515 W. Center Street",
+    "city": "Duncanville",
+    "state": "TX",
+    "zip": "75116"
+  },
+  "coordinates": {
+    "latitude": 32.65250205993652,
+    "longitude": -96.92082214355469
+  },
+  "website": "https://victoryhousetx.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=18&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "18"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "victoryhousetx.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "264526955"
+    }
+  ],
+  "advisories": []
+}

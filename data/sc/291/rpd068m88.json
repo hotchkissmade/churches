@@ -1,0 +1,33 @@
+{
+  "id": "rpd068m88",
+  "url": "https://constellation.church/rpd068m88",
+  "name": "Ashwood Baptist Church",
+  "displayName": "Ashwood Baptist Church",
+  "address": {
+    "street": "1075 Lake Ashwood Rd",
+    "city": "Sumter",
+    "state": "SC",
+    "zip": "29153"
+  },
+  "coordinates": {
+    "latitude": 34.1207218170166,
+    "longitude": -80.34202575683594
+  },
+  "website": "https://ashwoodbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/ashwood-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "ashwood-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ashwoodbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570743062"
+    }
+  ],
+  "advisories": []
+}

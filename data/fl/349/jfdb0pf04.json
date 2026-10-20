@@ -1,0 +1,33 @@
+{
+  "id": "jfdb0pf04",
+  "url": "https://constellation.church/jfdb0pf04",
+  "name": "Oakview Baptist Church",
+  "displayName": "Oakview Baptist Church",
+  "address": {
+    "street": "677 SW 32nd St",
+    "city": "Okeechobee",
+    "state": "FL",
+    "zip": "34974"
+  },
+  "coordinates": {
+    "latitude": 27.21556854248047,
+    "longitude": -80.83526229858398
+  },
+  "website": "https://oakview.life",
+  "listingUrl": "https://churches.sbc.net/church/oakview-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "oakview-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oakview.life"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592806454"
+    }
+  ],
+  "advisories": []
+}

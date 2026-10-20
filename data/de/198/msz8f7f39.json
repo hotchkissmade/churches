@@ -1,0 +1,37 @@
+{
+  "id": "msz8f7f39",
+  "url": "https://constellation.church/msz8f7f39",
+  "name": "North Baptist Church",
+  "displayName": "North Baptist Church",
+  "address": {
+    "street": "3318 Silverside Rd",
+    "city": "Wilmington",
+    "state": "DE",
+    "zip": "19810"
+  },
+  "coordinates": {
+    "latitude": 39.80790710449219,
+    "longitude": -75.53865051269531
+  },
+  "website": "https://northbaptist.net",
+  "listingUrl": "https://churches.sbc.net/church/north-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "north-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northbaptist.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237167689"
+    },
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "north-baptist-church"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xznb6b354",
+  "url": "https://constellation.church/xznb6b354",
+  "name": "St. Philip's Episcopal Church",
+  "displayName": "St. Philip's Episcopal Church",
+  "address": {
+    "street": "706 Byers Ave",
+    "city": "Joplin",
+    "state": "MO",
+    "zip": "64801-4304"
+  },
+  "coordinates": {
+    "latitude": 37.083784103393555,
+    "longitude": -94.51820373535156
+  },
+  "website": "https://stphilipsjoplin.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-missouri/list/st-philips-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-missouri/st-philips-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stphilipsjoplin.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440545296"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sf0wr6f51",
+  "url": "https://constellation.church/sf0wr6f51",
+  "name": "Millbrook Presbyterian Church",
+  "displayName": "Millbrook Presbyterian Church",
+  "address": {
+    "street": "3480 Main Street",
+    "city": "Millbrook",
+    "state": "AL",
+    "zip": "36054"
+  },
+  "coordinates": {
+    "latitude": 32.48093605041504,
+    "longitude": -86.36183166503906
+  },
+  "website": "https://millbrookpca.com/wp",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/732",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "732"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "millbrookpca.com/wp"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630810355"
+    }
+  ],
+  "advisories": []
+}

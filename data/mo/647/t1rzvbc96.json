@@ -1,0 +1,33 @@
+{
+  "id": "t1rzvbc96",
+  "url": "https://constellation.church/t1rzvbc96",
+  "name": "First Baptist Church Harrisonville",
+  "displayName": "First Baptist Church Harrisonville",
+  "address": {
+    "street": "504 W Wall St",
+    "city": "Harrisonville",
+    "state": "MO",
+    "zip": "64701"
+  },
+  "coordinates": {
+    "latitude": 38.654457092285156,
+    "longitude": -94.35204696655273
+  },
+  "website": "https://fbcharrisonville.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-harrisonville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-harrisonville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcharrisonville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440618686"
+    }
+  ],
+  "advisories": []
+}

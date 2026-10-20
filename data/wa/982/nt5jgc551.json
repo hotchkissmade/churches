@@ -1,0 +1,33 @@
+{
+  "id": "nt5jgc551",
+  "url": "https://constellation.church/nt5jgc551",
+  "name": "Pinehurst Baptist Church",
+  "displayName": "Pinehurst Baptist Church",
+  "address": {
+    "street": "1902 Madison St",
+    "city": "Everett",
+    "state": "WA",
+    "zip": "98203"
+  },
+  "coordinates": {
+    "latitude": 47.93609619140625,
+    "longitude": -122.20651245117188
+  },
+  "website": "https://pinehurstbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/pinehurst-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pinehurst-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pinehurstbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911439271"
+    }
+  ],
+  "advisories": []
+}

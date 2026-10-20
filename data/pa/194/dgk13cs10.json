@@ -1,0 +1,33 @@
+{
+  "id": "dgk13cs10",
+  "url": "https://constellation.church/dgk13cs10",
+  "name": "Jerusalem Lutheran Church",
+  "displayName": "Jerusalem Lutheran Church",
+  "address": {
+    "street": "311 2nd St",
+    "city": "Schwenksville",
+    "state": "PA",
+    "zip": "19473-1135"
+  },
+  "coordinates": {
+    "latitude": 40.255340576171875,
+    "longitude": -75.46480178833008
+  },
+  "website": "https://jelc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=79fa1e67-55dd-44db-a087-d7ecf5b6f7e0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "79fa1e67-55dd-44db-a087-d7ecf5b6f7e0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jelc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236050091"
+    }
+  ],
+  "advisories": []
+}

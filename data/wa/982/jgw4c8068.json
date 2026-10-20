@@ -1,0 +1,33 @@
+{
+  "id": "jgw4c8068",
+  "url": "https://constellation.church/jgw4c8068",
+  "name": "Ebenezer Lutheran Church",
+  "displayName": "Ebenezer Lutheran Church",
+  "address": {
+    "street": "2111 117th Ave NE",
+    "city": "Lake Stevens",
+    "state": "WA",
+    "zip": "98258-9505"
+  },
+  "coordinates": {
+    "latitude": 48.01692199707031,
+    "longitude": -122.0722427368164
+  },
+  "website": "https://ebenezerlakestevens.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=810423db-776c-46ae-b5cf-892bf395b682",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "810423db-776c-46ae-b5cf-892bf395b682"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ebenezerlakestevens.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911228796"
+    }
+  ],
+  "advisories": []
+}

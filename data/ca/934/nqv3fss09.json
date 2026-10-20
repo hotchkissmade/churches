@@ -1,0 +1,33 @@
+{
+  "id": "nqv3fss09",
+  "url": "https://constellation.church/nqv3fss09",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "981 Marsh St",
+    "city": "San Luis Obispo",
+    "state": "CA",
+    "zip": "93406"
+  },
+  "coordinates": {
+    "latitude": 35.2797794342041,
+    "longitude": -120.66075134277344
+  },
+  "website": "https://fpcslo.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/930/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "930"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcslo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951703095"
+    }
+  ],
+  "advisories": []
+}

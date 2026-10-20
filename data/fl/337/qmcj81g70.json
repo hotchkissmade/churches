@@ -1,0 +1,33 @@
+{
+  "id": "qmcj81g70",
+  "url": "https://constellation.church/qmcj81g70",
+  "name": "Mt. Carmel Baptist Church",
+  "displayName": "Mount Carmel Baptist Church",
+  "address": {
+    "street": "1012 Pennsylvania Ave",
+    "city": "Clearwater",
+    "state": "FL",
+    "zip": "33755"
+  },
+  "coordinates": {
+    "latitude": 27.976625442504883,
+    "longitude": -82.79354095458984
+  },
+  "website": "https://mtcarmelofclearwater.com",
+  "listingUrl": "https://churches.sbc.net/church/mt-carmel-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mt-carmel-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mtcarmelofclearwater.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592227279"
+    }
+  ],
+  "advisories": []
+}

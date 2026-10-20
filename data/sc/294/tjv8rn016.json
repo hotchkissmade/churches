@@ -1,0 +1,33 @@
+{
+  "id": "tjv8rn016",
+  "url": "https://constellation.church/tjv8rn016",
+  "name": "Summit Baptist Church",
+  "displayName": "Summit Baptist Church",
+  "address": {
+    "street": "9200 University Blvd",
+    "city": "N Charleston",
+    "state": "SC",
+    "zip": "29406"
+  },
+  "coordinates": {
+    "latitude": 32.98297691345215,
+    "longitude": -80.07185745239258
+  },
+  "website": "https://summitcharleston.com",
+  "listingUrl": "https://churches.sbc.net/church/summit-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "summit-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "summitcharleston.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570934481"
+    }
+  ],
+  "advisories": []
+}

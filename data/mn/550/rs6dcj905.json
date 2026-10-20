@@ -1,0 +1,33 @@
+{
+  "id": "rs6dcj905",
+  "url": "https://constellation.church/rs6dcj905",
+  "name": "Spring Lake Lutheran Church",
+  "displayName": "Spring Lake Lutheran Church",
+  "address": {
+    "street": "8440 Erickson Rd NE",
+    "city": "North Branch",
+    "state": "MN",
+    "zip": "55056-6543"
+  },
+  "coordinates": {
+    "latitude": 45.54195022583008,
+    "longitude": -93.05747985839844
+  },
+  "website": "https://sllchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ec510e79-9e26-4ffd-a537-6f642a35f643",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ec510e79-9e26-4ffd-a537-6f642a35f643"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sllchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410879643"
+    }
+  ],
+  "advisories": []
+}

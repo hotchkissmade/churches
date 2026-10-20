@@ -1,0 +1,37 @@
+{
+  "id": "d2cfbyj36",
+  "url": "https://constellation.church/d2cfbyj36",
+  "name": "First Baptist Church of Holcomb",
+  "displayName": "First Baptist Church of Holcomb",
+  "address": {
+    "street": "403 Emmanuel Dr",
+    "city": "Holcomb",
+    "state": "KS",
+    "zip": "67851"
+  },
+  "coordinates": {
+    "latitude": 37.990827560424805,
+    "longitude": -100.99188232421875
+  },
+  "website": "https://fbcholcomb.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-holcomb/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-holcomb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcholcomb.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742805222"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911910774"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "b6pys0681",
+  "url": "https://constellation.church/b6pys0681",
+  "name": "First Baptist Church Gulfport",
+  "displayName": "First Baptist Church Gulfport",
+  "address": {
+    "street": "12190 Highway 605",
+    "city": "Gulfport",
+    "state": "MS",
+    "zip": "39503"
+  },
+  "coordinates": {
+    "latitude": 30.462427139282227,
+    "longitude": -89.02481079101562
+  },
+  "website": "https://fbcgulfport.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-gulfport/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-gulfport"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcgulfport.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640543870"
+    }
+  ],
+  "advisories": []
+}

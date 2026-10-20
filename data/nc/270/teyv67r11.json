@@ -1,0 +1,33 @@
+{
+  "id": "teyv67r11",
+  "url": "https://constellation.church/teyv67r11",
+  "name": "St. Clement's Episcopal Church",
+  "displayName": "St. Clement's Episcopal Church",
+  "address": {
+    "street": "3600 Harper Rd",
+    "city": "Clemmons",
+    "state": "NC",
+    "zip": "27012"
+  },
+  "coordinates": {
+    "latitude": 36.028249740600586,
+    "longitude": -80.40375900268555
+  },
+  "website": "https://stclementsepiscopal.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-north-carolina/list/st-clements-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-north-carolina/st-clements-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stclementsepiscopal.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561487581"
+    }
+  ],
+  "advisories": []
+}

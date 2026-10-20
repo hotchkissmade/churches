@@ -1,0 +1,33 @@
+{
+  "id": "rzrfv6w42",
+  "url": "https://constellation.church/rzrfv6w42",
+  "name": "Oscoda United Methodist Church",
+  "displayName": "Oscoda United Methodist Church",
+  "address": {
+    "street": "120 W Dwight St",
+    "city": "Oscoda",
+    "state": "MI",
+    "zip": "48750-1402"
+  },
+  "coordinates": {
+    "latitude": 44.41967010498047,
+    "longitude": -83.33169937133789
+  },
+  "website": "https://oscodaumc.com/index.html",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMXzIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMXzIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oscodaumc.com/index.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382132744"
+    }
+  ],
+  "advisories": []
+}

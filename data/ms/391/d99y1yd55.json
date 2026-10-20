@@ -1,0 +1,33 @@
+{
+  "id": "d99y1yd55",
+  "url": "https://constellation.church/d99y1yd55",
+  "name": "First Baptist Church Vicksburg",
+  "displayName": "First Baptist Church Vicksburg",
+  "address": {
+    "street": "1607 Cherry St",
+    "city": "Vicksburg",
+    "state": "MS",
+    "zip": "39180"
+  },
+  "coordinates": {
+    "latitude": 32.34593391418457,
+    "longitude": -90.87899780273438
+  },
+  "website": "https://fbcvicksburg.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-vicksburg/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-vicksburg"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcvicksburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640356253"
+    }
+  ],
+  "advisories": []
+}

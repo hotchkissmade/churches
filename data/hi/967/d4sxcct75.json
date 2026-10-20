@@ -1,0 +1,33 @@
+{
+  "id": "d4sxcct75",
+  "url": "https://constellation.church/d4sxcct75",
+  "name": "St. James' Episcopal Church",
+  "displayName": "St. James' Episcopal Church",
+  "address": {
+    "street": "65-1237 Kawaihae Rd, PO Box 278",
+    "city": "Kamuela",
+    "state": "HI",
+    "zip": "96743"
+  },
+  "coordinates": {
+    "latitude": 20.021635055541992,
+    "longitude": -155.67205047607422
+  },
+  "website": "https://stjameshawaii.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-hawaii/list/st-james-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-hawaii/st-james-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjameshawaii.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "990287244"
+    }
+  ],
+  "advisories": []
+}

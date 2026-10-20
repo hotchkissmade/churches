@@ -1,0 +1,33 @@
+{
+  "id": "s9xgrrh21",
+  "url": "https://constellation.church/s9xgrrh21",
+  "name": "St. John's, Mt. Rainier",
+  "displayName": "St. John's, Mount Rainier",
+  "address": {
+    "street": "4112 34th St",
+    "city": "Mount Rainier",
+    "state": "MD",
+    "zip": "20712-1948"
+  },
+  "coordinates": {
+    "latitude": 38.94033432006836,
+    "longitude": -76.96144104003906
+  },
+  "website": "https://stjohnsmountrainier.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/st-johns-episcopalanglican-church-mt-rainier",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/st-johns-episcopalanglican-church-mt-rainier"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsmountrainier.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520626710"
+    }
+  ],
+  "advisories": []
+}

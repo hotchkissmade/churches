@@ -1,0 +1,33 @@
+{
+  "id": "qr1xx7642",
+  "url": "https://constellation.church/qr1xx7642",
+  "name": "All Saints Lutheran Church",
+  "displayName": "All Saints Lutheran Church",
+  "address": {
+    "street": "16510 Mount Oak Rd",
+    "city": "Bowie",
+    "state": "MD",
+    "zip": "20716-3823"
+  },
+  "coordinates": {
+    "latitude": 38.92664337158203,
+    "longitude": -76.71804428100586
+  },
+  "website": "https://allsaintsbowie.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ba9eb2fb-d3c0-4aa7-b2e0-7aea1763ce0b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ba9eb2fb-d3c0-4aa7-b2e0-7aea1763ce0b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allsaintsbowie.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521071754"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vg95bv045",
+  "url": "https://constellation.church/vg95bv045",
+  "name": "St. Martin's Episcopal Church",
+  "displayName": "St. Martin's Episcopal Church",
+  "address": {
+    "street": "1510 E 7th Street",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28204"
+  },
+  "coordinates": {
+    "latitude": 35.216766357421875,
+    "longitude": -80.82424926757812
+  },
+  "website": "https://stmclt.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-north-carolina/list/st-martins-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-north-carolina/st-martins-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmclt.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560642863"
+    }
+  ],
+  "advisories": []
+}

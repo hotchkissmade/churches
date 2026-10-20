@@ -1,0 +1,33 @@
+{
+  "id": "eve0rc857",
+  "url": "https://constellation.church/eve0rc857",
+  "name": "First United Methodist Church of Columbus",
+  "displayName": "First United Methodist Church of Columbus",
+  "address": {
+    "street": "618 8th St",
+    "city": "Columbus",
+    "state": "IN",
+    "zip": "47201"
+  },
+  "coordinates": {
+    "latitude": 39.20719528198242,
+    "longitude": -85.91840362548828
+  },
+  "website": "https://fumccolumbus.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFOJtIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFOJtIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fumccolumbus.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "350888007"
+    }
+  ],
+  "advisories": []
+}

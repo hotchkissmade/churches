@@ -1,0 +1,33 @@
+{
+  "id": "v41jxxc03",
+  "url": "https://constellation.church/v41jxxc03",
+  "name": "Crescent Hill Baptist Church",
+  "displayName": "Crescent Hill Baptist Church",
+  "address": {
+    "street": "2659 Two Notch Rd",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29204"
+  },
+  "coordinates": {
+    "latitude": 34.03116798400879,
+    "longitude": -81.00756454467773
+  },
+  "website": "https://crescenthillbaptist.net",
+  "listingUrl": "https://churches.sbc.net/church/crescent-hill-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "crescent-hill-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "crescenthillbaptist.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570371723"
+    }
+  ],
+  "advisories": []
+}

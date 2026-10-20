@@ -1,0 +1,33 @@
+{
+  "id": "escwh8c92",
+  "url": "https://constellation.church/escwh8c92",
+  "name": "Ocean View Baptist Church",
+  "displayName": "Ocean View Baptist Church",
+  "address": {
+    "street": "7300 N Kings Hwy",
+    "city": "Myrtle Beach",
+    "state": "SC",
+    "zip": "29572"
+  },
+  "coordinates": {
+    "latitude": 33.74428367614746,
+    "longitude": -78.82083892822266
+  },
+  "website": "https://ovbc.org",
+  "listingUrl": "https://churches.sbc.net/church/ocean-view-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "ocean-view-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ovbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570475927"
+    }
+  ],
+  "advisories": []
+}

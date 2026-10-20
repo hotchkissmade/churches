@@ -1,0 +1,33 @@
+{
+  "id": "mhd1v1k12",
+  "url": "https://constellation.church/mhd1v1k12",
+  "name": "The Church of the Good Shepherd",
+  "displayName": "The Church of the Good Shepherd",
+  "address": {
+    "street": "308 E. Acacia Ave",
+    "city": "Hemet",
+    "state": "CA",
+    "zip": "92543-4228"
+  },
+  "coordinates": {
+    "latitude": 33.744089126586914,
+    "longitude": -116.9692153930664
+  },
+  "website": "https://goodshepherdhemet.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-san-diego/list/church-good-shepherd",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-san-diego/church-good-shepherd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherdhemet.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952118131"
+    }
+  ],
+  "advisories": []
+}

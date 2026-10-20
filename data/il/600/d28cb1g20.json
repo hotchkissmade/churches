@@ -1,0 +1,33 @@
+{
+  "id": "d28cb1g20",
+  "url": "https://constellation.church/d28cb1g20",
+  "name": "New Song Ministries",
+  "displayName": "New Song Ministries",
+  "address": {
+    "street": "3010 31st St",
+    "city": "Zion",
+    "state": "IL",
+    "zip": "60099"
+  },
+  "coordinates": {
+    "latitude": 42.43942832946777,
+    "longitude": -87.8533935546875
+  },
+  "website": "https://newsongministries.org",
+  "listingUrl": "https://churches.sbc.net/church/new-song-ministries/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-song-ministries"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newsongministries.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "010739721"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gh15g3n96",
+  "url": "https://constellation.church/gh15g3n96",
+  "name": "Front Royal United Methodist Church",
+  "displayName": "Front Royal United Methodist Church",
+  "address": {
+    "street": "1 West Main Street",
+    "city": "Front Royal",
+    "state": "VA",
+    "zip": "22630"
+  },
+  "coordinates": {
+    "latitude": 38.91830635070801,
+    "longitude": -78.19383239746094
+  },
+  "website": "https://frumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFJTXIA5",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFJTXIA5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "frumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540681181"
+    }
+  ],
+  "advisories": []
+}

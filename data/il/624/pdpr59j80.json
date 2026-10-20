@@ -1,0 +1,33 @@
+{
+  "id": "pdpr59j80",
+  "url": "https://constellation.church/pdpr59j80",
+  "name": "Casey First Baptist Church",
+  "displayName": "Casey First Baptist Church",
+  "address": {
+    "street": "101 E Alabama Ave",
+    "city": "Casey",
+    "state": "IL",
+    "zip": "62420"
+  },
+  "coordinates": {
+    "latitude": 39.30098342895508,
+    "longitude": -87.9920654296875
+  },
+  "website": "https://caseyfbc.com",
+  "listingUrl": "https://churches.sbc.net/church/casey-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "casey-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "caseyfbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370999824"
+    }
+  ],
+  "advisories": []
+}

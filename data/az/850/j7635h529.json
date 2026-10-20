@@ -1,0 +1,33 @@
+{
+  "id": "j7635h529",
+  "url": "https://constellation.church/j7635h529",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "1124 N 3rd St",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85004-1810"
+  },
+  "coordinates": {
+    "latitude": 33.46089553833008,
+    "longitude": -112.06997680664062
+  },
+  "website": "https://graceinthecity.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=80d6629a-8025-412d-96c2-ebd47598e4e4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "80d6629a-8025-412d-96c2-ebd47598e4e4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceinthecity.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860104416"
+    }
+  ],
+  "advisories": []
+}

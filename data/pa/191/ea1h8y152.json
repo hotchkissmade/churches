@@ -1,0 +1,33 @@
+{
+  "id": "ea1h8y152",
+  "url": "https://constellation.church/ea1h8y152",
+  "name": "HighPointe Church",
+  "displayName": "HighPointe Church",
+  "address": {
+    "street": "7811 Ridge Ave",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19128"
+  },
+  "coordinates": {
+    "latitude": 40.02762794494629,
+    "longitude": -75.21395111083984
+  },
+  "website": "https://hpcphilly.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f915421c-3d37-4137-9f3f-14da414653fa&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f915421c-3d37-4137-9f3f-14da414653fa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hpcphilly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232232050"
+    }
+  ],
+  "advisories": []
+}

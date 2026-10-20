@@ -1,0 +1,33 @@
+{
+  "id": "pdn10s415",
+  "url": "https://constellation.church/pdn10s415",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "202 Brooks St",
+    "city": "Missoula",
+    "state": "MT",
+    "zip": "59801-4019"
+  },
+  "coordinates": {
+    "latitude": 46.86195755004883,
+    "longitude": -113.9986343383789
+  },
+  "website": "https://stpaulmissoulamt.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c1bfd876-3bb8-433f-81dd-26ec4cde793d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c1bfd876-3bb8-433f-81dd-26ec4cde793d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulmissoulamt.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810296745"
+    }
+  ],
+  "advisories": []
+}

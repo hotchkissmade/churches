@@ -1,0 +1,37 @@
+{
+  "id": "mbzzejb24",
+  "url": "https://constellation.church/mbzzejb24",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "266.5 Richardson Hwy",
+    "city": "Delta Junction",
+    "state": "AK",
+    "zip": "99737"
+  },
+  "coordinates": {
+    "latitude": 64.04558181762695,
+    "longitude": -145.7365493774414
+  },
+  "website": "https://dpflc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d8ce53bf-21ce-44f0-8123-193c326e9e87",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d8ce53bf-21ce-44f0-8123-193c326e9e87"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dpflc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920152511"
+    },
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "8585"
+    }
+  ],
+  "advisories": []
+}

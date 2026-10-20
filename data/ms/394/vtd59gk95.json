@@ -1,0 +1,33 @@
+{
+  "id": "vtd59gk95",
+  "url": "https://constellation.church/vtd59gk95",
+  "name": "First Baptist Church Richton",
+  "displayName": "First Baptist Church Richton",
+  "address": {
+    "street": "400 Elm Street",
+    "city": "Richton",
+    "state": "MS",
+    "zip": "39476"
+  },
+  "coordinates": {
+    "latitude": 31.349977493286133,
+    "longitude": -88.93881225585938
+  },
+  "website": "https://fbcrichton.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-richton/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-richton"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcrichton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640680718"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "d7aaqje22",
+  "url": "https://constellation.church/d7aaqje22",
+  "name": "First Baptist Church of Willow",
+  "displayName": "First Baptist Church of Willow",
+  "address": {
+    "street": "23403 W Long Lake Road",
+    "city": "WILLOW",
+    "state": "AK",
+    "zip": "99688"
+  },
+  "coordinates": {
+    "latitude": 61.73622512817383,
+    "longitude": -150.04286193847656
+  },
+  "website": "https://fbcwillow.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-willow/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-willow"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcwillow.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920122238"
+    }
+  ],
+  "advisories": []
+}

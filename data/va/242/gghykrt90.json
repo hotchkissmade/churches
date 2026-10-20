@@ -1,0 +1,33 @@
+{
+  "id": "gghykrt90",
+  "url": "https://constellation.church/gghykrt90",
+  "name": "Bethel Baptist",
+  "displayName": "Bethel Baptist Church",
+  "address": {
+    "street": "60 Ketron Avenue",
+    "city": "Lebanon",
+    "state": "VA",
+    "zip": "24266"
+  },
+  "coordinates": {
+    "latitude": 36.90233039855957,
+    "longitude": -82.05657196044922
+  },
+  "website": "https://bbchurchlebanon.org",
+  "listingUrl": "https://churches.sbc.net/church/bethel-baptist/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bethel-baptist"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bbchurchlebanon.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541006661"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "atf6rv598",
+  "url": "https://constellation.church/atf6rv598",
+  "name": "Christ Church, Presbyterian",
+  "displayName": "Christ Church, Presbyterian",
+  "address": {
+    "street": "4201 Southern Pines Drive",
+    "city": "Evans",
+    "state": "GA",
+    "zip": "30809"
+  },
+  "coordinates": {
+    "latitude": 33.56154823303223,
+    "longitude": -82.10775756835938
+  },
+  "website": "https://christchurchpres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5171",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5171"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christchurchpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "201459538"
+    }
+  ],
+  "advisories": []
+}

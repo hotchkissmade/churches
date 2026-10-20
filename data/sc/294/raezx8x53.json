@@ -1,0 +1,33 @@
+{
+  "id": "raezx8x53",
+  "url": "https://constellation.church/raezx8x53",
+  "name": "North Trident Baptist Church",
+  "displayName": "North Trident Baptist Church",
+  "address": {
+    "street": "9939 Jamison Rd",
+    "city": "Summerville",
+    "state": "SC",
+    "zip": "29485"
+  },
+  "coordinates": {
+    "latitude": 32.984453201293945,
+    "longitude": -80.14521408081055
+  },
+  "website": "https://northtrident.org",
+  "listingUrl": "https://churches.sbc.net/church/north-trident-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "north-trident-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northtrident.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570869168"
+    }
+  ],
+  "advisories": []
+}

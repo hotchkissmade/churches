@@ -1,0 +1,29 @@
+{
+  "id": "rdftspc11",
+  "url": "https://constellation.church/rdftspc11",
+  "name": "COMMUNITY BAPTIST CHURCH",
+  "displayName": "Community Baptist Church",
+  "address": {
+    "street": "2100 DURHAM RD",
+    "city": "Langhorne",
+    "state": "PA",
+    "zip": "19047"
+  },
+  "coordinates": {
+    "latitude": 40.137563705444336,
+    "longitude": -74.8922348022461
+  },
+  "website": "https://cbcministriespa.org/history",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232445108"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cbcministriespa.org/history"
+    }
+  ],
+  "advisories": []
+}

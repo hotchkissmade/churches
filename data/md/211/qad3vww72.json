@@ -1,0 +1,33 @@
+{
+  "id": "qad3vww72",
+  "url": "https://constellation.church/qad3vww72",
+  "name": "Westminster United Methodist Church",
+  "displayName": "Westminster United Methodist Church",
+  "address": {
+    "street": "165 E Main St",
+    "city": "Westminster",
+    "state": "MD",
+    "zip": "21157-5016"
+  },
+  "coordinates": {
+    "latitude": 39.57126045227051,
+    "longitude": -76.99151992797852
+  },
+  "website": "https://wumcmd.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKEyIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKEyIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wumcmd.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520607899"
+    }
+  ],
+  "advisories": []
+}

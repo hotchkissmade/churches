@@ -1,0 +1,33 @@
+{
+  "id": "jr9817709",
+  "url": "https://constellation.church/jr9817709",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "321 Marshall Avenue, SW",
+    "city": "Roanoke",
+    "state": "VA",
+    "zip": "24016"
+  },
+  "coordinates": {
+    "latitude": 37.27560234069824,
+    "longitude": -79.9412612915039
+  },
+  "website": "https://firstroanoke.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-610/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-610"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstroanoke.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540787923"
+    }
+  ],
+  "advisories": []
+}

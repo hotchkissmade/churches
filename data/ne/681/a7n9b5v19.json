@@ -1,0 +1,33 @@
+{
+  "id": "a7n9b5v19",
+  "url": "https://constellation.church/a7n9b5v19",
+  "name": "St Timothy Lutheran Church",
+  "displayName": "St. Timothy Lutheran Church",
+  "address": {
+    "street": "510 N 93rd St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68114-2605"
+  },
+  "coordinates": {
+    "latitude": 41.263919830322266,
+    "longitude": -96.057861328125
+  },
+  "website": "https://st-timothys.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f066d3f2-5af2-4331-ad9c-7a547684e6c9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f066d3f2-5af2-4331-ad9c-7a547684e6c9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "st-timothys.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "476045615"
+    }
+  ],
+  "advisories": []
+}

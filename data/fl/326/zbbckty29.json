@@ -1,0 +1,33 @@
+{
+  "id": "zbbckty29",
+  "url": "https://constellation.church/zbbckty29",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "1801 NW 5th Ave",
+    "city": "Gainesville",
+    "state": "FL",
+    "zip": "32603-1624"
+  },
+  "coordinates": {
+    "latitude": 29.655376434326172,
+    "longitude": -82.34580993652344
+  },
+  "website": "https://flcgainesville.org",
+  "listingUrl": "https://locator.lcms.org/church/C/342843",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "342843"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcgainesville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591161607"
+    }
+  ],
+  "advisories": []
+}

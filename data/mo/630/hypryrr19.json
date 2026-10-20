@@ -1,0 +1,33 @@
+{
+  "id": "hypryrr19",
+  "url": "https://constellation.church/hypryrr19",
+  "name": "New Hope Baptist Church, Sullivan",
+  "displayName": "New Hope Baptist Church, Sullivan",
+  "address": {
+    "street": "New Hope Church Road",
+    "city": "Sullivan",
+    "state": "MO",
+    "zip": "63080"
+  },
+  "coordinates": {
+    "latitude": 38.25268363952637,
+    "longitude": -90.969482421875
+  },
+  "website": "https://newhopebaptistchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/new-hope-baptist-church-sullivan/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-hope-baptist-church-sullivan"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newhopebaptistchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431326500"
+    }
+  ],
+  "advisories": []
+}

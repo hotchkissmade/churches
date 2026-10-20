@@ -1,0 +1,33 @@
+{
+  "id": "xk13rwb91",
+  "url": "https://constellation.church/xk13rwb91",
+  "name": "Yorktown Baptist Church",
+  "displayName": "Yorktown Baptist Church",
+  "address": {
+    "street": "237 Nelson St",
+    "city": "Yorktown",
+    "state": "VA",
+    "zip": "23690"
+  },
+  "coordinates": {
+    "latitude": 37.231903076171875,
+    "longitude": -76.50879287719727
+  },
+  "website": "https://yorktownbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/yorktown-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "yorktown-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "yorktownbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540657607"
+    }
+  ],
+  "advisories": []
+}

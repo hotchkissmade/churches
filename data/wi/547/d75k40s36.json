@@ -1,0 +1,33 @@
+{
+  "id": "d75k40s36",
+  "url": "https://constellation.church/d75k40s36",
+  "name": "Spring Lake Lutheran Church",
+  "displayName": "Spring Lake Lutheran Church",
+  "address": {
+    "street": "N7724 County Road B",
+    "city": "Spring Valley",
+    "state": "WI",
+    "zip": "54767"
+  },
+  "coordinates": {
+    "latitude": 44.814727783203125,
+    "longitude": -92.19702911376953
+  },
+  "website": "https://springlakelutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bee1c06d-6558-46b8-acd9-3c11b153c9b7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bee1c06d-6558-46b8-acd9-3c11b153c9b7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "springlakelutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391307365"
+    }
+  ],
+  "advisories": []
+}

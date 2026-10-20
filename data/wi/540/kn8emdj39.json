@@ -1,0 +1,33 @@
+{
+  "id": "kn8emdj39",
+  "url": "https://constellation.church/kn8emdj39",
+  "name": "Svea Lutheran Church",
+  "displayName": "Svea Lutheran Church",
+  "address": {
+    "street": "N2610 770th St",
+    "city": "Hager City",
+    "state": "WI",
+    "zip": "54014-8134"
+  },
+  "coordinates": {
+    "latitude": 44.62027359008789,
+    "longitude": -92.43794631958008
+  },
+  "website": "https://eidsvoldsvea.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c0a13102-3b85-42e0-a3b4-18e16a781190",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c0a13102-3b85-42e0-a3b4-18e16a781190"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eidsvoldsvea.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391528363"
+    }
+  ],
+  "advisories": []
+}

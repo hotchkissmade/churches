@@ -1,0 +1,33 @@
+{
+  "id": "q0949cf70",
+  "url": "https://constellation.church/q0949cf70",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "103 E Market St",
+    "city": "Jonestown",
+    "state": "PA",
+    "zip": "17038"
+  },
+  "coordinates": {
+    "latitude": 40.414031982421875,
+    "longitude": -76.47636795043945
+  },
+  "website": "https://zionsjonestown.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=586b6aa3-818a-4c69-a2b0-e15086b866d7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "586b6aa3-818a-4c69-a2b0-e15086b866d7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionsjonestown.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251346782"
+    }
+  ],
+  "advisories": []
+}

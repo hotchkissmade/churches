@@ -1,0 +1,33 @@
+{
+  "id": "t048yw133",
+  "url": "https://constellation.church/t048yw133",
+  "name": "La Mesa Our Church",
+  "displayName": "La Mesa Our Church",
+  "address": {
+    "street": "8809 La Mesa Blvd",
+    "city": "La Mesa",
+    "state": "CA",
+    "zip": "91942"
+  },
+  "coordinates": {
+    "latitude": 32.77088737487793,
+    "longitude": -117.00749969482422
+  },
+  "website": "https://ourchurch.co",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ff663c3b-fef8-440c-8ba6-acd633d2a78d&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ff663c3b-fef8-440c-8ba6-acd633d2a78d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ourchurch.co"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953103838"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "yksxrwa94",
+  "url": "https://constellation.church/yksxrwa94",
+  "name": "Resurrection Chapel",
+  "displayName": "Resurrection Chapel",
+  "address": {
+    "street": "7551 Hillcrest Road",
+    "city": "Frisco",
+    "state": "TX",
+    "zip": "75035"
+  },
+  "coordinates": {
+    "latitude": 33.140390396118164,
+    "longitude": -96.78653717041016
+  },
+  "website": "https://rcfrisco.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=313&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "313"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rcfrisco.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "261502954"
+    }
+  ],
+  "advisories": []
+}

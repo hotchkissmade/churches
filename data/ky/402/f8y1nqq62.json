@@ -1,0 +1,33 @@
+{
+  "id": "f8y1nqq62",
+  "url": "https://constellation.church/f8y1nqq62",
+  "name": "Westport Road Baptist Church",
+  "displayName": "Westport Road Baptist Church",
+  "address": {
+    "street": "9705 Westport Road",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40241"
+  },
+  "coordinates": {
+    "latitude": 38.288835525512695,
+    "longitude": -85.57212829589844
+  },
+  "website": "https://mywrbc.org",
+  "listingUrl": "https://churches.sbc.net/church/westport-road-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "westport-road-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mywrbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "610655593"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wsbypv308",
+  "url": "https://constellation.church/wsbypv308",
+  "name": "Holy Trinity Lutheran Church",
+  "displayName": "Holy Trinity Lutheran Church",
+  "address": {
+    "street": "206 Cocoa Ave",
+    "city": "Hershey",
+    "state": "PA",
+    "zip": "17033-1426"
+  },
+  "coordinates": {
+    "latitude": 40.283620834350586,
+    "longitude": -76.64870071411133
+  },
+  "website": "https://htluth.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=51c9ae88-8762-48bf-a07d-e7bdc7e1a027",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "51c9ae88-8762-48bf-a07d-e7bdc7e1a027"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "htluth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231669603"
+    }
+  ],
+  "advisories": []
+}

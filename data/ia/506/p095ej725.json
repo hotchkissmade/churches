@@ -1,0 +1,33 @@
+{
+  "id": "p095ej725",
+  "url": "https://constellation.church/p095ej725",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "200 S Main St",
+    "city": "Charles City",
+    "state": "IA",
+    "zip": "50616-2715"
+  },
+  "coordinates": {
+    "latitude": 43.06401824951172,
+    "longitude": -92.68083953857422
+  },
+  "website": "https://stjohncharlescity.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8a4e584a-bb4c-4df8-a6a6-f882f8b3286c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8a4e584a-bb4c-4df8-a6a6-f882f8b3286c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohncharlescity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420819458"
+    }
+  ],
+  "advisories": []
+}

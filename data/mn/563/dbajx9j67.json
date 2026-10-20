@@ -1,0 +1,33 @@
+{
+  "id": "dbajx9j67",
+  "url": "https://constellation.church/dbajx9j67",
+  "name": "Living Waters Lutheran Church",
+  "displayName": "Living Waters Lutheran Church",
+  "address": {
+    "street": "1911 4th Ave N",
+    "city": "Sauk Rapids",
+    "state": "MN",
+    "zip": "56379-2714"
+  },
+  "coordinates": {
+    "latitude": 45.611358642578125,
+    "longitude": -94.17761993408203
+  },
+  "website": "https://lwlcmn.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bd02cdbb-0bb8-4f20-8984-74f23ae73f8c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bd02cdbb-0bb8-4f20-8984-74f23ae73f8c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lwlcmn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411779811"
+    }
+  ],
+  "advisories": []
+}

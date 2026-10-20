@@ -1,0 +1,33 @@
+{
+  "id": "y76v63j19",
+  "url": "https://constellation.church/y76v63j19",
+  "name": "CityView Church",
+  "displayName": "CityView Church",
+  "address": {
+    "street": "3041 4th Ave S",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55408"
+  },
+  "coordinates": {
+    "latitude": 44.94701957702637,
+    "longitude": -93.2702407836914
+  },
+  "website": "https://cvcmpls.org",
+  "listingUrl": "https://converge.org/church/cityview-church/",
+  "identifiers": [
+    {
+      "namespace": "org.converge.id",
+      "value": "37524"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cvcmpls.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "208465944"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vfq8wmp32",
+  "url": "https://constellation.church/vfq8wmp32",
+  "name": "New Covenant Fellowship",
+  "displayName": "New Covenant Fellowship",
+  "address": {
+    "street": "2425 Racing Rd",
+    "city": "Greer",
+    "state": "SC",
+    "zip": "29651"
+  },
+  "coordinates": {
+    "latitude": 34.9617142,
+    "longitude": -82.2134981
+  },
+  "website": "https://covenantgreer.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=2f0012f4-3e71-48ba-bde4-5cebd78b2b4b&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "2f0012f4-3e71-48ba-bde4-5cebd78b2b4b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covenantgreer.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570777517"
+    }
+  ],
+  "advisories": []
+}

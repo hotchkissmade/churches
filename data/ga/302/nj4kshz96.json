@@ -1,0 +1,33 @@
+{
+  "id": "nj4kshz96",
+  "url": "https://constellation.church/nj4kshz96",
+  "name": "Oak Hill Church",
+  "displayName": "Oak Hill Church",
+  "address": {
+    "street": "100 Lakeside Rd",
+    "city": "Williamson",
+    "state": "GA",
+    "zip": "30292"
+  },
+  "coordinates": {
+    "latitude": 33.212907791137695,
+    "longitude": -84.31776809692383
+  },
+  "website": "https://oakhillchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/oak-hill-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "oak-hill-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oakhillchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581196346"
+    }
+  ],
+  "advisories": []
+}

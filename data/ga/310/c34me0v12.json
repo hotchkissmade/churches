@@ -1,0 +1,33 @@
+{
+  "id": "c34me0v12",
+  "url": "https://constellation.church/c34me0v12",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "1139 Watson Blvd",
+    "city": "Warner Robins",
+    "state": "GA",
+    "zip": "31093"
+  },
+  "coordinates": {
+    "latitude": 32.618024826049805,
+    "longitude": -83.61585998535156
+  },
+  "website": "https://kpcwr.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/22211/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "22211"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kpcwr.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "472285985"
+    }
+  ],
+  "advisories": []
+}

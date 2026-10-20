@@ -1,0 +1,33 @@
+{
+  "id": "grxscgr08",
+  "url": "https://constellation.church/grxscgr08",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "915 E Orange St",
+    "city": "Hoopeston",
+    "state": "IL",
+    "zip": "60942"
+  },
+  "coordinates": {
+    "latitude": 40.4587345123291,
+    "longitude": -87.65611267089844
+  },
+  "website": "https://fpchoopeston.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/1521/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "1521"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpchoopeston.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371159354"
+    }
+  ],
+  "advisories": []
+}

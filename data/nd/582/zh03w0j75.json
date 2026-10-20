@@ -1,0 +1,33 @@
+{
+  "id": "zh03w0j75",
+  "url": "https://constellation.church/zh03w0j75",
+  "name": "United Lutheran Church",
+  "displayName": "United Lutheran Church",
+  "address": {
+    "street": "104 Bjornson Dr",
+    "city": "Cavalier",
+    "state": "ND",
+    "zip": "58220"
+  },
+  "coordinates": {
+    "latitude": 48.79412841796875,
+    "longitude": -97.63219451904297
+  },
+  "website": "https://cavalierunitedlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b6694bf0-ae1c-4e3c-a507-a061e202af14",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b6694bf0-ae1c-4e3c-a507-a061e202af14"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cavalierunitedlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450377971"
+    }
+  ],
+  "advisories": []
+}

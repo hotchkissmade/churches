@@ -1,0 +1,33 @@
+{
+  "id": "bk7hs9h91",
+  "url": "https://constellation.church/bk7hs9h91",
+  "name": "Church of the Holy Apostles, Manhattan",
+  "displayName": "Church of the Holy Apostles, Manhattan",
+  "address": {
+    "street": "296 Ninth Avenue",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10001"
+  },
+  "coordinates": {
+    "latitude": 40.74936103820801,
+    "longitude": -73.99897003173828
+  },
+  "website": "https://holyapostlesnyc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-new-york/list/church-holy-apostles",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-new-york/church-holy-apostles"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holyapostlesnyc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "132892297"
+    }
+  ],
+  "advisories": []
+}

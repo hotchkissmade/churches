@@ -1,0 +1,33 @@
+{
+  "id": "x0hvq5k33",
+  "url": "https://constellation.church/x0hvq5k33",
+  "name": "Bernal Church",
+  "displayName": "Bernal Church",
+  "address": {
+    "street": "160 Bernal Rd",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95119"
+  },
+  "coordinates": {
+    "latitude": 37.22872352600098,
+    "longitude": -121.77420043945312
+  },
+  "website": "https://bernal.church",
+  "listingUrl": "https://nabconference.org/directory/bernal-church/",
+  "identifiers": [
+    {
+      "namespace": "org.nabconference.id",
+      "value": "bernal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bernal.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510189599"
+    }
+  ],
+  "advisories": []
+}

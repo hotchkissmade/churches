@@ -1,0 +1,33 @@
+{
+  "id": "qcyq03g05",
+  "url": "https://constellation.church/qcyq03g05",
+  "name": "Celebration Church",
+  "displayName": "Celebration Church",
+  "address": {
+    "street": "6630 N Central Ave",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85012"
+  },
+  "coordinates": {
+    "latitude": 33.53384590148926,
+    "longitude": -112.07421112060547
+  },
+  "website": "https://c2phoenix.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=52cc4819-5c09-45eb-9a35-08ac799a0f50&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "52cc4819-5c09-45eb-9a35-08ac799a0f50"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "c2phoenix.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237093142"
+    }
+  ],
+  "advisories": []
+}

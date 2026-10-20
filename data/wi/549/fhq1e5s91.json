@@ -1,0 +1,33 @@
+{
+  "id": "fhq1e5s91",
+  "url": "https://constellation.church/fhq1e5s91",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "W2314 Prospect St",
+    "city": "Poy Sippi",
+    "state": "WI",
+    "zip": "54967-8434"
+  },
+  "coordinates": {
+    "latitude": 44.139095306396484,
+    "longitude": -88.99654388427734
+  },
+  "website": "https://firstlutheranpoysippi.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ac33a89c-b802-4b93-84ca-eadd5794ce6f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ac33a89c-b802-4b93-84ca-eadd5794ce6f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranpoysippi.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237195948"
+    }
+  ],
+  "advisories": []
+}

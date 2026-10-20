@@ -1,0 +1,33 @@
+{
+  "id": "cswzv8520",
+  "url": "https://constellation.church/cswzv8520",
+  "name": "Holy Apostles Church",
+  "displayName": "Holy Apostles Church",
+  "address": {
+    "street": "3814 Franklin St",
+    "city": "Vancouver",
+    "state": "WA",
+    "zip": "98660-1864"
+  },
+  "coordinates": {
+    "latitude": 45.64981460571289,
+    "longitude": -122.67710876464844
+  },
+  "website": "https://holy12.org/index.html",
+  "listingUrl": "https://www.oca.org/parishes/oca-we-porham",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-we-porham"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holy12.org/index.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "931060362"
+    }
+  ],
+  "advisories": []
+}

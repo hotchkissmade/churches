@@ -1,0 +1,33 @@
+{
+  "id": "v2ghkek87",
+  "url": "https://constellation.church/v2ghkek87",
+  "name": "Eudora Baptist Church",
+  "displayName": "Eudora Baptist Church",
+  "address": {
+    "street": "525 W 20th St.",
+    "city": "Eudora",
+    "state": "KS",
+    "zip": "66025"
+  },
+  "coordinates": {
+    "latitude": 38.927024841308594,
+    "longitude": -95.10334014892578
+  },
+  "website": "https://eudorabc.org",
+  "listingUrl": "https://churches.sbc.net/church/eudora-baptist-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "eudora-baptist-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eudorabc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480973258"
+    }
+  ],
+  "advisories": []
+}

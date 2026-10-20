@@ -1,0 +1,33 @@
+{
+  "id": "my3jqrn10",
+  "url": "https://constellation.church/my3jqrn10",
+  "name": "New Life Lutheran Church, Inc",
+  "displayName": "New Life Lutheran Church",
+  "address": {
+    "street": "8010 Fruitville Rd",
+    "city": "Sarasota",
+    "state": "FL",
+    "zip": "34240-9283"
+  },
+  "coordinates": {
+    "latitude": 27.336427688598633,
+    "longitude": -82.40752792358398
+  },
+  "website": "https://newlifesarasota.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f12ede61-bad3-45e6-bb63-ec684b3f72e4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f12ede61-bad3-45e6-bb63-ec684b3f72e4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newlifesarasota.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "562369520"
+    }
+  ],
+  "advisories": []
+}

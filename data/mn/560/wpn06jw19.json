@@ -1,0 +1,33 @@
+{
+  "id": "wpn06jw19",
+  "url": "https://constellation.church/wpn06jw19",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "300 Owen St",
+    "city": "Janesville",
+    "state": "MN",
+    "zip": "56048-1245"
+  },
+  "coordinates": {
+    "latitude": 44.11870574951172,
+    "longitude": -93.69795989990234
+  },
+  "website": "https://flcjanesville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a6980510-6529-4fe0-9a55-a50ca14284fd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a6980510-6529-4fe0-9a55-a50ca14284fd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcjanesville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416049543"
+    }
+  ],
+  "advisories": []
+}

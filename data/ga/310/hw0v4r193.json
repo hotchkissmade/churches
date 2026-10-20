@@ -1,0 +1,33 @@
+{
+  "id": "hw0v4r193",
+  "url": "https://constellation.church/hw0v4r193",
+  "name": "Monticello Baptist Church, Inc.",
+  "displayName": "Monticello Baptist Church",
+  "address": {
+    "street": "334 W Greene St",
+    "city": "Monticello",
+    "state": "GA",
+    "zip": "31064"
+  },
+  "coordinates": {
+    "latitude": 33.30589485168457,
+    "longitude": -83.68537139892578
+  },
+  "website": "https://mbcmonticello.org",
+  "listingUrl": "https://churches.sbc.net/church/monticello-baptist-church-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "monticello-baptist-church-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mbcmonticello.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "586135720"
+    }
+  ],
+  "advisories": []
+}

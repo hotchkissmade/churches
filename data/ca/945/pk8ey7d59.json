@@ -1,0 +1,41 @@
+{
+  "id": "pk8ey7d59",
+  "url": "https://constellation.church/pk8ey7d59",
+  "name": "Alameda",
+  "displayName": "Iglesia ni Cristo — Alameda",
+  "address": {
+    "street": "1515 Santa Clara Ave.",
+    "city": "Alameda",
+    "state": "CA",
+    "zip": "94501"
+  },
+  "coordinates": {
+    "latitude": 37.772953033447266,
+    "longitude": -122.26001739501953
+  },
+  "website": "https://firstbaptistalameda.com",
+  "listingUrl": "https://iglesianicristo.net/directory/locales/alameda",
+  "identifiers": [
+    {
+      "namespace": "net.iglesianicristo.id",
+      "value": "47804"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistalameda.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941279812"
+    },
+    {
+      "namespace": "org.converge.id",
+      "value": "38953"
+    },
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "westside-baptist-church-2"
+    }
+  ],
+  "advisories": []
+}

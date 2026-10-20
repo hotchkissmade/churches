@@ -1,0 +1,33 @@
+{
+  "id": "w867raz75",
+  "url": "https://constellation.church/w867raz75",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "66 S Main St",
+    "city": "Manchester",
+    "state": "PA",
+    "zip": "17345-1339"
+  },
+  "coordinates": {
+    "latitude": 40.057111740112305,
+    "longitude": -76.72196960449219
+  },
+  "website": "https://clcmanchester.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=55915f7a-a707-41a7-8a25-0726966aabbe",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "55915f7a-a707-41a7-8a25-0726966aabbe"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clcmanchester.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232074500"
+    }
+  ],
+  "advisories": []
+}

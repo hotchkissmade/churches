@@ -1,0 +1,33 @@
+{
+  "id": "q7bpem679",
+  "url": "https://constellation.church/q7bpem679",
+  "name": "Gracehill Church",
+  "displayName": "Gracehill Church",
+  "address": {
+    "street": "1415 Lyon St. NE",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49503"
+  },
+  "coordinates": {
+    "latitude": 42.96662712097168,
+    "longitude": -85.63532257080078
+  },
+  "website": "https://gracehillgr.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6402",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6402"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracehillgr.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "991987888"
+    }
+  ],
+  "advisories": []
+}

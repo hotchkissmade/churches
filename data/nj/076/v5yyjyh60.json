@@ -1,0 +1,33 @@
+{
+  "id": "v5yyjyh60",
+  "url": "https://constellation.church/v5yyjyh60",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "64 Passaic St",
+    "city": "Hackensack",
+    "state": "NJ",
+    "zip": "07601"
+  },
+  "coordinates": {
+    "latitude": 40.89118957519531,
+    "longitude": -74.04174423217773
+  },
+  "website": "https://fpchackensack.org/history",
+  "listingUrl": "https://church-trends.pcusa.org/church/4711/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "4711"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpchackensack.org/history"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222874277"
+    }
+  ],
+  "advisories": []
+}

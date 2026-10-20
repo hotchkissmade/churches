@@ -1,0 +1,33 @@
+{
+  "id": "m3p1ea289",
+  "url": "https://constellation.church/m3p1ea289",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "724 Delaware Ave",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14209-2294"
+  },
+  "coordinates": {
+    "latitude": 42.90376281738281,
+    "longitude": -78.87298202514648
+  },
+  "website": "https://wpcbuffalo.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/5347/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "5347"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wpcbuffalo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "160743224"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kqk04tn44",
+  "url": "https://constellation.church/kqk04tn44",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "3030 Glendale Ave",
+    "city": "Hoople",
+    "state": "ND",
+    "zip": "58243"
+  },
+  "coordinates": {
+    "latitude": 48.5355339050293,
+    "longitude": -97.63592529296875
+  },
+  "website": "https://firstlutheranhoople.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0d345e8d-5d3d-47fc-af25-9b8ea97a7251",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0d345e8d-5d3d-47fc-af25-9b8ea97a7251"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranhoople.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450277910"
+    }
+  ],
+  "advisories": []
+}

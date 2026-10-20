@@ -1,0 +1,33 @@
+{
+  "id": "jmf84m880",
+  "url": "https://constellation.church/jmf84m880",
+  "name": "American Evangelical Lutheran Church",
+  "displayName": "American Evangelical Lutheran Church",
+  "address": {
+    "street": "115 N Tucson Blvd",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85716-4739"
+  },
+  "coordinates": {
+    "latitude": 32.22298240661621,
+    "longitude": -110.93567657470703
+  },
+  "website": "https://godsplaceforgrace.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=980926fa-3694-4de1-8ee6-78356aed59d8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "980926fa-3694-4de1-8ee6-78356aed59d8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "godsplaceforgrace.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "866005194"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "enwnqfx35",
+  "url": "https://constellation.church/enwnqfx35",
+  "name": "University Lutheran Church",
+  "displayName": "University Lutheran Church",
+  "address": {
+    "street": "2204 Orrington Ave",
+    "city": "Evanston",
+    "state": "IL",
+    "zip": "60201-2818"
+  },
+  "coordinates": {
+    "latitude": 42.05756950378418,
+    "longitude": -87.67988586425781
+  },
+  "website": "https://lcmnorthwestern.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=516e4ac5-c4df-453d-a5f4-74dd33c16ea3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "516e4ac5-c4df-453d-a5f4-74dd33c16ea3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcmnorthwestern.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "463444104"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mhxpejf83",
+  "url": "https://constellation.church/mhxpejf83",
+  "name": "Bethel Church",
+  "displayName": "Bethel Church",
+  "address": {
+    "street": "2702 30th Ave S",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58103-5041"
+  },
+  "coordinates": {
+    "latitude": 46.8348503112793,
+    "longitude": -96.82394409179688
+  },
+  "website": "https://bethelfc.com",
+  "listingUrl": "https://churches.efca.org/?id=12053",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12053"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelfc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450382931"
+    }
+  ],
+  "advisories": []
+}

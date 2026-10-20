@@ -1,0 +1,33 @@
+{
+  "id": "fw7cegr83",
+  "url": "https://constellation.church/fw7cegr83",
+  "name": "St. Luke's Episcopal Church, Trinity Parish (Bethesda)",
+  "displayName": "St. Luke's Episcopal Church, Trinity Parish (Bethesda)",
+  "address": {
+    "street": "6030 Grosvenor Ln",
+    "city": "Bethesda",
+    "state": "MD",
+    "zip": "20814-1852"
+  },
+  "coordinates": {
+    "latitude": 39.02191925048828,
+    "longitude": -77.12204360961914
+  },
+  "website": "https://stlukesbethesda.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/st-lukes-episcopal-church-bethesda",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/st-lukes-episcopal-church-bethesda"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesbethesda.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520681145"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wjreqfx71",
+  "url": "https://constellation.church/wjreqfx71",
+  "name": "Messiah Lutheran Church",
+  "displayName": "Messiah Lutheran Church",
+  "address": {
+    "street": "4703 N Summit St",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43611-2857"
+  },
+  "coordinates": {
+    "latitude": 41.707956314086914,
+    "longitude": -83.47919082641602
+  },
+  "website": "https://messiahtoledo.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ec038c4b-978d-400a-b515-9579f576bc88",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ec038c4b-978d-400a-b515-9579f576bc88"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "messiahtoledo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "344475187"
+    }
+  ],
+  "advisories": []
+}

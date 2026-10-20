@@ -1,0 +1,33 @@
+{
+  "id": "q1vrzkv52",
+  "url": "https://constellation.church/q1vrzkv52",
+  "name": "Restoration Church",
+  "displayName": "Restoration Church",
+  "address": {
+    "street": "101 North Naches Avenue",
+    "city": "Yakima",
+    "state": "WA",
+    "zip": "98901"
+  },
+  "coordinates": {
+    "latitude": 46.59639358520508,
+    "longitude": -120.53217315673828
+  },
+  "website": "https://restorationyakima.com/starting-point",
+  "listingUrl": "https://venturechurches.org/churches/restoration-church/",
+  "identifiers": [
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "restoration-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "restorationyakima.com/starting-point"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820416692"
+    }
+  ],
+  "advisories": []
+}

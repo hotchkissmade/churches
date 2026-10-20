@@ -1,0 +1,33 @@
+{
+  "id": "md8gftb68",
+  "url": "https://constellation.church/md8gftb68",
+  "name": "Uptown Baptist Church",
+  "displayName": "Uptown Baptist Church",
+  "address": {
+    "street": "1011 W Wilson Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60640"
+  },
+  "coordinates": {
+    "latitude": 41.965328216552734,
+    "longitude": -87.65518569946289
+  },
+  "website": "https://uptownbaptistchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/uptown-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "uptown-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "uptownbaptistchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363149956"
+    }
+  ],
+  "advisories": []
+}

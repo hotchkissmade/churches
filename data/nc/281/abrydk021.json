@@ -1,0 +1,33 @@
+{
+  "id": "abrydk021",
+  "url": "https://constellation.church/abrydk021",
+  "name": "Lavonia",
+  "displayName": "Lavonia Baptist Church",
+  "address": {
+    "street": "2841 Camp Creek Church Rd",
+    "city": "Mooresboro",
+    "state": "NC",
+    "zip": "28114"
+  },
+  "coordinates": {
+    "latitude": 35.18277931213379,
+    "longitude": -81.72270965576172
+  },
+  "website": "https://lavoniabaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/lavonia/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lavonia"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lavoniabaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581529996"
+    }
+  ],
+  "advisories": []
+}

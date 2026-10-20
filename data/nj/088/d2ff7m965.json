@@ -1,0 +1,33 @@
+{
+  "id": "d2ff7m965",
+  "url": "https://constellation.church/d2ff7m965",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "445 Old Post Rd",
+    "city": "Edison",
+    "state": "NJ",
+    "zip": "08817-4651"
+  },
+  "coordinates": {
+    "latitude": 40.514251708984375,
+    "longitude": -74.38248062133789
+  },
+  "website": "https://stpauls-edison.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=12974ad8-49fa-4bd5-948e-6ba441277178",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "12974ad8-49fa-4bd5-948e-6ba441277178"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpauls-edison.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221779942"
+    }
+  ],
+  "advisories": []
+}

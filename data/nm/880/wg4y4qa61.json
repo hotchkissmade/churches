@@ -1,0 +1,33 @@
+{
+  "id": "wg4y4qa61",
+  "url": "https://constellation.church/wg4y4qa61",
+  "name": "University Presbyterian Church",
+  "displayName": "University Presbyterian Church",
+  "address": {
+    "street": "2010 Wisconsin Avenue",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88001"
+  },
+  "coordinates": {
+    "latitude": 32.288095474243164,
+    "longitude": -106.74516296386719
+  },
+  "website": "https://upclc.com/about-us",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1034",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1034"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "upclc.com/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850319501"
+    }
+  ],
+  "advisories": []
+}

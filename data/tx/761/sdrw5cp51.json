@@ -1,0 +1,33 @@
+{
+  "id": "sdrw5cp51",
+  "url": "https://constellation.church/sdrw5cp51",
+  "name": "First Baptist Church Lakeside",
+  "displayName": "First Baptist Church Lakeside",
+  "address": {
+    "street": "8801 Jacksboro Hwy",
+    "city": "Lakeside",
+    "state": "TX",
+    "zip": "76135"
+  },
+  "coordinates": {
+    "latitude": 32.824567794799805,
+    "longitude": -97.47840881347656
+  },
+  "website": "https://fblakeside.net",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-lakeside-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-lakeside-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fblakeside.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751544503"
+    }
+  ],
+  "advisories": []
+}

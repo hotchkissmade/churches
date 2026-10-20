@@ -1,0 +1,33 @@
+{
+  "id": "tcqm1ny68",
+  "url": "https://constellation.church/tcqm1ny68",
+  "name": "Christ Lutheran Church - Dallas",
+  "displayName": "Christ Lutheran Church - Dallas",
+  "address": {
+    "street": "3001 Lovers Ln",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75225-7812"
+  },
+  "coordinates": {
+    "latitude": 32.85069465637207,
+    "longitude": -96.77932739257812
+  },
+  "website": "https://clcdallas.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=de2f5010-6bec-43bd-b5d9-1838d83b8f47",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "de2f5010-6bec-43bd-b5d9-1838d83b8f47"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clcdallas.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750945884"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ccw5jr415",
+  "url": "https://constellation.church/ccw5jr415",
+  "name": "Chapel By The Sea",
+  "displayName": "Chapel By The Sea",
+  "address": {
+    "street": "1051 Sea Mountain Hwy",
+    "city": "N Myrtle Bch",
+    "state": "SC",
+    "zip": "29582"
+  },
+  "coordinates": {
+    "latitude": 33.8404598236084,
+    "longitude": -78.64643478393555
+  },
+  "website": "https://thechapelbythesea.com/home",
+  "listingUrl": "https://churches.sbc.net/church/chapel-by-the-sea/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "chapel-by-the-sea"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thechapelbythesea.com/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161651146"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "v83s2zc89",
+  "url": "https://constellation.church/v83s2zc89",
+  "name": "St. Mark's Church in the Bowery",
+  "displayName": "St. Mark's Church in the Bowery",
+  "address": {
+    "street": "131 E. 10th St.",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10003"
+  },
+  "coordinates": {
+    "latitude": 40.7303466796875,
+    "longitude": -73.98711776733398
+  },
+  "website": "https://stmarksbowery.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-new-york/list/st-marks-church-bowery",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-new-york/st-marks-church-bowery"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarksbowery.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "135563009"
+    }
+  ],
+  "advisories": []
+}

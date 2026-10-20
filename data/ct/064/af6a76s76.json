@@ -1,0 +1,33 @@
+{
+  "id": "af6a76s76",
+  "url": "https://constellation.church/af6a76s76",
+  "name": "The Cornerstone Church",
+  "displayName": "The Cornerstone Church",
+  "address": {
+    "street": "1146 Waterbury Rd",
+    "city": "Cheshire",
+    "state": "CT",
+    "zip": "06410"
+  },
+  "coordinates": {
+    "latitude": 41.52140808105469,
+    "longitude": -72.93082809448242
+  },
+  "website": "https://cornerstonecheshire.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=c1aaaf5c-c4c0-4497-a77d-c4afc224ff40&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "c1aaaf5c-c4c0-4497-a77d-c4afc224ff40"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cornerstonecheshire.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "061196937"
+    }
+  ],
+  "advisories": []
+}

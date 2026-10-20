@@ -1,0 +1,33 @@
+{
+  "id": "z7tbyp410",
+  "url": "https://constellation.church/z7tbyp410",
+  "name": "Church of the Advent",
+  "displayName": "Church of the Advent",
+  "address": {
+    "street": "200 N Wright St",
+    "city": "Alice",
+    "state": "TX",
+    "zip": "78332"
+  },
+  "coordinates": {
+    "latitude": 27.75251579284668,
+    "longitude": -98.07421875
+  },
+  "website": "https://episcopalchurchalice.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-texas/list/church-advent",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-texas/church-advent"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "episcopalchurchalice.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "746022217"
+    }
+  ],
+  "advisories": []
+}

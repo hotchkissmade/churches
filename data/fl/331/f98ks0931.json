@@ -1,0 +1,33 @@
+{
+  "id": "f98ks0931",
+  "url": "https://constellation.church/f98ks0931",
+  "name": "Riverside Baptist Church",
+  "displayName": "Riverside Baptist Church",
+  "address": {
+    "street": "10775 SW 104th St",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33176"
+  },
+  "coordinates": {
+    "latitude": 25.67314338684082,
+    "longitude": -80.36909484863281
+  },
+  "website": "https://riversideonline.org",
+  "listingUrl": "https://churches.sbc.net/church/riverside-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "riverside-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "riversideonline.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590737902"
+    }
+  ],
+  "advisories": []
+}

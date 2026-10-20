@@ -1,0 +1,33 @@
+{
+  "id": "hynttca47",
+  "url": "https://constellation.church/hynttca47",
+  "name": "New City Church of Plant City",
+  "displayName": "New City Church of Plant City",
+  "address": {
+    "street": "1304 Teakwood Dr",
+    "city": "Plant City",
+    "state": "FL",
+    "zip": "33563"
+  },
+  "coordinates": {
+    "latitude": 27.995277404785156,
+    "longitude": -82.13164901733398
+  },
+  "website": "https://newcitychurchplantcity.com",
+  "listingUrl": "https://churches.sbc.net/church/new-city-church-of-plant-city/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-city-church-of-plant-city"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newcitychurchplantcity.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "455106437"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "e911jst04",
+  "url": "https://constellation.church/e911jst04",
+  "name": "Storla Lutheran Church",
+  "displayName": "Storla Lutheran Church",
+  "address": {
+    "street": "24305 393rd Ave",
+    "city": "Letcher",
+    "state": "SD",
+    "zip": "57359-5312"
+  },
+  "coordinates": {
+    "latitude": 43.864248275756836,
+    "longitude": -98.35177612304688
+  },
+  "website": "https://storlalutheran.santel.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8a7912c8-0f63-421b-8bb2-cbf86b4d38bf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8a7912c8-0f63-421b-8bb2-cbf86b4d38bf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "storlalutheran.santel.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460247345"
+    }
+  ],
+  "advisories": []
+}

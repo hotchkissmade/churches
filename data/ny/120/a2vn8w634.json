@@ -1,0 +1,33 @@
+{
+  "id": "a2vn8w634",
+  "url": "https://constellation.church/a2vn8w634",
+  "name": "United Church of Cohoes",
+  "displayName": "United Church of Cohoes",
+  "address": {
+    "street": "123 N Mohawk St",
+    "city": "Cohoes",
+    "state": "NY",
+    "zip": "12047"
+  },
+  "coordinates": {
+    "latitude": 42.77355194091797,
+    "longitude": -73.69984817504883
+  },
+  "website": "https://cohoesecopc.org",
+  "listingUrl": "https://eco-pres.org/churches/united-church-of-cohoes/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "united-church-of-cohoes"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cohoesecopc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "141510866"
+    }
+  ],
+  "advisories": []
+}

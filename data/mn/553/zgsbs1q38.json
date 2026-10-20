@@ -1,0 +1,33 @@
+{
+  "id": "zgsbs1q38",
+  "url": "https://constellation.church/zgsbs1q38",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "13045 Fremont Ave",
+    "city": "Zimmerman",
+    "state": "MN",
+    "zip": "55398-9417"
+  },
+  "coordinates": {
+    "latitude": 45.44375991821289,
+    "longitude": -93.60010528564453
+  },
+  "website": "https://stjohnlc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=81d843e7-813f-4a42-aa5c-55e3f94b39eb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "81d843e7-813f-4a42-aa5c-55e3f94b39eb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnlc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411327415"
+    }
+  ],
+  "advisories": []
+}

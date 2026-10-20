@@ -1,0 +1,33 @@
+{
+  "id": "a3er3ny03",
+  "url": "https://constellation.church/a3er3ny03",
+  "name": "Standing Springs Baptist Church",
+  "displayName": "Standing Springs Baptist Church",
+  "address": {
+    "street": "1111 W Georgia Rd",
+    "city": "Simpsonville",
+    "state": "SC",
+    "zip": "29680"
+  },
+  "coordinates": {
+    "latitude": 34.72718620300293,
+    "longitude": -82.28875732421875
+  },
+  "website": "https://standingsprings.org/who-we-are/pastors-staff",
+  "listingUrl": "https://churches.sbc.net/church/standing-springs-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "standing-springs-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standingsprings.org/who-we-are/pastors-staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570368720"
+    }
+  ],
+  "advisories": []
+}

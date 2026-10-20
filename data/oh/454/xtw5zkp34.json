@@ -1,0 +1,33 @@
+{
+  "id": "xtw5zkp34",
+  "url": "https://constellation.church/xtw5zkp34",
+  "name": "North Riverdale Lutheran Church",
+  "displayName": "North Riverdale Lutheran Church",
+  "address": {
+    "street": "45 Kurtz Ave",
+    "city": "Dayton",
+    "state": "OH",
+    "zip": "45405-2717"
+  },
+  "coordinates": {
+    "latitude": 39.79366111755371,
+    "longitude": -84.2171401977539
+  },
+  "website": "https://nrlchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3e481007-e20e-4a2b-aeb7-c0f6014ad5d9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3e481007-e20e-4a2b-aeb7-c0f6014ad5d9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nrlchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "316001317"
+    }
+  ],
+  "advisories": []
+}

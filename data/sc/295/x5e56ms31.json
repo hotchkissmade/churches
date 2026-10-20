@@ -1,0 +1,33 @@
+{
+  "id": "x5e56ms31",
+  "url": "https://constellation.church/x5e56ms31",
+  "name": "Marion Baptist Church",
+  "displayName": "Marion Baptist Church",
+  "address": {
+    "street": "106 S Main St",
+    "city": "Marion",
+    "state": "SC",
+    "zip": "29571"
+  },
+  "coordinates": {
+    "latitude": 34.17742729187012,
+    "longitude": -79.40105056762695
+  },
+  "website": "https://marionbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/marion-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "marion-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "marionbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570427684"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jhpw1sj22",
+  "url": "https://constellation.church/jhpw1sj22",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "2100 Riverview Dr",
+    "city": "Little Falls",
+    "state": "MN",
+    "zip": "56345-4402"
+  },
+  "coordinates": {
+    "latitude": 45.99801254272461,
+    "longitude": -94.35260009765625
+  },
+  "website": "https://flclittlefalls.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3564d58c-1d6b-41df-b881-429aa2bc8dd1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3564d58c-1d6b-41df-b881-429aa2bc8dd1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flclittlefalls.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411326788"
+    }
+  ],
+  "advisories": []
+}

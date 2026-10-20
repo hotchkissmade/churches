@@ -1,0 +1,33 @@
+{
+  "id": "azjs04d91",
+  "url": "https://constellation.church/azjs04d91",
+  "name": "United Christian Fellowship",
+  "displayName": "United Christian Fellowship",
+  "address": {
+    "street": "5015 New York Ave",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76018"
+  },
+  "coordinates": {
+    "latitude": 32.66330909729004,
+    "longitude": -97.07621002197266
+  },
+  "website": "https://ucfarlington.org",
+  "listingUrl": "https://churches.sbc.net/church/united-christian-fellowship/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "united-christian-fellowship"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ucfarlington.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752607022"
+    }
+  ],
+  "advisories": []
+}

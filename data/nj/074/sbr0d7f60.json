@@ -1,0 +1,33 @@
+{
+  "id": "sbr0d7f60",
+  "url": "https://constellation.church/sbr0d7f60",
+  "name": "Bloomingdale United Methodist Church",
+  "displayName": "Bloomingdale United Methodist Church",
+  "address": {
+    "street": "65 Main St",
+    "city": "Bloomingdale",
+    "state": "NJ",
+    "zip": "07403-1613"
+  },
+  "coordinates": {
+    "latitude": 41.002227783203125,
+    "longitude": -74.32858276367188
+  },
+  "website": "https://bloomingdaleumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFELaIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFELaIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bloomingdaleumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222506675"
+    }
+  ],
+  "advisories": []
+}

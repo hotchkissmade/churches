@@ -1,0 +1,33 @@
+{
+  "id": "csakwv053",
+  "url": "https://constellation.church/csakwv053",
+  "name": "Holy Cross Lutheran Church",
+  "displayName": "Holy Cross Lutheran Church",
+  "address": {
+    "street": "1720 E Minnehaha Pkwy",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55407-3640"
+  },
+  "coordinates": {
+    "latitude": 44.916561126708984,
+    "longitude": -93.24868774414062
+  },
+  "website": "https://holycrossmpls.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fc60adc1-8d64-4cdc-b85e-2c1ed86f5f09",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fc60adc1-8d64-4cdc-b85e-2c1ed86f5f09"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holycrossmpls.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410879005"
+    }
+  ],
+  "advisories": []
+}

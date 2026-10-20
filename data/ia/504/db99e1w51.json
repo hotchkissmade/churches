@@ -1,0 +1,33 @@
+{
+  "id": "db99e1w51",
+  "url": "https://constellation.church/db99e1w51",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "70 5th Ave NW",
+    "city": "Britt",
+    "state": "IA",
+    "zip": "50423-1361"
+  },
+  "coordinates": {
+    "latitude": 43.09756851196289,
+    "longitude": -93.80812072753906
+  },
+  "website": "https://brittfirstlutheranchurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f2e90c5d-cf02-4b45-a36c-2450dbe92930",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f2e90c5d-cf02-4b45-a36c-2450dbe92930"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "brittfirstlutheranchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421232983"
+    }
+  ],
+  "advisories": []
+}

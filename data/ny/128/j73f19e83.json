@@ -1,0 +1,33 @@
+{
+  "id": "j73f19e83",
+  "url": "https://constellation.church/j73f19e83",
+  "name": "First Presbyterian Church of Corinth",
+  "displayName": "First Presbyterian Church of Corinth",
+  "address": {
+    "street": "199 Palmer Ave",
+    "city": "Corinth",
+    "state": "NY",
+    "zip": "12822"
+  },
+  "coordinates": {
+    "latitude": 43.24404525756836,
+    "longitude": -73.82526397705078
+  },
+  "website": "https://corinthfirstpres.org",
+  "listingUrl": "https://eco-pres.org/churches/first-presbyterian-church-of-corinth/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "first-presbyterian-church-of-corinth"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "corinthfirstpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237249464"
+    }
+  ],
+  "advisories": []
+}

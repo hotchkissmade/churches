@@ -1,0 +1,33 @@
+{
+  "id": "bye90j411",
+  "url": "https://constellation.church/bye90j411",
+  "name": "Mesa Church",
+  "displayName": "Mesa Church",
+  "address": {
+    "street": "17660 Cowan Irvine",
+    "city": null,
+    "state": "CA",
+    "zip": "92614"
+  },
+  "coordinates": {
+    "latitude": 33.69338417053223,
+    "longitude": -117.85648345947266
+  },
+  "website": "https://mesa.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=3b6e5460-4cb7-4f5b-8638-e4ad78068ac9&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "3b6e5460-4cb7-4f5b-8638-e4ad78068ac9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mesa.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952414466"
+    }
+  ],
+  "advisories": []
+}

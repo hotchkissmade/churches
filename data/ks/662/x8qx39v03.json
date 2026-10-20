@@ -1,0 +1,33 @@
+{
+  "id": "x8qx39v03",
+  "url": "https://constellation.church/x8qx39v03",
+  "name": "New City Church",
+  "displayName": "New City Church",
+  "address": {
+    "street": "7230 Quivira Rd",
+    "city": "Shawnee",
+    "state": "KS",
+    "zip": "66216"
+  },
+  "coordinates": {
+    "latitude": 38.99710273742676,
+    "longitude": -94.72412109375
+  },
+  "website": "https://newcitychurch.com/shawnee",
+  "listingUrl": "https://churches.sbc.net/church/new-city-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-city-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newcitychurch.com/shawnee"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900541765"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "m1fnyn066",
+  "url": "https://constellation.church/m1fnyn066",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "1309 Franklin St",
+    "city": "Vancouver",
+    "state": "WA",
+    "zip": "98660-2878"
+  },
+  "coordinates": {
+    "latitude": 45.631248474121094,
+    "longitude": -122.67654418945312
+  },
+  "website": "https://stpaulvancouver.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c72c237a-fb2d-44e7-8463-3d17f445809d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c72c237a-fb2d-44e7-8463-3d17f445809d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulvancouver.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "916000852"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gc1tb5m75",
+  "url": "https://constellation.church/gc1tb5m75",
+  "name": "First Assembly of God Church",
+  "displayName": "First Assembly of God Church",
+  "address": {
+    "street": "950 Highway 96 S Silsbee",
+    "city": null,
+    "state": "TX",
+    "zip": "77656"
+  },
+  "coordinates": {
+    "latitude": 30.33892822265625,
+    "longitude": -94.18426513671875
+  },
+  "website": "https://silsbeefirst.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f75def2c-3691-4830-8fbf-9362b7eabac8&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f75def2c-3691-4830-8fbf-9362b7eabac8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "silsbeefirst.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760022303"
+    }
+  ],
+  "advisories": []
+}

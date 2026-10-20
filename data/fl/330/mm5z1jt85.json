@@ -1,0 +1,33 @@
+{
+  "id": "mm5z1jt85",
+  "url": "https://constellation.church/mm5z1jt85",
+  "name": "Hebron Church",
+  "displayName": "Hebron Church",
+  "address": {
+    "street": "3266 NW 99th Way",
+    "city": "Coral Springs",
+    "state": "FL",
+    "zip": "33065"
+  },
+  "coordinates": {
+    "latitude": 26.270933151245117,
+    "longitude": -80.25891494750977
+  },
+  "website": "https://csccog.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=5e0fcb64-8dea-4f28-9db0-a8d05cad1f3c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "5e0fcb64-8dea-4f28-9db0-a8d05cad1f3c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "csccog.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592582877"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cg1sz3t91",
+  "url": "https://constellation.church/cg1sz3t91",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "2745 W Genesee Ave",
+    "city": "Saginaw",
+    "state": "MI",
+    "zip": "48602-3724"
+  },
+  "coordinates": {
+    "latitude": 43.4356224,
+    "longitude": -83.9761971
+  },
+  "website": "https://stpls.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24220",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24220"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpls.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381549986"
+    }
+  ],
+  "advisories": []
+}

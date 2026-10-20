@@ -1,0 +1,33 @@
+{
+  "id": "rdjzcnc04",
+  "url": "https://constellation.church/rdjzcnc04",
+  "name": "Holy Trinity Church",
+  "displayName": "Holy Trinity Church",
+  "address": {
+    "street": "20500 Anglin St",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48234"
+  },
+  "coordinates": {
+    "latitude": 42.4466667175293,
+    "longitude": -83.07476425170898
+  },
+  "website": "https://holytrinitydetroit.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-mw-dethtc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-mw-dethtc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holytrinitydetroit.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "386088877"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "t8j0g2v09",
+  "url": "https://constellation.church/t8j0g2v09",
+  "name": "Lutheran Church Of The Ascension",
+  "displayName": "Lutheran Church Of The Ascension",
+  "address": {
+    "street": "120 Bull St",
+    "city": "Savannah",
+    "state": "GA",
+    "zip": "31401-3751"
+  },
+  "coordinates": {
+    "latitude": 32.077932357788086,
+    "longitude": -81.09177780151367
+  },
+  "website": "https://ascensionsavannah.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f46bbd55-6cf6-40f7-9865-930b71a788b0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f46bbd55-6cf6-40f7-9865-930b71a788b0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ascensionsavannah.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580572461"
+    }
+  ],
+  "advisories": []
+}

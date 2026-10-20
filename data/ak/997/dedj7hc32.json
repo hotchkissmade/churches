@@ -1,0 +1,33 @@
+{
+  "id": "dedj7hc32",
+  "url": "https://constellation.church/dedj7hc32",
+  "name": "North Pole Assembly of God",
+  "displayName": "North Pole Assembly of God",
+  "address": {
+    "street": "503 Kit Blvd",
+    "city": "North Pole",
+    "state": "AK",
+    "zip": "99705"
+  },
+  "coordinates": {
+    "latitude": 64.75003433227539,
+    "longitude": -147.34154510498047
+  },
+  "website": "https://npag.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=c700a57f-b325-439d-ab32-dcdef005575a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "c700a57f-b325-439d-ab32-dcdef005575a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "npag.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920088990"
+    }
+  ],
+  "advisories": []
+}

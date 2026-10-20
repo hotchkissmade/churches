@@ -1,0 +1,33 @@
+{
+  "id": "kcntg8029",
+  "url": "https://constellation.church/kcntg8029",
+  "name": "Romulus Baptist Church",
+  "displayName": "Romulus Baptist Church",
+  "address": {
+    "street": "30955 Old Hwy 18",
+    "city": "Macomb",
+    "state": "OK",
+    "zip": "74852"
+  },
+  "coordinates": {
+    "latitude": 35.11697959899902,
+    "longitude": -96.92388153076172
+  },
+  "website": "https://romulusbc.com",
+  "listingUrl": "https://churches.sbc.net/church/romulus-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "romulus-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "romulusbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "731209060"
+    }
+  ],
+  "advisories": []
+}

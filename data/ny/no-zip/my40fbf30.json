@@ -1,0 +1,33 @@
+{
+  "id": "my40fbf30",
+  "url": "https://constellation.church/my40fbf30",
+  "name": "New Paltz Friends Meeting",
+  "displayName": "New Paltz Friends Meeting",
+  "address": {
+    "street": "8 N Manheim Blvd",
+    "city": "New Paltz",
+    "state": "NY",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 41.7468147277832,
+    "longitude": -74.07737350463867
+  },
+  "website": "https://nyym.org/meeting/new-paltz-friends-meeting",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/new-paltz-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "new-paltz-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nyym.org/meeting/new-paltz-friends-meeting"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510148448"
+    }
+  ],
+  "advisories": []
+}

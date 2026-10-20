@@ -1,0 +1,33 @@
+{
+  "id": "rbjtd2062",
+  "url": "https://constellation.church/rbjtd2062",
+  "name": "Church of the Holy Spirit",
+  "displayName": "Church of the Holy Spirit",
+  "address": {
+    "street": "3910 Yanceyville St",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27405-3350"
+  },
+  "coordinates": {
+    "latitude": 36.13624382019043,
+    "longitude": -79.7763671875
+  },
+  "website": "https://holyspiritgreensboro.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-north-carolina/list/church-holy-spirit",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-north-carolina/church-holy-spirit"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holyspiritgreensboro.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561375346"
+    }
+  ],
+  "advisories": []
+}

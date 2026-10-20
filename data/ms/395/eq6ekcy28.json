@@ -1,0 +1,33 @@
+{
+  "id": "eq6ekcy28",
+  "url": "https://constellation.church/eq6ekcy28",
+  "name": "Temple Baptist Church",
+  "displayName": "Temple Baptist Church",
+  "address": {
+    "street": "15120 Highway 613",
+    "city": "Moss Point",
+    "state": "MS",
+    "zip": "39562"
+  },
+  "coordinates": {
+    "latitude": 30.56446075439453,
+    "longitude": -88.48468399047852
+  },
+  "website": "https://tb.church",
+  "listingUrl": "https://churches.sbc.net/church/temple-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "temple-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tb.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640676059"
+    }
+  ],
+  "advisories": []
+}

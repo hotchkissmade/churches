@@ -1,0 +1,33 @@
+{
+  "id": "fbhrp3x95",
+  "url": "https://constellation.church/fbhrp3x95",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "3976 Hendricks Ave",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32207-5306"
+  },
+  "coordinates": {
+    "latitude": 30.280733108520508,
+    "longitude": -81.65110778808594
+  },
+  "website": "https://stmarksjax.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5ca046e6-3775-48fc-8b4a-e7981395f6cf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5ca046e6-3775-48fc-8b4a-e7981395f6cf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarksjax.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "596018404"
+    }
+  ],
+  "advisories": []
+}

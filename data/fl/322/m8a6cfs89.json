@@ -1,0 +1,33 @@
+{
+  "id": "m8a6cfs89",
+  "url": "https://constellation.church/m8a6cfs89",
+  "name": "Agape Church",
+  "displayName": "Agape Church",
+  "address": {
+    "street": "3870 Atlantic Blvd",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32207"
+  },
+  "coordinates": {
+    "latitude": 30.356441497802734,
+    "longitude": -81.49105072021484
+  },
+  "website": "https://agapechurchjax.com",
+  "listingUrl": "https://churches.sbc.net/church/agape-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "agape-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "agapechurchjax.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "455145808"
+    }
+  ],
+  "advisories": []
+}

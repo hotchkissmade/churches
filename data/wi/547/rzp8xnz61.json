@@ -1,0 +1,33 @@
+{
+  "id": "rzp8xnz61",
+  "url": "https://constellation.church/rzp8xnz61",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "3307 State St",
+    "city": "Eau Claire",
+    "state": "WI",
+    "zip": "54701-7153"
+  },
+  "coordinates": {
+    "latitude": 44.78513717651367,
+    "longitude": -91.49507522583008
+  },
+  "website": "https://stmark-wels.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24941",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24941"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmark-wels.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391186480"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "b1d420v47",
+  "url": "https://constellation.church/b1d420v47",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "525 Superior Ave",
+    "city": "Tomah",
+    "state": "WI",
+    "zip": "54660-2040"
+  },
+  "coordinates": {
+    "latitude": 43.9821919,
+    "longitude": -90.5044301
+  },
+  "website": "https://stpaultomah.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24975",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24975"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaultomah.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390970871"
+    }
+  ],
+  "advisories": []
+}

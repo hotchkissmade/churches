@@ -1,0 +1,33 @@
+{
+  "id": "facrs7a45",
+  "url": "https://constellation.church/facrs7a45",
+  "name": "Carpenter Street Baptist Church",
+  "displayName": "Carpenter Street Baptist Church",
+  "address": {
+    "street": "501 E Carpenter St",
+    "city": "Moberly",
+    "state": "MO",
+    "zip": "65270"
+  },
+  "coordinates": {
+    "latitude": 39.413143157958984,
+    "longitude": -92.43098449707031
+  },
+  "website": "https://carpenterstreet.church",
+  "listingUrl": "https://churches.sbc.net/church/carpenter-street-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "carpenter-street-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "carpenterstreet.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430765755"
+    }
+  ],
+  "advisories": []
+}

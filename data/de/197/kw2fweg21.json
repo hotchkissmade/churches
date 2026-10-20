@@ -1,0 +1,33 @@
+{
+  "id": "kw2fweg21",
+  "url": "https://constellation.church/kw2fweg21",
+  "name": "Grace Church",
+  "displayName": "Grace Church",
+  "address": {
+    "street": "355 Paper Mill Rd",
+    "city": "Newark",
+    "state": "DE",
+    "zip": "19711-2254"
+  },
+  "coordinates": {
+    "latitude": 39.6948127746582,
+    "longitude": -75.75080490112305
+  },
+  "website": "https://graceofdelaware.com",
+  "listingUrl": "https://churches.efca.org/?id=12514",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12514"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceofdelaware.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510290811"
+    }
+  ],
+  "advisories": []
+}

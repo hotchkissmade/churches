@@ -1,0 +1,33 @@
+{
+  "id": "gbm6qqb46",
+  "url": "https://constellation.church/gbm6qqb46",
+  "name": "Sojourn Church East",
+  "displayName": "Sojourn Church East",
+  "address": {
+    "street": "2501 Rudy Ln",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40207"
+  },
+  "coordinates": {
+    "latitude": 38.272451400756836,
+    "longitude": -85.63076400756836
+  },
+  "website": "https://sojourneast.com",
+  "listingUrl": "https://churches.sbc.net/church/sojourn-church-east/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sojourn-church-east"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sojourneast.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "832794765"
+    }
+  ],
+  "advisories": []
+}

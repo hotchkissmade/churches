@@ -1,0 +1,33 @@
+{
+  "id": "v92fqvy90",
+  "url": "https://constellation.church/v92fqvy90",
+  "name": "St Stephens Lutheran Church",
+  "displayName": "St. Stephen's Lutheran Church",
+  "address": {
+    "street": "400 8th St SE",
+    "city": "Braham",
+    "state": "MN",
+    "zip": "55006-3071"
+  },
+  "coordinates": {
+    "latitude": 45.716779708862305,
+    "longitude": -93.16675567626953
+  },
+  "website": "https://ststephensbraham.org",
+  "listingUrl": "https://locator.lcms.org/church/C/99600",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "99600"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ststephensbraham.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411840306"
+    }
+  ],
+  "advisories": []
+}

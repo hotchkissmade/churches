@@ -1,0 +1,33 @@
+{
+  "id": "drp6acs13",
+  "url": "https://constellation.church/drp6acs13",
+  "name": "Seacrest Presbyterian Church",
+  "displayName": "Seacrest Presbyterian Church",
+  "address": {
+    "street": "2703 North Seacrest Boulevard",
+    "city": "Delray Beach",
+    "state": "FL",
+    "zip": "33444"
+  },
+  "coordinates": {
+    "latitude": 26.490568161010742,
+    "longitude": -80.0706901550293
+  },
+  "website": "https://seacrestchurch.com/seacrest-preschool",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/924",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "924"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "seacrestchurch.com/seacrest-preschool"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "596214737"
+    }
+  ],
+  "advisories": []
+}

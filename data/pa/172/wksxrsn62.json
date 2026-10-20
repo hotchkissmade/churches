@@ -1,0 +1,33 @@
+{
+  "id": "wksxrsn62",
+  "url": "https://constellation.church/wksxrsn62",
+  "name": "Memorial Lutheran Church",
+  "displayName": "Memorial Lutheran Church",
+  "address": {
+    "street": "34 E Orange St",
+    "city": "Shippensburg",
+    "state": "PA",
+    "zip": "17257-1928"
+  },
+  "coordinates": {
+    "latitude": 40.049386978149414,
+    "longitude": -77.51774597167969
+  },
+  "website": "https://memluth.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=65c7f616-863f-4a81-ae0a-e77418cb6233",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "65c7f616-863f-4a81-ae0a-e77418cb6233"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "memluth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231352411"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sapvmv964",
+  "url": "https://constellation.church/sapvmv964",
+  "name": "Declaration Church",
+  "displayName": "Declaration Church",
+  "address": {
+    "street": "4220 Boonville Rd",
+    "city": "Bryan",
+    "state": "TX",
+    "zip": "77802"
+  },
+  "coordinates": {
+    "latitude": 30.663801193237305,
+    "longitude": -96.30733489990234
+  },
+  "website": "https://declarationchurch.net",
+  "listingUrl": "https://churches.sbc.net/church/declaration-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "declaration-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "declarationchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "463658556"
+    }
+  ],
+  "advisories": []
+}

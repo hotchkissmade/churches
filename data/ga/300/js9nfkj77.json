@@ -1,0 +1,33 @@
+{
+  "id": "js9nfkj77",
+  "url": "https://constellation.church/js9nfkj77",
+  "name": "St. Edward's Episcopal Church",
+  "displayName": "St. Edward's Episcopal Church",
+  "address": {
+    "street": "737 Moon Rd",
+    "city": "Lawrenceville",
+    "state": "GA",
+    "zip": "30046-6109"
+  },
+  "coordinates": {
+    "latitude": 33.92793083190918,
+    "longitude": -83.9925308227539
+  },
+  "website": "https://stedwardsonline.org/wp",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-atlanta/list/st-edwards-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-atlanta/st-edwards-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stedwardsonline.org/wp"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581411731"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nqx5wks06",
+  "url": "https://constellation.church/nqx5wks06",
+  "name": "Rccg Covenant House",
+  "displayName": "Rccg Covenant House",
+  "address": {
+    "street": "1349 W Meadowmere St",
+    "city": "Springfield",
+    "state": "MO",
+    "zip": "65807"
+  },
+  "coordinates": {
+    "latitude": 37.21745491027832,
+    "longitude": -93.27424621582031
+  },
+  "website": "https://rccgspringfield.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=750&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "750"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rccgspringfield.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460807835"
+    }
+  ],
+  "advisories": []
+}

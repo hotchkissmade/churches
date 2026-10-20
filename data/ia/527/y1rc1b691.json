@@ -1,0 +1,33 @@
+{
+  "id": "y1rc1b691",
+  "url": "https://constellation.church/y1rc1b691",
+  "name": "Wesley United Methodist Church",
+  "displayName": "Wesley United Methodist Church",
+  "address": {
+    "street": "400 Iowa Ave",
+    "city": "Muscatine",
+    "state": "IA",
+    "zip": "52761-3820"
+  },
+  "coordinates": {
+    "latitude": 41.422855377197266,
+    "longitude": -91.04810333251953
+  },
+  "website": "https://wesleyonline.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMkUIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMkUIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wesleyonline.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420680338"
+    }
+  ],
+  "advisories": []
+}

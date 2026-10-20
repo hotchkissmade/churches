@@ -1,0 +1,33 @@
+{
+  "id": "fabv45w79",
+  "url": "https://constellation.church/fabv45w79",
+  "name": "Iglesia Bautista de Waldorf",
+  "displayName": "Iglesia Bautista de Waldorf",
+  "address": {
+    "street": "136 Stoddert Avenue",
+    "city": "Waldorf",
+    "state": "MD",
+    "zip": "20602"
+  },
+  "coordinates": {
+    "latitude": 38.60738563537598,
+    "longitude": -76.9207649230957
+  },
+  "website": "https://potomacbaptist.net/church-directory",
+  "listingUrl": "https://churches.sbc.net/church/iglesia-bautista-de-waldorf/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "iglesia-bautista-de-waldorf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "potomacbaptist.net/church-directory"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "453594962"
+    }
+  ],
+  "advisories": []
+}

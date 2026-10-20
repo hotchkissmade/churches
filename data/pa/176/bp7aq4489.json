@@ -1,0 +1,33 @@
+{
+  "id": "bp7aq4489",
+  "url": "https://constellation.church/bp7aq4489",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "2151 Oregon Pike",
+    "city": "Lancaster",
+    "state": "PA",
+    "zip": "17601"
+  },
+  "coordinates": {
+    "latitude": 40.082685470581055,
+    "longitude": -76.2894058227539
+  },
+  "website": "https://westpca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1103",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1103"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westpca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231702657"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "x5thtd783",
+  "url": "https://constellation.church/x5thtd783",
+  "name": "United Methodist Church of Newton",
+  "displayName": "United Methodist Church of Newton",
+  "address": {
+    "street": "430 Walnut St",
+    "city": "Newton",
+    "state": "MA",
+    "zip": "02460-2205"
+  },
+  "coordinates": {
+    "latitude": 42.346492767333984,
+    "longitude": -71.20598983764648
+  },
+  "website": "https://umcnewton.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFOvjIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFOvjIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "umcnewton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "223120889"
+    }
+  ],
+  "advisories": []
+}

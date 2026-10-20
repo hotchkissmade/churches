@@ -1,0 +1,33 @@
+{
+  "id": "zxmgkcn10",
+  "url": "https://constellation.church/zxmgkcn10",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "17770 North 3rd",
+    "city": "Davey",
+    "state": "NE",
+    "zip": "68336"
+  },
+  "coordinates": {
+    "latitude": 40.985267094869,
+    "longitude": -96.666917732468
+  },
+  "website": "https://bethlehemdavey.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d1343cbf-5f23-4258-9091-718cbb4ba8f6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d1343cbf-5f23-4258-9091-718cbb4ba8f6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethlehemdavey.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "476044353"
+    }
+  ],
+  "advisories": []
+}

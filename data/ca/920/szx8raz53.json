@@ -1,0 +1,33 @@
+{
+  "id": "szx8raz53",
+  "url": "https://constellation.church/szx8raz53",
+  "name": "The Bishop's School",
+  "displayName": "The Bishop's School",
+  "address": {
+    "street": "7607 La Jolla Boulevard",
+    "city": "La Jolla",
+    "state": "CA",
+    "zip": "92037"
+  },
+  "coordinates": {
+    "latitude": 32.8405443,
+    "longitude": -117.278714
+  },
+  "website": "https://bishops.com/about/employment",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/san-diego/list/bishops-school",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "san-diego/bishops-school"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bishops.com/about/employment"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951642362"
+    }
+  ],
+  "advisories": []
+}

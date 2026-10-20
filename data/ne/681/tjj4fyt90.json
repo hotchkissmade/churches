@@ -1,0 +1,33 @@
+{
+  "id": "tjj4fyt90",
+  "url": "https://constellation.church/tjj4fyt90",
+  "name": "MCC Omaha",
+  "displayName": "Metropolitan Community Church Omaha",
+  "address": {
+    "street": "819 S 22nd St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68108"
+  },
+  "coordinates": {
+    "latitude": 41.25162887573242,
+    "longitude": -95.944580078125
+  },
+  "website": "https://mccomaha.org",
+  "listingUrl": "https://visitmccchurch.com/our-churches/mcc-churches-in-the-united-states/mcc-churches-in-ne/mcc-omaha/",
+  "identifiers": [
+    {
+      "namespace": "com.visitmccchurch.id",
+      "value": "NE/mcc-omaha"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mccomaha.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470596134"
+    }
+  ],
+  "advisories": []
+}

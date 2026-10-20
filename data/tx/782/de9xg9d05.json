@@ -1,0 +1,33 @@
+{
+  "id": "de9xg9d05",
+  "url": "https://constellation.church/de9xg9d05",
+  "name": "St. Luke's Episcopal School",
+  "displayName": "St. Luke's Episcopal School",
+  "address": {
+    "street": "15 St. Luke's Lane",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78209"
+  },
+  "coordinates": {
+    "latitude": 29.4854941,
+    "longitude": -98.479034
+  },
+  "website": "https://sles-sa.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/west-texas/list/st-lukes-episcopal-school",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "west-texas/st-lukes-episcopal-school"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sles-sa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741166903"
+    }
+  ],
+  "advisories": []
+}

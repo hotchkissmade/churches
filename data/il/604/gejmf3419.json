@@ -1,0 +1,33 @@
+{
+  "id": "gejmf3419",
+  "url": "https://constellation.church/gejmf3419",
+  "name": "Palos Lutheran Church",
+  "displayName": "Palos Lutheran Church",
+  "address": {
+    "street": "12424 S 71st Ct",
+    "city": "Palos Heights",
+    "state": "IL",
+    "zip": "60463-1570"
+  },
+  "coordinates": {
+    "latitude": 41.66450119018555,
+    "longitude": -87.79553985595703
+  },
+  "website": "https://paloslutheran.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24773",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24773"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "paloslutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366008785"
+    }
+  ],
+  "advisories": []
+}

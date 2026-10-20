@@ -1,0 +1,33 @@
+{
+  "id": "djjq9qa21",
+  "url": "https://constellation.church/djjq9qa21",
+  "name": "Metro North Presbyterian Church",
+  "displayName": "Metro North Presbyterian Church",
+  "address": {
+    "street": "109 Central Avenue",
+    "city": "Goose Creek",
+    "state": "SC",
+    "zip": "29445"
+  },
+  "coordinates": {
+    "latitude": 33.0076492,
+    "longitude": -80.0408969
+  },
+  "website": "https://metronorthchurch.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1242",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1242"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "metronorthchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570987243"
+    }
+  ],
+  "advisories": []
+}

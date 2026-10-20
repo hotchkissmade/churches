@@ -1,0 +1,33 @@
+{
+  "id": "qt266hk66",
+  "url": "https://constellation.church/qt266hk66",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "398 S Shoop Ave",
+    "city": "Wauseon",
+    "state": "OH",
+    "zip": "43567-1500"
+  },
+  "coordinates": {
+    "latitude": 41.5446834564209,
+    "longitude": -84.1346206665039
+  },
+  "website": "https://trinitywauseon.org/worship",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bd8779c0-1860-4657-b947-8706b19918a8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bd8779c0-1860-4657-b947-8706b19918a8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitywauseon.org/worship"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341185730"
+    }
+  ],
+  "advisories": []
+}

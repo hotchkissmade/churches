@@ -1,0 +1,33 @@
+{
+  "id": "pqbsrr196",
+  "url": "https://constellation.church/pqbsrr196",
+  "name": "Grace Presbyterian Church",
+  "displayName": "Grace Presbyterian Church",
+  "address": {
+    "street": "4950 E. Camino Segundo",
+    "city": "Sierra Vista",
+    "state": "AZ",
+    "zip": "85650"
+  },
+  "coordinates": {
+    "latitude": 31.474239349365234,
+    "longitude": -110.24556732177734
+  },
+  "website": "https://gpcsv.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4770",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4770"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gpcsv.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860802026"
+    }
+  ],
+  "advisories": []
+}

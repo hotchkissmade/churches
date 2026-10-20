@@ -1,0 +1,33 @@
+{
+  "id": "w6z275p82",
+  "url": "https://constellation.church/w6z275p82",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "431 Philadelphia Ave",
+    "city": "Chambersburg",
+    "state": "PA",
+    "zip": "17201-1665"
+  },
+  "coordinates": {
+    "latitude": 39.94335746765137,
+    "longitude": -77.65800857543945
+  },
+  "website": "https://trinitylutheranchambersburg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bb175a30-35be-4f62-86c7-af901c2e1722",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bb175a30-35be-4f62-86c7-af901c2e1722"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylutheranchambersburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231405617"
+    }
+  ],
+  "advisories": []
+}

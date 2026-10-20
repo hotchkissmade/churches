@@ -1,0 +1,33 @@
+{
+  "id": "vxt60kn30",
+  "url": "https://constellation.church/vxt60kn30",
+  "name": "Goldsby Baptist Church",
+  "displayName": "Goldsby Baptist Church",
+  "address": {
+    "street": "153 Center Road",
+    "city": "Goldsby",
+    "state": "OK",
+    "zip": "73093"
+  },
+  "coordinates": {
+    "latitude": 35.14628219604492,
+    "longitude": -97.47859191894531
+  },
+  "website": "https://goldsbychurch.com",
+  "listingUrl": "https://churches.sbc.net/church/goldsby-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "goldsby-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goldsbychurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "731451908"
+    }
+  ],
+  "advisories": []
+}

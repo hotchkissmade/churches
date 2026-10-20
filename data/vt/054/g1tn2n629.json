@@ -1,0 +1,37 @@
+{
+  "id": "g1tn2n629",
+  "url": "https://constellation.church/g1tn2n629",
+  "name": "Cathedral Church of St. Paul",
+  "displayName": "Cathedral Church of St. Paul",
+  "address": {
+    "street": "2 Cherry St",
+    "city": "Burlington",
+    "state": "VT",
+    "zip": "05401-7304"
+  },
+  "coordinates": {
+    "latitude": 44.47990608215332,
+    "longitude": -73.21845626831055
+  },
+  "website": "https://stpaulscathedralvt.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/episcopal-church-vermont/list/cathedral-church-st-paul",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "episcopal-church-vermont/cathedral-church-st-paul"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulscathedralvt.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030182058"
+    },
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "5021"
+    }
+  ],
+  "advisories": []
+}

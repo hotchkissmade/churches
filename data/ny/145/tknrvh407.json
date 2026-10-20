@@ -1,0 +1,33 @@
+{
+  "id": "tknrvh407",
+  "url": "https://constellation.church/tknrvh407",
+  "name": "St Paul's Evangelical Lutheran Church",
+  "displayName": "St. Paul's Evangelical Lutheran Church",
+  "address": {
+    "street": "28 Lincoln Ave",
+    "city": "Pittsford",
+    "state": "NY",
+    "zip": "14534-1924"
+  },
+  "coordinates": {
+    "latitude": 43.09025955200195,
+    "longitude": -77.51826858520508
+  },
+  "website": "https://stpaulspittsford.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f746eb81-e34a-46f9-8227-ee41cfe26b81",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f746eb81-e34a-46f9-8227-ee41cfe26b81"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulspittsford.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161142565"
+    }
+  ],
+  "advisories": []
+}

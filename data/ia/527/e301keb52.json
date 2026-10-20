@@ -1,0 +1,33 @@
+{
+  "id": "e301keb52",
+  "url": "https://constellation.church/e301keb52",
+  "name": "Hope City Church",
+  "displayName": "Hope City Church",
+  "address": {
+    "street": "2119 Garfield St",
+    "city": "Clinton",
+    "state": "IA",
+    "zip": "52732"
+  },
+  "coordinates": {
+    "latitude": 41.86812210083008,
+    "longitude": -90.19134521484375
+  },
+  "website": "https://hopecityclinton.com",
+  "listingUrl": "https://churches.sbc.net/church/hope-city-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hope-city-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopecityclinton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850954066"
+    }
+  ],
+  "advisories": []
+}

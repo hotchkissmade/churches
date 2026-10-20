@@ -1,0 +1,33 @@
+{
+  "id": "h116yz203",
+  "url": "https://constellation.church/h116yz203",
+  "name": "Bethany Lutheran Church",
+  "displayName": "Bethany Lutheran Church",
+  "address": {
+    "street": "703 Broadway St",
+    "city": "Emmetsburg",
+    "state": "IA",
+    "zip": "50536-2419"
+  },
+  "coordinates": {
+    "latitude": 43.11352729797363,
+    "longitude": -94.6792221069336
+  },
+  "website": "https://bethanylutheranemmetsburg.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e7f9dcec-48da-439c-ae57-d4ef5f0acc8d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e7f9dcec-48da-439c-ae57-d4ef5f0acc8d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanylutheranemmetsburg.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420752634"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ey82k3s71",
+  "url": "https://constellation.church/ey82k3s71",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "1397 Thompson Bridge Rd",
+    "city": "Gainesville",
+    "state": "GA",
+    "zip": "30501"
+  },
+  "coordinates": {
+    "latitude": 34.320573806762695,
+    "longitude": -83.83306884765625
+  },
+  "website": "https://wcpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1112",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1112"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wcpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581554288"
+    }
+  ],
+  "advisories": []
+}

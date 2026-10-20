@@ -1,0 +1,33 @@
+{
+  "id": "phzh1nc48",
+  "url": "https://constellation.church/phzh1nc48",
+  "name": "Arlington Hills Lutheran Church",
+  "displayName": "Arlington Hills Lutheran Church",
+  "address": {
+    "street": "1115 Greenbrier St",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip": "55106-2540"
+  },
+  "coordinates": {
+    "latitude": 44.97521209716797,
+    "longitude": -93.07118225097656
+  },
+  "website": "https://ahlc-stp.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8cddb31b-d12b-411c-a86c-b261829b4b03",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8cddb31b-d12b-411c-a86c-b261829b4b03"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ahlc-stp.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410693955"
+    }
+  ],
+  "advisories": []
+}

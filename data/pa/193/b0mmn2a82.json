@@ -1,0 +1,33 @@
+{
+  "id": "b0mmn2a82",
+  "url": "https://constellation.church/b0mmn2a82",
+  "name": "Oxford Presbyterian Church",
+  "displayName": "Oxford Presbyterian Church",
+  "address": {
+    "street": "6 Pine St",
+    "city": "Oxford",
+    "state": "PA",
+    "zip": "19363"
+  },
+  "coordinates": {
+    "latitude": 39.7854118347168,
+    "longitude": -75.9797477722168
+  },
+  "website": "https://oxfordpresbyterian.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/9588/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "9588"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oxfordpresbyterian.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231417526"
+    }
+  ],
+  "advisories": []
+}

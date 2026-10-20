@@ -1,0 +1,33 @@
+{
+  "id": "hsj6k8636",
+  "url": "https://constellation.church/hsj6k8636",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "1302 W Pierce St",
+    "city": "Carlsbad",
+    "state": "NM",
+    "zip": "88220-4019"
+  },
+  "coordinates": {
+    "latitude": 32.43633842468262,
+    "longitude": -104.24507904052734
+  },
+  "website": "https://splcnm.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=64e9e4d9-1222-4f35-aa91-a8d96a5ec275",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "64e9e4d9-1222-4f35-aa91-a8d96a5ec275"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "splcnm.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850267420"
+    }
+  ],
+  "advisories": []
+}

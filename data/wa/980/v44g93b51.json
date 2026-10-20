@@ -1,0 +1,33 @@
+{
+  "id": "v44g93b51",
+  "url": "https://constellation.church/v44g93b51",
+  "name": "Northwest Life Church",
+  "displayName": "Northwest Life Church",
+  "address": {
+    "street": "13120 SE 192nd St",
+    "city": "Renton",
+    "state": "WA",
+    "zip": "98058"
+  },
+  "coordinates": {
+    "latitude": 47.4309994,
+    "longitude": -122.1658928
+  },
+  "website": "https://nwlife.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=1cc5e4b4-fd42-486f-ae2b-5790d55a1720&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "1cc5e4b4-fd42-486f-ae2b-5790d55a1720"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nwlife.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911081345"
+    }
+  ],
+  "advisories": []
+}

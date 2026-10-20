@@ -1,0 +1,33 @@
+{
+  "id": "g1tjrzq45",
+  "url": "https://constellation.church/g1tjrzq45",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "1200 4th Ave",
+    "city": "Worthington",
+    "state": "MN",
+    "zip": "56187-2445"
+  },
+  "coordinates": {
+    "latitude": 43.62171936035156,
+    "longitude": -95.59428405761719
+  },
+  "website": "https://felcwgtn.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=55dd9514-da7d-49e1-983b-d3882445e520",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "55dd9514-da7d-49e1-983b-d3882445e520"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "felcwgtn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410721717"
+    }
+  ],
+  "advisories": []
+}

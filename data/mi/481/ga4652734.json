@@ -1,0 +1,33 @@
+{
+  "id": "ga4652734",
+  "url": "https://constellation.church/ga4652734",
+  "name": "St Luke's Lutheran Church",
+  "displayName": "St. Luke's Lutheran Church",
+  "address": {
+    "street": "1690 W Sterns Rd",
+    "city": "Temperance",
+    "state": "MI",
+    "zip": "48182-1511"
+  },
+  "coordinates": {
+    "latitude": 41.75052261352539,
+    "longitude": -83.58602142333984
+  },
+  "website": "https://stlukesbedford.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a78fbe61-89b1-441c-9018-75bff88ed996",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a78fbe61-89b1-441c-9018-75bff88ed996"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesbedford.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382501367"
+    }
+  ],
+  "advisories": []
+}

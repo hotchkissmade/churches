@@ -1,0 +1,33 @@
+{
+  "id": "q1s705b55",
+  "url": "https://constellation.church/q1s705b55",
+  "name": "St Matthews Lutheran Church",
+  "displayName": "St. Matthew's Lutheran Church",
+  "address": {
+    "street": "800 Roosevelt Ave",
+    "city": "Secaucus",
+    "state": "NJ",
+    "zip": "07094-3516"
+  },
+  "coordinates": {
+    "latitude": 40.78877258300781,
+    "longitude": -74.05522918701172
+  },
+  "website": "https://stmatthewsecaucus.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=988c73da-02d4-44c1-b5ff-ce68b659d33c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "988c73da-02d4-44c1-b5ff-ce68b659d33c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmatthewsecaucus.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "226046688"
+    }
+  ],
+  "advisories": []
+}

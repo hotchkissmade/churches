@@ -1,0 +1,33 @@
+{
+  "id": "pe8nta127",
+  "url": "https://constellation.church/pe8nta127",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "829 William Hilton Pkwy",
+    "city": "Hilton Head Island",
+    "state": "SC",
+    "zip": "29928-3416"
+  },
+  "coordinates": {
+    "latitude": 32.1752373,
+    "longitude": -80.7311456
+  },
+  "website": "https://clchhi.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c0de8362-aab0-4b91-b483-0663eded7687",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c0de8362-aab0-4b91-b483-0663eded7687"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clchhi.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570630675"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qe18wdb68",
+  "url": "https://constellation.church/qe18wdb68",
+  "name": "Christ the King Lutheran Church",
+  "displayName": "Christ the King Lutheran Church",
+  "address": {
+    "street": "1001 W Esplanade Ave",
+    "city": "Kenner",
+    "state": "LA",
+    "zip": "70065-2731"
+  },
+  "coordinates": {
+    "latitude": 30.020383834838867,
+    "longitude": -90.25435638427734
+  },
+  "website": "https://ctk-nola.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e54aa01b-8045-4be4-8bbf-9d6a2ea6e577",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e54aa01b-8045-4be4-8bbf-9d6a2ea6e577"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ctk-nola.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "726014476"
+    }
+  ],
+  "advisories": []
+}

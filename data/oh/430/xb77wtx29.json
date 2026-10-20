@@ -1,0 +1,33 @@
+{
+  "id": "xb77wtx29",
+  "url": "https://constellation.church/xb77wtx29",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "405 S Main St",
+    "city": "Pataskala",
+    "state": "OH",
+    "zip": "43062"
+  },
+  "coordinates": {
+    "latitude": 39.99454116821289,
+    "longitude": -82.67564010620117
+  },
+  "website": "https://fpcpataskala.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/6873/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "6873"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcpataskala.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311143651"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "k6sq1g257",
+  "url": "https://constellation.church/k6sq1g257",
+  "name": "Missoula Friends Meeting",
+  "displayName": "Missoula Friends Meeting",
+  "address": {
+    "street": "Missoula Friends Meeting House, 1861 S. 12th St W",
+    "city": "Missoula",
+    "state": "MT",
+    "zip": "59801"
+  },
+  "coordinates": {
+    "latitude": 46.85832595825195,
+    "longitude": -114.02603912353516
+  },
+  "website": "https://missoulaquakers.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/missoula-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "missoula-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "missoulaquakers.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810461509"
+    }
+  ],
+  "advisories": []
+}

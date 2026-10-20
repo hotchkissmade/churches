@@ -1,0 +1,37 @@
+{
+  "id": "bq1q2tz77",
+  "url": "https://constellation.church/bq1q2tz77",
+  "name": "The United Lutheran Presbyterian Parish",
+  "displayName": "The United Lutheran Presbyterian Parish",
+  "address": {
+    "street": "26 E Faville Ave",
+    "city": "Dolgeville",
+    "state": "NY",
+    "zip": "13329-1472"
+  },
+  "coordinates": {
+    "latitude": 43.0969123840332,
+    "longitude": -74.77306747436523
+  },
+  "website": "https://ulpp.org/ministry.html",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b71f35c4-1521-4fbe-b946-4f2b986558e3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b71f35c4-1521-4fbe-b946-4f2b986558e3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ulpp.org/ministry.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161560541"
+    },
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "6004"
+    }
+  ],
+  "advisories": []
+}

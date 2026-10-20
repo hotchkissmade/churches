@@ -1,0 +1,33 @@
+{
+  "id": "cx1fb1908",
+  "url": "https://constellation.church/cx1fb1908",
+  "name": "Church in Boston",
+  "displayName": "Church in Boston",
+  "address": {
+    "street": "156 E Cottage St",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02125"
+  },
+  "coordinates": {
+    "latitude": 42.32080078125,
+    "longitude": -71.06189727783203
+  },
+  "website": "https://churchinboston.org",
+  "listingUrl": "https://localchurches.org/churches/boston-ma-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "boston-ma-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinboston.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222880455"
+    }
+  ],
+  "advisories": []
+}

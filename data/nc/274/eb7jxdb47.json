@@ -1,0 +1,33 @@
+{
+  "id": "eb7jxdb47",
+  "url": "https://constellation.church/eb7jxdb47",
+  "name": "Lutheran Church of Our Father",
+  "displayName": "Lutheran Church of Our Father",
+  "address": {
+    "street": "3304 Groometown Rd",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27407-6520"
+  },
+  "coordinates": {
+    "latitude": 36.02173614501953,
+    "longitude": -79.8665542602539
+  },
+  "website": "https://ourfathergso.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4af7e2ea-c39a-4408-927d-378c8921b056",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4af7e2ea-c39a-4408-927d-378c8921b056"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ourfathergso.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561216775"
+    }
+  ],
+  "advisories": []
+}

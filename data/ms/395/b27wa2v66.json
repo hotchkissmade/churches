@@ -1,0 +1,33 @@
+{
+  "id": "b27wa2v66",
+  "url": "https://constellation.church/b27wa2v66",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "1340 Beach Boulevard",
+    "city": "Biloxi",
+    "state": "MS",
+    "zip": "39530"
+  },
+  "coordinates": {
+    "latitude": 30.395784378051758,
+    "longitude": -88.91657257080078
+  },
+  "website": "https://firstpresbiloxi.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/423",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "423"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpresbiloxi.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640410644"
+    }
+  ],
+  "advisories": []
+}

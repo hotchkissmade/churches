@@ -1,0 +1,33 @@
+{
+  "id": "ewm3ddd42",
+  "url": "https://constellation.church/ewm3ddd42",
+  "name": "Washington National Cathedral",
+  "displayName": "Washington National Cathedral",
+  "address": {
+    "street": "3101 Wisconsin Ave NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20016"
+  },
+  "coordinates": {
+    "latitude": 38.93058967590332,
+    "longitude": -77.0707893371582
+  },
+  "website": "https://edow.org/diocesan-convention",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/washington-national-cathedral",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/washington-national-cathedral"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "edow.org/diocesan-convention"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "530196608"
+    }
+  ],
+  "advisories": []
+}

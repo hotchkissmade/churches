@@ -1,0 +1,33 @@
+{
+  "id": "a4f8r9k14",
+  "url": "https://constellation.church/a4f8r9k14",
+  "name": "Malvern Hill Baptist Church",
+  "displayName": "Malvern Hill Baptist Church",
+  "address": {
+    "street": "1514 Malvern Hill Dr",
+    "city": "Camden",
+    "state": "SC",
+    "zip": "29020"
+  },
+  "coordinates": {
+    "latitude": 34.274885177612305,
+    "longitude": -80.5586051940918
+  },
+  "website": "https://malvernhill.org",
+  "listingUrl": "https://churches.sbc.net/church/malvern-hill-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "malvern-hill-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "malvernhill.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570427363"
+    }
+  ],
+  "advisories": []
+}

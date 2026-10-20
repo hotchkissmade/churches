@@ -1,0 +1,33 @@
+{
+  "id": "vncrrzp43",
+  "url": "https://constellation.church/vncrrzp43",
+  "name": "Federated United Methodist Church",
+  "displayName": "Federated United Methodist Church",
+  "address": {
+    "street": "452 East Main St",
+    "city": "West Winfield",
+    "state": "NY",
+    "zip": "13491"
+  },
+  "coordinates": {
+    "latitude": 42.88484573364258,
+    "longitude": -75.18965911865234
+  },
+  "website": "https://westwinfieldfederatedchurch.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFNeoIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFNeoIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westwinfieldfederatedchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "150626274"
+    }
+  ],
+  "advisories": []
+}

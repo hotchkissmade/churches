@@ -1,0 +1,33 @@
+{
+  "id": "bgtej3s91",
+  "url": "https://constellation.church/bgtej3s91",
+  "name": "Titusville United Methodist Church (TUMC)",
+  "displayName": "Titusville United Methodist Church (TUMC)",
+  "address": {
+    "street": "7 Church Rd",
+    "city": "Titusville",
+    "state": "NJ",
+    "zip": "08560-1804"
+  },
+  "coordinates": {
+    "latitude": 40.30940818786621,
+    "longitude": -74.88043212890625
+  },
+  "website": "https://titusvilleumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFEERIA5",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFEERIA5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "titusvilleumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222482144"
+    }
+  ],
+  "advisories": []
+}

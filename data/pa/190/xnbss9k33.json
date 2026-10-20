@@ -1,0 +1,33 @@
+{
+  "id": "xnbss9k33",
+  "url": "https://constellation.church/xnbss9k33",
+  "name": "St. James Church Episcopal",
+  "displayName": "St. James Church Episcopal",
+  "address": {
+    "street": "732 11th Ave",
+    "city": "Prospect Park",
+    "state": "PA",
+    "zip": "19076-1313"
+  },
+  "coordinates": {
+    "latitude": 39.8870849609375,
+    "longitude": -75.30878448486328
+  },
+  "website": "https://stjamesprospectpark.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/st-james-church-episcopal",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/st-james-church-episcopal"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamesprospectpark.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231599654"
+    }
+  ],
+  "advisories": []
+}

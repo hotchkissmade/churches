@@ -1,0 +1,33 @@
+{
+  "id": "dq7gpdx26",
+  "url": "https://constellation.church/dq7gpdx26",
+  "name": "Lutheran Church Of Peace",
+  "displayName": "Lutheran Church Of Peace",
+  "address": {
+    "street": "47 Century Ave S",
+    "city": "Maplewood",
+    "state": "MN",
+    "zip": "55119-5202"
+  },
+  "coordinates": {
+    "latitude": 44.93998336791992,
+    "longitude": -92.98490905761719
+  },
+  "website": "https://lcpeace.org/aboutus",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1a19167e-e8e4-459c-8182-7e7c16a47683",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1a19167e-e8e4-459c-8182-7e7c16a47683"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcpeace.org/aboutus"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411237299"
+    }
+  ],
+  "advisories": []
+}

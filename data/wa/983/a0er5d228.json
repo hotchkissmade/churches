@@ -1,0 +1,33 @@
+{
+  "id": "a0er5d228",
+  "url": "https://constellation.church/a0er5d228",
+  "name": "Elim Lutheran Church",
+  "displayName": "Elim Lutheran Church",
+  "address": {
+    "street": "5911 E Hillcrest Dr",
+    "city": "Port Orchard",
+    "state": "WA",
+    "zip": "98366-8149"
+  },
+  "coordinates": {
+    "latitude": 47.56324005126953,
+    "longitude": -122.57388305664062
+  },
+  "website": "https://elimlutheranportorchard.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e7c4c3ae-46cf-445c-9417-3d08d706acd5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e7c4c3ae-46cf-445c-9417-3d08d706acd5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elimlutheranportorchard.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910828800"
+    }
+  ],
+  "advisories": []
+}

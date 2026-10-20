@@ -1,0 +1,33 @@
+{
+  "id": "rcp96ak66",
+  "url": "https://constellation.church/rcp96ak66",
+  "name": "Salem Allegheny Wesleyan Methodist Church",
+  "displayName": "Salem Allegheny Wesleyan Methodist Church",
+  "address": {
+    "street": "1095 Newgarden Avenue",
+    "city": "Salem",
+    "state": "OH",
+    "zip": "44460"
+  },
+  "coordinates": {
+    "latitude": 40.89097785949707,
+    "longitude": -80.86854934692383
+  },
+  "website": "https://salemwmchurch.org",
+  "listingUrl": "https://awmc.org/churches-sales/",
+  "identifiers": [
+    {
+      "namespace": "org.awmc.id",
+      "value": "sales"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemwmchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341435112"
+    }
+  ],
+  "advisories": []
+}

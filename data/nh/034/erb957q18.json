@@ -1,0 +1,33 @@
+{
+  "id": "erb957q18",
+  "url": "https://constellation.church/erb957q18",
+  "name": "Advent Lutheran Church",
+  "displayName": "Advent Lutheran Church",
+  "address": {
+    "street": "137 Us 202",
+    "city": "Rindge",
+    "state": "NH",
+    "zip": "03461"
+  },
+  "coordinates": {
+    "latitude": 42.7830867767334,
+    "longitude": -72.03352737426758
+  },
+  "website": "https://adventlutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=920da69a-c193-4fb1-ab7d-c03eb6dcdaf4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "920da69a-c193-4fb1-ab7d-c03eb6dcdaf4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "adventlutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222508301"
+    }
+  ],
+  "advisories": []
+}

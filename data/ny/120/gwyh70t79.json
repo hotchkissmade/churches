@@ -1,0 +1,33 @@
+{
+  "id": "gwyh70t79",
+  "url": "https://constellation.church/gwyh70t79",
+  "name": "Bethany Lutheran Church",
+  "displayName": "Bethany Lutheran Church",
+  "address": {
+    "street": "185 Church St",
+    "city": "Central Bridge",
+    "state": "NY",
+    "zip": "12035"
+  },
+  "coordinates": {
+    "latitude": 42.7092342376709,
+    "longitude": -74.33771514892578
+  },
+  "website": "https://bethanycentralbridge.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a0edf29e-bd3e-433e-bbff-6ab28daba12b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a0edf29e-bd3e-433e-bbff-6ab28daba12b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanycentralbridge.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "141617599"
+    }
+  ],
+  "advisories": []
+}

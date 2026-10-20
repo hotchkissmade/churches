@@ -1,0 +1,33 @@
+{
+  "id": "wtm5qed43",
+  "url": "https://constellation.church/wtm5qed43",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "520 US Highway 41",
+    "city": "Negaunee",
+    "state": "MI",
+    "zip": "49866-1548"
+  },
+  "coordinates": {
+    "latitude": 46.50969696044922,
+    "longitude": -87.60649871826172
+  },
+  "website": "https://ilcneg.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=03a541ef-8a3b-4dea-b0b0-dc3555a23cd9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "03a541ef-8a3b-4dea-b0b0-dc3555a23cd9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ilcneg.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381738683"
+    }
+  ],
+  "advisories": []
+}

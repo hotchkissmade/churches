@@ -1,0 +1,33 @@
+{
+  "id": "d18atq262",
+  "url": "https://constellation.church/d18atq262",
+  "name": "Lake Murray Baptist Church",
+  "displayName": "Lake Murray Baptist Church",
+  "address": {
+    "street": "1001 Highway 378",
+    "city": "Lexington",
+    "state": "SC",
+    "zip": "29072"
+  },
+  "coordinates": {
+    "latitude": 33.99450492858887,
+    "longitude": -81.31533432006836
+  },
+  "website": "https://lakemurraybc.org",
+  "listingUrl": "https://churches.sbc.net/church/lake-murray-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lake-murray-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lakemurraybc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570744388"
+    }
+  ],
+  "advisories": []
+}

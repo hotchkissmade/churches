@@ -1,0 +1,33 @@
+{
+  "id": "fnp793k22",
+  "url": "https://constellation.church/fnp793k22",
+  "name": "St. David's Episcopal Church",
+  "displayName": "St. David's Episcopal Church",
+  "address": {
+    "street": "301 E 8th St",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701-3280"
+  },
+  "coordinates": {
+    "latitude": 30.2687931060791,
+    "longitude": -97.73949432373047
+  },
+  "website": "https://stdave.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-texas/list/st-davids-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-texas/st-davids-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stdave.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741238435"
+    }
+  ],
+  "advisories": []
+}

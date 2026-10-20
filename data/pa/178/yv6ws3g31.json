@@ -1,0 +1,33 @@
+{
+  "id": "yv6ws3g31",
+  "url": "https://constellation.church/yv6ws3g31",
+  "name": "Elysburg Presbyterian Church",
+  "displayName": "Elysburg Presbyterian Church",
+  "address": {
+    "street": "320 W Valley Ave",
+    "city": "Elysburg",
+    "state": "PA",
+    "zip": "17824"
+  },
+  "coordinates": {
+    "latitude": 40.859209060668945,
+    "longitude": -76.55766677856445
+  },
+  "website": "https://elysburgpres.org",
+  "listingUrl": "https://eco-pres.org/churches/elysburg-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "elysburg-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elysburgpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232131478"
+    }
+  ],
+  "advisories": []
+}

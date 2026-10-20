@@ -1,0 +1,33 @@
+{
+  "id": "j0rmff235",
+  "url": "https://constellation.church/j0rmff235",
+  "name": "St. Paul's Episcopal Church",
+  "displayName": "St. Paul's Episcopal Church",
+  "address": {
+    "street": "1300 N 18th St",
+    "city": "Kansas City",
+    "state": "KS",
+    "zip": "66102-2798"
+  },
+  "coordinates": {
+    "latitude": 39.11899757385254,
+    "longitude": -94.6496353149414
+  },
+  "website": "https://es.stpaulskck.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-kansas/list/st-pauls-episcopal-church-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-kansas/st-pauls-episcopal-church-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "es.stpaulskck.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480547731"
+    }
+  ],
+  "advisories": []
+}

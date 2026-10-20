@@ -1,0 +1,33 @@
+{
+  "id": "kz2kt3z38",
+  "url": "https://constellation.church/kz2kt3z38",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "916 Main St",
+    "city": "Williston",
+    "state": "ND",
+    "zip": "58801-5324"
+  },
+  "coordinates": {
+    "latitude": 48.153011322021484,
+    "longitude": -103.6226806640625
+  },
+  "website": "https://flcwilliston.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b71c4b21-3e48-4b52-9ef4-21f759b8db96",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b71c4b21-3e48-4b52-9ef4-21f759b8db96"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcwilliston.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450242987"
+    }
+  ],
+  "advisories": []
+}

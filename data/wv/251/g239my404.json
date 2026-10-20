@@ -1,0 +1,33 @@
+{
+  "id": "g239my404",
+  "url": "https://constellation.church/g239my404",
+  "name": "Covenant Presbyterian Church",
+  "displayName": "Covenant Presbyterian Church",
+  "address": {
+    "street": "424 Cross Lanes Drive",
+    "city": "Nitro",
+    "state": "WV",
+    "zip": "25143"
+  },
+  "coordinates": {
+    "latitude": 38.43160820007324,
+    "longitude": -81.8111343383789
+  },
+  "website": "https://covenantpcawv.church",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/274",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "274"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covenantpcawv.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "550068650"
+    }
+  ],
+  "advisories": []
+}

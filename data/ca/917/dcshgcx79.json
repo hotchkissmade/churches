@@ -1,0 +1,33 @@
+{
+  "id": "dcshgcx79",
+  "url": "https://constellation.church/dcshgcx79",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "2108 N Euclid Ave",
+    "city": "Upland",
+    "state": "CA",
+    "zip": "91784-1409"
+  },
+  "coordinates": {
+    "latitude": 34.14006805419922,
+    "longitude": -117.65096282958984
+  },
+  "website": "https://graceupland.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c35218b2-d80d-4cb2-9ee8-a40a270a0d47",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c35218b2-d80d-4cb2-9ee8-a40a270a0d47"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceupland.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953624007"
+    }
+  ],
+  "advisories": []
+}

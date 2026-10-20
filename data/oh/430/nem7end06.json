@@ -1,0 +1,33 @@
+{
+  "id": "nem7end06",
+  "url": "https://constellation.church/nem7end06",
+  "name": "Simple Church Ohio",
+  "displayName": "Simple Church Ohio",
+  "address": {
+    "street": "3043 Gender Rd",
+    "city": "Reynoldsburg",
+    "state": "OH",
+    "zip": "43068"
+  },
+  "coordinates": {
+    "latitude": 39.92013168334961,
+    "longitude": -82.82711029052734
+  },
+  "website": "https://mysimplechurch.churchcenter.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=8582fd64-0375-48ac-9c6d-b1c6f1bd8159&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "8582fd64-0375-48ac-9c6d-b1c6f1bd8159"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mysimplechurch.churchcenter.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "461890638"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "b5wnz1e38",
+  "url": "https://constellation.church/b5wnz1e38",
+  "name": "St. Paul's Episcopal Day School",
+  "displayName": "St. Paul's Episcopal Day School",
+  "address": {
+    "street": "4041 Main Street",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64111"
+  },
+  "coordinates": {
+    "latitude": 39.0526545,
+    "longitude": -94.585649
+  },
+  "website": "https://speds.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/west-missouri/list/st-pauls-episcopal-day-school",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "west-missouri/st-pauls-episcopal-day-school"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "speds.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430799151"
+    }
+  ],
+  "advisories": []
+}

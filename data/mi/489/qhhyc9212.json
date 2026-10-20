@@ -1,0 +1,33 @@
+{
+  "id": "qhhyc9212",
+  "url": "https://constellation.church/qhhyc9212",
+  "name": "Redeemer Lutheran Church",
+  "displayName": "Redeemer Lutheran Church",
+  "address": {
+    "street": "2727 W Holmes Rd",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "48911-2353"
+  },
+  "coordinates": {
+    "latitude": 42.69722366333008,
+    "longitude": -84.58860397338867
+  },
+  "website": "https://redeemerlansing.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=64d7fe97-3f9f-4cc6-9194-a7e60d757af2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "64d7fe97-3f9f-4cc6-9194-a7e60d757af2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerlansing.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382520361"
+    }
+  ],
+  "advisories": []
+}

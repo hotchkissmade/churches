@@ -1,0 +1,33 @@
+{
+  "id": "h1bnvcf91",
+  "url": "https://constellation.church/h1bnvcf91",
+  "name": "Kent Lutheran Church",
+  "displayName": "Kent Lutheran Church",
+  "address": {
+    "street": "336 2nd Ave S",
+    "city": "Kent",
+    "state": "WA",
+    "zip": "98032-5849"
+  },
+  "coordinates": {
+    "latitude": 47.3790340423584,
+    "longitude": -122.23475646972656
+  },
+  "website": "https://kentlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ea0b683c-769f-4ff2-aff1-3078ef14f9db",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ea0b683c-769f-4ff2-aff1-3078ef14f9db"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kentlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910721842"
+    }
+  ],
+  "advisories": []
+}

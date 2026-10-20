@@ -1,0 +1,33 @@
+{
+  "id": "r9dypje36",
+  "url": "https://constellation.church/r9dypje36",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "3515 E Van Norman Ave",
+    "city": "Cudahy",
+    "state": "WI",
+    "zip": "53110-1105"
+  },
+  "coordinates": {
+    "latitude": 42.962575912475586,
+    "longitude": -87.86212158203125
+  },
+  "website": "https://stmarks-elca-cudahy.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=213e727d-709c-469f-8cdf-2df71a14baa8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "213e727d-709c-469f-8cdf-2df71a14baa8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarks-elca-cudahy.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390964584"
+    }
+  ],
+  "advisories": []
+}

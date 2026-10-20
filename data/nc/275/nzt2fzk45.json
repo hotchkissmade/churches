@@ -1,0 +1,33 @@
+{
+  "id": "nzt2fzk45",
+  "url": "https://constellation.church/nzt2fzk45",
+  "name": "Salem Baptist Church",
+  "displayName": "Salem Baptist Church",
+  "address": {
+    "street": "1205 Salem Church Rd",
+    "city": "Apex",
+    "state": "NC",
+    "zip": "27523"
+  },
+  "coordinates": {
+    "latitude": 35.75406837463379,
+    "longitude": -78.84477233886719
+  },
+  "website": "https://salemapex.org",
+  "listingUrl": "https://churches.sbc.net/church/salem-baptist-church-37/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "salem-baptist-church-37"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemapex.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561056333"
+    }
+  ],
+  "advisories": []
+}

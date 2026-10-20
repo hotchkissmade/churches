@@ -1,0 +1,33 @@
+{
+  "id": "zx3fpea05",
+  "url": "https://constellation.church/zx3fpea05",
+  "name": "Poolesville Baptist Church",
+  "displayName": "Poolesville Baptist Church",
+  "address": {
+    "street": "17550 W Willard Rd",
+    "city": "Poolesville",
+    "state": "MD",
+    "zip": "20837"
+  },
+  "coordinates": {
+    "latitude": 39.14432716369629,
+    "longitude": -77.41999053955078
+  },
+  "website": "https://poolesvillebaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/poolesville-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "poolesville-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "poolesvillebaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521089010"
+    }
+  ],
+  "advisories": []
+}

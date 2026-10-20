@@ -1,0 +1,33 @@
+{
+  "id": "wsq37q963",
+  "url": "https://constellation.church/wsq37q963",
+  "name": "St Lukes Episcopal Church",
+  "displayName": "St. Luke's Episcopal Church",
+  "address": {
+    "street": "1737 Hillandale Rd",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27705-3045"
+  },
+  "coordinates": {
+    "latitude": 36.027029037475586,
+    "longitude": -78.93673706054688
+  },
+  "website": "https://stlukesdurham.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-north-carolina/list/st-lukes-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-north-carolina/st-lukes-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesdurham.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "566033279"
+    }
+  ],
+  "advisories": []
+}

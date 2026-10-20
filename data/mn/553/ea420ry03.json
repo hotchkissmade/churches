@@ -1,0 +1,33 @@
+{
+  "id": "ea420ry03",
+  "url": "https://constellation.church/ea420ry03",
+  "name": "Riverdale",
+  "displayName": "Riverdale",
+  "address": {
+    "street": "3210 Bunker Lake Blvd NW",
+    "city": "Andover",
+    "state": "MN",
+    "zip": "55304"
+  },
+  "coordinates": {
+    "latitude": 45.21817207336426,
+    "longitude": -93.34803771972656
+  },
+  "website": "https://riverdalechurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=56e8ff39-4f72-49aa-abcb-0090cccaa7d1&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "56e8ff39-4f72-49aa-abcb-0090cccaa7d1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "riverdalechurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411437200"
+    }
+  ],
+  "advisories": []
+}

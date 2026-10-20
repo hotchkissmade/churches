@@ -1,0 +1,33 @@
+{
+  "id": "rj43tcv41",
+  "url": "https://constellation.church/rj43tcv41",
+  "name": "Seven Locks Baptist Church",
+  "displayName": "Seven Locks Baptist Church",
+  "address": {
+    "street": "11845 Seven Locks Rd",
+    "city": "Potomac",
+    "state": "MD",
+    "zip": "20854"
+  },
+  "coordinates": {
+    "latitude": 39.051918029785156,
+    "longitude": -77.16360473632812
+  },
+  "website": "https://sevenlocksbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/seven-locks-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "seven-locks-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sevenlocksbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521105335"
+    }
+  ],
+  "advisories": []
+}

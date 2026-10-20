@@ -1,0 +1,33 @@
+{
+  "id": "b261n6e88",
+  "url": "https://constellation.church/b261n6e88",
+  "name": "Cassatt Baptist Church",
+  "displayName": "Cassatt Baptist Church",
+  "address": {
+    "street": "2604 Highway 1 N",
+    "city": "Cassatt",
+    "state": "SC",
+    "zip": "29032"
+  },
+  "coordinates": {
+    "latitude": 34.36554527282715,
+    "longitude": -80.43475723266602
+  },
+  "website": "https://cassattbc.org",
+  "listingUrl": "https://churches.sbc.net/church/cassatt-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cassatt-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cassattbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570760334"
+    }
+  ],
+  "advisories": []
+}

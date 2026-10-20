@@ -1,0 +1,33 @@
+{
+  "id": "mr2pfpk53",
+  "url": "https://constellation.church/mr2pfpk53",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "340 New London Tpke",
+    "city": "Norwich",
+    "state": "CT",
+    "zip": "06360"
+  },
+  "coordinates": {
+    "latitude": 41.52622604370117,
+    "longitude": -72.10226821899414
+  },
+  "website": "https://norwichag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=63a6961b-8533-45ed-b982-17c337c2fcd0&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "63a6961b-8533-45ed-b982-17c337c2fcd0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "norwichag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "061060949"
+    }
+  ],
+  "advisories": []
+}

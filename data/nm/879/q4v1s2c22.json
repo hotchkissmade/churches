@@ -1,0 +1,33 @@
+{
+  "id": "q4v1s2c22",
+  "url": "https://constellation.church/q4v1s2c22",
+  "name": "Church at the Butte",
+  "displayName": "Church at the Butte",
+  "address": {
+    "street": "516 Butte Blvd",
+    "city": "Elephant Btte",
+    "state": "NM",
+    "zip": "87935"
+  },
+  "coordinates": {
+    "latitude": 33.1865177154541,
+    "longitude": -107.22205352783203
+  },
+  "website": "https://churchatthebutte.com",
+  "listingUrl": "https://churches.sbc.net/church/church-at-the-butte-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "church-at-the-butte-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchatthebutte.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850465609"
+    }
+  ],
+  "advisories": []
+}

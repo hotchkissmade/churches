@@ -1,0 +1,33 @@
+{
+  "id": "rtya0xa11",
+  "url": "https://constellation.church/rtya0xa11",
+  "name": "Rye Presbyterian Church",
+  "displayName": "Rye Presbyterian Church",
+  "address": {
+    "street": "882 Boston Post Rd",
+    "city": "Rye",
+    "state": "NY",
+    "zip": "10580-2736"
+  },
+  "coordinates": {
+    "latitude": 40.9742317199707,
+    "longitude": -73.68611526489258
+  },
+  "website": "https://ryepc.com/about-rpc/our-history",
+  "listingUrl": "https://church-trends.pcusa.org/church/6075/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "6075"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ryepc.com/about-rpc/our-history"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "131740299"
+    }
+  ],
+  "advisories": []
+}

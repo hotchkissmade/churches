@@ -1,0 +1,33 @@
+{
+  "id": "xysy9tq83",
+  "url": "https://constellation.church/xysy9tq83",
+  "name": "Casa Viva Church",
+  "displayName": "Casa Viva Church",
+  "address": {
+    "street": "5249 Central Ave",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28212"
+  },
+  "coordinates": {
+    "latitude": 35.21013832092285,
+    "longitude": -80.75490951538086
+  },
+  "website": "https://casavivachurch.com",
+  "listingUrl": "https://churches.sbc.net/church/casa-viva-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "casa-viva-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "casavivachurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "830963499"
+    }
+  ],
+  "advisories": []
+}

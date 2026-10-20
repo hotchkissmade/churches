@@ -1,0 +1,33 @@
+{
+  "id": "seny10x58",
+  "url": "https://constellation.church/seny10x58",
+  "name": "Gorham United Methodist Church",
+  "displayName": "Gorham United Methodist Church",
+  "address": {
+    "street": "5600 S Indiana Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60637"
+  },
+  "coordinates": {
+    "latitude": 41.792724609375,
+    "longitude": -87.62091064453125
+  },
+  "website": "https://gorhamumc.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKIxIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKIxIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gorhamumc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362593127"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "r7tqp8q54",
+  "url": "https://constellation.church/r7tqp8q54",
+  "name": "Overbrook Baptist Church",
+  "displayName": "Overbrook Baptist Church",
+  "address": {
+    "street": "1705 E North St",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29607"
+  },
+  "coordinates": {
+    "latitude": 34.86138725280762,
+    "longitude": -82.37306594848633
+  },
+  "website": "https://overbrook.church",
+  "listingUrl": "https://churches.sbc.net/church/overbrook-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "overbrook-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "overbrook.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570381874"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "h27wqer06",
+  "url": "https://constellation.church/h27wqer06",
+  "name": "The Christian Assembly",
+  "displayName": "The Christian Assembly",
+  "address": {
+    "street": "850 Williams St",
+    "city": "Pittsfield",
+    "state": "MA",
+    "zip": "01201"
+  },
+  "coordinates": {
+    "latitude": 42.43030548095703,
+    "longitude": -73.20881652832031
+  },
+  "website": "https://caberkshires.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=2d58a571-04e2-4487-95c2-521b1a743f12&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "2d58a571-04e2-4487-95c2-521b1a743f12"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "caberkshires.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510145611"
+    }
+  ],
+  "advisories": []
+}

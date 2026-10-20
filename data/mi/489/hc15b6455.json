@@ -1,0 +1,33 @@
+{
+  "id": "hc15b6455",
+  "url": "https://constellation.church/hc15b6455",
+  "name": "St. David's Church",
+  "displayName": "St. David's Church",
+  "address": {
+    "street": "1519 Elmwood Rd",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "48917-1543"
+  },
+  "coordinates": {
+    "latitude": 42.75143623352051,
+    "longitude": -84.62301635742188
+  },
+  "website": "https://stdavidslansing.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-western-michigan/list/st-davids-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-western-michigan/st-davids-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stdavidslansing.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237410392"
+    }
+  ],
+  "advisories": []
+}

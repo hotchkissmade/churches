@@ -1,0 +1,33 @@
+{
+  "id": "pc9xtq930",
+  "url": "https://constellation.church/pc9xtq930",
+  "name": "Providence Church",
+  "displayName": "Providence Church",
+  "address": {
+    "street": "5473 Lee St Unit 203",
+    "city": "Lehigh Acres",
+    "state": "FL",
+    "zip": "33971"
+  },
+  "coordinates": {
+    "latitude": 26.6176815032959,
+    "longitude": -81.74615097045898
+  },
+  "website": "https://providenceswfl.com",
+  "listingUrl": "https://churches.sbc.net/church/providence-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "providence-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "providenceswfl.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "454153284"
+    }
+  ],
+  "advisories": []
+}

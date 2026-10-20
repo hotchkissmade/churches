@@ -1,0 +1,33 @@
+{
+  "id": "dm3k3am46",
+  "url": "https://constellation.church/dm3k3am46",
+  "name": "Choupique Baptist Church",
+  "displayName": "Choupique Baptist Church",
+  "address": {
+    "street": "7106 Choupique Rd",
+    "city": "Sulphur",
+    "state": "LA",
+    "zip": "70665"
+  },
+  "coordinates": {
+    "latitude": 30.137197494506836,
+    "longitude": -93.43411636352539
+  },
+  "website": "https://careyassoc.org",
+  "listingUrl": "https://churches.sbc.net/church/choupique-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "choupique-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "careyassoc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720736366"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tt0m33g72",
+  "url": "https://constellation.church/tt0m33g72",
+  "name": "Apostolic Christian Church of West Lafayette",
+  "displayName": "Apostolic Christian Church of West Lafayette",
+  "address": {
+    "street": "6101 N. 75 E.",
+    "city": "West Lafayette",
+    "state": "IN",
+    "zip": "47906"
+  },
+  "coordinates": {
+    "latitude": 40.50552749633789,
+    "longitude": -86.89097595214844
+  },
+  "website": "https://wlacchurch.org",
+  "listingUrl": "https://www.apostolicchristian.org/congregations/west-lafayette",
+  "identifiers": [
+    {
+      "namespace": "org.apostolicchristian.id",
+      "value": "west-lafayette"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wlacchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820581281"
+    }
+  ],
+  "advisories": []
+}

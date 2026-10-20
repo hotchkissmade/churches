@@ -1,0 +1,33 @@
+{
+  "id": "b0v80dw48",
+  "url": "https://constellation.church/b0v80dw48",
+  "name": "Dayspring Baptist Church",
+  "displayName": "Dayspring Baptist Church",
+  "address": {
+    "street": "2200 Cody Rd S",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36695"
+  },
+  "coordinates": {
+    "latitude": 30.64496612548828,
+    "longitude": -88.20958709716797
+  },
+  "website": "https://dayspring.church/students",
+  "listingUrl": "https://churches.sbc.net/church/dayspring-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "dayspring-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dayspring.church/students"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "383162364"
+    }
+  ],
+  "advisories": []
+}

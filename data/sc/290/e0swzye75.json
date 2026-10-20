@@ -1,0 +1,33 @@
+{
+  "id": "e0swzye75",
+  "url": "https://constellation.church/e0swzye75",
+  "name": "Round Hill Baptist Church",
+  "displayName": "Round Hill Baptist Church",
+  "address": {
+    "street": "230 Persimmon Ln",
+    "city": "Lexington",
+    "state": "SC",
+    "zip": "29072"
+  },
+  "coordinates": {
+    "latitude": 33.93318748474121,
+    "longitude": -81.31060791015625
+  },
+  "website": "https://rhbcsc.com",
+  "listingUrl": "https://churches.sbc.net/church/round-hill-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "round-hill-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rhbcsc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570688739"
+    }
+  ],
+  "advisories": []
+}

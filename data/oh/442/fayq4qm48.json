@@ -1,0 +1,33 @@
+{
+  "id": "fayq4qm48",
+  "url": "https://constellation.church/fayq4qm48",
+  "name": "St. John's Episcopal Church",
+  "displayName": "St. John's Episcopal Church",
+  "address": {
+    "street": "2220 2nd St",
+    "city": "Cuyahoga Falls",
+    "state": "OH",
+    "zip": "44221"
+  },
+  "coordinates": {
+    "latitude": 41.1369514465332,
+    "longitude": -81.48444366455078
+  },
+  "website": "https://stjohnscf.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-ohio/list/st-johns-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-ohio/st-johns-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnscf.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340801315"
+    }
+  ],
+  "advisories": []
+}

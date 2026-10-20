@@ -1,0 +1,33 @@
+{
+  "id": "nap1a2j42",
+  "url": "https://constellation.church/nap1a2j42",
+  "name": "The River Church",
+  "displayName": "The River Church",
+  "address": {
+    "street": "201 E Broadway Anaheim",
+    "city": null,
+    "state": "CA",
+    "zip": "92805"
+  },
+  "coordinates": {
+    "latitude": 33.834054946899414,
+    "longitude": -117.9116439819336
+  },
+  "website": "https://river-arena.org/english",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=c7f2e42c-ccf9-4b3f-aa0c-ed380f5d3c94&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "c7f2e42c-ccf9-4b3f-aa0c-ed380f5d3c94"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "river-arena.org/english"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "472956760"
+    }
+  ],
+  "advisories": []
+}

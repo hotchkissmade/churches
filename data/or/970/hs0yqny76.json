@@ -1,0 +1,37 @@
+{
+  "id": "hs0yqny76",
+  "url": "https://constellation.church/hs0yqny76",
+  "name": "St Andrew Lutheran Church",
+  "displayName": "St. Andrew Lutheran Church",
+  "address": {
+    "street": "12405 SW Butner Rd",
+    "city": "Beaverton",
+    "state": "OR",
+    "zip": "97005-0864"
+  },
+  "coordinates": {
+    "latitude": 45.51356887817383,
+    "longitude": -122.80457305908203
+  },
+  "website": "https://standrewlutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=af80522e-c92d-43d9-a844-1b3122a955de",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "af80522e-c92d-43d9-a844-1b3122a955de"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewlutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930627207"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "931055462"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nrgvm2363",
+  "url": "https://constellation.church/nrgvm2363",
+  "name": "Blue Lake Baptist Church",
+  "displayName": "Blue Lake Baptist Church",
+  "address": {
+    "street": "1405 Blue Lake Rd",
+    "city": "Chipley",
+    "state": "FL",
+    "zip": "32428"
+  },
+  "coordinates": {
+    "latitude": 30.74514389038086,
+    "longitude": -85.55033874511719
+  },
+  "website": "https://bluelakechipley.com",
+  "listingUrl": "https://churches.sbc.net/church/blue-lake-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "blue-lake-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bluelakechipley.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593412845"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "brg099r60",
+  "url": "https://constellation.church/brg099r60",
+  "name": "Kingsville Baptist Church",
+  "displayName": "Kingsville Baptist Church",
+  "address": {
+    "street": "203 W Adriatic St",
+    "city": "Kingsville",
+    "state": "MO",
+    "zip": "64061"
+  },
+  "coordinates": {
+    "latitude": 38.74085998535156,
+    "longitude": -94.07342529296875
+  },
+  "website": "https://kingsvillebaptistchurch.net",
+  "listingUrl": "https://churches.sbc.net/church/kingsville-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "kingsville-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kingsvillebaptistchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431094919"
+    }
+  ],
+  "advisories": []
+}

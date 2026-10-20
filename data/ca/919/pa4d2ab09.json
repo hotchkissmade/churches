@@ -1,0 +1,33 @@
+{
+  "id": "pa4d2ab09",
+  "url": "https://constellation.church/pa4d2ab09",
+  "name": "Central Congregational Church of La Mesa",
+  "displayName": "Central Congregational Church of La Mesa",
+  "address": {
+    "street": "8360 Lemon Ave",
+    "city": "La Mesa",
+    "state": "CA",
+    "zip": "91941"
+  },
+  "coordinates": {
+    "latitude": 32.76475715637207,
+    "longitude": -117.01740264892578
+  },
+  "website": "https://ccclamesa.com",
+  "listingUrl": "https://www.naccc.org/wpbdp_listing/central-congregational-church-of-la-mesa/",
+  "identifiers": [
+    {
+      "namespace": "org.naccc.id",
+      "value": "central-congregational-church-of-la-mesa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ccclamesa.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951792265"
+    }
+  ],
+  "advisories": []
+}

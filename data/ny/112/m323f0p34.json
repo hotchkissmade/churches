@@ -1,0 +1,33 @@
+{
+  "id": "m323f0p34",
+  "url": "https://constellation.church/m323f0p34",
+  "name": "St. Andrews church",
+  "displayName": "St. Andrew's church",
+  "address": {
+    "street": "4917 4th Ave",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11220"
+  },
+  "coordinates": {
+    "latitude": 40.646602630615234,
+    "longitude": -74.01212692260742
+  },
+  "website": "https://sanandresbrooklyn.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-andrew-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-andrew-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sanandresbrooklyn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "113026396"
+    }
+  ],
+  "advisories": []
+}

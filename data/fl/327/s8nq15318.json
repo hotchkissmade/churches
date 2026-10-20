@@ -1,0 +1,33 @@
+{
+  "id": "s8nq15318",
+  "url": "https://constellation.church/s8nq15318",
+  "name": "LifeWay Community Church",
+  "displayName": "LifeWay Community Church",
+  "address": {
+    "street": "2462 S Park Ave",
+    "city": "Sanford",
+    "state": "FL",
+    "zip": "32771"
+  },
+  "coordinates": {
+    "latitude": 28.786808013916016,
+    "longitude": -81.26837921142578
+  },
+  "website": "https://lifeway.cc/home-index",
+  "listingUrl": "https://churches.sbc.net/church/lifeway-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lifeway-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lifeway.cc/home-index"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593648611"
+    }
+  ],
+  "advisories": []
+}

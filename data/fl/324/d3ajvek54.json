@@ -1,0 +1,37 @@
+{
+  "id": "d3ajvek54",
+  "url": "https://constellation.church/d3ajvek54",
+  "name": "First Baptist Church of Bascom",
+  "displayName": "First Baptist Church of Bascom",
+  "address": {
+    "street": "4951 Basswood Rd",
+    "city": "Bascom",
+    "state": "FL",
+    "zip": "32423"
+  },
+  "coordinates": {
+    "latitude": 30.924274444580078,
+    "longitude": -85.11894226074219
+  },
+  "website": "https://bascombaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-bascom/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-bascom"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bascombaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "201853951"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592922249"
+    }
+  ],
+  "advisories": []
+}

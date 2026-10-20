@@ -1,0 +1,33 @@
+{
+  "id": "fmpr00x31",
+  "url": "https://constellation.church/fmpr00x31",
+  "name": "Lebanon United Methodist Church",
+  "displayName": "Lebanon United Methodist Church",
+  "address": {
+    "street": "30 Main St",
+    "city": "Lebanon",
+    "state": "NJ",
+    "zip": "08833-2127"
+  },
+  "coordinates": {
+    "latitude": 40.64270210266113,
+    "longitude": -74.84096145629883
+  },
+  "website": "https://roundvalleyumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFFLWIA5",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFFLWIA5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "roundvalleyumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222485007"
+    }
+  ],
+  "advisories": []
+}

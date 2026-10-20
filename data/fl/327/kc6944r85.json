@@ -1,0 +1,33 @@
+{
+  "id": "kc6944r85",
+  "url": "https://constellation.church/kc6944r85",
+  "name": "Bay Street Baptist Church",
+  "displayName": "Bay Street Baptist Church",
+  "address": {
+    "street": "37181 N SR 19",
+    "city": "Umatilla",
+    "state": "FL",
+    "zip": "32784"
+  },
+  "coordinates": {
+    "latitude": 28.889766693115234,
+    "longitude": -81.68798828125
+  },
+  "website": "https://baybc.org",
+  "listingUrl": "https://churches.sbc.net/church/bay-street-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bay-street-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "baybc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591224752"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qpe222e64",
+  "url": "https://constellation.church/qpe222e64",
+  "name": "Apostolic Christian Church of Indianapolis",
+  "displayName": "Apostolic Christian Church of Indianapolis",
+  "address": {
+    "street": "7540 E. 71st Street",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46256"
+  },
+  "coordinates": {
+    "latitude": 39.884281158447266,
+    "longitude": -86.03678894042969
+  },
+  "website": "https://indyacchurch.org",
+  "listingUrl": "https://www.apostolicchristian.org/congregations/indianapolis",
+  "identifiers": [
+    {
+      "namespace": "org.apostolicchristian.id",
+      "value": "indianapolis"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "indyacchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237278086"
+    }
+  ],
+  "advisories": []
+}

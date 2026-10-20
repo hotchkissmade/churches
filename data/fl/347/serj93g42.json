@@ -1,0 +1,33 @@
+{
+  "id": "serj93g42",
+  "url": "https://constellation.church/serj93g42",
+  "name": "Heritage Community Church",
+  "displayName": "Heritage Community Church",
+  "address": {
+    "street": "509 W Berckman St",
+    "city": "Fruitland Park",
+    "state": "FL",
+    "zip": "34731"
+  },
+  "coordinates": {
+    "latitude": 28.857519149780273,
+    "longitude": -81.9125862121582
+  },
+  "website": "https://heritagecommunity.org",
+  "listingUrl": "https://churches.sbc.net/church/heritage-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "heritage-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "heritagecommunity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "260141238"
+    }
+  ],
+  "advisories": []
+}

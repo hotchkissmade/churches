@@ -1,0 +1,33 @@
+{
+  "id": "zraetk928",
+  "url": "https://constellation.church/zraetk928",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "4009 Main St",
+    "city": "Cassville",
+    "state": "MO",
+    "zip": "65625"
+  },
+  "coordinates": {
+    "latitude": 36.70038414001465,
+    "longitude": -93.87889862060547
+  },
+  "website": "https://cassvillefirst.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=00fb1987-72f3-46ad-821e-ca658f3f6c18&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "00fb1987-72f3-46ad-821e-ca658f3f6c18"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cassvillefirst.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431271247"
+    }
+  ],
+  "advisories": []
+}

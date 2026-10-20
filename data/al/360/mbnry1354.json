@@ -1,0 +1,33 @@
+{
+  "id": "mbnry1354",
+  "url": "https://constellation.church/mbnry1354",
+  "name": "Boone’s Chapel Baptist Church",
+  "displayName": "Boone’s Chapel Baptist Church",
+  "address": {
+    "street": "2301 County Road 66",
+    "city": "Prattville",
+    "state": "AL",
+    "zip": "36067"
+  },
+  "coordinates": {
+    "latitude": 32.59881401062012,
+    "longitude": -86.4968490600586
+  },
+  "website": "https://booneschapel.org",
+  "listingUrl": "https://churches.sbc.net/church/boones-chapel-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "boones-chapel-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "booneschapel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630861319"
+    }
+  ],
+  "advisories": []
+}

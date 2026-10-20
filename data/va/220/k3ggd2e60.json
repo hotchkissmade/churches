@@ -1,0 +1,33 @@
+{
+  "id": "k3ggd2e60",
+  "url": "https://constellation.church/k3ggd2e60",
+  "name": "St. Albans Church'",
+  "displayName": "St. Albans Church'",
+  "address": {
+    "street": "6800 Columbia Pike",
+    "city": "Annandale",
+    "state": "VA",
+    "zip": "22003-3431"
+  },
+  "coordinates": {
+    "latitude": 38.836347579956055,
+    "longitude": -77.17878341674805
+  },
+  "website": "https://wearestalbans.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-virginia/list/st-albans-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-virginia/st-albans-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wearestalbans.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540652744"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "y16bstk38",
+  "url": "https://constellation.church/y16bstk38",
+  "name": "Gather Lynchburg",
+  "displayName": "Gather Lynchburg",
+  "address": {
+    "street": "3135 Fort Ave",
+    "city": "Lynchburg",
+    "state": "VA",
+    "zip": "24501"
+  },
+  "coordinates": {
+    "latitude": 37.39450645446777,
+    "longitude": -79.16786575317383
+  },
+  "website": "https://gatherlynchburg.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a28171ed-a16b-4855-aed1-c7a13f6fdbdc&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "a28171ed-a16b-4855-aed1-c7a13f6fdbdc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gatherlynchburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541047043"
+    }
+  ],
+  "advisories": []
+}

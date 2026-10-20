@@ -1,0 +1,33 @@
+{
+  "id": "a59ndv359",
+  "url": "https://constellation.church/a59ndv359",
+  "name": "First English Lutheran Church",
+  "displayName": "First English Lutheran Church",
+  "address": {
+    "street": "245 E Hughes St",
+    "city": "Tyler",
+    "state": "MN",
+    "zip": "56178-1114"
+  },
+  "coordinates": {
+    "latitude": 44.27845001220703,
+    "longitude": -96.13287353515625
+  },
+  "website": "https://firstenglishtyler.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=96c5d7db-3830-4439-9283-a03a3d18a417",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "96c5d7db-3830-4439-9283-a03a3d18a417"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstenglishtyler.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410785157"
+    }
+  ],
+  "advisories": []
+}

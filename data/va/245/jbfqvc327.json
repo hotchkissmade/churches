@@ -1,0 +1,33 @@
+{
+  "id": "jbfqvc327",
+  "url": "https://constellation.church/jbfqvc327",
+  "name": "Kentuck Baptist Church",
+  "displayName": "Kentuck Baptist Church",
+  "address": {
+    "street": "1845 Kentuck Church Rd",
+    "city": "Ringgold",
+    "state": "VA",
+    "zip": "24586"
+  },
+  "coordinates": {
+    "latitude": 36.66329383850098,
+    "longitude": -79.29988861083984
+  },
+  "website": "https://kentuckbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/kentuck-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "kentuck-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kentuckbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541134446"
+    }
+  ],
+  "advisories": []
+}

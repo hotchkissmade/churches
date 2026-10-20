@@ -1,0 +1,33 @@
+{
+  "id": "erbbbgp39",
+  "url": "https://constellation.church/erbbbgp39",
+  "name": "East Liberty Lutheran Church",
+  "displayName": "East Liberty Lutheran Church",
+  "address": {
+    "street": "1736 Jancey St",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15206-1146"
+  },
+  "coordinates": {
+    "latitude": 40.48558807373047,
+    "longitude": -79.92671966552734
+  },
+  "website": "https://eastlibertylutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7bbbdf64-79bf-4459-a921-2bd4cfda26f0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7bbbdf64-79bf-4459-a921-2bd4cfda26f0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastlibertylutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "250965249"
+    }
+  ],
+  "advisories": []
+}

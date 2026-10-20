@@ -1,0 +1,33 @@
+{
+  "id": "ybndzer04",
+  "url": "https://constellation.church/ybndzer04",
+  "name": "Antigo United Methodist Church",
+  "displayName": "Antigo United Methodist Church",
+  "address": {
+    "street": "2034 5th Ave",
+    "city": "Antigo",
+    "state": "WI",
+    "zip": "54409"
+  },
+  "coordinates": {
+    "latitude": 45.14019012451172,
+    "longitude": -89.17658615112305
+  },
+  "website": "https://antigoumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF9tFIAT",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF9tFIAT"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "antigoumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390907684"
+    }
+  ],
+  "advisories": []
+}

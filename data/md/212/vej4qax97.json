@@ -1,0 +1,33 @@
+{
+  "id": "vej4qax97",
+  "url": "https://constellation.church/vej4qax97",
+  "name": "Christ Villa",
+  "displayName": "RCCG Christ Villa",
+  "address": {
+    "street": "2301 Putty Hill Avenue",
+    "city": "Parkville",
+    "state": "MD",
+    "zip": "21234"
+  },
+  "coordinates": {
+    "latitude": 39.389827728271484,
+    "longitude": -76.54585266113281
+  },
+  "website": "https://christvilla.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=212&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "212"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christvilla.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "263089301"
+    }
+  ],
+  "advisories": []
+}

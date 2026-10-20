@@ -1,0 +1,33 @@
+{
+  "id": "zv3f3gr24",
+  "url": "https://constellation.church/zv3f3gr24",
+  "name": "Gustavus Adolphus Lutheran Church",
+  "displayName": "Gustavus Adolphus Lutheran Church",
+  "address": {
+    "street": "1669 Arcade St",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip": "55106-1000"
+  },
+  "coordinates": {
+    "latitude": 44.99069595336914,
+    "longitude": -93.06707000732422
+  },
+  "website": "https://gachurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6fe3d643-bee2-436c-a213-c89634dbdf48",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6fe3d643-bee2-436c-a213-c89634dbdf48"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gachurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410711504"
+    }
+  ],
+  "advisories": []
+}

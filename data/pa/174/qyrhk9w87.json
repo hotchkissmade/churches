@@ -1,0 +1,33 @@
+{
+  "id": "qyrhk9w87",
+  "url": "https://constellation.church/qyrhk9w87",
+  "name": "St Matthew Evangelical Lutheran Church",
+  "displayName": "St. Matthew Evangelical Lutheran Church",
+  "address": {
+    "street": "839 W Market St",
+    "city": "York",
+    "state": "PA",
+    "zip": "17401-3607"
+  },
+  "coordinates": {
+    "latitude": 39.95655632019043,
+    "longitude": -76.74839401245117
+  },
+  "website": "https://stmatt.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=120ec0ed-ec6c-4f13-a9ae-31144f154009",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "120ec0ed-ec6c-4f13-a9ae-31144f154009"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmatt.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231365291"
+    }
+  ],
+  "advisories": []
+}

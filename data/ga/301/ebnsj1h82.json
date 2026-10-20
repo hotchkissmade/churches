@@ -1,0 +1,33 @@
+{
+  "id": "ebnsj1h82",
+  "url": "https://constellation.church/ebnsj1h82",
+  "name": "Episcopal Church of the Holy Family",
+  "displayName": "Episcopal Church of the Holy Family",
+  "address": {
+    "street": "202 Griffith Road",
+    "city": "Jasper",
+    "state": "GA",
+    "zip": "30143"
+  },
+  "coordinates": {
+    "latitude": 34.46525764465332,
+    "longitude": -84.38558578491211
+  },
+  "website": "https://holyfamilyjasper.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/atlanta/list/episcopal-church-holy-family",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "atlanta/episcopal-church-holy-family"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holyfamilyjasper.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581911781"
+    }
+  ],
+  "advisories": []
+}

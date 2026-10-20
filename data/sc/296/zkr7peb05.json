@@ -1,0 +1,33 @@
+{
+  "id": "zkr7peb05",
+  "url": "https://constellation.church/zkr7peb05",
+  "name": "Broadmouth Baptist Church",
+  "displayName": "Broadmouth Baptist Church",
+  "address": {
+    "street": "543 Broadmouth Church Rd",
+    "city": "Honea Path",
+    "state": "SC",
+    "zip": "29654"
+  },
+  "coordinates": {
+    "latitude": 34.45859336853027,
+    "longitude": -82.35088348388672
+  },
+  "website": "https://broadmouthbaptistchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/broadmouth-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "broadmouth-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "broadmouthbaptistchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "576078702"
+    }
+  ],
+  "advisories": []
+}

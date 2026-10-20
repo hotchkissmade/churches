@@ -1,0 +1,33 @@
+{
+  "id": "eafae8565",
+  "url": "https://constellation.church/eafae8565",
+  "name": "New Creation Church",
+  "displayName": "New Creation Church",
+  "address": {
+    "street": "610 North Glendale Avenue",
+    "city": "Glendale",
+    "state": "CA",
+    "zip": "91206"
+  },
+  "coordinates": {
+    "latitude": 34.15500450134277,
+    "longitude": -118.24224090576172
+  },
+  "website": "https://newcreationla.com/welcome-page",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6117",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6117"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newcreationla.com/welcome-page"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "832344036"
+    }
+  ],
+  "advisories": []
+}

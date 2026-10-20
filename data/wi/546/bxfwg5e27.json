@@ -1,0 +1,33 @@
+{
+  "id": "bxfwg5e27",
+  "url": "https://constellation.church/bxfwg5e27",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "1010 Sill St",
+    "city": "La Crosse",
+    "state": "WI",
+    "zip": "54603-2451"
+  },
+  "coordinates": {
+    "latitude": 43.844499588012695,
+    "longitude": -91.2420883178711
+  },
+  "website": "https://trinitylutheranlax.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=543fba00-f77c-4711-a852-f483c111ca21",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "543fba00-f77c-4711-a852-f483c111ca21"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylutheranlax.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390901257"
+    }
+  ],
+  "advisories": []
+}

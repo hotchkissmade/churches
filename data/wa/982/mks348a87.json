@@ -1,0 +1,33 @@
+{
+  "id": "mks348a87",
+  "url": "https://constellation.church/mks348a87",
+  "name": "The First Baptist Church of Clear Lake, Washington",
+  "displayName": "The First Baptist Church of Clear Lake, Washington",
+  "address": {
+    "street": "12732 Hemlock St",
+    "city": "Clearlake",
+    "state": "WA",
+    "zip": "98235"
+  },
+  "coordinates": {
+    "latitude": 48.46101760864258,
+    "longitude": -122.23807525634766
+  },
+  "website": "https://firstbaptistclearlake.com",
+  "listingUrl": "https://churches.sbc.net/church/the-first-baptist-church-of-clear-lake-washington/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-first-baptist-church-of-clear-lake-washington"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistclearlake.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911361459"
+    }
+  ],
+  "advisories": []
+}

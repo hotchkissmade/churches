@@ -1,0 +1,33 @@
+{
+  "id": "vppm7kf88",
+  "url": "https://constellation.church/vppm7kf88",
+  "name": "St Barnabas Lutheran Church",
+  "displayName": "St. Barnabas Lutheran Church",
+  "address": {
+    "street": "15600 Old Rockford Rd",
+    "city": "Plymouth",
+    "state": "MN",
+    "zip": "55446-3208"
+  },
+  "coordinates": {
+    "latitude": 45.032012939453125,
+    "longitude": -93.47762298583984
+  },
+  "website": "https://stbarnabaslutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dd8f5400-043f-4d0a-a215-0f512b67eda8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dd8f5400-043f-4d0a-a215-0f512b67eda8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stbarnabaslutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411528638"
+    }
+  ],
+  "advisories": []
+}

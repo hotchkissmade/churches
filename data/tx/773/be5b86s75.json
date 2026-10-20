@@ -1,0 +1,33 @@
+{
+  "id": "be5b86s75",
+  "url": "https://constellation.church/be5b86s75",
+  "name": "Grand Parkway Church",
+  "displayName": "Grand Parkway Church",
+  "address": {
+    "street": "22255 Fm 1314 Rd",
+    "city": "Porter",
+    "state": "TX",
+    "zip": "77365"
+  },
+  "coordinates": {
+    "latitude": 30.128019332885742,
+    "longitude": -95.27952575683594
+  },
+  "website": "https://grandparkwaychurch.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=9c9cdb9c-69e3-416c-82a1-403ac0d2946a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "9c9cdb9c-69e3-416c-82a1-403ac0d2946a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grandparkwaychurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760353631"
+    }
+  ],
+  "advisories": []
+}

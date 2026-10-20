@@ -1,0 +1,33 @@
+{
+  "id": "kgek9cn03",
+  "url": "https://constellation.church/kgek9cn03",
+  "name": "St. Mark's Episcopal",
+  "displayName": "St. Mark's Episcopal",
+  "address": {
+    "street": "13312 Cain Rd",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33625-4004"
+  },
+  "coordinates": {
+    "latitude": 28.066303253173828,
+    "longitude": -82.55825805664062
+  },
+  "website": "https://stmarkstampa.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-southwest-florida/list/st-marks-episcopal",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-southwest-florida/st-marks-episcopal"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkstampa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592726279"
+    }
+  ],
+  "advisories": []
+}

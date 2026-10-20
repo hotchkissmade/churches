@@ -1,0 +1,33 @@
+{
+  "id": "drg6pt012",
+  "url": "https://constellation.church/drg6pt012",
+  "name": "Capital City Church",
+  "displayName": "Capital City Church",
+  "address": {
+    "street": "8321 Bluebonnet Blvd",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70810"
+  },
+  "coordinates": {
+    "latitude": 30.374666213989258,
+    "longitude": -91.09908294677734
+  },
+  "website": "https://mycapitalcitychurch.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d4a7d656-c383-478d-859e-f3b883e3df81&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d4a7d656-c383-478d-859e-f3b883e3df81"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mycapitalcitychurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "721331613"
+    }
+  ],
+  "advisories": []
+}

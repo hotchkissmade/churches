@@ -1,0 +1,33 @@
+{
+  "id": "bss7s2r11",
+  "url": "https://constellation.church/bss7s2r11",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "7800 W County Road 42",
+    "city": "Apple Valley",
+    "state": "MN",
+    "zip": "55124-7182"
+  },
+  "coordinates": {
+    "latitude": 44.731666564941406,
+    "longitude": -93.22370147705078
+  },
+  "website": "https://graceofav.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b4fd3a4d-fb81-491b-b20f-e6024fbde4dc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b4fd3a4d-fb81-491b-b20f-e6024fbde4dc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceofav.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411260997"
+    }
+  ],
+  "advisories": []
+}

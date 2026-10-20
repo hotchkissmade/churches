@@ -1,0 +1,33 @@
+{
+  "id": "m2mrp3n98",
+  "url": "https://constellation.church/m2mrp3n98",
+  "name": "American Lutheran Church",
+  "displayName": "American Lutheran Church",
+  "address": {
+    "street": "552 Purdy St",
+    "city": "Jesup",
+    "state": "IA",
+    "zip": "50648-1126"
+  },
+  "coordinates": {
+    "latitude": 42.47182846069336,
+    "longitude": -92.06363677978516
+  },
+  "website": "https://americanlutheranjesup.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=42c3a235-5ae3-449c-8a2a-e52baa17f307",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "42c3a235-5ae3-449c-8a2a-e52baa17f307"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "americanlutheranjesup.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "203099186"
+    }
+  ],
+  "advisories": []
+}

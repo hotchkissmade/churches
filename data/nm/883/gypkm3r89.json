@@ -1,0 +1,33 @@
+{
+  "id": "gypkm3r89",
+  "url": "https://constellation.church/gypkm3r89",
+  "name": "First Baptist Church of Ruidoso",
+  "displayName": "First Baptist Church of Ruidoso",
+  "address": {
+    "street": "270 Country Club Dr",
+    "city": "Ruidoso",
+    "state": "NM",
+    "zip": "88345"
+  },
+  "coordinates": {
+    "latitude": 33.33978843688965,
+    "longitude": -105.66575622558594
+  },
+  "website": "https://firstruidoso.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-ruidoso/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-ruidoso"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstruidoso.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850211284"
+    }
+  ],
+  "advisories": []
+}

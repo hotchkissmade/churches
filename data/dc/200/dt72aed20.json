@@ -1,0 +1,33 @@
+{
+  "id": "dt72aed20",
+  "url": "https://constellation.church/dt72aed20",
+  "name": "First Trinity Lutheran Church",
+  "displayName": "First Trinity Lutheran Church",
+  "address": {
+    "street": "501 4th St NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20001-2716"
+  },
+  "coordinates": {
+    "latitude": 38.8963565826416,
+    "longitude": -77.01610565185547
+  },
+  "website": "https://firsttrinitydc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0dd1e63d-ff31-4875-9655-f42ab2698301",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0dd1e63d-ff31-4875-9655-f42ab2698301"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firsttrinitydc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "530217490"
+    }
+  ],
+  "advisories": []
+}

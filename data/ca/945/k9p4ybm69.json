@@ -1,0 +1,33 @@
+{
+  "id": "k9p4ybm69",
+  "url": "https://constellation.church/k9p4ybm69",
+  "name": "Napa Valley Lutheran Church",
+  "displayName": "Napa Valley Lutheran Church",
+  "address": {
+    "street": "1796 Elm St",
+    "city": "Napa",
+    "state": "CA",
+    "zip": "94559-3742"
+  },
+  "coordinates": {
+    "latitude": 38.28988075256348,
+    "longitude": -122.2940673828125
+  },
+  "website": "https://napavalleylutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=93e77aef-9798-4eca-b847-13fbeb4392c2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "93e77aef-9798-4eca-b847-13fbeb4392c2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "napavalleylutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941689153"
+    }
+  ],
+  "advisories": []
+}

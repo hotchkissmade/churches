@@ -1,0 +1,29 @@
+{
+  "id": "c0z9qq761",
+  "url": "https://constellation.church/c0z9qq761",
+  "name": "MY CHURCH",
+  "displayName": "My Church",
+  "address": {
+    "street": "PO BOX 543",
+    "city": "Manhattan",
+    "state": "IL",
+    "zip": "60442"
+  },
+  "coordinates": {
+    "latitude": 41.35175323486328,
+    "longitude": -87.95938491821289
+  },
+  "website": "https://mychurchmanhattan.com",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "352753173"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mychurchmanhattan.com"
+    }
+  ],
+  "advisories": []
+}

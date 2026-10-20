@@ -1,0 +1,33 @@
+{
+  "id": "tse7vsy54",
+  "url": "https://constellation.church/tse7vsy54",
+  "name": "Alpine Lutheran Church",
+  "displayName": "Alpine Lutheran Church",
+  "address": {
+    "street": "5001 Forest View Ave",
+    "city": "Rockford",
+    "state": "IL",
+    "zip": "61108-6553"
+  },
+  "coordinates": {
+    "latitude": 42.24959945678711,
+    "longitude": -89.01643371582031
+  },
+  "website": "https://alpinelutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b066075a-80cb-426a-b506-9658a3d5f4e6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b066075a-80cb-426a-b506-9658a3d5f4e6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "alpinelutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362280202"
+    }
+  ],
+  "advisories": []
+}

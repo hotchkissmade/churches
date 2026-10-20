@@ -1,0 +1,33 @@
+{
+  "id": "e8tpcy282",
+  "url": "https://constellation.church/e8tpcy282",
+  "name": "Milwaukie Lutheran Church",
+  "displayName": "Milwaukie Lutheran Church",
+  "address": {
+    "street": "3810 SE Lake Rd",
+    "city": "Milwaukie",
+    "state": "OR",
+    "zip": "97222-6021"
+  },
+  "coordinates": {
+    "latitude": 45.43340301513672,
+    "longitude": -122.62313079833984
+  },
+  "website": "https://milwaukielutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6f24a84f-15f5-452f-a726-d7ae968e3b94",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6f24a84f-15f5-452f-a726-d7ae968e3b94"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "milwaukielutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930437952"
+    }
+  ],
+  "advisories": []
+}

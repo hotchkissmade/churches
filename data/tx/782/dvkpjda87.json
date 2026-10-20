@@ -1,0 +1,33 @@
+{
+  "id": "dvkpjda87",
+  "url": "https://constellation.church/dvkpjda87",
+  "name": "St. Thomas Episcopal Church",
+  "displayName": "St. Thomas Episcopal Church",
+  "address": {
+    "street": "1416 N Loop 1604 E",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78232"
+  },
+  "coordinates": {
+    "latitude": 29.609006881713867,
+    "longitude": -98.47309875488281
+  },
+  "website": "https://tom1604.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-texas/list/st-thomas-episcopal-church-school",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-texas/st-thomas-episcopal-church-school"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tom1604.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741803582"
+    }
+  ],
+  "advisories": []
+}

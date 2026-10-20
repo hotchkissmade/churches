@@ -1,0 +1,33 @@
+{
+  "id": "ex07xnx29",
+  "url": "https://constellation.church/ex07xnx29",
+  "name": "Elizabeth Baptist Church",
+  "displayName": "Elizabeth Baptist Church",
+  "address": {
+    "street": "4124 Bassett Dairy Rd",
+    "city": "Monticello",
+    "state": "FL",
+    "zip": "32344"
+  },
+  "coordinates": {
+    "latitude": 30.522869110107422,
+    "longitude": -83.76627349853516
+  },
+  "website": "https://ebcmonticello.com",
+  "listingUrl": "https://churches.sbc.net/church/elizabeth-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "elizabeth-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ebcmonticello.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "500028632"
+    }
+  ],
+  "advisories": []
+}

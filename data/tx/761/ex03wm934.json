@@ -1,0 +1,33 @@
+{
+  "id": "ex03wm934",
+  "url": "https://constellation.church/ex03wm934",
+  "name": "First Baptist Church Lake Worth",
+  "displayName": "First Baptist Church Lake Worth",
+  "address": {
+    "street": "7000 CHARBONNEAU RD",
+    "city": "LAKE WORTH",
+    "state": "TX",
+    "zip": "76135"
+  },
+  "coordinates": {
+    "latitude": 32.81042289733887,
+    "longitude": -97.4409408569336
+  },
+  "website": "https://fbclwtx.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-lake-worth-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-lake-worth-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbclwtx.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751183930"
+    }
+  ],
+  "advisories": []
+}

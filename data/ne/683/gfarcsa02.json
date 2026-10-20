@@ -1,0 +1,33 @@
+{
+  "id": "gfarcsa02",
+  "url": "https://constellation.church/gfarcsa02",
+  "name": "Radiant Springs Church",
+  "displayName": "Radiant Springs Church",
+  "address": {
+    "street": "1910 W 12th St",
+    "city": "Crete",
+    "state": "NE",
+    "zip": "68333"
+  },
+  "coordinates": {
+    "latitude": 40.622989654541016,
+    "longitude": -96.98558044433594
+  },
+  "website": "https://radiantsprings.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=61c404af-6287-4c90-8c51-502ac3d762e2&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "61c404af-6287-4c90-8c51-502ac3d762e2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "radiantsprings.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "201447782"
+    }
+  ],
+  "advisories": []
+}

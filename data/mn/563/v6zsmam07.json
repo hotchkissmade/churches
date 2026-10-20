@@ -1,0 +1,33 @@
+{
+  "id": "v6zsmam07",
+  "url": "https://constellation.church/v6zsmam07",
+  "name": "Emmanuel Episcopal Church",
+  "displayName": "Emmanuel Episcopal Church",
+  "address": {
+    "street": "602 12th Ave E",
+    "city": "Alexandria",
+    "state": "MN",
+    "zip": "56308"
+  },
+  "coordinates": {
+    "latitude": 45.87873840332031,
+    "longitude": -95.36901092529297
+  },
+  "website": "https://alexmnepiscopal.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/emmanuel-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/emmanuel-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "alexmnepiscopal.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411312860"
+    }
+  ],
+  "advisories": []
+}

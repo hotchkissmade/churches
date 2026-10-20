@@ -1,0 +1,33 @@
+{
+  "id": "d0w9nrx81",
+  "url": "https://constellation.church/d0w9nrx81",
+  "name": "Green Street Baptist Church",
+  "displayName": "Green Street Baptist Church",
+  "address": {
+    "street": "519 E Gray St",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40202"
+  },
+  "coordinates": {
+    "latitude": 38.24635124206543,
+    "longitude": -85.74454116821289
+  },
+  "website": "https://gsbc.site",
+  "listingUrl": "https://churches.sbc.net/church/green-street-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "green-street-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gsbc.site"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "610561849"
+    }
+  ],
+  "advisories": []
+}

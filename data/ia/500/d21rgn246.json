@@ -1,0 +1,33 @@
+{
+  "id": "d21rgn246",
+  "url": "https://constellation.church/d21rgn246",
+  "name": "Ames, Cornerstone Church",
+  "displayName": "Ames, Cornerstone Church",
+  "address": {
+    "street": "3425 Turing St",
+    "city": "Ames",
+    "state": "IA",
+    "zip": "50010"
+  },
+  "coordinates": {
+    "latitude": 42.00972557067871,
+    "longitude": -93.56596374511719
+  },
+  "website": "https://cornerstonelife.com",
+  "listingUrl": "https://churches.sbc.net/church/ames-cornerstone-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "ames-cornerstone-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cornerstonelife.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421425755"
+    }
+  ],
+  "advisories": []
+}

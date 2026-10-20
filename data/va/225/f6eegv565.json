@@ -1,0 +1,33 @@
+{
+  "id": "f6eegv565",
+  "url": "https://constellation.church/f6eegv565",
+  "name": "Concord Baptist Church",
+  "displayName": "Concord Baptist Church",
+  "address": {
+    "street": "15625 Concord Rd",
+    "city": "Ruther Glen",
+    "state": "VA",
+    "zip": "22546"
+  },
+  "coordinates": {
+    "latitude": 37.85680389404297,
+    "longitude": -77.37540817260742
+  },
+  "website": "https://concordbaptistva.com",
+  "listingUrl": "https://churches.sbc.net/church/concord-baptist-church-29/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "concord-baptist-church-29"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "concordbaptistva.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540737842"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nt5xp3e25",
+  "url": "https://constellation.church/nt5xp3e25",
+  "name": "Grace Evangelical Lutheran Church",
+  "displayName": "Grace Evangelical Lutheran Church",
+  "address": {
+    "street": "5 Pine St",
+    "city": "Petersburg",
+    "state": "WV",
+    "zip": "26847-1711"
+  },
+  "coordinates": {
+    "latitude": 38.99381446838379,
+    "longitude": -79.12051010131836
+  },
+  "website": "https://gracelutheranpetersburg.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ee9c5d53-d5c7-41e0-9625-351e0e279f24",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ee9c5d53-d5c7-41e0-9625-351e0e279f24"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelutheranpetersburg.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "550634436"
+    }
+  ],
+  "advisories": []
+}

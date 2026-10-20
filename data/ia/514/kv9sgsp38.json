@@ -1,0 +1,37 @@
+{
+  "id": "kv9sgsp38",
+  "url": "https://constellation.church/kv9sgsp38",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "118 W. Tracy Street",
+    "city": "Arcadia",
+    "state": "IA",
+    "zip": "51430"
+  },
+  "coordinates": {
+    "latitude": 42.088998794555664,
+    "longitude": -95.04451751708984
+  },
+  "website": "https://zionarcadia.org",
+  "listingUrl": "https://idwlcms.org/congregation.php?id=15",
+  "identifiers": [
+    {
+      "namespace": "org.idwlcms.id",
+      "value": "15"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionarcadia.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421311319"
+    },
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "30960"
+    }
+  ],
+  "advisories": []
+}

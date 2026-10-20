@@ -1,0 +1,33 @@
+{
+  "id": "bbjmf9w42",
+  "url": "https://constellation.church/bbjmf9w42",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "196 N Ashwood Ave",
+    "city": "Ventura",
+    "state": "CA",
+    "zip": "93003-1810"
+  },
+  "coordinates": {
+    "latitude": 34.277536392211914,
+    "longitude": -119.2391586303711
+  },
+  "website": "https://tlcventura.org/online-worship",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4977f491-5e24-4f10-b753-08df77be11ea",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4977f491-5e24-4f10-b753-08df77be11ea"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcventura.org/online-worship"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "956006040"
+    }
+  ],
+  "advisories": []
+}

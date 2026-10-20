@@ -1,0 +1,33 @@
+{
+  "id": "ydc8ks965",
+  "url": "https://constellation.church/ydc8ks965",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "404 W Franklin St",
+    "city": "Morristown",
+    "state": "MN",
+    "zip": "55052"
+  },
+  "coordinates": {
+    "latitude": 44.22677040100098,
+    "longitude": -93.44923400878906
+  },
+  "website": "https://bethlehem-morristown.org",
+  "listingUrl": "https://locator.lcms.org/church/C/610682",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "610682"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethlehem-morristown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416099112"
+    }
+  ],
+  "advisories": []
+}

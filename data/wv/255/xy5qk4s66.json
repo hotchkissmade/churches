@@ -1,0 +1,33 @@
+{
+  "id": "xy5qk4s66",
+  "url": "https://constellation.church/xy5qk4s66",
+  "name": "Providence Church",
+  "displayName": "Providence Church",
+  "address": {
+    "street": "322 Davis Creek Road",
+    "city": "Barboursville",
+    "state": "WV",
+    "zip": "25504"
+  },
+  "coordinates": {
+    "latitude": 38.406715393066406,
+    "longitude": -82.31989288330078
+  },
+  "website": "https://prpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/870",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "870"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "prpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "550639722"
+    }
+  ],
+  "advisories": []
+}

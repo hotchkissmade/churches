@@ -1,0 +1,33 @@
+{
+  "id": "dvn654g05",
+  "url": "https://constellation.church/dvn654g05",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "721 18th Ave N",
+    "city": "Estherville",
+    "state": "IA",
+    "zip": "51334-1044"
+  },
+  "coordinates": {
+    "latitude": 43.41789436340332,
+    "longitude": -94.82846069335938
+  },
+  "website": "https://trinityestherville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0a1b3445-ac3b-4298-8461-bbb2977ab284",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0a1b3445-ac3b-4298-8461-bbb2977ab284"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityestherville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421202252"
+    }
+  ],
+  "advisories": []
+}

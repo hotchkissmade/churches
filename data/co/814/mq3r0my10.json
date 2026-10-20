@@ -1,0 +1,33 @@
+{
+  "id": "mq3r0my10",
+  "url": "https://constellation.church/mq3r0my10",
+  "name": "St. Andrew the Apostle Church",
+  "displayName": "St. Andrew the Apostle Church",
+  "address": {
+    "street": "298 Bert St",
+    "city": "Delta",
+    "state": "CO",
+    "zip": "81416-2250"
+  },
+  "coordinates": {
+    "latitude": 38.74338912963867,
+    "longitude": -108.05701446533203
+  },
+  "website": "https://saint-andrew.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-we-delsaa",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-we-delsaa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saint-andrew.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840911439"
+    }
+  ],
+  "advisories": []
+}

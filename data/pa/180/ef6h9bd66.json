@@ -1,0 +1,33 @@
+{
+  "id": "ef6h9bd66",
+  "url": "https://constellation.church/ef6h9bd66",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "5901 King's Hwy S",
+    "city": "Old Zionsville",
+    "state": "PA",
+    "zip": "18068"
+  },
+  "coordinates": {
+    "latitude": 40.48695945739746,
+    "longitude": -75.52131271362305
+  },
+  "website": "https://zelcoz.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fcbcac9e-208f-4fbe-9a3c-2e9c85c11954",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fcbcac9e-208f-4fbe-9a3c-2e9c85c11954"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zelcoz.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231433873"
+    }
+  ],
+  "advisories": []
+}

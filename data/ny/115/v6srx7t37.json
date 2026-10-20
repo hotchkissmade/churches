@@ -1,0 +1,33 @@
+{
+  "id": "v6srx7t37",
+  "url": "https://constellation.church/v6srx7t37",
+  "name": "Grace Christian Church",
+  "displayName": "Grace Christian Church",
+  "address": {
+    "street": "172 Willis Ave",
+    "city": "Mineola",
+    "state": "NY",
+    "zip": "11501"
+  },
+  "coordinates": {
+    "latitude": 40.74506759643555,
+    "longitude": -73.63847351074219
+  },
+  "website": "https://gracechristianchurchny.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=e1b1a376-e6ab-4ba2-a9f4-d002a3673e24&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "e1b1a376-e6ab-4ba2-a9f4-d002a3673e24"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracechristianchurchny.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "113030633"
+    }
+  ],
+  "advisories": []
+}

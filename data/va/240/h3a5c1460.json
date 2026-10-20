@@ -1,0 +1,33 @@
+{
+  "id": "h3a5c1460",
+  "url": "https://constellation.church/h3a5c1460",
+  "name": "Wheatland Lutheran Church",
+  "displayName": "Wheatland Lutheran Church",
+  "address": {
+    "street": "1560 Wheatland Rd",
+    "city": "Buchanan",
+    "state": "VA",
+    "zip": "24066-5030"
+  },
+  "coordinates": {
+    "latitude": 37.503395080566406,
+    "longitude": -79.79620361328125
+  },
+  "website": "https://wheatlandlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=47c8778c-01fc-4f16-92fc-ce50163f0cf6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "47c8778c-01fc-4f16-92fc-ce50163f0cf6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wheatlandlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541156199"
+    }
+  ],
+  "advisories": []
+}

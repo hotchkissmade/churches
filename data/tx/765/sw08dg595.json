@@ -1,0 +1,33 @@
+{
+  "id": "sw08dg595",
+  "url": "https://constellation.church/sw08dg595",
+  "name": "North Pointe Church",
+  "displayName": "North Pointe Church",
+  "address": {
+    "street": "1115 N Main St",
+    "city": "Copperas Cove",
+    "state": "TX",
+    "zip": "76522-1815"
+  },
+  "coordinates": {
+    "latitude": 31.13109588623047,
+    "longitude": -97.8959732055664
+  },
+  "website": "https://npcove.com",
+  "listingUrl": "https://rforw.pcg.org/ChurchDetails.aspx?contactID=823078",
+  "identifiers": [
+    {
+      "namespace": "org.pcg.rforw.id",
+      "value": "823078"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "npcove.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "262514254"
+    }
+  ],
+  "advisories": []
+}

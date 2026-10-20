@@ -1,0 +1,33 @@
+{
+  "id": "t9ec7wg21",
+  "url": "https://constellation.church/t9ec7wg21",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "703 S Sibley Ave",
+    "city": "Litchfield",
+    "state": "MN",
+    "zip": "55355-3341"
+  },
+  "coordinates": {
+    "latitude": 45.11874771118164,
+    "longitude": -94.52742004394531
+  },
+  "website": "https://firstlitchfield.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1a827818-92fe-4307-a5a7-469d4080653e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1a827818-92fe-4307-a5a7-469d4080653e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlitchfield.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411468585"
+    }
+  ],
+  "advisories": []
+}

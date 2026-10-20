@@ -1,0 +1,33 @@
+{
+  "id": "enss78x77",
+  "url": "https://constellation.church/enss78x77",
+  "name": "Northside Church",
+  "displayName": "Northside Church",
+  "address": {
+    "street": "25600 23 Mile Rd",
+    "city": "Chesterfield",
+    "state": "MI",
+    "zip": "48051"
+  },
+  "coordinates": {
+    "latitude": 42.67416763305664,
+    "longitude": -82.85159301757812
+  },
+  "website": "https://northsidechurch.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=65c492b8-6fd3-463e-8cc8-c4bbbbee3948&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "65c492b8-6fd3-463e-8cc8-c4bbbbee3948"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northsidechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382250770"
+    }
+  ],
+  "advisories": []
+}

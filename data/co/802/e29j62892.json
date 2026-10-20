@@ -1,0 +1,33 @@
+{
+  "id": "e29j62892",
+  "url": "https://constellation.church/e29j62892",
+  "name": "Holy Shepherd Lutheran Church",
+  "displayName": "Holy Shepherd Lutheran Church",
+  "address": {
+    "street": "920 Kipling St",
+    "city": "Lakewood",
+    "state": "CO",
+    "zip": "80215-5828"
+  },
+  "coordinates": {
+    "latitude": 39.731422424316406,
+    "longitude": -105.10897827148438
+  },
+  "website": "https://holyshepherd.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bc539f12-3a75-4513-b69c-057bab464cd9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bc539f12-3a75-4513-b69c-057bab464cd9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holyshepherd.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840528580"
+    }
+  ],
+  "advisories": []
+}

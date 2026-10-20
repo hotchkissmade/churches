@@ -1,0 +1,33 @@
+{
+  "id": "a4n17zk73",
+  "url": "https://constellation.church/a4n17zk73",
+  "name": "Northside Baptist",
+  "displayName": "Northside Baptist Church",
+  "address": {
+    "street": "595 Goosepond Rd",
+    "city": "Newark",
+    "state": "OH",
+    "zip": "43055"
+  },
+  "coordinates": {
+    "latitude": 40.08828926086426,
+    "longitude": -82.44132995605469
+  },
+  "website": "https://northsidebaptistnewark.org",
+  "listingUrl": "https://churches.sbc.net/church/northside-baptist-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northside-baptist-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northsidebaptistnewark.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310999996"
+    }
+  ],
+  "advisories": []
+}

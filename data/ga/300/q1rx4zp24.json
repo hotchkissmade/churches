@@ -1,0 +1,33 @@
+{
+  "id": "q1rx4zp24",
+  "url": "https://constellation.church/q1rx4zp24",
+  "name": "St. James Episcopal Church",
+  "displayName": "St. James Episcopal Church",
+  "address": {
+    "street": "161 Church St NE",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30060-1629"
+  },
+  "coordinates": {
+    "latitude": 33.95566368103027,
+    "longitude": -84.55058288574219
+  },
+  "website": "https://stjamesmarietta.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-atlanta/list/st-james-episcopal-church-2",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-atlanta/st-james-episcopal-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamesmarietta.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580593435"
+    }
+  ],
+  "advisories": []
+}

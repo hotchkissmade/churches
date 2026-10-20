@@ -1,0 +1,37 @@
+{
+  "id": "qr8fstf91",
+  "url": "https://constellation.church/qr8fstf91",
+  "name": "Kirk of the Valley Presbyterian Church",
+  "displayName": "Kirk of the Valley Presbyterian Church",
+  "address": {
+    "street": "19620 Vanowen St",
+    "city": "Reseda",
+    "state": "CA",
+    "zip": "91335"
+  },
+  "coordinates": {
+    "latitude": 34.19366645812988,
+    "longitude": -118.56053924560547
+  },
+  "website": "https://kirkval.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/551/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "551"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kirkval.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "300033987"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952223001"
+    }
+  ],
+  "advisories": []
+}

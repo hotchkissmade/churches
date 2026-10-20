@@ -1,0 +1,33 @@
+{
+  "id": "zky4fgd89",
+  "url": "https://constellation.church/zky4fgd89",
+  "name": "Grace And St Paul Lutheran Church",
+  "displayName": "Grace And St. Paul Lutheran Church",
+  "address": {
+    "street": "123 W 71st St",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10023-3801"
+  },
+  "coordinates": {
+    "latitude": 40.77725028991699,
+    "longitude": -73.98012924194336
+  },
+  "website": "https://gstpchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=267583fa-7a6e-4634-a078-60d8bc6f40c8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "267583fa-7a6e-4634-a078-60d8bc6f40c8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gstpchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "136136346"
+    }
+  ],
+  "advisories": []
+}

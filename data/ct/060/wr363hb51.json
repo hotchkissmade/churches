@@ -1,0 +1,33 @@
+{
+  "id": "wr363hb51",
+  "url": "https://constellation.church/wr363hb51",
+  "name": "Presbyterian Church of Manchester",
+  "displayName": "Presbyterian Church of Manchester",
+  "address": {
+    "street": "394 Lydall Street",
+    "city": "Manchester",
+    "state": "CT",
+    "zip": "06042"
+  },
+  "coordinates": {
+    "latitude": 41.79471397399902,
+    "longitude": -72.49108505249023
+  },
+  "website": "https://manchesterpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/851",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "851"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "manchesterpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "061199448"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "se34zrk89",
+  "url": "https://constellation.church/se34zrk89",
+  "name": "ChristChurch Presbyterian",
+  "displayName": "ChristChurch Presbyterian",
+  "address": {
+    "street": "1740 Peachtree Street NW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30309"
+  },
+  "coordinates": {
+    "latitude": 33.80147743225098,
+    "longitude": -84.39336395263672
+  },
+  "website": "https://christchurchatlanta.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1508",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1508"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christchurchatlanta.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "582105634"
+    }
+  ],
+  "advisories": []
+}

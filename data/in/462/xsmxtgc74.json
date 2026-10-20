@@ -1,0 +1,33 @@
+{
+  "id": "xsmxtgc74",
+  "url": "https://constellation.church/xsmxtgc74",
+  "name": "Doxa Bible Church",
+  "displayName": "Doxa Bible Church",
+  "address": {
+    "street": "5905 E Southport Rd",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46237"
+  },
+  "coordinates": {
+    "latitude": 39.66472625732422,
+    "longitude": -86.06551361083984
+  },
+  "website": "https://doxabible.org",
+  "listingUrl": "https://churches.sbc.net/church/doxa-bible-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "doxa-bible-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "doxabible.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "843651988"
+    }
+  ],
+  "advisories": []
+}

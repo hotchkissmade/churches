@@ -1,0 +1,33 @@
+{
+  "id": "sbgm16265",
+  "url": "https://constellation.church/sbgm16265",
+  "name": "Chapel Presbyterian Church",
+  "displayName": "Chapel Presbyterian Church",
+  "address": {
+    "street": "625 Barclay Hill Road",
+    "city": "Beaver",
+    "state": "PA",
+    "zip": "15009"
+  },
+  "coordinates": {
+    "latitude": 40.69011116027832,
+    "longitude": -80.38772201538086
+  },
+  "website": "https://chapelpca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/164",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "164"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chapelpca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251838741"
+    }
+  ],
+  "advisories": []
+}

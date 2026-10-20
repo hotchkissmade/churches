@@ -1,0 +1,33 @@
+{
+  "id": "pyjgf7z04",
+  "url": "https://constellation.church/pyjgf7z04",
+  "name": "United Methodist Church of Geneva",
+  "displayName": "United Methodist Church of Geneva",
+  "address": {
+    "street": "211 Hamilton Street",
+    "city": "Geneva",
+    "state": "IL",
+    "zip": "60134"
+  },
+  "coordinates": {
+    "latitude": 41.88903617858887,
+    "longitude": -88.30669403076172
+  },
+  "website": "https://genevaumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFOCQIA5",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFOCQIA5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "genevaumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366008606"
+    }
+  ],
+  "advisories": []
+}

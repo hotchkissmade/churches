@@ -1,0 +1,33 @@
+{
+  "id": "qprtq1d11",
+  "url": "https://constellation.church/qprtq1d11",
+  "name": "Tabernacle Presbyterian Church",
+  "displayName": "Tabernacle Presbyterian Church",
+  "address": {
+    "street": "418 E 34th St",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46205-3795"
+  },
+  "coordinates": {
+    "latitude": 39.817806243896484,
+    "longitude": -86.1502685546875
+  },
+  "website": "https://tabpres.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/2107/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "2107"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tabpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "350942650"
+    }
+  ],
+  "advisories": []
+}

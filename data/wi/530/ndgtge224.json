@@ -1,0 +1,33 @@
+{
+  "id": "ndgtge224",
+  "url": "https://constellation.church/ndgtge224",
+  "name": "Redeemer Lutheran Church",
+  "displayName": "Redeemer Lutheran Church",
+  "address": {
+    "street": "255 W Lincoln Ave",
+    "city": "Hartford",
+    "state": "WI",
+    "zip": "53027-2018"
+  },
+  "coordinates": {
+    "latitude": 43.31084060668945,
+    "longitude": -88.38282012939453
+  },
+  "website": "https://redeemerhartford.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c89148bc-9a66-4718-93d4-dbd9ad1f6291",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c89148bc-9a66-4718-93d4-dbd9ad1f6291"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerhartford.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391586705"
+    }
+  ],
+  "advisories": []
+}

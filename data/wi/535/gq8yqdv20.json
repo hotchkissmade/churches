@@ -1,0 +1,33 @@
+{
+  "id": "gq8yqdv20",
+  "url": "https://constellation.church/gq8yqdv20",
+  "name": "St James Lutheran Church",
+  "displayName": "St. James Lutheran Church",
+  "address": {
+    "street": "415 Washington St",
+    "city": "Prairie du Sac",
+    "state": "WI",
+    "zip": "53578-1145"
+  },
+  "coordinates": {
+    "latitude": 43.29058074951172,
+    "longitude": -89.7241325378418
+  },
+  "website": "https://stjamespds.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24920",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24920"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamespds.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391184459"
+    }
+  ],
+  "advisories": []
+}

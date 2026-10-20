@@ -1,0 +1,33 @@
+{
+  "id": "j8gackt08",
+  "url": "https://constellation.church/j8gackt08",
+  "name": "Faith Church",
+  "displayName": "Faith Church",
+  "address": {
+    "street": "9125 N College Ave",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46240-1028"
+  },
+  "coordinates": {
+    "latitude": 39.9211368560791,
+    "longitude": -86.14490127563477
+  },
+  "website": "https://faithchurchindy.com",
+  "listingUrl": "https://churches.efca.org/?id=12891",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12891"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithchurchindy.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "475195396"
+    }
+  ],
+  "advisories": []
+}

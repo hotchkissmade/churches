@@ -1,0 +1,33 @@
+{
+  "id": "gq3542q93",
+  "url": "https://constellation.church/gq3542q93",
+  "name": "All Saints' Church",
+  "displayName": "All Saints' Church",
+  "address": {
+    "street": "106 W Church St",
+    "city": "Frederick",
+    "state": "MD",
+    "zip": "21701-5411"
+  },
+  "coordinates": {
+    "latitude": 39.41532325744629,
+    "longitude": -77.41265106201172
+  },
+  "website": "https://allsaintsmd.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maryland/list/all-saints-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maryland/all-saints-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allsaintsmd.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520610441"
+    }
+  ],
+  "advisories": []
+}

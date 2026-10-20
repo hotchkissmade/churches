@@ -1,0 +1,33 @@
+{
+  "id": "wjz5fgj13",
+  "url": "https://constellation.church/wjz5fgj13",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "201 E Juniata St",
+    "city": "Allentown",
+    "state": "PA",
+    "zip": "18103-5160"
+  },
+  "coordinates": {
+    "latitude": 40.590370178222656,
+    "longitude": -75.44857025146484
+  },
+  "website": "https://saintmarkallentown.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f4d91ca5-40c2-4d92-9abe-dc8ebe12d4c0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f4d91ca5-40c2-4d92-9abe-dc8ebe12d4c0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintmarkallentown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237415149"
+    }
+  ],
+  "advisories": []
+}

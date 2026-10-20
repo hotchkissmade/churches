@@ -1,0 +1,33 @@
+{
+  "id": "pqrc3sp75",
+  "url": "https://constellation.church/pqrc3sp75",
+  "name": "Deerfield Baptist Church",
+  "displayName": "Deerfield Baptist Church",
+  "address": {
+    "street": "3470 N Christmas Tree Rd",
+    "city": "Decatur",
+    "state": "IL",
+    "zip": "62521"
+  },
+  "coordinates": {
+    "latitude": 39.88694953918457,
+    "longitude": -88.87744140625
+  },
+  "website": "https://galileedecatur.com",
+  "listingUrl": "https://churches.sbc.net/church/deerfield-baptist-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "deerfield-baptist-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "galileedecatur.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "331020074"
+    }
+  ],
+  "advisories": []
+}

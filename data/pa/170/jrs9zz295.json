@@ -1,0 +1,33 @@
+{
+  "id": "jrs9zz295",
+  "url": "https://constellation.church/jrs9zz295",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "28 N 9th St",
+    "city": "Lebanon",
+    "state": "PA",
+    "zip": "17046-4901"
+  },
+  "coordinates": {
+    "latitude": 40.33994102478027,
+    "longitude": -76.42596817016602
+  },
+  "website": "https://zionlutheranlebanon.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b1ef8fae-c73e-47ce-8c13-a1a750326611",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b1ef8fae-c73e-47ce-8c13-a1a750326611"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionlutheranlebanon.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231583612"
+    }
+  ],
+  "advisories": []
+}

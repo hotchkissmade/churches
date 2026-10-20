@@ -1,0 +1,33 @@
+{
+  "id": "sckr1jn91",
+  "url": "https://constellation.church/sckr1jn91",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "13271 Millard Ave",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68137-1742"
+  },
+  "coordinates": {
+    "latitude": 41.210636138916016,
+    "longitude": -96.12190246582031
+  },
+  "website": "https://splcomaha.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4827d486-1551-45c0-980a-77ce6a1a6891",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4827d486-1551-45c0-980a-77ce6a1a6891"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "splcomaha.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470487488"
+    }
+  ],
+  "advisories": []
+}

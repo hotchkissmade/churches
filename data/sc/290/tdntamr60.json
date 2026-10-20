@@ -1,0 +1,33 @@
+{
+  "id": "tdntamr60",
+  "url": "https://constellation.church/tdntamr60",
+  "name": "East Lake Community Church",
+  "displayName": "East Lake Community Church",
+  "address": {
+    "street": "10057 Broad River Rd",
+    "city": "Irmo",
+    "state": "SC",
+    "zip": "29063"
+  },
+  "coordinates": {
+    "latitude": 34.11257743835449,
+    "longitude": -81.19502258300781
+  },
+  "website": "https://eastlakeonline.com",
+  "listingUrl": "https://churches.sbc.net/church/east-lake-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "east-lake-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastlakeonline.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "582307463"
+    }
+  ],
+  "advisories": []
+}

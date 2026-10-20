@@ -1,0 +1,33 @@
+{
+  "id": "ftr6mnb65",
+  "url": "https://constellation.church/ftr6mnb65",
+  "name": "St Matthew Lutheran Church",
+  "displayName": "St. Matthew Lutheran Church",
+  "address": {
+    "street": "416 E Dover Rd",
+    "city": "Princeton",
+    "state": "IL",
+    "zip": "61356-9551"
+  },
+  "coordinates": {
+    "latitude": 41.379499435424805,
+    "longitude": -89.45880126953125
+  },
+  "website": "https://stmatthewsprinceton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=59c7f9e7-1f0d-43e4-9f9e-abf3d6a63a2e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "59c7f9e7-1f0d-43e4-9f9e-abf3d6a63a2e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmatthewsprinceton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362327289"
+    }
+  ],
+  "advisories": []
+}

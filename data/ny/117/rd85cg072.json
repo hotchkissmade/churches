@@ -1,0 +1,33 @@
+{
+  "id": "rd85cg072",
+  "url": "https://constellation.church/rd85cg072",
+  "name": "St Andrews Lutheran Church",
+  "displayName": "St. Andrew's Lutheran Church",
+  "address": {
+    "street": "30 Brooksite Dr",
+    "city": "Smithtown",
+    "state": "NY",
+    "zip": "11787-3476"
+  },
+  "coordinates": {
+    "latitude": 40.85420608520508,
+    "longitude": -73.20586013793945
+  },
+  "website": "https://standrewsofsmithtown.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8478f844-db4e-48a4-8b8c-5ebcb164341f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8478f844-db4e-48a4-8b8c-5ebcb164341f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewsofsmithtown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111957659"
+    }
+  ],
+  "advisories": []
+}

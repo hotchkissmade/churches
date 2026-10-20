@@ -1,0 +1,33 @@
+{
+  "id": "rjdpy7r67",
+  "url": "https://constellation.church/rjdpy7r67",
+  "name": "St Olaf Lutheran Church",
+  "displayName": "St. Olaf Lutheran Church",
+  "address": {
+    "street": "306 2nd St NW",
+    "city": "Austin",
+    "state": "MN",
+    "zip": "55912-3160"
+  },
+  "coordinates": {
+    "latitude": 43.66860771179199,
+    "longitude": -92.9765625
+  },
+  "website": "https://solc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f979248d-3dc8-48c4-bd36-dde7de66b1af",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f979248d-3dc8-48c4-bd36-dde7de66b1af"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "solc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410764075"
+    }
+  ],
+  "advisories": []
+}

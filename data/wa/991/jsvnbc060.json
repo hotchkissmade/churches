@@ -1,0 +1,33 @@
+{
+  "id": "jsvnbc060",
+  "url": "https://constellation.church/jsvnbc060",
+  "name": "American Lutheran Church",
+  "displayName": "American Lutheran Church",
+  "address": {
+    "street": "332801 Highway 2",
+    "city": "Newport",
+    "state": "WA",
+    "zip": "99156"
+  },
+  "coordinates": {
+    "latitude": 48.17341232299805,
+    "longitude": -117.07026672363281
+  },
+  "website": "https://americanlutheranchurch.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=914d974b-37f7-4a8a-9d73-21ee0630c04b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "914d974b-37f7-4a8a-9d73-21ee0630c04b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "americanlutheranchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911248490"
+    }
+  ],
+  "advisories": []
+}

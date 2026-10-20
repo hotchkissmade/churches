@@ -1,0 +1,33 @@
+{
+  "id": "b1m3wq706",
+  "url": "https://constellation.church/b1m3wq706",
+  "name": "St Stephen's Lutheran Church",
+  "displayName": "St. Stephen's Lutheran Church",
+  "address": {
+    "street": "230 N Evergreen Ave",
+    "city": "Woodbury",
+    "state": "NJ",
+    "zip": "08096-1800"
+  },
+  "coordinates": {
+    "latitude": 39.84050369262695,
+    "longitude": -75.14336776733398
+  },
+  "website": "https://ststephenselca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7437d311-723d-4ec3-b58f-ae2b520ae127",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7437d311-723d-4ec3-b58f-ae2b520ae127"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ststephenselca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221811915"
+    }
+  ],
+  "advisories": []
+}

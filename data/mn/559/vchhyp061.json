@@ -1,0 +1,33 @@
+{
+  "id": "vchhyp061",
+  "url": "https://constellation.church/vchhyp061",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "1717 W Service Dr",
+    "city": "Winona",
+    "state": "MN",
+    "zip": "55987-2186"
+  },
+  "coordinates": {
+    "latitude": 44.050968170166016,
+    "longitude": -91.68388366699219
+  },
+  "website": "https://flcwinona.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=80543aae-55b5-4ea5-936b-e6a963fb7c76",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "80543aae-55b5-4ea5-936b-e6a963fb7c76"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcwinona.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411461737"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kygdate85",
+  "url": "https://constellation.church/kygdate85",
+  "name": "Mercy Presbyterian Church",
+  "displayName": "Mercy Presbyterian Church",
+  "address": {
+    "street": "1997 Thomas Jefferson Road",
+    "city": "Forest",
+    "state": "VA",
+    "zip": "24551"
+  },
+  "coordinates": {
+    "latitude": 37.35189247131348,
+    "longitude": -79.2812614440918
+  },
+  "website": "https://mercypres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5494",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5494"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mercypres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "273191807"
+    }
+  ],
+  "advisories": []
+}

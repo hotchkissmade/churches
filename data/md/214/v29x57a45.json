@@ -1,0 +1,33 @@
+{
+  "id": "v29x57a45",
+  "url": "https://constellation.church/v29x57a45",
+  "name": "Citizens Church",
+  "displayName": "Citizens Church",
+  "address": {
+    "street": "901 Commerce Rd",
+    "city": "Annapolis",
+    "state": "MD",
+    "zip": "21401"
+  },
+  "coordinates": {
+    "latitude": 38.99401664733887,
+    "longitude": -76.54590225219727
+  },
+  "website": "https://citizensannapolis.com",
+  "listingUrl": "https://churches.sbc.net/church/citizens-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "citizens-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "citizensannapolis.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "815457520"
+    }
+  ],
+  "advisories": []
+}

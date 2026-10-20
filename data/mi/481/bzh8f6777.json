@@ -1,0 +1,33 @@
+{
+  "id": "bzh8f6777",
+  "url": "https://constellation.church/bzh8f6777",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "1343 Penniman Ave",
+    "city": "Plymouth",
+    "state": "MI",
+    "zip": "48170-1156"
+  },
+  "coordinates": {
+    "latitude": 42.37380027770996,
+    "longitude": -83.47632598876953
+  },
+  "website": "https://saintpeterplymouth.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24292",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24292"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintpeterplymouth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381841869"
+    }
+  ],
+  "advisories": []
+}

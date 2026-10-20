@@ -1,0 +1,33 @@
+{
+  "id": "j434a7090",
+  "url": "https://constellation.church/j434a7090",
+  "name": "First Baptist Church of Brookport",
+  "displayName": "First Baptist Church of Brookport",
+  "address": {
+    "street": "700 Pell Rd",
+    "city": "Brookport",
+    "state": "IL",
+    "zip": "62910"
+  },
+  "coordinates": {
+    "latitude": 37.126970291137695,
+    "longitude": -88.62070846557617
+  },
+  "website": "https://fbcbrookport.mere.church",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-brookport/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-brookport"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcbrookport.mere.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371159231"
+    }
+  ],
+  "advisories": []
+}

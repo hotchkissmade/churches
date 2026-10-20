@@ -1,0 +1,33 @@
+{
+  "id": "jn2fpwa15",
+  "url": "https://constellation.church/jn2fpwa15",
+  "name": "St Matthew Lutheran Church",
+  "displayName": "St. Matthew Lutheran Church",
+  "address": {
+    "street": "400 Lynbrooke Rd",
+    "city": "Springfield",
+    "state": "PA",
+    "zip": "19064-3512"
+  },
+  "coordinates": {
+    "latitude": 39.9265022277832,
+    "longitude": -75.3261947631836
+  },
+  "website": "https://stmattspringfield.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9b436cdc-18b2-458c-8011-5aa3704700ab",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9b436cdc-18b2-458c-8011-5aa3704700ab"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmattspringfield.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236005341"
+    }
+  ],
+  "advisories": []
+}

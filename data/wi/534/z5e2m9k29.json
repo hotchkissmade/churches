@@ -1,0 +1,33 @@
+{
+  "id": "z5e2m9k29",
+  "url": "https://constellation.church/z5e2m9k29",
+  "name": "North Pointe United Methodist Church",
+  "displayName": "North Pointe United Methodist Church",
+  "address": {
+    "street": "3825 Erie St",
+    "city": "Racine",
+    "state": "WI",
+    "zip": "53402-3521"
+  },
+  "coordinates": {
+    "latitude": 42.76815986633301,
+    "longitude": -87.78619384765625
+  },
+  "website": "https://northpointeracine.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFBEeIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFBEeIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northpointeracine.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "264266121"
+    }
+  ],
+  "advisories": []
+}

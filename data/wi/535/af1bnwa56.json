@@ -1,0 +1,33 @@
+{
+  "id": "af1bnwa56",
+  "url": "https://constellation.church/af1bnwa56",
+  "name": "Brooklyn Lutheran Church",
+  "displayName": "Brooklyn Lutheran Church",
+  "address": {
+    "street": "101 2nd St",
+    "city": "Brooklyn",
+    "state": "WI",
+    "zip": "53521-9006"
+  },
+  "coordinates": {
+    "latitude": 42.85419464111328,
+    "longitude": -89.37455749511719
+  },
+  "website": null,
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=677e11a2-3186-483e-af51-2e337c45d3d1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "677e11a2-3186-483e-af51-2e337c45d3d1"
+    },
+    {
+      "namespace": "com.facebook.page",
+      "value": "brooklynlutheranwi"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391470692"
+    }
+  ],
+  "advisories": []
+}

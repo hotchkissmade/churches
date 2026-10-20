@@ -1,0 +1,33 @@
+{
+  "id": "gsf41kv35",
+  "url": "https://constellation.church/gsf41kv35",
+  "name": "R Church",
+  "displayName": "R Church",
+  "address": {
+    "street": "340 Grand Blvd",
+    "city": "Elgin",
+    "state": "IL",
+    "zip": "60120"
+  },
+  "coordinates": {
+    "latitude": 42.04394721984863,
+    "longitude": -88.26451873779297
+  },
+  "website": "https://rchurch.online",
+  "listingUrl": "https://converge.org/church/r-church/",
+  "identifiers": [
+    {
+      "namespace": "org.converge.id",
+      "value": "38597"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rchurch.online"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "815170528"
+    }
+  ],
+  "advisories": []
+}

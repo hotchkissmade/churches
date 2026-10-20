@@ -1,0 +1,33 @@
+{
+  "id": "kxxv54x83",
+  "url": "https://constellation.church/kxxv54x83",
+  "name": "Northminster Presbyterian Church",
+  "displayName": "Northminster Presbyterian Church",
+  "address": {
+    "street": "1416 20th St",
+    "city": "Ames",
+    "state": "IA",
+    "zip": "50010-5143"
+  },
+  "coordinates": {
+    "latitude": 42.0411491394043,
+    "longitude": -93.63027954101562
+  },
+  "website": "https://amesnpc.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/2522/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "2522"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "amesnpc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420887371"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "q6k4ngm08",
+  "url": "https://constellation.church/q6k4ngm08",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "1101 N 4th St",
+    "city": "Burlington",
+    "state": "KS",
+    "zip": "66839"
+  },
+  "coordinates": {
+    "latitude": 38.20524787902832,
+    "longitude": -95.73831939697266
+  },
+  "website": "https://firstbaptistburlington.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-1053/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-1053"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistburlington.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480952961"
+    }
+  ],
+  "advisories": []
+}

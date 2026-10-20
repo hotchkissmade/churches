@@ -1,0 +1,33 @@
+{
+  "id": "bcecdsc76",
+  "url": "https://constellation.church/bcecdsc76",
+  "name": "St. Paul United Methodist Church",
+  "displayName": "St. Paul United Methodist Church",
+  "address": {
+    "street": "511 N Hobart St",
+    "city": "Pampa",
+    "state": "TX",
+    "zip": "79065-6144"
+  },
+  "coordinates": {
+    "latitude": 35.536550521850586,
+    "longitude": -100.97215270996094
+  },
+  "website": "https://stpaulpampa.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKcEIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKcEIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulpampa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751882047"
+    }
+  ],
+  "advisories": []
+}

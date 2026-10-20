@@ -1,0 +1,33 @@
+{
+  "id": "gcdfvb522",
+  "url": "https://constellation.church/gcdfvb522",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "1280 Daley Rd",
+    "city": "Lapeer",
+    "state": "MI",
+    "zip": "48446"
+  },
+  "coordinates": {
+    "latitude": 43.08763885498047,
+    "longitude": -83.29693603515625
+  },
+  "website": "https://lapeerag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a3c6bb2e-196e-4e7f-adc5-214f2c451cde&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "a3c6bb2e-196e-4e7f-adc5-214f2c451cde"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lapeerag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311407083"
+    }
+  ],
+  "advisories": []
+}

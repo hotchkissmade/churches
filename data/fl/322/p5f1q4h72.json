@@ -1,0 +1,33 @@
+{
+  "id": "p5f1q4h72",
+  "url": "https://constellation.church/p5f1q4h72",
+  "name": "Riverstone Community Church",
+  "displayName": "Riverstone Community Church",
+  "address": {
+    "street": "6800 W 5th Street",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32254"
+  },
+  "coordinates": {
+    "latitude": 30.342836380004883,
+    "longitude": -81.76012420654297
+  },
+  "website": "https://riverstonecommunitychurch.org",
+  "listingUrl": "https://churches.sbc.net/church/riverstone-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "riverstone-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "riverstonecommunitychurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "270816412"
+    }
+  ],
+  "advisories": []
+}

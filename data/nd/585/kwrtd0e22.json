@@ -1,0 +1,33 @@
+{
+  "id": "kwrtd0e22",
+  "url": "https://constellation.church/kwrtd0e22",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "400 2nd Ave. N.E.",
+    "city": "Elgin",
+    "state": "ND",
+    "zip": "58533"
+  },
+  "coordinates": {
+    "latitude": 46.404754638671875,
+    "longitude": -101.84049224853516
+  },
+  "website": "https://zelcelgin.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=db35aa35-82cd-4a6b-ba70-66c24581b209",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "db35aa35-82cd-4a6b-ba70-66c24581b209"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zelcelgin.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363009417"
+    }
+  ],
+  "advisories": []
+}

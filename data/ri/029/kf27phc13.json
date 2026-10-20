@@ -1,0 +1,33 @@
+{
+  "id": "kf27phc13",
+  "url": "https://constellation.church/kf27phc13",
+  "name": "Cranston",
+  "displayName": "Cranston Christadelphian Ecclesia",
+  "address": {
+    "street": "2104 Cranston Street",
+    "city": "Cranston",
+    "state": "RI",
+    "zip": "02920"
+  },
+  "coordinates": {
+    "latitude": 41.77058982849121,
+    "longitude": -71.47253799438477
+  },
+  "website": "https://cranstonchristadelphians.org",
+  "listingUrl": "https://christadelphia.org/ecclesialist.php?RI#cranston",
+  "identifiers": [
+    {
+      "namespace": "org.christadelphia.id",
+      "value": "RI#cranston"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cranstonchristadelphians.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "473128845"
+    }
+  ],
+  "advisories": []
+}

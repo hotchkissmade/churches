@@ -1,0 +1,33 @@
+{
+  "id": "bdcpen722",
+  "url": "https://constellation.church/bdcpen722",
+  "name": "Legacy Church",
+  "displayName": "Legacy Church",
+  "address": {
+    "street": "710 E Sunset Dr",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98225"
+  },
+  "coordinates": {
+    "latitude": 48.76972961425781,
+    "longitude": -122.4659652709961
+  },
+  "website": "https://hopeinchristchurch.org",
+  "listingUrl": "https://nabconference.org/directory/legacy-church/",
+  "identifiers": [
+    {
+      "namespace": "org.nabconference.id",
+      "value": "legacy-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopeinchristchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510145374"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hw3b7zg09",
+  "url": "https://constellation.church/hw3b7zg09",
+  "name": "Concord Centerville Presbyterian Church",
+  "displayName": "Concord Centerville Presbyterian Church",
+  "address": {
+    "street": "46880 Main Street",
+    "city": "Jacobsburg",
+    "state": "OH",
+    "zip": "43933"
+  },
+  "coordinates": {
+    "latitude": 39.974552154541016,
+    "longitude": -80.95598602294922
+  },
+  "website": "https://uovpresby.org/congregations",
+  "listingUrl": "https://church-trends.pcusa.org/church/6666/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "6666"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "uovpresby.org/congregations"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341033585"
+    }
+  ],
+  "advisories": []
+}

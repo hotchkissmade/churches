@@ -1,0 +1,33 @@
+{
+  "id": "hxz9cxt16",
+  "url": "https://constellation.church/hxz9cxt16",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "1225 W Lincoln St",
+    "city": "Augusta",
+    "state": "WI",
+    "zip": "54722"
+  },
+  "coordinates": {
+    "latitude": 44.683990478515625,
+    "longitude": -91.13619232177734
+  },
+  "website": "https://myaugustachurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=c5672231-3a05-483d-a4f1-c396c97990f3&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "c5672231-3a05-483d-a4f1-c396c97990f3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "myaugustachurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391424006"
+    }
+  ],
+  "advisories": []
+}

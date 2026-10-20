@@ -1,0 +1,33 @@
+{
+  "id": "w7f0xt962",
+  "url": "https://constellation.church/w7f0xt962",
+  "name": "Rejoice Lutheran Church",
+  "displayName": "Rejoice Lutheran Church",
+  "address": {
+    "street": "2556 S 138th St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68144-2400"
+  },
+  "coordinates": {
+    "latitude": 41.23495864868164,
+    "longitude": -96.1281967163086
+  },
+  "website": "https://rejoiceomaha.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a9c1b691-df58-4562-8e4c-8e51f9e5e27d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a9c1b691-df58-4562-8e4c-8e51f9e5e27d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rejoiceomaha.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470426523"
+    }
+  ],
+  "advisories": []
+}

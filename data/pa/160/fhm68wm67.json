@@ -1,0 +1,33 @@
+{
+  "id": "fhm68wm67",
+  "url": "https://constellation.church/fhm68wm67",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "420 Beaver St",
+    "city": "Mars",
+    "state": "PA",
+    "zip": "16046"
+  },
+  "coordinates": {
+    "latitude": 40.69508743286133,
+    "longitude": -80.01752090454102
+  },
+  "website": "https://stjohnchurchmars.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5fcd4332-a554-42a3-a427-51ed9ef36190",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5fcd4332-a554-42a3-a427-51ed9ef36190"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnchurchmars.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "256049676"
+    }
+  ],
+  "advisories": []
+}

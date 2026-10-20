@@ -1,0 +1,33 @@
+{
+  "id": "tv5mh4679",
+  "url": "https://constellation.church/tv5mh4679",
+  "name": "Vienna Presbyterian Church",
+  "displayName": "Vienna Presbyterian Church",
+  "address": {
+    "street": "124 Park St NE",
+    "city": "Vienna",
+    "state": "VA",
+    "zip": "22180-4601"
+  },
+  "coordinates": {
+    "latitude": 38.903953552246094,
+    "longitude": -77.26456069946289
+  },
+  "website": "https://viennapres.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/409/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "409"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "viennapres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "546025443"
+    }
+  ],
+  "advisories": []
+}

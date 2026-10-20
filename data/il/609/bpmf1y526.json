@@ -1,0 +1,33 @@
+{
+  "id": "bpmf1y526",
+  "url": "https://constellation.church/bpmf1y526",
+  "name": "American Lutheran Church",
+  "displayName": "American Lutheran Church",
+  "address": {
+    "street": "1560 Career Center Rd",
+    "city": "Bourbonnais",
+    "state": "IL",
+    "zip": "60914-5023"
+  },
+  "coordinates": {
+    "latitude": 41.18008041381836,
+    "longitude": -87.89411926269531
+  },
+  "website": "https://alcbourbonnais.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3b7d60c6-6894-4f0d-ba63-4669a8cb987c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3b7d60c6-6894-4f0d-ba63-4669a8cb987c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "alcbourbonnais.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362985608"
+    }
+  ],
+  "advisories": []
+}

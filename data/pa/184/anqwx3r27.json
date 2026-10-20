@@ -1,0 +1,33 @@
+{
+  "id": "anqwx3r27",
+  "url": "https://constellation.church/anqwx3r27",
+  "name": "Church of the Epiphany",
+  "displayName": "Church of the Epiphany",
+  "address": {
+    "street": "25 Church Hill Road",
+    "city": "Dalton - Glenburn Twp",
+    "state": "PA",
+    "zip": "18414"
+  },
+  "coordinates": {
+    "latitude": 41.521949768066406,
+    "longitude": -75.72762680053711
+  },
+  "website": "https://epiphanyglenburn.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-bethlehem/list/church-epiphany",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-bethlehem/church-epiphany"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "epiphanyglenburn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "240798690"
+    }
+  ],
+  "advisories": []
+}

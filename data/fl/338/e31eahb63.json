@@ -1,0 +1,33 @@
+{
+  "id": "e31eahb63",
+  "url": "https://constellation.church/e31eahb63",
+  "name": "Cypress Ridge Presbyterian Church",
+  "displayName": "Cypress Ridge Presbyterian Church",
+  "address": {
+    "street": "6230 Cypress Gardens Boulevard",
+    "city": "Winter Haven",
+    "state": "FL",
+    "zip": "33884"
+  },
+  "coordinates": {
+    "latitude": 27.984176635742188,
+    "longitude": -81.6842155456543
+  },
+  "website": "https://cypressridge-pca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1370",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1370"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cypressridge-pca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593100412"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "x1cxdrg42",
+  "url": "https://constellation.church/x1cxdrg42",
+  "name": "St Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "835 E Fairmont Blvd",
+    "city": "Rapid City",
+    "state": "SD",
+    "zip": "57701-7540"
+  },
+  "coordinates": {
+    "latitude": 44.05243492126465,
+    "longitude": -103.20269012451172
+  },
+  "website": "https://stpaulsrapidcity.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24156",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24156"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsrapidcity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460310049"
+    }
+  ],
+  "advisories": []
+}

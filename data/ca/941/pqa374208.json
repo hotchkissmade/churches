@@ -1,0 +1,33 @@
+{
+  "id": "pqa374208",
+  "url": "https://constellation.church/pqa374208",
+  "name": "Lutheran Church of the Holy Spirit",
+  "displayName": "Lutheran Church of the Holy Spirit",
+  "address": {
+    "street": "2400 Noriega St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94122-4242"
+  },
+  "coordinates": {
+    "latitude": 37.753835678100586,
+    "longitude": -122.48963165283203
+  },
+  "website": "https://lcholyspirit.org",
+  "listingUrl": "https://locator.lcms.org/church/C/816387",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "816387"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcholyspirit.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942497957"
+    }
+  ],
+  "advisories": []
+}

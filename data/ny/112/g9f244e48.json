@@ -1,0 +1,33 @@
+{
+  "id": "g9f244e48",
+  "url": "https://constellation.church/g9f244e48",
+  "name": "Saint Paul's Carroll Street",
+  "displayName": "St. Paul's Carroll Street",
+  "address": {
+    "street": "199 Carroll St",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11231"
+  },
+  "coordinates": {
+    "latitude": 40.68177032470703,
+    "longitude": -73.99827194213867
+  },
+  "website": "https://stpaulstagnes-brooklyn.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-pauls-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-pauls-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulstagnes-brooklyn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111672800"
+    }
+  ],
+  "advisories": []
+}

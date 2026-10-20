@@ -1,0 +1,33 @@
+{
+  "id": "m9m9t4g56",
+  "url": "https://constellation.church/m9m9t4g56",
+  "name": "San Clemente Presbyterian Church",
+  "displayName": "San Clemente Presbyterian Church",
+  "address": {
+    "street": "119 N Ave de la Estrella",
+    "city": "San Clemente",
+    "state": "CA",
+    "zip": "92672-9325"
+  },
+  "coordinates": {
+    "latitude": 33.429426193237305,
+    "longitude": -117.6135025024414
+  },
+  "website": "https://scpres.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/590/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "590"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "scpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952148416"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kqgxrmy40",
+  "url": "https://constellation.church/kqgxrmy40",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "1025 Columbia Ave",
+    "city": "Lancaster",
+    "state": "PA",
+    "zip": "17603"
+  },
+  "coordinates": {
+    "latitude": 40.0389347076416,
+    "longitude": -76.32728576660156
+  },
+  "website": "https://lancasterfirst.net",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=9ba3f59b-10b5-4d8e-b8d3-f627d5a4113e&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "9ba3f59b-10b5-4d8e-b8d3-f627d5a4113e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lancasterfirst.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231619868"
+    }
+  ],
+  "advisories": []
+}

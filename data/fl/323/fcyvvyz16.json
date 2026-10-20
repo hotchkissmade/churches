@@ -1,0 +1,33 @@
+{
+  "id": "fcyvvyz16",
+  "url": "https://constellation.church/fcyvvyz16",
+  "name": "Morningside Baptist Church",
+  "displayName": "Morningside Baptist Church",
+  "address": {
+    "street": "1560 Pedrick Rd",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32317"
+  },
+  "coordinates": {
+    "latitude": 30.47150421142578,
+    "longitude": -84.18450546264648
+  },
+  "website": "https://morningsidetlh.org",
+  "listingUrl": "https://churches.sbc.net/church/morningside-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "morningside-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "morningsidetlh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592823744"
+    }
+  ],
+  "advisories": []
+}

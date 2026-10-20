@@ -1,0 +1,33 @@
+{
+  "id": "fs33rcy46",
+  "url": "https://constellation.church/fs33rcy46",
+  "name": "St John Evangelical Lutheran Church",
+  "displayName": "St. John Evangelical Lutheran Church",
+  "address": {
+    "street": "1224 Melrose Ave",
+    "city": "Melrose Park",
+    "state": "PA",
+    "zip": "19027-3018"
+  },
+  "coordinates": {
+    "latitude": 40.06663703918457,
+    "longitude": -75.13425064086914
+  },
+  "website": "https://stjohnsmelrosepark.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1c7b463c-f35b-44e9-8f38-67e4d278d346",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1c7b463c-f35b-44e9-8f38-67e4d278d346"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsmelrosepark.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231401555"
+    }
+  ],
+  "advisories": []
+}

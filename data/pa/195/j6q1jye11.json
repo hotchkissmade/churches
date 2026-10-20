@@ -1,0 +1,33 @@
+{
+  "id": "j6q1jye11",
+  "url": "https://constellation.church/j6q1jye11",
+  "name": "Friedens Lutheran Church",
+  "displayName": "Friedens Lutheran Church",
+  "address": {
+    "street": "28 Wolf Creek Rd",
+    "city": "Shartlesville",
+    "state": "PA",
+    "zip": "19554"
+  },
+  "coordinates": {
+    "latitude": 40.51192283630371,
+    "longitude": -76.10725021362305
+  },
+  "website": "https://friedensfolks.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a512668e-46b8-47a1-8cce-de9501d1d65a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a512668e-46b8-47a1-8cce-de9501d1d65a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "friedensfolks.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232263637"
+    }
+  ],
+  "advisories": []
+}

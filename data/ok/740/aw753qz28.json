@@ -1,0 +1,33 @@
+{
+  "id": "aw753qz28",
+  "url": "https://constellation.church/aw753qz28",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "4th St & Highland Ave",
+    "city": "Wynona",
+    "state": "OK",
+    "zip": "74084"
+  },
+  "coordinates": {
+    "latitude": 36.54694175720215,
+    "longitude": -96.32978057861328
+  },
+  "website": "https://wynonaassemblyofgod.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=79e05857-46a9-4d6d-99b7-86389e02b36c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "79e05857-46a9-4d6d-99b7-86389e02b36c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wynonaassemblyofgod.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "731210222"
+    }
+  ],
+  "advisories": []
+}

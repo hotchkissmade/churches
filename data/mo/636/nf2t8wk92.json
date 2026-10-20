@@ -1,0 +1,33 @@
+{
+  "id": "nf2t8wk92",
+  "url": "https://constellation.church/nf2t8wk92",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "210 N A St",
+    "city": "Farmington",
+    "state": "MO",
+    "zip": "63640"
+  },
+  "coordinates": {
+    "latitude": 37.782405853271484,
+    "longitude": -90.42399597167969
+  },
+  "website": "https://farmingtonfbc.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-618/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-618"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "farmingtonfbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430694552"
+    }
+  ],
+  "advisories": []
+}

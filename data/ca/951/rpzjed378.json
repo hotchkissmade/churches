@@ -1,0 +1,33 @@
+{
+  "id": "rpzjed378",
+  "url": "https://constellation.church/rpzjed378",
+  "name": "Westgate Church",
+  "displayName": "Westgate Church",
+  "address": {
+    "street": "1735 Saratoga Avenue",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95129"
+  },
+  "coordinates": {
+    "latitude": 37.29072380065918,
+    "longitude": -121.99444580078125
+  },
+  "website": "https://westgatechurch.org",
+  "listingUrl": "https://venturechurches.org/churches/westgate-church/",
+  "identifiers": [
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "westgate-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westgatechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942853119"
+    }
+  ],
+  "advisories": []
+}

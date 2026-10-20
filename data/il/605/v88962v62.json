@@ -1,0 +1,33 @@
+{
+  "id": "v88962v62",
+  "url": "https://constellation.church/v88962v62",
+  "name": "St Michaels Lutheran Church",
+  "displayName": "St. Michael's Lutheran Church",
+  "address": {
+    "street": "500 E 31st St",
+    "city": "La Grange Park",
+    "state": "IL",
+    "zip": "60526-5454"
+  },
+  "coordinates": {
+    "latitude": 41.834163665771484,
+    "longitude": -87.86851501464844
+  },
+  "website": "https://saintmichaelslgpk.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=98317e3d-1334-4333-8f4f-913c3542bb3b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "98317e3d-1334-4333-8f4f-913c3542bb3b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintmichaelslgpk.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362587611"
+    }
+  ],
+  "advisories": []
+}

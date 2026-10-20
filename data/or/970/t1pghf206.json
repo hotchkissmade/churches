@@ -1,0 +1,33 @@
+{
+  "id": "t1pghf206",
+  "url": "https://constellation.church/t1pghf206",
+  "name": "Gateway Presbyterian Church",
+  "displayName": "Gateway Presbyterian Church",
+  "address": {
+    "street": "1111 Dry Hollow Rd",
+    "city": "The Dalles",
+    "state": "OR",
+    "zip": "97058"
+  },
+  "coordinates": {
+    "latitude": 45.59408378601074,
+    "longitude": -121.16705322265625
+  },
+  "website": "https://gatewaypc.org",
+  "listingUrl": "https://eco-pres.org/churches/gateway-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "gateway-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gatewaypc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930522862"
+    }
+  ],
+  "advisories": []
+}

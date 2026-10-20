@@ -1,0 +1,33 @@
+{
+  "id": "jghrbsr95",
+  "url": "https://constellation.church/jghrbsr95",
+  "name": "St Philip Lutheran Church",
+  "displayName": "St. Philip Lutheran Church",
+  "address": {
+    "street": "3012 N Holton St",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53212-2123"
+  },
+  "coordinates": {
+    "latitude": 43.0732258,
+    "longitude": -87.9050697
+  },
+  "website": "https://stphilipsmilwaukee.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24826",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24826"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stphilipsmilwaukee.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391133640"
+    }
+  ],
+  "advisories": []
+}

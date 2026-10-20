@@ -1,0 +1,33 @@
+{
+  "id": "xcb20pe02",
+  "url": "https://constellation.church/xcb20pe02",
+  "name": "Cloud’s Creek Baptist Church",
+  "displayName": "Cloud’s Creek Baptist Church",
+  "address": {
+    "street": "274 Clouds Creek Rd",
+    "city": "Crawford",
+    "state": "GA",
+    "zip": "30630"
+  },
+  "coordinates": {
+    "latitude": 33.97348594665527,
+    "longitude": -83.12256240844727
+  },
+  "website": "https://cloudscreek.org",
+  "listingUrl": "https://churches.sbc.net/church/clouds-creek-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "clouds-creek-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cloudscreek.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581541589"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "af8ee4r93",
+  "url": "https://constellation.church/af8ee4r93",
+  "name": "Capitol Hill Baptist Church",
+  "displayName": "Capitol Hill Baptist Church",
+  "address": {
+    "street": "525 A St NE",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20002"
+  },
+  "coordinates": {
+    "latitude": 38.89087104797363,
+    "longitude": -76.99900436401367
+  },
+  "website": "https://capitolhillbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/capitol-hill-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "capitol-hill-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "capitolhillbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "530232505"
+    }
+  ],
+  "advisories": []
+}

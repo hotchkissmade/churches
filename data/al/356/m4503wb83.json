@@ -1,0 +1,33 @@
+{
+  "id": "m4503wb83",
+  "url": "https://constellation.church/m4503wb83",
+  "name": "Underwood Baptist",
+  "displayName": "Underwood Baptist Church",
+  "address": {
+    "street": "5091 Highway 157",
+    "city": "Florence",
+    "state": "AL",
+    "zip": "35633"
+  },
+  "coordinates": {
+    "latitude": 34.87452507019043,
+    "longitude": -87.70111083984375
+  },
+  "website": "https://underwoodbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/underwood-baptist/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "underwood-baptist"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "underwoodbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351554729"
+    }
+  ],
+  "advisories": []
+}

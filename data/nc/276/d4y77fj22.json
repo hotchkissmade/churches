@@ -1,0 +1,33 @@
+{
+  "id": "d4y77fj22",
+  "url": "https://constellation.church/d4y77fj22",
+  "name": "Church of the Good Shepherd",
+  "displayName": "Church of the Good Shepherd",
+  "address": {
+    "street": "121 Hillsborough St",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27603-1762"
+  },
+  "coordinates": {
+    "latitude": 35.78022384643555,
+    "longitude": -78.64106369018555
+  },
+  "website": "https://raleighmennonite.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-north-carolina/list/church-good-shepherd-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-north-carolina/church-good-shepherd-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "raleighmennonite.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561557290"
+    }
+  ],
+  "advisories": []
+}

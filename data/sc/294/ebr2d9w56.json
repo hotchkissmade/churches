@@ -1,0 +1,33 @@
+{
+  "id": "ebr2d9w56",
+  "url": "https://constellation.church/ebr2d9w56",
+  "name": "Summerville Baptist Church",
+  "displayName": "Summerville Baptist Church",
+  "address": {
+    "street": "417 Central Ave",
+    "city": "Summerville",
+    "state": "SC",
+    "zip": "29483"
+  },
+  "coordinates": {
+    "latitude": 33.018110275268555,
+    "longitude": -80.18558120727539
+  },
+  "website": "https://summervillebaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/summerville-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "summerville-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "summervillebaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570381869"
+    }
+  ],
+  "advisories": []
+}

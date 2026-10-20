@@ -1,0 +1,33 @@
+{
+  "id": "ky6s88s22",
+  "url": "https://constellation.church/ky6s88s22",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "30650 State Highway 95",
+    "city": "Bartlett",
+    "state": "TX",
+    "zip": "76511-4355"
+  },
+  "coordinates": {
+    "latitude": 30.8092041015625,
+    "longitude": -97.42153930664062
+  },
+  "website": "https://stjohnbartlett.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c61d446a-9fa1-449b-90c2-e3671920b043",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c61d446a-9fa1-449b-90c2-e3671920b043"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnbartlett.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741834599"
+    }
+  ],
+  "advisories": []
+}

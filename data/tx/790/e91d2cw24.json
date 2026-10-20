@@ -1,0 +1,33 @@
+{
+  "id": "e91d2cw24",
+  "url": "https://constellation.church/e91d2cw24",
+  "name": "United Assembly of God",
+  "displayName": "United Assembly of God",
+  "address": {
+    "street": "301 SE 9th St",
+    "city": "Plainview",
+    "state": "TX",
+    "zip": "79072"
+  },
+  "coordinates": {
+    "latitude": 34.17157173156738,
+    "longitude": -101.69881439208984
+  },
+  "website": "https://uaplainview.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=daeb64ab-68a9-414c-b78d-52264a561900&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "daeb64ab-68a9-414c-b78d-52264a561900"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "uaplainview.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "472187877"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ca17c6593",
+  "url": "https://constellation.church/ca17c6593",
+  "name": "North Carolina",
+  "displayName": "North Carolina",
+  "address": {
+    "street": "2660 Yonkers Rd Ste 130 Raleigh",
+    "city": null,
+    "state": "NC",
+    "zip": "27604"
+  },
+  "coordinates": {
+    "latitude": 35.80399131774902,
+    "longitude": -78.59809875488281
+  },
+  "website": "https://ncag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=3c7f4e1a-53c6-4b74-b573-d7461b366e15&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "3c7f4e1a-53c6-4b74-b573-d7461b366e15"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ncag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560810041"
+    }
+  ],
+  "advisories": []
+}

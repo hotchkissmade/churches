@@ -1,0 +1,33 @@
+{
+  "id": "gwaanjn57",
+  "url": "https://constellation.church/gwaanjn57",
+  "name": "St. Matthias' Church (Anglican)",
+  "displayName": "St. Matthias' Church (Anglican)",
+  "address": {
+    "street": "3460 Forest Lane",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75234"
+  },
+  "coordinates": {
+    "latitude": 32.90871810913086,
+    "longitude": -96.86209869384766
+  },
+  "website": "https://stmatthias-dallas.org",
+  "listingUrl": "https://www.acna.org/admin_units/402",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "402"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmatthias-dallas.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "205592724"
+    }
+  ],
+  "advisories": []
+}

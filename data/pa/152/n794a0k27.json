@@ -1,0 +1,33 @@
+{
+  "id": "n794a0k27",
+  "url": "https://constellation.church/n794a0k27",
+  "name": "St John's Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "920 Perry Hwy",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15229-1130"
+  },
+  "coordinates": {
+    "latitude": 40.53353309631348,
+    "longitude": -80.03578567504883
+  },
+  "website": "https://stjohnsofperrysville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1b1cad0e-5a76-45fa-bd54-8a606e538bea",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1b1cad0e-5a76-45fa-bd54-8a606e538bea"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsofperrysville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "256002780"
+    }
+  ],
+  "advisories": []
+}

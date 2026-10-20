@@ -1,0 +1,33 @@
+{
+  "id": "d64re9n77",
+  "url": "https://constellation.church/d64re9n77",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "130 3rd St",
+    "city": "Savanna",
+    "state": "IL",
+    "zip": "61074-1910"
+  },
+  "coordinates": {
+    "latitude": 42.09233093261719,
+    "longitude": -90.15432739257812
+  },
+  "website": "https://stpetersavanna.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/25032",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "25032"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpetersavanna.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362586321"
+    }
+  ],
+  "advisories": []
+}

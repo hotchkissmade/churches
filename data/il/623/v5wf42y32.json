@@ -1,0 +1,33 @@
+{
+  "id": "v5wf42y32",
+  "url": "https://constellation.church/v5wf42y32",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "320 Adams St",
+    "city": "Coatsburg",
+    "state": "IL",
+    "zip": "62325-1042"
+  },
+  "coordinates": {
+    "latitude": 40.03118896484375,
+    "longitude": -91.16215515136719
+  },
+  "website": "https://stpeterscoatsburg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ec3a7f55-290c-4294-9c04-e6f229a9bfb6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ec3a7f55-290c-4294-9c04-e6f229a9bfb6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpeterscoatsburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237180577"
+    }
+  ],
+  "advisories": []
+}

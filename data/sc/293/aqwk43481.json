@@ -1,0 +1,33 @@
+{
+  "id": "aqwk43481",
+  "url": "https://constellation.church/aqwk43481",
+  "name": "Mountain Hill Church",
+  "displayName": "Mountain Hill Church",
+  "address": {
+    "street": "34 The Cliffs Pkwy",
+    "city": "Landrum",
+    "state": "SC",
+    "zip": "29356"
+  },
+  "coordinates": {
+    "latitude": 35.14626502990723,
+    "longitude": -82.33169555664062
+  },
+  "website": "https://mountainhillchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/mountain-hill-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mountain-hill-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mountainhillchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "571098083"
+    }
+  ],
+  "advisories": []
+}

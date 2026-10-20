@@ -1,0 +1,33 @@
+{
+  "id": "rnz1gt986",
+  "url": "https://constellation.church/rnz1gt986",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "100 S Jefferson St",
+    "city": "Mount Union",
+    "state": "PA",
+    "zip": "17066-1901"
+  },
+  "coordinates": {
+    "latitude": 40.38422966003418,
+    "longitude": -77.88551712036133
+  },
+  "website": "https://saint-luke-lutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a3cf4fb4-3297-4f80-9467-e98e7c95695c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a3cf4fb4-3297-4f80-9467-e98e7c95695c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saint-luke-lutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232442400"
+    }
+  ],
+  "advisories": []
+}

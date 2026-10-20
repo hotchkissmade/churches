@@ -1,0 +1,33 @@
+{
+  "id": "vvx0rd950",
+  "url": "https://constellation.church/vvx0rd950",
+  "name": "First Baptist Church of Bradenton",
+  "displayName": "First Baptist Church of Bradenton",
+  "address": {
+    "street": "1306 Manatee Ave W",
+    "city": "Bradenton",
+    "state": "FL",
+    "zip": "34205"
+  },
+  "coordinates": {
+    "latitude": 27.49564552307129,
+    "longitude": -82.57493209838867
+  },
+  "website": "https://firstbradenton.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-bradenton/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-bradenton"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbradenton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591165674"
+    }
+  ],
+  "advisories": []
+}

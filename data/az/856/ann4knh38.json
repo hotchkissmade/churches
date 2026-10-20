@@ -1,0 +1,37 @@
+{
+  "id": "ann4knh38",
+  "url": "https://constellation.church/ann4knh38",
+  "name": "Desert Hills Lutheran Church",
+  "displayName": "Desert Hills Lutheran Church",
+  "address": {
+    "street": "2150 S Camino Del Sol",
+    "city": "Green Valley",
+    "state": "AZ",
+    "zip": "85622-8352"
+  },
+  "coordinates": {
+    "latitude": 31.838420867919922,
+    "longitude": -111.01665496826172
+  },
+  "website": "https://dhlc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7405e1bf-dd4c-47a0-8b16-6214a3939768",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7405e1bf-dd4c-47a0-8b16-6214a3939768"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dhlc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "201094492"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860551150"
+    }
+  ],
+  "advisories": []
+}

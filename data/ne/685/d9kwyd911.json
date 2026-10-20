@@ -1,0 +1,33 @@
+{
+  "id": "d9kwyd911",
+  "url": "https://constellation.church/d9kwyd911",
+  "name": "Southview Baptist Church",
+  "displayName": "Southview Baptist Church",
+  "address": {
+    "street": "3434 S 13th St",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68502"
+  },
+  "coordinates": {
+    "latitude": 40.777896881103516,
+    "longitude": -96.70272827148438
+  },
+  "website": "https://southviewbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/southview-baptist-church-5/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "southview-baptist-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southviewbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470597981"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "v1eb4dv64",
+  "url": "https://constellation.church/v1eb4dv64",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "155 8th Ave S",
+    "city": "South Saint Paul",
+    "state": "MN",
+    "zip": "55075-2207"
+  },
+  "coordinates": {
+    "latitude": 44.88901329040527,
+    "longitude": -93.04357147216797
+  },
+  "website": "https://grace-ssp.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24452",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24452"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grace-ssp.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410782885"
+    }
+  ],
+  "advisories": []
+}

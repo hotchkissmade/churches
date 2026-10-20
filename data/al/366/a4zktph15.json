@@ -1,0 +1,33 @@
+{
+  "id": "a4zktph15",
+  "url": "https://constellation.church/a4zktph15",
+  "name": "Refuge Church of Mobile Alabama",
+  "displayName": "Refuge Church of Mobile Alabama",
+  "address": {
+    "street": "6159 Moffett Rd",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36618"
+  },
+  "coordinates": {
+    "latitude": 30.746816635131836,
+    "longitude": -88.18649291992188
+  },
+  "website": "https://refugemobile.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f890e4b3-ee45-437b-b27f-cdf3e5c6a561&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f890e4b3-ee45-437b-b27f-cdf3e5c6a561"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "refugemobile.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630813992"
+    }
+  ],
+  "advisories": []
+}

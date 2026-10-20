@@ -1,0 +1,33 @@
+{
+  "id": "gbq7ew184",
+  "url": "https://constellation.church/gbq7ew184",
+  "name": "St Peter's Lutheran Church",
+  "displayName": "St. Peter's Lutheran Church",
+  "address": {
+    "street": "1201 Courthouse Rd",
+    "city": "Stafford",
+    "state": "VA",
+    "zip": "22554-7108"
+  },
+  "coordinates": {
+    "latitude": 38.421464920043945,
+    "longitude": -77.41422271728516
+  },
+  "website": "https://splcstafford.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cb36e46c-51bf-4fb3-a935-a4321df25da2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cb36e46c-51bf-4fb3-a935-a4321df25da2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "splcstafford.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541094928"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "v0ke8cn81",
+  "url": "https://constellation.church/v0ke8cn81",
+  "name": "Mount Zion Lutheran Church",
+  "displayName": "Mount Zion Lutheran Church",
+  "address": {
+    "street": "1343 Long Lane Rd",
+    "city": "Kutztown",
+    "state": "PA",
+    "zip": "19530-9062"
+  },
+  "coordinates": {
+    "latitude": 40.579612731933594,
+    "longitude": -75.78740692138672
+  },
+  "website": "https://mtzionkutztown.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=40831b47-6e32-4c01-952a-c8c574da6aaf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "40831b47-6e32-4c01-952a-c8c574da6aaf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mtzionkutztown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231610943"
+    }
+  ],
+  "advisories": []
+}

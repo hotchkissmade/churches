@@ -1,0 +1,33 @@
+{
+  "id": "dw9pdfw61",
+  "url": "https://constellation.church/dw9pdfw61",
+  "name": "Wren Baptist Church",
+  "displayName": "Wren Baptist Church",
+  "address": {
+    "street": "120 Wren Rd",
+    "city": "Piedmont",
+    "state": "SC",
+    "zip": "29673"
+  },
+  "coordinates": {
+    "latitude": 34.69632911682129,
+    "longitude": -82.53271102905273
+  },
+  "website": "https://wrenbc.com",
+  "listingUrl": "https://churches.sbc.net/church/wren-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "wren-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wrenbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570638538"
+    }
+  ],
+  "advisories": []
+}

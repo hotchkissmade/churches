@@ -1,0 +1,33 @@
+{
+  "id": "zt4d4hy04",
+  "url": "https://constellation.church/zt4d4hy04",
+  "name": "Goucher Baptist Church",
+  "displayName": "Goucher Baptist Church",
+  "address": {
+    "street": "415 Goucher Creek Rd",
+    "city": "Gaffney",
+    "state": "SC",
+    "zip": "29340"
+  },
+  "coordinates": {
+    "latitude": 34.9722383,
+    "longitude": -81.7103075
+  },
+  "website": "https://goucherbaptistchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/goucher-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "goucher-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goucherbaptistchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570709530"
+    }
+  ],
+  "advisories": []
+}

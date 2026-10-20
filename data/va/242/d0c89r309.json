@@ -1,0 +1,33 @@
+{
+  "id": "d0c89r309",
+  "url": "https://constellation.church/d0c89r309",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "807 E Main St",
+    "city": "Abingdon",
+    "state": "VA",
+    "zip": "24210-4414"
+  },
+  "coordinates": {
+    "latitude": 36.71784210205078,
+    "longitude": -81.9479866027832
+  },
+  "website": "https://stjohnabingdon.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=28da5b44-e00a-449b-9758-657984e325ec",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "28da5b44-e00a-449b-9758-657984e325ec"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnabingdon.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540927743"
+    }
+  ],
+  "advisories": []
+}

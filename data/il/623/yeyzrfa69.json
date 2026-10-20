@@ -1,0 +1,33 @@
+{
+  "id": "yeyzrfa69",
+  "url": "https://constellation.church/yeyzrfa69",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "218 S State St",
+    "city": "Mendon",
+    "state": "IL",
+    "zip": "62351-1201"
+  },
+  "coordinates": {
+    "latitude": 40.086544036865234,
+    "longitude": -91.28400421142578
+  },
+  "website": "https://salem4u.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fde5487d-2304-4a32-9328-791bccab5398",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fde5487d-2304-4a32-9328-791bccab5398"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salem4u.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "746054173"
+    }
+  ],
+  "advisories": []
+}

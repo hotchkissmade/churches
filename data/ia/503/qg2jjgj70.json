@@ -1,0 +1,33 @@
+{
+  "id": "qg2jjgj70",
+  "url": "https://constellation.church/qg2jjgj70",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "600 6th Ave",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50309-1606"
+  },
+  "coordinates": {
+    "latitude": 41.589866638183594,
+    "longitude": -93.62631225585938
+  },
+  "website": "https://stjohnsdsm.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e35a0dca-a997-470d-b84f-61ca6a1c177f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e35a0dca-a997-470d-b84f-61ca6a1c177f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsdsm.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420698271"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "d524z7h66",
+  "url": "https://constellation.church/d524z7h66",
+  "name": "Pilgrim Lutheran Church",
+  "displayName": "Pilgrim Lutheran Church",
+  "address": {
+    "street": "3650 W 106th St",
+    "city": "Carmel",
+    "state": "IN",
+    "zip": "46032-9607"
+  },
+  "coordinates": {
+    "latitude": 39.941711,
+    "longitude": -86.2246508
+  },
+  "website": "https://pilgrimcarmel.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9fb4c75a-53b3-490e-abee-242d3ca1af7f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9fb4c75a-53b3-490e-abee-242d3ca1af7f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pilgrimcarmel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "356006636"
+    }
+  ],
+  "advisories": []
+}

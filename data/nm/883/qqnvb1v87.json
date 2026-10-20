@@ -1,0 +1,33 @@
+{
+  "id": "qqnvb1v87",
+  "url": "https://constellation.church/qqnvb1v87",
+  "name": "First Baptist Church of Tularosa",
+  "displayName": "First Baptist Church of Tularosa",
+  "address": {
+    "street": "500 Granado",
+    "city": "Tularosa",
+    "state": "NM",
+    "zip": "88352"
+  },
+  "coordinates": {
+    "latitude": 33.072011947631836,
+    "longitude": -106.01901245117188
+  },
+  "website": "https://fbctularosa.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-tularosa/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-tularosa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbctularosa.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850354322"
+    }
+  ],
+  "advisories": []
+}

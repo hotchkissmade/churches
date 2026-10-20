@@ -1,0 +1,33 @@
+{
+  "id": "vg2gn1865",
+  "url": "https://constellation.church/vg2gn1865",
+  "name": "Forward Church",
+  "displayName": "Forward Church",
+  "address": {
+    "street": "100 Nicholas St",
+    "city": "Clarksburg",
+    "state": "WV",
+    "zip": "26301"
+  },
+  "coordinates": {
+    "latitude": 39.27741241455078,
+    "longitude": -80.35708236694336
+  },
+  "website": "https://forwardchurchag.org/about",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=26a68c32-bed4-4549-b34a-e329e44e0aa1&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "26a68c32-bed4-4549-b34a-e329e44e0aa1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "forwardchurchag.org/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "550623910"
+    }
+  ],
+  "advisories": []
+}

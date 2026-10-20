@@ -1,0 +1,37 @@
+{
+  "id": "q2z211f87",
+  "url": "https://constellation.church/q2z211f87",
+  "name": "Hillview Baptist Church",
+  "displayName": "Hillview Baptist Church",
+  "address": {
+    "street": "1621 W 27th Ave",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99337"
+  },
+  "coordinates": {
+    "latitude": 46.183631896972656,
+    "longitude": -119.14212036132812
+  },
+  "website": "https://hillviewbaptistkennewick.org/about-us/contact-us",
+  "listingUrl": "https://churches.sbc.net/church/hillview-baptist-church-9/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hillview-baptist-church-9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hillviewbaptistkennewick.org/about-us/contact-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911407712"
+    },
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "sola-church"
+    }
+  ],
+  "advisories": []
+}

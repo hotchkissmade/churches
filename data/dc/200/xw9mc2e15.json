@@ -1,0 +1,33 @@
+{
+  "id": "xw9mc2e15",
+  "url": "https://constellation.church/xw9mc2e15",
+  "name": "Augustana Lutheran Church",
+  "displayName": "Augustana Lutheran Church",
+  "address": {
+    "street": "2100 New Hampshire Ave NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20009-6507"
+  },
+  "coordinates": {
+    "latitude": 38.91824150085449,
+    "longitude": -77.03557586669922
+  },
+  "website": "https://augustanadc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dd3b094e-99f0-42b1-a214-1b03a8f0b852",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dd3b094e-99f0-42b1-a214-1b03a8f0b852"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "augustanadc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "530204709"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "httc06p49",
+  "url": "https://constellation.church/httc06p49",
+  "name": "Metropolitan United Methodist Church",
+  "displayName": "Metropolitan United Methodist Church",
+  "address": {
+    "street": "548 Queenstown Rd",
+    "city": "Severn",
+    "state": "MD",
+    "zip": "21144-1310"
+  },
+  "coordinates": {
+    "latitude": 39.15163230895996,
+    "longitude": -76.65791702270508
+  },
+  "website": "https://metropolitanumc.net/pastor",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFOfHIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFOfHIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "metropolitanumc.net/pastor"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521260332"
+    }
+  ],
+  "advisories": []
+}

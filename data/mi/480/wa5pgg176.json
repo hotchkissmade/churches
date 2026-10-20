@@ -1,0 +1,33 @@
+{
+  "id": "wa5pgg176",
+  "url": "https://constellation.church/wa5pgg176",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "835 River St",
+    "city": "Port Huron",
+    "state": "MI",
+    "zip": "48060"
+  },
+  "coordinates": {
+    "latitude": 42.98333549499512,
+    "longitude": -82.43459701538086
+  },
+  "website": "https://phaog.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=abc86d94-9009-453f-929e-52efced6a1dc&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "abc86d94-9009-453f-929e-52efced6a1dc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "phaog.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382339717"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ap0pn6912",
+  "url": "https://constellation.church/ap0pn6912",
+  "name": "Hutto Lutheran Church",
+  "displayName": "Hutto Lutheran Church",
+  "address": {
+    "street": "402 Church St",
+    "city": "Hutto",
+    "state": "TX",
+    "zip": "78634-3336"
+  },
+  "coordinates": {
+    "latitude": 30.546586990356445,
+    "longitude": -97.54444885253906
+  },
+  "website": "https://huttolutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2d9d9dba-6262-4124-a1b8-f1d69a42582a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2d9d9dba-6262-4124-a1b8-f1d69a42582a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "huttolutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741319279"
+    }
+  ],
+  "advisories": []
+}

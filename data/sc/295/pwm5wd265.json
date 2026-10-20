@@ -1,0 +1,33 @@
+{
+  "id": "pwm5wd265",
+  "url": "https://constellation.church/pwm5wd265",
+  "name": "Mercy Baptist Church",
+  "displayName": "Mercy Baptist Church",
+  "address": {
+    "street": "2805 4th Ave",
+    "city": "Conway",
+    "state": "SC",
+    "zip": "29527"
+  },
+  "coordinates": {
+    "latitude": 33.824411392211914,
+    "longitude": -79.07169723510742
+  },
+  "website": "https://mercybc.org",
+  "listingUrl": "https://churches.sbc.net/church/mercy-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mercy-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mercybc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "262524676"
+    }
+  ],
+  "advisories": []
+}

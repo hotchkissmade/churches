@@ -1,0 +1,33 @@
+{
+  "id": "kf1hhyf27",
+  "url": "https://constellation.church/kf1hhyf27",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "213501 Legacy St",
+    "city": "Stratford",
+    "state": "WI",
+    "zip": "54484-5908"
+  },
+  "coordinates": {
+    "latitude": 44.807430267333984,
+    "longitude": -90.0776138305664
+  },
+  "website": "https://zionstratford.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=60506119-7c00-4c74-8e7d-bce287ef3a7c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "60506119-7c00-4c74-8e7d-bce287ef3a7c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionstratford.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391321621"
+    }
+  ],
+  "advisories": []
+}

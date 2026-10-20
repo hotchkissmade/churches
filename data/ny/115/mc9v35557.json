@@ -1,0 +1,33 @@
+{
+  "id": "mc9v35557",
+  "url": "https://constellation.church/mc9v35557",
+  "name": "St. George's Church",
+  "displayName": "St. George's Church",
+  "address": {
+    "street": "319 Front Street",
+    "city": "Hempstead",
+    "state": "NY",
+    "zip": "11550"
+  },
+  "coordinates": {
+    "latitude": 40.706539154052734,
+    "longitude": -73.62255477905273
+  },
+  "website": "https://stgeorges-hempstead.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-georges-episcopal-church-2",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-georges-episcopal-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stgeorges-hempstead.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111696959"
+    }
+  ],
+  "advisories": []
+}

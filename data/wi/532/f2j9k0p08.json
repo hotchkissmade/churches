@@ -1,0 +1,33 @@
+{
+  "id": "f2j9k0p08",
+  "url": "https://constellation.church/f2j9k0p08",
+  "name": "St Marcus Lutheran Church",
+  "displayName": "St. Marcus Lutheran Church",
+  "address": {
+    "street": "2215 N Palmer St",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53212-3242"
+  },
+  "coordinates": {
+    "latitude": 43.05943298339844,
+    "longitude": -87.90999603271484
+  },
+  "website": "https://stmarcus.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24825",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24825"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarcus.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390850377"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c3b3q1b81",
+  "url": "https://constellation.church/c3b3q1b81",
+  "name": "Gapway Baptist Church",
+  "displayName": "Gapway Baptist Church",
+  "address": {
+    "street": "1702 Terry Rd",
+    "city": "Lakeland",
+    "state": "FL",
+    "zip": "33801"
+  },
+  "coordinates": {
+    "latitude": 28.068241119384766,
+    "longitude": -81.90787506103516
+  },
+  "website": "https://gapwaychurch.net",
+  "listingUrl": "https://churches.sbc.net/church/gapway-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "gapway-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gapwaychurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591261881"
+    }
+  ],
+  "advisories": []
+}

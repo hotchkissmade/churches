@@ -1,0 +1,33 @@
+{
+  "id": "r8xrhth33",
+  "url": "https://constellation.church/r8xrhth33",
+  "name": "Drammen Lutheran Church",
+  "displayName": "Drammen Lutheran Church",
+  "address": {
+    "street": "S12275 County Road B",
+    "city": "Mondovi",
+    "state": "WI",
+    "zip": "54755-8153"
+  },
+  "coordinates": {
+    "latitude": 44.783531188964844,
+    "longitude": -91.475830078125
+  },
+  "website": "https://drammenchurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=06c5c10e-c556-4609-8e7d-ec773d1d7d20",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "06c5c10e-c556-4609-8e7d-ec773d1d7d20"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "drammenchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391300316"
+    }
+  ],
+  "advisories": []
+}

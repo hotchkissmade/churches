@@ -1,0 +1,33 @@
+{
+  "id": "t6ckqyz13",
+  "url": "https://constellation.church/t6ckqyz13",
+  "name": "Church of the Messiah, Gwynedd",
+  "displayName": "Church of the Messiah, Gwynedd",
+  "address": {
+    "street": "1001 Dekalb Pike",
+    "city": "Lower Gwynedd",
+    "state": "PA",
+    "zip": "19002-1941"
+  },
+  "coordinates": {
+    "latitude": 40.199649810791016,
+    "longitude": -75.25683212280273
+  },
+  "website": "https://messiahgwynedd.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/church-messiah-gwynedd",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/church-messiah-gwynedd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "messiahgwynedd.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231352385"
+    }
+  ],
+  "advisories": []
+}

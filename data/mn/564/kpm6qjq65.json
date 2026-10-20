@@ -1,0 +1,33 @@
+{
+  "id": "kpm6qjq65",
+  "url": "https://constellation.church/kpm6qjq65",
+  "name": "Lutheran Church Of The Cross",
+  "displayName": "Lutheran Church Of The Cross",
+  "address": {
+    "street": "5064 County Road 13",
+    "city": "Nisswa",
+    "state": "MN",
+    "zip": "56468-2388"
+  },
+  "coordinates": {
+    "latitude": 46.5007209777832,
+    "longitude": -94.295654296875
+  },
+  "website": "https://lccnisswa.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=31ee4e8f-2fc4-435c-a356-5859f6f92e8a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "31ee4e8f-2fc4-435c-a356-5859f6f92e8a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lccnisswa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411352510"
+    }
+  ],
+  "advisories": []
+}

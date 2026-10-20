@@ -1,0 +1,33 @@
+{
+  "id": "vg2ttqx45",
+  "url": "https://constellation.church/vg2ttqx45",
+  "name": "Golden Avenue Baptist Church",
+  "displayName": "Golden Avenue Baptist Church",
+  "address": {
+    "street": "558 S Golden Ave",
+    "city": "Springfield",
+    "state": "MO",
+    "zip": "65802"
+  },
+  "coordinates": {
+    "latitude": 37.20523643493652,
+    "longitude": -93.33929443359375
+  },
+  "website": "https://goldenavenuebaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/golden-avenue-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "golden-avenue-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goldenavenuebaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431316010"
+    }
+  ],
+  "advisories": []
+}

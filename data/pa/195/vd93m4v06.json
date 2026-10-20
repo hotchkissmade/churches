@@ -1,0 +1,33 @@
+{
+  "id": "vd93m4v06",
+  "url": "https://constellation.church/vd93m4v06",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "130 S Walnut St",
+    "city": "Wernersville",
+    "state": "PA",
+    "zip": "19565-1520"
+  },
+  "coordinates": {
+    "latitude": 40.32816696166992,
+    "longitude": -76.08196640014648
+  },
+  "website": "https://trinitywernersville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9e9240ca-7d3b-4c1a-9c78-cd7a77933cbb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9e9240ca-7d3b-4c1a-9c78-cd7a77933cbb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitywernersville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232004655"
+    }
+  ],
+  "advisories": []
+}

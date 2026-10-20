@@ -1,0 +1,33 @@
+{
+  "id": "h5zrv6j96",
+  "url": "https://constellation.church/h5zrv6j96",
+  "name": "Grace Church, Silver Spring",
+  "displayName": "Grace Church, Silver Spring",
+  "address": {
+    "street": "1607 Grace Church Rd",
+    "city": "Silver Spring",
+    "state": "MD",
+    "zip": "20910-1509"
+  },
+  "coordinates": {
+    "latitude": 39.00594139099121,
+    "longitude": -77.03739547729492
+  },
+  "website": "https://graceepiscopalchurch.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/grace-church-silver-spring",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/grace-church-silver-spring"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceepiscopalchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520591598"
+    }
+  ],
+  "advisories": []
+}

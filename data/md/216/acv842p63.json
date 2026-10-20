@@ -1,0 +1,33 @@
+{
+  "id": "acv842p63",
+  "url": "https://constellation.church/acv842p63",
+  "name": "Greensboro Baptist Church",
+  "displayName": "Greensboro Baptist Church",
+  "address": {
+    "street": "401 W Sunset Ave",
+    "city": "Greensboro",
+    "state": "MD",
+    "zip": "21639"
+  },
+  "coordinates": {
+    "latitude": 38.975250244140625,
+    "longitude": -75.81062316894531
+  },
+  "website": "https://gbclife.net",
+  "listingUrl": "https://churches.sbc.net/church/greensboro-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "greensboro-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gbclife.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "522020265"
+    }
+  ],
+  "advisories": []
+}

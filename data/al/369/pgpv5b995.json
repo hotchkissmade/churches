@@ -1,0 +1,33 @@
+{
+  "id": "pgpv5b995",
+  "url": "https://constellation.church/pgpv5b995",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "16130 Highway 17 Toxey",
+    "city": null,
+    "state": "AL",
+    "zip": "36921"
+  },
+  "coordinates": {
+    "latitude": 31.913387298583984,
+    "longitude": -88.30858612060547
+  },
+  "website": "https://toxeyassemblyofgod.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ad976dc3-a45e-42e2-b447-37bc0a241406&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ad976dc3-a45e-42e2-b447-37bc0a241406"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "toxeyassemblyofgod.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630835244"
+    }
+  ],
+  "advisories": []
+}

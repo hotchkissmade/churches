@@ -1,0 +1,33 @@
+{
+  "id": "cn7jkzd94",
+  "url": "https://constellation.church/cn7jkzd94",
+  "name": "Oasis Church",
+  "displayName": "Oasis Church",
+  "address": {
+    "street": "712 E Hampton Rd",
+    "city": "Ulysses",
+    "state": "KS",
+    "zip": "67880"
+  },
+  "coordinates": {
+    "latitude": 37.57693862915039,
+    "longitude": -101.35023498535156
+  },
+  "website": "https://oasischurchks.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=280b8a06-e593-44a9-b300-f643318c8a9f&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "280b8a06-e593-44a9-b300-f643318c8a9f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oasischurchks.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480944639"
+    }
+  ],
+  "advisories": []
+}

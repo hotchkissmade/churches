@@ -1,0 +1,33 @@
+{
+  "id": "ttsczzh14",
+  "url": "https://constellation.church/ttsczzh14",
+  "name": "Haines Presbyterian Church",
+  "displayName": "Haines Presbyterian Church",
+  "address": {
+    "street": "114 1st Ave",
+    "city": "Haines",
+    "state": "AK",
+    "zip": "99827"
+  },
+  "coordinates": {
+    "latitude": 59.23358917236328,
+    "longitude": -135.44390106201172
+  },
+  "website": "https://haineschurch.org",
+  "listingUrl": "https://eco-pres.org/churches/haines-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "haines-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "haineschurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920043830"
+    }
+  ],
+  "advisories": []
+}

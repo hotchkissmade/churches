@@ -1,0 +1,29 @@
+{
+  "id": "vnf11z114",
+  "url": "https://constellation.church/vnf11z114",
+  "name": "SPOKANE WESTSIDE CHURCH OF THE NAZARENE",
+  "displayName": "Spokane Westside Church of the Nazarene",
+  "address": {
+    "street": "2820 W FRANCIS AVE",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99205"
+  },
+  "coordinates": {
+    "latitude": 47.715667724609375,
+    "longitude": -117.45211029052734
+  },
+  "website": "https://westsidenaz.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237449919"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westsidenaz.org"
+    }
+  ],
+  "advisories": []
+}

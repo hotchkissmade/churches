@@ -1,0 +1,33 @@
+{
+  "id": "db6qjd988",
+  "url": "https://constellation.church/db6qjd988",
+  "name": "Adobe Christian Church",
+  "displayName": "Adobe Christian Church",
+  "address": {
+    "street": "2875 Adobe Rd",
+    "city": "Petaluma",
+    "state": "CA",
+    "zip": "94954"
+  },
+  "coordinates": {
+    "latitude": 38.26203155517578,
+    "longitude": -122.59647369384766
+  },
+  "website": "https://adobecc.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=090b4e77-476b-48dc-96b9-ba926a7be9c2&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "090b4e77-476b-48dc-96b9-ba926a7be9c2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "adobecc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942864395"
+    }
+  ],
+  "advisories": []
+}

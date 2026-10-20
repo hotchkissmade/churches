@@ -1,0 +1,33 @@
+{
+  "id": "gpd4hha32",
+  "url": "https://constellation.church/gpd4hha32",
+  "name": "St. Timothy's Episcopal Church, DC",
+  "displayName": "St. Timothy's Episcopal Church, DC",
+  "address": {
+    "street": "3601 Alabama Ave SE",
+    "city": "Washington",
+    "state": "MD",
+    "zip": "20020-2425"
+  },
+  "coordinates": {
+    "latitude": 38.86301612854004,
+    "longitude": -76.95626068115234
+  },
+  "website": "https://sttimothyscdc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/st-timothys-dc",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/st-timothys-dc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sttimothyscdc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521014343"
+    }
+  ],
+  "advisories": []
+}

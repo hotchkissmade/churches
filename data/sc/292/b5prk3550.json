@@ -1,0 +1,33 @@
+{
+  "id": "b5prk3550",
+  "url": "https://constellation.church/b5prk3550",
+  "name": "Downtown Presbyterian Church",
+  "displayName": "Downtown Presbyterian Church",
+  "address": {
+    "street": "2030 Gregg St",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29201"
+  },
+  "coordinates": {
+    "latitude": 34.01645469665527,
+    "longitude": -81.02742767333984
+  },
+  "website": "https://downtownchurch.me",
+  "listingUrl": "https://church-trends.pcusa.org/church/12382/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "12382"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "downtownchurch.me"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "455444017"
+    }
+  ],
+  "advisories": []
+}

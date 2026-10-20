@@ -1,0 +1,33 @@
+{
+  "id": "fyhgpzw02",
+  "url": "https://constellation.church/fyhgpzw02",
+  "name": "Hosanna Lutheran Church",
+  "displayName": "Hosanna Lutheran Church",
+  "address": {
+    "street": "222 S Jefferson Ave",
+    "city": "Covington",
+    "state": "LA",
+    "zip": "70433-3134"
+  },
+  "coordinates": {
+    "latitude": 30.47445297241211,
+    "longitude": -90.10076141357422
+  },
+  "website": "https://hosannalutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=70e13fc9-d293-4691-9113-8e48bd779353",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "70e13fc9-d293-4691-9113-8e48bd779353"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hosannalutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720988850"
+    }
+  ],
+  "advisories": []
+}

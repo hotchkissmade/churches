@@ -1,0 +1,33 @@
+{
+  "id": "k4sj2r015",
+  "url": "https://constellation.church/k4sj2r015",
+  "name": "Church in Mountain View",
+  "displayName": "Church in Mountain View",
+  "address": {
+    "street": "912 W El Camino Real",
+    "city": "Mountain View",
+    "state": "CA",
+    "zip": "94040"
+  },
+  "coordinates": {
+    "latitude": 37.38668632507324,
+    "longitude": -122.08525848388672
+  },
+  "website": "https://thechurchinmountainview.org",
+  "listingUrl": "https://localchurches.org/churches/mountain-view-ca-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "mountain-view-ca-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thechurchinmountainview.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "912159321"
+    }
+  ],
+  "advisories": []
+}

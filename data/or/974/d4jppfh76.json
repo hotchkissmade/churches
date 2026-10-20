@@ -1,0 +1,33 @@
+{
+  "id": "d4jppfh76",
+  "url": "https://constellation.church/d4jppfh76",
+  "name": "Church in Eugene",
+  "displayName": "Church in Eugene",
+  "address": {
+    "street": "3800 Ferry St",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97405"
+  },
+  "coordinates": {
+    "latitude": 44.0144525,
+    "longitude": -123.0838975
+  },
+  "website": "https://churchineugene.org",
+  "listingUrl": "https://localchurches.org/churches/eugene-or-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "eugene-or-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchineugene.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930751884"
+    }
+  ],
+  "advisories": []
+}

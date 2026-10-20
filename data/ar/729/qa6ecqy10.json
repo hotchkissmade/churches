@@ -1,0 +1,33 @@
+{
+  "id": "qa6ecqy10",
+  "url": "https://constellation.church/qa6ecqy10",
+  "name": "Wesley United Methodist Church",
+  "displayName": "Wesley United Methodist Church",
+  "address": {
+    "street": "2200 Phoenix Ave",
+    "city": "Fort Smith",
+    "state": "AR",
+    "zip": "72901"
+  },
+  "coordinates": {
+    "latitude": 35.33870506286621,
+    "longitude": -94.41058349609375
+  },
+  "website": "https://wesleyumcfs.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKmdIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKmdIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wesleyumcfs.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "710338477"
+    }
+  ],
+  "advisories": []
+}

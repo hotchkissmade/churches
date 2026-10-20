@@ -1,0 +1,33 @@
+{
+  "id": "pere9rx08",
+  "url": "https://constellation.church/pere9rx08",
+  "name": "South End Baptist Church",
+  "displayName": "South End Baptist Church",
+  "address": {
+    "street": "506 Carrollton Dr",
+    "city": "Frederick",
+    "state": "MD",
+    "zip": "21701"
+  },
+  "coordinates": {
+    "latitude": 39.40347099304199,
+    "longitude": -77.42417526245117
+  },
+  "website": "https://southendbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/south-end-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "south-end-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southendbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521096569"
+    }
+  ],
+  "advisories": []
+}

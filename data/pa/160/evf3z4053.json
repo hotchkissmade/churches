@@ -1,0 +1,33 @@
+{
+  "id": "evf3z4053",
+  "url": "https://constellation.church/evf3z4053",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "420 North Main Street",
+    "city": "Butler",
+    "state": "PA",
+    "zip": "16001"
+  },
+  "coordinates": {
+    "latitude": 40.865753173828125,
+    "longitude": -79.8953742980957
+  },
+  "website": "https://westminsterpca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1071",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1071"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westminsterpca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251292775"
+    }
+  ],
+  "advisories": []
+}

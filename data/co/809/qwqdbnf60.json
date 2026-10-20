@@ -1,0 +1,33 @@
+{
+  "id": "qwqdbnf60",
+  "url": "https://constellation.church/qwqdbnf60",
+  "name": "Pulpit Rock Church",
+  "displayName": "Pulpit Rock Church",
+  "address": {
+    "street": "301 Austin Bluffs Pkwy",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80918"
+  },
+  "coordinates": {
+    "latitude": 38.89723205566406,
+    "longitude": -104.81488800048828
+  },
+  "website": "https://pulpitrock.com",
+  "listingUrl": "https://venturechurches.org/churches/pulpit-rock-church/",
+  "identifiers": [
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "pulpit-rock-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pulpitrock.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "846049668"
+    }
+  ],
+  "advisories": []
+}

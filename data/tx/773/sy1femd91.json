@@ -1,0 +1,33 @@
+{
+  "id": "sy1femd91",
+  "url": "https://constellation.church/sy1femd91",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "13123 Highway 105 W",
+    "city": "Conroe",
+    "state": "TX",
+    "zip": "77304-1584"
+  },
+  "coordinates": {
+    "latitude": 30.344341278076172,
+    "longitude": -95.55892181396484
+  },
+  "website": "https://glcsconroe.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4af7671b-4f68-45be-8d11-f77bb5d316b1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4af7671b-4f68-45be-8d11-f77bb5d316b1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "glcsconroe.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742050231"
+    }
+  ],
+  "advisories": []
+}

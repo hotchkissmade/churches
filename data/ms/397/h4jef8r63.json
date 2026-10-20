@@ -1,0 +1,33 @@
+{
+  "id": "h4jef8r63",
+  "url": "https://constellation.church/h4jef8r63",
+  "name": "Main Street Presbyterian Church",
+  "displayName": "Main Street Presbyterian Church",
+  "address": {
+    "street": "701 Main Street",
+    "city": "Columbus",
+    "state": "MS",
+    "zip": "39701"
+  },
+  "coordinates": {
+    "latitude": 33.4958438873291,
+    "longitude": -88.425537109375
+  },
+  "website": "https://mainstreetpres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/984",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "984"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mainstreetpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640350400"
+    }
+  ],
+  "advisories": []
+}

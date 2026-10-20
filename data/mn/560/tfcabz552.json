@@ -1,0 +1,33 @@
+{
+  "id": "tfcabz552",
+  "url": "https://constellation.church/tfcabz552",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "105 Spruce Ave NW",
+    "city": "Montgomery",
+    "state": "MN",
+    "zip": "56069-1068"
+  },
+  "coordinates": {
+    "latitude": 44.4400520324707,
+    "longitude": -93.58212280273438
+  },
+  "website": "https://montgomerymnelcalutherans.org/bulletins",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b533d298-394b-4712-891c-c895454d6f7b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b533d298-394b-4712-891c-c895454d6f7b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "montgomerymnelcalutherans.org/bulletins"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410742510"
+    }
+  ],
+  "advisories": []
+}

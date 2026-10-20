@@ -1,0 +1,29 @@
+{
+  "id": "hw3tmas23",
+  "url": "https://constellation.church/hw3tmas23",
+  "name": "Burch Baptist Church",
+  "displayName": "Burch Baptist Church",
+  "address": {
+    "street": "19754 Goldfinch Rd",
+    "city": "Neosho",
+    "state": "MO",
+    "zip": "64850"
+  },
+  "coordinates": {
+    "latitude": 36.7961139,
+    "longitude": -94.4862344
+  },
+  "website": null,
+  "listingUrl": "https://churches.sbc.net/church/burch-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "burch-baptist-church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "710890932"
+    }
+  ],
+  "advisories": []
+}

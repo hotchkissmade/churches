@@ -1,0 +1,33 @@
+{
+  "id": "css07nc80",
+  "url": "https://constellation.church/css07nc80",
+  "name": "LAKOTA LUTHERAN CHURCH",
+  "displayName": "Lakota Lutheran Church",
+  "address": {
+    "street": "PO BOX 553",
+    "city": "Lakota",
+    "state": "ND",
+    "zip": "58344"
+  },
+  "coordinates": {
+    "latitude": 48.044349670410156,
+    "longitude": -98.34635162353516
+  },
+  "website": "https://lakota-nd.com/index.asp",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=673b1f6b-1e7c-48b4-81d5-4c3e3164df85",
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450350719"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lakota-nd.com/index.asp"
+    },
+    {
+      "namespace": "org.elca.id",
+      "value": "673b1f6b-1e7c-48b4-81d5-4c3e3164df85"
+    }
+  ],
+  "advisories": []
+}

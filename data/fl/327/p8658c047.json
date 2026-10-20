@@ -1,0 +1,33 @@
+{
+  "id": "p8658c047",
+  "url": "https://constellation.church/p8658c047",
+  "name": "First Baptist Church of Osteen",
+  "displayName": "First Baptist Church of Osteen",
+  "address": {
+    "street": "321 N State Rd 415",
+    "city": "Osteen",
+    "state": "FL",
+    "zip": "32764"
+  },
+  "coordinates": {
+    "latitude": 28.850141525268555,
+    "longitude": -81.16191864013672
+  },
+  "website": "https://osteenfirst.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-osteen/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-osteen"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "osteenfirst.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592364080"
+    }
+  ],
+  "advisories": []
+}

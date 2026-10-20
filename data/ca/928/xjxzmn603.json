@@ -1,0 +1,41 @@
+{
+  "id": "xjxzmn603",
+  "url": "https://constellation.church/xjxzmn603",
+  "name": "Ambassador Church",
+  "displayName": "Ambassador Church",
+  "address": {
+    "street": "701 S Sunkist St",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92806-4714"
+  },
+  "coordinates": {
+    "latitude": 33.83221626281738,
+    "longitude": -117.88081359863281
+  },
+  "website": "https://ambassadorchurch.com/about-us/church-staff",
+  "listingUrl": "https://churches.efca.org/?id=215527",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "215527"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ambassadorchurch.com/about-us/church-staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "912167227"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952499696"
+    },
+    {
+      "namespace": "org.nabconference.id",
+      "value": "ambassador-church"
+    }
+  ],
+  "advisories": []
+}

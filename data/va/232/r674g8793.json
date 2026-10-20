@@ -1,0 +1,33 @@
+{
+  "id": "r674g8793",
+  "url": "https://constellation.church/r674g8793",
+  "name": "Diocese of Virginia",
+  "displayName": "Diocese of Virginia",
+  "address": {
+    "street": "110 W. Franklin Street",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "23220"
+  },
+  "coordinates": {
+    "latitude": 37.5446283,
+    "longitude": -77.4445966
+  },
+  "website": "https://episcopalvirginia.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-virginia/list/diocese-virginia",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-virginia/diocese-virginia"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "episcopalvirginia.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540505890"
+    }
+  ],
+  "advisories": []
+}

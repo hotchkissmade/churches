@@ -1,0 +1,33 @@
+{
+  "id": "ewsvg3b79",
+  "url": "https://constellation.church/ewsvg3b79",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "609 Brickell Ave",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33131"
+  },
+  "coordinates": {
+    "latitude": 25.767671585083008,
+    "longitude": -80.18965530395508
+  },
+  "website": "https://firstmiami.org/service-info",
+  "listingUrl": "https://church-trends.pcusa.org/church/1338/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "1338"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstmiami.org/service-info"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590624393"
+    }
+  ],
+  "advisories": []
+}

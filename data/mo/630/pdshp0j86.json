@@ -1,0 +1,33 @@
+{
+  "id": "pdshp0j86",
+  "url": "https://constellation.church/pdshp0j86",
+  "name": "Calvey Baptist Church",
+  "displayName": "Calvey Baptist Church",
+  "address": {
+    "street": "930 Calvey Church Rd",
+    "city": "Robertsville",
+    "state": "MO",
+    "zip": "63072"
+  },
+  "coordinates": {
+    "latitude": 38.34597969055176,
+    "longitude": -90.75905227661133
+  },
+  "website": "https://calveybaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/calvey-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "calvey-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "calveybaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431090222"
+    }
+  ],
+  "advisories": []
+}

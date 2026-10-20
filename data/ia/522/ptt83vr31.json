@@ -1,0 +1,33 @@
+{
+  "id": "ptt83vr31",
+  "url": "https://constellation.church/ptt83vr31",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "403 Pleasant St",
+    "city": "Lost Nation",
+    "state": "IA",
+    "zip": "52254-9693"
+  },
+  "coordinates": {
+    "latitude": 41.96317672729492,
+    "longitude": -90.81952667236328
+  },
+  "website": "https://bethlehemln.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=eb167831-aa3d-4ed3-8656-b9104bc9425e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "eb167831-aa3d-4ed3-8656-b9104bc9425e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethlehemln.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420885428"
+    }
+  ],
+  "advisories": []
+}

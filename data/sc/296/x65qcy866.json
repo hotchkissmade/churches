@@ -1,0 +1,33 @@
+{
+  "id": "x65qcy866",
+  "url": "https://constellation.church/x65qcy866",
+  "name": "Monaghan Baptist Church",
+  "displayName": "Monaghan Baptist Church",
+  "address": {
+    "street": "1500 W Parker Rd",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29617"
+  },
+  "coordinates": {
+    "latitude": 34.872148513793945,
+    "longitude": -82.44638442993164
+  },
+  "website": "https://monaghanbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/monaghan-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "monaghan-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "monaghanbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570374345"
+    }
+  ],
+  "advisories": []
+}

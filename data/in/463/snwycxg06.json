@@ -1,0 +1,33 @@
+{
+  "id": "snwycxg06",
+  "url": "https://constellation.church/snwycxg06",
+  "name": "Apostolic Christian Church of Valparaiso",
+  "displayName": "Apostolic Christian Church of Valparaiso",
+  "address": {
+    "street": "105 South State Road 49",
+    "city": "Valparaiso",
+    "state": "IN",
+    "zip": "46383"
+  },
+  "coordinates": {
+    "latitude": 41.4191951751709,
+    "longitude": -87.02611923217773
+  },
+  "website": "https://valpoac.org",
+  "listingUrl": "https://www.apostolicchristian.org/congregations/valparaiso",
+  "identifiers": [
+    {
+      "namespace": "org.apostolicchristian.id",
+      "value": "valparaiso"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "valpoac.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351606148"
+    }
+  ],
+  "advisories": []
+}

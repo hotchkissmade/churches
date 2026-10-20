@@ -1,0 +1,33 @@
+{
+  "id": "x6bbt9925",
+  "url": "https://constellation.church/x6bbt9925",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "208 Western Ave S",
+    "city": "Park Rapids",
+    "state": "MN",
+    "zip": "56470"
+  },
+  "coordinates": {
+    "latitude": 46.92035675048828,
+    "longitude": -95.0789794921875
+  },
+  "website": "https://pragmn.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=6e35de46-6233-4c7d-85e0-0b6adcca42b0&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "6e35de46-6233-4c7d-85e0-0b6adcca42b0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pragmn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410875295"
+    }
+  ],
+  "advisories": []
+}

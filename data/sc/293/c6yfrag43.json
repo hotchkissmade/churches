@@ -1,0 +1,33 @@
+{
+  "id": "c6yfrag43",
+  "url": "https://constellation.church/c6yfrag43",
+  "name": "Eastside Baptist Church",
+  "displayName": "Eastside Baptist Church",
+  "address": {
+    "street": "1850 Fernwood Glendale Rd",
+    "city": "Spartanburg",
+    "state": "SC",
+    "zip": "29307"
+  },
+  "coordinates": {
+    "latitude": 34.96136283874512,
+    "longitude": -81.85696029663086
+  },
+  "website": "https://ebcspartanburg.com",
+  "listingUrl": "https://churches.sbc.net/church/eastside-baptist-church-25/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "eastside-baptist-church-25"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ebcspartanburg.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570753647"
+    }
+  ],
+  "advisories": []
+}

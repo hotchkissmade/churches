@@ -1,0 +1,33 @@
+{
+  "id": "p8g4ayd50",
+  "url": "https://constellation.church/p8g4ayd50",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "1801 Norwood Dr",
+    "city": "Hurst",
+    "state": "TX",
+    "zip": "76054"
+  },
+  "coordinates": {
+    "latitude": 32.84810829162598,
+    "longitude": -97.16890716552734
+  },
+  "website": "https://firsthurst.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-275/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-275"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firsthurst.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751058924"
+    }
+  ],
+  "advisories": []
+}

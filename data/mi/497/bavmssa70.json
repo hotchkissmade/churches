@@ -1,0 +1,33 @@
+{
+  "id": "bavmssa70",
+  "url": "https://constellation.church/bavmssa70",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "1600 Park St",
+    "city": "Sault Sainte Marie",
+    "state": "MI",
+    "zip": "49783-2851"
+  },
+  "coordinates": {
+    "latitude": 46.485469818115234,
+    "longitude": -84.35536575317383
+  },
+  "website": "https://faithlutheransaultstemarie.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=552381d7-8388-4d71-9da3-cce43a1e675c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "552381d7-8388-4d71-9da3-cce43a1e675c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithlutheransaultstemarie.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "386085052"
+    }
+  ],
+  "advisories": []
+}

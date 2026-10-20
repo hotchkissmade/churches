@@ -1,0 +1,33 @@
+{
+  "id": "c8cst8w72",
+  "url": "https://constellation.church/c8cst8w72",
+  "name": "First EFC",
+  "displayName": "First Evangelical Free Church",
+  "address": {
+    "street": "5150 Chicago Ave",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55417-1730"
+  },
+  "coordinates": {
+    "latitude": 44.90932083129883,
+    "longitude": -93.262939453125
+  },
+  "website": "https://firstfreechurch.org",
+  "listingUrl": "https://churches.efca.org/?id=12011",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12011"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstfreechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410734773"
+    }
+  ],
+  "advisories": []
+}

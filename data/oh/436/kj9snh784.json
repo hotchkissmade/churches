@@ -1,0 +1,33 @@
+{
+  "id": "kj9snh784",
+  "url": "https://constellation.church/kj9snh784",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "611 Woodville Rd",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43605-2647"
+  },
+  "coordinates": {
+    "latitude": 41.638587951660156,
+    "longitude": -83.52128601074219
+  },
+  "website": "https://stmarktoledo.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7a25a75d-ba3c-43ad-8021-0554620815d6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7a25a75d-ba3c-43ad-8021-0554620815d6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarktoledo.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "344435925"
+    }
+  ],
+  "advisories": []
+}

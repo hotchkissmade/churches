@@ -1,0 +1,33 @@
+{
+  "id": "s08nsb782",
+  "url": "https://constellation.church/s08nsb782",
+  "name": "Trinity Presbyterian Church",
+  "displayName": "Trinity Presbyterian Church",
+  "address": {
+    "street": "17 Shawnee Trail",
+    "city": "Asheville",
+    "state": "NC",
+    "zip": "28805"
+  },
+  "coordinates": {
+    "latitude": 35.584360122680664,
+    "longitude": -82.51908874511719
+  },
+  "website": "https://trinityasheville.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/999",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "999"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityasheville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561279364"
+    }
+  ],
+  "advisories": []
+}

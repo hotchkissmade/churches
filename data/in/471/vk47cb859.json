@@ -1,0 +1,33 @@
+{
+  "id": "vk47cb859",
+  "url": "https://constellation.church/vk47cb859",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "222 Walnut St",
+    "city": "Jeffersonville",
+    "state": "IN",
+    "zip": "47130-3320"
+  },
+  "coordinates": {
+    "latitude": 38.273441314697266,
+    "longitude": -85.73642349243164
+  },
+  "website": "https://1stprez.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/2222/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "2222"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "1stprez.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "350929974"
+    }
+  ],
+  "advisories": []
+}

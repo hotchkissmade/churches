@@ -1,0 +1,33 @@
+{
+  "id": "cb33k5085",
+  "url": "https://constellation.church/cb33k5085",
+  "name": "Asbury United Methodist Church",
+  "displayName": "Asbury United Methodist Church",
+  "address": {
+    "street": "205 S Main Street",
+    "city": "Harrisonburg",
+    "state": "VA",
+    "zip": "22801"
+  },
+  "coordinates": {
+    "latitude": 38.44725799560547,
+    "longitude": -78.86968231201172
+  },
+  "website": "https://asburydowntown.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PEuFCIA1",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PEuFCIA1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "asburydowntown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540519596"
+    }
+  ],
+  "advisories": []
+}

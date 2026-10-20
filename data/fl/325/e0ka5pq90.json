@@ -1,0 +1,33 @@
+{
+  "id": "e0ka5pq90",
+  "url": "https://constellation.church/e0ka5pq90",
+  "name": "First Baptist Church of Crestview",
+  "displayName": "First Baptist Church of Crestview",
+  "address": {
+    "street": "171 W Hickory Ave",
+    "city": "Crestview",
+    "state": "FL",
+    "zip": "32536"
+  },
+  "coordinates": {
+    "latitude": 30.76264762878418,
+    "longitude": -86.57295227050781
+  },
+  "website": "https://fbcew.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-crestview/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-crestview"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcew.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590737873"
+    }
+  ],
+  "advisories": []
+}

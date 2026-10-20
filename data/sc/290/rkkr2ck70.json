@@ -1,0 +1,33 @@
+{
+  "id": "rkkr2ck70",
+  "url": "https://constellation.church/rkkr2ck70",
+  "name": "New Hope Church",
+  "displayName": "New Hope Church",
+  "address": {
+    "street": "9025 Liberty Hill Rd",
+    "city": "Camden",
+    "state": "SC",
+    "zip": "29020"
+  },
+  "coordinates": {
+    "latitude": 34.29376411437988,
+    "longitude": -80.62049865722656
+  },
+  "website": "https://newhopecamden.com",
+  "listingUrl": "https://churches.sbc.net/church/new-hope-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-hope-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newhopecamden.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570713527"
+    }
+  ],
+  "advisories": []
+}

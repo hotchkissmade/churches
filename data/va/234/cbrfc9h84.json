@@ -1,0 +1,33 @@
+{
+  "id": "cbrfc9h84",
+  "url": "https://constellation.church/cbrfc9h84",
+  "name": "Great Neck Baptist Church",
+  "displayName": "Great Neck Baptist Church",
+  "address": {
+    "street": "1020 General Jackson Dr",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23454"
+  },
+  "coordinates": {
+    "latitude": 36.865278244018555,
+    "longitude": -76.0483512878418
+  },
+  "website": "https://greatneckbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/great-neck-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "great-neck-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "greatneckbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540921941"
+    }
+  ],
+  "advisories": []
+}

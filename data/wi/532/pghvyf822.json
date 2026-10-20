@@ -1,0 +1,33 @@
+{
+  "id": "pghvyf822",
+  "url": "https://constellation.church/pghvyf822",
+  "name": "Lake Park Lutheran Church",
+  "displayName": "Lake Park Lutheran Church",
+  "address": {
+    "street": "2647 N Stowell Ave",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53211-4221"
+  },
+  "coordinates": {
+    "latitude": 43.067115783691406,
+    "longitude": -87.87950897216797
+  },
+  "website": "https://lakeparklutheran.com/blog",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1f0e01bd-c722-46f2-90c9-6bcb0c19c5d1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1f0e01bd-c722-46f2-90c9-6bcb0c19c5d1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lakeparklutheran.com/blog"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391387941"
+    }
+  ],
+  "advisories": []
+}

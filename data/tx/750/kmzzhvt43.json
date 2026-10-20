@@ -1,0 +1,33 @@
+{
+  "id": "kmzzhvt43",
+  "url": "https://constellation.church/kmzzhvt43",
+  "name": "South Garland Baptist Church",
+  "displayName": "South Garland Baptist Church",
+  "address": {
+    "street": "1330 E. Centerville Road",
+    "city": "Garland",
+    "state": "TX",
+    "zip": "75041"
+  },
+  "coordinates": {
+    "latitude": 32.88607597351074,
+    "longitude": -96.61186981201172
+  },
+  "website": "https://sgbaptist.net",
+  "listingUrl": "https://churches.sbc.net/church/south-garland-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "south-garland-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sgbaptist.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751369663"
+    }
+  ],
+  "advisories": []
+}

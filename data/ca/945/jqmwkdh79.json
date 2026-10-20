@@ -1,0 +1,33 @@
+{
+  "id": "jqmwkdh79",
+  "url": "https://constellation.church/jqmwkdh79",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "1225 Hopyard Rd",
+    "city": "Pleasanton",
+    "state": "CA",
+    "zip": "94566-6414"
+  },
+  "coordinates": {
+    "latitude": 37.66847610473633,
+    "longitude": -121.88395690917969
+  },
+  "website": "https://trinitypleasanton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=466b56e6-2b0a-4401-a0a8-bdb65126861c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "466b56e6-2b0a-4401-a0a8-bdb65126861c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitypleasanton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941705517"
+    }
+  ],
+  "advisories": []
+}

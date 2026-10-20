@@ -1,0 +1,33 @@
+{
+  "id": "wfax12w13",
+  "url": "https://constellation.church/wfax12w13",
+  "name": "West Side Baptist Church",
+  "displayName": "West Side Baptist Church",
+  "address": {
+    "street": "215 Bypass 225",
+    "city": "Greenwood",
+    "state": "SC",
+    "zip": "29646"
+  },
+  "coordinates": {
+    "latitude": 34.18544960021973,
+    "longitude": -82.18208312988281
+  },
+  "website": "https://westsidegreenwood.com",
+  "listingUrl": "https://churches.sbc.net/church/west-side-baptist-church-5/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "west-side-baptist-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westsidegreenwood.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570421229"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jrmdfn370",
+  "url": "https://constellation.church/jrmdfn370",
+  "name": "Northampton Friends Meeting",
+  "displayName": "Northampton Friends Meeting",
+  "address": {
+    "street": "43 Center Street, Second floor",
+    "city": "Northampton",
+    "state": "MA",
+    "zip": "01060"
+  },
+  "coordinates": {
+    "latitude": 42.3195528,
+    "longitude": -72.6327958
+  },
+  "website": "https://nohofriends.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/northampton-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "northampton-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nohofriends.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "043224341"
+    }
+  ],
+  "advisories": []
+}

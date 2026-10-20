@@ -1,0 +1,33 @@
+{
+  "id": "d92a54g67",
+  "url": "https://constellation.church/d92a54g67",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "5921 Springdale Rd",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45247-3433"
+  },
+  "coordinates": {
+    "latitude": 39.2277889251709,
+    "longitude": -84.63696670532227
+  },
+  "website": "https://trinitycincy.org",
+  "listingUrl": "https://locator.lcms.org/church/C/172387",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "172387"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitycincy.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310675613"
+    }
+  ],
+  "advisories": []
+}

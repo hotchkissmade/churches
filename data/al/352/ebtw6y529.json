@@ -1,0 +1,33 @@
+{
+  "id": "ebtw6y529",
+  "url": "https://constellation.church/ebtw6y529",
+  "name": "Briarwood Presbyterian Church",
+  "displayName": "Briarwood Presbyterian Church",
+  "address": {
+    "street": "2200 Briarwood Way",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35243"
+  },
+  "coordinates": {
+    "latitude": 33.41691017150879,
+    "longitude": -86.75915145874023
+  },
+  "website": "https://briarwood.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/119",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "119"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "briarwood.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630653634"
+    }
+  ],
+  "advisories": []
+}

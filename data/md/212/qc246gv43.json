@@ -1,0 +1,37 @@
+{
+  "id": "qc246gv43",
+  "url": "https://constellation.church/qc246gv43",
+  "name": "Slate Project",
+  "displayName": "Slate Project",
+  "address": {
+    "street": "5699 Meridale Rd",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21228-1820"
+  },
+  "coordinates": {
+    "latitude": 39.285171766032,
+    "longitude": -76.714891691566
+  },
+  "website": "https://slateproject.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4fed9a05-6965-4084-ab5e-3c370da7cfc4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4fed9a05-6965-4084-ab5e-3c370da7cfc4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "slateproject.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "463799777"
+    },
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maryland/slate-project"
+    }
+  ],
+  "advisories": []
+}

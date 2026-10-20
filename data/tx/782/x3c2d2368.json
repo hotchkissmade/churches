@@ -1,0 +1,33 @@
+{
+  "id": "x3c2d2368",
+  "url": "https://constellation.church/x3c2d2368",
+  "name": "Iglesia Luterana San Pablo",
+  "displayName": "Iglesia Luterana San Pablo",
+  "address": {
+    "street": "2903 Nacogdoches Rd",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78217-4522"
+  },
+  "coordinates": {
+    "latitude": 29.52485466003418,
+    "longitude": -98.44361877441406
+  },
+  "website": "https://macparkelca.org/new-page",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3cdb145b-b809-431c-a9f3-e7a6d49d1ea2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3cdb145b-b809-431c-a9f3-e7a6d49d1ea2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "macparkelca.org/new-page"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "352444520"
+    }
+  ],
+  "advisories": []
+}

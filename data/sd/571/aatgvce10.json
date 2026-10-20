@@ -1,0 +1,37 @@
+{
+  "id": "aatgvce10",
+  "url": "https://constellation.church/aatgvce10",
+  "name": "Resurrection Lutheran Church",
+  "displayName": "Resurrection Lutheran Church",
+  "address": {
+    "street": "5500 W 26th St",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57106-0606"
+  },
+  "coordinates": {
+    "latitude": 43.529579162597656,
+    "longitude": -96.79486083984375
+  },
+  "website": "https://resurrectionsf.org",
+  "listingUrl": "https://locator.lcms.org/church/C/99",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "99"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "resurrectionsf.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460415108"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460434425"
+    }
+  ],
+  "advisories": []
+}

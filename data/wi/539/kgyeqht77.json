@@ -1,0 +1,33 @@
+{
+  "id": "kgyeqht77",
+  "url": "https://constellation.church/kgyeqht77",
+  "name": "Redeemer Lutheran Church",
+  "displayName": "Redeemer Lutheran Church",
+  "address": {
+    "street": "610 Lincoln Ave",
+    "city": "Rio",
+    "state": "WI",
+    "zip": "53960-8017"
+  },
+  "coordinates": {
+    "latitude": 43.44339942932129,
+    "longitude": -89.23880767822266
+  },
+  "website": "https://rioredeemerlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b94d5412-09c6-4453-8351-33aeb8d3713b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b94d5412-09c6-4453-8351-33aeb8d3713b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rioredeemerlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391248417"
+    }
+  ],
+  "advisories": []
+}

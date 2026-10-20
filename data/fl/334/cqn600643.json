@@ -1,0 +1,33 @@
+{
+  "id": "cqn600643",
+  "url": "https://constellation.church/cqn600643",
+  "name": "Good Shepherd Lutheran Church",
+  "displayName": "Good Shepherd Lutheran Church",
+  "address": {
+    "street": "6301 SW 18th St",
+    "city": "Boca Raton",
+    "state": "FL",
+    "zip": "33433-7148"
+  },
+  "coordinates": {
+    "latitude": 26.33220863342285,
+    "longitude": -80.14227294921875
+  },
+  "website": "https://goodshepherdboca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a7c9c45b-fa6e-4c62-ba6a-c9544a6337bc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a7c9c45b-fa6e-4c62-ba6a-c9544a6337bc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherdboca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592405312"
+    }
+  ],
+  "advisories": []
+}

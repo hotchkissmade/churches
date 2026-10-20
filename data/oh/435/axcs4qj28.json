@@ -1,0 +1,33 @@
+{
+  "id": "axcs4qj28",
+  "url": "https://constellation.church/axcs4qj28",
+  "name": "Eastland Baptist Church",
+  "displayName": "Eastland Baptist Church",
+  "address": {
+    "street": "1229 E. High Street",
+    "city": "Bryan",
+    "state": "OH",
+    "zip": "43506"
+  },
+  "coordinates": {
+    "latitude": 41.47586631774902,
+    "longitude": -84.53168106079102
+  },
+  "website": "https://ebcbryan.com",
+  "listingUrl": "https://churches.sbc.net/church/eastland-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "eastland-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ebcbryan.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341361171"
+    }
+  ],
+  "advisories": []
+}

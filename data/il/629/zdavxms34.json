@@ -1,0 +1,33 @@
+{
+  "id": "zdavxms34",
+  "url": "https://constellation.church/zdavxms34",
+  "name": "Grace Church",
+  "displayName": "Grace Church",
+  "address": {
+    "street": "102 E 20th St",
+    "city": "Metropolis",
+    "state": "IL",
+    "zip": "62960"
+  },
+  "coordinates": {
+    "latitude": 37.16257286071777,
+    "longitude": -88.72592163085938
+  },
+  "website": "https://gracechurchmetropolis.com",
+  "listingUrl": "https://churches.sbc.net/church/grace-church-8/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grace-church-8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracechurchmetropolis.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611859144"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p0ymkd342",
+  "url": "https://constellation.church/p0ymkd342",
+  "name": "Bethany Lutheran Church",
+  "displayName": "Bethany Lutheran Church",
+  "address": {
+    "street": "500 Lemont St",
+    "city": "Lemont",
+    "state": "IL",
+    "zip": "60439-4029"
+  },
+  "coordinates": {
+    "latitude": 41.67165756225586,
+    "longitude": -87.9989013671875
+  },
+  "website": "https://bethanylemont.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=33096c22-83a2-46a0-b385-d7a0ebd270b0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "33096c22-83a2-46a0-b385-d7a0ebd270b0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanylemont.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362904935"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "v1yhjk538",
+  "url": "https://constellation.church/v1yhjk538",
+  "name": "United Haitian Baptist Church",
+  "displayName": "United Haitian Baptist Church",
+  "address": {
+    "street": "2015 Parker Ave",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "zip": "33401"
+  },
+  "coordinates": {
+    "latitude": 26.695770263671875,
+    "longitude": -80.06249237060547
+  },
+  "website": "https://myuhbc.org",
+  "listingUrl": "https://churches.sbc.net/church/united-haitian-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "united-haitian-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "myuhbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "650287465"
+    }
+  ],
+  "advisories": []
+}

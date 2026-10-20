@@ -1,0 +1,33 @@
+{
+  "id": "st863s505",
+  "url": "https://constellation.church/st863s505",
+  "name": "Riverside Community Church",
+  "displayName": "Riverside Community Church",
+  "address": {
+    "street": "401 Allegheny Ave",
+    "city": "Oakmont",
+    "state": "PA",
+    "zip": "15139"
+  },
+  "coordinates": {
+    "latitude": 40.516571044921875,
+    "longitude": -79.84372329711914
+  },
+  "website": "https://riversideconnect.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a31cc7c4-5b3e-40e5-b0f7-7bb27266a5f0&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "a31cc7c4-5b3e-40e5-b0f7-7bb27266a5f0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "riversideconnect.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251618117"
+    }
+  ],
+  "advisories": []
+}

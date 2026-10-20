@@ -1,0 +1,33 @@
+{
+  "id": "aygcrhk85",
+  "url": "https://constellation.church/aygcrhk85",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "325 Mill St",
+    "city": "Loganville",
+    "state": "WI",
+    "zip": "53943-9657"
+  },
+  "coordinates": {
+    "latitude": 43.441566467285156,
+    "longitude": -90.03580093383789
+  },
+  "website": "https://stpetersloganville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f1c01b83-a332-46d8-8c08-448c2298dca5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f1c01b83-a332-46d8-8c08-448c2298dca5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpetersloganville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391043985"
+    }
+  ],
+  "advisories": []
+}

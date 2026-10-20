@@ -1,0 +1,33 @@
+{
+  "id": "tgnf1ns67",
+  "url": "https://constellation.church/tgnf1ns67",
+  "name": "St. Ann's Episcopal Church",
+  "displayName": "St. Ann's Episcopal Church",
+  "address": {
+    "street": "40 Windham Center Rd",
+    "city": "Windham",
+    "state": "ME",
+    "zip": "04062"
+  },
+  "coordinates": {
+    "latitude": 43.80009078979492,
+    "longitude": -70.44166946411133
+  },
+  "website": "https://stannsepiscopalchurch.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maine/list/st-anns-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maine/st-anns-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stannsepiscopalchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "010354164"
+    }
+  ],
+  "advisories": []
+}

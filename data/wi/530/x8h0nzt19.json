@@ -1,0 +1,33 @@
+{
+  "id": "x8h0nzt19",
+  "url": "https://constellation.church/x8h0nzt19",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "245 S 2nd St",
+    "city": "Oakfield",
+    "state": "WI",
+    "zip": "53065-0277"
+  },
+  "coordinates": {
+    "latitude": 43.6814007,
+    "longitude": -88.545059
+  },
+  "website": "https://stlukesoakfield.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24700",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24700"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesoakfield.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391159737"
+    }
+  ],
+  "advisories": []
+}

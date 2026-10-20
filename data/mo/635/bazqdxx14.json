@@ -1,0 +1,33 @@
+{
+  "id": "bazqdxx14",
+  "url": "https://constellation.church/bazqdxx14",
+  "name": "Open Arms Baptist Church",
+  "displayName": "Open Arms Baptist Church",
+  "address": {
+    "street": "202 Crescent Dr",
+    "city": "Macon",
+    "state": "MO",
+    "zip": "63552"
+  },
+  "coordinates": {
+    "latitude": 39.734737396240234,
+    "longitude": -92.47439956665039
+  },
+  "website": "https://openarmsbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/open-arms-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "open-arms-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "openarmsbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431460929"
+    }
+  ],
+  "advisories": []
+}

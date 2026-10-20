@@ -1,0 +1,33 @@
+{
+  "id": "sg2qqxv94",
+  "url": "https://constellation.church/sg2qqxv94",
+  "name": "New Douglas Baptist Church",
+  "displayName": "New Douglas Baptist Church",
+  "address": {
+    "street": "407 N First St",
+    "city": "New Douglas",
+    "state": "IL",
+    "zip": "62074"
+  },
+  "coordinates": {
+    "latitude": 38.97312927246094,
+    "longitude": -89.66452026367188
+  },
+  "website": "https://newdouglasbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/new-douglas-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-douglas-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newdouglasbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "376091225"
+    }
+  ],
+  "advisories": []
+}

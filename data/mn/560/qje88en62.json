@@ -1,0 +1,33 @@
+{
+  "id": "qje88en62",
+  "url": "https://constellation.church/qje88en62",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "511 S 5th St",
+    "city": "Saint Peter",
+    "state": "MN",
+    "zip": "56082-2002"
+  },
+  "coordinates": {
+    "latitude": 44.32368850708008,
+    "longitude": -93.96248626708984
+  },
+  "website": "https://trinitystpeter.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=675b3d52-5641-4bda-b13c-0b0f88d45ee7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "675b3d52-5641-4bda-b13c-0b0f88d45ee7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitystpeter.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410757889"
+    }
+  ],
+  "advisories": []
+}

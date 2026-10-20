@@ -1,0 +1,33 @@
+{
+  "id": "esc5dww52",
+  "url": "https://constellation.church/esc5dww52",
+  "name": "St. Thomas, Dupont Circle",
+  "displayName": "St. Thomas, Dupont Circle",
+  "address": {
+    "street": "1517 18th Street, NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20036-1327"
+  },
+  "coordinates": {
+    "latitude": 38.910261154174805,
+    "longitude": -77.0415153503418
+  },
+  "website": "https://stthomasdc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/st-thomas-dupont-circle",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/st-thomas-dupont-circle"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stthomasdc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "530196499"
+    }
+  ],
+  "advisories": []
+}

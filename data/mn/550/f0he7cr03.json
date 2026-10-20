@@ -1,0 +1,33 @@
+{
+  "id": "f0he7cr03",
+  "url": "https://constellation.church/f0he7cr03",
+  "name": "St Johns Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "980 W 4th St",
+    "city": "Rush City",
+    "state": "MN",
+    "zip": "55069-9065"
+  },
+  "coordinates": {
+    "latitude": 45.68393325805664,
+    "longitude": -92.9776611328125
+  },
+  "website": "https://stjohnsrushcity.org/connect/watch-the-services",
+  "listingUrl": "https://locator.lcms.org/church/C/785428",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "785428"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsrushcity.org/connect/watch-the-services"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416153380"
+    }
+  ],
+  "advisories": []
+}

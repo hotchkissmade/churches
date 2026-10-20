@@ -1,0 +1,33 @@
+{
+  "id": "qxjfszd49",
+  "url": "https://constellation.church/qxjfszd49",
+  "name": "Restoration Arena",
+  "displayName": "RCCG Restoration Arena",
+  "address": {
+    "street": "22 IBM Road, Suite 110",
+    "city": "Poughkeepssie",
+    "state": "NY",
+    "zip": "12601"
+  },
+  "coordinates": {
+    "latitude": 41.650455474853516,
+    "longitude": -73.93313980102539
+  },
+  "website": "https://rccgpoughkeepsie.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=356&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "356"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rccgpoughkeepsie.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "271991167"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "x087b1a15",
+  "url": "https://constellation.church/x087b1a15",
+  "name": "Calvary Lutheran Church",
+  "displayName": "Calvary Lutheran Church",
+  "address": {
+    "street": "119 N King St",
+    "city": "Morganton",
+    "state": "NC",
+    "zip": "28655-3426"
+  },
+  "coordinates": {
+    "latitude": 35.74490547180176,
+    "longitude": -81.69025421142578
+  },
+  "website": "https://clcmorganton.org/give",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=22ee96c6-df37-4bff-a6ef-5c110bd55be1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "22ee96c6-df37-4bff-a6ef-5c110bd55be1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clcmorganton.org/give"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "931542483"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "an2skzq51",
+  "url": "https://constellation.church/an2skzq51",
+  "name": "First Baptist Church of Sun Lakes",
+  "displayName": "First Baptist Church of Sun Lakes",
+  "address": {
+    "street": "9535 E Riggs Rd",
+    "city": "Sun Lakes",
+    "state": "AZ",
+    "zip": "85248"
+  },
+  "coordinates": {
+    "latitude": 33.21711540222168,
+    "longitude": -111.87672424316406
+  },
+  "website": "https://fbcsl.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-sun-lakes/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-sun-lakes"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcsl.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860635738"
+    }
+  ],
+  "advisories": []
+}

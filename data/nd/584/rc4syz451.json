@@ -1,0 +1,33 @@
+{
+  "id": "rc4syz451",
+  "url": "https://constellation.church/rc4syz451",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "PO Box 57",
+    "city": "Tappen",
+    "state": "ND",
+    "zip": "58487-0057"
+  },
+  "coordinates": {
+    "latitude": 46.87776565551758,
+    "longitude": -99.63394927978516
+  },
+  "website": "https://stjohnstappen.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24144",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24144"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnstappen.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450365307"
+    }
+  ],
+  "advisories": []
+}

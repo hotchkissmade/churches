@@ -1,0 +1,33 @@
+{
+  "id": "e5p805529",
+  "url": "https://constellation.church/e5p805529",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "401 E Military Ave",
+    "city": "Fremont",
+    "state": "NE",
+    "zip": "68025-5140"
+  },
+  "coordinates": {
+    "latitude": 41.43502616882324,
+    "longitude": -96.49319458007812
+  },
+  "website": "https://salemfremont.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6c7e2650-1ff0-4e08-8d99-91ed32610022",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6c7e2650-1ff0-4e08-8d99-91ed32610022"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemfremont.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470433018"
+    }
+  ],
+  "advisories": []
+}

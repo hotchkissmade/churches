@@ -1,0 +1,33 @@
+{
+  "id": "bczmtv656",
+  "url": "https://constellation.church/bczmtv656",
+  "name": "St. Raphael of Brooklyn Church",
+  "displayName": "St. Raphael of Brooklyn Church",
+  "address": {
+    "street": "1277 N Paul Dr",
+    "city": "Inverness",
+    "state": "FL",
+    "zip": "34453"
+  },
+  "coordinates": {
+    "latitude": 28.881092071533203,
+    "longitude": -82.36541366577148
+  },
+  "website": "https://straphaelchurch.org/services_calendars",
+  "listingUrl": "https://www.oca.org/parishes/oca-so-invorm",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-so-invorm"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "straphaelchurch.org/services_calendars"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "043771260"
+    }
+  ],
+  "advisories": []
+}

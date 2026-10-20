@@ -1,0 +1,33 @@
+{
+  "id": "mmabmkw03",
+  "url": "https://constellation.church/mmabmkw03",
+  "name": "Sherwood Baptist Church",
+  "displayName": "Sherwood Baptist Church",
+  "address": {
+    "street": "1030 Darlene Blvd",
+    "city": "Lancaster",
+    "state": "SC",
+    "zip": "29720"
+  },
+  "coordinates": {
+    "latitude": 34.660234451293945,
+    "longitude": -80.7510871887207
+  },
+  "website": "https://sherwoodbc.com",
+  "listingUrl": "https://churches.sbc.net/church/sherwood-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sherwood-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sherwoodbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570761599"
+    }
+  ],
+  "advisories": []
+}

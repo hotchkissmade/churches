@@ -1,0 +1,33 @@
+{
+  "id": "k5arexf86",
+  "url": "https://constellation.church/k5arexf86",
+  "name": "Holy Cross Lutheran Church",
+  "displayName": "Holy Cross Lutheran Church",
+  "address": {
+    "street": "1020 Mocho St",
+    "city": "Livermore",
+    "state": "CA",
+    "zip": "94550-4102"
+  },
+  "coordinates": {
+    "latitude": 37.67349433898926,
+    "longitude": -121.78311920166016
+  },
+  "website": "https://holycrosslivermore.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a67335b0-09e2-4315-85bb-ef17367729f7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a67335b0-09e2-4315-85bb-ef17367729f7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holycrosslivermore.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941639362"
+    }
+  ],
+  "advisories": []
+}

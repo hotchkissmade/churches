@@ -1,0 +1,33 @@
+{
+  "id": "q7b579g60",
+  "url": "https://constellation.church/q7b579g60",
+  "name": "West Nidaros Lutheran Church",
+  "displayName": "West Nidaros Lutheran Church",
+  "address": {
+    "street": "25403 471st Ave",
+    "city": "Crooks",
+    "state": "SD",
+    "zip": "57020-5819"
+  },
+  "coordinates": {
+    "latitude": 43.70279312133789,
+    "longitude": -96.79173278808594
+  },
+  "website": "https://westnidaros.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6f3b812c-9c57-45c2-9fd2-783eebfd4c96",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6f3b812c-9c57-45c2-9fd2-783eebfd4c96"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westnidaros.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "466011973"
+    }
+  ],
+  "advisories": []
+}

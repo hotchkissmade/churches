@@ -1,0 +1,33 @@
+{
+  "id": "b6qv50t74",
+  "url": "https://constellation.church/b6qv50t74",
+  "name": "First Baptist Church of Delaware",
+  "displayName": "First Baptist Church of Delaware",
+  "address": {
+    "street": "901 E Basin Rd",
+    "city": "New Castle",
+    "state": "DE",
+    "zip": "19720"
+  },
+  "coordinates": {
+    "latitude": 39.665151596069336,
+    "longitude": -75.58085250854492
+  },
+  "website": "https://fbcde.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-delaware/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-delaware"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcde.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "516000382"
+    }
+  ],
+  "advisories": []
+}

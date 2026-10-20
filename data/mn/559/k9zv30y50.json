@@ -1,0 +1,33 @@
+{
+  "id": "k9zv30y50",
+  "url": "https://constellation.church/k9zv30y50",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "203 E Main St",
+    "city": "Spring Grove",
+    "state": "MN",
+    "zip": "55974-1441"
+  },
+  "coordinates": {
+    "latitude": 43.561153411865234,
+    "longitude": -91.63433456420898
+  },
+  "website": "https://trinitysg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=35e3a6e6-2ad7-4a6d-8a49-ab862ed4c4a4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "35e3a6e6-2ad7-4a6d-8a49-ab862ed4c4a4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitysg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410724052"
+    }
+  ],
+  "advisories": []
+}

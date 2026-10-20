@@ -1,0 +1,33 @@
+{
+  "id": "pvcs06s20",
+  "url": "https://constellation.church/pvcs06s20",
+  "name": "Cooksville Lutheran Church",
+  "displayName": "Cooksville Lutheran Church",
+  "address": {
+    "street": "11927 W Church St",
+    "city": "Evansville",
+    "state": "WI",
+    "zip": "53536-8907"
+  },
+  "coordinates": {
+    "latitude": 42.833133697509766,
+    "longitude": -89.23762130737305
+  },
+  "website": "https://cooksvillelutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ccd59ef1-0966-4cb9-ad95-ad3aedcc1982",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ccd59ef1-0966-4cb9-ad95-ad3aedcc1982"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cooksvillelutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391457486"
+    }
+  ],
+  "advisories": []
+}

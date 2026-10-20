@@ -1,0 +1,33 @@
+{
+  "id": "bwaypcf27",
+  "url": "https://constellation.church/bwaypcf27",
+  "name": "Hope Lake Stevens",
+  "displayName": "Hope Lake Stevens",
+  "address": {
+    "street": "9613 20th St SE",
+    "city": "Lake Stevens",
+    "state": "WA",
+    "zip": "98258-4725"
+  },
+  "coordinates": {
+    "latitude": 47.9786376953125,
+    "longitude": -122.10206604003906
+  },
+  "website": "https://hopelakestevens.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=98765c7e-4ba1-41bb-9a60-7629d1d9708f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "98765c7e-4ba1-41bb-9a60-7629d1d9708f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopelakestevens.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "452994930"
+    }
+  ],
+  "advisories": []
+}

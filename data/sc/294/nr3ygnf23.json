@@ -1,0 +1,33 @@
+{
+  "id": "nr3ygnf23",
+  "url": "https://constellation.church/nr3ygnf23",
+  "name": "Moncks Corner First Baptist Church",
+  "displayName": "Moncks Corner First Baptist Church",
+  "address": {
+    "street": "112 E Main St",
+    "city": "Moncks Corner",
+    "state": "SC",
+    "zip": "29461"
+  },
+  "coordinates": {
+    "latitude": 33.19549751281738,
+    "longitude": -80.01137161254883
+  },
+  "website": "https://monckscorner.church",
+  "listingUrl": "https://churches.sbc.net/church/moncks-corner-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "moncks-corner-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "monckscorner.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570344119"
+    }
+  ],
+  "advisories": []
+}

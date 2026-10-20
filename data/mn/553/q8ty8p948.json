@@ -1,0 +1,33 @@
+{
+  "id": "q8ty8p948",
+  "url": "https://constellation.church/q8ty8p948",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "2451 Fairview Ln",
+    "city": "Mound",
+    "state": "MN",
+    "zip": "55364-1756"
+  },
+  "coordinates": {
+    "latitude": 44.9339714050293,
+    "longitude": -93.6547622680664
+  },
+  "website": "https://stjohnsofmound.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=980caeba-9ed9-4964-afa4-4a5bbacc44e9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "980caeba-9ed9-4964-afa4-4a5bbacc44e9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsofmound.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410958844"
+    }
+  ],
+  "advisories": []
+}

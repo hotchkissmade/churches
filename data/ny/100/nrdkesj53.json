@@ -1,0 +1,33 @@
+{
+  "id": "nrdkesj53",
+  "url": "https://constellation.church/nrdkesj53",
+  "name": "Bethel Assembly of God",
+  "displayName": "Bethel Assembly of God",
+  "address": {
+    "street": "77 Eldridge St",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10002"
+  },
+  "coordinates": {
+    "latitude": 40.716989517211914,
+    "longitude": -73.99261093139648
+  },
+  "website": "https://bethelagnyc.com/about",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=4f1d39b9-1867-42a3-b638-5102f2f7dc0f&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "4f1d39b9-1867-42a3-b638-5102f2f7dc0f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelagnyc.com/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "133589637"
+    }
+  ],
+  "advisories": []
+}

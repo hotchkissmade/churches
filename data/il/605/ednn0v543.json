@@ -1,0 +1,33 @@
+{
+  "id": "ednn0v543",
+  "url": "https://constellation.church/ednn0v543",
+  "name": "Redeemer Lutheran Church",
+  "displayName": "Redeemer Lutheran Church",
+  "address": {
+    "street": "139 E 1st St",
+    "city": "Hinsdale",
+    "state": "IL",
+    "zip": "60521-4253"
+  },
+  "coordinates": {
+    "latitude": 41.801883697509766,
+    "longitude": -87.9255256652832
+  },
+  "website": "https://redeemerhinsdale.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=46bc2fe4-efd5-45ac-93ea-5e2c9593d23f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "46bc2fe4-efd5-45ac-93ea-5e2c9593d23f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerhinsdale.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362374426"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pabx0ph95",
+  "url": "https://constellation.church/pabx0ph95",
+  "name": "Renew Church",
+  "displayName": "Renew Church",
+  "address": {
+    "street": "1029 33rd St",
+    "city": "Two Rivers",
+    "state": "WI",
+    "zip": "54241"
+  },
+  "coordinates": {
+    "latitude": 44.16374206542969,
+    "longitude": -87.56153106689453
+  },
+  "website": "https://renewchurch.today",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=af44ccb4-5bb5-4917-b0a0-7861d2a2c987&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "af44ccb4-5bb5-4917-b0a0-7861d2a2c987"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "renewchurch.today"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "392015721"
+    }
+  ],
+  "advisories": []
+}

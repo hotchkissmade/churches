@@ -1,0 +1,33 @@
+{
+  "id": "hcf4kf802",
+  "url": "https://constellation.church/hcf4kf802",
+  "name": "Harbor Church",
+  "displayName": "Harbor Church",
+  "address": {
+    "street": "957 Falmouth Road",
+    "city": "Hyannis",
+    "state": "MA",
+    "zip": "02601"
+  },
+  "coordinates": {
+    "latitude": 41.659236907958984,
+    "longitude": -70.32221984863281
+  },
+  "website": "https://harborchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/harbor-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "harbor-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "harborchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "474380657"
+    }
+  ],
+  "advisories": []
+}

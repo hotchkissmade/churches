@@ -1,0 +1,33 @@
+{
+  "id": "bxv1efz91",
+  "url": "https://constellation.church/bxv1efz91",
+  "name": "St. Luke's Episcopal Church",
+  "displayName": "St. Luke's Episcopal Church",
+  "address": {
+    "street": "601 W Dry St",
+    "city": "San Saba",
+    "state": "TX",
+    "zip": "76877-5611"
+  },
+  "coordinates": {
+    "latitude": 31.193992614746094,
+    "longitude": -98.725830078125
+  },
+  "website": "https://stlukessansaba.com/about-us",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-texas/list/st-lukes-episcopal-church-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-texas/st-lukes-episcopal-church-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukessansaba.com/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742247219"
+    }
+  ],
+  "advisories": []
+}

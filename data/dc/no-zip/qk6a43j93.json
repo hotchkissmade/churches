@@ -1,0 +1,33 @@
+{
+  "id": "qk6a43j93",
+  "url": "https://constellation.church/qk6a43j93",
+  "name": "Friends Meeting of Washington",
+  "displayName": "Friends Meeting of Washington",
+  "address": {
+    "street": "2111 Decatur Place NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 38.91338920593262,
+    "longitude": -77.04756546020508
+  },
+  "website": "https://quakersdc.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/friends-meeting-of-washington/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "friends-meeting-of-washington"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "quakersdc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "530204698"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gpptm0488",
+  "url": "https://constellation.church/gpptm0488",
+  "name": "Heritage Presbyterian Church",
+  "displayName": "Heritage Presbyterian Church",
+  "address": {
+    "street": "4000 Alt Road",
+    "city": "Eureka",
+    "state": "MO",
+    "zip": "63025"
+  },
+  "coordinates": {
+    "latitude": 38.53898048400879,
+    "longitude": -90.6327018737793
+  },
+  "website": "https://heritagewildwood.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/589",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "589"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "heritagewildwood.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431464374"
+    }
+  ],
+  "advisories": []
+}

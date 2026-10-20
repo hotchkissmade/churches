@@ -1,0 +1,33 @@
+{
+  "id": "j7r4ckt19",
+  "url": "https://constellation.church/j7r4ckt19",
+  "name": "Walton Road Baptist Church",
+  "displayName": "Walton Road Baptist Church",
+  "address": {
+    "street": "2001 SE Walton Rd",
+    "city": "Port St Lucie",
+    "state": "FL",
+    "zip": "34952"
+  },
+  "coordinates": {
+    "latitude": 27.299747467041016,
+    "longitude": -80.29117202758789
+  },
+  "website": "https://waltonroadbaptist.net",
+  "listingUrl": "https://churches.sbc.net/church/walton-road-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "walton-road-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "waltonroadbaptist.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "650006788"
+    }
+  ],
+  "advisories": []
+}

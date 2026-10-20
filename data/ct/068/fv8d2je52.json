@@ -1,0 +1,33 @@
+{
+  "id": "fv8d2je52",
+  "url": "https://constellation.church/fv8d2je52",
+  "name": "St. Saviour's Church",
+  "displayName": "St. Saviour's Church",
+  "address": {
+    "street": "350 Sound Beach Ave",
+    "city": "Old Greenwich",
+    "state": "CT",
+    "zip": "06870"
+  },
+  "coordinates": {
+    "latitude": 41.02465629577637,
+    "longitude": -73.56584548950195
+  },
+  "website": "https://saintsaviours.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/episcopal-church-connecticut/list/st-saviours-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "episcopal-church-connecticut/st-saviours-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintsaviours.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "066012702"
+    }
+  ],
+  "advisories": []
+}

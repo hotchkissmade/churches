@@ -1,0 +1,33 @@
+{
+  "id": "j83scjf17",
+  "url": "https://constellation.church/j83scjf17",
+  "name": "Cathedral of St. John the Evangelist, Spokane",
+  "displayName": "Cathedral of St. John the Evangelist, Spokane",
+  "address": {
+    "street": "127 E 12th Ave",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99202-1199"
+  },
+  "coordinates": {
+    "latitude": 47.64497756958008,
+    "longitude": -117.40977478027344
+  },
+  "website": "https://stjohns-cathedral.org/pages/serve",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-spokane/list/cathedral-st-john-evangelist",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-spokane/cathedral-st-john-evangelist"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohns-cathedral.org/pages/serve"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910904831"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kefj0kk32",
+  "url": "https://constellation.church/kefj0kk32",
+  "name": "Mie Baptist Church",
+  "displayName": "Mie Baptist Church",
+  "address": {
+    "street": "802 Bellaire Blvd",
+    "city": "Lewisville",
+    "state": "TX",
+    "zip": "75067"
+  },
+  "coordinates": {
+    "latitude": 33.027273178100586,
+    "longitude": -97.00825500488281
+  },
+  "website": "https://miebaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/mie-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mie-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "miebaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "472536407"
+    }
+  ],
+  "advisories": []
+}

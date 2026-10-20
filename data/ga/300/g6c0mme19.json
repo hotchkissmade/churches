@@ -1,0 +1,33 @@
+{
+  "id": "g6c0mme19",
+  "url": "https://constellation.church/g6c0mme19",
+  "name": "The Church of St Matthew",
+  "displayName": "The Church of St. Matthew",
+  "address": {
+    "street": "1520 Oak Rd",
+    "city": "Snellville",
+    "state": "GA",
+    "zip": "30078-2230"
+  },
+  "coordinates": {
+    "latitude": 33.872087478637695,
+    "longitude": -84.04536056518555
+  },
+  "website": "https://stmatthewssnellville.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-atlanta/list/church-st-matthew",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-atlanta/church-st-matthew"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmatthewssnellville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581382301"
+    }
+  ],
+  "advisories": []
+}

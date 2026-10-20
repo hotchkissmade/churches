@@ -1,0 +1,33 @@
+{
+  "id": "m32cmak20",
+  "url": "https://constellation.church/m32cmak20",
+  "name": "Grace Presbyterian Church",
+  "displayName": "Grace Presbyterian Church",
+  "address": {
+    "street": "10548 SW County Road 769",
+    "city": "Lake Suzy",
+    "state": "FL",
+    "zip": "34269"
+  },
+  "coordinates": {
+    "latitude": 27.0682,
+    "longitude": -82.0220411
+  },
+  "website": "https://gracelakesuzy.churchcenter.com/home",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1217",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1217"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelakesuzy.churchcenter.com/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "650387145"
+    }
+  ],
+  "advisories": []
+}

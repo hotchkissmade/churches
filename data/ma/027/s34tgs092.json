@@ -1,0 +1,33 @@
+{
+  "id": "s34tgs092",
+  "url": "https://constellation.church/s34tgs092",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "16 Temple Pl",
+    "city": "Fairhaven",
+    "state": "MA",
+    "zip": "02719-4005"
+  },
+  "coordinates": {
+    "latitude": 41.64140510559082,
+    "longitude": -70.89152145385742
+  },
+  "website": "https://tlcfhvn.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dd17fb59-4bf3-4173-aede-cc40b7b03af4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dd17fb59-4bf3-4173-aede-cc40b7b03af4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcfhvn.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222508360"
+    }
+  ],
+  "advisories": []
+}

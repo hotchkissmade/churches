@@ -1,0 +1,33 @@
+{
+  "id": "xkezqqq35",
+  "url": "https://constellation.church/xkezqqq35",
+  "name": "Stonebridge Church",
+  "displayName": "Stonebridge Church",
+  "address": {
+    "street": "921 W 2nd St",
+    "city": "Boone",
+    "state": "IA",
+    "zip": "50036"
+  },
+  "coordinates": {
+    "latitude": 42.058645248413086,
+    "longitude": -93.90532684326172
+  },
+  "website": "https://stonebridgeboone.com/beliefs",
+  "listingUrl": "https://churches.sbc.net/church/stonebridge-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "stonebridge-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stonebridgeboone.com/beliefs"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "821482409"
+    }
+  ],
+  "advisories": []
+}

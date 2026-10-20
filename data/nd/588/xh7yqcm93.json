@@ -1,0 +1,33 @@
+{
+  "id": "xh7yqcm93",
+  "url": "https://constellation.church/xh7yqcm93",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "212 2nd St NW",
+    "city": "Watford City",
+    "state": "ND",
+    "zip": "58854-3055"
+  },
+  "coordinates": {
+    "latitude": 47.80307388305664,
+    "longitude": -103.284423828125
+  },
+  "website": "https://flcwc.church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cfdeb60c-ea72-44c3-a82a-80f7fa909635",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cfdeb60c-ea72-44c3-a82a-80f7fa909635"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcwc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450277309"
+    }
+  ],
+  "advisories": []
+}

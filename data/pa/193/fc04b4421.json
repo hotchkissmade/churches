@@ -1,0 +1,33 @@
+{
+  "id": "fc04b4421",
+  "url": "https://constellation.church/fc04b4421",
+  "name": "Kemblesville United Methodist Church",
+  "displayName": "Kemblesville United Methodist Church",
+  "address": {
+    "street": "1772 New London Road",
+    "city": "Kemblesville",
+    "state": "PA",
+    "zip": "19347"
+  },
+  "coordinates": {
+    "latitude": 39.751678466796875,
+    "longitude": -75.82513809204102
+  },
+  "website": "https://kemblesvilleumc.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKoQIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKoQIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kemblesvilleumc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232310554"
+    }
+  ],
+  "advisories": []
+}

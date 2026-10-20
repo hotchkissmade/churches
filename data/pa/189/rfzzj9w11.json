@@ -1,0 +1,33 @@
+{
+  "id": "rfzzj9w11",
+  "url": "https://constellation.church/rfzzj9w11",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "102 N Hellertown Ave",
+    "city": "Quakertown",
+    "state": "PA",
+    "zip": "18951-1596"
+  },
+  "coordinates": {
+    "latitude": 40.44346809387207,
+    "longitude": -75.33375930786133
+  },
+  "website": "https://trinityquakertown.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7ed87d75-e85e-44c1-873a-43e3e40b1e7d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7ed87d75-e85e-44c1-873a-43e3e40b1e7d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityquakertown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231526665"
+    }
+  ],
+  "advisories": []
+}

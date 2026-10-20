@@ -1,0 +1,33 @@
+{
+  "id": "ga484c044",
+  "url": "https://constellation.church/ga484c044",
+  "name": "McCormick First Baptist Church",
+  "displayName": "McCormick First Baptist Church",
+  "address": {
+    "street": "108 S Oak St",
+    "city": "Mc Cormick",
+    "state": "SC",
+    "zip": "29835"
+  },
+  "coordinates": {
+    "latitude": 33.91347885131836,
+    "longitude": -82.29214477539062
+  },
+  "website": "https://mccormickfbc.org",
+  "listingUrl": "https://churches.sbc.net/church/mccormick-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mccormick-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mccormickfbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570399649"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "e0jtyec51",
+  "url": "https://constellation.church/e0jtyec51",
+  "name": "Redeemer Lutheran Church",
+  "displayName": "Redeemer Lutheran Church",
+  "address": {
+    "street": "2920 W Cassia St",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83705-1724"
+  },
+  "coordinates": {
+    "latitude": 43.597177505493164,
+    "longitude": -116.2180404663086
+  },
+  "website": "https://redeemerboise.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=efb66cd5-88ae-4d45-b520-d4cc0cb373a3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "efb66cd5-88ae-4d45-b520-d4cc0cb373a3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerboise.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820348864"
+    }
+  ],
+  "advisories": []
+}

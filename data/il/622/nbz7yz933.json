@@ -1,0 +1,33 @@
+{
+  "id": "nbz7yz933",
+  "url": "https://constellation.church/nbz7yz933",
+  "name": "First Baptist Church of O’Fallon",
+  "displayName": "First Baptist Church of O’Fallon",
+  "address": {
+    "street": "1111 E Highway 50",
+    "city": "O Fallon",
+    "state": "IL",
+    "zip": "62269"
+  },
+  "coordinates": {
+    "latitude": 38.582693099975586,
+    "longitude": -89.89218139648438
+  },
+  "website": "https://fbcofallon.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-ofallon/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-ofallon"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcofallon.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370901635"
+    }
+  ],
+  "advisories": []
+}

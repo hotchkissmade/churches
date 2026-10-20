@@ -1,0 +1,33 @@
+{
+  "id": "yh61nzh59",
+  "url": "https://constellation.church/yh61nzh59",
+  "name": "Discover Church",
+  "displayName": "Discover Church",
+  "address": {
+    "street": "1826 W Maple St.",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67213"
+  },
+  "coordinates": {
+    "latitude": 37.680612564086914,
+    "longitude": -97.36224365234375
+  },
+  "website": "https://dcwichita.com",
+  "listingUrl": "https://churches.sbc.net/church/discover-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "discover-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dcwichita.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "821285930"
+    }
+  ],
+  "advisories": []
+}

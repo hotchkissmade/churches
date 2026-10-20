@@ -1,0 +1,33 @@
+{
+  "id": "gwcdfk055",
+  "url": "https://constellation.church/gwcdfk055",
+  "name": "Gibson Baptist Church",
+  "displayName": "Gibson Baptist Church",
+  "address": {
+    "street": "5937 Bayou Black Dr",
+    "city": "Gibson",
+    "state": "LA",
+    "zip": "70356"
+  },
+  "coordinates": {
+    "latitude": 29.6644612,
+    "longitude": -90.9763036
+  },
+  "website": "https://gibsonchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/gibson-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "gibson-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gibsonchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720990697"
+    }
+  ],
+  "advisories": []
+}

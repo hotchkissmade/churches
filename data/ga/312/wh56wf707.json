@@ -1,0 +1,33 @@
+{
+  "id": "wh56wf707",
+  "url": "https://constellation.church/wh56wf707",
+  "name": "St. Innocent Church",
+  "displayName": "St. Innocent Church",
+  "address": {
+    "street": "7301 Rivoli Rd",
+    "city": "Macon",
+    "state": "GA",
+    "zip": "31210"
+  },
+  "coordinates": {
+    "latitude": 32.93471717834473,
+    "longitude": -83.78925323486328
+  },
+  "website": "https://st-innocent.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-so-mcnsic",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-so-mcnsic"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "st-innocent.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "582418134"
+    }
+  ],
+  "advisories": []
+}

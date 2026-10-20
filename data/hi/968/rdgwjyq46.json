@@ -1,0 +1,33 @@
+{
+  "id": "rdgwjyq46",
+  "url": "https://constellation.church/rdgwjyq46",
+  "name": "Waikiki Baptist Church",
+  "displayName": "Waikiki Baptist Church",
+  "address": {
+    "street": "424 Kuamoo St",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96815"
+  },
+  "coordinates": {
+    "latitude": 21.28502655029297,
+    "longitude": -157.83158111572266
+  },
+  "website": "https://waikikibaptistchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/waikiki-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "waikiki-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "waikikibaptistchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "990116206"
+    }
+  ],
+  "advisories": []
+}

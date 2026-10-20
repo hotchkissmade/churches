@@ -1,0 +1,33 @@
+{
+  "id": "vcv6aep28",
+  "url": "https://constellation.church/vcv6aep28",
+  "name": "St. Anne's Episcopal Church",
+  "displayName": "St. Anne's Episcopal Church",
+  "address": {
+    "street": "2035 Charlton Rd",
+    "city": "Sunfish Lake",
+    "state": "MN",
+    "zip": "55118-4704"
+  },
+  "coordinates": {
+    "latitude": 44.88246154785156,
+    "longitude": -93.10172653198242
+  },
+  "website": "https://saintannesmn.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/st-annes-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/st-annes-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintannesmn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411540068"
+    }
+  ],
+  "advisories": []
+}

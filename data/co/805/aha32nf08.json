@@ -1,0 +1,33 @@
+{
+  "id": "aha32nf08",
+  "url": "https://constellation.church/aha32nf08",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "815 E 16th St",
+    "city": "Loveland",
+    "state": "CO",
+    "zip": "80538-4063"
+  },
+  "coordinates": {
+    "latitude": 40.40955352783203,
+    "longitude": -105.06637573242188
+  },
+  "website": "https://zionloveland.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9a5365c9-aa7c-4f39-ad56-9097c8ee3bc7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9a5365c9-aa7c-4f39-ad56-9097c8ee3bc7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionloveland.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840635090"
+    }
+  ],
+  "advisories": []
+}

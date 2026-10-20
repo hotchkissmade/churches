@@ -1,0 +1,33 @@
+{
+  "id": "p87je1d97",
+  "url": "https://constellation.church/p87je1d97",
+  "name": "Greenwood First Baptist Church",
+  "displayName": "Greenwood First Baptist Church",
+  "address": {
+    "street": "722 Grace St",
+    "city": "Greenwood",
+    "state": "SC",
+    "zip": "29649"
+  },
+  "coordinates": {
+    "latitude": 34.2060604095459,
+    "longitude": -82.16311264038086
+  },
+  "website": "https://fbcgwd.org",
+  "listingUrl": "https://churches.sbc.net/church/greenwood-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "greenwood-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcgwd.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570375008"
+    }
+  ],
+  "advisories": []
+}

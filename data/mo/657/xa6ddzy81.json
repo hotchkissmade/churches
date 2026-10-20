@@ -1,0 +1,33 @@
+{
+  "id": "xa6ddzy81",
+  "url": "https://constellation.church/xa6ddzy81",
+  "name": "First Baptist Church Walnut Grove",
+  "displayName": "First Baptist Church Walnut Grove",
+  "address": {
+    "street": "417 S Washington West",
+    "city": "Walnut Grove",
+    "state": "MO",
+    "zip": "65770"
+  },
+  "coordinates": {
+    "latitude": 37.404428482055664,
+    "longitude": -93.54888916015625
+  },
+  "website": "https://wgfbc.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-walnut-grove/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-walnut-grove"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wgfbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611682058"
+    }
+  ],
+  "advisories": []
+}

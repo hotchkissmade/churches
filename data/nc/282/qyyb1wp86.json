@@ -1,0 +1,33 @@
+{
+  "id": "qyyb1wp86",
+  "url": "https://constellation.church/qyyb1wp86",
+  "name": "Mercy Church",
+  "displayName": "Mercy Church",
+  "address": {
+    "street": "7200 Providence Rd",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28226"
+  },
+  "coordinates": {
+    "latitude": 35.12911796569824,
+    "longitude": -80.69615936279297
+  },
+  "website": "https://mercycharlotte.com",
+  "listingUrl": "https://churches.sbc.net/church/mercy-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mercy-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mercycharlotte.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "473086949"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "anrswgc58",
+  "url": "https://constellation.church/anrswgc58",
+  "name": "Greenwich Friends Meeting",
+  "displayName": "Greenwich Friends Meeting",
+  "address": {
+    "street": "720 Ye Greate Streete",
+    "city": "Greenwich",
+    "state": "NJ",
+    "zip": "08323"
+  },
+  "coordinates": {
+    "latitude": 39.402330943438,
+    "longitude": -75.342104079098
+  },
+  "website": "https://greenwichfriends.org/resources",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/greenwich-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "greenwich-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "greenwichfriends.org/resources"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "216015000"
+    }
+  ],
+  "advisories": []
+}

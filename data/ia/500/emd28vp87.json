@@ -1,0 +1,37 @@
+{
+  "id": "emd28vp87",
+  "url": "https://constellation.church/emd28vp87",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "712 12th St.",
+    "city": "Boone",
+    "state": "IA",
+    "zip": "50036"
+  },
+  "coordinates": {
+    "latitude": 42.0678595,
+    "longitude": -93.8831751
+  },
+  "website": "https://trinitylutheranboone.com",
+  "listingUrl": "https://idwlcms.org/congregation.php?id=25",
+  "identifiers": [
+    {
+      "namespace": "org.idwlcms.id",
+      "value": "25"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylutheranboone.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420698287"
+    },
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "91163"
+    }
+  ],
+  "advisories": []
+}

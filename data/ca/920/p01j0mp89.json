@@ -1,0 +1,33 @@
+{
+  "id": "p01j0mp89",
+  "url": "https://constellation.church/p01j0mp89",
+  "name": "Broadway Baptist Church of Escondido",
+  "displayName": "Broadway Baptist Church of Escondido",
+  "address": {
+    "street": "1135 N Broadway",
+    "city": "Escondido",
+    "state": "CA",
+    "zip": "92026"
+  },
+  "coordinates": {
+    "latitude": 33.13621711730957,
+    "longitude": -117.08890533447266
+  },
+  "website": "https://northbroadwaybaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/broadway-baptist-church-of-escondido/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "broadway-baptist-church-of-escondido"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northbroadwaybaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952788520"
+    }
+  ],
+  "advisories": []
+}

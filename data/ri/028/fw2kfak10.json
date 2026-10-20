@@ -1,0 +1,33 @@
+{
+  "id": "fw2kfak10",
+  "url": "https://constellation.church/fw2kfak10",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "110 High St",
+    "city": "Ashaway",
+    "state": "RI",
+    "zip": "02804-1504"
+  },
+  "coordinates": {
+    "latitude": 41.43501091003418,
+    "longitude": -71.79468154907227
+  },
+  "website": "https://trinityashaway.wixsite.com/home",
+  "listingUrl": "https://locator.lcms.org/church/C/35703",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "35703"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityashaway.wixsite.com/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237040587"
+    }
+  ],
+  "advisories": []
+}

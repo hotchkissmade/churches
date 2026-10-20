@@ -1,0 +1,33 @@
+{
+  "id": "hcmghtw59",
+  "url": "https://constellation.church/hcmghtw59",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "6814 Skull Creek Rd",
+    "city": "Fayetteville",
+    "state": "TX",
+    "zip": "78940-5056"
+  },
+  "coordinates": {
+    "latitude": 30.019500732421875,
+    "longitude": -96.59297943115234
+  },
+  "website": "https://stpaulshelby.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=af220aca-b1e1-43c1-bcbf-2a02b8151857",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "af220aca-b1e1-43c1-bcbf-2a02b8151857"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulshelby.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742038711"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sdmx1ae71",
+  "url": "https://constellation.church/sdmx1ae71",
+  "name": "Hope Chapel",
+  "displayName": "Hope Chapel",
+  "address": {
+    "street": "35 Chocksett Road",
+    "city": "Sterling",
+    "state": "MA",
+    "zip": "01564"
+  },
+  "coordinates": {
+    "latitude": 42.44900131225586,
+    "longitude": -71.73907089233398
+  },
+  "website": "https://hopechapelsterling.org",
+  "listingUrl": "https://churches.sbc.net/church/hope-chapel-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hope-chapel-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopechapelsterling.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421603581"
+    }
+  ],
+  "advisories": []
+}

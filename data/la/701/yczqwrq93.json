@@ -1,0 +1,33 @@
+{
+  "id": "yczqwrq93",
+  "url": "https://constellation.church/yczqwrq93",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "5290 Canal Blvd",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70124"
+  },
+  "coordinates": {
+    "latitude": 29.927101135253906,
+    "longitude": -90.10118865966797
+  },
+  "website": "https://fbno.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-63/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-63"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbno.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237120924"
+    }
+  ],
+  "advisories": []
+}

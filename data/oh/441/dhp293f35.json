@@ -1,0 +1,33 @@
+{
+  "id": "dhp293f35",
+  "url": "https://constellation.church/dhp293f35",
+  "name": "Advent Lutheran Church",
+  "displayName": "Advent Lutheran Church",
+  "address": {
+    "street": "5525 Harper Rd",
+    "city": "Solon",
+    "state": "OH",
+    "zip": "44139-1828"
+  },
+  "coordinates": {
+    "latitude": 41.40913772583008,
+    "longitude": -81.46587371826172
+  },
+  "website": "https://adventsolon.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2ecc2007-7c73-4580-9a93-0da70bb02b1d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2ecc2007-7c73-4580-9a93-0da70bb02b1d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "adventsolon.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341008959"
+    }
+  ],
+  "advisories": []
+}

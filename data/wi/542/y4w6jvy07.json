@@ -1,0 +1,33 @@
+{
+  "id": "y4w6jvy07",
+  "url": "https://constellation.church/y4w6jvy07",
+  "name": "Family Worship Center",
+  "displayName": "Family Worship Center",
+  "address": {
+    "street": "1715 Michigan St",
+    "city": "Sturgeon Bay",
+    "state": "WI",
+    "zip": "54235"
+  },
+  "coordinates": {
+    "latitude": 44.83498191833496,
+    "longitude": -87.35362243652344
+  },
+  "website": "https://fwc.churchtrac.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=0c793f04-41d8-44da-8c04-f2741f3e713c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "0c793f04-41d8-44da-8c04-f2741f3e713c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fwc.churchtrac.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391422618"
+    }
+  ],
+  "advisories": []
+}

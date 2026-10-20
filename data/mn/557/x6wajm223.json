@@ -1,0 +1,33 @@
+{
+  "id": "x6wajm223",
+  "url": "https://constellation.church/x6wajm223",
+  "name": "Messiah Lutheran Church",
+  "displayName": "Messiah Lutheran Church",
+  "address": {
+    "street": "8590 Enterprise Dr S",
+    "city": "Mountain Iron",
+    "state": "MN",
+    "zip": "55768-8260"
+  },
+  "coordinates": {
+    "latitude": 47.531639099121094,
+    "longitude": -92.62125396728516
+  },
+  "website": "https://messiahmtiron.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dcfe5b5b-fd70-4bf1-a454-30c47a49a0c3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dcfe5b5b-fd70-4bf1-a454-30c47a49a0c3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "messiahmtiron.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410835841"
+    }
+  ],
+  "advisories": []
+}

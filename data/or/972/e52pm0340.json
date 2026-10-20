@@ -1,0 +1,33 @@
+{
+  "id": "e52pm0340",
+  "url": "https://constellation.church/e52pm0340",
+  "name": "Voice of Hope Christian Church",
+  "displayName": "Voice of Hope Christian Church",
+  "address": {
+    "street": "10505 SE Holgate Blvd",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97266"
+  },
+  "coordinates": {
+    "latitude": 45.490299224853516,
+    "longitude": -122.55445861816406
+  },
+  "website": "https://vohcc.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=6a59bd76-c09d-44f7-a30a-f1d7f8505251&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "6a59bd76-c09d-44f7-a30a-f1d7f8505251"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "vohcc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "203086524"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ta43xd070",
+  "url": "https://constellation.church/ta43xd070",
+  "name": "Cathedral Church of St. Paul",
+  "displayName": "Cathedral Church of St. Paul",
+  "address": {
+    "street": "4800 Woodward Ave",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48201-1399"
+  },
+  "coordinates": {
+    "latitude": 42.356502532958984,
+    "longitude": -83.06375885009766
+  },
+  "website": "https://detroitcathedral.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-michigan/list/cathedral-church-st-paul",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-michigan/cathedral-church-st-paul"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "detroitcathedral.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363513685"
+    }
+  ],
+  "advisories": []
+}

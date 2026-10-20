@@ -1,0 +1,33 @@
+{
+  "id": "zm5qmmb92",
+  "url": "https://constellation.church/zm5qmmb92",
+  "name": "First Baptist Church of Poinciana",
+  "displayName": "First Baptist Church of Poinciana",
+  "address": {
+    "street": "601 Walnut St",
+    "city": "Poinciana",
+    "state": "FL",
+    "zip": "34759"
+  },
+  "coordinates": {
+    "latitude": 28.124906539916992,
+    "longitude": -81.46065139770508
+  },
+  "website": "https://poincianachurch.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-poinciana/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-poinciana"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "poincianachurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593116336"
+    }
+  ],
+  "advisories": []
+}

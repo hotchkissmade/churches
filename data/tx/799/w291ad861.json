@@ -1,0 +1,33 @@
+{
+  "id": "w291ad861",
+  "url": "https://constellation.church/w291ad861",
+  "name": "Church of St. Clement",
+  "displayName": "Church of St. Clement",
+  "address": {
+    "street": "810 N. Campbell Street",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79902"
+  },
+  "coordinates": {
+    "latitude": 31.76555633544922,
+    "longitude": -106.48876190185547
+  },
+  "website": "https://stclements.com",
+  "listingUrl": "https://www.acna.org/admin_units/267",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "267"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stclements.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "364615890"
+    }
+  ],
+  "advisories": []
+}

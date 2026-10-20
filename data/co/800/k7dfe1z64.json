@@ -1,0 +1,33 @@
+{
+  "id": "k7dfe1z64",
+  "url": "https://constellation.church/k7dfe1z64",
+  "name": "Nativity Lutheran Church",
+  "displayName": "Nativity Lutheran Church",
+  "address": {
+    "street": "12500 E 104th Ave",
+    "city": "Commerce City",
+    "state": "CO",
+    "zip": "80022-9709"
+  },
+  "coordinates": {
+    "latitude": 39.88441276550293,
+    "longitude": -104.84133911132812
+  },
+  "website": "https://nativity-lutheran-church.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c4cfaea3-d783-4e2e-aa7d-27ee038d74cb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c4cfaea3-d783-4e2e-aa7d-27ee038d74cb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nativity-lutheran-church.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840722832"
+    }
+  ],
+  "advisories": []
+}

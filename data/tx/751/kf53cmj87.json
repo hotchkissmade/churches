@@ -1,0 +1,33 @@
+{
+  "id": "kf53cmj87",
+  "url": "https://constellation.church/kf53cmj87",
+  "name": "St. John's Episcopal Church",
+  "displayName": "St. John's Episcopal Church",
+  "address": {
+    "street": "101 N 14th St",
+    "city": "Corsicana",
+    "state": "TX",
+    "zip": "75110-5110"
+  },
+  "coordinates": {
+    "latitude": 32.09195899963379,
+    "longitude": -96.4681625366211
+  },
+  "website": "https://stjohnscorsicana.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-dallas/list/st-johns-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-dallas/st-johns-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnscorsicana.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751150778"
+    }
+  ],
+  "advisories": []
+}

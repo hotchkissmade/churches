@@ -1,0 +1,33 @@
+{
+  "id": "ea02vjp84",
+  "url": "https://constellation.church/ea02vjp84",
+  "name": "San Jacinto Assembly of God",
+  "displayName": "San Jacinto Assembly of God",
+  "address": {
+    "street": "400 N Georgia St",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79106"
+  },
+  "coordinates": {
+    "latitude": 35.22060966491699,
+    "longitude": -101.86602020263672
+  },
+  "website": "https://sjag.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=1198e0dc-707d-4fb8-ad2e-03f11d3e0213&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "1198e0dc-707d-4fb8-ad2e-03f11d3e0213"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sjag.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751430641"
+    }
+  ],
+  "advisories": []
+}

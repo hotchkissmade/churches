@@ -1,0 +1,33 @@
+{
+  "id": "azbrw5r57",
+  "url": "https://constellation.church/azbrw5r57",
+  "name": "Bedford Lutheran Church",
+  "displayName": "Bedford Lutheran Church",
+  "address": {
+    "street": "728 Burks Hill Rd",
+    "city": "Bedford",
+    "state": "VA",
+    "zip": "24523-2606"
+  },
+  "coordinates": {
+    "latitude": 37.3272647857666,
+    "longitude": -79.52941513061523
+  },
+  "website": "https://livinggracebedfordlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=53c0aaa7-ee36-4d92-b31a-17b2e6f43c59",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "53c0aaa7-ee36-4d92-b31a-17b2e6f43c59"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "livinggracebedfordlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "454458007"
+    }
+  ],
+  "advisories": []
+}

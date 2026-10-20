@@ -1,0 +1,33 @@
+{
+  "id": "ab5evmx55",
+  "url": "https://constellation.church/ab5evmx55",
+  "name": "St. Anne Episcopal Church",
+  "displayName": "St. Anne Episcopal Church",
+  "address": {
+    "street": "29 Church St",
+    "city": "Calais",
+    "state": "ME",
+    "zip": "04619-1669"
+  },
+  "coordinates": {
+    "latitude": 45.187307357788086,
+    "longitude": -67.27823257446289
+  },
+  "website": "https://stannescalais.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maine/list/st-anne-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maine/st-anne-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stannescalais.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222487845"
+    }
+  ],
+  "advisories": []
+}

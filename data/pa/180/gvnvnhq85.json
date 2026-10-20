@@ -1,0 +1,33 @@
+{
+  "id": "gvnvnhq85",
+  "url": "https://constellation.church/gvnvnhq85",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "40 2nd St",
+    "city": "Slatington",
+    "state": "PA",
+    "zip": "18080-1843"
+  },
+  "coordinates": {
+    "latitude": 40.75118827819824,
+    "longitude": -75.61166763305664
+  },
+  "website": "https://stjohnslatington.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e40f72ab-56f5-4e3e-ac2c-1b2a216b719e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e40f72ab-56f5-4e3e-ac2c-1b2a216b719e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnslatington.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231614222"
+    }
+  ],
+  "advisories": []
+}

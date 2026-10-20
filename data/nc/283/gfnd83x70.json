@@ -1,0 +1,33 @@
+{
+  "id": "gfnd83x70",
+  "url": "https://constellation.church/gfnd83x70",
+  "name": "First Hamlet",
+  "displayName": "First Hamlet United Methodist Church",
+  "address": {
+    "street": "300 Charlotte St",
+    "city": "Hamlet",
+    "state": "NC",
+    "zip": "28345-2608"
+  },
+  "coordinates": {
+    "latitude": 34.88833236694336,
+    "longitude": -79.69991302490234
+  },
+  "website": "https://firsthamlet.nccumc.net",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFO1mIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFO1mIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firsthamlet.nccumc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "566003258"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "f57hqm967",
+  "url": "https://constellation.church/f57hqm967",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "201 Roberts Ave",
+    "city": "Bridge City",
+    "state": "TX",
+    "zip": "77611"
+  },
+  "coordinates": {
+    "latitude": 30.0268497467041,
+    "longitude": -93.8375015258789
+  },
+  "website": "https://bc1ag.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=b571e0fd-14be-4dbd-8916-45985210ea5d&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "b571e0fd-14be-4dbd-8916-45985210ea5d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bc1ag.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760068767"
+    }
+  ],
+  "advisories": []
+}

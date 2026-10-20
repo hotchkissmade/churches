@@ -1,0 +1,33 @@
+{
+  "id": "kmr071w83",
+  "url": "https://constellation.church/kmr071w83",
+  "name": "First Baptist Church Kirksville",
+  "displayName": "First Baptist Church Kirksville",
+  "address": {
+    "street": "207 E Washington St",
+    "city": "Kirksville",
+    "state": "MO",
+    "zip": "63501"
+  },
+  "coordinates": {
+    "latitude": 40.19490432739258,
+    "longitude": -92.58165740966797
+  },
+  "website": "https://firstbaptistkirksville.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-kirksville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-kirksville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistkirksville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430699790"
+    }
+  ],
+  "advisories": []
+}

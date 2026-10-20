@@ -1,0 +1,33 @@
+{
+  "id": "jnrjh9505",
+  "url": "https://constellation.church/jnrjh9505",
+  "name": "Shiloh Baptist Church",
+  "displayName": "Shiloh Baptist Church",
+  "address": {
+    "street": "13457 Kings Hwy",
+    "city": "King George",
+    "state": "VA",
+    "zip": "22485"
+  },
+  "coordinates": {
+    "latitude": 38.22122383117676,
+    "longitude": -77.10868453979492
+  },
+  "website": "https://kgshiloh.org",
+  "listingUrl": "https://churches.sbc.net/church/shiloh-baptist-church-45/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "shiloh-baptist-church-45"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kgshiloh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540634199"
+    }
+  ],
+  "advisories": []
+}

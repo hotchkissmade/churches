@@ -1,0 +1,33 @@
+{
+  "id": "v0wqvn212",
+  "url": "https://constellation.church/v0wqvn212",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "W1956 Main St",
+    "city": "Sullivan",
+    "state": "WI",
+    "zip": "53178-9620"
+  },
+  "coordinates": {
+    "latitude": 42.980079650878906,
+    "longitude": -88.63282775878906
+  },
+  "website": "https://stlukesrome.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b5805796-ddb4-4278-a242-731648094caf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b5805796-ddb4-4278-a242-731648094caf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesrome.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396060452"
+    }
+  ],
+  "advisories": []
+}

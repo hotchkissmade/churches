@@ -1,0 +1,33 @@
+{
+  "id": "f2cy45f20",
+  "url": "https://constellation.church/f2cy45f20",
+  "name": "Grace Episcopal Church, Kirkwood",
+  "displayName": "Grace Episcopal Church, Kirkwood",
+  "address": {
+    "street": "514 East Argonne Drive",
+    "city": "Kirkwood",
+    "state": "MO",
+    "zip": "63122-4526"
+  },
+  "coordinates": {
+    "latitude": 38.580556869506836,
+    "longitude": -90.39653015136719
+  },
+  "website": "https://gracekirkwood.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-missouri/list/grace-episcopal-church-kirkwood",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-missouri/grace-episcopal-church-kirkwood"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracekirkwood.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430653320"
+    }
+  ],
+  "advisories": []
+}

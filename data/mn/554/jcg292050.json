@@ -1,0 +1,33 @@
+{
+  "id": "jcg292050",
+  "url": "https://constellation.church/jcg292050",
+  "name": "All God’s Children MCC",
+  "displayName": "All God’s Children Metropolitan Community Church",
+  "address": {
+    "street": "3100 Park Ave S",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55407"
+  },
+  "coordinates": {
+    "latitude": 44.9463996887207,
+    "longitude": -93.26543426513672
+  },
+  "website": "https://agcmcc.org",
+  "listingUrl": "https://visitmccchurch.com/our-churches/mcc-churches-in-the-united-states/mcc-churches-in-mn/all-gods-children-mcc/",
+  "identifiers": [
+    {
+      "namespace": "com.visitmccchurch.id",
+      "value": "MN/all-gods-children-mcc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "agcmcc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411374305"
+    }
+  ],
+  "advisories": []
+}

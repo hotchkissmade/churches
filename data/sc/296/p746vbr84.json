@@ -1,0 +1,33 @@
+{
+  "id": "p746vbr84",
+  "url": "https://constellation.church/p746vbr84",
+  "name": "Temple Baptist Church",
+  "displayName": "Temple Baptist Church",
+  "address": {
+    "street": "213 W Curtis St",
+    "city": "Simpsonville",
+    "state": "SC",
+    "zip": "29681"
+  },
+  "coordinates": {
+    "latitude": 34.736467361450195,
+    "longitude": -82.25726699829102
+  },
+  "website": "https://templesc.org",
+  "listingUrl": "https://churches.sbc.net/church/temple-baptist-church-16/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "temple-baptist-church-16"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "templesc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570762999"
+    }
+  ],
+  "advisories": []
+}

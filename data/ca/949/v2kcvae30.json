@@ -1,0 +1,33 @@
+{
+  "id": "v2kcvae30",
+  "url": "https://constellation.church/v2kcvae30",
+  "name": "St. Columba’s Inverness",
+  "displayName": "St. Columba’s Inverness",
+  "address": {
+    "street": "12835 Sir Francis Drake Blvd, PO Box 430",
+    "city": "Inverness",
+    "state": "CA",
+    "zip": "94937"
+  },
+  "coordinates": {
+    "latitude": 38.09988212585449,
+    "longitude": -122.85772705078125
+  },
+  "website": "https://stcolumbasinverness.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-california/list/st-columba-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-california/st-columba-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stcolumbasinverness.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941702412"
+    }
+  ],
+  "advisories": []
+}

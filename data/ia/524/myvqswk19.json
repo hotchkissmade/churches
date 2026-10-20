@@ -1,0 +1,33 @@
+{
+  "id": "myvqswk19",
+  "url": "https://constellation.church/myvqswk19",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "310 5th St SE",
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "zip": "52401"
+  },
+  "coordinates": {
+    "latitude": 41.97882843017578,
+    "longitude": -91.66329193115234
+  },
+  "website": "https://fpccr.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/2347/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "2347"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpccr.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420680489"
+    }
+  ],
+  "advisories": []
+}

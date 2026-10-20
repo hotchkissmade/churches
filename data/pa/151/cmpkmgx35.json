@@ -1,0 +1,33 @@
+{
+  "id": "cmpkmgx35",
+  "url": "https://constellation.church/cmpkmgx35",
+  "name": "St John's Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "715 Lincoln Hwy",
+    "city": "North Versailles",
+    "state": "PA",
+    "zip": "15137-2027"
+  },
+  "coordinates": {
+    "latitude": 40.379302978515625,
+    "longitude": -79.80622482299805
+  },
+  "website": "https://stjohnsnorthversailles.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f1cc97c8-9699-4866-8230-64e48ec3fa68",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f1cc97c8-9699-4866-8230-64e48ec3fa68"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsnorthversailles.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251401130"
+    }
+  ],
+  "advisories": []
+}

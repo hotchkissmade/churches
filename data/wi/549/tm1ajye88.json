@@ -1,0 +1,33 @@
+{
+  "id": "tm1ajye88",
+  "url": "https://constellation.church/tm1ajye88",
+  "name": "St Andrew Lutheran Church",
+  "displayName": "St. Andrew Lutheran Church",
+  "address": {
+    "street": "1100 E Murdock Ave",
+    "city": "Oshkosh",
+    "state": "WI",
+    "zip": "54901-2432"
+  },
+  "coordinates": {
+    "latitude": 44.03993225097656,
+    "longitude": -88.52336120605469
+  },
+  "website": "https://standrewsoshkosh.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b61f2ff8-f3c8-474f-80af-ba93900ad909",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b61f2ff8-f3c8-474f-80af-ba93900ad909"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewsoshkosh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391149647"
+    }
+  ],
+  "advisories": []
+}

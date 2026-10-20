@@ -1,0 +1,33 @@
+{
+  "id": "yqmn6cx97",
+  "url": "https://constellation.church/yqmn6cx97",
+  "name": "New Era Lutheran Church",
+  "displayName": "New Era Lutheran Church",
+  "address": {
+    "street": "3455 New Era Rd",
+    "city": "Muscatine",
+    "state": "IA",
+    "zip": "52761-9477"
+  },
+  "coordinates": {
+    "latitude": 41.46645545959473,
+    "longitude": -90.89387130737305
+  },
+  "website": "https://neweralutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e94f74c7-0a0b-498f-9ffd-a318cee6ddf4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e94f74c7-0a0b-498f-9ffd-a318cee6ddf4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "neweralutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420757440"
+    }
+  ],
+  "advisories": []
+}

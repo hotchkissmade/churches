@@ -1,0 +1,33 @@
+{
+  "id": "kff0k6m46",
+  "url": "https://constellation.church/kff0k6m46",
+  "name": "Iglesia Bautista La Nueva Jerusalem",
+  "displayName": "Iglesia Bautista La Nueva Jerusalem",
+  "address": {
+    "street": "2762 Dignowity Ave",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78208"
+  },
+  "coordinates": {
+    "latitude": 29.438446044921875,
+    "longitude": -98.44690704345703
+  },
+  "website": "https://iblanuevajerusalem.com",
+  "listingUrl": "https://churches.sbc.net/church/iglesia-bautista-la-nueva-jerusalem/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "iglesia-bautista-la-nueva-jerusalem"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "iblanuevajerusalem.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800596301"
+    }
+  ],
+  "advisories": []
+}

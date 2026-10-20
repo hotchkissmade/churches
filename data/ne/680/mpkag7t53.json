@@ -1,0 +1,33 @@
+{
+  "id": "mpkag7t53",
+  "url": "https://constellation.church/mpkag7t53",
+  "name": "Edensburg Lutheran Church",
+  "displayName": "Edensburg Lutheran Church",
+  "address": {
+    "street": "247 Rutland Ave",
+    "city": "Malmo",
+    "state": "NE",
+    "zip": "68040-4065"
+  },
+  "coordinates": {
+    "latitude": 41.26675796508789,
+    "longitude": -96.72374725341797
+  },
+  "website": "https://edensburglutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e33e8c02-0340-4754-b668-de4894488aac",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e33e8c02-0340-4754-b668-de4894488aac"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "edensburglutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470630454"
+    }
+  ],
+  "advisories": []
+}

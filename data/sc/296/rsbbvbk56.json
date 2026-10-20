@@ -1,0 +1,33 @@
+{
+  "id": "rsbbvbk56",
+  "url": "https://constellation.church/rsbbvbk56",
+  "name": "Belton First Baptist Church",
+  "displayName": "Belton First Baptist Church",
+  "address": {
+    "street": "105 Brown Ave",
+    "city": "Belton",
+    "state": "SC",
+    "zip": "29627"
+  },
+  "coordinates": {
+    "latitude": 34.52078056335449,
+    "longitude": -82.49465942382812
+  },
+  "website": "https://beltonfirstbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/belton-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "belton-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "beltonfirstbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570350883"
+    }
+  ],
+  "advisories": []
+}

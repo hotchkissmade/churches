@@ -1,0 +1,33 @@
+{
+  "id": "p0hjz0257",
+  "url": "https://constellation.church/p0hjz0257",
+  "name": "English Lutheran Church",
+  "displayName": "English Lutheran Church",
+  "address": {
+    "street": "229 W Main St",
+    "city": "Ellsworth",
+    "state": "WI",
+    "zip": "54011-5083"
+  },
+  "coordinates": {
+    "latitude": 44.73161315917969,
+    "longitude": -92.48060607910156
+  },
+  "website": "https://englishlutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d4f84b16-affc-4aa7-99f4-cbc1ff036b53",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d4f84b16-affc-4aa7-99f4-cbc1ff036b53"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "englishlutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390940205"
+    }
+  ],
+  "advisories": []
+}

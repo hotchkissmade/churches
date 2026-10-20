@@ -1,0 +1,33 @@
+{
+  "id": "dv1180v57",
+  "url": "https://constellation.church/dv1180v57",
+  "name": "First English Lutheran Church",
+  "displayName": "First English Lutheran Church",
+  "address": {
+    "street": "511 Belle St W",
+    "city": "Cannon Falls",
+    "state": "MN",
+    "zip": "55009-2453"
+  },
+  "coordinates": {
+    "latitude": 44.503610610961914,
+    "longitude": -92.90819549560547
+  },
+  "website": "https://firstenglishchurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e4705d59-7469-4c11-88f9-5e201e1ebea9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e4705d59-7469-4c11-88f9-5e201e1ebea9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstenglishchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410958229"
+    }
+  ],
+  "advisories": []
+}

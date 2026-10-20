@@ -1,0 +1,33 @@
+{
+  "id": "rjd9pc253",
+  "url": "https://constellation.church/rjd9pc253",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "102 E 7th St",
+    "city": "Idalou",
+    "state": "TX",
+    "zip": "79329"
+  },
+  "coordinates": {
+    "latitude": 33.660051345825195,
+    "longitude": -101.67997741699219
+  },
+  "website": "https://fbidalou.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-306/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-306"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbidalou.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750983838"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "scq2fmd81",
+  "url": "https://constellation.church/scq2fmd81",
+  "name": "Chatham Baptist Church",
+  "displayName": "Chatham Baptist Church",
+  "address": {
+    "street": "12 Court Place",
+    "city": "Chatham",
+    "state": "VA",
+    "zip": "24531"
+  },
+  "coordinates": {
+    "latitude": 36.82576560974121,
+    "longitude": -79.39921569824219
+  },
+  "website": "https://chathambc.net",
+  "listingUrl": "https://churches.sbc.net/church/chatham-baptist-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "chatham-baptist-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chathambc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540721576"
+    }
+  ],
+  "advisories": []
+}

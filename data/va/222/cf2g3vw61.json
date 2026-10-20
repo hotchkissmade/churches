@@ -1,0 +1,33 @@
+{
+  "id": "cf2g3vw61",
+  "url": "https://constellation.church/cf2g3vw61",
+  "name": "Arlington Assembly of God",
+  "displayName": "Arlington Assembly of God",
+  "address": {
+    "street": "4501 N Pershing Dr",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "22203"
+  },
+  "coordinates": {
+    "latitude": 38.86906051635742,
+    "longitude": -77.11030578613281
+  },
+  "website": "https://arlingtonag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=b362175d-a550-47c2-a9cb-9935f23b9e80&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "b362175d-a550-47c2-a9cb-9935f23b9e80"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "arlingtonag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540720215"
+    }
+  ],
+  "advisories": []
+}

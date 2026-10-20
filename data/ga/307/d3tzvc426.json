@@ -1,0 +1,33 @@
+{
+  "id": "d3tzvc426",
+  "url": "https://constellation.church/d3tzvc426",
+  "name": "Highlands Presbyterian Church",
+  "displayName": "Highlands Presbyterian Church",
+  "address": {
+    "street": "1211 West North Main Street",
+    "city": "LaFayette",
+    "state": "GA",
+    "zip": "30728"
+  },
+  "coordinates": {
+    "latitude": 34.7280216217041,
+    "longitude": -85.28082275390625
+  },
+  "website": "https://highlandspca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1324",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1324"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "highlandspca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581880700"
+    }
+  ],
+  "advisories": []
+}

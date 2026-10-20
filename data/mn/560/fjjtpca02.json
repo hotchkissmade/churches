@@ -1,0 +1,33 @@
+{
+  "id": "fjjtpca02",
+  "url": "https://constellation.church/fjjtpca02",
+  "name": "Central Freeborn Lutheran Church",
+  "displayName": "Central Freeborn Lutheran Church",
+  "address": {
+    "street": "74427 245th St",
+    "city": "Albert Lea",
+    "state": "MN",
+    "zip": "56007-6061"
+  },
+  "coordinates": {
+    "latitude": 43.7092347,
+    "longitude": -93.3805449
+  },
+  "website": "https://centralandeastfreeborn.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=24fd89b0-f64a-4934-8c31-08ba747c4c84",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "24fd89b0-f64a-4934-8c31-08ba747c4c84"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centralandeastfreeborn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411390399"
+    }
+  ],
+  "advisories": []
+}

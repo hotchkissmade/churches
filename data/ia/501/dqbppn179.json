@@ -1,0 +1,33 @@
+{
+  "id": "dqbppn179",
+  "url": "https://constellation.church/dqbppn179",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "1011 S 3rd Ave",
+    "city": "Marshalltown",
+    "state": "IA",
+    "zip": "50158-3304"
+  },
+  "coordinates": {
+    "latitude": 42.03565979003906,
+    "longitude": -92.90811920166016
+  },
+  "website": "https://tlc-elca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1d2b677c-4d81-423c-8c06-6783d8f8ee6c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1d2b677c-4d81-423c-8c06-6783d8f8ee6c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlc-elca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420794374"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nb83edp50",
+  "url": "https://constellation.church/nb83edp50",
+  "name": "First Baptist Church – Scituate",
+  "displayName": "First Baptist Church – Scituate",
+  "address": {
+    "street": "656 Country Way",
+    "city": "Scituate",
+    "state": "MA",
+    "zip": "02066"
+  },
+  "coordinates": {
+    "latitude": 42.21590042114258,
+    "longitude": -70.77693176269531
+  },
+  "website": "https://fbcscituate.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-scituate/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-scituate"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcscituate.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "043147767"
+    }
+  ],
+  "advisories": []
+}

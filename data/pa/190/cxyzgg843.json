@@ -1,0 +1,33 @@
+{
+  "id": "cxyzgg843",
+  "url": "https://constellation.church/cxyzgg843",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "400 Main St",
+    "city": "Darby",
+    "state": "PA",
+    "zip": "19023-2830"
+  },
+  "coordinates": {
+    "latitude": 39.91669845581055,
+    "longitude": -75.25315475463867
+  },
+  "website": "https://newgenerationinternationalchurch.org/about-us",
+  "listingUrl": "https://church-trends.pcusa.org/church/7948/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "7948"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newgenerationinternationalchurch.org/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900537669"
+    }
+  ],
+  "advisories": []
+}

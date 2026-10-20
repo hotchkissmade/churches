@@ -1,0 +1,33 @@
+{
+  "id": "zq9533x03",
+  "url": "https://constellation.church/zq9533x03",
+  "name": "Church of The Living Word",
+  "displayName": "Church of The Living Word",
+  "address": {
+    "street": "8144 Tidemill Rd",
+    "city": "Hayes",
+    "state": "VA",
+    "zip": "23072"
+  },
+  "coordinates": {
+    "latitude": 37.269405364990234,
+    "longitude": -76.47806930541992
+  },
+  "website": "https://churchofthelivingword.net",
+  "listingUrl": "https://churches.sbc.net/church/church-of-the-living-word/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "church-of-the-living-word"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchofthelivingword.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "412027193"
+    }
+  ],
+  "advisories": []
+}

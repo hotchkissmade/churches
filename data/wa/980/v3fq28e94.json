@@ -1,0 +1,37 @@
+{
+  "id": "v3fq28e94",
+  "url": "https://constellation.church/v3fq28e94",
+  "name": "Rock of Hope Baptist Church",
+  "displayName": "Rock of Hope Baptist Church",
+  "address": {
+    "street": "8713 220th St SW",
+    "city": "Edmonds",
+    "state": "WA",
+    "zip": "98026"
+  },
+  "coordinates": {
+    "latitude": 47.795921325683594,
+    "longitude": -122.3388900756836
+  },
+  "website": "https://rockofhope1.org",
+  "listingUrl": "https://churches.sbc.net/church/rock-of-hope-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "rock-of-hope-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rockofhope1.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910840779"
+    },
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "rock-of-hope-baptist-church"
+    }
+  ],
+  "advisories": []
+}

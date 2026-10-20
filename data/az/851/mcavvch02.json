@@ -1,0 +1,33 @@
+{
+  "id": "mcavvch02",
+  "url": "https://constellation.church/mcavvch02",
+  "name": "Maricopa Assembly of God",
+  "displayName": "Maricopa Assembly of God",
+  "address": {
+    "street": "20038 N Taft Ave",
+    "city": "Maricopa",
+    "state": "AZ",
+    "zip": "85139"
+  },
+  "coordinates": {
+    "latitude": 33.06181526184082,
+    "longitude": -112.0546875
+  },
+  "website": "https://maricopaag.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f01aa5ff-0c15-40c8-b080-e12b036d9d29&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f01aa5ff-0c15-40c8-b080-e12b036d9d29"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "maricopaag.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "264060767"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wrk1c3m31",
+  "url": "https://constellation.church/wrk1c3m31",
+  "name": "Lutheran Church Of The Holy Spirit",
+  "displayName": "Lutheran Church Of The Holy Spirit",
+  "address": {
+    "street": "3461 S Cedar Crest Blvd",
+    "city": "Emmaus",
+    "state": "PA",
+    "zip": "18049-1523"
+  },
+  "coordinates": {
+    "latitude": 40.533782958984375,
+    "longitude": -75.51107025146484
+  },
+  "website": "https://lchsemmaus.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8af842b2-0ff4-4fef-bae8-e57a0af53bff",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8af842b2-0ff4-4fef-bae8-e57a0af53bff"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lchsemmaus.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231615666"
+    }
+  ],
+  "advisories": []
+}

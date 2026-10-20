@@ -1,0 +1,33 @@
+{
+  "id": "wb2djf783",
+  "url": "https://constellation.church/wb2djf783",
+  "name": "First Baptist Church of Show Low",
+  "displayName": "First Baptist Church of Show Low",
+  "address": {
+    "street": "700 N Central Ave",
+    "city": "Show Low",
+    "state": "AZ",
+    "zip": "85901"
+  },
+  "coordinates": {
+    "latitude": 34.256052017211914,
+    "longitude": -110.04296112060547
+  },
+  "website": "https://fbcshowlow.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-show-low/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-show-low"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcshowlow.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860428835"
+    }
+  ],
+  "advisories": []
+}

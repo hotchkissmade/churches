@@ -1,0 +1,33 @@
+{
+  "id": "hs6711c93",
+  "url": "https://constellation.church/hs6711c93",
+  "name": "St. Paul's Episcopal Church",
+  "displayName": "St. Paul's Episcopal Church",
+  "address": {
+    "street": "226 W Main St",
+    "city": "Vernal",
+    "state": "UT",
+    "zip": "84078-2506"
+  },
+  "coordinates": {
+    "latitude": 40.45583534240723,
+    "longitude": -109.53286743164062
+  },
+  "website": "https://episcopal-ut.org/eastern",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-utah/list/st-pauls-episcopal-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-utah/st-pauls-episcopal-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "episcopal-ut.org/eastern"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "870474233"
+    }
+  ],
+  "advisories": []
+}

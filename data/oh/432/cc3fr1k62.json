@@ -1,0 +1,33 @@
+{
+  "id": "cc3fr1k62",
+  "url": "https://constellation.church/cc3fr1k62",
+  "name": "Fellowship Lutheran Church",
+  "displayName": "Fellowship Lutheran Church",
+  "address": {
+    "street": "7350 Sawmill Rd",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43235-1826"
+  },
+  "coordinates": {
+    "latitude": 40.11499786376953,
+    "longitude": -83.08943557739258
+  },
+  "website": "https://flccolumbus.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1af281ed-f528-4e55-a1e2-301ac478d7b9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1af281ed-f528-4e55-a1e2-301ac478d7b9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flccolumbus.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310995136"
+    }
+  ],
+  "advisories": []
+}

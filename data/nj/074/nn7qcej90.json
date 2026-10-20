@@ -1,0 +1,33 @@
+{
+  "id": "nn7qcej90",
+  "url": "https://constellation.church/nn7qcej90",
+  "name": "St. Alban's Episcopal Church",
+  "displayName": "St. Alban's Episcopal Church",
+  "address": {
+    "street": "1 Church Ln",
+    "city": "Oakland",
+    "state": "NJ",
+    "zip": "07436-4036"
+  },
+  "coordinates": {
+    "latitude": 41.03557205200195,
+    "longitude": -74.20901870727539
+  },
+  "website": "https://stalbansflow.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-newark/list/st-albans-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-newark/st-albans-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stalbansflow.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "043802711"
+    }
+  ],
+  "advisories": []
+}

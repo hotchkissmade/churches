@@ -1,0 +1,33 @@
+{
+  "id": "ydk1aea35",
+  "url": "https://constellation.church/ydk1aea35",
+  "name": "Kent Baptist Church",
+  "displayName": "Kent Baptist Church",
+  "address": {
+    "street": "7006 Flagstaff St",
+    "city": "Landover",
+    "state": "MD",
+    "zip": "20785"
+  },
+  "coordinates": {
+    "latitude": 38.92087745666504,
+    "longitude": -76.88564682006836
+  },
+  "website": "https://kentbc.org",
+  "listingUrl": "https://churches.sbc.net/church/kent-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "kent-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kentbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521205167"
+    }
+  ],
+  "advisories": []
+}

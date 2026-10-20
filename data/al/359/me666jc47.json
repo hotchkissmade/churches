@@ -1,0 +1,33 @@
+{
+  "id": "me666jc47",
+  "url": "https://constellation.church/me666jc47",
+  "name": "Church of the Epiphany",
+  "displayName": "Church of the Epiphany",
+  "address": {
+    "street": "1101 Sunset Dr",
+    "city": "Guntersville",
+    "state": "AL",
+    "zip": "35976-1003"
+  },
+  "coordinates": {
+    "latitude": 34.357534408569336,
+    "longitude": -86.31381225585938
+  },
+  "website": "https://epiphanyguntersville.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/alabama/list/church-epiphany",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "alabama/church-epiphany"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "epiphanyguntersville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630840762"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "m2hfcnw22",
+  "url": "https://constellation.church/m2hfcnw22",
+  "name": "Peace Lutheran Church",
+  "displayName": "Peace Lutheran Church",
+  "address": {
+    "street": "1234 NE Riddell Rd",
+    "city": "Bremerton",
+    "state": "WA",
+    "zip": "98310-3637"
+  },
+  "coordinates": {
+    "latitude": 47.607322692871094,
+    "longitude": -122.63383483886719
+  },
+  "website": "https://peacebremerton.org",
+  "listingUrl": "https://locator.lcms.org/church/C/102245",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "102245"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "peacebremerton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910850258"
+    }
+  ],
+  "advisories": []
+}

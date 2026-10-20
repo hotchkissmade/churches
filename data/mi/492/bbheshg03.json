@@ -1,0 +1,33 @@
+{
+  "id": "bbheshg03",
+  "url": "https://constellation.church/bbheshg03",
+  "name": "Holy Trinity Parish",
+  "displayName": "Holy Trinity Parish",
+  "address": {
+    "street": "263 Spring Street",
+    "city": "Hillsdale",
+    "state": "MI",
+    "zip": "49242"
+  },
+  "coordinates": {
+    "latitude": 41.92518997192383,
+    "longitude": -84.64902877807617
+  },
+  "website": "https://trinityhillsdale.org",
+  "listingUrl": "https://www.acna.org/admin_units/1311",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "1311"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityhillsdale.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382900217"
+    }
+  ],
+  "advisories": []
+}

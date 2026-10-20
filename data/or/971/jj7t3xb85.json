@@ -1,0 +1,37 @@
+{
+  "id": "jj7t3xb85",
+  "url": "https://constellation.church/jj7t3xb85",
+  "name": "Newberg Adventist Church",
+  "displayName": "Newberg Adventist Church",
+  "address": {
+    "street": "530 E Edgewood",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132"
+  },
+  "coordinates": {
+    "latitude": 45.321136474609375,
+    "longitude": -122.97419738769531
+  },
+  "website": "https://cvpchurch.net",
+  "listingUrl": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=17868",
+  "identifiers": [
+    {
+      "namespace": "org.adventistdirectory.id",
+      "value": "17868"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cvpchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800504175"
+    },
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5360"
+    }
+  ],
+  "advisories": []
+}

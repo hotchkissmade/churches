@@ -1,0 +1,33 @@
+{
+  "id": "w3mhd0z68",
+  "url": "https://constellation.church/w3mhd0z68",
+  "name": "The Pennsylvania Avenue Baptist Church",
+  "displayName": "The Pennsylvania Avenue Baptist Church",
+  "address": {
+    "street": "3000 Pennsylvania Ave SE",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20020"
+  },
+  "coordinates": {
+    "latitude": 38.87129783630371,
+    "longitude": -76.9638671875
+  },
+  "website": "https://pabc-dc.org",
+  "listingUrl": "https://churches.sbc.net/church/the-pennsylvania-avenue-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-pennsylvania-avenue-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pabc-dc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "530230806"
+    }
+  ],
+  "advisories": []
+}

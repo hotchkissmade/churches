@@ -1,0 +1,29 @@
+{
+  "id": "akrdm6332",
+  "url": "https://constellation.church/akrdm6332",
+  "name": "THE WAREHOUSE",
+  "displayName": "The Warehouse",
+  "address": {
+    "street": "111 E JACKSON ST",
+    "city": "Columbia City",
+    "state": "IN",
+    "zip": "46725"
+  },
+  "coordinates": {
+    "latitude": 41.17300033569336,
+    "longitude": -85.50739288330078
+  },
+  "website": "https://ccwarehouse.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "271497299"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ccwarehouse.org"
+    }
+  ],
+  "advisories": []
+}

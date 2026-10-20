@@ -1,0 +1,33 @@
+{
+  "id": "w990xxb82",
+  "url": "https://constellation.church/w990xxb82",
+  "name": "First Baptist Church of Lordsburg",
+  "displayName": "First Baptist Church of Lordsburg",
+  "address": {
+    "street": "332 E 3rd St",
+    "city": "Lordsburg",
+    "state": "NM",
+    "zip": "88045"
+  },
+  "coordinates": {
+    "latitude": 32.347768783569336,
+    "longitude": -108.70601654052734
+  },
+  "website": "https://fbclordsburg.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-lordsburg/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-lordsburg"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbclordsburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850315021"
+    }
+  ],
+  "advisories": []
+}

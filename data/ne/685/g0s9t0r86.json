@@ -1,0 +1,33 @@
+{
+  "id": "g0s9t0r86",
+  "url": "https://constellation.church/g0s9t0r86",
+  "name": "Eastridge Presbyterian Church",
+  "displayName": "Eastridge Presbyterian Church",
+  "address": {
+    "street": "1135 Eastridge Dr",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68510-5014"
+  },
+  "coordinates": {
+    "latitude": 40.80242347717285,
+    "longitude": -96.64326477050781
+  },
+  "website": "https://eastridge.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/4416/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "4416"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastridge.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "476000806"
+    }
+  ],
+  "advisories": []
+}

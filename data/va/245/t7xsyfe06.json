@@ -1,0 +1,33 @@
+{
+  "id": "t7xsyfe06",
+  "url": "https://constellation.church/t7xsyfe06",
+  "name": "Redeeming Grace Baptist Church",
+  "displayName": "Redeeming Grace Baptist Church",
+  "address": {
+    "street": "3630 Old Forest Rd",
+    "city": "Lynchburg",
+    "state": "VA",
+    "zip": "24501"
+  },
+  "coordinates": {
+    "latitude": 37.4074821472168,
+    "longitude": -79.2187271118164
+  },
+  "website": "https://rgbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/redeeming-grace-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "redeeming-grace-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rgbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "273022465"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xz5hea639",
+  "url": "https://constellation.church/xz5hea639",
+  "name": "First Baptist Church of Avon Park",
+  "displayName": "First Baptist Church of Avon Park",
+  "address": {
+    "street": "100 N Lake Ave",
+    "city": "Avon Park",
+    "state": "FL",
+    "zip": "33825"
+  },
+  "coordinates": {
+    "latitude": 27.597524642944336,
+    "longitude": -81.50207138061523
+  },
+  "website": "https://fbcap.net",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-avon-park/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-avon-park"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcap.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590862867"
+    }
+  ],
+  "advisories": []
+}

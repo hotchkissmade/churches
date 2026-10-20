@@ -1,0 +1,33 @@
+{
+  "id": "ft5pmcw47",
+  "url": "https://constellation.church/ft5pmcw47",
+  "name": "Philadelphia Evangelical Lutheran Church",
+  "displayName": "Philadelphia Evangelical Lutheran Church",
+  "address": {
+    "street": "1910 Philadelphia Church Rd",
+    "city": "Dallas",
+    "state": "NC",
+    "zip": "28034-7691"
+  },
+  "coordinates": {
+    "latitude": 35.3556022644043,
+    "longitude": -81.16061782836914
+  },
+  "website": "https://philadelphialutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=03ad48fd-346c-4ff6-bba3-a386047bca46",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "03ad48fd-346c-4ff6-bba3-a386047bca46"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "philadelphialutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561303622"
+    }
+  ],
+  "advisories": []
+}

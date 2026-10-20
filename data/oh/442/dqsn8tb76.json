@@ -1,0 +1,33 @@
+{
+  "id": "dqsn8tb76",
+  "url": "https://constellation.church/dqsn8tb76",
+  "name": "Grace Church",
+  "displayName": "Grace Church",
+  "address": {
+    "street": "250 West Cedar Ave",
+    "city": "Ravenna",
+    "state": "OH",
+    "zip": "44266-2740"
+  },
+  "coordinates": {
+    "latitude": 41.159210205078125,
+    "longitude": -81.2458724975586
+  },
+  "website": "https://graceravenna.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-ohio/list/grace-church-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-ohio/grace-church-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceravenna.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341179205"
+    }
+  ],
+  "advisories": []
+}

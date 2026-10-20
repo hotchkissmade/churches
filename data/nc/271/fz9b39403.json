@@ -1,0 +1,33 @@
+{
+  "id": "fz9b39403",
+  "url": "https://constellation.church/fz9b39403",
+  "name": "Two Cities",
+  "displayName": "Two Cities",
+  "address": {
+    "street": "1001 N Patterson Ave",
+    "city": "Winston Salem",
+    "state": "NC",
+    "zip": "27101"
+  },
+  "coordinates": {
+    "latitude": 36.10551643371582,
+    "longitude": -80.25582504272461
+  },
+  "website": "https://twocitieschurch.net",
+  "listingUrl": "https://churches.sbc.net/church/two-cities/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "two-cities"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "twocitieschurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "812172203"
+    }
+  ],
+  "advisories": []
+}

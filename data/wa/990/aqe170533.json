@@ -1,0 +1,33 @@
+{
+  "id": "aqe170533",
+  "url": "https://constellation.church/aqe170533",
+  "name": "Starr Road Baptist Church",
+  "displayName": "Starr Road Baptist Church",
+  "address": {
+    "street": "4720 N Starr Rd",
+    "city": "Otis Orchards",
+    "state": "WA",
+    "zip": "99027"
+  },
+  "coordinates": {
+    "latitude": 47.699703216552734,
+    "longitude": -117.06835174560547
+  },
+  "website": "https://starrroad.org",
+  "listingUrl": "https://churches.sbc.net/church/starr-road-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "starr-road-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "starrroad.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911078750"
+    }
+  ],
+  "advisories": []
+}

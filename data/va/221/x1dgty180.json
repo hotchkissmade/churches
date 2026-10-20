@@ -1,0 +1,33 @@
+{
+  "id": "x1dgty180",
+  "url": "https://constellation.church/x1dgty180",
+  "name": "Crossroads Presbyterian Church",
+  "displayName": "Crossroads Presbyterian Church",
+  "address": {
+    "street": "15557 Cardinal Drive",
+    "city": "Woodbridge",
+    "state": "VA",
+    "zip": "22193"
+  },
+  "coordinates": {
+    "latitude": 38.61558532714844,
+    "longitude": -77.3164291381836
+  },
+  "website": "https://crossroadspca.net",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4437",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4437"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "crossroadspca.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "270002535"
+    }
+  ],
+  "advisories": []
+}

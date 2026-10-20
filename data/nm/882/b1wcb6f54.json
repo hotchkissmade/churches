@@ -1,0 +1,33 @@
+{
+  "id": "b1wcb6f54",
+  "url": "https://constellation.church/b1wcb6f54",
+  "name": "Midway Baptist Church",
+  "displayName": "Midway Baptist Church",
+  "address": {
+    "street": "134 Yakima Rd",
+    "city": "Dexter",
+    "state": "NM",
+    "zip": "88230"
+  },
+  "coordinates": {
+    "latitude": 33.29296684265137,
+    "longitude": -104.44828033447266
+  },
+  "website": "https://midwaynm.com",
+  "listingUrl": "https://churches.sbc.net/church/midway-baptist-church-20/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "midway-baptist-church-20"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "midwaynm.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850334469"
+    }
+  ],
+  "advisories": []
+}

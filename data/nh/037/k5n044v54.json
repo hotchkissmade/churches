@@ -1,0 +1,33 @@
+{
+  "id": "k5n044v54",
+  "url": "https://constellation.church/k5n044v54",
+  "name": "Riverstone Church",
+  "displayName": "Riverstone Church",
+  "address": {
+    "street": "739 Main St",
+    "city": "Claremont",
+    "state": "NH",
+    "zip": "03743"
+  },
+  "coordinates": {
+    "latitude": 43.393625259399414,
+    "longitude": -72.3808708190918
+  },
+  "website": "https://riverstonechurch.tv",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=6d458aa5-5148-4cd1-9ca5-8c3819875ab0&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "6d458aa5-5148-4cd1-9ca5-8c3819875ab0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "riverstonechurch.tv"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "261737637"
+    }
+  ],
+  "advisories": []
+}

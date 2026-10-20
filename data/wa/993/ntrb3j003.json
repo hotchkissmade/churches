@@ -1,0 +1,33 @@
+{
+  "id": "ntrb3j003",
+  "url": "https://constellation.church/ntrb3j003",
+  "name": "Grace Church Tri-Cities",
+  "displayName": "Grace Church Tri-Cities",
+  "address": {
+    "street": "9507 Burns Rd",
+    "city": "Pasco",
+    "state": "WA",
+    "zip": "99301"
+  },
+  "coordinates": {
+    "latitude": 46.28639602661133,
+    "longitude": -119.21422576904297
+  },
+  "website": "https://gracetri.org",
+  "listingUrl": "https://churches.sbc.net/church/grace-church-tri-cities-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grace-church-tri-cities-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracetri.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920859847"
+    }
+  ],
+  "advisories": []
+}

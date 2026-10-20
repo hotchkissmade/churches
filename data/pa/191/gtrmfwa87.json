@@ -1,0 +1,33 @@
+{
+  "id": "gtrmfwa87",
+  "url": "https://constellation.church/gtrmfwa87",
+  "name": "Church of the Crucifixion",
+  "displayName": "Church of the Crucifixion",
+  "address": {
+    "street": "807 Bainbridge Street",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19147"
+  },
+  "coordinates": {
+    "latitude": 39.94173622131348,
+    "longitude": -75.15591049194336
+  },
+  "website": "https://churchcrucifixionphiladelphia.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/church-crucifixion",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/church-crucifixion"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchcrucifixionphiladelphia.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231966402"
+    }
+  ],
+  "advisories": []
+}

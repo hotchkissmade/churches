@@ -1,0 +1,33 @@
+{
+  "id": "cj6xrkr27",
+  "url": "https://constellation.church/cj6xrkr27",
+  "name": "Fairfield Presbyterian Church",
+  "displayName": "Fairfield Presbyterian Church",
+  "address": {
+    "street": "410 South Fairfield Drive",
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32506"
+  },
+  "coordinates": {
+    "latitude": 30.405858993530273,
+    "longitude": -87.31685638427734
+  },
+  "website": "https://fairfieldpca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/367",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "367"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fairfieldpca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591489942"
+    }
+  ],
+  "advisories": []
+}

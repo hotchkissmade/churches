@@ -1,0 +1,33 @@
+{
+  "id": "pmgv6ha68",
+  "url": "https://constellation.church/pmgv6ha68",
+  "name": "Sandy Run Baptist Church",
+  "displayName": "Sandy Run Baptist Church",
+  "address": {
+    "street": "2100 Sandy Run Rd",
+    "city": "Hampton",
+    "state": "SC",
+    "zip": "29924"
+  },
+  "coordinates": {
+    "latitude": 32.89383125305176,
+    "longitude": -81.04255294799805
+  },
+  "website": "https://sandyrunbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/sandy-run-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sandy-run-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sandyrunbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570696900"
+    }
+  ],
+  "advisories": []
+}

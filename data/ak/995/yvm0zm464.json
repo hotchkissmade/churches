@@ -1,0 +1,33 @@
+{
+  "id": "yvm0zm464",
+  "url": "https://constellation.church/yvm0zm464",
+  "name": "Sunset Hills Baptist Church",
+  "displayName": "Sunset Hills Baptist Church",
+  "address": {
+    "street": "12130 Old Seward Hwy",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "99515"
+  },
+  "coordinates": {
+    "latitude": 61.11068344116211,
+    "longitude": -149.8644027709961
+  },
+  "website": "https://sunsethills.org",
+  "listingUrl": "https://churches.sbc.net/church/sunset-hills-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sunset-hills-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sunsethills.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920033662"
+    }
+  ],
+  "advisories": []
+}

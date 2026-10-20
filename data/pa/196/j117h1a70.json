@@ -1,0 +1,33 @@
+{
+  "id": "j117h1a70",
+  "url": "https://constellation.church/j117h1a70",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "527 Washington St",
+    "city": "Reading",
+    "state": "PA",
+    "zip": "19601-3420"
+  },
+  "coordinates": {
+    "latitude": 40.337032318115234,
+    "longitude": -75.92642593383789
+  },
+  "website": "https://trinityreading.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7b179a14-a57b-4ac9-9853-4d36ffd579f0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7b179a14-a57b-4ac9-9853-4d36ffd579f0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityreading.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232269971"
+    }
+  ],
+  "advisories": []
+}

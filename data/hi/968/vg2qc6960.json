@@ -1,0 +1,33 @@
+{
+  "id": "vg2qc6960",
+  "url": "https://constellation.church/vg2qc6960",
+  "name": "St. Mary's Episcopal Church",
+  "displayName": "St. Mary's Episcopal Church",
+  "address": {
+    "street": "2062 S King St",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96826-2219"
+  },
+  "coordinates": {
+    "latitude": 21.29458236694336,
+    "longitude": -157.8288116455078
+  },
+  "website": "https://stmaryshawaii.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-hawaii/list/st-marys-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-hawaii/st-marys-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmaryshawaii.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "990081785"
+    }
+  ],
+  "advisories": []
+}

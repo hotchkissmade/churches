@@ -1,0 +1,33 @@
+{
+  "id": "jcrnce846",
+  "url": "https://constellation.church/jcrnce846",
+  "name": "Camarillo United Methodist Church",
+  "displayName": "Camarillo United Methodist Church",
+  "address": {
+    "street": "291 Anacapa Dr",
+    "city": "Camarillo",
+    "state": "CA",
+    "zip": "93010-2007"
+  },
+  "coordinates": {
+    "latitude": 34.2397613,
+    "longitude": -119.045644
+  },
+  "website": "https://camarilloumc.org/medical-supply-project",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFCUgIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFCUgIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "camarilloumc.org/medical-supply-project"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952085323"
+    }
+  ],
+  "advisories": []
+}

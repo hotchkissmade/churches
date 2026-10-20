@@ -1,0 +1,33 @@
+{
+  "id": "fd2616y91",
+  "url": "https://constellation.church/fd2616y91",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "1655 18th Ave E",
+    "city": "Alexandria",
+    "state": "MN",
+    "zip": "56308-0045"
+  },
+  "coordinates": {
+    "latitude": 45.871726989746094,
+    "longitude": -95.36625671386719
+  },
+  "website": "https://firstlutheranalexandria.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2d594701-f720-4b29-a3e4-e6f983c75e2f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2d594701-f720-4b29-a3e4-e6f983c75e2f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranalexandria.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416008707"
+    }
+  ],
+  "advisories": []
+}

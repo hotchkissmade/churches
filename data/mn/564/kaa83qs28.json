@@ -1,0 +1,33 @@
+{
+  "id": "kaa83qs28",
+  "url": "https://constellation.church/kaa83qs28",
+  "name": "Calvary Lutheran Church",
+  "displayName": "Calvary Lutheran Church",
+  "address": {
+    "street": "112 Park Ave S",
+    "city": "Park Rapids",
+    "state": "MN",
+    "zip": "56470-1530"
+  },
+  "coordinates": {
+    "latitude": 46.92133331298828,
+    "longitude": -95.05809020996094
+  },
+  "website": "https://calvaryparkrapids.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6a734d87-f2c7-412a-a242-b2bc3ba5ccaf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6a734d87-f2c7-412a-a242-b2bc3ba5ccaf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "calvaryparkrapids.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411344891"
+    }
+  ],
+  "advisories": []
+}

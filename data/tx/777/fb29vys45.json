@@ -1,0 +1,33 @@
+{
+  "id": "fb29vys45",
+  "url": "https://constellation.church/fb29vys45",
+  "name": "Riverside Presbyterian Church",
+  "displayName": "Riverside Presbyterian Church",
+  "address": {
+    "street": "530 North Main Street",
+    "city": "Beaumont",
+    "state": "TX",
+    "zip": "77701"
+  },
+  "coordinates": {
+    "latitude": 30.086532592773438,
+    "longitude": -94.0990982055664
+  },
+  "website": "https://riversidetx.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6261",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6261"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "riversidetx.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "814848686"
+    }
+  ],
+  "advisories": []
+}

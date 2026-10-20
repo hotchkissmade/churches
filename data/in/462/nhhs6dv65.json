@@ -1,0 +1,33 @@
+{
+  "id": "nhhs6dv65",
+  "url": "https://constellation.church/nhhs6dv65",
+  "name": "Dayspring Center",
+  "displayName": "Dayspring Center",
+  "address": {
+    "street": "1100 West 42nd Street",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46208"
+  },
+  "coordinates": {
+    "latitude": 39.83016395568848,
+    "longitude": -86.18241500854492
+  },
+  "website": "https://indianainterchurch.org/about",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-indianapolis/list/dayspring-center",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-indianapolis/dayspring-center"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "indianainterchurch.org/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "350868109"
+    }
+  ],
+  "advisories": []
+}

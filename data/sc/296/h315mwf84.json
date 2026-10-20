@@ -1,0 +1,33 @@
+{
+  "id": "h315mwf84",
+  "url": "https://constellation.church/h315mwf84",
+  "name": "Laurel Baptist Church",
+  "displayName": "Laurel Baptist Church",
+  "address": {
+    "street": "330 Sample Rd",
+    "city": "Greenwood",
+    "state": "SC",
+    "zip": "29649"
+  },
+  "coordinates": {
+    "latitude": 34.216257095336914,
+    "longitude": -82.1504898071289
+  },
+  "website": "https://lbcgreenwood.com",
+  "listingUrl": "https://churches.sbc.net/church/laurel-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "laurel-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lbcgreenwood.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570755143"
+    }
+  ],
+  "advisories": []
+}

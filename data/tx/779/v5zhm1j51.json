@@ -1,0 +1,33 @@
+{
+  "id": "v5zhm1j51",
+  "url": "https://constellation.church/v5zhm1j51",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "2101 N Virginia St",
+    "city": "Port Lavaca",
+    "state": "TX",
+    "zip": "77979-2222"
+  },
+  "coordinates": {
+    "latitude": 28.63021469116211,
+    "longitude": -96.6406021118164
+  },
+  "website": "https://salemportlavaca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0867dc15-9974-41a1-b705-e903fdc02402",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0867dc15-9974-41a1-b705-e903fdc02402"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemportlavaca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "746028420"
+    }
+  ],
+  "advisories": []
+}

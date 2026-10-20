@@ -1,0 +1,33 @@
+{
+  "id": "p12yc3t13",
+  "url": "https://constellation.church/p12yc3t13",
+  "name": "Osco Community Church",
+  "displayName": "Osco Community Church",
+  "address": {
+    "street": "311 Main St",
+    "city": "Osco",
+    "state": "IL",
+    "zip": "61274-7011"
+  },
+  "coordinates": {
+    "latitude": 41.346248626708984,
+    "longitude": -90.28057861328125
+  },
+  "website": "https://oscochurch.org",
+  "listingUrl": "https://churches.efca.org/?id=12570",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12570"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oscochurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362891336"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mmbtv6120",
+  "url": "https://constellation.church/mmbtv6120",
+  "name": "Mount Zion Lutheran Church",
+  "displayName": "Mount Zion Lutheran Church",
+  "address": {
+    "street": "797 N Detroit St",
+    "city": "Lagrange",
+    "state": "IN",
+    "zip": "46761-1111"
+  },
+  "coordinates": {
+    "latitude": 41.65192413330078,
+    "longitude": -85.42063903808594
+  },
+  "website": "https://mtzionlagrange.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=59b0f4c4-062b-4577-af24-c0b05ad366cb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "59b0f4c4-062b-4577-af24-c0b05ad366cb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mtzionlagrange.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "356045842"
+    }
+  ],
+  "advisories": []
+}

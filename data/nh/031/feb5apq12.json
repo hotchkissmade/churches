@@ -1,0 +1,33 @@
+{
+  "id": "feb5apq12",
+  "url": "https://constellation.church/feb5apq12",
+  "name": "Church of the Redeemer",
+  "displayName": "Church of the Redeemer",
+  "address": {
+    "street": "99 South Mammoth Road",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03109"
+  },
+  "coordinates": {
+    "latitude": 42.97126007080078,
+    "longitude": -71.42513656616211
+  },
+  "website": "https://redeemernh.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4705",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4705"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemernh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "731723415"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "e582c2547",
+  "url": "https://constellation.church/e582c2547",
+  "name": "Church of St. Thomas",
+  "displayName": "Church of St. Thomas",
+  "address": {
+    "street": "33 Chestnut Street, P. O. Box 631",
+    "city": "Camden",
+    "state": "ME",
+    "zip": "04843"
+  },
+  "coordinates": {
+    "latitude": 44.208282470703125,
+    "longitude": -69.06453323364258
+  },
+  "website": "https://stthomascamdenme.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maine/list/church-st-thomas",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maine/church-st-thomas"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stthomascamdenme.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "016012220"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "x525dem92",
+  "url": "https://constellation.church/x525dem92",
+  "name": "Midland Baptist Church",
+  "displayName": "Midland Baptist Church",
+  "address": {
+    "street": "143 Broadway St N",
+    "city": "Midland",
+    "state": "OH",
+    "zip": "45148"
+  },
+  "coordinates": {
+    "latitude": 39.30786895751953,
+    "longitude": -83.9125747680664
+  },
+  "website": "https://midlandbaptistchurchohio.org",
+  "listingUrl": "https://churches.sbc.net/church/midland-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "midland-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "midlandbaptistchurchohio.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "364539177"
+    }
+  ],
+  "advisories": []
+}

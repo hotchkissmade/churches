@@ -1,0 +1,33 @@
+{
+  "id": "ryfzfbd49",
+  "url": "https://constellation.church/ryfzfbd49",
+  "name": "Bethany Lutheran Church",
+  "displayName": "Bethany Lutheran Church",
+  "address": {
+    "street": "202 S 11th St",
+    "city": "Escanaba",
+    "state": "MI",
+    "zip": "49829-3451"
+  },
+  "coordinates": {
+    "latitude": 45.744415283203125,
+    "longitude": -87.06282043457031
+  },
+  "website": "https://bethanyescanaba.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4c00c0c0-569a-446a-98eb-2b49f77227f5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4c00c0c0-569a-446a-98eb-2b49f77227f5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanyescanaba.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381381142"
+    }
+  ],
+  "advisories": []
+}

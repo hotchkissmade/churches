@@ -1,0 +1,33 @@
+{
+  "id": "ta7zebj22",
+  "url": "https://constellation.church/ta7zebj22",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "412 E Benton St",
+    "city": "Joliet",
+    "state": "IL",
+    "zip": "60432-2456"
+  },
+  "coordinates": {
+    "latitude": 41.52972984313965,
+    "longitude": -88.07125473022461
+  },
+  "website": "https://blcjoliet.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=532aa7b6-dac7-4da2-855e-de004246727f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "532aa7b6-dac7-4da2-855e-de004246727f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blcjoliet.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362239385"
+    }
+  ],
+  "advisories": []
+}

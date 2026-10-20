@@ -1,0 +1,33 @@
+{
+  "id": "bz6ty9587",
+  "url": "https://constellation.church/bz6ty9587",
+  "name": "United Baptist Church",
+  "displayName": "United Baptist Church",
+  "address": {
+    "street": "3400 US Highway 29 N",
+    "city": "Danville",
+    "state": "VA",
+    "zip": "24540"
+  },
+  "coordinates": {
+    "latitude": 37.623918533325195,
+    "longitude": -84.7745246887207
+  },
+  "website": "https://ubcdanville.com",
+  "listingUrl": "https://churches.sbc.net/church/united-baptist-church-13/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "united-baptist-church-13"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ubcdanville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900425314"
+    }
+  ],
+  "advisories": []
+}

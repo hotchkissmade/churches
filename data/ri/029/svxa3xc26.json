@@ -1,0 +1,33 @@
+{
+  "id": "svxa3xc26",
+  "url": "https://constellation.church/svxa3xc26",
+  "name": "Trinity Presbyterian Church",
+  "displayName": "Trinity Presbyterian Church",
+  "address": {
+    "street": "72 Clifford Street",
+    "city": "Providence",
+    "state": "RI",
+    "zip": "02903"
+  },
+  "coordinates": {
+    "latitude": 41.820465087890625,
+    "longitude": -71.40975189208984
+  },
+  "website": "https://trinitypresri.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/92",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "92"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitypresri.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222831735"
+    }
+  ],
+  "advisories": []
+}

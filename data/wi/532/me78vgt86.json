@@ -1,0 +1,37 @@
+{
+  "id": "me78vgt86",
+  "url": "https://constellation.church/me78vgt86",
+  "name": "Salem Lutheran Church (East Side)",
+  "displayName": "Salem Lutheran Church (East Side)",
+  "address": {
+    "street": "2400 N Cramer St",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53211-4310"
+  },
+  "coordinates": {
+    "latitude": 43.0614128112793,
+    "longitude": -87.88639831542969
+  },
+  "website": "https://salemwels.net",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24827",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24827"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemwels.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390930508"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391135959"
+    }
+  ],
+  "advisories": []
+}

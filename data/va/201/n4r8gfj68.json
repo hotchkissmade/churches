@@ -1,0 +1,33 @@
+{
+  "id": "n4r8gfj68",
+  "url": "https://constellation.church/n4r8gfj68",
+  "name": "St. Anne's Church",
+  "displayName": "St. Anne's Church",
+  "address": {
+    "street": "1700 Wainwright Dr",
+    "city": "Reston",
+    "state": "VA",
+    "zip": "20190-5500"
+  },
+  "coordinates": {
+    "latitude": 38.96681785583496,
+    "longitude": -77.35279846191406
+  },
+  "website": "https://stannes-reston.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-virginia/list/st-annes-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-virginia/st-annes-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stannes-reston.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541058128"
+    }
+  ],
+  "advisories": []
+}

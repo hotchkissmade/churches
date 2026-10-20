@@ -1,0 +1,33 @@
+{
+  "id": "jx6v4ad36",
+  "url": "https://constellation.church/jx6v4ad36",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "512 7th St",
+    "city": "Columbus",
+    "state": "IN",
+    "zip": "47201-6211"
+  },
+  "coordinates": {
+    "latitude": 39.2059383392334,
+    "longitude": -85.9195327758789
+  },
+  "website": "https://fpccolumbus.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/2086/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "2086"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpccolumbus.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "350867998"
+    }
+  ],
+  "advisories": []
+}

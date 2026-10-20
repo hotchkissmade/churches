@@ -1,0 +1,33 @@
+{
+  "id": "g7e117822",
+  "url": "https://constellation.church/g7e117822",
+  "name": "First Baptist Church of Hamilton",
+  "displayName": "First Baptist Church of Hamilton",
+  "address": {
+    "street": "2000 High St",
+    "city": "Hamilton",
+    "state": "IL",
+    "zip": "62341"
+  },
+  "coordinates": {
+    "latitude": 40.39978218078613,
+    "longitude": -91.32766723632812
+  },
+  "website": "https://gofbch.org/our-team",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-hamilton/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-hamilton"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gofbch.org/our-team"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800175441"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "r723e2086",
+  "url": "https://constellation.church/r723e2086",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "1517 10th St",
+    "city": "Port Huron",
+    "state": "MI",
+    "zip": "48060-5814"
+  },
+  "coordinates": {
+    "latitude": 42.96747016906738,
+    "longitude": -82.43294143676758
+  },
+  "website": "https://tlc1517.org",
+  "listingUrl": "https://locator.lcms.org/church/C/735521",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "735521"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlc1517.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381556200"
+    }
+  ],
+  "advisories": []
+}

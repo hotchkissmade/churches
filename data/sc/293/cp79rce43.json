@@ -1,0 +1,33 @@
+{
+  "id": "cp79rce43",
+  "url": "https://constellation.church/cp79rce43",
+  "name": "Iglesia Betel Internacional",
+  "displayName": "Iglesia Betel Internacional",
+  "address": {
+    "street": "1281 West St",
+    "city": "Spartanburg",
+    "state": "SC",
+    "zip": "29301"
+  },
+  "coordinates": {
+    "latitude": 34.952680587768555,
+    "longitude": -81.9913444519043
+  },
+  "website": "https://bethelspartanburg.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=afa558c0-46c7-4e78-99a4-9ab86ccbe02b&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "afa558c0-46c7-4e78-99a4-9ab86ccbe02b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelspartanburg.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "571107930"
+    }
+  ],
+  "advisories": []
+}

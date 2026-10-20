@@ -1,0 +1,33 @@
+{
+  "id": "tbdrcvy40",
+  "url": "https://constellation.church/tbdrcvy40",
+  "name": "Saron Lutheran Church",
+  "displayName": "Saron Lutheran Church",
+  "address": {
+    "street": "311 Lake St S",
+    "city": "Big Lake",
+    "state": "MN",
+    "zip": "55309-9512"
+  },
+  "coordinates": {
+    "latitude": 45.329593658447266,
+    "longitude": -93.74790954589844
+  },
+  "website": "https://saron.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5828427d-bd78-4275-94e4-2184534ec212",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5828427d-bd78-4275-94e4-2184534ec212"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saron.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411351333"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "m4k5dcf05",
+  "url": "https://constellation.church/m4k5dcf05",
+  "name": "My Church",
+  "displayName": "My Church",
+  "address": {
+    "street": "668 Saint Johns Bluff Rd N",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32225"
+  },
+  "coordinates": {
+    "latitude": 30.3331575,
+    "longitude": -81.523413
+  },
+  "website": "https://mychurchfl.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=dd27d8d9-bbe0-43b5-9f2c-32f969b528b5&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "dd27d8d9-bbe0-43b5-9f2c-32f969b528b5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mychurchfl.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "811032200"
+    }
+  ],
+  "advisories": []
+}

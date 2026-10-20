@@ -1,0 +1,33 @@
+{
+  "id": "wv8sqn615",
+  "url": "https://constellation.church/wv8sqn615",
+  "name": "Church of the Vine",
+  "displayName": "Church of the Vine",
+  "address": {
+    "street": "5 Wareham Street",
+    "city": "Carver",
+    "state": "MA",
+    "zip": "02330"
+  },
+  "coordinates": {
+    "latitude": 41.88865661621094,
+    "longitude": -70.77029800415039
+  },
+  "website": "https://thevinecarver.com",
+  "listingUrl": "https://churches.sbc.net/church/church-of-the-vine/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "church-of-the-vine"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thevinecarver.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222511747"
+    }
+  ],
+  "advisories": []
+}

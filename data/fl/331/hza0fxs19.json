@@ -1,0 +1,33 @@
+{
+  "id": "hza0fxs19",
+  "url": "https://constellation.church/hza0fxs19",
+  "name": "Southwest Community Church",
+  "displayName": "Southwest Community Church",
+  "address": {
+    "street": "8951 SW 44th St",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33165"
+  },
+  "coordinates": {
+    "latitude": 25.728261947631836,
+    "longitude": -80.34099578857422
+  },
+  "website": "https://swcc.org",
+  "listingUrl": "https://churches.sbc.net/church/southwest-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "southwest-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "swcc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591576176"
+    }
+  ],
+  "advisories": []
+}

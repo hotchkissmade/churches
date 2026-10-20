@@ -1,0 +1,33 @@
+{
+  "id": "csecn2f85",
+  "url": "https://constellation.church/csecn2f85",
+  "name": "Baybrook Baptist Church",
+  "displayName": "Baybrook Baptist Church",
+  "address": {
+    "street": "15775 Hope Village Rd.",
+    "city": "Friendswood",
+    "state": "TX",
+    "zip": "77546"
+  },
+  "coordinates": {
+    "latitude": 29.546554565429688,
+    "longitude": -95.18110656738281
+  },
+  "website": "https://baybrookbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/baybrook-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "baybrook-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "baybrookbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760121015"
+    }
+  ],
+  "advisories": []
+}

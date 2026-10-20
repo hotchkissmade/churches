@@ -1,0 +1,33 @@
+{
+  "id": "kdyszc012",
+  "url": "https://constellation.church/kdyszc012",
+  "name": "First Baptist Church Rolla",
+  "displayName": "First Baptist Church Rolla",
+  "address": {
+    "street": "801 N Cedar St",
+    "city": "Rolla",
+    "state": "MO",
+    "zip": "65401"
+  },
+  "coordinates": {
+    "latitude": 37.95051193237305,
+    "longitude": -91.76786804199219
+  },
+  "website": "https://fbcrolla.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-rolla/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-rolla"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcrolla.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "436003048"
+    }
+  ],
+  "advisories": []
+}

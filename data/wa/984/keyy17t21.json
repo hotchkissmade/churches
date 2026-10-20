@@ -1,0 +1,33 @@
+{
+  "id": "keyy17t21",
+  "url": "https://constellation.church/keyy17t21",
+  "name": "First Presbyterian Church of Tacoma",
+  "displayName": "First Presbyterian Church of Tacoma",
+  "address": {
+    "street": "20 Tacoma Ave S",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98402"
+  },
+  "coordinates": {
+    "latitude": 47.26276397705078,
+    "longitude": -122.4471664428711
+  },
+  "website": "https://fpctacoma.org",
+  "listingUrl": "https://eco-pres.org/churches/first-presbyterian-church-of-tacoma/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "first-presbyterian-church-of-tacoma"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpctacoma.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910575942"
+    }
+  ],
+  "advisories": []
+}

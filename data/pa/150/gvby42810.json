@@ -1,0 +1,33 @@
+{
+  "id": "gvby42810",
+  "url": "https://constellation.church/gvby42810",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "1103 8th Ave",
+    "city": "Beaver Falls",
+    "state": "PA",
+    "zip": "15010"
+  },
+  "coordinates": {
+    "latitude": 40.75240135192871,
+    "longitude": -80.3214225769043
+  },
+  "website": "https://fpc-beaverfalls.org/impact/the-soup-kitchen",
+  "listingUrl": "https://church-trends.pcusa.org/church/7184/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "7184"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpc-beaverfalls.org/impact/the-soup-kitchen"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "250969408"
+    }
+  ],
+  "advisories": []
+}

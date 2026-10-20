@@ -1,0 +1,33 @@
+{
+  "id": "wt3t9am40",
+  "url": "https://constellation.church/wt3t9am40",
+  "name": "St. John’s Park Slope",
+  "displayName": "St. John’s Park Slope",
+  "address": {
+    "street": "139 St Johns Place",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11217"
+  },
+  "coordinates": {
+    "latitude": 40.67683792114258,
+    "longitude": -73.97480392456055
+  },
+  "website": "https://parkslopechurch.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-johns-episcopal-church-park-slope",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-johns-episcopal-church-park-slope"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parkslopechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111666870"
+    }
+  ],
+  "advisories": []
+}

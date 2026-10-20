@@ -1,0 +1,33 @@
+{
+  "id": "yx83g7t89",
+  "url": "https://constellation.church/yx83g7t89",
+  "name": "First Baptist Church of Tucumcari",
+  "displayName": "First Baptist Church of Tucumcari",
+  "address": {
+    "street": "321 E Center St",
+    "city": "Tucumcari",
+    "state": "NM",
+    "zip": "88401"
+  },
+  "coordinates": {
+    "latitude": 35.17901420593262,
+    "longitude": -103.7228775024414
+  },
+  "website": "https://fbctuc.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-tucumcari/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-tucumcari"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbctuc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850106356"
+    }
+  ],
+  "advisories": []
+}

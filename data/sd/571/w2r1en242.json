@@ -1,0 +1,33 @@
+{
+  "id": "w2r1en242",
+  "url": "https://constellation.church/w2r1en242",
+  "name": "Church On The Street",
+  "displayName": "Church On The Street",
+  "address": {
+    "street": "515 N Main Ave",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57104"
+  },
+  "coordinates": {
+    "latitude": 43.55295372009277,
+    "longitude": -96.72872924804688
+  },
+  "website": "https://churchonthestreetsf.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d915dc85-d59f-4e2f-a6b6-c0d4baa4dfcf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d915dc85-d59f-4e2f-a6b6-c0d4baa4dfcf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchonthestreetsf.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "812037159"
+    }
+  ],
+  "advisories": []
+}

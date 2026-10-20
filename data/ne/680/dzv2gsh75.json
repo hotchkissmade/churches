@@ -1,0 +1,33 @@
+{
+  "id": "dzv2gsh75",
+  "url": "https://constellation.church/dzv2gsh75",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "141 S 20th St",
+    "city": "Blair",
+    "state": "NE",
+    "zip": "68008-1831"
+  },
+  "coordinates": {
+    "latitude": 41.5430908203125,
+    "longitude": -96.14280700683594
+  },
+  "website": "https://trinitylutheranblair.com",
+  "listingUrl": "https://locator.lcms.org/church/C/85300",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "85300"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylutheranblair.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "476060416"
+    }
+  ],
+  "advisories": []
+}

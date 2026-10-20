@@ -1,0 +1,33 @@
+{
+  "id": "t2nk6wp84",
+  "url": "https://constellation.church/t2nk6wp84",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "602 W Townline St",
+    "city": "Creston",
+    "state": "IA",
+    "zip": "50801-1119"
+  },
+  "coordinates": {
+    "latitude": 41.07080078125,
+    "longitude": -94.36892700195312
+  },
+  "website": "https://salemluth.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=18bafcc2-cecb-432f-ace0-4ac29feed2bb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "18bafcc2-cecb-432f-ace0-4ac29feed2bb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemluth.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420716336"
+    }
+  ],
+  "advisories": []
+}

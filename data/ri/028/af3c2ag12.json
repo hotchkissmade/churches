@@ -1,0 +1,33 @@
+{
+  "id": "af3c2ag12",
+  "url": "https://constellation.church/af3c2ag12",
+  "name": "Glad Tidings Community Church of the Assemblies of God",
+  "displayName": "Glad Tidings Community Church of the Assemblies of God",
+  "address": {
+    "street": "111 Victory Hwy",
+    "city": "Chepachet",
+    "state": "RI",
+    "zip": "02814"
+  },
+  "coordinates": {
+    "latitude": 41.9253044128418,
+    "longitude": -71.66876220703125
+  },
+  "website": "https://gtcc.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=8c63bd0a-a8d0-4d17-aeff-b2e3f6d28ce2&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "8c63bd0a-a8d0-4d17-aeff-b2e3f6d28ce2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gtcc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "050449837"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "f3p3b8r43",
+  "url": "https://constellation.church/f3p3b8r43",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "550 State Rte 940",
+    "city": "Pocono Lake",
+    "state": "PA",
+    "zip": "18610"
+  },
+  "coordinates": {
+    "latitude": 41.10226249694824,
+    "longitude": -75.57320785522461
+  },
+  "website": "https://faithlutheranblakeslee.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=db1e1a1e-de37-4696-8297-99550aeabf07",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "db1e1a1e-de37-4696-8297-99550aeabf07"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithlutheranblakeslee.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232259565"
+    }
+  ],
+  "advisories": []
+}

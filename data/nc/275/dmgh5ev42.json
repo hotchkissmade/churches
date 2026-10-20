@@ -1,0 +1,33 @@
+{
+  "id": "dmgh5ev42",
+  "url": "https://constellation.church/dmgh5ev42",
+  "name": "Grace Presbyterian Church",
+  "displayName": "Grace Presbyterian Church",
+  "address": {
+    "street": "119 East Vance Street",
+    "city": "Fuquay-Varina",
+    "state": "NC",
+    "zip": "27526"
+  },
+  "coordinates": {
+    "latitude": 35.58206558227539,
+    "longitude": -78.79865264892578
+  },
+  "website": "https://gracefv.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1604",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1604"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracefv.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561977809"
+    }
+  ],
+  "advisories": []
+}

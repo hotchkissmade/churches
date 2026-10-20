@@ -1,0 +1,33 @@
+{
+  "id": "hz2dcm932",
+  "url": "https://constellation.church/hz2dcm932",
+  "name": "Lebanon Presbyterian Church",
+  "displayName": "Lebanon Presbyterian Church",
+  "address": {
+    "street": "698 Mount Carmel Road",
+    "city": "Abbeville",
+    "state": "SC",
+    "zip": "29620"
+  },
+  "coordinates": {
+    "latitude": 34.113290786743164,
+    "longitude": -82.41766738891602
+  },
+  "website": "https://lebanonpca-abbeville.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/685",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "685"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lebanonpca-abbeville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570754540"
+    }
+  ],
+  "advisories": []
+}

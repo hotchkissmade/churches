@@ -1,0 +1,33 @@
+{
+  "id": "etsdjz018",
+  "url": "https://constellation.church/etsdjz018",
+  "name": "Faith Manhattan Church",
+  "displayName": "Faith Manhattan Church",
+  "address": {
+    "street": "1921 Barnes Rd",
+    "city": "Manhattan",
+    "state": "KS",
+    "zip": "66502-7249"
+  },
+  "coordinates": {
+    "latitude": 39.22846603393555,
+    "longitude": -96.58282470703125
+  },
+  "website": "https://faithmanhattan.org",
+  "listingUrl": "https://churches.efca.org/?id=12605",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12605"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithmanhattan.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "481065527"
+    }
+  ],
+  "advisories": []
+}

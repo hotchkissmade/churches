@@ -1,0 +1,33 @@
+{
+  "id": "wbykb5854",
+  "url": "https://constellation.church/wbykb5854",
+  "name": "Church of the Good Samaritan",
+  "displayName": "Church of the Good Samaritan",
+  "address": {
+    "street": "333 NW 35th St",
+    "city": "Corvallis",
+    "state": "OR",
+    "zip": "97330-4956"
+  },
+  "coordinates": {
+    "latitude": 44.571250915527344,
+    "longitude": -123.28922271728516
+  },
+  "website": "https://goodsamcorvallis.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-oregon/list/church-good-samaritan",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-oregon/church-good-samaritan"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodsamcorvallis.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930454775"
+    }
+  ],
+  "advisories": []
+}

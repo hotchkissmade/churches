@@ -1,0 +1,33 @@
+{
+  "id": "d91qr6378",
+  "url": "https://constellation.church/d91qr6378",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "545 Apollo Rd",
+    "city": "River Falls",
+    "state": "WI",
+    "zip": "54022-1203"
+  },
+  "coordinates": {
+    "latitude": 44.8640127,
+    "longitude": -92.6401455
+  },
+  "website": "https://justifiedbyfaith.net",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24450",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24450"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "justifiedbyfaith.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391168965"
+    }
+  ],
+  "advisories": []
+}

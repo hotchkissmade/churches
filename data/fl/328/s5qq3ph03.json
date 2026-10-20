@@ -1,0 +1,33 @@
+{
+  "id": "s5qq3ph03",
+  "url": "https://constellation.church/s5qq3ph03",
+  "name": "Delaney Street Baptist Church",
+  "displayName": "Delaney Street Baptist Church",
+  "address": {
+    "street": "1919 S Delaney Ave",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32806"
+  },
+  "coordinates": {
+    "latitude": 28.519447326660156,
+    "longitude": -81.37135314941406
+  },
+  "website": "https://delaneychurch.com",
+  "listingUrl": "https://churches.sbc.net/church/delaney-street-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "delaney-street-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "delaneychurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591346459"
+    }
+  ],
+  "advisories": []
+}

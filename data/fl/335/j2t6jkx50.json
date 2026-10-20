@@ -1,0 +1,33 @@
+{
+  "id": "j2t6jkx50",
+  "url": "https://constellation.church/j2t6jkx50",
+  "name": "Resurrection House Mission",
+  "displayName": "Resurrection House Mission",
+  "address": {
+    "street": "37105 Lock St",
+    "city": "Dade City",
+    "state": "FL",
+    "zip": "33523-2536"
+  },
+  "coordinates": {
+    "latitude": 28.375877380371094,
+    "longitude": -82.19933319091797
+  },
+  "website": "https://rezhouse.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e9438ae4-042d-44de-8b6c-e38e8825c075",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e9438ae4-042d-44de-8b6c-e38e8825c075"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rezhouse.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "481270857"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "s7wvb4f94",
+  "url": "https://constellation.church/s7wvb4f94",
+  "name": "First Baptist Church of Mt Carmel",
+  "displayName": "First Baptist Church of Mount Carmel",
+  "address": {
+    "street": "130 W 6th",
+    "city": "Mount Carmel",
+    "state": "IL",
+    "zip": "62863"
+  },
+  "coordinates": {
+    "latitude": 38.412038803100586,
+    "longitude": -87.7635498046875
+  },
+  "website": "https://fbcmtc.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-mt-carmel/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-mt-carmel"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcmtc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371061014"
+    }
+  ],
+  "advisories": []
+}

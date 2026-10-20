@@ -1,0 +1,33 @@
+{
+  "id": "namc97j63",
+  "url": "https://constellation.church/namc97j63",
+  "name": "Emmanuel Episcopal Church",
+  "displayName": "Emmanuel Episcopal Church",
+  "address": {
+    "street": "811 Cathedral St",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21201-5201"
+  },
+  "coordinates": {
+    "latitude": 39.29926109313965,
+    "longitude": -76.61700439453125
+  },
+  "website": "https://emmanueldowntown.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maryland/list/emmanuel-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maryland/emmanuel-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emmanueldowntown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520655473"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jx9jpzv51",
+  "url": "https://constellation.church/jx9jpzv51",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "8396 Steeple Hill Dr",
+    "city": "Larsen",
+    "state": "WI",
+    "zip": "54947-9538"
+  },
+  "coordinates": {
+    "latitude": 44.19472885131836,
+    "longitude": -88.66443252563477
+  },
+  "website": "https://glcw.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b30c7e65-eb39-40a4-95c5-e9a436159e09",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b30c7e65-eb39-40a4-95c5-e9a436159e09"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "glcw.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390935776"
+    }
+  ],
+  "advisories": []
+}

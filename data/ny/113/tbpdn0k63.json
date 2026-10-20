@@ -1,0 +1,33 @@
+{
+  "id": "tbpdn0k63",
+  "url": "https://constellation.church/tbpdn0k63",
+  "name": "Church on the Hill",
+  "displayName": "Church on the Hill",
+  "address": {
+    "street": "167-07 35th Ave",
+    "city": "Flushing",
+    "state": "NY",
+    "zip": "11358-1798"
+  },
+  "coordinates": {
+    "latitude": 40.76513671875,
+    "longitude": -73.79826736450195
+  },
+  "website": "https://churchonthehill.org",
+  "listingUrl": "https://www.rca.org/churches/church-on-the-hill/",
+  "identifiers": [
+    {
+      "namespace": "org.rca.id",
+      "value": "218081"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchonthehill.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111672754"
+    }
+  ],
+  "advisories": []
+}

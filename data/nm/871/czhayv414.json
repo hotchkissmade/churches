@@ -1,0 +1,33 @@
+{
+  "id": "czhayv414",
+  "url": "https://constellation.church/czhayv414",
+  "name": "Albuquerque’s First Baptist Church",
+  "displayName": "Albuquerque’s First Baptist Church",
+  "address": {
+    "street": "4101 Paseo Del Norte Blvd NW",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87114"
+  },
+  "coordinates": {
+    "latitude": 35.18193244934082,
+    "longitude": -106.68024444580078
+  },
+  "website": "https://fbcabq.org",
+  "listingUrl": "https://churches.sbc.net/church/albuquerques-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "albuquerques-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcabq.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850119045"
+    }
+  ],
+  "advisories": []
+}

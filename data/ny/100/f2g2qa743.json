@@ -1,0 +1,33 @@
+{
+  "id": "f2g2qa743",
+  "url": "https://constellation.church/f2g2qa743",
+  "name": "Cathedral of the Holy Virgin Protection",
+  "displayName": "Cathedral of the Holy Virgin Protection",
+  "address": {
+    "street": "59 E 2nd St",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10003-9270"
+  },
+  "coordinates": {
+    "latitude": 40.72437286376953,
+    "longitude": -73.9894905090332
+  },
+  "website": "https://nycathedral.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ny-nycprv",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ny-nycprv"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nycathedral.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "133572915"
+    }
+  ],
+  "advisories": []
+}

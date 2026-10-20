@@ -1,0 +1,33 @@
+{
+  "id": "wjkpzvz79",
+  "url": "https://constellation.church/wjkpzvz79",
+  "name": "Grove Chapel Lutheran Church",
+  "displayName": "Grove Chapel Lutheran Church",
+  "address": {
+    "street": "2539 Grove Chapel Rd",
+    "city": "Indiana",
+    "state": "PA",
+    "zip": "15701-7102"
+  },
+  "coordinates": {
+    "latitude": 40.69607353210449,
+    "longitude": -79.10256958007812
+  },
+  "website": "https://grovechapel.info",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f0bdf4f3-aa3c-4373-af73-3db6639f7d54",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f0bdf4f3-aa3c-4373-af73-3db6639f7d54"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grovechapel.info"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251453722"
+    }
+  ],
+  "advisories": []
+}

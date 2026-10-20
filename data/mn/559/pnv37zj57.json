@@ -1,0 +1,33 @@
+{
+  "id": "pnv37zj57",
+  "url": "https://constellation.church/pnv37zj57",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "301 8th Ave NW",
+    "city": "Kasson",
+    "state": "MN",
+    "zip": "55944-1031"
+  },
+  "coordinates": {
+    "latitude": 44.03253173828125,
+    "longitude": -92.75963592529297
+  },
+  "website": "https://stjohnskasson.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c31d36a8-4713-40b6-937c-034712b3406e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c31d36a8-4713-40b6-937c-034712b3406e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnskasson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410875697"
+    }
+  ],
+  "advisories": []
+}

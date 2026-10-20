@@ -1,0 +1,33 @@
+{
+  "id": "gcae26b72",
+  "url": "https://constellation.church/gcae26b72",
+  "name": "Grace Presbyterian Church",
+  "displayName": "Grace Presbyterian Church",
+  "address": {
+    "street": "1955 Riverside Drive",
+    "city": "Conway",
+    "state": "SC",
+    "zip": "29526"
+  },
+  "coordinates": {
+    "latitude": 33.82501029968262,
+    "longitude": -79.00787734985352
+  },
+  "website": "https://gracepresbyterianchurch.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/552",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "552"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracepresbyterianchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570823238"
+    }
+  ],
+  "advisories": []
+}

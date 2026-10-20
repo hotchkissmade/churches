@@ -1,0 +1,33 @@
+{
+  "id": "g8vjy8p47",
+  "url": "https://constellation.church/g8vjy8p47",
+  "name": "The Church of the Holy Trinity",
+  "displayName": "The Church of the Holy Trinity",
+  "address": {
+    "street": "212 S High St",
+    "city": "West Chester",
+    "state": "PA",
+    "zip": "19382-3499"
+  },
+  "coordinates": {
+    "latitude": 39.957441329956055,
+    "longitude": -75.60234832763672
+  },
+  "website": "https://holytrinitywc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/church-holy-trinity",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/church-holy-trinity"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holytrinitywc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231618027"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xs67eqp89",
+  "url": "https://constellation.church/xs67eqp89",
+  "name": "Iglesia Bautista De Pompano Beach",
+  "displayName": "Iglesia Bautista De Pompano Beach",
+  "address": {
+    "street": "101 SW 17th St",
+    "city": "Pompano Beach",
+    "state": "FL",
+    "zip": "33060"
+  },
+  "coordinates": {
+    "latitude": 26.209442138671875,
+    "longitude": -80.12401962280273
+  },
+  "website": "https://iglesiaenpompano.org",
+  "listingUrl": "https://churches.sbc.net/church/iglesia-bautista-de-pompano-beach/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "iglesia-bautista-de-pompano-beach"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "iglesiaenpompano.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "650275161"
+    }
+  ],
+  "advisories": []
+}

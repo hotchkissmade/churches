@@ -1,0 +1,33 @@
+{
+  "id": "gpcbmbj09",
+  "url": "https://constellation.church/gpcbmbj09",
+  "name": "Our Savior Lutheran Church",
+  "displayName": "Our Savior Lutheran Church",
+  "address": {
+    "street": "215 W Mukilteo Blvd",
+    "city": "Everett",
+    "state": "WA",
+    "zip": "98203-2057"
+  },
+  "coordinates": {
+    "latitude": 47.9567944,
+    "longitude": -122.2298708
+  },
+  "website": "https://oslc-everett.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6fe1d239-ff68-4a3a-872c-2b469603d8cc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6fe1d239-ff68-4a3a-872c-2b469603d8cc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oslc-everett.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "916012589"
+    }
+  ],
+  "advisories": []
+}

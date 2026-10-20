@@ -1,0 +1,33 @@
+{
+  "id": "v7z8j1t71",
+  "url": "https://constellation.church/v7z8j1t71",
+  "name": "Ascension Episcopal Church",
+  "displayName": "Ascension Episcopal Church",
+  "address": {
+    "street": "214 3rd St N",
+    "city": "Stillwater",
+    "state": "MN",
+    "zip": "55082-4806"
+  },
+  "coordinates": {
+    "latitude": 45.05714797973633,
+    "longitude": -92.80976867675781
+  },
+  "website": "https://aechurch.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/ascension-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/ascension-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "aechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410694753"
+    }
+  ],
+  "advisories": []
+}

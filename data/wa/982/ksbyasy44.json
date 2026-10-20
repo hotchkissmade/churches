@@ -1,0 +1,33 @@
+{
+  "id": "ksbyasy44",
+  "url": "https://constellation.church/ksbyasy44",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "2015 E Blackburn Rd",
+    "city": "Mount Vernon",
+    "state": "WA",
+    "zip": "98274-9039"
+  },
+  "coordinates": {
+    "latitude": 48.40728759765625,
+    "longitude": -122.31550598144531
+  },
+  "website": "https://firstlutheranmv.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=683e68f3-7c0f-4c64-b545-7afc09ec2489",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "683e68f3-7c0f-4c64-b545-7afc09ec2489"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranmv.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910862005"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "skw35na68",
+  "url": "https://constellation.church/skw35na68",
+  "name": "Westminster Baptist Church",
+  "displayName": "Westminster Baptist Church",
+  "address": {
+    "street": "212 E Windsor St",
+    "city": "Westminster",
+    "state": "SC",
+    "zip": "29693"
+  },
+  "coordinates": {
+    "latitude": 34.663984298706055,
+    "longitude": -83.09658432006836
+  },
+  "website": "https://wbc.life",
+  "listingUrl": "https://churches.sbc.net/church/westminster-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "westminster-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wbc.life"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570568195"
+    }
+  ],
+  "advisories": []
+}

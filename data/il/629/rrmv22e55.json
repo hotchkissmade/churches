@@ -1,0 +1,37 @@
+{
+  "id": "rrmv22e55",
+  "url": "https://constellation.church/rrmv22e55",
+  "name": "First Baptist Church of Royalton",
+  "displayName": "First Baptist Church of Royalton",
+  "address": {
+    "street": "709 W 3rd St S",
+    "city": "Royalton",
+    "state": "IL",
+    "zip": "62983"
+  },
+  "coordinates": {
+    "latitude": 37.877166748046875,
+    "longitude": -89.12317657470703
+  },
+  "website": "https://royaltonfbc.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-royalton/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-royalton"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "royaltonfbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237198023"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371061961"
+    }
+  ],
+  "advisories": []
+}

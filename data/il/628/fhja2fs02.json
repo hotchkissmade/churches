@@ -1,0 +1,33 @@
+{
+  "id": "fhja2fs02",
+  "url": "https://constellation.church/fhja2fs02",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "205 N Main St",
+    "city": "Hoyleton",
+    "state": "IL",
+    "zip": "62803-2005"
+  },
+  "coordinates": {
+    "latitude": 38.444602966308594,
+    "longitude": -89.27481079101562
+  },
+  "website": "https://trinityhoyleton.org",
+  "listingUrl": "https://locator.lcms.org/church/C/434077",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "434077"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityhoyleton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370735283"
+    }
+  ],
+  "advisories": []
+}

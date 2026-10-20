@@ -1,0 +1,33 @@
+{
+  "id": "ypd3kx347",
+  "url": "https://constellation.church/ypd3kx347",
+  "name": "First Baptist Church of Orion",
+  "displayName": "First Baptist Church of Orion",
+  "address": {
+    "street": "1101 4th St",
+    "city": "Orion",
+    "state": "IL",
+    "zip": "61273"
+  },
+  "coordinates": {
+    "latitude": 41.35361099243164,
+    "longitude": -90.38126373291016
+  },
+  "website": "https://fbcorion.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-orion/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-orion"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcorion.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363046882"
+    }
+  ],
+  "advisories": []
+}

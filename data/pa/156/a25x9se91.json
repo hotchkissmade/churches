@@ -1,0 +1,33 @@
+{
+  "id": "a25x9se91",
+  "url": "https://constellation.church/a25x9se91",
+  "name": "First United Methodist Church",
+  "displayName": "First United Methodist Church",
+  "address": {
+    "street": "311 N Ligonier St",
+    "city": "Derry",
+    "state": "PA",
+    "zip": "15627-1632"
+  },
+  "coordinates": {
+    "latitude": 40.337039947509766,
+    "longitude": -79.30126571655273
+  },
+  "website": "https://derryfirstumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKbyIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKbyIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "derryfirstumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251011852"
+    }
+  ],
+  "advisories": []
+}

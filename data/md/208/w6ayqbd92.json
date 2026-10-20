@@ -1,0 +1,33 @@
+{
+  "id": "w6ayqbd92",
+  "url": "https://constellation.church/w6ayqbd92",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "11200 Old Georgetown Rd",
+    "city": "North Bethesda",
+    "state": "MD",
+    "zip": "20852-3202"
+  },
+  "coordinates": {
+    "latitude": 39.03888511657715,
+    "longitude": -77.12339401245117
+  },
+  "website": "https://trinityelca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e891997b-d75a-4b68-8926-f801e2e3c462",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e891997b-d75a-4b68-8926-f801e2e3c462"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityelca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520804380"
+    }
+  ],
+  "advisories": []
+}

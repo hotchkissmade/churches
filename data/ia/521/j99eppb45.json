@@ -1,0 +1,33 @@
+{
+  "id": "j99eppb45",
+  "url": "https://constellation.church/j99eppb45",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "116 E Military Rd",
+    "city": "Postville",
+    "state": "IA",
+    "zip": "52162-9747"
+  },
+  "coordinates": {
+    "latitude": 43.08247756958008,
+    "longitude": -91.56747436523438
+  },
+  "website": "https://stpaulpostville.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b22dfcf8-4afa-414a-8915-79a061439962",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b22dfcf8-4afa-414a-8915-79a061439962"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulpostville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426005711"
+    }
+  ],
+  "advisories": []
+}

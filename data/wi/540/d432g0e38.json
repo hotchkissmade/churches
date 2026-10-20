@@ -1,0 +1,33 @@
+{
+  "id": "d432g0e38",
+  "url": "https://constellation.church/d432g0e38",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "218 County Road K",
+    "city": "New Richmond",
+    "state": "WI",
+    "zip": "54017-5002"
+  },
+  "coordinates": {
+    "latitude": 45.12148666381836,
+    "longitude": -92.567138671875
+  },
+  "website": "https://firstdaynr.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=467e17f0-1dad-4d5c-83d7-f842716c65d1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "467e17f0-1dad-4d5c-83d7-f842716c65d1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstdaynr.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391039815"
+    }
+  ],
+  "advisories": []
+}

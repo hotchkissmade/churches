@@ -1,0 +1,33 @@
+{
+  "id": "rgyk9nv84",
+  "url": "https://constellation.church/rgyk9nv84",
+  "name": "Holy Trinity Church",
+  "displayName": "Holy Trinity Church",
+  "address": {
+    "street": "119 S Sparks St",
+    "city": "State College",
+    "state": "PA",
+    "zip": "16801"
+  },
+  "coordinates": {
+    "latitude": 40.788795471191406,
+    "longitude": -77.8679428100586
+  },
+  "website": "https://holytrinity-oca.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-wp-stahtm",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-wp-stahtm"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holytrinity-oca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251892782"
+    }
+  ],
+  "advisories": []
+}

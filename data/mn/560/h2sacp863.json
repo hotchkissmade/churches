@@ -1,0 +1,33 @@
+{
+  "id": "h2sacp863",
+  "url": "https://constellation.church/h2sacp863",
+  "name": "Messiah Lutheran Church",
+  "displayName": "Messiah Lutheran Church",
+  "address": {
+    "street": "1706 Lee Blvd",
+    "city": "North Mankato",
+    "state": "MN",
+    "zip": "56003-2737"
+  },
+  "coordinates": {
+    "latitude": 44.173946380615234,
+    "longitude": -94.03435516357422
+  },
+  "website": "https://messiahnorthmankato.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ea2861ca-0483-48f3-9c61-9932adf382e9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ea2861ca-0483-48f3-9c61-9932adf382e9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "messiahnorthmankato.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411243855"
+    }
+  ],
+  "advisories": []
+}

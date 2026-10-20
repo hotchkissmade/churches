@@ -1,0 +1,33 @@
+{
+  "id": "x49myv708",
+  "url": "https://constellation.church/x49myv708",
+  "name": "First Baptist Church of Big Pine Key",
+  "displayName": "First Baptist Church of Big Pine Key",
+  "address": {
+    "street": "300 Key Deer Blvd",
+    "city": "Big Pine Key",
+    "state": "FL",
+    "zip": "33043"
+  },
+  "coordinates": {
+    "latitude": 24.673877716064453,
+    "longitude": -81.35924530029297
+  },
+  "website": "https://firstbpk.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-big-pine-key/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-big-pine-key"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbpk.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592181281"
+    }
+  ],
+  "advisories": []
+}

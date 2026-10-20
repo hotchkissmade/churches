@@ -1,0 +1,33 @@
+{
+  "id": "v14qvxr04",
+  "url": "https://constellation.church/v14qvxr04",
+  "name": "City Of Refuge",
+  "displayName": "RCCG City Of Refuge",
+  "address": {
+    "street": "151 Ludlow Street",
+    "city": "Yonkers",
+    "state": "NY",
+    "zip": "10705"
+  },
+  "coordinates": {
+    "latitude": 40.924259185791016,
+    "longitude": -73.90397644042969
+  },
+  "website": "https://cityofrefugeyonkers.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=484&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "484"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cityofrefugeyonkers.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "273406868"
+    }
+  ],
+  "advisories": []
+}

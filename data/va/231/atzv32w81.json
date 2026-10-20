@@ -1,0 +1,33 @@
+{
+  "id": "atzv32w81",
+  "url": "https://constellation.church/atzv32w81",
+  "name": "Messiah Lutheran Church",
+  "displayName": "Messiah Lutheran Church",
+  "address": {
+    "street": "8154 Atlee Rd",
+    "city": "Mechanicsville",
+    "state": "VA",
+    "zip": "23111-1806"
+  },
+  "coordinates": {
+    "latitude": 37.62339973449707,
+    "longitude": -77.38827896118164
+  },
+  "website": "https://messiahmech.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d465ca69-f348-4a0b-b9d9-1ff9a42a9c35",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d465ca69-f348-4a0b-b9d9-1ff9a42a9c35"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "messiahmech.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "546122828"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rbnqx8p07",
+  "url": "https://constellation.church/rbnqx8p07",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "1364 Church Rd",
+    "city": "Taylorsville",
+    "state": "NC",
+    "zip": "28681-8747"
+  },
+  "coordinates": {
+    "latitude": 35.900625228881836,
+    "longitude": -81.24268341064453
+  },
+  "website": "https://stluketaylorsville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4142d984-c5f7-4470-9ce7-8f858ae52cd7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4142d984-c5f7-4470-9ce7-8f858ae52cd7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stluketaylorsville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "566171236"
+    }
+  ],
+  "advisories": []
+}

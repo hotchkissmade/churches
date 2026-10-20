@@ -1,0 +1,33 @@
+{
+  "id": "mqavcs622",
+  "url": "https://constellation.church/mqavcs622",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "904 W 3rd St",
+    "city": "Jamestown",
+    "state": "NY",
+    "zip": "14701-4614"
+  },
+  "coordinates": {
+    "latitude": 42.09390068054199,
+    "longitude": -79.25711441040039
+  },
+  "website": "https://betheljamestown.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1ffbd7a0-0398-4717-881a-4e273537791a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1ffbd7a0-0398-4717-881a-4e273537791a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "betheljamestown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "160800800"
+    }
+  ],
+  "advisories": []
+}

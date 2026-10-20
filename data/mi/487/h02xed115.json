@@ -1,0 +1,33 @@
+{
+  "id": "h02xed115",
+  "url": "https://constellation.church/h02xed115",
+  "name": "Colwood Church",
+  "displayName": "Colwood Church",
+  "address": {
+    "street": "1840 Colwood Road",
+    "city": "Caro",
+    "state": "MI",
+    "zip": "48723"
+  },
+  "coordinates": {
+    "latitude": 43.527313232421875,
+    "longitude": -83.34807586669922
+  },
+  "website": "https://colwood.org",
+  "listingUrl": "https://ub.org/churches/find-a-church/colwood-church",
+  "identifiers": [
+    {
+      "namespace": "org.ub.id",
+      "value": "colwood-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "colwood.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382294056"
+    }
+  ],
+  "advisories": []
+}

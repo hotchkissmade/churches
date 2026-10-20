@@ -1,0 +1,33 @@
+{
+  "id": "k962pnn97",
+  "url": "https://constellation.church/k962pnn97",
+  "name": "Northside Church",
+  "displayName": "Northside Church",
+  "address": {
+    "street": "2501 N College Rd",
+    "city": "Wilmington",
+    "state": "NC",
+    "zip": "28405"
+  },
+  "coordinates": {
+    "latitude": 34.29157066345215,
+    "longitude": -77.8746223449707
+  },
+  "website": "https://northside.church",
+  "listingUrl": "https://churches.sbc.net/church/northside-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northside-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northside.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561380055"
+    }
+  ],
+  "advisories": []
+}

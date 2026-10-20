@@ -1,0 +1,33 @@
+{
+  "id": "msz240371",
+  "url": "https://constellation.church/msz240371",
+  "name": "Connexion",
+  "displayName": "Connexion United Methodist Church",
+  "address": {
+    "street": "149 Broadway",
+    "city": "Somerville",
+    "state": "MA",
+    "zip": "02145"
+  },
+  "coordinates": {
+    "latitude": 42.388376235961914,
+    "longitude": -71.08502578735352
+  },
+  "website": "https://connexionumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKL9IAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKL9IAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "connexionumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042154120"
+    }
+  ],
+  "advisories": []
+}

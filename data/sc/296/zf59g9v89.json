@@ -1,0 +1,33 @@
+{
+  "id": "zf59g9v89",
+  "url": "https://constellation.church/zf59g9v89",
+  "name": "Siloam Baptist Church",
+  "displayName": "Siloam Baptist Church",
+  "address": {
+    "street": "229 Siloam Rd",
+    "city": "Easley",
+    "state": "SC",
+    "zip": "29642"
+  },
+  "coordinates": {
+    "latitude": 34.7799977,
+    "longitude": -82.4889986
+  },
+  "website": "https://siloambaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/siloam-baptist-church-8/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "siloam-baptist-church-8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "siloambaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570522067"
+    }
+  ],
+  "advisories": []
+}

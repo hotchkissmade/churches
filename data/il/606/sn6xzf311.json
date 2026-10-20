@@ -1,0 +1,33 @@
+{
+  "id": "sn6xzf311",
+  "url": "https://constellation.church/sn6xzf311",
+  "name": "St Andrew Lutheran Church",
+  "displayName": "St. Andrew Lutheran Church",
+  "address": {
+    "street": "3650 S Honore St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60609-1230"
+  },
+  "coordinates": {
+    "latitude": 41.82698631286621,
+    "longitude": -87.6716537475586
+  },
+  "website": "https://standrewchicago.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24762",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24762"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewchicago.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362182105"
+    }
+  ],
+  "advisories": []
+}

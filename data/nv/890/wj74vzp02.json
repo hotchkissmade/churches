@@ -1,0 +1,33 @@
+{
+  "id": "wj74vzp02",
+  "url": "https://constellation.church/wj74vzp02",
+  "name": "Christian Community Church",
+  "displayName": "Christian Community Church",
+  "address": {
+    "street": "233 N. Sandhill Blvd",
+    "city": "Mesquite",
+    "state": "NV",
+    "zip": "89027"
+  },
+  "coordinates": {
+    "latitude": 36.806894302368164,
+    "longitude": -114.06507873535156
+  },
+  "website": "https://cccmesquite.org",
+  "listingUrl": "https://churches.sbc.net/church/christian-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "christian-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cccmesquite.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "208258472"
+    }
+  ],
+  "advisories": []
+}

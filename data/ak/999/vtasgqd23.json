@@ -1,0 +1,33 @@
+{
+  "id": "vtasgqd23",
+  "url": "https://constellation.church/vtasgqd23",
+  "name": "White Cliff Church",
+  "displayName": "White Cliff Church",
+  "address": {
+    "street": "1905 First Ave",
+    "city": "Ketchikan",
+    "state": "AK",
+    "zip": "99901"
+  },
+  "coordinates": {
+    "latitude": 55.34923553466797,
+    "longitude": -131.66814422607422
+  },
+  "website": "https://whitecliffchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/white-cliff-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "white-cliff-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "whitecliffchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920084425"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "adr00bk66",
+  "url": "https://constellation.church/adr00bk66",
+  "name": "FREEDOM INTERNATIONAL CHRISTIAN TRAINING CENTER INC",
+  "displayName": "Freedom International Christian Training Center",
+  "address": {
+    "street": "12911 HADLEY STREET",
+    "city": "Whittier",
+    "state": "CA",
+    "zip": "90601"
+  },
+  "coordinates": {
+    "latitude": 33.98285484313965,
+    "longitude": -118.03812408447266
+  },
+  "website": "https://go2freedom.org/aboutus",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "731653292"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "go2freedom.org/aboutus"
+    }
+  ],
+  "advisories": []
+}

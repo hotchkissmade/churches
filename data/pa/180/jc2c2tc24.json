@@ -1,0 +1,33 @@
+{
+  "id": "jc2c2tc24",
+  "url": "https://constellation.church/jc2c2tc24",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "835 3rd St",
+    "city": "Whitehall",
+    "state": "PA",
+    "zip": "18052-6632"
+  },
+  "coordinates": {
+    "latitude": 40.634531021118164,
+    "longitude": -75.47055435180664
+  },
+  "website": "https://stjohn-whitehall.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e9f07002-90e5-455f-8b72-df21d8cb17cc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e9f07002-90e5-455f-8b72-df21d8cb17cc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohn-whitehall.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231720305"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "j13ekge91",
+  "url": "https://constellation.church/j13ekge91",
+  "name": "South Main Street Baptist Church",
+  "displayName": "South Main Street Baptist Church",
+  "address": {
+    "street": "1000 Main St S",
+    "city": "Greenwood",
+    "state": "SC",
+    "zip": "29646"
+  },
+  "coordinates": {
+    "latitude": 34.18319511413574,
+    "longitude": -82.15817260742188
+  },
+  "website": "https://southmain.church",
+  "listingUrl": "https://churches.sbc.net/church/south-main-street-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "south-main-street-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southmain.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570366560"
+    }
+  ],
+  "advisories": []
+}

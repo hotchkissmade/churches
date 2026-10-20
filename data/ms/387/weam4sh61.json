@@ -1,0 +1,33 @@
+{
+  "id": "weam4sh61",
+  "url": "https://constellation.church/weam4sh61",
+  "name": "First Baptist Church Greenville",
+  "displayName": "First Baptist Church Greenville",
+  "address": {
+    "street": "407 Main St",
+    "city": "Greenville",
+    "state": "MS",
+    "zip": "38701"
+  },
+  "coordinates": {
+    "latitude": 33.40969657897949,
+    "longitude": -91.06183624267578
+  },
+  "website": "https://fbcgreenville.net",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-greenville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-greenville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcgreenville.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640686922"
+    }
+  ],
+  "advisories": []
+}

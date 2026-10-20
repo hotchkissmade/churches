@@ -1,0 +1,33 @@
+{
+  "id": "ee7g31310",
+  "url": "https://constellation.church/ee7g31310",
+  "name": "Cornerstone Presbyterian Church",
+  "displayName": "Cornerstone Presbyterian Church",
+  "address": {
+    "street": "1000 3rd St NE",
+    "city": "Minot",
+    "state": "ND",
+    "zip": "58703"
+  },
+  "coordinates": {
+    "latitude": 48.246002197265625,
+    "longitude": -101.28750610351562
+  },
+  "website": "https://cornerstoneminot.com",
+  "listingUrl": "https://eco-pres.org/churches/cornerstone-presbyterian-church-min/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "cornerstone-presbyterian-church-min"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cornerstoneminot.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "472111118"
+    }
+  ],
+  "advisories": []
+}

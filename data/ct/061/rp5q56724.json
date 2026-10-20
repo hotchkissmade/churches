@@ -1,0 +1,33 @@
+{
+  "id": "rp5q56724",
+  "url": "https://constellation.church/rp5q56724",
+  "name": "All Saints Church",
+  "displayName": "All Saints Church",
+  "address": {
+    "street": "205 Scarborough St",
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06105"
+  },
+  "coordinates": {
+    "latitude": 41.78310203552246,
+    "longitude": -72.70960235595703
+  },
+  "website": "https://allsaintshartford.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ne-harasc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ne-harasc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allsaintshartford.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "066104969"
+    }
+  ],
+  "advisories": []
+}

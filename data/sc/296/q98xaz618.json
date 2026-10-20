@@ -1,0 +1,33 @@
+{
+  "id": "q98xaz618",
+  "url": "https://constellation.church/q98xaz618",
+  "name": "Winona Baptist Church",
+  "displayName": "Winona Baptist Church",
+  "address": {
+    "street": "1080 Winona Church Rd",
+    "city": "Donalds",
+    "state": "SC",
+    "zip": "29638"
+  },
+  "coordinates": {
+    "latitude": 34.3664911,
+    "longitude": -82.3831922
+  },
+  "website": "https://lakelandsbaptist.org/position-openings",
+  "listingUrl": "https://churches.sbc.net/church/winona-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "winona-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lakelandsbaptist.org/position-openings"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570931578"
+    }
+  ],
+  "advisories": []
+}

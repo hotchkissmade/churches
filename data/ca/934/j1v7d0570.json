@@ -1,0 +1,33 @@
+{
+  "id": "j1v7d0570",
+  "url": "https://constellation.church/j1v7d0570",
+  "name": "Morro Bay Presbyterian Church",
+  "displayName": "Morro Bay Presbyterian Church",
+  "address": {
+    "street": "485 Piney Way",
+    "city": "Morro Bay",
+    "state": "CA",
+    "zip": "93442"
+  },
+  "coordinates": {
+    "latitude": 35.36191749572754,
+    "longitude": -120.84590911865234
+  },
+  "website": "https://morrobaypres.com",
+  "listingUrl": "https://eco-pres.org/churches/morro-bay-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "morro-bay-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "morrobaypres.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951916047"
+    }
+  ],
+  "advisories": []
+}

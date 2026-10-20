@@ -1,0 +1,33 @@
+{
+  "id": "sh8gyxn50",
+  "url": "https://constellation.church/sh8gyxn50",
+  "name": "St. Luke's Episcopal Church",
+  "displayName": "St. Luke's Episcopal Church",
+  "address": {
+    "street": "3424 Forest Ave",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50311-2615"
+  },
+  "coordinates": {
+    "latitude": 41.60384559631348,
+    "longitude": -93.66413116455078
+  },
+  "website": "https://stlukes-dsm.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-iowa/list/st-lukes-episcopal-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-iowa/st-lukes-episcopal-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukes-dsm.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420946543"
+    }
+  ],
+  "advisories": []
+}

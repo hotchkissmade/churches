@@ -1,0 +1,33 @@
+{
+  "id": "cpgmawm25",
+  "url": "https://constellation.church/cpgmawm25",
+  "name": "St. Paul's Episcopal Church",
+  "displayName": "St. Paul's Episcopal Church",
+  "address": {
+    "street": "576 Roscoe Rd",
+    "city": "Newnan",
+    "state": "GA",
+    "zip": "30263"
+  },
+  "coordinates": {
+    "latitude": 33.40847969055176,
+    "longitude": -84.8117904663086
+  },
+  "website": "https://stpaulsnewnan.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-atlanta/list/st-pauls-episcopal-church-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-atlanta/st-pauls-episcopal-church-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsnewnan.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580938632"
+    }
+  ],
+  "advisories": []
+}

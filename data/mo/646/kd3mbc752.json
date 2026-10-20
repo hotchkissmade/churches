@@ -1,0 +1,33 @@
+{
+  "id": "kd3mbc752",
+  "url": "https://constellation.church/kd3mbc752",
+  "name": "Highview Baptist Church",
+  "displayName": "Highview Baptist Church",
+  "address": {
+    "street": "713 Milwaukee Ave",
+    "city": "Chillicothe",
+    "state": "MO",
+    "zip": "64601"
+  },
+  "coordinates": {
+    "latitude": 39.79567337036133,
+    "longitude": -93.5362548828125
+  },
+  "website": "https://hvbcmo.org",
+  "listingUrl": "https://churches.sbc.net/church/highview-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "highview-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hvbcmo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431694457"
+    }
+  ],
+  "advisories": []
+}

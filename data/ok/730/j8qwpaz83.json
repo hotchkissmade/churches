@@ -1,0 +1,33 @@
+{
+  "id": "j8qwpaz83",
+  "url": "https://constellation.church/j8qwpaz83",
+  "name": "Snow Hill Baptist Church",
+  "displayName": "Snow Hill Baptist Church",
+  "address": {
+    "street": "11 S Morgan Rd",
+    "city": "Tuttle",
+    "state": "OK",
+    "zip": "73089"
+  },
+  "coordinates": {
+    "latitude": 35.29047203063965,
+    "longitude": -97.68865966796875
+  },
+  "website": "https://snowhill.org",
+  "listingUrl": "https://churches.sbc.net/church/snow-hill-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "snow-hill-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "snowhill.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "731200479"
+    }
+  ],
+  "advisories": []
+}

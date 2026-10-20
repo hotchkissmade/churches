@@ -1,0 +1,33 @@
+{
+  "id": "kagrt6n60",
+  "url": "https://constellation.church/kagrt6n60",
+  "name": "St. David's Episcopal School",
+  "displayName": "St. David's Episcopal School",
+  "address": {
+    "street": "1300 Wiltshire Avenue",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78209"
+  },
+  "coordinates": {
+    "latitude": 29.481621,
+    "longitude": -98.438688
+  },
+  "website": "https://saintdavidschool.net/admissions/tuition-and-assistance",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/west-texas/list/st-davids-episcopal-school",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "west-texas/st-davids-episcopal-school"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintdavidschool.net/admissions/tuition-and-assistance"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741465614"
+    }
+  ],
+  "advisories": []
+}

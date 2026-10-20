@@ -1,0 +1,33 @@
+{
+  "id": "wc19pka14",
+  "url": "https://constellation.church/wc19pka14",
+  "name": "Harvest Church of the Assemblies of God",
+  "displayName": "Harvest Church of the Assemblies of God",
+  "address": {
+    "street": "986 Raynham Farms Rd",
+    "city": "Rowland",
+    "state": "NC",
+    "zip": "28383"
+  },
+  "coordinates": {
+    "latitude": 34.65987014770508,
+    "longitude": -79.21217727661133
+  },
+  "website": "https://myharvest.net",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f8d27c3a-5c79-472f-8830-62ab74ea9f17&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f8d27c3a-5c79-472f-8830-62ab74ea9f17"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "myharvest.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561187309"
+    }
+  ],
+  "advisories": []
+}

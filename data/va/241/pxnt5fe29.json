@@ -1,0 +1,33 @@
+{
+  "id": "pxnt5fe29",
+  "url": "https://constellation.church/pxnt5fe29",
+  "name": "Salem Presbyterian Church",
+  "displayName": "Salem Presbyterian Church",
+  "address": {
+    "street": "41 E Main St",
+    "city": "Salem",
+    "state": "VA",
+    "zip": "24153"
+  },
+  "coordinates": {
+    "latitude": 37.29356575012207,
+    "longitude": -80.05704498291016
+  },
+  "website": "https://salempres.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/23044/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "23044"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salempres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540881618"
+    }
+  ],
+  "advisories": []
+}

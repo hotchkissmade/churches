@@ -1,0 +1,33 @@
+{
+  "id": "e06t4mf14",
+  "url": "https://constellation.church/e06t4mf14",
+  "name": "Eastwood Baptist Church of Marietta, Inc.",
+  "displayName": "Eastwood Baptist Church of Marietta",
+  "address": {
+    "street": "1150 Allgood Rd",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30062"
+  },
+  "coordinates": {
+    "latitude": 33.978206634521484,
+    "longitude": -84.51981353759766
+  },
+  "website": "https://eastwoodbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/eastwood-baptist-church-of-marietta-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "eastwood-baptist-church-of-marietta-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastwoodbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581538180"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "d1dzy3250",
+  "url": "https://constellation.church/d1dzy3250",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "420 Read St",
+    "city": "Walworth",
+    "state": "WI",
+    "zip": "53184-9521"
+  },
+  "coordinates": {
+    "latitude": 42.528194427490234,
+    "longitude": -88.5916748046875
+  },
+  "website": "https://felcwalworth.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=16fd2ff2-61da-4c05-bee6-876189a331e1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "16fd2ff2-61da-4c05-bee6-876189a331e1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "felcwalworth.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391043946"
+    }
+  ],
+  "advisories": []
+}

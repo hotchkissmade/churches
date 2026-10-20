@@ -1,0 +1,33 @@
+{
+  "id": "h9e78ec90",
+  "url": "https://constellation.church/h9e78ec90",
+  "name": "El Camino Baptist Church",
+  "displayName": "El Camino Baptist Church",
+  "address": {
+    "street": "7777 E Speedway Blvd",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85710"
+  },
+  "coordinates": {
+    "latitude": 32.2365837097168,
+    "longitude": -110.82682800292969
+  },
+  "website": "https://elcaminochurch.org",
+  "listingUrl": "https://venturechurches.org/churches/el-camino-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "el-camino-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elcaminochurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942386216"
+    }
+  ],
+  "advisories": []
+}

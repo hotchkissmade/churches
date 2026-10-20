@@ -1,0 +1,33 @@
+{
+  "id": "jesrwc057",
+  "url": "https://constellation.church/jesrwc057",
+  "name": "Golden Gate First Baptist Church",
+  "displayName": "Golden Gate First Baptist Church",
+  "address": {
+    "street": "2741 Santa Barbara Blvd",
+    "city": "Naples",
+    "state": "FL",
+    "zip": "34116"
+  },
+  "coordinates": {
+    "latitude": 26.179275512695312,
+    "longitude": -81.71951293945312
+  },
+  "website": "https://fbcgoldengate.com",
+  "listingUrl": "https://churches.sbc.net/church/golden-gate-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "golden-gate-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcgoldengate.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "650134693"
+    }
+  ],
+  "advisories": []
+}

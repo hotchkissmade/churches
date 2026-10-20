@@ -1,0 +1,33 @@
+{
+  "id": "jngw50p51",
+  "url": "https://constellation.church/jngw50p51",
+  "name": "Cathedral Of The Beloved",
+  "displayName": "Cathedral Of The Beloved",
+  "address": {
+    "street": "414 North St",
+    "city": "Pittsfield",
+    "state": "MA",
+    "zip": "01201"
+  },
+  "coordinates": {
+    "latitude": 42.4545796,
+    "longitude": -73.2519908
+  },
+  "website": "https://cathedralofthebeloved.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f937ae8a-6cd0-46e4-8394-3575470f01f6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f937ae8a-6cd0-46e4-8394-3575470f01f6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cathedralofthebeloved.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "472166950"
+    }
+  ],
+  "advisories": []
+}

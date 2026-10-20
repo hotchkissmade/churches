@@ -1,0 +1,33 @@
+{
+  "id": "b0srtq904",
+  "url": "https://constellation.church/b0srtq904",
+  "name": "Church of St. Thomas",
+  "displayName": "Church of St. Thomas",
+  "address": {
+    "street": "3801 S Wabash Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60653-1520"
+  },
+  "coordinates": {
+    "latitude": 41.82546806335449,
+    "longitude": -87.62449264526367
+  },
+  "website": "https://stthomaschicago.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-chicago/list/church-st-thomas",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-chicago/church-st-thomas"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stthomaschicago.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "020763552"
+    }
+  ],
+  "advisories": []
+}

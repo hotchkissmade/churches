@@ -1,0 +1,33 @@
+{
+  "id": "bdf6ehh40",
+  "url": "https://constellation.church/bdf6ehh40",
+  "name": "Church of the Master",
+  "displayName": "Church of the Master",
+  "address": {
+    "street": "28744 Simmons Rd",
+    "city": "Perrysburg",
+    "state": "OH",
+    "zip": "43551-3638"
+  },
+  "coordinates": {
+    "latitude": 41.56795883178711,
+    "longitude": -83.5904541015625
+  },
+  "website": "https://lcmperrysburg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6edfcd29-b196-4b31-87ad-54dd03884d44",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6edfcd29-b196-4b31-87ad-54dd03884d44"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcmperrysburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "346408866"
+    }
+  ],
+  "advisories": []
+}

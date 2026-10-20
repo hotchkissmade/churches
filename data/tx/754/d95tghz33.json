@@ -1,0 +1,33 @@
+{
+  "id": "d95tghz33",
+  "url": "https://constellation.church/d95tghz33",
+  "name": "First Baptist Church of Leonard",
+  "displayName": "First Baptist Church of Leonard",
+  "address": {
+    "street": "100 E Thomas St",
+    "city": "Leonard",
+    "state": "TX",
+    "zip": "75452"
+  },
+  "coordinates": {
+    "latitude": 33.38495445251465,
+    "longitude": -96.24666595458984
+  },
+  "website": "https://fbcltx.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-leonard-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-leonard-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcltx.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751913758"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qgmhrbb94",
+  "url": "https://constellation.church/qgmhrbb94",
+  "name": "Bayview Baptist Church",
+  "displayName": "Bayview Baptist Church",
+  "address": {
+    "street": "5300 Two Notch Rd",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29204"
+  },
+  "coordinates": {
+    "latitude": 34.048458099365234,
+    "longitude": -80.98571395874023
+  },
+  "website": "https://bayviewbaptist.wordpress.com",
+  "listingUrl": "https://churches.sbc.net/church/bayview-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bayview-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bayviewbaptist.wordpress.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570406472"
+    }
+  ],
+  "advisories": []
+}

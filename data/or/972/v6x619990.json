@@ -1,0 +1,33 @@
+{
+  "id": "v6x619990",
+  "url": "https://constellation.church/v6x619990",
+  "name": "First United Methodist Church of Portland",
+  "displayName": "First United Methodist Church of Portland",
+  "address": {
+    "street": "1838 SW Jefferson St",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97201-2463"
+  },
+  "coordinates": {
+    "latitude": 45.51744079589844,
+    "longitude": -122.69334411621094
+  },
+  "website": "https://fumcpdx.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFNqjIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFNqjIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fumcpdx.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930391569"
+    }
+  ],
+  "advisories": []
+}

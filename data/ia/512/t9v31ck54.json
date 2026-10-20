@@ -1,0 +1,33 @@
+{
+  "id": "t9v31ck54",
+  "url": "https://constellation.church/t9v31ck54",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "302 N Oak St",
+    "city": "Inwood",
+    "state": "IA",
+    "zip": "51240-7583"
+  },
+  "coordinates": {
+    "latitude": 43.311418533325195,
+    "longitude": -96.429443359375
+  },
+  "website": "https://blcinwood.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e2925813-b0ae-4046-85e8-f2223c221edc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e2925813-b0ae-4046-85e8-f2223c221edc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blcinwood.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420772542"
+    }
+  ],
+  "advisories": []
+}

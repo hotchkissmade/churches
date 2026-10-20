@@ -1,0 +1,33 @@
+{
+  "id": "ej7rne482",
+  "url": "https://constellation.church/ej7rne482",
+  "name": "New Harmony Baptist Church",
+  "displayName": "New Harmony Baptist Church",
+  "address": {
+    "street": "10251 FM 724",
+    "city": "Tyler",
+    "state": "TX",
+    "zip": "75704"
+  },
+  "coordinates": {
+    "latitude": 32.415178298950195,
+    "longitude": -95.46690368652344
+  },
+  "website": "https://nhbc.us",
+  "listingUrl": "https://churches.sbc.net/church/new-harmony-baptist-church-14/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-harmony-baptist-church-14"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nhbc.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751920602"
+    }
+  ],
+  "advisories": []
+}

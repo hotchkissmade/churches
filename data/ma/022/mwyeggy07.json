@@ -1,0 +1,33 @@
+{
+  "id": "mwyeggy07",
+  "url": "https://constellation.church/mwyeggy07",
+  "name": "Church of the Cross",
+  "displayName": "Church of the Cross",
+  "address": {
+    "street": "105 Jersey St.",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02215"
+  },
+  "coordinates": {
+    "latitude": 42.34334182739258,
+    "longitude": -71.09756088256836
+  },
+  "website": "https://cotcboston.org",
+  "listingUrl": "https://www.acna.org/admin_units/892",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "892"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cotcboston.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "270560196"
+    }
+  ],
+  "advisories": []
+}

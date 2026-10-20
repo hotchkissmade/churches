@@ -1,0 +1,33 @@
+{
+  "id": "cb72bw793",
+  "url": "https://constellation.church/cb72bw793",
+  "name": "North Scottsdale United Methodist Church",
+  "displayName": "North Scottsdale United Methodist Church",
+  "address": {
+    "street": "11735 N Scottsdale Rd",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "zip": "85254-5184"
+  },
+  "coordinates": {
+    "latitude": 33.592538833618164,
+    "longitude": -111.92521667480469
+  },
+  "website": "https://nsumc.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFEDhIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFEDhIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nsumc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860333830"
+    }
+  ],
+  "advisories": []
+}

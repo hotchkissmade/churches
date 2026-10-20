@@ -1,0 +1,33 @@
+{
+  "id": "ja5r1vk69",
+  "url": "https://constellation.church/ja5r1vk69",
+  "name": "St. Mark's Episcopal Church",
+  "displayName": "St. Mark's Episcopal Church",
+  "address": {
+    "street": "2727 Airline Rd",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78414-3306"
+  },
+  "coordinates": {
+    "latitude": 27.679428100585938,
+    "longitude": -97.36436462402344
+  },
+  "website": "https://stmarkscc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-texas/list/st-marks-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-texas/st-marks-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkscc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742446402"
+    }
+  ],
+  "advisories": []
+}

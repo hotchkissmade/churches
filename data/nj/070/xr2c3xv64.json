@@ -1,0 +1,33 @@
+{
+  "id": "xr2c3xv64",
+  "url": "https://constellation.church/xr2c3xv64",
+  "name": "St. Luke's Episcopal Church",
+  "displayName": "St. Luke's Episcopal Church",
+  "address": {
+    "street": "73 S Fullerton Ave",
+    "city": "Montclair",
+    "state": "NJ",
+    "zip": "07042-2618"
+  },
+  "coordinates": {
+    "latitude": 40.81019973754883,
+    "longitude": -74.21836471557617
+  },
+  "website": "https://slechurch.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-newark/list/st-lukes-episcopal-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-newark/st-lukes-episcopal-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "slechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221487605"
+    }
+  ],
+  "advisories": []
+}

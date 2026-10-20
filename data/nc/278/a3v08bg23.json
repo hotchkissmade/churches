@@ -1,0 +1,33 @@
+{
+  "id": "a3v08bg23",
+  "url": "https://constellation.church/a3v08bg23",
+  "name": "First United Methodist Church",
+  "displayName": "First United Methodist Church",
+  "address": {
+    "street": "100 S Church St",
+    "city": "Rocky Mount",
+    "state": "NC",
+    "zip": "27804-5701"
+  },
+  "coordinates": {
+    "latitude": 35.94260597229004,
+    "longitude": -77.79760360717773
+  },
+  "website": "https://fumcrm.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFIZcIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFIZcIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fumcrm.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560597085"
+    }
+  ],
+  "advisories": []
+}

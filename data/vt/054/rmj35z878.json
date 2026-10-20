@@ -1,0 +1,33 @@
+{
+  "id": "rmj35z878",
+  "url": "https://constellation.church/rmj35z878",
+  "name": "Ascension Lutheran Church",
+  "displayName": "Ascension Lutheran Church",
+  "address": {
+    "street": "95 Allen Rd",
+    "city": "South Burlington",
+    "state": "VT",
+    "zip": "05403-7846"
+  },
+  "coordinates": {
+    "latitude": 44.420989990234375,
+    "longitude": -73.20626449584961
+  },
+  "website": "https://alcvt.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9fbcd955-6fc0-410e-998b-d798d906770b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9fbcd955-6fc0-410e-998b-d798d906770b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "alcvt.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030329426"
+    }
+  ],
+  "advisories": []
+}

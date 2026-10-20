@@ -1,0 +1,33 @@
+{
+  "id": "s6h1nsg93",
+  "url": "https://constellation.church/s6h1nsg93",
+  "name": "St. George Church",
+  "displayName": "St. George Church",
+  "address": {
+    "street": "144 30th St NW",
+    "city": "Canton",
+    "state": "OH",
+    "zip": "44709-3102"
+  },
+  "coordinates": {
+    "latitude": 40.83038520812988,
+    "longitude": -81.36775970458984
+  },
+  "website": "https://stgeorgecanton.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ro-caksgc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ro-caksgc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stgeorgecanton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237071521"
+    }
+  ],
+  "advisories": []
+}

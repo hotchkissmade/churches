@@ -1,0 +1,37 @@
+{
+  "id": "yw9f54824",
+  "url": "https://constellation.church/yw9f54824",
+  "name": "Trinity Church",
+  "displayName": "Trinity Church",
+  "address": {
+    "street": "17 Severance Street",
+    "city": "Shelburne Falls",
+    "state": "MA",
+    "zip": "01370-0096"
+  },
+  "coordinates": {
+    "latitude": 42.605247497558594,
+    "longitude": -72.7335090637207
+  },
+  "website": "https://trinityshelburnefalls.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-western-massachusetts/list/trinity-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-western-massachusetts/trinity-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityshelburnefalls.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "046044134"
+    },
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF1vkIAD"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "f372rsa55",
+  "url": "https://constellation.church/f372rsa55",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "303 ATHENS ST",
+    "city": "Canton",
+    "state": "TX",
+    "zip": "75103"
+  },
+  "coordinates": {
+    "latitude": 32.55457878112793,
+    "longitude": -95.8657455444336
+  },
+  "website": "https://firstcanton.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-968/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-968"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstcanton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751407376"
+    }
+  ],
+  "advisories": []
+}

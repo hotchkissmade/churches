@@ -1,0 +1,33 @@
+{
+  "id": "ck5tgff44",
+  "url": "https://constellation.church/ck5tgff44",
+  "name": "El Montecito Presbyterian Church",
+  "displayName": "El Montecito Presbyterian Church",
+  "address": {
+    "street": "1455 E Valley Rd",
+    "city": "Montecito",
+    "state": "CA",
+    "zip": "93108"
+  },
+  "coordinates": {
+    "latitude": 34.43654823303223,
+    "longitude": -119.63410186767578
+  },
+  "website": "https://elmopres.org/about/staff",
+  "listingUrl": "https://eco-pres.org/churches/el-montecito-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "el-montecito-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elmopres.org/about/staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952281443"
+    }
+  ],
+  "advisories": []
+}

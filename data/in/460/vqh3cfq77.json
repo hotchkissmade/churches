@@ -1,0 +1,33 @@
+{
+  "id": "vqh3cfq77",
+  "url": "https://constellation.church/vqh3cfq77",
+  "name": "Harvest Church",
+  "displayName": "Harvest Church",
+  "address": {
+    "street": "14550 River Rd",
+    "city": "Carmel",
+    "state": "IN",
+    "zip": "46033"
+  },
+  "coordinates": {
+    "latitude": 39.99716758728027,
+    "longitude": -86.03625106811523
+  },
+  "website": "https://harvestindy.org",
+  "listingUrl": "https://churches.sbc.net/church/harvest-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "harvest-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "harvestindy.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351999688"
+    }
+  ],
+  "advisories": []
+}

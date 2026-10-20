@@ -1,0 +1,33 @@
+{
+  "id": "fngbqgh37",
+  "url": "https://constellation.church/fngbqgh37",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "525 Blackburn Ave",
+    "city": "Ashland",
+    "state": "KY",
+    "zip": "41101"
+  },
+  "coordinates": {
+    "latitude": 38.46978759765625,
+    "longitude": -82.66128540039062
+  },
+  "website": "https://ashlandkyag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d9a29108-b7c5-4547-ae6a-6d0ddb02de26&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d9a29108-b7c5-4547-ae6a-6d0ddb02de26"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ashlandkyag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611131466"
+    }
+  ],
+  "advisories": []
+}

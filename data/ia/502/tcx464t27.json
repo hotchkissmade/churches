@@ -1,0 +1,33 @@
+{
+  "id": "tcx464t27",
+  "url": "https://constellation.church/tcx464t27",
+  "name": "Newton CRC",
+  "displayName": "Newton Christian Reformed Church",
+  "address": {
+    "street": "511 S 5th Ave E",
+    "city": "Newton",
+    "state": "IA",
+    "zip": "50208"
+  },
+  "coordinates": {
+    "latitude": 41.69539260864258,
+    "longitude": -93.04793167114258
+  },
+  "website": "https://newtoncrc.com",
+  "listingUrl": "https://www.crcna.org/churches/8128",
+  "identifiers": [
+    {
+      "namespace": "org.crcna.id",
+      "value": "8128"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newtoncrc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510158507"
+    }
+  ],
+  "advisories": []
+}

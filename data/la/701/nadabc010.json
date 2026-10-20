@@ -1,0 +1,33 @@
+{
+  "id": "nadabc010",
+  "url": "https://constellation.church/nadabc010",
+  "name": "Franklin Avenue Baptist Church",
+  "displayName": "Franklin Avenue Baptist Church",
+  "address": {
+    "street": "8282 I 10 Service Rd",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70126"
+  },
+  "coordinates": {
+    "latitude": 30.02744483947754,
+    "longitude": -89.99600982666016
+  },
+  "website": "https://franklinabc.com",
+  "listingUrl": "https://churches.sbc.net/church/franklin-avenue-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "franklin-avenue-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "franklinabc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720545885"
+    }
+  ],
+  "advisories": []
+}

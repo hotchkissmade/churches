@@ -1,0 +1,33 @@
+{
+  "id": "e040pe037",
+  "url": "https://constellation.church/e040pe037",
+  "name": "New Birth Church",
+  "displayName": "New Birth Church",
+  "address": {
+    "street": "41640 Corning Pl",
+    "city": "Murrieta",
+    "state": "CA",
+    "zip": "92562"
+  },
+  "coordinates": {
+    "latitude": 33.53074073791504,
+    "longitude": -117.1811752319336
+  },
+  "website": "https://newbirthchurch.tv",
+  "listingUrl": "https://churches.sbc.net/church/new-birth-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-birth-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newbirthchurch.tv"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "814281877"
+    }
+  ],
+  "advisories": []
+}

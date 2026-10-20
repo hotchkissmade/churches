@@ -1,0 +1,33 @@
+{
+  "id": "ntded2376",
+  "url": "https://constellation.church/ntded2376",
+  "name": "Urbanna Baptist Church",
+  "displayName": "Urbanna Baptist Church",
+  "address": {
+    "street": "121 Watling St",
+    "city": "Urbanna",
+    "state": "VA",
+    "zip": "23175"
+  },
+  "coordinates": {
+    "latitude": 37.634634017944336,
+    "longitude": -76.57380676269531
+  },
+  "website": "https://urbannabaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/urbanna-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "urbanna-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "urbannabaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540805252"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vcx58vm87",
+  "url": "https://constellation.church/vcx58vm87",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "323 W Grand River",
+    "city": "Howell",
+    "state": "MI",
+    "zip": "48843"
+  },
+  "coordinates": {
+    "latitude": 42.607927322387695,
+    "longitude": -83.93251419067383
+  },
+  "website": "https://fpchowell.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/3168/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "3168"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpchowell.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381459375"
+    }
+  ],
+  "advisories": []
+}

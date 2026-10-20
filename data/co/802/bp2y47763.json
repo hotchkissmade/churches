@@ -1,0 +1,33 @@
+{
+  "id": "bp2y47763",
+  "url": "https://constellation.church/bp2y47763",
+  "name": "St. Francis Center",
+  "displayName": "St. Francis Center",
+  "address": {
+    "street": "2323 Curtis Street",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80205"
+  },
+  "coordinates": {
+    "latitude": 39.73822784423828,
+    "longitude": -104.96764373779297
+  },
+  "website": "https://sfcdenver.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/episcopal-church-colorado/list/st-francis-center",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "episcopal-church-colorado/st-francis-center"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sfcdenver.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "841185856"
+    }
+  ],
+  "advisories": []
+}

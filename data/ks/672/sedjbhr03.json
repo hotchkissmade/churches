@@ -1,0 +1,33 @@
+{
+  "id": "sedjbhr03",
+  "url": "https://constellation.church/sedjbhr03",
+  "name": "Tyler Road Southern Baptist Church",
+  "displayName": "Tyler Road Southern Baptist Church",
+  "address": {
+    "street": "571 S Tyler Rd",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67209"
+  },
+  "coordinates": {
+    "latitude": 37.674299240112305,
+    "longitude": -97.4447021484375
+  },
+  "website": "https://tylerroad.org",
+  "listingUrl": "https://churches.sbc.net/church/tyler-road-southern-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "tyler-road-southern-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tylerroad.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "486100428"
+    }
+  ],
+  "advisories": []
+}

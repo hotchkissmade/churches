@@ -1,0 +1,33 @@
+{
+  "id": "ebxfx6t19",
+  "url": "https://constellation.church/ebxfx6t19",
+  "name": "First Baptist Church of Los Alamos",
+  "displayName": "First Baptist Church of Los Alamos",
+  "address": {
+    "street": "2200 Diamond Dr",
+    "city": "Los Alamos",
+    "state": "NM",
+    "zip": "87544"
+  },
+  "coordinates": {
+    "latitude": 35.897531509399414,
+    "longitude": -106.32145690917969
+  },
+  "website": "https://fbc-la.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-los-alamos-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-los-alamos-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbc-la.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850160658"
+    }
+  ],
+  "advisories": []
+}

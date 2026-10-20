@@ -1,0 +1,33 @@
+{
+  "id": "bmhvv2w93",
+  "url": "https://constellation.church/bmhvv2w93",
+  "name": "Putman Baptist Church",
+  "displayName": "Putman Baptist Church",
+  "address": {
+    "street": "3692 Buffalo West Springs Hwy",
+    "city": "Buffalo",
+    "state": "SC",
+    "zip": "29321"
+  },
+  "coordinates": {
+    "latitude": 34.74166679382324,
+    "longitude": -81.75811767578125
+  },
+  "website": "https://putmanchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/putman-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "putman-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "putmanchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570713348"
+    }
+  ],
+  "advisories": []
+}

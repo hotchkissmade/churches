@@ -1,0 +1,33 @@
+{
+  "id": "dp2acc813",
+  "url": "https://constellation.church/dp2acc813",
+  "name": "St. Andrew's Church 3 locations - (Mt. Pleasant, City Church, Park Circle)",
+  "displayName": "St. Andrew's Church 3 locations - (Mount Pleasant, City Church, Park Circle)",
+  "address": {
+    "street": "440 Whilden Street",
+    "city": "Mount Pleasant",
+    "state": "SC",
+    "zip": "29464"
+  },
+  "coordinates": {
+    "latitude": 32.78854942321777,
+    "longitude": -79.8752212524414
+  },
+  "website": "https://standrews.church",
+  "listingUrl": "https://www.acna.org/admin_units/208",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "208"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrews.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570381068"
+    }
+  ],
+  "advisories": []
+}

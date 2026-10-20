@@ -1,0 +1,33 @@
+{
+  "id": "m3z0erh36",
+  "url": "https://constellation.church/m3z0erh36",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "201 Washington St",
+    "city": "Valparaiso",
+    "state": "IN",
+    "zip": "46383-4731"
+  },
+  "coordinates": {
+    "latitude": 41.4699592590332,
+    "longitude": -87.06158447265625
+  },
+  "website": "https://tlcvalpo.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2d26f759-dc50-40e9-83fc-ec69ccd7d558",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2d26f759-dc50-40e9-83fc-ec69ccd7d558"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcvalpo.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351120575"
+    }
+  ],
+  "advisories": []
+}

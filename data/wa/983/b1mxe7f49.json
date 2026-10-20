@@ -1,0 +1,33 @@
+{
+  "id": "b1mxe7f49",
+  "url": "https://constellation.church/b1mxe7f49",
+  "name": "The Highway",
+  "displayName": "The Highway",
+  "address": {
+    "street": "2133 NW Nuthatch Way",
+    "city": "Silverdale",
+    "state": "WA",
+    "zip": "98383"
+  },
+  "coordinates": {
+    "latitude": 47.67005157470703,
+    "longitude": -122.67959594726562
+  },
+  "website": "https://thehighwaychurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=e18ea294-aedf-44ba-b68a-e86a78adc2ec&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "e18ea294-aedf-44ba-b68a-e86a78adc2ec"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thehighwaychurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911172035"
+    }
+  ],
+  "advisories": []
+}

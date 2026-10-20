@@ -1,0 +1,33 @@
+{
+  "id": "sbpjaxk12",
+  "url": "https://constellation.church/sbpjaxk12",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "108 2nd St SW",
+    "city": "Kulm",
+    "state": "ND",
+    "zip": "58456"
+  },
+  "coordinates": {
+    "latitude": 46.3004150390625,
+    "longitude": -98.95095825195312
+  },
+  "website": "https://kulmagchurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=18b6b4ae-8e45-4daa-a7e9-dce904ada7fe&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "18b6b4ae-8e45-4daa-a7e9-dce904ada7fe"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kulmagchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450311302"
+    }
+  ],
+  "advisories": []
+}

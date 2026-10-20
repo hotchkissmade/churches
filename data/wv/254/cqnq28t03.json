@@ -1,0 +1,33 @@
+{
+  "id": "cqnq28t03",
+  "url": "https://constellation.church/cqnq28t03",
+  "name": "Church of the Ascension",
+  "displayName": "Church of the Ascension",
+  "address": {
+    "street": "70 Oakland Terrace",
+    "city": "Charles Town",
+    "state": "WV",
+    "zip": "25414"
+  },
+  "coordinates": {
+    "latitude": 39.27035903930664,
+    "longitude": -77.84012222290039
+  },
+  "website": "https://ascensionwv.org/leadership",
+  "listingUrl": "https://www.acna.org/admin_units/1495",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "1495"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ascensionwv.org/leadership"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "542144698"
+    }
+  ],
+  "advisories": []
+}

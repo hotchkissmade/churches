@@ -1,0 +1,33 @@
+{
+  "id": "f1aeybx79",
+  "url": "https://constellation.church/f1aeybx79",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "1200 10th Ave E",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98102-4324"
+  },
+  "coordinates": {
+    "latitude": 47.63071060180664,
+    "longitude": -122.3199691772461
+  },
+  "website": "https://tlcseattle.org",
+  "listingUrl": "https://locator.lcms.org/church/C/833619",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "833619"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcseattle.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "916000882"
+    }
+  ],
+  "advisories": []
+}

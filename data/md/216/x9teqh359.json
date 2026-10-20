@@ -1,0 +1,33 @@
+{
+  "id": "x9teqh359",
+  "url": "https://constellation.church/x9teqh359",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "111 Brookletts Ave",
+    "city": "Easton",
+    "state": "MD",
+    "zip": "21601-2954"
+  },
+  "coordinates": {
+    "latitude": 38.77066230773926,
+    "longitude": -76.07311248779297
+  },
+  "website": "https://gracelutheranchurcheaston.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a7c81f7a-6f54-4ccc-9df9-70dd5575a886",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a7c81f7a-6f54-4ccc-9df9-70dd5575a886"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelutheranchurcheaston.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521330672"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "s5f4td578",
+  "url": "https://constellation.church/s5f4td578",
+  "name": "True North Church of Temecula Valley",
+  "displayName": "True North Church of Temecula Valley",
+  "address": {
+    "street": "31950 Pauba Rd",
+    "city": "Temecula",
+    "state": "CA",
+    "zip": "92592"
+  },
+  "coordinates": {
+    "latitude": 33.50176811218262,
+    "longitude": -117.10990142822266
+  },
+  "website": "https://providencetemecula.com",
+  "listingUrl": "https://churches.sbc.net/church/true-north-church-of-temecula-valley/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "true-north-church-of-temecula-valley"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "providencetemecula.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330780606"
+    }
+  ],
+  "advisories": []
+}

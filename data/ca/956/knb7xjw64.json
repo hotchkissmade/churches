@@ -1,0 +1,33 @@
+{
+  "id": "knb7xjw64",
+  "url": "https://constellation.church/knb7xjw64",
+  "name": "Anna Street Baptist Church",
+  "displayName": "Anna Street Baptist Church",
+  "address": {
+    "street": "1400 Anna St",
+    "city": "W Sacramento",
+    "state": "CA",
+    "zip": "95605"
+  },
+  "coordinates": {
+    "latitude": 38.594709396362305,
+    "longitude": -121.53629302978516
+  },
+  "website": "https://annastreetbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/anna-street-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "anna-street-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "annastreetbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "364723843"
+    }
+  ],
+  "advisories": []
+}

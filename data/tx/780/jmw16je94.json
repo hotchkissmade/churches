@@ -1,0 +1,33 @@
+{
+  "id": "jmw16je94",
+  "url": "https://constellation.church/jmw16je94",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "625 WASHINGTON ST",
+    "city": "Kerrville",
+    "state": "TX",
+    "zip": "78028"
+  },
+  "coordinates": {
+    "latitude": 30.0480899810791,
+    "longitude": -99.13523864746094
+  },
+  "website": "https://fbckerrville.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-1001/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-1001"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbckerrville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741216250"
+    }
+  ],
+  "advisories": []
+}

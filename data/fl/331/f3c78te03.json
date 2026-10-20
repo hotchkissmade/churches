@@ -1,0 +1,33 @@
+{
+  "id": "f3c78te03",
+  "url": "https://constellation.church/f3c78te03",
+  "name": "Iglesia Bautista Nueva Esperanza",
+  "displayName": "Iglesia Bautista Nueva Esperanza",
+  "address": {
+    "street": "12313 SW 112th St",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33186"
+  },
+  "coordinates": {
+    "latitude": 25.66297721862793,
+    "longitude": -80.39432525634766
+  },
+  "website": "https://ibnuevaesperanza.org",
+  "listingUrl": "https://churches.sbc.net/church/iglesia-bautista-nueva-esperanza/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "iglesia-bautista-nueva-esperanza"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ibnuevaesperanza.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "651039016"
+    }
+  ],
+  "advisories": []
+}

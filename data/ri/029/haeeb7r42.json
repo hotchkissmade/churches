@@ -1,0 +1,33 @@
+{
+  "id": "haeeb7r42",
+  "url": "https://constellation.church/haeeb7r42",
+  "name": "St. Martin's Episcopal Church",
+  "displayName": "St. Martin's Episcopal Church",
+  "address": {
+    "street": "50 Orchard Ave",
+    "city": "Providence",
+    "state": "RI",
+    "zip": "02906-5418"
+  },
+  "coordinates": {
+    "latitude": 41.832149505615234,
+    "longitude": -71.3857307434082
+  },
+  "website": "https://stmartinsprov.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-rhode-island/list/st-martins-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-rhode-island/st-martins-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmartinsprov.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "050260679"
+    }
+  ],
+  "advisories": []
+}

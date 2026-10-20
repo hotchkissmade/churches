@@ -1,0 +1,33 @@
+{
+  "id": "kmart0770",
+  "url": "https://constellation.church/kmart0770",
+  "name": "City Church Inc",
+  "displayName": "City Church",
+  "address": {
+    "street": "1910 W McDowell Rd",
+    "city": "Jackson",
+    "state": "MS",
+    "zip": "39204"
+  },
+  "coordinates": {
+    "latitude": 32.28195381164551,
+    "longitude": -90.25328826904297
+  },
+  "website": "https://citychurchjackson.com",
+  "listingUrl": "https://churches.sbc.net/church/city-church-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "city-church-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "citychurchjackson.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "271624718"
+    }
+  ],
+  "advisories": []
+}

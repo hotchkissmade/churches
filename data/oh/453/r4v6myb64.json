@@ -1,0 +1,33 @@
+{
+  "id": "r4v6myb64",
+  "url": "https://constellation.church/r4v6myb64",
+  "name": "Bellbrook First Baptist Church",
+  "displayName": "Bellbrook First Baptist Church",
+  "address": {
+    "street": "4100 W Franklin St",
+    "city": "Bellbrook",
+    "state": "OH",
+    "zip": "45305"
+  },
+  "coordinates": {
+    "latitude": 39.63878059387207,
+    "longitude": -84.09385681152344
+  },
+  "website": "https://fbcthebrook.com",
+  "listingUrl": "https://churches.sbc.net/church/bellbrook-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bellbrook-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcthebrook.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311082791"
+    }
+  ],
+  "advisories": []
+}

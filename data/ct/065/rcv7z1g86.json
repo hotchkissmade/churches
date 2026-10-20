@@ -1,0 +1,33 @@
+{
+  "id": "rcv7z1g86",
+  "url": "https://constellation.church/rcv7z1g86",
+  "name": "Church in Woodbridge",
+  "displayName": "Church in Woodbridge",
+  "address": {
+    "street": "918 Greenway Rd",
+    "city": "Woodbridge",
+    "state": "CT",
+    "zip": "06525"
+  },
+  "coordinates": {
+    "latitude": 41.3184739,
+    "longitude": -73.0358513
+  },
+  "website": "https://churchinwoodbridge-ct.org",
+  "listingUrl": "https://localchurches.org/churches/woodbridge-ct-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "woodbridge-ct-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinwoodbridge-ct.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "300305569"
+    }
+  ],
+  "advisories": []
+}

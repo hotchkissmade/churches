@@ -1,0 +1,33 @@
+{
+  "id": "jwjgkac91",
+  "url": "https://constellation.church/jwjgkac91",
+  "name": "New York Avenue Presbyterian Church",
+  "displayName": "New York Avenue Presbyterian Church",
+  "address": {
+    "street": "1313 New York Ave NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20005-4701"
+  },
+  "coordinates": {
+    "latitude": 38.89987564086914,
+    "longitude": -77.03113555908203
+  },
+  "website": "https://nyapc.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/424/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "424"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nyapc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "530196612"
+    }
+  ],
+  "advisories": []
+}

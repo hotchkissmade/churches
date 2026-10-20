@@ -1,0 +1,33 @@
+{
+  "id": "jcjvmbw89",
+  "url": "https://constellation.church/jcjvmbw89",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "912 N Oneida St",
+    "city": "Appleton",
+    "state": "WI",
+    "zip": "54911-4911"
+  },
+  "coordinates": {
+    "latitude": 44.26982879638672,
+    "longitude": -88.40533447265625
+  },
+  "website": "https://zionappleton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0cfcc3d0-ae77-4f09-bd2f-f09e5bf01455",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0cfcc3d0-ae77-4f09-bd2f-f09e5bf01455"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionappleton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390927345"
+    }
+  ],
+  "advisories": []
+}

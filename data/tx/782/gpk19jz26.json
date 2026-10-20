@@ -1,0 +1,33 @@
+{
+  "id": "gpk19jz26",
+  "url": "https://constellation.church/gpk19jz26",
+  "name": "Church in San Antonio",
+  "displayName": "Church in San Antonio",
+  "address": {
+    "street": "6193 Babcock Rd",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78240"
+  },
+  "coordinates": {
+    "latitude": 29.479887008666992,
+    "longitude": -98.58345794677734
+  },
+  "website": "https://churchinsanantonio.org",
+  "listingUrl": "https://localchurches.org/churches/san-antonio-tx-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "san-antonio-tx-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinsanantonio.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742404418"
+    }
+  ],
+  "advisories": []
+}

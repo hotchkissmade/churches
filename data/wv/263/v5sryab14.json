@@ -1,0 +1,33 @@
+{
+  "id": "v5sryab14",
+  "url": "https://constellation.church/v5sryab14",
+  "name": "Simpson Creek Baptist Church",
+  "displayName": "Simpson Creek Baptist Church",
+  "address": {
+    "street": "231 West Philadelphia Avenue",
+    "city": "Bridgeport",
+    "state": "WV",
+    "zip": "26330"
+  },
+  "coordinates": {
+    "latitude": 39.286577224731445,
+    "longitude": -80.25435256958008
+  },
+  "website": "https://simpsoncreek.org",
+  "listingUrl": "https://churches.sbc.net/church/simpson-creek-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "simpson-creek-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "simpsoncreek.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "550577650"
+    }
+  ],
+  "advisories": []
+}

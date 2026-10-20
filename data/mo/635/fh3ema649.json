@@ -1,0 +1,33 @@
+{
+  "id": "fh3ema649",
+  "url": "https://constellation.church/fh3ema649",
+  "name": "First Baptist Church Green City",
+  "displayName": "First Baptist Church Green City",
+  "address": {
+    "street": "102 N Lincoln St",
+    "city": "Green City",
+    "state": "MO",
+    "zip": "63545"
+  },
+  "coordinates": {
+    "latitude": 40.26694297790527,
+    "longitude": -92.95282745361328
+  },
+  "website": "https://greencityfbc.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-green-city/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-green-city"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "greencityfbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "562339779"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hg5pzh327",
+  "url": "https://constellation.church/hg5pzh327",
+  "name": "St. John the Baptist Church",
+  "displayName": "St. John the Baptist Church",
+  "address": {
+    "street": "1900 Essex St",
+    "city": "Berkeley",
+    "state": "CA",
+    "zip": "94703-2511"
+  },
+  "coordinates": {
+    "latitude": 37.85332107543945,
+    "longitude": -122.26914978027344
+  },
+  "website": "https://stjohnthebaptistberkeley.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-we-bersjb",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-we-bersjb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnthebaptistberkeley.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941347051"
+    }
+  ],
+  "advisories": []
+}

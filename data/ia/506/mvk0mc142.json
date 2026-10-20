@@ -1,0 +1,33 @@
+{
+  "id": "mvk0mc142",
+  "url": "https://constellation.church/mvk0mc142",
+  "name": "American Lutheran Church",
+  "displayName": "American Lutheran Church",
+  "address": {
+    "street": "801 Monroe St",
+    "city": "La Porte City",
+    "state": "IA",
+    "zip": "50651-1539"
+  },
+  "coordinates": {
+    "latitude": 42.31045150756836,
+    "longitude": -92.18888854980469
+  },
+  "website": "https://lpcamericanlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5bdc18dd-4e5a-4380-97b6-8d1dc723dd73",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5bdc18dd-4e5a-4380-97b6-8d1dc723dd73"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lpcamericanlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421206785"
+    }
+  ],
+  "advisories": []
+}

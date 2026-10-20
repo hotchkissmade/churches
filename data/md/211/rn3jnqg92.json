@@ -1,0 +1,33 @@
+{
+  "id": "rn3jnqg92",
+  "url": "https://constellation.church/rn3jnqg92",
+  "name": "St John's Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "3911 Sweet Air Rd",
+    "city": "Phoenix",
+    "state": "MD",
+    "zip": "21131-1815"
+  },
+  "coordinates": {
+    "latitude": 39.512142181396484,
+    "longitude": -76.5417366027832
+  },
+  "website": "https://stjohnssweetair.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1c1ea0b9-408d-42bc-9a11-f5d43a706b91",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1c1ea0b9-408d-42bc-9a11-f5d43a706b91"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnssweetair.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520716739"
+    }
+  ],
+  "advisories": []
+}

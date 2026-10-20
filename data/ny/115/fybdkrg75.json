@@ -1,0 +1,33 @@
+{
+  "id": "fybdkrg75",
+  "url": "https://constellation.church/fybdkrg75",
+  "name": "Hanmaum Baptist Church",
+  "displayName": "Hanmaum Baptist Church",
+  "address": {
+    "street": "70 School St",
+    "city": "Glen Cove",
+    "state": "NY",
+    "zip": "11542"
+  },
+  "coordinates": {
+    "latitude": 40.86637306213379,
+    "longitude": -73.63048934936523
+  },
+  "website": "https://nyhanmaum.org",
+  "listingUrl": "https://churches.sbc.net/church/hanmaum-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hanmaum-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nyhanmaum.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112974082"
+    }
+  ],
+  "advisories": []
+}

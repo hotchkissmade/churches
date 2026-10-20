@@ -1,0 +1,33 @@
+{
+  "id": "ss0vtys18",
+  "url": "https://constellation.church/ss0vtys18",
+  "name": "Episcopal Church of the Redeemer",
+  "displayName": "Episcopal Church of the Redeemer",
+  "address": {
+    "street": "303 N Main St",
+    "city": "Greensboro",
+    "state": "GA",
+    "zip": "30642-1137"
+  },
+  "coordinates": {
+    "latitude": 33.57867240905762,
+    "longitude": -83.18212127685547
+  },
+  "website": "https://greensborogaepiscopal.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-atlanta/list/episcopal-church-redeemer",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-atlanta/episcopal-church-redeemer"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "greensborogaepiscopal.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581511777"
+    }
+  ],
+  "advisories": []
+}

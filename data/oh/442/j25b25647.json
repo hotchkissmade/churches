@@ -1,0 +1,33 @@
+{
+  "id": "j25b25647",
+  "url": "https://constellation.church/j25b25647",
+  "name": "New Life Church",
+  "displayName": "New Life Church",
+  "address": {
+    "street": "911 Orchard Ave",
+    "city": "Aurora",
+    "state": "OH",
+    "zip": "44202"
+  },
+  "coordinates": {
+    "latitude": 41.34552192687988,
+    "longitude": -81.37890243530273
+  },
+  "website": "https://newlifechurchonline.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=6f072e7c-04c1-44c5-a3b6-ca2e0fb499ea&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "6f072e7c-04c1-44c5-a3b6-ca2e0fb499ea"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newlifechurchonline.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341294637"
+    }
+  ],
+  "advisories": []
+}

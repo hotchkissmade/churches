@@ -1,0 +1,33 @@
+{
+  "id": "qkjxs2e34",
+  "url": "https://constellation.church/qkjxs2e34",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "9300 E Belleview Ave",
+    "city": "Greenwood Village",
+    "state": "CO",
+    "zip": "80111-3403"
+  },
+  "coordinates": {
+    "latitude": 39.62372589111328,
+    "longitude": -104.87976837158203
+  },
+  "website": "https://stplc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7636cae6-ac33-4d5d-a974-aed9e73ea93f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7636cae6-ac33-4d5d-a974-aed9e73ea93f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stplc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840875434"
+    }
+  ],
+  "advisories": []
+}

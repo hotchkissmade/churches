@@ -1,0 +1,33 @@
+{
+  "id": "edeesnm55",
+  "url": "https://constellation.church/edeesnm55",
+  "name": "San Jose Baptist Church",
+  "displayName": "San Jose Baptist Church",
+  "address": {
+    "street": "6140 San Jose Blvd",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32217"
+  },
+  "coordinates": {
+    "latitude": 30.258148193359375,
+    "longitude": -81.64427185058594
+  },
+  "website": "https://sjbcjax.com",
+  "listingUrl": "https://churches.sbc.net/church/san-jose-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "san-jose-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sjbcjax.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "596020435"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "drq6ftn84",
+  "url": "https://constellation.church/drq6ftn84",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "5520 Fremont Pike",
+    "city": "Stony Ridge",
+    "state": "OH",
+    "zip": "43463"
+  },
+  "coordinates": {
+    "latitude": 41.50848579406738,
+    "longitude": -83.50190353393555
+  },
+  "website": "https://stjohnsstonyridge.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2d686ee2-7407-4509-9b6e-e93fcfa7ade5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2d686ee2-7407-4509-9b6e-e93fcfa7ade5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsstonyridge.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "344454968"
+    }
+  ],
+  "advisories": []
+}

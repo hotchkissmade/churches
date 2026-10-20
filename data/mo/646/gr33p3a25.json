@@ -1,0 +1,33 @@
+{
+  "id": "gr33p3a25",
+  "url": "https://constellation.church/gr33p3a25",
+  "name": "First Baptist Church Meadville",
+  "displayName": "First Baptist Church Meadville",
+  "address": {
+    "street": "101 S Macon St",
+    "city": "Meadville",
+    "state": "MO",
+    "zip": "64659"
+  },
+  "coordinates": {
+    "latitude": 39.792420454839,
+    "longitude": -93.301946778508
+  },
+  "website": "https://fbcmeadville.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-meadville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-meadville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcmeadville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237237687"
+    }
+  ],
+  "advisories": []
+}

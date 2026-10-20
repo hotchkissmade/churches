@@ -1,0 +1,33 @@
+{
+  "id": "e654rnp82",
+  "url": "https://constellation.church/e654rnp82",
+  "name": "St. Nicholas Church",
+  "displayName": "St. Nicholas Church",
+  "address": {
+    "street": "320 Munson Ave",
+    "city": "Pittsburgh (McKees Rocks)",
+    "state": "PA",
+    "zip": "15136"
+  },
+  "coordinates": {
+    "latitude": 40.47408866882324,
+    "longitude": -80.05850219726562
+  },
+  "website": "https://orthodoxpittsburgh.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-wp-mkrsnc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-wp-mkrsnc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "orthodoxpittsburgh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251629788"
+    }
+  ],
+  "advisories": []
+}

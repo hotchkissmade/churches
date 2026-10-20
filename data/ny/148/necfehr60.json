@@ -1,0 +1,33 @@
+{
+  "id": "necfehr60",
+  "url": "https://constellation.church/necfehr60",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "149 Honness Ln",
+    "city": "Ithaca",
+    "state": "NY",
+    "zip": "14850-6253"
+  },
+  "coordinates": {
+    "latitude": 42.42873191833496,
+    "longitude": -76.46396255493164
+  },
+  "website": "https://trinityithaca.org",
+  "listingUrl": "https://locator.lcms.org/church/C/451666",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "451666"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityithaca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "160968120"
+    }
+  ],
+  "advisories": []
+}

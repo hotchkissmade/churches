@@ -1,0 +1,33 @@
+{
+  "id": "vm5erja34",
+  "url": "https://constellation.church/vm5erja34",
+  "name": "Lebanon Presbyterian Church",
+  "displayName": "Lebanon Presbyterian Church",
+  "address": {
+    "street": "8002 Newberry Road",
+    "city": "Winnsboro",
+    "state": "SC",
+    "zip": "29180"
+  },
+  "coordinates": {
+    "latitude": 34.41192436218262,
+    "longitude": -81.20488739013672
+  },
+  "website": "https://lebanonpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/684",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "684"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lebanonpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570642990"
+    }
+  ],
+  "advisories": []
+}

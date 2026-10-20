@@ -1,0 +1,33 @@
+{
+  "id": "embdsqa32",
+  "url": "https://constellation.church/embdsqa32",
+  "name": "Cheraw First Baptist Church",
+  "displayName": "Cheraw First Baptist Church",
+  "address": {
+    "street": "126 Greene St",
+    "city": "Cheraw",
+    "state": "SC",
+    "zip": "29520"
+  },
+  "coordinates": {
+    "latitude": 34.69466018676758,
+    "longitude": -79.88638305664062
+  },
+  "website": "https://cherawfbc.com",
+  "listingUrl": "https://churches.sbc.net/church/cheraw-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cheraw-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cherawfbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570520463"
+    }
+  ],
+  "advisories": []
+}

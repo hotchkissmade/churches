@@ -1,0 +1,33 @@
+{
+  "id": "g88j2h441",
+  "url": "https://constellation.church/g88j2h441",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "451 Winston Rd",
+    "city": "Jonesville",
+    "state": "NC",
+    "zip": "28642-2243"
+  },
+  "coordinates": {
+    "latitude": 36.2405578,
+    "longitude": -80.8370683
+  },
+  "website": "https://clcjonesville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=aab394e4-e152-48f6-8cff-558716b56943",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "aab394e4-e152-48f6-8cff-558716b56943"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clcjonesville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561398602"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ybawycj26",
+  "url": "https://constellation.church/ybawycj26",
+  "name": "St. Mary's church",
+  "displayName": "St. Mary's church",
+  "address": {
+    "street": "26 St. Mary's Rd",
+    "city": "Shelter Island",
+    "state": "NY",
+    "zip": "11964"
+  },
+  "coordinates": {
+    "latitude": 41.0725978,
+    "longitude": -72.3318488
+  },
+  "website": "https://stmarysshelterisland.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-marys-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-marys-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarysshelterisland.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112170649"
+    }
+  ],
+  "advisories": []
+}

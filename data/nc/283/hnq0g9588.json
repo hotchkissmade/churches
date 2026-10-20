@@ -1,0 +1,33 @@
+{
+  "id": "hnq0g9588",
+  "url": "https://constellation.church/hnq0g9588",
+  "name": "Salemburg Baptist Church",
+  "displayName": "Salemburg Baptist Church",
+  "address": {
+    "street": "300 N Main St",
+    "city": "Salemburg",
+    "state": "NC",
+    "zip": "28385"
+  },
+  "coordinates": {
+    "latitude": 35.01831817626953,
+    "longitude": -78.5025863647461
+  },
+  "website": "https://salemburgbaptistchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/salemburg-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "salemburg-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemburgbaptistchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560694198"
+    }
+  ],
+  "advisories": []
+}

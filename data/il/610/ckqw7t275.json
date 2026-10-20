@@ -1,0 +1,33 @@
+{
+  "id": "ckqw7t275",
+  "url": "https://constellation.church/ckqw7t275",
+  "name": "Wesley United Methodist Church",
+  "displayName": "Wesley United Methodist Church",
+  "address": {
+    "street": "127 E Benton Avenue",
+    "city": "Stockton",
+    "state": "IL",
+    "zip": "61085"
+  },
+  "coordinates": {
+    "latitude": 42.351057052612305,
+    "longitude": -90.0057144165039
+  },
+  "website": "https://stocktonwumc.org/index.html",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFFPvIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFFPvIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stocktonwumc.org/index.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366066688"
+    }
+  ],
+  "advisories": []
+}

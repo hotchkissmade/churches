@@ -1,0 +1,33 @@
+{
+  "id": "enb6p9t84",
+  "url": "https://constellation.church/enb6p9t84",
+  "name": "Parkside Baptist Church",
+  "displayName": "Parkside Baptist Church",
+  "address": {
+    "street": "1515 Clermont Rd",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27713"
+  },
+  "coordinates": {
+    "latitude": 35.89345359802246,
+    "longitude": -78.90707778930664
+  },
+  "website": "https://4dchurch.cloversites.com/home",
+  "listingUrl": "https://churches.sbc.net/church/parkside-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "parkside-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "4dchurch.cloversites.com/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560900250"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sr75vm735",
+  "url": "https://constellation.church/sr75vm735",
+  "name": "Our Lord's Lutheran Church",
+  "displayName": "Our Lord's Lutheran Church",
+  "address": {
+    "street": "150 Wilma Dr",
+    "city": "Maryville",
+    "state": "IL",
+    "zip": "62062-5435"
+  },
+  "coordinates": {
+    "latitude": 38.71039009094238,
+    "longitude": -89.95974349975586
+  },
+  "website": "https://ourlords.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=030521ad-f050-415a-99cf-18c6119941fa",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "030521ad-f050-415a-99cf-18c6119941fa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ourlords.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237229017"
+    }
+  ],
+  "advisories": []
+}

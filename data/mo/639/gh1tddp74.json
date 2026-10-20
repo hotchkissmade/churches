@@ -1,0 +1,33 @@
+{
+  "id": "gh1tddp74",
+  "url": "https://constellation.church/gh1tddp74",
+  "name": "First United Methodist Church of Poplar Bluff",
+  "displayName": "First United Methodist Church of Poplar Bluff",
+  "address": {
+    "street": "500 N Main St",
+    "city": "Poplar Bluff",
+    "state": "MO",
+    "zip": "63901-5050"
+  },
+  "coordinates": {
+    "latitude": 36.76262855529785,
+    "longitude": -90.39559173583984
+  },
+  "website": "https://fumcpb.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFDx6IAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFDx6IAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fumcpb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430718805"
+    }
+  ],
+  "advisories": []
+}

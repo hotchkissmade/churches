@@ -1,0 +1,33 @@
+{
+  "id": "bd2np3116",
+  "url": "https://constellation.church/bd2np3116",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "1004 Curtis Ave",
+    "city": "Chariton",
+    "state": "IA",
+    "zip": "50049-1256"
+  },
+  "coordinates": {
+    "latitude": 41.02757263183594,
+    "longitude": -93.30854034423828
+  },
+  "website": "https://firstlutheran-christtheservant.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6dd1fe08-9e18-4d16-a836-a1e636f59736",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6dd1fe08-9e18-4d16-a836-a1e636f59736"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheran-christtheservant.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421273258"
+    }
+  ],
+  "advisories": []
+}

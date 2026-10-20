@@ -1,0 +1,33 @@
+{
+  "id": "pvsch3k31",
+  "url": "https://constellation.church/pvsch3k31",
+  "name": "St. Paul's Parish",
+  "displayName": "St. Paul's Parish",
+  "address": {
+    "street": "13500 Baden Westwood Rd",
+    "city": "Brandywine",
+    "state": "MD",
+    "zip": "20613-8419"
+  },
+  "coordinates": {
+    "latitude": 38.6604425,
+    "longitude": -76.7723911
+  },
+  "website": "https://stpaulsbaden.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/st-pauls-parish",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/st-pauls-parish"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsbaden.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520613687"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "j03w49b72",
+  "url": "https://constellation.church/j03w49b72",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "111 Walnut St",
+    "city": "Boiling Springs",
+    "state": "PA",
+    "zip": "17007-9715"
+  },
+  "coordinates": {
+    "latitude": 40.148681640625,
+    "longitude": -77.12995529174805
+  },
+  "website": "https://stjboilingsprings.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5d44a828-6c85-4fba-b06a-26a1170e3150",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5d44a828-6c85-4fba-b06a-26a1170e3150"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjboilingsprings.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237415443"
+    }
+  ],
+  "advisories": []
+}

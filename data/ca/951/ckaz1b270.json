@@ -1,0 +1,33 @@
+{
+  "id": "ckaz1b270",
+  "url": "https://constellation.church/ckaz1b270",
+  "name": "Apostles Lutheran Church",
+  "displayName": "Apostles Lutheran Church",
+  "address": {
+    "street": "5828 Santa Teresa Blvd",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95123-4035"
+  },
+  "coordinates": {
+    "latitude": 37.2372555,
+    "longitude": -121.8400557
+  },
+  "website": "https://apostles-lutheran.net",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24017",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24017"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "apostles-lutheran.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941728491"
+    }
+  ],
+  "advisories": []
+}

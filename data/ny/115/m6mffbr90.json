@@ -1,0 +1,33 @@
+{
+  "id": "m6mffbr90",
+  "url": "https://constellation.church/m6mffbr90",
+  "name": "Trinity-St. John's church",
+  "displayName": "Trinity-St. John's church",
+  "address": {
+    "street": "1142 Broadway",
+    "city": "Hewlett",
+    "state": "NY",
+    "zip": "11557"
+  },
+  "coordinates": {
+    "latitude": 40.633819580078125,
+    "longitude": -73.7059555053711
+  },
+  "website": "https://trinitystjohns.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/trinity-st-johns-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/trinity-st-johns-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitystjohns.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112325082"
+    }
+  ],
+  "advisories": []
+}

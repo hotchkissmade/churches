@@ -1,0 +1,33 @@
+{
+  "id": "sc3839118",
+  "url": "https://constellation.church/sc3839118",
+  "name": "Church of the Valley",
+  "displayName": "Church of the Valley",
+  "address": {
+    "street": "20700 Standing Rock Ave",
+    "city": "Apple Valley",
+    "state": "CA",
+    "zip": "92307"
+  },
+  "coordinates": {
+    "latitude": 34.52316093444824,
+    "longitude": -117.21211242675781
+  },
+  "website": "https://churchofthevalley.net",
+  "listingUrl": "https://eco-pres.org/churches/church-of-the-valley/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "church-of-the-valley"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchofthevalley.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952261800"
+    }
+  ],
+  "advisories": []
+}

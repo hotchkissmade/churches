@@ -1,0 +1,33 @@
+{
+  "id": "gbqgbse44",
+  "url": "https://constellation.church/gbqgbse44",
+  "name": "First Baptist Church Lancaster",
+  "displayName": "First Baptist Church Lancaster",
+  "address": {
+    "street": "1950 Pleasantville Rd. NE",
+    "city": "Lancaster",
+    "state": "OH",
+    "zip": "43130"
+  },
+  "coordinates": {
+    "latitude": 39.7414665222168,
+    "longitude": -82.55636596679688
+  },
+  "website": "https://fbclancaster.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-lancaster/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-lancaster"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbclancaster.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310801416"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wdhaav410",
+  "url": "https://constellation.church/wdhaav410",
+  "name": "St. Nicholas Church",
+  "displayName": "St. Nicholas Church",
+  "address": {
+    "street": "1000 Barber Ln",
+    "city": "Joliet",
+    "state": "IL",
+    "zip": "60435"
+  },
+  "coordinates": {
+    "latitude": 41.540771484375,
+    "longitude": -88.1532211303711
+  },
+  "website": "https://stnicholasjoliet.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-mw-jolsnc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-mw-jolsnc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stnicholasjoliet.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363611951"
+    }
+  ],
+  "advisories": []
+}

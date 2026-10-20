@@ -1,0 +1,33 @@
+{
+  "id": "rsj2j6f36",
+  "url": "https://constellation.church/rsj2j6f36",
+  "name": "Wayside Baptist Church",
+  "displayName": "Wayside Baptist Church",
+  "address": {
+    "street": "7701 SW 98th St",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33156"
+  },
+  "coordinates": {
+    "latitude": 25.68006706237793,
+    "longitude": -80.3190803527832
+  },
+  "website": "https://waysidemiami.org",
+  "listingUrl": "https://churches.sbc.net/church/wayside-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "wayside-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "waysidemiami.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590864593"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cdfn1yp42",
+  "url": "https://constellation.church/cdfn1yp42",
+  "name": "Port St John First Baptist Church",
+  "displayName": "Port St. John First Baptist Church",
+  "address": {
+    "street": "3900 Fay Boulevard",
+    "city": "Port St John",
+    "state": "FL",
+    "zip": "32927"
+  },
+  "coordinates": {
+    "latitude": 28.475587844848633,
+    "longitude": -80.78246307373047
+  },
+  "website": "https://firstbaptistpsj.org",
+  "listingUrl": "https://churches.sbc.net/church/port-st-john-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "port-st-john-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistpsj.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592043991"
+    }
+  ],
+  "advisories": []
+}

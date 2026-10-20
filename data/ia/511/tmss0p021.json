@@ -1,0 +1,33 @@
+{
+  "id": "tmss0p021",
+  "url": "https://constellation.church/tmss0p021",
+  "name": "United Lutheran Church",
+  "displayName": "United Lutheran Church",
+  "address": {
+    "street": "315 Hamilton Blvd",
+    "city": "Sioux City",
+    "state": "IA",
+    "zip": "51103-3613"
+  },
+  "coordinates": {
+    "latitude": 42.49991226196289,
+    "longitude": -96.42115783691406
+  },
+  "website": "https://unitedlutheran315.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1dc5ab2d-d976-4e50-b323-f21722894e29",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1dc5ab2d-d976-4e50-b323-f21722894e29"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "unitedlutheran315.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "874079576"
+    }
+  ],
+  "advisories": []
+}

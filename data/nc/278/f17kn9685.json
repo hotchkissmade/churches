@@ -1,0 +1,37 @@
+{
+  "id": "f17kn9685",
+  "url": "https://constellation.church/f17kn9685",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "433 S Winstead Ave",
+    "city": "Rocky Mount",
+    "state": "NC",
+    "zip": "27804-3814"
+  },
+  "coordinates": {
+    "latitude": 35.95892906188965,
+    "longitude": -77.84825897216797
+  },
+  "website": "https://trinityrm.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a44cc319-f90d-4016-a33f-3ce30a5a531f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a44cc319-f90d-4016-a33f-3ce30a5a531f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityrm.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561109384"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561959493"
+    }
+  ],
+  "advisories": []
+}

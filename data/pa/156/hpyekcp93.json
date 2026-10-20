@@ -1,0 +1,33 @@
+{
+  "id": "hpyekcp93",
+  "url": "https://constellation.church/hpyekcp93",
+  "name": "Calvin Presbyterian Church",
+  "displayName": "Calvin Presbyterian Church",
+  "address": {
+    "street": "260 Maus Drive",
+    "city": "North Huntingdon",
+    "state": "PA",
+    "zip": "15642"
+  },
+  "coordinates": {
+    "latitude": 40.32869338989258,
+    "longitude": -79.74271392822266
+  },
+  "website": "https://calvinpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/144",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "144"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "calvinpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251462969"
+    }
+  ],
+  "advisories": []
+}

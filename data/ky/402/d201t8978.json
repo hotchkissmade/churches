@@ -1,0 +1,33 @@
+{
+  "id": "d201t8978",
+  "url": "https://constellation.church/d201t8978",
+  "name": "Hunsinger Lane Baptist Church",
+  "displayName": "Hunsinger Lane Baptist Church",
+  "address": {
+    "street": "3400 Summerfield Drive",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40220"
+  },
+  "coordinates": {
+    "latitude": 38.20212745666504,
+    "longitude": -85.61544036865234
+  },
+  "website": "https://hunsingerlane.org",
+  "listingUrl": "https://churches.sbc.net/church/hunsinger-lane-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hunsinger-lane-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hunsingerlane.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "616036726"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a8r4rza97",
+  "url": "https://constellation.church/a8r4rza97",
+  "name": "St. Sava Church",
+  "displayName": "St. Sava Church",
+  "address": {
+    "street": "1601 S. Jupiter Rd",
+    "city": "Allen",
+    "state": "TX",
+    "zip": "75002-4106"
+  },
+  "coordinates": {
+    "latitude": 33.0730037689209,
+    "longitude": -96.67106628417969
+  },
+  "website": "https://stsavaoca.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-so-argssm",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-so-argssm"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stsavaoca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "202098492"
+    }
+  ],
+  "advisories": []
+}

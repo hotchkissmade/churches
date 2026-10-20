@@ -1,0 +1,37 @@
+{
+  "id": "zypb0an70",
+  "url": "https://constellation.church/zypb0an70",
+  "name": "Holy Cross Lutheran Church",
+  "displayName": "Holy Cross Lutheran Church",
+  "address": {
+    "street": "1100 Market Street",
+    "city": "Carlisle",
+    "state": "IA",
+    "zip": "50047"
+  },
+  "coordinates": {
+    "latitude": 41.49989700317383,
+    "longitude": -93.49867248535156
+  },
+  "website": "https://holycrosscarlisle.org",
+  "listingUrl": "https://idwlcms.org/congregation.php?id=27",
+  "identifiers": [
+    {
+      "namespace": "org.idwlcms.id",
+      "value": "27"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holycrosscarlisle.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420952169"
+    },
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "134278"
+    }
+  ],
+  "advisories": []
+}

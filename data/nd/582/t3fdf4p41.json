@@ -1,0 +1,33 @@
+{
+  "id": "t3fdf4p41",
+  "url": "https://constellation.church/t3fdf4p41",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "740 2nd St S",
+    "city": "Edinburg",
+    "state": "ND",
+    "zip": "58227-2704"
+  },
+  "coordinates": {
+    "latitude": 48.49209213256836,
+    "longitude": -97.86617279052734
+  },
+  "website": "https://www2.polarcomm.com/~trinity",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0207b230-e3b1-4cb4-8848-a0495ea7e06f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0207b230-e3b1-4cb4-8848-a0495ea7e06f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "www2.polarcomm.com/~trinity"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450346754"
+    }
+  ],
+  "advisories": []
+}

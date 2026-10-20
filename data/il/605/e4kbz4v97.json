@@ -1,0 +1,33 @@
+{
+  "id": "e4kbz4v97",
+  "url": "https://constellation.church/e4kbz4v97",
+  "name": "Resurrection Lutheran Church",
+  "displayName": "Resurrection Lutheran Church",
+  "address": {
+    "street": "2567 W Sullivan Rd",
+    "city": "Aurora",
+    "state": "IL",
+    "zip": "60506-1488"
+  },
+  "coordinates": {
+    "latitude": 41.792171478271484,
+    "longitude": -88.37992095947266
+  },
+  "website": "https://relcs.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24749",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24749"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "relcs.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237411856"
+    }
+  ],
+  "advisories": []
+}

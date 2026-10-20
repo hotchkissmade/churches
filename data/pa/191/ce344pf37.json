@@ -1,0 +1,37 @@
+{
+  "id": "ce344pf37",
+  "url": "https://constellation.church/ce344pf37",
+  "name": "Church of the Atonement",
+  "displayName": "Church of the Atonement",
+  "address": {
+    "street": "6100 Greene Street",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19144"
+  },
+  "coordinates": {
+    "latitude": 40.037580490112305,
+    "longitude": -75.18228530883789
+  },
+  "website": "https://recatonement.org",
+  "listingUrl": "https://www.acna.org/admin_units/558",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "558"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "recatonement.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231476346"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236277828"
+    }
+  ],
+  "advisories": []
+}

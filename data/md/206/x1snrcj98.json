@@ -1,0 +1,33 @@
+{
+  "id": "x1snrcj98",
+  "url": "https://constellation.church/x1snrcj98",
+  "name": "First Baptist Church of La Plata",
+  "displayName": "First Baptist Church of La Plata",
+  "address": {
+    "street": "9070 Hawthorne Rd",
+    "city": "La Plata",
+    "state": "MD",
+    "zip": "20646"
+  },
+  "coordinates": {
+    "latitude": 38.540151596069336,
+    "longitude": -76.99748992919922
+  },
+  "website": "https://fbclaplata.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-la-plata/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-la-plata"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbclaplata.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520847315"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xefp16k53",
+  "url": "https://constellation.church/xefp16k53",
+  "name": "Christ's Evangelical Lutheran Church",
+  "displayName": "Christ's Evangelical Lutheran Church",
+  "address": {
+    "street": "26 Mill Hill Rd",
+    "city": "Woodstock",
+    "state": "NY",
+    "zip": "12498-1308"
+  },
+  "coordinates": {
+    "latitude": 42.040401458740234,
+    "longitude": -74.11729049682617
+  },
+  "website": "https://christwoodstock.org/wp",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e1faeb09-f2f4-465b-9451-fa64eeec954f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e1faeb09-f2f4-465b-9451-fa64eeec954f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christwoodstock.org/wp"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "141640561"
+    }
+  ],
+  "advisories": []
+}

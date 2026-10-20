@@ -1,0 +1,33 @@
+{
+  "id": "wjd2bqc72",
+  "url": "https://constellation.church/wjd2bqc72",
+  "name": "Village Church",
+  "displayName": "Village Church",
+  "address": {
+    "street": "24802 Alderbrook Dr",
+    "city": "Newhall",
+    "state": "CA",
+    "zip": "91321"
+  },
+  "coordinates": {
+    "latitude": 34.38728904724121,
+    "longitude": -118.52700805664062
+  },
+  "website": "https://thevillagechurch.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=cc8319a5-6393-48d6-acad-790ce64a7837&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "cc8319a5-6393-48d6-acad-790ce64a7837"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thevillagechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "954321289"
+    }
+  ],
+  "advisories": []
+}

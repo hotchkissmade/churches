@@ -1,0 +1,33 @@
+{
+  "id": "keccr7187",
+  "url": "https://constellation.church/keccr7187",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "421 S Russell St",
+    "city": "Grantsburg",
+    "state": "WI",
+    "zip": "54840-7847"
+  },
+  "coordinates": {
+    "latitude": 45.77582550048828,
+    "longitude": -92.69335174560547
+  },
+  "website": "https://myfaithlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3789679b-e840-4c4d-b2e8-1c22ec873809",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3789679b-e840-4c4d-b2e8-1c22ec873809"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "myfaithlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391452189"
+    }
+  ],
+  "advisories": []
+}

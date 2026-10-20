@@ -1,0 +1,33 @@
+{
+  "id": "xfq7pnk83",
+  "url": "https://constellation.church/xfq7pnk83",
+  "name": "Church of the Resurrection",
+  "displayName": "Church of the Resurrection",
+  "address": {
+    "street": "1131 S. Main St",
+    "city": "Centerville",
+    "state": "UT",
+    "zip": "84014-2217"
+  },
+  "coordinates": {
+    "latitude": 40.90505027770996,
+    "longitude": -111.87830352783203
+  },
+  "website": "https://ecor.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-utah/list/church-resurrection",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-utah/church-resurrection"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ecor.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "870510106"
+    }
+  ],
+  "advisories": []
+}

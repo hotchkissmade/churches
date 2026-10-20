@@ -1,0 +1,33 @@
+{
+  "id": "x1qcmr168",
+  "url": "https://constellation.church/x1qcmr168",
+  "name": "St Andrew's Evangelical Lutheran Church",
+  "displayName": "St. Andrew's Evangelical Lutheran Church",
+  "address": {
+    "street": "914 West Blvd S",
+    "city": "Columbia",
+    "state": "MO",
+    "zip": "65203-2856"
+  },
+  "coordinates": {
+    "latitude": 38.94194030761719,
+    "longitude": -92.3526725769043
+  },
+  "website": "https://saintandrewslutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=beeb42b4-1ee6-45f2-a96a-f30e120fd1dc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "beeb42b4-1ee6-45f2-a96a-f30e120fd1dc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintandrewslutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430947399"
+    }
+  ],
+  "advisories": []
+}

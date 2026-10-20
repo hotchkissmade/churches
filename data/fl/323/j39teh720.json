@@ -1,0 +1,33 @@
+{
+  "id": "j39teh720",
+  "url": "https://constellation.church/j39teh720",
+  "name": "Wildwood Presbyterian Church",
+  "displayName": "Wildwood Presbyterian Church",
+  "address": {
+    "street": "100 Ox Bottom Road",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32312"
+  },
+  "coordinates": {
+    "latitude": 30.54899024963379,
+    "longitude": -84.27635192871094
+  },
+  "website": "https://wildwoodtlh.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1122",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1122"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wildwoodtlh.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592384375"
+    }
+  ],
+  "advisories": []
+}

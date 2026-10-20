@@ -1,0 +1,33 @@
+{
+  "id": "nrn44wb64",
+  "url": "https://constellation.church/nrn44wb64",
+  "name": "Edgemont Presbyterian Church",
+  "displayName": "Edgemont Presbyterian Church",
+  "address": {
+    "street": "1013 Edgemont Avenue",
+    "city": "Bristol",
+    "state": "TN",
+    "zip": "37620"
+  },
+  "coordinates": {
+    "latitude": 36.58200645446777,
+    "longitude": -82.18151473999023
+  },
+  "website": "https://edgemontpres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/342",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "342"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "edgemontpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "626017912"
+    }
+  ],
+  "advisories": []
+}

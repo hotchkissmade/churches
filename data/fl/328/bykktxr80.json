@@ -1,0 +1,33 @@
+{
+  "id": "bykktxr80",
+  "url": "https://constellation.church/bykktxr80",
+  "name": "Woodhaven Baptist Church",
+  "displayName": "Woodhaven Baptist Church",
+  "address": {
+    "street": "3035 36th St",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32839"
+  },
+  "coordinates": {
+    "latitude": 28.50627326965332,
+    "longitude": -81.41937255859375
+  },
+  "website": "https://woodhavenbc.org",
+  "listingUrl": "https://churches.sbc.net/church/woodhaven-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "woodhaven-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "woodhavenbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591891173"
+    }
+  ],
+  "advisories": []
+}

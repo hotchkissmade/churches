@@ -1,0 +1,33 @@
+{
+  "id": "khk510g74",
+  "url": "https://constellation.church/khk510g74",
+  "name": "The Pointe Church",
+  "displayName": "The Pointe Church",
+  "address": {
+    "street": "82 N Atlantic Ave",
+    "city": "Cocoa Beach",
+    "state": "FL",
+    "zip": "32931"
+  },
+  "coordinates": {
+    "latitude": 28.32012176513672,
+    "longitude": -80.6091537475586
+  },
+  "website": "https://thepointe.online",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=89bb0a69-ebcc-4dcb-a12f-2763dce64efc&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "89bb0a69-ebcc-4dcb-a12f-2763dce64efc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thepointe.online"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "813960229"
+    }
+  ],
+  "advisories": []
+}

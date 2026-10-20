@@ -1,0 +1,33 @@
+{
+  "id": "mtvm8bp39",
+  "url": "https://constellation.church/mtvm8bp39",
+  "name": "West Ridge Church",
+  "displayName": "West Ridge Church",
+  "address": {
+    "street": "3906 Kane Rd",
+    "city": "Eau Claire",
+    "state": "WI",
+    "zip": "54703"
+  },
+  "coordinates": {
+    "latitude": 44.83744430541992,
+    "longitude": -91.57106399536133
+  },
+  "website": "https://westridgechurch.us",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=28e7f695-ef2b-4909-a0c8-57f5eb698fba&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "28e7f695-ef2b-4909-a0c8-57f5eb698fba"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westridgechurch.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391422488"
+    }
+  ],
+  "advisories": []
+}

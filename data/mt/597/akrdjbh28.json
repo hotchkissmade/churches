@@ -1,0 +1,33 @@
+{
+  "id": "akrdjbh28",
+  "url": "https://constellation.church/akrdjbh28",
+  "name": "Connect Church",
+  "displayName": "Connect Church",
+  "address": {
+    "street": "642 Milky Way Dr",
+    "city": "Bozeman",
+    "state": "MT",
+    "zip": "59718"
+  },
+  "coordinates": {
+    "latitude": 45.6807861328125,
+    "longitude": -111.2004623413086
+  },
+  "website": "https://connectchurchmt.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=0be847d1-3a5a-4477-9dde-b24f2422bd0b&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "0be847d1-3a5a-4477-9dde-b24f2422bd0b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "connectchurchmt.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "261208593"
+    }
+  ],
+  "advisories": []
+}

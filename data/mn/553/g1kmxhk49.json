@@ -1,0 +1,33 @@
+{
+  "id": "g1kmxhk49",
+  "url": "https://constellation.church/g1kmxhk49",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "449 W Broadway St",
+    "city": "Monticello",
+    "state": "MN",
+    "zip": "55362-9358"
+  },
+  "coordinates": {
+    "latitude": 45.30780792236328,
+    "longitude": -93.79949188232422
+  },
+  "website": "https://tlcmonticello.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=13c095d8-b4b5-42d0-b98e-73719aa44f0c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "13c095d8-b4b5-42d0-b98e-73719aa44f0c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcmonticello.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410847249"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "m0wwjan37",
+  "url": "https://constellation.church/m0wwjan37",
+  "name": "New Community Mission Church",
+  "displayName": "New Community Mission Church",
+  "address": {
+    "street": "3399 CSM Dr",
+    "city": "San Mateo",
+    "state": "CA",
+    "zip": "94402"
+  },
+  "coordinates": {
+    "latitude": 37.53011512756348,
+    "longitude": -122.33682250976562
+  },
+  "website": "https://ncmission.org",
+  "listingUrl": "https://churches.sbc.net/church/new-community-mission-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-community-mission-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ncmission.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810582633"
+    }
+  ],
+  "advisories": []
+}

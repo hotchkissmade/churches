@@ -1,0 +1,33 @@
+{
+  "id": "y8fvs6334",
+  "url": "https://constellation.church/y8fvs6334",
+  "name": "Williamstown Baptist Church",
+  "displayName": "Williamstown Baptist Church",
+  "address": {
+    "street": "214 N Main St",
+    "city": "Williamstown",
+    "state": "KY",
+    "zip": "41097"
+  },
+  "coordinates": {
+    "latitude": 38.63885498046875,
+    "longitude": -84.56017684936523
+  },
+  "website": "https://williamstownbaptistchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/williamstown-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "williamstown-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "williamstownbaptistchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "610657536"
+    }
+  ],
+  "advisories": []
+}

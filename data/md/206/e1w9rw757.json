@@ -1,0 +1,33 @@
+{
+  "id": "e1w9rw757",
+  "url": "https://constellation.church/e1w9rw757",
+  "name": "Whitehall Baptist Church",
+  "displayName": "Whitehall Baptist Church",
+  "address": {
+    "street": "1205 Farmington Road E",
+    "city": "Accokeek",
+    "state": "MD",
+    "zip": "20607"
+  },
+  "coordinates": {
+    "latitude": 38.68581771850586,
+    "longitude": -76.98823547363281
+  },
+  "website": "https://whitehallbaptist.org/resources",
+  "listingUrl": "https://churches.sbc.net/church/whitehall-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "whitehall-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "whitehallbaptist.org/resources"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521294407"
+    }
+  ],
+  "advisories": []
+}

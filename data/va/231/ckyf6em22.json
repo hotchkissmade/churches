@@ -1,0 +1,33 @@
+{
+  "id": "ckyf6em22",
+  "url": "https://constellation.church/ckyf6em22",
+  "name": "First Baptist Church West Point",
+  "displayName": "First Baptist Church West Point",
+  "address": {
+    "street": "414 Main Street",
+    "city": "West Point",
+    "state": "VA",
+    "zip": "23181"
+  },
+  "coordinates": {
+    "latitude": 37.52984428405762,
+    "longitude": -76.7950210571289
+  },
+  "website": "https://fbcwestpoint.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-west-point-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-west-point-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcwestpoint.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540565001"
+    }
+  ],
+  "advisories": []
+}

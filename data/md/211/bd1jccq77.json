@@ -1,0 +1,33 @@
+{
+  "id": "bd1jccq77",
+  "url": "https://constellation.church/bd1jccq77",
+  "name": "Immanuel Episcopal Church",
+  "displayName": "Immanuel Episcopal Church",
+  "address": {
+    "street": "1509 Glencoe Rd",
+    "city": "Glencoe",
+    "state": "MD",
+    "zip": "21152-9349"
+  },
+  "coordinates": {
+    "latitude": 39.55378341674805,
+    "longitude": -76.62658309936523
+  },
+  "website": "https://immanuelglencoe.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maryland/list/immanuel-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maryland/immanuel-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "immanuelglencoe.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520640492"
+    }
+  ],
+  "advisories": []
+}

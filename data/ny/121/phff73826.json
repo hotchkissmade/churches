@@ -1,0 +1,33 @@
+{
+  "id": "phff73826",
+  "url": "https://constellation.church/phff73826",
+  "name": "First Baptist Church, Rensselaer",
+  "displayName": "First Baptist Church, Rensselaer",
+  "address": {
+    "street": "1101 Washington Ave.",
+    "city": "Rensselaer",
+    "state": "NY",
+    "zip": "12144"
+  },
+  "coordinates": {
+    "latitude": 42.65679931640625,
+    "longitude": -73.7106704711914
+  },
+  "website": "https://fbcrensselaer.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-rensselaer-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-rensselaer-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcrensselaer.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "133320131"
+    }
+  ],
+  "advisories": []
+}

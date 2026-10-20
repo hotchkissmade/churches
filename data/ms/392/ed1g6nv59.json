@@ -1,0 +1,33 @@
+{
+  "id": "ed1g6nv59",
+  "url": "https://constellation.church/ed1g6nv59",
+  "name": "Pearl Presbyterian Church",
+  "displayName": "Pearl Presbyterian Church",
+  "address": {
+    "street": "2933 Old Brandon Road",
+    "city": "Pearl",
+    "state": "MS",
+    "zip": "39208"
+  },
+  "coordinates": {
+    "latitude": 32.28005027770996,
+    "longitude": -90.1168212890625
+  },
+  "website": "https://pearlpres.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/823",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "823"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pearlpres.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640674373"
+    }
+  ],
+  "advisories": []
+}

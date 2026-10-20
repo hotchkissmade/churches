@@ -1,0 +1,33 @@
+{
+  "id": "gk3fb7131",
+  "url": "https://constellation.church/gk3fb7131",
+  "name": "First Baptist, Kettering",
+  "displayName": "First Baptist Church, Kettering",
+  "address": {
+    "street": "3939 Swigart Rd",
+    "city": "Dayton",
+    "state": "OH",
+    "zip": "45440"
+  },
+  "coordinates": {
+    "latitude": 39.6774959564209,
+    "longitude": -84.08317184448242
+  },
+  "website": "https://fbk.church",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-kettering/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-kettering"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbk.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311077855"
+    }
+  ],
+  "advisories": []
+}

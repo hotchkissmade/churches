@@ -1,0 +1,33 @@
+{
+  "id": "hbvgkrw86",
+  "url": "https://constellation.church/hbvgkrw86",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "31027 Depot St",
+    "city": "New Church",
+    "state": "VA",
+    "zip": "23415"
+  },
+  "coordinates": {
+    "latitude": 37.97947883605957,
+    "longitude": -75.53207778930664
+  },
+  "website": "https://firstbaptistnewchurchva.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-620/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-620"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistnewchurchva.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541243537"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "r50cet038",
+  "url": "https://constellation.church/r50cet038",
+  "name": "First Baptist Church, Hempstead",
+  "displayName": "First Baptist Church, Hempstead",
+  "address": {
+    "street": "445 Main St",
+    "city": "Hempstead",
+    "state": "TX",
+    "zip": "77445"
+  },
+  "coordinates": {
+    "latitude": 30.09516716003418,
+    "longitude": -96.07241821289062
+  },
+  "website": "https://fbh.church",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-hempstead-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-hempstead-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbh.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741596078"
+    }
+  ],
+  "advisories": []
+}

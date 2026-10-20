@@ -1,0 +1,33 @@
+{
+  "id": "r7xaesn35",
+  "url": "https://constellation.church/r7xaesn35",
+  "name": "Bethany Lutheran Church",
+  "displayName": "Bethany Lutheran Church",
+  "address": {
+    "street": "4200 N 204th St",
+    "city": "Elkhorn",
+    "state": "NE",
+    "zip": "68022-1128"
+  },
+  "coordinates": {
+    "latitude": 41.29626655578613,
+    "longitude": -96.2359390258789
+  },
+  "website": "https://bethanyelkhorn.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=17b3cacc-d85d-4b33-af08-73ba2d222be5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "17b3cacc-d85d-4b33-af08-73ba2d222be5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanyelkhorn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470415801"
+    }
+  ],
+  "advisories": []
+}

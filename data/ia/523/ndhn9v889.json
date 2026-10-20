@@ -1,0 +1,33 @@
+{
+  "id": "ndhn9v889",
+  "url": "https://constellation.church/ndhn9v889",
+  "name": "Lutheran Church Of The Resurrection",
+  "displayName": "Lutheran Church Of The Resurrection",
+  "address": {
+    "street": "3500 29th Ave",
+    "city": "Marion",
+    "state": "IA",
+    "zip": "52302-6404"
+  },
+  "coordinates": {
+    "latitude": 42.050960540771484,
+    "longitude": -91.5736312866211
+  },
+  "website": "https://lcrmarion.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c8c454c9-3cd8-4115-8001-a2821f50b019",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c8c454c9-3cd8-4115-8001-a2821f50b019"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcrmarion.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426063546"
+    }
+  ],
+  "advisories": []
+}

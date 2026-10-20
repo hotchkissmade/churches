@@ -1,0 +1,33 @@
+{
+  "id": "pcbxe3d63",
+  "url": "https://constellation.church/pcbxe3d63",
+  "name": "Chapel of St. John the Divine",
+  "displayName": "Chapel of St. John the Divine",
+  "address": {
+    "street": "Physical Location: 10 Church Way At Willet Road, Mailing: PO Box 541",
+    "city": "Saunderstown",
+    "state": "RI",
+    "zip": "02874-0541"
+  },
+  "coordinates": {
+    "latitude": 41.50615692138672,
+    "longitude": -71.42250442504883
+  },
+  "website": "https://chapelofstjohn.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-rhode-island/list/chapel-st-john-divine",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-rhode-island/chapel-st-john-divine"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chapelofstjohn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "056011273"
+    }
+  ],
+  "advisories": []
+}

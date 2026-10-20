@@ -1,0 +1,33 @@
+{
+  "id": "vg5v1g198",
+  "url": "https://constellation.church/vg5v1g198",
+  "name": "First Baptist Church of Darby",
+  "displayName": "First Baptist Church of Darby",
+  "address": {
+    "street": "925 Summit Street",
+    "city": "Darby",
+    "state": "PA",
+    "zip": "19023"
+  },
+  "coordinates": {
+    "latitude": 39.92234420776367,
+    "longitude": -75.25941848754883
+  },
+  "website": "https://firstbaptistdarby.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-darby/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-darby"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistdarby.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231867473"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "phaq3jh20",
+  "url": "https://constellation.church/phaq3jh20",
+  "name": "Iglesia El Buen Pastor",
+  "displayName": "Iglesia El Buen Pastor",
+  "address": {
+    "street": "817 Beech St",
+    "city": "Salinas",
+    "state": "CA",
+    "zip": "93905-1726"
+  },
+  "coordinates": {
+    "latitude": 36.68171501159668,
+    "longitude": -121.615966796875
+  },
+  "website": "https://spselcaminoreal.org/congregations",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=79d617a7-ae38-4f22-bdb6-a13f67b7f015",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "79d617a7-ae38-4f22-bdb6-a13f67b7f015"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "spselcaminoreal.org/congregations"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "770136451"
+    }
+  ],
+  "advisories": []
+}

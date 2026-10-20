@@ -1,0 +1,33 @@
+{
+  "id": "p0fn2ne88",
+  "url": "https://constellation.church/p0fn2ne88",
+  "name": "Northeast Community Church",
+  "displayName": "Northeast Community Church",
+  "address": {
+    "street": "3300 Tyson Avenue",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19149"
+  },
+  "coordinates": {
+    "latitude": 40.03494453430176,
+    "longitude": -75.0495719909668
+  },
+  "website": "https://nccphilly.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1658",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1658"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nccphilly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232928285"
+    }
+  ],
+  "advisories": []
+}

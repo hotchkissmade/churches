@@ -1,0 +1,33 @@
+{
+  "id": "kftmdnd93",
+  "url": "https://constellation.church/kftmdnd93",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "512 5th St NE",
+    "city": "Independence",
+    "state": "IA",
+    "zip": "50644-2008"
+  },
+  "coordinates": {
+    "latitude": 42.47294998168945,
+    "longitude": -91.8886489868164
+  },
+  "website": "https://immanuelindee.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ce3440f8-f765-4df0-920a-d408ec181c39",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ce3440f8-f765-4df0-920a-d408ec181c39"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "immanuelindee.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420847629"
+    }
+  ],
+  "advisories": []
+}

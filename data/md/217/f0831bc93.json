@@ -1,0 +1,33 @@
+{
+  "id": "f0831bc93",
+  "url": "https://constellation.church/f0831bc93",
+  "name": "Zion Evangelical Lutheran Church",
+  "displayName": "Zion Evangelical Lutheran Church",
+  "address": {
+    "street": "107 W Main St",
+    "city": "Middletown",
+    "state": "MD",
+    "zip": "21769-8007"
+  },
+  "coordinates": {
+    "latitude": 39.44433403015137,
+    "longitude": -77.54711151123047
+  },
+  "website": "https://zionmiddletown.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e94bee55-e4ba-41a7-9e0c-f34f019f810f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e94bee55-e4ba-41a7-9e0c-f34f019f810f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionmiddletown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520613684"
+    }
+  ],
+  "advisories": []
+}

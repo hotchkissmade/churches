@@ -1,0 +1,33 @@
+{
+  "id": "kj0cxwh72",
+  "url": "https://constellation.church/kj0cxwh72",
+  "name": "Camas Friends Meeting",
+  "displayName": "Camas Friends Meeting",
+  "address": {
+    "street": "1004 NE 4th Ave",
+    "city": "Camas",
+    "state": "WA",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 45.58842086791992,
+    "longitude": -122.39864349365234
+  },
+  "website": "https://camasfriends.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/camas-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "camas-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "camasfriends.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910832974"
+    }
+  ],
+  "advisories": []
+}

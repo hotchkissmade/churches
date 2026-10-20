@@ -1,0 +1,29 @@
+{
+  "id": "w4eng1588",
+  "url": "https://constellation.church/w4eng1588",
+  "name": "GRACE EPC",
+  "displayName": "Grace EPC",
+  "address": {
+    "street": "180 NC HIGHWAY 210 W",
+    "city": "Hampstead",
+    "state": "NC",
+    "zip": "28443"
+  },
+  "coordinates": {
+    "latitude": 34.36874961853027,
+    "longitude": -77.71300506591797
+  },
+  "website": "https://graceepc.com",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "453776360"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceepc.com"
+    }
+  ],
+  "advisories": []
+}

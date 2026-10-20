@@ -1,0 +1,33 @@
+{
+  "id": "fe86pv869",
+  "url": "https://constellation.church/fe86pv869",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "436 N Oak Ave",
+    "city": "Clifton Heights",
+    "state": "PA",
+    "zip": "19018-1104"
+  },
+  "coordinates": {
+    "latitude": 39.9324836730957,
+    "longitude": -75.30635452270508
+  },
+  "website": "https://stmarkcliftonheights.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b9909492-532b-41c3-a14f-e366b17ae590",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b9909492-532b-41c3-a14f-e366b17ae590"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkcliftonheights.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231484163"
+    }
+  ],
+  "advisories": []
+}

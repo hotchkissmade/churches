@@ -1,0 +1,33 @@
+{
+  "id": "zk57aec57",
+  "url": "https://constellation.church/zk57aec57",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "203 N 4th Street",
+    "city": "Alpine",
+    "state": "TX",
+    "zip": "79830"
+  },
+  "coordinates": {
+    "latitude": 30.359416961669922,
+    "longitude": -103.6611099243164
+  },
+  "website": "https://fbcalpine.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-90/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-90"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcalpine.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "746019901"
+    }
+  ],
+  "advisories": []
+}

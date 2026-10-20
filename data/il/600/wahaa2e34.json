@@ -1,0 +1,33 @@
+{
+  "id": "wahaa2e34",
+  "url": "https://constellation.church/wahaa2e34",
+  "name": "Lutheran Church Of Martha & Mary",
+  "displayName": "Lutheran Church Of Martha & Mary",
+  "address": {
+    "street": "606 W Golf Rd",
+    "city": "Mount Prospect",
+    "state": "IL",
+    "zip": "60056-4207"
+  },
+  "coordinates": {
+    "latitude": 42.04813003540039,
+    "longitude": -87.9453125
+  },
+  "website": "https://lcmarthamary.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d8e0e0d1-185a-4cd8-b5d7-29ab05c74dba",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d8e0e0d1-185a-4cd8-b5d7-29ab05c74dba"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcmarthamary.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362614842"
+    }
+  ],
+  "advisories": []
+}

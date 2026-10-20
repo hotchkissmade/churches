@@ -1,0 +1,33 @@
+{
+  "id": "e5rg0r071",
+  "url": "https://constellation.church/e5rg0r071",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "3930 S 19th St",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68502-5507"
+  },
+  "coordinates": {
+    "latitude": 40.773983001708984,
+    "longitude": -96.69415283203125
+  },
+  "website": "https://stmarklincoln.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24532",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24532"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarklincoln.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470605691"
+    }
+  ],
+  "advisories": []
+}

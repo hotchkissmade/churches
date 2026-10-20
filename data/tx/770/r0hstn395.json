@@ -1,0 +1,33 @@
+{
+  "id": "r0hstn395",
+  "url": "https://constellation.church/r0hstn395",
+  "name": "Iglesia Bautista La Tierra Prometida",
+  "displayName": "Iglesia Bautista La Tierra Prometida",
+  "address": {
+    "street": "4001 Darwin St",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77093"
+  },
+  "coordinates": {
+    "latitude": 29.873743057250977,
+    "longitude": -95.32637023925781
+  },
+  "website": "https://ibltp.com",
+  "listingUrl": "https://churches.sbc.net/church/iglesia-bautista-la-tierra-prometida/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "iglesia-bautista-la-tierra-prometida"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ibltp.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900592559"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "brmaktb31",
+  "url": "https://constellation.church/brmaktb31",
+  "name": "Maple Grove Lutheran Church",
+  "displayName": "Maple Grove Lutheran Church",
+  "address": {
+    "street": "9251 Elm Creek Blvd N",
+    "city": "Maple Grove",
+    "state": "MN",
+    "zip": "55369-5004"
+  },
+  "coordinates": {
+    "latitude": 45.12287139892578,
+    "longitude": -93.44912719726562
+  },
+  "website": "https://mglc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=19cd71c6-b84b-4c38-adce-517780f530eb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "19cd71c6-b84b-4c38-adce-517780f530eb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mglc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411457210"
+    }
+  ],
+  "advisories": []
+}

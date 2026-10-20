@@ -1,0 +1,33 @@
+{
+  "id": "spk801077",
+  "url": "https://constellation.church/spk801077",
+  "name": "Christ the King Lutheran Church",
+  "displayName": "Christ the King Lutheran Church",
+  "address": {
+    "street": "8065 Chico Way NW",
+    "city": "Bremerton",
+    "state": "WA",
+    "zip": "98312-1049"
+  },
+  "coordinates": {
+    "latitude": 47.6364189,
+    "longitude": -122.7039218
+  },
+  "website": "https://ctk-wels.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24741",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24741"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ctk-wels.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "916186979"
+    }
+  ],
+  "advisories": []
+}

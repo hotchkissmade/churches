@@ -1,0 +1,33 @@
+{
+  "id": "qjsxv8c75",
+  "url": "https://constellation.church/qjsxv8c75",
+  "name": "Venice Presbyterian Church",
+  "displayName": "Venice Presbyterian Church",
+  "address": {
+    "street": "825 The Rialto",
+    "city": "Venice",
+    "state": "FL",
+    "zip": "34285"
+  },
+  "coordinates": {
+    "latitude": 27.08542823791504,
+    "longitude": -82.44390869140625
+  },
+  "website": "https://venicepres.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/20222/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "20222"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "venicepres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591026361"
+    }
+  ],
+  "advisories": []
+}

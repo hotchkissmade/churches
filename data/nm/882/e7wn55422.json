@@ -1,0 +1,33 @@
+{
+  "id": "e7wn55422",
+  "url": "https://constellation.church/e7wn55422",
+  "name": "La Huerta Baptist Church",
+  "displayName": "La Huerta Baptist Church",
+  "address": {
+    "street": "109 W. Vineyard Ln",
+    "city": "Carlsbad",
+    "state": "NM",
+    "zip": "88220"
+  },
+  "coordinates": {
+    "latitude": 32.444631576538086,
+    "longitude": -104.22996520996094
+  },
+  "website": "https://lhbccarlsbad.org",
+  "listingUrl": "https://churches.sbc.net/church/la-huerta-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "la-huerta-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lhbccarlsbad.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850315541"
+    }
+  ],
+  "advisories": []
+}

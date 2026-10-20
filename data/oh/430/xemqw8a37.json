@@ -1,0 +1,33 @@
+{
+  "id": "xemqw8a37",
+  "url": "https://constellation.church/xemqw8a37",
+  "name": "St Paul Evangelical Lutheran Church",
+  "displayName": "St. Paul Evangelical Lutheran Church",
+  "address": {
+    "street": "4686 E Walnut St",
+    "city": "Westerville",
+    "state": "OH",
+    "zip": "43081-9609"
+  },
+  "coordinates": {
+    "latitude": 40.117549896240234,
+    "longitude": -82.86293029785156
+  },
+  "website": "https://splcwesterville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=74fc43a0-e753-4701-b322-2d8bb03c1f2f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "74fc43a0-e753-4701-b322-2d8bb03c1f2f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "splcwesterville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311229170"
+    }
+  ],
+  "advisories": []
+}

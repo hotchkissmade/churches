@@ -1,0 +1,33 @@
+{
+  "id": "c1zet2k85",
+  "url": "https://constellation.church/c1zet2k85",
+  "name": "Lac Qui Parle Lutheran Church",
+  "displayName": "Lac Qui Parle Lutheran Church",
+  "address": {
+    "street": "2339 236th St",
+    "city": "Dawson",
+    "state": "MN",
+    "zip": "56232-4293"
+  },
+  "coordinates": {
+    "latitude": 44.99945831298828,
+    "longitude": -95.99588775634766
+  },
+  "website": "https://lqplutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ae73c5fc-b1cc-417e-9a4b-1f86d720e1ca",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ae73c5fc-b1cc-417e-9a4b-1f86d720e1ca"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lqplutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410859484"
+    }
+  ],
+  "advisories": []
+}

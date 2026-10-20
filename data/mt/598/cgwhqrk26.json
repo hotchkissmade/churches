@@ -1,0 +1,37 @@
+{
+  "id": "cgwhqrk26",
+  "url": "https://constellation.church/cgwhqrk26",
+  "name": "Bitterroot Family Church",
+  "displayName": "Bitterroot Family Church",
+  "address": {
+    "street": "402 Church Street",
+    "city": "Stevensville",
+    "state": "MT",
+    "zip": "59870"
+  },
+  "coordinates": {
+    "latitude": 46.50788879394531,
+    "longitude": -114.09235382080078
+  },
+  "website": "https://bitterrootfamilychurch.com/about",
+  "listingUrl": "https://churches.sbc.net/church/bitterroot-family-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bitterroot-family-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bitterrootfamilychurch.com/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "816013908"
+    },
+    {
+      "namespace": "org.nabconference.id",
+      "value": "bitterroot-family-church"
+    }
+  ],
+  "advisories": []
+}

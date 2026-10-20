@@ -1,0 +1,33 @@
+{
+  "id": "cfh00cf19",
+  "url": "https://constellation.church/cfh00cf19",
+  "name": "St Andrew Lutheran Church",
+  "displayName": "St. Andrew Lutheran Church",
+  "address": {
+    "street": "15520 Sherman Way",
+    "city": "Van Nuys",
+    "state": "CA",
+    "zip": "91406-4113"
+  },
+  "coordinates": {
+    "latitude": 34.20041465759277,
+    "longitude": -118.47116088867188
+  },
+  "website": "https://tinlanhsanfernando.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c2be39c3-9f31-4cdd-b886-5a6f8c19372b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c2be39c3-9f31-4cdd-b886-5a6f8c19372b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tinlanhsanfernando.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "522418582"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cn90ewp60",
+  "url": "https://constellation.church/cn90ewp60",
+  "name": "Liberty Baptist Church, Everton",
+  "displayName": "Liberty Baptist Church, Everton",
+  "address": {
+    "street": "404 Route O",
+    "city": "Everton",
+    "state": "MO",
+    "zip": "65646"
+  },
+  "coordinates": {
+    "latitude": 37.37192344665527,
+    "longitude": -93.72277069091797
+  },
+  "website": "https://libertybaptisteverton.org",
+  "listingUrl": "https://churches.sbc.net/church/liberty-baptist-church-everton/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "liberty-baptist-church-everton"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "libertybaptisteverton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431337960"
+    }
+  ],
+  "advisories": []
+}

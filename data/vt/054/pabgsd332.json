@@ -1,0 +1,33 @@
+{
+  "id": "pabgsd332",
+  "url": "https://constellation.church/pabgsd332",
+  "name": "Trinity Presbyterian Church",
+  "displayName": "Trinity Presbyterian Church",
+  "address": {
+    "street": "350 South Main Street",
+    "city": "St. Albans",
+    "state": "VT",
+    "zip": "05478"
+  },
+  "coordinates": {
+    "latitude": 44.79245376586914,
+    "longitude": -73.09656143188477
+  },
+  "website": "https://tpcvt.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/218",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "218"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tpcvt.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030253208"
+    }
+  ],
+  "advisories": []
+}

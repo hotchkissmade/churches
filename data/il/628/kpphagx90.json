@@ -1,0 +1,33 @@
+{
+  "id": "kpphagx90",
+  "url": "https://constellation.church/kpphagx90",
+  "name": "Gateway Church",
+  "displayName": "Gateway Church",
+  "address": {
+    "street": "308 S 10th St",
+    "city": "Mount Vernon",
+    "state": "IL",
+    "zip": "62864"
+  },
+  "coordinates": {
+    "latitude": 38.31544494628906,
+    "longitude": -88.90327453613281
+  },
+  "website": "https://gatewaychurchmtv.org",
+  "listingUrl": "https://churches.sbc.net/church/gateway-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "gateway-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gatewaychurchmtv.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "352681663"
+    }
+  ],
+  "advisories": []
+}

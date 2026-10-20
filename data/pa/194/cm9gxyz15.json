@@ -1,0 +1,33 @@
+{
+  "id": "cm9gxyz15",
+  "url": "https://constellation.church/cm9gxyz15",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "660 N Charlotte St",
+    "city": "Pottstown",
+    "state": "PA",
+    "zip": "19464-4605"
+  },
+  "coordinates": {
+    "latitude": 40.25576591491699,
+    "longitude": -75.64029693603516
+  },
+  "website": "https://gracelutheranpreschool.wordpress.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0dffffd6-6dd9-4c42-a62a-bc591b50e93f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0dffffd6-6dd9-4c42-a62a-bc591b50e93f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelutheranpreschool.wordpress.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231715020"
+    }
+  ],
+  "advisories": []
+}

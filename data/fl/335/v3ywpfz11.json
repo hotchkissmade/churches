@@ -1,0 +1,33 @@
+{
+  "id": "v3ywpfz11",
+  "url": "https://constellation.church/v3ywpfz11",
+  "name": "Cedar Grove Baptist Church",
+  "displayName": "Cedar Grove Baptist Church",
+  "address": {
+    "street": "8201 Cedar Grove Church Rd",
+    "city": "Plant City",
+    "state": "FL",
+    "zip": "33567"
+  },
+  "coordinates": {
+    "latitude": 27.89067840576172,
+    "longitude": -82.10901260375977
+  },
+  "website": "https://cedargrovebaptistpc.org",
+  "listingUrl": "https://churches.sbc.net/church/cedar-grove-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cedar-grove-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cedargrovebaptistpc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592362170"
+    }
+  ],
+  "advisories": []
+}

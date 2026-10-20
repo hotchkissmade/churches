@@ -1,0 +1,33 @@
+{
+  "id": "ya98ht744",
+  "url": "https://constellation.church/ya98ht744",
+  "name": "Pima Street Baptist Church",
+  "displayName": "Pima Street Baptist Church",
+  "address": {
+    "street": "5056 E Pima St",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85712"
+  },
+  "coordinates": {
+    "latitude": 32.244590759277344,
+    "longitude": -110.89488220214844
+  },
+  "website": "https://aplacetobelongtucson.com",
+  "listingUrl": "https://churches.sbc.net/church/pima-street-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pima-street-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "aplacetobelongtucson.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860135024"
+    }
+  ],
+  "advisories": []
+}

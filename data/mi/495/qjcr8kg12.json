@@ -1,0 +1,33 @@
+{
+  "id": "qjcr8kg12",
+  "url": "https://constellation.church/qjcr8kg12",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "2700 Fulton St E",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49506-1808"
+  },
+  "coordinates": {
+    "latitude": 42.96202087402344,
+    "longitude": -85.60208511352539
+  },
+  "website": "https://tlcgr.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=76aff3e5-a718-4fbd-96e8-59b7d45270b4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "76aff3e5-a718-4fbd-96e8-59b7d45270b4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcgr.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381369617"
+    }
+  ],
+  "advisories": []
+}

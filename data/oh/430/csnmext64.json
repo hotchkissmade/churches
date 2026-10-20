@@ -1,0 +1,33 @@
+{
+  "id": "csnmext64",
+  "url": "https://constellation.church/csnmext64",
+  "name": "Rose Run Presbyterian Church",
+  "displayName": "Rose Run Presbyterian Church",
+  "address": {
+    "street": "5220 Johnstown Rd",
+    "city": "New Albany",
+    "state": "OH",
+    "zip": "43054"
+  },
+  "coordinates": {
+    "latitude": 40.061594009399414,
+    "longitude": -82.83094787597656
+  },
+  "website": "https://roserunpresbyterian.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/15155/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "15155"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "roserunpresbyterian.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "050625737"
+    }
+  ],
+  "advisories": []
+}

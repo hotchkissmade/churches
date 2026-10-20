@@ -1,0 +1,33 @@
+{
+  "id": "n6yj1wa69",
+  "url": "https://constellation.church/n6yj1wa69",
+  "name": "Antioch Presbyterian Church",
+  "displayName": "Antioch Presbyterian Church",
+  "address": {
+    "street": "3600 SC-417",
+    "city": "Woodruff",
+    "state": "SC",
+    "zip": "29388"
+  },
+  "coordinates": {
+    "latitude": 34.810983657836914,
+    "longitude": -82.1389045715332
+  },
+  "website": "https://antiochpca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/70",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "70"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "antiochpca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570725572"
+    }
+  ],
+  "advisories": []
+}

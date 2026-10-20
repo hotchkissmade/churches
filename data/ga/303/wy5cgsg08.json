@@ -1,0 +1,33 @@
+{
+  "id": "wy5cgsg08",
+  "url": "https://constellation.church/wy5cgsg08",
+  "name": "St. Martin in the Fields Episcopal Church",
+  "displayName": "St. Martin in the Fields Episcopal Church",
+  "address": {
+    "street": "3110 Ashford Dunwoody Rd NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30319-2972"
+  },
+  "coordinates": {
+    "latitude": 33.87986946105957,
+    "longitude": -84.3280029296875
+  },
+  "website": "https://stmartins.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-atlanta/list/st-martin-fields-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-atlanta/st-martin-fields-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmartins.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580960379"
+    }
+  ],
+  "advisories": []
+}

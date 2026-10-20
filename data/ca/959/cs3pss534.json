@@ -1,0 +1,33 @@
+{
+  "id": "cs3pss534",
+  "url": "https://constellation.church/cs3pss534",
+  "name": "Trinity Anglican Church",
+  "displayName": "Trinity Anglican Church",
+  "address": {
+    "street": "929 11th Street",
+    "city": "Marysville",
+    "state": "CA",
+    "zip": "95901"
+  },
+  "coordinates": {
+    "latitude": 39.14645767211914,
+    "longitude": -121.5987319946289
+  },
+  "website": "https://trinityanglican.net",
+  "listingUrl": "https://www.acna.org/admin_units/171",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "171"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityanglican.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "205376082"
+    }
+  ],
+  "advisories": []
+}

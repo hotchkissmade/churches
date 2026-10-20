@@ -1,0 +1,33 @@
+{
+  "id": "qr9c8zh45",
+  "url": "https://constellation.church/qr9c8zh45",
+  "name": "Church of the Abiding Presence",
+  "displayName": "Church of the Abiding Presence",
+  "address": {
+    "street": "1672 E 172nd St",
+    "city": "Bronx",
+    "state": "NY",
+    "zip": "10472-2230"
+  },
+  "coordinates": {
+    "latitude": 40.83185577392578,
+    "longitude": -73.87234878540039
+  },
+  "website": "https://churchoftheabidingpresence.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=01713832-4a03-4c53-8119-c2fe347b4996",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "01713832-4a03-4c53-8119-c2fe347b4996"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchoftheabidingpresence.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "132807255"
+    }
+  ],
+  "advisories": []
+}

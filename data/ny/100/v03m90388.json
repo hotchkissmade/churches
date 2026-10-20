@@ -1,0 +1,33 @@
+{
+  "id": "v03m90388",
+  "url": "https://constellation.church/v03m90388",
+  "name": "Redeemer Presbyterian Church Downtown",
+  "displayName": "Redeemer Presbyterian Church Downtown",
+  "address": {
+    "street": "120 W. 14th Street",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10011"
+  },
+  "coordinates": {
+    "latitude": 40.73771095275879,
+    "longitude": -73.9982795715332
+  },
+  "website": "https://redeemerdt.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6305",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6305"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerdt.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "854254117"
+    }
+  ],
+  "advisories": []
+}

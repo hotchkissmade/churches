@@ -1,0 +1,33 @@
+{
+  "id": "g9839ek92",
+  "url": "https://constellation.church/g9839ek92",
+  "name": "First Evangelical Lutheran Church",
+  "displayName": "First Evangelical Lutheran Church",
+  "address": {
+    "street": "561 Chestnut St",
+    "city": "Taylors Falls",
+    "state": "MN",
+    "zip": "55084-1110"
+  },
+  "coordinates": {
+    "latitude": 45.405906677246094,
+    "longitude": -92.66130828857422
+  },
+  "website": "https://tflutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1c08d50c-b7a2-4c5e-9a03-421dd4fad508",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1c08d50c-b7a2-4c5e-9a03-421dd4fad508"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tflutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411262673"
+    }
+  ],
+  "advisories": []
+}

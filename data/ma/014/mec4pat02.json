@@ -1,0 +1,29 @@
+{
+  "id": "mec4pat02",
+  "url": "https://constellation.church/mec4pat02",
+  "name": "ST JOHNS CHURCH",
+  "displayName": "St. John's Church",
+  "address": {
+    "street": "1 SCHOOL ST",
+    "city": "Townsend",
+    "state": "MA",
+    "zip": "01469"
+  },
+  "coordinates": {
+    "latitude": 42.668935775756836,
+    "longitude": -71.70397186279297
+  },
+  "website": "https://stjs.page/bulletins",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042113265"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjs.page/bulletins"
+    }
+  ],
+  "advisories": []
+}

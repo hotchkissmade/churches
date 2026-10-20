@@ -1,0 +1,37 @@
+{
+  "id": "xkmbtde27",
+  "url": "https://constellation.church/xkmbtde27",
+  "name": "Our Saviour's Lutheran Church",
+  "displayName": "Our Saviour's Lutheran Church",
+  "address": {
+    "street": "3009 N Meade St",
+    "city": "Appleton",
+    "state": "WI",
+    "zip": "54911-1511"
+  },
+  "coordinates": {
+    "latitude": 44.29014587402344,
+    "longitude": -88.39611053466797
+  },
+  "website": "https://oslc-appleton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=55154c4b-38bf-4059-acf0-b4479b36a80a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "55154c4b-38bf-4059-acf0-b4479b36a80a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oslc-appleton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391093778"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391287755"
+    }
+  ],
+  "advisories": []
+}

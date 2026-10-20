@@ -1,0 +1,37 @@
+{
+  "id": "eq5v9xd11",
+  "url": "https://constellation.church/eq5v9xd11",
+  "name": "Gladeview Baptist Church of Miami",
+  "displayName": "Gladeview Baptist Church of Miami",
+  "address": {
+    "street": "12201 SW 26th St",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33175"
+  },
+  "coordinates": {
+    "latitude": 25.744403839111328,
+    "longitude": -80.39259719848633
+  },
+  "website": "https://gladeviewchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/gladeview-baptist-church-of-miami/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "gladeview-baptist-church-of-miami"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gladeviewchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591680624"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592758610"
+    }
+  ],
+  "advisories": []
+}

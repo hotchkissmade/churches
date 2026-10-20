@@ -1,0 +1,33 @@
+{
+  "id": "scpzta106",
+  "url": "https://constellation.church/scpzta106",
+  "name": "Trinity Assembly of God",
+  "displayName": "Trinity Assembly of God",
+  "address": {
+    "street": "1051 Beech St",
+    "city": "Mount Vernon",
+    "state": "OH",
+    "zip": "43050"
+  },
+  "coordinates": {
+    "latitude": 40.404090881347656,
+    "longitude": -82.46152877807617
+  },
+  "website": "https://mvtrinity.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=8e64037f-1aa8-4fb5-80f3-291199c11dee&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "8e64037f-1aa8-4fb5-80f3-291199c11dee"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mvtrinity.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311005753"
+    }
+  ],
+  "advisories": []
+}

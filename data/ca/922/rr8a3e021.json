@@ -1,0 +1,33 @@
+{
+  "id": "rr8a3e021",
+  "url": "https://constellation.church/rr8a3e021",
+  "name": "Thrive Church",
+  "displayName": "Thrive Church",
+  "address": {
+    "street": "2562 W Wilson St",
+    "city": "Banning",
+    "state": "CA",
+    "zip": "92220-3947"
+  },
+  "coordinates": {
+    "latitude": 33.9322452545166,
+    "longitude": -116.9052505493164
+  },
+  "website": "https://thrivechurchbanning.com",
+  "listingUrl": "https://rforw.pcg.org/ChurchDetails.aspx?contactID=781210",
+  "identifiers": [
+    {
+      "namespace": "org.pcg.rforw.id",
+      "value": "781210"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thrivechurchbanning.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "264434125"
+    }
+  ],
+  "advisories": []
+}

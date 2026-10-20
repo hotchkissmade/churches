@@ -1,0 +1,33 @@
+{
+  "id": "zdvynfc56",
+  "url": "https://constellation.church/zdvynfc56",
+  "name": "First Baptist Church Saint Clair",
+  "displayName": "First Baptist Church St. Clair",
+  "address": {
+    "street": "450 E Springfield Rd",
+    "city": "Saint Clair",
+    "state": "MO",
+    "zip": "63077"
+  },
+  "coordinates": {
+    "latitude": 38.34328079223633,
+    "longitude": -90.98223876953125
+  },
+  "website": "https://fbcstclair.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-saint-clair/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-saint-clair"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcstclair.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430673524"
+    }
+  ],
+  "advisories": []
+}

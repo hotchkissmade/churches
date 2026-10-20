@@ -1,0 +1,33 @@
+{
+  "id": "ctph98c42",
+  "url": "https://constellation.church/ctph98c42",
+  "name": "Church of the Covenant Presbyterian Church",
+  "displayName": "Church of the Covenant Presbyterian Church",
+  "address": {
+    "street": "267 E Beau St",
+    "city": "Washington",
+    "state": "PA",
+    "zip": "15301"
+  },
+  "coordinates": {
+    "latitude": 40.171878,
+    "longitude": -80.239533
+  },
+  "website": "https://churchofthecov.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/8405/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "8405"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchofthecov.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251093374"
+    }
+  ],
+  "advisories": []
+}

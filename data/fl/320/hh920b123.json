@@ -1,0 +1,33 @@
+{
+  "id": "hh920b123",
+  "url": "https://constellation.church/hh920b123",
+  "name": "Lee First Baptist Church",
+  "displayName": "Lee First Baptist Church",
+  "address": {
+    "street": "8157 E Us Highway 90",
+    "city": "Lee",
+    "state": "FL",
+    "zip": "32059"
+  },
+  "coordinates": {
+    "latitude": 30.42009925842285,
+    "longitude": -83.30066680908203
+  },
+  "website": "https://leefirstbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/lee-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lee-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "leefirstbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592368706"
+    }
+  ],
+  "advisories": []
+}

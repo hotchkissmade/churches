@@ -1,0 +1,33 @@
+{
+  "id": "zs8gy1y31",
+  "url": "https://constellation.church/zs8gy1y31",
+  "name": "Sierra Evangelical Lutheran Church",
+  "displayName": "Sierra Evangelical Lutheran Church",
+  "address": {
+    "street": "101 N Lenzner Ave",
+    "city": "Sierra Vista",
+    "state": "AZ",
+    "zip": "85635-2000"
+  },
+  "coordinates": {
+    "latitude": 31.55632972717285,
+    "longitude": -110.28164672851562
+  },
+  "website": "https://selcaz.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=be4be66b-acfe-45a8-8211-6a046dd6d5ae",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "be4be66b-acfe-45a8-8211-6a046dd6d5ae"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "selcaz.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860215528"
+    }
+  ],
+  "advisories": []
+}

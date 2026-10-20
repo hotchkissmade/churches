@@ -1,0 +1,33 @@
+{
+  "id": "gheckt034",
+  "url": "https://constellation.church/gheckt034",
+  "name": "St. John’s Episcopal Church",
+  "displayName": "St. John’s Episcopal Church",
+  "address": {
+    "street": "4200 S. Atlanta Pl.",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74105"
+  },
+  "coordinates": {
+    "latitude": 36.103044509887695,
+    "longitude": -95.95507049560547
+  },
+  "website": "https://sjtulsa.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-oklahoma/list/st-johns-episcopal-church-2",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-oklahoma/st-johns-episcopal-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sjtulsa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "730665493"
+    }
+  ],
+  "advisories": []
+}

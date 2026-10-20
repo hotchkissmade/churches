@@ -1,0 +1,33 @@
+{
+  "id": "h22ba8283",
+  "url": "https://constellation.church/h22ba8283",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "909 8th St",
+    "city": "Rupert",
+    "state": "ID",
+    "zip": "83350-1305"
+  },
+  "coordinates": {
+    "latitude": 42.619441986083984,
+    "longitude": -113.67976379394531
+  },
+  "website": "https://tlcrupert.com",
+  "listingUrl": "https://locator.lcms.org/church/C/785142",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "785142"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcrupert.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820390883"
+    }
+  ],
+  "advisories": []
+}

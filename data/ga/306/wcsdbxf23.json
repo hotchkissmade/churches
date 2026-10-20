@@ -1,0 +1,33 @@
+{
+  "id": "wcsdbxf23",
+  "url": "https://constellation.church/wcsdbxf23",
+  "name": "Brownwood Baptist, Inc.",
+  "displayName": "Brownwood Baptist Church",
+  "address": {
+    "street": "1521 Thankful Rd",
+    "city": "Madison",
+    "state": "GA",
+    "zip": "30650"
+  },
+  "coordinates": {
+    "latitude": 33.56137657165527,
+    "longitude": -83.55443572998047
+  },
+  "website": "https://bwbcmadison.com",
+  "listingUrl": "https://churches.sbc.net/church/brownwood-baptist-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "brownwood-baptist-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bwbcmadison.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581711854"
+    }
+  ],
+  "advisories": []
+}

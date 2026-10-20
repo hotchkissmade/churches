@@ -1,0 +1,33 @@
+{
+  "id": "m54m5d784",
+  "url": "https://constellation.church/m54m5d784",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "206 Pleasantview Ave",
+    "city": "Pasadena",
+    "state": "MD",
+    "zip": "21122"
+  },
+  "coordinates": {
+    "latitude": 39.11112403869629,
+    "longitude": -76.57138061523438
+  },
+  "website": "https://pasadenaassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=09a42c10-a184-44c7-84eb-46630d8957a0&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "09a42c10-a184-44c7-84eb-46630d8957a0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pasadenaassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521177563"
+    }
+  ],
+  "advisories": []
+}

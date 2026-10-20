@@ -1,0 +1,33 @@
+{
+  "id": "hf8tvxf31",
+  "url": "https://constellation.church/hf8tvxf31",
+  "name": "Gracepoint Church",
+  "displayName": "Gracepoint Church",
+  "address": {
+    "street": "100 Cardinal Dr",
+    "city": "Richmond",
+    "state": "KY",
+    "zip": "40475"
+  },
+  "coordinates": {
+    "latitude": 37.7529354095459,
+    "longitude": -84.3323860168457
+  },
+  "website": "https://gpcrichmond.church",
+  "listingUrl": "https://churches.sbc.net/church/gracepoint-church-4/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "gracepoint-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gpcrichmond.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "200092857"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ah2vsqr25",
+  "url": "https://constellation.church/ah2vsqr25",
+  "name": "A & M United Methodist Church",
+  "displayName": "A & M United Methodist Church",
+  "address": {
+    "street": "417 University Dr",
+    "city": "College Station",
+    "state": "TX",
+    "zip": "77840-1375"
+  },
+  "coordinates": {
+    "latitude": 30.619226455688477,
+    "longitude": -96.34535217285156
+  },
+  "website": "https://am-umc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMDIIA5",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMDIIA5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "am-umc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741180153"
+    }
+  ],
+  "advisories": []
+}

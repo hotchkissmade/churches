@@ -1,0 +1,33 @@
+{
+  "id": "rksz2zy35",
+  "url": "https://constellation.church/rksz2zy35",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "223 Oak St",
+    "city": "Clayton",
+    "state": "NM",
+    "zip": "88415"
+  },
+  "coordinates": {
+    "latitude": 36.450178146362305,
+    "longitude": -103.1808090209961
+  },
+  "website": "https://fbcclayton.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-566/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-566"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcclayton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850317770"
+    }
+  ],
+  "advisories": []
+}

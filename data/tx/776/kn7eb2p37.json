@@ -1,0 +1,33 @@
+{
+  "id": "kn7eb2p37",
+  "url": "https://constellation.church/kn7eb2p37",
+  "name": "Woodrow Baptist Church",
+  "displayName": "Woodrow Baptist Church",
+  "address": {
+    "street": "1325 Woodrow St",
+    "city": "Silsbee",
+    "state": "TX",
+    "zip": "77656"
+  },
+  "coordinates": {
+    "latitude": 30.344329833984375,
+    "longitude": -94.19491577148438
+  },
+  "website": "https://woodrowbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/woodrow-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "woodrow-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "woodrowbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741887370"
+    }
+  ],
+  "advisories": []
+}

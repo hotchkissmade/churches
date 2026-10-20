@@ -1,0 +1,33 @@
+{
+  "id": "wpjya1b12",
+  "url": "https://constellation.church/wpjya1b12",
+  "name": "Harvest Bible Chapel",
+  "displayName": "Harvest Bible Chapel",
+  "address": {
+    "street": "11570 San Jose Blvd South",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32223"
+  },
+  "coordinates": {
+    "latitude": 30.16282081604004,
+    "longitude": -81.6335563659668
+  },
+  "website": "https://harvestjacksonville.org",
+  "listingUrl": "https://churches.sbc.net/church/harvest-bible-chapel/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "harvest-bible-chapel"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "harvestjacksonville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "542113310"
+    }
+  ],
+  "advisories": []
+}

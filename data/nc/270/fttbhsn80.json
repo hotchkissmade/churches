@@ -1,0 +1,33 @@
+{
+  "id": "fttbhsn80",
+  "url": "https://constellation.church/fttbhsn80",
+  "name": "Church of the Messiah",
+  "displayName": "Church of the Messiah",
+  "address": {
+    "street": "114 S 2nd Ave",
+    "city": "Mayodan",
+    "state": "NC",
+    "zip": "27027-2712"
+  },
+  "coordinates": {
+    "latitude": 36.41155242919922,
+    "longitude": -79.96714401245117
+  },
+  "website": "https://mayodanepiscopalchurch.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-north-carolina/list/church-messiah",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-north-carolina/church-messiah"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mayodanepiscopalchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581488867"
+    }
+  ],
+  "advisories": []
+}

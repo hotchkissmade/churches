@@ -1,0 +1,33 @@
+{
+  "id": "xxcwrvj20",
+  "url": "https://constellation.church/xxcwrvj20",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "45 N Reading Ave",
+    "city": "Boyertown",
+    "state": "PA",
+    "zip": "19512-1039"
+  },
+  "coordinates": {
+    "latitude": 40.33485221862793,
+    "longitude": -75.63658142089844
+  },
+  "website": "https://stjohnsboyertown.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=06fdd56b-a24d-4255-839a-6e38ae9c6dfe",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "06fdd56b-a24d-4255-839a-6e38ae9c6dfe"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsboyertown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231537488"
+    }
+  ],
+  "advisories": []
+}

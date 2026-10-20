@@ -1,0 +1,33 @@
+{
+  "id": "esm2ybr91",
+  "url": "https://constellation.church/esm2ybr91",
+  "name": "Cary United Methodist Church",
+  "displayName": "Cary United Methodist Church",
+  "address": {
+    "street": "500 N First Street",
+    "city": "Cary",
+    "state": "IL",
+    "zip": "60013"
+  },
+  "coordinates": {
+    "latitude": 42.21536636352539,
+    "longitude": -88.2369384765625
+  },
+  "website": "https://caryumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFL2IIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFL2IIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "caryumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362483123"
+    }
+  ],
+  "advisories": []
+}

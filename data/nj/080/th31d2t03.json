@@ -1,0 +1,33 @@
+{
+  "id": "th31d2t03",
+  "url": "https://constellation.church/th31d2t03",
+  "name": "Fellowship UMC",
+  "displayName": "Fellowship UMC",
+  "address": {
+    "street": "704 Garden St",
+    "city": "Haddon Heights",
+    "state": "NJ",
+    "zip": "08035-1840"
+  },
+  "coordinates": {
+    "latitude": 39.87965393066406,
+    "longitude": -75.05837631225586
+  },
+  "website": "https://fellowshipumcofhh.net",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFM7LIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFM7LIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fellowshipumcofhh.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "210672769"
+    }
+  ],
+  "advisories": []
+}

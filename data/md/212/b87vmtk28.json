@@ -1,0 +1,33 @@
+{
+  "id": "b87vmtk28",
+  "url": "https://constellation.church/b87vmtk28",
+  "name": "Southwest Baptist Church",
+  "displayName": "Southwest Baptist Church",
+  "address": {
+    "street": "26 S Calhoun St",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21223"
+  },
+  "coordinates": {
+    "latitude": 39.28709411621094,
+    "longitude": -76.63965225219727
+  },
+  "website": "https://swbcbaltimore.com",
+  "listingUrl": "https://churches.sbc.net/church/southwest-baptist-church-5/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "southwest-baptist-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "swbcbaltimore.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "522141429"
+    }
+  ],
+  "advisories": []
+}

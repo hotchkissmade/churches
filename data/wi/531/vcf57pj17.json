@@ -1,0 +1,33 @@
+{
+  "id": "vcf57pj17",
+  "url": "https://constellation.church/vcf57pj17",
+  "name": "Christus Lutheran Church",
+  "displayName": "Christus Lutheran Church",
+  "address": {
+    "street": "N6116 Delaney Rd",
+    "city": "Delavan",
+    "state": "WI",
+    "zip": "53115-2406"
+  },
+  "coordinates": {
+    "latitude": 42.709773336398,
+    "longitude": -88.758778090318
+  },
+  "website": "https://christuswels.net",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24907",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24907"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christuswels.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396069094"
+    }
+  ],
+  "advisories": []
+}

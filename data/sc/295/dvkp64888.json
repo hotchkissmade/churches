@@ -1,0 +1,33 @@
+{
+  "id": "dvkp64888",
+  "url": "https://constellation.church/dvkp64888",
+  "name": "Pawleys Island Community Church",
+  "displayName": "Pawleys Island Community Church",
+  "address": {
+    "street": "10304 Ocean Hwy",
+    "city": "Pawleys Isl",
+    "state": "SC",
+    "zip": "29585"
+  },
+  "coordinates": {
+    "latitude": 33.4357852935791,
+    "longitude": -79.12986373901367
+  },
+  "website": "https://pawleysisland.church",
+  "listingUrl": "https://churches.sbc.net/church/pawleys-island-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pawleys-island-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pawleysisland.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570756928"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "meckscx28",
+  "url": "https://constellation.church/meckscx28",
+  "name": "Swamp Lutheran Church",
+  "displayName": "Swamp Lutheran Church",
+  "address": {
+    "street": "275 Swamp Church Rd",
+    "city": "Reinholds",
+    "state": "PA",
+    "zip": "17569-9562"
+  },
+  "coordinates": {
+    "latitude": 40.274587631225586,
+    "longitude": -76.12598419189453
+  },
+  "website": "https://swamplutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ee3cab37-0f92-4817-8419-b14bcdc9c805",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ee3cab37-0f92-4817-8419-b14bcdc9c805"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "swamplutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232139620"
+    }
+  ],
+  "advisories": []
+}

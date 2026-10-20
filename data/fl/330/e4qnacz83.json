@@ -1,0 +1,33 @@
+{
+  "id": "e4qnacz83",
+  "url": "https://constellation.church/e4qnacz83",
+  "name": "First Baptist Church of Homestead",
+  "displayName": "First Baptist Church of Homestead",
+  "address": {
+    "street": "29050 SW 177th Ave",
+    "city": "Homestead",
+    "state": "FL",
+    "zip": "33030"
+  },
+  "coordinates": {
+    "latitude": 25.496952056884766,
+    "longitude": -80.47922897338867
+  },
+  "website": "https://hopeforhomestead.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-homestead/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-homestead"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopeforhomestead.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590791013"
+    }
+  ],
+  "advisories": []
+}

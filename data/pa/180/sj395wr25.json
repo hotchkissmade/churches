@@ -1,0 +1,33 @@
+{
+  "id": "sj395wr25",
+  "url": "https://constellation.church/sj395wr25",
+  "name": "Central Assembly of God",
+  "displayName": "Central Assembly of God",
+  "address": {
+    "street": "1300 Eaton Ave",
+    "city": "Bethlehem",
+    "state": "PA",
+    "zip": "18018"
+  },
+  "coordinates": {
+    "latitude": 40.63380813598633,
+    "longitude": -75.40050888061523
+  },
+  "website": "https://centralfamily.net",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=8bf07650-9c4d-4b8a-b27d-953e3b7a62fd&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "8bf07650-9c4d-4b8a-b27d-953e3b7a62fd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centralfamily.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231976585"
+    }
+  ],
+  "advisories": []
+}

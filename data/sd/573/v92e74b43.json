@@ -1,0 +1,33 @@
+{
+  "id": "v92e74b43",
+  "url": "https://constellation.church/v92e74b43",
+  "name": "Platte CRC",
+  "displayName": "Platte Christian Reformed Church",
+  "address": {
+    "street": "520 Wyoming Ave",
+    "city": "Platte",
+    "state": "SD",
+    "zip": "57369"
+  },
+  "coordinates": {
+    "latitude": 43.385379791259766,
+    "longitude": -98.85086822509766
+  },
+  "website": "https://plattecrc.org/bulletins-newsletters",
+  "listingUrl": "https://www.crcna.org/churches/8753",
+  "identifiers": [
+    {
+      "namespace": "org.crcna.id",
+      "value": "8753"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "plattecrc.org/bulletins-newsletters"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "466041042"
+    }
+  ],
+  "advisories": []
+}

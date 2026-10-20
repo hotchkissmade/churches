@@ -1,0 +1,33 @@
+{
+  "id": "p4j6p7v29",
+  "url": "https://constellation.church/p4j6p7v29",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "652 Mulberry Street",
+    "city": "Macon",
+    "state": "GA",
+    "zip": "31201"
+  },
+  "coordinates": {
+    "latitude": 32.838186264038086,
+    "longitude": -83.62945175170898
+  },
+  "website": "https://fpcmacon.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/482",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "482"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcmacon.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581138249"
+    }
+  ],
+  "advisories": []
+}

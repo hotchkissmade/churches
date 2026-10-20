@@ -1,0 +1,33 @@
+{
+  "id": "nre11pe14",
+  "url": "https://constellation.church/nre11pe14",
+  "name": "Shepherd Of The Valley Lutheran Church",
+  "displayName": "Shepherd Of The Valley Lutheran Church",
+  "address": {
+    "street": "3100 S Five Mile Rd",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83709-3919"
+  },
+  "coordinates": {
+    "latitude": 43.574506759643555,
+    "longitude": -116.31340789794922
+  },
+  "website": "https://sovboise.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6a87e81e-af11-4a21-9c89-7a28fbd4e295",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6a87e81e-af11-4a21-9c89-7a28fbd4e295"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sovboise.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820334118"
+    }
+  ],
+  "advisories": []
+}

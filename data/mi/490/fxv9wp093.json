@@ -1,0 +1,37 @@
+{
+  "id": "fxv9wp093",
+  "url": "https://constellation.church/fxv9wp093",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "504 S Westnedge Ave",
+    "city": "Kalamazoo",
+    "state": "MI",
+    "zip": "49007-6004"
+  },
+  "coordinates": {
+    "latitude": 42.28729248046875,
+    "longitude": -85.58988571166992
+  },
+  "website": "https://tlckzoo.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b60c30c7-d574-4a23-8c44-8a5f224d1fac",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b60c30c7-d574-4a23-8c44-8a5f224d1fac"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlckzoo.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381678580"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382956134"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "n2ryst433",
+  "url": "https://constellation.church/n2ryst433",
+  "name": "Evangelical Lutheran Church",
+  "displayName": "Evangelical Lutheran Church",
+  "address": {
+    "street": "115 N 5th St",
+    "city": "Black River Falls",
+    "state": "WI",
+    "zip": "54615-1237"
+  },
+  "coordinates": {
+    "latitude": 44.295875549316406,
+    "longitude": -90.85329055786133
+  },
+  "website": "https://brfelc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6d4ca69c-2e73-401a-b5ae-0ee0e645682c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6d4ca69c-2e73-401a-b5ae-0ee0e645682c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "brfelc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390990010"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391438132"
+    }
+  ],
+  "advisories": []
+}

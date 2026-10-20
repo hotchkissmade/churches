@@ -1,0 +1,33 @@
+{
+  "id": "qb9p5de14",
+  "url": "https://constellation.church/qb9p5de14",
+  "name": "West Side Baptist Church",
+  "displayName": "West Side Baptist Church",
+  "address": {
+    "street": "2400 W Hillsboro St",
+    "city": "El Dorado",
+    "state": "AR",
+    "zip": "71730"
+  },
+  "coordinates": {
+    "latitude": 33.20993995666504,
+    "longitude": -92.6939697265625
+  },
+  "website": "https://westside.family",
+  "listingUrl": "https://churches.sbc.net/church/west-side-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "west-side-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westside.family"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "710272103"
+    }
+  ],
+  "advisories": []
+}

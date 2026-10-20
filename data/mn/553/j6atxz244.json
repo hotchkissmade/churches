@@ -1,0 +1,33 @@
+{
+  "id": "j6atxz244",
+  "url": "https://constellation.church/j6atxz244",
+  "name": "Riverview Church",
+  "displayName": "Riverview Church",
+  "address": {
+    "street": "752 Grant St",
+    "city": "Anoka",
+    "state": "MN",
+    "zip": "55303"
+  },
+  "coordinates": {
+    "latitude": 45.20988464355469,
+    "longitude": -93.37646484375
+  },
+  "website": "https://anokachurch.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=2ba2ecb2-3b65-4159-8184-2c1af8d1d338&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "2ba2ecb2-3b65-4159-8184-2c1af8d1d338"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "anokachurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411240427"
+    }
+  ],
+  "advisories": []
+}

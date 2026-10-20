@@ -1,0 +1,33 @@
+{
+  "id": "npznn0x88",
+  "url": "https://constellation.church/npznn0x88",
+  "name": "Riverpoint Church",
+  "displayName": "Riverpoint Church",
+  "address": {
+    "street": "375 Bearden Rd",
+    "city": "Pelham",
+    "state": "AL",
+    "zip": "35124"
+  },
+  "coordinates": {
+    "latitude": 33.30348777770996,
+    "longitude": -86.81472778320312
+  },
+  "website": "https://riverpointchurch.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=b899e9b3-dfc0-4f28-b6b5-c1b8ba6b4f4c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "b899e9b3-dfc0-4f28-b6b5-c1b8ba6b4f4c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "riverpointchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "200009355"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "w352veh32",
+  "url": "https://constellation.church/w352veh32",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "300 E 2nd St",
+    "city": "Duluth",
+    "state": "MN",
+    "zip": "55805"
+  },
+  "coordinates": {
+    "latitude": 46.791221618652344,
+    "longitude": -92.09638977050781
+  },
+  "website": "https://fpcduluth.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/10448/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "10448"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcduluth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237401829"
+    }
+  ],
+  "advisories": []
+}

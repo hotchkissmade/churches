@@ -1,0 +1,33 @@
+{
+  "id": "wvyqmc006",
+  "url": "https://constellation.church/wvyqmc006",
+  "name": "St. Andrew's by-the-Lake",
+  "displayName": "St. Andrew's by-the-Lake",
+  "address": {
+    "street": "2802 Minnesota Ave",
+    "city": "Duluth",
+    "state": "MN",
+    "zip": "55802-2526"
+  },
+  "coordinates": {
+    "latitude": 46.75464630126953,
+    "longitude": -92.07460021972656
+  },
+  "website": "https://standrewsbythelake.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/st-andrews-lake",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/st-andrews-lake"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewsbythelake.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410995626"
+    }
+  ],
+  "advisories": []
+}

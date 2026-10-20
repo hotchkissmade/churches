@@ -1,0 +1,33 @@
+{
+  "id": "xbpdcsz49",
+  "url": "https://constellation.church/xbpdcsz49",
+  "name": "Hillcrest Church",
+  "displayName": "Hillcrest Church",
+  "address": {
+    "street": "6750 State Hwy 303 NE Bremerton",
+    "city": null,
+    "state": "WA",
+    "zip": "98311"
+  },
+  "coordinates": {
+    "latitude": 47.624080657958984,
+    "longitude": -122.62539672851562
+  },
+  "website": "https://hillcrestchurch.info",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=e7786cd2-ddb0-4d5d-aebe-76db9ebaf7ba&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "e7786cd2-ddb0-4d5d-aebe-76db9ebaf7ba"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hillcrestchurch.info"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911213948"
+    }
+  ],
+  "advisories": []
+}

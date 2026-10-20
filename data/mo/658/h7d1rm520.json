@@ -1,0 +1,33 @@
+{
+  "id": "h7d1rm520",
+  "url": "https://constellation.church/h7d1rm520",
+  "name": "Newstart Community Chapel",
+  "displayName": "Newstart Community Chapel",
+  "address": {
+    "street": "205 S Scenic Ave",
+    "city": "Springfield",
+    "state": "MO",
+    "zip": "65802"
+  },
+  "coordinates": {
+    "latitude": 37.2088316,
+    "longitude": -93.3306576
+  },
+  "website": "https://newstart-church.org",
+  "listingUrl": "https://churches.sbc.net/church/newstart-community-chapel/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "newstart-community-chapel"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newstart-church.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "203595641"
+    }
+  ],
+  "advisories": []
+}

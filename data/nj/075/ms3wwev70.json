@@ -1,0 +1,33 @@
+{
+  "id": "ms3wwev70",
+  "url": "https://constellation.church/ms3wwev70",
+  "name": "First Church (Paterson)",
+  "displayName": "First Church (Paterson)",
+  "address": {
+    "street": "343 11th Ave",
+    "city": "Paterson",
+    "state": "NJ",
+    "zip": "07514-2704"
+  },
+  "coordinates": {
+    "latitude": 40.92265319824219,
+    "longitude": -74.1532096862793
+  },
+  "website": "https://firstsdapaterson.org",
+  "listingUrl": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=15388",
+  "identifiers": [
+    {
+      "namespace": "org.adventistdirectory.id",
+      "value": "15388"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstsdapaterson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222108934"
+    }
+  ],
+  "advisories": []
+}

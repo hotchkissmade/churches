@@ -1,0 +1,33 @@
+{
+  "id": "c0r97b072",
+  "url": "https://constellation.church/c0r97b072",
+  "name": "St. John's Church",
+  "displayName": "St. John's Church",
+  "address": {
+    "street": "17 Woodbridge Ave",
+    "city": "Sewaren",
+    "state": "NJ",
+    "zip": "07077-1423"
+  },
+  "coordinates": {
+    "latitude": 40.55179977416992,
+    "longitude": -74.25651168823242
+  },
+  "website": "https://saintjohnschurchwoodbridge.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-new-jersey/list/st-johns-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-new-jersey/st-johns-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintjohnschurchwoodbridge.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "223175780"
+    }
+  ],
+  "advisories": []
+}

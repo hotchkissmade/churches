@@ -1,0 +1,33 @@
+{
+  "id": "m2fab3307",
+  "url": "https://constellation.church/m2fab3307",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "3747 Trinity Church Road",
+    "city": "Concord",
+    "state": "NC",
+    "zip": "28025"
+  },
+  "coordinates": {
+    "latitude": 35.465789794921875,
+    "longitude": -80.6906509399414
+  },
+  "website": "https://trinitylutheranconcord.org",
+  "listingUrl": "https://lcmc.net/congregation/110111",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "110111"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylutheranconcord.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "566171935"
+    }
+  ],
+  "advisories": []
+}

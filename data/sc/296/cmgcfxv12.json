@@ -1,0 +1,33 @@
+{
+  "id": "cmgcfxv12",
+  "url": "https://constellation.church/cmgcfxv12",
+  "name": "Bethel Baptist Church",
+  "displayName": "Bethel Baptist Church",
+  "address": {
+    "street": "403 Sulphur Springs Rd",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29617"
+  },
+  "coordinates": {
+    "latitude": 34.892107009887695,
+    "longitude": -82.44778823852539
+  },
+  "website": "https://bethelgreenville.org",
+  "listingUrl": "https://churches.sbc.net/church/bethel-baptist-church-65/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bethel-baptist-church-65"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelgreenville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570480449"
+    }
+  ],
+  "advisories": []
+}

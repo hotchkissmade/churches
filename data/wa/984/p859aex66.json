@@ -1,0 +1,33 @@
+{
+  "id": "p859aex66",
+  "url": "https://constellation.church/p859aex66",
+  "name": "Peace Lutheran Church",
+  "displayName": "Peace Lutheran Church",
+  "address": {
+    "street": "2106 S Cushman Ave",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98405-3438"
+  },
+  "coordinates": {
+    "latitude": 47.24081802368164,
+    "longitude": -122.45527648925781
+  },
+  "website": "https://peacelutherantacoma.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0260dda7-ecae-46a8-97d7-0edc1d5af30f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0260dda7-ecae-46a8-97d7-0edc1d5af30f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "peacelutherantacoma.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910826373"
+    }
+  ],
+  "advisories": []
+}

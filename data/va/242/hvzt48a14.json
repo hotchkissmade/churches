@@ -1,0 +1,33 @@
+{
+  "id": "hvzt48a14",
+  "url": "https://constellation.church/hvzt48a14",
+  "name": "Wise Baptist Church",
+  "displayName": "Wise Baptist Church",
+  "address": {
+    "street": "211 Spring Ave NE",
+    "city": "WISE",
+    "state": "VA",
+    "zip": "24293"
+  },
+  "coordinates": {
+    "latitude": 36.97832107543945,
+    "longitude": -82.57930755615234
+  },
+  "website": "https://wisebaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/wise-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "wise-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wisebaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541212938"
+    }
+  ],
+  "advisories": []
+}

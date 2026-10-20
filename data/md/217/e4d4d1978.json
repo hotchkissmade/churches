@@ -1,0 +1,33 @@
+{
+  "id": "e4d4d1978",
+  "url": "https://constellation.church/e4d4d1978",
+  "name": "Taneytown Baptist Church",
+  "displayName": "Taneytown Baptist Church",
+  "address": {
+    "street": "4150 Sells Mill Rd",
+    "city": "Taneytown",
+    "state": "MD",
+    "zip": "21787"
+  },
+  "coordinates": {
+    "latitude": 39.649452209472656,
+    "longitude": -77.14598846435547
+  },
+  "website": "https://taneytownbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/taneytown-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "taneytown-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "taneytownbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521204586"
+    }
+  ],
+  "advisories": []
+}

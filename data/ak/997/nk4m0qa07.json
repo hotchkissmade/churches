@@ -1,0 +1,33 @@
+{
+  "id": "nk4m0qa07",
+  "url": "https://constellation.church/nk4m0qa07",
+  "name": "St. Herman Church",
+  "displayName": "St. Herman Church",
+  "address": {
+    "street": "2180 Goldstream Rd",
+    "city": "Fairbanks",
+    "state": "AK",
+    "zip": "99709"
+  },
+  "coordinates": {
+    "latitude": 64.93022537231445,
+    "longitude": -147.86131286621094
+  },
+  "website": "https://sthermanchurch.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ak-fabshc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ak-fabshc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sthermanchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920090832"
+    }
+  ],
+  "advisories": []
+}

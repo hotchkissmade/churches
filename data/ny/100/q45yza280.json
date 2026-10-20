@@ -1,0 +1,29 @@
+{
+  "id": "q45yza280",
+  "url": "https://constellation.church/q45yza280",
+  "name": "RIVER NYC",
+  "displayName": "River NYC",
+  "address": {
+    "street": "15 W 39TH ST FL 9",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10018"
+  },
+  "coordinates": {
+    "latitude": 40.7092227935791,
+    "longitude": -74.01218032836914
+  },
+  "website": "https://rivernyc.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "201355302"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rivernyc.org"
+    }
+  ],
+  "advisories": []
+}

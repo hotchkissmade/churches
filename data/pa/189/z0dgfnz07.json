@@ -1,0 +1,33 @@
+{
+  "id": "z0dgfnz07",
+  "url": "https://constellation.church/z0dgfnz07",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "1530 Augsburg Dr",
+    "city": "Hilltown",
+    "state": "PA",
+    "zip": "18927-9715"
+  },
+  "coordinates": {
+    "latitude": 40.31045722961426,
+    "longitude": -75.25406265258789
+  },
+  "website": "https://splchurch.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=22117b61-8bbd-4804-a378-b6ae64e137c1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "22117b61-8bbd-4804-a378-b6ae64e137c1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "splchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231654797"
+    }
+  ],
+  "advisories": []
+}

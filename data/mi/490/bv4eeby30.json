@@ -1,0 +1,33 @@
+{
+  "id": "bv4eeby30",
+  "url": "https://constellation.church/bv4eeby30",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "404 E Glenlord Rd",
+    "city": "Saint Joseph",
+    "state": "MI",
+    "zip": "49085-9308"
+  },
+  "coordinates": {
+    "latitude": 42.042572021484375,
+    "longitude": -86.44842147827148
+  },
+  "website": "https://gracestjoseph.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24321",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24321"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracestjoseph.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381515418"
+    }
+  ],
+  "advisories": []
+}

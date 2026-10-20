@@ -1,0 +1,33 @@
+{
+  "id": "jw05bvv22",
+  "url": "https://constellation.church/jw05bvv22",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "105 Allen St",
+    "city": "Jenera",
+    "state": "OH",
+    "zip": "45841-8700"
+  },
+  "coordinates": {
+    "latitude": 40.9023434,
+    "longitude": -83.7268479
+  },
+  "website": "https://tlcjenera.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24262",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24262"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcjenera.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341045475"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "k58185k10",
+  "url": "https://constellation.church/k58185k10",
+  "name": "Palm Valley Lutheran Church",
+  "displayName": "Palm Valley Lutheran Church",
+  "address": {
+    "street": "2500 E Palm Valley Blvd",
+    "city": "Round Rock",
+    "state": "TX",
+    "zip": "78665-4681"
+  },
+  "coordinates": {
+    "latitude": 30.52255630493164,
+    "longitude": -97.6458511352539
+  },
+  "website": "https://pvlc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dd55b6f3-cd6f-4b97-ae58-6e405e29fd65",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dd55b6f3-cd6f-4b97-ae58-6e405e29fd65"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pvlc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741978816"
+    }
+  ],
+  "advisories": []
+}

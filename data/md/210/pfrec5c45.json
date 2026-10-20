@@ -1,0 +1,33 @@
+{
+  "id": "pfrec5c45",
+  "url": "https://constellation.church/pfrec5c45",
+  "name": "Timonium Presbyterian Church",
+  "displayName": "Timonium Presbyterian Church",
+  "address": {
+    "street": "303 West Timonium Road",
+    "city": "Timonium",
+    "state": "MD",
+    "zip": "21093"
+  },
+  "coordinates": {
+    "latitude": 39.43683052062988,
+    "longitude": -76.64177322387695
+  },
+  "website": "https://timoniumpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/992",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "992"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "timoniumpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520941532"
+    }
+  ],
+  "advisories": []
+}

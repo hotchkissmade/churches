@@ -1,0 +1,33 @@
+{
+  "id": "a12dxc526",
+  "url": "https://constellation.church/a12dxc526",
+  "name": "St Matthew Evangelical Lutheran Church",
+  "displayName": "St. Matthew Evangelical Lutheran Church",
+  "address": {
+    "street": "1725 S 60th St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68106-2149"
+  },
+  "coordinates": {
+    "latitude": 41.24276924133301,
+    "longitude": -96.0042724609375
+  },
+  "website": "https://smlutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d2553096-04df-4775-aa4c-91a9a24c0ae3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d2553096-04df-4775-aa4c-91a9a24c0ae3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "smlutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470463564"
+    }
+  ],
+  "advisories": []
+}

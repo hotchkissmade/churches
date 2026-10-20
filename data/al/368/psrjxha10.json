@@ -1,0 +1,33 @@
+{
+  "id": "psrjxha10",
+  "url": "https://constellation.church/psrjxha10",
+  "name": "Covenant Presbyterian Church",
+  "displayName": "Covenant Presbyterian Church",
+  "address": {
+    "street": "445 Shelton Mill Road",
+    "city": "Auburn",
+    "state": "AL",
+    "zip": "36830"
+  },
+  "coordinates": {
+    "latitude": 32.62649345397949,
+    "longitude": -85.47356414794922
+  },
+  "website": "https://cpcauburn.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/261",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "261"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cpcauburn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630888487"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "t6pvpsb94",
+  "url": "https://constellation.church/t6pvpsb94",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "1212 Connection St",
+    "city": "Shelton",
+    "state": "WA",
+    "zip": "98584-1817"
+  },
+  "coordinates": {
+    "latitude": 47.21990966796875,
+    "longitude": -123.11333465576172
+  },
+  "website": "https://faithshelton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f979711f-5d26-4018-a853-da91e2b25241",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f979711f-5d26-4018-a853-da91e2b25241"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithshelton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "916192690"
+    }
+  ],
+  "advisories": []
+}

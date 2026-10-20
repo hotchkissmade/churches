@@ -1,0 +1,33 @@
+{
+  "id": "cp78kyv02",
+  "url": "https://constellation.church/cp78kyv02",
+  "name": "St Luke's Lutheran Church",
+  "displayName": "St. Luke's Lutheran Church",
+  "address": {
+    "street": "4056 Saint Lukes Church Rd",
+    "city": "Prosperity",
+    "state": "SC",
+    "zip": "29127-7196"
+  },
+  "coordinates": {
+    "latitude": 34.1683349609375,
+    "longitude": -81.57274627685547
+  },
+  "website": "https://saintlukesprosperity.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=af2ef7cb-82ae-4002-ad23-291a3ae740c1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "af2ef7cb-82ae-4002-ad23-291a3ae740c1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintlukesprosperity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "576039050"
+    }
+  ],
+  "advisories": []
+}

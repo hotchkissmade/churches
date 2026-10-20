@@ -1,0 +1,33 @@
+{
+  "id": "t8gd59h44",
+  "url": "https://constellation.church/t8gd59h44",
+  "name": "Willmar Assembly of God",
+  "displayName": "Willmar Assembly of God",
+  "address": {
+    "street": "3821 Abbott Dr",
+    "city": "Willmar",
+    "state": "MN",
+    "zip": "56201"
+  },
+  "coordinates": {
+    "latitude": 45.08784866333008,
+    "longitude": -95.04065704345703
+  },
+  "website": "https://willmarag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=5cdbd7ea-e4ff-40a1-99fc-6cdfb1fa00f4&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "5cdbd7ea-e4ff-40a1-99fc-6cdfb1fa00f4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "willmarag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410993271"
+    }
+  ],
+  "advisories": []
+}

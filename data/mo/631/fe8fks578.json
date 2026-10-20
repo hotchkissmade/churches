@@ -1,0 +1,33 @@
+{
+  "id": "fe8fks578",
+  "url": "https://constellation.church/fe8fks578",
+  "name": "Episcopal Church of the Advent",
+  "displayName": "Episcopal Church of the Advent",
+  "address": {
+    "street": "9373 Garber Road",
+    "city": "Crestwood",
+    "state": "MO",
+    "zip": "63126-2849"
+  },
+  "coordinates": {
+    "latitude": 38.54710006713867,
+    "longitude": -90.3721923828125
+  },
+  "website": "https://adventstl.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-missouri/list/episcopal-church-advent",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-missouri/episcopal-church-advent"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "adventstl.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430823274"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qcam4jf58",
+  "url": "https://constellation.church/qcam4jf58",
+  "name": "Redeemer City Church",
+  "displayName": "Redeemer City Church",
+  "address": {
+    "street": "4108 E North St",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29615"
+  },
+  "coordinates": {
+    "latitude": 34.87653160095215,
+    "longitude": -82.32107543945312
+  },
+  "website": "https://redeemercitygvl.com",
+  "listingUrl": "https://churches.sbc.net/church/redeemer-city-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "redeemer-city-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemercitygvl.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "384223228"
+    }
+  ],
+  "advisories": []
+}

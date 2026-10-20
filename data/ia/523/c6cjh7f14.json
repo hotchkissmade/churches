@@ -1,0 +1,33 @@
+{
+  "id": "c6cjh7f14",
+  "url": "https://constellation.church/c6cjh7f14",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "155 Boyson Rd",
+    "city": "Marion",
+    "state": "IA",
+    "zip": "52302-9443"
+  },
+  "coordinates": {
+    "latitude": 42.043209075927734,
+    "longitude": -91.61095809936523
+  },
+  "website": "https://faithlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=95ddae30-a44d-49f1-8c1f-31a841c824b3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "95ddae30-a44d-49f1-8c1f-31a841c824b3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421085120"
+    }
+  ],
+  "advisories": []
+}

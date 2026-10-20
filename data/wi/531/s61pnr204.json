@@ -1,0 +1,33 @@
+{
+  "id": "s61pnr204",
+  "url": "https://constellation.church/s61pnr204",
+  "name": "Discover Church",
+  "displayName": "Discover Church",
+  "address": {
+    "street": "7311 S 13th St",
+    "city": "Oak Creek",
+    "state": "WI",
+    "zip": "53154"
+  },
+  "coordinates": {
+    "latitude": 42.91154479980469,
+    "longitude": -87.93247985839844
+  },
+  "website": "https://discoverchurch.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=10f99554-3707-46e6-a6ac-647750e8e11e&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "10f99554-3707-46e6-a6ac-647750e8e11e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "discoverchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396126619"
+    }
+  ],
+  "advisories": []
+}

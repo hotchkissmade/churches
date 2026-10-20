@@ -1,0 +1,33 @@
+{
+  "id": "dtcqr2x94",
+  "url": "https://constellation.church/dtcqr2x94",
+  "name": "Saint Francis Of The City",
+  "displayName": "St. Francis Of The City",
+  "address": {
+    "street": "1135 Jocelyn St",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77023-3321"
+  },
+  "coordinates": {
+    "latitude": 29.726755142211914,
+    "longitude": -95.31641387939453
+  },
+  "website": "https://francisofthecity.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1a8c936f-0aab-4e7c-8f5e-ee1fd158dd45",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1a8c936f-0aab-4e7c-8f5e-ee1fd158dd45"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "francisofthecity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "923411098"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gh384ks36",
+  "url": "https://constellation.church/gh384ks36",
+  "name": "St. Paul's Episcopal Church",
+  "displayName": "St. Paul's Episcopal Church",
+  "address": {
+    "street": "1837 E 7th Hwy",
+    "city": "Clinton",
+    "state": "MO",
+    "zip": "64735"
+  },
+  "coordinates": {
+    "latitude": 38.36635208129883,
+    "longitude": -93.74357604980469
+  },
+  "website": "https://stpaulsepiscopal.diowestmo.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-missouri/list/st-pauls-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-missouri/st-pauls-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsepiscopal.diowestmo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237450461"
+    }
+  ],
+  "advisories": []
+}

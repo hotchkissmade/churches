@@ -1,0 +1,33 @@
+{
+  "id": "wme90en56",
+  "url": "https://constellation.church/wme90en56",
+  "name": "West End Baptist Church of Beaumont, Tx",
+  "displayName": "West End Baptist Church of Beaumont, Tx",
+  "address": {
+    "street": "8180 Phelan Blvd",
+    "city": "Beaumont",
+    "state": "TX",
+    "zip": "77706"
+  },
+  "coordinates": {
+    "latitude": 30.076332092285156,
+    "longitude": -94.18646240234375
+  },
+  "website": "https://webc.church",
+  "listingUrl": "https://churches.sbc.net/church/west-end-baptist-church-of-beaumont-tx/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "west-end-baptist-church-of-beaumont-tx"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "webc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741621503"
+    }
+  ],
+  "advisories": []
+}

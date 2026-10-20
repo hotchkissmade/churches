@@ -1,0 +1,33 @@
+{
+  "id": "phzxv9g49",
+  "url": "https://constellation.church/phzxv9g49",
+  "name": "New Heights Church",
+  "displayName": "New Heights Church",
+  "address": {
+    "street": "5501 Broad River Rd",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29212"
+  },
+  "coordinates": {
+    "latitude": 34.07741355895996,
+    "longitude": -81.12837600708008
+  },
+  "website": "https://newheights.us",
+  "listingUrl": "https://churches.sbc.net/church/new-heights-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-heights-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newheights.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570349215"
+    }
+  ],
+  "advisories": []
+}

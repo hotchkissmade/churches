@@ -1,0 +1,33 @@
+{
+  "id": "g1afm7a58",
+  "url": "https://constellation.church/g1afm7a58",
+  "name": "Susquehanna Baptist Church",
+  "displayName": "Susquehanna Baptist Church",
+  "address": {
+    "street": "17800 E Susquehanna Rdg",
+    "city": "Independence",
+    "state": "MO",
+    "zip": "64056"
+  },
+  "coordinates": {
+    "latitude": 39.12008476257324,
+    "longitude": -94.3667221069336
+  },
+  "website": "https://susquehannabaptist.net",
+  "listingUrl": "https://churches.sbc.net/church/susquehanna-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "susquehanna-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "susquehannabaptist.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440661243"
+    }
+  ],
+  "advisories": []
+}

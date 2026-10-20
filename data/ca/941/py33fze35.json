@@ -1,0 +1,33 @@
+{
+  "id": "py33fze35",
+  "url": "https://constellation.church/py33fze35",
+  "name": "Full Gospel San Francisco Church",
+  "displayName": "Full Gospel San Francisco Church",
+  "address": {
+    "street": "1480 Ellis St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94115"
+  },
+  "coordinates": {
+    "latitude": 37.78267288208008,
+    "longitude": -122.43062591552734
+  },
+  "website": "https://fgsf.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=973920a6-4214-4233-89fd-94f0f30c85ca&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "973920a6-4214-4233-89fd-94f0f30c85ca"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fgsf.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942843697"
+    }
+  ],
+  "advisories": []
+}

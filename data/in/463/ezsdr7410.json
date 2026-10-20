@@ -1,0 +1,33 @@
+{
+  "id": "ezsdr7410",
+  "url": "https://constellation.church/ezsdr7410",
+  "name": "Gateway Christian Fellowship",
+  "displayName": "Gateway Christian Fellowship",
+  "address": {
+    "street": "7605 W 126th Ave",
+    "city": "Cedar Lake",
+    "state": "IN",
+    "zip": "46303"
+  },
+  "coordinates": {
+    "latitude": 41.38838005065918,
+    "longitude": -87.42668914794922
+  },
+  "website": "https://gatewaycl.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a7a04cb5-8299-4ca7-b900-65d50bd99aa6&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "a7a04cb5-8299-4ca7-b900-65d50bd99aa6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gatewaycl.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "562608414"
+    }
+  ],
+  "advisories": []
+}

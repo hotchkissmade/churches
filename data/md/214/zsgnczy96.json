@@ -1,0 +1,33 @@
+{
+  "id": "zsgnczy96",
+  "url": "https://constellation.church/zsgnczy96",
+  "name": "St. Luke's Church",
+  "displayName": "St. Luke's Church",
+  "address": {
+    "street": "1101 Bay Ridge Ave",
+    "city": "Annapolis",
+    "state": "MD",
+    "zip": "21403-2901"
+  },
+  "coordinates": {
+    "latitude": 38.96353721618652,
+    "longitude": -76.48891830444336
+  },
+  "website": "https://stlukeseastport.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maryland/list/st-lukes-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maryland/st-lukes-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukeseastport.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521652720"
+    }
+  ],
+  "advisories": []
+}

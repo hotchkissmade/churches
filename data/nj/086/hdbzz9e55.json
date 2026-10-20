@@ -1,0 +1,33 @@
+{
+  "id": "hdbzz9e55",
+  "url": "https://constellation.church/hdbzz9e55",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "350 White Horse Ave",
+    "city": "Hamilton",
+    "state": "NJ",
+    "zip": "08610-1419"
+  },
+  "coordinates": {
+    "latitude": 40.195045471191406,
+    "longitude": -74.70138931274414
+  },
+  "website": "https://stmarkhamilton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=68c8efe1-af8b-4730-a1d9-c242bc82ef5b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "68c8efe1-af8b-4730-a1d9-c242bc82ef5b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkhamilton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "226095904"
+    }
+  ],
+  "advisories": []
+}

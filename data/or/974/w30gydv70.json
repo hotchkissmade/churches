@@ -1,0 +1,33 @@
+{
+  "id": "w30gydv70",
+  "url": "https://constellation.church/w30gydv70",
+  "name": "City Church",
+  "displayName": "City Church",
+  "address": {
+    "street": "2111 Minnesota Street",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97402"
+  },
+  "coordinates": {
+    "latitude": 44.0872031,
+    "longitude": -123.1936575
+  },
+  "website": "https://citychurcheugene.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/153",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "153"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "citychurcheugene.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930900505"
+    }
+  ],
+  "advisories": []
+}

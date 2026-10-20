@@ -1,0 +1,33 @@
+{
+  "id": "mnjctpt23",
+  "url": "https://constellation.church/mnjctpt23",
+  "name": "Georgetown Baptist Church",
+  "displayName": "Georgetown Baptist Church",
+  "address": {
+    "street": "794 S Main St",
+    "city": "Georgetown",
+    "state": "OH",
+    "zip": "45121"
+  },
+  "coordinates": {
+    "latitude": 38.857500076293945,
+    "longitude": -83.90084075927734
+  },
+  "website": "https://gbcohio.org",
+  "listingUrl": "https://churches.sbc.net/church/georgetown-baptist-church-6/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "georgetown-baptist-church-6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gbcohio.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311098226"
+    }
+  ],
+  "advisories": []
+}

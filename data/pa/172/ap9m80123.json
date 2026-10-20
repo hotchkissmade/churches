@@ -1,0 +1,33 @@
+{
+  "id": "ap9m80123",
+  "url": "https://constellation.church/ap9m80123",
+  "name": "Five Forks BIC",
+  "displayName": "Five Forks Brethren in Christ Church",
+  "address": {
+    "street": "9244 Five Forks Rd.",
+    "city": "Waynesboro",
+    "state": "PA",
+    "zip": "17268"
+  },
+  "coordinates": {
+    "latitude": 39.79987907409668,
+    "longitude": -77.60980987548828
+  },
+  "website": "https://ffbic.org",
+  "listingUrl": "https://bicus.org/church/five-forks-bic/",
+  "identifiers": [
+    {
+      "namespace": "org.bicus.id",
+      "value": "327"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ffbic.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251608104"
+    }
+  ],
+  "advisories": []
+}

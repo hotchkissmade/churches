@@ -1,0 +1,33 @@
+{
+  "id": "wdkftjd41",
+  "url": "https://constellation.church/wdkftjd41",
+  "name": "St. Mary's, Foggy Bottom",
+  "displayName": "St. Mary's, Foggy Bottom",
+  "address": {
+    "street": "728 23rd St NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20037-2598"
+  },
+  "coordinates": {
+    "latitude": 38.89912223815918,
+    "longitude": -77.05033493041992
+  },
+  "website": "https://stmarysfoggybottom.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/st-marys-church-foggy-bottom",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/st-marys-church-foggy-bottom"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarysfoggybottom.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521121161"
+    }
+  ],
+  "advisories": []
+}

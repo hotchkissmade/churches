@@ -1,0 +1,37 @@
+{
+  "id": "cvggvpj92",
+  "url": "https://constellation.church/cvggvpj92",
+  "name": "St. John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "104 Birch Ave.",
+    "city": "Charter Oak",
+    "state": "IA",
+    "zip": "51349"
+  },
+  "coordinates": {
+    "latitude": 42.068145751953125,
+    "longitude": -95.5941390991211
+  },
+  "website": "https://stjohncharteroak.org",
+  "listingUrl": "https://idwlcms.org/congregation.php?id=31",
+  "identifiers": [
+    {
+      "namespace": "org.idwlcms.id",
+      "value": "31"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohncharteroak.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420886740"
+    },
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "149078"
+    }
+  ],
+  "advisories": []
+}

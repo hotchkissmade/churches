@@ -1,0 +1,33 @@
+{
+  "id": "b2ft9ev85",
+  "url": "https://constellation.church/b2ft9ev85",
+  "name": "Sitka Lutheran Church",
+  "displayName": "Sitka Lutheran Church",
+  "address": {
+    "street": "224 Lincoln St",
+    "city": "Sitka",
+    "state": "AK",
+    "zip": "99835-7542"
+  },
+  "coordinates": {
+    "latitude": 57.0497932434082,
+    "longitude": -135.33570098876953
+  },
+  "website": "https://sitkalutheranchurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=597ebae0-c06a-4f41-b460-81d9fc773c2c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "597ebae0-c06a-4f41-b460-81d9fc773c2c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sitkalutheranchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920117529"
+    }
+  ],
+  "advisories": []
+}

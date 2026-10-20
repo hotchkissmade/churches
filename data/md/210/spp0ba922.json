@@ -1,0 +1,33 @@
+{
+  "id": "spp0ba922",
+  "url": "https://constellation.church/spp0ba922",
+  "name": "Valley Baptist Church",
+  "displayName": "Valley Baptist Church",
+  "address": {
+    "street": "1401 York Rd",
+    "city": "Lutherville",
+    "state": "MD",
+    "zip": "21093"
+  },
+  "coordinates": {
+    "latitude": 39.41921615600586,
+    "longitude": -76.61503601074219
+  },
+  "website": "https://valleybaptistchurch.org/events/event/48/actc-food-collection-drop-off/2020-04-30",
+  "listingUrl": "https://churches.sbc.net/church/valley-baptist-church-10/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "valley-baptist-church-10"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "valleybaptistchurch.org/events/event/48/actc-food-collection-drop-off/2020-04-30"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520858558"
+    }
+  ],
+  "advisories": []
+}

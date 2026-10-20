@@ -1,0 +1,33 @@
+{
+  "id": "xmkqegp03",
+  "url": "https://constellation.church/xmkqegp03",
+  "name": "Chatham United Methodist Church",
+  "displayName": "Chatham United Methodist Church",
+  "address": {
+    "street": "460 Main St",
+    "city": "Chatham",
+    "state": "NJ",
+    "zip": "07928-2142"
+  },
+  "coordinates": {
+    "latitude": 40.744380950927734,
+    "longitude": -74.39082717895508
+  },
+  "website": "https://chathamumc.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFJfsIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFJfsIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chathamumc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221659495"
+    }
+  ],
+  "advisories": []
+}

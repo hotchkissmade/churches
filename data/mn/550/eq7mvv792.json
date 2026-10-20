@@ -1,0 +1,33 @@
+{
+  "id": "eq7mvv792",
+  "url": "https://constellation.church/eq7mvv792",
+  "name": "Elim Lutheran Church",
+  "displayName": "Elim Lutheran Church",
+  "address": {
+    "street": "20971 Olinda Trl N",
+    "city": "Scandia",
+    "state": "MN",
+    "zip": "55073"
+  },
+  "coordinates": {
+    "latitude": 45.252716064453125,
+    "longitude": -92.8061752319336
+  },
+  "website": "https://elimscandia.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2d59c598-5c41-4fa7-a6b5-146d5e1eca59",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2d59c598-5c41-4fa7-a6b5-146d5e1eca59"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elimscandia.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410718379"
+    }
+  ],
+  "advisories": []
+}

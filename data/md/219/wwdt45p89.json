@@ -1,0 +1,33 @@
+{
+  "id": "wwdt45p89",
+  "url": "https://constellation.church/wwdt45p89",
+  "name": "Conowingo Baptist Church",
+  "displayName": "Conowingo Baptist Church",
+  "address": {
+    "street": "151 Rock Springs Rd",
+    "city": "Conowingo",
+    "state": "MD",
+    "zip": "21918"
+  },
+  "coordinates": {
+    "latitude": 39.68178749084473,
+    "longitude": -76.16329956054688
+  },
+  "website": "https://conowingo.org",
+  "listingUrl": "https://churches.sbc.net/church/conowingo-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "conowingo-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "conowingo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520857580"
+    }
+  ],
+  "advisories": []
+}

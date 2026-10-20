@@ -1,0 +1,33 @@
+{
+  "id": "x5gpt1542",
+  "url": "https://constellation.church/x5gpt1542",
+  "name": "Loch Raven Baptist Church",
+  "displayName": "Loch Raven Baptist Church",
+  "address": {
+    "street": "8600 Loch Raven Blvd",
+    "city": "Towson",
+    "state": "MD",
+    "zip": "21286"
+  },
+  "coordinates": {
+    "latitude": 39.3947696685791,
+    "longitude": -76.56386947631836
+  },
+  "website": "https://lochravenbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/loch-raven-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "loch-raven-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lochravenbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520694647"
+    }
+  ],
+  "advisories": []
+}

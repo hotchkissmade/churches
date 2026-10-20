@@ -1,0 +1,37 @@
+{
+  "id": "mnmvp2630",
+  "url": "https://constellation.church/mnmvp2630",
+  "name": "Saint John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "302 W Holmes St",
+    "city": "Chester",
+    "state": "IL",
+    "zip": "62233-1308"
+  },
+  "coordinates": {
+    "latitude": 37.915483474731445,
+    "longitude": -89.82201385498047
+  },
+  "website": "https://sjshornets.com",
+  "listingUrl": "https://locator.lcms.org/church/C/153225",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "153225"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sjshornets.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370723872"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370726703"
+    }
+  ],
+  "advisories": []
+}

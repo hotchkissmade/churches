@@ -1,0 +1,33 @@
+{
+  "id": "kerv16s66",
+  "url": "https://constellation.church/kerv16s66",
+  "name": "St Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "1100 9th St E",
+    "city": "Menomonie",
+    "state": "WI",
+    "zip": "54751-2713"
+  },
+  "coordinates": {
+    "latitude": 44.8724965,
+    "longitude": -91.9191077
+  },
+  "website": "https://stpaulmenomonie.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24946",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24946"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulmenomonie.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390824873"
+    }
+  ],
+  "advisories": []
+}

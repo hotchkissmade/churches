@@ -1,0 +1,33 @@
+{
+  "id": "brkwhan38",
+  "url": "https://constellation.church/brkwhan38",
+  "name": "St John's Evangelical Lutheran Church",
+  "displayName": "St. John's Evangelical Lutheran Church",
+  "address": {
+    "street": "2601 Highland Ave",
+    "city": "New Castle",
+    "state": "PA",
+    "zip": "16105-2185"
+  },
+  "coordinates": {
+    "latitude": 41.026771,
+    "longitude": -80.338442
+  },
+  "website": "https://stjohnsncpa.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8cf28d27-1804-4a26-8401-b67f68d612e2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8cf28d27-1804-4a26-8401-b67f68d612e2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsncpa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251048809"
+    }
+  ],
+  "advisories": []
+}

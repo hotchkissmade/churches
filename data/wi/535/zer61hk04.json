@@ -1,0 +1,33 @@
+{
+  "id": "zer61hk04",
+  "url": "https://constellation.church/zer61hk04",
+  "name": "Focus Church",
+  "displayName": "Focus Church",
+  "address": {
+    "street": "411 N Thompson Rd",
+    "city": "Sun Prairie",
+    "state": "WI",
+    "zip": "53590"
+  },
+  "coordinates": {
+    "latitude": 43.18539047241211,
+    "longitude": -89.25374603271484
+  },
+  "website": "https://findfocus.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=3c8d29b6-ac01-4128-8c05-71fa663bef16&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "3c8d29b6-ac01-4128-8c05-71fa663bef16"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "findfocus.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391421360"
+    }
+  ],
+  "advisories": []
+}

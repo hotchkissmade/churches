@@ -1,0 +1,33 @@
+{
+  "id": "g4k8snm68",
+  "url": "https://constellation.church/g4k8snm68",
+  "name": "Hanover Fellowship Church",
+  "displayName": "Hanover Fellowship Church",
+  "address": {
+    "street": "200 South Street",
+    "city": "Hanover",
+    "state": "PA",
+    "zip": "17331"
+  },
+  "coordinates": {
+    "latitude": 39.803789138793945,
+    "longitude": -76.99848937988281
+  },
+  "website": "https://hanoverfellowship.org",
+  "listingUrl": "https://churches.sbc.net/church/hanover-fellowship-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hanover-fellowship-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hanoverfellowship.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "204138306"
+    }
+  ],
+  "advisories": []
+}

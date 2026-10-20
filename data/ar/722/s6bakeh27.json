@@ -1,0 +1,33 @@
+{
+  "id": "s6bakeh27",
+  "url": "https://constellation.church/s6bakeh27",
+  "name": "Covenant Presbyterian Church at Little Rock",
+  "displayName": "Covenant Presbyterian Church at Little Rock",
+  "address": {
+    "street": "One Covenant Drive",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72211"
+  },
+  "coordinates": {
+    "latitude": 34.754798889160156,
+    "longitude": -92.43611145019531
+  },
+  "website": "https://covenantpca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/296",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "296"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covenantpca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510184481"
+    }
+  ],
+  "advisories": []
+}

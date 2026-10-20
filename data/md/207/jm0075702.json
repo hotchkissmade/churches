@@ -1,0 +1,33 @@
+{
+  "id": "jm0075702",
+  "url": "https://constellation.church/jm0075702",
+  "name": "Bethel Assembly of God",
+  "displayName": "Bethel Assembly of God",
+  "address": {
+    "street": "9001 Vollmerhausen Rd",
+    "city": "Savage",
+    "state": "MD",
+    "zip": "20763"
+  },
+  "coordinates": {
+    "latitude": 39.14804267883301,
+    "longitude": -76.82387924194336
+  },
+  "website": "https://homeatbethel.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=5950a0df-8f1b-443b-9178-6afb23bd3199&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "5950a0df-8f1b-443b-9178-6afb23bd3199"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "homeatbethel.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521255462"
+    }
+  ],
+  "advisories": []
+}

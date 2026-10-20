@@ -1,0 +1,33 @@
+{
+  "id": "y2k3wjv24",
+  "url": "https://constellation.church/y2k3wjv24",
+  "name": "Spence Baptist Church",
+  "displayName": "Spence Baptist Church",
+  "address": {
+    "street": "7603 Spence Church Rd",
+    "city": "Snow Hill",
+    "state": "MD",
+    "zip": "21863"
+  },
+  "coordinates": {
+    "latitude": 38.16128921508789,
+    "longitude": -75.31454467773438
+  },
+  "website": "https://spencechurch.org",
+  "listingUrl": "https://churches.sbc.net/church/spence-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "spence-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "spencechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521205137"
+    }
+  ],
+  "advisories": []
+}

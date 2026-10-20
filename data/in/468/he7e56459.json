@@ -1,0 +1,33 @@
+{
+  "id": "he7e56459",
+  "url": "https://constellation.church/he7e56459",
+  "name": "St. Nicholas Cathedral",
+  "displayName": "St. Nicholas Cathedral",
+  "address": {
+    "street": "3535 Crescent Ave",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46805"
+  },
+  "coordinates": {
+    "latitude": 41.11005783081055,
+    "longitude": -85.11096572875977
+  },
+  "website": "https://stnicholasonline.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-bu-fwasnc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-bu-fwasnc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stnicholasonline.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351127816"
+    }
+  ],
+  "advisories": []
+}

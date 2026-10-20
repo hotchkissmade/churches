@@ -1,0 +1,33 @@
+{
+  "id": "gvk9a3p47",
+  "url": "https://constellation.church/gvk9a3p47",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "16 E US Highway 212 Broadus",
+    "city": null,
+    "state": "MT",
+    "zip": "59317"
+  },
+  "coordinates": {
+    "latitude": 45.43297576904297,
+    "longitude": -105.40924072265625
+  },
+  "website": "https://broadusag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=cfb9db7d-efe7-43e3-8919-b094a106e604&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "cfb9db7d-efe7-43e3-8919-b094a106e604"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "broadusag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810406672"
+    }
+  ],
+  "advisories": []
+}

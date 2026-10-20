@@ -1,0 +1,33 @@
+{
+  "id": "xnnmg6v44",
+  "url": "https://constellation.church/xnnmg6v44",
+  "name": "St. John's Episcopal Church",
+  "displayName": "St. John's Episcopal Church",
+  "address": {
+    "street": "323 Wick Ave",
+    "city": "Youngstown",
+    "state": "OH",
+    "zip": "44503"
+  },
+  "coordinates": {
+    "latitude": 41.10356903076172,
+    "longitude": -80.64619827270508
+  },
+  "website": "https://stjohnohio.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-ohio/list/st-johns-church-episcopal",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-ohio/st-johns-church-episcopal"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnohio.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340714702"
+    }
+  ],
+  "advisories": []
+}

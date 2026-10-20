@@ -1,0 +1,33 @@
+{
+  "id": "qv2fed479",
+  "url": "https://constellation.church/qv2fed479",
+  "name": "Bridge Church at Perry",
+  "displayName": "Bridge Church at Perry",
+  "address": {
+    "street": "2700 North Ridge Road",
+    "city": "Perry",
+    "state": "OH",
+    "zip": "44077"
+  },
+  "coordinates": {
+    "latitude": 41.77084541320801,
+    "longitude": -81.1349983215332
+  },
+  "website": "https://bridgechurchperry.com",
+  "listingUrl": "https://churches.sbc.net/church/bridge-church-at-perry/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bridge-church-at-perry"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bridgechurchperry.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "205149452"
+    }
+  ],
+  "advisories": []
+}

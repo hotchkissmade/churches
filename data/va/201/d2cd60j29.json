@@ -1,0 +1,33 @@
+{
+  "id": "d2cd60j29",
+  "url": "https://constellation.church/d2cd60j29",
+  "name": "Agape Church",
+  "displayName": "Agape Church",
+  "address": {
+    "street": "14014 Sullyfield Cir, Unit-C",
+    "city": "Chantilly",
+    "state": "VA",
+    "zip": "20151"
+  },
+  "coordinates": {
+    "latitude": 38.89338684082031,
+    "longitude": -77.43389892578125
+  },
+  "website": "https://agapechurchonline.com",
+  "listingUrl": "https://churches.sbc.net/church/agape-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "agape-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "agapechurchonline.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800154433"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "v9h1c8q72",
+  "url": "https://constellation.church/v9h1c8q72",
+  "name": "Rosemont Baptist Church",
+  "displayName": "Rosemont Baptist Church",
+  "address": {
+    "street": "2267 Dillard Rd",
+    "city": "Waterloo",
+    "state": "SC",
+    "zip": "29384"
+  },
+  "coordinates": {
+    "latitude": 34.305341720581055,
+    "longitude": -82.08104705810547
+  },
+  "website": "https://rosemontbaptist.wixsite.com/mysite",
+  "listingUrl": "https://churches.sbc.net/church/rosemont-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "rosemont-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rosemontbaptist.wixsite.com/mysite"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570734951"
+    }
+  ],
+  "advisories": []
+}

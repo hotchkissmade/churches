@@ -1,0 +1,33 @@
+{
+  "id": "bfzc7sa87",
+  "url": "https://constellation.church/bfzc7sa87",
+  "name": "Esperanza Lutheran Church",
+  "displayName": "Esperanza Lutheran Church",
+  "address": {
+    "street": "2601 E Thunderhill Pl",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85048-9517"
+  },
+  "coordinates": {
+    "latitude": 33.30837059020996,
+    "longitude": -112.02835083007812
+  },
+  "website": "https://myesperanza.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6df9d5d7-48b8-46c5-98b9-96bee9314359",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6df9d5d7-48b8-46c5-98b9-96bee9314359"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "myesperanza.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860678033"
+    }
+  ],
+  "advisories": []
+}

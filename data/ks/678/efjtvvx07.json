@@ -1,0 +1,33 @@
+{
+  "id": "efjtvvx07",
+  "url": "https://constellation.church/efjtvvx07",
+  "name": "First Southern Baptist Church",
+  "displayName": "First Southern Baptist Church",
+  "address": {
+    "street": "3106 N 14th Ave",
+    "city": "Dodge City",
+    "state": "KS",
+    "zip": "67801"
+  },
+  "coordinates": {
+    "latitude": 37.78995323181152,
+    "longitude": -100.03236389160156
+  },
+  "website": "https://fsbcdodgecity.com",
+  "listingUrl": "https://churches.sbc.net/church/first-southern-baptist-church-60/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-southern-baptist-church-60"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fsbcdodgecity.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480919889"
+    }
+  ],
+  "advisories": []
+}

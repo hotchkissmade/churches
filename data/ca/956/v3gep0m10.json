@@ -1,0 +1,33 @@
+{
+  "id": "v3gep0m10",
+  "url": "https://constellation.church/v3gep0m10",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "4200 Grass Valley Hwy",
+    "city": "Auburn",
+    "state": "CA",
+    "zip": "95602"
+  },
+  "coordinates": {
+    "latitude": 38.960187911987305,
+    "longitude": -121.10221862792969
+  },
+  "website": "https://auburnfirstassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f9b14cc1-5695-4982-875e-80d24955e659&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f9b14cc1-5695-4982-875e-80d24955e659"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "auburnfirstassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942864646"
+    }
+  ],
+  "advisories": []
+}

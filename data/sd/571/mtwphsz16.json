@@ -1,0 +1,33 @@
+{
+  "id": "mtwphsz16",
+  "url": "https://constellation.church/mtwphsz16",
+  "name": "Augustana Lutheran Church",
+  "displayName": "Augustana Lutheran Church",
+  "address": {
+    "street": "235 N Prairie Ave",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57104-2922"
+  },
+  "coordinates": {
+    "latitude": 43.5495719909668,
+    "longitude": -96.7372055053711
+  },
+  "website": "https://augustanasiouxfalls.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6e1ec7fa-9d45-486f-8143-7fdb5b6e6b3d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6e1ec7fa-9d45-486f-8143-7fdb5b6e6b3d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "augustanasiouxfalls.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460241625"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "v83mhvq68",
+  "url": "https://constellation.church/v83mhvq68",
+  "name": "Foothill Presbyterian Church",
+  "displayName": "Foothill Presbyterian Church",
+  "address": {
+    "street": "5301 McKee Rd",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95127"
+  },
+  "coordinates": {
+    "latitude": 37.38266372680664,
+    "longitude": -121.82571411132812
+  },
+  "website": "https://fcpcsanjose.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/906/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "906"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fcpcsanjose.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941207715"
+    }
+  ],
+  "advisories": []
+}

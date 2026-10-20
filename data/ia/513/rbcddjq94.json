@@ -1,0 +1,33 @@
+{
+  "id": "rbcddjq94",
+  "url": "https://constellation.church/rbcddjq94",
+  "name": "Downtown Church",
+  "displayName": "Downtown Church",
+  "address": {
+    "street": "2105 N Ave",
+    "city": "Milford",
+    "state": "IA",
+    "zip": "51351-1289"
+  },
+  "coordinates": {
+    "latitude": 43.33552551269531,
+    "longitude": -95.15219116210938
+  },
+  "website": "https://downtownchurch.info",
+  "listingUrl": "https://churches.efca.org/?id=277250",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "277250"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "downtownchurch.info"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "461791213"
+    }
+  ],
+  "advisories": []
+}

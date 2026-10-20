@@ -1,0 +1,33 @@
+{
+  "id": "w1tb88a20",
+  "url": "https://constellation.church/w1tb88a20",
+  "name": "Pierce Park Baptist Church",
+  "displayName": "Pierce Park Baptist Church",
+  "address": {
+    "street": "5350 N Pierce Park Ln",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83714"
+  },
+  "coordinates": {
+    "latitude": 43.668701171875,
+    "longitude": -116.26744842529297
+  },
+  "website": "https://pierceparkchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/pierce-park-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pierce-park-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pierceparkchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820446364"
+    }
+  ],
+  "advisories": []
+}

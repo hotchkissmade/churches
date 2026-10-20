@@ -1,0 +1,33 @@
+{
+  "id": "gc3f6f422",
+  "url": "https://constellation.church/gc3f6f422",
+  "name": "Holy Trinity Lutheran Church",
+  "displayName": "Holy Trinity Lutheran Church",
+  "address": {
+    "street": "501 Main St.",
+    "city": "Shippenville",
+    "state": "PA",
+    "zip": "16254"
+  },
+  "coordinates": {
+    "latitude": 41.25020217895508,
+    "longitude": -79.45932006835938
+  },
+  "website": "https://holytrinityky.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b24b3c93-6b60-4476-a743-f0978e01406e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b24b3c93-6b60-4476-a743-f0978e01406e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holytrinityky.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611255224"
+    }
+  ],
+  "advisories": []
+}

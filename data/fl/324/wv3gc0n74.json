@@ -1,0 +1,33 @@
+{
+  "id": "wv3gc0n74",
+  "url": "https://constellation.church/wv3gc0n74",
+  "name": "Covenant Presbyterian Church",
+  "displayName": "Covenant Presbyterian Church",
+  "address": {
+    "street": "2350 Frankford Avenue",
+    "city": "Panama City",
+    "state": "FL",
+    "zip": "32405"
+  },
+  "coordinates": {
+    "latitude": 30.19182586669922,
+    "longitude": -85.69121932983398
+  },
+  "website": "https://covpca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/294",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "294"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covpca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591513636"
+    }
+  ],
+  "advisories": []
+}

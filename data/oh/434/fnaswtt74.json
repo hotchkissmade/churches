@@ -1,0 +1,33 @@
+{
+  "id": "fnaswtt74",
+  "url": "https://constellation.church/fnaswtt74",
+  "name": "Solomon Lutheran Church",
+  "displayName": "Solomon Lutheran Church",
+  "address": {
+    "street": "305 W Main St",
+    "city": "Woodville",
+    "state": "OH",
+    "zip": "43469-1138"
+  },
+  "coordinates": {
+    "latitude": 41.451162338256836,
+    "longitude": -83.36576461791992
+  },
+  "website": "https://solomonlutheranchurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=99dd06f1-6b48-45b3-9cc7-c4cf3edcd647",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "99dd06f1-6b48-45b3-9cc7-c4cf3edcd647"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "solomonlutheranchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "344434068"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sr3zqgx52",
+  "url": "https://constellation.church/sr3zqgx52",
+  "name": "Ogden Church",
+  "displayName": "Ogden Church",
+  "address": {
+    "street": "3201 E US 223",
+    "city": "Adrian",
+    "state": "MI",
+    "zip": "49221-9207"
+  },
+  "coordinates": {
+    "latitude": 41.87114143371582,
+    "longitude": -84.00115203857422
+  },
+  "website": "https://ogdenchurch.org",
+  "listingUrl": "https://churches.efca.org/?id=180986",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "180986"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ogdenchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382505590"
+    }
+  ],
+  "advisories": []
+}

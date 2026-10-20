@@ -1,0 +1,33 @@
+{
+  "id": "jthc50b08",
+  "url": "https://constellation.church/jthc50b08",
+  "name": "Powell Presbyterian Church",
+  "displayName": "Powell Presbyterian Church",
+  "address": {
+    "street": "119 County Road",
+    "city": "Spartanburg",
+    "state": "SC",
+    "zip": "29301"
+  },
+  "coordinates": {
+    "latitude": 34.95347595214844,
+    "longitude": -81.97342681884766
+  },
+  "website": "https://powellpresbyterianchurch.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/845",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "845"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "powellpresbyterianchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570603530"
+    }
+  ],
+  "advisories": []
+}

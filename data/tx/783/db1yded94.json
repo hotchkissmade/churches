@@ -1,0 +1,33 @@
+{
+  "id": "db1yded94",
+  "url": "https://constellation.church/db1yded94",
+  "name": "Portland Revival Center",
+  "displayName": "Portland Revival Center",
+  "address": {
+    "street": "402 Lang Rd",
+    "city": "Portland",
+    "state": "TX",
+    "zip": "78374"
+  },
+  "coordinates": {
+    "latitude": 27.88945960998535,
+    "longitude": -97.32450103759766
+  },
+  "website": "https://portlandrevivalcenter.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=dc586047-5273-4698-a1ee-3d71b81198ac&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "dc586047-5273-4698-a1ee-3d71b81198ac"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "portlandrevivalcenter.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742340980"
+    }
+  ],
+  "advisories": []
+}

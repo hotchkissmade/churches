@@ -1,0 +1,33 @@
+{
+  "id": "e46hfpr73",
+  "url": "https://constellation.church/e46hfpr73",
+  "name": "Central United Methodist Church",
+  "displayName": "Central United Methodist Church",
+  "address": {
+    "street": "1011 2nd St",
+    "city": "Muskegon",
+    "state": "MI",
+    "zip": "49440-1231"
+  },
+  "coordinates": {
+    "latitude": 43.233890533447266,
+    "longitude": -86.24989700317383
+  },
+  "website": "https://muskegoncentralumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFDjFIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFDjFIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "muskegoncentralumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381598941"
+    }
+  ],
+  "advisories": []
+}

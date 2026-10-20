@@ -1,0 +1,33 @@
+{
+  "id": "c8jyfmw88",
+  "url": "https://constellation.church/c8jyfmw88",
+  "name": "Western Oaks Baptist Church",
+  "displayName": "Western Oaks Baptist Church",
+  "address": {
+    "street": "5345 Old Jacksonville Rd",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62711"
+  },
+  "coordinates": {
+    "latitude": 39.787492752075195,
+    "longitude": -89.75505828857422
+  },
+  "website": "https://westernoaks.org",
+  "listingUrl": "https://churches.sbc.net/church/western-oaks-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "western-oaks-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westernoaks.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371235543"
+    }
+  ],
+  "advisories": []
+}

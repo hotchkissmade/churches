@@ -1,0 +1,33 @@
+{
+  "id": "hg3e8qb41",
+  "url": "https://constellation.church/hg3e8qb41",
+  "name": "First Baptist Church Of Hudson",
+  "displayName": "First Baptist Church Of Hudson",
+  "address": {
+    "street": "13343 Fivay Rd",
+    "city": "Hudson",
+    "state": "FL",
+    "zip": "34667"
+  },
+  "coordinates": {
+    "latitude": 28.3511905670166,
+    "longitude": -82.68091201782227
+  },
+  "website": "https://fbchudson.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-hudson/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-hudson"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbchudson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592348746"
+    }
+  ],
+  "advisories": []
+}

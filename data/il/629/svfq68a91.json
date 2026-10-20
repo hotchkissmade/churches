@@ -1,0 +1,33 @@
+{
+  "id": "svfq68a91",
+  "url": "https://constellation.church/svfq68a91",
+  "name": "First Baptist Church of Dongola",
+  "displayName": "First Baptist Church of Dongola",
+  "address": {
+    "street": "203 E Cross",
+    "city": "Dongola",
+    "state": "IL",
+    "zip": "62926"
+  },
+  "coordinates": {
+    "latitude": 37.360307693481445,
+    "longitude": -89.16462326049805
+  },
+  "website": "https://dongolafirst.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-dongola/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-dongola"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dongolafirst.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370865795"
+    }
+  ],
+  "advisories": []
+}

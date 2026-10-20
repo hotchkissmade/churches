@@ -1,0 +1,33 @@
+{
+  "id": "p9b56tx20",
+  "url": "https://constellation.church/p9b56tx20",
+  "name": "Patuxent Friends Meeting",
+  "displayName": "Patuxent Friends Meeting",
+  "address": {
+    "street": "12220 H.G. Trueman Road",
+    "city": "Lusby",
+    "state": "MD",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 38.36363220214844,
+    "longitude": -76.44865798950195
+  },
+  "website": "https://patuxentfriends.org/ourhistory",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/patuxent-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "patuxent-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "patuxentfriends.org/ourhistory"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "522275925"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pzjmn8318",
+  "url": "https://constellation.church/pzjmn8318",
+  "name": "Christ The King Lutheran Church",
+  "displayName": "Christ The King Lutheran Church",
+  "address": {
+    "street": "17195 Cleveland Rd",
+    "city": "South Bend",
+    "state": "IN",
+    "zip": "46635-1415"
+  },
+  "coordinates": {
+    "latitude": 41.72401428222656,
+    "longitude": -86.20159912109375
+  },
+  "website": "https://ctkluth.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c9c83043-49d4-4810-85ad-e40124504bfe",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c9c83043-49d4-4810-85ad-e40124504bfe"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ctkluth.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351162405"
+    }
+  ],
+  "advisories": []
+}

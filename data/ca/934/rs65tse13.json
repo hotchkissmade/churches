@@ -1,0 +1,33 @@
+{
+  "id": "rs65tse13",
+  "url": "https://constellation.church/rs65tse13",
+  "name": "Calvary Lutheran Church",
+  "displayName": "Calvary Lutheran Church",
+  "address": {
+    "street": "480 Monterey Ave",
+    "city": "Morro Bay",
+    "state": "CA",
+    "zip": "93442-2530"
+  },
+  "coordinates": {
+    "latitude": 35.361894607543945,
+    "longitude": -120.84852600097656
+  },
+  "website": "https://morrobaylutherans.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=39f6ac11-4b83-4e57-8cad-f7b0e669d2cf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "39f6ac11-4b83-4e57-8cad-f7b0e669d2cf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "morrobaylutherans.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953430271"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hhtrdcy71",
+  "url": "https://constellation.church/hhtrdcy71",
+  "name": "First Church of Squantum",
+  "displayName": "First Church of Squantum",
+  "address": {
+    "street": "164 Bellevue Rd",
+    "city": "Squantum",
+    "state": "MA",
+    "zip": "02171"
+  },
+  "coordinates": {
+    "latitude": 42.29708480834961,
+    "longitude": -71.00835037231445
+  },
+  "website": "https://firstchurchsquantum.org",
+  "listingUrl": "https://www.naccc.org/wpbdp_listing/first-church-of-squantum/",
+  "identifiers": [
+    {
+      "namespace": "org.naccc.id",
+      "value": "first-church-of-squantum"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstchurchsquantum.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222484445"
+    }
+  ],
+  "advisories": []
+}

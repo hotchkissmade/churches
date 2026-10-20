@@ -1,0 +1,33 @@
+{
+  "id": "v9bjp0x34",
+  "url": "https://constellation.church/v9bjp0x34",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "913 Nebraska St",
+    "city": "Oshkosh",
+    "state": "WI",
+    "zip": "54902-6025"
+  },
+  "coordinates": {
+    "latitude": 44.0101852,
+    "longitude": -88.5404815
+  },
+  "website": "https://graceoshkosh.net",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24673",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24673"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceoshkosh.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390808489"
+    }
+  ],
+  "advisories": []
+}

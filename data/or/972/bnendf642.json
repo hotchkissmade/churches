@@ -1,0 +1,33 @@
+{
+  "id": "bnendf642",
+  "url": "https://constellation.church/bnendf642",
+  "name": "Hall Boulevard Baptist Church",
+  "displayName": "Hall Boulevard Baptist Church",
+  "address": {
+    "street": "14145 SW Hall Blvd",
+    "city": "Tigard",
+    "state": "OR",
+    "zip": "97224"
+  },
+  "coordinates": {
+    "latitude": 45.417619705200195,
+    "longitude": -122.7664794921875
+  },
+  "website": "https://hallbbc.org",
+  "listingUrl": "https://churches.sbc.net/church/hall-boulevard-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hall-boulevard-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hallbbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930952000"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sqpegtr42",
+  "url": "https://constellation.church/sqpegtr42",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "140 E Orange St",
+    "city": "Lancaster",
+    "state": "PA",
+    "zip": "17602"
+  },
+  "coordinates": {
+    "latitude": 40.03970146179199,
+    "longitude": -76.30269241333008
+  },
+  "website": "https://fpclancasterpa.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/7467/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "7467"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpclancasterpa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231360841"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mreg3cy56",
+  "url": "https://constellation.church/mreg3cy56",
+  "name": "Lord of Life Lutheran Church",
+  "displayName": "Lord of Life Lutheran Church",
+  "address": {
+    "street": "2480 W Dublin Granville Rd",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43235-2709"
+  },
+  "coordinates": {
+    "latitude": 40.09098434448242,
+    "longitude": -83.05611419677734
+  },
+  "website": "https://acceptingall.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=efcdcdc3-084a-49a0-89f5-c77ae7155bff",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "efcdcdc3-084a-49a0-89f5-c77ae7155bff"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "acceptingall.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310871521"
+    }
+  ],
+  "advisories": []
+}

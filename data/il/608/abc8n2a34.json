@@ -1,0 +1,33 @@
+{
+  "id": "abc8n2a34",
+  "url": "https://constellation.church/abc8n2a34",
+  "name": "First United Methodist Church of Evergreen Park",
+  "displayName": "First United Methodist Church of Evergreen Park",
+  "address": {
+    "street": "9358 S Homan",
+    "city": "Evergreen Park",
+    "state": "IL",
+    "zip": "60805"
+  },
+  "coordinates": {
+    "latitude": 41.722707748413086,
+    "longitude": -87.70696258544922
+  },
+  "website": "https://evergreenparkmethodist.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFFMUIA5",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFFMUIA5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "evergreenparkmethodist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366008601"
+    }
+  ],
+  "advisories": []
+}

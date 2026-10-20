@@ -1,0 +1,33 @@
+{
+  "id": "yqrdnnk15",
+  "url": "https://constellation.church/yqrdnnk15",
+  "name": "Oak Forest Anglican Church",
+  "displayName": "Oak Forest Anglican Church",
+  "address": {
+    "street": "1216 Bethlehem Street",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77018"
+  },
+  "coordinates": {
+    "latitude": 29.838088989257812,
+    "longitude": -95.43001556396484
+  },
+  "website": "https://ofa.church/about",
+  "listingUrl": "https://www.acna.org/admin_units/1993",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "1993"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ofa.church/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "851920466"
+    }
+  ],
+  "advisories": []
+}

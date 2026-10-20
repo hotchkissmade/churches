@@ -1,0 +1,33 @@
+{
+  "id": "z1853t290",
+  "url": "https://constellation.church/z1853t290",
+  "name": "Chaparral Baptist Church",
+  "displayName": "Chaparral Baptist Church",
+  "address": {
+    "street": "115 Domingo Dr",
+    "city": "Moncks Corner",
+    "state": "SC",
+    "zip": "29461"
+  },
+  "coordinates": {
+    "latitude": 33.07574272155762,
+    "longitude": -80.10222625732422
+  },
+  "website": "https://screvenbaptist.org/member-churches",
+  "listingUrl": "https://churches.sbc.net/church/chaparral-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "chaparral-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "screvenbaptist.org/member-churches"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570767490"
+    }
+  ],
+  "advisories": []
+}

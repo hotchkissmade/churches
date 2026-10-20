@@ -1,0 +1,33 @@
+{
+  "id": "j7bc8yf19",
+  "url": "https://constellation.church/j7bc8yf19",
+  "name": "Drexel First Baptist Church",
+  "displayName": "Drexel First Baptist Church",
+  "address": {
+    "street": "200 S Main St",
+    "city": "Drexel",
+    "state": "NC",
+    "zip": "28619"
+  },
+  "coordinates": {
+    "latitude": 35.75652885437012,
+    "longitude": -81.60528182983398
+  },
+  "website": "https://drexelfirstbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/drexel-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "drexel-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "drexelfirstbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237229563"
+    }
+  ],
+  "advisories": []
+}

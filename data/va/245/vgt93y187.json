@@ -1,0 +1,33 @@
+{
+  "id": "vgt93y187",
+  "url": "https://constellation.church/vgt93y187",
+  "name": "Rustburg Baptist Church",
+  "displayName": "Rustburg Baptist Church",
+  "address": {
+    "street": "286 Rocky Rd",
+    "city": "Rustburg",
+    "state": "VA",
+    "zip": "24588"
+  },
+  "coordinates": {
+    "latitude": 37.26931571960449,
+    "longitude": -79.10274887084961
+  },
+  "website": "https://rustburgbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/rustburg-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "rustburg-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rustburgbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540681729"
+    }
+  ],
+  "advisories": []
+}

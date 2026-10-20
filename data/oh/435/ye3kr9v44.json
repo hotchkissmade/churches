@@ -1,0 +1,33 @@
+{
+  "id": "ye3kr9v44",
+  "url": "https://constellation.church/ye3kr9v44",
+  "name": "St Martin Lutheran Church",
+  "displayName": "St. Martin Lutheran Church",
+  "address": {
+    "street": "203 S Defiance St",
+    "city": "Archbold",
+    "state": "OH",
+    "zip": "43502-1408"
+  },
+  "coordinates": {
+    "latitude": 41.51874923706055,
+    "longitude": -84.30651092529297
+  },
+  "website": "https://the-welcome-place.org/about/bulletins",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=49db0559-3811-46cd-9923-0fc056286fa3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "49db0559-3811-46cd-9923-0fc056286fa3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "the-welcome-place.org/about/bulletins"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341218987"
+    }
+  ],
+  "advisories": []
+}

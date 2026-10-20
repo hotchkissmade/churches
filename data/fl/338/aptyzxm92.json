@@ -1,0 +1,33 @@
+{
+  "id": "aptyzxm92",
+  "url": "https://constellation.church/aptyzxm92",
+  "name": "Inman Park Baptist Church",
+  "displayName": "Inman Park Baptist Church",
+  "address": {
+    "street": "1800 6th St NW",
+    "city": "Winter Haven",
+    "state": "FL",
+    "zip": "33881"
+  },
+  "coordinates": {
+    "latitude": 28.042816162109375,
+    "longitude": -81.7327880859375
+  },
+  "website": "https://inmanparkbaptistchurch.org/about-us",
+  "listingUrl": "https://churches.sbc.net/church/inman-park-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "inman-park-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "inmanparkbaptistchurch.org/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591773204"
+    }
+  ],
+  "advisories": []
+}

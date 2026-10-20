@@ -1,0 +1,33 @@
+{
+  "id": "x66d9a095",
+  "url": "https://constellation.church/x66d9a095",
+  "name": "Church of the Redeemer",
+  "displayName": "Church of the Redeemer",
+  "address": {
+    "street": "901 E Friendly Ave",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27401-3103"
+  },
+  "coordinates": {
+    "latitude": 36.07215881347656,
+    "longitude": -79.78034973144531
+  },
+  "website": "https://redeemerchurchgso.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-north-carolina/list/church-redeemer",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-north-carolina/church-redeemer"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerchurchgso.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581488801"
+    }
+  ],
+  "advisories": []
+}

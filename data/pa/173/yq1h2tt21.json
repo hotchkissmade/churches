@@ -1,0 +1,33 @@
+{
+  "id": "yq1h2tt21",
+  "url": "https://constellation.church/yq1h2tt21",
+  "name": "Mount Joy Lutheran Church",
+  "displayName": "Mount Joy Lutheran Church",
+  "address": {
+    "street": "2615 Taneytown Rd",
+    "city": "Gettysburg",
+    "state": "PA",
+    "zip": "17325-8634"
+  },
+  "coordinates": {
+    "latitude": 39.74859428405762,
+    "longitude": -77.22298049926758
+  },
+  "website": "https://mjspparish.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c01b0ed1-95b5-4036-9499-fce5d4ed68cf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c01b0ed1-95b5-4036-9499-fce5d4ed68cf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mjspparish.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236275456"
+    }
+  ],
+  "advisories": []
+}

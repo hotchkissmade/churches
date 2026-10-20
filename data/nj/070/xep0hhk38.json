@@ -1,0 +1,33 @@
+{
+  "id": "xep0hhk38",
+  "url": "https://constellation.church/xep0hhk38",
+  "name": "All Saints Community Service & Development Corporation",
+  "displayName": "All Saints Community Service & Development",
+  "address": {
+    "street": "701 Washington St.",
+    "city": "Hoboken",
+    "state": "NJ",
+    "zip": "07030"
+  },
+  "coordinates": {
+    "latitude": 40.7448183,
+    "longitude": -74.0285073
+  },
+  "website": "https://allsaintshoboken.org/building-history",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-newark/list/all-saints-community-service-development-corporation",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-newark/all-saints-community-service-development-corporation"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allsaintshoboken.org/building-history"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "912073437"
+    }
+  ],
+  "advisories": []
+}

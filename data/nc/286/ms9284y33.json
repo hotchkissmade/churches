@@ -1,0 +1,33 @@
+{
+  "id": "ms9284y33",
+  "url": "https://constellation.church/ms9284y33",
+  "name": "Holy Communion Lutheran Church",
+  "displayName": "Holy Communion Lutheran Church",
+  "address": {
+    "street": "1525 Clarks Creek Rd",
+    "city": "Banner Elk",
+    "state": "NC",
+    "zip": "28604-9053"
+  },
+  "coordinates": {
+    "latitude": 36.17405891418457,
+    "longitude": -81.7748031616211
+  },
+  "website": "https://holycommunionlutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a1ee3eab-1bd0-4480-ad51-a3137537ee47",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a1ee3eab-1bd0-4480-ad51-a3137537ee47"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holycommunionlutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561246236"
+    }
+  ],
+  "advisories": []
+}

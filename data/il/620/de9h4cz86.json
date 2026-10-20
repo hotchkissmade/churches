@@ -1,0 +1,33 @@
+{
+  "id": "de9h4cz86",
+  "url": "https://constellation.church/de9h4cz86",
+  "name": "Christway Church",
+  "displayName": "Christway Church",
+  "address": {
+    "street": "1200 Airport Rd",
+    "city": "Godfrey",
+    "state": "IL",
+    "zip": "62035"
+  },
+  "coordinates": {
+    "latitude": 38.96703910827637,
+    "longitude": -90.20357513427734
+  },
+  "website": "https://christwayil.com",
+  "listingUrl": "https://churches.sbc.net/church/christway-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "christway-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christwayil.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370890110"
+    }
+  ],
+  "advisories": []
+}

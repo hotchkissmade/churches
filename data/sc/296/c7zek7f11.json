@@ -1,0 +1,33 @@
+{
+  "id": "c7zek7f11",
+  "url": "https://constellation.church/c7zek7f11",
+  "name": "First Baptist Church of Liberty",
+  "displayName": "First Baptist Church of Liberty",
+  "address": {
+    "street": "400 Edgemont Ave",
+    "city": "Liberty",
+    "state": "SC",
+    "zip": "29657"
+  },
+  "coordinates": {
+    "latitude": 34.78831672668457,
+    "longitude": -82.7003288269043
+  },
+  "website": "https://firstbaptistliberty.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-liberty-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-liberty-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistliberty.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570422428"
+    }
+  ],
+  "advisories": []
+}

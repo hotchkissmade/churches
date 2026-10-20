@@ -1,0 +1,33 @@
+{
+  "id": "hp3z9mk30",
+  "url": "https://constellation.church/hp3z9mk30",
+  "name": "Church of St. Michael & All Angels",
+  "displayName": "Church of St. Michael & All Angels",
+  "address": {
+    "street": "2013 Saint Paul St",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21218-5998"
+  },
+  "coordinates": {
+    "latitude": 39.31262969970703,
+    "longitude": -76.61495208740234
+  },
+  "website": "https://stmichaelsbaltimore.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maryland/list/church-st-michael-all-angels",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maryland/church-st-michael-all-angels"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmichaelsbaltimore.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520665271"
+    }
+  ],
+  "advisories": []
+}

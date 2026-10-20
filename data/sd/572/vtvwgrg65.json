@@ -1,0 +1,33 @@
+{
+  "id": "vtvwgrg65",
+  "url": "https://constellation.church/vtvwgrg65",
+  "name": "American Lutheran Church",
+  "displayName": "American Lutheran Church",
+  "address": {
+    "street": "401 Flynn Dr",
+    "city": "Milbank",
+    "state": "SD",
+    "zip": "57252-1522"
+  },
+  "coordinates": {
+    "latitude": 45.21872329711914,
+    "longitude": -96.61862182617188
+  },
+  "website": "https://americanlutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=97a12ac8-8289-400f-8506-4245148d150d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "97a12ac8-8289-400f-8506-4245148d150d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "americanlutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460250741"
+    }
+  ],
+  "advisories": []
+}

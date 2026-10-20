@@ -1,0 +1,29 @@
+{
+  "id": "b2randn42",
+  "url": "https://constellation.church/b2randn42",
+  "name": "ST JAMES CHURCH",
+  "displayName": "St. James Church",
+  "address": {
+    "street": "450 WEST MADISON STREET",
+    "city": "Millstadt",
+    "state": "IL",
+    "zip": "62260"
+  },
+  "coordinates": {
+    "latitude": 38.460527,
+    "longitude": -90.0965104
+  },
+  "website": "https://stjmillstadt.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370796364"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjmillstadt.org"
+    }
+  ],
+  "advisories": []
+}

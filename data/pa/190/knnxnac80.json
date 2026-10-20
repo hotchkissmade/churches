@@ -1,0 +1,33 @@
+{
+  "id": "knnxnac80",
+  "url": "https://constellation.church/knnxnac80",
+  "name": "St. Christopher's Church",
+  "displayName": "St. Christopher's Church",
+  "address": {
+    "street": "226 Righters Mill Rd",
+    "city": "Gladwyne",
+    "state": "PA",
+    "zip": "19035-1597"
+  },
+  "coordinates": {
+    "latitude": 40.033193588256836,
+    "longitude": -75.27717971801758
+  },
+  "website": "https://saintchristophers.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/st-christophers-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/st-christophers-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintchristophers.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231501168"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wpay15j45",
+  "url": "https://constellation.church/wpay15j45",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "9900 SE Mill Plain Blvd",
+    "city": "Vancouver",
+    "state": "WA",
+    "zip": "98664-3966"
+  },
+  "coordinates": {
+    "latitude": 45.62126541137695,
+    "longitude": -122.57077026367188
+  },
+  "website": "https://gracevancouver.org",
+  "listingUrl": "https://locator.lcms.org/church/C/927284",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "927284"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracevancouver.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910974584"
+    }
+  ],
+  "advisories": []
+}

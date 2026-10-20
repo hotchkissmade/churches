@@ -1,0 +1,33 @@
+{
+  "id": "f8ccnww97",
+  "url": "https://constellation.church/f8ccnww97",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "12386 James Madison Hwy",
+    "city": "Orange",
+    "state": "VA",
+    "zip": "22960"
+  },
+  "coordinates": {
+    "latitude": 38.234025955200195,
+    "longitude": -78.11410140991211
+  },
+  "website": "https://orangeassembly.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=00c0d618-60e5-4866-ad8c-46e10315f9e2&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "00c0d618-60e5-4866-ad8c-46e10315f9e2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "orangeassembly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541216991"
+    }
+  ],
+  "advisories": []
+}

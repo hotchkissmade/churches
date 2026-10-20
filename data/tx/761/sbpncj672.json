@@ -1,0 +1,33 @@
+{
+  "id": "sbpncj672",
+  "url": "https://constellation.church/sbpncj672",
+  "name": "Samaria Baptist Church",
+  "displayName": "Samaria Baptist Church",
+  "address": {
+    "street": "4000 E Berry St",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76105"
+  },
+  "coordinates": {
+    "latitude": 32.71371650695801,
+    "longitude": -97.26689147949219
+  },
+  "website": "https://sbcfortworth.org",
+  "listingUrl": "https://churches.sbc.net/church/samaria-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "samaria-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sbcfortworth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751769273"
+    }
+  ],
+  "advisories": []
+}

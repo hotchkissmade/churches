@@ -1,0 +1,33 @@
+{
+  "id": "zh46fgs35",
+  "url": "https://constellation.church/zh46fgs35",
+  "name": "Blue Creek Baptist Church",
+  "displayName": "Blue Creek Baptist Church",
+  "address": {
+    "street": "1251 Burgaw Hwy",
+    "city": "Jacksonville",
+    "state": "NC",
+    "zip": "28540"
+  },
+  "coordinates": {
+    "latitude": 34.75261,
+    "longitude": -77.475405
+  },
+  "website": "https://bluecreekbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/blue-creek-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "blue-creek-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bluecreekbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560748126"
+    }
+  ],
+  "advisories": []
+}

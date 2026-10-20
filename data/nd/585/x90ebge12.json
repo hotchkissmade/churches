@@ -1,0 +1,33 @@
+{
+  "id": "x90ebge12",
+  "url": "https://constellation.church/x90ebge12",
+  "name": "Peace Lutheran Church",
+  "displayName": "Peace Lutheran Church",
+  "address": {
+    "street": "3310 66th St SE",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58504-3945"
+  },
+  "coordinates": {
+    "latitude": 46.7661190032959,
+    "longitude": -100.68983459472656
+  },
+  "website": "https://peacelutheranoflincoln.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e9165b37-6d27-4a9b-aeb9-b9584aa1ccb2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e9165b37-6d27-4a9b-aeb9-b9584aa1ccb2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "peacelutheranoflincoln.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450382227"
+    }
+  ],
+  "advisories": []
+}

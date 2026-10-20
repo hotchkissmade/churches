@@ -1,0 +1,33 @@
+{
+  "id": "km85tmv10",
+  "url": "https://constellation.church/km85tmv10",
+  "name": "Moe Lutheran Church",
+  "displayName": "Moe Lutheran Church",
+  "address": {
+    "street": "1202 2nd St NE",
+    "city": "Roseau",
+    "state": "MN",
+    "zip": "56751-1337"
+  },
+  "coordinates": {
+    "latitude": 48.84771728515625,
+    "longitude": -95.74434661865234
+  },
+  "website": "https://moelutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7a4ffc48-46db-41b9-af61-06f6c32d5e05",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7a4ffc48-46db-41b9-af61-06f6c32d5e05"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "moelutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411412532"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "d31k9r440",
+  "url": "https://constellation.church/d31k9r440",
+  "name": "Prince Street Baptist Church",
+  "displayName": "Prince Street Baptist Church",
+  "address": {
+    "street": "421 N Prince St",
+    "city": "Clovis",
+    "state": "NM",
+    "zip": "88101"
+  },
+  "coordinates": {
+    "latitude": 34.402753829956055,
+    "longitude": -103.19606018066406
+  },
+  "website": "https://psbcnm.com",
+  "listingUrl": "https://churches.sbc.net/church/prince-street-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "prince-street-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "psbcnm.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850323293"
+    }
+  ],
+  "advisories": []
+}

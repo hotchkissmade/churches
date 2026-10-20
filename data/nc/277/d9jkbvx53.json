@@ -1,0 +1,33 @@
+{
+  "id": "d9jkbvx53",
+  "url": "https://constellation.church/d9jkbvx53",
+  "name": "Faith",
+  "displayName": "Faith Baptist Church",
+  "address": {
+    "street": "3321 Cheek Rd",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27704"
+  },
+  "coordinates": {
+    "latitude": 36.01478385925293,
+    "longitude": -78.82433700561523
+  },
+  "website": "https://faithdurham.church",
+  "listingUrl": "https://churches.sbc.net/church/faith-7/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "faith-7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithdurham.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560851427"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "eq1njhc38",
+  "url": "https://constellation.church/eq1njhc38",
+  "name": "First Baptist Church of Boynton Beach",
+  "displayName": "First Baptist Church of Boynton Beach",
+  "address": {
+    "street": "301 N Seacrest Blvd",
+    "city": "Boynton Beach",
+    "state": "FL",
+    "zip": "33435"
+  },
+  "coordinates": {
+    "latitude": 26.529430389404297,
+    "longitude": -80.06486511230469
+  },
+  "website": "https://firstboynton.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-boynton-beach/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-boynton-beach"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstboynton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "596033553"
+    }
+  ],
+  "advisories": []
+}

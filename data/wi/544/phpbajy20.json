@@ -1,0 +1,33 @@
+{
+  "id": "phpbajy20",
+  "url": "https://constellation.church/phpbajy20",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "420 Lincoln St",
+    "city": "Medford",
+    "state": "WI",
+    "zip": "54451-1447"
+  },
+  "coordinates": {
+    "latitude": 45.141719818115234,
+    "longitude": -90.34200286865234
+  },
+  "website": "https://diedforme.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/25002",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "25002"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "diedforme.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390884601"
+    }
+  ],
+  "advisories": []
+}

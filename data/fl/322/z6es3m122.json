@@ -1,0 +1,33 @@
+{
+  "id": "z6es3m122",
+  "url": "https://constellation.church/z6es3m122",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "3722 Belfort Road",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32216"
+  },
+  "coordinates": {
+    "latitude": 30.260196685791016,
+    "longitude": -81.57947540283203
+  },
+  "website": "https://wpcajax.us",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1070",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1070"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wpcajax.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592071097"
+    }
+  ],
+  "advisories": []
+}

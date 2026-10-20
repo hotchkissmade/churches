@@ -1,0 +1,33 @@
+{
+  "id": "qzd31jt41",
+  "url": "https://constellation.church/qzd31jt41",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "3795 Churchville Ave",
+    "city": "Churchville",
+    "state": "VA",
+    "zip": "24421-2524"
+  },
+  "coordinates": {
+    "latitude": 38.2257899,
+    "longitude": -79.1619551
+  },
+  "website": "https://stpeterschurchville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=29c15fdd-06ad-454d-9af8-adcaf7da7c3f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "29c15fdd-06ad-454d-9af8-adcaf7da7c3f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpeterschurchville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541031924"
+    }
+  ],
+  "advisories": []
+}

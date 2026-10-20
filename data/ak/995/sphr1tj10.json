@@ -1,0 +1,33 @@
+{
+  "id": "sphr1tj10",
+  "url": "https://constellation.church/sphr1tj10",
+  "name": "Faith Presbyterian Church",
+  "displayName": "Faith Presbyterian Church",
+  "address": {
+    "street": "2150 E. Dowling Road",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "99507"
+  },
+  "coordinates": {
+    "latitude": 61.1661376953125,
+    "longitude": -149.84273529052734
+  },
+  "website": "https://faithanchorage.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4952",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4952"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithanchorage.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920161429"
+    }
+  ],
+  "advisories": []
+}

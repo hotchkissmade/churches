@@ -1,0 +1,33 @@
+{
+  "id": "gd1hcg959",
+  "url": "https://constellation.church/gd1hcg959",
+  "name": "Panama City First Baptist Church",
+  "displayName": "Panama City First Baptist Church",
+  "address": {
+    "street": "640 Grace Ave",
+    "city": "Panama City",
+    "state": "FL",
+    "zip": "32401"
+  },
+  "coordinates": {
+    "latitude": 30.1609377,
+    "longitude": -85.6620443
+  },
+  "website": "https://firstbaptistpc.com",
+  "listingUrl": "https://churches.sbc.net/church/panama-city-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "panama-city-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistpc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590791014"
+    }
+  ],
+  "advisories": []
+}

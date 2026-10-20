@@ -1,0 +1,33 @@
+{
+  "id": "dtp3cgt25",
+  "url": "https://constellation.church/dtp3cgt25",
+  "name": "First Baptist Church Jackson",
+  "displayName": "First Baptist Church Jackson",
+  "address": {
+    "street": "212 S High St",
+    "city": "Jackson",
+    "state": "MO",
+    "zip": "63755"
+  },
+  "coordinates": {
+    "latitude": 37.380807876586914,
+    "longitude": -89.66770935058594
+  },
+  "website": "https://fbcj.us",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-jackson-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-jackson-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcj.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431568777"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jnnsv7r19",
+  "url": "https://constellation.church/jnnsv7r19",
+  "name": "Iglesia Luterana Adviento",
+  "displayName": "Iglesia Luterana Adviento",
+  "address": {
+    "street": "3232 S Cooper St",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76015-2327"
+  },
+  "coordinates": {
+    "latitude": 32.6925254,
+    "longitude": -97.1278889
+  },
+  "website": "https://alctx.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=47a76fa1-d5c7-4fe6-a691-7a484d750506",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "47a76fa1-d5c7-4fe6-a691-7a484d750506"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "alctx.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "811487587"
+    }
+  ],
+  "advisories": []
+}

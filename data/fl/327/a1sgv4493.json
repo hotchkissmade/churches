@@ -1,0 +1,33 @@
+{
+  "id": "a1sgv4493",
+  "url": "https://constellation.church/a1sgv4493",
+  "name": "The Rock Church",
+  "displayName": "The Rock Church",
+  "address": {
+    "street": "3735 Sunset Ave",
+    "city": "Mims",
+    "state": "FL",
+    "zip": "32754"
+  },
+  "coordinates": {
+    "latitude": 28.768552780151367,
+    "longitude": -80.87549591064453
+  },
+  "website": "https://therockchurchfl.org",
+  "listingUrl": "https://churches.sbc.net/church/the-rock-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-rock-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "therockchurchfl.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "852661919"
+    }
+  ],
+  "advisories": []
+}

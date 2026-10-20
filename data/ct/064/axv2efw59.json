@@ -1,0 +1,33 @@
+{
+  "id": "axv2efw59",
+  "url": "https://constellation.church/axv2efw59",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "183 William St",
+    "city": "Portland",
+    "state": "CT",
+    "zip": "06480-1631"
+  },
+  "coordinates": {
+    "latitude": 41.58417892456055,
+    "longitude": -72.62155532836914
+  },
+  "website": "https://zionlutheranportland.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dff4591b-bed9-46e1-b511-eb2322f029eb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dff4591b-bed9-46e1-b511-eb2322f029eb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionlutheranportland.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "066058417"
+    }
+  ],
+  "advisories": []
+}

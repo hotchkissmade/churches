@@ -1,0 +1,33 @@
+{
+  "id": "ew2qz2692",
+  "url": "https://constellation.church/ew2qz2692",
+  "name": "Falmouth Baptist Church",
+  "displayName": "Falmouth Baptist Church",
+  "address": {
+    "street": "302 Colonial Ave",
+    "city": "Falmouth",
+    "state": "VA",
+    "zip": "22405"
+  },
+  "coordinates": {
+    "latitude": 38.323246002197266,
+    "longitude": -77.46546936035156
+  },
+  "website": "https://falmouthbaptist.net",
+  "listingUrl": "https://churches.sbc.net/church/falmouth-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "falmouth-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "falmouthbaptist.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541050636"
+    }
+  ],
+  "advisories": []
+}

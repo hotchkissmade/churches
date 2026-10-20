@@ -1,0 +1,33 @@
+{
+  "id": "at6bc5h88",
+  "url": "https://constellation.church/at6bc5h88",
+  "name": "Legacy Church",
+  "displayName": "Legacy Church",
+  "address": {
+    "street": "85 Summit View Dr",
+    "city": "Ruckersville",
+    "state": "VA",
+    "zip": "22968"
+  },
+  "coordinates": {
+    "latitude": 38.25252342224121,
+    "longitude": -78.405517578125
+  },
+  "website": "https://visitlegacy.org",
+  "listingUrl": "https://churches.sbc.net/church/legacy-church-5/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "legacy-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "visitlegacy.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "814627453"
+    }
+  ],
+  "advisories": []
+}

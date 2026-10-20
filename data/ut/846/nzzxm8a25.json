@@ -1,0 +1,33 @@
+{
+  "id": "nzzxm8a25",
+  "url": "https://constellation.church/nzzxm8a25",
+  "name": "St. Mary's Episcopal Church",
+  "displayName": "St. Mary's Episcopal Church",
+  "address": {
+    "street": "50 W. 200 No.",
+    "city": "Provo",
+    "state": "UT",
+    "zip": "84601"
+  },
+  "coordinates": {
+    "latitude": 40.236663818359375,
+    "longitude": -111.65972137451172
+  },
+  "website": "https://stmarysprovo.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-utah/list/st-marys-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-utah/st-marys-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarysprovo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "870533491"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vwe42h742",
+  "url": "https://constellation.church/vwe42h742",
+  "name": "St. George's Episcopal Church",
+  "displayName": "St. George's Episcopal Church",
+  "address": {
+    "street": "132 N 10th St",
+    "city": "Griffin",
+    "state": "GA",
+    "zip": "30223-2841"
+  },
+  "coordinates": {
+    "latitude": 33.2498722076416,
+    "longitude": -84.26852035522461
+  },
+  "website": "https://saintgeorges.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-atlanta/list/st-georges-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-atlanta/st-georges-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintgeorges.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580648694"
+    }
+  ],
+  "advisories": []
+}

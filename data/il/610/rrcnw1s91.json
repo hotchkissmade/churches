@@ -1,0 +1,33 @@
+{
+  "id": "rrcnw1s91",
+  "url": "https://constellation.church/rrcnw1s91",
+  "name": "Faith Evangelical Lutheran Church",
+  "displayName": "Faith Evangelical Lutheran Church",
+  "address": {
+    "street": "402 S 2nd Ave",
+    "city": "Forreston",
+    "state": "IL",
+    "zip": "61030-9536"
+  },
+  "coordinates": {
+    "latitude": 42.1236572265625,
+    "longitude": -89.58056640625
+  },
+  "website": "https://faithinforreston.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=155d6ddf-1bfc-4969-9b60-1c7bcac7fade",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "155d6ddf-1bfc-4969-9b60-1c7bcac7fade"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithinforreston.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362857255"
+    }
+  ],
+  "advisories": []
+}

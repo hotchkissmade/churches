@@ -1,0 +1,33 @@
+{
+  "id": "ekm558068",
+  "url": "https://constellation.church/ekm558068",
+  "name": "Kilpatrick Church",
+  "displayName": "Kilpatrick Church",
+  "address": {
+    "street": "10005 E. Barnum Road",
+    "city": "Woodland",
+    "state": "MI",
+    "zip": "48897"
+  },
+  "coordinates": {
+    "latitude": 42.71307373046875,
+    "longitude": -85.09496307373047
+  },
+  "website": "https://kilpatrickchurch.com",
+  "listingUrl": "https://ub.org/churches/find-a-church/kilpatrick-church",
+  "identifiers": [
+    {
+      "namespace": "org.ub.id",
+      "value": "kilpatrick-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kilpatrickchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382446488"
+    }
+  ],
+  "advisories": []
+}

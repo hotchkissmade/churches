@@ -1,0 +1,33 @@
+{
+  "id": "erreg0b47",
+  "url": "https://constellation.church/erreg0b47",
+  "name": "Bethesda Lutheran Church",
+  "displayName": "Bethesda Lutheran Church",
+  "address": {
+    "street": "1204 N Nokomis NE",
+    "city": "Alexandria",
+    "state": "MN",
+    "zip": "56308-5031"
+  },
+  "coordinates": {
+    "latitude": 45.902750932606,
+    "longitude": -95.36738033295
+  },
+  "website": "https://blc-alexandriamn.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5d64716f-4c57-40ec-a40b-1247be3f48d4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5d64716f-4c57-40ec-a40b-1247be3f48d4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blc-alexandriamn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411297067"
+    }
+  ],
+  "advisories": []
+}

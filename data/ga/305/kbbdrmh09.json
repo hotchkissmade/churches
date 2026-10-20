@@ -1,0 +1,33 @@
+{
+  "id": "kbbdrmh09",
+  "url": "https://constellation.church/kbbdrmh09",
+  "name": "Hazel Creek Baptist Church of Mt. Airy, Inc.",
+  "displayName": "Hazel Creek Baptist Church of Mount Airy",
+  "address": {
+    "street": "243 Hazel Creek Church Rd",
+    "city": "Mount Airy",
+    "state": "GA",
+    "zip": "30563"
+  },
+  "coordinates": {
+    "latitude": 34.570940017700195,
+    "longitude": -83.48347473144531
+  },
+  "website": "https://hazelcreekbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/hazel-creek-baptist-church-of-mt-airy-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hazel-creek-baptist-church-of-mt-airy-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hazelcreekbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581530003"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "dec83zq42",
+  "url": "https://constellation.church/dec83zq42",
+  "name": "Charlotte Friends Meeting",
+  "displayName": "Charlotte Friends Meeting",
+  "address": {
+    "street": "570 Rocky River Rd West",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28213"
+  },
+  "coordinates": {
+    "latitude": 35.2830753326416,
+    "longitude": -80.75376510620117
+  },
+  "website": "https://charlottefriendsmeeting.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/charlotte-friends-meeting-pff/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "charlotte-friends-meeting-pff"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "charlottefriendsmeeting.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "690005651"
+    },
+    {
+      "namespace": "org.ucg.id",
+      "value": "charlotte-nc"
+    }
+  ],
+  "advisories": []
+}

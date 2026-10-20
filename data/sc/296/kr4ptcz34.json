@@ -1,0 +1,33 @@
+{
+  "id": "kr4ptcz34",
+  "url": "https://constellation.church/kr4ptcz34",
+  "name": "North Anderson Baptist Church",
+  "displayName": "North Anderson Baptist Church",
+  "address": {
+    "street": "2308 N Main St",
+    "city": "Anderson",
+    "state": "SC",
+    "zip": "29621"
+  },
+  "coordinates": {
+    "latitude": 34.526838302612305,
+    "longitude": -82.65852737426758
+  },
+  "website": "https://northandersonbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/north-anderson-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "north-anderson-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northandersonbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570400600"
+    }
+  ],
+  "advisories": []
+}

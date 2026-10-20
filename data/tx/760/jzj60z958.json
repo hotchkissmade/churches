@@ -1,0 +1,33 @@
+{
+  "id": "jzj60z958",
+  "url": "https://constellation.church/jzj60z958",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "300 S. Center St.",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76010"
+  },
+  "coordinates": {
+    "latitude": 32.73423957824707,
+    "longitude": -97.10746002197266
+  },
+  "website": "https://fbca.org/watch-listen/live",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-266/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-266"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbca.org/watch-listen/live"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750871726"
+    }
+  ],
+  "advisories": []
+}

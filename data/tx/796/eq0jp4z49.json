@@ -1,0 +1,33 @@
+{
+  "id": "eq0jp4z49",
+  "url": "https://constellation.church/eq0jp4z49",
+  "name": "South Side Baptist Church, Abilene",
+  "displayName": "South Side Baptist Church, Abilene",
+  "address": {
+    "street": "1425 S 7th St",
+    "city": "Abilene",
+    "state": "TX",
+    "zip": "79602"
+  },
+  "coordinates": {
+    "latitude": 32.442209243774414,
+    "longitude": -99.74036407470703
+  },
+  "website": "https://ssbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/south-side-baptist-church-abilene-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "south-side-baptist-church-abilene-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ssbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750910560"
+    }
+  ],
+  "advisories": []
+}

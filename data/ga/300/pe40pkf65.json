@@ -1,0 +1,33 @@
+{
+  "id": "pe40pkf65",
+  "url": "https://constellation.church/pe40pkf65",
+  "name": "Old Peachtree Presbyterian Church",
+  "displayName": "Old Peachtree Presbyterian Church",
+  "address": {
+    "street": "1756 Old Peachtree Road",
+    "city": "Duluth",
+    "state": "GA",
+    "zip": "30097"
+  },
+  "coordinates": {
+    "latitude": 34.01571464538574,
+    "longitude": -84.095947265625
+  },
+  "website": "https://oldpeachtree.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1240",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1240"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oldpeachtree.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581871643"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "e1wdyjc52",
+  "url": "https://constellation.church/e1wdyjc52",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "719 6th Ave S",
+    "city": "St James",
+    "state": "MN",
+    "zip": "56081"
+  },
+  "coordinates": {
+    "latitude": 43.97998046875,
+    "longitude": -94.62391662597656
+  },
+  "website": "https://flcstjames.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5bca62ab-ad31-4f45-bad2-93b74fdf8b83",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5bca62ab-ad31-4f45-bad2-93b74fdf8b83"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcstjames.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410795268"
+    }
+  ],
+  "advisories": []
+}

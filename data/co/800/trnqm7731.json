@@ -1,0 +1,33 @@
+{
+  "id": "trnqm7731",
+  "url": "https://constellation.church/trnqm7731",
+  "name": "Revive Church",
+  "displayName": "Revive Church",
+  "address": {
+    "street": "8250 W 80th Ave Ste 15",
+    "city": "Arvada",
+    "state": "CO",
+    "zip": "80005"
+  },
+  "coordinates": {
+    "latitude": 39.84051322937012,
+    "longitude": -105.08953094482422
+  },
+  "website": "https://revivearvada.org",
+  "listingUrl": "https://churches.sbc.net/church/revive-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "revive-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "revivearvada.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "841095692"
+    }
+  ],
+  "advisories": []
+}

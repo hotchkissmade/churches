@@ -1,0 +1,33 @@
+{
+  "id": "c6qsvrm31",
+  "url": "https://constellation.church/c6qsvrm31",
+  "name": "CrossView Lutheran Church",
+  "displayName": "CrossView Lutheran Church",
+  "address": {
+    "street": "2100 Reliance Dr",
+    "city": "Windsor",
+    "state": "CO",
+    "zip": "80550-3450"
+  },
+  "coordinates": {
+    "latitude": 40.44344139099121,
+    "longitude": -104.933349609375
+  },
+  "website": "https://mycrossview.church",
+  "listingUrl": "https://yearbook.wels.net/unitpage/27343",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "27343"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mycrossview.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "922314724"
+    }
+  ],
+  "advisories": []
+}

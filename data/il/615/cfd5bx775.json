@@ -1,0 +1,33 @@
+{
+  "id": "cfd5bx775",
+  "url": "https://constellation.church/cfd5bx775",
+  "name": "Advent Lutheran Church",
+  "displayName": "Advent Lutheran Church",
+  "address": {
+    "street": "1211 S Main St",
+    "city": "Morton",
+    "state": "IL",
+    "zip": "61550-2449"
+  },
+  "coordinates": {
+    "latitude": 40.59888458251953,
+    "longitude": -89.47189712524414
+  },
+  "website": "https://adventmorton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=214d8882-0e25-4965-b0d4-6c4181e453bb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "214d8882-0e25-4965-b0d4-6c4181e453bb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "adventmorton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371044801"
+    }
+  ],
+  "advisories": []
+}

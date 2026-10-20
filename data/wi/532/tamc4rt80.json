@@ -1,0 +1,33 @@
+{
+  "id": "tamc4rt80",
+  "url": "https://constellation.church/tamc4rt80",
+  "name": "The Village Church",
+  "displayName": "The Village Church",
+  "address": {
+    "street": "130 E Juneau Ave",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53202-2552"
+  },
+  "coordinates": {
+    "latitude": 43.045955657958984,
+    "longitude": -87.91228866577148
+  },
+  "website": "https://villagechurchmilwaukee.org/power-shift",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=44d78d79-b77d-4862-90e9-953a5212de8d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "44d78d79-b77d-4862-90e9-953a5212de8d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "villagechurchmilwaukee.org/power-shift"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391083425"
+    }
+  ],
+  "advisories": []
+}

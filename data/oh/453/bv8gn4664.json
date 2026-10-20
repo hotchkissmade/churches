@@ -1,0 +1,33 @@
+{
+  "id": "bv8gn4664",
+  "url": "https://constellation.church/bv8gn4664",
+  "name": "Harrison Street Baptist Church",
+  "displayName": "Harrison Street Baptist Church",
+  "address": {
+    "street": "140 S Harrison St",
+    "city": "New Madison",
+    "state": "OH",
+    "zip": "45346"
+  },
+  "coordinates": {
+    "latitude": 39.96657943725586,
+    "longitude": -84.70990753173828
+  },
+  "website": "https://harrisonstreetchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/harrison-street-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "harrison-street-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "harrisonstreetchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341695318"
+    }
+  ],
+  "advisories": []
+}

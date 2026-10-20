@@ -1,0 +1,33 @@
+{
+  "id": "b2kvh1488",
+  "url": "https://constellation.church/b2kvh1488",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "731 SW Buchanan St",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66606-1426"
+  },
+  "coordinates": {
+    "latitude": 39.05319595336914,
+    "longitude": -95.69031524658203
+  },
+  "website": "https://trinitylutherantopeka.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0fd804d6-fd74-493c-9390-2efe1e787ee6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0fd804d6-fd74-493c-9390-2efe1e787ee6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylutherantopeka.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480697751"
+    }
+  ],
+  "advisories": []
+}

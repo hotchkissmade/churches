@@ -1,0 +1,33 @@
+{
+  "id": "a1g3d7r18",
+  "url": "https://constellation.church/a1g3d7r18",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "12919 NE 159th St",
+    "city": "Brush Prairie",
+    "state": "WA",
+    "zip": "98606-9507"
+  },
+  "coordinates": {
+    "latitude": 45.73697471618652,
+    "longitude": -122.5392074584961
+  },
+  "website": "https://bethelbrushprairie.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=73b025c6-edee-4f42-a399-6360f2895d74",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "73b025c6-edee-4f42-a399-6360f2895d74"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelbrushprairie.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911232270"
+    }
+  ],
+  "advisories": []
+}

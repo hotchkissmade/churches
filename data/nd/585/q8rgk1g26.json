@@ -1,0 +1,33 @@
+{
+  "id": "q8rgk1g26",
+  "url": "https://constellation.church/q8rgk1g26",
+  "name": "Good Shepherd Lutheran Church",
+  "displayName": "Good Shepherd Lutheran Church",
+  "address": {
+    "street": "106 Osage Ave",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58501-2600"
+  },
+  "coordinates": {
+    "latitude": 46.82327651977539,
+    "longitude": -100.79275512695312
+  },
+  "website": "https://gslcbismarck.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=10ce8ac0-f4a4-4b77-839a-ef476412d84e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "10ce8ac0-f4a4-4b77-839a-ef476412d84e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gslcbismarck.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450277540"
+    }
+  ],
+  "advisories": []
+}

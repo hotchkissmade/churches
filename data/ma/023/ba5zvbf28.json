@@ -1,0 +1,29 @@
+{
+  "id": "ba5zvbf28",
+  "url": "https://constellation.church/ba5zvbf28",
+  "name": "Meetinghouse Church",
+  "displayName": "Meetinghouse Church",
+  "address": {
+    "street": "3 Nickerson Avenue",
+    "city": "Middleborough",
+    "state": "MA",
+    "zip": "02346"
+  },
+  "coordinates": {
+    "latitude": 41.892303466796875,
+    "longitude": -70.91078567504883
+  },
+  "website": null,
+  "listingUrl": "https://churches.sbc.net/church/meetinghouse-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "meetinghouse-church"
+    },
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "central-baptist-church"
+    }
+  ],
+  "advisories": []
+}

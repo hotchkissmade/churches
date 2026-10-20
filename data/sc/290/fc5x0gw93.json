@@ -1,0 +1,33 @@
+{
+  "id": "fc5x0gw93",
+  "url": "https://constellation.church/fc5x0gw93",
+  "name": "Spears Creek Baptist Church",
+  "displayName": "Spears Creek Baptist Church",
+  "address": {
+    "street": "116 Spears Creek Church Ln",
+    "city": "Elgin",
+    "state": "SC",
+    "zip": "29045"
+  },
+  "coordinates": {
+    "latitude": 34.103586196899414,
+    "longitude": -80.82499313354492
+  },
+  "website": "https://spearscreekchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/spears-creek-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "spears-creek-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "spearscreekchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570662094"
+    }
+  ],
+  "advisories": []
+}

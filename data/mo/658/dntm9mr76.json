@@ -1,0 +1,33 @@
+{
+  "id": "dntm9mr76",
+  "url": "https://constellation.church/dntm9mr76",
+  "name": "Briar Street Baptist Church",
+  "displayName": "Briar Street Baptist Church",
+  "address": {
+    "street": "1361 E Briar St",
+    "city": "Springfield",
+    "state": "MO",
+    "zip": "65804"
+  },
+  "coordinates": {
+    "latitude": 37.123722076416016,
+    "longitude": -93.27328491210938
+  },
+  "website": "https://briarstreet.org",
+  "listingUrl": "https://churches.sbc.net/church/briar-street-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "briar-street-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "briarstreet.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431003573"
+    }
+  ],
+  "advisories": []
+}

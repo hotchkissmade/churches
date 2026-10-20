@@ -1,0 +1,33 @@
+{
+  "id": "kcsnsrb55",
+  "url": "https://constellation.church/kcsnsrb55",
+  "name": "Saint Mary's Episcopal Church (Afton)",
+  "displayName": "St. Mary's Episcopal Church (Afton)",
+  "address": {
+    "street": "8435 St. Croix Trail",
+    "city": "Hastings",
+    "state": "MN",
+    "zip": "55118"
+  },
+  "coordinates": {
+    "latitude": 44.827003479003906,
+    "longitude": -92.79914855957031
+  },
+  "website": "https://stmarysafton.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/saint-marys-episcopal-church-afton",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/saint-marys-episcopal-church-afton"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarysafton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411466402"
+    }
+  ],
+  "advisories": []
+}

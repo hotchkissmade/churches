@@ -1,0 +1,33 @@
+{
+  "id": "pvby23735",
+  "url": "https://constellation.church/pvby23735",
+  "name": "American Lutheran Church Of Sun City",
+  "displayName": "American Lutheran Church Of Sun City",
+  "address": {
+    "street": "17200 N Del Webb Blvd",
+    "city": "Sun City",
+    "state": "AZ",
+    "zip": "85373-1902"
+  },
+  "coordinates": {
+    "latitude": 33.641286849975586,
+    "longitude": -112.28817749023438
+  },
+  "website": "https://alcsuncity.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=07ea36b4-b719-4673-b40a-e6ccb5fffbf4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "07ea36b4-b719-4673-b40a-e6ccb5fffbf4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "alcsuncity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860292293"
+    }
+  ],
+  "advisories": []
+}

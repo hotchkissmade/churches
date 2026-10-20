@@ -1,0 +1,33 @@
+{
+  "id": "y8nzq5280",
+  "url": "https://constellation.church/y8nzq5280",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "24 Cameron Rd",
+    "city": "North East",
+    "state": "MD",
+    "zip": "21901-3707"
+  },
+  "coordinates": {
+    "latitude": 39.608232498168945,
+    "longitude": -75.94683074951172
+  },
+  "website": "https://blcne.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d39c9c07-1de3-4480-9077-a452e7237eae",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d39c9c07-1de3-4480-9077-a452e7237eae"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blcne.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "526043154"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qct60de48",
+  "url": "https://constellation.church/qct60de48",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "251 Main St",
+    "city": "Akron",
+    "state": "IA",
+    "zip": "51001-8588"
+  },
+  "coordinates": {
+    "latitude": 42.82686996459961,
+    "longitude": -96.55855560302734
+  },
+  "website": "https://akroniaimmanuel.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b3233edf-a7f5-45c0-ae16-b258b37ed5b9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b3233edf-a7f5-45c0-ae16-b258b37ed5b9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "akroniaimmanuel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426066194"
+    }
+  ],
+  "advisories": []
+}

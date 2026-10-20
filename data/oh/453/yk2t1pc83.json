@@ -1,0 +1,33 @@
+{
+  "id": "yk2t1pc83",
+  "url": "https://constellation.church/yk2t1pc83",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "200 E Bridge St",
+    "city": "Covington",
+    "state": "OH",
+    "zip": "45318-1515"
+  },
+  "coordinates": {
+    "latitude": 40.11504554748535,
+    "longitude": -84.35193252563477
+  },
+  "website": "https://stjohnscovington.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8545e637-78af-452a-b96e-d80a9bcbf762",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8545e637-78af-452a-b96e-d80a9bcbf762"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnscovington.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310566479"
+    }
+  ],
+  "advisories": []
+}

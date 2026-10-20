@@ -1,0 +1,33 @@
+{
+  "id": "g9gjq9m34",
+  "url": "https://constellation.church/g9gjq9m34",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "526 S Olive Ave",
+    "city": "Sandpoint",
+    "state": "ID",
+    "zip": "83864-2706"
+  },
+  "coordinates": {
+    "latitude": 48.266231536865234,
+    "longitude": -116.56483459472656
+  },
+  "website": "https://firstlutheransandpoint.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6c6d344d-b282-4b59-aa36-3d603dc62907",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6c6d344d-b282-4b59-aa36-3d603dc62907"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheransandpoint.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "826041705"
+    }
+  ],
+  "advisories": []
+}

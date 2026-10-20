@@ -1,0 +1,33 @@
+{
+  "id": "jdhvn1219",
+  "url": "https://constellation.church/jdhvn1219",
+  "name": "Lifted Church",
+  "displayName": "Lifted Church",
+  "address": {
+    "street": "14955 SW 88th St",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33196"
+  },
+  "coordinates": {
+    "latitude": 40.78429985046387,
+    "longitude": -86.26128768920898
+  },
+  "website": "https://lifted.church",
+  "listingUrl": "https://churches.sbc.net/church/lifted-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lifted-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lifted.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "650490324"
+    }
+  ],
+  "advisories": []
+}

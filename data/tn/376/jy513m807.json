@@ -1,0 +1,33 @@
+{
+  "id": "jy513m807",
+  "url": "https://constellation.church/jy513m807",
+  "name": "Life Assembly",
+  "displayName": "Life Assembly",
+  "address": {
+    "street": "311 W Walnut St",
+    "city": "Johnson City",
+    "state": "TN",
+    "zip": "37604"
+  },
+  "coordinates": {
+    "latitude": 36.31275749206543,
+    "longitude": -82.35208511352539
+  },
+  "website": "https://mylifeag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=cac5aa84-fc01-4753-b573-73ee085fea91&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "cac5aa84-fc01-4753-b573-73ee085fea91"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mylifeag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620973108"
+    }
+  ],
+  "advisories": []
+}

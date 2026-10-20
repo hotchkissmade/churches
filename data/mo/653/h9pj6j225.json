@@ -1,0 +1,33 @@
+{
+  "id": "h9pj6j225",
+  "url": "https://constellation.church/h9pj6j225",
+  "name": "First Baptist Church Windsor",
+  "displayName": "First Baptist Church Windsor",
+  "address": {
+    "street": "308 S Tebo St",
+    "city": "Windsor",
+    "state": "MO",
+    "zip": "65360"
+  },
+  "coordinates": {
+    "latitude": 38.53123664855957,
+    "longitude": -93.52581787109375
+  },
+  "website": "https://fbcwindsor.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-windsor/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-windsor"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcwindsor.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440645315"
+    }
+  ],
+  "advisories": []
+}

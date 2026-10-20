@@ -1,0 +1,33 @@
+{
+  "id": "m8ae34297",
+  "url": "https://constellation.church/m8ae34297",
+  "name": "Good News Church",
+  "displayName": "Good News Church",
+  "address": {
+    "street": "3819 SW Burlingame Rd",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66609"
+  },
+  "coordinates": {
+    "latitude": 38.99722480773926,
+    "longitude": -95.70872497558594
+  },
+  "website": "https://goodnewstopeka.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=edc9b422-8cfe-433f-bbd6-7714f851ea24&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "edc9b422-8cfe-433f-bbd6-7714f851ea24"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodnewstopeka.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480936173"
+    }
+  ],
+  "advisories": []
+}

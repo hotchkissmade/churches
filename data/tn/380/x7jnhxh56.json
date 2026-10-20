@@ -1,0 +1,33 @@
+{
+  "id": "x7jnhxh56",
+  "url": "https://constellation.church/x7jnhxh56",
+  "name": "The Rock Church",
+  "displayName": "The Rock Church",
+  "address": {
+    "street": "1861 Highway 51 S Covington",
+    "city": null,
+    "state": "TN",
+    "zip": "38019"
+  },
+  "coordinates": {
+    "latitude": 35.53875541687012,
+    "longitude": -89.67247772216797
+  },
+  "website": "https://myrockchurch.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=5d652fc8-b168-4243-9090-79a6c971123f&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "5d652fc8-b168-4243-9090-79a6c971123f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "myrockchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621252712"
+    }
+  ],
+  "advisories": []
+}

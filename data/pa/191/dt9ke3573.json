@@ -1,0 +1,33 @@
+{
+  "id": "dt9ke3573",
+  "url": "https://constellation.church/dt9ke3573",
+  "name": "St. Paul's Church, Chestnut Hill",
+  "displayName": "St. Paul's Church, Chestnut Hill",
+  "address": {
+    "street": "22 E Chestnut Hill Ave",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19118-2764"
+  },
+  "coordinates": {
+    "latitude": 40.07911682128906,
+    "longitude": -75.20856857299805
+  },
+  "website": "https://stpaulschestnuthill.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/st-pauls-church-chestnut-hill",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/st-pauls-church-chestnut-hill"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulschestnuthill.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231352475"
+    }
+  ],
+  "advisories": []
+}

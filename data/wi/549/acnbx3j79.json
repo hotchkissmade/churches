@@ -1,0 +1,33 @@
+{
+  "id": "acnbx3j79",
+  "url": "https://constellation.church/acnbx3j79",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "318 E Garfield Ave",
+    "city": "Marion",
+    "state": "WI",
+    "zip": "54950-9710"
+  },
+  "coordinates": {
+    "latitude": 44.67054748535156,
+    "longitude": -88.88643646240234
+  },
+  "website": "https://stjohnsmarion.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c4e1e111-f5dd-4f2b-b827-6ef71c62ae6f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c4e1e111-f5dd-4f2b-b827-6ef71c62ae6f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsmarion.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390911397"
+    }
+  ],
+  "advisories": []
+}

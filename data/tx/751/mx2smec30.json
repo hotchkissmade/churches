@@ -1,0 +1,33 @@
+{
+  "id": "mx2smec30",
+  "url": "https://constellation.church/mx2smec30",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "PO Box 365",
+    "city": "Kemp",
+    "state": "TX",
+    "zip": "75143"
+  },
+  "coordinates": {
+    "latitude": 32.42952919006348,
+    "longitude": -96.21977996826172
+  },
+  "website": "https://fbckemp.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-1007/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-1007"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbckemp.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752357627"
+    }
+  ],
+  "advisories": []
+}

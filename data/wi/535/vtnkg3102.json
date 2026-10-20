@@ -1,0 +1,33 @@
+{
+  "id": "vtnkg3102",
+  "url": "https://constellation.church/vtnkg3102",
+  "name": "Cargill United Methodist Church",
+  "displayName": "Cargill United Methodist Church",
+  "address": {
+    "street": "2000 Wesley Ave",
+    "city": "Janesville",
+    "state": "WI",
+    "zip": "53545"
+  },
+  "coordinates": {
+    "latitude": 42.690528869628906,
+    "longitude": -88.99762725830078
+  },
+  "website": "https://cargillumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PEmdHIAT",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PEmdHIAT"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cargillumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390982477"
+    }
+  ],
+  "advisories": []
+}

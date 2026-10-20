@@ -1,0 +1,33 @@
+{
+  "id": "fxyvnsd72",
+  "url": "https://constellation.church/fxyvnsd72",
+  "name": "Eucharist Church",
+  "displayName": "Eucharist Church",
+  "address": {
+    "street": "1504 Bryant Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94103"
+  },
+  "coordinates": {
+    "latitude": 37.77810859680176,
+    "longitude": -122.4044189453125
+  },
+  "website": "https://eucharistsf.org",
+  "listingUrl": "https://www.acna.org/admin_units/1242",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "1242"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eucharistsf.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "452539344"
+    }
+  ],
+  "advisories": []
+}

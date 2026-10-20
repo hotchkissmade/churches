@@ -1,0 +1,33 @@
+{
+  "id": "rc259xv10",
+  "url": "https://constellation.church/rc259xv10",
+  "name": "New Heights Church",
+  "displayName": "New Heights Church",
+  "address": {
+    "street": "606 N 15th St",
+    "city": "Middlesboro",
+    "state": "KY",
+    "zip": "40965"
+  },
+  "coordinates": {
+    "latitude": 36.61686897277832,
+    "longitude": -83.70631408691406
+  },
+  "website": "https://newheightsky.com",
+  "listingUrl": "https://churches.sbc.net/church/new-heights-church-4/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-heights-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newheightsky.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "260424297"
+    }
+  ],
+  "advisories": []
+}

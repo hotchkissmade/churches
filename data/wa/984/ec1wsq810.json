@@ -1,0 +1,33 @@
+{
+  "id": "ec1wsq810",
+  "url": "https://constellation.church/ec1wsq810",
+  "name": "Golgotha Baptist Church",
+  "displayName": "Golgotha Baptist Church",
+  "address": {
+    "street": "1611 85th St E",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98445"
+  },
+  "coordinates": {
+    "latitude": 47.18012237548828,
+    "longitude": -122.40695190429688
+  },
+  "website": "https://golgotambc.org",
+  "listingUrl": "https://nabconference.org/directory/golgotha-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "org.nabconference.id",
+      "value": "golgotha-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "golgotambc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "680514883"
+    }
+  ],
+  "advisories": []
+}

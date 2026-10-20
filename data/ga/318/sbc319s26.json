@@ -1,0 +1,33 @@
+{
+  "id": "sbc319s26",
+  "url": "https://constellation.church/sbc319s26",
+  "name": "West Point Presbyterian Church",
+  "displayName": "West Point Presbyterian Church",
+  "address": {
+    "street": "1002 Fifth Ave",
+    "city": "West Point",
+    "state": "GA",
+    "zip": "31833"
+  },
+  "coordinates": {
+    "latitude": 32.88006019592285,
+    "longitude": -85.18490219116211
+  },
+  "website": "https://westpointpresbyterian.com",
+  "listingUrl": "https://eco-pres.org/churches/west-point-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "west-point-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westpointpresbyterian.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581433587"
+    }
+  ],
+  "advisories": []
+}

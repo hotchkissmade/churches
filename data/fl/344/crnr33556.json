@@ -1,0 +1,33 @@
+{
+  "id": "crnr33556",
+  "url": "https://constellation.church/crnr33556",
+  "name": "Iglesia Cristiana de Ocala",
+  "displayName": "Iglesia Cristiana de Ocala",
+  "address": {
+    "street": "7561 Midway Ter",
+    "city": "Ocala",
+    "state": "FL",
+    "zip": "34472"
+  },
+  "coordinates": {
+    "latitude": 29.120197296142578,
+    "longitude": -82.02579498291016
+  },
+  "website": "https://iglesiacristianaocala.com",
+  "listingUrl": "https://churches.sbc.net/church/iglesia-cristiana-de-ocala/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "iglesia-cristiana-de-ocala"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "iglesiacristianaocala.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "263322419"
+    }
+  ],
+  "advisories": []
+}

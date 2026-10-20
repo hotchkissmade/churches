@@ -1,0 +1,33 @@
+{
+  "id": "vhn0t6x34",
+  "url": "https://constellation.church/vhn0t6x34",
+  "name": "Church in Irvine",
+  "displayName": "Church in Irvine",
+  "address": {
+    "street": "4252 Irvine Center Dr",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "92604"
+  },
+  "coordinates": {
+    "latitude": 33.69227600097656,
+    "longitude": -117.79607391357422
+  },
+  "website": "https://churchinirvine.org/offerings",
+  "listingUrl": "https://localchurches.org/churches/irvine-ca-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "irvine-ca-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinirvine.org/offerings"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953236325"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hkf083s92",
+  "url": "https://constellation.church/hkf083s92",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "33 Gleason St",
+    "city": "Delray Beach",
+    "state": "FL",
+    "zip": "33483-6925"
+  },
+  "coordinates": {
+    "latitude": 26.460784912109375,
+    "longitude": -80.06022262573242
+  },
+  "website": "https://firstdelray.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/1332/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "1332"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstdelray.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590830740"
+    }
+  ],
+  "advisories": []
+}

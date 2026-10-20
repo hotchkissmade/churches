@@ -1,0 +1,33 @@
+{
+  "id": "gbr7ze793",
+  "url": "https://constellation.church/gbr7ze793",
+  "name": "Fellowship Chapel",
+  "displayName": "Fellowship Chapel",
+  "address": {
+    "street": "12875 E 14 Mile Rd",
+    "city": "Sterling Heights",
+    "state": "MI",
+    "zip": "48312"
+  },
+  "coordinates": {
+    "latitude": 42.5379753112793,
+    "longitude": -82.99585723876953
+  },
+  "website": "https://fellowshipchapel.net",
+  "listingUrl": "https://nabconference.org/directory/fellowship-chapel/",
+  "identifiers": [
+    {
+      "namespace": "org.nabconference.id",
+      "value": "fellowship-chapel"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fellowshipchapel.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382447086"
+    }
+  ],
+  "advisories": []
+}

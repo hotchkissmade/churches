@@ -1,0 +1,33 @@
+{
+  "id": "m69jt3g42",
+  "url": "https://constellation.church/m69jt3g42",
+  "name": "St. Thomas Episcopal Church",
+  "displayName": "St. Thomas Episcopal Church",
+  "address": {
+    "street": "232 Saint Thomas Ln",
+    "city": "Owings Mills",
+    "state": "MD",
+    "zip": "21117"
+  },
+  "coordinates": {
+    "latitude": 39.42220497131348,
+    "longitude": -76.76195907592773
+  },
+  "website": "https://stthomaschurch.us",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maryland/list/st-thomas-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maryland/st-thomas-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stthomaschurch.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520685069"
+    }
+  ],
+  "advisories": []
+}

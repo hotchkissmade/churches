@@ -1,0 +1,33 @@
+{
+  "id": "rc479pc23",
+  "url": "https://constellation.church/rc479pc23",
+  "name": "Mission Lutheran Church",
+  "displayName": "Mission Lutheran Church",
+  "address": {
+    "street": "24360 Yosemite Rd",
+    "city": "Laguna Niguel",
+    "state": "CA",
+    "zip": "92677-7007"
+  },
+  "coordinates": {
+    "latitude": 33.55013847351074,
+    "longitude": -117.70416259765625
+  },
+  "website": "https://missionlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cd74cdd3-82dc-45f7-beaa-2450831e7ae7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cd74cdd3-82dc-45f7-beaa-2450831e7ae7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "missionlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953216406"
+    }
+  ],
+  "advisories": []
+}

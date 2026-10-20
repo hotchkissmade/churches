@@ -1,0 +1,33 @@
+{
+  "id": "sc8yn8r70",
+  "url": "https://constellation.church/sc8yn8r70",
+  "name": "Northwood Community Church",
+  "displayName": "Northwood Community Church",
+  "address": {
+    "street": "16100 Arbor Ridge Pkwy",
+    "city": "Maple Grove",
+    "state": "MN",
+    "zip": "55369"
+  },
+  "coordinates": {
+    "latitude": 45.145668029785156,
+    "longitude": -93.48409271240234
+  },
+  "website": "https://northwood.cc",
+  "listingUrl": "https://churches.sbc.net/church/northwood-community-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northwood-community-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northwood.cc"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411964898"
+    }
+  ],
+  "advisories": []
+}

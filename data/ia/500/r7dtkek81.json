@@ -1,0 +1,33 @@
+{
+  "id": "r7dtkek81",
+  "url": "https://constellation.church/r7dtkek81",
+  "name": "St Andrew's Lutheran Church",
+  "displayName": "St. Andrew's Lutheran Church",
+  "address": {
+    "street": "209 Colorado Ave",
+    "city": "Ames",
+    "state": "IA",
+    "zip": "50014-3416"
+  },
+  "coordinates": {
+    "latitude": 42.02438735961914,
+    "longitude": -93.66370391845703
+  },
+  "website": "https://standrewsames.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a8978e28-070a-442a-81db-da496ce46613",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a8978e28-070a-442a-81db-da496ce46613"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewsames.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426006440"
+    }
+  ],
+  "advisories": []
+}

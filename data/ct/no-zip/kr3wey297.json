@@ -1,0 +1,33 @@
+{
+  "id": "kr3wey297",
+  "url": "https://constellation.church/kr3wey297",
+  "name": "New Haven Friends Meeting",
+  "displayName": "New Haven Friends Meeting",
+  "address": {
+    "street": "225 East Grand Avenue",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 41.30546188354492,
+    "longitude": -72.87960815429688
+  },
+  "website": "https://newhavenfriends.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/new-haven-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "new-haven-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newhavenfriends.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "223148570"
+    }
+  ],
+  "advisories": []
+}

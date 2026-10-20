@@ -1,0 +1,33 @@
+{
+  "id": "vwn6mat51",
+  "url": "https://constellation.church/vwn6mat51",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "600 W Queen St",
+    "city": "Inglewood",
+    "state": "CA",
+    "zip": "90301-1025"
+  },
+  "coordinates": {
+    "latitude": 33.96270942687988,
+    "longitude": -118.36677551269531
+  },
+  "website": "https://firstlutheranofinglewood.weebly.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f5deb736-ccf4-43f4-9a39-b34f7a6256e9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f5deb736-ccf4-43f4-9a39-b34f7a6256e9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranofinglewood.weebly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "956145930"
+    }
+  ],
+  "advisories": []
+}

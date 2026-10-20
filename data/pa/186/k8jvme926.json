@@ -1,0 +1,33 @@
+{
+  "id": "k8jvme926",
+  "url": "https://constellation.church/k8jvme926",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "181 Bridge St",
+    "city": "Tunkhannock",
+    "state": "PA",
+    "zip": "18657"
+  },
+  "coordinates": {
+    "latitude": 41.5424541,
+    "longitude": -75.9446105
+  },
+  "website": "https://tunkag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d2b706fe-d482-4105-96ce-4653ba65c2aa&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d2b706fe-d482-4105-96ce-4653ba65c2aa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tunkag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232224903"
+    }
+  ],
+  "advisories": []
+}

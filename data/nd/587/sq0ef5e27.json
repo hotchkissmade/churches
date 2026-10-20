@@ -1,0 +1,37 @@
+{
+  "id": "sq0ef5e27",
+  "url": "https://constellation.church/sq0ef5e27",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "502 17th St NW",
+    "city": "Minot",
+    "state": "ND",
+    "zip": "58703-1950"
+  },
+  "coordinates": {
+    "latitude": 48.24214553833008,
+    "longitude": -101.3187484741211
+  },
+  "website": "https://christlutheranminot.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0f70c02f-8739-4b70-ac70-d82530d0804f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0f70c02f-8739-4b70-ac70-d82530d0804f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christlutheranminot.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "456012068"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "990647542"
+    }
+  ],
+  "advisories": []
+}

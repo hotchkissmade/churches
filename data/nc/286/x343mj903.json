@@ -1,0 +1,33 @@
+{
+  "id": "x343mj903",
+  "url": "https://constellation.church/x343mj903",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "3216 W Main St",
+    "city": "Claremont",
+    "state": "NC",
+    "zip": "28610-9692"
+  },
+  "coordinates": {
+    "latitude": 35.71536445617676,
+    "longitude": -81.14847564697266
+  },
+  "website": "https://smarklc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cd501af5-4749-4c83-bcd9-2a2c9bb30a3e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cd501af5-4749-4c83-bcd9-2a2c9bb30a3e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "smarklc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561050341"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cj42k8g10",
+  "url": "https://constellation.church/cj42k8g10",
+  "name": "Redeemer Presbyterian Church",
+  "displayName": "Redeemer Presbyterian Church",
+  "address": {
+    "street": "903 North St. Mary's Street",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78215"
+  },
+  "coordinates": {
+    "latitude": 29.432878494262695,
+    "longitude": -98.4888916015625
+  },
+  "website": "https://redeemersa.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4444",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4444"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemersa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450479377"
+    }
+  ],
+  "advisories": []
+}

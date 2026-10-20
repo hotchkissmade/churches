@@ -1,0 +1,33 @@
+{
+  "id": "pfjmb2c54",
+  "url": "https://constellation.church/pfjmb2c54",
+  "name": "New Hope Presbyterian Church",
+  "displayName": "New Hope Presbyterian Church",
+  "address": {
+    "street": "1900 Vestal Road",
+    "city": "Vestal",
+    "state": "NY",
+    "zip": "13850"
+  },
+  "coordinates": {
+    "latitude": 42.09691619873047,
+    "longitude": -76.02331924438477
+  },
+  "website": "https://newhopevestal.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/307",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "307"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newhopevestal.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161198957"
+    }
+  ],
+  "advisories": []
+}

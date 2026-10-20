@@ -1,0 +1,33 @@
+{
+  "id": "w0f6sm625",
+  "url": "https://constellation.church/w0f6sm625",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "2215 S 8th Ave",
+    "city": "Yuma",
+    "state": "AZ",
+    "zip": "85364-6307"
+  },
+  "coordinates": {
+    "latitude": 32.68599891662598,
+    "longitude": -114.6288070678711
+  },
+  "website": "https://faithyuma.com/what-we-believe",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d1cf090b-2841-4878-8f25-0ebe13a495a7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d1cf090b-2841-4878-8f25-0ebe13a495a7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithyuma.com/what-we-believe"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860445605"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c5k1kpg10",
+  "url": "https://constellation.church/c5k1kpg10",
+  "name": "The Church of the Good Shepherd",
+  "displayName": "The Church of the Good Shepherd",
+  "address": {
+    "street": "1116 E. Lancaster Ave",
+    "city": "Rosemont",
+    "state": "PA",
+    "zip": "19010"
+  },
+  "coordinates": {
+    "latitude": 40.02484321594238,
+    "longitude": -75.32574081420898
+  },
+  "website": "https://goodshepherdrosemont.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/church-good-shepherd",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/church-good-shepherd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherdrosemont.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231370458"
+    }
+  ],
+  "advisories": []
+}

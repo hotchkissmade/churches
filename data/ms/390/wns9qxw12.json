@@ -1,0 +1,33 @@
+{
+  "id": "wns9qxw12",
+  "url": "https://constellation.church/wns9qxw12",
+  "name": "First Baptist Church Carthage",
+  "displayName": "First Baptist Church Carthage",
+  "address": {
+    "street": "402 N Van Buren St",
+    "city": "Carthage",
+    "state": "MS",
+    "zip": "39051"
+  },
+  "coordinates": {
+    "latitude": 32.741044998168945,
+    "longitude": -89.53323364257812
+  },
+  "website": "https://fbcarthage.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-carthage/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-carthage"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcarthage.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640390889"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ye6pstr16",
+  "url": "https://constellation.church/ye6pstr16",
+  "name": "Hyland Heights Baptist Church",
+  "displayName": "Hyland Heights Baptist Church",
+  "address": {
+    "street": "11452 Wards Rd",
+    "city": "Rustburg",
+    "state": "VA",
+    "zip": "24588"
+  },
+  "coordinates": {
+    "latitude": 37.286869049072266,
+    "longitude": -79.16629028320312
+  },
+  "website": "https://hhbc.net",
+  "listingUrl": "https://churches.sbc.net/church/hyland-heights-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hyland-heights-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hhbc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541101868"
+    }
+  ],
+  "advisories": []
+}

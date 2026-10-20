@@ -1,0 +1,33 @@
+{
+  "id": "npx7g4q06",
+  "url": "https://constellation.church/npx7g4q06",
+  "name": "Hosanna Lutheran Church",
+  "displayName": "Hosanna Lutheran Church",
+  "address": {
+    "street": "700 S 18th St",
+    "city": "Plattsmouth",
+    "state": "NE",
+    "zip": "68048-2068"
+  },
+  "coordinates": {
+    "latitude": 41.0029411315918,
+    "longitude": -95.90202331542969
+  },
+  "website": "https://hosannaplattsmouth.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9af39de5-71f6-463a-af26-6187ef0c3ad5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9af39de5-71f6-463a-af26-6187ef0c3ad5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hosannaplattsmouth.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470682569"
+    }
+  ],
+  "advisories": []
+}

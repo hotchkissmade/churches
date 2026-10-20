@@ -1,0 +1,33 @@
+{
+  "id": "pr70pdg62",
+  "url": "https://constellation.church/pr70pdg62",
+  "name": "Church Creek Presbyterian Church",
+  "displayName": "Church Creek Presbyterian Church",
+  "address": {
+    "street": "2234 Plainview Road",
+    "city": "Charleston",
+    "state": "SC",
+    "zip": "29414"
+  },
+  "coordinates": {
+    "latitude": 32.837026596069336,
+    "longitude": -80.0503158569336
+  },
+  "website": "https://church-creek.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/198",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "198"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "church-creek.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570724171"
+    }
+  ],
+  "advisories": []
+}

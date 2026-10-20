@@ -1,0 +1,33 @@
+{
+  "id": "d4d50kw67",
+  "url": "https://constellation.church/d4d50kw67",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "2429 County Highway 16",
+    "city": "Porter",
+    "state": "MN",
+    "zip": "56280"
+  },
+  "coordinates": {
+    "latitude": 44.63080406188965,
+    "longitude": -96.1686019897461
+  },
+  "website": "https://bethelofporter.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bd61d9f8-f4ca-4df8-80b8-cd98678a5fcb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bd61d9f8-f4ca-4df8-80b8-cd98678a5fcb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelofporter.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411326425"
+    }
+  ],
+  "advisories": []
+}

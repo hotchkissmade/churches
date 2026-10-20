@@ -1,0 +1,33 @@
+{
+  "id": "kv34jpv28",
+  "url": "https://constellation.church/kv34jpv28",
+  "name": "Faith Presbyterian Church",
+  "displayName": "Faith Presbyterian Church",
+  "address": {
+    "street": "620 South Shirley Street",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98465"
+  },
+  "coordinates": {
+    "latitude": 47.25457763671875,
+    "longitude": -122.51042938232422
+  },
+  "website": "https://faithtacoma.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/385",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "385"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithtacoma.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "916016374"
+    }
+  ],
+  "advisories": []
+}

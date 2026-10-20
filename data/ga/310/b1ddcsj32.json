@@ -1,0 +1,33 @@
+{
+  "id": "b1ddcsj32",
+  "url": "https://constellation.church/b1ddcsj32",
+  "name": "Plainfield Baptist Church",
+  "displayName": "Plainfield Baptist Church",
+  "address": {
+    "street": "271 Plainfield Rd",
+    "city": "Eastman",
+    "state": "GA",
+    "zip": "31023"
+  },
+  "coordinates": {
+    "latitude": 32.28787040710449,
+    "longitude": -83.11175537109375
+  },
+  "website": "https://plainfieldbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/plainfield-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "plainfield-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "plainfieldbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581466484"
+    }
+  ],
+  "advisories": []
+}

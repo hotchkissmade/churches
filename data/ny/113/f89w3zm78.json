@@ -1,0 +1,33 @@
+{
+  "id": "f89w3zm78",
+  "url": "https://constellation.church/f89w3zm78",
+  "name": "Lutheran Church Of The Atonement",
+  "displayName": "Lutheran Church Of The Atonement",
+  "address": {
+    "street": "3061 87th St",
+    "city": "East Elmhurst",
+    "state": "NY",
+    "zip": "11369-1426"
+  },
+  "coordinates": {
+    "latitude": 40.760511512547,
+    "longitude": -73.881453774715
+  },
+  "website": "https://atonementlutheranchurch.info",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f72f2623-22f4-4113-aca5-6408e4c7f150",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f72f2623-22f4-4113-aca5-6408e4c7f150"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "atonementlutheranchurch.info"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237042808"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jpvbm6m15",
+  "url": "https://constellation.church/jpvbm6m15",
+  "name": "Hamilton Street Baptist Church",
+  "displayName": "Hamilton Street Baptist Church",
+  "address": {
+    "street": "802 W Hamilton St",
+    "city": "Kirksville",
+    "state": "MO",
+    "zip": "63501"
+  },
+  "coordinates": {
+    "latitude": 40.18313407897949,
+    "longitude": -92.59016418457031
+  },
+  "website": "https://hamiltonstreet.org",
+  "listingUrl": "https://churches.sbc.net/church/hamilton-street-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hamilton-street-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hamiltonstreet.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430787964"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "emtrsf475",
+  "url": "https://constellation.church/emtrsf475",
+  "name": "Third Presbyterian Church",
+  "displayName": "Third Presbyterian Church",
+  "address": {
+    "street": "617 South 22nd Street",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35233"
+  },
+  "coordinates": {
+    "latitude": 33.50742530822754,
+    "longitude": -86.7970962524414
+  },
+  "website": "https://thirdpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/986",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "986"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thirdpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630288871"
+    }
+  ],
+  "advisories": []
+}

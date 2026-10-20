@@ -1,0 +1,33 @@
+{
+  "id": "gr9qvta16",
+  "url": "https://constellation.church/gr9qvta16",
+  "name": "Covenant Presbyterian Church",
+  "displayName": "Covenant Presbyterian Church",
+  "address": {
+    "street": "1 Fairway Drive",
+    "city": "Ledyard",
+    "state": "CT",
+    "zip": "06339"
+  },
+  "coordinates": {
+    "latitude": 41.44019317626953,
+    "longitude": -72.01229476928711
+  },
+  "website": "https://ledyardpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1275",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1275"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ledyardpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "061330422"
+    }
+  ],
+  "advisories": []
+}

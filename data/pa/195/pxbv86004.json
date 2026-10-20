@@ -1,0 +1,33 @@
+{
+  "id": "pxbv86004",
+  "url": "https://constellation.church/pxbv86004",
+  "name": "St John's Evangelical Lutheran Church",
+  "displayName": "St. John's Evangelical Lutheran Church",
+  "address": {
+    "street": "99 Church St",
+    "city": "Hamburg",
+    "state": "PA",
+    "zip": "19526-1213"
+  },
+  "coordinates": {
+    "latitude": 40.55400848388672,
+    "longitude": -75.97975540161133
+  },
+  "website": "https://stjohnshamburg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=03cf5f56-4682-4893-b171-47692f730316",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "03cf5f56-4682-4893-b171-47692f730316"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnshamburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236001547"
+    }
+  ],
+  "advisories": []
+}

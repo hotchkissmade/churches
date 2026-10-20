@@ -1,0 +1,33 @@
+{
+  "id": "crjtcta29",
+  "url": "https://constellation.church/crjtcta29",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "130 W Annabella",
+    "city": "Dighton",
+    "state": "KS",
+    "zip": "67839"
+  },
+  "coordinates": {
+    "latitude": 38.48431205749512,
+    "longitude": -100.46794128417969
+  },
+  "website": "https://fbcdighton.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-1161/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-1161"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcdighton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480972104"
+    }
+  ],
+  "advisories": []
+}

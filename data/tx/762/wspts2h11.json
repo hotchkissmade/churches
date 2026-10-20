@@ -1,0 +1,33 @@
+{
+  "id": "wspts2h11",
+  "url": "https://constellation.church/wspts2h11",
+  "name": "Providence Village Church",
+  "displayName": "Providence Village Church",
+  "address": {
+    "street": "2128 Dewitt Ln",
+    "city": "Aubrey",
+    "state": "TX",
+    "zip": "76227"
+  },
+  "coordinates": {
+    "latitude": 33.22607612609863,
+    "longitude": -96.96312713623047
+  },
+  "website": "https://providencevillagechurch.com",
+  "listingUrl": "https://churches.sbc.net/church/providence-village-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "providence-village-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "providencevillagechurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "364890738"
+    }
+  ],
+  "advisories": []
+}

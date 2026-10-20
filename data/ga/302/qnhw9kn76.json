@@ -1,0 +1,33 @@
+{
+  "id": "qnhw9kn76",
+  "url": "https://constellation.church/qnhw9kn76",
+  "name": "First Baptist Church of Franklin, Inc.",
+  "displayName": "First Baptist Church of Franklin",
+  "address": {
+    "street": "222 Main St",
+    "city": "Franklin",
+    "state": "GA",
+    "zip": "30217"
+  },
+  "coordinates": {
+    "latitude": 33.279611587524414,
+    "longitude": -85.096923828125
+  },
+  "website": "https://fbcfranklinga.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-franklin-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-franklin-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcfranklinga.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581532532"
+    }
+  ],
+  "advisories": []
+}

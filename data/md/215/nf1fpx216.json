@@ -1,0 +1,33 @@
+{
+  "id": "nf1fpx216",
+  "url": "https://constellation.church/nf1fpx216",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "Routes 50 and 219",
+    "city": "Red House",
+    "state": "MD",
+    "zip": "21550"
+  },
+  "coordinates": {
+    "latitude": 39.3101692199707,
+    "longitude": -79.45304870605469
+  },
+  "website": "https://stjohnsredhouse.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=20090b7f-221d-41be-879c-2d038451d13b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "20090b7f-221d-41be-879c-2d038451d13b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsredhouse.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520654467"
+    }
+  ],
+  "advisories": []
+}

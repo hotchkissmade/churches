@@ -1,0 +1,33 @@
+{
+  "id": "ra099k224",
+  "url": "https://constellation.church/ra099k224",
+  "name": "Peter's Porch",
+  "displayName": "Peter's Porch",
+  "address": {
+    "street": "435 Main St",
+    "city": "Akron",
+    "state": "PA",
+    "zip": "17501-1214"
+  },
+  "coordinates": {
+    "latitude": 40.1591423,
+    "longitude": -76.2088551
+  },
+  "website": "https://zionakron.org/peters-porch.html",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2ca5abe0-25b9-4bb4-9a74-5c88d1e20f81",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2ca5abe0-25b9-4bb4-9a74-5c88d1e20f81"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionakron.org/peters-porch.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "472008815"
+    }
+  ],
+  "advisories": []
+}

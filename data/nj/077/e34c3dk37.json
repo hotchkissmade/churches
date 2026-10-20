@@ -1,0 +1,33 @@
+{
+  "id": "e34c3dk37",
+  "url": "https://constellation.church/e34c3dk37",
+  "name": "First United Methodist Church",
+  "displayName": "First United Methodist Church",
+  "address": {
+    "street": "21 Church St",
+    "city": "Keansburg",
+    "state": "NJ",
+    "zip": "07734"
+  },
+  "coordinates": {
+    "latitude": 40.441904067993164,
+    "longitude": -74.13085556030273
+  },
+  "website": "https://gnjumc.org/locations/first-umc-in-keansburg",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKFaIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKFaIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gnjumc.org/locations/first-umc-in-keansburg"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222471610"
+    }
+  ],
+  "advisories": []
+}

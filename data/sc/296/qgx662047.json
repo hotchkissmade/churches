@@ -1,0 +1,33 @@
+{
+  "id": "qgx662047",
+  "url": "https://constellation.church/qgx662047",
+  "name": "Woodside Baptist Church",
+  "displayName": "Woodside Baptist Church",
+  "address": {
+    "street": "301 Woodside Ave",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29611"
+  },
+  "coordinates": {
+    "latitude": 34.85403633117676,
+    "longitude": -82.42941284179688
+  },
+  "website": "https://mywoodside.church",
+  "listingUrl": "https://churches.sbc.net/church/woodside-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "woodside-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mywoodside.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570375964"
+    }
+  ],
+  "advisories": []
+}

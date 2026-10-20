@@ -1,0 +1,33 @@
+{
+  "id": "cfpnt3961",
+  "url": "https://constellation.church/cfpnt3961",
+  "name": "Thaxton Baptist Church",
+  "displayName": "Thaxton Baptist Church",
+  "address": {
+    "street": "1067 Penicks Mill Rd",
+    "city": "Thaxton",
+    "state": "VA",
+    "zip": "24174"
+  },
+  "coordinates": {
+    "latitude": 37.35097312927246,
+    "longitude": -79.61767578125
+  },
+  "website": "https://thaxtonbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/thaxton-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "thaxton-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thaxtonbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540786592"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "k67x5qp04",
+  "url": "https://constellation.church/k67x5qp04",
+  "name": "The Freedom Center",
+  "displayName": "The Freedom Center",
+  "address": {
+    "street": "2473 W Shiawassee Ave",
+    "city": "Fenton",
+    "state": "MI",
+    "zip": "48430"
+  },
+  "coordinates": {
+    "latitude": 42.785274505615234,
+    "longitude": -83.72507858276367
+  },
+  "website": "https://freedomcenter.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=139b6ff9-d1b8-43ce-95d4-c208db8c5ca5&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "139b6ff9-d1b8-43ce-95d4-c208db8c5ca5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "freedomcenter.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382153210"
+    }
+  ],
+  "advisories": []
+}

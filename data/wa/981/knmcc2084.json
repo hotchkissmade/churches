@@ -1,0 +1,33 @@
+{
+  "id": "knmcc2084",
+  "url": "https://constellation.church/knmcc2084",
+  "name": "Northminster Presbyterian Church",
+  "displayName": "Northminster Presbyterian Church",
+  "address": {
+    "street": "7706 25th Ave NW",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98117"
+  },
+  "coordinates": {
+    "latitude": 47.68525695800781,
+    "longitude": -122.38862609863281
+  },
+  "website": "https://northminsterpres.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/9038/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "9038"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northminsterpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910581655"
+    }
+  ],
+  "advisories": []
+}

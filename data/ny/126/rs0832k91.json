@@ -1,0 +1,33 @@
+{
+  "id": "rs0832k91",
+  "url": "https://constellation.church/rs0832k91",
+  "name": "Poughkeepsie United Methodist Church",
+  "displayName": "Poughkeepsie United Methodist Church",
+  "address": {
+    "street": "2381 New Hackensack Road",
+    "city": "Poughkeepsie",
+    "state": "NY",
+    "zip": "12603"
+  },
+  "coordinates": {
+    "latitude": 41.67492485046387,
+    "longitude": -73.8857421875
+  },
+  "website": "https://pokumc.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF82xIAD",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF82xIAD"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pokumc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "141792116"
+    }
+  ],
+  "advisories": []
+}

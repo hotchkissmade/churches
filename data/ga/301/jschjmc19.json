@@ -1,0 +1,33 @@
+{
+  "id": "jschjmc19",
+  "url": "https://constellation.church/jschjmc19",
+  "name": "Oak Grove Baptist Church of Carrollton Georgia, Inc.",
+  "displayName": "Oak Grove Baptist Church of Carrollton Georgia",
+  "address": {
+    "street": "2829 Oak Grove Church Rd",
+    "city": "Carrollton",
+    "state": "GA",
+    "zip": "30117"
+  },
+  "coordinates": {
+    "latitude": 33.52577018737793,
+    "longitude": -85.08655548095703
+  },
+  "website": "https://ogbc.church",
+  "listingUrl": "https://churches.sbc.net/church/oak-grove-baptist-church-of-carrollton-georgia-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "oak-grove-baptist-church-of-carrollton-georgia-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ogbc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581551420"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nbx09gh47",
+  "url": "https://constellation.church/nbx09gh47",
+  "name": "King of Kings Lutheran Church",
+  "displayName": "King of Kings Lutheran Church",
+  "address": {
+    "street": "10337 US Highway 19",
+    "city": "Port Richey",
+    "state": "FL",
+    "zip": "34668-3131"
+  },
+  "coordinates": {
+    "latitude": 28.30760955810547,
+    "longitude": -82.70159912109375
+  },
+  "website": "https://king2s.wixsite.com/test",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ca5aa995-76c8-4b49-b29e-63e3548a88b1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ca5aa995-76c8-4b49-b29e-63e3548a88b1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "king2s.wixsite.com/test"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591910305"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "veg8pna94",
+  "url": "https://constellation.church/veg8pna94",
+  "name": "Park Avenue Baptist Church",
+  "displayName": "Park Avenue Baptist Church",
+  "address": {
+    "street": "2600 S Park Ave",
+    "city": "Titusville",
+    "state": "FL",
+    "zip": "32780"
+  },
+  "coordinates": {
+    "latitude": 28.584917068481445,
+    "longitude": -80.83308410644531
+  },
+  "website": "https://parkavenue.org",
+  "listingUrl": "https://churches.sbc.net/church/park-avenue-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "park-avenue-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parkavenue.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591288542"
+    }
+  ],
+  "advisories": []
+}

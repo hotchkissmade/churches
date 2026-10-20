@@ -1,0 +1,33 @@
+{
+  "id": "s0gdt7331",
+  "url": "https://constellation.church/s0gdt7331",
+  "name": "Church of the Redeemer",
+  "displayName": "Church of the Redeemer",
+  "address": {
+    "street": "1606 Russell St",
+    "city": "Orangeburg",
+    "state": "SC",
+    "zip": "29115"
+  },
+  "coordinates": {
+    "latitude": 33.4921817779541,
+    "longitude": -80.85789108276367
+  },
+  "website": "https://redeemeroburg.com",
+  "listingUrl": "https://www.acna.org/admin_units/1420",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "1420"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemeroburg.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570314431"
+    }
+  ],
+  "advisories": []
+}

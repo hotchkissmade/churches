@@ -1,0 +1,33 @@
+{
+  "id": "js06gst25",
+  "url": "https://constellation.church/js06gst25",
+  "name": "The Church of the Holy Spirit",
+  "displayName": "The Church of the Holy Spirit",
+  "address": {
+    "street": "2871 Barndt Rd",
+    "city": "Harleysville",
+    "state": "PA",
+    "zip": "19438"
+  },
+  "coordinates": {
+    "latitude": 40.312509536743164,
+    "longitude": -75.43521881103516
+  },
+  "website": "https://churchoftheholyspirit.us",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/church-holy-spirit",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/church-holy-spirit"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchoftheholyspirit.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232856965"
+    }
+  ],
+  "advisories": []
+}

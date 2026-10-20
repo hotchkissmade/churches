@@ -1,0 +1,33 @@
+{
+  "id": "s3n500a25",
+  "url": "https://constellation.church/s3n500a25",
+  "name": "Sammamish Hills Lutheran Church",
+  "displayName": "Sammamish Hills Lutheran Church",
+  "address": {
+    "street": "22818 SE 8th St",
+    "city": "Sammamish",
+    "state": "WA",
+    "zip": "98074-7234"
+  },
+  "coordinates": {
+    "latitude": 47.60231399536133,
+    "longitude": -122.0340347290039
+  },
+  "website": "https://shlc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bea0807b-3fef-4c01-81d8-e26c125c596e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bea0807b-3fef-4c01-81d8-e26c125c596e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "shlc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911045197"
+    }
+  ],
+  "advisories": []
+}

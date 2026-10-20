@@ -1,0 +1,33 @@
+{
+  "id": "bxngth615",
+  "url": "https://constellation.church/bxngth615",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "823 SE Lane Ave",
+    "city": "Roseburg",
+    "state": "OR",
+    "zip": "97470-3948"
+  },
+  "coordinates": {
+    "latitude": 43.20696258544922,
+    "longitude": -123.34584045410156
+  },
+  "website": "https://fpcrose.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/7138/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "7138"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcrose.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "931236983"
+    }
+  ],
+  "advisories": []
+}

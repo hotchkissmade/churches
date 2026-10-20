@@ -1,0 +1,33 @@
+{
+  "id": "ab4kjbf88",
+  "url": "https://constellation.church/ab4kjbf88",
+  "name": "Perry Memorial United Methodist Church",
+  "displayName": "Perry Memorial United Methodist Church",
+  "address": {
+    "street": "100 Perry Lane",
+    "city": "Shady Spring",
+    "state": "WV",
+    "zip": "25918"
+  },
+  "coordinates": {
+    "latitude": 37.71078109741211,
+    "longitude": -81.09689331054688
+  },
+  "website": "https://perrymemorialumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKojIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKojIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "perrymemorialumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "550632606"
+    }
+  ],
+  "advisories": []
+}

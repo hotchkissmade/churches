@@ -1,0 +1,33 @@
+{
+  "id": "zps02mc57",
+  "url": "https://constellation.church/zps02mc57",
+  "name": "Church of the Redeemer",
+  "displayName": "Church of the Redeemer",
+  "address": {
+    "street": "5572 Garden Village Way",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27410"
+  },
+  "coordinates": {
+    "latitude": 36.11415481567383,
+    "longitude": -79.90463256835938
+  },
+  "website": "https://redeemergso.org",
+  "listingUrl": "https://www.acna.org/admin_units/647",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "647"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemergso.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900784331"
+    }
+  ],
+  "advisories": []
+}

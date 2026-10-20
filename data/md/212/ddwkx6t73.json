@@ -1,0 +1,33 @@
+{
+  "id": "ddwkx6t73",
+  "url": "https://constellation.church/ddwkx6t73",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "7910 Belair Rd",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21236-3706"
+  },
+  "coordinates": {
+    "latitude": 39.373172760009766,
+    "longitude": -76.51162719726562
+  },
+  "website": "https://st-peterslutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d30bcc4a-9d5a-4c88-bc97-30b77f69bc32",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d30bcc4a-9d5a-4c88-bc97-30b77f69bc32"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "st-peterslutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520796248"
+    }
+  ],
+  "advisories": []
+}

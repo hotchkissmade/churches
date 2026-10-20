@@ -1,0 +1,33 @@
+{
+  "id": "k11z3ja60",
+  "url": "https://constellation.church/k11z3ja60",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "250 East St S",
+    "city": "Kewanee",
+    "state": "IL",
+    "zip": "61443-3506"
+  },
+  "coordinates": {
+    "latitude": 41.23101615905762,
+    "longitude": -89.91552734375
+  },
+  "website": "https://zionlutherankewanee.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=06599b2c-3c06-4f57-a52c-e1d956b05843",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "06599b2c-3c06-4f57-a52c-e1d956b05843"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionlutherankewanee.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362271236"
+    }
+  ],
+  "advisories": []
+}

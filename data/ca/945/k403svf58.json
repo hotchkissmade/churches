@@ -1,0 +1,33 @@
+{
+  "id": "k403svf58",
+  "url": "https://constellation.church/k403svf58",
+  "name": "Arroyo Church",
+  "displayName": "Arroyo Church",
+  "address": {
+    "street": "945 Concannon Blvd",
+    "city": "Livermore",
+    "state": "CA",
+    "zip": "94550"
+  },
+  "coordinates": {
+    "latitude": 37.65988731384277,
+    "longitude": -121.78374481201172
+  },
+  "website": "https://arroyochurch.com",
+  "listingUrl": "https://churches.sbc.net/church/arroyo-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "arroyo-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "arroyochurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941347079"
+    }
+  ],
+  "advisories": []
+}

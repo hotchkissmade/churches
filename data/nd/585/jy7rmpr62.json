@@ -1,0 +1,33 @@
+{
+  "id": "jy7rmpr62",
+  "url": "https://constellation.church/jy7rmpr62",
+  "name": "Sunne Lutheran Church",
+  "displayName": "Sunne Lutheran Church",
+  "address": {
+    "street": "7701 Highway 36",
+    "city": "Wilton",
+    "state": "ND",
+    "zip": "58579-9706"
+  },
+  "coordinates": {
+    "latitude": 47.14167022705078,
+    "longitude": -100.66693878173828
+  },
+  "website": "https://sunnelutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=beee58bb-45b4-468e-8c43-d2f16ea970f2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "beee58bb-45b4-468e-8c43-d2f16ea970f2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sunnelutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450336324"
+    }
+  ],
+  "advisories": []
+}

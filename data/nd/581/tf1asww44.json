@@ -1,0 +1,33 @@
+{
+  "id": "tf1asww44",
+  "url": "https://constellation.church/tf1asww44",
+  "name": "Rock Church",
+  "displayName": "Rock Church",
+  "address": {
+    "street": "West Acres Cinema 4101 17th Ave SW",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58103"
+  },
+  "coordinates": {
+    "latitude": 46.855857849121094,
+    "longitude": -96.84742736816406
+  },
+  "website": "https://rockchurchfargo.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=68b55ca2-96dc-4f36-8e52-8fba287357b5&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "68b55ca2-96dc-4f36-8e52-8fba287357b5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rockchurchfargo.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "453612558"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "twkxph898",
+  "url": "https://constellation.church/twkxph898",
+  "name": "Via Church",
+  "displayName": "Via Church",
+  "address": {
+    "street": "740 N Power Rd",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85205"
+  },
+  "coordinates": {
+    "latitude": 33.42951774597168,
+    "longitude": -111.68526458740234
+  },
+  "website": "https://viachurch.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=1a87b8dc-8ce5-4048-936d-a2bece8bb804&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "1a87b8dc-8ce5-4048-936d-a2bece8bb804"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "viachurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860361333"
+    }
+  ],
+  "advisories": []
+}

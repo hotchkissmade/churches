@@ -1,0 +1,33 @@
+{
+  "id": "cpnrj7b25",
+  "url": "https://constellation.church/cpnrj7b25",
+  "name": "San Francisco EFC",
+  "displayName": "San Francisco Evangelical Free Church",
+  "address": {
+    "street": "756 Union St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94133-2747"
+  },
+  "coordinates": {
+    "latitude": 37.80031967163086,
+    "longitude": -122.41178894042969
+  },
+  "website": "https://sfefc.org",
+  "listingUrl": "https://churches.efca.org/?id=12541",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12541"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sfefc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "943127602"
+    }
+  ],
+  "advisories": []
+}

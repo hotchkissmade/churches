@@ -1,0 +1,33 @@
+{
+  "id": "a2mtxxm91",
+  "url": "https://constellation.church/a2mtxxm91",
+  "name": "Mercy Court",
+  "displayName": "RCCG Mercy Court",
+  "address": {
+    "street": "529 Walker Avenue",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21212"
+  },
+  "coordinates": {
+    "latitude": 39.37162399291992,
+    "longitude": -76.60593795776367
+  },
+  "website": "https://mercycourt.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=5807&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "5807"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mercycourt.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "471197000"
+    }
+  ],
+  "advisories": []
+}

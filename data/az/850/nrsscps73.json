@@ -1,0 +1,33 @@
+{
+  "id": "nrsscps73",
+  "url": "https://constellation.church/nrsscps73",
+  "name": "Horizon Presbyterian Church",
+  "displayName": "Horizon Presbyterian Church",
+  "address": {
+    "street": "1401 E Liberty Ln",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85048"
+  },
+  "coordinates": {
+    "latitude": 33.292226791381836,
+    "longitude": -112.05308532714844
+  },
+  "website": "https://horizonchurch.com",
+  "listingUrl": "https://eco-pres.org/churches/horizon-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "horizon-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "horizonchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860703489"
+    }
+  ],
+  "advisories": []
+}

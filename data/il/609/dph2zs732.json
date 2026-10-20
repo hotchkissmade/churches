@@ -1,0 +1,33 @@
+{
+  "id": "dph2zs732",
+  "url": "https://constellation.church/dph2zs732",
+  "name": "Trinity Church",
+  "displayName": "Trinity Church",
+  "address": {
+    "street": "1658 E Walnut St",
+    "city": "Watseka",
+    "state": "IL",
+    "zip": "60970-1900"
+  },
+  "coordinates": {
+    "latitude": 40.77567100524902,
+    "longitude": -87.69930648803711
+  },
+  "website": "https://mytrinity.tv",
+  "listingUrl": "https://churches.efca.org/?id=12469",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12469"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mytrinity.tv"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371143428"
+    }
+  ],
+  "advisories": []
+}

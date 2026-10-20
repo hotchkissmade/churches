@@ -1,0 +1,33 @@
+{
+  "id": "zh1ycfh51",
+  "url": "https://constellation.church/zh1ycfh51",
+  "name": "Bushwick Abbey",
+  "displayName": "Bushwick Abbey",
+  "address": {
+    "street": "176 St. Nicholas Ave",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11237"
+  },
+  "coordinates": {
+    "latitude": 40.7040649,
+    "longitude": -73.9162138
+  },
+  "website": "https://bushwickabbey.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/long-island/list/bushwick-abbey",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "long-island/bushwick-abbey"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bushwickabbey.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "471916500"
+    }
+  ],
+  "advisories": []
+}

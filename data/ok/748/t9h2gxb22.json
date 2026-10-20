@@ -1,0 +1,33 @@
+{
+  "id": "t9h2gxb22",
+  "url": "https://constellation.church/t9h2gxb22",
+  "name": "Aydelotte Baptist Church",
+  "displayName": "Aydelotte Baptist Church",
+  "address": {
+    "street": "10201 N. Harrison Street",
+    "city": "Shawnee",
+    "state": "OK",
+    "zip": "74804"
+  },
+  "coordinates": {
+    "latitude": 35.44475173950195,
+    "longitude": -96.91139221191406
+  },
+  "website": "https://abcshawnee.org",
+  "listingUrl": "https://churches.sbc.net/church/aydelotte-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "aydelotte-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "abcshawnee.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "731201669"
+    }
+  ],
+  "advisories": []
+}

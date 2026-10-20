@@ -1,0 +1,33 @@
+{
+  "id": "e76nse885",
+  "url": "https://constellation.church/e76nse885",
+  "name": "The Brooks Church",
+  "displayName": "The Brooks Church",
+  "address": {
+    "street": "17 Brisa Del Lago",
+    "city": "Rcho Sta Marg",
+    "state": "CA",
+    "zip": "92688"
+  },
+  "coordinates": {
+    "latitude": 33.6519486,
+    "longitude": -117.5836096
+  },
+  "website": "https://thebrooks.community",
+  "listingUrl": "https://churches.sbc.net/church/the-brooks-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-brooks-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thebrooks.community"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "474666096"
+    }
+  ],
+  "advisories": []
+}

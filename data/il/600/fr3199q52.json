@@ -1,0 +1,37 @@
+{
+  "id": "fr3199q52",
+  "url": "https://constellation.church/fr3199q52",
+  "name": "Holy Trinity Lutheran Church",
+  "displayName": "Holy Trinity Lutheran Church",
+  "address": {
+    "street": "2328 Central Rd",
+    "city": "Glenview",
+    "state": "IL",
+    "zip": "60025-4271"
+  },
+  "coordinates": {
+    "latitude": 42.065860748291016,
+    "longitude": -87.81629943847656
+  },
+  "website": "https://cjcchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9b0de0f5-dcbc-471f-b5ed-d8e343b52aaf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9b0de0f5-dcbc-471f-b5ed-d8e343b52aaf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cjcchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "464836132"
+    },
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "15077"
+    }
+  ],
+  "advisories": []
+}

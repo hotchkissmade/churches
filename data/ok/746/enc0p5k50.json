@@ -1,0 +1,33 @@
+{
+  "id": "enc0p5k50",
+  "url": "https://constellation.church/enc0p5k50",
+  "name": "Ponca City Assembly",
+  "displayName": "Ponca City Assembly",
+  "address": {
+    "street": "2313 E Prospect Ave",
+    "city": "Ponca City",
+    "state": "OK",
+    "zip": "74604"
+  },
+  "coordinates": {
+    "latitude": 36.739858627319336,
+    "longitude": -97.05244445800781
+  },
+  "website": "https://pcachurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a9b1a4db-e9ea-431c-9f45-fe1c3753911c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "a9b1a4db-e9ea-431c-9f45-fe1c3753911c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pcachurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "731057898"
+    }
+  ],
+  "advisories": []
+}

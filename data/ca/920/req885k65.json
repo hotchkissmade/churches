@@ -1,0 +1,29 @@
+{
+  "id": "req885k65",
+  "url": "https://constellation.church/req885k65",
+  "name": "RESTORATION ABBEY",
+  "displayName": "Restoration Abbey",
+  "address": {
+    "street": "10346 OAK RANCH LN",
+    "city": "Escondido",
+    "state": "CA",
+    "zip": "92026"
+  },
+  "coordinates": {
+    "latitude": 33.217727,
+    "longitude": -117.109598
+  },
+  "website": "https://ourabbey.com",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "471133409"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ourabbey.com"
+    }
+  ],
+  "advisories": []
+}

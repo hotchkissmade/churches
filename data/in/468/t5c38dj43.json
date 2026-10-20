@@ -1,0 +1,33 @@
+{
+  "id": "t5c38dj43",
+  "url": "https://constellation.church/t5c38dj43",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "1700 E Pettit Ave",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46806-3262"
+  },
+  "coordinates": {
+    "latitude": 41.038936614990234,
+    "longitude": -85.11520767211914
+  },
+  "website": "https://faithfw.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1ed4fd38-8c31-466a-bf43-91ca9f22102b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1ed4fd38-8c31-466a-bf43-91ca9f22102b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithfw.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351002442"
+    }
+  ],
+  "advisories": []
+}

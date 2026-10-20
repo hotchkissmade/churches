@@ -1,0 +1,33 @@
+{
+  "id": "s1jxc7b05",
+  "url": "https://constellation.church/s1jxc7b05",
+  "name": "The Lutheran Church Of Our Saviour",
+  "displayName": "The Lutheran Church Of Our Saviour",
+  "address": {
+    "street": "8401 W Hillsborough Ave",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33615-3807"
+  },
+  "coordinates": {
+    "latitude": 27.997722625732422,
+    "longitude": -82.57752227783203
+  },
+  "website": "https://lcostampa.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=29f6d37a-bae7-4fd8-84e2-ffebb812da1c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "29f6d37a-bae7-4fd8-84e2-ffebb812da1c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcostampa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591200786"
+    }
+  ],
+  "advisories": []
+}

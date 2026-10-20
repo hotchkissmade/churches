@@ -1,0 +1,37 @@
+{
+  "id": "q1y647t93",
+  "url": "https://constellation.church/q1y647t93",
+  "name": "Tri-Church Parish",
+  "displayName": "Tri-Church Parish",
+  "address": {
+    "street": "41 E Main St",
+    "city": "Brocton",
+    "state": "NY",
+    "zip": "14716"
+  },
+  "coordinates": {
+    "latitude": 42.38897705078125,
+    "longitude": -79.4398307800293
+  },
+  "website": "https://trichurchparish.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b8a1c107-34bf-4fc6-b3bd-244a7d7f0ebe",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b8a1c107-34bf-4fc6-b3bd-244a7d7f0ebe"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trichurchparish.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222578870"
+    },
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFLr1IAH"
+    }
+  ],
+  "advisories": []
+}

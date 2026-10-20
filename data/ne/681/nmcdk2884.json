@@ -1,0 +1,33 @@
+{
+  "id": "nmcdk2884",
+  "url": "https://constellation.church/nmcdk2884",
+  "name": "Saint John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "11120 Calhoun Rd",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68152-1548"
+  },
+  "coordinates": {
+    "latitude": 41.36072540283203,
+    "longitude": -95.98028564453125
+  },
+  "website": "https://stjohnomaha.com",
+  "listingUrl": "https://locator.lcms.org/church/C/674031",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "674031"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnomaha.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470583953"
+    }
+  ],
+  "advisories": []
+}

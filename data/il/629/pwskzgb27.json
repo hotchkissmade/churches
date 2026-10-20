@@ -1,0 +1,33 @@
+{
+  "id": "pwskzgb27",
+  "url": "https://constellation.church/pwskzgb27",
+  "name": "First Baptist Church of Herrin",
+  "displayName": "First Baptist Church of Herrin",
+  "address": {
+    "street": "1500 S 13th St",
+    "city": "Herrin",
+    "state": "IL",
+    "zip": "62948"
+  },
+  "coordinates": {
+    "latitude": 37.789072036743164,
+    "longitude": -89.0245132446289
+  },
+  "website": "https://fbcherrin.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-herrin/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-herrin"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcherrin.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370714548"
+    }
+  ],
+  "advisories": []
+}

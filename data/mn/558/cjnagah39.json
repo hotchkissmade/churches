@@ -1,0 +1,33 @@
+{
+  "id": "cjnagah39",
+  "url": "https://constellation.church/cjnagah39",
+  "name": "Lutheran Church Of The Good Shepherd",
+  "displayName": "Lutheran Church Of The Good Shepherd",
+  "address": {
+    "street": "1325 N 45th Ave E",
+    "city": "Duluth",
+    "state": "MN",
+    "zip": "55804-1507"
+  },
+  "coordinates": {
+    "latitude": 46.83589172363281,
+    "longitude": -92.033935546875
+  },
+  "website": "https://lcgsduluth.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5b419064-d305-4d53-b1bc-7ea1bc9abe0d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5b419064-d305-4d53-b1bc-7ea1bc9abe0d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcgsduluth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410872836"
+    }
+  ],
+  "advisories": []
+}

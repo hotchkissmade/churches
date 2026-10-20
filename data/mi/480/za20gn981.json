@@ -1,0 +1,33 @@
+{
+  "id": "za20gn981",
+  "url": "https://constellation.church/za20gn981",
+  "name": "Mount Calvary Lutheran Church",
+  "displayName": "Mount Calvary Lutheran Church",
+  "address": {
+    "street": "8129 Packard Ave",
+    "city": "Warren",
+    "state": "MI",
+    "zip": "48089-5506"
+  },
+  "coordinates": {
+    "latitude": 42.458858489990234,
+    "longitude": -83.02397918701172
+  },
+  "website": "https://mtcalvaryelca.org/about-us",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f3642e28-48dc-4d4d-978f-d803c2cfde16",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f3642e28-48dc-4d4d-978f-d803c2cfde16"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mtcalvaryelca.org/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382060825"
+    }
+  ],
+  "advisories": []
+}

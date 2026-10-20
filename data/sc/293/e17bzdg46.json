@@ -1,0 +1,33 @@
+{
+  "id": "e17bzdg46",
+  "url": "https://constellation.church/e17bzdg46",
+  "name": "Arrowwood Baptist Church",
+  "displayName": "Arrowwood Baptist Church",
+  "address": {
+    "street": "1410 Highway 11 W",
+    "city": "Chesnee",
+    "state": "SC",
+    "zip": "29323"
+  },
+  "coordinates": {
+    "latitude": 35.163546839802,
+    "longitude": -81.89180381151
+  },
+  "website": "https://arrowwoodbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/arrowwood-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "arrowwood-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "arrowwoodbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570554833"
+    }
+  ],
+  "advisories": []
+}

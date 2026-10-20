@@ -1,0 +1,33 @@
+{
+  "id": "t1b5mrd70",
+  "url": "https://constellation.church/t1b5mrd70",
+  "name": "New River Baptist Church",
+  "displayName": "New River Baptist Church",
+  "address": {
+    "street": "16703 SW 144th Ave",
+    "city": "Brooker",
+    "state": "FL",
+    "zip": "32622"
+  },
+  "coordinates": {
+    "latitude": 29.95903778076172,
+    "longitude": -82.28559875488281
+  },
+  "website": "https://newriverbaptistbrooker.com",
+  "listingUrl": "https://churches.sbc.net/church/new-river-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-river-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newriverbaptistbrooker.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591895554"
+    }
+  ],
+  "advisories": []
+}

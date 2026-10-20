@@ -1,0 +1,33 @@
+{
+  "id": "x3atdyn16",
+  "url": "https://constellation.church/x3atdyn16",
+  "name": "Elim Lutheran Church",
+  "displayName": "Elim Lutheran Church",
+  "address": {
+    "street": "3978 W Broadway Ave",
+    "city": "Robbinsdale",
+    "state": "MN",
+    "zip": "55422-2275"
+  },
+  "coordinates": {
+    "latitude": 45.027570724487305,
+    "longitude": -93.33463287353516
+  },
+  "website": "https://elim-robbinsdale.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b576e58d-628f-458d-8e7d-4de886d037aa",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b576e58d-628f-458d-8e7d-4de886d037aa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elim-robbinsdale.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410773777"
+    }
+  ],
+  "advisories": []
+}

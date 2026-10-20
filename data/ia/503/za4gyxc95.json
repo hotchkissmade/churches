@@ -1,0 +1,33 @@
+{
+  "id": "za4gyxc95",
+  "url": "https://constellation.church/za4gyxc95",
+  "name": "Episcopal Diocese of Iowa",
+  "displayName": "Episcopal Diocese of Iowa",
+  "address": {
+    "street": "225 37th St",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50312"
+  },
+  "coordinates": {
+    "latitude": 41.5814359,
+    "longitude": -93.6658299
+  },
+  "website": "https://iowaepiscopal.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/iowa/list/episcopal-diocese-iowa",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "iowa/episcopal-diocese-iowa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "iowaepiscopal.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420703277"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p0hyak834",
+  "url": "https://constellation.church/p0hyak834",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "7000 Hinton Ave S",
+    "city": "Cottage Grove",
+    "state": "MN",
+    "zip": "55016-1809"
+  },
+  "coordinates": {
+    "latitude": 44.84742736816406,
+    "longitude": -92.94966888427734
+  },
+  "website": "https://stlukecg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=88b9f288-5e5a-4f96-b6af-1dc45a7ae35c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "88b9f288-5e5a-4f96-b6af-1dc45a7ae35c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukecg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411487060"
+    }
+  ],
+  "advisories": []
+}

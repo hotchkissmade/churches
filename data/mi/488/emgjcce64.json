@@ -1,0 +1,33 @@
+{
+  "id": "emgjcce64",
+  "url": "https://constellation.church/emgjcce64",
+  "name": "University Lutheran Church",
+  "displayName": "University Lutheran Church",
+  "address": {
+    "street": "1020 S Harrison Rd",
+    "city": "East Lansing",
+    "state": "MI",
+    "zip": "48823-5102"
+  },
+  "coordinates": {
+    "latitude": 42.7232515,
+    "longitude": -84.4935514
+  },
+  "website": "https://ulcel.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d3194c59-2b0a-4d32-b764-a071f3607abf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d3194c59-2b0a-4d32-b764-a071f3607abf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ulcel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381941564"
+    }
+  ],
+  "advisories": []
+}

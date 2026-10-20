@@ -1,0 +1,33 @@
+{
+  "id": "sv4whtx96",
+  "url": "https://constellation.church/sv4whtx96",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "1730 Old Hudson Rd",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip": "55106-6118"
+  },
+  "coordinates": {
+    "latitude": 44.95249557495117,
+    "longitude": -93.02774047851562
+  },
+  "website": "https://gracelutheran.fyi/im-new",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3e41542e-6aae-4a36-a3af-6de76aae268f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3e41542e-6aae-4a36-a3af-6de76aae268f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelutheran.fyi/im-new"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410871742"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hg2859g95",
+  "url": "https://constellation.church/hg2859g95",
+  "name": "Garness Trinity Lutheran Church",
+  "displayName": "Garness Trinity Lutheran Church",
+  "address": {
+    "street": "42081 130th St",
+    "city": "Mabel",
+    "state": "MN",
+    "zip": "55954-1244"
+  },
+  "coordinates": {
+    "latitude": 43.54439163208008,
+    "longitude": -91.81025695800781
+  },
+  "website": "https://garnesstrinity.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=be73749a-2e06-49ad-8fbe-d6c89e1ccf1f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "be73749a-2e06-49ad-8fbe-d6c89e1ccf1f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "garnesstrinity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411326832"
+    }
+  ],
+  "advisories": []
+}

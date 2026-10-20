@@ -1,0 +1,33 @@
+{
+  "id": "fqfhk4n45",
+  "url": "https://constellation.church/fqfhk4n45",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "800 S Main St",
+    "city": "Dysart",
+    "state": "IA",
+    "zip": "52224-4801"
+  },
+  "coordinates": {
+    "latitude": 42.16419982910156,
+    "longitude": -92.30502319335938
+  },
+  "website": "https://ziondysart.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=af01ebe7-1ce1-4a61-a8fa-3c380a9b101e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "af01ebe7-1ce1-4a61-a8fa-3c380a9b101e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ziondysart.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421069497"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ns5cmw850",
+  "url": "https://constellation.church/ns5cmw850",
+  "name": "Grace Point Community Church of Atlanta, Inc.",
+  "displayName": "Grace Point Community Church of Atlanta",
+  "address": {
+    "street": "4450 Peachtree Lakes Dr Ste 200",
+    "city": "Berkeley Lake",
+    "state": "GA",
+    "zip": "30096"
+  },
+  "coordinates": {
+    "latitude": 33.97586250305176,
+    "longitude": -84.18172836303711
+  },
+  "website": "https://atlgs.org",
+  "listingUrl": "https://churches.sbc.net/church/grace-point-community-church-of-atlanta-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grace-point-community-church-of-atlanta-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "atlgs.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820580421"
+    }
+  ],
+  "advisories": []
+}

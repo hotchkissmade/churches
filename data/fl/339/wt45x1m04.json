@@ -1,0 +1,33 @@
+{
+  "id": "wt45x1m04",
+  "url": "https://constellation.church/wt45x1m04",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "25250 Airport Rd",
+    "city": "Punta Gorda",
+    "state": "FL",
+    "zip": "33950"
+  },
+  "coordinates": {
+    "latitude": 26.917701721191406,
+    "longitude": -82.03192138671875
+  },
+  "website": "https://fpcpunta.org",
+  "listingUrl": "https://eco-pres.org/churches/first-presbyterian-church-punta-gorda/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "first-presbyterian-church-punta-gorda"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcpunta.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592399223"
+    }
+  ],
+  "advisories": []
+}

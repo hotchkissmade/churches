@@ -1,0 +1,33 @@
+{
+  "id": "t6fz5pe74",
+  "url": "https://constellation.church/t6fz5pe74",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "501 Chestnut St",
+    "city": "Emmaus",
+    "state": "PA",
+    "zip": "18049-2403"
+  },
+  "coordinates": {
+    "latitude": 40.5345573425293,
+    "longitude": -75.49383926391602
+  },
+  "website": "https://stjohnsemmaus.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8f75dea1-05b8-410d-b3bb-c81f560286d0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8f75dea1-05b8-410d-b3bb-c81f560286d0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsemmaus.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231484158"
+    }
+  ],
+  "advisories": []
+}

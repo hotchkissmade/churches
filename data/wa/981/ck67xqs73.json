@@ -1,0 +1,33 @@
+{
+  "id": "ck67xqs73",
+  "url": "https://constellation.church/ck67xqs73",
+  "name": "University Presbyterian Church",
+  "displayName": "University Presbyterian Church",
+  "address": {
+    "street": "4540 15th Ave NE",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98105-4507"
+  },
+  "coordinates": {
+    "latitude": 47.6625715,
+    "longitude": -122.3114388
+  },
+  "website": "https://upc.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/9043/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "9043"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "upc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910564756"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ghek5bb13",
+  "url": "https://constellation.church/ghek5bb13",
+  "name": "Cockeysville Baptist Church",
+  "displayName": "Cockeysville Baptist Church",
+  "address": {
+    "street": "232 Warren Rd",
+    "city": "Cockeysville",
+    "state": "MD",
+    "zip": "21030"
+  },
+  "coordinates": {
+    "latitude": 39.47439956665039,
+    "longitude": -76.6305046081543
+  },
+  "website": "https://cockeysvillebc.com",
+  "listingUrl": "https://churches.sbc.net/church/cockeysville-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cockeysville-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cockeysvillebc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521204673"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "x069rv922",
+  "url": "https://constellation.church/x069rv922",
+  "name": "Erie EFC",
+  "displayName": "Erie Evangelical Free Church",
+  "address": {
+    "street": "1409 16th Ave",
+    "city": "Erie",
+    "state": "IL",
+    "zip": "61250-9731"
+  },
+  "coordinates": {
+    "latitude": 41.66606140136719,
+    "longitude": -90.07865142822266
+  },
+  "website": "https://erieefree.com",
+  "listingUrl": "https://churches.efca.org/?id=12760",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12760"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "erieefree.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030536250"
+    }
+  ],
+  "advisories": []
+}

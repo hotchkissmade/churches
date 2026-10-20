@@ -1,0 +1,33 @@
+{
+  "id": "eyhcdew65",
+  "url": "https://constellation.church/eyhcdew65",
+  "name": "St James Evangelical Lutheran Church",
+  "displayName": "St. James Evangelical Lutheran Church",
+  "address": {
+    "street": "300 W Main St",
+    "city": "Ligonier",
+    "state": "PA",
+    "zip": "15658-1132"
+  },
+  "coordinates": {
+    "latitude": 40.24538612365723,
+    "longitude": -79.24119186401367
+  },
+  "website": "https://stjamesligonier.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=545461f2-5640-4023-b5db-710b07c33042",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "545461f2-5640-4023-b5db-710b07c33042"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamesligonier.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251451463"
+    }
+  ],
+  "advisories": []
+}

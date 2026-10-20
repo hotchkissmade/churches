@@ -1,0 +1,33 @@
+{
+  "id": "astm8en77",
+  "url": "https://constellation.church/astm8en77",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "330 W Main St",
+    "city": "Richmond",
+    "state": "KY",
+    "zip": "40475"
+  },
+  "coordinates": {
+    "latitude": 37.74798011779785,
+    "longitude": -84.29728698730469
+  },
+  "website": "https://richmondfpc.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/9996/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "9996"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "richmondfpc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "610871791"
+    }
+  ],
+  "advisories": []
+}

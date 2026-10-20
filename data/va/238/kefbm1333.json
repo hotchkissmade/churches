@@ -1,0 +1,33 @@
+{
+  "id": "kefbm1333",
+  "url": "https://constellation.church/kefbm1333",
+  "name": "Chester Baptist Church",
+  "displayName": "Chester Baptist Church",
+  "address": {
+    "street": "4317 School St",
+    "city": "Chester",
+    "state": "VA",
+    "zip": "23831"
+  },
+  "coordinates": {
+    "latitude": 37.353458404541016,
+    "longitude": -77.44645309448242
+  },
+  "website": "https://chesterbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/chester-baptist-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "chester-baptist-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chesterbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540702569"
+    }
+  ],
+  "advisories": []
+}

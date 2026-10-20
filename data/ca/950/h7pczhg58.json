@@ -1,0 +1,33 @@
+{
+  "id": "h7pczhg58",
+  "url": "https://constellation.church/h7pczhg58",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "14103 Saratoga Ave",
+    "city": "Saratoga",
+    "state": "CA",
+    "zip": "95070-5437"
+  },
+  "coordinates": {
+    "latitude": 37.262996673583984,
+    "longitude": -122.025390625
+  },
+  "website": "https://ilcsaratoga.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d02480e3-d44d-464d-9599-8eb4b83b0c8d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d02480e3-d44d-464d-9599-8eb4b83b0c8d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ilcsaratoga.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941744019"
+    }
+  ],
+  "advisories": []
+}

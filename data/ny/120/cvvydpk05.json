@@ -1,0 +1,33 @@
+{
+  "id": "cvvydpk05",
+  "url": "https://constellation.church/cvvydpk05",
+  "name": "St. Nicholas Church",
+  "displayName": "St. Nicholas Church",
+  "address": {
+    "street": "67 Saratoga St",
+    "city": "Cohoes",
+    "state": "NY",
+    "zip": "12047"
+  },
+  "coordinates": {
+    "latitude": 42.77473258972168,
+    "longitude": -73.69728469848633
+  },
+  "website": "https://saintnicholascohoes.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ny-cohsnc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ny-cohsnc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintnicholascohoes.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "146045919"
+    }
+  ],
+  "advisories": []
+}

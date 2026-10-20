@@ -1,0 +1,33 @@
+{
+  "id": "mdz7wtw18",
+  "url": "https://constellation.church/mdz7wtw18",
+  "name": "New Life Lutheran Church",
+  "displayName": "New Life Lutheran Church",
+  "address": {
+    "street": "1181 Churchill Hubbard Rd",
+    "city": "Youngstown",
+    "state": "OH",
+    "zip": "44505-1342"
+  },
+  "coordinates": {
+    "latitude": 41.162078857421875,
+    "longitude": -80.64447021484375
+  },
+  "website": "https://newlifeinliberty.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bc967f9e-b5cb-4bc0-b4e1-9381b20099e2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bc967f9e-b5cb-4bc0-b4e1-9381b20099e2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newlifeinliberty.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340932834"
+    }
+  ],
+  "advisories": []
+}

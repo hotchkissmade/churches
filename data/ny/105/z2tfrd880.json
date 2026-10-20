@@ -1,0 +1,33 @@
+{
+  "id": "z2tfrd880",
+  "url": "https://constellation.church/z2tfrd880",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "34 S Highland Ave",
+    "city": "Ossining",
+    "state": "NY",
+    "zip": "10562"
+  },
+  "coordinates": {
+    "latitude": 41.16011047363281,
+    "longitude": -73.86117935180664
+  },
+  "website": "https://fpcossining.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/6067/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "6067"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcossining.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "136007230"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hfqgq1f35",
+  "url": "https://constellation.church/hfqgq1f35",
+  "name": "First Baptist Church Mansfield",
+  "displayName": "First Baptist Church Mansfield",
+  "address": {
+    "street": "201 N Madison Ave",
+    "city": "Mansfield",
+    "state": "MO",
+    "zip": "65704"
+  },
+  "coordinates": {
+    "latitude": 37.11020851135254,
+    "longitude": -92.58634948730469
+  },
+  "website": "https://fbcmansfield.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-mansfield/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-mansfield"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcmansfield.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431310576"
+    }
+  ],
+  "advisories": []
+}

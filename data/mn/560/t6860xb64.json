@@ -1,0 +1,33 @@
+{
+  "id": "t6860xb64",
+  "url": "https://constellation.church/t6860xb64",
+  "name": "St Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "201 N State St",
+    "city": "New Ulm",
+    "state": "MN",
+    "zip": "56073-1868"
+  },
+  "coordinates": {
+    "latitude": 44.314056396484375,
+    "longitude": -94.46455383300781
+  },
+  "website": "https://splnewulm.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24377",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24377"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "splnewulm.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410734775"
+    }
+  ],
+  "advisories": []
+}

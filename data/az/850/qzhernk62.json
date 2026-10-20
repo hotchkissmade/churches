@@ -1,0 +1,33 @@
+{
+  "id": "qzhernk62",
+  "url": "https://constellation.church/qzhernk62",
+  "name": "Phoenix CRC",
+  "displayName": "Phoenix Christian Reformed Church",
+  "address": {
+    "street": "2438 E Earll Dr",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85016"
+  },
+  "coordinates": {
+    "latitude": 33.48460578918457,
+    "longitude": -112.02857208251953
+  },
+  "website": "https://phoenixcrc.org",
+  "listingUrl": "https://www.crcna.org/churches/750",
+  "identifiers": [
+    {
+      "namespace": "org.crcna.id",
+      "value": "750"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "phoenixcrc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860227747"
+    }
+  ],
+  "advisories": []
+}

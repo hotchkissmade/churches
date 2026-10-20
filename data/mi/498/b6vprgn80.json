@@ -1,0 +1,33 @@
+{
+  "id": "b6vprgn80",
+  "url": "https://constellation.church/b6vprgn80",
+  "name": "NORTHIRON Church",
+  "displayName": "NORTHIRON Church",
+  "address": {
+    "street": "910 Palms Ave",
+    "city": "Ishpeming",
+    "state": "MI",
+    "zip": "49849"
+  },
+  "coordinates": {
+    "latitude": 46.506534576416016,
+    "longitude": -87.65282440185547
+  },
+  "website": "https://northiron.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f6d5cd97-2d4e-479c-a8e6-114fc38a5d1e&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f6d5cd97-2d4e-479c-a8e6-114fc38a5d1e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northiron.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382118028"
+    }
+  ],
+  "advisories": []
+}

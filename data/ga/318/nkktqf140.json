@@ -1,0 +1,33 @@
+{
+  "id": "nkktqf140",
+  "url": "https://constellation.church/nkktqf140",
+  "name": "St. Andrews Presbyterian Church",
+  "displayName": "St. Andrew's Presbyterian Church",
+  "address": {
+    "street": "4980 Hancock Road",
+    "city": "Columbus",
+    "state": "GA",
+    "zip": "31820"
+  },
+  "coordinates": {
+    "latitude": 32.57074546813965,
+    "longitude": -84.9145736694336
+  },
+  "website": "https://standrewscolumbus.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/960",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "960"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewscolumbus.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581582549"
+    }
+  ],
+  "advisories": []
+}

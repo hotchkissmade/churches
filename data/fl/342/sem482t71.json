@@ -1,0 +1,33 @@
+{
+  "id": "sem482t71",
+  "url": "https://constellation.church/sem482t71",
+  "name": "St. Boniface Church",
+  "displayName": "St. Boniface Church",
+  "address": {
+    "street": "5615 Midnight Pass Rd",
+    "city": "Sarasota",
+    "state": "FL",
+    "zip": "34242-1721"
+  },
+  "coordinates": {
+    "latitude": 27.26883888244629,
+    "longitude": -82.54584503173828
+  },
+  "website": "https://bonifacechurch.org/music",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-southwest-florida/list/st-boniface-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-southwest-florida/st-boniface-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bonifacechurch.org/music"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590900993"
+    }
+  ],
+  "advisories": []
+}

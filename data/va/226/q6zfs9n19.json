@@ -1,0 +1,33 @@
+{
+  "id": "q6zfs9n19",
+  "url": "https://constellation.church/q6zfs9n19",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "116 Lakeview Dr",
+    "city": "Woodstock",
+    "state": "VA",
+    "zip": "22664"
+  },
+  "coordinates": {
+    "latitude": 38.86211967468262,
+    "longitude": -78.5194320678711
+  },
+  "website": "https://fbc-woodstock.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-628/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-628"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbc-woodstock.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "546120013"
+    }
+  ],
+  "advisories": []
+}

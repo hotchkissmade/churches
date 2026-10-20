@@ -1,0 +1,33 @@
+{
+  "id": "nac5neh29",
+  "url": "https://constellation.church/nac5neh29",
+  "name": "Inman Mills Baptist Church",
+  "displayName": "Inman Mills Baptist Church",
+  "address": {
+    "street": "22 B St",
+    "city": "Inman",
+    "state": "SC",
+    "zip": "29349"
+  },
+  "coordinates": {
+    "latitude": 35.04371452331543,
+    "longitude": -82.09550476074219
+  },
+  "website": "https://inmanmillsbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/inman-mills-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "inman-mills-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "inmanmillsbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570481086"
+    }
+  ],
+  "advisories": []
+}

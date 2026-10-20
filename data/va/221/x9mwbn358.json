@@ -1,0 +1,33 @@
+{
+  "id": "x9mwbn358",
+  "url": "https://constellation.church/x9mwbn358",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "5800 Backlick Rd",
+    "city": "Springfield",
+    "state": "VA",
+    "zip": "22150-3218"
+  },
+  "coordinates": {
+    "latitude": 38.79277992248535,
+    "longitude": -77.18696975708008
+  },
+  "website": "https://stmarksmontessori.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=10e72fbf-ad6d-4dca-a4cd-6ff9eae8b67d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "10e72fbf-ad6d-4dca-a4cd-6ff9eae8b67d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarksmontessori.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540840516"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "afnptq960",
+  "url": "https://constellation.church/afnptq960",
+  "name": "St. Francis by the Sea",
+  "displayName": "St. Francis by the Sea",
+  "address": {
+    "street": "330 Hinckley Ridge Rd",
+    "city": "Blue Hill",
+    "state": "ME",
+    "zip": "04614"
+  },
+  "coordinates": {
+    "latitude": 44.43110275268555,
+    "longitude": -68.62851333618164
+  },
+  "website": "https://stfrancisbluehill.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maine/list/st-francis-sea",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maine/st-francis-sea"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stfrancisbluehill.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "010492478"
+    }
+  ],
+  "advisories": []
+}

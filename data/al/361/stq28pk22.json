@@ -1,0 +1,37 @@
+{
+  "id": "stq28pk22",
+  "url": "https://constellation.church/stq28pk22",
+  "name": "Providence Presbyterian Church",
+  "displayName": "Providence Presbyterian Church",
+  "address": {
+    "street": "25 East Old Hayneville Road",
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "36105"
+  },
+  "coordinates": {
+    "latitude": 32.34982872009277,
+    "longitude": -86.19479370117188
+  },
+  "website": "https://providencepres.life",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/861",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "861"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "providencepres.life"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630805859"
+    },
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "15172"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xfs019594",
+  "url": "https://constellation.church/xfs019594",
+  "name": "Northwest Baptist Church",
+  "displayName": "Northwest Baptist Church",
+  "address": {
+    "street": "300 Westminster Rd",
+    "city": "Reisterstown",
+    "state": "MD",
+    "zip": "21136"
+  },
+  "coordinates": {
+    "latitude": 39.47478485107422,
+    "longitude": -76.83735275268555
+  },
+  "website": "https://nwbcmd.org",
+  "listingUrl": "https://churches.sbc.net/church/northwest-baptist-church-8/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northwest-baptist-church-8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nwbcmd.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521204587"
+    }
+  ],
+  "advisories": []
+}

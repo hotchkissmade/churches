@@ -1,0 +1,33 @@
+{
+  "id": "e7qya3283",
+  "url": "https://constellation.church/e7qya3283",
+  "name": "Church in Boise",
+  "displayName": "Church in Boise",
+  "address": {
+    "street": "1301 Juanita St",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83706"
+  },
+  "coordinates": {
+    "latitude": 43.603294372558594,
+    "longitude": -116.20652770996094
+  },
+  "website": "https://churchinboise.org",
+  "listingUrl": "https://localchurches.org/churches/boise-id-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "boise-id-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinboise.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820384619"
+    }
+  ],
+  "advisories": []
+}

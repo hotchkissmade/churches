@@ -1,0 +1,33 @@
+{
+  "id": "zjbgswn23",
+  "url": "https://constellation.church/zjbgswn23",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "2750 McLeod Rd",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98225-1380"
+  },
+  "coordinates": {
+    "latitude": 48.782997131347656,
+    "longitude": -122.5015869140625
+  },
+  "website": "https://faithbellingham.org/worship/weekly-worship",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7ee25e66-918a-4bf2-a172-2969080c6c28",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7ee25e66-918a-4bf2-a172-2969080c6c28"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithbellingham.org/worship/weekly-worship"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "916190338"
+    }
+  ],
+  "advisories": []
+}

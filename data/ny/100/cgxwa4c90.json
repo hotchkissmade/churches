@@ -1,0 +1,33 @@
+{
+  "id": "cgxwa4c90",
+  "url": "https://constellation.church/cgxwa4c90",
+  "name": "Church of the Covenant Presbyterian Church",
+  "displayName": "Church of the Covenant Presbyterian Church",
+  "address": {
+    "street": "310 E 42nd St",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10017-5905"
+  },
+  "coordinates": {
+    "latitude": 40.74941825866699,
+    "longitude": -73.97169876098633
+  },
+  "website": "https://cocnyc.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/5624/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "5624"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cocnyc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "131623945"
+    }
+  ],
+  "advisories": []
+}

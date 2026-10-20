@@ -1,0 +1,33 @@
+{
+  "id": "xdwxacb24",
+  "url": "https://constellation.church/xdwxacb24",
+  "name": "Sojourn Baptist Church, Conroe",
+  "displayName": "Sojourn Baptist Church, Conroe",
+  "address": {
+    "street": "27420 Robinson Rd",
+    "city": "Conroe",
+    "state": "TX",
+    "zip": "77385"
+  },
+  "coordinates": {
+    "latitude": 30.156530380249023,
+    "longitude": -95.43865966796875
+  },
+  "website": "https://sojournbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/sojourn-baptist-church-conroe/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sojourn-baptist-church-conroe"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sojournbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760381019"
+    }
+  ],
+  "advisories": []
+}

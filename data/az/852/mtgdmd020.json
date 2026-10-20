@@ -1,0 +1,33 @@
+{
+  "id": "mtgdmd020",
+  "url": "https://constellation.church/mtgdmd020",
+  "name": "Red Mountain Community Church",
+  "displayName": "Red Mountain Community Church",
+  "address": {
+    "street": "6101 E Virginia St",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85215-0792"
+  },
+  "coordinates": {
+    "latitude": 33.476449966430664,
+    "longitude": -111.6995849609375
+  },
+  "website": "https://rmcchurch.org",
+  "listingUrl": "https://churches.efca.org/?id=12871",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12871"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rmcchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860650019"
+    }
+  ],
+  "advisories": []
+}

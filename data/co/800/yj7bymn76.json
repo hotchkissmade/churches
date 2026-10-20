@@ -1,0 +1,33 @@
+{
+  "id": "yj7bymn76",
+  "url": "https://constellation.church/yj7bymn76",
+  "name": "Highpoint Church",
+  "displayName": "Highpoint Church",
+  "address": {
+    "street": "6450 S Southlands Pkwy",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80016"
+  },
+  "coordinates": {
+    "latitude": 39.599435806274414,
+    "longitude": -104.7027587890625
+  },
+  "website": "https://highpointchurch.us",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=7d4e874a-4c9d-4f45-b743-0bf1f3da49eb&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "7d4e874a-4c9d-4f45-b743-0bf1f3da49eb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "highpointchurch.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840514644"
+    }
+  ],
+  "advisories": []
+}

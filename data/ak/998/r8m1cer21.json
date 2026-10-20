@@ -1,0 +1,37 @@
+{
+  "id": "r8m1cer21",
+  "url": "https://constellation.church/r8m1cer21",
+  "name": "Juneau Christian Center",
+  "displayName": "Juneau Christian Center",
+  "address": {
+    "street": "8001 Glacier Hwy",
+    "city": "Juneau",
+    "state": "AK",
+    "zip": "99801"
+  },
+  "coordinates": {
+    "latitude": 58.35942840576172,
+    "longitude": -134.55596160888672
+  },
+  "website": "https://jccalaska.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=5dd436fb-19ae-4015-bd7c-5d21d145d2de&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "5dd436fb-19ae-4015-bd7c-5d21d145d2de"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jccalaska.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920069582"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920177016"
+    }
+  ],
+  "advisories": []
+}

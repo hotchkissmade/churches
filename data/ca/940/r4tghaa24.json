@@ -1,0 +1,33 @@
+{
+  "id": "r4tghaa24",
+  "url": "https://constellation.church/r4tghaa24",
+  "name": "San Francisco Peninsula",
+  "displayName": "San Francisco Peninsula Christadelphian Ecclesia",
+  "address": {
+    "street": "1536 James Avenue",
+    "city": "Redwood City",
+    "state": "CA",
+    "zip": "94062"
+  },
+  "coordinates": {
+    "latitude": 37.47601127624512,
+    "longitude": -122.24541473388672
+  },
+  "website": "https://sfchristadelphian.org/classic",
+  "listingUrl": "https://christadelphia.org/ecclesialist.php?CA#San%20Francisco%20Peninsula",
+  "identifiers": [
+    {
+      "namespace": "org.christadelphia.id",
+      "value": "CA#San Francisco Peninsula"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sfchristadelphian.org/classic"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "831426521"
+    }
+  ],
+  "advisories": []
+}

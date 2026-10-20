@@ -1,0 +1,33 @@
+{
+  "id": "bf39fz818",
+  "url": "https://constellation.church/bf39fz818",
+  "name": "Peoples Church",
+  "displayName": "Peoples Church",
+  "address": {
+    "street": "15826 Millbrook Ln",
+    "city": "Laurel",
+    "state": "MD",
+    "zip": "20707"
+  },
+  "coordinates": {
+    "latitude": 38.94720649719238,
+    "longitude": -77.03007125854492
+  },
+  "website": "https://peopleschurchucc.org/online-giving",
+  "listingUrl": "https://churches.sbc.net/church/peoples-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "peoples-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "peopleschurchucc.org/online-giving"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "320670303"
+    }
+  ],
+  "advisories": []
+}

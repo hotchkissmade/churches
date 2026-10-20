@@ -1,0 +1,33 @@
+{
+  "id": "nanw5e648",
+  "url": "https://constellation.church/nanw5e648",
+  "name": "Hanover Baptist Church",
+  "displayName": "Hanover Baptist Church",
+  "address": {
+    "street": "10312 Hanover Church Rd",
+    "city": "King George",
+    "state": "VA",
+    "zip": "22485"
+  },
+  "coordinates": {
+    "latitude": 38.26846885681152,
+    "longitude": -77.13912963867188
+  },
+  "website": "https://hanoverbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/hanover-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hanover-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hanoverbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541086491"
+    }
+  ],
+  "advisories": []
+}

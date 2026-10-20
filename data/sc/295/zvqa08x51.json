@@ -1,0 +1,33 @@
+{
+  "id": "zvqa08x51",
+  "url": "https://constellation.church/zvqa08x51",
+  "name": "High Point Baptist Church",
+  "displayName": "High Point Baptist Church",
+  "address": {
+    "street": "6923 Juniper Bay Rd",
+    "city": "Conway",
+    "state": "SC",
+    "zip": "29527"
+  },
+  "coordinates": {
+    "latitude": 33.88774299621582,
+    "longitude": -79.21657180786133
+  },
+  "website": "https://highpointbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/high-point-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "high-point-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "highpointbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570705531"
+    }
+  ],
+  "advisories": []
+}

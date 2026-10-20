@@ -1,0 +1,33 @@
+{
+  "id": "wmsrmp118",
+  "url": "https://constellation.church/wmsrmp118",
+  "name": "Journey Church of River Falls",
+  "displayName": "Journey Church of River Falls",
+  "address": {
+    "street": "605 Valley View Dr",
+    "city": "River Falls",
+    "state": "WI",
+    "zip": "54022"
+  },
+  "coordinates": {
+    "latitude": 44.8516845703125,
+    "longitude": -92.61146545410156
+  },
+  "website": "https://journeychurchrf.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=1e67abfc-5ebe-45e7-a270-b0cba191252b&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "1e67abfc-5ebe-45e7-a270-b0cba191252b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "journeychurchrf.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391546565"
+    }
+  ],
+  "advisories": []
+}

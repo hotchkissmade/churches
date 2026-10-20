@@ -1,0 +1,33 @@
+{
+  "id": "v54vbw385",
+  "url": "https://constellation.church/v54vbw385",
+  "name": "St. John's in the Mountains",
+  "displayName": "St. John's in the Mountains",
+  "address": {
+    "street": "1994 Mountain Rd.",
+    "city": "Stowe",
+    "state": "VT",
+    "zip": "05672"
+  },
+  "coordinates": {
+    "latitude": 44.4744207,
+    "longitude": -72.7166747
+  },
+  "website": "https://stjohnsinthemountains.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/vermont/list/st-johns-mountains",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "vermont/st-johns-mountains"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsinthemountains.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "036008579"
+    }
+  ],
+  "advisories": []
+}

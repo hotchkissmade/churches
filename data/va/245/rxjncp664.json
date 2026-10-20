@@ -1,0 +1,33 @@
+{
+  "id": "rxjncp664",
+  "url": "https://constellation.church/rxjncp664",
+  "name": "Greenfield Baptist Church",
+  "displayName": "Greenfield Baptist Church",
+  "address": {
+    "street": "384 Fairmont Rd",
+    "city": "Gretna",
+    "state": "VA",
+    "zip": "24557"
+  },
+  "coordinates": {
+    "latitude": 36.93694496154785,
+    "longitude": -79.2836799621582
+  },
+  "website": "https://gbcgretna.com",
+  "listingUrl": "https://churches.sbc.net/church/greenfield-baptist-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "greenfield-baptist-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gbcgretna.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541111713"
+    }
+  ],
+  "advisories": []
+}

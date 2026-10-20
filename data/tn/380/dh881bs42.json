@@ -1,0 +1,33 @@
+{
+  "id": "dh881bs42",
+  "url": "https://constellation.church/dh881bs42",
+  "name": "Bellevue Baptist Church",
+  "displayName": "Bellevue Baptist Church",
+  "address": {
+    "street": "2000 Appling Rd",
+    "city": "Cordova",
+    "state": "TN",
+    "zip": "38016"
+  },
+  "coordinates": {
+    "latitude": 35.1814079284668,
+    "longitude": -89.80915832519531
+  },
+  "website": "https://bellevue.org",
+  "listingUrl": "https://churches.sbc.net/church/bellevue-baptist-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bellevue-baptist-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bellevue.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "626001710"
+    }
+  ],
+  "advisories": []
+}

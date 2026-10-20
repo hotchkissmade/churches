@@ -1,0 +1,33 @@
+{
+  "id": "tx5tsnz31",
+  "url": "https://constellation.church/tx5tsnz31",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "902 Cleveland Ave",
+    "city": "Charleston",
+    "state": "IL",
+    "zip": "61920-3441"
+  },
+  "coordinates": {
+    "latitude": 39.47794151306152,
+    "longitude": -88.17176818847656
+  },
+  "website": "https://immanuelcharleston.com",
+  "listingUrl": "https://locator.lcms.org/church/C/147362",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "147362"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "immanuelcharleston.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "376092080"
+    }
+  ],
+  "advisories": []
+}

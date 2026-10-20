@@ -1,0 +1,33 @@
+{
+  "id": "kerz72254",
+  "url": "https://constellation.church/kerz72254",
+  "name": "St. George's Episcopal Church",
+  "displayName": "St. George's Episcopal Church",
+  "address": {
+    "street": "4301 N Interstate 35",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78722-1197"
+  },
+  "coordinates": {
+    "latitude": 30.29977035522461,
+    "longitude": -97.7154312133789
+  },
+  "website": "https://sgchurch.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-texas/list/st-georges-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-texas/st-georges-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sgchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741777726"
+    }
+  ],
+  "advisories": []
+}

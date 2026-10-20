@@ -1,0 +1,33 @@
+{
+  "id": "edmenaj08",
+  "url": "https://constellation.church/edmenaj08",
+  "name": "First Baptist Church of Ashmore",
+  "displayName": "First Baptist Church of Ashmore",
+  "address": {
+    "street": "104 Walnut",
+    "city": "Ashmore",
+    "state": "IL",
+    "zip": "61912"
+  },
+  "coordinates": {
+    "latitude": 39.53296089172363,
+    "longitude": -88.02173614501953
+  },
+  "website": "https://ashmorebaptist.weebly.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-ashmore/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-ashmore"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ashmorebaptist.weebly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371143547"
+    }
+  ],
+  "advisories": []
+}

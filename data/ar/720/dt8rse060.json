@@ -1,0 +1,33 @@
+{
+  "id": "dt8rse060",
+  "url": "https://constellation.church/dt8rse060",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "615 N Bailey Blvd",
+    "city": "Jacksonville",
+    "state": "AR",
+    "zip": "72076"
+  },
+  "coordinates": {
+    "latitude": 34.87322425842285,
+    "longitude": -92.11307525634766
+  },
+  "website": "https://jacksonvillefirstassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=3a1810e9-5132-49b2-9ff6-c510b8a57b12&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "3a1810e9-5132-49b2-9ff6-c510b8a57b12"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jacksonvillefirstassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "716089764"
+    }
+  ],
+  "advisories": []
+}

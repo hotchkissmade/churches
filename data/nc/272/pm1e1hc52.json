@@ -1,0 +1,33 @@
+{
+  "id": "pm1e1hc52",
+  "url": "https://constellation.church/pm1e1hc52",
+  "name": "City Light Church",
+  "displayName": "City Light Church",
+  "address": {
+    "street": "906 Mall Loop Rd",
+    "city": "High Point",
+    "state": "NC",
+    "zip": "27262"
+  },
+  "coordinates": {
+    "latitude": 35.98748588562012,
+    "longitude": -80.00519943237305
+  },
+  "website": "https://citylighthp.church",
+  "listingUrl": "https://churches.sbc.net/church/city-light-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "city-light-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "citylighthp.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "473098344"
+    }
+  ],
+  "advisories": []
+}

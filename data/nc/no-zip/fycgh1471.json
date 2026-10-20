@@ -1,0 +1,33 @@
+{
+  "id": "fycgh1471",
+  "url": "https://constellation.church/fycgh1471",
+  "name": "Asheville Friends Meeting",
+  "displayName": "Asheville Friends Meeting",
+  "address": {
+    "street": "227 Edgewood Road",
+    "city": "Asheville",
+    "state": "NC",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 35.62066650390625,
+    "longitude": -82.5591049194336
+  },
+  "website": "https://ashevillefriends.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/asheville-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "asheville-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ashevillefriends.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561189496"
+    }
+  ],
+  "advisories": []
+}

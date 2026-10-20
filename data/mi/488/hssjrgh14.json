@@ -1,0 +1,33 @@
+{
+  "id": "hssjrgh14",
+  "url": "https://constellation.church/hssjrgh14",
+  "name": "First United Methodist Church of Grand Ledge",
+  "displayName": "First United Methodist Church of Grand Ledge",
+  "address": {
+    "street": "411 Harrison St",
+    "city": "Grand Ledge",
+    "state": "MI",
+    "zip": "48837-1575"
+  },
+  "coordinates": {
+    "latitude": 42.75288391113281,
+    "longitude": -84.74858474731445
+  },
+  "website": "https://grandledgefirstumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFHNaIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFHNaIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grandledgefirstumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381734600"
+    }
+  ],
+  "advisories": []
+}

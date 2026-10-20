@@ -1,0 +1,37 @@
+{
+  "id": "ah3wz9g69",
+  "url": "https://constellation.church/ah3wz9g69",
+  "name": "St. John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "402 Lake Ave",
+    "city": "Storm Lake",
+    "state": "IA",
+    "zip": "50588"
+  },
+  "coordinates": {
+    "latitude": 42.641225814819336,
+    "longitude": -95.20115280151367
+  },
+  "website": "https://stjohnstormlake.org",
+  "listingUrl": "https://idwlcms.org/congregation.php?id=158",
+  "identifiers": [
+    {
+      "namespace": "org.idwlcms.id",
+      "value": "158"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnstormlake.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420948561"
+    },
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "877091"
+    }
+  ],
+  "advisories": []
+}

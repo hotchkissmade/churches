@@ -1,0 +1,33 @@
+{
+  "id": "bc1nz2q55",
+  "url": "https://constellation.church/bc1nz2q55",
+  "name": "Cherryville First Baptist Church",
+  "displayName": "Cherryville First Baptist Church",
+  "address": {
+    "street": "301 E 1st St",
+    "city": "Cherryville",
+    "state": "NC",
+    "zip": "28021"
+  },
+  "coordinates": {
+    "latitude": 35.381296157836914,
+    "longitude": -81.37746047973633
+  },
+  "website": "https://fbccherryville.com",
+  "listingUrl": "https://churches.sbc.net/church/cherryville-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cherryville-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbccherryville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431314814"
+    }
+  ],
+  "advisories": []
+}

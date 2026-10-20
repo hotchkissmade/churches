@@ -1,0 +1,33 @@
+{
+  "id": "j5e7hy889",
+  "url": "https://constellation.church/j5e7hy889",
+  "name": "Westwood",
+  "displayName": "Westwood Baptist Church",
+  "address": {
+    "street": "41 State Farm Rd",
+    "city": "Alexandria",
+    "state": "AL",
+    "zip": "36250"
+  },
+  "coordinates": {
+    "latitude": 33.75036811828613,
+    "longitude": -85.85393905639648
+  },
+  "website": "https://westwoodbaptist.net",
+  "listingUrl": "https://churches.sbc.net/church/westwood/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "westwood"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westwoodbaptist.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630794610"
+    }
+  ],
+  "advisories": []
+}

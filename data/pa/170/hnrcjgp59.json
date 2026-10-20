@@ -1,0 +1,33 @@
+{
+  "id": "hnrcjgp59",
+  "url": "https://constellation.church/hnrcjgp59",
+  "name": "First United Methodist Church of Hershey",
+  "displayName": "First United Methodist Church of Hershey",
+  "address": {
+    "street": "64 W Chocolate Ave",
+    "city": "Hershey",
+    "state": "PA",
+    "zip": "17033-1422"
+  },
+  "coordinates": {
+    "latitude": 40.28471565246582,
+    "longitude": -76.65213394165039
+  },
+  "website": "https://firstumchershey.churchcenter.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFD0OIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFD0OIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstumchershey.churchcenter.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231584901"
+    }
+  ],
+  "advisories": []
+}

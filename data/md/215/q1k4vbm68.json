@@ -1,0 +1,33 @@
+{
+  "id": "q1k4vbm68",
+  "url": "https://constellation.church/q1k4vbm68",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "1601 Frederick St",
+    "city": "Cumberland",
+    "state": "MD",
+    "zip": "21502-1035"
+  },
+  "coordinates": {
+    "latitude": 39.67140769958496,
+    "longitude": -78.74700164794922
+  },
+  "website": "https://stlukescumberland.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=03541c18-c1d0-485f-a4c4-882ed45e5ab6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "03541c18-c1d0-485f-a4c4-882ed45e5ab6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukescumberland.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520618996"
+    }
+  ],
+  "advisories": []
+}

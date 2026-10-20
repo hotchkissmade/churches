@@ -1,0 +1,33 @@
+{
+  "id": "qa2czjt07",
+  "url": "https://constellation.church/qa2czjt07",
+  "name": "Korean Church of Waco",
+  "displayName": "Korean Church of Waco",
+  "address": {
+    "street": "500 Webster Ave.",
+    "city": "Waco",
+    "state": "TX",
+    "zip": "76706"
+  },
+  "coordinates": {
+    "latitude": 31.5526341,
+    "longitude": -97.1284791
+  },
+  "website": "https://wacobaptists.org/churches/korean-church-of-waco",
+  "listingUrl": "https://churches.sbc.net/church/korean-church-of-waco-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "korean-church-of-waco-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wacobaptists.org/churches/korean-church-of-waco"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760766217"
+    }
+  ],
+  "advisories": []
+}

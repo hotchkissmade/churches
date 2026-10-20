@@ -1,0 +1,33 @@
+{
+  "id": "qtaa1qw54",
+  "url": "https://constellation.church/qtaa1qw54",
+  "name": "Central Lutheran Church",
+  "displayName": "Central Lutheran Church",
+  "address": {
+    "street": "38953 County Highway 3",
+    "city": "Pelican Rapids",
+    "state": "MN",
+    "zip": "56572-7434"
+  },
+  "coordinates": {
+    "latitude": 46.53579330444336,
+    "longitude": -96.0596923828125
+  },
+  "website": "https://centrallutheranpr.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dcd7cfa2-942c-4dab-9a1b-f5f3390f78a3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dcd7cfa2-942c-4dab-9a1b-f5f3390f78a3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centrallutheranpr.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411348557"
+    }
+  ],
+  "advisories": []
+}

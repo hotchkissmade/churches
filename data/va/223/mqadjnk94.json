@@ -1,0 +1,33 @@
+{
+  "id": "mqadjnk94",
+  "url": "https://constellation.church/mqadjnk94",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "2701 Cameron Mills Rd",
+    "city": "Alexandria",
+    "state": "VA",
+    "zip": "22302-2806"
+  },
+  "coordinates": {
+    "latitude": 38.829240798950195,
+    "longitude": -77.0733871459961
+  },
+  "website": "https://wpc-alex.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/10102/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "10102"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wpc-alex.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540613947"
+    }
+  ],
+  "advisories": []
+}

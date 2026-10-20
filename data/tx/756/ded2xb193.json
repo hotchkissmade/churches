@@ -1,0 +1,29 @@
+{
+  "id": "ded2xb193",
+  "url": "https://constellation.church/ded2xb193",
+  "name": "LONGVIEW EPC",
+  "displayName": "Longview EPC",
+  "address": {
+    "street": "3800 JUDSON RD",
+    "city": "Longview",
+    "state": "TX",
+    "zip": "75605"
+  },
+  "coordinates": {
+    "latitude": 32.5568685,
+    "longitude": -94.7512348
+  },
+  "website": "https://longviewepc.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "455231585"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "longviewepc.org"
+    }
+  ],
+  "advisories": []
+}

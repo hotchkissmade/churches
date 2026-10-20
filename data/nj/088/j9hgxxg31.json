@@ -1,0 +1,33 @@
+{
+  "id": "j9hgxxg31",
+  "url": "https://constellation.church/j9hgxxg31",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "300 Roseberry St",
+    "city": "Phillipsburg",
+    "state": "NJ",
+    "zip": "08865-1634"
+  },
+  "coordinates": {
+    "latitude": 40.6986026763916,
+    "longitude": -75.17839813232422
+  },
+  "website": "https://onlinegracelutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=43310ccd-b0fc-458b-8bb2-56a27c5e629b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "43310ccd-b0fc-458b-8bb2-56a27c5e629b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "onlinegracelutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222084531"
+    }
+  ],
+  "advisories": []
+}

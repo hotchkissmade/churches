@@ -1,0 +1,33 @@
+{
+  "id": "hv3b0cx12",
+  "url": "https://constellation.church/hv3b0cx12",
+  "name": "Coble's Lutheran Church",
+  "displayName": "Coble's Lutheran Church",
+  "address": {
+    "street": "5200 Coble Church Rd",
+    "city": "Julian",
+    "state": "NC",
+    "zip": "27283-9119"
+  },
+  "coordinates": {
+    "latitude": 35.97113609313965,
+    "longitude": -79.65628051757812
+  },
+  "website": "https://cobleslutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dbf82859-778f-42f9-bd24-f5364e84a554",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dbf82859-778f-42f9-bd24-f5364e84a554"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cobleslutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560932334"
+    }
+  ],
+  "advisories": []
+}

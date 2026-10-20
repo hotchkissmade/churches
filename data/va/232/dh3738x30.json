@@ -1,0 +1,33 @@
+{
+  "id": "dh3738x30",
+  "url": "https://constellation.church/dh3738x30",
+  "name": "Third Church",
+  "displayName": "Third Church",
+  "address": {
+    "street": "600 Forest Ave",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "23229"
+  },
+  "coordinates": {
+    "latitude": 37.58439826965332,
+    "longitude": -77.55433654785156
+  },
+  "website": "https://thirdrva.org",
+  "listingUrl": "https://eco-pres.org/churches/third-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "third-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thirdrva.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "464434869"
+    }
+  ],
+  "advisories": []
+}

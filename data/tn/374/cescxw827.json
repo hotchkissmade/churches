@@ -1,0 +1,33 @@
+{
+  "id": "cescxw827",
+  "url": "https://constellation.church/cescxw827",
+  "name": "Oasis Baptist Church",
+  "displayName": "Oasis Baptist Church",
+  "address": {
+    "street": "1312 Spring Creek Rd",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37412"
+  },
+  "coordinates": {
+    "latitude": 34.992435455322266,
+    "longitude": -85.21493530273438
+  },
+  "website": "https://action.church",
+  "listingUrl": "https://churches.sbc.net/church/oasis-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "oasis-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "action.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "824049348"
+    }
+  ],
+  "advisories": []
+}

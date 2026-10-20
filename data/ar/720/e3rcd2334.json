@@ -1,0 +1,33 @@
+{
+  "id": "e3rcd2334",
+  "url": "https://constellation.church/e3rcd2334",
+  "name": "Conway First Baptist Church",
+  "displayName": "Conway First Baptist Church",
+  "address": {
+    "street": "1719 Robinson Ave",
+    "city": "Conway",
+    "state": "AR",
+    "zip": "72034"
+  },
+  "coordinates": {
+    "latitude": 35.08780479431152,
+    "longitude": -92.44747924804688
+  },
+  "website": "https://conwayfbc.com/resources/livestream",
+  "listingUrl": "https://churches.sbc.net/church/conway-first-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "conway-first-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "conwayfbc.com/resources/livestream"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570405343"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pvtec4795",
+  "url": "https://constellation.church/pvtec4795",
+  "name": "Ellenville Assembly of God",
+  "displayName": "Ellenville Assembly of God",
+  "address": {
+    "street": "67 Canal St",
+    "city": "Ellenville",
+    "state": "NY",
+    "zip": "12428"
+  },
+  "coordinates": {
+    "latitude": 41.71775817871094,
+    "longitude": -74.39578628540039
+  },
+  "website": "https://ellenvilleag.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=e78b7219-67a3-4230-8c07-82a5b71bf2b8&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "e78b7219-67a3-4230-8c07-82a5b71bf2b8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ellenvilleag.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "061743886"
+    }
+  ],
+  "advisories": []
+}

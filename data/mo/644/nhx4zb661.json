@@ -1,0 +1,33 @@
+{
+  "id": "nhx4zb661",
+  "url": "https://constellation.church/nhx4zb661",
+  "name": "Laura Street Baptist Church",
+  "displayName": "Laura Street Baptist Church",
+  "address": {
+    "street": "120 S Laura St",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": "64468"
+  },
+  "coordinates": {
+    "latitude": 40.344844818115234,
+    "longitude": -94.860107421875
+  },
+  "website": "https://laurastreet.com",
+  "listingUrl": "https://churches.sbc.net/church/laura-street-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "laura-street-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "laurastreet.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431311899"
+    }
+  ],
+  "advisories": []
+}

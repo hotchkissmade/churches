@@ -1,0 +1,33 @@
+{
+  "id": "bvg380368",
+  "url": "https://constellation.church/bvg380368",
+  "name": "St. Nicholas Church",
+  "displayName": "St. Nicholas Church",
+  "address": {
+    "street": "4313 18th Ave",
+    "city": "Kenosha",
+    "state": "WI",
+    "zip": "53140-2707"
+  },
+  "coordinates": {
+    "latitude": 42.59664535522461,
+    "longitude": -87.83113098144531
+  },
+  "website": "https://orthodoxkenosha.com",
+  "listingUrl": "https://www.oca.org/parishes/oca-mw-kensnc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-mw-kensnc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "orthodoxkenosha.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390983090"
+    }
+  ],
+  "advisories": []
+}

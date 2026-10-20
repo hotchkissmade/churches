@@ -1,0 +1,33 @@
+{
+  "id": "ca3afaw56",
+  "url": "https://constellation.church/ca3afaw56",
+  "name": "Beaumont Baptist Church",
+  "displayName": "Beaumont Baptist Church",
+  "address": {
+    "street": "945 Beaumont Ave",
+    "city": "Spartanburg",
+    "state": "SC",
+    "zip": "29303"
+  },
+  "coordinates": {
+    "latitude": 34.9753475189209,
+    "longitude": -81.93170166015625
+  },
+  "website": "https://beaumontbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/beaumont-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "beaumont-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "beaumontbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570703919"
+    }
+  ],
+  "advisories": []
+}

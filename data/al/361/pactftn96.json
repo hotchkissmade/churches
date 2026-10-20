@@ -1,0 +1,33 @@
+{
+  "id": "pactftn96",
+  "url": "https://constellation.church/pactftn96",
+  "name": "Strong Tower Church",
+  "displayName": "Strong Tower Church",
+  "address": {
+    "street": "2840 Boys Club Rd",
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "36108"
+  },
+  "coordinates": {
+    "latitude": 32.36265754699707,
+    "longitude": -86.34105682373047
+  },
+  "website": "https://strongtowerawp.com",
+  "listingUrl": "https://churches.sbc.net/church/strong-tower-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "strong-tower-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "strongtowerawp.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "273786139"
+    }
+  ],
+  "advisories": []
+}

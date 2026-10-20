@@ -1,0 +1,33 @@
+{
+  "id": "csrchy044",
+  "url": "https://constellation.church/csrchy044",
+  "name": "Vanderbilt Presbyterian Church",
+  "displayName": "Vanderbilt Presbyterian Church",
+  "address": {
+    "street": "1225 Piper Blvd",
+    "city": "Naples",
+    "state": "FL",
+    "zip": "34110-1252"
+  },
+  "coordinates": {
+    "latitude": 26.273523330688477,
+    "longitude": -81.7666015625
+  },
+  "website": "https://vpcnaples.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/10642/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "10642"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "vpcnaples.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591923020"
+    }
+  ],
+  "advisories": []
+}

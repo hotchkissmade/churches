@@ -1,0 +1,33 @@
+{
+  "id": "dye55nc27",
+  "url": "https://constellation.church/dye55nc27",
+  "name": "Trinity Evangelical Lutheran Church",
+  "displayName": "Trinity Evangelical Lutheran Church",
+  "address": {
+    "street": "1600 Kanawha Blvd E",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "25311-2115"
+  },
+  "coordinates": {
+    "latitude": 38.33770561218262,
+    "longitude": -81.61858367919922
+  },
+  "website": "https://trinitywv.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=65cc6a41-9949-4fee-915b-e104c8fa195e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "65cc6a41-9949-4fee-915b-e104c8fa195e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitywv.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "550417619"
+    }
+  ],
+  "advisories": []
+}

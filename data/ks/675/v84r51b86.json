@@ -1,0 +1,33 @@
+{
+  "id": "v84r51b86",
+  "url": "https://constellation.church/v84r51b86",
+  "name": "Emanuel Lutheran Church",
+  "displayName": "Emanuel Lutheran Church",
+  "address": {
+    "street": "140 E 30th Ave",
+    "city": "Hutchinson",
+    "state": "KS",
+    "zip": "67502-2407"
+  },
+  "coordinates": {
+    "latitude": 38.087894439697266,
+    "longitude": -97.92854309082031
+  },
+  "website": "https://emanuel-hutchinson.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=257e1256-f9e4-443a-ab63-35d23e77dadf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "257e1256-f9e4-443a-ab63-35d23e77dadf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emanuel-hutchinson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480786166"
+    }
+  ],
+  "advisories": []
+}

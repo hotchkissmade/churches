@@ -1,0 +1,33 @@
+{
+  "id": "pnc00vp22",
+  "url": "https://constellation.church/pnc00vp22",
+  "name": "Cross Lutheran Church",
+  "displayName": "Cross Lutheran Church",
+  "address": {
+    "street": "126 Chapel Ter",
+    "city": "Burlington",
+    "state": "WI",
+    "zip": "53105-1622"
+  },
+  "coordinates": {
+    "latitude": 42.67805480957031,
+    "longitude": -88.26400375366211
+  },
+  "website": "https://cross-church.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4ffb72c0-2a23-4cd9-a9fc-226ba12346a7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4ffb72c0-2a23-4cd9-a9fc-226ba12346a7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cross-church.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391377364"
+    }
+  ],
+  "advisories": []
+}

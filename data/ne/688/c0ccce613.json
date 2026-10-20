@@ -1,0 +1,33 @@
+{
+  "id": "c0ccce613",
+  "url": "https://constellation.church/c0ccce613",
+  "name": "Parkview Baptist Church",
+  "displayName": "Parkview Baptist Church",
+  "address": {
+    "street": "803 W 18th St",
+    "city": "Lexington",
+    "state": "NE",
+    "zip": "68850"
+  },
+  "coordinates": {
+    "latitude": 40.79250907897949,
+    "longitude": -99.75248718261719
+  },
+  "website": "https://parkviewfamily.com",
+  "listingUrl": "https://churches.sbc.net/church/parkview-baptist-church-20/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "parkview-baptist-church-20"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parkviewfamily.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470736747"
+    }
+  ],
+  "advisories": []
+}

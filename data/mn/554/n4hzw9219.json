@@ -1,0 +1,37 @@
+{
+  "id": "n4hzw9219",
+  "url": "https://constellation.church/n4hzw9219",
+  "name": "Corner Church",
+  "displayName": "Corner Church",
+  "address": {
+    "street": "Corner Coffee 514 N 3rd St Ste 102 Minneapolis",
+    "city": null,
+    "state": "MN",
+    "zip": "55401"
+  },
+  "coordinates": {
+    "latitude": 44.98573875427246,
+    "longitude": -93.2763442993164
+  },
+  "website": "https://corner.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=0ff87b33-acef-4cd6-9bcc-ca1e2a16e790&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "0ff87b33-acef-4cd6-9bcc-ca1e2a16e790"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "corner.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "331155083"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "680609549"
+    }
+  ],
+  "advisories": []
+}

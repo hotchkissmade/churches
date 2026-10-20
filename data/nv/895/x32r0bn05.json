@@ -1,0 +1,33 @@
+{
+  "id": "x32r0bn05",
+  "url": "https://constellation.church/x32r0bn05",
+  "name": "St Lukes Lutheran Church",
+  "displayName": "St. Luke's Lutheran Church",
+  "address": {
+    "street": "3835 Lakeside Dr",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89511"
+  },
+  "coordinates": {
+    "latitude": 39.488080978393555,
+    "longitude": -119.8084716796875
+  },
+  "website": "https://stlukesreno.org",
+  "listingUrl": "https://locator.lcms.org/church/C/761976",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "761976"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesreno.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "880085836"
+    }
+  ],
+  "advisories": []
+}

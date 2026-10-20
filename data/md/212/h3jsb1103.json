@@ -1,0 +1,33 @@
+{
+  "id": "h3jsb1103",
+  "url": "https://constellation.church/h3jsb1103",
+  "name": "Berea Lutheran Church",
+  "displayName": "Berea Lutheran Church",
+  "address": {
+    "street": "2999 Belair Rd",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21213-1234"
+  },
+  "coordinates": {
+    "latitude": 39.31939697265625,
+    "longitude": -76.575927734375
+  },
+  "website": "https://bereabaltimore.org",
+  "listingUrl": "https://locator.lcms.org/church/C/52696",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "52696"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bereabaltimore.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521352185"
+    }
+  ],
+  "advisories": []
+}

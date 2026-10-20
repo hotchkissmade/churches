@@ -1,0 +1,33 @@
+{
+  "id": "htkt3y923",
+  "url": "https://constellation.church/htkt3y923",
+  "name": "Menchville Baptist Church",
+  "displayName": "Menchville Baptist Church",
+  "address": {
+    "street": "248 Menchville Rd",
+    "city": "Newport News",
+    "state": "VA",
+    "zip": "23602"
+  },
+  "coordinates": {
+    "latitude": 37.09895324707031,
+    "longitude": -76.52571487426758
+  },
+  "website": "https://mbcnn.org",
+  "listingUrl": "https://churches.sbc.net/church/menchville-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "menchville-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mbcnn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510211016"
+    }
+  ],
+  "advisories": []
+}

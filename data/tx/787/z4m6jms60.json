@@ -1,0 +1,33 @@
+{
+  "id": "z4m6jms60",
+  "url": "https://constellation.church/z4m6jms60",
+  "name": "Central Presbyterian Church",
+  "displayName": "Central Presbyterian Church",
+  "address": {
+    "street": "200 E 8th St",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701-3210"
+  },
+  "coordinates": {
+    "latitude": 30.26966667175293,
+    "longitude": -97.74058532714844
+  },
+  "website": "https://cpcaustin.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/21671/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "21671"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cpcaustin.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741238445"
+    }
+  ],
+  "advisories": []
+}

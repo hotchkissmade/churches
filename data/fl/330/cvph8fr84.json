@@ -1,0 +1,33 @@
+{
+  "id": "cvph8fr84",
+  "url": "https://constellation.church/cvph8fr84",
+  "name": "Iglesia Bautista White Street",
+  "displayName": "Iglesia Bautista White Street",
+  "address": {
+    "street": "1328 White St",
+    "city": "Key West",
+    "state": "FL",
+    "zip": "33040"
+  },
+  "coordinates": {
+    "latitude": 24.552589416503906,
+    "longitude": -81.78863525390625
+  },
+  "website": "https://iglesiawhitestreet.com",
+  "listingUrl": "https://churches.sbc.net/church/iglesia-bautista-white-street/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "iglesia-bautista-white-street"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "iglesiawhitestreet.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "650819722"
+    }
+  ],
+  "advisories": []
+}

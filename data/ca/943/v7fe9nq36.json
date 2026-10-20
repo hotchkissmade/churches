@@ -1,0 +1,33 @@
+{
+  "id": "v7fe9nq36",
+  "url": "https://constellation.church/v7fe9nq36",
+  "name": "St. Mark's Episcopal Church",
+  "displayName": "St. Mark's Episcopal Church",
+  "address": {
+    "street": "600 Colorado Ave",
+    "city": "Palo Alto",
+    "state": "CA",
+    "zip": "94306-2599"
+  },
+  "coordinates": {
+    "latitude": 37.43183135986328,
+    "longitude": -122.13004302978516
+  },
+  "website": "https://saint-marks.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-california/list/st-marks-episcopal-church-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-california/st-marks-episcopal-church-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saint-marks.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941347052"
+    }
+  ],
+  "advisories": []
+}

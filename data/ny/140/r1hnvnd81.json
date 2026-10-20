@@ -1,0 +1,33 @@
+{
+  "id": "r1hnvnd81",
+  "url": "https://constellation.church/r1hnvnd81",
+  "name": "Hamburg United Methodist Church",
+  "displayName": "Hamburg United Methodist Church",
+  "address": {
+    "street": "116 Union Street",
+    "city": "Hamburg",
+    "state": "NY",
+    "zip": "14075"
+  },
+  "coordinates": {
+    "latitude": 42.717742919921875,
+    "longitude": -78.8335189819336
+  },
+  "website": "https://hamburgumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF5EaIAL",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF5EaIAL"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hamburgumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "160755782"
+    }
+  ],
+  "advisories": []
+}

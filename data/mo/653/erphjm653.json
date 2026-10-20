@@ -1,0 +1,33 @@
+{
+  "id": "erphjm653",
+  "url": "https://constellation.church/erphjm653",
+  "name": "Valor Church, Knob Noster",
+  "displayName": "Valor Church, Knob Noster",
+  "address": {
+    "street": "103 W McPherson St",
+    "city": "Knob Noster",
+    "state": "MO",
+    "zip": "65336"
+  },
+  "coordinates": {
+    "latitude": 38.76495552062988,
+    "longitude": -93.5566635131836
+  },
+  "website": "https://valorchurch.net",
+  "listingUrl": "https://churches.sbc.net/church/valor-church-knob-noster/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "valor-church-knob-noster"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "valorchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "475000818"
+    }
+  ],
+  "advisories": []
+}

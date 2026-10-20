@@ -1,0 +1,33 @@
+{
+  "id": "bgxz7hj56",
+  "url": "https://constellation.church/bgxz7hj56",
+  "name": "St. Marks Church",
+  "displayName": "St. Mark's Church",
+  "address": {
+    "street": "33-50 82nd Street",
+    "city": "Jackson Heights",
+    "state": "NY",
+    "zip": "11372"
+  },
+  "coordinates": {
+    "latitude": 40.754119873046875,
+    "longitude": -73.88530731201172
+  },
+  "website": "https://saintmarks.net/our-history",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-marks-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-marks-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintmarks.net/our-history"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "116001575"
+    }
+  ],
+  "advisories": []
+}

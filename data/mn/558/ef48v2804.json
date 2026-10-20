@@ -1,0 +1,33 @@
+{
+  "id": "ef48v2804",
+  "url": "https://constellation.church/ef48v2804",
+  "name": "United Lutheran Church Of Proctor",
+  "displayName": "United Lutheran Church Of Proctor",
+  "address": {
+    "street": "701 3rd Ave",
+    "city": "Proctor",
+    "state": "MN",
+    "zip": "55810-2843"
+  },
+  "coordinates": {
+    "latitude": 46.74936294555664,
+    "longitude": -92.22466278076172
+  },
+  "website": "https://proctorlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c83807b0-9dab-4c7c-a42c-c4e14a765b85",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c83807b0-9dab-4c7c-a42c-c4e14a765b85"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "proctorlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410875749"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vcgn8bg17",
+  "url": "https://constellation.church/vcgn8bg17",
+  "name": "Good Shepherd Presbyterian Church",
+  "displayName": "Good Shepherd Presbyterian Church",
+  "address": {
+    "street": "1901 East Evans Avenue",
+    "city": "Valparaiso",
+    "state": "IN",
+    "zip": "46383"
+  },
+  "coordinates": {
+    "latitude": 41.47868347167969,
+    "longitude": -87.03756713867188
+  },
+  "website": "https://goodshepherdpca.net",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/512",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "512"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherdpca.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351487115"
+    }
+  ],
+  "advisories": []
+}

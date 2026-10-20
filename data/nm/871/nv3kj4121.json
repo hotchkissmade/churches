@@ -1,0 +1,33 @@
+{
+  "id": "nv3kj4121",
+  "url": "https://constellation.church/nv3kj4121",
+  "name": "Albuquerque Chinese Baptist Church",
+  "displayName": "Albuquerque Chinese Baptist Church",
+  "address": {
+    "street": "2721 Arizona NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87110"
+  },
+  "coordinates": {
+    "latitude": 35.11173439025879,
+    "longitude": -106.57665252685547
+  },
+  "website": "https://acbc-nm.org",
+  "listingUrl": "https://churches.sbc.net/church/albuquerque-chinese-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "albuquerque-chinese-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "acbc-nm.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850447959"
+    }
+  ],
+  "advisories": []
+}

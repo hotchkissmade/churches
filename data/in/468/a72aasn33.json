@@ -1,0 +1,33 @@
+{
+  "id": "a72aasn33",
+  "url": "https://constellation.church/a72aasn33",
+  "name": "Providence Presbyterian Church",
+  "displayName": "Providence Presbyterian Church",
+  "address": {
+    "street": "639 Putnam Street",
+    "city": "Ft. Wayne",
+    "state": "IN",
+    "zip": "46808"
+  },
+  "coordinates": {
+    "latitude": 41.0914363861084,
+    "longitude": -85.14982604980469
+  },
+  "website": "https://providencefw.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1689",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1689"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "providencefw.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "352117145"
+    }
+  ],
+  "advisories": []
+}

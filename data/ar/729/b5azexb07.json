@@ -1,0 +1,33 @@
+{
+  "id": "b5azexb07",
+  "url": "https://constellation.church/b5azexb07",
+  "name": "Covenant Presbyterian Church",
+  "displayName": "Covenant Presbyterian Church",
+  "address": {
+    "street": "120 N. 9th Street",
+    "city": "Fort Smith",
+    "state": "AR",
+    "zip": "72901"
+  },
+  "coordinates": {
+    "latitude": 35.38681983947754,
+    "longitude": -94.42098236083984
+  },
+  "website": "https://cpcfs.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5774",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5774"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cpcfs.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "463249275"
+    }
+  ],
+  "advisories": []
+}

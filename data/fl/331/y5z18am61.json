@@ -1,0 +1,33 @@
+{
+  "id": "y5z18am61",
+  "url": "https://constellation.church/y5z18am61",
+  "name": "Gateway Baptist Church",
+  "displayName": "Gateway Baptist Church",
+  "address": {
+    "street": "6500 SW 97th Ave",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33173"
+  },
+  "coordinates": {
+    "latitude": 25.70844268798828,
+    "longitude": -80.35128402709961
+  },
+  "website": "https://gatewaymiami.org",
+  "listingUrl": "https://churches.sbc.net/church/gateway-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "gateway-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gatewaymiami.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590994224"
+    }
+  ],
+  "advisories": []
+}

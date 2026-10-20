@@ -1,0 +1,33 @@
+{
+  "id": "aepan9z21",
+  "url": "https://constellation.church/aepan9z21",
+  "name": "Bethany Lutheran Church",
+  "displayName": "Bethany Lutheran Church",
+  "address": {
+    "street": "100 3rd Ave",
+    "city": "Nevis",
+    "state": "MN",
+    "zip": "56467-4140"
+  },
+  "coordinates": {
+    "latitude": 46.963836669921875,
+    "longitude": -94.84439468383789
+  },
+  "website": "https://bethanylutherannevis.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7cfd37ad-7d34-4ae1-a133-b8822b3af70b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7cfd37ad-7d34-4ae1-a133-b8822b3af70b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanylutherannevis.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411344822"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "e4d0nhv80",
+  "url": "https://constellation.church/e4d0nhv80",
+  "name": "Hope Lutheran Church",
+  "displayName": "Hope Lutheran Church",
+  "address": {
+    "street": "477 5th St",
+    "city": "Burr",
+    "state": "NE",
+    "zip": "68324"
+  },
+  "coordinates": {
+    "latitude": 40.53730773925781,
+    "longitude": -96.29891967773438
+  },
+  "website": "https://hopegraceelca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ee7def67-39de-4c42-aa6d-50b4709f9161",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ee7def67-39de-4c42-aa6d-50b4709f9161"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopegraceelca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470552189"
+    }
+  ],
+  "advisories": []
+}

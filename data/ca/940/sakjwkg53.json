@@ -1,0 +1,33 @@
+{
+  "id": "sakjwkg53",
+  "url": "https://constellation.church/sakjwkg53",
+  "name": "Church in Sunnyvale",
+  "displayName": "Church in Sunnyvale",
+  "address": {
+    "street": "Sunnyvale House, 443 Glendale Ave",
+    "city": "Sunnyvale",
+    "state": "CA",
+    "zip": "94085"
+  },
+  "coordinates": {
+    "latitude": 37.3949389,
+    "longitude": -122.0173411
+  },
+  "website": "https://churchinsunnyvale.org",
+  "listingUrl": "https://localchurches.org/churches/sunnyvale-ca-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "sunnyvale-ca-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinsunnyvale.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "475426788"
+    }
+  ],
+  "advisories": []
+}

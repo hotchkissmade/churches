@@ -1,0 +1,33 @@
+{
+  "id": "t8g84c475",
+  "url": "https://constellation.church/t8g84c475",
+  "name": "First Baptist Church, Pflugerville",
+  "displayName": "First Baptist Church, Pflugerville",
+  "address": {
+    "street": "306 S 10th St",
+    "city": "Pflugerville",
+    "state": "TX",
+    "zip": "78660"
+  },
+  "coordinates": {
+    "latitude": 30.441062927246094,
+    "longitude": -97.62931060791016
+  },
+  "website": "https://fbcpville.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-pflugerville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-pflugerville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcpville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742229583"
+    }
+  ],
+  "advisories": []
+}

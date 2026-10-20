@@ -1,0 +1,33 @@
+{
+  "id": "v4bewva64",
+  "url": "https://constellation.church/v4bewva64",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "255 S 7th St",
+    "city": "Salina",
+    "state": "KS",
+    "zip": "67401-3909"
+  },
+  "coordinates": {
+    "latitude": 38.836456298828125,
+    "longitude": -97.61021423339844
+  },
+  "website": "https://immanuelsalina.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c9ee1870-9953-4de1-9434-75de16d913c7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c9ee1870-9953-4de1-9434-75de16d913c7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "immanuelsalina.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "486090855"
+    }
+  ],
+  "advisories": []
+}

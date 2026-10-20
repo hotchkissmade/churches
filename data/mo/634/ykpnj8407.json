@@ -1,0 +1,33 @@
+{
+  "id": "ykpnj8407",
+  "url": "https://constellation.church/ykpnj8407",
+  "name": "First Baptist Church Monroe City",
+  "displayName": "First Baptist Church Monroe City",
+  "address": {
+    "street": "221 N Main St",
+    "city": "Monroe City",
+    "state": "MO",
+    "zip": "63456"
+  },
+  "coordinates": {
+    "latitude": 39.65409278869629,
+    "longitude": -91.73501586914062
+  },
+  "website": "https://fbcmonroecity.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-monroe-city/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-monroe-city"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcmonroecity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431208103"
+    }
+  ],
+  "advisories": []
+}

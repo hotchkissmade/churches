@@ -1,0 +1,33 @@
+{
+  "id": "djsx02b04",
+  "url": "https://constellation.church/djsx02b04",
+  "name": "Eastgate Church",
+  "displayName": "Eastgate Church",
+  "address": {
+    "street": "2301 Montgomery Dr W",
+    "city": "Wilson",
+    "state": "NC",
+    "zip": "27893"
+  },
+  "coordinates": {
+    "latitude": 35.72150802612305,
+    "longitude": -77.9476432800293
+  },
+  "website": "https://eastgate.church",
+  "listingUrl": "https://churches.sbc.net/church/eastgate-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "eastgate-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastgate.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900778708"
+    }
+  ],
+  "advisories": []
+}

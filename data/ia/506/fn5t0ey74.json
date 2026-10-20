@@ -1,0 +1,33 @@
+{
+  "id": "fn5t0ey74",
+  "url": "https://constellation.church/fn5t0ey74",
+  "name": "St Timothy Lutheran Church",
+  "displayName": "St. Timothy Lutheran Church",
+  "address": {
+    "street": "1 Thelma St",
+    "city": "Hudson",
+    "state": "IA",
+    "zip": "50643-2218"
+  },
+  "coordinates": {
+    "latitude": 42.407392501831055,
+    "longitude": -92.44963836669922
+  },
+  "website": "https://sttimothyhudson.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ffa9a62b-8a2c-4b14-9b1c-923c5fa5f411",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ffa9a62b-8a2c-4b14-9b1c-923c5fa5f411"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sttimothyhudson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421089436"
+    }
+  ],
+  "advisories": []
+}

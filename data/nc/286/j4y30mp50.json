@@ -1,0 +1,33 @@
+{
+  "id": "j4y30mp50",
+  "url": "https://constellation.church/j4y30mp50",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "1955 US 70 E Morganton",
+    "city": null,
+    "state": "NC",
+    "zip": "28655"
+  },
+  "coordinates": {
+    "latitude": 35.7520694732666,
+    "longitude": -81.64141845703125
+  },
+  "website": "https://fam.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=8f5c2071-8320-4db5-a48c-49f9f1c8fa2f&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "8f5c2071-8320-4db5-a48c-49f9f1c8fa2f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fam.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "566171654"
+    }
+  ],
+  "advisories": []
+}

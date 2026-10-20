@@ -1,0 +1,33 @@
+{
+  "id": "y50g9fy78",
+  "url": "https://constellation.church/y50g9fy78",
+  "name": "Church in San Francisco",
+  "displayName": "Church in San Francisco",
+  "address": {
+    "street": "1201 19th Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94122"
+  },
+  "coordinates": {
+    "latitude": 37.76528549194336,
+    "longitude": -122.47761535644531
+  },
+  "website": "https://churchinsf.org",
+  "listingUrl": "https://localchurches.org/churches/san-francisco-ca-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "san-francisco-ca-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinsf.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "946123318"
+    }
+  ],
+  "advisories": []
+}

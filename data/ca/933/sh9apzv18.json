@@ -1,0 +1,33 @@
+{
+  "id": "sh9apzv18",
+  "url": "https://constellation.church/sh9apzv18",
+  "name": "New Covenant PCG",
+  "displayName": "New Covenant PCG",
+  "address": {
+    "street": "800 Airport Dr",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93308-3128"
+  },
+  "coordinates": {
+    "latitude": 35.41334342956543,
+    "longitude": -119.038818359375
+  },
+  "website": "https://newcovenantpcg.com",
+  "listingUrl": "https://rforw.pcg.org/ChurchDetails.aspx?contactID=781254",
+  "identifiers": [
+    {
+      "namespace": "org.pcg.rforw.id",
+      "value": "781254"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newcovenantpcg.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "264177842"
+    }
+  ],
+  "advisories": []
+}

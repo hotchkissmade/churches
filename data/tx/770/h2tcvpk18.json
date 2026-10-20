@@ -1,0 +1,33 @@
+{
+  "id": "h2tcvpk18",
+  "url": "https://constellation.church/h2tcvpk18",
+  "name": "Christ Church Cathedral",
+  "displayName": "Christ Church Cathedral",
+  "address": {
+    "street": "1117 Texas Ave",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77002-3183"
+  },
+  "coordinates": {
+    "latitude": 29.759347915649414,
+    "longitude": -95.36103057861328
+  },
+  "website": "https://christchurchcathedral.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-texas/list/christ-church-cathedral",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-texas/christ-church-cathedral"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christchurchcathedral.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741143078"
+    }
+  ],
+  "advisories": []
+}

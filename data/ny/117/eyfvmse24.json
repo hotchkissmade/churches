@@ -1,0 +1,33 @@
+{
+  "id": "eyfvmse24",
+  "url": "https://constellation.church/eyfvmse24",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "111 Nassau Ave",
+    "city": "Islip",
+    "state": "NY",
+    "zip": "11751-3626"
+  },
+  "coordinates": {
+    "latitude": 40.73362159729004,
+    "longitude": -73.21016311645508
+  },
+  "website": "https://trinityislip.org",
+  "listingUrl": "https://locator.lcms.org/church/C/451380",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "451380"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityislip.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "116003486"
+    }
+  ],
+  "advisories": []
+}

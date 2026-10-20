@@ -1,0 +1,33 @@
+{
+  "id": "ebw8kf202",
+  "url": "https://constellation.church/ebw8kf202",
+  "name": "City Point United Methodist Church",
+  "displayName": "City Point United Methodist Church",
+  "address": {
+    "street": "7301 Glenview Dr",
+    "city": "North Richland Hills",
+    "state": "TX",
+    "zip": "76180"
+  },
+  "coordinates": {
+    "latitude": 32.8243350982666,
+    "longitude": -97.22160339355469
+  },
+  "website": "https://citypointumc.org/give-serve",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFLQdIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFLQdIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "citypointumc.org/give-serve"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750939960"
+    }
+  ],
+  "advisories": []
+}

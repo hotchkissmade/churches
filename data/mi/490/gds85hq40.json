@@ -1,0 +1,33 @@
+{
+  "id": "gds85hq40",
+  "url": "https://constellation.church/gds85hq40",
+  "name": "The River",
+  "displayName": "The River",
+  "address": {
+    "street": "517 Walbridge St",
+    "city": "Kalamazoo",
+    "state": "MI",
+    "zip": "49007"
+  },
+  "coordinates": {
+    "latitude": 42.296451568603516,
+    "longitude": -85.57667541503906
+  },
+  "website": "https://theriver.info",
+  "listingUrl": "https://kingdomnetworkusa.org/church/the-river/",
+  "identifiers": [
+    {
+      "namespace": "org.kingdomnetworkusa.id",
+      "value": "the-river"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "theriver.info"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "861144555"
+    }
+  ],
+  "advisories": []
+}

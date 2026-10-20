@@ -1,0 +1,33 @@
+{
+  "id": "fzx08sg62",
+  "url": "https://constellation.church/fzx08sg62",
+  "name": "Trinity Presbyterian Church",
+  "displayName": "Trinity Presbyterian Church",
+  "address": {
+    "street": "3151 Union Ave",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95124-2097"
+  },
+  "coordinates": {
+    "latitude": 37.26611137390137,
+    "longitude": -121.932373046875
+  },
+  "website": "https://sjtrinity.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/4472/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "4472"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sjtrinity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941439765"
+    }
+  ],
+  "advisories": []
+}

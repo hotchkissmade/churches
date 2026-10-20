@@ -1,0 +1,33 @@
+{
+  "id": "mrdze1p85",
+  "url": "https://constellation.church/mrdze1p85",
+  "name": "Second Presbyterian Church",
+  "displayName": "Second Presbyterian Church",
+  "address": {
+    "street": "105 River Street",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29601"
+  },
+  "coordinates": {
+    "latitude": 34.845712661743164,
+    "longitude": -82.4049186706543
+  },
+  "website": "https://spcgreenville.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/926",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "926"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "spcgreenville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570384825"
+    }
+  ],
+  "advisories": []
+}

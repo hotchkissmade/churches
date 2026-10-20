@@ -1,0 +1,33 @@
+{
+  "id": "gj23cnn60",
+  "url": "https://constellation.church/gj23cnn60",
+  "name": "Church of St. Jude",
+  "displayName": "Church of St. Jude",
+  "address": {
+    "street": "3606 Lufberry Ave",
+    "city": "Wantagh",
+    "state": "NY",
+    "zip": "11793"
+  },
+  "coordinates": {
+    "latitude": 40.68925476074219,
+    "longitude": -73.49998092651367
+  },
+  "website": "https://churchofstjude.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/church-st-jude",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/church-st-jude"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchofstjude.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112018102"
+    }
+  ],
+  "advisories": []
+}

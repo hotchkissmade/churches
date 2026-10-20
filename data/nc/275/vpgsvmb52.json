@@ -1,0 +1,33 @@
+{
+  "id": "vpgsvmb52",
+  "url": "https://constellation.church/vpgsvmb52",
+  "name": "Redeemer Church of NC",
+  "displayName": "Redeemer Church of NC",
+  "address": {
+    "street": "1330 Old Apex Rd",
+    "city": "Cary",
+    "state": "NC",
+    "zip": "27513"
+  },
+  "coordinates": {
+    "latitude": 35.77584266662598,
+    "longitude": -78.8083610534668
+  },
+  "website": "https://rdmr.org",
+  "listingUrl": "https://churches.sbc.net/church/redeemer-church-of-nc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "redeemer-church-of-nc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rdmr.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "853857727"
+    }
+  ],
+  "advisories": []
+}

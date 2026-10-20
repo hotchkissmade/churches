@@ -1,0 +1,33 @@
+{
+  "id": "z706b0366",
+  "url": "https://constellation.church/z706b0366",
+  "name": "United Lutheran Church",
+  "displayName": "United Lutheran Church",
+  "address": {
+    "street": "506 Superior Ave",
+    "city": "Crystal Falls",
+    "state": "MI",
+    "zip": "49920-1422"
+  },
+  "coordinates": {
+    "latitude": 46.096893310546875,
+    "longitude": -88.33445739746094
+  },
+  "website": "https://unitedluth.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8d257e35-43ca-4e0d-8029-c02f2d78607b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8d257e35-43ca-4e0d-8029-c02f2d78607b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "unitedluth.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "386141748"
+    }
+  ],
+  "advisories": []
+}

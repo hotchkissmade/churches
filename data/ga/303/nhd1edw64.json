@@ -1,0 +1,33 @@
+{
+  "id": "nhd1edw64",
+  "url": "https://constellation.church/nhd1edw64",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "1410 Ponce De Leon Ave NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30307-1616"
+  },
+  "coordinates": {
+    "latitude": 33.775644302368164,
+    "longitude": -84.34093475341797
+  },
+  "website": "https://stjohnsatlanta.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c22d6027-5633-46a5-a622-27fd1ab545c5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c22d6027-5633-46a5-a622-27fd1ab545c5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsatlanta.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "586014899"
+    }
+  ],
+  "advisories": []
+}

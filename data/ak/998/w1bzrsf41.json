@@ -1,0 +1,33 @@
+{
+  "id": "w1bzrsf41",
+  "url": "https://constellation.church/w1bzrsf41",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "450 Main St",
+    "city": "Skagway",
+    "state": "AK",
+    "zip": "99840"
+  },
+  "coordinates": {
+    "latitude": 59.45659255981445,
+    "longitude": -135.31803131103516
+  },
+  "website": "https://fpcskagway.org",
+  "listingUrl": "https://eco-pres.org/churches/first-presbyterian-church-skagway/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "first-presbyterian-church-skagway"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcskagway.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920070843"
+    }
+  ],
+  "advisories": []
+}

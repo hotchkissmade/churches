@@ -1,0 +1,33 @@
+{
+  "id": "ksr0zan38",
+  "url": "https://constellation.church/ksr0zan38",
+  "name": "St Mark's Evangelical Lutheran Church",
+  "displayName": "St. Mark's Evangelical Lutheran Church",
+  "address": {
+    "street": "2840 Cold Springs Rd",
+    "city": "Baldwinsville",
+    "state": "NY",
+    "zip": "13027-9003"
+  },
+  "coordinates": {
+    "latitude": 43.155155181884766,
+    "longitude": -76.31206130981445
+  },
+  "website": "https://stmarksbville.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0028123e-bd7e-4d4d-a798-c2ebb400720f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0028123e-bd7e-4d4d-a798-c2ebb400720f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarksbville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161202100"
+    }
+  ],
+  "advisories": []
+}

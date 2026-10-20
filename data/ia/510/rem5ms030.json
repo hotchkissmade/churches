@@ -1,0 +1,33 @@
+{
+  "id": "rem5ms030",
+  "url": "https://constellation.church/rem5ms030",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "406 Main St",
+    "city": "Kingsley",
+    "state": "IA",
+    "zip": "51028"
+  },
+  "coordinates": {
+    "latitude": 42.592132568359375,
+    "longitude": -95.96736145019531
+  },
+  "website": "https://first-lutheran-church-kingsley.com",
+  "listingUrl": "https://idwlcms.org/congregation.php?id=95",
+  "identifiers": [
+    {
+      "namespace": "org.idwlcms.id",
+      "value": "95"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "first-lutheran-church-kingsley.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426140089"
+    }
+  ],
+  "advisories": []
+}

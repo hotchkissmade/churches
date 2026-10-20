@@ -1,0 +1,33 @@
+{
+  "id": "a5y6db513",
+  "url": "https://constellation.church/a5y6db513",
+  "name": "The Episcopal Diocese of Northwest Texas",
+  "displayName": "The Episcopal Diocese of Northwest Texas",
+  "address": {
+    "street": "1802 Broadway",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79401"
+  },
+  "coordinates": {
+    "latitude": 33.5845499,
+    "longitude": -101.8566742
+  },
+  "website": "https://nwtdiocese.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-northwest-texas/list/episcopal-diocese-northwest-texas",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-northwest-texas/episcopal-diocese-northwest-texas"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nwtdiocese.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750800662"
+    }
+  ],
+  "advisories": []
+}

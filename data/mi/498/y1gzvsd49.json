@@ -1,0 +1,33 @@
+{
+  "id": "y1gzvsd49",
+  "url": "https://constellation.church/y1gzvsd49",
+  "name": "UP Wild Church",
+  "displayName": "UP Wild Church",
+  "address": {
+    "street": "131 E Ridge Street",
+    "city": "Marquette",
+    "state": "MI",
+    "zip": "49855"
+  },
+  "coordinates": {
+    "latitude": 46.5452676,
+    "longitude": -87.3916456
+  },
+  "website": "https://upwild.org/marquette",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/northern-michigan/list/wild-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "northern-michigan/wild-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "upwild.org/marquette"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "844293188"
+    }
+  ],
+  "advisories": []
+}

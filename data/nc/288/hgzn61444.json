@@ -1,0 +1,33 @@
+{
+  "id": "hgzn61444",
+  "url": "https://constellation.church/hgzn61444",
+  "name": "Malvern Hills Presbyterian Church",
+  "displayName": "Malvern Hills Presbyterian Church",
+  "address": {
+    "street": "2 Bear Creek Road",
+    "city": "Asheville",
+    "state": "NC",
+    "zip": "28806"
+  },
+  "coordinates": {
+    "latitude": 35.57480812072754,
+    "longitude": -82.61331558227539
+  },
+  "website": "https://mhpcasheville.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/708",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "708"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mhpcasheville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560963624"
+    }
+  ],
+  "advisories": []
+}

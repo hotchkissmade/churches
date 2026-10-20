@@ -1,0 +1,33 @@
+{
+  "id": "wwt8gs129",
+  "url": "https://constellation.church/wwt8gs129",
+  "name": "Bethany Lutheran Church",
+  "displayName": "Bethany Lutheran Church",
+  "address": {
+    "street": "109 1st Ave",
+    "city": "Brunswick",
+    "state": "MD",
+    "zip": "21716-1414"
+  },
+  "coordinates": {
+    "latitude": 39.313385009765625,
+    "longitude": -77.62557983398438
+  },
+  "website": "https://bethanylutheranbrunswick.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fe5e7445-d6fb-412b-bfef-6e507cd46a16",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fe5e7445-d6fb-412b-bfef-6e507cd46a16"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanylutheranbrunswick.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "526048562"
+    }
+  ],
+  "advisories": []
+}

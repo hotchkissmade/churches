@@ -1,0 +1,33 @@
+{
+  "id": "gbt1h1651",
+  "url": "https://constellation.church/gbt1h1651",
+  "name": "St James Lutheran Church",
+  "displayName": "St. James Lutheran Church",
+  "address": {
+    "street": "2028 N 60th St",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53208-1640"
+  },
+  "coordinates": {
+    "latitude": 43.05668067932129,
+    "longitude": -87.98739242553711
+  },
+  "website": "https://saintjames-mke.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24822",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24822"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintjames-mke.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390872594"
+    }
+  ],
+  "advisories": []
+}

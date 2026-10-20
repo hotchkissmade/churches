@@ -1,0 +1,33 @@
+{
+  "id": "ak1egq980",
+  "url": "https://constellation.church/ak1egq980",
+  "name": "First Baptist Church Mayfield",
+  "displayName": "First Baptist Church Mayfield",
+  "address": {
+    "street": "118 W South St",
+    "city": "Mayfield",
+    "state": "KY",
+    "zip": "42066"
+  },
+  "coordinates": {
+    "latitude": 36.740427017211914,
+    "longitude": -88.63624572753906
+  },
+  "website": "https://fbcmayfield.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-mayfield/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-mayfield"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcmayfield.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "610461739"
+    }
+  ],
+  "advisories": []
+}

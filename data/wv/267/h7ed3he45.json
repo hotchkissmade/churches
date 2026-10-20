@@ -1,0 +1,33 @@
+{
+  "id": "h7ed3he45",
+  "url": "https://constellation.church/h7ed3he45",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "87 Mitchell St",
+    "city": "Romney",
+    "state": "WV",
+    "zip": "26757"
+  },
+  "coordinates": {
+    "latitude": 39.355241775512695,
+    "longitude": -78.7520866394043
+  },
+  "website": "https://romneyassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=66db7817-4b24-419e-9418-7e375a48a698&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "66db7817-4b24-419e-9418-7e375a48a698"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "romneyassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "550613171"
+    }
+  ],
+  "advisories": []
+}

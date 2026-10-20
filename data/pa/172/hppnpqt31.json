@@ -1,0 +1,33 @@
+{
+  "id": "hppnpqt31",
+  "url": "https://constellation.church/hppnpqt31",
+  "name": "Bethel Assembly of God",
+  "displayName": "Bethel Assembly of God",
+  "address": {
+    "street": "400 Miller St",
+    "city": "Chambersburg",
+    "state": "PA",
+    "zip": "17201"
+  },
+  "coordinates": {
+    "latitude": 39.942535400390625,
+    "longitude": -77.66886901855469
+  },
+  "website": "https://bagcburg.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=de66fec7-d51c-474d-b79f-77df2a56b11b&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "de66fec7-d51c-474d-b79f-77df2a56b11b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bagcburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251305477"
+    }
+  ],
+  "advisories": []
+}

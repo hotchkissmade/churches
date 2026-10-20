@@ -1,0 +1,33 @@
+{
+  "id": "t2ty92433",
+  "url": "https://constellation.church/t2ty92433",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "2799 West Rd.",
+    "city": "Trenton",
+    "state": "MI",
+    "zip": "48183"
+  },
+  "coordinates": {
+    "latitude": 42.14089012145996,
+    "longitude": -83.20149612426758
+  },
+  "website": "https://fpchurch.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/7009",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "7009"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381906435"
+    }
+  ],
+  "advisories": []
+}

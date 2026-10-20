@@ -1,0 +1,33 @@
+{
+  "id": "gzva7ta41",
+  "url": "https://constellation.church/gzva7ta41",
+  "name": "Fairview",
+  "displayName": "Fairview Baptist Church",
+  "address": {
+    "street": "900 Charlotte St",
+    "city": "Fredericksburg",
+    "state": "VA",
+    "zip": "22401"
+  },
+  "coordinates": {
+    "latitude": 38.2957706451416,
+    "longitude": -77.46620559692383
+  },
+  "website": "https://fairview-baptist.org",
+  "listingUrl": "https://churches.sbc.net/church/fairview-5/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "fairview-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fairview-baptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541024449"
+    }
+  ],
+  "advisories": []
+}

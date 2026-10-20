@@ -1,0 +1,33 @@
+{
+  "id": "e19qqbj06",
+  "url": "https://constellation.church/e19qqbj06",
+  "name": "Genesis United Methodist Church",
+  "displayName": "Genesis United Methodist Church",
+  "address": {
+    "street": "850 High House Rd",
+    "city": "Cary",
+    "state": "NC",
+    "zip": "27512-1123"
+  },
+  "coordinates": {
+    "latitude": 35.78705024719238,
+    "longitude": -78.82496643066406
+  },
+  "website": "https://genesis-umc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFGkIIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFGkIIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "genesis-umc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561575135"
+    }
+  ],
+  "advisories": []
+}

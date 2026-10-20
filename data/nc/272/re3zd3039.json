@@ -1,0 +1,33 @@
+{
+  "id": "re3zd3039",
+  "url": "https://constellation.church/re3zd3039",
+  "name": "Emmanuel Lutheran Church",
+  "displayName": "Emmanuel Lutheran Church",
+  "address": {
+    "street": "1401 Heathcliff Rd",
+    "city": "High Point",
+    "state": "NC",
+    "zip": "27262-7451"
+  },
+  "coordinates": {
+    "latitude": 35.969533920288086,
+    "longitude": -80.04218292236328
+  },
+  "website": "https://emmanuellutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4db8fe95-ae35-40b4-8f47-79eb98b3f315",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4db8fe95-ae35-40b4-8f47-79eb98b3f315"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emmanuellutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561957149"
+    }
+  ],
+  "advisories": []
+}

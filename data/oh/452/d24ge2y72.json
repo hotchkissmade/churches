@@ -1,0 +1,33 @@
+{
+  "id": "d24ge2y72",
+  "url": "https://constellation.church/d24ge2y72",
+  "name": "Beacon Church",
+  "displayName": "Beacon Church",
+  "address": {
+    "street": "6384 Harrison Ave",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45247"
+  },
+  "coordinates": {
+    "latitude": 39.18950653076172,
+    "longitude": -84.65522003173828
+  },
+  "website": "https://beaconchurchoh.org",
+  "listingUrl": "https://churches.sbc.net/church/beacon-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "beacon-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "beaconchurchoh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310788148"
+    }
+  ],
+  "advisories": []
+}

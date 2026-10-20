@@ -1,0 +1,33 @@
+{
+  "id": "q97jth734",
+  "url": "https://constellation.church/q97jth734",
+  "name": "Covenant Presbyterian Church",
+  "displayName": "Covenant Presbyterian Church",
+  "address": {
+    "street": "1015 East 32nd Street",
+    "city": "Holland",
+    "state": "MI",
+    "zip": "49423"
+  },
+  "coordinates": {
+    "latitude": 42.7692928314209,
+    "longitude": -86.06412506103516
+  },
+  "website": "https://covenantprez.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1656",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1656"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covenantprez.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "383318300"
+    }
+  ],
+  "advisories": []
+}

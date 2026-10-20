@@ -1,0 +1,33 @@
+{
+  "id": "d3ce18t10",
+  "url": "https://constellation.church/d3ce18t10",
+  "name": "St. Andrew's, College Park",
+  "displayName": "St. Andrew's, College Park",
+  "address": {
+    "street": "4512 College Ave",
+    "city": "College Park",
+    "state": "MD",
+    "zip": "20740-3302"
+  },
+  "coordinates": {
+    "latitude": 38.981964111328125,
+    "longitude": -76.9351692199707
+  },
+  "website": "https://saeccp.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/st-andrews-college-park",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/st-andrews-college-park"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saeccp.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520626711"
+    }
+  ],
+  "advisories": []
+}

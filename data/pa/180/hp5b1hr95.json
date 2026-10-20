@@ -1,0 +1,33 @@
+{
+  "id": "hp5b1hr95",
+  "url": "https://constellation.church/hp5b1hr95",
+  "name": "Weisenberg Lutheran Church",
+  "displayName": "Weisenberg Lutheran Church",
+  "address": {
+    "street": "7645 Weisenberg Church Rd",
+    "city": "New Tripoli",
+    "state": "PA",
+    "zip": "18066-2807"
+  },
+  "coordinates": {
+    "latitude": 40.63857460021973,
+    "longitude": -75.6958122253418
+  },
+  "website": "https://weisenbergchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d721e732-fb32-4cc1-a6e7-a73993f2ef54",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d721e732-fb32-4cc1-a6e7-a73993f2ef54"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "weisenbergchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232275254"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "csyn47g32",
+  "url": "https://constellation.church/csyn47g32",
+  "name": "Hope Presbyterian Church (PCA)",
+  "displayName": "Hope Presbyterian Church (PCA)",
+  "address": {
+    "street": "1110 S. Glenwood Lane",
+    "city": "Kirkwood",
+    "state": "MO",
+    "zip": "63122"
+  },
+  "coordinates": {
+    "latitude": 38.5651661,
+    "longitude": -90.441868
+  },
+  "website": "https://hopepca.org/about-us/meet-our-staff",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/7100",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "7100"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopepca.org/about-us/meet-our-staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "392445638"
+    }
+  ],
+  "advisories": []
+}

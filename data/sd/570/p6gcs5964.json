@@ -1,0 +1,33 @@
+{
+  "id": "p6gcs5964",
+  "url": "https://constellation.church/p6gcs5964",
+  "name": "Renner Lutheran Church",
+  "displayName": "Renner Lutheran Church",
+  "address": {
+    "street": "47474 258th St",
+    "city": "Renner",
+    "state": "SD",
+    "zip": "57055-6501"
+  },
+  "coordinates": {
+    "latitude": 43.645503997802734,
+    "longitude": -96.7164535522461
+  },
+  "website": "https://rennerlutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=35b28b10-5e03-4370-8665-4b2ba7e0c3b9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "35b28b10-5e03-4370-8665-4b2ba7e0c3b9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rennerlutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460350974"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a03wthm94",
+  "url": "https://constellation.church/a03wthm94",
+  "name": "Zion Episcopal Church",
+  "displayName": "Zion Episcopal Church",
+  "address": {
+    "street": "24320 Church St.",
+    "city": "Douglaston",
+    "state": "NY",
+    "zip": "11363"
+  },
+  "coordinates": {
+    "latitude": 40.76666069030762,
+    "longitude": -73.74371719360352
+  },
+  "website": "https://zionepiscopal.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/zion-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/zion-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionepiscopal.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111633483"
+    }
+  ],
+  "advisories": []
+}

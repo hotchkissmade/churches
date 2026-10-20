@@ -1,0 +1,33 @@
+{
+  "id": "jkgd68r39",
+  "url": "https://constellation.church/jkgd68r39",
+  "name": "Lutheran Church Of The Newtons",
+  "displayName": "Lutheran Church Of The Newtons",
+  "address": {
+    "street": "1310 Centre St",
+    "city": "Newton",
+    "state": "MA",
+    "zip": "02459-1544"
+  },
+  "coordinates": {
+    "latitude": 42.32892036437988,
+    "longitude": -71.19515609741211
+  },
+  "website": "https://newtonlutherans.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b310924c-c85a-45b2-abbb-9ca48b846ee4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b310924c-c85a-45b2-abbb-9ca48b846ee4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newtonlutherans.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "046077393"
+    }
+  ],
+  "advisories": []
+}

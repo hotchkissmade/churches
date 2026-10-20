@@ -1,0 +1,33 @@
+{
+  "id": "nb9sak679",
+  "url": "https://constellation.church/nb9sak679",
+  "name": "Renaissance Baltimore Church",
+  "displayName": "Renaissance Baltimore Church",
+  "address": {
+    "street": "410 N Patterson Park Ave",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21231"
+  },
+  "coordinates": {
+    "latitude": 39.2957828,
+    "longitude": -76.585154
+  },
+  "website": "https://renaissancebc.com/about-us",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=30204e67-3ce6-4101-a624-13c4ff84586d&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "30204e67-3ce6-4101-a624-13c4ff84586d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "renaissancebc.com/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "873299839"
+    }
+  ],
+  "advisories": []
+}

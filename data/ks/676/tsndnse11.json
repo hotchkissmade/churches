@@ -1,0 +1,33 @@
+{
+  "id": "tsndnse11",
+  "url": "https://constellation.church/tsndnse11",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "492 7th St",
+    "city": "Phillipsburg",
+    "state": "KS",
+    "zip": "67661-2446"
+  },
+  "coordinates": {
+    "latitude": 39.75338363647461,
+    "longitude": -99.31869506835938
+  },
+  "website": "https://zionlutheranchurchofphillipsburg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a79ae4f6-87b7-414f-ab00-63c4e7ef9c36",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a79ae4f6-87b7-414f-ab00-63c4e7ef9c36"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionlutheranchurchofphillipsburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480820476"
+    }
+  ],
+  "advisories": []
+}

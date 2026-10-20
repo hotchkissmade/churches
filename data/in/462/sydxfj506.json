@@ -1,0 +1,37 @@
+{
+  "id": "sydxfj506",
+  "url": "https://constellation.church/sydxfj506",
+  "name": "St Andrew's Lutheran Church",
+  "displayName": "St. Andrew's Lutheran Church",
+  "address": {
+    "street": "6118 Crawfordsville Rd",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46224-3717"
+  },
+  "coordinates": {
+    "latitude": 39.800737380981445,
+    "longitude": -86.26704788208008
+  },
+  "website": "https://standrews-elca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=46e9ed03-f6b2-4932-9470-081257ab8029",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "46e9ed03-f6b2-4932-9470-081257ab8029"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrews-elca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351063414"
+    },
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "indianapolis/st-johns-episcopal-church"
+    }
+  ],
+  "advisories": []
+}

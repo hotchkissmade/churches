@@ -1,0 +1,33 @@
+{
+  "id": "vpqvrnb36",
+  "url": "https://constellation.church/vpqvrnb36",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "202 N.W. 1st St.",
+    "city": "Loogootee",
+    "state": "IN",
+    "zip": "47553"
+  },
+  "coordinates": {
+    "latitude": 38.67715072631836,
+    "longitude": -86.91552734375
+  },
+  "website": "https://loogooteelutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b413009f-1f63-43f5-822d-5fb67e2567d7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b413009f-1f63-43f5-822d-5fb67e2567d7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "loogooteelutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351465749"
+    }
+  ],
+  "advisories": []
+}

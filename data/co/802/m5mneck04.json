@@ -1,0 +1,26 @@
+{
+  "id": "m5mneck04",
+  "url": "https://constellation.church/m5mneck04",
+  "name": "BEACON",
+  "displayName": "Beacon",
+  "address": {
+    "street": "PO BOX 2551 951 20TH ST",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80205"
+  },
+  "coordinates": null,
+  "website": "https://denverbeacon.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "833189501"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "denverbeacon.org"
+    }
+  ],
+  "advisories": []
+}

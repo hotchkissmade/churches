@@ -1,0 +1,33 @@
+{
+  "id": "f5vmgmt79",
+  "url": "https://constellation.church/f5vmgmt79",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "200 N 1st St",
+    "city": "Rockford",
+    "state": "IL",
+    "zip": "61107-3901"
+  },
+  "coordinates": {
+    "latitude": 42.270151138305664,
+    "longitude": -89.08805847167969
+  },
+  "website": "https://trinityrockford.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6e0069c7-9302-4ea6-8f63-78d911108052",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6e0069c7-9302-4ea6-8f63-78d911108052"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityrockford.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362182165"
+    }
+  ],
+  "advisories": []
+}

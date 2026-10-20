@@ -1,0 +1,33 @@
+{
+  "id": "b3g9x3e17",
+  "url": "https://constellation.church/b3g9x3e17",
+  "name": "Rivertown Church",
+  "displayName": "Rivertown Church",
+  "address": {
+    "street": "3044 San Pablo Rd S",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32224"
+  },
+  "coordinates": {
+    "latitude": 30.292116165161133,
+    "longitude": -81.43955993652344
+  },
+  "website": "https://rivertown.com",
+  "listingUrl": "https://churches.sbc.net/church/rivertown-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "rivertown-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rivertown.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "208966079"
+    }
+  ],
+  "advisories": []
+}

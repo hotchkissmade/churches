@@ -1,0 +1,33 @@
+{
+  "id": "sa14rzm75",
+  "url": "https://constellation.church/sa14rzm75",
+  "name": "Chesterfield Presbyterian Church",
+  "displayName": "Chesterfield Presbyterian Church",
+  "address": {
+    "street": "15037 Clayton Road",
+    "city": "Chesterfield",
+    "state": "MO",
+    "zip": "63017"
+  },
+  "coordinates": {
+    "latitude": 38.614479064941406,
+    "longitude": -90.54553604125977
+  },
+  "website": "https://chespres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1114",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1114"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chespres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431265671"
+    }
+  ],
+  "advisories": []
+}

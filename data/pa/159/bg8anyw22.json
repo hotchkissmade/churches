@@ -1,0 +1,33 @@
+{
+  "id": "bg8anyw22",
+  "url": "https://constellation.church/bg8anyw22",
+  "name": "Moxham Lutheran Church",
+  "displayName": "Moxham Lutheran Church",
+  "address": {
+    "street": "500 Park Ave",
+    "city": "Johnstown",
+    "state": "PA",
+    "zip": "15902-2616"
+  },
+  "coordinates": {
+    "latitude": 40.298439025878906,
+    "longitude": -78.9097785949707
+  },
+  "website": "https://moxhamlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b01429d6-6d73-435c-9633-e2faaf5b9c10",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b01429d6-6d73-435c-9633-e2faaf5b9c10"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "moxhamlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "250995768"
+    }
+  ],
+  "advisories": []
+}

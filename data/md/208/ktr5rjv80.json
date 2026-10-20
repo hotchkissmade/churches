@@ -1,0 +1,33 @@
+{
+  "id": "ktr5rjv80",
+  "url": "https://constellation.church/ktr5rjv80",
+  "name": "First Baptist Church of Rockville",
+  "displayName": "First Baptist Church of Rockville",
+  "address": {
+    "street": "55 Adclare Rd",
+    "city": "Rockville",
+    "state": "MD",
+    "zip": "20850"
+  },
+  "coordinates": {
+    "latitude": 39.08413887023926,
+    "longitude": -77.17094802856445
+  },
+  "website": "https://firstbaptistrockville.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-rockville-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-rockville-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistrockville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520699199"
+    }
+  ],
+  "advisories": []
+}

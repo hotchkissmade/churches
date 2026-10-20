@@ -1,0 +1,33 @@
+{
+  "id": "wh3z7vg27",
+  "url": "https://constellation.church/wh3z7vg27",
+  "name": "First Baptist",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "220 S Penn Avenue",
+    "city": "Independence",
+    "state": "KS",
+    "zip": "67301"
+  },
+  "coordinates": {
+    "latitude": 37.22128677368164,
+    "longitude": -95.70655822753906
+  },
+  "website": "https://fbionline.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-6/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbionline.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480675725"
+    }
+  ],
+  "advisories": []
+}

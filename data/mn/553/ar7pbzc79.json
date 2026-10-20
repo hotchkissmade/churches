@@ -1,0 +1,33 @@
+{
+  "id": "ar7pbzc79",
+  "url": "https://constellation.church/ar7pbzc79",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "13655 Round Lake Blvd NW",
+    "city": "Andover",
+    "state": "MN",
+    "zip": "55304-3659"
+  },
+  "coordinates": {
+    "latitude": 45.21891212463379,
+    "longitude": -93.35604095458984
+  },
+  "website": "https://grace-andover.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9b3ca3bd-6374-4947-a655-f0a2ccd0e4df",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9b3ca3bd-6374-4947-a655-f0a2ccd0e4df"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grace-andover.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410975602"
+    }
+  ],
+  "advisories": []
+}

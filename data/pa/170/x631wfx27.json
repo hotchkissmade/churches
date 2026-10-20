@@ -1,0 +1,33 @@
+{
+  "id": "x631wfx27",
+  "url": "https://constellation.church/x631wfx27",
+  "name": "Compass Point Church",
+  "displayName": "Compass Point Church",
+  "address": {
+    "street": "15 East Church Street",
+    "city": "Dillsburg",
+    "state": "PA",
+    "zip": "17019"
+  },
+  "coordinates": {
+    "latitude": 40.11224937438965,
+    "longitude": -77.03490829467773
+  },
+  "website": "https://compasspointchurch.net",
+  "listingUrl": "https://churches.sbc.net/church/compass-point-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "compass-point-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "compasspointchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "274230672"
+    }
+  ],
+  "advisories": []
+}

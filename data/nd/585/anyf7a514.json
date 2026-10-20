@@ -1,0 +1,33 @@
+{
+  "id": "anyf7a514",
+  "url": "https://constellation.church/anyf7a514",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "800 N 7th St",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58501-3930"
+  },
+  "coordinates": {
+    "latitude": 46.81295394897461,
+    "longitude": -100.78173828125
+  },
+  "website": "https://firstlutheranchurchbismarck.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9099d6d5-ea85-44ca-a4cb-84e010247d7d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9099d6d5-ea85-44ca-a4cb-84e010247d7d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranchurchbismarck.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450276994"
+    }
+  ],
+  "advisories": []
+}

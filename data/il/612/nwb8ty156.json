@@ -1,0 +1,29 @@
+{
+  "id": "nwb8ty156",
+  "url": "https://constellation.church/nwb8ty156",
+  "name": "FIRST BAPTIST CHURCH",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "1901 29TH ST",
+    "city": "Moline",
+    "state": "IL",
+    "zip": "61265"
+  },
+  "coordinates": {
+    "latitude": 41.49307823181152,
+    "longitude": -90.4971923828125
+  },
+  "website": "https://fbc-moline.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366003255"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbc-moline.org"
+    }
+  ],
+  "advisories": []
+}

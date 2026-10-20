@@ -1,0 +1,33 @@
+{
+  "id": "kyqnzqv51",
+  "url": "https://constellation.church/kyqnzqv51",
+  "name": "Inland Church PCA",
+  "displayName": "Inland Church PCA",
+  "address": {
+    "street": "1101 North Glen Avenue",
+    "city": "Pomona",
+    "state": "CA",
+    "zip": "91768"
+  },
+  "coordinates": {
+    "latitude": 34.067893981933594,
+    "longitude": -117.78353118896484
+  },
+  "website": "https://inlandpca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/625",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "625"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "inlandpca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330221210"
+    }
+  ],
+  "advisories": []
+}

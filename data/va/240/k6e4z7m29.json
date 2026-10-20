@@ -1,0 +1,33 @@
+{
+  "id": "k6e4z7m29",
+  "url": "https://constellation.church/k6e4z7m29",
+  "name": "Ridgewood",
+  "displayName": "Ridgewood Baptist Church",
+  "address": {
+    "street": "703 Hemlock Rd NW",
+    "city": "Roanoke",
+    "state": "VA",
+    "zip": "24017"
+  },
+  "coordinates": {
+    "latitude": 37.285226821899414,
+    "longitude": -80.02107238769531
+  },
+  "website": "https://rwbcva.com",
+  "listingUrl": "https://churches.sbc.net/church/ridgewood-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "ridgewood-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rwbcva.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540949900"
+    }
+  ],
+  "advisories": []
+}

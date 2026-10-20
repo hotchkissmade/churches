@@ -1,0 +1,33 @@
+{
+  "id": "hn6tcka16",
+  "url": "https://constellation.church/hn6tcka16",
+  "name": "Episcopal Church of St. John & St. James",
+  "displayName": "Episcopal Church of St. John & St. James",
+  "address": {
+    "street": "463 N. Church Street",
+    "city": "Sullivan",
+    "state": "MO",
+    "zip": "63080-1505"
+  },
+  "coordinates": {
+    "latitude": 38.215280532836914,
+    "longitude": -91.16147232055664
+  },
+  "website": "https://sjsjsullivan.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-missouri/list/episcopal-church-st-john-st-james",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-missouri/episcopal-church-st-john-st-james"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sjsjsullivan.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431090685"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kty1kqs92",
+  "url": "https://constellation.church/kty1kqs92",
+  "name": "First Baptist Church of Fairfield",
+  "displayName": "First Baptist Church of Fairfield",
+  "address": {
+    "street": "1108 Washington St",
+    "city": "Fairfield",
+    "state": "CA",
+    "zip": "94533"
+  },
+  "coordinates": {
+    "latitude": 38.25429725646973,
+    "longitude": -122.03794860839844
+  },
+  "website": "https://fbc-fairfield.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-fairfield/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-fairfield"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbc-fairfield.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941265057"
+    }
+  ],
+  "advisories": []
+}

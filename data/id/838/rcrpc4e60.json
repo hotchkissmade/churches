@@ -1,0 +1,33 @@
+{
+  "id": "rcrpc4e60",
+  "url": "https://constellation.church/rcrpc4e60",
+  "name": "Lifeway Chapel of the Assemblies of God",
+  "displayName": "Lifeway Chapel of the Assemblies of God",
+  "address": {
+    "street": "501 W 15th Ave",
+    "city": "Post Falls",
+    "state": "ID",
+    "zip": "83854"
+  },
+  "coordinates": {
+    "latitude": 47.72262191772461,
+    "longitude": -116.95486450195312
+  },
+  "website": "https://lifewaychapel.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=1d362ccb-eb43-438a-9e20-58dabcad45c7&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "1d362ccb-eb43-438a-9e20-58dabcad45c7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lifewaychapel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820331180"
+    }
+  ],
+  "advisories": []
+}

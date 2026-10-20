@@ -1,0 +1,33 @@
+{
+  "id": "hccabf051",
+  "url": "https://constellation.church/hccabf051",
+  "name": "Devereux Baptist Church, Inc.",
+  "displayName": "Devereux Baptist Church",
+  "address": {
+    "street": "190 Main St",
+    "city": "Sparta",
+    "state": "GA",
+    "zip": "31087"
+  },
+  "coordinates": {
+    "latitude": 33.21911811828613,
+    "longitude": -83.07432556152344
+  },
+  "website": "https://devereuxbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/devereux-baptist-church-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "devereux-baptist-church-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "devereuxbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800635784"
+    }
+  ],
+  "advisories": []
+}

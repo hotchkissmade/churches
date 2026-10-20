@@ -1,0 +1,33 @@
+{
+  "id": "k660r7t06",
+  "url": "https://constellation.church/k660r7t06",
+  "name": "Church of the Holy Nativity",
+  "displayName": "Church of the Holy Nativity",
+  "address": {
+    "street": "3061 Bainbridge Ave.",
+    "city": "Bronx",
+    "state": "NY",
+    "zip": "10467"
+  },
+  "coordinates": {
+    "latitude": 40.873573303222656,
+    "longitude": -73.87974166870117
+  },
+  "website": "https://holynativitybronx.episcopalny.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-new-york/list/church-holy-nativity",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-new-york/church-holy-nativity"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holynativitybronx.episcopalny.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "131740163"
+    }
+  ],
+  "advisories": []
+}

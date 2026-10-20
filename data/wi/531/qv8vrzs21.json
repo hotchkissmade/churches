@@ -1,0 +1,33 @@
+{
+  "id": "qv8vrzs21",
+  "url": "https://constellation.church/qv8vrzs21",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "415 Devendorf St",
+    "city": "Elkhorn",
+    "state": "WI",
+    "zip": "53121-1500"
+  },
+  "coordinates": {
+    "latitude": 42.6658074,
+    "longitude": -88.5541856
+  },
+  "website": "https://firstelkhorn.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24875",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24875"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstelkhorn.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391135363"
+    }
+  ],
+  "advisories": []
+}

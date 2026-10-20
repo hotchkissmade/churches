@@ -1,0 +1,33 @@
+{
+  "id": "bfe0srq87",
+  "url": "https://constellation.church/bfe0srq87",
+  "name": "Lutheran Church Of The Resurrection",
+  "displayName": "Lutheran Church Of The Resurrection",
+  "address": {
+    "street": "3736 Saint Paul Blvd",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14617-2737"
+  },
+  "coordinates": {
+    "latitude": 43.22300720214844,
+    "longitude": -77.59774780273438
+  },
+  "website": "https://resurrectionrochester.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=36a7f952-2b10-445c-a02e-842f8f9c8764",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "36a7f952-2b10-445c-a02e-842f8f9c8764"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "resurrectionrochester.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "166028190"
+    }
+  ],
+  "advisories": []
+}

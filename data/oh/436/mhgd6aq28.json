@@ -1,0 +1,33 @@
+{
+  "id": "mhgd6aq28",
+  "url": "https://constellation.church/mhgd6aq28",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "1127 N Huron St",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43604-1952"
+  },
+  "coordinates": {
+    "latitude": 41.66012954711914,
+    "longitude": -83.52511596679688
+  },
+  "website": "https://salemtoledo.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bec97e42-b343-4f2f-81b9-396658a5597b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bec97e42-b343-4f2f-81b9-396658a5597b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemtoledo.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "344474606"
+    }
+  ],
+  "advisories": []
+}

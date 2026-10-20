@@ -1,0 +1,33 @@
+{
+  "id": "y5f3efx45",
+  "url": "https://constellation.church/y5f3efx45",
+  "name": "Horace Lutheran Church",
+  "displayName": "Horace Lutheran Church",
+  "address": {
+    "street": "650 1st St N",
+    "city": "Horace",
+    "state": "ND",
+    "zip": "58047-4502"
+  },
+  "coordinates": {
+    "latitude": 46.768798828125,
+    "longitude": -96.90203094482422
+  },
+  "website": "https://horacelutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d4ab6006-a3e8-47a3-9dde-e8e676d1a343",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d4ab6006-a3e8-47a3-9dde-e8e676d1a343"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "horacelutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450282508"
+    }
+  ],
+  "advisories": []
+}

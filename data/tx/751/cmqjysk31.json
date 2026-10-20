@@ -1,0 +1,33 @@
+{
+  "id": "cmqjysk31",
+  "url": "https://constellation.church/cmqjysk31",
+  "name": "St. Thomas Episcopal Church",
+  "displayName": "St. Thomas Episcopal Church",
+  "address": {
+    "street": "901 Park St",
+    "city": "Ennis",
+    "state": "TX",
+    "zip": "75119"
+  },
+  "coordinates": {
+    "latitude": 32.33798027038574,
+    "longitude": -96.64501953125
+  },
+  "website": "https://stthomaschurchennis.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-dallas/list/st-thomas-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-dallas/st-thomas-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stthomaschurchennis.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751278710"
+    }
+  ],
+  "advisories": []
+}

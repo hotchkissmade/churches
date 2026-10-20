@@ -1,0 +1,33 @@
+{
+  "id": "wrd7qmw32",
+  "url": "https://constellation.church/wrd7qmw32",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "300 N County Line Rd",
+    "city": "Windsor",
+    "state": "MO",
+    "zip": "65360"
+  },
+  "coordinates": {
+    "latitude": 38.53477668762207,
+    "longitude": -93.51140213012695
+  },
+  "website": "https://windsorassembly.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f870bbf7-375b-492e-a0cc-26587010bfa5&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f870bbf7-375b-492e-a0cc-26587010bfa5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "windsorassembly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431291993"
+    }
+  ],
+  "advisories": []
+}

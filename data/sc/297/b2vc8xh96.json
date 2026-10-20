@@ -1,0 +1,33 @@
+{
+  "id": "b2vc8xh96",
+  "url": "https://constellation.church/b2vc8xh96",
+  "name": "Sharon Baptist Church",
+  "displayName": "Sharon Baptist Church",
+  "address": {
+    "street": "3850 York St",
+    "city": "Sharon",
+    "state": "SC",
+    "zip": "29742"
+  },
+  "coordinates": {
+    "latitude": 34.947967529296875,
+    "longitude": -81.34106826782227
+  },
+  "website": "https://sharonsc.gov/worship",
+  "listingUrl": "https://churches.sbc.net/church/sharon-baptist-church-6/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sharon-baptist-church-6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sharonsc.gov/worship"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570645150"
+    }
+  ],
+  "advisories": []
+}

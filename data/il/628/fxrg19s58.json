@@ -1,0 +1,33 @@
+{
+  "id": "fxrg19s58",
+  "url": "https://constellation.church/fxrg19s58",
+  "name": "First Baptist Church of Du Quoin",
+  "displayName": "First Baptist Church of Du Quoin",
+  "address": {
+    "street": "104 N Washington St",
+    "city": "Du Quoin",
+    "state": "IL",
+    "zip": "62832"
+  },
+  "coordinates": {
+    "latitude": 38.01296424865723,
+    "longitude": -89.23620986938477
+  },
+  "website": "https://fbcdq.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-du-quoin/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-du-quoin"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcdq.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370792768"
+    }
+  ],
+  "advisories": []
+}

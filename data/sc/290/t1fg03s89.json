@@ -1,0 +1,33 @@
+{
+  "id": "t1fg03s89",
+  "url": "https://constellation.church/t1fg03s89",
+  "name": "Episcopal Church of St. Simon & St. Jude",
+  "displayName": "Episcopal Church of St. Simon & St. Jude",
+  "address": {
+    "street": "1110 Kinley Rd",
+    "city": "Irmo",
+    "state": "SC",
+    "zip": "29063-9633"
+  },
+  "coordinates": {
+    "latitude": 34.092844009399414,
+    "longitude": -81.16370010375977
+  },
+  "website": "https://ecsssj.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-upper-south-carolina/list/episcopal-church-st-simon-st-jude",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-upper-south-carolina/episcopal-church-st-simon-st-jude"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ecsssj.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570531700"
+    }
+  ],
+  "advisories": []
+}

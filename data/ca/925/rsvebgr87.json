@@ -1,0 +1,33 @@
+{
+  "id": "rsvebgr87",
+  "url": "https://constellation.church/rsvebgr87",
+  "name": "Sandals Church",
+  "displayName": "Sandals Church",
+  "address": {
+    "street": "150 Palmyrita Ave",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92507"
+  },
+  "coordinates": {
+    "latitude": 34.00444030761719,
+    "longitude": -117.31138610839844
+  },
+  "website": "https://sandalschurch.com/locations/hunter-park",
+  "listingUrl": "https://churches.sbc.net/church/sandals-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sandals-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sandalschurch.com/locations/hunter-park"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330892448"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jh2dgxx23",
+  "url": "https://constellation.church/jh2dgxx23",
+  "name": "St. Stephen's Episcopal Church",
+  "displayName": "St. Stephen's Episcopal Church",
+  "address": {
+    "street": "1 Del Mar Cir",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80011-8225"
+  },
+  "coordinates": {
+    "latitude": 39.72216987609863,
+    "longitude": -104.8478775024414
+  },
+  "website": "https://ststephensaurora.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/episcopal-church-colorado/list/st-stephens-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "episcopal-church-colorado/st-stephens-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ststephensaurora.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840513783"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "d38pbrs77",
+  "url": "https://constellation.church/d38pbrs77",
+  "name": "Collective Church",
+  "displayName": "Collective Church",
+  "address": {
+    "street": "4007 Pascagoula St",
+    "city": "Pascagoula",
+    "state": "MS",
+    "zip": "39567"
+  },
+  "coordinates": {
+    "latitude": 30.374374389648438,
+    "longitude": -88.5522232055664
+  },
+  "website": "https://mycollectivechurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=521ff337-7da7-4b0b-8490-fc5c913d5ff7&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "521ff337-7da7-4b0b-8490-fc5c913d5ff7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mycollectivechurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640683305"
+    }
+  ],
+  "advisories": []
+}

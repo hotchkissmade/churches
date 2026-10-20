@@ -1,0 +1,33 @@
+{
+  "id": "mkfeftv16",
+  "url": "https://constellation.church/mkfeftv16",
+  "name": "Wanamaker Road Baptist Church",
+  "displayName": "Wanamaker Road Baptist Church",
+  "address": {
+    "street": "2700 SW Wanamaker Rd",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66614"
+  },
+  "coordinates": {
+    "latitude": 39.017141342163086,
+    "longitude": -95.76133728027344
+  },
+  "website": "https://wrbctopeka.com",
+  "listingUrl": "https://churches.sbc.net/church/wanamaker-road-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "wanamaker-road-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wrbctopeka.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480816149"
+    }
+  ],
+  "advisories": []
+}

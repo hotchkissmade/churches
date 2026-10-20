@@ -1,0 +1,33 @@
+{
+  "id": "xrp4hyg45",
+  "url": "https://constellation.church/xrp4hyg45",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "4167 Juddville Rd",
+    "city": "Fish Creek",
+    "state": "WI",
+    "zip": "54212-9498"
+  },
+  "coordinates": {
+    "latitude": 45.08358192443848,
+    "longitude": -87.24652099609375
+  },
+  "website": "https://stpauljuddville.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0615a9f8-e30d-43fd-984d-cd321bab45a4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0615a9f8-e30d-43fd-984d-cd321bab45a4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpauljuddville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396064980"
+    }
+  ],
+  "advisories": []
+}

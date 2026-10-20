@@ -1,0 +1,33 @@
+{
+  "id": "p6ekdjt56",
+  "url": "https://constellation.church/p6ekdjt56",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "305 N Main St",
+    "city": "Waynesville",
+    "state": "NC",
+    "zip": "28786-3813"
+  },
+  "coordinates": {
+    "latitude": 35.493764877319336,
+    "longitude": -82.98556900024414
+  },
+  "website": "https://fpcwaynesville.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/20893/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "20893"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcwaynesville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "566069300"
+    }
+  ],
+  "advisories": []
+}

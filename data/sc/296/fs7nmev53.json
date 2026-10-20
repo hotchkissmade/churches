@@ -1,0 +1,33 @@
+{
+  "id": "fs7nmev53",
+  "url": "https://constellation.church/fs7nmev53",
+  "name": "Northside Baptist Church",
+  "displayName": "Northside Baptist Church",
+  "address": {
+    "street": "205 Marion St",
+    "city": "Calhoun Falls",
+    "state": "SC",
+    "zip": "29628"
+  },
+  "coordinates": {
+    "latitude": 34.09330749511719,
+    "longitude": -82.59277725219727
+  },
+  "website": "https://northsidecfsc.com",
+  "listingUrl": "https://churches.sbc.net/church/northside-baptist-church-20/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northside-baptist-church-20"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northsidecfsc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570729990"
+    }
+  ],
+  "advisories": []
+}

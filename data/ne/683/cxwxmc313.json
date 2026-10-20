@@ -1,0 +1,33 @@
+{
+  "id": "cxwxmc313",
+  "url": "https://constellation.church/cxwxmc313",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "224 N 4th St",
+    "city": "Hebron",
+    "state": "NE",
+    "zip": "68370-1548"
+  },
+  "coordinates": {
+    "latitude": 40.16861152648926,
+    "longitude": -97.59019470214844
+  },
+  "website": "https://gracelutheranhebron.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f59af0b4-4bcf-4534-aeab-5421b31869e5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f59af0b4-4bcf-4534-aeab-5421b31869e5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelutheranhebron.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470424794"
+    }
+  ],
+  "advisories": []
+}

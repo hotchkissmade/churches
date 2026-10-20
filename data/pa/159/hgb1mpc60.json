@@ -1,0 +1,33 @@
+{
+  "id": "hgb1mpc60",
+  "url": "https://constellation.church/hgb1mpc60",
+  "name": "Trinity Presbyterian Church",
+  "displayName": "Trinity Presbyterian Church",
+  "address": {
+    "street": "268 Hostetler Road",
+    "city": "Johnstown",
+    "state": "PA",
+    "zip": "15904"
+  },
+  "coordinates": {
+    "latitude": 40.27513313293457,
+    "longitude": -78.87877655029297
+  },
+  "website": "https://trinityjohnstown.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1014",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1014"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityjohnstown.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510235302"
+    }
+  ],
+  "advisories": []
+}

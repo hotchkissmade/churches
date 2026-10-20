@@ -1,0 +1,33 @@
+{
+  "id": "n42p5bp76",
+  "url": "https://constellation.church/n42p5bp76",
+  "name": "St Luke's Lutheran Church",
+  "displayName": "St. Luke's Lutheran Church",
+  "address": {
+    "street": "2315 I St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68107-1814"
+  },
+  "coordinates": {
+    "latitude": 41.215599060058594,
+    "longitude": -95.94676208496094
+  },
+  "website": "https://stlukesomaha.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8d681af4-b678-48a6-9e8e-3b5436e13565",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8d681af4-b678-48a6-9e8e-3b5436e13565"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesomaha.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470379008"
+    }
+  ],
+  "advisories": []
+}

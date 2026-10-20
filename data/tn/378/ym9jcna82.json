@@ -1,0 +1,33 @@
+{
+  "id": "ym9jcna82",
+  "url": "https://constellation.church/ym9jcna82",
+  "name": "The Good Shepherd",
+  "displayName": "The Good Shepherd",
+  "address": {
+    "street": "2435 W Andrew Johnson Hwy",
+    "city": "Morristown",
+    "state": "TN",
+    "zip": "37814-3209"
+  },
+  "coordinates": {
+    "latitude": 36.20352745056152,
+    "longitude": -83.32764434814453
+  },
+  "website": "https://goodshepherdlc-morristown.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=eb30e2df-186f-42f7-aa0b-abe6e6ef0ca5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "eb30e2df-186f-42f7-aa0b-abe6e6ef0ca5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherdlc-morristown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621290550"
+    }
+  ],
+  "advisories": []
+}

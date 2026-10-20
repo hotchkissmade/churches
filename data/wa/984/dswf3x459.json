@@ -1,0 +1,33 @@
+{
+  "id": "dswf3x459",
+  "url": "https://constellation.church/dswf3x459",
+  "name": "Lutheran Church Of Christ The King",
+  "displayName": "Lutheran Church Of Christ The King",
+  "address": {
+    "street": "1710 85th St E",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98445-4114"
+  },
+  "coordinates": {
+    "latitude": 47.179630279541016,
+    "longitude": -122.40538024902344
+  },
+  "website": "https://lccktacoma.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=50a29a55-bb93-4c05-9cb4-79e6c0b64226",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "50a29a55-bb93-4c05-9cb4-79e6c0b64226"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lccktacoma.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910820292"
+    }
+  ],
+  "advisories": []
+}

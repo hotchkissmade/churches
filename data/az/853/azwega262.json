@@ -1,0 +1,33 @@
+{
+  "id": "azwega262",
+  "url": "https://constellation.church/azwega262",
+  "name": "Camelback Community Church",
+  "displayName": "Camelback Community Church",
+  "address": {
+    "street": "7634 W Camelback Rd",
+    "city": "Glendale",
+    "state": "AZ",
+    "zip": "85303"
+  },
+  "coordinates": {
+    "latitude": 33.509321212768555,
+    "longitude": -112.2239990234375
+  },
+  "website": "https://camelback.cc",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=e256a6a9-9644-4c2f-afe4-18f72fd0474a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "e256a6a9-9644-4c2f-afe4-18f72fd0474a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "camelback.cc"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "861048270"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jmcc0pe12",
+  "url": "https://constellation.church/jmcc0pe12",
+  "name": "Pleasant Valley Lutheran Church",
+  "displayName": "Pleasant Valley Lutheran Church",
+  "address": {
+    "street": "2769 Pleasant Valley Rd",
+    "city": "Lucas",
+    "state": "OH",
+    "zip": "44843-9795"
+  },
+  "coordinates": {
+    "latitude": 40.65935134887695,
+    "longitude": -82.40497207641602
+  },
+  "website": "https://pleasantvalleylutheranlucas.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f240b77b-095c-4375-a103-9c5ce7ce5f3f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f240b77b-095c-4375-a103-9c5ce7ce5f3f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pleasantvalleylutheranlucas.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341382210"
+    }
+  ],
+  "advisories": []
+}

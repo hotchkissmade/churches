@@ -1,0 +1,33 @@
+{
+  "id": "czkakyq57",
+  "url": "https://constellation.church/czkakyq57",
+  "name": "Shalimar Baptist Church",
+  "displayName": "Shalimar Baptist Church",
+  "address": {
+    "street": "17 4th Ave",
+    "city": "Shalimar",
+    "state": "FL",
+    "zip": "32579"
+  },
+  "coordinates": {
+    "latitude": 30.439682006835938,
+    "longitude": -86.57767486572266
+  },
+  "website": "https://shalimarbaptistchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/shalimar-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "shalimar-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "shalimarbaptistchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591780893"
+    }
+  ],
+  "advisories": []
+}

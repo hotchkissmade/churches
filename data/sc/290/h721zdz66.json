@@ -1,0 +1,33 @@
+{
+  "id": "h721zdz66",
+  "url": "https://constellation.church/h721zdz66",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "1028 Saint Johns Rd",
+    "city": "Irmo",
+    "state": "SC",
+    "zip": "29063-9647"
+  },
+  "coordinates": {
+    "latitude": 34.166635513305664,
+    "longitude": -81.20100784301758
+  },
+  "website": "https://stjohnsirmo.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=84b8922a-7c2f-4fbe-bd6b-57777ac15d5f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "84b8922a-7c2f-4fbe-bd6b-57777ac15d5f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsirmo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570761361"
+    }
+  ],
+  "advisories": []
+}

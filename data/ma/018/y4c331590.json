@@ -1,0 +1,33 @@
+{
+  "id": "y4c331590",
+  "url": "https://constellation.church/y4c331590",
+  "name": "St. Mark's Episcopal Church",
+  "displayName": "St. Mark's Episcopal Church",
+  "address": {
+    "street": "10 Saint Marks Rd",
+    "city": "Burlington",
+    "state": "MA",
+    "zip": "01803-3622"
+  },
+  "coordinates": {
+    "latitude": 42.50290298461914,
+    "longitude": -71.20676803588867
+  },
+  "website": "https://saintmarksburlington.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-massachusetts/list/st-marks-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-massachusetts/st-marks-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintmarksburlington.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391295440"
+    }
+  ],
+  "advisories": []
+}

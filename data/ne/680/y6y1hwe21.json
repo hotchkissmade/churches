@@ -1,0 +1,33 @@
+{
+  "id": "y6y1hwe21",
+  "url": "https://constellation.church/y6y1hwe21",
+  "name": "Emmanuel Lutheran Church",
+  "displayName": "Emmanuel Lutheran Church",
+  "address": {
+    "street": "210 S 12th St",
+    "city": "Tekamah",
+    "state": "NE",
+    "zip": "68061-1413"
+  },
+  "coordinates": {
+    "latitude": 41.77682304382324,
+    "longitude": -96.21991729736328
+  },
+  "website": "https://elctekamah.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d8b0f164-bec8-47ab-baf8-bd9c38ad45d1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d8b0f164-bec8-47ab-baf8-bd9c38ad45d1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elctekamah.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470600922"
+    }
+  ],
+  "advisories": []
+}

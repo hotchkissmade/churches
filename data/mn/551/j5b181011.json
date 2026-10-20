@@ -1,0 +1,33 @@
+{
+  "id": "j5b181011",
+  "url": "https://constellation.church/j5b181011",
+  "name": "Como Park Lutheran Church",
+  "displayName": "Como Park Lutheran Church",
+  "address": {
+    "street": "1376 Hoyt Ave W",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip": "55108-2300"
+  },
+  "coordinates": {
+    "latitude": 44.98797798156738,
+    "longitude": -93.15812683105469
+  },
+  "website": "https://comoparklutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=111ca7f4-6578-41f4-b71f-2f9465b1a243",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "111ca7f4-6578-41f4-b71f-2f9465b1a243"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "comoparklutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410705751"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qs0fs5g23",
+  "url": "https://constellation.church/qs0fs5g23",
+  "name": "The SOAR Church",
+  "displayName": "The SOAR Church",
+  "address": {
+    "street": "1324 Dehirsch Avenue",
+    "city": "Woodbine",
+    "state": "NJ",
+    "zip": "08270"
+  },
+  "coordinates": {
+    "latitude": 39.231937408447266,
+    "longitude": -74.79735946655273
+  },
+  "website": "https://thesoarchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/the-soar-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-soar-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thesoarchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222295177"
+    }
+  ],
+  "advisories": []
+}

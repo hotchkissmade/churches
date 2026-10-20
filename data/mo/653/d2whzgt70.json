@@ -1,0 +1,33 @@
+{
+  "id": "d2whzgt70",
+  "url": "https://constellation.church/d2whzgt70",
+  "name": "First Baptist Church Sedalia",
+  "displayName": "First Baptist Church Sedalia",
+  "address": {
+    "street": "200 E 6th St",
+    "city": "Sedalia",
+    "state": "MO",
+    "zip": "65301"
+  },
+  "coordinates": {
+    "latitude": 38.70539093017578,
+    "longitude": -93.22702026367188
+  },
+  "website": "https://fbcsedalia.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-sedalia/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-sedalia"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcsedalia.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "446001150"
+    }
+  ],
+  "advisories": []
+}

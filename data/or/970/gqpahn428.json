@@ -1,0 +1,33 @@
+{
+  "id": "gqpahn428",
+  "url": "https://constellation.church/gqpahn428",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "101 W 10th St",
+    "city": "The Dalles",
+    "state": "OR",
+    "zip": "97058-1931"
+  },
+  "coordinates": {
+    "latitude": 45.59762191772461,
+    "longitude": -121.18930053710938
+  },
+  "website": "https://zioninthedalles.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ad46755c-8cb0-486c-9a5a-3d6d503470bb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ad46755c-8cb0-486c-9a5a-3d6d503470bb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zioninthedalles.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930575523"
+    }
+  ],
+  "advisories": []
+}

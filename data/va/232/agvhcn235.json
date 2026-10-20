@@ -1,0 +1,33 @@
+{
+  "id": "agvhcn235",
+  "url": "https://constellation.church/agvhcn235",
+  "name": "Hardy Central Baptist Church",
+  "displayName": "Hardy Central Baptist Church",
+  "address": {
+    "street": "4655 Darbytown Rd",
+    "city": "Henrico",
+    "state": "VA",
+    "zip": "23231"
+  },
+  "coordinates": {
+    "latitude": 37.45008850097656,
+    "longitude": -77.28154373168945
+  },
+  "website": "https://hardycentral.church",
+  "listingUrl": "https://churches.sbc.net/church/hardy-central-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hardy-central-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hardycentral.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541051692"
+    }
+  ],
+  "advisories": []
+}

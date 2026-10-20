@@ -1,0 +1,33 @@
+{
+  "id": "rsax2qk64",
+  "url": "https://constellation.church/rsax2qk64",
+  "name": "Pine United Methodist Church",
+  "displayName": "Pine United Methodist Church",
+  "address": {
+    "street": "426 33rd Avenue",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94121"
+  },
+  "coordinates": {
+    "latitude": 37.78107261657715,
+    "longitude": -122.49335479736328
+  },
+  "website": "https://pineumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFEm7IAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFEm7IAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pineumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941254647"
+    }
+  ],
+  "advisories": []
+}

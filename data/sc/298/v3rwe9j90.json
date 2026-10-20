@@ -1,0 +1,33 @@
+{
+  "id": "v3rwe9j90",
+  "url": "https://constellation.church/v3rwe9j90",
+  "name": "Mount Calvary Lutheran Church",
+  "displayName": "Mount Calvary Lutheran Church",
+  "address": {
+    "street": "1186 Mount Calvary Rd",
+    "city": "Johnston",
+    "state": "SC",
+    "zip": "29832-3141"
+  },
+  "coordinates": {
+    "latitude": 33.77356147766113,
+    "longitude": -81.69375610351562
+  },
+  "website": "https://mtcalvaryjohnston.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e9342bd1-6524-44ae-8a99-7aceb2ea9c17",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e9342bd1-6524-44ae-8a99-7aceb2ea9c17"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mtcalvaryjohnston.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570648322"
+    }
+  ],
+  "advisories": []
+}

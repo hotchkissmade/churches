@@ -1,0 +1,33 @@
+{
+  "id": "sw0jvb317",
+  "url": "https://constellation.church/sw0jvb317",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "1145 Dekalb Ave",
+    "city": "Sycamore",
+    "state": "IL",
+    "zip": "60178-2718"
+  },
+  "coordinates": {
+    "latitude": 41.983009338378906,
+    "longitude": -88.70362091064453
+  },
+  "website": "https://slcsycamore.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ae3da004-8c67-47a6-9345-f8c6e7080a07",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ae3da004-8c67-47a6-9345-f8c6e7080a07"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "slcsycamore.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362277376"
+    }
+  ],
+  "advisories": []
+}

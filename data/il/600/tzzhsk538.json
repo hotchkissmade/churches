@@ -1,0 +1,33 @@
+{
+  "id": "tzzhsk538",
+  "url": "https://constellation.church/tzzhsk538",
+  "name": "Bethany Lutheran Church",
+  "displayName": "Bethany Lutheran Church",
+  "address": {
+    "street": "76 W Crystal Lake Ave",
+    "city": "Crystal Lake",
+    "state": "IL",
+    "zip": "60014-6155"
+  },
+  "coordinates": {
+    "latitude": 42.24142074584961,
+    "longitude": -88.32364273071289
+  },
+  "website": "https://bethanylc.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f072ff68-69df-407c-a5d3-89d9a8c7e501",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f072ff68-69df-407c-a5d3-89d9a8c7e501"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanylc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362949408"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dstvd3r07",
+  "url": "https://constellation.church/dstvd3r07",
+  "name": "St Martin Lutheran Church",
+  "displayName": "St. Martin Lutheran Church",
+  "address": {
+    "street": "13849 Hollingsworth Rd",
+    "city": "Kansas City",
+    "state": "KS",
+    "zip": "66109-3832"
+  },
+  "coordinates": {
+    "latitude": 39.1723011,
+    "longitude": -94.8993036
+  },
+  "website": "https://saintmartinlutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=482c8fc4-b70a-4887-904f-49caa8059712",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "482c8fc4-b70a-4887-904f-49caa8059712"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintmartinlutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237044968"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "yzcjn2f57",
+  "url": "https://constellation.church/yzcjn2f57",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "116 Inner Dr",
+    "city": "Le Sueur",
+    "state": "MN",
+    "zip": "56058-2120"
+  },
+  "coordinates": {
+    "latitude": 44.452999114990234,
+    "longitude": -93.9086685180664
+  },
+  "website": "https://firstlutheranlesueur.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9245c997-c75b-493c-b3ad-20b7e2e09ccc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9245c997-c75b-493c-b3ad-20b7e2e09ccc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranlesueur.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416027714"
+    }
+  ],
+  "advisories": []
+}

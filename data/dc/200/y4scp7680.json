@@ -1,0 +1,33 @@
+{
+  "id": "y4scp7680",
+  "url": "https://constellation.church/y4scp7680",
+  "name": "Grace Episcopal Church, Georgetown",
+  "displayName": "Grace Episcopal Church, Georgetown",
+  "address": {
+    "street": "1041 Wisconsin Ave., NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20007"
+  },
+  "coordinates": {
+    "latitude": 38.903663635253906,
+    "longitude": -77.06235885620117
+  },
+  "website": "https://gracedc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/washington/list/grace-episcopal-church-georgetown",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "washington/grace-episcopal-church-georgetown"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracedc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520900273"
+    }
+  ],
+  "advisories": []
+}

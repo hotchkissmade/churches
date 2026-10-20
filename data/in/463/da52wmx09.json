@@ -1,0 +1,33 @@
+{
+  "id": "da52wmx09",
+  "url": "https://constellation.church/da52wmx09",
+  "name": "Munster Church",
+  "displayName": "Munster Church",
+  "address": {
+    "street": "214 Ridge Rd",
+    "city": "Munster",
+    "state": "IN",
+    "zip": "46321"
+  },
+  "coordinates": {
+    "latitude": 41.56268310546875,
+    "longitude": -87.5217170715332
+  },
+  "website": "https://munster.church",
+  "listingUrl": "https://www.crcna.org/churches/5648",
+  "identifiers": [
+    {
+      "namespace": "org.crcna.id",
+      "value": "5648"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "munster.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "350998739"
+    }
+  ],
+  "advisories": []
+}

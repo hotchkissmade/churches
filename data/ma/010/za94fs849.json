@@ -1,0 +1,29 @@
+{
+  "id": "za94fs849",
+  "url": "https://constellation.church/za94fs849",
+  "name": "Bethlehem Church",
+  "displayName": "Bethlehem Church",
+  "address": {
+    "street": "123 Allen Street",
+    "city": "Hampden",
+    "state": "MA",
+    "zip": "01036"
+  },
+  "coordinates": {
+    "latitude": 42.0643253326416,
+    "longitude": -72.44874572753906
+  },
+  "website": null,
+  "listingUrl": "https://churches.sbc.net/church/bethlehem-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bethlehem-church-2"
+    },
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "bethlehem-baptist-church"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nmhxv2b38",
+  "url": "https://constellation.church/nmhxv2b38",
+  "name": "Mount Zion Lutheran Church",
+  "displayName": "Mount Zion Lutheran Church",
+  "address": {
+    "street": "1600 Ridge Rd",
+    "city": "New Market",
+    "state": "VA",
+    "zip": "22844-2204"
+  },
+  "coordinates": {
+    "latitude": 38.68178367614746,
+    "longitude": -78.7233772277832
+  },
+  "website": "https://mtzion-newmarket.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e02ca6f0-fda1-4871-9433-bbbf4612dc1d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e02ca6f0-fda1-4871-9433-bbbf4612dc1d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mtzion-newmarket.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541253762"
+    }
+  ],
+  "advisories": []
+}

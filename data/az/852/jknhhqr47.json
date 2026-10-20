@@ -1,0 +1,33 @@
+{
+  "id": "jknhhqr47",
+  "url": "https://constellation.church/jknhhqr47",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "161 N Mesa Dr",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85201"
+  },
+  "coordinates": {
+    "latitude": 33.41903495788574,
+    "longitude": -111.8225326538086
+  },
+  "website": "https://fpcmesa.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/22/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "22"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcmesa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "866007618"
+    }
+  ],
+  "advisories": []
+}

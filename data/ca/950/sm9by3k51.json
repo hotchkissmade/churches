@@ -1,0 +1,37 @@
+{
+  "id": "sm9by3k51",
+  "url": "https://constellation.church/sm9by3k51",
+  "name": "St. Nicholas Church",
+  "displayName": "St. Nicholas Church",
+  "address": {
+    "street": "14220 Elva Ave",
+    "city": "Saratoga",
+    "state": "CA",
+    "zip": "95070"
+  },
+  "coordinates": {
+    "latitude": 37.26145362854004,
+    "longitude": -122.03760528564453
+  },
+  "website": "https://stnicholassaratoga.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-we-sarsnc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-we-sarsnc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stnicholassaratoga.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "770009374"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "954705483"
+    }
+  ],
+  "advisories": []
+}

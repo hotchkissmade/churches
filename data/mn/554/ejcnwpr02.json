@@ -1,0 +1,33 @@
+{
+  "id": "ejcnwpr02",
+  "url": "https://constellation.church/ejcnwpr02",
+  "name": "Breck School",
+  "displayName": "Breck School",
+  "address": {
+    "street": "123 Ottawa Avenue North",
+    "city": "Golden Valley",
+    "state": "MN",
+    "zip": "55422"
+  },
+  "coordinates": {
+    "latitude": 44.9811283,
+    "longitude": -93.3424552
+  },
+  "website": "https://breckschool.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/breck-school",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/breck-school"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "breckschool.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410693894"
+    }
+  ],
+  "advisories": []
+}

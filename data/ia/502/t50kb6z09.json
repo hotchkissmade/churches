@@ -1,0 +1,37 @@
+{
+  "id": "t50kb6z09",
+  "url": "https://constellation.church/t50kb6z09",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "2715 Iowa St",
+    "city": "Perry",
+    "state": "IA",
+    "zip": "50220"
+  },
+  "coordinates": {
+    "latitude": 41.83427429199219,
+    "longitude": -94.08357238769531
+  },
+  "website": "https://trinityperry.org",
+  "listingUrl": "https://idwlcms.org/congregation.php?id=130",
+  "identifiers": [
+    {
+      "namespace": "org.idwlcms.id",
+      "value": "130"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityperry.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420947346"
+    },
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "709066"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "q4kgdb055",
+  "url": "https://constellation.church/q4kgdb055",
+  "name": "Vashon Lutheran Church",
+  "displayName": "Vashon Lutheran Church",
+  "address": {
+    "street": "18623 Vashon Hwy SW",
+    "city": "Vashon",
+    "state": "WA",
+    "zip": "98070-5211"
+  },
+  "coordinates": {
+    "latitude": 47.43763732910156,
+    "longitude": -122.46177673339844
+  },
+  "website": "https://vashonlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d4b3ab50-491a-4641-9dbe-6f139199746e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d4b3ab50-491a-4641-9dbe-6f139199746e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "vashonlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911259981"
+    }
+  ],
+  "advisories": []
+}

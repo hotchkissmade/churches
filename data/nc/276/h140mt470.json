@@ -1,0 +1,33 @@
+{
+  "id": "h140mt470",
+  "url": "https://constellation.church/h140mt470",
+  "name": "New Hope Baptist Church",
+  "displayName": "New Hope Baptist Church",
+  "address": {
+    "street": "4301 Louisburg Rd",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27604"
+  },
+  "coordinates": {
+    "latitude": 35.84317207336426,
+    "longitude": -78.57466888427734
+  },
+  "website": "https://newhoperaleigh.org",
+  "listingUrl": "https://churches.sbc.net/church/new-hope-baptist-church-86/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-hope-baptist-church-86"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newhoperaleigh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "562066279"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "v4mms1037",
+  "url": "https://constellation.church/v4mms1037",
+  "name": "New Hope Lutheran Church",
+  "displayName": "New Hope Lutheran Church",
+  "address": {
+    "street": "E9085 County Road V",
+    "city": "Sand Creek",
+    "state": "WI",
+    "zip": "54765"
+  },
+  "coordinates": {
+    "latitude": 45.16895294189453,
+    "longitude": -91.69786834716797
+  },
+  "website": "https://newhopescpc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4fcb89a0-8d5f-49d0-8c06-c347b26858b8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4fcb89a0-8d5f-49d0-8c06-c347b26858b8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newhopescpc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391504433"
+    }
+  ],
+  "advisories": []
+}

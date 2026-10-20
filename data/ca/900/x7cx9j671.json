@@ -1,0 +1,33 @@
+{
+  "id": "x7cx9j671",
+  "url": "https://constellation.church/x7cx9j671",
+  "name": "Village Lutheran Church",
+  "displayName": "Village Lutheran Church",
+  "address": {
+    "street": "343 S Church Ln",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90049-3037"
+  },
+  "coordinates": {
+    "latitude": 34.067792892456055,
+    "longitude": -118.46295928955078
+  },
+  "website": "https://villagechurchbrentwood.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bd457e07-71c6-4c12-84d7-fef3270402aa",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bd457e07-71c6-4c12-84d7-fef3270402aa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "villagechurchbrentwood.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "842898655"
+    }
+  ],
+  "advisories": []
+}

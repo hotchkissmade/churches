@@ -1,0 +1,33 @@
+{
+  "id": "crt56ra12",
+  "url": "https://constellation.church/crt56ra12",
+  "name": "St. Paul's Episcopal School",
+  "displayName": "St. Paul's Episcopal School",
+  "address": {
+    "street": "116 Montecito Avenue",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94610"
+  },
+  "coordinates": {
+    "latitude": 37.8112407,
+    "longitude": -122.2599861
+  },
+  "website": "https://stpaulsoakland.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/california/list/st-pauls-episcopal-school",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "california/st-pauls-episcopal-school"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsoakland.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941525621"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vgt389875",
+  "url": "https://constellation.church/vgt389875",
+  "name": "Advent Lutheran Church",
+  "displayName": "Advent Lutheran Church",
+  "address": {
+    "street": "3232 Washington Rd",
+    "city": "Augusta",
+    "state": "GA",
+    "zip": "30907-3824"
+  },
+  "coordinates": {
+    "latitude": 33.51426124572754,
+    "longitude": -82.06427383422852
+  },
+  "website": "https://adventaugusta.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e7f51d46-7d51-464b-b049-0d5ad3d7e29c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e7f51d46-7d51-464b-b049-0d5ad3d7e29c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "adventaugusta.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581272454"
+    }
+  ],
+  "advisories": []
+}

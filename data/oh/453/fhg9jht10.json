@@ -1,0 +1,33 @@
+{
+  "id": "fhg9jht10",
+  "url": "https://constellation.church/fhg9jht10",
+  "name": "The Ridge Community Church",
+  "displayName": "The Ridge Community Church",
+  "address": {
+    "street": "7555 Brookville Phillipsburg Rd # R",
+    "city": "Brookville",
+    "state": "OH",
+    "zip": "45309"
+  },
+  "coordinates": {
+    "latitude": 39.855133056640625,
+    "longitude": -84.40966033935547
+  },
+  "website": "https://theridgechurch.net",
+  "listingUrl": "https://churches.sbc.net/church/the-ridge-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-ridge-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "theridgechurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311551938"
+    }
+  ],
+  "advisories": []
+}

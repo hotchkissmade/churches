@@ -1,0 +1,33 @@
+{
+  "id": "pab9sgv70",
+  "url": "https://constellation.church/pab9sgv70",
+  "name": "Genesis Church, Mexico",
+  "displayName": "Genesis Church, Mexico",
+  "address": {
+    "street": "1127 Adams St",
+    "city": "Mexico",
+    "state": "MO",
+    "zip": "65265"
+  },
+  "coordinates": {
+    "latitude": 39.16090965270996,
+    "longitude": -91.8973388671875
+  },
+  "website": "https://genesisbegins.com",
+  "listingUrl": "https://churches.sbc.net/church/genesis-church-mexico/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "genesis-church-mexico"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "genesisbegins.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "475056001"
+    }
+  ],
+  "advisories": []
+}

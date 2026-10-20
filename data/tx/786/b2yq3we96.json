@@ -1,0 +1,33 @@
+{
+  "id": "b2yq3we96",
+  "url": "https://constellation.church/b2yq3we96",
+  "name": "Cedar Pointe Baptist Church",
+  "displayName": "Cedar Pointe Baptist Church",
+  "address": {
+    "street": "1435 Main St",
+    "city": "Cedar Park",
+    "state": "TX",
+    "zip": "78613"
+  },
+  "coordinates": {
+    "latitude": 30.52700424194336,
+    "longitude": -97.82595825195312
+  },
+  "website": "https://cedarpointechurch.org",
+  "listingUrl": "https://churches.sbc.net/church/cedar-pointe-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cedar-pointe-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cedarpointechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "474836870"
+    }
+  ],
+  "advisories": []
+}

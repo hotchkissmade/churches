@@ -1,0 +1,33 @@
+{
+  "id": "nppq89c02",
+  "url": "https://constellation.church/nppq89c02",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "203 N Almer St",
+    "city": "Caro",
+    "state": "MI",
+    "zip": "48723"
+  },
+  "coordinates": {
+    "latitude": 43.49121856689453,
+    "longitude": -83.39737319946289
+  },
+  "website": "https://carofirst.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/3202/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "3202"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "carofirst.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510156844"
+    }
+  ],
+  "advisories": []
+}

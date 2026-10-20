@@ -1,0 +1,33 @@
+{
+  "id": "q89bjrp96",
+  "url": "https://constellation.church/q89bjrp96",
+  "name": "Hope Lutheran Church",
+  "displayName": "Hope Lutheran Church",
+  "address": {
+    "street": "2152 W Graf St",
+    "city": "Bozeman",
+    "state": "MT",
+    "zip": "59718-9259"
+  },
+  "coordinates": {
+    "latitude": 45.6486930847168,
+    "longitude": -111.06595611572266
+  },
+  "website": "https://hopebozeman.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3e20cda4-31c2-4b11-b71a-abeef0f997e1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3e20cda4-31c2-4b11-b71a-abeef0f997e1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopebozeman.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810258274"
+    }
+  ],
+  "advisories": []
+}

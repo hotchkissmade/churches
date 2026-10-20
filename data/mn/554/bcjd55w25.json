@@ -1,0 +1,33 @@
+{
+  "id": "bcjd55w25",
+  "url": "https://constellation.church/bcjd55w25",
+  "name": "Episcopal Church in Minnesota",
+  "displayName": "Episcopal Church in Minnesota",
+  "address": {
+    "street": "1101 W. Broadway, 2nd Floor",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55411"
+  },
+  "coordinates": {
+    "latitude": 44.99909591674805,
+    "longitude": -93.29441833496094
+  },
+  "website": "https://episcopalmn.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/episcopal-church-minnesota",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/episcopal-church-minnesota"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "episcopalmn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410694727"
+    }
+  ],
+  "advisories": []
+}

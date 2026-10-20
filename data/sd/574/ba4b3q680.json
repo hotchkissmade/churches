@@ -1,0 +1,33 @@
+{
+  "id": "ba4b3q680",
+  "url": "https://constellation.church/ba4b3q680",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "915 S Dakota St",
+    "city": "Aberdeen",
+    "state": "SD",
+    "zip": "57401-6362"
+  },
+  "coordinates": {
+    "latitude": 45.45509338378906,
+    "longitude": -98.47431182861328
+  },
+  "website": "https://trinityaberdeen.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24134",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24134"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityaberdeen.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237226655"
+    }
+  ],
+  "advisories": []
+}

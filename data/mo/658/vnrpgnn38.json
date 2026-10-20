@@ -1,0 +1,37 @@
+{
+  "id": "vnrpgnn38",
+  "url": "https://constellation.church/vnrpgnn38",
+  "name": "Central Assembly of God",
+  "displayName": "Central Assembly of God",
+  "address": {
+    "street": "1301 N Boonville Ave",
+    "city": "Springfield",
+    "state": "MO",
+    "zip": "65802"
+  },
+  "coordinates": {
+    "latitude": 37.222625732421875,
+    "longitude": -93.29269409179688
+  },
+  "website": "https://centralassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d44b1874-a0c5-4e7f-b7fc-2a338206910f&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d44b1874-a0c5-4e7f-b7fc-2a338206910f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centralassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440557850"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "454759903"
+    }
+  ],
+  "advisories": []
+}

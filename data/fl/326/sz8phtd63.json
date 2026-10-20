@@ -1,0 +1,33 @@
+{
+  "id": "sz8phtd63",
+  "url": "https://constellation.church/sz8phtd63",
+  "name": "First Baptist Church of Waldo",
+  "displayName": "First Baptist Church of Waldo",
+  "address": {
+    "street": "14370 Kennard St",
+    "city": "Waldo",
+    "state": "FL",
+    "zip": "32694"
+  },
+  "coordinates": {
+    "latitude": 29.78709602355957,
+    "longitude": -82.1725082397461
+  },
+  "website": "https://fbcwaldo.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-waldo/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-waldo"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcwaldo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591864019"
+    }
+  ],
+  "advisories": []
+}

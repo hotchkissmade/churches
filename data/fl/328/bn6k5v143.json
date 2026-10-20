@@ -1,0 +1,33 @@
+{
+  "id": "bn6k5v143",
+  "url": "https://constellation.church/bn6k5v143",
+  "name": "University Presbyterian Church",
+  "displayName": "University Presbyterian Church",
+  "address": {
+    "street": "2562 Rouse Road",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32817"
+  },
+  "coordinates": {
+    "latitude": 28.5819208,
+    "longitude": -81.2247953
+  },
+  "website": "https://upcorlando.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/281",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "281"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "upcorlando.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593048350"
+    }
+  ],
+  "advisories": []
+}

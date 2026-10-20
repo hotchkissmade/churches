@@ -1,0 +1,33 @@
+{
+  "id": "hv7dpnp06",
+  "url": "https://constellation.church/hv7dpnp06",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "605 Highland Ave",
+    "city": "Brownsville",
+    "state": "WI",
+    "zip": "53006-0370"
+  },
+  "coordinates": {
+    "latitude": 43.61506652832031,
+    "longitude": -88.49087524414062
+  },
+  "website": "https://stpaulsbrownsville.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24786",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24786"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsbrownsville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396008379"
+    }
+  ],
+  "advisories": []
+}

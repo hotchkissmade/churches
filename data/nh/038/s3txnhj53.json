@@ -1,0 +1,33 @@
+{
+  "id": "s3txnhj53",
+  "url": "https://constellation.church/s3txnhj53",
+  "name": "The Lutheran Church Of The Nativity",
+  "displayName": "The Lutheran Church Of The Nativity",
+  "address": {
+    "street": "15 Grove St",
+    "city": "North Conway",
+    "state": "NH",
+    "zip": "03860-5310"
+  },
+  "coordinates": {
+    "latitude": 44.05022430419922,
+    "longitude": -71.12525939941406
+  },
+  "website": "https://nativitylutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d0bbf984-c275-4a82-9948-019ac8795d9e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d0bbf984-c275-4a82-9948-019ac8795d9e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nativitylutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "020443815"
+    }
+  ],
+  "advisories": []
+}

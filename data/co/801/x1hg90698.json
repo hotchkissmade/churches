@@ -1,0 +1,33 @@
+{
+  "id": "x1hg90698",
+  "url": "https://constellation.church/x1hg90698",
+  "name": "Joy Lutheran Church",
+  "displayName": "Joy Lutheran Church",
+  "address": {
+    "street": "7051 Parker Hills Ct",
+    "city": "Parker",
+    "state": "CO",
+    "zip": "80138-7922"
+  },
+  "coordinates": {
+    "latitude": 39.52619743347168,
+    "longitude": -104.75531005859375
+  },
+  "website": "https://joylc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5779c329-8436-4033-935b-8990816a51ff",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5779c329-8436-4033-935b-8990816a51ff"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "joylc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237430310"
+    }
+  ],
+  "advisories": []
+}

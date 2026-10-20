@@ -1,0 +1,33 @@
+{
+  "id": "rd12rt139",
+  "url": "https://constellation.church/rd12rt139",
+  "name": "The Orchard Church",
+  "displayName": "The Orchard Church",
+  "address": {
+    "street": "205 West Brook Dr",
+    "city": "Waynesville",
+    "state": "NC",
+    "zip": "28786"
+  },
+  "coordinates": {
+    "latitude": 35.44989204406738,
+    "longitude": -83.05866622924805
+  },
+  "website": "https://theorchardnc.com",
+  "listingUrl": "https://churches.sbc.net/church/the-orchard-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-orchard-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "theorchardnc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "852218967"
+    }
+  ],
+  "advisories": []
+}

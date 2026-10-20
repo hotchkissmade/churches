@@ -1,0 +1,33 @@
+{
+  "id": "dm37dnq11",
+  "url": "https://constellation.church/dm37dnq11",
+  "name": "Turning Point Church",
+  "displayName": "Turning Point Church",
+  "address": {
+    "street": "13200 Arctic Ave",
+    "city": "Rockville",
+    "state": "MD",
+    "zip": "20853"
+  },
+  "coordinates": {
+    "latitude": 39.07224464416504,
+    "longitude": -77.10010147094727
+  },
+  "website": "https://turningpointrockville.org",
+  "listingUrl": "https://churches.sbc.net/church/turning-point-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "turning-point-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "turningpointrockville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520974764"
+    }
+  ],
+  "advisories": []
+}

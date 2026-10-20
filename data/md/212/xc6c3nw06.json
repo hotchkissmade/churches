@@ -1,0 +1,33 @@
+{
+  "id": "xc6c3nw06",
+  "url": "https://constellation.church/xc6c3nw06",
+  "name": "House Of Glory, Baltimore",
+  "displayName": "RCCG House Of Glory, Baltimore",
+  "address": {
+    "street": "3601 Commerce Drive, Suite 107",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21227"
+  },
+  "coordinates": {
+    "latitude": 39.25202560424805,
+    "longitude": -76.67326354980469
+  },
+  "website": "https://rccghouseofglory.org/pages",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=206&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "206"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rccghouseofglory.org/pages"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "680514411"
+    }
+  ],
+  "advisories": []
+}

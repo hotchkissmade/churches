@@ -1,0 +1,33 @@
+{
+  "id": "rragttk30",
+  "url": "https://constellation.church/rragttk30",
+  "name": "Grace Church",
+  "displayName": "Grace Church",
+  "address": {
+    "street": "254 Hicks St",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11201"
+  },
+  "coordinates": {
+    "latitude": 40.694013595581055,
+    "longitude": -73.99679565429688
+  },
+  "website": "https://gracebrooklyn.org/grace-church-brooklyn-heights-calendar",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/grace-church-brooklyn-heights",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/grace-church-brooklyn-heights"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracebrooklyn.org/grace-church-brooklyn-heights-calendar"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "135650851"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "x9mzjr068",
+  "url": "https://constellation.church/x9mzjr068",
+  "name": "Church of Christ",
+  "displayName": "Church of Christ",
+  "address": {
+    "street": "240 Hamilton St",
+    "city": "Bridgeport",
+    "state": "CT",
+    "zip": "06608"
+  },
+  "coordinates": {
+    "latitude": 41.182416915893555,
+    "longitude": -73.17681503295898
+  },
+  "website": "https://churchofchristbpt.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=aed889dc-2505-4568-b1d0-8b3569ed8a60&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "aed889dc-2505-4568-b1d0-8b3569ed8a60"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchofchristbpt.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "061111118"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "264469986"
+    }
+  ],
+  "advisories": []
+}

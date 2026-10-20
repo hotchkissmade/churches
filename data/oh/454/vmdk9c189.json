@@ -1,0 +1,33 @@
+{
+  "id": "vmdk9c189",
+  "url": "https://constellation.church/vmdk9c189",
+  "name": "Dayton Chinese Christian Church",
+  "displayName": "Dayton Chinese Christian Church",
+  "address": {
+    "street": "600 Patterson Rd",
+    "city": "Dayton",
+    "state": "OH",
+    "zip": "45419"
+  },
+  "coordinates": {
+    "latitude": 39.72446250915527,
+    "longitude": -84.15930938720703
+  },
+  "website": "https://daytonccc.net",
+  "listingUrl": "https://churches.sbc.net/church/dayton-chinese-christian-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "dayton-chinese-christian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "daytonccc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311286582"
+    }
+  ],
+  "advisories": []
+}

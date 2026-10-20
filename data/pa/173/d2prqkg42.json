@@ -1,0 +1,33 @@
+{
+  "id": "d2prqkg42",
+  "url": "https://constellation.church/d2prqkg42",
+  "name": "Christ Evangelical Lutheran Church",
+  "displayName": "Christ Evangelical Lutheran Church",
+  "address": {
+    "street": "30 Chambersburg St",
+    "city": "Gettysburg",
+    "state": "PA",
+    "zip": "17325-1101"
+  },
+  "coordinates": {
+    "latitude": 39.830406188964844,
+    "longitude": -77.2325210571289
+  },
+  "website": "https://christgettysburg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fda7f055-1a39-4979-bcb5-6b49d24b9b11",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fda7f055-1a39-4979-bcb5-6b49d24b9b11"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christgettysburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231578712"
+    }
+  ],
+  "advisories": []
+}

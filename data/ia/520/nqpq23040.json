@@ -1,0 +1,33 @@
+{
+  "id": "nqpq23040",
+  "url": "https://constellation.church/nqpq23040",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "208 E Washington St",
+    "city": "Farmersburg",
+    "state": "IA",
+    "zip": "52047-9609"
+  },
+  "coordinates": {
+    "latitude": 42.96035957336426,
+    "longitude": -91.36436080932617
+  },
+  "website": "https://stjohn-farmersburg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b4f1a5d5-f3e6-4fe0-9970-1f9252c317f9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b4f1a5d5-f3e6-4fe0-9970-1f9252c317f9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohn-farmersburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420738965"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jfev5fk21",
+  "url": "https://constellation.church/jfev5fk21",
+  "name": "Northstar Church Pulaski",
+  "displayName": "Northstar Church Pulaski",
+  "address": {
+    "street": "246 W Main St",
+    "city": "Dublin",
+    "state": "VA",
+    "zip": "24084"
+  },
+  "coordinates": {
+    "latitude": 37.10382652282715,
+    "longitude": -80.68555450439453
+  },
+  "website": "https://northstarpulaski.org",
+  "listingUrl": "https://churches.sbc.net/church/northstar-church-pulaski/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northstar-church-pulaski"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northstarpulaski.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "833172898"
+    }
+  ],
+  "advisories": []
+}

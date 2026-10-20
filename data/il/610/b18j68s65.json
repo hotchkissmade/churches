@@ -1,0 +1,33 @@
+{
+  "id": "b18j68s65",
+  "url": "https://constellation.church/b18j68s65",
+  "name": "Apple River United Methodist Church",
+  "displayName": "Apple River United Methodist Church",
+  "address": {
+    "street": "102 E Baldwin Street",
+    "city": "Apple River",
+    "state": "IL",
+    "zip": "61001"
+  },
+  "coordinates": {
+    "latitude": 42.50429153442383,
+    "longitude": -90.0960922241211
+  },
+  "website": "https://appleriver-umc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKDhIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKDhIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "appleriver-umc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362340301"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ba7573410",
+  "url": "https://constellation.church/ba7573410",
+  "name": "Christ Presbyterian Church",
+  "displayName": "Christ Presbyterian Church",
+  "address": {
+    "street": "1402 19th Street",
+    "city": "Huntsville",
+    "state": "TX",
+    "zip": "77340"
+  },
+  "coordinates": {
+    "latitude": 30.714385986328125,
+    "longitude": -95.55474090576172
+  },
+  "website": "https://cpchuntsville.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6738",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6738"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cpchuntsville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920527957"
+    }
+  ],
+  "advisories": []
+}

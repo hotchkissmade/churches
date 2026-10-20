@@ -1,0 +1,33 @@
+{
+  "id": "w2eyn0h06",
+  "url": "https://constellation.church/w2eyn0h06",
+  "name": "Home Church",
+  "displayName": "Home Church",
+  "address": {
+    "street": "101 Parkway Rd",
+    "city": "Brandon",
+    "state": "MS",
+    "zip": "39047"
+  },
+  "coordinates": {
+    "latitude": 32.37995147705078,
+    "longitude": -90.03297424316406
+  },
+  "website": "https://homechurch.ms",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=c92f540e-d927-4f5a-9854-fac650d07aca&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "c92f540e-d927-4f5a-9854-fac650d07aca"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "homechurch.ms"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640880690"
+    }
+  ],
+  "advisories": []
+}

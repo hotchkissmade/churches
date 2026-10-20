@@ -1,0 +1,33 @@
+{
+  "id": "faf0md608",
+  "url": "https://constellation.church/faf0md608",
+  "name": "Heritage Presbyterian Church",
+  "displayName": "Heritage Presbyterian Church",
+  "address": {
+    "street": "140 Airport Road",
+    "city": "New Castle",
+    "state": "DE",
+    "zip": "19720"
+  },
+  "coordinates": {
+    "latitude": 39.66937828063965,
+    "longitude": -75.6321907043457
+  },
+  "website": "https://heritagepca.net",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1245",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1245"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "heritagepca.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236399320"
+    }
+  ],
+  "advisories": []
+}

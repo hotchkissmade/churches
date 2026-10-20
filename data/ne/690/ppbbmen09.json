@@ -1,0 +1,37 @@
+{
+  "id": "ppbbmen09",
+  "url": "https://constellation.church/ppbbmen09",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "811 E C St",
+    "city": "McCook",
+    "state": "NE",
+    "zip": "69001"
+  },
+  "coordinates": {
+    "latitude": 40.19951629638672,
+    "longitude": -100.61527252197266
+  },
+  "website": "https://mccookassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=0e45c948-328e-40fb-879c-b4a482abbec6&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "0e45c948-328e-40fb-879c-b4a482abbec6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mccookassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470440001"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470440004"
+    }
+  ],
+  "advisories": []
+}

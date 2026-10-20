@@ -1,0 +1,33 @@
+{
+  "id": "ce8da6f27",
+  "url": "https://constellation.church/ce8da6f27",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "555 Albany Street",
+    "city": "Little Falls",
+    "state": "NY",
+    "zip": "13365"
+  },
+  "coordinates": {
+    "latitude": 43.04313659667969,
+    "longitude": -74.85699462890625
+  },
+  "website": "https://firstbaptistlittlefalls.org",
+  "listingUrl": "https://venturechurches.org/churches/first-baptist-church-49/",
+  "identifiers": [
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "first-baptist-church-49"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistlittlefalls.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "150539062"
+    }
+  ],
+  "advisories": []
+}

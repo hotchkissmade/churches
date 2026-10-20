@@ -1,0 +1,33 @@
+{
+  "id": "gd0432e28",
+  "url": "https://constellation.church/gd0432e28",
+  "name": "Church in Piscataway",
+  "displayName": "Church in Piscataway",
+  "address": {
+    "street": "15 Seeley Ave",
+    "city": "Piscataway",
+    "state": "NJ",
+    "zip": "08854"
+  },
+  "coordinates": {
+    "latitude": 40.55445098876953,
+    "longitude": -74.43578720092773
+  },
+  "website": "https://churchinpiscataway.org",
+  "listingUrl": "https://localchurches.org/churches/piscataway-nj-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "piscataway-nj-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinpiscataway.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "331194852"
+    }
+  ],
+  "advisories": []
+}

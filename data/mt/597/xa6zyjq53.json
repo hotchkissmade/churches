@@ -1,0 +1,33 @@
+{
+  "id": "xa6zyjq53",
+  "url": "https://constellation.church/xa6zyjq53",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "225 S Black Ave",
+    "city": "Bozeman",
+    "state": "MT",
+    "zip": "59715-4715"
+  },
+  "coordinates": {
+    "latitude": 45.67658615112305,
+    "longitude": -111.03582000732422
+  },
+  "website": "https://firstlutheranbozeman.com/community",
+  "listingUrl": "https://locator.lcms.org/church/C/98170",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "98170"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranbozeman.com/community"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810391406"
+    }
+  ],
+  "advisories": []
+}

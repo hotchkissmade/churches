@@ -1,0 +1,33 @@
+{
+  "id": "arja2d709",
+  "url": "https://constellation.church/arja2d709",
+  "name": "First United Methodist Church of Delmar",
+  "displayName": "First United Methodist Church of Delmar",
+  "address": {
+    "street": "428 Kenwood Ave",
+    "city": "Delmar",
+    "state": "NY",
+    "zip": "12054-1806"
+  },
+  "coordinates": {
+    "latitude": 42.62287521362305,
+    "longitude": -73.83625411987305
+  },
+  "website": "https://delmarmethodist.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMiKIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMiKIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "delmarmethodist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "141414035"
+    }
+  ],
+  "advisories": []
+}

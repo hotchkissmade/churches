@@ -1,0 +1,33 @@
+{
+  "id": "v2vz4yx54",
+  "url": "https://constellation.church/v2vz4yx54",
+  "name": "St Mary",
+  "displayName": "St. Mary Coptic Orthodox Church",
+  "address": {
+    "street": "501 6th Ave S",
+    "city": "South St Paul",
+    "state": "MN",
+    "zip": "55075"
+  },
+  "coordinates": {
+    "latitude": 44.88340759277344,
+    "longitude": -93.04092407226562
+  },
+  "website": "https://stmarymn.org",
+  "listingUrl": "https://copticchurch.net/directory/church/79",
+  "identifiers": [
+    {
+      "namespace": "net.copticchurch.id",
+      "value": "79"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarymn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411360680"
+    }
+  ],
+  "advisories": []
+}

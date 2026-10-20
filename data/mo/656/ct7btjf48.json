@@ -1,0 +1,33 @@
+{
+  "id": "ct7btjf48",
+  "url": "https://constellation.church/ct7btjf48",
+  "name": "Golden Baptist Church",
+  "displayName": "Golden Baptist Church",
+  "address": {
+    "street": "28563 State Highway J",
+    "city": "Golden",
+    "state": "MO",
+    "zip": "65658"
+  },
+  "coordinates": {
+    "latitude": 36.52418327331543,
+    "longitude": -93.65531921386719
+  },
+  "website": "https://goldenbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/golden-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "golden-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goldenbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431308580"
+    }
+  ],
+  "advisories": []
+}

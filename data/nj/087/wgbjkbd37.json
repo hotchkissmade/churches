@@ -1,0 +1,33 @@
+{
+  "id": "wgbjkbd37",
+  "url": "https://constellation.church/wgbjkbd37",
+  "name": "Calvary Presbyterian Church",
+  "displayName": "Calvary Presbyterian Church",
+  "address": {
+    "street": "2263 Allenwood Road",
+    "city": "Allenwood",
+    "state": "NJ",
+    "zip": "08720"
+  },
+  "coordinates": {
+    "latitude": 40.14861488342285,
+    "longitude": -74.10466384887695
+  },
+  "website": "https://calvarynj.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/128",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "128"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "calvarynj.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222397238"
+    }
+  ],
+  "advisories": []
+}

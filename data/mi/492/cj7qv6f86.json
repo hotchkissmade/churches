@@ -1,0 +1,33 @@
+{
+  "id": "cj7qv6f86",
+  "url": "https://constellation.church/cj7qv6f86",
+  "name": "Camden United Methodist Church",
+  "displayName": "Camden United Methodist Church",
+  "address": {
+    "street": "205 S Main St",
+    "city": "Camden",
+    "state": "MI",
+    "zip": "49232"
+  },
+  "coordinates": {
+    "latitude": 41.75393295288086,
+    "longitude": -84.75738906860352
+  },
+  "website": "https://camdenumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMVbIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMVbIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "camdenumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510569693"
+    }
+  ],
+  "advisories": []
+}

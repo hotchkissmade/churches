@@ -1,0 +1,33 @@
+{
+  "id": "v69jm2756",
+  "url": "https://constellation.church/v69jm2756",
+  "name": "Iglesia Bautista Camino De Fe Monroe",
+  "displayName": "Iglesia Bautista Camino De Fe Monroe",
+  "address": {
+    "street": "10 North Main Street",
+    "city": "Monroe",
+    "state": "NY",
+    "zip": "10950"
+  },
+  "coordinates": {
+    "latitude": 41.32897186279297,
+    "longitude": -74.18704605102539
+  },
+  "website": "https://caminodefeny.com",
+  "listingUrl": "https://churches.sbc.net/church/iglesia-bautista-camino-de-fe-monroe/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "iglesia-bautista-camino-de-fe-monroe"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "caminodefeny.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "473982265"
+    }
+  ],
+  "advisories": []
+}

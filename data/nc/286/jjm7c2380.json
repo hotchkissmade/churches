@@ -1,0 +1,33 @@
+{
+  "id": "jjm7c2380",
+  "url": "https://constellation.church/jjm7c2380",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "1686 6th St SE",
+    "city": "Hickory",
+    "state": "NC",
+    "zip": "28602-9649"
+  },
+  "coordinates": {
+    "latitude": 35.70475196838379,
+    "longitude": -81.32624435424805
+  },
+  "website": "https://bethlehemhickory.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=19ca4f91-ae8d-44a3-b67a-9e08ae0eebc8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "19ca4f91-ae8d-44a3-b67a-9e08ae0eebc8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethlehemhickory.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "566133247"
+    }
+  ],
+  "advisories": []
+}

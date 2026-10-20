@@ -1,0 +1,33 @@
+{
+  "id": "fj2yqys26",
+  "url": "https://constellation.church/fj2yqys26",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "4 S Main St",
+    "city": "Richlandtown",
+    "state": "PA",
+    "zip": "18955"
+  },
+  "coordinates": {
+    "latitude": 40.47029495239258,
+    "longitude": -75.32099533081055
+  },
+  "website": "https://stjohnsrpa.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=47bd7ab1-4676-4edf-ada5-b7487381e11f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "47bd7ab1-4676-4edf-ada5-b7487381e11f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsrpa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232061270"
+    }
+  ],
+  "advisories": []
+}

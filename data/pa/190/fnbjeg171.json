@@ -1,0 +1,33 @@
+{
+  "id": "fnbjeg171",
+  "url": "https://constellation.church/fnbjeg171",
+  "name": "Real Church",
+  "displayName": "Real Church",
+  "address": {
+    "street": "301 Edwards Dr",
+    "city": "Brookhaven",
+    "state": "PA",
+    "zip": "19015"
+  },
+  "coordinates": {
+    "latitude": 39.87002372741699,
+    "longitude": -75.38848876953125
+  },
+  "website": "https://realchurchbrookhaven.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=24ee354d-602a-4084-bfef-346b338fad25&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "24ee354d-602a-4084-bfef-346b338fad25"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "realchurchbrookhaven.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232986412"
+    }
+  ],
+  "advisories": []
+}

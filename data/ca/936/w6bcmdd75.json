@@ -1,0 +1,33 @@
+{
+  "id": "w6bcmdd75",
+  "url": "https://constellation.church/w6bcmdd75",
+  "name": "Worship Centre Church",
+  "displayName": "Worship Centre Church",
+  "address": {
+    "street": "2830 E Manning Ave",
+    "city": "Fowler",
+    "state": "CA",
+    "zip": "93625"
+  },
+  "coordinates": {
+    "latitude": 36.60403251647949,
+    "longitude": -119.65514373779297
+  },
+  "website": "https://wcfowler.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ea799d06-148d-4965-92c7-cbd6d1e3ffac&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ea799d06-148d-4965-92c7-cbd6d1e3ffac"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wcfowler.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "020571215"
+    }
+  ],
+  "advisories": []
+}

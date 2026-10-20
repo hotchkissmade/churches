@@ -1,0 +1,33 @@
+{
+  "id": "f8dewd965",
+  "url": "https://constellation.church/f8dewd965",
+  "name": "Gethsemane Lutheran Church",
+  "displayName": "Gethsemane Lutheran Church",
+  "address": {
+    "street": "11560 SE Market St",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97216-3911"
+  },
+  "coordinates": {
+    "latitude": 45.5112361907959,
+    "longitude": -122.5442123413086
+  },
+  "website": "https://glcportland.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9b39709b-0851-4c74-8cc1-08a2bab37a42",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9b39709b-0851-4c74-8cc1-08a2bab37a42"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "glcportland.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930520854"
+    }
+  ],
+  "advisories": []
+}

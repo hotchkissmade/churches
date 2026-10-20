@@ -1,0 +1,33 @@
+{
+  "id": "vvdd32g45",
+  "url": "https://constellation.church/vvdd32g45",
+  "name": "First Baptist Church of Maryville",
+  "displayName": "First Baptist Church of Maryville",
+  "address": {
+    "street": "7110 SR 162",
+    "city": "Maryville",
+    "state": "IL",
+    "zip": "62062"
+  },
+  "coordinates": {
+    "latitude": 38.736610412597656,
+    "longitude": -89.93389129638672
+  },
+  "website": "https://fbmaryville.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-maryville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-maryville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbmaryville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371157537"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "by6x7g693",
+  "url": "https://constellation.church/by6x7g693",
+  "name": "Peace Lutheran Church",
+  "displayName": "Peace Lutheran Church",
+  "address": {
+    "street": "389 James St",
+    "city": "Holland",
+    "state": "MI",
+    "zip": "49424-6401"
+  },
+  "coordinates": {
+    "latitude": 42.81229782104492,
+    "longitude": -86.12501525878906
+  },
+  "website": "https://peaceelca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d746cdd8-4009-4282-aabe-c603301d8a23",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d746cdd8-4009-4282-aabe-c603301d8a23"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "peaceelca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "812374402"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "zcf6pjm48",
+  "url": "https://constellation.church/zcf6pjm48",
+  "name": "Landmark Baptist Church",
+  "displayName": "Landmark Baptist Church",
+  "address": {
+    "street": "4657 US 13 S",
+    "city": "Greenville",
+    "state": "NC",
+    "zip": "27834"
+  },
+  "coordinates": {
+    "latitude": 35.56857490539551,
+    "longitude": -77.44861221313477
+  },
+  "website": "https://landmarkbaptchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/landmark-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "landmark-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "landmarkbaptchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561159036"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gwzv2yd25",
+  "url": "https://constellation.church/gwzv2yd25",
+  "name": "Eastwood Presbyterian Church",
+  "displayName": "Eastwood Presbyterian Church",
+  "address": {
+    "street": "1701 East Trinity Boulevard",
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "36016"
+  },
+  "coordinates": {
+    "latitude": 32.3538875579834,
+    "longitude": -86.23234558105469
+  },
+  "website": "https://eastwoodchurch.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/335",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "335"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastwoodchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630821389"
+    }
+  ],
+  "advisories": []
+}

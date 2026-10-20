@@ -1,0 +1,33 @@
+{
+  "id": "gy6dgpq44",
+  "url": "https://constellation.church/gy6dgpq44",
+  "name": "Epiphany Lutheran Church",
+  "displayName": "Epiphany Lutheran Church",
+  "address": {
+    "street": "716 Lincoln Pl",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11216-4210"
+  },
+  "coordinates": {
+    "latitude": 40.6707824,
+    "longitude": -73.9525779
+  },
+  "website": "https://elsbrooklyn.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c58e5992-b94f-4519-8e8f-c6a31a43fb45",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c58e5992-b94f-4519-8e8f-c6a31a43fb45"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elsbrooklyn.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112225433"
+    }
+  ],
+  "advisories": []
+}

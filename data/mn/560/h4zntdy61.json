@@ -1,0 +1,33 @@
+{
+  "id": "h4zntdy61",
+  "url": "https://constellation.church/h4zntdy61",
+  "name": "Redeemer Lutheran Church",
+  "displayName": "Redeemer Lutheran Church",
+  "address": {
+    "street": "191 Water St",
+    "city": "Alden",
+    "state": "MN",
+    "zip": "56009-1108"
+  },
+  "coordinates": {
+    "latitude": 43.6720864,
+    "longitude": -93.5746603
+  },
+  "website": "https://redeemeralden.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=15b4eab8-fb70-4a3d-8a6f-57087ecec357",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "15b4eab8-fb70-4a3d-8a6f-57087ecec357"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemeralden.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416084158"
+    }
+  ],
+  "advisories": []
+}

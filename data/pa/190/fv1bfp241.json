@@ -1,0 +1,33 @@
+{
+  "id": "fv1bfp241",
+  "url": "https://constellation.church/fv1bfp241",
+  "name": "The Lutheran Church Of The Resurrection",
+  "displayName": "The Lutheran Church Of The Resurrection",
+  "address": {
+    "street": "1700 Makefield Rd",
+    "city": "Yardley",
+    "state": "PA",
+    "zip": "19067-3155"
+  },
+  "coordinates": {
+    "latitude": 40.217079162597656,
+    "longitude": -74.81969833374023
+  },
+  "website": "https://lcr-yardley.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cb1a8e60-b9aa-4f4a-a2f4-1980f47b00d5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cb1a8e60-b9aa-4f4a-a2f4-1980f47b00d5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcr-yardley.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236444164"
+    }
+  ],
+  "advisories": []
+}

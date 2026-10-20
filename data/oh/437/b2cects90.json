@@ -1,0 +1,33 @@
+{
+  "id": "b2cects90",
+  "url": "https://constellation.church/b2cects90",
+  "name": "Salem Chapel",
+  "displayName": "Salem Chapel",
+  "address": {
+    "street": "3975 Marietta Rd",
+    "city": "Junction City",
+    "state": "OH",
+    "zip": "43748"
+  },
+  "coordinates": {
+    "latitude": 39.682525634765625,
+    "longitude": -82.3331413269043
+  },
+  "website": "https://salemchapelub.org",
+  "listingUrl": "https://ub.org/churches/find-a-church/salem-chapel",
+  "identifiers": [
+    {
+      "namespace": "org.ub.id",
+      "value": "salem-chapel"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemchapelub.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311034146"
+    }
+  ],
+  "advisories": []
+}

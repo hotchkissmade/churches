@@ -1,0 +1,33 @@
+{
+  "id": "p3kcy3k23",
+  "url": "https://constellation.church/p3kcy3k23",
+  "name": "Uncommon Church",
+  "displayName": "Uncommon Church",
+  "address": {
+    "street": "601 E Airport Fwy",
+    "city": "Euless",
+    "state": "TX",
+    "zip": "76039"
+  },
+  "coordinates": {
+    "latitude": 32.839406967163086,
+    "longitude": -97.073974609375
+  },
+  "website": "https://uncommonchurch.tv",
+  "listingUrl": "https://rforw.pcg.org/ChurchDetails.aspx?contactID=1001434",
+  "identifiers": [
+    {
+      "namespace": "org.pcg.rforw.id",
+      "value": "1001434"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "uncommonchurch.tv"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752801839"
+    }
+  ],
+  "advisories": []
+}

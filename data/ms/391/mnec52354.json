@@ -1,0 +1,33 @@
+{
+  "id": "mnec52354",
+  "url": "https://constellation.church/mnec52354",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "3601 Halls Ferry Road",
+    "city": "Vicksburg",
+    "state": "MS",
+    "zip": "39180"
+  },
+  "coordinates": {
+    "latitude": 32.30819129943848,
+    "longitude": -90.87716674804688
+  },
+  "website": "https://wpcvicksburg.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1096",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1096"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wpcvicksburg.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640389414"
+    }
+  ],
+  "advisories": []
+}

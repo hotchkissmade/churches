@@ -1,0 +1,33 @@
+{
+  "id": "b9vt06y91",
+  "url": "https://constellation.church/b9vt06y91",
+  "name": "First Baptist Church of Punta Gorda",
+  "displayName": "First Baptist Church of Punta Gorda",
+  "address": {
+    "street": "459 Gill St",
+    "city": "Punta Gorda",
+    "state": "FL",
+    "zip": "33950"
+  },
+  "coordinates": {
+    "latitude": 26.9295597076416,
+    "longitude": -82.05214309692383
+  },
+  "website": "https://fbcpuntagorda.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-punta-gorda/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-punta-gorda"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcpuntagorda.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "596167083"
+    }
+  ],
+  "advisories": []
+}

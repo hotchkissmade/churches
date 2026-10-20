@@ -1,0 +1,33 @@
+{
+  "id": "sx8wap865",
+  "url": "https://constellation.church/sx8wap865",
+  "name": "Harbor Church",
+  "displayName": "Harbor Church",
+  "address": {
+    "street": "12619 Sarilda Ln",
+    "city": "Marion",
+    "state": "IL",
+    "zip": "62959"
+  },
+  "coordinates": {
+    "latitude": 37.62600517272949,
+    "longitude": -88.92538452148438
+  },
+  "website": "https://harborloe.com",
+  "listingUrl": "https://churches.sbc.net/church/harbor-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "harbor-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "harborloe.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "452648857"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "v81772g48",
+  "url": "https://constellation.church/v81772g48",
+  "name": "Holy Trinity Lutheran Church",
+  "displayName": "Holy Trinity Lutheran Church",
+  "address": {
+    "street": "1900 The Plaza",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28205-3030"
+  },
+  "coordinates": {
+    "latitude": 35.228111267089844,
+    "longitude": -80.80862426757812
+  },
+  "website": "https://htlccharlotte.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=294175e1-460d-4ef2-80e6-63717a260344",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "294175e1-460d-4ef2-80e6-63717a260344"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "htlccharlotte.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "566054186"
+    }
+  ],
+  "advisories": []
+}

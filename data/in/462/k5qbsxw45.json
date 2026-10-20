@@ -1,0 +1,33 @@
+{
+  "id": "k5qbsxw45",
+  "url": "https://constellation.church/k5qbsxw45",
+  "name": "Grace Presbyterian Church",
+  "displayName": "Grace Presbyterian Church",
+  "address": {
+    "street": "7900 Allisonville Road",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46250"
+  },
+  "coordinates": {
+    "latitude": 39.89819526672363,
+    "longitude": -86.08297729492188
+  },
+  "website": "https://gracepca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/529",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "529"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracepca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351349852"
+    }
+  ],
+  "advisories": []
+}

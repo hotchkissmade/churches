@@ -1,0 +1,33 @@
+{
+  "id": "ntyjjm949",
+  "url": "https://constellation.church/ntyjjm949",
+  "name": "Parma Evangelical Lutheran Church",
+  "displayName": "Parma Evangelical Lutheran Church",
+  "address": {
+    "street": "5280 Broadview Rd",
+    "city": "Parma",
+    "state": "OH",
+    "zip": "44134-1631"
+  },
+  "coordinates": {
+    "latitude": 41.41693115234375,
+    "longitude": -81.69529342651367
+  },
+  "website": "https://plcparma.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3c0ed6ef-1eed-4d33-ad4e-52882398f592",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3c0ed6ef-1eed-4d33-ad4e-52882398f592"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "plcparma.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340895367"
+    }
+  ],
+  "advisories": []
+}

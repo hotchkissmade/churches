@@ -1,0 +1,33 @@
+{
+  "id": "r597kca13",
+  "url": "https://constellation.church/r597kca13",
+  "name": "House On The Rock",
+  "displayName": "RCCG House On The Rock",
+  "address": {
+    "street": "4437 Matthew Road",
+    "city": "Grand Prairie",
+    "state": "TX",
+    "zip": "75052"
+  },
+  "coordinates": {
+    "latitude": 32.66231346130371,
+    "longitude": -97.02734375
+  },
+  "website": "https://hotrtx.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=284&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "284"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hotrtx.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "141866326"
+    }
+  ],
+  "advisories": []
+}

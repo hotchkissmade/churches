@@ -1,0 +1,33 @@
+{
+  "id": "qedq8fr82",
+  "url": "https://constellation.church/qedq8fr82",
+  "name": "First Baptist Church of Monticello",
+  "displayName": "First Baptist Church of Monticello",
+  "address": {
+    "street": "325 W Washington St",
+    "city": "Monticello",
+    "state": "FL",
+    "zip": "32344"
+  },
+  "coordinates": {
+    "latitude": 30.54490852355957,
+    "longitude": -83.87199401855469
+  },
+  "website": "https://fbcmonticello.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-monticello/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-monticello"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcmonticello.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592021692"
+    }
+  ],
+  "advisories": []
+}

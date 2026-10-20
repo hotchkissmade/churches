@@ -1,0 +1,33 @@
+{
+  "id": "gfw6af796",
+  "url": "https://constellation.church/gfw6af796",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "456 Spruce St",
+    "city": "Morgantown",
+    "state": "WV",
+    "zip": "26505-5532"
+  },
+  "coordinates": {
+    "latitude": 39.63090896606445,
+    "longitude": -79.95293807983398
+  },
+  "website": "https://firstpresmorgantown.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/9221/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "9221"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpresmorgantown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "550385728"
+    }
+  ],
+  "advisories": []
+}

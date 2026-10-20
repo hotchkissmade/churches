@@ -1,0 +1,33 @@
+{
+  "id": "ghmhfwp04",
+  "url": "https://constellation.church/ghmhfwp04",
+  "name": "White Plains Baptist Church",
+  "displayName": "White Plains Baptist Church",
+  "address": {
+    "street": "1435 Easley Hwy",
+    "city": "Pelzer",
+    "state": "SC",
+    "zip": "29669"
+  },
+  "coordinates": {
+    "latitude": 34.66925621032715,
+    "longitude": -82.5256576538086
+  },
+  "website": "https://wpbc.ws",
+  "listingUrl": "https://churches.sbc.net/church/white-plains-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "white-plains-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wpbc.ws"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570765751"
+    }
+  ],
+  "advisories": []
+}

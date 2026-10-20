@@ -1,0 +1,33 @@
+{
+  "id": "vbpdwwr07",
+  "url": "https://constellation.church/vbpdwwr07",
+  "name": "San Diego County",
+  "displayName": "San Diego County Christadelphian Ecclesia",
+  "address": {
+    "street": "651 W. 7th Ave.",
+    "city": "Escondido",
+    "state": "CA",
+    "zip": "92025"
+  },
+  "coordinates": {
+    "latitude": 33.112091,
+    "longitude": -117.085345
+  },
+  "website": "https://sdbible.com/contact",
+  "listingUrl": "https://christadelphia.org/ecclesialist.php?CA#San%20Diego%20County",
+  "identifiers": [
+    {
+      "namespace": "org.christadelphia.id",
+      "value": "CA#San Diego County"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sdbible.com/contact"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953368044"
+    }
+  ],
+  "advisories": []
+}

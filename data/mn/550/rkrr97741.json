@@ -1,0 +1,33 @@
+{
+  "id": "rkrr97741",
+  "url": "https://constellation.church/rkrr97741",
+  "name": "St John's Evangelical Lutheran Church",
+  "displayName": "St. John's Evangelical Lutheran Church",
+  "address": {
+    "street": "20165 Heath Ave",
+    "city": "Lakeville",
+    "state": "MN",
+    "zip": "55044-2601"
+  },
+  "coordinates": {
+    "latitude": 44.65744400024414,
+    "longitude": -93.23403930664062
+  },
+  "website": "https://sjlcl.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=babd63a5-4b46-4d0b-93b7-9a0de4c59763",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "babd63a5-4b46-4d0b-93b7-9a0de4c59763"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sjlcl.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410913981"
+    }
+  ],
+  "advisories": []
+}

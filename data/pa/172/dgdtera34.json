@@ -1,0 +1,33 @@
+{
+  "id": "dgdtera34",
+  "url": "https://constellation.church/dgdtera34",
+  "name": "Centerville Lutheran Church",
+  "displayName": "Centerville Lutheran Church",
+  "address": {
+    "street": "1874 Walnut Bottom Rd",
+    "city": "Newville",
+    "state": "PA",
+    "zip": "17241-9510"
+  },
+  "coordinates": {
+    "latitude": 40.112274169921875,
+    "longitude": -77.33437728881836
+  },
+  "website": "https://centervillelutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6efcc967-cafd-4095-8dff-bb65663e2f51",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6efcc967-cafd-4095-8dff-bb65663e2f51"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centervillelutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251499879"
+    }
+  ],
+  "advisories": []
+}

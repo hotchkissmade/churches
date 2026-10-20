@@ -1,0 +1,33 @@
+{
+  "id": "f2b8qhk40",
+  "url": "https://constellation.church/f2b8qhk40",
+  "name": "Plattsburgh United Methodist Church",
+  "displayName": "Plattsburgh United Methodist Church",
+  "address": {
+    "street": "127 Beekman Street",
+    "city": "Plattsburgh",
+    "state": "NY",
+    "zip": "12901"
+  },
+  "coordinates": {
+    "latitude": 44.7046012878418,
+    "longitude": -73.46809768676758
+  },
+  "website": "https://plattsburghumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMJzIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMJzIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "plattsburghumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "146011832"
+    }
+  ],
+  "advisories": []
+}

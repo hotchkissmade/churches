@@ -1,0 +1,33 @@
+{
+  "id": "hwhvd8m02",
+  "url": "https://constellation.church/hwhvd8m02",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "12 W 12th St",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10011-8604"
+  },
+  "coordinates": {
+    "latitude": 40.73732376098633,
+    "longitude": -73.99928665161133
+  },
+  "website": "https://fpcns.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/5608/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "5608"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcns.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900129826"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "e4vxgbd09",
+  "url": "https://constellation.church/e4vxgbd09",
+  "name": "Elias Lutheran Church",
+  "displayName": "Elias Lutheran Church",
+  "address": {
+    "street": "100 W North Ave",
+    "city": "Emmitsburg",
+    "state": "MD",
+    "zip": "21727-9252"
+  },
+  "coordinates": {
+    "latitude": 39.70557975769043,
+    "longitude": -77.32746505737305
+  },
+  "website": "https://eliaslutheranchurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=af390a6d-0814-400a-8839-444a721d9c4c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "af390a6d-0814-400a-8839-444a721d9c4c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eliaslutheranchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520629767"
+    }
+  ],
+  "advisories": []
+}

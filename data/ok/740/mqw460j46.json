@@ -1,0 +1,33 @@
+{
+  "id": "mqw460j46",
+  "url": "https://constellation.church/mqw460j46",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "499 4th Street",
+    "city": "Ramona",
+    "state": "OK",
+    "zip": "74061"
+  },
+  "coordinates": {
+    "latitude": 36.52976417541504,
+    "longitude": -95.92236328125
+  },
+  "website": "https://firstramona.com/our-worship-services",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-571/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-571"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstramona.com/our-worship-services"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953590769"
+    }
+  ],
+  "advisories": []
+}

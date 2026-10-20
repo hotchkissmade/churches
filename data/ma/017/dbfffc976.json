@@ -1,0 +1,33 @@
+{
+  "id": "dbfffc976",
+  "url": "https://constellation.church/dbfffc976",
+  "name": "Faith EFC",
+  "displayName": "Faith Evangelical Free Church",
+  "address": {
+    "street": "54 Hosmer St",
+    "city": "Acton",
+    "state": "MA",
+    "zip": "01720-5520"
+  },
+  "coordinates": {
+    "latitude": 42.47214889526367,
+    "longitude": -71.42453002929688
+  },
+  "website": "https://faithevfree.org",
+  "listingUrl": "https://churches.efca.org/?id=12489",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12489"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithevfree.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222502364"
+    }
+  ],
+  "advisories": []
+}

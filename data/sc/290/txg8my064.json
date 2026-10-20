@@ -1,0 +1,33 @@
+{
+  "id": "txg8my064",
+  "url": "https://constellation.church/txg8my064",
+  "name": "Chapin Presbyterian Church",
+  "displayName": "Chapin Presbyterian Church",
+  "address": {
+    "street": "600 Old Lexington Highway",
+    "city": "Chapin",
+    "state": "SC",
+    "zip": "29036"
+  },
+  "coordinates": {
+    "latitude": 34.15732765197754,
+    "longitude": -81.34792709350586
+  },
+  "website": "https://chapinpres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4482",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4482"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chapinpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "571134727"
+    }
+  ],
+  "advisories": []
+}

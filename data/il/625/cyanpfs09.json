@@ -1,0 +1,33 @@
+{
+  "id": "cyanpfs09",
+  "url": "https://constellation.church/cyanpfs09",
+  "name": "Saint Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "1 BACHRACH CT",
+    "city": "DECATUR",
+    "state": "IL",
+    "zip": "62526-1200"
+  },
+  "coordinates": {
+    "latitude": 39.894126892089844,
+    "longitude": -88.98704528808594
+  },
+  "website": "https://spldecatur.com",
+  "listingUrl": "https://locator.lcms.org/church/C/229587",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "229587"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "spldecatur.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370704585"
+    }
+  ],
+  "advisories": []
+}

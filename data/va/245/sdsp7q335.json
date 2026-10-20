@@ -1,0 +1,33 @@
+{
+  "id": "sdsp7q335",
+  "url": "https://constellation.church/sdsp7q335",
+  "name": "Alton Baptist Church",
+  "displayName": "Alton Baptist Church",
+  "address": {
+    "street": "5071 Harmony Rd",
+    "city": "Alton",
+    "state": "VA",
+    "zip": "24520"
+  },
+  "coordinates": {
+    "latitude": 36.572343826293945,
+    "longitude": -79.00298309326172
+  },
+  "website": "https://altonbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/alton-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "alton-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "altonbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541109446"
+    }
+  ],
+  "advisories": []
+}

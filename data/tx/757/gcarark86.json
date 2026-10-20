@@ -1,0 +1,33 @@
+{
+  "id": "gcarark86",
+  "url": "https://constellation.church/gcarark86",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "801 E Main St",
+    "city": "Whitehouse",
+    "state": "TX",
+    "zip": "75791"
+  },
+  "coordinates": {
+    "latitude": 32.22756767272949,
+    "longitude": -95.21382904052734
+  },
+  "website": "https://firstw.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-1009/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-1009"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstw.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751579717"
+    }
+  ],
+  "advisories": []
+}

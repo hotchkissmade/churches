@@ -1,0 +1,33 @@
+{
+  "id": "pba8hht79",
+  "url": "https://constellation.church/pba8hht79",
+  "name": "Swahili Lutheran Church",
+  "displayName": "Swahili Lutheran Church",
+  "address": {
+    "street": "222 M St SW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20024-3735"
+  },
+  "coordinates": {
+    "latitude": 38.8765402,
+    "longitude": -77.0142433
+  },
+  "website": "https://stmatthewdc.org/building",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8e290ca0-79c6-4577-bac2-256c50fd2dbb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8e290ca0-79c6-4577-bac2-256c50fd2dbb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmatthewdc.org/building"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "813604914"
+    }
+  ],
+  "advisories": []
+}

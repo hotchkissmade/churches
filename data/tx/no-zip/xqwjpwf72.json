@@ -1,0 +1,33 @@
+{
+  "id": "xqwjpwf72",
+  "url": "https://constellation.church/xqwjpwf72",
+  "name": "San Antonio Friends Meeting",
+  "displayName": "San Antonio Friends Meeting",
+  "address": {
+    "street": "7052 North Vandiver Rd",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 29.495546340942383,
+    "longitude": -98.44139862060547
+  },
+  "website": "https://saquakers.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/san-antonio-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "san-antonio-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saquakers.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742149316"
+    }
+  ],
+  "advisories": []
+}

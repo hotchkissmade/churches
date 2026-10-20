@@ -1,0 +1,33 @@
+{
+  "id": "cxgcbva84",
+  "url": "https://constellation.church/cxgcbva84",
+  "name": "Wiota Lutheran Church",
+  "displayName": "Wiota Lutheran Church",
+  "address": {
+    "street": "6650 Hwy 78N",
+    "city": "South Wayne",
+    "state": "WI",
+    "zip": "53587"
+  },
+  "coordinates": {
+    "latitude": 42.63618850708008,
+    "longitude": -89.94914627075195
+  },
+  "website": "https://wiotalutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dc26e191-a1a1-4d3b-910d-3ae08fc252c7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dc26e191-a1a1-4d3b-910d-3ae08fc252c7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wiotalutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391305180"
+    }
+  ],
+  "advisories": []
+}

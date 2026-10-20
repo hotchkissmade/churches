@@ -1,0 +1,33 @@
+{
+  "id": "tp1m38665",
+  "url": "https://constellation.church/tp1m38665",
+  "name": "Hidden Valley Community Church",
+  "displayName": "Hidden Valley Community Church",
+  "address": {
+    "street": "18160 Spruce Grove Ext Middletown",
+    "city": null,
+    "state": "CA",
+    "zip": "95461"
+  },
+  "coordinates": {
+    "latitude": 38.798362731933594,
+    "longitude": -122.57292938232422
+  },
+  "website": "https://hvcchurch.com/about",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=2bd46b5c-e701-470a-8ebd-86adda53c865&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "2bd46b5c-e701-470a-8ebd-86adda53c865"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hvcchurch.com/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "264186095"
+    }
+  ],
+  "advisories": []
+}

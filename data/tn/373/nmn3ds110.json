@@ -1,0 +1,33 @@
+{
+  "id": "nmn3ds110",
+  "url": "https://constellation.church/nmn3ds110",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "1161 Hiwassee Highway",
+    "city": "Dayton",
+    "state": "TN",
+    "zip": "37321"
+  },
+  "coordinates": {
+    "latitude": 35.46771049499512,
+    "longitude": -85.0195083618164
+  },
+  "website": "https://wpcdayton.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1325",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1325"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wpcdayton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621635309"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kcnspt961",
+  "url": "https://constellation.church/kcnspt961",
+  "name": "St James Lutheran Church",
+  "displayName": "St. James Lutheran Church",
+  "address": {
+    "street": "1380 N Waukegan Rd",
+    "city": "Lake Forest",
+    "state": "IL",
+    "zip": "60045-1147"
+  },
+  "coordinates": {
+    "latitude": 42.264976501464844,
+    "longitude": -87.87332153320312
+  },
+  "website": "https://stjameslutheran.org/contact-us",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c02c27b6-e5eb-4399-a9e2-08791988c8cd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c02c27b6-e5eb-4399-a9e2-08791988c8cd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjameslutheran.org/contact-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450308656"
+    }
+  ],
+  "advisories": []
+}

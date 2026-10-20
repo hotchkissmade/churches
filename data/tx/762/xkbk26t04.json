@@ -1,0 +1,33 @@
+{
+  "id": "xkbk26t04",
+  "url": "https://constellation.church/xkbk26t04",
+  "name": "Southmont Baptist Church",
+  "displayName": "Southmont Baptist Church",
+  "address": {
+    "street": "2801 Pennsylvania Dr",
+    "city": "Denton",
+    "state": "TX",
+    "zip": "76205"
+  },
+  "coordinates": {
+    "latitude": 33.17516899108887,
+    "longitude": -97.11823272705078
+  },
+  "website": "https://southmont.org",
+  "listingUrl": "https://churches.sbc.net/church/southmont-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "southmont-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southmont.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751685707"
+    }
+  ],
+  "advisories": []
+}

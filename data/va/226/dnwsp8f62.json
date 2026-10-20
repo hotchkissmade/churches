@@ -1,0 +1,33 @@
+{
+  "id": "dnwsp8f62",
+  "url": "https://constellation.church/dnwsp8f62",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "156 W Washington St",
+    "city": "Strasburg",
+    "state": "VA",
+    "zip": "22657-2146"
+  },
+  "coordinates": {
+    "latitude": 38.99081802368164,
+    "longitude": -78.36223220825195
+  },
+  "website": "https://stpaulstrasburgva.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c004122f-90b2-4953-ab98-69529c59b416",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c004122f-90b2-4953-ab98-69529c59b416"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulstrasburgva.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540718167"
+    }
+  ],
+  "advisories": []
+}

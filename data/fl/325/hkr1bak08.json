@@ -1,0 +1,33 @@
+{
+  "id": "hkr1bak08",
+  "url": "https://constellation.church/hkr1bak08",
+  "name": "Sylvania Heights First Baptist Church",
+  "displayName": "Sylvania Heights First Baptist Church",
+  "address": {
+    "street": "511 Lovejoy Rd NW",
+    "city": "Fort Walton Beach",
+    "state": "FL",
+    "zip": "32548"
+  },
+  "coordinates": {
+    "latitude": 30.425447463989258,
+    "longitude": -86.65737533569336
+  },
+  "website": "https://fwb.org/calendar.aspx",
+  "listingUrl": "https://churches.sbc.net/church/sylvania-heights-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sylvania-heights-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fwb.org/calendar.aspx"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593285238"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c8vmg2d27",
+  "url": "https://constellation.church/c8vmg2d27",
+  "name": "St Matthew Lutheran Church",
+  "displayName": "St. Matthew Lutheran Church",
+  "address": {
+    "street": "5709 Wedgwood Dr",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76133-2540"
+  },
+  "coordinates": {
+    "latitude": 32.665327072143555,
+    "longitude": -97.3915786743164
+  },
+  "website": "https://stmatthews-elca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5f392d04-2d4a-47e0-8af5-e9aa2e0b4e99",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5f392d04-2d4a-47e0-8af5-e9aa2e0b4e99"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmatthews-elca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "756197746"
+    }
+  ],
+  "advisories": []
+}

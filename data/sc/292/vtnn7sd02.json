@@ -1,0 +1,33 @@
+{
+  "id": "vtnn7sd02",
+  "url": "https://constellation.church/vtnn7sd02",
+  "name": "Ebenezer Lutheran Church",
+  "displayName": "Ebenezer Lutheran Church",
+  "address": {
+    "street": "1301 Richland St",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29201-2521"
+  },
+  "coordinates": {
+    "latitude": 34.01198768615723,
+    "longitude": -81.03596496582031
+  },
+  "website": "https://ebenezerlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0e42bef0-7155-45ff-a942-14b249b99f9f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0e42bef0-7155-45ff-a942-14b249b99f9f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ebenezerlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570327883"
+    }
+  ],
+  "advisories": []
+}

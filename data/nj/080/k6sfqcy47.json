@@ -1,0 +1,33 @@
+{
+  "id": "k6sfqcy47",
+  "url": "https://constellation.church/k6sfqcy47",
+  "name": "Lighthouse Church",
+  "displayName": "Lighthouse Church",
+  "address": {
+    "street": "716 Main St",
+    "city": "Lumberton",
+    "state": "NJ",
+    "zip": "08048"
+  },
+  "coordinates": {
+    "latitude": 39.9781436920166,
+    "longitude": -74.79841613769531
+  },
+  "website": "https://lhtchurch.tv",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=7aeb2b65-a475-4c9d-81e8-5287e701b572&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "7aeb2b65-a475-4c9d-81e8-5287e701b572"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lhtchurch.tv"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221958268"
+    }
+  ],
+  "advisories": []
+}

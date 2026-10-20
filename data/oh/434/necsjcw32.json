@@ -1,0 +1,33 @@
+{
+  "id": "necsjcw32",
+  "url": "https://constellation.church/necsjcw32",
+  "name": "St John's Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "212 N Clover St",
+    "city": "Fremont",
+    "state": "OH",
+    "zip": "43420-2407"
+  },
+  "coordinates": {
+    "latitude": 41.34768867492676,
+    "longitude": -83.11870956420898
+  },
+  "website": "https://stjohns-fremont.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=45f9c7d4-1123-4932-8679-f4fbe4288a12",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "45f9c7d4-1123-4932-8679-f4fbe4288a12"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohns-fremont.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "344428239"
+    }
+  ],
+  "advisories": []
+}

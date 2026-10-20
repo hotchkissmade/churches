@@ -1,0 +1,33 @@
+{
+  "id": "mmmdeay15",
+  "url": "https://constellation.church/mmmdeay15",
+  "name": "San Diego International Church",
+  "displayName": "San Diego International Church",
+  "address": {
+    "street": "4967 69th St",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92115"
+  },
+  "coordinates": {
+    "latitude": 32.76949119567871,
+    "longitude": -117.0491943359375
+  },
+  "website": "https://sdi.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=843e5966-046d-4ddf-abf9-1608447167f2&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "843e5966-046d-4ddf-abf9-1608447167f2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sdi.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953850356"
+    }
+  ],
+  "advisories": []
+}

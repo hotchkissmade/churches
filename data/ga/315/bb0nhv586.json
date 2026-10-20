@@ -1,0 +1,33 @@
+{
+  "id": "bb0nhv586",
+  "url": "https://constellation.church/bb0nhv586",
+  "name": "Sweetwater Baptist Church of Waycross, Inc.",
+  "displayName": "Sweetwater Baptist Church of Waycross",
+  "address": {
+    "street": "1305 Alice St",
+    "city": "Waycross",
+    "state": "GA",
+    "zip": "31501"
+  },
+  "coordinates": {
+    "latitude": 31.220258712768555,
+    "longitude": -82.3526840209961
+  },
+  "website": "https://sweetwaterwaycross1.odoo.com",
+  "listingUrl": "https://churches.sbc.net/church/sweetwater-baptist-church-of-waycross-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sweetwater-baptist-church-of-waycross-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sweetwaterwaycross1.odoo.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "586055414"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "egc97h095",
+  "url": "https://constellation.church/egc97h095",
+  "name": "Franklin Allegheny Wesleyan Methodist Church",
+  "displayName": "Franklin Allegheny Wesleyan Methodist Church",
+  "address": {
+    "street": "1337 Buffalo Street",
+    "city": "Franklin",
+    "state": "PA",
+    "zip": "16323"
+  },
+  "coordinates": {
+    "latitude": 41.39694023132324,
+    "longitude": -79.83355712890625
+  },
+  "website": "https://franklinwmchurch.com",
+  "listingUrl": "https://awmc.org/churches-franklin/",
+  "identifiers": [
+    {
+      "namespace": "org.awmc.id",
+      "value": "franklin"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "franklinwmchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "753150807"
+    }
+  ],
+  "advisories": []
+}

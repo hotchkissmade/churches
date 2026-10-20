@@ -1,0 +1,33 @@
+{
+  "id": "s42e4jh14",
+  "url": "https://constellation.church/s42e4jh14",
+  "name": "Alleluia Lutheran Church",
+  "displayName": "Alleluia Lutheran Church",
+  "address": {
+    "street": "4055 Book Rd",
+    "city": "Naperville",
+    "state": "IL",
+    "zip": "60564-9667"
+  },
+  "coordinates": {
+    "latitude": 41.69471740722656,
+    "longitude": -88.18729400634766
+  },
+  "website": "https://alleluialutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=969a0b2d-270e-4ddd-b38a-3a801e69cae2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "969a0b2d-270e-4ddd-b38a-3a801e69cae2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "alleluialutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363846156"
+    }
+  ],
+  "advisories": []
+}

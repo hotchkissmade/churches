@@ -1,0 +1,33 @@
+{
+  "id": "gqz2p0n07",
+  "url": "https://constellation.church/gqz2p0n07",
+  "name": "St. Nicholas Church",
+  "displayName": "St. Nicholas Church",
+  "address": {
+    "street": "102 Ross Ave",
+    "city": "San Anselmo",
+    "state": "CA",
+    "zip": "94960"
+  },
+  "coordinates": {
+    "latitude": 37.9715518951416,
+    "longitude": -122.56558227539062
+  },
+  "website": "https://stnicholasmarin.org/about-us/about-the-orthodox-church",
+  "listingUrl": "https://www.oca.org/parishes/oca-we-saasnc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-we-saasnc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stnicholasmarin.org/about-us/about-the-orthodox-church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "946120485"
+    }
+  ],
+  "advisories": []
+}

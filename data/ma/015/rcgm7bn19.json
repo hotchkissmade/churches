@@ -1,0 +1,33 @@
+{
+  "id": "rcgm7bn19",
+  "url": "https://constellation.church/rcgm7bn19",
+  "name": "Immanuel Chapel",
+  "displayName": "Immanuel Chapel",
+  "address": {
+    "street": "P.O. Box 265",
+    "city": "Upton",
+    "state": "MA",
+    "zip": "01568"
+  },
+  "coordinates": {
+    "latitude": 42.18625259399414,
+    "longitude": -71.59917831420898
+  },
+  "website": "https://immanuel-chapel.org",
+  "listingUrl": "https://opc.org/church.html?church_id=372",
+  "identifiers": [
+    {
+      "namespace": "org.opc.id",
+      "value": "372"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "immanuel-chapel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042636547"
+    }
+  ],
+  "advisories": []
+}

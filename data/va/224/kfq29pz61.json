@@ -1,0 +1,33 @@
+{
+  "id": "kfq29pz61",
+  "url": "https://constellation.church/kfq29pz61",
+  "name": "Coan Baptist Church",
+  "displayName": "Coan Baptist Church",
+  "address": {
+    "street": "2068 Coan Stage Rd",
+    "city": "Heathsville",
+    "state": "VA",
+    "zip": "22473"
+  },
+  "coordinates": {
+    "latitude": 37.925363540649414,
+    "longitude": -76.51398849487305
+  },
+  "website": "https://coanbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/coan-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "coan-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "coanbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "546045626"
+    }
+  ],
+  "advisories": []
+}

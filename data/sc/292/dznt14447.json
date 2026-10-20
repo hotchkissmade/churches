@@ -1,0 +1,33 @@
+{
+  "id": "dznt14447",
+  "url": "https://constellation.church/dznt14447",
+  "name": "Shandon Baptist Church",
+  "displayName": "Shandon Baptist Church",
+  "address": {
+    "street": "5250 Forest Dr",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29206"
+  },
+  "coordinates": {
+    "latitude": 34.02094841003418,
+    "longitude": -80.95713806152344
+  },
+  "website": "https://shandon.org",
+  "listingUrl": "https://churches.sbc.net/church/shandon-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "shandon-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "shandon.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570341196"
+    }
+  ],
+  "advisories": []
+}

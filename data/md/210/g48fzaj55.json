@@ -1,0 +1,33 @@
+{
+  "id": "g48fzaj55",
+  "url": "https://constellation.church/g48fzaj55",
+  "name": "St. Mary's Episcopal Church",
+  "displayName": "St. Mary's Episcopal Church",
+  "address": {
+    "street": "1 Saint Marys Church Rd",
+    "city": "Abingdon",
+    "state": "MD",
+    "zip": "21009-1569"
+  },
+  "coordinates": {
+    "latitude": 39.48888969421387,
+    "longitude": -76.31750869750977
+  },
+  "website": "https://stmarysharford.org/newsite",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maryland/list/st-marys-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maryland/st-marys-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarysharford.org/newsite"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "526018453"
+    }
+  ],
+  "advisories": []
+}

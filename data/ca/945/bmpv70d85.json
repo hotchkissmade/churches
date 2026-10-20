@@ -1,0 +1,33 @@
+{
+  "id": "bmpv70d85",
+  "url": "https://constellation.church/bmpv70d85",
+  "name": "Canyon Creek Presbyterian Church",
+  "displayName": "Canyon Creek Presbyterian Church",
+  "address": {
+    "street": "9015 South Gale Ridge Road",
+    "city": "San Ramon",
+    "state": "CA",
+    "zip": "94582"
+  },
+  "coordinates": {
+    "latitude": 37.77170181274414,
+    "longitude": -121.9311752319336
+  },
+  "website": "https://ccpc.church",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1162",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1162"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ccpc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "680152944"
+    }
+  ],
+  "advisories": []
+}

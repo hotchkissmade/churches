@@ -1,0 +1,33 @@
+{
+  "id": "q345pb304",
+  "url": "https://constellation.church/q345pb304",
+  "name": "First United Methodist Church of Westborough",
+  "displayName": "First United Methodist Church of Westborough",
+  "address": {
+    "street": "120 West Main Street",
+    "city": "Westborough",
+    "state": "MA",
+    "zip": "01581"
+  },
+  "coordinates": {
+    "latitude": 42.26359939575195,
+    "longitude": -71.62317276000977
+  },
+  "website": "https://firstumchurch.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PEzz1IAD",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PEzz1IAD"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstumchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "046077546"
+    }
+  ],
+  "advisories": []
+}

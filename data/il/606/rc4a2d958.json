@@ -1,0 +1,33 @@
+{
+  "id": "rc4a2d958",
+  "url": "https://constellation.church/rc4a2d958",
+  "name": "Covenant Presbyterian Church",
+  "displayName": "Covenant Presbyterian Church",
+  "address": {
+    "street": "2012 West Dickens Avenue",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60647"
+  },
+  "coordinates": {
+    "latitude": 41.91955757141113,
+    "longitude": -87.6783676147461
+  },
+  "website": "https://covenantchicago.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/279",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "279"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covenantchicago.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363205152"
+    }
+  ],
+  "advisories": []
+}

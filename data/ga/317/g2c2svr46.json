@@ -1,0 +1,33 @@
+{
+  "id": "g2c2svr46",
+  "url": "https://constellation.church/g2c2svr46",
+  "name": "The Church at the Groves",
+  "displayName": "The Church at the Groves",
+  "address": {
+    "street": "130 McIntosh Farms Rd",
+    "city": "Leesburg",
+    "state": "GA",
+    "zip": "31763"
+  },
+  "coordinates": {
+    "latitude": 31.636831283569336,
+    "longitude": -84.24257278442383
+  },
+  "website": "https://thegroves.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=36cb45e7-da54-42cc-8572-8cace9bed54a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "36cb45e7-da54-42cc-8572-8cace9bed54a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thegroves.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581144715"
+    }
+  ],
+  "advisories": []
+}

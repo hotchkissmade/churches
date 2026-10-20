@@ -1,0 +1,33 @@
+{
+  "id": "nvydef843",
+  "url": "https://constellation.church/nvydef843",
+  "name": "Gobles United Methodist Church",
+  "displayName": "Gobles United Methodist Church",
+  "address": {
+    "street": "210 E Exchange St",
+    "city": "Gobles",
+    "state": "MI",
+    "zip": "49055-0057"
+  },
+  "coordinates": {
+    "latitude": 42.35934066772461,
+    "longitude": -85.87687683105469
+  },
+  "website": "https://goblesumc.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMxGIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMxGIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goblesumc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382328516"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "z11gchd86",
+  "url": "https://constellation.church/z11gchd86",
+  "name": "Evansville United Methodist Church",
+  "displayName": "Evansville United Methodist Church",
+  "address": {
+    "street": "21 S Madison St",
+    "city": "Evansville",
+    "state": "WI",
+    "zip": "53536"
+  },
+  "coordinates": {
+    "latitude": 42.779563903808594,
+    "longitude": -89.29943084716797
+  },
+  "website": "https://eumcwi.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF41CIAT",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF41CIAT"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eumcwi.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391521947"
+    }
+  ],
+  "advisories": []
+}

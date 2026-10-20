@@ -1,0 +1,33 @@
+{
+  "id": "hwd1cxe35",
+  "url": "https://constellation.church/hwd1cxe35",
+  "name": "First Baptist Church of Welcome",
+  "displayName": "First Baptist Church of Welcome",
+  "address": {
+    "street": "6735 Port Tobacco Road",
+    "city": "Welcome",
+    "state": "MD",
+    "zip": "20693"
+  },
+  "coordinates": {
+    "latitude": 38.485036849975586,
+    "longitude": -77.1226577758789
+  },
+  "website": "https://firstbaptistwelcome.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-welcome/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-welcome"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistwelcome.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421745036"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jfsta3556",
+  "url": "https://constellation.church/jfsta3556",
+  "name": "The Avenue Church",
+  "displayName": "The Avenue Church",
+  "address": {
+    "street": "3030 Thatcher Ave",
+    "city": "Pueblo",
+    "state": "CO",
+    "zip": "81005"
+  },
+  "coordinates": {
+    "latitude": 38.25822639465332,
+    "longitude": -104.6469497680664
+  },
+  "website": "https://avenuepueblo.org",
+  "listingUrl": "https://churches.sbc.net/church/the-avenue-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-avenue-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "avenuepueblo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840507349"
+    }
+  ],
+  "advisories": []
+}

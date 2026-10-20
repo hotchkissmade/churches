@@ -1,0 +1,33 @@
+{
+  "id": "mhwbpk779",
+  "url": "https://constellation.church/mhwbpk779",
+  "name": "Chatham Baptist Church",
+  "displayName": "Chatham Baptist Church",
+  "address": {
+    "street": "1500 E Walnut St",
+    "city": "Chatham",
+    "state": "IL",
+    "zip": "62629"
+  },
+  "coordinates": {
+    "latitude": 39.676198959350586,
+    "longitude": -89.68692779541016
+  },
+  "website": "https://chathambaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/chatham-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "chatham-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chathambaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370969192"
+    }
+  ],
+  "advisories": []
+}

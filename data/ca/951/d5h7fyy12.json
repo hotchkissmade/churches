@@ -1,0 +1,33 @@
+{
+  "id": "d5h7fyy12",
+  "url": "https://constellation.church/d5h7fyy12",
+  "name": "St Francis Episcopal Church",
+  "displayName": "St. Francis Episcopal Church",
+  "address": {
+    "street": "1205 Pine Ave",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95125-3400"
+  },
+  "coordinates": {
+    "latitude": 37.296844482421875,
+    "longitude": -121.89781188964844
+  },
+  "website": "https://stfranciswillowglen.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-el-camino-real/list/st-francis-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-el-camino-real/st-francis-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stfranciswillowglen.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "946030027"
+    }
+  ],
+  "advisories": []
+}

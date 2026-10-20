@@ -1,0 +1,33 @@
+{
+  "id": "ef1gfdq72",
+  "url": "https://constellation.church/ef1gfdq72",
+  "name": "Deaf Church Knoxville",
+  "displayName": "Deaf Church Knoxville",
+  "address": {
+    "street": "3702 Knox Lane",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37917"
+  },
+  "coordinates": {
+    "latitude": 36.020830154418945,
+    "longitude": -83.89900207519531
+  },
+  "website": "https://deafchurchknoxville.org",
+  "listingUrl": "https://churches.sbc.net/church/deaf-church-knoxville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "deaf-church-knoxville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "deafchurchknoxville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "831157503"
+    }
+  ],
+  "advisories": []
+}

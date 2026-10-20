@@ -1,0 +1,33 @@
+{
+  "id": "gxbvc5240",
+  "url": "https://constellation.church/gxbvc5240",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "1410 Rogers St",
+    "city": "Stevens Point",
+    "state": "WI",
+    "zip": "54481-3048"
+  },
+  "coordinates": {
+    "latitude": 44.521976470947266,
+    "longitude": -89.57723999023438
+  },
+  "website": "https://trinitysp.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=45b82d4a-3803-4d5a-8903-55265ce8ac3d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "45b82d4a-3803-4d5a-8903-55265ce8ac3d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitysp.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391125112"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "amjxxdm90",
+  "url": "https://constellation.church/amjxxdm90",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "4420 Cheyenne Blvd",
+    "city": "Sioux City",
+    "state": "IA",
+    "zip": "51104"
+  },
+  "coordinates": {
+    "latitude": 42.545918,
+    "longitude": -96.393824
+  },
+  "website": "https://siouxcityfirst.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=7ca3f761-82fa-4c3c-9cea-e1212dddb236&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "7ca3f761-82fa-4c3c-9cea-e1212dddb236"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "siouxcityfirst.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420995410"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ts153nq11",
+  "url": "https://constellation.church/ts153nq11",
+  "name": "First Baptist Church Melissa",
+  "displayName": "First Baptist Church Melissa",
+  "address": {
+    "street": "2101 E Melissa Rd",
+    "city": "Melissa",
+    "state": "TX",
+    "zip": "75454"
+  },
+  "coordinates": {
+    "latitude": 33.28209114074707,
+    "longitude": -96.56663513183594
+  },
+  "website": "https://firstmelissa.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-melissa-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-melissa-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstmelissa.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751915111"
+    }
+  ],
+  "advisories": []
+}

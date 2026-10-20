@@ -1,0 +1,37 @@
+{
+  "id": "vak5pat86",
+  "url": "https://constellation.church/vak5pat86",
+  "name": "Daybreak Church",
+  "displayName": "Daybreak Church",
+  "address": {
+    "street": "1230 Kailua Rd",
+    "city": "Kailua",
+    "state": "HI",
+    "zip": "96734-4354"
+  },
+  "coordinates": {
+    "latitude": 21.384075164794922,
+    "longitude": -157.7537841796875
+  },
+  "website": "https://daybreakhawaii.church",
+  "listingUrl": "https://churches.efca.org/?id=266184",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "266184"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "daybreakhawaii.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "274366301"
+    },
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "daybreak-church"
+    }
+  ],
+  "advisories": []
+}

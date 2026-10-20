@@ -1,0 +1,33 @@
+{
+  "id": "vx0yfsr40",
+  "url": "https://constellation.church/vx0yfsr40",
+  "name": "First Baptist Church of Meadowdale",
+  "displayName": "First Baptist Church of Meadowdale",
+  "address": {
+    "street": "1715 Papoose Rd",
+    "city": "Carpentersville",
+    "state": "IL",
+    "zip": "60110"
+  },
+  "coordinates": {
+    "latitude": 42.13371658325195,
+    "longitude": -88.25300598144531
+  },
+  "website": "https://cville.org/344/places-of-worship",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-meadowdale/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-meadowdale"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cville.org/344/places-of-worship"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363003759"
+    }
+  ],
+  "advisories": []
+}

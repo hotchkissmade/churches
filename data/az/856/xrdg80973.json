@@ -1,0 +1,33 @@
+{
+  "id": "xrdg80973",
+  "url": "https://constellation.church/xrdg80973",
+  "name": "First Baptist Church of Sierra Vista AZ",
+  "displayName": "First Baptist Church of Sierra Vista AZ",
+  "address": {
+    "street": "1447 S 7th St",
+    "city": "Sierra Vista",
+    "state": "AZ",
+    "zip": "85635"
+  },
+  "coordinates": {
+    "latitude": 31.539031982421875,
+    "longitude": -110.29235076904297
+  },
+  "website": "https://fbc.academy",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-sierra-vista-az/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-sierra-vista-az"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbc.academy"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860462822"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "basbynv16",
+  "url": "https://constellation.church/basbynv16",
+  "name": "St. Joseph Church",
+  "displayName": "St. Joseph Church",
+  "address": {
+    "street": "412 Crescent St",
+    "city": "Wheaton",
+    "state": "IL",
+    "zip": "60187-5507"
+  },
+  "coordinates": {
+    "latitude": 41.86532783508301,
+    "longitude": -88.09983825683594
+  },
+  "website": "https://stjosephchurchwheaton.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-mw-aursjc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-mw-aursjc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjosephchurchwheaton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "364128638"
+    }
+  ],
+  "advisories": []
+}

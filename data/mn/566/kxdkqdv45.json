@@ -1,0 +1,33 @@
+{
+  "id": "kxdkqdv45",
+  "url": "https://constellation.church/kxdkqdv45",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "6810 Highway 2 NW",
+    "city": "Cass Lake",
+    "state": "MN",
+    "zip": "56633"
+  },
+  "coordinates": {
+    "latitude": 47.382442474365234,
+    "longitude": -94.64566802978516
+  },
+  "website": "https://tlccasslake.com/index.html",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=743ac41e-ec94-45ce-b7a2-1fb81fbf20e3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "743ac41e-ec94-45ce-b7a2-1fb81fbf20e3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlccasslake.com/index.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411475464"
+    }
+  ],
+  "advisories": []
+}

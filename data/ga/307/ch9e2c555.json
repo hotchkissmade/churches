@@ -1,0 +1,33 @@
+{
+  "id": "ch9e2c555",
+  "url": "https://constellation.church/ch9e2c555",
+  "name": "First Baptist Church of Chatsworth, Inc.",
+  "displayName": "First Baptist Church of Chatsworth",
+  "address": {
+    "street": "121 W Market St",
+    "city": "Chatsworth",
+    "state": "GA",
+    "zip": "30705"
+  },
+  "coordinates": {
+    "latitude": 34.76762580871582,
+    "longitude": -84.76984024047852
+  },
+  "website": "https://firstchatsworth.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-chatsworth-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-chatsworth-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstchatsworth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580809393"
+    }
+  ],
+  "advisories": []
+}

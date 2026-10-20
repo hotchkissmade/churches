@@ -1,0 +1,33 @@
+{
+  "id": "rb7ehw542",
+  "url": "https://constellation.church/rb7ehw542",
+  "name": "Antioch Baptist Church",
+  "displayName": "Antioch Baptist Church",
+  "address": {
+    "street": "16 Garden St C/O Sheraton Commander",
+    "city": "Cambridge",
+    "state": "MA",
+    "zip": "02138"
+  },
+  "coordinates": {
+    "latitude": 42.36721420288086,
+    "longitude": -71.17924118041992
+  },
+  "website": "https://antiochboston.org",
+  "listingUrl": "https://churches.sbc.net/church/antioch-baptist-church-82/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "antioch-baptist-church-82"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "antiochboston.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "043108030"
+    }
+  ],
+  "advisories": []
+}

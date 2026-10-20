@@ -1,0 +1,33 @@
+{
+  "id": "hyfsrce25",
+  "url": "https://constellation.church/hyfsrce25",
+  "name": "Ann Arbor",
+  "displayName": "Ann Arbor Christadelphian Ecclesia",
+  "address": {
+    "street": "5795 Pontiac Trail",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "zip": "48105"
+  },
+  "coordinates": {
+    "latitude": 42.36282920837402,
+    "longitude": -83.66381072998047
+  },
+  "website": "https://biblereadings.com/annarbor/webstreaming",
+  "listingUrl": "https://christadelphia.org/ecclesialist.php?MI#Ann%20Arbor",
+  "identifiers": [
+    {
+      "namespace": "org.christadelphia.id",
+      "value": "MI#Ann Arbor"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "biblereadings.com/annarbor/webstreaming"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "383460721"
+    }
+  ],
+  "advisories": []
+}

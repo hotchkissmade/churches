@@ -1,0 +1,33 @@
+{
+  "id": "dn0xw4z49",
+  "url": "https://constellation.church/dn0xw4z49",
+  "name": "Epiphany Lutheran Church",
+  "displayName": "Epiphany Lutheran Church",
+  "address": {
+    "street": "1400 Horsepen Rd",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "23226-3749"
+  },
+  "coordinates": {
+    "latitude": 37.596107482910156,
+    "longitude": -77.53120803833008
+  },
+  "website": "https://epiphanyelca.org/home/staff",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=98fe91e9-fab3-4051-8067-8ae70fa05f1a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "98fe91e9-fab3-4051-8067-8ae70fa05f1a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "epiphanyelca.org/home/staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231581834"
+    }
+  ],
+  "advisories": []
+}

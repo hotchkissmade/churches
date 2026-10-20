@@ -1,0 +1,37 @@
+{
+  "id": "c8zbmmd03",
+  "url": "https://constellation.church/c8zbmmd03",
+  "name": "The St. Michael School",
+  "displayName": "The St. Michael School",
+  "address": {
+    "street": "6345 Wydown Boulevard",
+    "city": "St. Louis",
+    "state": "MO",
+    "zip": "63105-2292"
+  },
+  "coordinates": {
+    "latitude": 38.64461708068848,
+    "longitude": -90.30602645874023
+  },
+  "website": "https://csmsg.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-missouri/list/st-michael-school",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-missouri/st-michael-school"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "csmsg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430653283"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430653475"
+    }
+  ],
+  "advisories": []
+}

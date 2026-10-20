@@ -1,0 +1,33 @@
+{
+  "id": "bd3mdxa43",
+  "url": "https://constellation.church/bd3mdxa43",
+  "name": "Avery Street CRC",
+  "displayName": "Avery Street Christian Reformed Church",
+  "address": {
+    "street": "661 Avery St",
+    "city": "South Windsor",
+    "state": "CT",
+    "zip": "06074"
+  },
+  "coordinates": {
+    "latitude": 41.83145332336426,
+    "longitude": -72.51708602905273
+  },
+  "website": "https://ascrc.org",
+  "listingUrl": "https://www.crcna.org/churches/822",
+  "identifiers": [
+    {
+      "namespace": "org.crcna.id",
+      "value": "822"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ascrc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510147823"
+    }
+  ],
+  "advisories": []
+}

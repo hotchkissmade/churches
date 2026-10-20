@@ -1,0 +1,33 @@
+{
+  "id": "q072fh822",
+  "url": "https://constellation.church/q072fh822",
+  "name": "First Southern Baptist Church Coalinga",
+  "displayName": "First Southern Baptist Church Coalinga",
+  "address": {
+    "street": "297 Washington St",
+    "city": "Coalinga",
+    "state": "CA",
+    "zip": "93210"
+  },
+  "coordinates": {
+    "latitude": 36.14356803894043,
+    "longitude": -120.3669204711914
+  },
+  "website": "https://fsbccoalinga.org",
+  "listingUrl": "https://churches.sbc.net/church/first-southern-baptist-church-coalinga/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-southern-baptist-church-coalinga"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fsbccoalinga.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "946091913"
+    }
+  ],
+  "advisories": []
+}

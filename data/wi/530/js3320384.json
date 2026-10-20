@@ -1,0 +1,33 @@
+{
+  "id": "js3320384",
+  "url": "https://constellation.church/js3320384",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "6438 County Road D",
+    "city": "Allenton",
+    "state": "WI",
+    "zip": "53002-9712"
+  },
+  "coordinates": {
+    "latitude": 43.47156524658203,
+    "longitude": -88.358154296875
+  },
+  "website": "https://zionallenton.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24785",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24785"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionallenton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237423225"
+    }
+  ],
+  "advisories": []
+}

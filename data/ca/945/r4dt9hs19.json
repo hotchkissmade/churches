@@ -1,0 +1,33 @@
+{
+  "id": "r4dt9hs19",
+  "url": "https://constellation.church/r4dt9hs19",
+  "name": "St. Innocent Church",
+  "displayName": "St. Innocent Church",
+  "address": {
+    "street": "1047 Serpentine Ln Ste 300",
+    "city": "Pleasanton",
+    "state": "CA",
+    "zip": "94566-4786"
+  },
+  "coordinates": {
+    "latitude": 37.67157554626465,
+    "longitude": -121.8681411743164
+  },
+  "website": "https://stinnocent.net",
+  "listingUrl": "https://www.oca.org/parishes/oca-we-fresim",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-we-fresim"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stinnocent.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "770247625"
+    }
+  ],
+  "advisories": []
+}

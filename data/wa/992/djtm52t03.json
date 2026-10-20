@@ -1,0 +1,33 @@
+{
+  "id": "djtm52t03",
+  "url": "https://constellation.church/djtm52t03",
+  "name": "Church in Spokane",
+  "displayName": "Church in Spokane",
+  "address": {
+    "street": "715 W Cora Ave",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99205"
+  },
+  "coordinates": {
+    "latitude": 47.688472747802734,
+    "longitude": -117.4223861694336
+  },
+  "website": "https://churchinspokane.org",
+  "listingUrl": "https://localchurches.org/churches/spokane-wa-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "spokane-wa-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinspokane.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237093786"
+    }
+  ],
+  "advisories": []
+}

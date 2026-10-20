@@ -1,0 +1,33 @@
+{
+  "id": "dm7m59539",
+  "url": "https://constellation.church/dm7m59539",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "234 N Main St",
+    "city": "Shrewsbury",
+    "state": "PA",
+    "zip": "17361"
+  },
+  "coordinates": {
+    "latitude": 39.776559829711914,
+    "longitude": -76.68147277832031
+  },
+  "website": "https://shrewsburyassembly.org/wp",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=2f73b1bb-f8f2-450e-bb08-46fb1deadf10&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "2f73b1bb-f8f2-450e-bb08-46fb1deadf10"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "shrewsburyassembly.org/wp"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232224381"
+    }
+  ],
+  "advisories": []
+}

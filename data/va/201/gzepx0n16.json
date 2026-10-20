@@ -1,0 +1,33 @@
+{
+  "id": "gzepx0n16",
+  "url": "https://constellation.church/gzepx0n16",
+  "name": "Waterford Baptist Church",
+  "displayName": "Waterford Baptist Church",
+  "address": {
+    "street": "15545 High Street",
+    "city": "Waterford",
+    "state": "VA",
+    "zip": "20197"
+  },
+  "coordinates": {
+    "latitude": 39.186357498168945,
+    "longitude": -77.6104507446289
+  },
+  "website": "https://historicwaterfordbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/waterford-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "waterford-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "historicwaterfordbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "412254784"
+    }
+  ],
+  "advisories": []
+}

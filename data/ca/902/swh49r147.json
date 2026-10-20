@@ -1,0 +1,33 @@
+{
+  "id": "swh49r147",
+  "url": "https://constellation.church/swh49r147",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "815 Venice Blvd",
+    "city": "Venice",
+    "state": "CA",
+    "zip": "90291-4903"
+  },
+  "coordinates": {
+    "latitude": 33.992780685424805,
+    "longitude": -118.45606994628906
+  },
+  "website": "https://flvenice.org",
+  "listingUrl": "https://locator.lcms.org/church/C/930430",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "930430"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flvenice.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "956001281"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "seq9aym09",
+  "url": "https://constellation.church/seq9aym09",
+  "name": "First Baptist Church Caruthersville",
+  "displayName": "First Baptist Church Caruthersville",
+  "address": {
+    "street": "801 Ward Ave",
+    "city": "Caruthersville",
+    "state": "MO",
+    "zip": "63830"
+  },
+  "coordinates": {
+    "latitude": 36.18817901611328,
+    "longitude": -89.65767669677734
+  },
+  "website": "https://fbcville.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-caruthersville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-caruthersville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430727698"
+    }
+  ],
+  "advisories": []
+}

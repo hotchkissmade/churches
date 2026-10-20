@@ -1,0 +1,33 @@
+{
+  "id": "w99695c30",
+  "url": "https://constellation.church/w99695c30",
+  "name": "First Baptist Church Fenton",
+  "displayName": "First Baptist Church Fenton",
+  "address": {
+    "street": "650 Oakwood Dr",
+    "city": "Fenton",
+    "state": "MO",
+    "zip": "63026"
+  },
+  "coordinates": {
+    "latitude": 38.51721382141113,
+    "longitude": -90.45846557617188
+  },
+  "website": "https://fbcfenton.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-fenton/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-fenton"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcfenton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430724557"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "v457djq42",
+  "url": "https://constellation.church/v457djq42",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "701 N Main Ave",
+    "city": "Newton",
+    "state": "NC",
+    "zip": "28658-3145"
+  },
+  "coordinates": {
+    "latitude": 35.66886901855469,
+    "longitude": -81.22102355957031
+  },
+  "website": "https://fpcnewton.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/21012/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "21012"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcnewton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "566023543"
+    }
+  ],
+  "advisories": []
+}

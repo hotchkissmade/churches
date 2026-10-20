@@ -1,0 +1,33 @@
+{
+  "id": "sa3xs9x14",
+  "url": "https://constellation.church/sa3xs9x14",
+  "name": "Reach Church",
+  "displayName": "Reach Church",
+  "address": {
+    "street": "2725 Merle Hay Rd",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50310"
+  },
+  "coordinates": {
+    "latitude": 41.619163513183594,
+    "longitude": -93.69719314575195
+  },
+  "website": "https://reachchurch.one",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=c796990e-de17-42de-b8a0-459ff589a0d4&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "c796990e-de17-42de-b8a0-459ff589a0d4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "reachchurch.one"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420921977"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a51r3e041",
+  "url": "https://constellation.church/a51r3e041",
+  "name": "Northside Baptist Church",
+  "displayName": "Northside Baptist Church",
+  "address": {
+    "street": "1800 Pear Orchard Rd",
+    "city": "Elizabethtown",
+    "state": "KY",
+    "zip": "42701"
+  },
+  "coordinates": {
+    "latitude": 37.74405479431152,
+    "longitude": -85.8662109375
+  },
+  "website": "https://n-side.org",
+  "listingUrl": "https://churches.sbc.net/church/northside-baptist-church-39/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northside-baptist-church-39"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "n-side.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611285436"
+    }
+  ],
+  "advisories": []
+}

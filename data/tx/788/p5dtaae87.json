@@ -1,0 +1,33 @@
+{
+  "id": "p5dtaae87",
+  "url": "https://constellation.church/p5dtaae87",
+  "name": "First Baptist Church, Uvalde",
+  "displayName": "First Baptist Church, Uvalde",
+  "address": {
+    "street": "220 N High St",
+    "city": "Uvalde",
+    "state": "TX",
+    "zip": "78801"
+  },
+  "coordinates": {
+    "latitude": 29.21148109436035,
+    "longitude": -99.78900909423828
+  },
+  "website": "https://fbcuvalde.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-uvalde-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-uvalde-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcuvalde.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741193450"
+    }
+  ],
+  "advisories": []
+}

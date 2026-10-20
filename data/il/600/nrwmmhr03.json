@@ -1,0 +1,33 @@
+{
+  "id": "nrwmmhr03",
+  "url": "https://constellation.church/nrwmmhr03",
+  "name": "Saint Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "1601 N Garfield Rd",
+    "city": "Harvard",
+    "state": "IL",
+    "zip": "60033-1749"
+  },
+  "coordinates": {
+    "latitude": 42.43362617492676,
+    "longitude": -88.60765838623047
+  },
+  "website": "https://stpaul-harvard.org",
+  "listingUrl": "https://locator.lcms.org/church/C/400758",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "400758"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaul-harvard.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366084685"
+    }
+  ],
+  "advisories": []
+}

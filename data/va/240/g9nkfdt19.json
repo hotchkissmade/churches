@@ -1,0 +1,37 @@
+{
+  "id": "g9nkfdt19",
+  "url": "https://constellation.church/g9nkfdt19",
+  "name": "Bedrock Church Roanoke",
+  "displayName": "Bedrock Church Roanoke",
+  "address": {
+    "street": "4120 Challenger Ave",
+    "city": "Roanoke",
+    "state": "VA",
+    "zip": "24012"
+  },
+  "coordinates": {
+    "latitude": 37.31669807434082,
+    "longitude": -79.88027572631836
+  },
+  "website": "https://road2school.org",
+  "listingUrl": "https://churches.sbc.net/church/bedrock-church-roanoke/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bedrock-church-roanoke"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "road2school.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541267565"
+    },
+    {
+      "namespace": "org.adventistdirectory.id",
+      "value": "16099"
+    }
+  ],
+  "advisories": []
+}

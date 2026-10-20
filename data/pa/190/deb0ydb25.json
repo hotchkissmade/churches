@@ -1,0 +1,37 @@
+{
+  "id": "deb0ydb25",
+  "url": "https://constellation.church/deb0ydb25",
+  "name": "Faith Immanuel Lutheran Church",
+  "displayName": "Faith Immanuel Lutheran Church",
+  "address": {
+    "street": "65 Penn Blvd",
+    "city": "East Lansdowne",
+    "state": "PA",
+    "zip": "19050-2624"
+  },
+  "coordinates": {
+    "latitude": 39.94294738769531,
+    "longitude": -75.26034927368164
+  },
+  "website": "https://faithimmanuel.org/aboutus",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=631680da-32bf-4c2f-bfd1-d32fc96a9bab",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "631680da-32bf-4c2f-bfd1-d32fc96a9bab"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithimmanuel.org/aboutus"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232335464"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760816528"
+    }
+  ],
+  "advisories": []
+}

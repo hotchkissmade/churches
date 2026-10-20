@@ -1,0 +1,33 @@
+{
+  "id": "cd53byn58",
+  "url": "https://constellation.church/cd53byn58",
+  "name": "Bethesda Baptist Church",
+  "displayName": "Bethesda Baptist Church",
+  "address": {
+    "street": "4700 Central School Rd",
+    "city": "Saint Charles",
+    "state": "MO",
+    "zip": "63304"
+  },
+  "coordinates": {
+    "latitude": 38.74309158325195,
+    "longitude": -90.62482452392578
+  },
+  "website": "https://bethesdabc.org",
+  "listingUrl": "https://churches.sbc.net/church/bethesda-baptist-church-10/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bethesda-baptist-church-10"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethesdabc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431577497"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hsaadb128",
+  "url": "https://constellation.church/hsaadb128",
+  "name": "Trinity Presbyterian Church",
+  "displayName": "Trinity Presbyterian Church",
+  "address": {
+    "street": "1301 Osos Street",
+    "city": "San Luis Obispo",
+    "state": "CA",
+    "zip": "93401"
+  },
+  "coordinates": {
+    "latitude": 35.279489517211914,
+    "longitude": -120.65950775146484
+  },
+  "website": "https://trinityslo.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1625",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1625"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityslo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900979126"
+    }
+  ],
+  "advisories": []
+}

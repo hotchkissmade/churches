@@ -1,0 +1,33 @@
+{
+  "id": "skg2yd664",
+  "url": "https://constellation.church/skg2yd664",
+  "name": "Central Community Church",
+  "displayName": "Central Community Church",
+  "address": {
+    "street": "50 Bennington St",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02128"
+  },
+  "coordinates": {
+    "latitude": 42.375633239746094,
+    "longitude": -71.03720474243164
+  },
+  "website": "https://bostonccc.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=6f36dc11-2dc6-4d82-9e2e-aff2ffa0159b&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "6f36dc11-2dc6-4d82-9e2e-aff2ffa0159b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bostonccc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "352460558"
+    }
+  ],
+  "advisories": []
+}

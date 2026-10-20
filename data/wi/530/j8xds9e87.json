@@ -1,0 +1,33 @@
+{
+  "id": "j8xds9e87",
+  "url": "https://constellation.church/j8xds9e87",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "1616 W Mequon Rd",
+    "city": "Mequon",
+    "state": "WI",
+    "zip": "53092-3229"
+  },
+  "coordinates": {
+    "latitude": 43.22159957885742,
+    "longitude": -87.92961120605469
+  },
+  "website": "https://stjohnsmequon.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24799",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24799"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsmequon.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391216403"
+    }
+  ],
+  "advisories": []
+}

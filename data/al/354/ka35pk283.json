@@ -1,0 +1,33 @@
+{
+  "id": "ka35pk283",
+  "url": "https://constellation.church/ka35pk283",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "324 Broad Street",
+    "city": "Aliceville",
+    "state": "AL",
+    "zip": "35442"
+  },
+  "coordinates": {
+    "latitude": 33.130231857299805,
+    "longitude": -88.15145874023438
+  },
+  "website": "https://firstpresaliceville.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/430",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "430"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpresaliceville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630870978"
+    }
+  ],
+  "advisories": []
+}

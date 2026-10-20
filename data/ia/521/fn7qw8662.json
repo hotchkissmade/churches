@@ -1,0 +1,33 @@
+{
+  "id": "fn7qw8662",
+  "url": "https://constellation.church/fn7qw8662",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "31743 175th St",
+    "city": "Mc Gregor",
+    "state": "IA",
+    "zip": "52157-8402"
+  },
+  "coordinates": {
+    "latitude": 42.866607666015625,
+    "longitude": -91.23775482177734
+  },
+  "website": "https://firststpaul.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e74ec04b-4e0a-44ef-a6aa-51a773602691",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e74ec04b-4e0a-44ef-a6aa-51a773602691"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firststpaul.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421107819"
+    }
+  ],
+  "advisories": []
+}

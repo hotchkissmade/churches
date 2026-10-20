@@ -1,0 +1,33 @@
+{
+  "id": "rx3kv8q59",
+  "url": "https://constellation.church/rx3kv8q59",
+  "name": "St Andrew Lutheran Church",
+  "displayName": "St. Andrew Lutheran Church",
+  "address": {
+    "street": "909 S Wright St",
+    "city": "Champaign",
+    "state": "IL",
+    "zip": "61820-6209"
+  },
+  "coordinates": {
+    "latitude": 40.10705757141113,
+    "longitude": -88.2291145324707
+  },
+  "website": "https://lutherancampuscenter.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b579566c-9b1d-4f52-b3ee-2bb6cebcf403",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b579566c-9b1d-4f52-b3ee-2bb6cebcf403"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lutherancampuscenter.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370768893"
+    }
+  ],
+  "advisories": []
+}

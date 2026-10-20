@@ -1,0 +1,33 @@
+{
+  "id": "hg2tc2f26",
+  "url": "https://constellation.church/hg2tc2f26",
+  "name": "Indialantic First Baptist Church",
+  "displayName": "Indialantic First Baptist Church",
+  "address": {
+    "street": "170 Washington Ave",
+    "city": "Indialantic",
+    "state": "FL",
+    "zip": "32903"
+  },
+  "coordinates": {
+    "latitude": 28.10138511657715,
+    "longitude": -80.57328033447266
+  },
+  "website": "https://fbichurch.net",
+  "listingUrl": "https://churches.sbc.net/church/indialantic-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "indialantic-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbichurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590965344"
+    }
+  ],
+  "advisories": []
+}

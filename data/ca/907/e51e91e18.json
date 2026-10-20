@@ -1,0 +1,33 @@
+{
+  "id": "e51e91e18",
+  "url": "https://constellation.church/e51e91e18",
+  "name": "Bellflower Baptist Church",
+  "displayName": "Bellflower Baptist Church",
+  "address": {
+    "street": "10010 Somerset Blvd",
+    "city": "Bellflower",
+    "state": "CA",
+    "zip": "90706"
+  },
+  "coordinates": {
+    "latitude": 33.89648628234863,
+    "longitude": -118.12100219726562
+  },
+  "website": "https://bethanybaptist.church",
+  "listingUrl": "https://churches.sbc.net/church/bellflower-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bellflower-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanybaptist.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "956004550"
+    }
+  ],
+  "advisories": []
+}

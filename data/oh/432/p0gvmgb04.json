@@ -1,0 +1,33 @@
+{
+  "id": "p0gvmgb04",
+  "url": "https://constellation.church/p0gvmgb04",
+  "name": "Epworth United Methodist Church",
+  "displayName": "Epworth United Methodist Church",
+  "address": {
+    "street": "5100 KARL RD",
+    "city": "COLUMBUS",
+    "state": "OH",
+    "zip": "43229"
+  },
+  "coordinates": {
+    "latitude": 40.07080268859863,
+    "longitude": -82.97581481933594
+  },
+  "website": "https://epworthonkarl.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF41VIAT",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF41VIAT"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "epworthonkarl.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310715700"
+    }
+  ],
+  "advisories": []
+}

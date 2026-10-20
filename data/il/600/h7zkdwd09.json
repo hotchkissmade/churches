@@ -1,0 +1,37 @@
+{
+  "id": "h7zkdwd09",
+  "url": "https://constellation.church/h7zkdwd09",
+  "name": "Gurnee Seventh-day Adventist Church",
+  "displayName": "Gurnee Seventh-day Adventist Church",
+  "address": {
+    "street": "2190 Fuller Rd",
+    "city": "Gurnee",
+    "state": "IL",
+    "zip": "60031-1910"
+  },
+  "coordinates": {
+    "latitude": 42.39229393005371,
+    "longitude": -87.92964172363281
+  },
+  "website": "https://gurneechristian.school",
+  "listingUrl": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=16283",
+  "identifiers": [
+    {
+      "namespace": "org.adventistdirectory.id",
+      "value": "16283"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gurneechristian.school"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "364337253"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "364447809"
+    }
+  ],
+  "advisories": []
+}

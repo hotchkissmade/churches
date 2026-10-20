@@ -1,0 +1,33 @@
+{
+  "id": "wdb1xnn86",
+  "url": "https://constellation.church/wdb1xnn86",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "529 Hendrie Blvd",
+    "city": "Royal Oak",
+    "state": "MI",
+    "zip": "48067-2475"
+  },
+  "coordinates": {
+    "latitude": 42.485700607299805,
+    "longitude": -83.15216445922852
+  },
+  "website": "https://fpcro.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/3182/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "3182"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcro.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382353584"
+    }
+  ],
+  "advisories": []
+}

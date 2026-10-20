@@ -1,0 +1,33 @@
+{
+  "id": "v00ty5a55",
+  "url": "https://constellation.church/v00ty5a55",
+  "name": "Church of the Holy Cross",
+  "displayName": "Church of the Holy Cross",
+  "address": {
+    "street": "11 Wilkins Station Rd",
+    "city": "Medford",
+    "state": "NJ",
+    "zip": "08055"
+  },
+  "coordinates": {
+    "latitude": 39.91099739074707,
+    "longitude": -74.82379531860352
+  },
+  "website": "https://holycrossmedford.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ny-medchc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ny-medchc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holycrossmedford.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "223505878"
+    }
+  ],
+  "advisories": []
+}

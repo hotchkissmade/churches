@@ -1,0 +1,33 @@
+{
+  "id": "wggkpfj86",
+  "url": "https://constellation.church/wggkpfj86",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "102 S 7th St",
+    "city": "Byesville",
+    "state": "OH",
+    "zip": "43723"
+  },
+  "coordinates": {
+    "latitude": 39.969688415527344,
+    "longitude": -81.54377746582031
+  },
+  "website": "https://byesvilleag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=93c5b27a-6a52-49fe-a163-0c1e7994ed00&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "93c5b27a-6a52-49fe-a163-0c1e7994ed00"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "byesvilleag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341404311"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "r2cde2t47",
+  "url": "https://constellation.church/r2cde2t47",
+  "name": "Lutheran Church Of Arcata",
+  "displayName": "Lutheran Church Of Arcata",
+  "address": {
+    "street": "151 E 16th St",
+    "city": "Arcata",
+    "state": "CA",
+    "zip": "95521-6004"
+  },
+  "coordinates": {
+    "latitude": 40.87191390991211,
+    "longitude": -124.07460021972656
+  },
+  "website": "https://lutheranchurcharcata.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dd4c1875-a70a-455b-a0c4-2d220468e7b2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dd4c1875-a70a-455b-a0c4-2d220468e7b2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lutheranchurcharcata.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942178056"
+    }
+  ],
+  "advisories": []
+}

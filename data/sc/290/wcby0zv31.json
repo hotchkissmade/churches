@@ -1,0 +1,33 @@
+{
+  "id": "wcby0zv31",
+  "url": "https://constellation.church/wcby0zv31",
+  "name": "Broadacres Baptist Church",
+  "displayName": "Broadacres Baptist Church",
+  "address": {
+    "street": "2350 Taylor Rd",
+    "city": "Cayce",
+    "state": "SC",
+    "zip": "29033"
+  },
+  "coordinates": {
+    "latitude": 33.95668601989746,
+    "longitude": -81.07021713256836
+  },
+  "website": "https://broadacresbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/broadacres-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "broadacres-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "broadacresbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570536830"
+    }
+  ],
+  "advisories": []
+}

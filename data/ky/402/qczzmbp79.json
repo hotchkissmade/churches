@@ -1,0 +1,33 @@
+{
+  "id": "qczzmbp79",
+  "url": "https://constellation.church/qczzmbp79",
+  "name": "Cornerstone Baptist Church of Louisville",
+  "displayName": "Cornerstone Baptist Church of Louisville",
+  "address": {
+    "street": "4574 S 3rd St",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40214"
+  },
+  "coordinates": {
+    "latitude": 38.18425178527832,
+    "longitude": -85.7664680480957
+  },
+  "website": "https://cornerstonebaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/cornerstone-baptist-church-of-louisville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cornerstone-baptist-church-of-louisville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cornerstonebaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "990641584"
+    }
+  ],
+  "advisories": []
+}

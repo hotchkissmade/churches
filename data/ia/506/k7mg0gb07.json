@@ -1,0 +1,33 @@
+{
+  "id": "k7mg0gb07",
+  "url": "https://constellation.church/k7mg0gb07",
+  "name": "Fredsville Lutheran Church",
+  "displayName": "Fredsville Lutheran Church",
+  "address": {
+    "street": "32756 150th St",
+    "city": "Cedar Falls",
+    "state": "IA",
+    "zip": "50613-8284"
+  },
+  "coordinates": {
+    "latitude": 42.4838924407959,
+    "longitude": -92.57939910888672
+  },
+  "website": "https://fredsvillelutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e32debdf-ecbb-4977-9aed-958d0e39d03c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e32debdf-ecbb-4977-9aed-958d0e39d03c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fredsvillelutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420722698"
+    }
+  ],
+  "advisories": []
+}

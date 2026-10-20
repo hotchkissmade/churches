@@ -1,0 +1,37 @@
+{
+  "id": "j5tnfk675",
+  "url": "https://constellation.church/j5tnfk675",
+  "name": "Dardenne Presbyterian Church",
+  "displayName": "Dardenne Presbyterian Church",
+  "address": {
+    "street": "7400 South Outer Road 364",
+    "city": "Dardenne Prairie",
+    "state": "MO",
+    "zip": "63368"
+  },
+  "coordinates": {
+    "latitude": 38.76510238647461,
+    "longitude": -90.74250411987305
+  },
+  "website": "https://dpc4u.org",
+  "listingUrl": "https://eco-pres.org/churches/dardenne-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "dardenne-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dpc4u.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430930659"
+    },
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "20238"
+    }
+  ],
+  "advisories": []
+}

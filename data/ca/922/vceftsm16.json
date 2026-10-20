@@ -1,0 +1,33 @@
+{
+  "id": "vceftsm16",
+  "url": "https://constellation.church/vceftsm16",
+  "name": "Cabazon Fellowship",
+  "displayName": "Cabazon Fellowship",
+  "address": {
+    "street": "50390 Carmen Ave",
+    "city": "Cabazon",
+    "state": "CA",
+    "zip": "92230"
+  },
+  "coordinates": {
+    "latitude": 33.91029930114746,
+    "longitude": -116.78229522705078
+  },
+  "website": "https://cabazonfellowship.com",
+  "listingUrl": "https://churches.sbc.net/church/cabazon-fellowship/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cabazon-fellowship"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cabazonfellowship.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "871925876"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mbkqmd416",
+  "url": "https://constellation.church/mbkqmd416",
+  "name": "West Moe Lutheran Church",
+  "displayName": "West Moe Lutheran Church",
+  "address": {
+    "street": "16249 County Road 8 NW",
+    "city": "Brandon",
+    "state": "MN",
+    "zip": "56315-8335"
+  },
+  "coordinates": {
+    "latitude": 45.9049175,
+    "longitude": -95.6175188
+  },
+  "website": "https://westmoechurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=edc75183-8e7d-40f4-b7a3-a447cf497288",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "edc75183-8e7d-40f4-b7a3-a447cf497288"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westmoechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411481187"
+    }
+  ],
+  "advisories": []
+}

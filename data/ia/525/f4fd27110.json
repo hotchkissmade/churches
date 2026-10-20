@@ -1,0 +1,33 @@
+{
+  "id": "f4fd27110",
+  "url": "https://constellation.church/f4fd27110",
+  "name": "Centerville Assembly of God",
+  "displayName": "Centerville Assembly of God",
+  "address": {
+    "street": "1020 E Maple St",
+    "city": "Centerville",
+    "state": "IA",
+    "zip": "52544"
+  },
+  "coordinates": {
+    "latitude": 40.73299980163574,
+    "longitude": -92.86456680297852
+  },
+  "website": "https://centervilleassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ce870154-c53e-4221-aea2-9b1bc60794fa&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ce870154-c53e-4221-aea2-9b1bc60794fa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centervilleassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421324880"
+    }
+  ],
+  "advisories": []
+}

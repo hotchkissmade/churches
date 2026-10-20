@@ -1,0 +1,33 @@
+{
+  "id": "aqgwfr004",
+  "url": "https://constellation.church/aqgwfr004",
+  "name": "Parish Episcopal School",
+  "displayName": "Parish Episcopal School",
+  "address": {
+    "street": "4101 Sigma Road",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75244"
+  },
+  "coordinates": {
+    "latitude": 32.9352833,
+    "longitude": -96.8432817
+  },
+  "website": "https://parish.org/support/ways-to-give",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/dallas/list/parish-episcopal-school",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "dallas/parish-episcopal-school"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parish.org/support/ways-to-give"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752264376"
+    }
+  ],
+  "advisories": []
+}

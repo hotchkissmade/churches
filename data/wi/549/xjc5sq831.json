@@ -1,0 +1,33 @@
+{
+  "id": "xjc5sq831",
+  "url": "https://constellation.church/xjc5sq831",
+  "name": "Trinity Evangelical Lutheran Church",
+  "displayName": "Trinity Evangelical Lutheran Church",
+  "address": {
+    "street": "709 W Beckert Rd",
+    "city": "New London",
+    "state": "WI",
+    "zip": "54961-2405"
+  },
+  "coordinates": {
+    "latitude": 44.37441635131836,
+    "longitude": -88.74768829345703
+  },
+  "website": "https://sites.google.com/view/trinitynewlondon",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7dc078f3-7a0c-498e-aa17-f24c55f2af9a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7dc078f3-7a0c-498e-aa17-f24c55f2af9a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sites.google.com/view/trinitynewlondon"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391488542"
+    }
+  ],
+  "advisories": []
+}

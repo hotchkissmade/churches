@@ -1,0 +1,33 @@
+{
+  "id": "cwp1mjm13",
+  "url": "https://constellation.church/cwp1mjm13",
+  "name": "St Paul Evangelical Lutheran Church",
+  "displayName": "St. Paul Evangelical Lutheran Church",
+  "address": {
+    "street": "705 Grand Ave",
+    "city": "Random Lake",
+    "state": "WI",
+    "zip": "53075-1748"
+  },
+  "coordinates": {
+    "latitude": 43.553367614746094,
+    "longitude": -87.96979522705078
+  },
+  "website": "https://stpaulsrandomlake.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=983e609d-2de8-466f-84cb-ed2fde07c2e9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "983e609d-2de8-466f-84cb-ed2fde07c2e9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsrandomlake.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391455268"
+    }
+  ],
+  "advisories": []
+}

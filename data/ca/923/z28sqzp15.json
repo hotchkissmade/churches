@@ -1,0 +1,33 @@
+{
+  "id": "z28sqzp15",
+  "url": "https://constellation.church/z28sqzp15",
+  "name": "Ridgeview Church",
+  "displayName": "Ridgeview Church",
+  "address": {
+    "street": "7970 Cherry Ave Ste 302",
+    "city": "Fontana",
+    "state": "CA",
+    "zip": "92336"
+  },
+  "coordinates": {
+    "latitude": 34.15115165710449,
+    "longitude": -117.46510314941406
+  },
+  "website": "https://ridgeviewchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/ridgeview-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "ridgeview-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ridgeviewchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "854182759"
+    }
+  ],
+  "advisories": []
+}

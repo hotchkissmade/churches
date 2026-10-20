@@ -1,0 +1,33 @@
+{
+  "id": "kedshhy82",
+  "url": "https://constellation.church/kedshhy82",
+  "name": "Presbyterian Church of the Big Wood",
+  "displayName": "Presbyterian Church of the Big Wood",
+  "address": {
+    "street": "100 Saddle Rd",
+    "city": "Ketchum",
+    "state": "ID",
+    "zip": "83340"
+  },
+  "coordinates": {
+    "latitude": 43.68825149536133,
+    "longitude": -114.37193298339844
+  },
+  "website": "https://pcbw.org",
+  "listingUrl": "https://eco-pres.org/churches/presbyterian-church-of-the-big-wood/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "presbyterian-church-of-the-big-wood"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pcbw.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820374595"
+    }
+  ],
+  "advisories": []
+}

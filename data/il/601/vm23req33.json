@@ -1,0 +1,33 @@
+{
+  "id": "vm23req33",
+  "url": "https://constellation.church/vm23req33",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "41 N Park Blvd",
+    "city": "Glen Ellyn",
+    "state": "IL",
+    "zip": "60137-5713"
+  },
+  "coordinates": {
+    "latitude": 41.860870361328125,
+    "longitude": -88.06047058105469
+  },
+  "website": "https://faithonline.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=aa4fcc48-29d6-41b5-b91d-9739d67a8d6b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "aa4fcc48-29d6-41b5-b91d-9739d67a8d6b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithonline.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362428850"
+    }
+  ],
+  "advisories": []
+}

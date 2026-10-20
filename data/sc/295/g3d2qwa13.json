@@ -1,0 +1,33 @@
+{
+  "id": "g3d2qwa13",
+  "url": "https://constellation.church/g3d2qwa13",
+  "name": "Faith Presbyterian Church",
+  "displayName": "Faith Presbyterian Church",
+  "address": {
+    "street": "900 State Road",
+    "city": "Cheraw",
+    "state": "SC",
+    "zip": "29520"
+  },
+  "coordinates": {
+    "latitude": 34.703969955444336,
+    "longitude": -79.91278457641602
+  },
+  "website": "https://faithcheraw.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/377",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "377"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithcheraw.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570771976"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gmk3w2s53",
+  "url": "https://constellation.church/gmk3w2s53",
+  "name": "Richfield United Methodist Church",
+  "displayName": "Richfield United Methodist Church",
+  "address": {
+    "street": "5835 Lyndale Ave S",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55419-2221"
+  },
+  "coordinates": {
+    "latitude": 44.896820068359375,
+    "longitude": -93.28731536865234
+  },
+  "website": "https://richfieldumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFJcbIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFJcbIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "richfieldumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410737229"
+    }
+  ],
+  "advisories": []
+}

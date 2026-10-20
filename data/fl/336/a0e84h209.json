@@ -1,0 +1,33 @@
+{
+  "id": "a0e84h209",
+  "url": "https://constellation.church/a0e84h209",
+  "name": "Iglesia Bautista de Carrollwood",
+  "displayName": "Iglesia Bautista de Carrollwood",
+  "address": {
+    "street": "2905 Smitter Rd",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33618"
+  },
+  "coordinates": {
+    "latitude": 28.0847110748291,
+    "longitude": -82.49301147460938
+  },
+  "website": "https://ibctampa.com",
+  "listingUrl": "https://churches.sbc.net/church/iglesia-bautista-de-carrollwood/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "iglesia-bautista-de-carrollwood"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ibctampa.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593113123"
+    }
+  ],
+  "advisories": []
+}

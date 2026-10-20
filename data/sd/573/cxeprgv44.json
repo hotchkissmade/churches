@@ -1,0 +1,33 @@
+{
+  "id": "cxeprgv44",
+  "url": "https://constellation.church/cxeprgv44",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "200 E. 4th St.",
+    "city": "Mount Vernon",
+    "state": "SD",
+    "zip": "57363"
+  },
+  "coordinates": {
+    "latitude": 43.7137565612793,
+    "longitude": -98.2588882446289
+  },
+  "website": "https://salemlutheran.santel.net/default.htm",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1c775db3-92d1-41c2-bccb-38f2076e854c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1c775db3-92d1-41c2-bccb-38f2076e854c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemlutheran.santel.net/default.htm"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460348294"
+    }
+  ],
+  "advisories": []
+}

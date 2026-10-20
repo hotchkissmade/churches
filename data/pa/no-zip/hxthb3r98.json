@@ -1,0 +1,33 @@
+{
+  "id": "hxthb3r98",
+  "url": "https://constellation.church/hxthb3r98",
+  "name": "Swarthmore Friends Meeting",
+  "displayName": "Swarthmore Friends Meeting",
+  "address": {
+    "street": "12 Whittier Pl",
+    "city": "Swarthmore",
+    "state": "PA",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 39.907440185546875,
+    "longitude": -75.35320281982422
+  },
+  "website": "https://swarthmorefriendsmeeting.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/swarthmore-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "swarthmore-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "swarthmorefriendsmeeting.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232839837"
+    }
+  ],
+  "advisories": []
+}

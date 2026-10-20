@@ -1,0 +1,33 @@
+{
+  "id": "yshcgrd57",
+  "url": "https://constellation.church/yshcgrd57",
+  "name": "Fabric Minneapolis",
+  "displayName": "Fabric Minneapolis",
+  "address": {
+    "street": "4645 4th Ave S",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55419-5631"
+  },
+  "coordinates": {
+    "latitude": 44.918800354003906,
+    "longitude": -93.26962280273438
+  },
+  "website": "https://fabricmpls.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=06be21e2-9f89-4345-a8fe-67b8e7690383",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "06be21e2-9f89-4345-a8fe-67b8e7690383"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fabricmpls.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161779569"
+    }
+  ],
+  "advisories": []
+}

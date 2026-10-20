@@ -1,0 +1,33 @@
+{
+  "id": "kpnfsm280",
+  "url": "https://constellation.church/kpnfsm280",
+  "name": "United Lutheran Church",
+  "displayName": "United Lutheran Church",
+  "address": {
+    "street": "21 Mesnard St",
+    "city": "Lanse",
+    "state": "MI",
+    "zip": "49946-1127"
+  },
+  "coordinates": {
+    "latitude": 46.76147651672363,
+    "longitude": -88.44844055175781
+  },
+  "website": "https://unitedlutheranchurchlanse.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=44a73c9c-6267-4517-abe7-c28cea6b50a4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "44a73c9c-6267-4517-abe7-c28cea6b50a4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "unitedlutheranchurchlanse.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521041889"
+    }
+  ],
+  "advisories": []
+}

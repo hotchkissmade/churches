@@ -1,0 +1,33 @@
+{
+  "id": "cpda80s14",
+  "url": "https://constellation.church/cpda80s14",
+  "name": "Ridgeland Baptist Church",
+  "displayName": "Ridgeland Baptist Church",
+  "address": {
+    "street": "1448 Grays Highway",
+    "city": "Ridgeland",
+    "state": "SC",
+    "zip": "29936"
+  },
+  "coordinates": {
+    "latitude": 32.4981939,
+    "longitude": -80.9887349
+  },
+  "website": "https://ridgelandbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/ridgeland-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "ridgeland-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ridgelandbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570611131"
+    }
+  ],
+  "advisories": []
+}

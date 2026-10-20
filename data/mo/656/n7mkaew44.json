@@ -1,0 +1,33 @@
+{
+  "id": "n7mkaew44",
+  "url": "https://constellation.church/n7mkaew44",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "301 Hodges st",
+    "city": "Alton",
+    "state": "MO",
+    "zip": "65606"
+  },
+  "coordinates": {
+    "latitude": 36.692644119262695,
+    "longitude": -91.40011596679688
+  },
+  "website": "https://altonassemblymo.wixsite.com/altonmo",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=3edd4ded-16b3-4254-9c93-f4a6e1997337&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "3edd4ded-16b3-4254-9c93-f4a6e1997337"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "altonassemblymo.wixsite.com/altonmo"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621721718"
+    }
+  ],
+  "advisories": []
+}

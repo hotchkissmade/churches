@@ -1,0 +1,33 @@
+{
+  "id": "dzdvnbn65",
+  "url": "https://constellation.church/dzdvnbn65",
+  "name": "St Mark's Lutheran Church",
+  "displayName": "St. Mark's Lutheran Church",
+  "address": {
+    "street": "1600 Union Ave",
+    "city": "Fairfield",
+    "state": "CA",
+    "zip": "94533-3728"
+  },
+  "coordinates": {
+    "latitude": 38.258981704711914,
+    "longitude": -122.0396957397461
+  },
+  "website": "https://stmarksfairfield.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3b600ca2-ceda-4d4d-8369-02966aa79ce0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3b600ca2-ceda-4d4d-8369-02966aa79ce0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarksfairfield.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942635284"
+    }
+  ],
+  "advisories": []
+}

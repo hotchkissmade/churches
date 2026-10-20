@@ -1,0 +1,33 @@
+{
+  "id": "dwv7h1g47",
+  "url": "https://constellation.church/dwv7h1g47",
+  "name": "Redeemer Lutheran Church",
+  "displayName": "Redeemer Lutheran Church",
+  "address": {
+    "street": "1107 Tanglefoot Ln",
+    "city": "Bettendorf",
+    "state": "IA",
+    "zip": "52722-1738"
+  },
+  "coordinates": {
+    "latitude": 41.56012153625488,
+    "longitude": -90.51637268066406
+  },
+  "website": "https://redeemerbett.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b2e74a3f-c966-4093-9a49-3a1c5f480902",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b2e74a3f-c966-4093-9a49-3a1c5f480902"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerbett.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421075808"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "b3yyy7a74",
+  "url": "https://constellation.church/b3yyy7a74",
+  "name": "Divinity Lutheran Church",
+  "displayName": "Divinity Lutheran Church",
+  "address": {
+    "street": "1220 Providence Rd",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21286-1560"
+  },
+  "coordinates": {
+    "latitude": 39.41703796386719,
+    "longitude": -76.57087707519531
+  },
+  "website": "https://divinitylutherantowson.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=eaa29f26-3ba6-4085-bef9-7dfc8825eb7f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "eaa29f26-3ba6-4085-bef9-7dfc8825eb7f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "divinitylutherantowson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521316845"
+    }
+  ],
+  "advisories": []
+}

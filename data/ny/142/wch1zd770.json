@@ -1,0 +1,33 @@
+{
+  "id": "wch1zd770",
+  "url": "https://constellation.church/wch1zd770",
+  "name": "Holy Trinity Lutheran Church",
+  "displayName": "Holy Trinity Lutheran Church",
+  "address": {
+    "street": "1080 Main St",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14209-2306"
+  },
+  "coordinates": {
+    "latitude": 42.90314483642578,
+    "longitude": -78.86894226074219
+  },
+  "website": "https://holytrinitybuffalo.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0e6f7904-df89-499e-bcb7-5ea371213857",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0e6f7904-df89-499e-bcb7-5ea371213857"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holytrinitybuffalo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "160746856"
+    }
+  ],
+  "advisories": []
+}

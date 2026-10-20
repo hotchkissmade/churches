@@ -1,0 +1,33 @@
+{
+  "id": "hg68r6g46",
+  "url": "https://constellation.church/hg68r6g46",
+  "name": "Evergreen Presbyterian Church",
+  "displayName": "Evergreen Presbyterian Church",
+  "address": {
+    "street": "1004 Parkway, The River Plantation Conference Center",
+    "city": "Sevierville",
+    "state": "TN",
+    "zip": "37862"
+  },
+  "coordinates": {
+    "latitude": 35.8520450592041,
+    "longitude": -83.56690979003906
+  },
+  "website": "https://evergreentn.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/365",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "365"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "evergreentn.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581713848"
+    }
+  ],
+  "advisories": []
+}

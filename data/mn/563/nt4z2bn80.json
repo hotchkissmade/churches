@@ -1,0 +1,33 @@
+{
+  "id": "nt4z2bn80",
+  "url": "https://constellation.church/nt4z2bn80",
+  "name": "St. John's Episcopal Church",
+  "displayName": "St. John's Episcopal Church",
+  "address": {
+    "street": "1111 Cooper Ave S",
+    "city": "Saint Cloud",
+    "state": "MN",
+    "zip": "56301-4829"
+  },
+  "coordinates": {
+    "latitude": 45.546836853027344,
+    "longitude": -94.17874908447266
+  },
+  "website": "https://stjohns-episcopalchurch.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/st-johns-episcopal-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/st-johns-episcopal-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohns-episcopalchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411379581"
+    }
+  ],
+  "advisories": []
+}

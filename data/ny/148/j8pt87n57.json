@@ -1,0 +1,33 @@
+{
+  "id": "j8pt87n57",
+  "url": "https://constellation.church/j8pt87n57",
+  "name": "Presbyterian Church of Wellsville",
+  "displayName": "Presbyterian Church of Wellsville",
+  "address": {
+    "street": "68 North Main Street",
+    "city": "Wellsville",
+    "state": "NY",
+    "zip": "14895"
+  },
+  "coordinates": {
+    "latitude": 42.12086868286133,
+    "longitude": -77.94627380371094
+  },
+  "website": "https://wellsvillepca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/853",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "853"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wellsvillepca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581692751"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "m3tmsmb20",
+  "url": "https://constellation.church/m3tmsmb20",
+  "name": "Triangle Fellowship Church",
+  "displayName": "Triangle Fellowship Church",
+  "address": {
+    "street": "4000 Bear Cat Way",
+    "city": "Morrisville",
+    "state": "NC",
+    "zip": "27560"
+  },
+  "coordinates": {
+    "latitude": 35.8276424407959,
+    "longitude": -78.8212776184082
+  },
+  "website": "https://trianglefellowship.org",
+  "listingUrl": "https://churches.sbc.net/church/triangle-fellowship-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "triangle-fellowship-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trianglefellowship.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "881829342"
+    }
+  ],
+  "advisories": []
+}

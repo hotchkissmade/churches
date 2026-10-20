@@ -1,0 +1,33 @@
+{
+  "id": "a8j7bxd37",
+  "url": "https://constellation.church/a8j7bxd37",
+  "name": "First Baptist Church, Yantis",
+  "displayName": "First Baptist Church, Yantis",
+  "address": {
+    "street": "100 Church Street",
+    "city": "Yantis",
+    "state": "TX",
+    "zip": "75497"
+  },
+  "coordinates": {
+    "latitude": 32.93147850036621,
+    "longitude": -95.57500457763672
+  },
+  "website": "https://fbcyantis.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-yantis-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-yantis-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcyantis.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751533303"
+    }
+  ],
+  "advisories": []
+}

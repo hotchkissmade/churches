@@ -1,0 +1,33 @@
+{
+  "id": "ff62r0a23",
+  "url": "https://constellation.church/ff62r0a23",
+  "name": "Skowhegan Federated Church",
+  "displayName": "Skowhegan Federated Church",
+  "address": {
+    "street": "13 Island Ave",
+    "city": "Skowhegan",
+    "state": "ME",
+    "zip": "04976"
+  },
+  "coordinates": {
+    "latitude": 44.76368522644043,
+    "longitude": -69.71988296508789
+  },
+  "website": "https://skowheganfederatedchurch.org",
+  "listingUrl": "https://www.naccc.org/wpbdp_listing/skowhegan-federated-church/",
+  "identifiers": [
+    {
+      "namespace": "org.naccc.id",
+      "value": "skowhegan-federated-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "skowheganfederatedchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "016005692"
+    }
+  ],
+  "advisories": []
+}

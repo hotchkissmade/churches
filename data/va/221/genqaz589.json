@@ -1,0 +1,33 @@
+{
+  "id": "genqaz589",
+  "url": "https://constellation.church/genqaz589",
+  "name": "Harvester Presbyterian Church",
+  "displayName": "Harvester Presbyterian Church",
+  "address": {
+    "street": "7800 Rolling Road",
+    "city": "Springfield",
+    "state": "VA",
+    "zip": "22153"
+  },
+  "coordinates": {
+    "latitude": 38.74393081665039,
+    "longitude": -77.21302795410156
+  },
+  "website": "https://harvesterpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/577",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "577"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "harvesterpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541105420"
+    }
+  ],
+  "advisories": []
+}

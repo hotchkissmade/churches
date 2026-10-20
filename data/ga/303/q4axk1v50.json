@@ -1,0 +1,37 @@
+{
+  "id": "q4axk1v50",
+  "url": "https://constellation.church/q4axk1v50",
+  "name": "Church of the Incarnation",
+  "displayName": "Church of the Incarnation",
+  "address": {
+    "street": "5522 New Peachtree Rd.",
+    "city": "Chamblee",
+    "state": "GA",
+    "zip": "30341"
+  },
+  "coordinates": {
+    "latitude": 33.89435005187988,
+    "longitude": -84.2950553894043
+  },
+  "website": "https://incaratl.org",
+  "listingUrl": "https://www.acna.org/admin_units/1719",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "1719"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "incaratl.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580572433"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "883174028"
+    }
+  ],
+  "advisories": []
+}

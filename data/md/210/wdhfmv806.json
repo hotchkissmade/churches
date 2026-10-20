@@ -1,0 +1,33 @@
+{
+  "id": "wdhfmv806",
+  "url": "https://constellation.church/wdhfmv806",
+  "name": "Hampstead Baptist Church",
+  "displayName": "Hampstead Baptist Church",
+  "address": {
+    "street": "328 Hanover Pike",
+    "city": "Hampstead",
+    "state": "MD",
+    "zip": "21074"
+  },
+  "coordinates": {
+    "latitude": 39.584665298461914,
+    "longitude": -76.84330368041992
+  },
+  "website": "https://hampsteadbc.org",
+  "listingUrl": "https://churches.sbc.net/church/hampstead-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hampstead-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hampsteadbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521340763"
+    }
+  ],
+  "advisories": []
+}

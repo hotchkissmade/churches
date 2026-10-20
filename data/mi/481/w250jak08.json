@@ -1,0 +1,33 @@
+{
+  "id": "w250jak08",
+  "url": "https://constellation.church/w250jak08",
+  "name": "Outpost Community Church",
+  "displayName": "Outpost Community Church",
+  "address": {
+    "street": "6248 E Dunbar Rd",
+    "city": "Monroe",
+    "state": "MI",
+    "zip": "48161"
+  },
+  "coordinates": {
+    "latitude": 41.89841842651367,
+    "longitude": -83.40846252441406
+  },
+  "website": "https://outpostmonroe.com",
+  "listingUrl": "https://churches.sbc.net/church/outpost-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "outpost-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "outpostmonroe.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "825327884"
+    }
+  ],
+  "advisories": []
+}

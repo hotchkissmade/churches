@@ -1,0 +1,33 @@
+{
+  "id": "e55g46q66",
+  "url": "https://constellation.church/e55g46q66",
+  "name": "Valencia New Community Church",
+  "displayName": "Valencia New Community Church",
+  "address": {
+    "street": "23670 Wiley Canyon Rd",
+    "city": "Valencia",
+    "state": "CA",
+    "zip": "91355"
+  },
+  "coordinates": {
+    "latitude": 34.38816261291504,
+    "longitude": -118.54846954345703
+  },
+  "website": "https://vncc.org",
+  "listingUrl": "https://churches.sbc.net/church/valencia-new-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "valencia-new-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "vncc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "061780269"
+    }
+  ],
+  "advisories": []
+}

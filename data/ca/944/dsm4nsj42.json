@@ -1,0 +1,33 @@
+{
+  "id": "dsm4nsj42",
+  "url": "https://constellation.church/dsm4nsj42",
+  "name": "Iglesia Pentecostal",
+  "displayName": "Iglesia Pentecostal",
+  "address": {
+    "street": "120 N Ellsworth Ave",
+    "city": "San Mateo",
+    "state": "CA",
+    "zip": "94401"
+  },
+  "coordinates": {
+    "latitude": 37.56961631774902,
+    "longitude": -122.32740020751953
+  },
+  "website": "https://iglesiapentecostalsanmateo.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=30ce0209-c26b-4726-99da-9dc711603a99&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "30ce0209-c26b-4726-99da-9dc711603a99"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "iglesiapentecostalsanmateo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "943108214"
+    }
+  ],
+  "advisories": []
+}

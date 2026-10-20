@@ -1,0 +1,33 @@
+{
+  "id": "gypg84g53",
+  "url": "https://constellation.church/gypg84g53",
+  "name": "Ascension Lutheran Church",
+  "displayName": "Ascension Lutheran Church",
+  "address": {
+    "street": "6481 Old Canton Rd",
+    "city": "Jackson",
+    "state": "MS",
+    "zip": "39211-2402"
+  },
+  "coordinates": {
+    "latitude": 32.39861488342285,
+    "longitude": -90.10955429077148
+  },
+  "website": "https://ascensionluth.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f2e4cd6b-1756-40bc-b98c-57753079a6cb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f2e4cd6b-1756-40bc-b98c-57753079a6cb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ascensionluth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640631473"
+    }
+  ],
+  "advisories": []
+}

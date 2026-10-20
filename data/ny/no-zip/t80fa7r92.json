@@ -1,0 +1,33 @@
+{
+  "id": "t80fa7r92",
+  "url": "https://constellation.church/t80fa7r92",
+  "name": "Manhattan Friends Meeting (NYYM)",
+  "displayName": "Manhattan Friends Meeting (NYYM)",
+  "address": {
+    "street": "15 Rutherford Pl",
+    "city": "New York",
+    "state": "NY",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 40.73360824584961,
+    "longitude": -73.98521041870117
+  },
+  "website": "https://nyym.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/manhattan-friends-meeting-nyym/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "manhattan-friends-meeting-nyym"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nyym.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "135679424"
+    }
+  ],
+  "advisories": []
+}

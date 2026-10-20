@@ -1,0 +1,33 @@
+{
+  "id": "j0kzfy837",
+  "url": "https://constellation.church/j0kzfy837",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "1245 6th Ave W",
+    "city": "Hendersonville",
+    "state": "NC",
+    "zip": "28739-3311"
+  },
+  "coordinates": {
+    "latitude": 35.3215389251709,
+    "longitude": -82.47861862182617
+  },
+  "website": "https://gracehendersonville.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=acb84291-321f-498f-9eb7-59c763b38e14",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "acb84291-321f-498f-9eb7-59c763b38e14"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracehendersonville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561134664"
+    }
+  ],
+  "advisories": []
+}

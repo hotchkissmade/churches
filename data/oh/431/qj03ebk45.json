@@ -1,0 +1,33 @@
+{
+  "id": "qj03ebk45",
+  "url": "https://constellation.church/qj03ebk45",
+  "name": "Grace Church Anglican",
+  "displayName": "Grace Church Anglican",
+  "address": {
+    "street": "574 East Main St.",
+    "city": "Circleville",
+    "state": "OH",
+    "zip": "43113"
+  },
+  "coordinates": {
+    "latitude": 39.59709930419922,
+    "longitude": -82.93133544921875
+  },
+  "website": "https://gracech.us",
+  "listingUrl": "https://www.acna.org/admin_units/221",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "221"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracech.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311443763"
+    }
+  ],
+  "advisories": []
+}

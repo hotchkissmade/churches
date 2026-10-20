@@ -1,0 +1,37 @@
+{
+  "id": "bff43ra08",
+  "url": "https://constellation.church/bff43ra08",
+  "name": "RCCG NEW LIGHT CHAPEL",
+  "displayName": "RCCG New Light Chapel",
+  "address": {
+    "street": "2703 W Emaus Av",
+    "city": "Allentown",
+    "state": "PA",
+    "zip": "18103"
+  },
+  "coordinates": {
+    "latitude": 40.56197166442871,
+    "longitude": -75.47757339477539
+  },
+  "website": "https://rccgnewlightchapel.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=17283&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "17283"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rccgnewlightchapel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "202555382"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "931750323"
+    }
+  ],
+  "advisories": []
+}

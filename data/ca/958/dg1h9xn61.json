@@ -1,0 +1,33 @@
+{
+  "id": "dg1h9xn61",
+  "url": "https://constellation.church/dg1h9xn61",
+  "name": "Cornerstone Community Church",
+  "displayName": "Cornerstone Community Church",
+  "address": {
+    "street": "3245 Cottage Way",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95825"
+  },
+  "coordinates": {
+    "latitude": 38.60379219055176,
+    "longitude": -121.38777923583984
+  },
+  "website": "https://cccsac.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=c5f88212-14b9-4169-8eaf-3c2e58d0861c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "c5f88212-14b9-4169-8eaf-3c2e58d0861c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cccsac.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942864397"
+    }
+  ],
+  "advisories": []
+}

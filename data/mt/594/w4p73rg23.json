@@ -1,0 +1,33 @@
+{
+  "id": "w4p73rg23",
+  "url": "https://constellation.church/w4p73rg23",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "1009 18th Ave SW",
+    "city": "Great Falls",
+    "state": "MT",
+    "zip": "59404-3423"
+  },
+  "coordinates": {
+    "latitude": 47.48684310913086,
+    "longitude": -111.33073425292969
+  },
+  "website": "https://bethelmt.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f2a94efc-7ed6-4570-ba48-429eb8347b9f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f2a94efc-7ed6-4570-ba48-429eb8347b9f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelmt.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810368189"
+    }
+  ],
+  "advisories": []
+}

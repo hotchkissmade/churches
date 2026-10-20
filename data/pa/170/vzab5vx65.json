@@ -1,0 +1,33 @@
+{
+  "id": "vzab5vx65",
+  "url": "https://constellation.church/vzab5vx65",
+  "name": "Elizabethtown BIC",
+  "displayName": "Elizabethtown Brethren in Christ Church",
+  "address": {
+    "street": "996 E High St.",
+    "city": "Elizabethtown",
+    "state": "PA",
+    "zip": "17022"
+  },
+  "coordinates": {
+    "latitude": 40.1618709564209,
+    "longitude": -76.5817642211914
+  },
+  "website": "https://etownbic.org",
+  "listingUrl": "https://bicus.org/church/elizabethtown-bic/",
+  "identifiers": [
+    {
+      "namespace": "org.bicus.id",
+      "value": "360"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "etownbic.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231872979"
+    }
+  ],
+  "advisories": []
+}

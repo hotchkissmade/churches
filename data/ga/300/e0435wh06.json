@@ -1,0 +1,33 @@
+{
+  "id": "e0435wh06",
+  "url": "https://constellation.church/e0435wh06",
+  "name": "Redeemer Church",
+  "displayName": "Redeemer Church",
+  "address": {
+    "street": "3750 Zoar Church Rd SW",
+    "city": "Snellville",
+    "state": "GA",
+    "zip": "30039"
+  },
+  "coordinates": {
+    "latitude": 33.809823989868164,
+    "longitude": -84.04171752929688
+  },
+  "website": "https://redeemerpc.com",
+  "listingUrl": "https://eco-pres.org/churches/redeemer-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "redeemer-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerpc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581601669"
+    }
+  ],
+  "advisories": []
+}

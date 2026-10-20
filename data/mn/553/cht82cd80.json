@@ -1,0 +1,33 @@
+{
+  "id": "cht82cd80",
+  "url": "https://constellation.church/cht82cd80",
+  "name": "Elk River Lutheran Church-Elca",
+  "displayName": "Elk River Lutheran Church-Elca",
+  "address": {
+    "street": "729 Main St NW",
+    "city": "Elk River",
+    "state": "MN",
+    "zip": "55330-1504"
+  },
+  "coordinates": {
+    "latitude": 45.302852630615234,
+    "longitude": -93.56858825683594
+  },
+  "website": "https://elkriverlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=18ec8cab-1297-45c3-aeeb-1064081f7166",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "18ec8cab-1297-45c3-aeeb-1064081f7166"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elkriverlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "271910102"
+    }
+  ],
+  "advisories": []
+}

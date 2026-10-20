@@ -1,0 +1,33 @@
+{
+  "id": "ksxmqx272",
+  "url": "https://constellation.church/ksxmqx272",
+  "name": "Known Church",
+  "displayName": "Known Church",
+  "address": {
+    "street": "15042 W Sweetwater Ave",
+    "city": "Surprise",
+    "state": "AZ",
+    "zip": "85379"
+  },
+  "coordinates": {
+    "latitude": 33.60384941101074,
+    "longitude": -112.38426971435547
+  },
+  "website": "https://known.church",
+  "listingUrl": "https://ub.org/churches/find-a-church/known-church",
+  "identifiers": [
+    {
+      "namespace": "org.ub.id",
+      "value": "known-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "known.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "853476220"
+    }
+  ],
+  "advisories": []
+}

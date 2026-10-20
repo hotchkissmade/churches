@@ -1,0 +1,33 @@
+{
+  "id": "yzqx45g06",
+  "url": "https://constellation.church/yzqx45g06",
+  "name": "Shekinah Chapel",
+  "displayName": "Shekinah Chapel",
+  "address": {
+    "street": "13800 S Wabash Ave",
+    "city": "Riverdale",
+    "state": "IL",
+    "zip": "60827-2906"
+  },
+  "coordinates": {
+    "latitude": 41.64443588256836,
+    "longitude": -87.62099838256836
+  },
+  "website": "https://shekinahchapel.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cdc1b3c5-0d46-49b3-b0ef-d9493c5c4d58",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cdc1b3c5-0d46-49b3-b0ef-d9493c5c4d58"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "shekinahchapel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510600195"
+    }
+  ],
+  "advisories": []
+}

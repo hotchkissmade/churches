@@ -1,0 +1,33 @@
+{
+  "id": "gs10ybs27",
+  "url": "https://constellation.church/gs10ybs27",
+  "name": "The Summit Church",
+  "displayName": "The Summit Church",
+  "address": {
+    "street": "6600 Crystal Hill Rd",
+    "city": "North Little Rock",
+    "state": "AR",
+    "zip": "72118"
+  },
+  "coordinates": {
+    "latitude": 34.815792083740234,
+    "longitude": -92.33918762207031
+  },
+  "website": "https://thesummitchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/the-summit-church-5/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-summit-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thesummitchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "582421033"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dv2dzty82",
+  "url": "https://constellation.church/dv2dzty82",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "1155 N Highland Ave NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30306-3453"
+  },
+  "coordinates": {
+    "latitude": 33.78613471984863,
+    "longitude": -84.35487747192383
+  },
+  "website": "https://gracemidtown.org",
+  "listingUrl": "https://locator.lcms.org/church/C/40255",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "40255"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracemidtown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237046296"
+    }
+  ],
+  "advisories": []
+}

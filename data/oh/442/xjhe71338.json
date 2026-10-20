@@ -1,0 +1,33 @@
+{
+  "id": "xjhe71338",
+  "url": "https://constellation.church/xjhe71338",
+  "name": "Harvest Presbyterian Church",
+  "displayName": "Harvest Presbyterian Church",
+  "address": {
+    "street": "1095 East Reagan Parkway",
+    "city": "Medina",
+    "state": "OH",
+    "zip": "44256"
+  },
+  "coordinates": {
+    "latitude": 41.15272903442383,
+    "longitude": -81.83760070800781
+  },
+  "website": "https://harvestpca.church",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/575",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "575"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "harvestpca.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341531628"
+    }
+  ],
+  "advisories": []
+}

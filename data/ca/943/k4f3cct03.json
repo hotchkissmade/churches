@@ -1,0 +1,33 @@
+{
+  "id": "k4f3cct03",
+  "url": "https://constellation.church/k4f3cct03",
+  "name": "Grace Presbyterian Church of Silicon Valley",
+  "displayName": "Grace Presbyterian Church of Silicon Valley",
+  "address": {
+    "street": "305 N. California Avenue",
+    "city": "Palo Alto",
+    "state": "CA",
+    "zip": "94301"
+  },
+  "coordinates": {
+    "latitude": 37.43283653259277,
+    "longitude": -122.14004516601562
+  },
+  "website": "https://gracepres.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4275",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4275"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracepres.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "943375692"
+    }
+  ],
+  "advisories": []
+}

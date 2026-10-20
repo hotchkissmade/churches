@@ -1,0 +1,33 @@
+{
+  "id": "ckacmth10",
+  "url": "https://constellation.church/ckacmth10",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "1689 Martin Luther King Jr Pkwy",
+    "city": "Griffin",
+    "state": "GA",
+    "zip": "30224"
+  },
+  "coordinates": {
+    "latitude": 33.19741249084473,
+    "longitude": -84.28559112548828
+  },
+  "website": "https://stjohngriffin.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=75fd3530-9aba-44f3-863b-d091af8a316b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "75fd3530-9aba-44f3-863b-d091af8a316b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohngriffin.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581541754"
+    }
+  ],
+  "advisories": []
+}

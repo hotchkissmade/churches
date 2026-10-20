@@ -1,0 +1,33 @@
+{
+  "id": "fz6zwd013",
+  "url": "https://constellation.church/fz6zwd013",
+  "name": "Immanuel Evangelical Lutheran Church",
+  "displayName": "Immanuel Evangelical Lutheran Church",
+  "address": {
+    "street": "131 W Main St",
+    "city": "Webster",
+    "state": "NY",
+    "zip": "14580-2918"
+  },
+  "coordinates": {
+    "latitude": 43.21207618713379,
+    "longitude": -77.43541717529297
+  },
+  "website": "https://immanuelwebster.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=aa5a4cec-61f8-4413-afaf-1384d4296a86",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "aa5a4cec-61f8-4413-afaf-1384d4296a86"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "immanuelwebster.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161137122"
+    }
+  ],
+  "advisories": []
+}

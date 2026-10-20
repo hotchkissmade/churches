@@ -1,0 +1,33 @@
+{
+  "id": "sfef5c480",
+  "url": "https://constellation.church/sfef5c480",
+  "name": "GracePoint Church",
+  "displayName": "GracePoint Church",
+  "address": {
+    "street": "205 43rd Ave NE",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58503-0385"
+  },
+  "coordinates": {
+    "latitude": 46.851558685302734,
+    "longitude": -100.79261016845703
+  },
+  "website": "https://gracepoint.life",
+  "listingUrl": "https://churches.efca.org/?id=12253",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12253"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracepoint.life"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450408605"
+    }
+  ],
+  "advisories": []
+}

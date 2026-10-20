@@ -1,0 +1,33 @@
+{
+  "id": "ce9356m70",
+  "url": "https://constellation.church/ce9356m70",
+  "name": "Calvary Lutheran Church",
+  "displayName": "Calvary Lutheran Church",
+  "address": {
+    "street": "2900 Avenue of the Cities",
+    "city": "Moline",
+    "state": "IL",
+    "zip": "61265-4263"
+  },
+  "coordinates": {
+    "latitude": 41.49203681945801,
+    "longitude": -90.4963150024414
+  },
+  "website": "https://calvarymoline.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=00afb16a-c343-4c84-8df1-f2ddc72c09df",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "00afb16a-c343-4c84-8df1-f2ddc72c09df"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "calvarymoline.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362594578"
+    }
+  ],
+  "advisories": []
+}

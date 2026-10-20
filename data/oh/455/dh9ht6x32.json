@@ -1,0 +1,33 @@
+{
+  "id": "dh9ht6x32",
+  "url": "https://constellation.church/dh9ht6x32",
+  "name": "Zion Evangelical Lutheran Church",
+  "displayName": "Zion Evangelical Lutheran Church",
+  "address": {
+    "street": "1500 Broadway St",
+    "city": "Springfield",
+    "state": "OH",
+    "zip": "45504-2311"
+  },
+  "coordinates": {
+    "latitude": 39.93190956115723,
+    "longitude": -83.8353385925293
+  },
+  "website": "https://zionspringfield.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6ce49fdd-0863-4e79-9753-9bde59a608d6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6ce49fdd-0863-4e79-9753-9bde59a608d6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionspringfield.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "316009965"
+    }
+  ],
+  "advisories": []
+}

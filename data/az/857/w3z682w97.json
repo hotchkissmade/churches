@@ -1,0 +1,33 @@
+{
+  "id": "w3z682w97",
+  "url": "https://constellation.church/w3z682w97",
+  "name": "St. Michael's School",
+  "displayName": "St. Michael's School",
+  "address": {
+    "street": "602 N. Wilmot Road",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85711"
+  },
+  "coordinates": {
+    "latitude": 32.2290401,
+    "longitude": -110.8578717
+  },
+  "website": "https://smstucson.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-arizona/list/st-michaels-school",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-arizona/st-michaels-school"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "smstucson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860143859"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "yhz01fw30",
+  "url": "https://constellation.church/yhz01fw30",
+  "name": "Heartland Community Church",
+  "displayName": "Heartland Community Church",
+  "address": {
+    "street": "225 Avenue B NW",
+    "city": "Winter Haven",
+    "state": "FL",
+    "zip": "33881"
+  },
+  "coordinates": {
+    "latitude": 28.02463722229004,
+    "longitude": -81.72931289672852
+  },
+  "website": "https://heartchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/heartland-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "heartland-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "heartchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593721126"
+    }
+  ],
+  "advisories": []
+}

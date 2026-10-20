@@ -1,0 +1,33 @@
+{
+  "id": "e4dkm2g25",
+  "url": "https://constellation.church/e4dkm2g25",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "4455 Noble Ave",
+    "city": "Sherman Oaks",
+    "state": "CA",
+    "zip": "91403"
+  },
+  "coordinates": {
+    "latitude": 34.15241050720215,
+    "longitude": -118.46200561523438
+  },
+  "website": "https://shermanoakspc.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/608/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "608"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "shermanoakspc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951968716"
+    }
+  ],
+  "advisories": []
+}

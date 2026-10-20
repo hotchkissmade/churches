@@ -1,0 +1,33 @@
+{
+  "id": "vnf71e906",
+  "url": "https://constellation.church/vnf71e906",
+  "name": "Storefront Church",
+  "displayName": "Storefront Church",
+  "address": {
+    "street": "360 W 21 Street, Apt 2H",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10011"
+  },
+  "coordinates": {
+    "latitude": 40.7450144,
+    "longitude": -74.002049
+  },
+  "website": "https://storefront.church/about",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6604",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6604"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "storefront.church/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "843819060"
+    }
+  ],
+  "advisories": []
+}

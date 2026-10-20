@@ -1,0 +1,33 @@
+{
+  "id": "knam39706",
+  "url": "https://constellation.church/knam39706",
+  "name": "Epworth United Methodist Church",
+  "displayName": "Epworth United Methodist Church",
+  "address": {
+    "street": "3002 Hope Valley Rd",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27707-3832"
+  },
+  "coordinates": {
+    "latitude": 35.969587326049805,
+    "longitude": -78.93291091918945
+  },
+  "website": "https://epworth-umc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFNWPIA5",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFNWPIA5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "epworth-umc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560945708"
+    }
+  ],
+  "advisories": []
+}

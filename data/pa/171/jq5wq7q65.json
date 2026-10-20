@@ -1,0 +1,37 @@
+{
+  "id": "jq5wq7q65",
+  "url": "https://constellation.church/jq5wq7q65",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "15 South 4th Street",
+    "city": "Harrisburg",
+    "state": "PA",
+    "zip": "17101"
+  },
+  "coordinates": {
+    "latitude": 40.26163864135742,
+    "longitude": -76.8790397644043
+  },
+  "website": "https://zionharrisburg.org",
+  "listingUrl": "https://lcmc.net/congregation/110900",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "110900"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionharrisburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231366006"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231682669"
+    }
+  ],
+  "advisories": []
+}

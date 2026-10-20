@@ -1,0 +1,33 @@
+{
+  "id": "s8tt0bg25",
+  "url": "https://constellation.church/s8tt0bg25",
+  "name": "St. Francis Episcopal Church",
+  "displayName": "St. Francis Episcopal Church",
+  "address": {
+    "street": "726 Maple St.",
+    "city": "Denham Springs",
+    "state": "LA",
+    "zip": "70726"
+  },
+  "coordinates": {
+    "latitude": 30.49425506591797,
+    "longitude": -90.946044921875
+  },
+  "website": "https://stfrands.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-louisiana/list/st-francis-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-louisiana/st-francis-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stfrands.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720827699"
+    }
+  ],
+  "advisories": []
+}

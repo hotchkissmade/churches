@@ -1,0 +1,33 @@
+{
+  "id": "p5arbh502",
+  "url": "https://constellation.church/p5arbh502",
+  "name": "Meridian Presbyterian Church",
+  "displayName": "Meridian Presbyterian Church",
+  "address": {
+    "street": "4150 Highland Ave",
+    "city": "Meridian",
+    "state": "PA",
+    "zip": "16001"
+  },
+  "coordinates": {
+    "latitude": 40.84754943847656,
+    "longitude": -79.96207427978516
+  },
+  "website": "https://meridianpres.org",
+  "listingUrl": "https://eco-pres.org/churches/meridian-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "meridian-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "meridianpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251116565"
+    }
+  ],
+  "advisories": []
+}

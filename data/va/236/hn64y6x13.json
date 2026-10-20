@@ -1,0 +1,33 @@
+{
+  "id": "hn64y6x13",
+  "url": "https://constellation.church/hn64y6x13",
+  "name": "Grafton Baptist Church",
+  "displayName": "Grafton Baptist Church",
+  "address": {
+    "street": "5440 George Washington Mem Hwy",
+    "city": "Yorktown",
+    "state": "VA",
+    "zip": "23692"
+  },
+  "coordinates": {
+    "latitude": 37.15984535217285,
+    "longitude": -76.4620475769043
+  },
+  "website": "https://graftonbc.com/ministries",
+  "listingUrl": "https://churches.sbc.net/church/grafton-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grafton-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graftonbc.com/ministries"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341630157"
+    }
+  ],
+  "advisories": []
+}

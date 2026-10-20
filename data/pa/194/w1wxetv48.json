@@ -1,0 +1,33 @@
+{
+  "id": "w1wxetv48",
+  "url": "https://constellation.church/w1wxetv48",
+  "name": "St James Lutheran Church",
+  "displayName": "St. James Lutheran Church",
+  "address": {
+    "street": "1101 E High St",
+    "city": "Pottstown",
+    "state": "PA",
+    "zip": "19464-4909"
+  },
+  "coordinates": {
+    "latitude": 40.244205474853516,
+    "longitude": -75.62540054321289
+  },
+  "website": "https://stjamespottstown.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c87a6e2d-c0ab-4e6b-a21c-6b38db1fa6a8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c87a6e2d-c0ab-4e6b-a21c-6b38db1fa6a8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamespottstown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231352454"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "e2r9gc563",
+  "url": "https://constellation.church/e2r9gc563",
+  "name": "Vestal United Methodist Church",
+  "displayName": "Vestal United Methodist Church",
+  "address": {
+    "street": "328 MAIN St",
+    "city": "Vestal",
+    "state": "NY",
+    "zip": "13850"
+  },
+  "coordinates": {
+    "latitude": 42.08274841308594,
+    "longitude": -76.05363082885742
+  },
+  "website": "https://vestalumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFBLNIA5",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFBLNIA5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "vestalumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "150585879"
+    }
+  ],
+  "advisories": []
+}

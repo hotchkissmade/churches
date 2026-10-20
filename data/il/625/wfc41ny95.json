@@ -1,0 +1,33 @@
+{
+  "id": "wfc41ny95",
+  "url": "https://constellation.church/wfc41ny95",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "1001 N 8th St",
+    "city": "Pawnee",
+    "state": "IL",
+    "zip": "62558"
+  },
+  "coordinates": {
+    "latitude": 39.59523963928223,
+    "longitude": -89.58342742919922
+  },
+  "website": "https://pawneeassembly.churchcenter.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=07f2ae40-bc5e-43b2-b06c-8445efce9b6a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "07f2ae40-bc5e-43b2-b06c-8445efce9b6a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pawneeassembly.churchcenter.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "731209602"
+    }
+  ],
+  "advisories": []
+}

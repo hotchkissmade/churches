@@ -1,0 +1,33 @@
+{
+  "id": "ez9afmc31",
+  "url": "https://constellation.church/ez9afmc31",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "1244 Saint Pauls Church Rd",
+    "city": "Red Hill",
+    "state": "PA",
+    "zip": "18073-1207"
+  },
+  "coordinates": {
+    "latitude": 40.38875389099121,
+    "longitude": -75.47784805297852
+  },
+  "website": "https://stpaulredhill.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6b6c444c-e767-414f-b7d4-45d99671e994",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6b6c444c-e767-414f-b7d4-45d99671e994"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulredhill.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231384952"
+    }
+  ],
+  "advisories": []
+}

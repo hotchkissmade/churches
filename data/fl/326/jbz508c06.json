@@ -1,0 +1,33 @@
+{
+  "id": "jbz508c06",
+  "url": "https://constellation.church/jbz508c06",
+  "name": "First Baptist Church of Cedar Key",
+  "displayName": "First Baptist Church of Cedar Key",
+  "address": {
+    "street": "717 2nd St",
+    "city": "Cedar Key",
+    "state": "FL",
+    "zip": "32625"
+  },
+  "coordinates": {
+    "latitude": 29.13566017150879,
+    "longitude": -83.03453063964844
+  },
+  "website": "https://cedarkeybaptist.com/sermons",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-cedar-key/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-cedar-key"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cedarkeybaptist.com/sermons"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592621480"
+    }
+  ],
+  "advisories": []
+}

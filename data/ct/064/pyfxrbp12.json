@@ -1,0 +1,33 @@
+{
+  "id": "pyfxrbp12",
+  "url": "https://constellation.church/pyfxrbp12",
+  "name": "Cheshire Lutheran Church",
+  "displayName": "Cheshire Lutheran Church",
+  "address": {
+    "street": "660 W Main St",
+    "city": "Cheshire",
+    "state": "CT",
+    "zip": "06410-3923"
+  },
+  "coordinates": {
+    "latitude": 41.51115798950195,
+    "longitude": -72.91744613647461
+  },
+  "website": "https://cheshirelutheran.org",
+  "listingUrl": "https://locator.lcms.org/church/C/152939",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "152939"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cheshirelutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "066061857"
+    }
+  ],
+  "advisories": []
+}

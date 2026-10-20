@@ -1,0 +1,33 @@
+{
+  "id": "dsvwvya75",
+  "url": "https://constellation.church/dsvwvya75",
+  "name": "Church at Pensacola",
+  "displayName": "Church at Pensacola",
+  "address": {
+    "street": "1507 Creighton Rd",
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32504"
+  },
+  "coordinates": {
+    "latitude": 30.495304107666016,
+    "longitude": -87.20832824707031
+  },
+  "website": "https://churchatpensacola.com/home",
+  "listingUrl": "https://churches.sbc.net/church/church-at-pensacola/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "church-at-pensacola"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchatpensacola.com/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "250057614"
+    }
+  ],
+  "advisories": []
+}

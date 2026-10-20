@@ -1,0 +1,33 @@
+{
+  "id": "cj46qgw35",
+  "url": "https://constellation.church/cj46qgw35",
+  "name": "Mount Zion Lutheran Church",
+  "displayName": "Mount Zion Lutheran Church",
+  "address": {
+    "street": "12012 W North Ave",
+    "city": "Wauwatosa",
+    "state": "WI",
+    "zip": "53226-2040"
+  },
+  "coordinates": {
+    "latitude": 43.06025505065918,
+    "longitude": -88.06360626220703
+  },
+  "website": "https://mtzionlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9ada6c77-48ed-4e03-87ce-e730249816b5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9ada6c77-48ed-4e03-87ce-e730249816b5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mtzionlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396027450"
+    }
+  ],
+  "advisories": []
+}

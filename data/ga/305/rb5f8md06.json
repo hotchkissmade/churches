@@ -1,0 +1,33 @@
+{
+  "id": "rb5f8md06",
+  "url": "https://constellation.church/rb5f8md06",
+  "name": "Reformation Presbyterian Church",
+  "displayName": "Reformation Presbyterian Church",
+  "address": {
+    "street": "85 Washington Street",
+    "city": "Jefferson",
+    "state": "GA",
+    "zip": "30549"
+  },
+  "coordinates": {
+    "latitude": 34.11823081970215,
+    "longitude": -83.57435607910156
+  },
+  "website": "https://reformationpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/7012",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "7012"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "reformationpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "331714923"
+    }
+  ],
+  "advisories": []
+}

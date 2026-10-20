@@ -1,0 +1,33 @@
+{
+  "id": "k1mhbqs51",
+  "url": "https://constellation.church/k1mhbqs51",
+  "name": "London Village Baptist Church",
+  "displayName": "London Village Baptist Church",
+  "address": {
+    "street": "586 Millchop Ln",
+    "city": "Magnolia",
+    "state": "DE",
+    "zip": "19962"
+  },
+  "coordinates": {
+    "latitude": 39.06711006164551,
+    "longitude": -75.53294372558594
+  },
+  "website": "https://londonvillagebaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/london-village-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "london-village-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "londonvillagebaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900521172"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "g53y29862",
+  "url": "https://constellation.church/g53y29862",
+  "name": "Fulton Presbyterian Church",
+  "displayName": "Fulton Presbyterian Church",
+  "address": {
+    "street": "821 Abner Creek Road",
+    "city": "Greer",
+    "state": "SC",
+    "zip": "29651"
+  },
+  "coordinates": {
+    "latitude": 34.87246131896973,
+    "longitude": -82.20613861083984
+  },
+  "website": "https://fultonpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/500",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "500"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fultonpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570771681"
+    }
+  ],
+  "advisories": []
+}

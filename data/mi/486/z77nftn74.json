@@ -1,0 +1,33 @@
+{
+  "id": "z77nftn74",
+  "url": "https://constellation.church/z77nftn74",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "3557 E Colonville Rd",
+    "city": "Clare",
+    "state": "MI",
+    "zip": "48617"
+  },
+  "coordinates": {
+    "latitude": 43.84417724609375,
+    "longitude": -84.7770767211914
+  },
+  "website": "https://clareassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d38ed25d-6fe6-4a84-9542-7793e45454fa&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d38ed25d-6fe6-4a84-9542-7793e45454fa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clareassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382906185"
+    }
+  ],
+  "advisories": []
+}

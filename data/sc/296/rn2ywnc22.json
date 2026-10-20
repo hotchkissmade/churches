@@ -1,0 +1,33 @@
+{
+  "id": "rn2ywnc22",
+  "url": "https://constellation.church/rn2ywnc22",
+  "name": "Anderson First Baptist Church",
+  "displayName": "Anderson First Baptist Church",
+  "address": {
+    "street": "307 S Manning St",
+    "city": "Anderson",
+    "state": "SC",
+    "zip": "29624"
+  },
+  "coordinates": {
+    "latitude": 34.502580642700195,
+    "longitude": -82.64683532714844
+  },
+  "website": "https://andersonfbc.org",
+  "listingUrl": "https://churches.sbc.net/church/anderson-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "anderson-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "andersonfbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570355292"
+    }
+  ],
+  "advisories": []
+}

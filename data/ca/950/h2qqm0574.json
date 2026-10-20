@@ -1,0 +1,33 @@
+{
+  "id": "h2qqm0574",
+  "url": "https://constellation.church/h2qqm0574",
+  "name": "Church in Santa Cruz",
+  "displayName": "Church in Santa Cruz",
+  "address": {
+    "street": "126 Doyle St",
+    "city": "Santa Cruz",
+    "state": "CA",
+    "zip": "95062"
+  },
+  "coordinates": {
+    "latitude": 36.97945785522461,
+    "longitude": -122.01321411132812
+  },
+  "website": "https://churchinsantacruz.org",
+  "listingUrl": "https://localchurches.org/churches/santa-cruz-ca-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "santa-cruz-ca-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinsantacruz.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237116608"
+    }
+  ],
+  "advisories": []
+}

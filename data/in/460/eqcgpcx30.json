@@ -1,0 +1,33 @@
+{
+  "id": "eqcgpcx30",
+  "url": "https://constellation.church/eqcgpcx30",
+  "name": "North Circle Church",
+  "displayName": "North Circle Church",
+  "address": {
+    "street": "20101 Grassy Branch Rd",
+    "city": "Westfield",
+    "state": "IN",
+    "zip": "46074"
+  },
+  "coordinates": {
+    "latitude": 40.08022499084473,
+    "longitude": -86.10813522338867
+  },
+  "website": "https://northcircle.church",
+  "listingUrl": "https://churches.sbc.net/church/north-circle-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "north-circle-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northcircle.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "823503631"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bzvmhtq96",
+  "url": "https://constellation.church/bzvmhtq96",
+  "name": "Westwood Presbyterian Church",
+  "displayName": "Westwood Presbyterian Church",
+  "address": {
+    "street": "10822 Wilshire Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90024"
+  },
+  "coordinates": {
+    "latitude": 34.05931282043457,
+    "longitude": -118.44078063964844
+  },
+  "website": "https://westwoodpres.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/573/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "573"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westwoodpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951831094"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ze8yagx02",
+  "url": "https://constellation.church/ze8yagx02",
+  "name": "Temple Hills Baptist Church",
+  "displayName": "Temple Hills Baptist Church",
+  "address": {
+    "street": "4821 Saint Barnabas Rd",
+    "city": "Temple Hills",
+    "state": "MD",
+    "zip": "20748"
+  },
+  "coordinates": {
+    "latitude": 38.82368850708008,
+    "longitude": -76.95211410522461
+  },
+  "website": "https://ibtemplehills.org",
+  "listingUrl": "https://churches.sbc.net/church/temple-hills-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "temple-hills-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ibtemplehills.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "883548628"
+    }
+  ],
+  "advisories": []
+}

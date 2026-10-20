@@ -1,0 +1,33 @@
+{
+  "id": "f032c7b92",
+  "url": "https://constellation.church/f032c7b92",
+  "name": "Fairview Baptist Church",
+  "displayName": "Fairview Baptist Church",
+  "address": {
+    "street": "335 Warner St",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45219"
+  },
+  "coordinates": {
+    "latitude": 39.124945,
+    "longitude": -84.524504
+  },
+  "website": "https://cincinnatichurchcollective.com/directory",
+  "listingUrl": "https://churches.sbc.net/church/fairview-baptist-church-50/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "fairview-baptist-church-50"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cincinnatichurchcollective.com/directory"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310894800"
+    }
+  ],
+  "advisories": []
+}

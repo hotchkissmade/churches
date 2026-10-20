@@ -1,0 +1,33 @@
+{
+  "id": "qb1msaq78",
+  "url": "https://constellation.church/qb1msaq78",
+  "name": "Second Baptist Church, Huntsville",
+  "displayName": "Second Baptist Church, Huntsville",
+  "address": {
+    "street": "2517 Sam Houston Avenue",
+    "city": "Huntsville",
+    "state": "TX",
+    "zip": "77340"
+  },
+  "coordinates": {
+    "latitude": 30.706531524658203,
+    "longitude": -95.54508972167969
+  },
+  "website": "https://secondhuntsville.com",
+  "listingUrl": "https://churches.sbc.net/church/second-baptist-church-huntsville-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "second-baptist-church-huntsville-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "secondhuntsville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "746106916"
+    }
+  ],
+  "advisories": []
+}

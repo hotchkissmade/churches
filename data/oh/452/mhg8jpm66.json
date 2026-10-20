@@ -1,0 +1,33 @@
+{
+  "id": "mhg8jpm66",
+  "url": "https://constellation.church/mhg8jpm66",
+  "name": "The Diocese of Southern Ohio",
+  "displayName": "The Diocese of Southern Ohio",
+  "address": {
+    "street": "412 Sycamore St",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45202"
+  },
+  "coordinates": {
+    "latitude": 39.1008516,
+    "longitude": -84.5077712
+  },
+  "website": "https://diosohio.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-southern-ohio/list/diocese-southern-ohio",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-southern-ohio/diocese-southern-ohio"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "diosohio.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310537481"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ahe2bqk63",
+  "url": "https://constellation.church/ahe2bqk63",
+  "name": "Exeter Friends Meeting (PHLYM)",
+  "displayName": "Exeter Friends Meeting (PHLYM)",
+  "address": {
+    "street": "191 Meetinghouse Road",
+    "city": "Douglassville",
+    "state": "PA",
+    "zip": "19518"
+  },
+  "coordinates": {
+    "latitude": 40.31317901611328,
+    "longitude": -75.7845573425293
+  },
+  "website": "https://exeterquakers.org/our-history",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/exeter-friends-meeting-phlym/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "exeter-friends-meeting-phlym"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "exeterquakers.org/our-history"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232236337"
+    }
+  ],
+  "advisories": []
+}

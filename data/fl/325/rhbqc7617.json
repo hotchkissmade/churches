@@ -1,0 +1,33 @@
+{
+  "id": "rhbqc7617",
+  "url": "https://constellation.church/rhbqc7617",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "4600 N 9th Ave",
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32503-2444"
+  },
+  "coordinates": {
+    "latitude": 30.465431213378906,
+    "longitude": -87.21390533447266
+  },
+  "website": "https://stpaulpensacola.church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0d73aa38-e52c-442f-9a34-bc277a994533",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0d73aa38-e52c-442f-9a34-bc277a994533"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulpensacola.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590371049"
+    }
+  ],
+  "advisories": []
+}

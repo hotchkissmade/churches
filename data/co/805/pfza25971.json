@@ -1,0 +1,33 @@
+{
+  "id": "pfza25971",
+  "url": "https://constellation.church/pfza25971",
+  "name": "Shepherd of the Mountains Lutheran Church",
+  "displayName": "Shepherd of the Mountains Lutheran Church",
+  "address": {
+    "street": "2000 Ptarmigan Trl",
+    "city": "Estes Park",
+    "state": "CO",
+    "zip": "80517-9760"
+  },
+  "coordinates": {
+    "latitude": 40.390398025512695,
+    "longitude": -105.48939514160156
+  },
+  "website": "https://smlcestes.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dc21769c-e94a-4943-a810-fa3c42ca08df",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dc21769c-e94a-4943-a810-fa3c42ca08df"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "smlcestes.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "841261947"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "js4a90871",
+  "url": "https://constellation.church/js4a90871",
+  "name": "Faith Chapel",
+  "displayName": "Faith Chapel",
+  "address": {
+    "street": "601 NW Pritchard St",
+    "city": "Harlowton",
+    "state": "MT",
+    "zip": "59036"
+  },
+  "coordinates": {
+    "latitude": 46.437355041503906,
+    "longitude": -109.84222412109375
+  },
+  "website": "https://faithinharlo.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=934d37e8-dd76-408d-ad49-a8cc8e148e5b&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "934d37e8-dd76-408d-ad49-a8cc8e148e5b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithinharlo.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810406846"
+    }
+  ],
+  "advisories": []
+}

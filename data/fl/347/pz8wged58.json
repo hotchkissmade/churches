@@ -1,0 +1,33 @@
+{
+  "id": "pz8wged58",
+  "url": "https://constellation.church/pz8wged58",
+  "name": "Grace Community Church",
+  "displayName": "Grace Community Church",
+  "address": {
+    "street": "5501 E Irlo Bronson Memorial Hwy",
+    "city": "St Cloud",
+    "state": "FL",
+    "zip": "34771"
+  },
+  "coordinates": {
+    "latitude": 28.2447509765625,
+    "longitude": -81.2186508178711
+  },
+  "website": "https://gracestcloud.org",
+  "listingUrl": "https://churches.sbc.net/church/grace-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grace-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracestcloud.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593750648"
+    }
+  ],
+  "advisories": []
+}

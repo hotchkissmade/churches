@@ -1,0 +1,33 @@
+{
+  "id": "qp9ebet96",
+  "url": "https://constellation.church/qp9ebet96",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "2001 Santa Clara Ave",
+    "city": "Alameda",
+    "state": "CA",
+    "zip": "94501"
+  },
+  "coordinates": {
+    "latitude": 37.76970863342285,
+    "longitude": -122.25165557861328
+  },
+  "website": "https://alamedachurch.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/753/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "753"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "alamedachurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941294914"
+    }
+  ],
+  "advisories": []
+}

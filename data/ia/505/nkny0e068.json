@@ -1,0 +1,37 @@
+{
+  "id": "nkny0e068",
+  "url": "https://constellation.church/nkny0e068",
+  "name": "St. Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "1112 Bailey St",
+    "city": "Sac City",
+    "state": "IA",
+    "zip": "50583"
+  },
+  "coordinates": {
+    "latitude": 42.41738700866699,
+    "longitude": -94.99810028076172
+  },
+  "website": "https://stpaulssac.org",
+  "listingUrl": "https://idwlcms.org/congregation.php?id=140",
+  "identifiers": [
+    {
+      "namespace": "org.idwlcms.id",
+      "value": "140"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulssac.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426140428"
+    },
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "788002"
+    }
+  ],
+  "advisories": []
+}

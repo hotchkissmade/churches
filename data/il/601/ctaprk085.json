@@ -1,0 +1,33 @@
+{
+  "id": "ctaprk085",
+  "url": "https://constellation.church/ctaprk085",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "324 N 3rd St",
+    "city": "Dekalb",
+    "state": "IL",
+    "zip": "60115-3343"
+  },
+  "coordinates": {
+    "latitude": 41.932430267333984,
+    "longitude": -88.7492904663086
+  },
+  "website": "https://firstdekalb.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a48917c4-482e-4f43-a9d5-2dc1d3cab2d7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a48917c4-482e-4f43-a9d5-2dc1d3cab2d7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstdekalb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362209647"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rwmdz7z11",
+  "url": "https://constellation.church/rwmdz7z11",
+  "name": "The Church of St. James of Jerusalem",
+  "displayName": "The Church of St. James of Jerusalem",
+  "address": {
+    "street": "220 W Penn St",
+    "city": "Long Beach",
+    "state": "NY",
+    "zip": "11561"
+  },
+  "coordinates": {
+    "latitude": 40.5853157043457,
+    "longitude": -73.6705207824707
+  },
+  "website": "https://stjameslb.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-james-jerusalem-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-james-jerusalem-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjameslb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "113026441"
+    }
+  ],
+  "advisories": []
+}

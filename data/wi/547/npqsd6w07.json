@@ -1,0 +1,33 @@
+{
+  "id": "npqsd6w07",
+  "url": "https://constellation.church/npqsd6w07",
+  "name": "REACH Church",
+  "displayName": "REACH Church",
+  "address": {
+    "street": "1505 Cameron St",
+    "city": "Eau Claire",
+    "state": "WI",
+    "zip": "54703-5061"
+  },
+  "coordinates": {
+    "latitude": 44.81416320800781,
+    "longitude": -91.53032684326172
+  },
+  "website": "https://reachfc.org",
+  "listingUrl": "https://churches.efca.org/?id=308873",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "308873"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "reachfc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "824613580"
+    }
+  ],
+  "advisories": []
+}

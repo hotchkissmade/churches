@@ -1,0 +1,33 @@
+{
+  "id": "y64ew1x16",
+  "url": "https://constellation.church/y64ew1x16",
+  "name": "Second Street Presbyterian Church",
+  "displayName": "Second Street Presbyterian Church",
+  "address": {
+    "street": "325 S. Second Street",
+    "city": "Albemarle",
+    "state": "NC",
+    "zip": "28001"
+  },
+  "coordinates": {
+    "latitude": 35.34744071960449,
+    "longitude": -80.19783401489258
+  },
+  "website": "https://secondstpres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/927",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "927"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "secondstpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561409585"
+    }
+  ],
+  "advisories": []
+}

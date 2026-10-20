@@ -1,0 +1,29 @@
+{
+  "id": "mgsdk7d12",
+  "url": "https://constellation.church/mgsdk7d12",
+  "name": "GARWOOD PRESBYTERIAN CHURCH",
+  "displayName": "Garwood Presbyterian Church",
+  "address": {
+    "street": "341 SPRUCE AVE",
+    "city": "Garwood",
+    "state": "NJ",
+    "zip": "07027"
+  },
+  "coordinates": {
+    "latitude": 40.649322509765625,
+    "longitude": -74.32328796386719
+  },
+  "website": "https://garwoodpres.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222097004"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "garwoodpres.org"
+    }
+  ],
+  "advisories": []
+}

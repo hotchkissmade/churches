@@ -1,0 +1,33 @@
+{
+  "id": "adewan205",
+  "url": "https://constellation.church/adewan205",
+  "name": "Maye River Baptist Church",
+  "displayName": "Maye River Baptist Church",
+  "address": {
+    "street": "3507 Okatie Hwy",
+    "city": "Bluffton",
+    "state": "SC",
+    "zip": "29909"
+  },
+  "coordinates": {
+    "latitude": 32.24663734436035,
+    "longitude": -80.97607421875
+  },
+  "website": "https://mayeriverbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/maye-river-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "maye-river-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mayeriverbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570810965"
+    }
+  ],
+  "advisories": []
+}

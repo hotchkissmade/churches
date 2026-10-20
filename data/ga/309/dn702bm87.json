@@ -1,0 +1,33 @@
+{
+  "id": "dn702bm87",
+  "url": "https://constellation.church/dn702bm87",
+  "name": "Cliffwood Presbyterian Church",
+  "displayName": "Cliffwood Presbyterian Church",
+  "address": {
+    "street": "2525 Lumpkin Road",
+    "city": "Augusta",
+    "state": "GA",
+    "zip": "30906"
+  },
+  "coordinates": {
+    "latitude": 33.42379951477051,
+    "longitude": -82.04647064208984
+  },
+  "website": "https://cliffwoodpca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1196",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1196"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cliffwoodpca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581300126"
+    }
+  ],
+  "advisories": []
+}

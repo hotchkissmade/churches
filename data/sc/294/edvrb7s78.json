@@ -1,0 +1,33 @@
+{
+  "id": "edvrb7s78",
+  "url": "https://constellation.church/edvrb7s78",
+  "name": "Holy City Church",
+  "displayName": "Holy City Church",
+  "address": {
+    "street": "1300 Fort Johnson Rd",
+    "city": "Charleston",
+    "state": "SC",
+    "zip": "29412"
+  },
+  "coordinates": {
+    "latitude": 32.72295951843262,
+    "longitude": -79.95122909545898
+  },
+  "website": "https://holycitychurch.net",
+  "listingUrl": "https://churches.sbc.net/church/holy-city-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "holy-city-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holycitychurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "814243980"
+    }
+  ],
+  "advisories": []
+}

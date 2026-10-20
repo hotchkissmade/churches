@@ -1,0 +1,29 @@
+{
+  "id": "nvedcer24",
+  "url": "https://constellation.church/nvedcer24",
+  "name": "BIBLE CHAPEL",
+  "displayName": "Bible Chapel",
+  "address": {
+    "street": "1802 E GRANT RD",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85719"
+  },
+  "coordinates": {
+    "latitude": 32.24966239929199,
+    "longitude": -110.94510650634766
+  },
+  "website": "https://tucsonbiblechapel.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860212579"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tucsonbiblechapel.org"
+    }
+  ],
+  "advisories": []
+}

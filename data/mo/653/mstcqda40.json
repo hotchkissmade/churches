@@ -1,0 +1,33 @@
+{
+  "id": "mstcqda40",
+  "url": "https://constellation.church/mstcqda40",
+  "name": "Camp Branch Baptist Church",
+  "displayName": "Camp Branch Baptist Church",
+  "address": {
+    "street": "18020 32nd Street Rd",
+    "city": "Sedalia",
+    "state": "MO",
+    "zip": "65301"
+  },
+  "coordinates": {
+    "latitude": 38.67337608337402,
+    "longitude": -93.35884857177734
+  },
+  "website": "https://cbbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/camp-branch-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "camp-branch-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cbbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431261265"
+    }
+  ],
+  "advisories": []
+}

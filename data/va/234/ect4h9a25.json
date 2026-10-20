@@ -1,0 +1,33 @@
+{
+  "id": "ect4h9a25",
+  "url": "https://constellation.church/ect4h9a25",
+  "name": "New Covenant Presbyterian Church",
+  "displayName": "New Covenant Presbyterian Church",
+  "address": {
+    "street": "1552 Kempsville Road",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23464"
+  },
+  "coordinates": {
+    "latitude": 36.7900505065918,
+    "longitude": -76.18010330200195
+  },
+  "website": "https://newcovenantpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/758",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "758"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newcovenantpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541161713"
+    }
+  ],
+  "advisories": []
+}

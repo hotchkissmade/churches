@@ -1,0 +1,33 @@
+{
+  "id": "nh5r6dj60",
+  "url": "https://constellation.church/nh5r6dj60",
+  "name": "St Timothy Lutheran Church",
+  "displayName": "St. Timothy Lutheran Church",
+  "address": {
+    "street": "11050 Montwood Dr",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79936-4110"
+  },
+  "coordinates": {
+    "latitude": 31.768312454223633,
+    "longitude": -106.31597900390625
+  },
+  "website": "https://sainttim.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d492f8af-64e0-40ca-97db-c1620176d7d1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d492f8af-64e0-40ca-97db-c1620176d7d1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sainttim.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742221407"
+    }
+  ],
+  "advisories": []
+}

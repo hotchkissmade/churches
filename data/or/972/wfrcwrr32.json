@@ -1,0 +1,33 @@
+{
+  "id": "wfrcwrr32",
+  "url": "https://constellation.church/wfrcwrr32",
+  "name": "Sojourn Community Church",
+  "displayName": "Sojourn Community Church",
+  "address": {
+    "street": "3519 NE 15th Ave #267",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97212"
+  },
+  "coordinates": {
+    "latitude": 45.5485843,
+    "longitude": -122.6511867
+  },
+  "website": "https://sojournpdx.org",
+  "listingUrl": "https://churches.sbc.net/church/sojourn-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sojourn-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sojournpdx.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820702070"
+    }
+  ],
+  "advisories": []
+}

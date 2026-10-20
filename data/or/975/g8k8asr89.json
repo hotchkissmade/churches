@@ -1,0 +1,33 @@
+{
+  "id": "g8k8asr89",
+  "url": "https://constellation.church/g8k8asr89",
+  "name": "Central Neighborhood Church",
+  "displayName": "Central Neighborhood Church",
+  "address": {
+    "street": "4777 S Pacific Hwy",
+    "city": "Phoenix",
+    "state": "OR",
+    "zip": "97535"
+  },
+  "coordinates": {
+    "latitude": 42.265363693237305,
+    "longitude": -122.80561828613281
+  },
+  "website": "https://cncphoenix.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ece37f61-e06a-4927-be57-5511b9230f5a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ece37f61-e06a-4927-be57-5511b9230f5a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cncphoenix.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930853325"
+    }
+  ],
+  "advisories": []
+}

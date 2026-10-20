@@ -1,0 +1,33 @@
+{
+  "id": "mqrvbsv63",
+  "url": "https://constellation.church/mqrvbsv63",
+  "name": "St. Augustine's Church",
+  "displayName": "St. Augustine's Church",
+  "address": {
+    "street": "2732 Benton Blvd",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64128-1130"
+  },
+  "coordinates": {
+    "latitude": 39.07554244995117,
+    "longitude": -94.54933166503906
+  },
+  "website": "https://staugustineskc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-missouri/list/st-augustines-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-missouri/st-augustines-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "staugustineskc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440666824"
+    }
+  ],
+  "advisories": []
+}

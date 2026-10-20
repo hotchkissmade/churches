@@ -1,0 +1,33 @@
+{
+  "id": "cz1nr7e72",
+  "url": "https://constellation.church/cz1nr7e72",
+  "name": "First Baptist Church of Shawnee",
+  "displayName": "First Baptist Church of Shawnee",
+  "address": {
+    "street": "11400 Johnson Drive",
+    "city": "Shawnee",
+    "state": "KS",
+    "zip": "66203"
+  },
+  "coordinates": {
+    "latitude": 39.02371597290039,
+    "longitude": -94.71883392333984
+  },
+  "website": "https://fbcshawnee.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-shawnee/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-shawnee"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcshawnee.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "486075906"
+    }
+  ],
+  "advisories": []
+}

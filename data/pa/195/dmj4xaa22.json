@@ -1,0 +1,33 @@
+{
+  "id": "dmj4xaa22",
+  "url": "https://constellation.church/dmj4xaa22",
+  "name": "St Paul's Evangelical Lutheran Church",
+  "displayName": "St. Paul's Evangelical Lutheran Church",
+  "address": {
+    "street": "117 E Arch St",
+    "city": "Fleetwood",
+    "state": "PA",
+    "zip": "19522-1102"
+  },
+  "coordinates": {
+    "latitude": 40.45733070373535,
+    "longitude": -75.81753158569336
+  },
+  "website": "https://fleetwoodlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=93cd9c59-6a52-4da8-a852-3631c8a50d09",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "93cd9c59-6a52-4da8-a852-3631c8a50d09"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fleetwoodlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237064737"
+    }
+  ],
+  "advisories": []
+}

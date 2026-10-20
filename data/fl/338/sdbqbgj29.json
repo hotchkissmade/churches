@@ -1,0 +1,33 @@
+{
+  "id": "sdbqbgj29",
+  "url": "https://constellation.church/sdbqbgj29",
+  "name": "Parkland Baptist Church",
+  "displayName": "Parkland Baptist Church",
+  "address": {
+    "street": "1800 8th St SE",
+    "city": "Winter Haven",
+    "state": "FL",
+    "zip": "33880"
+  },
+  "coordinates": {
+    "latitude": 28.00494384765625,
+    "longitude": -81.71387481689453
+  },
+  "website": "https://parklandbaptistchurchfl.com",
+  "listingUrl": "https://churches.sbc.net/church/parkland-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "parkland-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parklandbaptistchurchfl.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590973511"
+    }
+  ],
+  "advisories": []
+}

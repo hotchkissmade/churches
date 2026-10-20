@@ -1,0 +1,33 @@
+{
+  "id": "pf9knt930",
+  "url": "https://constellation.church/pf9knt930",
+  "name": "Hulon Baptist Church",
+  "displayName": "Hulon Baptist Church",
+  "address": {
+    "street": "133 Hulon Church Rd",
+    "city": "Batesburg",
+    "state": "SC",
+    "zip": "29006"
+  },
+  "coordinates": {
+    "latitude": 33.86040496826172,
+    "longitude": -81.50748443603516
+  },
+  "website": "https://hulonbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/hulon-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hulon-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hulonbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570760046"
+    }
+  ],
+  "advisories": []
+}

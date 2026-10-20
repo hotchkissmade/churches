@@ -1,0 +1,33 @@
+{
+  "id": "ykrfvpb25",
+  "url": "https://constellation.church/ykrfvpb25",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "5307 N Front St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19120-3227"
+  },
+  "coordinates": {
+    "latitude": 40.0308723449707,
+    "longitude": -75.12226486206055
+  },
+  "website": "https://zionlutheran-pa.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3528d06d-9fe3-4ca6-9c97-9647b7e779d0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3528d06d-9fe3-4ca6-9c97-9647b7e779d0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionlutheran-pa.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231381042"
+    }
+  ],
+  "advisories": []
+}

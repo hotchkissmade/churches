@@ -1,0 +1,33 @@
+{
+  "id": "v40j43z11",
+  "url": "https://constellation.church/v40j43z11",
+  "name": "First Evangelical Lutheran Church",
+  "displayName": "First Evangelical Lutheran Church",
+  "address": {
+    "street": "33 Broadway Street",
+    "city": "Shelby",
+    "state": "OH",
+    "zip": "44875"
+  },
+  "coordinates": {
+    "latitude": 40.88204383850098,
+    "longitude": -82.65616989135742
+  },
+  "website": "https://flcshelby.org",
+  "listingUrl": "https://lcmc.net/congregation/111938",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "111938"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcshelby.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340750343"
+    }
+  ],
+  "advisories": []
+}

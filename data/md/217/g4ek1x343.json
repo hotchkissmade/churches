@@ -1,0 +1,33 @@
+{
+  "id": "g4ek1x343",
+  "url": "https://constellation.church/g4ek1x343",
+  "name": "Evangelical Lutheran Church",
+  "displayName": "Evangelical Lutheran Church",
+  "address": {
+    "street": "31 E Church St",
+    "city": "Frederick",
+    "state": "MD",
+    "zip": "21701-5401"
+  },
+  "coordinates": {
+    "latitude": 39.41541862487793,
+    "longitude": -77.40938949584961
+  },
+  "website": "https://twinspires.org/elchistory",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5c4d7b69-ab33-4a3a-a689-c34c9eedf89a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5c4d7b69-ab33-4a3a-a689-c34c9eedf89a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "twinspires.org/elchistory"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "452957519"
+    }
+  ],
+  "advisories": []
+}

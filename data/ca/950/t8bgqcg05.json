@@ -1,0 +1,33 @@
+{
+  "id": "t8bgqcg05",
+  "url": "https://constellation.church/t8bgqcg05",
+  "name": "Church of St. John the Baptist",
+  "displayName": "Church of St. John the Baptist",
+  "address": {
+    "street": "125 Canterbury Dr",
+    "city": "Aptos",
+    "state": "CA",
+    "zip": "95003-4367"
+  },
+  "coordinates": {
+    "latitude": 36.97735595703125,
+    "longitude": -121.91267395019531
+  },
+  "website": "https://st-john-aptos.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-el-camino-real/list/church-st-john-baptist",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-el-camino-real/church-st-john-baptist"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "st-john-aptos.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941629317"
+    }
+  ],
+  "advisories": []
+}

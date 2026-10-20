@@ -1,0 +1,33 @@
+{
+  "id": "e8c1jt170",
+  "url": "https://constellation.church/e8c1jt170",
+  "name": "Roebuck Baptist Church",
+  "displayName": "Roebuck Baptist Church",
+  "address": {
+    "street": "1979 E Blackstock Rd",
+    "city": "Roebuck",
+    "state": "SC",
+    "zip": "29376"
+  },
+  "coordinates": {
+    "latitude": 34.88179397583008,
+    "longitude": -81.9676284790039
+  },
+  "website": "https://roebuckbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/roebuck-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "roebuck-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "roebuckbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "576020676"
+    }
+  ],
+  "advisories": []
+}

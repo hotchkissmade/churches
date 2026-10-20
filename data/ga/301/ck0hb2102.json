@@ -1,0 +1,33 @@
+{
+  "id": "ck0hb2102",
+  "url": "https://constellation.church/ck0hb2102",
+  "name": "Northstar Church, Inc.",
+  "displayName": "Northstar Church",
+  "address": {
+    "street": "3413 Blue Springs Rd NW",
+    "city": "Kennesaw",
+    "state": "GA",
+    "zip": "30144"
+  },
+  "coordinates": {
+    "latitude": 34.036184310913086,
+    "longitude": -84.65161514282227
+  },
+  "website": "https://northstarchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/northstar-church-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northstar-church-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northstarchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "582270689"
+    }
+  ],
+  "advisories": []
+}

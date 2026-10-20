@@ -1,0 +1,33 @@
+{
+  "id": "h6kp58338",
+  "url": "https://constellation.church/h6kp58338",
+  "name": "Sidney Baptist Church",
+  "displayName": "Sidney Baptist Church",
+  "address": {
+    "street": "1322 E Court St",
+    "city": "Sidney",
+    "state": "OH",
+    "zip": "45365"
+  },
+  "coordinates": {
+    "latitude": 40.28583526611328,
+    "longitude": -84.13615036010742
+  },
+  "website": "https://sidneybaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/sidney-baptist-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sidney-baptist-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sidneybaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237029337"
+    }
+  ],
+  "advisories": []
+}

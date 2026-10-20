@@ -1,0 +1,33 @@
+{
+  "id": "dcat4n838",
+  "url": "https://constellation.church/dcat4n838",
+  "name": "Sacred Mission Church Cincinnati",
+  "displayName": "Sacred Mission Church Cincinnati",
+  "address": {
+    "street": "221 S Forest Ave",
+    "city": "Mason",
+    "state": "OH",
+    "zip": "45040"
+  },
+  "coordinates": {
+    "latitude": 39.35972213745117,
+    "longitude": -84.31536102294922
+  },
+  "website": "https://sacredmission.life",
+  "listingUrl": "https://churches.sbc.net/church/sacred-mission-church-cincinnati/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sacred-mission-church-cincinnati"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sacredmission.life"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "845189920"
+    }
+  ],
+  "advisories": []
+}

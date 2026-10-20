@@ -1,0 +1,33 @@
+{
+  "id": "ej9hd4190",
+  "url": "https://constellation.church/ej9hd4190",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "1301 Nelson St NW",
+    "city": "Warroad",
+    "state": "MN",
+    "zip": "56763"
+  },
+  "coordinates": {
+    "latitude": 48.908897399902344,
+    "longitude": -95.33964538574219
+  },
+  "website": "https://zlcw.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7edf9b86-5fe9-4a2d-9952-f7f32a6b983b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7edf9b86-5fe9-4a2d-9952-f7f32a6b983b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zlcw.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411473281"
+    }
+  ],
+  "advisories": []
+}

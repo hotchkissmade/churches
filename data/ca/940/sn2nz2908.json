@@ -1,0 +1,33 @@
+{
+  "id": "sn2nz2908",
+  "url": "https://constellation.church/sn2nz2908",
+  "name": "Los Altos Lutheran Church",
+  "displayName": "Los Altos Lutheran Church",
+  "address": {
+    "street": "460 S El Monte Ave",
+    "city": "Los Altos",
+    "state": "CA",
+    "zip": "94022-4054"
+  },
+  "coordinates": {
+    "latitude": 37.37434387207031,
+    "longitude": -122.1085205078125
+  },
+  "website": "https://losaltoslutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4074b569-ccd8-4c15-a6a0-f06c91bb139a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4074b569-ccd8-4c15-a6a0-f06c91bb139a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "losaltoslutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "946024550"
+    }
+  ],
+  "advisories": []
+}

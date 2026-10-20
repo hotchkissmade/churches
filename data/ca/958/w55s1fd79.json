@@ -1,0 +1,33 @@
+{
+  "id": "w55s1fd79",
+  "url": "https://constellation.church/w55s1fd79",
+  "name": "Northside Church",
+  "displayName": "Northside Church",
+  "address": {
+    "street": "910 Striker Ave Suite C",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95834"
+  },
+  "coordinates": {
+    "latitude": 38.650413513183594,
+    "longitude": -121.4825210571289
+  },
+  "website": "https://northsidechurch.us",
+  "listingUrl": "https://venturechurches.org/churches/northside-church/",
+  "identifiers": [
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "northside-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northsidechurch.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "680438571"
+    }
+  ],
+  "advisories": []
+}

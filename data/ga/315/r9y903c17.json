@@ -1,0 +1,33 @@
+{
+  "id": "r9y903c17",
+  "url": "https://constellation.church/r9y903c17",
+  "name": "Lord of Life Lutheran Church",
+  "displayName": "Lord of Life Lutheran Church",
+  "address": {
+    "street": "2801 Frederica Rd",
+    "city": "St Simons Island",
+    "state": "GA",
+    "zip": "31522-1711"
+  },
+  "coordinates": {
+    "latitude": 31.180057525634766,
+    "longitude": -81.37770080566406
+  },
+  "website": "https://lolssi.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=57a54eea-7a1a-4773-b9f2-3941c036fbd0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "57a54eea-7a1a-4773-b9f2-3941c036fbd0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lolssi.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581823359"
+    }
+  ],
+  "advisories": []
+}

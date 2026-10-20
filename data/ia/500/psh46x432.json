@@ -1,0 +1,37 @@
+{
+  "id": "psh46x432",
+  "url": "https://constellation.church/psh46x432",
+  "name": "Memorial Lutheran Church",
+  "displayName": "Memorial Lutheran Church",
+  "address": {
+    "street": "2228 Lincoln Way",
+    "city": "Ames",
+    "state": "IA",
+    "zip": "50014"
+  },
+  "coordinates": {
+    "latitude": 42.022478103637695,
+    "longitude": -93.64595794677734
+  },
+  "website": "https://memoriallutheranchurch.org",
+  "listingUrl": "https://idwlcms.org/congregation.php?id=10",
+  "identifiers": [
+    {
+      "namespace": "org.idwlcms.id",
+      "value": "10"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "memoriallutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420698284"
+    },
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "21951"
+    }
+  ],
+  "advisories": []
+}

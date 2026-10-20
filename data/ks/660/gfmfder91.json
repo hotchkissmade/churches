@@ -1,0 +1,33 @@
+{
+  "id": "gfmfder91",
+  "url": "https://constellation.church/gfmfder91",
+  "name": "First Baptist Church of Basehor",
+  "displayName": "First Baptist Church of Basehor",
+  "address": {
+    "street": "1410 N 155th St",
+    "city": "Basehor",
+    "state": "KS",
+    "zip": "66007"
+  },
+  "coordinates": {
+    "latitude": 39.12115478515625,
+    "longitude": -94.93971252441406
+  },
+  "website": "https://fbcbasehor.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-basehor/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-basehor"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcbasehor.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480949063"
+    }
+  ],
+  "advisories": []
+}

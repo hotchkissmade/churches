@@ -1,0 +1,33 @@
+{
+  "id": "yg86mfw12",
+  "url": "https://constellation.church/yg86mfw12",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "146 6th Ave W",
+    "city": "Dickinson",
+    "state": "ND",
+    "zip": "58601-5009"
+  },
+  "coordinates": {
+    "latitude": 46.88087844848633,
+    "longitude": -102.79401397705078
+  },
+  "website": "https://stjohnelc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8ac56cdf-27d2-4159-9c40-8339d4548223",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8ac56cdf-27d2-4159-9c40-8339d4548223"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnelc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450273224"
+    }
+  ],
+  "advisories": []
+}

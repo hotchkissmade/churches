@@ -1,0 +1,37 @@
+{
+  "id": "s7dc7az63",
+  "url": "https://constellation.church/s7dc7az63",
+  "name": "The Beautiful Church of Bakersfield",
+  "displayName": "The Beautiful Church of Bakersfield",
+  "address": {
+    "street": "4500 Buena Vista Rd",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93311"
+  },
+  "coordinates": {
+    "latitude": 35.31271553039551,
+    "longitude": -119.12586975097656
+  },
+  "website": "https://sjlchurch.org/sermons",
+  "listingUrl": "https://eco-pres.org/churches/the-beautiful-church-of-bakersfield/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "the-beautiful-church-of-bakersfield"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sjlchurch.org/sermons"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "956085185"
+    },
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "51552"
+    }
+  ],
+  "advisories": []
+}

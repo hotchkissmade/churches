@@ -1,0 +1,33 @@
+{
+  "id": "kfaharw81",
+  "url": "https://constellation.church/kfaharw81",
+  "name": "Emmanuel Church",
+  "displayName": "Emmanuel Church",
+  "address": {
+    "street": "42 Dearborn Street",
+    "city": "Newport",
+    "state": "RI",
+    "zip": "02840-3408"
+  },
+  "coordinates": {
+    "latitude": 41.47952651977539,
+    "longitude": -71.31241607666016
+  },
+  "website": "https://emmanuelnewport.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-rhode-island/list/emmanuel-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-rhode-island/emmanuel-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emmanuelnewport.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "050263225"
+    }
+  ],
+  "advisories": []
+}

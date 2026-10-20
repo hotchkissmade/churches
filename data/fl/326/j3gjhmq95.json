@@ -1,0 +1,33 @@
+{
+  "id": "j3gjhmq95",
+  "url": "https://constellation.church/j3gjhmq95",
+  "name": "North Central Baptist Church",
+  "displayName": "North Central Baptist Church",
+  "address": {
+    "street": "8001 NW 23rd Ave",
+    "city": "Gainesville",
+    "state": "FL",
+    "zip": "32606"
+  },
+  "coordinates": {
+    "latitude": 29.67289161682129,
+    "longitude": -82.427734375
+  },
+  "website": "https://northcentral.life",
+  "listingUrl": "https://churches.sbc.net/church/north-central-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "north-central-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northcentral.life"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590766988"
+    }
+  ],
+  "advisories": []
+}

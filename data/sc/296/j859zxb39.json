@@ -1,0 +1,37 @@
+{
+  "id": "j859zxb39",
+  "url": "https://constellation.church/j859zxb39",
+  "name": "Jones Avenue Baptist Church",
+  "displayName": "Jones Avenue Baptist Church",
+  "address": {
+    "street": "614 Ross Ave",
+    "city": "Easley",
+    "state": "SC",
+    "zip": "29640"
+  },
+  "coordinates": {
+    "latitude": 34.818559646606445,
+    "longitude": -82.61515808105469
+  },
+  "website": "https://jonesavebc.com",
+  "listingUrl": "https://churches.sbc.net/church/jones-avenue-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "jones-avenue-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jonesavebc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570764786"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "571054475"
+    }
+  ],
+  "advisories": []
+}

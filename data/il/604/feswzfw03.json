@@ -1,0 +1,33 @@
+{
+  "id": "feswzfw03",
+  "url": "https://constellation.church/feswzfw03",
+  "name": "Peace Lutheran Church",
+  "displayName": "Peace Lutheran Church",
+  "address": {
+    "street": "1900 E Lincoln Hwy",
+    "city": "New Lenox",
+    "state": "IL",
+    "zip": "60451-3811"
+  },
+  "coordinates": {
+    "latitude": 41.51070022583008,
+    "longitude": -87.92919921875
+  },
+  "website": "https://peacenewlenox.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a6b4339f-9d91-4aa8-b6cd-6dfc02e02734",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a6b4339f-9d91-4aa8-b6cd-6dfc02e02734"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "peacenewlenox.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363641018"
+    }
+  ],
+  "advisories": []
+}

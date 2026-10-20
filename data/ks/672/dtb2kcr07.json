@@ -1,0 +1,33 @@
+{
+  "id": "dtb2kcr07",
+  "url": "https://constellation.church/dtb2kcr07",
+  "name": "West EFC",
+  "displayName": "West Evangelical Free Church",
+  "address": {
+    "street": "1161 N Maize Rd",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67212-4303"
+  },
+  "coordinates": {
+    "latitude": 37.70399475097656,
+    "longitude": -97.46370697021484
+  },
+  "website": "https://westefc.org",
+  "listingUrl": "https://churches.efca.org/?id=12723",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12723"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westefc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480918012"
+    }
+  ],
+  "advisories": []
+}

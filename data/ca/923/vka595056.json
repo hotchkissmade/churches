@@ -1,0 +1,33 @@
+{
+  "id": "vka595056",
+  "url": "https://constellation.church/vka595056",
+  "name": "Sunrise Church of California",
+  "displayName": "Sunrise Church of California",
+  "address": {
+    "street": "2759 Ayala Dr",
+    "city": "Rialto",
+    "state": "CA",
+    "zip": "92377"
+  },
+  "coordinates": {
+    "latitude": 34.14963340759277,
+    "longitude": -117.39097595214844
+  },
+  "website": "https://sunrisechurch.org/rialto",
+  "listingUrl": "https://churches.sbc.net/church/sunrise-church-of-california/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sunrise-church-of-california"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sunrisechurch.org/rialto"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952211854"
+    }
+  ],
+  "advisories": []
+}

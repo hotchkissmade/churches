@@ -1,0 +1,33 @@
+{
+  "id": "pq9knqk45",
+  "url": "https://constellation.church/pq9knqk45",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "5415 SE Powell Blvd",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97206-2953"
+  },
+  "coordinates": {
+    "latitude": 45.497825622558594,
+    "longitude": -122.60699462890625
+  },
+  "website": "https://bethlehemportland.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a2dcafd2-dec9-4f67-90a3-1a3862b916f8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a2dcafd2-dec9-4f67-90a3-1a3862b916f8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethlehemportland.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930401246"
+    }
+  ],
+  "advisories": []
+}

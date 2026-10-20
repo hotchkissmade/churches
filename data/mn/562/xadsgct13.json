@@ -1,0 +1,33 @@
+{
+  "id": "xadsgct13",
+  "url": "https://constellation.church/xadsgct13",
+  "name": "Vinje Lutheran Church",
+  "displayName": "Vinje Lutheran Church",
+  "address": {
+    "street": "1101 Willmar Ave SW",
+    "city": "Willmar",
+    "state": "MN",
+    "zip": "56201-3068"
+  },
+  "coordinates": {
+    "latitude": 45.11028289794922,
+    "longitude": -95.05761337280273
+  },
+  "website": "https://vinjechurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dd1b6750-ad51-47f3-93b4-7e2e8c185b5d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dd1b6750-ad51-47f3-93b4-7e2e8c185b5d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "vinjechurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410705876"
+    }
+  ],
+  "advisories": []
+}

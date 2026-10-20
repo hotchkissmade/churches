@@ -1,0 +1,33 @@
+{
+  "id": "x2z7tyx65",
+  "url": "https://constellation.church/x2z7tyx65",
+  "name": "Foothill Church of Glendora",
+  "displayName": "Foothill Church of Glendora",
+  "address": {
+    "street": "242 W Baseline Road",
+    "city": "Glendora",
+    "state": "CA",
+    "zip": "91740"
+  },
+  "coordinates": {
+    "latitude": 34.121469497680664,
+    "longitude": -117.86750793457031
+  },
+  "website": "https://foothill.church/staff",
+  "listingUrl": "https://churches.sbc.net/church/foothill-church-of-glendora/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "foothill-church-of-glendora"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "foothill.church/staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952305566"
+    }
+  ],
+  "advisories": []
+}

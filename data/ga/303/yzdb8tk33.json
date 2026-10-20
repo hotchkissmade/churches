@@ -1,0 +1,33 @@
+{
+  "id": "yzdb8tk33",
+  "url": "https://constellation.church/yzdb8tk33",
+  "name": "St. Bede's Episcopal Church",
+  "displayName": "St. Bede's Episcopal Church",
+  "address": {
+    "street": "2601 Henderson Mill Rd NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30345-2199"
+  },
+  "coordinates": {
+    "latitude": 33.86039924621582,
+    "longitude": -84.25122451782227
+  },
+  "website": "https://stbedes.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-atlanta/list/st-bedes-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-atlanta/st-bedes-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stbedes.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580957918"
+    }
+  ],
+  "advisories": []
+}

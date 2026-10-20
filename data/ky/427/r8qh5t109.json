@@ -1,0 +1,33 @@
+{
+  "id": "r8qh5t109",
+  "url": "https://constellation.church/r8qh5t109",
+  "name": "Saloma Baptist Church",
+  "displayName": "Saloma Baptist Church",
+  "address": {
+    "street": "1505 West Saloma Road",
+    "city": "Campbellsville",
+    "state": "KY",
+    "zip": "42718"
+  },
+  "coordinates": {
+    "latitude": 37.36113166809082,
+    "longitude": -85.3553237915039
+  },
+  "website": "https://salomabaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/saloma-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "saloma-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salomabaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611211090"
+    }
+  ],
+  "advisories": []
+}

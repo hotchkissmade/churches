@@ -1,0 +1,33 @@
+{
+  "id": "d0hz7dv44",
+  "url": "https://constellation.church/d0hz7dv44",
+  "name": "Epworth United Methodist Church",
+  "displayName": "Epworth United Methodist Church",
+  "address": {
+    "street": "1333 SE 28th Ave",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97214-2937"
+  },
+  "coordinates": {
+    "latitude": 45.512969970703125,
+    "longitude": -122.63734436035156
+  },
+  "website": "https://epworthpdx.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFO6MIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFO6MIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "epworthpdx.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "936023521"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wswbm4k93",
+  "url": "https://constellation.church/wswbm4k93",
+  "name": "Fork Shoals Baptist Church",
+  "displayName": "Fork Shoals Baptist Church",
+  "address": {
+    "street": "110 Fork Shoals Church Rd",
+    "city": "Pelzer",
+    "state": "SC",
+    "zip": "29669"
+  },
+  "coordinates": {
+    "latitude": 34.62139320373535,
+    "longitude": -82.31488037109375
+  },
+  "website": "https://forkshoalsbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/fork-shoals-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "fork-shoals-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "forkshoalsbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570785605"
+    }
+  ],
+  "advisories": []
+}

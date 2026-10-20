@@ -1,0 +1,33 @@
+{
+  "id": "x2g93yj31",
+  "url": "https://constellation.church/x2g93yj31",
+  "name": "Five Forks Baptist Church",
+  "displayName": "Five Forks Baptist Church",
+  "address": {
+    "street": "112 Batesville Rd",
+    "city": "Simpsonville",
+    "state": "SC",
+    "zip": "29681"
+  },
+  "coordinates": {
+    "latitude": 34.80863952636719,
+    "longitude": -82.23176956176758
+  },
+  "website": "https://fiveforks.org",
+  "listingUrl": "https://churches.sbc.net/church/five-forks-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "five-forks-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fiveforks.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "576069130"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "esav9ae08",
+  "url": "https://constellation.church/esav9ae08",
+  "name": "Carolina Presbyterian Church",
+  "displayName": "Carolina Presbyterian Church",
+  "address": {
+    "street": "406 Renee Ford Road",
+    "city": "Locust",
+    "state": "NC",
+    "zip": "28097"
+  },
+  "coordinates": {
+    "latitude": 35.25132179260254,
+    "longitude": -80.4411506652832
+  },
+  "website": "https://carolinapca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/148",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "148"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "carolinapca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561366599"
+    }
+  ],
+  "advisories": []
+}

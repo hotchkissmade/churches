@@ -1,0 +1,33 @@
+{
+  "id": "ws12h2246",
+  "url": "https://constellation.church/ws12h2246",
+  "name": "Eagle Lake Lutheran Church",
+  "displayName": "Eagle Lake Lutheran Church",
+  "address": {
+    "street": "15456 County Highway 81",
+    "city": "Battle Lake",
+    "state": "MN",
+    "zip": "56515-9538"
+  },
+  "coordinates": {
+    "latitude": 46.194915771484375,
+    "longitude": -95.68463897705078
+  },
+  "website": "https://eaglelakelutheranchurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5c79f752-0b94-4231-9ab8-0304da3d25d4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5c79f752-0b94-4231-9ab8-0304da3d25d4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eaglelakelutheranchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411355339"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "w7t16sg33",
+  "url": "https://constellation.church/w7t16sg33",
+  "name": "West End Baptist Church",
+  "displayName": "West End Baptist Church",
+  "address": {
+    "street": "6506 Boydton Plank Rd",
+    "city": "N. Dinwiddie",
+    "state": "VA",
+    "zip": "23803"
+  },
+  "coordinates": {
+    "latitude": 37.18315315246582,
+    "longitude": -77.48904037475586
+  },
+  "website": "https://webaptist.org/joomla",
+  "listingUrl": "https://churches.sbc.net/church/west-end-baptist-church-23/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "west-end-baptist-church-23"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "webaptist.org/joomla"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540644715"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ac56r8772",
+  "url": "https://constellation.church/ac56r8772",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "1125 Stafford Ave",
+    "city": "Bristol",
+    "state": "CT",
+    "zip": "06010-3261"
+  },
+  "coordinates": {
+    "latitude": 41.706464767456055,
+    "longitude": -72.9122200012207
+  },
+  "website": "https://standrewct.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f597260c-0600-4687-a125-c713934ec775",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f597260c-0600-4687-a125-c713934ec775"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewct.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "060973351"
+    }
+  ],
+  "advisories": []
+}

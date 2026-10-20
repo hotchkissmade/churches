@@ -1,0 +1,33 @@
+{
+  "id": "wqryw5v54",
+  "url": "https://constellation.church/wqryw5v54",
+  "name": "Shenandoah Baptist Church",
+  "displayName": "Shenandoah Baptist Church",
+  "address": {
+    "street": "3003 Blue Ridge Dr.",
+    "city": "Cedar Park",
+    "state": "TX",
+    "zip": "78613"
+  },
+  "coordinates": {
+    "latitude": 30.46649742126465,
+    "longitude": -97.81475067138672
+  },
+  "website": "https://shenandoah-baptist.com",
+  "listingUrl": "https://churches.sbc.net/church/shenandoah-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "shenandoah-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "shenandoah-baptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742425247"
+    }
+  ],
+  "advisories": []
+}

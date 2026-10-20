@@ -1,0 +1,33 @@
+{
+  "id": "b3hg3q577",
+  "url": "https://constellation.church/b3hg3q577",
+  "name": "Oak Harbor Southern Baptist Church",
+  "displayName": "Oak Harbor Southern Baptist Church",
+  "address": {
+    "street": "50 SW 6th Ave",
+    "city": "Oak Harbor",
+    "state": "WA",
+    "zip": "98277"
+  },
+  "coordinates": {
+    "latitude": 48.293758392333984,
+    "longitude": -122.65828704833984
+  },
+  "website": "https://ohsbc.org",
+  "listingUrl": "https://churches.sbc.net/church/oak-harbor-southern-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "oak-harbor-southern-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ohsbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910969601"
+    }
+  ],
+  "advisories": []
+}

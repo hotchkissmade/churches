@@ -1,0 +1,33 @@
+{
+  "id": "d5a0ae547",
+  "url": "https://constellation.church/d5a0ae547",
+  "name": "Grace Baptist Church",
+  "displayName": "Grace Baptist Church",
+  "address": {
+    "street": "142 Olive Rd",
+    "city": "Dayton",
+    "state": "OH",
+    "zip": "45417"
+  },
+  "coordinates": {
+    "latitude": 39.703386306762695,
+    "longitude": -84.12042999267578
+  },
+  "website": "https://gracekettering.org",
+  "listingUrl": "https://churches.sbc.net/church/grace-baptist-church-85/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grace-baptist-church-85"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracekettering.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310883321"
+    }
+  ],
+  "advisories": []
+}

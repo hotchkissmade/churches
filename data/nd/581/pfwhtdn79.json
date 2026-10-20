@@ -1,0 +1,33 @@
+{
+  "id": "pfwhtdn79",
+  "url": "https://constellation.church/pfwhtdn79",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "1710 5th St S",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58103-4903"
+  },
+  "coordinates": {
+    "latitude": 46.85526657104492,
+    "longitude": -96.78723907470703
+  },
+  "website": "https://stjohnfargo.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6ed616da-50a5-4c41-b40c-ceddf54fa249",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6ed616da-50a5-4c41-b40c-ceddf54fa249"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnfargo.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450262815"
+    }
+  ],
+  "advisories": []
+}

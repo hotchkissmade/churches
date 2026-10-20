@@ -1,0 +1,33 @@
+{
+  "id": "sbcbw0j73",
+  "url": "https://constellation.church/sbcbw0j73",
+  "name": "Church of the Annunciation",
+  "displayName": "Church of the Annunciation",
+  "address": {
+    "street": "13515 SE Rusk Rd",
+    "city": "Milwaukie",
+    "state": "OR",
+    "zip": "97222"
+  },
+  "coordinates": {
+    "latitude": 45.42486572265625,
+    "longitude": -122.6054916381836
+  },
+  "website": "https://annunciationorthodoxchurch.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-we-mkeann",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-we-mkeann"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "annunciationorthodoxchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510152456"
+    }
+  ],
+  "advisories": []
+}

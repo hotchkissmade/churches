@@ -1,0 +1,33 @@
+{
+  "id": "kerm49d17",
+  "url": "https://constellation.church/kerm49d17",
+  "name": "Goodhue Lutheran Church",
+  "displayName": "Goodhue Lutheran Church",
+  "address": {
+    "street": "15555 441st Ave.",
+    "city": "Florence",
+    "state": "SD",
+    "zip": "57235"
+  },
+  "coordinates": {
+    "latitude": 45.129486083984375,
+    "longitude": -97.39229583740234
+  },
+  "website": "https://goodhuelutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=99f34d48-dccd-47b5-b32c-9a1896a57d26",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "99f34d48-dccd-47b5-b32c-9a1896a57d26"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodhuelutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460352452"
+    }
+  ],
+  "advisories": []
+}

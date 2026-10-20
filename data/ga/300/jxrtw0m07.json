@@ -1,0 +1,33 @@
+{
+  "id": "jxrtw0m07",
+  "url": "https://constellation.church/jxrtw0m07",
+  "name": "City Of David",
+  "displayName": "RCCG City Of David",
+  "address": {
+    "street": "3100 Avalon Ridge Place",
+    "city": "Peachtree Corners",
+    "state": "GA",
+    "zip": "30071"
+  },
+  "coordinates": {
+    "latitude": 33.963796615600586,
+    "longitude": -84.1924819946289
+  },
+  "website": "https://cityofdavidatlanta.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=112&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "112"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cityofdavidatlanta.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "582606201"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hkg84fw90",
+  "url": "https://constellation.church/hkg84fw90",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "13275 Fall River Rd",
+    "city": "Hot Springs",
+    "state": "SD",
+    "zip": "57747-7238"
+  },
+  "coordinates": {
+    "latitude": 43.4018669128418,
+    "longitude": -103.40718078613281
+  },
+  "website": "https://stjohnslutheranhotsprings.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6a763da0-5cc1-4e00-838c-1c9b118dbc7d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6a763da0-5cc1-4e00-838c-1c9b118dbc7d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnslutheranhotsprings.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460346882"
+    }
+  ],
+  "advisories": []
+}

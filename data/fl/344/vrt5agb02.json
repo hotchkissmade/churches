@@ -1,0 +1,33 @@
+{
+  "id": "vrt5agb02",
+  "url": "https://constellation.church/vrt5agb02",
+  "name": "Redeemer Presbyterian Church",
+  "displayName": "Redeemer Presbyterian Church",
+  "address": {
+    "street": "1005 Hillside Court",
+    "city": "Inverness",
+    "state": "FL",
+    "zip": "34450"
+  },
+  "coordinates": {
+    "latitude": 28.825807571411133,
+    "longitude": -82.31766128540039
+  },
+  "website": "https://rpcinverness.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4669",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4669"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rpcinverness.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "331066771"
+    }
+  ],
+  "advisories": []
+}

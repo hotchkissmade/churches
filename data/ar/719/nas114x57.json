@@ -1,0 +1,33 @@
+{
+  "id": "nas114x57",
+  "url": "https://constellation.church/nas114x57",
+  "name": "Balboa Baptist Church",
+  "displayName": "Balboa Baptist Church",
+  "address": {
+    "street": "415 Ponce De Leon Dr",
+    "city": "Hot Springs Village",
+    "state": "AR",
+    "zip": "71909"
+  },
+  "coordinates": {
+    "latitude": 34.63650321960449,
+    "longitude": -92.88848876953125
+  },
+  "website": "https://balboabaptist.church",
+  "listingUrl": "https://churches.sbc.net/church/balboa-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "balboa-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "balboabaptist.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "710732059"
+    }
+  ],
+  "advisories": []
+}

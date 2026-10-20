@@ -1,0 +1,33 @@
+{
+  "id": "vpp8ywb03",
+  "url": "https://constellation.church/vpp8ywb03",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "1624 E Euclid Ave",
+    "city": "Mount Prospect",
+    "state": "IL",
+    "zip": "60056-1552"
+  },
+  "coordinates": {
+    "latitude": 41.86528015136719,
+    "longitude": -87.87005233764648
+  },
+  "website": "https://gracemtprospect.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=68f31328-a2c6-4e16-8422-fd3aa660e794",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "68f31328-a2c6-4e16-8422-fd3aa660e794"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracemtprospect.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362551528"
+    }
+  ],
+  "advisories": []
+}

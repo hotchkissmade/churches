@@ -1,0 +1,33 @@
+{
+  "id": "sw93v3404",
+  "url": "https://constellation.church/sw93v3404",
+  "name": "Ankeny Free Church",
+  "displayName": "Ankeny Free Church",
+  "address": {
+    "street": "118 NW Linden St",
+    "city": "Ankeny",
+    "state": "IA",
+    "zip": "50023-2409"
+  },
+  "coordinates": {
+    "latitude": 41.73260498046875,
+    "longitude": -93.63005065917969
+  },
+  "website": "https://ankenyfree.church",
+  "listingUrl": "https://churches.efca.org/?id=12578",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12578"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ankenyfree.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421142646"
+    }
+  ],
+  "advisories": []
+}

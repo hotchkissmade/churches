@@ -1,0 +1,33 @@
+{
+  "id": "pn0h3va27",
+  "url": "https://constellation.church/pn0h3va27",
+  "name": "Fontaine Baptist Church",
+  "displayName": "Fontaine Baptist Church",
+  "address": {
+    "street": "170 Fisher Farm Rd",
+    "city": "Martinsville",
+    "state": "VA",
+    "zip": "24112"
+  },
+  "coordinates": {
+    "latitude": 36.6351375579834,
+    "longitude": -79.86108779907227
+  },
+  "website": "https://fontainebaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/fontaine-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "fontaine-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fontainebaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540919407"
+    }
+  ],
+  "advisories": []
+}

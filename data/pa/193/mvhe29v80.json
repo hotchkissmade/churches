@@ -1,0 +1,33 @@
+{
+  "id": "mvhe29v80",
+  "url": "https://constellation.church/mvhe29v80",
+  "name": "Church of the Ascension",
+  "displayName": "Church of the Ascension",
+  "address": {
+    "street": "406 W Second Ave",
+    "city": "Parkesburg",
+    "state": "PA",
+    "zip": "19365"
+  },
+  "coordinates": {
+    "latitude": 39.95765495300293,
+    "longitude": -75.91903305053711
+  },
+  "website": "https://ascensionparkesburg.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/church-ascension",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/church-ascension"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ascensionparkesburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236285117"
+    }
+  ],
+  "advisories": []
+}

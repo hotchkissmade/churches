@@ -1,0 +1,33 @@
+{
+  "id": "p37hfcf50",
+  "url": "https://constellation.church/p37hfcf50",
+  "name": "Wesley United Methodist Church",
+  "displayName": "Wesley United Methodist Church",
+  "address": {
+    "street": "55 Woodland St",
+    "city": "Lincoln",
+    "state": "RI",
+    "zip": "02865"
+  },
+  "coordinates": {
+    "latitude": 41.894920349121094,
+    "longitude": -71.41497421264648
+  },
+  "website": "https://wesley-umc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFNghIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFNghIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wesley-umc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "056003184"
+    }
+  ],
+  "advisories": []
+}

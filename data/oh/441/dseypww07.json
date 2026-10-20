@@ -1,0 +1,33 @@
+{
+  "id": "dseypww07",
+  "url": "https://constellation.church/dseypww07",
+  "name": "First Baptist Church, South Euclid",
+  "displayName": "First Baptist Church, South Euclid",
+  "address": {
+    "street": "835 Trebisky Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44143"
+  },
+  "coordinates": {
+    "latitude": 41.53739547729492,
+    "longitude": -81.50849151611328
+  },
+  "website": "https://fbcse.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-south-euclid/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-south-euclid"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcse.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341472124"
+    }
+  ],
+  "advisories": []
+}

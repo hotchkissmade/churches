@@ -1,0 +1,33 @@
+{
+  "id": "wnc86bz09",
+  "url": "https://constellation.church/wnc86bz09",
+  "name": "Santa Cruz Friends Meeting",
+  "displayName": "Santa Cruz Friends Meeting",
+  "address": {
+    "street": "225 Rooney St",
+    "city": "Santa Cruz",
+    "state": "CA",
+    "zip": "95065"
+  },
+  "coordinates": {
+    "latitude": 36.98906135559082,
+    "longitude": -122.00354766845703
+  },
+  "website": "https://santacruzquakers.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/santa-cruz-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "santa-cruz-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "santacruzquakers.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "770257773"
+    }
+  ],
+  "advisories": []
+}

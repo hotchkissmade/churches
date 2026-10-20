@@ -1,0 +1,33 @@
+{
+  "id": "j29zf8x47",
+  "url": "https://constellation.church/j29zf8x47",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "13682 Highway 59 Splendora",
+    "city": null,
+    "state": "TX",
+    "zip": "77372"
+  },
+  "coordinates": {
+    "latitude": 30.241596221923828,
+    "longitude": -95.16067504882812
+  },
+  "website": "https://splendoraassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=e9461d80-0e02-405a-b8c1-d3bc5cff8819&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "e9461d80-0e02-405a-b8c1-d3bc5cff8819"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "splendoraassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760088987"
+    }
+  ],
+  "advisories": []
+}

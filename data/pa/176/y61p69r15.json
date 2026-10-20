@@ -1,0 +1,33 @@
+{
+  "id": "y61p69r15",
+  "url": "https://constellation.church/y61p69r15",
+  "name": "St Matthew Evangelical Lutheran Church",
+  "displayName": "St. Matthew Evangelical Lutheran Church",
+  "address": {
+    "street": "700 Pleasure Rd",
+    "city": "Lancaster",
+    "state": "PA",
+    "zip": "17601-4438"
+  },
+  "coordinates": {
+    "latitude": 40.058176040649414,
+    "longitude": -76.29425048828125
+  },
+  "website": "https://stmatthewelc.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=019ebded-8b2a-48cc-a1b5-9ab10d206543",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "019ebded-8b2a-48cc-a1b5-9ab10d206543"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmatthewelc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236005831"
+    }
+  ],
+  "advisories": []
+}

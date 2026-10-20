@@ -1,0 +1,33 @@
+{
+  "id": "y7x5q2p15",
+  "url": "https://constellation.church/y7x5q2p15",
+  "name": "Windy Hill Baptist Church",
+  "displayName": "Windy Hill Baptist Church",
+  "address": {
+    "street": "9896 Rebel Rd",
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32526"
+  },
+  "coordinates": {
+    "latitude": 30.542682647705078,
+    "longitude": -87.38772201538086
+  },
+  "website": "https://windyhillbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/windy-hill-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "windy-hill-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "windyhillbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592155895"
+    }
+  ],
+  "advisories": []
+}

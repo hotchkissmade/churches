@@ -1,0 +1,33 @@
+{
+  "id": "pz150rg80",
+  "url": "https://constellation.church/pz150rg80",
+  "name": "Melo Lutheran Church",
+  "displayName": "Melo Lutheran Church",
+  "address": {
+    "street": "15949 250th Ave NW",
+    "city": "Warren",
+    "state": "MN",
+    "zip": "56762-8990"
+  },
+  "coordinates": {
+    "latitude": 48.19571304321289,
+    "longitude": -96.77552032470703
+  },
+  "website": "https://oursaviors-melo.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1f41fd5b-a608-4575-a23b-6c285b520343",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1f41fd5b-a608-4575-a23b-6c285b520343"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oursaviors-melo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411740673"
+    }
+  ],
+  "advisories": []
+}

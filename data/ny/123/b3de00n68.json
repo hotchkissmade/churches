@@ -1,0 +1,33 @@
+{
+  "id": "b3de00n68",
+  "url": "https://constellation.church/b3de00n68",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "209 Union Street",
+    "city": "Schenectady",
+    "state": "NY",
+    "zip": "12305"
+  },
+  "coordinates": {
+    "latitude": 42.81721305847168,
+    "longitude": -73.94469833374023
+  },
+  "website": "https://fpcschdy.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1229",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1229"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcschdy.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "141437659"
+    }
+  ],
+  "advisories": []
+}

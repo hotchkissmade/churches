@@ -1,0 +1,33 @@
+{
+  "id": "r805e7c11",
+  "url": "https://constellation.church/r805e7c11",
+  "name": "Transformation Chapel",
+  "displayName": "Transformation Chapel",
+  "address": {
+    "street": "1400 S Hanson Street",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19143"
+  },
+  "coordinates": {
+    "latitude": 39.940860748291016,
+    "longitude": -75.2120475769043
+  },
+  "website": "https://rccgtransformationchapel.com",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=444&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "444"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rccgtransformationchapel.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "455165757"
+    }
+  ],
+  "advisories": []
+}

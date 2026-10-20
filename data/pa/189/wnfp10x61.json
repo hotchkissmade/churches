@@ -1,0 +1,33 @@
+{
+  "id": "wnfp10x61",
+  "url": "https://constellation.church/wnfp10x61",
+  "name": "Providence Presbyterian Church",
+  "displayName": "Providence Presbyterian Church",
+  "address": {
+    "street": "2200 Krammes Road",
+    "city": "Quakertown",
+    "state": "PA",
+    "zip": "18951"
+  },
+  "coordinates": {
+    "latitude": 40.4320068359375,
+    "longitude": -75.43144989013672
+  },
+  "website": "https://providence-pca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/873",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "873"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "providence-pca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232239079"
+    }
+  ],
+  "advisories": []
+}

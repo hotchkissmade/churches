@@ -1,0 +1,37 @@
+{
+  "id": "ha9vmfs60",
+  "url": "https://constellation.church/ha9vmfs60",
+  "name": "St Andrew Lutheran Church",
+  "displayName": "St. Andrew Lutheran Church",
+  "address": {
+    "street": "8901 Del Webb Blvd",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89134-8686"
+  },
+  "coordinates": {
+    "latitude": 36.21099090576172,
+    "longitude": -115.28807067871094
+  },
+  "website": "https://standrewlv.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=afcdef64-2e77-40cb-a0c1-c386cf970e7d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "afcdef64-2e77-40cb-a0c1-c386cf970e7d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewlv.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "880264039"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "880306798"
+    }
+  ],
+  "advisories": []
+}

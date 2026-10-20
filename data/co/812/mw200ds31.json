@@ -1,0 +1,33 @@
+{
+  "id": "mw200ds31",
+  "url": "https://constellation.church/mw200ds31",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "1237 F St",
+    "city": "Salida",
+    "state": "CO",
+    "zip": "81201-2509"
+  },
+  "coordinates": {
+    "latitude": 38.52638626098633,
+    "longitude": -106.00133514404297
+  },
+  "website": "https://mobile.flc-salida.org",
+  "listingUrl": "https://locator.lcms.org/church/C/809023",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "809023"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mobile.flc-salida.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840925216"
+    }
+  ],
+  "advisories": []
+}

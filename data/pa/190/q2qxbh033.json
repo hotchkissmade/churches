@@ -1,0 +1,33 @@
+{
+  "id": "q2qxbh033",
+  "url": "https://constellation.church/q2qxbh033",
+  "name": "Church of the Holy Apostles",
+  "displayName": "Church of the Holy Apostles",
+  "address": {
+    "street": "1020 Remington Rd",
+    "city": "Wynnewood",
+    "state": "PA",
+    "zip": "19096-2394"
+  },
+  "coordinates": {
+    "latitude": 39.98557662963867,
+    "longitude": -75.28321838378906
+  },
+  "website": "https://holyapostlespa.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/church-holy-apostles-penn-wynne",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/church-holy-apostles-penn-wynne"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holyapostlespa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231692228"
+    }
+  ],
+  "advisories": []
+}

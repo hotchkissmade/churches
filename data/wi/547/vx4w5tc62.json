@@ -1,0 +1,33 @@
+{
+  "id": "vx4w5tc62",
+  "url": "https://constellation.church/vx4w5tc62",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "202 W Grand Ave",
+    "city": "Eau Claire",
+    "state": "WI",
+    "zip": "54703-5327"
+  },
+  "coordinates": {
+    "latitude": 44.809085845947266,
+    "longitude": -91.5047378540039
+  },
+  "website": "https://grace-church.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b579adfd-fd36-407a-a347-bffa53b0181c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b579adfd-fd36-407a-a347-bffa53b0181c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grace-church.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390845281"
+    }
+  ],
+  "advisories": []
+}

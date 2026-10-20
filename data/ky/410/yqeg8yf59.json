@@ -1,0 +1,33 @@
+{
+  "id": "yqeg8yf59",
+  "url": "https://constellation.church/yqeg8yf59",
+  "name": "Main Street Baptist Church",
+  "displayName": "Main Street Baptist Church",
+  "address": {
+    "street": "11093 Alexandria Pike",
+    "city": "Alexandria",
+    "state": "KY",
+    "zip": "41001"
+  },
+  "coordinates": {
+    "latitude": 38.89428520202637,
+    "longitude": -84.38430786132812
+  },
+  "website": "https://discovermainstreetchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/main-street-baptist-church-17/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "main-street-baptist-church-17"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "discovermainstreetchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "610983113"
+    }
+  ],
+  "advisories": []
+}

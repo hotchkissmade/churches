@@ -1,0 +1,33 @@
+{
+  "id": "xgm6dkc14",
+  "url": "https://constellation.church/xgm6dkc14",
+  "name": "St Michael's Lutheran Church",
+  "displayName": "St. Michael's Lutheran Church",
+  "address": {
+    "street": "5108 W Genesee St",
+    "city": "Camillus",
+    "state": "NY",
+    "zip": "13031-2327"
+  },
+  "coordinates": {
+    "latitude": 43.04172134399414,
+    "longitude": -76.26395034790039
+  },
+  "website": "https://stmichaelscamillus.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3fb5f246-8c23-46d0-94af-b719300adbf3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3fb5f246-8c23-46d0-94af-b719300adbf3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmichaelscamillus.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237273871"
+    }
+  ],
+  "advisories": []
+}

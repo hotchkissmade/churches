@@ -1,0 +1,33 @@
+{
+  "id": "ppygn0212",
+  "url": "https://constellation.church/ppygn0212",
+  "name": "Living Red Worship",
+  "displayName": "Living Red Worship",
+  "address": {
+    "street": "3045 Baker Rd",
+    "city": "Dexter",
+    "state": "MI",
+    "zip": "48130-1163"
+  },
+  "coordinates": {
+    "latitude": 42.3344533,
+    "longitude": -83.8873669
+  },
+  "website": "https://livingredministries.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5a18655e-319e-4e19-b587-86921c84c1ae",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5a18655e-319e-4e19-b587-86921c84c1ae"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "livingredministries.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "921234162"
+    }
+  ],
+  "advisories": []
+}

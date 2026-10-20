@@ -1,0 +1,33 @@
+{
+  "id": "fakmnd387",
+  "url": "https://constellation.church/fakmnd387",
+  "name": "Church of the Good Shepherd",
+  "displayName": "Church of the Good Shepherd",
+  "address": {
+    "street": "4140 Clark St SW",
+    "city": "Covington",
+    "state": "GA",
+    "zip": "30014-2713"
+  },
+  "coordinates": {
+    "latitude": 33.59734535217285,
+    "longitude": -83.87120056152344
+  },
+  "website": "https://goodshepherdcovington.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-atlanta/list/church-good-shepherd-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-atlanta/church-good-shepherd-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherdcovington.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581578052"
+    }
+  ],
+  "advisories": []
+}

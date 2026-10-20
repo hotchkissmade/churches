@@ -1,0 +1,33 @@
+{
+  "id": "f50f9mk92",
+  "url": "https://constellation.church/f50f9mk92",
+  "name": "St. Nikolai Church",
+  "displayName": "St. Nikolai Church",
+  "address": {
+    "street": "9837 State St",
+    "city": "Louisville",
+    "state": "OH",
+    "zip": "44641"
+  },
+  "coordinates": {
+    "latitude": 40.90043258666992,
+    "longitude": -81.21188354492188
+  },
+  "website": "https://stnikolaiorthodoxchurch.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-bu-allsnz",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-bu-allsnz"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stnikolaiorthodoxchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "462164714"
+    }
+  ],
+  "advisories": []
+}

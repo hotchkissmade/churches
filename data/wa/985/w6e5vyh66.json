@@ -1,0 +1,33 @@
+{
+  "id": "w6e5vyh66",
+  "url": "https://constellation.church/w6e5vyh66",
+  "name": "St Paul Evangelical Lutheran Church",
+  "displayName": "St. Paul Evangelical Lutheran Church",
+  "address": {
+    "street": "379 State Route 505",
+    "city": "Winlock",
+    "state": "WA",
+    "zip": "98596-9772"
+  },
+  "coordinates": {
+    "latitude": 46.48407745361328,
+    "longitude": -122.91297912597656
+  },
+  "website": "https://stpaulwinlock.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=05b483dd-6e16-460f-8142-a5057149f7e8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "05b483dd-6e16-460f-8142-a5057149f7e8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulwinlock.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "916032195"
+    }
+  ],
+  "advisories": []
+}

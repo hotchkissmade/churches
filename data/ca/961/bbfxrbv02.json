@@ -1,0 +1,33 @@
+{
+  "id": "bbfxrbv02",
+  "url": "https://constellation.church/bbfxrbv02",
+  "name": "Christ The King Lutheran Church",
+  "displayName": "Christ The King Lutheran Church",
+  "address": {
+    "street": "3125 N Lake Blvd",
+    "city": "Tahoe City",
+    "state": "CA",
+    "zip": "96145"
+  },
+  "coordinates": {
+    "latitude": 39.190778732299805,
+    "longitude": -120.10718536376953
+  },
+  "website": "https://ctktahoe.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0ee5cfcf-ccff-4833-8d6e-5e33c6a94338",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0ee5cfcf-ccff-4833-8d6e-5e33c6a94338"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ctktahoe.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942727336"
+    }
+  ],
+  "advisories": []
+}

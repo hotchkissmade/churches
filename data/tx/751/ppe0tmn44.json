@@ -1,0 +1,33 @@
+{
+  "id": "ppe0tmn44",
+  "url": "https://constellation.church/ppe0tmn44",
+  "name": "Church of Our Merciful Saviour",
+  "displayName": "Church of Our Merciful Saviour",
+  "address": {
+    "street": "500 S Jackson St",
+    "city": "Kaufman",
+    "state": "TX",
+    "zip": "75142-2330"
+  },
+  "coordinates": {
+    "latitude": 32.586381912231445,
+    "longitude": -96.310302734375
+  },
+  "website": "https://omschurch.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-dallas/list/church-our-merciful-saviour",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-dallas/church-our-merciful-saviour"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "omschurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751848739"
+    }
+  ],
+  "advisories": []
+}

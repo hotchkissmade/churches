@@ -1,0 +1,33 @@
+{
+  "id": "yyfd8ft67",
+  "url": "https://constellation.church/yyfd8ft67",
+  "name": "St Andrews Presbyterian Church",
+  "displayName": "St. Andrew's Presbyterian Church",
+  "address": {
+    "street": "1601 Mary Dr",
+    "city": "Pleasant Hill",
+    "state": "CA",
+    "zip": "94523"
+  },
+  "coordinates": {
+    "latitude": 37.96084403991699,
+    "longitude": -122.06658935546875
+  },
+  "website": "https://standrews-pcusa.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/828/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "828"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrews-pcusa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941587120"
+    }
+  ],
+  "advisories": []
+}

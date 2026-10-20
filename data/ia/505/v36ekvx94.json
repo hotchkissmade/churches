@@ -1,0 +1,33 @@
+{
+  "id": "v36ekvx94",
+  "url": "https://constellation.church/v36ekvx94",
+  "name": "Augustana Lutheran Church",
+  "displayName": "Augustana Lutheran Church",
+  "address": {
+    "street": "810 7th Ave",
+    "city": "Manson",
+    "state": "IA",
+    "zip": "50563-7716"
+  },
+  "coordinates": {
+    "latitude": 42.524776458740234,
+    "longitude": -94.539794921875
+  },
+  "website": "https://augustanamanson.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4481e205-7d2d-48e4-92c7-d2033811c71f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4481e205-7d2d-48e4-92c7-d2033811c71f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "augustanamanson.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420095900"
+    }
+  ],
+  "advisories": []
+}

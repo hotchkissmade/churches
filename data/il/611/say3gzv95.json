@@ -1,0 +1,33 @@
+{
+  "id": "say3gzv95",
+  "url": "https://constellation.church/say3gzv95",
+  "name": "Redeemer Church",
+  "displayName": "Redeemer Church",
+  "address": {
+    "street": "5501 Windsor Rd",
+    "city": "Loves Park",
+    "state": "IL",
+    "zip": "61111"
+  },
+  "coordinates": {
+    "latitude": 42.32553482055664,
+    "longitude": -89.00907897949219
+  },
+  "website": "https://redeemerrockford.church",
+  "listingUrl": "https://churches.sbc.net/church/redeemer-church-11/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "redeemer-church-11"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerrockford.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "364419972"
+    }
+  ],
+  "advisories": []
+}

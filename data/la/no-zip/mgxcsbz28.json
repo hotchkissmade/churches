@@ -1,0 +1,33 @@
+{
+  "id": "mgxcsbz28",
+  "url": "https://constellation.church/mgxcsbz28",
+  "name": "New Orleans Friends Meeting",
+  "displayName": "New Orleans Friends Meeting",
+  "address": {
+    "street": "921 S Carrollton Ave",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 29.945627212524414,
+    "longitude": -90.13112258911133
+  },
+  "website": "https://neworleansquakers.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/new-orleans-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "new-orleans-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "neworleansquakers.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720800592"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "t8hys2n13",
+  "url": "https://constellation.church/t8hys2n13",
+  "name": "Hope Lutheran Church",
+  "displayName": "Hope Lutheran Church",
+  "address": {
+    "street": "2 E Main St",
+    "city": "Arcade",
+    "state": "NY",
+    "zip": "14009-1335"
+  },
+  "coordinates": {
+    "latitude": 42.533935546875,
+    "longitude": -78.41086196899414
+  },
+  "website": "https://hopearcade.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=abcf8558-4e6b-46b3-b2be-d9e56fd6b8d2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "abcf8558-4e6b-46b3-b2be-d9e56fd6b8d2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopearcade.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161122620"
+    }
+  ],
+  "advisories": []
+}

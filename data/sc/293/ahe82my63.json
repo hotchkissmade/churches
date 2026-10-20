@@ -1,0 +1,33 @@
+{
+  "id": "ahe82my63",
+  "url": "https://constellation.church/ahe82my63",
+  "name": "West End Baptist Church",
+  "displayName": "West End Baptist Church",
+  "address": {
+    "street": "400 Overbrook Dr",
+    "city": "Gaffney",
+    "state": "SC",
+    "zip": "29341"
+  },
+  "coordinates": {
+    "latitude": 35.07870292663574,
+    "longitude": -81.66279602050781
+  },
+  "website": "https://gaffneywebchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/west-end-baptist-church-13/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "west-end-baptist-church-13"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gaffneywebchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570528734"
+    }
+  ],
+  "advisories": []
+}

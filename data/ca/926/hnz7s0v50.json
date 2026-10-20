@@ -1,0 +1,33 @@
+{
+  "id": "hnz7s0v50",
+  "url": "https://constellation.church/hnz7s0v50",
+  "name": "Church of the Master Lutheran Church",
+  "displayName": "Church of the Master Lutheran Church",
+  "address": {
+    "street": "2900 Pacific View Dr",
+    "city": "Corona Del Mar",
+    "state": "CA",
+    "zip": "92625-1122"
+  },
+  "coordinates": {
+    "latitude": 33.61118507385254,
+    "longitude": -117.86062622070312
+  },
+  "website": "https://cdm.church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e0231666-4de4-4b54-8951-db5342f0d188",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e0231666-4de4-4b54-8951-db5342f0d188"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cdm.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "883553177"
+    }
+  ],
+  "advisories": []
+}

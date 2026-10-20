@@ -1,0 +1,33 @@
+{
+  "id": "fsk5rtw80",
+  "url": "https://constellation.church/fsk5rtw80",
+  "name": "Solomon's Evangelical Lutheran Church",
+  "displayName": "Solomon's Evangelical Lutheran Church",
+  "address": {
+    "street": "4856 Wayne Rd",
+    "city": "Chambersburg",
+    "state": "PA",
+    "zip": "17202-9355"
+  },
+  "coordinates": {
+    "latitude": 39.85852813720703,
+    "longitude": -77.62530136108398
+  },
+  "website": "https://solomonslutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3e0059ea-30bd-4d87-bdca-31e7a5f1189d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3e0059ea-30bd-4d87-bdca-31e7a5f1189d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "solomonslutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251353345"
+    }
+  ],
+  "advisories": []
+}

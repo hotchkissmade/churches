@@ -1,0 +1,33 @@
+{
+  "id": "wfe21k330",
+  "url": "https://constellation.church/wfe21k330",
+  "name": "Trinity United Methodist Church",
+  "displayName": "Trinity United Methodist Church",
+  "address": {
+    "street": "1985 Pennington Rd",
+    "city": "Ewing",
+    "state": "NJ",
+    "zip": "08618-1106"
+  },
+  "coordinates": {
+    "latitude": 40.27060890197754,
+    "longitude": -74.78348922729492
+  },
+  "website": "https://trinityumcewing.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFEEuIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFEEuIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityumcewing.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "210639886"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kp6493785",
+  "url": "https://constellation.church/kp6493785",
+  "name": "HopePointe Anglican Church",
+  "displayName": "HopePointe Anglican Church",
+  "address": {
+    "street": "3333 S. Panther Creek Drive",
+    "city": "The Woodlands",
+    "state": "TX",
+    "zip": "77381"
+  },
+  "coordinates": {
+    "latitude": 30.156034469604492,
+    "longitude": -95.49247741699219
+  },
+  "website": "https://hopepointe.org",
+  "listingUrl": "https://www.acna.org/admin_units/256",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "256"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopepointe.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760664852"
+    }
+  ],
+  "advisories": []
+}

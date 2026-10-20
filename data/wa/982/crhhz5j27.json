@@ -1,0 +1,33 @@
+{
+  "id": "crhhz5j27",
+  "url": "https://constellation.church/crhhz5j27",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "7215 51st Ave NE",
+    "city": "Marysville",
+    "state": "WA",
+    "zip": "98270-4033"
+  },
+  "coordinates": {
+    "latitude": 48.06185531616211,
+    "longitude": -122.16167449951172
+  },
+  "website": "https://blcmarysville.com/aboutus",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6fd0458f-3a98-4927-8423-82235cf3a2a2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6fd0458f-3a98-4927-8423-82235cf3a2a2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blcmarysville.com/aboutus"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910693440"
+    }
+  ],
+  "advisories": []
+}

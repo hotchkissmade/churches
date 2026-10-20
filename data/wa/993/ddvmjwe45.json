@@ -1,0 +1,33 @@
+{
+  "id": "ddvmjwe45",
+  "url": "https://constellation.church/ddvmjwe45",
+  "name": "Crossview Church",
+  "displayName": "Crossview Church",
+  "address": {
+    "street": "540 N Colorado St",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99336"
+  },
+  "coordinates": {
+    "latitude": 46.214813232421875,
+    "longitude": -119.22259521484375
+  },
+  "website": "https://crossviewcommunity.com",
+  "listingUrl": "https://churches.sbc.net/church/crossview-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "crossview-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "crossviewcommunity.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "208001770"
+    }
+  ],
+  "advisories": []
+}

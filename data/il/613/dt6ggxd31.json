@@ -1,0 +1,33 @@
+{
+  "id": "dt6ggxd31",
+  "url": "https://constellation.church/dt6ggxd31",
+  "name": "Trinity Evangelical Lutheran Church",
+  "displayName": "Trinity Evangelical Lutheran Church",
+  "address": {
+    "street": "202 S 4th St",
+    "city": "Manlius",
+    "state": "IL",
+    "zip": "61338-2017"
+  },
+  "coordinates": {
+    "latitude": 41.45499038696289,
+    "longitude": -89.66532135009766
+  },
+  "website": "https://trinitymanlius.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8aee5b3a-7af0-4732-9975-183be86b88bf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8aee5b3a-7af0-4732-9975-183be86b88bf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitymanlius.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362365902"
+    }
+  ],
+  "advisories": []
+}

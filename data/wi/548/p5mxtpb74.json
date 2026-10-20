@@ -1,0 +1,33 @@
+{
+  "id": "p5mxtpb74",
+  "url": "https://constellation.church/p5mxtpb74",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "1360 E La Salle Ave",
+    "city": "Barron",
+    "state": "WI",
+    "zip": "54812-1636"
+  },
+  "coordinates": {
+    "latitude": 45.39948081970215,
+    "longitude": -91.83826446533203
+  },
+  "website": "https://salembarron.com",
+  "listingUrl": "https://locator.lcms.org/church/C/58273",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "58273"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salembarron.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396137330"
+    }
+  ],
+  "advisories": []
+}

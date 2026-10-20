@@ -1,0 +1,33 @@
+{
+  "id": "jvrb1fx55",
+  "url": "https://constellation.church/jvrb1fx55",
+  "name": "First United Methodist Church of Roseburg",
+  "displayName": "First United Methodist Church of Roseburg",
+  "address": {
+    "street": "1771 W Harvard Ave",
+    "city": "Roseburg",
+    "state": "OR",
+    "zip": "97471-2716"
+  },
+  "coordinates": {
+    "latitude": 43.21268081665039,
+    "longitude": -123.37056732177734
+  },
+  "website": "https://fumcroseburg.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKYcIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKYcIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fumcroseburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930446515"
+    }
+  ],
+  "advisories": []
+}

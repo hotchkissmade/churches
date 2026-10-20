@@ -1,0 +1,33 @@
+{
+  "id": "zv8h01779",
+  "url": "https://constellation.church/zv8h01779",
+  "name": "Cedar Crossing Baptist Church",
+  "displayName": "Cedar Crossing Baptist Church",
+  "address": {
+    "street": "2926 Cedar Crossing Rd",
+    "city": "Uvalda",
+    "state": "GA",
+    "zip": "30473"
+  },
+  "coordinates": {
+    "latitude": 32.02708625793457,
+    "longitude": -82.40837860107422
+  },
+  "website": "https://cedarcbc.org",
+  "listingUrl": "https://churches.sbc.net/church/cedar-crossing-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cedar-crossing-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cedarcbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "261109987"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "q8sm5pc03",
+  "url": "https://constellation.church/q8sm5pc03",
+  "name": "Rochester CRC",
+  "displayName": "Rochester Christian Reformed Church",
+  "address": {
+    "street": "2750 Atlantic Ave",
+    "city": "Penfield",
+    "state": "NY",
+    "zip": "14526"
+  },
+  "coordinates": {
+    "latitude": 43.153804779052734,
+    "longitude": -77.48162841796875
+  },
+  "website": "https://rochestercrc.org",
+  "listingUrl": "https://www.crcna.org/churches/818",
+  "identifiers": [
+    {
+      "namespace": "org.crcna.id",
+      "value": "818"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rochestercrc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "160755821"
+    }
+  ],
+  "advisories": []
+}

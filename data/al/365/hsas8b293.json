@@ -1,0 +1,33 @@
+{
+  "id": "hsas8b293",
+  "url": "https://constellation.church/hsas8b293",
+  "name": "Irvington First Baptist Church",
+  "displayName": "Irvington First Baptist Church",
+  "address": {
+    "street": "9074 Irvington BLB Hwy",
+    "city": "Irvington",
+    "state": "AL",
+    "zip": "36544"
+  },
+  "coordinates": {
+    "latitude": 40.724945068359375,
+    "longitude": -74.23667907714844
+  },
+  "website": "https://fbcirvington.org",
+  "listingUrl": "https://churches.sbc.net/church/irvington-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "irvington-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcirvington.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "223203028"
+    }
+  ],
+  "advisories": []
+}

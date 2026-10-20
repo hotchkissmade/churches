@@ -1,0 +1,33 @@
+{
+  "id": "jmyevng71",
+  "url": "https://constellation.church/jmyevng71",
+  "name": "The Gathering Yreka",
+  "displayName": "The Gathering Yreka",
+  "address": {
+    "street": "1115 Lane St",
+    "city": "Yreka",
+    "state": "CA",
+    "zip": "96097"
+  },
+  "coordinates": {
+    "latitude": 41.73226737976074,
+    "longitude": -122.65609741210938
+  },
+  "website": "https://tgyreka.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=389c4a2b-0ef1-4475-810a-532001d6e841&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "389c4a2b-0ef1-4475-810a-532001d6e841"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tgyreka.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "203558083"
+    }
+  ],
+  "advisories": []
+}

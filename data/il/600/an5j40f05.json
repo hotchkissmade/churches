@@ -1,0 +1,33 @@
+{
+  "id": "an5j40f05",
+  "url": "https://constellation.church/an5j40f05",
+  "name": "First Baptist Church of McHenry",
+  "displayName": "First Baptist Church of McHenry",
+  "address": {
+    "street": "509 N Front St",
+    "city": "McHenry",
+    "state": "IL",
+    "zip": "60050"
+  },
+  "coordinates": {
+    "latitude": 42.334739685058594,
+    "longitude": -88.27621459960938
+  },
+  "website": "https://fbcmchenry.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-mchenry/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-mchenry"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcmchenry.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362641991"
+    }
+  ],
+  "advisories": []
+}

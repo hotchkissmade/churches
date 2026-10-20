@@ -1,0 +1,33 @@
+{
+  "id": "cywrs0m40",
+  "url": "https://constellation.church/cywrs0m40",
+  "name": "Hilton Head Island First Baptist Church",
+  "displayName": "Hilton Head Island First Baptist Church",
+  "address": {
+    "street": "100 S Forest Beach Dr",
+    "city": "Hilton Head",
+    "state": "SC",
+    "zip": "29928"
+  },
+  "coordinates": {
+    "latitude": 32.13640022277832,
+    "longitude": -80.7672348022461
+  },
+  "website": "https://fbchhi.org",
+  "listingUrl": "https://churches.sbc.net/church/hilton-head-island-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hilton-head-island-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbchhi.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570622940"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bzkeaeg89",
+  "url": "https://constellation.church/bzkeaeg89",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "2286 250th St",
+    "city": "Denver",
+    "state": "IA",
+    "zip": "50622-1085"
+  },
+  "coordinates": {
+    "latitude": 42.68568801879883,
+    "longitude": -92.30125427246094
+  },
+  "website": "https://stjohnmaxfielddenver.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=329a2574-6515-4777-b0d8-db63709ae14c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "329a2574-6515-4777-b0d8-db63709ae14c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnmaxfielddenver.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421122061"
+    }
+  ],
+  "advisories": []
+}

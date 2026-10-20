@@ -1,0 +1,33 @@
+{
+  "id": "v96z6j904",
+  "url": "https://constellation.church/v96z6j904",
+  "name": "City Church of Richmond",
+  "displayName": "City Church of Richmond",
+  "address": {
+    "street": "1627 Monument Avenue, Grace Covenant PC, 3rd Floor",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "23220"
+  },
+  "coordinates": {
+    "latitude": 37.552900314331055,
+    "longitude": -77.45915603637695
+  },
+  "website": "https://citychurchrva.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5114",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5114"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "citychurchrva.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "262939242"
+    }
+  ],
+  "advisories": []
+}

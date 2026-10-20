@@ -1,0 +1,33 @@
+{
+  "id": "wmhvpnp33",
+  "url": "https://constellation.church/wmhvpnp33",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "914 3rd Ave NE",
+    "city": "Staples",
+    "state": "MN",
+    "zip": "56479"
+  },
+  "coordinates": {
+    "latitude": 46.35641860961914,
+    "longitude": -94.78734588623047
+  },
+  "website": "https://staplesag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f140db64-6217-4976-8104-ba196728f63f&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f140db64-6217-4976-8104-ba196728f63f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "staplesag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411435826"
+    }
+  ],
+  "advisories": []
+}

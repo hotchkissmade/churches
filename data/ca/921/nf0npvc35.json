@@ -1,0 +1,33 @@
+{
+  "id": "nf0npvc35",
+  "url": "https://constellation.church/nf0npvc35",
+  "name": "Ocean View Church San Diego",
+  "displayName": "Ocean View Church San Diego",
+  "address": {
+    "street": "2460 Palm Ave",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92154"
+  },
+  "coordinates": {
+    "latitude": 32.58438682556152,
+    "longitude": -117.0804443359375
+  },
+  "website": "https://oceanviewchurch.com/sandiego",
+  "listingUrl": "https://churches.sbc.net/church/ocean-view-church-san-diego/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "ocean-view-church-san-diego"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oceanviewchurch.com/sandiego"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952910969"
+    }
+  ],
+  "advisories": []
+}

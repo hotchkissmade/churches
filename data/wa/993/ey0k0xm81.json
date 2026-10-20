@@ -1,0 +1,33 @@
+{
+  "id": "ey0k0xm81",
+  "url": "https://constellation.church/ey0k0xm81",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "418 N Yelm St",
+    "city": "Kennewick",
+    "state": "WA",
+    "zip": "99336-3071"
+  },
+  "coordinates": {
+    "latitude": 46.21415710449219,
+    "longitude": -119.15038299560547
+  },
+  "website": "https://kennewickfirstlutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0d3f08b8-9ca5-4035-b3a0-fce167d9abbc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0d3f08b8-9ca5-4035-b3a0-fce167d9abbc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kennewickfirstlutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "943079259"
+    }
+  ],
+  "advisories": []
+}

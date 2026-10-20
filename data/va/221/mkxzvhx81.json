@@ -1,0 +1,33 @@
+{
+  "id": "mkxzvhx81",
+  "url": "https://constellation.church/mkxzvhx81",
+  "name": "Dale City Baptist Church",
+  "displayName": "Dale City Baptist Church",
+  "address": {
+    "street": "3501 Dale Blvd",
+    "city": "Woodbridge",
+    "state": "VA",
+    "zip": "22193"
+  },
+  "coordinates": {
+    "latitude": 38.629920959472656,
+    "longitude": -77.31731796264648
+  },
+  "website": "https://dalecitybaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/dale-city-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "dale-city-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dalecitybaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540928298"
+    }
+  ],
+  "advisories": []
+}

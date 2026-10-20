@@ -1,0 +1,33 @@
+{
+  "id": "ya4r9sa53",
+  "url": "https://constellation.church/ya4r9sa53",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "32234 431st Ave",
+    "city": "Gaylord",
+    "state": "MN",
+    "zip": "55334-2228"
+  },
+  "coordinates": {
+    "latitude": 44.48249816894531,
+    "longitude": -94.1303939819336
+  },
+  "website": "https://stpaulsandtrinitylutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b6af405f-deb8-4a0f-aec7-d54e1fed560d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b6af405f-deb8-4a0f-aec7-d54e1fed560d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsandtrinitylutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411326837"
+    }
+  ],
+  "advisories": []
+}

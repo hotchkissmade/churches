@@ -1,0 +1,33 @@
+{
+  "id": "b5w375p24",
+  "url": "https://constellation.church/b5w375p24",
+  "name": "St. Francis Episcopal Church",
+  "displayName": "St. Francis Episcopal Church",
+  "address": {
+    "street": "10033 River Rd",
+    "city": "Potomac",
+    "state": "MD",
+    "zip": "20854-4975"
+  },
+  "coordinates": {
+    "latitude": 39.01730155944824,
+    "longitude": -77.20725631713867
+  },
+  "website": "https://stfrancispotomac.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/st-francis-potomac",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/st-francis-potomac"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stfrancispotomac.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "526043797"
+    }
+  ],
+  "advisories": []
+}

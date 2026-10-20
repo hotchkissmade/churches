@@ -1,0 +1,33 @@
+{
+  "id": "kz59dst35",
+  "url": "https://constellation.church/kz59dst35",
+  "name": "Winterset, New Bridge Church",
+  "displayName": "Winterset, New Bridge Church",
+  "address": {
+    "street": "1305 W Jefferson St",
+    "city": "Winterset",
+    "state": "IA",
+    "zip": "50273"
+  },
+  "coordinates": {
+    "latitude": 41.33610725402832,
+    "longitude": -94.02859497070312
+  },
+  "website": "https://newbridgewinterset.com",
+  "listingUrl": "https://churches.sbc.net/church/winterset-new-bridge-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "winterset-new-bridge-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newbridgewinterset.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510194395"
+    }
+  ],
+  "advisories": []
+}

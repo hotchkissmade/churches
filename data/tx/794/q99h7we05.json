@@ -1,0 +1,33 @@
+{
+  "id": "q99h7we05",
+  "url": "https://constellation.church/q99h7we05",
+  "name": "Southcrest Baptist Church",
+  "displayName": "Southcrest Baptist Church",
+  "address": {
+    "street": "3801 S Loop 289",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79423"
+  },
+  "coordinates": {
+    "latitude": 33.52760887145996,
+    "longitude": -101.89739227294922
+  },
+  "website": "https://southcrest.org",
+  "listingUrl": "https://churches.sbc.net/church/southcrest-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "southcrest-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southcrest.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750964543"
+    }
+  ],
+  "advisories": []
+}

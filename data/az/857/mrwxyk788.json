@@ -1,0 +1,33 @@
+{
+  "id": "mrwxyk788",
+  "url": "https://constellation.church/mrwxyk788",
+  "name": "Apostolic Christian Church of Tucson",
+  "displayName": "Apostolic Christian Church of Tucson",
+  "address": {
+    "street": "954 South Magnolia",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85711"
+  },
+  "coordinates": {
+    "latitude": 32.2089900970459,
+    "longitude": -110.88291931152344
+  },
+  "website": "https://tucsonacchurch.org",
+  "listingUrl": "https://www.apostolicchristian.org/congregations/tucson",
+  "identifiers": [
+    {
+      "namespace": "org.apostolicchristian.id",
+      "value": "tucson"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tucsonacchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953509749"
+    }
+  ],
+  "advisories": []
+}

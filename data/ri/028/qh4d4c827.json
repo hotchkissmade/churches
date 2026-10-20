@@ -1,0 +1,33 @@
+{
+  "id": "qh4d4c827",
+  "url": "https://constellation.church/qh4d4c827",
+  "name": "St Andrew Lutheran Church",
+  "displayName": "St. Andrew Lutheran Church",
+  "address": {
+    "street": "15 E Beach Rd",
+    "city": "Charlestown",
+    "state": "RI",
+    "zip": "02813-1602"
+  },
+  "coordinates": {
+    "latitude": 41.35600280761719,
+    "longitude": -71.70392990112305
+  },
+  "website": "https://standrewri.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=641e237f-576e-44b7-8994-2bc71c9d0ebc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "641e237f-576e-44b7-8994-2bc71c9d0ebc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewri.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "050433286"
+    }
+  ],
+  "advisories": []
+}

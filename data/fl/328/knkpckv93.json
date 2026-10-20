@@ -1,0 +1,33 @@
+{
+  "id": "knkpckv93",
+  "url": "https://constellation.church/knkpckv93",
+  "name": "First Baptist Church of Orlando",
+  "displayName": "First Baptist Church of Orlando",
+  "address": {
+    "street": "3000 S John Young Pkwy",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32805"
+  },
+  "coordinates": {
+    "latitude": 28.51203155517578,
+    "longitude": -81.42341232299805
+  },
+  "website": "https://firstorlando.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-orlando/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-orlando"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstorlando.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590696287"
+    }
+  ],
+  "advisories": []
+}

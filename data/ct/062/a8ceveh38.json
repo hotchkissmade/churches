@@ -1,0 +1,33 @@
+{
+  "id": "a8ceveh38",
+  "url": "https://constellation.church/a8ceveh38",
+  "name": "Presbyterian Church of Coventry",
+  "displayName": "Presbyterian Church of Coventry",
+  "address": {
+    "street": "55 Trowbridge Road",
+    "city": "Coventry",
+    "state": "CT",
+    "zip": "06238"
+  },
+  "coordinates": {
+    "latitude": 41.79800796508789,
+    "longitude": -72.3612060546875
+  },
+  "website": "https://coventrypca.church",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/850",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "850"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "coventrypca.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "061076942"
+    }
+  ],
+  "advisories": []
+}

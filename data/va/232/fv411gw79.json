@@ -1,0 +1,33 @@
+{
+  "id": "fv411gw79",
+  "url": "https://constellation.church/fv411gw79",
+  "name": "Church in Richmond, VA",
+  "displayName": "Church in Richmond, VA",
+  "address": {
+    "street": "130 S Cherry St",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "23220"
+  },
+  "coordinates": {
+    "latitude": 37.5435781,
+    "longitude": -77.4530886
+  },
+  "website": "https://churchinrichmondva.org",
+  "listingUrl": "https://localchurches.org/churches/richmond-va-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "richmond-va-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinrichmondva.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "275053563"
+    }
+  ],
+  "advisories": []
+}

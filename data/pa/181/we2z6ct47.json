@@ -1,0 +1,33 @@
+{
+  "id": "we2z6ct47",
+  "url": "https://constellation.church/we2z6ct47",
+  "name": "Evangelical Lutheran Church Of The Redeemer",
+  "displayName": "Evangelical Lutheran Church Of The Redeemer",
+  "address": {
+    "street": "802 N 19th St",
+    "city": "Allentown",
+    "state": "PA",
+    "zip": "18104-4019"
+  },
+  "coordinates": {
+    "latitude": 40.6068757,
+    "longitude": -75.5022606
+  },
+  "website": "https://redeemerallentown.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3bc18416-2eef-4b47-b2d0-ca30e175216a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3bc18416-2eef-4b47-b2d0-ca30e175216a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerallentown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231540462"
+    }
+  ],
+  "advisories": []
+}

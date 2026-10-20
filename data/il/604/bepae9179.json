@@ -1,0 +1,33 @@
+{
+  "id": "bepae9179",
+  "url": "https://constellation.church/bepae9179",
+  "name": "Island City Baptist Church",
+  "displayName": "Island City Baptist Church",
+  "address": {
+    "street": "120 Vine St",
+    "city": "Wilmington",
+    "state": "IL",
+    "zip": "60481"
+  },
+  "coordinates": {
+    "latitude": 41.30191421508789,
+    "longitude": -88.14497375488281
+  },
+  "website": "https://icbcwilmington.org",
+  "listingUrl": "https://churches.sbc.net/church/island-city-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "island-city-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "icbcwilmington.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "364218212"
+    }
+  ],
+  "advisories": []
+}

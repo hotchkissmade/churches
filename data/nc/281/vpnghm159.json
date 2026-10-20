@@ -1,0 +1,33 @@
+{
+  "id": "vpnghm159",
+  "url": "https://constellation.church/vpnghm159",
+  "name": "Cedar Grove Lutheran Church",
+  "displayName": "Cedar Grove Lutheran Church",
+  "address": {
+    "street": "261 Cedar Grove Church Rd",
+    "city": "Vale",
+    "state": "NC",
+    "zip": "28168-9442"
+  },
+  "coordinates": {
+    "latitude": 35.50622749328613,
+    "longitude": -81.43013763427734
+  },
+  "website": "https://cedargrovelutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=edda358b-04a2-4bb5-b723-95ca2757a496",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "edda358b-04a2-4bb5-b723-95ca2757a496"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cedargrovelutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "566047376"
+    }
+  ],
+  "advisories": []
+}

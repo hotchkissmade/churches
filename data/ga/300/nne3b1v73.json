@@ -1,0 +1,33 @@
+{
+  "id": "nne3b1v73",
+  "url": "https://constellation.church/nne3b1v73",
+  "name": "Lutheran Church Of The Resurrection",
+  "displayName": "Lutheran Church Of The Resurrection",
+  "address": {
+    "street": "4814 Paper Mill Rd SE",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30067-4046"
+  },
+  "coordinates": {
+    "latitude": 33.94890785217285,
+    "longitude": -84.41471481323242
+  },
+  "website": "https://lcrmarietta.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a790b4a3-1371-4972-84b7-45788a90d5c2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a790b4a3-1371-4972-84b7-45788a90d5c2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcrmarietta.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581352477"
+    }
+  ],
+  "advisories": []
+}

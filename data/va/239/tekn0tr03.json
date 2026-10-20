@@ -1,0 +1,33 @@
+{
+  "id": "tekn0tr03",
+  "url": "https://constellation.church/tekn0tr03",
+  "name": "Bethany Baptist Church",
+  "displayName": "Bethany Baptist Church",
+  "address": {
+    "street": "1787 Baskerville Road",
+    "city": "Baskerville",
+    "state": "VA",
+    "zip": "23915"
+  },
+  "coordinates": {
+    "latitude": 36.66163444519043,
+    "longitude": -78.2628402709961
+  },
+  "website": "https://bethanybaptistchurchsite.org",
+  "listingUrl": "https://churches.sbc.net/church/bethany-baptist-church-40/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bethany-baptist-church-40"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanybaptistchurchsite.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "546039467"
+    }
+  ],
+  "advisories": []
+}

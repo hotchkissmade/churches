@@ -1,0 +1,33 @@
+{
+  "id": "peq6cyx84",
+  "url": "https://constellation.church/peq6cyx84",
+  "name": "Holy Trinity Church",
+  "displayName": "Holy Trinity Church",
+  "address": {
+    "street": "6822 Broadview Rd",
+    "city": "Parma",
+    "state": "OH",
+    "zip": "44134"
+  },
+  "coordinates": {
+    "latitude": 41.37962341308594,
+    "longitude": -81.68848037719727
+  },
+  "website": "https://holy-trin.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-mw-parhtc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-mw-parhtc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holy-trin.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340929957"
+    }
+  ],
+  "advisories": []
+}

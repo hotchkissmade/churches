@@ -1,0 +1,33 @@
+{
+  "id": "vks55tj13",
+  "url": "https://constellation.church/vks55tj13",
+  "name": "Hillcrest",
+  "displayName": "Hillcrest Baptist Church",
+  "address": {
+    "street": "1218 S Main St",
+    "city": "Galax",
+    "state": "VA",
+    "zip": "24333"
+  },
+  "coordinates": {
+    "latitude": 36.63306999206543,
+    "longitude": -80.91833877563477
+  },
+  "website": "https://hillcrestgalax.org",
+  "listingUrl": "https://churches.sbc.net/church/hillcrest-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hillcrest-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hillcrestgalax.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541262608"
+    }
+  ],
+  "advisories": []
+}

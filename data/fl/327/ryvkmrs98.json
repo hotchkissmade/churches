@@ -1,0 +1,33 @@
+{
+  "id": "ryvkmrs98",
+  "url": "https://constellation.church/ryvkmrs98",
+  "name": "First Baptist Church of Winter Park",
+  "displayName": "First Baptist Church of Winter Park",
+  "address": {
+    "street": "1021 N New York Ave",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789"
+  },
+  "coordinates": {
+    "latitude": 28.607118606567383,
+    "longitude": -81.35326385498047
+  },
+  "website": "https://firstwinterpark.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-winter-park/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-winter-park"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstwinterpark.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590942750"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pphk57103",
+  "url": "https://constellation.church/pphk57103",
+  "name": "Iglesia Bautista Betania",
+  "displayName": "Iglesia Bautista Betania",
+  "address": {
+    "street": "600 Bridge Road",
+    "city": "Taylors",
+    "state": "SC",
+    "zip": "29687"
+  },
+  "coordinates": {
+    "latitude": 34.92265510559082,
+    "longitude": -82.28292083740234
+  },
+  "website": "https://iglesiabetania.org",
+  "listingUrl": "https://churches.sbc.net/church/iglesia-bautista-betania-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "iglesia-bautista-betania-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "iglesiabetania.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "743203232"
+    }
+  ],
+  "advisories": []
+}

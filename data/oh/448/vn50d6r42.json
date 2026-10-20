@@ -1,0 +1,33 @@
+{
+  "id": "vn50d6r42",
+  "url": "https://constellation.church/vn50d6r42",
+  "name": "St Peter Evangelical Lutheran Church",
+  "displayName": "St. Peter Evangelical Lutheran Church",
+  "address": {
+    "street": "243 Benedict Ave",
+    "city": "Norwalk",
+    "state": "OH",
+    "zip": "44857-2345"
+  },
+  "coordinates": {
+    "latitude": 41.22970199584961,
+    "longitude": -82.60302352905273
+  },
+  "website": "https://stpeter-elca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c3c3a2d0-3554-443e-b3a8-d1b318653c07",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c3c3a2d0-3554-443e-b3a8-d1b318653c07"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpeter-elca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340907176"
+    }
+  ],
+  "advisories": []
+}

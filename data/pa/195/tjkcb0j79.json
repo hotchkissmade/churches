@@ -1,0 +1,33 @@
+{
+  "id": "tjkcb0j79",
+  "url": "https://constellation.church/tjkcb0j79",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "222 Niantic Rd",
+    "city": "Barto",
+    "state": "PA",
+    "zip": "19504-9314"
+  },
+  "coordinates": {
+    "latitude": 40.37791442871094,
+    "longitude": -75.57183837890625
+  },
+  "website": "https://christniantic.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fc213dcf-eab3-4a10-b959-b9838208f095",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fc213dcf-eab3-4a10-b959-b9838208f095"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christniantic.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231920000"
+    }
+  ],
+  "advisories": []
+}

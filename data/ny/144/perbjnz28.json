@@ -1,0 +1,33 @@
+{
+  "id": "perbjnz28",
+  "url": "https://constellation.church/perbjnz28",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "48 Perrin St",
+    "city": "Fairport",
+    "state": "NY",
+    "zip": "14450-2122"
+  },
+  "coordinates": {
+    "latitude": 43.0988826751709,
+    "longitude": -77.44412612915039
+  },
+  "website": "https://blcfairport.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7feb7e23-511a-4472-845e-665ba0b18045",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7feb7e23-511a-4472-845e-665ba0b18045"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blcfairport.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "160928704"
+    }
+  ],
+  "advisories": []
+}

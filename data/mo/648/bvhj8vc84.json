@@ -1,0 +1,33 @@
+{
+  "id": "bvhj8vc84",
+  "url": "https://constellation.church/bvhj8vc84",
+  "name": "First Baptist Church Sarcoxie",
+  "displayName": "First Baptist Church Sarcoxie",
+  "address": {
+    "street": "101 N 17th St",
+    "city": "Sarcoxie",
+    "state": "MO",
+    "zip": "64862"
+  },
+  "coordinates": {
+    "latitude": 37.069570541381836,
+    "longitude": -94.13155364990234
+  },
+  "website": "https://fbcsarcoxie.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-sarcoxie/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-sarcoxie"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcsarcoxie.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431303701"
+    }
+  ],
+  "advisories": []
+}

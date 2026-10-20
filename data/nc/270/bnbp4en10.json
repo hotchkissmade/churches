@@ -1,0 +1,33 @@
+{
+  "id": "bnbp4en10",
+  "url": "https://constellation.church/bnbp4en10",
+  "name": "Christ Church",
+  "displayName": "Christ Church",
+  "address": {
+    "street": "412 Summit Ave.",
+    "city": "Walnut Cove",
+    "state": "NC",
+    "zip": "27052-9352"
+  },
+  "coordinates": {
+    "latitude": 36.297658920288086,
+    "longitude": -80.13956069946289
+  },
+  "website": "https://christchurchwalnutcove.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-north-carolina/list/christ-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-north-carolina/christ-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christchurchwalnutcove.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561152844"
+    }
+  ],
+  "advisories": []
+}

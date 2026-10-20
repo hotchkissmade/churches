@@ -1,0 +1,33 @@
+{
+  "id": "djzzbt510",
+  "url": "https://constellation.church/djzzbt510",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "104 S Village Ave",
+    "city": "Exton",
+    "state": "PA",
+    "zip": "19341-1215"
+  },
+  "coordinates": {
+    "latitude": 40.054039001464844,
+    "longitude": -75.65481185913086
+  },
+  "website": "https://stpaulslionville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fc219de4-efa7-4c59-a182-22abb60889dd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fc219de4-efa7-4c59-a182-22abb60889dd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulslionville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236283110"
+    }
+  ],
+  "advisories": []
+}

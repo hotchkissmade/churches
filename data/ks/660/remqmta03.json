@@ -1,0 +1,33 @@
+{
+  "id": "remqmta03",
+  "url": "https://constellation.church/remqmta03",
+  "name": "First Southern Baptist Church",
+  "displayName": "First Southern Baptist Church",
+  "address": {
+    "street": "1419 S Eisenhower Ave",
+    "city": "Ottawa",
+    "state": "KS",
+    "zip": "66067"
+  },
+  "coordinates": {
+    "latitude": 38.59468460083008,
+    "longitude": -95.28584289550781
+  },
+  "website": "https://fsbcottawa.com",
+  "listingUrl": "https://churches.sbc.net/church/first-southern-baptist-church-70/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-southern-baptist-church-70"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fsbcottawa.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480960878"
+    }
+  ],
+  "advisories": []
+}

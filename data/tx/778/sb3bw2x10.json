@@ -1,0 +1,33 @@
+{
+  "id": "sb3bw2x10",
+  "url": "https://constellation.church/sb3bw2x10",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "3333 Oak Ridge Drive",
+    "city": "Bryan",
+    "state": "TX",
+    "zip": "77802"
+  },
+  "coordinates": {
+    "latitude": 30.65365982055664,
+    "longitude": -96.33167266845703
+  },
+  "website": "https://wpcbryan.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1090",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1090"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wpcbryan.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742222261"
+    }
+  ],
+  "advisories": []
+}

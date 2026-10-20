@@ -1,0 +1,33 @@
+{
+  "id": "h86qhfc23",
+  "url": "https://constellation.church/h86qhfc23",
+  "name": "Mercy Hill Presbyterian Church",
+  "displayName": "Mercy Hill Presbyterian Church",
+  "address": {
+    "street": "300 University Boulevard",
+    "city": "Glassboro",
+    "state": "NJ",
+    "zip": "08028"
+  },
+  "coordinates": {
+    "latitude": 39.70660591125488,
+    "longitude": -75.12786102294922
+  },
+  "website": "https://mercyhillnj.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5190",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5190"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mercyhillnj.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "263523215"
+    }
+  ],
+  "advisories": []
+}

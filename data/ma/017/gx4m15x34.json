@@ -1,0 +1,33 @@
+{
+  "id": "gx4m15x34",
+  "url": "https://constellation.church/gx4m15x34",
+  "name": "St Mark",
+  "displayName": "St. Mark Coptic Orthodox Church",
+  "address": {
+    "street": "145 Oak St",
+    "city": "Natick",
+    "state": "MA",
+    "zip": "01760"
+  },
+  "coordinates": {
+    "latitude": 42.30994415283203,
+    "longitude": -71.3333969116211
+  },
+  "website": "https://stmarkboston.org",
+  "listingUrl": "https://copticchurch.net/directory/church/75",
+  "identifiers": [
+    {
+      "namespace": "net.copticchurch.id",
+      "value": "75"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkboston.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510186146"
+    }
+  ],
+  "advisories": []
+}

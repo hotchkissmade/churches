@@ -1,0 +1,33 @@
+{
+  "id": "f8secpf07",
+  "url": "https://constellation.church/f8secpf07",
+  "name": "Vandola Baptist Church",
+  "displayName": "Vandola Baptist Church",
+  "address": {
+    "street": "1950 Vandola Church Rd",
+    "city": "Danville",
+    "state": "VA",
+    "zip": "24541"
+  },
+  "coordinates": {
+    "latitude": 36.57967948913574,
+    "longitude": -79.52306365966797
+  },
+  "website": "https://vandolabaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/vandola-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "vandola-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "vandolabaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541130686"
+    }
+  ],
+  "advisories": []
+}

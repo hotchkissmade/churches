@@ -1,0 +1,33 @@
+{
+  "id": "s2mstcr76",
+  "url": "https://constellation.church/s2mstcr76",
+  "name": "St. Patrick's church",
+  "displayName": "St. Patrick's church",
+  "address": {
+    "street": "305 Carlls Path",
+    "city": "Deer Park",
+    "state": "NY",
+    "zip": "11729"
+  },
+  "coordinates": {
+    "latitude": 40.756608963012695,
+    "longitude": -73.32053756713867
+  },
+  "website": "https://stpatrickschurchdeerpark.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-patricks-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-patricks-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpatrickschurchdeerpark.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112670108"
+    }
+  ],
+  "advisories": []
+}

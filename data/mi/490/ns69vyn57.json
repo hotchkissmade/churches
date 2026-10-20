@@ -1,0 +1,33 @@
+{
+  "id": "ns69vyn57",
+  "url": "https://constellation.church/ns69vyn57",
+  "name": "St. Paul's Episcopal Church",
+  "displayName": "St. Paul's Episcopal Church",
+  "address": {
+    "street": "306 Courtland St",
+    "city": "Dowagiac",
+    "state": "MI",
+    "zip": "49047-1198"
+  },
+  "coordinates": {
+    "latitude": 41.98472785949707,
+    "longitude": -86.1123161315918
+  },
+  "website": "https://stpaulsdowagiac.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-western-michigan/list/st-pauls-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-western-michigan/st-pauls-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsdowagiac.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "386061811"
+    }
+  ],
+  "advisories": []
+}

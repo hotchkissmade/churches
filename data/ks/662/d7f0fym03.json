@@ -1,0 +1,33 @@
+{
+  "id": "d7f0fym03",
+  "url": "https://constellation.church/d7f0fym03",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "5601 W 62nd St",
+    "city": "Mission",
+    "state": "KS",
+    "zip": "66202-3532"
+  },
+  "coordinates": {
+    "latitude": 39.016130447387695,
+    "longitude": -94.65098571777344
+  },
+  "website": "https://tlcms.org",
+  "listingUrl": "https://locator.lcms.org/church/C/598098",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "598098"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcms.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480586385"
+    }
+  ],
+  "advisories": []
+}

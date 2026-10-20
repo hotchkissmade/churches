@@ -1,0 +1,33 @@
+{
+  "id": "pve3sa257",
+  "url": "https://constellation.church/pve3sa257",
+  "name": "Rocky River Baptist Church",
+  "displayName": "Rocky River Baptist Church",
+  "address": {
+    "street": "3266 Lake Secession Rd",
+    "city": "Iva",
+    "state": "SC",
+    "zip": "29655"
+  },
+  "coordinates": {
+    "latitude": 34.2972469329834,
+    "longitude": -82.60323715209961
+  },
+  "website": "https://rockyriverbaptistchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/rocky-river-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "rocky-river-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rockyriverbaptistchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "576027325"
+    }
+  ],
+  "advisories": []
+}

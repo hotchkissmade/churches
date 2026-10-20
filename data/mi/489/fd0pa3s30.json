@@ -1,0 +1,33 @@
+{
+  "id": "fd0pa3s30",
+  "url": "https://constellation.church/fd0pa3s30",
+  "name": "Church in the City",
+  "displayName": "Church in the City",
+  "address": {
+    "street": "319 W Genesee St",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "48933"
+  },
+  "coordinates": {
+    "latitude": 42.738365,
+    "longitude": -84.5566612
+  },
+  "website": "https://citychurchlansing.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=c44623c4-b3f0-4a6b-a9bb-d336c234301c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "c44623c4-b3f0-4a6b-a9bb-d336c234301c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "citychurchlansing.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "383435555"
+    }
+  ],
+  "advisories": []
+}

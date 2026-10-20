@@ -1,0 +1,33 @@
+{
+  "id": "jvkc19765",
+  "url": "https://constellation.church/jvkc19765",
+  "name": "Our Savior's Lutheran Church",
+  "displayName": "Our Savior's Lutheran Church",
+  "address": {
+    "street": "300 E Union St",
+    "city": "Seneca",
+    "state": "IL",
+    "zip": "61360-9406"
+  },
+  "coordinates": {
+    "latitude": 41.31093978881836,
+    "longitude": -88.60260009765625
+  },
+  "website": "https://senecalutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d802ec27-ef76-4ef2-9da1-5f21a6856c1d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d802ec27-ef76-4ef2-9da1-5f21a6856c1d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "senecalutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363008305"
+    }
+  ],
+  "advisories": []
+}

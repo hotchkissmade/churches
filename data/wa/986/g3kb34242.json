@@ -1,0 +1,33 @@
+{
+  "id": "g3kb34242",
+  "url": "https://constellation.church/g3kb34242",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "824 NE 4th Ave",
+    "city": "Camas",
+    "state": "WA",
+    "zip": "98607-1604"
+  },
+  "coordinates": {
+    "latitude": 45.58772087097168,
+    "longitude": -122.40025329589844
+  },
+  "website": "https://zioncamas.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7157f045-d6ee-481d-bc56-ece6a0ca3a9b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7157f045-d6ee-481d-bc56-ece6a0ca3a9b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zioncamas.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910789279"
+    }
+  ],
+  "advisories": []
+}

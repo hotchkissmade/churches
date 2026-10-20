@@ -1,0 +1,33 @@
+{
+  "id": "ejhkp9c23",
+  "url": "https://constellation.church/ejhkp9c23",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "3333 Duffield Ave",
+    "city": "Loveland",
+    "state": "CO",
+    "zip": "80538-3510"
+  },
+  "coordinates": {
+    "latitude": 40.4257698059082,
+    "longitude": -105.09133911132812
+  },
+  "website": "https://trinityloveland.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0b478be1-943e-4934-b20e-ecf88f963fbc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0b478be1-943e-4934-b20e-ecf88f963fbc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityloveland.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840438034"
+    }
+  ],
+  "advisories": []
+}

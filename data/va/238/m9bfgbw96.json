@@ -1,0 +1,33 @@
+{
+  "id": "m9bfgbw96",
+  "url": "https://constellation.church/m9bfgbw96",
+  "name": "West End Presbyterian Church",
+  "displayName": "West End Presbyterian Church",
+  "address": {
+    "street": "1600 Atlantic Street",
+    "city": "Hopewell",
+    "state": "VA",
+    "zip": "23860"
+  },
+  "coordinates": {
+    "latitude": 37.29611015319824,
+    "longitude": -77.29935073852539
+  },
+  "website": "https://wepc-hopewell.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1059",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1059"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wepc-hopewell.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540595201"
+    }
+  ],
+  "advisories": []
+}

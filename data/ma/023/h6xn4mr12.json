@@ -1,0 +1,33 @@
+{
+  "id": "h6xn4mr12",
+  "url": "https://constellation.church/h6xn4mr12",
+  "name": "Christ the Rock Congregation",
+  "displayName": "Christ the Rock Congregation",
+  "address": {
+    "street": "15 Cary Street",
+    "city": "Brockton",
+    "state": "MA",
+    "zip": "02302"
+  },
+  "coordinates": {
+    "latitude": 42.0868769,
+    "longitude": -71.0049968
+  },
+  "website": "https://ctrcbrockton.com",
+  "listingUrl": "https://churches.sbc.net/church/christ-the-rock-congregation/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "christ-the-rock-congregation"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ctrcbrockton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "273599466"
+    }
+  ],
+  "advisories": []
+}

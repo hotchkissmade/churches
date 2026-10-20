@@ -1,0 +1,37 @@
+{
+  "id": "x79th3j71",
+  "url": "https://constellation.church/x79th3j71",
+  "name": "Grace Presbyterian Church",
+  "displayName": "Grace Presbyterian Church",
+  "address": {
+    "street": "130 Byram Parkway",
+    "city": "Jackson",
+    "state": "MS",
+    "zip": "39272"
+  },
+  "coordinates": {
+    "latitude": 35.21651649475098,
+    "longitude": -89.84074020385742
+  },
+  "website": "https://grace-pres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/541",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "541"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grace-pres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640659183"
+    },
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "11968"
+    }
+  ],
+  "advisories": []
+}

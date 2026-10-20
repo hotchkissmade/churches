@@ -1,0 +1,33 @@
+{
+  "id": "jx315f023",
+  "url": "https://constellation.church/jx315f023",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "207 S Cherry Ave",
+    "city": "Marshfield",
+    "state": "WI",
+    "zip": "54449-3733"
+  },
+  "coordinates": {
+    "latitude": 44.66361618041992,
+    "longitude": -90.17044448852539
+  },
+  "website": "https://faithmarshfield.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c5e74864-2f05-4950-8eb6-ee6652ebbded",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c5e74864-2f05-4950-8eb6-ee6652ebbded"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithmarshfield.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391032355"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pb0t76p39",
+  "url": "https://constellation.church/pb0t76p39",
+  "name": "Spokane Quaker Worship Group",
+  "displayName": "Spokane Quaker Worship Group",
+  "address": {
+    "street": "1612 W. Dalke",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99205"
+  },
+  "coordinates": {
+    "latitude": 47.71380615234375,
+    "longitude": -117.43563079833984
+  },
+  "website": "https://spokanefriends.org/our-staff/about",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/spokane-friends-meeting-nwym/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "spokane-friends-meeting-nwym"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "spokanefriends.org/our-staff/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911134356"
+    }
+  ],
+  "advisories": []
+}

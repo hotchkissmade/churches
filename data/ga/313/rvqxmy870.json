@@ -1,0 +1,33 @@
+{
+  "id": "rvqxmy870",
+  "url": "https://constellation.church/rvqxmy870",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "1115 US Highway 80 East",
+    "city": "Pooler",
+    "state": "GA",
+    "zip": "31322"
+  },
+  "coordinates": {
+    "latitude": 32.10546684265137,
+    "longitude": -81.22846984863281
+  },
+  "website": "https://fpcpooler.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4389",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4389"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcpooler.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030425347"
+    }
+  ],
+  "advisories": []
+}

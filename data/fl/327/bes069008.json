@@ -1,0 +1,33 @@
+{
+  "id": "bes069008",
+  "url": "https://constellation.church/bes069008",
+  "name": "Waterstone Church",
+  "displayName": "Waterstone Church",
+  "address": {
+    "street": "900 North St",
+    "city": "Longwood",
+    "state": "FL",
+    "zip": "32750"
+  },
+  "coordinates": {
+    "latitude": 28.683996200561523,
+    "longitude": -81.35678482055664
+  },
+  "website": "https://mywaterstone.church",
+  "listingUrl": "https://churches.sbc.net/church/waterstone-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "waterstone-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mywaterstone.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591058147"
+    }
+  ],
+  "advisories": []
+}

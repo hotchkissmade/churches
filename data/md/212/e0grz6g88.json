@@ -1,0 +1,33 @@
+{
+  "id": "e0grz6g88",
+  "url": "https://constellation.church/e0grz6g88",
+  "name": "Aisquith Presbyterian Church",
+  "displayName": "Aisquith Presbyterian Church",
+  "address": {
+    "street": "7515 Harford Road",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21234"
+  },
+  "coordinates": {
+    "latitude": 39.3710880279541,
+    "longitude": -76.54486465454102
+  },
+  "website": "https://aisquith.org/giving",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/57",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "57"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "aisquith.org/giving"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520667484"
+    }
+  ],
+  "advisories": []
+}

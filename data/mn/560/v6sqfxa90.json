@@ -1,0 +1,33 @@
+{
+  "id": "v6sqfxa90",
+  "url": "https://constellation.church/v6sqfxa90",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "308 Water St",
+    "city": "Albert Lea",
+    "state": "MN",
+    "zip": "56007"
+  },
+  "coordinates": {
+    "latitude": 43.650814056396484,
+    "longitude": -93.371826171875
+  },
+  "website": "https://firstpres.us",
+  "listingUrl": "https://eco-pres.org/churches/first-presbyterian-church-albert-lea/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "first-presbyterian-church-albert-lea"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpres.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410695512"
+    }
+  ],
+  "advisories": []
+}

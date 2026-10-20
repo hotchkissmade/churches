@@ -1,0 +1,37 @@
+{
+  "id": "b810qww10",
+  "url": "https://constellation.church/b810qww10",
+  "name": "St John's Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "201 First Avenue NW",
+    "city": "Le Mars",
+    "state": "IA",
+    "zip": "51031"
+  },
+  "coordinates": {
+    "latitude": 42.89707565307617,
+    "longitude": -96.31047058105469
+  },
+  "website": "https://stjohnslemarsia.org",
+  "listingUrl": "https://lcmc.net/congregation/114435",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "114435"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnslemarsia.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421118761"
+    },
+    {
+      "namespace": "org.elca.id",
+      "value": "8cd471b1-de7c-405a-ae25-8921e53e2b04"
+    }
+  ],
+  "advisories": []
+}

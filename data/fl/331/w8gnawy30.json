@@ -1,0 +1,33 @@
+{
+  "id": "w8gnawy30",
+  "url": "https://constellation.church/w8gnawy30",
+  "name": "Grace Church",
+  "displayName": "Grace Church",
+  "address": {
+    "street": "370 Grand Concourse",
+    "city": "Miami Shores",
+    "state": "FL",
+    "zip": "33138"
+  },
+  "coordinates": {
+    "latitude": 25.862895965576172,
+    "longitude": -80.19002914428711
+  },
+  "website": "https://gracechurch.miami",
+  "listingUrl": "https://churches.sbc.net/church/grace-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grace-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracechurch.miami"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "262476899"
+    }
+  ],
+  "advisories": []
+}

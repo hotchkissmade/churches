@@ -1,0 +1,33 @@
+{
+  "id": "wq1ynwb24",
+  "url": "https://constellation.church/wq1ynwb24",
+  "name": "StoneWater Church, Granbury",
+  "displayName": "StoneWater Church, Granbury",
+  "address": {
+    "street": "1540 Southtown Dr. #106",
+    "city": "Granbury",
+    "state": "TX",
+    "zip": "76048"
+  },
+  "coordinates": {
+    "latitude": 32.4370296,
+    "longitude": -97.763611
+  },
+  "website": "https://stonewaterchurch.com/locations/granbury",
+  "listingUrl": "https://churches.sbc.net/church/stonewater-church-granbury/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "stonewater-church-granbury"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stonewaterchurch.com/locations/granbury"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "202015011"
+    }
+  ],
+  "advisories": []
+}

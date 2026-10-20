@@ -1,0 +1,33 @@
+{
+  "id": "qmz802145",
+  "url": "https://constellation.church/qmz802145",
+  "name": "Emanuel Lutheran Church",
+  "displayName": "Emanuel Lutheran Church",
+  "address": {
+    "street": "4311 San Jacinto St",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75204-5071"
+  },
+  "coordinates": {
+    "latitude": 32.8005313873291,
+    "longitude": -96.78104400634766
+  },
+  "website": "https://emanueldallas.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dee8db41-ebc7-45cb-bfe5-0ab694e89251",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dee8db41-ebc7-45cb-bfe5-0ab694e89251"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emanueldallas.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751386686"
+    }
+  ],
+  "advisories": []
+}

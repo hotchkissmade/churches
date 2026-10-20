@@ -1,0 +1,33 @@
+{
+  "id": "c7yv01550",
+  "url": "https://constellation.church/c7yv01550",
+  "name": "St. Christopher's Episcopal Church",
+  "displayName": "St. Christopher's Episcopal Church",
+  "address": {
+    "street": "8724 Travis Hills Dr",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78735-8171"
+  },
+  "coordinates": {
+    "latitude": 30.25885581970215,
+    "longitude": -97.89028930664062
+  },
+  "website": "https://stchristophersaustin.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-texas/list/st-christophers-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-texas/st-christophers-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stchristophersaustin.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741900807"
+    }
+  ],
+  "advisories": []
+}

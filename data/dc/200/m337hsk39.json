@@ -1,0 +1,33 @@
+{
+  "id": "m337hsk39",
+  "url": "https://constellation.church/m337hsk39",
+  "name": "Church of the Epiphany, DC",
+  "displayName": "Church of the Epiphany, DC",
+  "address": {
+    "street": "1317 G Street NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20005"
+  },
+  "coordinates": {
+    "latitude": 38.89846611022949,
+    "longitude": -77.03047561645508
+  },
+  "website": "https://epiphanydc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/epiphany-parish-dc",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/epiphany-parish-dc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "epiphanydc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "530196559"
+    }
+  ],
+  "advisories": []
+}

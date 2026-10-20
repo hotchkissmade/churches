@@ -1,0 +1,33 @@
+{
+  "id": "dn1ec1m97",
+  "url": "https://constellation.church/dn1ec1m97",
+  "name": "Episcopal Church of the Incarnation",
+  "displayName": "Episcopal Church of the Incarnation",
+  "address": {
+    "street": "1750 29th Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94122-4223"
+  },
+  "coordinates": {
+    "latitude": 37.75452423095703,
+    "longitude": -122.48710632324219
+  },
+  "website": "https://incarnationsf.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-california/list/episcopal-church-incarnation",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-california/episcopal-church-incarnation"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "incarnationsf.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "946112383"
+    }
+  ],
+  "advisories": []
+}

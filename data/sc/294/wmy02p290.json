@@ -1,0 +1,33 @@
+{
+  "id": "wmy02p290",
+  "url": "https://constellation.church/wmy02p290",
+  "name": "Fort Johnson Baptist Church",
+  "displayName": "Fort Johnson Baptist Church",
+  "address": {
+    "street": "1473 Camp Rd",
+    "city": "Charleston",
+    "state": "SC",
+    "zip": "29412"
+  },
+  "coordinates": {
+    "latitude": 32.73165702819824,
+    "longitude": -79.96169662475586
+  },
+  "website": "https://fjbc.net",
+  "listingUrl": "https://churches.sbc.net/church/fort-johnson-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "fort-johnson-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fjbc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570423255"
+    }
+  ],
+  "advisories": []
+}

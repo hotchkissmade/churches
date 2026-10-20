@@ -1,0 +1,33 @@
+{
+  "id": "ap4zc9265",
+  "url": "https://constellation.church/ap4zc9265",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "909 N La Cumbre Rd",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "zip": "93110-1233"
+  },
+  "coordinates": {
+    "latitude": 34.454519271850586,
+    "longitude": -119.75133514404297
+  },
+  "website": "https://telcsb.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=573a96d1-ee67-4b2a-a94c-f6dd0a3b6ed0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "573a96d1-ee67-4b2a-a94c-f6dd0a3b6ed0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "telcsb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952083713"
+    }
+  ],
+  "advisories": []
+}

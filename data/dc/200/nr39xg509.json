@@ -1,0 +1,33 @@
+{
+  "id": "nr39xg509",
+  "url": "https://constellation.church/nr39xg509",
+  "name": "St. Luke's, DC",
+  "displayName": "St. Luke's, DC",
+  "address": {
+    "street": "1514 15th St NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20036"
+  },
+  "coordinates": {
+    "latitude": 38.91022491455078,
+    "longitude": -77.03475952148438
+  },
+  "website": "https://stlukesdc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/st-lukes-episcopal-church-dc",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/st-lukes-episcopal-church-dc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesdc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "530231352"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "h5jc39v54",
+  "url": "https://constellation.church/h5jc39v54",
+  "name": "Saint Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "304 West Main St",
+    "city": "Latimer",
+    "state": "IA",
+    "zip": "50452"
+  },
+  "coordinates": {
+    "latitude": 42.76447677612305,
+    "longitude": -93.3707504272461
+  },
+  "website": "https://stpaulslatimer.org",
+  "listingUrl": "https://locator.lcms.org/church/C/500286",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "500286"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulslatimer.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420752649"
+    }
+  ],
+  "advisories": []
+}

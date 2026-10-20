@@ -1,0 +1,33 @@
+{
+  "id": "mbym54d13",
+  "url": "https://constellation.church/mbym54d13",
+  "name": "Janes United Methodist Church",
+  "displayName": "Janes United Methodist Church",
+  "address": {
+    "street": "660 Monroe Street",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11221"
+  },
+  "coordinates": {
+    "latitude": 40.68765640258789,
+    "longitude": -73.9302749633789
+  },
+  "website": "https://janesumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFHbvIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFHbvIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "janesumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111797176"
+    }
+  ],
+  "advisories": []
+}

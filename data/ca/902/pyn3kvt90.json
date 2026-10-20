@@ -1,0 +1,33 @@
+{
+  "id": "pyn3kvt90",
+  "url": "https://constellation.church/pyn3kvt90",
+  "name": "Lamp Presbyterian Church of Los Angeles",
+  "displayName": "Lamp Presbyterian Church of Los Angeles",
+  "address": {
+    "street": "401 W Redondo Beach Boulevard",
+    "city": "Gardena",
+    "state": "CA",
+    "zip": "90248"
+  },
+  "coordinates": {
+    "latitude": 33.89296913146973,
+    "longitude": -118.28144073486328
+  },
+  "website": "https://lampchurch.org/sites/la-new1/media.php",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4265",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4265"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lampchurch.org/sites/la-new1/media.php"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "954565061"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ckvtt5s25",
+  "url": "https://constellation.church/ckvtt5s25",
+  "name": "Iglesia Bautista Southside",
+  "displayName": "Iglesia Bautista Southside",
+  "address": {
+    "street": "5025 Yorktown Blvd",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78413"
+  },
+  "coordinates": {
+    "latitude": 27.669160842895508,
+    "longitude": -97.40635681152344
+  },
+  "website": "https://iglesiasouthside.com",
+  "listingUrl": "https://churches.sbc.net/church/iglesia-bautista-southside/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "iglesia-bautista-southside"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "iglesiasouthside.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "923143543"
+    }
+  ],
+  "advisories": []
+}

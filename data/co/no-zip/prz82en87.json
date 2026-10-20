@@ -1,0 +1,33 @@
+{
+  "id": "prz82en87",
+  "url": "https://constellation.church/prz82en87",
+  "name": "Boulder Friends Meeting",
+  "displayName": "Boulder Friends Meeting",
+  "address": {
+    "street": "1825 Upland Ave",
+    "city": "Boulder",
+    "state": "CO",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 40.053062438964844,
+    "longitude": -105.27469635009766
+  },
+  "website": "https://boulderfriendsmeeting.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/boulder-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "boulder-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "boulderfriendsmeeting.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "841150307"
+    }
+  ],
+  "advisories": []
+}

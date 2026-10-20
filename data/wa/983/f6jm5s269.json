@@ -1,0 +1,33 @@
+{
+  "id": "f6jm5s269",
+  "url": "https://constellation.church/f6jm5s269",
+  "name": "Peninsula Lutheran Church",
+  "displayName": "Peninsula Lutheran Church",
+  "address": {
+    "street": "6509 38th Ave",
+    "city": "Gig Harbor",
+    "state": "WA",
+    "zip": "98335-8301"
+  },
+  "coordinates": {
+    "latitude": 47.317501068115234,
+    "longitude": -122.58866882324219
+  },
+  "website": "https://plcplace.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=80a2e0fc-ea3e-4659-bf0d-33b3c9af31ed",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "80a2e0fc-ea3e-4659-bf0d-33b3c9af31ed"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "plcplace.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910752826"
+    }
+  ],
+  "advisories": []
+}

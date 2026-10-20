@@ -1,0 +1,33 @@
+{
+  "id": "xyjycsh31",
+  "url": "https://constellation.church/xyjycsh31",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "3025 Church Rd",
+    "city": "Lafayette Hill",
+    "state": "PA",
+    "zip": "19444-1707"
+  },
+  "coordinates": {
+    "latitude": 40.083059310913086,
+    "longitude": -75.25115585327148
+  },
+  "website": "https://stpeterslafayettehill.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d1b726c4-e59b-4457-8a4c-6394ead5eaf6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d1b726c4-e59b-4457-8a4c-6394ead5eaf6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpeterslafayettehill.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231489827"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "m5pfhqn36",
+  "url": "https://constellation.church/m5pfhqn36",
+  "name": "Our Saviour Lutheran Church",
+  "displayName": "Our Saviour Lutheran Church",
+  "address": {
+    "street": "2932 Wood St",
+    "city": "Jonesboro",
+    "state": "AR",
+    "zip": "72404-8023"
+  },
+  "coordinates": {
+    "latitude": 35.809751,
+    "longitude": -90.724733
+  },
+  "website": "https://oursaviorchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=eca00c19-5ff8-4128-a399-7255cc15dcd5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "eca00c19-5ff8-4128-a399-7255cc15dcd5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oursaviorchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "710670785"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c608c4s79",
+  "url": "https://constellation.church/c608c4s79",
+  "name": "Bonita",
+  "displayName": "Bonita Orthodox Presbyterian Church",
+  "address": {
+    "street": "5111 Central Ave.",
+    "city": "Bonita",
+    "state": "CA",
+    "zip": "91902"
+  },
+  "coordinates": {
+    "latitude": 32.66987419128418,
+    "longitude": -117.02041625976562
+  },
+  "website": "https://bonitaopc.org",
+  "listingUrl": "https://opc.org/church.html?church_id=10",
+  "identifiers": [
+    {
+      "namespace": "org.opc.id",
+      "value": "10"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bonitaopc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510154476"
+    }
+  ],
+  "advisories": []
+}

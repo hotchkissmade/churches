@@ -1,0 +1,33 @@
+{
+  "id": "ptg5c5096",
+  "url": "https://constellation.church/ptg5c5096",
+  "name": "Mount Olivet Lutheran Church",
+  "displayName": "Mount Olivet Lutheran Church",
+  "address": {
+    "street": "920 15th St",
+    "city": "Perry",
+    "state": "IA",
+    "zip": "50220-2231"
+  },
+  "coordinates": {
+    "latitude": 41.8369255065918,
+    "longitude": -94.08806610107422
+  },
+  "website": "https://mtolivetofperry.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=18742bd5-6983-47a3-8cc6-3edf6a20f49b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "18742bd5-6983-47a3-8cc6-3edf6a20f49b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mtolivetofperry.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421069978"
+    }
+  ],
+  "advisories": []
+}

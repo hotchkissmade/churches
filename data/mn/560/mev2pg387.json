@@ -1,0 +1,33 @@
+{
+  "id": "mev2pg387",
+  "url": "https://constellation.church/mev2pg387",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "229 S 6th St",
+    "city": "Le Sueur",
+    "state": "MN",
+    "zip": "56058-1929"
+  },
+  "coordinates": {
+    "latitude": 44.45680618286133,
+    "longitude": -93.91070556640625
+  },
+  "website": "https://gracelesueur.church",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24359",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24359"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelesueur.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416159096"
+    }
+  ],
+  "advisories": []
+}

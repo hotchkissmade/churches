@@ -1,0 +1,33 @@
+{
+  "id": "g5gjc4198",
+  "url": "https://constellation.church/g5gjc4198",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "14 W Walnut St",
+    "city": "Tipp City",
+    "state": "OH",
+    "zip": "45371-1813"
+  },
+  "coordinates": {
+    "latitude": 39.96173858642578,
+    "longitude": -84.17174530029297
+  },
+  "website": "https://ziontippcity.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=503f33c9-46d1-4807-a0b6-f8c0b63304b2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "503f33c9-46d1-4807-a0b6-f8c0b63304b2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ziontippcity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310726035"
+    }
+  ],
+  "advisories": []
+}

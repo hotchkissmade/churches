@@ -1,0 +1,33 @@
+{
+  "id": "pt4z9cb42",
+  "url": "https://constellation.church/pt4z9cb42",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "1201 Cherokee Rd",
+    "city": "Florence",
+    "state": "SC",
+    "zip": "29501-4545"
+  },
+  "coordinates": {
+    "latitude": 34.18504333496094,
+    "longitude": -79.78667831420898
+  },
+  "website": "https://stlukeflorence.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7b7c922b-9df7-42d6-9694-0968248db244",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7b7c922b-9df7-42d6-9694-0968248db244"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukeflorence.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570774572"
+    }
+  ],
+  "advisories": []
+}

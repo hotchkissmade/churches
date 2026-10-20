@@ -1,0 +1,33 @@
+{
+  "id": "wxt6j1v83",
+  "url": "https://constellation.church/wxt6j1v83",
+  "name": "First Baptist Church of Altamont",
+  "displayName": "First Baptist Church of Altamont",
+  "address": {
+    "street": "102 1st Baptist Dr",
+    "city": "Altamont",
+    "state": "IL",
+    "zip": "62411"
+  },
+  "coordinates": {
+    "latitude": 39.047210693359375,
+    "longitude": -88.74603271484375
+  },
+  "website": "https://fbcaltamont.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-altamont/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-altamont"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcaltamont.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "201762273"
+    }
+  ],
+  "advisories": []
+}

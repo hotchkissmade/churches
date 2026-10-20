@@ -1,0 +1,33 @@
+{
+  "id": "jvj3kb875",
+  "url": "https://constellation.church/jvj3kb875",
+  "name": "Lutheran Church Of The Good Shepherd",
+  "displayName": "Lutheran Church Of The Good Shepherd",
+  "address": {
+    "street": "580 Larkin St",
+    "city": "Salinas",
+    "state": "CA",
+    "zip": "93907-1900"
+  },
+  "coordinates": {
+    "latitude": 36.690202713012695,
+    "longitude": -121.66007232666016
+  },
+  "website": "https://goodshepherdsalinas.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=01fcddbe-5be0-4667-b09f-86853a3bdc16",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "01fcddbe-5be0-4667-b09f-86853a3bdc16"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherdsalinas.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941643475"
+    }
+  ],
+  "advisories": []
+}

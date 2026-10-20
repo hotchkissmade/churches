@@ -1,0 +1,30 @@
+{
+  "id": "py3hk3545",
+  "url": "https://constellation.church/py3hk3545",
+  "name": "Collins Presbyterian Church",
+  "displayName": "Collins Presbyterian Church",
+  "address": {
+    "street": "South Second Street",
+    "city": "Collins",
+    "state": "MS",
+    "zip": "39428"
+  },
+  "coordinates": null,
+  "website": "https://collinspca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/215",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "215"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "collinspca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640653534"
+    }
+  ],
+  "advisories": []
+}

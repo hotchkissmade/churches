@@ -1,0 +1,33 @@
+{
+  "id": "p2nx6wd77",
+  "url": "https://constellation.church/p2nx6wd77",
+  "name": "The Church On Oakland Park",
+  "displayName": "The Church On Oakland Park",
+  "address": {
+    "street": "1230 Oakland Park Ave",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43224-3320"
+  },
+  "coordinates": {
+    "latitude": 40.03252983093262,
+    "longitude": -82.9804458618164
+  },
+  "website": "https://oaklandparklutherans.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=38e7565b-afb7-4bc5-9c10-ddc8645977df",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "38e7565b-afb7-4bc5-9c10-ddc8645977df"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oaklandparklutherans.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310627028"
+    }
+  ],
+  "advisories": []
+}

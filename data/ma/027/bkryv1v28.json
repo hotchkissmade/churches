@@ -1,0 +1,33 @@
+{
+  "id": "bkryv1v28",
+  "url": "https://constellation.church/bkryv1v28",
+  "name": "Church of the Holy Spirit",
+  "displayName": "Church of the Holy Spirit",
+  "address": {
+    "street": "160 Rock St",
+    "city": "Fall River",
+    "state": "MA",
+    "zip": "02720-3283"
+  },
+  "coordinates": {
+    "latitude": 41.70387840270996,
+    "longitude": -71.15332412719727
+  },
+  "website": "https://en.wikipedia.org/wiki/church_of_the_ascension_(fall_river,_massachusetts)",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-massachusetts/list/church-holy-spirit",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-massachusetts/church-holy-spirit"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "en.wikipedia.org/wiki/church_of_the_ascension_(fall_river,_massachusetts)"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042106397"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bgkdr0f91",
+  "url": "https://constellation.church/bgkdr0f91",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "1510 5th Ave",
+    "city": "San Rafael",
+    "state": "CA",
+    "zip": "94901"
+  },
+  "coordinates": {
+    "latitude": 37.97503089904785,
+    "longitude": -122.533447265625
+  },
+  "website": "https://fpcsr.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/680/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "680"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcsr.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941501161"
+    }
+  ],
+  "advisories": []
+}

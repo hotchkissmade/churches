@@ -1,0 +1,33 @@
+{
+  "id": "k9szpqx38",
+  "url": "https://constellation.church/k9szpqx38",
+  "name": "Newton Presbyterian Church",
+  "displayName": "Newton Presbyterian Church",
+  "address": {
+    "street": "75 Vernon St",
+    "city": "Newton Corner",
+    "state": "MA",
+    "zip": "02458"
+  },
+  "coordinates": {
+    "latitude": 42.35513114929199,
+    "longitude": -71.18240737915039
+  },
+  "website": "https://npc-ma.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/3817/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "3817"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "npc-ma.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042224660"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bmr128p18",
+  "url": "https://constellation.church/bmr128p18",
+  "name": "Canvas Church",
+  "displayName": "Canvas Church",
+  "address": {
+    "street": "404 Schilling Dr N",
+    "city": "Dundas",
+    "state": "MN",
+    "zip": "55019"
+  },
+  "coordinates": {
+    "latitude": 44.42875099182129,
+    "longitude": -93.19865417480469
+  },
+  "website": "https://canvaschurchmn.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d781a86a-d86a-4f19-8c68-3f090aa8e564&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d781a86a-d86a-4f19-8c68-3f090aa8e564"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "canvaschurchmn.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "273320720"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wacd7wt83",
+  "url": "https://constellation.church/wacd7wt83",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "1201 Dean St",
+    "city": "Woodstock",
+    "state": "IL",
+    "zip": "60098"
+  },
+  "coordinates": {
+    "latitude": 42.30414962768555,
+    "longitude": -88.45149993896484
+  },
+  "website": "https://woodstockag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=1f4c4256-01b5-4c9f-99ce-b5e38721cd3f&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "1f4c4256-01b5-4c9f-99ce-b5e38721cd3f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "woodstockag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363026179"
+    }
+  ],
+  "advisories": []
+}

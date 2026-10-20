@@ -1,0 +1,33 @@
+{
+  "id": "ns3anv906",
+  "url": "https://constellation.church/ns3anv906",
+  "name": "True North Church",
+  "displayName": "True North Church",
+  "address": {
+    "street": "382 Muldoon Rd",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "99504"
+  },
+  "coordinates": {
+    "latitude": 61.219139099121094,
+    "longitude": -149.73443603515625
+  },
+  "website": "https://truenorthalaska.com",
+  "listingUrl": "https://churches.sbc.net/church/true-north-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "true-north-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "truenorthalaska.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "273194826"
+    }
+  ],
+  "advisories": []
+}

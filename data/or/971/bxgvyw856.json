@@ -1,0 +1,33 @@
+{
+  "id": "bxgvyw856",
+  "url": "https://constellation.church/bxgvyw856",
+  "name": "St. Bede's Episcopal Church",
+  "displayName": "St. Bede's Episcopal Church",
+  "address": {
+    "street": "1609 Elm St",
+    "city": "Forest Grove",
+    "state": "OR",
+    "zip": "97116-2503"
+  },
+  "coordinates": {
+    "latitude": 45.51408386230469,
+    "longitude": -123.1025161743164
+  },
+  "website": "https://bedesinthegrove.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-oregon/list/st-bedes-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-oregon/st-bedes-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bedesinthegrove.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930666012"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "az1rj6r15",
+  "url": "https://constellation.church/az1rj6r15",
+  "name": "First German Lutheran Church",
+  "displayName": "First German Lutheran Church",
+  "address": {
+    "street": "1033 S 8th St",
+    "city": "Manitowoc",
+    "state": "WI",
+    "zip": "54220-5348"
+  },
+  "coordinates": {
+    "latitude": 44.08746528625488,
+    "longitude": -87.65765762329102
+  },
+  "website": "https://firstgerman.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24646",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24646"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstgerman.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390972352"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "v72mbqc14",
+  "url": "https://constellation.church/v72mbqc14",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "7717 Old Canton Road",
+    "city": "Madison",
+    "state": "MS",
+    "zip": "39110"
+  },
+  "coordinates": {
+    "latitude": 32.4586124420166,
+    "longitude": -90.10746002197266
+  },
+  "website": "https://firstpresofmadison.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/426",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "426"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpresofmadison.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640691457"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "kxd65br35",
+  "url": "https://constellation.church/kxd65br35",
+  "name": "Saint Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "801 E Main St",
+    "city": "Bishop",
+    "state": "TX",
+    "zip": "78343-2720"
+  },
+  "coordinates": {
+    "latitude": 27.58234405517578,
+    "longitude": -97.7898941040039
+  },
+  "website": "https://stpaulbishop.org",
+  "listingUrl": "https://locator.lcms.org/church/C/83155",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "83155"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulbishop.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742309948"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "746048868"
+    }
+  ],
+  "advisories": []
+}

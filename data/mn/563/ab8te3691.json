@@ -1,0 +1,33 @@
+{
+  "id": "ab8te3691",
+  "url": "https://constellation.church/ab8te3691",
+  "name": "Westwood Church",
+  "displayName": "Westwood Church",
+  "address": {
+    "street": "5719 Walnut Dr",
+    "city": "Saint Cloud",
+    "state": "MN",
+    "zip": "56303-0763"
+  },
+  "coordinates": {
+    "latitude": 45.57326889038086,
+    "longitude": -94.23023223876953
+  },
+  "website": "https://westwoodstcloud.org/sundays",
+  "listingUrl": "https://churches.efca.org/?id=12829",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12829"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westwoodstcloud.org/sundays"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411465039"
+    }
+  ],
+  "advisories": []
+}

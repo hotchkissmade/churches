@@ -1,0 +1,37 @@
+{
+  "id": "kpbnwj684",
+  "url": "https://constellation.church/kpbnwj684",
+  "name": "State Street Baptist Church",
+  "displayName": "State Street Baptist Church",
+  "address": {
+    "street": "2303 State St",
+    "city": "New Albany",
+    "state": "IN",
+    "zip": "47150"
+  },
+  "coordinates": {
+    "latitude": 46.681291580200195,
+    "longitude": -68.01366806030273
+  },
+  "website": "https://statestreetbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/state-street-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "state-street-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "statestreetbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351409372"
+    },
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "state-street-baptist-church"
+    }
+  ],
+  "advisories": []
+}

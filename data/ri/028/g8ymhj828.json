@@ -1,0 +1,33 @@
+{
+  "id": "g8ymhj828",
+  "url": "https://constellation.church/g8ymhj828",
+  "name": "St. Paul's Episcopal Church",
+  "displayName": "St. Paul's Episcopal Church",
+  "address": {
+    "street": "2679 E Main Rd",
+    "city": "Portsmouth",
+    "state": "RI",
+    "zip": "02871-2613"
+  },
+  "coordinates": {
+    "latitude": 41.60215759277344,
+    "longitude": -71.24773025512695
+  },
+  "website": "https://stpaulsportsmouthri.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-rhode-island/list/st-pauls-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-rhode-island/st-pauls-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsportsmouthri.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222509172"
+    }
+  ],
+  "advisories": []
+}

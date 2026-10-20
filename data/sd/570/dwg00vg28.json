@@ -1,0 +1,33 @@
+{
+  "id": "dwg00vg28",
+  "url": "https://constellation.church/dwg00vg28",
+  "name": "Willow Creek Lutheran Church",
+  "displayName": "Willow Creek Lutheran Church",
+  "address": {
+    "street": "24795 470th Ave",
+    "city": "Dell Rapids",
+    "state": "SD",
+    "zip": "57022-5219"
+  },
+  "coordinates": {
+    "latitude": 43.790428161621094,
+    "longitude": -96.81158447265625
+  },
+  "website": "https://wclcdellrapids.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bda89932-9681-4cd1-a70e-6e2c40afad29",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bda89932-9681-4cd1-a70e-6e2c40afad29"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wclcdellrapids.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "466012574"
+    }
+  ],
+  "advisories": []
+}

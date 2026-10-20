@@ -1,0 +1,33 @@
+{
+  "id": "adzkx8v24",
+  "url": "https://constellation.church/adzkx8v24",
+  "name": "Chapel By The Sea Baptist Church",
+  "displayName": "Chapel By The Sea Baptist Church",
+  "address": {
+    "street": "811 Butler Ave",
+    "city": "Tybee Island",
+    "state": "GA",
+    "zip": "31328"
+  },
+  "coordinates": {
+    "latitude": 32.00287437438965,
+    "longitude": -80.84549331665039
+  },
+  "website": "https://tybeechapel.org",
+  "listingUrl": "https://churches.sbc.net/church/chapel-by-the-sea-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "chapel-by-the-sea-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tybeechapel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "586045225"
+    }
+  ],
+  "advisories": []
+}

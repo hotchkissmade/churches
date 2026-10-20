@@ -1,0 +1,33 @@
+{
+  "id": "f00v2dv67",
+  "url": "https://constellation.church/f00v2dv67",
+  "name": "Spring Garden Lutheran Church",
+  "displayName": "Spring Garden Lutheran Church",
+  "address": {
+    "street": "10239 County 1 Blvd",
+    "city": "Cannon Falls",
+    "state": "MN",
+    "zip": "55009-5328"
+  },
+  "coordinates": {
+    "latitude": 44.4278564453125,
+    "longitude": -92.82659912109375
+  },
+  "website": "https://spring-garden.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5e48f8e7-3d03-472b-be6b-e391a1af74d6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5e48f8e7-3d03-472b-be6b-e391a1af74d6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "spring-garden.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410832604"
+    }
+  ],
+  "advisories": []
+}

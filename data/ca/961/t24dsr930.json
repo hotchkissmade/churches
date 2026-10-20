@@ -1,0 +1,37 @@
+{
+  "id": "t24dsr930",
+  "url": "https://constellation.church/t24dsr930",
+  "name": "Truckee Lutheran Presbyterian Church",
+  "displayName": "Truckee Lutheran Presbyterian Church",
+  "address": {
+    "street": "10079 Church St Church of the Mountains",
+    "city": "Truckee",
+    "state": "CA",
+    "zip": "96161-0215"
+  },
+  "coordinates": {
+    "latitude": 39.32905197143555,
+    "longitude": -120.18302917480469
+  },
+  "website": "https://tlpc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fccde863-3b0c-4636-81ad-91a3b9fb6a2a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fccde863-3b0c-4636-81ad-91a3b9fb6a2a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlpc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "680341790"
+    },
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "12174"
+    }
+  ],
+  "advisories": []
+}

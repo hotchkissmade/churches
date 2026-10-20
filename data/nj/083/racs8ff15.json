@@ -1,0 +1,33 @@
+{
+  "id": "racs8ff15",
+  "url": "https://constellation.church/racs8ff15",
+  "name": "St Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "301 3rd St N",
+    "city": "Millville",
+    "state": "NJ",
+    "zip": "08332-3111"
+  },
+  "coordinates": {
+    "latitude": 39.39228439331055,
+    "longitude": -75.03417587280273
+  },
+  "website": "https://stpaulsmillville.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d1e62992-b986-43dc-9da5-fd9fac5b3445",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d1e62992-b986-43dc-9da5-fd9fac5b3445"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsmillville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222478031"
+    }
+  ],
+  "advisories": []
+}

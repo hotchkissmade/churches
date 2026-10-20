@@ -1,0 +1,33 @@
+{
+  "id": "hyccsk428",
+  "url": "https://constellation.church/hyccsk428",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "W King and W Strawberry Sts",
+    "city": "Lancaster",
+    "state": "PA",
+    "zip": "17603"
+  },
+  "coordinates": {
+    "latitude": 40.03705596923828,
+    "longitude": -76.3123664855957
+  },
+  "website": "https://christevangelicallutheranchurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2e5089d7-5e06-4c56-a7d3-b1aab056fd44",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2e5089d7-5e06-4c56-a7d3-b1aab056fd44"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christevangelicallutheranchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231365221"
+    }
+  ],
+  "advisories": []
+}

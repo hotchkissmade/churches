@@ -1,0 +1,33 @@
+{
+  "id": "zg5v11c42",
+  "url": "https://constellation.church/zg5v11c42",
+  "name": "Arden Presbyterian Church",
+  "displayName": "Arden Presbyterian Church",
+  "address": {
+    "street": "2215 Hendersonville Road",
+    "city": "Arden",
+    "state": "NC",
+    "zip": "28704"
+  },
+  "coordinates": {
+    "latitude": 35.47644233703613,
+    "longitude": -82.52437210083008
+  },
+  "website": "https://ardenpres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/73",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "73"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ardenpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561273600"
+    }
+  ],
+  "advisories": []
+}

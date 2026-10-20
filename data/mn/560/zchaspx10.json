@@ -1,0 +1,33 @@
+{
+  "id": "zchaspx10",
+  "url": "https://constellation.church/zchaspx10",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "503 Radel Court",
+    "city": "Ellendale",
+    "state": "MN",
+    "zip": "56026"
+  },
+  "coordinates": {
+    "latitude": 43.87208938598633,
+    "longitude": -93.30496215820312
+  },
+  "website": "https://firstlutheranellendale.org",
+  "listingUrl": "https://lcmc.net/congregation/124031",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "124031"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranellendale.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416027221"
+    }
+  ],
+  "advisories": []
+}

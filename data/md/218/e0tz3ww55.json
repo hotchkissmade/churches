@@ -1,0 +1,33 @@
+{
+  "id": "e0tz3ww55",
+  "url": "https://constellation.church/e0tz3ww55",
+  "name": "Oak Ridge Baptist Church",
+  "displayName": "Oak Ridge Baptist Church",
+  "address": {
+    "street": "347 Tilghman Road",
+    "city": "Salisbury",
+    "state": "MD",
+    "zip": "21804"
+  },
+  "coordinates": {
+    "latitude": 38.364545822143555,
+    "longitude": -75.54545593261719
+  },
+  "website": "https://oakridge.live/messages",
+  "listingUrl": "https://churches.sbc.net/church/oak-ridge-baptist-church-5/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "oak-ridge-baptist-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oakridge.live/messages"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521205143"
+    }
+  ],
+  "advisories": []
+}

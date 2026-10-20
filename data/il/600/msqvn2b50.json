@@ -1,0 +1,33 @@
+{
+  "id": "msqvn2b50",
+  "url": "https://constellation.church/msqvn2b50",
+  "name": "New Life Lutheran Church",
+  "displayName": "New Life Lutheran Church",
+  "address": {
+    "street": "910 S Old Rand Rd",
+    "city": "Lake Zurich",
+    "state": "IL",
+    "zip": "60047-2852"
+  },
+  "coordinates": {
+    "latitude": 42.182838439941406,
+    "longitude": -88.0796890258789
+  },
+  "website": "https://newlife-wels.org/index.htm",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24750",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24750"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newlife-wels.org/index.htm"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363544531"
+    }
+  ],
+  "advisories": []
+}

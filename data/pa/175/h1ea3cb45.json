@@ -1,0 +1,33 @@
+{
+  "id": "h1ea3cb45",
+  "url": "https://constellation.church/h1ea3cb45",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "85 E Brandt Blvd",
+    "city": "Landisville",
+    "state": "PA",
+    "zip": "17538-1136"
+  },
+  "coordinates": {
+    "latitude": 40.09737586975098,
+    "longitude": -76.41924667358398
+  },
+  "website": "https://zionhempfield.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d4acc451-12ce-4e98-a847-fd63f905ca8d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d4acc451-12ce-4e98-a847-fd63f905ca8d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionhempfield.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231919410"
+    }
+  ],
+  "advisories": []
+}

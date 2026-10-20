@@ -1,0 +1,33 @@
+{
+  "id": "k1dr8nn81",
+  "url": "https://constellation.church/k1dr8nn81",
+  "name": "Christ The King Lutheran Church",
+  "displayName": "Christ The King Lutheran Church",
+  "address": {
+    "street": "222 Pfau St",
+    "city": "Mankato",
+    "state": "MN",
+    "zip": "56001-5253"
+  },
+  "coordinates": {
+    "latitude": 44.162940979003906,
+    "longitude": -93.97889709472656
+  },
+  "website": "https://ctkmankato.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d3eee2b1-354b-4bde-bb38-86af25f94bbd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d3eee2b1-354b-4bde-bb38-86af25f94bbd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ctkmankato.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410885992"
+    }
+  ],
+  "advisories": []
+}

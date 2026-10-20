@@ -1,0 +1,33 @@
+{
+  "id": "xz495za25",
+  "url": "https://constellation.church/xz495za25",
+  "name": "St. Michael Church",
+  "displayName": "St. Michael Church",
+  "address": {
+    "street": "512 Summer St",
+    "city": "Old Forge",
+    "state": "PA",
+    "zip": "18518"
+  },
+  "coordinates": {
+    "latitude": 41.37612724304199,
+    "longitude": -75.73550033569336
+  },
+  "website": "https://stmichaelof.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ep-olfsmc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ep-olfsmc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmichaelof.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "240835956"
+    }
+  ],
+  "advisories": []
+}

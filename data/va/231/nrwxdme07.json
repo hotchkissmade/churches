@@ -1,0 +1,33 @@
+{
+  "id": "nrwxdme07",
+  "url": "https://constellation.church/nrwxdme07",
+  "name": "Church of the Creator",
+  "displayName": "Church of the Creator",
+  "address": {
+    "street": "7159 Mechanicsville Pike",
+    "city": "Mechanicsville",
+    "state": "VA",
+    "zip": "23111"
+  },
+  "coordinates": {
+    "latitude": 37.610395431518555,
+    "longitude": -77.34692764282227
+  },
+  "website": "https://creatorchurch.net",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-virginia/list/church-creator",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-virginia/church-creator"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "creatorchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541405862"
+    }
+  ],
+  "advisories": []
+}

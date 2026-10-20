@@ -1,0 +1,33 @@
+{
+  "id": "x5s942c06",
+  "url": "https://constellation.church/x5s942c06",
+  "name": "Mauldin First Baptist Church",
+  "displayName": "Mauldin First Baptist Church",
+  "address": {
+    "street": "150 S Main St",
+    "city": "Mauldin",
+    "state": "SC",
+    "zip": "29662"
+  },
+  "coordinates": {
+    "latitude": 34.77614784240723,
+    "longitude": -82.30970764160156
+  },
+  "website": "https://mauldinfirstbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/mauldin-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mauldin-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mauldinfirstbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570442504"
+    }
+  ],
+  "advisories": []
+}

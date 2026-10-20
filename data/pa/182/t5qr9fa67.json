@@ -1,0 +1,33 @@
+{
+  "id": "t5qr9fa67",
+  "url": "https://constellation.church/t5qr9fa67",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "627 Main St",
+    "city": "Freeland",
+    "state": "PA",
+    "zip": "18224-1912"
+  },
+  "coordinates": {
+    "latitude": 41.01761436462402,
+    "longitude": -75.89493179321289
+  },
+  "website": "https://stlukeslutheranchurch.org/about.html",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=aad94601-c89b-46f3-88f2-69344e9e1661",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "aad94601-c89b-46f3-88f2-69344e9e1661"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukeslutheranchurch.org/about.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "246023198"
+    }
+  ],
+  "advisories": []
+}

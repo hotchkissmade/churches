@@ -1,0 +1,33 @@
+{
+  "id": "j38q16m89",
+  "url": "https://constellation.church/j38q16m89",
+  "name": "First Baptist Church of Longwood",
+  "displayName": "First Baptist Church of Longwood",
+  "address": {
+    "street": "891 E State Rd 434",
+    "city": "Longwood",
+    "state": "FL",
+    "zip": "32750"
+  },
+  "coordinates": {
+    "latitude": 28.698875427246094,
+    "longitude": -81.33098602294922
+  },
+  "website": "https://fbclongwood.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-longwood/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-longwood"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbclongwood.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591107558"
+    }
+  ],
+  "advisories": []
+}

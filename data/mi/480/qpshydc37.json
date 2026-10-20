@@ -1,0 +1,33 @@
+{
+  "id": "qpshydc37",
+  "url": "https://constellation.church/qpshydc37",
+  "name": "Cross Lutheran Church",
+  "displayName": "Cross Lutheran Church",
+  "address": {
+    "street": "35851 Utica Rd",
+    "city": "Clinton Township",
+    "state": "MI",
+    "zip": "48035-2153"
+  },
+  "coordinates": {
+    "latitude": 42.5590877532959,
+    "longitude": -82.96467208862305
+  },
+  "website": "https://crosslutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=17a4abb6-eced-48dc-b7dc-7e3ffda89604",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "17a4abb6-eced-48dc-b7dc-7e3ffda89604"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "crosslutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382210683"
+    }
+  ],
+  "advisories": []
+}

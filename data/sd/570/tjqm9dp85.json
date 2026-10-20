@@ -1,0 +1,33 @@
+{
+  "id": "tjqm9dp85",
+  "url": "https://constellation.church/tjqm9dp85",
+  "name": "Lutheran Church Of Dell Rapids",
+  "displayName": "Lutheran Church Of Dell Rapids",
+  "address": {
+    "street": "701 N Orleans Ave",
+    "city": "Dell Rapids",
+    "state": "SD",
+    "zip": "57022-1239"
+  },
+  "coordinates": {
+    "latitude": 43.82669258117676,
+    "longitude": -96.71089172363281
+  },
+  "website": "https://lcdr-sd.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bd8de2e7-a344-4d7b-93e3-d5035915cb75",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bd8de2e7-a344-4d7b-93e3-d5035915cb75"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcdr-sd.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460248747"
+    }
+  ],
+  "advisories": []
+}

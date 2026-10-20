@@ -1,0 +1,33 @@
+{
+  "id": "j2y5qtm21",
+  "url": "https://constellation.church/j2y5qtm21",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "303 N Church St",
+    "city": "Silverton",
+    "state": "OR",
+    "zip": "97381-1423"
+  },
+  "coordinates": {
+    "latitude": 45.010324478149414,
+    "longitude": -122.77767944335938
+  },
+  "website": "https://immanuelsilverton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d4a500f3-9623-4030-8cc0-ed61a13a2af7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d4a500f3-9623-4030-8cc0-ed61a13a2af7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "immanuelsilverton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930412491"
+    }
+  ],
+  "advisories": []
+}

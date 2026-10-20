@@ -1,0 +1,33 @@
+{
+  "id": "dc52jwn24",
+  "url": "https://constellation.church/dc52jwn24",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "493 Forest Ave",
+    "city": "Glen Ellyn",
+    "state": "IL",
+    "zip": "60137-4104"
+  },
+  "coordinates": {
+    "latitude": 41.877641677856445,
+    "longitude": -88.06454849243164
+  },
+  "website": "https://graceglenellyn.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7dcc2b55-8bd9-4555-895a-e177f919a738",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7dcc2b55-8bd9-4555-895a-e177f919a738"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceglenellyn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362496438"
+    }
+  ],
+  "advisories": []
+}

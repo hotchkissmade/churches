@@ -1,0 +1,33 @@
+{
+  "id": "bq7c74c55",
+  "url": "https://constellation.church/bq7c74c55",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "131 E Maple",
+    "city": "Mason",
+    "state": "MI",
+    "zip": "48854-1633"
+  },
+  "coordinates": {
+    "latitude": 42.580596923828125,
+    "longitude": -84.44169616699219
+  },
+  "website": "https://masonpresbyterian.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/3302/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "3302"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "masonpresbyterian.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "386066138"
+    }
+  ],
+  "advisories": []
+}

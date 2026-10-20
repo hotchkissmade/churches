@@ -1,0 +1,37 @@
+{
+  "id": "d7mdx9714",
+  "url": "https://constellation.church/d7mdx9714",
+  "name": "Paradise Valley United Methodist Church",
+  "displayName": "Paradise Valley United Methodist Church",
+  "address": {
+    "street": "4455 E Lincoln Dr",
+    "city": "Paradise Valley",
+    "state": "AZ",
+    "zip": "85253-4019"
+  },
+  "coordinates": {
+    "latitude": 33.53019142150879,
+    "longitude": -111.98543548583984
+  },
+  "website": "https://pvumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFDFnIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFDFnIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pvumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860181439"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860601887"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "yz40jda32",
+  "url": "https://constellation.church/yz40jda32",
+  "name": "First United Methodist Church of Waukesha",
+  "displayName": "First United Methodist Church of Waukesha",
+  "address": {
+    "street": "121 Wisconsin Ave",
+    "city": "Waukesha",
+    "state": "WI",
+    "zip": "53186"
+  },
+  "coordinates": {
+    "latitude": 43.00942039489746,
+    "longitude": -88.22758483886719
+  },
+  "website": "https://fumcwaukesha.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFNYrIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFNYrIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fumcwaukesha.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396000520"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c51726340",
+  "url": "https://constellation.church/c51726340",
+  "name": "Mission City Church, San Antonio",
+  "displayName": "Mission City Church, San Antonio",
+  "address": {
+    "street": "2220 NW Military Hwy",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78213"
+  },
+  "coordinates": {
+    "latitude": 29.53474235534668,
+    "longitude": -98.52503204345703
+  },
+  "website": "https://missioncity.church",
+  "listingUrl": "https://churches.sbc.net/church/mission-city-church-san-antonio-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mission-city-church-san-antonio-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "missioncity.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "331116933"
+    }
+  ],
+  "advisories": []
+}

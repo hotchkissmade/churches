@@ -1,0 +1,33 @@
+{
+  "id": "c1972b080",
+  "url": "https://constellation.church/c1972b080",
+  "name": "Bethel Presbyterian Church",
+  "displayName": "Bethel Presbyterian Church",
+  "address": {
+    "street": "203 S Kentucky St",
+    "city": "Kingston",
+    "state": "TN",
+    "zip": "37763-2748"
+  },
+  "coordinates": {
+    "latitude": 35.87064552307129,
+    "longitude": -84.5180778503418
+  },
+  "website": "https://bethelpcusa.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/3428/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "3428"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelpcusa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620935950"
+    }
+  ],
+  "advisories": []
+}

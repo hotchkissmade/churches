@@ -1,0 +1,33 @@
+{
+  "id": "xykbc9x02",
+  "url": "https://constellation.church/xykbc9x02",
+  "name": "Saint James Lutheran Church",
+  "displayName": "St. James Lutheran Church",
+  "address": {
+    "street": "230 2nd Ave",
+    "city": "Saint James",
+    "state": "NY",
+    "zip": "11780-2606"
+  },
+  "coordinates": {
+    "latitude": 40.87630081176758,
+    "longitude": -73.15439987182617
+  },
+  "website": "https://stjlc.com",
+  "listingUrl": "https://locator.lcms.org/church/C/794866",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "794866"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjlc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237064324"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "w54hepq58",
+  "url": "https://constellation.church/w54hepq58",
+  "name": "Church in Shreveport",
+  "displayName": "Church in Shreveport",
+  "address": {
+    "street": "7637 E Kings Hwy",
+    "city": "Shreveport",
+    "state": "LA",
+    "zip": "71115"
+  },
+  "coordinates": {
+    "latitude": 32.4373791,
+    "longitude": -93.7049785
+  },
+  "website": "https://churchinshreveport.org",
+  "listingUrl": "https://localchurches.org/churches/shreveport-la-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "shreveport-la-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinshreveport.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720891714"
+    }
+  ],
+  "advisories": []
+}

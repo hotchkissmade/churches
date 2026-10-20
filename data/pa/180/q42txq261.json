@@ -1,0 +1,33 @@
+{
+  "id": "q42txq261",
+  "url": "https://constellation.church/q42txq261",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "28 W Main St",
+    "city": "Macungie",
+    "state": "PA",
+    "zip": "18062-1121"
+  },
+  "coordinates": {
+    "latitude": 40.515764236450195,
+    "longitude": -75.55695724487305
+  },
+  "website": "https://gracemacungie.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0435d321-ad91-495f-98b5-ac2bd79c9e56",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0435d321-ad91-495f-98b5-ac2bd79c9e56"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracemacungie.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231942199"
+    }
+  ],
+  "advisories": []
+}

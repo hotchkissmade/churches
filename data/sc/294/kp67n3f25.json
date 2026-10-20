@@ -1,0 +1,33 @@
+{
+  "id": "kp67n3f25",
+  "url": "https://constellation.church/kp67n3f25",
+  "name": "St Michael Lutheran Church",
+  "displayName": "St. Michael Lutheran Church",
+  "address": {
+    "street": "321 W Main St",
+    "city": "Moncks Corner",
+    "state": "SC",
+    "zip": "29461-3805"
+  },
+  "coordinates": {
+    "latitude": 33.20000648498535,
+    "longitude": -80.02498626708984
+  },
+  "website": "https://stmichaelmc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c8688856-6b43-4801-bfd6-646305eea198",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c8688856-6b43-4801-bfd6-646305eea198"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmichaelmc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570919767"
+    }
+  ],
+  "advisories": []
+}

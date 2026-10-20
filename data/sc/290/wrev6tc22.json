@@ -1,0 +1,33 @@
+{
+  "id": "wrev6tc22",
+  "url": "https://constellation.church/wrev6tc22",
+  "name": "South Lexington Baptist Church",
+  "displayName": "South Lexington Baptist Church",
+  "address": {
+    "street": "116 Brevard Pkwy",
+    "city": "Lexington",
+    "state": "SC",
+    "zip": "29073"
+  },
+  "coordinates": {
+    "latitude": 33.90444374084473,
+    "longitude": -81.2264518737793
+  },
+  "website": "https://slbchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/south-lexington-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "south-lexington-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "slbchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "571112651"
+    }
+  ],
+  "advisories": []
+}

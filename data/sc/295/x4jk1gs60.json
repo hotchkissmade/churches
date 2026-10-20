@@ -1,0 +1,33 @@
+{
+  "id": "x4jk1gs60",
+  "url": "https://constellation.church/x4jk1gs60",
+  "name": "St. Paul's Church",
+  "displayName": "St. Paul's Church",
+  "address": {
+    "street": "306 Fayetteville Ave.",
+    "city": "Bennettsville",
+    "state": "SC",
+    "zip": "29512"
+  },
+  "coordinates": {
+    "latitude": 34.61511039733887,
+    "longitude": -79.67828369140625
+  },
+  "website": "https://stpaulsbennettsville.org",
+  "listingUrl": "https://www.acna.org/admin_units/1376",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "1376"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsbennettsville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570405101"
+    }
+  ],
+  "advisories": []
+}

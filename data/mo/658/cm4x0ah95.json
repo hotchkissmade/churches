@@ -1,0 +1,33 @@
+{
+  "id": "cm4x0ah95",
+  "url": "https://constellation.church/cm4x0ah95",
+  "name": "Orchard Crest Baptist Church",
+  "displayName": "Orchard Crest Baptist Church",
+  "address": {
+    "street": "320 S Orchard Crest Ave",
+    "city": "Springfield",
+    "state": "MO",
+    "zip": "65802"
+  },
+  "coordinates": {
+    "latitude": 37.208181381225586,
+    "longitude": -93.36131286621094
+  },
+  "website": "https://orchardcrest.org",
+  "listingUrl": "https://churches.sbc.net/church/orchard-crest-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "orchard-crest-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "orchardcrest.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430976403"
+    }
+  ],
+  "advisories": []
+}

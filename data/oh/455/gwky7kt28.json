@@ -1,0 +1,33 @@
+{
+  "id": "gwky7kt28",
+  "url": "https://constellation.church/gwky7kt28",
+  "name": "Northside Baptist Church",
+  "displayName": "Northside Baptist Church",
+  "address": {
+    "street": "2425 Derr Rd",
+    "city": "Springfield",
+    "state": "OH",
+    "zip": "45503"
+  },
+  "coordinates": {
+    "latitude": 39.955406188964844,
+    "longitude": -83.78695678710938
+  },
+  "website": "https://nbcspringfield.org",
+  "listingUrl": "https://churches.sbc.net/church/northside-baptist-church-58/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northside-baptist-church-58"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nbcspringfield.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310801414"
+    }
+  ],
+  "advisories": []
+}

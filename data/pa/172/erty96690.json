@@ -1,0 +1,33 @@
+{
+  "id": "erty96690",
+  "url": "https://constellation.church/erty96690",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "173 Rhondel Dr",
+    "city": "Saint Thomas",
+    "state": "PA",
+    "zip": "17252"
+  },
+  "coordinates": {
+    "latitude": 39.92217445373535,
+    "longitude": -77.7931137084961
+  },
+  "website": "https://stthomasag.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=559e7d72-8025-4d2a-a98a-290a201a542b&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "559e7d72-8025-4d2a-a98a-290a201a542b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stthomasag.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251229785"
+    }
+  ],
+  "advisories": []
+}

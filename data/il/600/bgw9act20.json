@@ -1,0 +1,33 @@
+{
+  "id": "bgw9act20",
+  "url": "https://constellation.church/bgw9act20",
+  "name": "St Johns Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "401 St Johns Rd",
+    "city": "Woodstock",
+    "state": "IL",
+    "zip": "60098-2726"
+  },
+  "coordinates": {
+    "latitude": 42.33346748352051,
+    "longitude": -88.4419937133789
+  },
+  "website": "https://stjohnswoodstock.com",
+  "listingUrl": "https://locator.lcms.org/church/C/990876",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "990876"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnswoodstock.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362523494"
+    }
+  ],
+  "advisories": []
+}

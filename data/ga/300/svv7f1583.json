@@ -1,0 +1,33 @@
+{
+  "id": "svv7f1583",
+  "url": "https://constellation.church/svv7f1583",
+  "name": "Church of the Holy Cross",
+  "displayName": "Church of the Holy Cross",
+  "address": {
+    "street": "2005 S Columbia Pl",
+    "city": "Decatur",
+    "state": "GA",
+    "zip": "30032-5945"
+  },
+  "coordinates": {
+    "latitude": 33.73274040222168,
+    "longitude": -84.25629043579102
+  },
+  "website": "https://holy-cross.org/contact-us",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-atlanta/list/church-holy-cross",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-atlanta/church-holy-cross"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holy-cross.org/contact-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580655354"
+    }
+  ],
+  "advisories": []
+}

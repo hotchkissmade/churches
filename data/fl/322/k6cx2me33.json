@@ -1,0 +1,33 @@
+{
+  "id": "k6cx2me33",
+  "url": "https://constellation.church/k6cx2me33",
+  "name": "St Andrew's Lutheran Church (By-The-Sea)",
+  "displayName": "St. Andrew's Lutheran Church (By-The-Sea)",
+  "address": {
+    "street": "1801 Beach Blvd",
+    "city": "Jacksonville Beach",
+    "state": "FL",
+    "zip": "32250-2644"
+  },
+  "coordinates": {
+    "latitude": 30.288715362548828,
+    "longitude": -81.40996551513672
+  },
+  "website": "https://salcbts.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=617d9db7-581a-4cfb-b2bd-9d157674a25b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "617d9db7-581a-4cfb-b2bd-9d157674a25b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salcbts.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592165575"
+    }
+  ],
+  "advisories": []
+}

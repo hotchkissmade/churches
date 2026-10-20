@@ -1,0 +1,33 @@
+{
+  "id": "sh9gkg991",
+  "url": "https://constellation.church/sh9gkg991",
+  "name": "Our Savior Lutheran Church",
+  "displayName": "Our Savior Lutheran Church",
+  "address": {
+    "street": "411 N Town East Blvd",
+    "city": "Mesquite",
+    "state": "TX",
+    "zip": "75150-4733"
+  },
+  "coordinates": {
+    "latitude": 32.814897537231445,
+    "longitude": -96.60137176513672
+  },
+  "website": "https://oslmesquite.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=55f55cb0-8897-452c-b6b9-40310edf6bab",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "55f55cb0-8897-452c-b6b9-40310edf6bab"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oslmesquite.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751906944"
+    }
+  ],
+  "advisories": []
+}

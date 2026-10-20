@@ -1,0 +1,33 @@
+{
+  "id": "pwbhept73",
+  "url": "https://constellation.church/pwbhept73",
+  "name": "Glen Burnie Baptist Church",
+  "displayName": "Glen Burnie Baptist Church",
+  "address": {
+    "street": "7524 Old Stage Rd",
+    "city": "Glen Burnie",
+    "state": "MD",
+    "zip": "21061"
+  },
+  "coordinates": {
+    "latitude": 39.15583610534668,
+    "longitude": -76.64350891113281
+  },
+  "website": "https://glenburniebaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/glen-burnie-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "glen-burnie-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "glenburniebaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520705675"
+    }
+  ],
+  "advisories": []
+}

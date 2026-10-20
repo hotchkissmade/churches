@@ -1,0 +1,33 @@
+{
+  "id": "gkhpss820",
+  "url": "https://constellation.church/gkhpss820",
+  "name": "Auburn Presbyterian Church",
+  "displayName": "Auburn Presbyterian Church",
+  "address": {
+    "street": "13025 Bel Air Dr",
+    "city": "Auburn",
+    "state": "CA",
+    "zip": "95603"
+  },
+  "coordinates": {
+    "latitude": 38.9411506652832,
+    "longitude": -121.07860565185547
+  },
+  "website": "https://goapc.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/11070/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "11070"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goapc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "680137253"
+    }
+  ],
+  "advisories": []
+}

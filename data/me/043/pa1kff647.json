@@ -1,0 +1,37 @@
+{
+  "id": "pa1kff647",
+  "url": "https://constellation.church/pa1kff647",
+  "name": "Emmanuel Lutheran Episcopal Church",
+  "displayName": "Emmanuel Lutheran Episcopal Church",
+  "address": {
+    "street": "209 Eastern Ave",
+    "city": "Augusta",
+    "state": "ME",
+    "zip": "04330-5951"
+  },
+  "coordinates": {
+    "latitude": 44.30732727050781,
+    "longitude": -69.75164413452148
+  },
+  "website": "https://emmanuellutheranepiscopal.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=999d4620-1683-4ad5-b455-6c4d01ac2aa3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "999d4620-1683-4ad5-b455-6c4d01ac2aa3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emmanuellutheranepiscopal.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "016019292"
+    },
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maine/church-209"
+    }
+  ],
+  "advisories": []
+}

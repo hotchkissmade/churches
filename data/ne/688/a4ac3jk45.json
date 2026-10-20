@@ -1,0 +1,33 @@
+{
+  "id": "a4ac3jk45",
+  "url": "https://constellation.church/a4ac3jk45",
+  "name": "Messiah Lutheran Church",
+  "displayName": "Messiah Lutheran Church",
+  "address": {
+    "street": "415 S 18th St",
+    "city": "Aurora",
+    "state": "NE",
+    "zip": "68818-3102"
+  },
+  "coordinates": {
+    "latitude": 40.85377883911133,
+    "longitude": -97.9938735961914
+  },
+  "website": "https://messiahaurora.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fe3ffe9b-c7b3-49d9-bc34-bf987ef2d0a2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fe3ffe9b-c7b3-49d9-bc34-bf987ef2d0a2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "messiahaurora.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470584829"
+    }
+  ],
+  "advisories": []
+}

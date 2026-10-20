@@ -1,0 +1,33 @@
+{
+  "id": "a8hm45451",
+  "url": "https://constellation.church/a8hm45451",
+  "name": "Clifton Lutheran Church",
+  "displayName": "Clifton Lutheran Church",
+  "address": {
+    "street": "150 Humphrey St",
+    "city": "Marblehead",
+    "state": "MA",
+    "zip": "01945-1632"
+  },
+  "coordinates": {
+    "latitude": 42.48767852783203,
+    "longitude": -70.88233184814453
+  },
+  "website": "https://cliftonlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e42c4102-2d75-4a60-9df3-63f9e20ff61f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e42c4102-2d75-4a60-9df3-63f9e20ff61f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cliftonlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042218591"
+    }
+  ],
+  "advisories": []
+}

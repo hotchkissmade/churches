@@ -1,0 +1,33 @@
+{
+  "id": "v4er68k91",
+  "url": "https://constellation.church/v4er68k91",
+  "name": "First Congregational Church of McCook",
+  "displayName": "First Congregational Church of McCook",
+  "address": {
+    "street": "212 East E St",
+    "city": "McCook",
+    "state": "NE",
+    "zip": "69001"
+  },
+  "coordinates": {
+    "latitude": 40.20145225524902,
+    "longitude": -100.62347412109375
+  },
+  "website": "https://congregationalist.org",
+  "listingUrl": "https://www.naccc.org/wpbdp_listing/first-congregational-church-of-mccook/",
+  "identifiers": [
+    {
+      "namespace": "org.naccc.id",
+      "value": "first-congregational-church-of-mccook"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "congregationalist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470426536"
+    }
+  ],
+  "advisories": []
+}

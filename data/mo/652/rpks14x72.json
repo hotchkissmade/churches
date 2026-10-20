@@ -1,0 +1,37 @@
+{
+  "id": "rpks14x72",
+  "url": "https://constellation.church/rpks14x72",
+  "name": "Ebenezer Baptist Church, Fulton",
+  "displayName": "Ebenezer Baptist Church, Fulton",
+  "address": {
+    "street": "6841 State Road Z",
+    "city": "Fulton",
+    "state": "MO",
+    "zip": "65251"
+  },
+  "coordinates": {
+    "latitude": 38.893272399902344,
+    "longitude": -91.88726043701172
+  },
+  "website": "https://ebenezerfulton.org",
+  "listingUrl": "https://churches.sbc.net/church/ebenezer-baptist-church-fulton/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "ebenezer-baptist-church-fulton"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ebenezerfulton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431131757"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431883618"
+    }
+  ],
+  "advisories": []
+}

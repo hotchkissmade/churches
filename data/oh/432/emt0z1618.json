@@ -1,0 +1,33 @@
+{
+  "id": "emt0z1618",
+  "url": "https://constellation.church/emt0z1618",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "4456 Morse Rd",
+    "city": "Gahanna",
+    "state": "OH",
+    "zip": "43230-1365"
+  },
+  "coordinates": {
+    "latitude": 40.05680465698242,
+    "longitude": -82.87297821044922
+  },
+  "website": "https://stlukecolumbus.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=afc7b46b-36db-4f77-9875-1182b22ad099",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "afc7b46b-36db-4f77-9875-1182b22ad099"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukecolumbus.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311327730"
+    }
+  ],
+  "advisories": []
+}

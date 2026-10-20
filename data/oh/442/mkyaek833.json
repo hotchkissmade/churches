@@ -1,0 +1,33 @@
+{
+  "id": "mkyaek833",
+  "url": "https://constellation.church/mkyaek833",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "6401 State Route 14 Ravenna",
+    "city": null,
+    "state": "OH",
+    "zip": "44266"
+  },
+  "coordinates": {
+    "latitude": 41.163978576660156,
+    "longitude": -81.22064590454102
+  },
+  "website": "https://ravennaag.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=40ff138f-a563-45b4-bbf8-95098ade6aa3&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "40ff138f-a563-45b4-bbf8-95098ade6aa3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ravennaag.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341058423"
+    }
+  ],
+  "advisories": []
+}

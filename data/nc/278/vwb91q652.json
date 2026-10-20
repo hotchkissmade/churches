@@ -1,0 +1,33 @@
+{
+  "id": "vwb91q652",
+  "url": "https://constellation.church/vwb91q652",
+  "name": "Wayside Presbyterian Church",
+  "displayName": "Wayside Presbyterian Church",
+  "address": {
+    "street": "2023 NC 33 W",
+    "city": "Chocowinity",
+    "state": "NC",
+    "zip": "27817"
+  },
+  "coordinates": {
+    "latitude": 35.522878646850586,
+    "longitude": -77.13328170776367
+  },
+  "website": "https://waysidepca.org/history",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1053",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1053"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "waysidepca.org/history"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561255576"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "scr3chy64",
+  "url": "https://constellation.church/scr3chy64",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "100 Church St",
+    "city": "Marshall",
+    "state": "MN",
+    "zip": "56258-1885"
+  },
+  "coordinates": {
+    "latitude": 44.446800231933594,
+    "longitude": -95.78191375732422
+  },
+  "website": "https://1stlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b4f10882-c645-4807-96a0-52c08115636c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b4f10882-c645-4807-96a0-52c08115636c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "1stlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363403881"
+    }
+  ],
+  "advisories": []
+}

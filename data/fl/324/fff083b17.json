@@ -1,0 +1,33 @@
+{
+  "id": "fff083b17",
+  "url": "https://constellation.church/fff083b17",
+  "name": "DeFuniak Springs First Baptist Church",
+  "displayName": "DeFuniak Springs First Baptist Church",
+  "address": {
+    "street": "216 E Live Oak Ave",
+    "city": "DeFuniak Springs",
+    "state": "FL",
+    "zip": "32435"
+  },
+  "coordinates": {
+    "latitude": 30.718761444091797,
+    "longitude": -86.1175422668457
+  },
+  "website": "https://fbcdfs.org",
+  "listingUrl": "https://churches.sbc.net/church/defuniak-springs-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "defuniak-springs-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcdfs.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590870368"
+    }
+  ],
+  "advisories": []
+}

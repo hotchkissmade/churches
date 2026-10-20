@@ -1,0 +1,33 @@
+{
+  "id": "vj3b9ad78",
+  "url": "https://constellation.church/vj3b9ad78",
+  "name": "Westside Baptist Church",
+  "displayName": "Westside Baptist Church",
+  "address": {
+    "street": "1085 Mason Ave",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "zip": "32117"
+  },
+  "coordinates": {
+    "latitude": 29.217273712158203,
+    "longitude": -81.05237197875977
+  },
+  "website": "https://daytonachurch.com/media/live",
+  "listingUrl": "https://churches.sbc.net/church/westside-baptist-church-4/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "westside-baptist-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "daytonachurch.com/media/live"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591088647"
+    }
+  ],
+  "advisories": []
+}

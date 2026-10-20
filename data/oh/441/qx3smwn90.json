@@ -1,0 +1,33 @@
+{
+  "id": "qx3smwn90",
+  "url": "https://constellation.church/qx3smwn90",
+  "name": "Elevation City Church",
+  "displayName": "Elevation City Church",
+  "address": {
+    "street": "234 Center Rd",
+    "city": "Bedford",
+    "state": "OH",
+    "zip": "44146"
+  },
+  "coordinates": {
+    "latitude": 41.399553298950195,
+    "longitude": -81.53689956665039
+  },
+  "website": "https://elevationcommunitychurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=df99d879-6615-4bc5-b555-f6eda2d8f92d&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "df99d879-6615-4bc5-b555-f6eda2d8f92d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elevationcommunitychurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340925953"
+    }
+  ],
+  "advisories": []
+}

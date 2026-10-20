@@ -1,0 +1,33 @@
+{
+  "id": "tdra54x18",
+  "url": "https://constellation.church/tdra54x18",
+  "name": "The Church on the Hill - United Methodist Church",
+  "displayName": "The Church on the Hill - United Methodist Church",
+  "address": {
+    "street": "1000 Engel Dr",
+    "city": "Shawano",
+    "state": "WI",
+    "zip": "54166"
+  },
+  "coordinates": {
+    "latitude": 44.76427459716797,
+    "longitude": -88.58689880371094
+  },
+  "website": "https://umcshawano.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMeIIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMeIIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "umcshawano.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390991199"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sa69sjm80",
+  "url": "https://constellation.church/sa69sjm80",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "1553 Kinney Ave",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45231-3452"
+  },
+  "coordinates": {
+    "latitude": 39.231143951416016,
+    "longitude": -84.54589462280273
+  },
+  "website": "https://trinitycincy.org/staff",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6cf8eab8-60fa-4556-ad25-2204776ab929",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6cf8eab8-60fa-4556-ad25-2204776ab929"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitycincy.org/staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310550835"
+    }
+  ],
+  "advisories": []
+}

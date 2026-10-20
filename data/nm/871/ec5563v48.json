@@ -1,0 +1,33 @@
+{
+  "id": "ec5563v48",
+  "url": "https://constellation.church/ec5563v48",
+  "name": "High Desert Church (PCA)",
+  "displayName": "High Desert Church (PCA)",
+  "address": {
+    "street": "12500 Comanche NE, McLeod Family YMCA",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87111"
+  },
+  "coordinates": {
+    "latitude": 35.123064041137695,
+    "longitude": -106.49915313720703
+  },
+  "website": "https://highdesertpca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5522",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5522"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "highdesertpca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "274450117"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mvqgzvb07",
+  "url": "https://constellation.church/mvqgzvb07",
+  "name": "Southern Hills Baptist Church of Las Vegas",
+  "displayName": "Southern Hills Baptist Church of Las Vegas",
+  "address": {
+    "street": "6425 W Pebble Rd",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89139"
+  },
+  "coordinates": {
+    "latitude": 36.02699089050293,
+    "longitude": -115.23271942138672
+  },
+  "website": "https://southernhillslv.com",
+  "listingUrl": "https://churches.sbc.net/church/southern-hills-baptist-church-of-las-vegas/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "southern-hills-baptist-church-of-las-vegas"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southernhillslv.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "710970218"
+    }
+  ],
+  "advisories": []
+}

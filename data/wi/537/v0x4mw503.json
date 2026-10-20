@@ -1,0 +1,33 @@
+{
+  "id": "v0x4mw503",
+  "url": "https://constellation.church/v0x4mw503",
+  "name": "Trinity United Methodist Church",
+  "displayName": "Trinity United Methodist Church",
+  "address": {
+    "street": "1123 Vilas Ave",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53715"
+  },
+  "coordinates": {
+    "latitude": 43.06291198730469,
+    "longitude": -89.40509796142578
+  },
+  "website": "https://tumcmadison.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFNhhIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFNhhIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tumcmadison.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391100145"
+    }
+  ],
+  "advisories": []
+}

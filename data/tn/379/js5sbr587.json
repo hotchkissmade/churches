@@ -1,0 +1,33 @@
+{
+  "id": "js5sbr587",
+  "url": "https://constellation.church/js5sbr587",
+  "name": "Episcopal Diocese of East Tennessee",
+  "displayName": "Episcopal Diocese of East Tennessee",
+  "address": {
+    "street": "814 Episcopal School Way",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37932"
+  },
+  "coordinates": {
+    "latitude": 35.91341209411621,
+    "longitude": -84.15519714355469
+  },
+  "website": "https://dioet.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/east-tennessee/list/episcopal-diocese-east-tennessee",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "east-tennessee/episcopal-diocese-east-tennessee"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dioet.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621218955"
+    }
+  ],
+  "advisories": []
+}

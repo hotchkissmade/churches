@@ -1,0 +1,33 @@
+{
+  "id": "rrxcfd231",
+  "url": "https://constellation.church/rrxcfd231",
+  "name": "The Hill Baptist Church",
+  "displayName": "The Hill Baptist Church",
+  "address": {
+    "street": "2165 Kings Way",
+    "city": "Augusta",
+    "state": "GA",
+    "zip": "30904"
+  },
+  "coordinates": {
+    "latitude": 33.471364974975586,
+    "longitude": -82.01471710205078
+  },
+  "website": "https://thehillbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/the-hill-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-hill-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thehillbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580593415"
+    }
+  ],
+  "advisories": []
+}

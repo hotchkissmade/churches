@@ -1,0 +1,33 @@
+{
+  "id": "ay1ym3078",
+  "url": "https://constellation.church/ay1ym3078",
+  "name": "Second Chance Baptist Church",
+  "displayName": "Second Chance Baptist Church",
+  "address": {
+    "street": "2701 County Drive",
+    "city": "Petersburg",
+    "state": "VA",
+    "zip": "23803"
+  },
+  "coordinates": {
+    "latitude": 37.210683822631836,
+    "longitude": -77.3490219116211
+  },
+  "website": "https://secondchancebaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/second-chance-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "second-chance-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "secondchancebaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "270922224"
+    }
+  ],
+  "advisories": []
+}

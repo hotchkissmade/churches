@@ -1,0 +1,33 @@
+{
+  "id": "y3nddt822",
+  "url": "https://constellation.church/y3nddt822",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "1337 Van Houten Ave",
+    "city": "Clifton",
+    "state": "NJ",
+    "zip": "07013-1620"
+  },
+  "coordinates": {
+    "latitude": 40.87220001220703,
+    "longitude": -74.17359161376953
+  },
+  "website": "https://firstlutheranclifton.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d5ac82c2-abaa-4da9-982d-7b83ebb645cc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d5ac82c2-abaa-4da9-982d-7b83ebb645cc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranclifton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221618121"
+    }
+  ],
+  "advisories": []
+}

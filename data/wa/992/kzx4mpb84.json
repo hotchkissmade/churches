@@ -1,0 +1,33 @@
+{
+  "id": "kzx4mpb84",
+  "url": "https://constellation.church/kzx4mpb84",
+  "name": "Journey Church",
+  "displayName": "Journey Church",
+  "address": {
+    "street": "4224 E 4th Ave",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99202"
+  },
+  "coordinates": {
+    "latitude": 47.651947021484375,
+    "longitude": -117.34786987304688
+  },
+  "website": "https://journeychurchspokane.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=c39144ed-47d8-4ce5-ab17-67d032add09b&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "c39144ed-47d8-4ce5-ab17-67d032add09b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "journeychurchspokane.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910871108"
+    }
+  ],
+  "advisories": []
+}

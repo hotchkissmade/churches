@@ -1,0 +1,33 @@
+{
+  "id": "wfsswpy17",
+  "url": "https://constellation.church/wfsswpy17",
+  "name": "New Hope Baptist Church",
+  "displayName": "New Hope Baptist Church",
+  "address": {
+    "street": "3731 Lynwood Dr",
+    "city": "Lancaster",
+    "state": "SC",
+    "zip": "29720"
+  },
+  "coordinates": {
+    "latitude": 34.62191963195801,
+    "longitude": -80.76727294921875
+  },
+  "website": "https://newhopesbc.net",
+  "listingUrl": "https://churches.sbc.net/church/new-hope-baptist-church-59/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-hope-baptist-church-59"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newhopesbc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570401079"
+    }
+  ],
+  "advisories": []
+}

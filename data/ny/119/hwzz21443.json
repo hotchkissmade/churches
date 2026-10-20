@@ -1,0 +1,33 @@
+{
+  "id": "hwzz21443",
+  "url": "https://constellation.church/hwzz21443",
+  "name": "St. Marks church",
+  "displayName": "St. Mark's church",
+  "address": {
+    "street": "40 Main Street",
+    "city": "Westhampton Beach",
+    "state": "NY",
+    "zip": "11978"
+  },
+  "coordinates": {
+    "latitude": 40.809072494506836,
+    "longitude": -72.64667892456055
+  },
+  "website": "https://stmarkswhb.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-marks-episcopal-church-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-marks-episcopal-church-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkswhb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111816358"
+    }
+  ],
+  "advisories": []
+}

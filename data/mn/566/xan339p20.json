@@ -1,0 +1,33 @@
+{
+  "id": "xan339p20",
+  "url": "https://constellation.church/xan339p20",
+  "name": "St. Bartholomew's Episcopal Church",
+  "displayName": "St. Bartholomew's Episcopal Church",
+  "address": {
+    "street": "1800 Irvine Ave NW",
+    "city": "Bemidji",
+    "state": "MN",
+    "zip": "56601-2552"
+  },
+  "coordinates": {
+    "latitude": 47.48655700683594,
+    "longitude": -94.88510131835938
+  },
+  "website": "https://episcopalbemidji.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/st-bartholomews-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/st-bartholomews-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "episcopalbemidji.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "200465166"
+    }
+  ],
+  "advisories": []
+}

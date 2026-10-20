@@ -1,0 +1,33 @@
+{
+  "id": "jfgq2gm59",
+  "url": "https://constellation.church/jfgq2gm59",
+  "name": "St John's Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "419 Jefferson Ave",
+    "city": "Sparta",
+    "state": "WI",
+    "zip": "54656-2116"
+  },
+  "coordinates": {
+    "latitude": 43.9423546,
+    "longitude": -90.8157775
+  },
+  "website": "https://sjsparta.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24974",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24974"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sjsparta.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390937830"
+    }
+  ],
+  "advisories": []
+}

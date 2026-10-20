@@ -1,0 +1,33 @@
+{
+  "id": "b1kfe2r55",
+  "url": "https://constellation.church/b1kfe2r55",
+  "name": "St. Luke's Church, Bronx",
+  "displayName": "St. Luke's Church, Bronx",
+  "address": {
+    "street": "777 East 222nd Street",
+    "city": "Bronx",
+    "state": "NY",
+    "zip": "10467"
+  },
+  "coordinates": {
+    "latitude": 40.8850040435791,
+    "longitude": -73.85873794555664
+  },
+  "website": "https://stlukesbronx.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-new-york/list/st-lukes-episcopal-church-williamsbridge",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-new-york/st-lukes-episcopal-church-williamsbridge"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesbronx.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "132747442"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cqm7n1g79",
+  "url": "https://constellation.church/cqm7n1g79",
+  "name": "Emmaus Baptist Church",
+  "displayName": "Emmaus Baptist Church",
+  "address": {
+    "street": "840 NW 100th St",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33150"
+  },
+  "coordinates": {
+    "latitude": 25.8661152,
+    "longitude": -80.2125936
+  },
+  "website": "https://emmausofmiami.com",
+  "listingUrl": "https://churches.sbc.net/church/emmaus-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "emmaus-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emmausofmiami.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "650233577"
+    }
+  ],
+  "advisories": []
+}

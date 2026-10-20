@@ -1,0 +1,33 @@
+{
+  "id": "tgpnfr802",
+  "url": "https://constellation.church/tgpnfr802",
+  "name": "Midtown Presbyterian Church",
+  "displayName": "Midtown Presbyterian Church",
+  "address": {
+    "street": "625 N. 2nd Avenue, Vineyard Christian Community",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85705"
+  },
+  "coordinates": {
+    "latitude": 32.229405102366,
+    "longitude": -110.9626011517
+  },
+  "website": "https://mpctucson.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6350",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6350"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mpctucson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "834624096"
+    }
+  ],
+  "advisories": []
+}

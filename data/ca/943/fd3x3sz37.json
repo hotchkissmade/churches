@@ -1,0 +1,33 @@
+{
+  "id": "fd3x3sz37",
+  "url": "https://constellation.church/fd3x3sz37",
+  "name": "Palo Alto Friends Meeting",
+  "displayName": "Palo Alto Friends Meeting",
+  "address": {
+    "street": "957 Colorado Ave",
+    "city": "Palo Alto",
+    "state": "CA",
+    "zip": "94303"
+  },
+  "coordinates": {
+    "latitude": 37.437917709350586,
+    "longitude": -122.12064361572266
+  },
+  "website": "https://sites.google.com/clerks.pafm.org/paloaltofriendsmeeting",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/palo-alto-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "palo-alto-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sites.google.com/clerks.pafm.org/paloaltofriendsmeeting"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "946106068"
+    }
+  ],
+  "advisories": []
+}

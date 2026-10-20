@@ -1,0 +1,33 @@
+{
+  "id": "aa3yzs878",
+  "url": "https://constellation.church/aa3yzs878",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "300 E Main St",
+    "city": "Steele",
+    "state": "MO",
+    "zip": "63877"
+  },
+  "coordinates": {
+    "latitude": 36.08218193054199,
+    "longitude": -89.82791519165039
+  },
+  "website": "https://steelefirstassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=6daa32d6-11da-403d-8085-fbbddf29eb6b&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "6daa32d6-11da-403d-8085-fbbddf29eb6b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "steelefirstassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431272260"
+    }
+  ],
+  "advisories": []
+}

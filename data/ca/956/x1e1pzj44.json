@@ -1,0 +1,33 @@
+{
+  "id": "x1e1pzj44",
+  "url": "https://constellation.church/x1e1pzj44",
+  "name": "St. Michael's Episcopal Day School",
+  "displayName": "St. Michael's Episcopal Day School",
+  "address": {
+    "street": "2410 Mission Avenue",
+    "city": "Carmichael",
+    "state": "CA",
+    "zip": "95608"
+  },
+  "coordinates": {
+    "latitude": 38.604103088378906,
+    "longitude": -121.35498809814453
+  },
+  "website": "https://smeds.net",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-northern-california/list/st-michaels-episcopal-day-school",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-northern-california/st-michaels-episcopal-day-school"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "smeds.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "680312567"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dbvw0sf77",
+  "url": "https://constellation.church/dbvw0sf77",
+  "name": "Church of the Good Shepherd",
+  "displayName": "Church of the Good Shepherd",
+  "address": {
+    "street": "4947 NE Chouteau Dr",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64119-4815"
+  },
+  "coordinates": {
+    "latitude": 39.18517303466797,
+    "longitude": -94.54025268554688
+  },
+  "website": "https://goodshepherdepiscopalkc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-missouri/list/church-good-shepherd",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-missouri/church-good-shepherd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherdepiscopalkc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440654294"
+    }
+  ],
+  "advisories": []
+}

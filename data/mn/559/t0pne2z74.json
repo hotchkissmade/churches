@@ -1,0 +1,33 @@
+{
+  "id": "t0pne2z74",
+  "url": "https://constellation.church/t0pne2z74",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "309 Forest St",
+    "city": "Kenyon",
+    "state": "MN",
+    "zip": "55946-1132"
+  },
+  "coordinates": {
+    "latitude": 44.27065849304199,
+    "longitude": -92.98712158203125
+  },
+  "website": "https://flckenyon.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2fa2dd8e-0983-46ec-84b5-3c3c1f2c3fbb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2fa2dd8e-0983-46ec-84b5-3c3c1f2c3fbb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flckenyon.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410840859"
+    }
+  ],
+  "advisories": []
+}

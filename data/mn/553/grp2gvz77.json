@@ -1,0 +1,33 @@
+{
+  "id": "grp2gvz77",
+  "url": "https://constellation.church/grp2gvz77",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "2060 County Road 6",
+    "city": "Long Lake",
+    "state": "MN",
+    "zip": "55356-9564"
+  },
+  "coordinates": {
+    "latitude": 44.998675346123,
+    "longitude": -93.575756029166
+  },
+  "website": "https://trinitylonglake.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6f720114-ac15-4b33-9d3d-33a661e32840",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6f720114-ac15-4b33-9d3d-33a661e32840"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylonglake.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411339425"
+    }
+  ],
+  "advisories": []
+}

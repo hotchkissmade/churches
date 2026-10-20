@@ -1,0 +1,33 @@
+{
+  "id": "kdxfcjn86",
+  "url": "https://constellation.church/kdxfcjn86",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "234 E Main St",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29730"
+  },
+  "coordinates": {
+    "latitude": 34.923580169677734,
+    "longitude": -81.02518081665039
+  },
+  "website": "https://fpc-rockhill.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/22249/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "22249"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpc-rockhill.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570327890"
+    }
+  ],
+  "advisories": []
+}

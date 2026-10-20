@@ -1,0 +1,33 @@
+{
+  "id": "e5h5czv10",
+  "url": "https://constellation.church/e5h5czv10",
+  "name": "First Evangelical Lutheran Church",
+  "displayName": "First Evangelical Lutheran Church",
+  "address": {
+    "street": "311 W Mackie St",
+    "city": "Beaver Dam",
+    "state": "WI",
+    "zip": "53916-1637"
+  },
+  "coordinates": {
+    "latitude": 43.46039962768555,
+    "longitude": -88.84034729003906
+  },
+  "website": "https://firstluthbd.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ad5d3fc8-d747-4631-b810-8cf23591e225",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ad5d3fc8-d747-4631-b810-8cf23591e225"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstluthbd.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390937512"
+    }
+  ],
+  "advisories": []
+}

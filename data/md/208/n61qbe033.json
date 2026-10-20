@@ -1,0 +1,33 @@
+{
+  "id": "n61qbe033",
+  "url": "https://constellation.church/n61qbe033",
+  "name": "St. James, Potomac",
+  "displayName": "St. James, Potomac",
+  "address": {
+    "street": "11815 Seven Locks Rd",
+    "city": "Potomac",
+    "state": "MD",
+    "zip": "20854"
+  },
+  "coordinates": {
+    "latitude": 39.050235748291016,
+    "longitude": -77.16334915161133
+  },
+  "website": "https://stjamespotomac.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/st-james-church-potomac",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/st-james-church-potomac"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamespotomac.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520854201"
+    }
+  ],
+  "advisories": []
+}

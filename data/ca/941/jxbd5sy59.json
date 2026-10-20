@@ -1,0 +1,33 @@
+{
+  "id": "jxbd5sy59",
+  "url": "https://constellation.church/jxbd5sy59",
+  "name": "St Marks Lutheran Church",
+  "displayName": "St. Mark's Lutheran Church",
+  "address": {
+    "street": "1111 Ofarrell St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94109-6601"
+  },
+  "coordinates": {
+    "latitude": 37.78426551818848,
+    "longitude": -122.42355346679688
+  },
+  "website": "https://stmarks-sf.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=24de9af1-b6fd-4730-bc56-52870469fbc7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "24de9af1-b6fd-4730-bc56-52870469fbc7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarks-sf.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941418294"
+    }
+  ],
+  "advisories": []
+}

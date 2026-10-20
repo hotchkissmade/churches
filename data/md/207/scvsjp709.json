@@ -1,0 +1,33 @@
+{
+  "id": "scvsjp709",
+  "url": "https://constellation.church/scvsjp709",
+  "name": "Greenbelt Baptist Church",
+  "displayName": "Greenbelt Baptist Church",
+  "address": {
+    "street": "101 Greenhill Rd",
+    "city": "Greenbelt",
+    "state": "MD",
+    "zip": "20770"
+  },
+  "coordinates": {
+    "latitude": 39.00678253173828,
+    "longitude": -76.8834228515625
+  },
+  "website": "https://greenbeltbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/greenbelt-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "greenbelt-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "greenbeltbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "526044494"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gd67g2e13",
+  "url": "https://constellation.church/gd67g2e13",
+  "name": "Fifth Street Presbyterian Church",
+  "displayName": "Fifth Street Presbyterian Church",
+  "address": {
+    "street": "1616 East Fifth Street",
+    "city": "Tyler",
+    "state": "TX",
+    "zip": "75701"
+  },
+  "coordinates": {
+    "latitude": 32.33262825012207,
+    "longitude": -95.28115844726562
+  },
+  "website": "https://fifthstreetpca.org/welcome",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/409",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "409"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fifthstreetpca.org/welcome"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751280976"
+    }
+  ],
+  "advisories": []
+}

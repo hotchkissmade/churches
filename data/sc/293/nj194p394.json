@@ -1,0 +1,33 @@
+{
+  "id": "nj194p394",
+  "url": "https://constellation.church/nj194p394",
+  "name": "Inman First Baptist Church",
+  "displayName": "Inman First Baptist Church",
+  "address": {
+    "street": "14 N Howard St",
+    "city": "Inman",
+    "state": "SC",
+    "zip": "29349"
+  },
+  "coordinates": {
+    "latitude": 35.051578521728516,
+    "longitude": -82.09088897705078
+  },
+  "website": "https://ifbc.net",
+  "listingUrl": "https://churches.sbc.net/church/inman-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "inman-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ifbc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570385894"
+    }
+  ],
+  "advisories": []
+}

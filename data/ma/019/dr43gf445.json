@@ -1,0 +1,33 @@
+{
+  "id": "dr43gf445",
+  "url": "https://constellation.church/dr43gf445",
+  "name": "All Saints Anglican Cathedral",
+  "displayName": "All Saints Anglican Cathedral",
+  "address": {
+    "street": "69 Friend Street",
+    "city": "Amesbury",
+    "state": "MA",
+    "zip": "01913"
+  },
+  "coordinates": {
+    "latitude": 42.85636901855469,
+    "longitude": -70.93440628051758
+  },
+  "website": "https://allsaintsamesbury.org",
+  "listingUrl": "https://www.acna.org/admin_units/69",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "69"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allsaintsamesbury.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "711019940"
+    }
+  ],
+  "advisories": []
+}

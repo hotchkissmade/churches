@@ -1,0 +1,33 @@
+{
+  "id": "kxdfn3c91",
+  "url": "https://constellation.church/kxdfn3c91",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "211 South Chestnut Street",
+    "city": "Prattville",
+    "state": "AL",
+    "zip": "36067"
+  },
+  "coordinates": {
+    "latitude": 32.46103096008301,
+    "longitude": -86.47278594970703
+  },
+  "website": "https://firstpresbyterianchurchofprattville.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/463",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "463"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpresbyterianchurchofprattville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630522214"
+    }
+  ],
+  "advisories": []
+}

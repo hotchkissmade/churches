@@ -1,0 +1,33 @@
+{
+  "id": "br7pqhd56",
+  "url": "https://constellation.church/br7pqhd56",
+  "name": "City Church of East Nashville",
+  "displayName": "City Church of East Nashville",
+  "address": {
+    "street": "805 Woodland Street, Suite 330",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37206"
+  },
+  "coordinates": {
+    "latitude": 36.17521095275879,
+    "longitude": -86.75801086425781
+  },
+  "website": "https://ccen.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4704",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4704"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ccen.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "201557208"
+    }
+  ],
+  "advisories": []
+}

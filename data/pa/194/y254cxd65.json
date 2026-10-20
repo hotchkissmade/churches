@@ -1,0 +1,33 @@
+{
+  "id": "y254cxd65",
+  "url": "https://constellation.church/y254cxd65",
+  "name": "Cornerstone Presbyterian Church",
+  "displayName": "Cornerstone Presbyterian Church",
+  "address": {
+    "street": "37 Jenkins Avenue",
+    "city": "Lansdale",
+    "state": "PA",
+    "zip": "19446"
+  },
+  "coordinates": {
+    "latitude": 40.24013328552246,
+    "longitude": -75.28316879272461
+  },
+  "website": "https://cornerstone-pc.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4661",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4661"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cornerstone-pc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800034348"
+    }
+  ],
+  "advisories": []
+}

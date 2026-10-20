@@ -1,0 +1,33 @@
+{
+  "id": "evddpta42",
+  "url": "https://constellation.church/evddpta42",
+  "name": "Lighthouse Full Gospel Church",
+  "displayName": "Lighthouse Full Gospel Church",
+  "address": {
+    "street": "4131 Coolidge Ave",
+    "city": "Lincoln Park",
+    "state": "MI",
+    "zip": "48146-4027"
+  },
+  "coordinates": {
+    "latitude": 42.2232663,
+    "longitude": -83.1928935
+  },
+  "website": "https://lighthousefg.today",
+  "listingUrl": "https://rforw.pcg.org/ChurchDetails.aspx?contactID=81187",
+  "identifiers": [
+    {
+      "namespace": "org.pcg.rforw.id",
+      "value": "81187"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lighthousefg.today"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "386095967"
+    }
+  ],
+  "advisories": []
+}

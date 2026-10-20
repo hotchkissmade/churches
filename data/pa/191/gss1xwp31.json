@@ -1,0 +1,33 @@
+{
+  "id": "gss1xwp31",
+  "url": "https://constellation.church/gss1xwp31",
+  "name": "Arch Street United Methodist Church",
+  "displayName": "Arch Street United Methodist Church",
+  "address": {
+    "street": "55 N Broad St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19107-2531"
+  },
+  "coordinates": {
+    "latitude": 39.95404243469238,
+    "longitude": -75.16301727294922
+  },
+  "website": "https://archstreetumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFFPZIA5",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFFPZIA5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "archstreetumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231433905"
+    }
+  ],
+  "advisories": []
+}

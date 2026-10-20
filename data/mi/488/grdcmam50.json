@@ -1,0 +1,33 @@
+{
+  "id": "grdcmam50",
+  "url": "https://constellation.church/grdcmam50",
+  "name": "Fellowship Reformed Church (PCA)",
+  "displayName": "Fellowship Reformed Church (PCA)",
+  "address": {
+    "street": "1730 E Pickard Street",
+    "city": "Mount Pleasant",
+    "state": "MI",
+    "zip": "48858"
+  },
+  "coordinates": {
+    "latitude": 43.61113357543945,
+    "longitude": -84.81233978271484
+  },
+  "website": "https://fellowshipreformedchurch.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6886",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6886"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fellowshipreformedchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "993768462"
+    }
+  ],
+  "advisories": []
+}

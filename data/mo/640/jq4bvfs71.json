@@ -1,0 +1,33 @@
+{
+  "id": "jq4bvfs71",
+  "url": "https://constellation.church/jq4bvfs71",
+  "name": "Grace Baptist Church, Oak Grove",
+  "displayName": "Grace Baptist Church, Oak Grove",
+  "address": {
+    "street": "600 SW Maple Ln",
+    "city": "Oak Grove",
+    "state": "MO",
+    "zip": "64075"
+  },
+  "coordinates": {
+    "latitude": 39.01060676574707,
+    "longitude": -94.13571166992188
+  },
+  "website": "https://graceog.org",
+  "listingUrl": "https://churches.sbc.net/church/grace-baptist-church-oak-grove/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grace-baptist-church-oak-grove"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceog.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "436209338"
+    }
+  ],
+  "advisories": []
+}

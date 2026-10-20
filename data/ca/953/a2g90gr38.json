@@ -1,0 +1,33 @@
+{
+  "id": "a2g90gr38",
+  "url": "https://constellation.church/a2g90gr38",
+  "name": "Emanuel Lutheran Church",
+  "displayName": "Emanuel Lutheran Church",
+  "address": {
+    "street": "324 College Ave",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95350-5807"
+  },
+  "coordinates": {
+    "latitude": 37.64899444580078,
+    "longitude": -121.00691223144531
+  },
+  "website": "https://emanuellutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e1eb94af-91d7-409a-9516-af5427082d7d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e1eb94af-91d7-409a-9516-af5427082d7d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emanuellutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941501301"
+    }
+  ],
+  "advisories": []
+}

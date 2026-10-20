@@ -1,0 +1,33 @@
+{
+  "id": "pf62cbb21",
+  "url": "https://constellation.church/pf62cbb21",
+  "name": "Hillcrest Presbyterian Church",
+  "displayName": "Hillcrest Presbyterian Church",
+  "address": {
+    "street": "PO Box 129",
+    "city": "Volant",
+    "state": "PA",
+    "zip": "16156"
+  },
+  "coordinates": {
+    "latitude": 41.09095573425293,
+    "longitude": -80.21182250976562
+  },
+  "website": "https://hillcrestpresbyterian.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/595",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "595"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hillcrestpresbyterian.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251389440"
+    }
+  ],
+  "advisories": []
+}

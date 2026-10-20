@@ -1,0 +1,33 @@
+{
+  "id": "yv125zz97",
+  "url": "https://constellation.church/yv125zz97",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "20 Monterey Cir",
+    "city": "Lakewood",
+    "state": "NJ",
+    "zip": "08701-3065"
+  },
+  "coordinates": {
+    "latitude": 40.089120864868164,
+    "longitude": -74.22975540161133
+  },
+  "website": "https://ilutheran.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=67936e5f-72bc-41ce-b3bb-b79b0d38a1bb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "67936e5f-72bc-41ce-b3bb-b79b0d38a1bb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ilutheran.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "226062665"
+    }
+  ],
+  "advisories": []
+}

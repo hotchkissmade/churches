@@ -1,0 +1,33 @@
+{
+  "id": "ks6v6bn51",
+  "url": "https://constellation.church/ks6v6bn51",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "6500 Clark RD",
+    "city": "Paradise",
+    "state": "CA",
+    "zip": "95969"
+  },
+  "coordinates": {
+    "latitude": 39.77312469482422,
+    "longitude": -121.59440612792969
+  },
+  "website": "https://fbcparadise.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-643/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-643"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcparadise.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "946069488"
+    }
+  ],
+  "advisories": []
+}

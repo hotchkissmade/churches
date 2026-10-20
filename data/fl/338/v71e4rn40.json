@@ -1,0 +1,33 @@
+{
+  "id": "v71e4rn40",
+  "url": "https://constellation.church/v71e4rn40",
+  "name": "Eastside Baptist Church",
+  "displayName": "Eastside Baptist Church",
+  "address": {
+    "street": "217 Pike St",
+    "city": "Auburndale",
+    "state": "FL",
+    "zip": "33823"
+  },
+  "coordinates": {
+    "latitude": 28.064685821533203,
+    "longitude": -81.78067779541016
+  },
+  "website": "https://myeastsidebaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/eastside-baptist-church-5/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "eastside-baptist-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "myeastsidebaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591219775"
+    }
+  ],
+  "advisories": []
+}

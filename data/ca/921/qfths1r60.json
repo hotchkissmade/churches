@@ -1,0 +1,33 @@
+{
+  "id": "qfths1r60",
+  "url": "https://constellation.church/qfths1r60",
+  "name": "North Park Presbyterian Church",
+  "displayName": "North Park Presbyterian Church",
+  "address": {
+    "street": "4011 Ohio Street",
+    "city": "San Deigo",
+    "state": "CA",
+    "zip": "92104"
+  },
+  "coordinates": {
+    "latitude": 32.750661849975586,
+    "longitude": -117.12837982177734
+  },
+  "website": "https://northparkpres.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5914",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5914"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northparkpres.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "471498643"
+    }
+  ],
+  "advisories": []
+}

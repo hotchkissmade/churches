@@ -1,0 +1,33 @@
+{
+  "id": "mvn0hxf79",
+  "url": "https://constellation.church/mvn0hxf79",
+  "name": "Grandville United Methodist Church",
+  "displayName": "Grandville United Methodist Church",
+  "address": {
+    "street": "3140 Wilson Ave SW",
+    "city": "Grandville",
+    "state": "MI",
+    "zip": "49418-1273"
+  },
+  "coordinates": {
+    "latitude": 42.907230377197266,
+    "longitude": -85.76257705688477
+  },
+  "website": "https://grandvilleumc.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFN4qIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFN4qIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grandvilleumc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382534751"
+    }
+  ],
+  "advisories": []
+}

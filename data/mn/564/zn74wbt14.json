@@ -1,0 +1,33 @@
+{
+  "id": "zn74wbt14",
+  "url": "https://constellation.church/zn74wbt14",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "150 2nd St NE",
+    "city": "Laporte",
+    "state": "MN",
+    "zip": "56461"
+  },
+  "coordinates": {
+    "latitude": 47.215850830078125,
+    "longitude": -94.75191497802734
+  },
+  "website": "https://tlclaporte.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=077a2101-b849-45d3-8e09-851617f9d134",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "077a2101-b849-45d3-8e09-851617f9d134"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlclaporte.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411466412"
+    }
+  ],
+  "advisories": []
+}

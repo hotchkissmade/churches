@@ -1,0 +1,33 @@
+{
+  "id": "vm7m0cv79",
+  "url": "https://constellation.church/vm7m0cv79",
+  "name": "Our Savior Lutheran Church",
+  "displayName": "Our Savior Lutheran Church",
+  "address": {
+    "street": "401 Spruce St",
+    "city": "Albert City",
+    "state": "IA",
+    "zip": "50510-1313"
+  },
+  "coordinates": {
+    "latitude": 42.77226638793945,
+    "longitude": -94.9524917602539
+  },
+  "website": "https://albertcitylutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d09d234d-12f7-4b41-bc99-7d9a3a2c47be",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d09d234d-12f7-4b41-bc99-7d9a3a2c47be"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "albertcitylutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420725211"
+    }
+  ],
+  "advisories": []
+}

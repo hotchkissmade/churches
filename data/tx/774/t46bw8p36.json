@@ -1,0 +1,33 @@
+{
+  "id": "t46bw8p36",
+  "url": "https://constellation.church/t46bw8p36",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "3000 9th St",
+    "city": "Bay City",
+    "state": "TX",
+    "zip": "77414-5457"
+  },
+  "coordinates": {
+    "latitude": 28.985401153564453,
+    "longitude": -95.9541244506836
+  },
+  "website": "https://stpeterbaycity.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3b483907-42fe-4ba0-a54d-e69d1101f8bc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3b483907-42fe-4ba0-a54d-e69d1101f8bc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpeterbaycity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741616938"
+    }
+  ],
+  "advisories": []
+}

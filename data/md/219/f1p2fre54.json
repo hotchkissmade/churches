@@ -1,0 +1,33 @@
+{
+  "id": "f1p2fre54",
+  "url": "https://constellation.church/f1p2fre54",
+  "name": "First Baptist Church of North East",
+  "displayName": "First Baptist Church of North East",
+  "address": {
+    "street": "206 Mechanics Valley Rd",
+    "city": "North East",
+    "state": "MD",
+    "zip": "21901"
+  },
+  "coordinates": {
+    "latitude": 39.60440635681152,
+    "longitude": -75.93446731567383
+  },
+  "website": "https://fbcne.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-north-east-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-north-east-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcne.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521204729"
+    }
+  ],
+  "advisories": []
+}

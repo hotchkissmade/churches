@@ -1,0 +1,33 @@
+{
+  "id": "q81dwpy60",
+  "url": "https://constellation.church/q81dwpy60",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "746 S Saginaw St",
+    "city": "Flint",
+    "state": "MI",
+    "zip": "48502-1508"
+  },
+  "coordinates": {
+    "latitude": 43.01324272155762,
+    "longitude": -83.6894302368164
+  },
+  "website": "https://fpcf.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/3211/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "3211"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcf.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381359204"
+    }
+  ],
+  "advisories": []
+}

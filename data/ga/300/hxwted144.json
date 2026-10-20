@@ -1,0 +1,33 @@
+{
+  "id": "hxwted144",
+  "url": "https://constellation.church/hxwted144",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "189 Church St",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30060-1629"
+  },
+  "coordinates": {
+    "latitude": 33.95667839050293,
+    "longitude": -84.55059051513672
+  },
+  "website": "https://fpcmarietta.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/22314/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "22314"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcmarietta.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580610065"
+    }
+  ],
+  "advisories": []
+}

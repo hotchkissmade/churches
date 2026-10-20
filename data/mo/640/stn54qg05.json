@@ -1,0 +1,33 @@
+{
+  "id": "stn54qg05",
+  "url": "https://constellation.church/stn54qg05",
+  "name": "Calvary Blue Springs",
+  "displayName": "Calvary Blue Springs",
+  "address": {
+    "street": "900 NW 22nd St",
+    "city": "Blue Springs",
+    "state": "MO",
+    "zip": "64015"
+  },
+  "coordinates": {
+    "latitude": 39.02920722961426,
+    "longitude": -94.28810501098633
+  },
+  "website": "https://calvarybluesprings.com",
+  "listingUrl": "https://churches.sbc.net/church/calvary-blue-springs/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "calvary-blue-springs"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "calvarybluesprings.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431245202"
+    }
+  ],
+  "advisories": []
+}

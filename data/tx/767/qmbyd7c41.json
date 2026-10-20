@@ -1,0 +1,33 @@
+{
+  "id": "qmbyd7c41",
+  "url": "https://constellation.church/qmbyd7c41",
+  "name": "Episcopal Church of the Holy Spirit",
+  "displayName": "Episcopal Church of the Holy Spirit",
+  "address": {
+    "street": "1624 Wooded Acres Dr",
+    "city": "Waco",
+    "state": "TX",
+    "zip": "76710-2852"
+  },
+  "coordinates": {
+    "latitude": 31.53666114807129,
+    "longitude": -97.19316864013672
+  },
+  "website": "https://holyspiritwaco.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-texas/list/episcopal-church-holy-spirit",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-texas/episcopal-church-holy-spirit"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holyspiritwaco.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741732165"
+    }
+  ],
+  "advisories": []
+}

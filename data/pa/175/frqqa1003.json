@@ -1,0 +1,33 @@
+{
+  "id": "frqqa1003",
+  "url": "https://constellation.church/frqqa1003",
+  "name": "St James Lutheran Church",
+  "displayName": "St. James Lutheran Church",
+  "address": {
+    "street": "655 S 10th St",
+    "city": "Columbia",
+    "state": "PA",
+    "zip": "17512-1805"
+  },
+  "coordinates": {
+    "latitude": 40.0279483795166,
+    "longitude": -76.48900604248047
+  },
+  "website": "https://stjamescolumbiapa.wordpress.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1fdca064-eff9-4cf8-b695-f3900078e422",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1fdca064-eff9-4cf8-b695-f3900078e422"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamescolumbiapa.wordpress.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232081243"
+    }
+  ],
+  "advisories": []
+}

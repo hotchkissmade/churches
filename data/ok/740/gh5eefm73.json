@@ -1,0 +1,33 @@
+{
+  "id": "gh5eefm73",
+  "url": "https://constellation.church/gh5eefm73",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "1001 W Center St",
+    "city": "Collinsville",
+    "state": "OK",
+    "zip": "74021"
+  },
+  "coordinates": {
+    "latitude": 36.36330604553223,
+    "longitude": -95.83686828613281
+  },
+  "website": "https://collinsvillefirstassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=821b3ebc-d0ae-411b-a3ad-71664ad0d908&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "821b3ebc-d0ae-411b-a3ad-71664ad0d908"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "collinsvillefirstassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "731358855"
+    }
+  ],
+  "advisories": []
+}

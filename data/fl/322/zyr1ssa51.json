@@ -1,0 +1,33 @@
+{
+  "id": "zyr1ssa51",
+  "url": "https://constellation.church/zyr1ssa51",
+  "name": "The District Church",
+  "displayName": "The District Church",
+  "address": {
+    "street": "2363 Blanding Blvd",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32210"
+  },
+  "coordinates": {
+    "latitude": 30.275869369506836,
+    "longitude": -81.730224609375
+  },
+  "website": "https://thedistrictchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/the-district-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-district-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thedistrictchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460905561"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vrwt2jk46",
+  "url": "https://constellation.church/vrwt2jk46",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "27 S Edgelawn Dr",
+    "city": "Aurora",
+    "state": "IL",
+    "zip": "60506-4301"
+  },
+  "coordinates": {
+    "latitude": 41.7635498046875,
+    "longitude": -88.35937118530273
+  },
+  "website": "https://stmarksaurora.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0e3b61d8-be7e-45f8-b5c5-40ae819abe66",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0e3b61d8-be7e-45f8-b5c5-40ae819abe66"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarksaurora.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362809480"
+    }
+  ],
+  "advisories": []
+}

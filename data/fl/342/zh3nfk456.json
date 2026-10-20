@@ -1,0 +1,33 @@
+{
+  "id": "zh3nfk456",
+  "url": "https://constellation.church/zh3nfk456",
+  "name": "Friendship Baptist Church",
+  "displayName": "Friendship Baptist Church",
+  "address": {
+    "street": "5700 Palmer Blvd",
+    "city": "Sarasota",
+    "state": "FL",
+    "zip": "34232"
+  },
+  "coordinates": {
+    "latitude": 27.326416015625,
+    "longitude": -82.45523071289062
+  },
+  "website": "https://friendship-church-sarasota.edan.io",
+  "listingUrl": "https://churches.sbc.net/church/friendship-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "friendship-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "friendship-church-sarasota.edan.io"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592372566"
+    }
+  ],
+  "advisories": []
+}

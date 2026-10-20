@@ -1,0 +1,33 @@
+{
+  "id": "vpk5cne79",
+  "url": "https://constellation.church/vpk5cne79",
+  "name": "Bixby Church",
+  "displayName": "Bixby Church",
+  "address": {
+    "street": "12 W Dawes Ave",
+    "city": "Bixby",
+    "state": "OK",
+    "zip": "74008"
+  },
+  "coordinates": {
+    "latitude": 35.94228935241699,
+    "longitude": -95.88378143310547
+  },
+  "website": "https://bixby.church",
+  "listingUrl": "https://churches.sbc.net/church/bixby-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bixby-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bixby.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "843879212"
+    }
+  ],
+  "advisories": []
+}

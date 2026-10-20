@@ -1,0 +1,33 @@
+{
+  "id": "qrarr8z55",
+  "url": "https://constellation.church/qrarr8z55",
+  "name": "Ecclesia Houston",
+  "displayName": "Ecclesia Houston",
+  "address": {
+    "street": "1100 Elder St",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77007"
+  },
+  "coordinates": {
+    "latitude": 29.768665313720703,
+    "longitude": -95.36717987060547
+  },
+  "website": "https://ecclesiahouston.org",
+  "listingUrl": "https://churches.sbc.net/church/ecclesia-houston/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "ecclesia-houston"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ecclesiahouston.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760618275"
+    }
+  ],
+  "advisories": []
+}

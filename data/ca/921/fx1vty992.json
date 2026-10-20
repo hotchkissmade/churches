@@ -1,0 +1,33 @@
+{
+  "id": "fx1vty992",
+  "url": "https://constellation.church/fx1vty992",
+  "name": "Christ Episcopal Church",
+  "displayName": "Christ Episcopal Church",
+  "address": {
+    "street": "1114 Ninth St",
+    "city": "Coronado",
+    "state": "CA",
+    "zip": "92118-2602"
+  },
+  "coordinates": {
+    "latitude": 32.686723709106445,
+    "longitude": -117.17817687988281
+  },
+  "website": "https://christchurchcoronado.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-san-diego/list/christ-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-san-diego/christ-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christchurchcoronado.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951866088"
+    }
+  ],
+  "advisories": []
+}

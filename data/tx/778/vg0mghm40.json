@@ -1,0 +1,33 @@
+{
+  "id": "vg0mghm40",
+  "url": "https://constellation.church/vg0mghm40",
+  "name": "First Baptist Church, Madisonville",
+  "displayName": "First Baptist Church, Madisonville",
+  "address": {
+    "street": "300 S Elm St",
+    "city": "Madisonville",
+    "state": "TX",
+    "zip": "77864"
+  },
+  "coordinates": {
+    "latitude": 30.94754409790039,
+    "longitude": -95.91404724121094
+  },
+  "website": "https://madisonvillefbc.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-madisonville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-madisonville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "madisonvillefbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741310193"
+    }
+  ],
+  "advisories": []
+}

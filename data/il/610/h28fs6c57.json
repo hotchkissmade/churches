@@ -1,0 +1,33 @@
+{
+  "id": "h28fs6c57",
+  "url": "https://constellation.church/h28fs6c57",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "1305 Blackhawk Blvd",
+    "city": "South Beloit",
+    "state": "IL",
+    "zip": "61080-2225"
+  },
+  "coordinates": {
+    "latitude": 42.480430603027344,
+    "longitude": -89.04252624511719
+  },
+  "website": "https://faithlutheransouthbeloit.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fa7208c6-a349-49f7-a256-658c4c6406f6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fa7208c6-a349-49f7-a256-658c4c6406f6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithlutheransouthbeloit.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362831703"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hq668g787",
+  "url": "https://constellation.church/hq668g787",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "11500 State Highway 155 Frankston",
+    "city": null,
+    "state": "TX",
+    "zip": "75763"
+  },
+  "coordinates": {
+    "latitude": 32.08449363708496,
+    "longitude": -95.497802734375
+  },
+  "website": "https://frankstonassembly.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f22d2059-d519-4d62-8f8e-4a8ad4b2e404&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f22d2059-d519-4d62-8f8e-4a8ad4b2e404"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "frankstonassembly.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751851730"
+    }
+  ],
+  "advisories": []
+}

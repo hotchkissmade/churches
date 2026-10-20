@@ -1,0 +1,33 @@
+{
+  "id": "rxsydqm27",
+  "url": "https://constellation.church/rxsydqm27",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "2022 E 2nd St",
+    "city": "Superior",
+    "state": "WI",
+    "zip": "54880-3602"
+  },
+  "coordinates": {
+    "latitude": 46.70775604248047,
+    "longitude": -92.04948043823242
+  },
+  "website": "https://zionsuperior.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f309052b-c9b4-45a5-a0fa-2246c32d779b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f309052b-c9b4-45a5-a0fa-2246c32d779b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionsuperior.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391347181"
+    }
+  ],
+  "advisories": []
+}

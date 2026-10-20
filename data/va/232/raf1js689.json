@@ -1,0 +1,33 @@
+{
+  "id": "raf1js689",
+  "url": "https://constellation.church/raf1js689",
+  "name": "Fort Lee Baptist Church",
+  "displayName": "Fort Lee Baptist Church",
+  "address": {
+    "street": "2727 Charles City Rd",
+    "city": "Henrico",
+    "state": "VA",
+    "zip": "23231"
+  },
+  "coordinates": {
+    "latitude": 37.502641677856445,
+    "longitude": -77.3488998413086
+  },
+  "website": "https://fortleebaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/fort-lee-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "fort-lee-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fortleebaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540858411"
+    }
+  ],
+  "advisories": []
+}

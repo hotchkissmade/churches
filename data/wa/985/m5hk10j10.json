@@ -1,0 +1,33 @@
+{
+  "id": "m5hk10j10",
+  "url": "https://constellation.church/m5hk10j10",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "1209 N Scheuber Rd",
+    "city": "Centralia",
+    "state": "WA",
+    "zip": "98531-1672"
+  },
+  "coordinates": {
+    "latitude": 46.73093032836914,
+    "longitude": -122.99382781982422
+  },
+  "website": "https://ilccentralia.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=513a621c-9f71-4e88-8c33-9df455f7a168",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "513a621c-9f71-4e88-8c33-9df455f7a168"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ilccentralia.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "916048407"
+    }
+  ],
+  "advisories": []
+}

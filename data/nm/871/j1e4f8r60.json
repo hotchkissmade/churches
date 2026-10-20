@@ -1,0 +1,33 @@
+{
+  "id": "j1e4f8r60",
+  "url": "https://constellation.church/j1e4f8r60",
+  "name": "Awaken Church",
+  "displayName": "Awaken Church",
+  "address": {
+    "street": "6090 Zenith Ct NE",
+    "city": "Rio Rancho",
+    "state": "NM",
+    "zip": "87144"
+  },
+  "coordinates": {
+    "latitude": 35.276315689086914,
+    "longitude": -106.61222839355469
+  },
+  "website": "https://awakennm.church",
+  "listingUrl": "https://churches.sbc.net/church/awaken-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "awaken-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "awakennm.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "851605328"
+    }
+  ],
+  "advisories": []
+}

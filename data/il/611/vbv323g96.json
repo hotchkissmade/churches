@@ -1,0 +1,33 @@
+{
+  "id": "vbv323g96",
+  "url": "https://constellation.church/vbv323g96",
+  "name": "Emmanuel Lutheran Church",
+  "displayName": "Emmanuel Lutheran Church",
+  "address": {
+    "street": "920 3rd Ave",
+    "city": "Rockford",
+    "state": "IL",
+    "zip": "61104-2120"
+  },
+  "coordinates": {
+    "latitude": 42.2640438079834,
+    "longitude": -89.08283233642578
+  },
+  "website": "https://elcrockford.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b6dce3c6-c8cb-46bd-8cdd-6401ca2be5fc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b6dce3c6-c8cb-46bd-8cdd-6401ca2be5fc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elcrockford.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362222681"
+    }
+  ],
+  "advisories": []
+}

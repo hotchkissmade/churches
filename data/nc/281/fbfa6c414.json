@@ -1,0 +1,33 @@
+{
+  "id": "fbfa6c414",
+  "url": "https://constellation.church/fbfa6c414",
+  "name": "Calvary Lutheran Church",
+  "displayName": "Calvary Lutheran Church",
+  "address": {
+    "street": "303 5th St",
+    "city": "Spencer",
+    "state": "NC",
+    "zip": "28159-2129"
+  },
+  "coordinates": {
+    "latitude": 35.69072723388672,
+    "longitude": -80.43749237060547
+  },
+  "website": "https://calvarylutheranspencer.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a041c4e5-bdfb-42f8-aaeb-072a0d947793",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a041c4e5-bdfb-42f8-aaeb-072a0d947793"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "calvarylutheranspencer.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560994475"
+    }
+  ],
+  "advisories": []
+}

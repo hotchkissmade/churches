@@ -1,0 +1,33 @@
+{
+  "id": "bt4mkky31",
+  "url": "https://constellation.church/bt4mkky31",
+  "name": "Hope Lutheran Church",
+  "displayName": "Hope Lutheran Church",
+  "address": {
+    "street": "204 Elm Ave",
+    "city": "Moose Lake",
+    "state": "MN",
+    "zip": "55767"
+  },
+  "coordinates": {
+    "latitude": 46.45220184326172,
+    "longitude": -92.76194763183594
+  },
+  "website": "https://hopeofmooselake.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=13499b35-bb2a-49ee-b6cf-8a54686894ec",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "13499b35-bb2a-49ee-b6cf-8a54686894ec"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopeofmooselake.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410903158"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sandbec83",
+  "url": "https://constellation.church/sandbec83",
+  "name": "Calvary Assembly of God of DeMotte",
+  "displayName": "Calvary Assembly of God of DeMotte",
+  "address": {
+    "street": "1317 15th St SE",
+    "city": "DeMotte",
+    "state": "IN",
+    "zip": "46310"
+  },
+  "coordinates": {
+    "latitude": 41.187211990356445,
+    "longitude": -87.18038177490234
+  },
+  "website": "https://demottecalvary.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=da99e20b-ea4f-46b3-ad35-f57358b0a3c4&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "da99e20b-ea4f-46b3-ad35-f57358b0a3c4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "demottecalvary.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351570004"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mgr9rjj67",
+  "url": "https://constellation.church/mgr9rjj67",
+  "name": "Foothills So. Baptist Church",
+  "displayName": "Foothills So. Baptist Church",
+  "address": {
+    "street": "6405 W Cheyenne Ave",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89108"
+  },
+  "coordinates": {
+    "latitude": 36.21621513366699,
+    "longitude": -115.23424530029297
+  },
+  "website": "https://foothillsbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/foothills-so-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "foothills-so-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "foothillsbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "880254008"
+    }
+  ],
+  "advisories": []
+}

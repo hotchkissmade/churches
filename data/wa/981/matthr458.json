@@ -1,0 +1,33 @@
+{
+  "id": "matthr458",
+  "url": "https://constellation.church/matthr458",
+  "name": "St. Luke's, Seattle",
+  "displayName": "St. Luke's, Seattle",
+  "address": {
+    "street": "5710 22nd Ave NW",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98107-3144"
+  },
+  "coordinates": {
+    "latitude": 47.67055892944336,
+    "longitude": -122.38459014892578
+  },
+  "website": "https://stlukesseattle.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-olympia/list/st-lukes-episcopal-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-olympia/st-lukes-episcopal-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesseattle.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910673080"
+    }
+  ],
+  "advisories": []
+}

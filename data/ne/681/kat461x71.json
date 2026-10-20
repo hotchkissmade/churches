@@ -1,0 +1,33 @@
+{
+  "id": "kat461x71",
+  "url": "https://constellation.church/kat461x71",
+  "name": "Collective Church",
+  "displayName": "Collective Church",
+  "address": {
+    "street": "16420 Burdette Cir",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68116"
+  },
+  "coordinates": {
+    "latitude": 41.25037384033203,
+    "longitude": -96.14063262939453
+  },
+  "website": "https://collectiveomaha.com/privacy-policy",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ea3fe5fe-2a9f-4cc2-8b3c-e5236aeda723&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ea3fe5fe-2a9f-4cc2-8b3c-e5236aeda723"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "collectiveomaha.com/privacy-policy"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "845150722"
+    }
+  ],
+  "advisories": []
+}

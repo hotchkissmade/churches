@@ -1,0 +1,33 @@
+{
+  "id": "v9jth6y86",
+  "url": "https://constellation.church/v9jth6y86",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "1500 Glen Ave",
+    "city": "Folcroft",
+    "state": "PA",
+    "zip": "19032-1021"
+  },
+  "coordinates": {
+    "latitude": 39.90324020385742,
+    "longitude": -75.27893447875977
+  },
+  "website": "https://stjohnslutheranfolcroft.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4c846fbb-ca8b-4575-b8cd-13138bd3aa7f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4c846fbb-ca8b-4575-b8cd-13138bd3aa7f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnslutheranfolcroft.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232159160"
+    }
+  ],
+  "advisories": []
+}

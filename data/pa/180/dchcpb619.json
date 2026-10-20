@@ -1,0 +1,33 @@
+{
+  "id": "dchcpb619",
+  "url": "https://constellation.church/dchcpb619",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "5900 Applebutter Hill Rd",
+    "city": "Coopersburg",
+    "state": "PA",
+    "zip": "18036-9502"
+  },
+  "coordinates": {
+    "latitude": 40.5157356262207,
+    "longitude": -75.41724014282227
+  },
+  "website": "https://stpaulsbluchurch.org/history",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0c610cef-417a-4434-998b-cc854663cddf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0c610cef-417a-4434-998b-cc854663cddf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsbluchurch.org/history"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231666605"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kd1nw0792",
+  "url": "https://constellation.church/kd1nw0792",
+  "name": "Bethany Lutheran Church",
+  "displayName": "Bethany Lutheran Church",
+  "address": {
+    "street": "200 3rd Ave",
+    "city": "Altoona",
+    "state": "PA",
+    "zip": "16602-3928"
+  },
+  "coordinates": {
+    "latitude": 40.52043914794922,
+    "longitude": -78.38540267944336
+  },
+  "website": "https://bethanylutheranchurch.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8be7cff9-6258-4ed5-821c-5c4c8f464376",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8be7cff9-6258-4ed5-821c-5c4c8f464376"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanylutheranchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231457969"
+    }
+  ],
+  "advisories": []
+}

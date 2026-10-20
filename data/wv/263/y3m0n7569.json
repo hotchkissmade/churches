@@ -1,0 +1,37 @@
+{
+  "id": "y3m0n7569",
+  "url": "https://constellation.church/y3m0n7569",
+  "name": "Church of the Covenant Lutheran Church",
+  "displayName": "Church of the Covenant Lutheran Church",
+  "address": {
+    "street": "16 E Washington St",
+    "city": "Grafton",
+    "state": "WV",
+    "zip": "26354-1327"
+  },
+  "coordinates": {
+    "latitude": 39.34152030944824,
+    "longitude": -80.01810073852539
+  },
+  "website": "https://covenantgrafton.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5607c5f0-c336-4fd7-88d4-28f77de75795",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5607c5f0-c336-4fd7-88d4-28f77de75795"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covenantgrafton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "550624745"
+    },
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "9217"
+    }
+  ],
+  "advisories": []
+}

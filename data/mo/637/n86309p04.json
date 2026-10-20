@@ -1,0 +1,33 @@
+{
+  "id": "n86309p04",
+  "url": "https://constellation.church/n86309p04",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "1900 Cape Lacroix Rd",
+    "city": "Cape Girardeau",
+    "state": "MO",
+    "zip": "63701-9602"
+  },
+  "coordinates": {
+    "latitude": 37.33726501464844,
+    "longitude": -89.57261276245117
+  },
+  "website": "https://stmarklutherancape.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=616c9490-2021-4ffa-b454-c2b9019e3468",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "616c9490-2021-4ffa-b454-c2b9019e3468"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarklutherancape.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431305297"
+    }
+  ],
+  "advisories": []
+}

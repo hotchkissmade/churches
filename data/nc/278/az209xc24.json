@@ -1,0 +1,33 @@
+{
+  "id": "az209xc24",
+  "url": "https://constellation.church/az209xc24",
+  "name": "West Nash United Methodist Church",
+  "displayName": "West Nash United Methodist Church",
+  "address": {
+    "street": "2200 Nash St N",
+    "city": "Wilson",
+    "state": "NC",
+    "zip": "27896-1729"
+  },
+  "coordinates": {
+    "latitude": 35.75400352478027,
+    "longitude": -77.93070220947266
+  },
+  "website": "https://westnash.org/missions/west-nash-thrift-store",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF27SIAT",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF27SIAT"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westnash.org/missions/west-nash-thrift-store"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "566047906"
+    }
+  ],
+  "advisories": []
+}

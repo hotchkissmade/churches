@@ -1,0 +1,33 @@
+{
+  "id": "gs1tnad14",
+  "url": "https://constellation.church/gs1tnad14",
+  "name": "Rock Point Church",
+  "displayName": "Rock Point Church",
+  "address": {
+    "street": "24759 S Power Rd",
+    "city": "Queen Creek",
+    "state": "AZ",
+    "zip": "85142"
+  },
+  "coordinates": {
+    "latitude": 33.224626541137695,
+    "longitude": -111.68363189697266
+  },
+  "website": "https://rockpointchurch.com",
+  "listingUrl": "https://converge.org/church/rock-point-church/",
+  "identifiers": [
+    {
+      "namespace": "org.converge.id",
+      "value": "38671"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rockpointchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "861028861"
+    }
+  ],
+  "advisories": []
+}

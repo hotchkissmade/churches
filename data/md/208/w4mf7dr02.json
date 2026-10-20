@@ -1,0 +1,33 @@
+{
+  "id": "w4mf7dr02",
+  "url": "https://constellation.church/w4mf7dr02",
+  "name": "Christ Church, Kensington",
+  "displayName": "Christ Church, Kensington",
+  "address": {
+    "street": "4001 Franklin St",
+    "city": "Kensington",
+    "state": "MD",
+    "zip": "20895-3827"
+  },
+  "coordinates": {
+    "latitude": 39.01880645751953,
+    "longitude": -77.07867050170898
+  },
+  "website": "https://christchurchkensington.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/christ-church-kensington",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/christ-church-kensington"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christchurchkensington.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520647636"
+    }
+  ],
+  "advisories": []
+}

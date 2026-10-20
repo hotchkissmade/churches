@@ -1,0 +1,33 @@
+{
+  "id": "rqyqgjf17",
+  "url": "https://constellation.church/rqyqgjf17",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "630 N Devereaux St",
+    "city": "Globe",
+    "state": "AZ",
+    "zip": "85501-1123"
+  },
+  "coordinates": {
+    "latitude": 33.4009952545166,
+    "longitude": -110.7865219116211
+  },
+  "website": "https://globelutheran.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24006",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24006"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "globelutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860386936"
+    }
+  ],
+  "advisories": []
+}

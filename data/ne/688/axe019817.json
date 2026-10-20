@@ -1,0 +1,33 @@
+{
+  "id": "axe019817",
+  "url": "https://constellation.church/axe019817",
+  "name": "Burwell Baptist Church",
+  "displayName": "Burwell Baptist Church",
+  "address": {
+    "street": "137 I Street",
+    "city": "Burwell",
+    "state": "NE",
+    "zip": "68823"
+  },
+  "coordinates": {
+    "latitude": 41.77970504760742,
+    "longitude": -99.12665557861328
+  },
+  "website": "https://burwellbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/burwell-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "burwell-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "burwellbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470737860"
+    }
+  ],
+  "advisories": []
+}

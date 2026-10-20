@@ -1,0 +1,33 @@
+{
+  "id": "xsdfqx755",
+  "url": "https://constellation.church/xsdfqx755",
+  "name": "Covenant Presbyterian Church",
+  "displayName": "Covenant Presbyterian Church",
+  "address": {
+    "street": "33 Burton Hills Boulevard",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37215"
+  },
+  "coordinates": {
+    "latitude": 36.092864990234375,
+    "longitude": -86.82514190673828
+  },
+  "website": "https://covenantpres.com/about/staff",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1302",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1302"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covenantpres.com/about/staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621444543"
+    }
+  ],
+  "advisories": []
+}

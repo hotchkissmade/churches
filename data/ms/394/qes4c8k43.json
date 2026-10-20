@@ -1,0 +1,33 @@
+{
+  "id": "qes4c8k43",
+  "url": "https://constellation.church/qes4c8k43",
+  "name": "First Baptist Church Laurel",
+  "displayName": "First Baptist Church Laurel",
+  "address": {
+    "street": "607 W 5th St",
+    "city": "Laurel",
+    "state": "MS",
+    "zip": "39440"
+  },
+  "coordinates": {
+    "latitude": 31.69489288330078,
+    "longitude": -89.13361740112305
+  },
+  "website": "https://fbclaurel.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-laurel/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-laurel"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbclaurel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "646000113"
+    }
+  ],
+  "advisories": []
+}

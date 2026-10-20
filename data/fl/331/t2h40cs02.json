@@ -1,0 +1,33 @@
+{
+  "id": "t2h40cs02",
+  "url": "https://constellation.church/t2h40cs02",
+  "name": "Iglesia Bautista Getsemani",
+  "displayName": "Iglesia Bautista Getsemani",
+  "address": {
+    "street": "5298 NW 7th St",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33126"
+  },
+  "coordinates": {
+    "latitude": 25.77786636352539,
+    "longitude": -80.28182220458984
+  },
+  "website": "https://iglesiagetsemani.com",
+  "listingUrl": "https://churches.sbc.net/church/iglesia-bautista-getsemani/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "iglesia-bautista-getsemani"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "iglesiagetsemani.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592226611"
+    }
+  ],
+  "advisories": []
+}

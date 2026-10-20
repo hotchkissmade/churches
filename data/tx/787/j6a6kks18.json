@@ -1,0 +1,33 @@
+{
+  "id": "j6a6kks18",
+  "url": "https://constellation.church/j6a6kks18",
+  "name": "St. John's Episcopal Church",
+  "displayName": "St. John's Episcopal Church",
+  "address": {
+    "street": "11201 Parkfield Dr",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78758-4264"
+  },
+  "coordinates": {
+    "latitude": 30.38550567626953,
+    "longitude": -97.69546508789062
+  },
+  "website": "https://austinstjohns.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-texas/list/st-johns-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-texas/st-johns-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "austinstjohns.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742302616"
+    }
+  ],
+  "advisories": []
+}

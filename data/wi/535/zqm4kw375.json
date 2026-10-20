@@ -1,0 +1,33 @@
+{
+  "id": "zqm4kw375",
+  "url": "https://constellation.church/zqm4kw375",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "310 E Washington St",
+    "city": "Stoughton",
+    "state": "WI",
+    "zip": "53589-1740"
+  },
+  "coordinates": {
+    "latitude": 42.91780471801758,
+    "longitude": -89.21717071533203
+  },
+  "website": "https://flcstoughton.com/history",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=da1a0c85-7405-4e38-9e3b-5c1576604d3b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "da1a0c85-7405-4e38-9e3b-5c1576604d3b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcstoughton.com/history"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391840749"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "znp45by63",
+  "url": "https://constellation.church/znp45by63",
+  "name": "First Baptist Church of Port Orchard, Inc.",
+  "displayName": "First Baptist Church of Port Orchard",
+  "address": {
+    "street": "2308 Sidney Ave",
+    "city": "PORT ORCHARD",
+    "state": "WA",
+    "zip": "98366"
+  },
+  "coordinates": {
+    "latitude": 47.51371383666992,
+    "longitude": -122.64979553222656
+  },
+  "website": "https://fbcpo.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-port-orchard-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-port-orchard-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcpo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910935615"
+    }
+  ],
+  "advisories": []
+}

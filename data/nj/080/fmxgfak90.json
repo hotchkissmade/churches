@@ -1,0 +1,33 @@
+{
+  "id": "fmxgfak90",
+  "url": "https://constellation.church/fmxgfak90",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "214 E Malaga Rd",
+    "city": "Williamstown",
+    "state": "NJ",
+    "zip": "08094"
+  },
+  "coordinates": {
+    "latitude": 39.66476631164551,
+    "longitude": -74.96209716796875
+  },
+  "website": "https://williamstownag.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=565299d9-f743-4220-b468-47548a251f71&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "565299d9-f743-4220-b468-47548a251f71"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "williamstownag.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "223062729"
+    }
+  ],
+  "advisories": []
+}

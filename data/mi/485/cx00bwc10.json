@@ -1,0 +1,33 @@
+{
+  "id": "cx00bwc10",
+  "url": "https://constellation.church/cx00bwc10",
+  "name": "St. Nicholas Church",
+  "displayName": "St. Nicholas Church",
+  "address": {
+    "street": "2143 S Center Rd",
+    "city": "Burton",
+    "state": "MI",
+    "zip": "48519"
+  },
+  "coordinates": {
+    "latitude": 43.000221252441406,
+    "longitude": -83.63374328613281
+  },
+  "website": "https://saintnicholasburton.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-bu-brtsnc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-bu-brtsnc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintnicholasburton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381329032"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rj6negv15",
+  "url": "https://constellation.church/rj6negv15",
+  "name": "New City Church of Wilmington",
+  "displayName": "New City Church of Wilmington",
+  "address": {
+    "street": "201 Hawthorne Dr",
+    "city": "Wilmington",
+    "state": "DE",
+    "zip": "19802"
+  },
+  "coordinates": {
+    "latitude": 39.7642879486084,
+    "longitude": -75.51910018920898
+  },
+  "website": "https://newcityde.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=06ab316b-2bfa-4a24-9832-68c37ffb51a6&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "06ab316b-2bfa-4a24-9832-68c37ffb51a6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newcityde.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "516021239"
+    }
+  ],
+  "advisories": []
+}

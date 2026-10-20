@@ -1,0 +1,33 @@
+{
+  "id": "spvzsec12",
+  "url": "https://constellation.church/spvzsec12",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "634 Alden Dr",
+    "city": "Auburn",
+    "state": "NE",
+    "zip": "68305-3013"
+  },
+  "coordinates": {
+    "latitude": 40.38152885437012,
+    "longitude": -95.83515167236328
+  },
+  "website": "https://trinityaubne.org",
+  "listingUrl": "https://locator.lcms.org/church/C/42543",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "42543"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityaubne.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "476037664"
+    }
+  ],
+  "advisories": []
+}

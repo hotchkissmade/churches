@@ -1,0 +1,33 @@
+{
+  "id": "q3v0m1k71",
+  "url": "https://constellation.church/q3v0m1k71",
+  "name": "Jefferson Park Baptist Church",
+  "displayName": "Jefferson Park Baptist Church",
+  "address": {
+    "street": "2505 Jefferson Park Ave",
+    "city": "Charlottesville",
+    "state": "VA",
+    "zip": "22903"
+  },
+  "coordinates": {
+    "latitude": 38.01944923400879,
+    "longitude": -78.51551818847656
+  },
+  "website": "https://jpbc.org",
+  "listingUrl": "https://churches.sbc.net/church/jefferson-park-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "jefferson-park-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jpbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540719565"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a0f5c7857",
+  "url": "https://constellation.church/a0f5c7857",
+  "name": "Metro Community Church",
+  "displayName": "Metro Community Church",
+  "address": {
+    "street": "3551 Ridge View Rd",
+    "city": "Edwardsville",
+    "state": "IL",
+    "zip": "62025"
+  },
+  "coordinates": {
+    "latitude": 38.786190032958984,
+    "longitude": -89.91487121582031
+  },
+  "website": "https://metrocommunitychurch.com",
+  "listingUrl": "https://churches.sbc.net/church/metro-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "metro-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "metrocommunitychurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "364133770"
+    }
+  ],
+  "advisories": []
+}

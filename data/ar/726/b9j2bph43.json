@@ -1,0 +1,33 @@
+{
+  "id": "b9j2bph43",
+  "url": "https://constellation.church/b9j2bph43",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "200 Westwood Dr",
+    "city": "Marshall",
+    "state": "AR",
+    "zip": "72650"
+  },
+  "coordinates": {
+    "latitude": 35.91131019592285,
+    "longitude": -92.66072082519531
+  },
+  "website": "https://marshallassembly.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=04d48cc1-b1f9-4a48-935f-d3d9ce31a92c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "04d48cc1-b1f9-4a48-935f-d3d9ce31a92c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "marshallassembly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "710566921"
+    }
+  ],
+  "advisories": []
+}

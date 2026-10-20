@@ -1,0 +1,33 @@
+{
+  "id": "s3fn6r273",
+  "url": "https://constellation.church/s3fn6r273",
+  "name": "Lutheran Church of the Master",
+  "displayName": "Lutheran Church of the Master",
+  "address": {
+    "street": "4800 N Ramsey Rd",
+    "city": "Coeur D Alene",
+    "state": "ID",
+    "zip": "83815-8401"
+  },
+  "coordinates": {
+    "latitude": 47.71635437011719,
+    "longitude": -116.80726623535156
+  },
+  "website": "https://lcmcda.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2f702767-5c13-445b-adbf-b207659687ba",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2f702767-5c13-445b-adbf-b207659687ba"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcmcda.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820346466"
+    }
+  ],
+  "advisories": []
+}

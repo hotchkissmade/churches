@@ -1,0 +1,33 @@
+{
+  "id": "s8kp96945",
+  "url": "https://constellation.church/s8kp96945",
+  "name": "Nahnum Church",
+  "displayName": "Nahnum Church",
+  "address": {
+    "street": "4561 N Josey Ln",
+    "city": "Carrollton",
+    "state": "TX",
+    "zip": "75010"
+  },
+  "coordinates": {
+    "latitude": 33.03620719909668,
+    "longitude": -96.8857192993164
+  },
+  "website": "https://nahnumchurch.org/en/home",
+  "listingUrl": "https://churches.sbc.net/church/nahnum-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "nahnum-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nahnumchurch.org/en/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "200950931"
+    }
+  ],
+  "advisories": []
+}

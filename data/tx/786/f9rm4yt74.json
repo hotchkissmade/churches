@@ -1,0 +1,33 @@
+{
+  "id": "f9rm4yt74",
+  "url": "https://constellation.church/f9rm4yt74",
+  "name": "Church of the Annunciation",
+  "displayName": "Church of the Annunciation",
+  "address": {
+    "street": "301 S Walnut Ave",
+    "city": "Luling",
+    "state": "TX",
+    "zip": "78648-2925"
+  },
+  "coordinates": {
+    "latitude": 29.67847442626953,
+    "longitude": -97.65192413330078
+  },
+  "website": "https://episcopalluling.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-texas/list/church-annunciation",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-texas/church-annunciation"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "episcopalluling.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742523999"
+    }
+  ],
+  "advisories": []
+}

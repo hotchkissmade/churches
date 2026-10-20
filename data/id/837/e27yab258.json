@@ -1,0 +1,33 @@
+{
+  "id": "e27yab258",
+  "url": "https://constellation.church/e27yab258",
+  "name": "Log Cabin Church",
+  "displayName": "Log Cabin Church",
+  "address": {
+    "street": "700 E. Bannock",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83712"
+  },
+  "coordinates": {
+    "latitude": 43.610164642333984,
+    "longitude": -116.18690490722656
+  },
+  "website": "https://logcabinubchurch.org",
+  "listingUrl": "https://ub.org/churches/find-a-church/log-cabin-church",
+  "identifiers": [
+    {
+      "namespace": "org.ub.id",
+      "value": "log-cabin-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "logcabinubchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820371060"
+    }
+  ],
+  "advisories": []
+}

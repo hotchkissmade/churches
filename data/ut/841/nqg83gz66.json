@@ -1,0 +1,33 @@
+{
+  "id": "nqg83gz66",
+  "url": "https://constellation.church/nqg83gz66",
+  "name": "St. Stephen's Episcopal Church",
+  "displayName": "St. Stephen's Episcopal Church",
+  "address": {
+    "street": "4615 S 3200 W",
+    "city": "West Valley City",
+    "state": "UT",
+    "zip": "84119-5943"
+  },
+  "coordinates": {
+    "latitude": 40.67013359069824,
+    "longitude": -111.96697235107422
+  },
+  "website": "https://ststephenswvc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-utah/list/st-stephens-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-utah/st-stephens-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ststephenswvc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "870468689"
+    }
+  ],
+  "advisories": []
+}

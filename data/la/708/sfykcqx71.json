@@ -1,0 +1,33 @@
+{
+  "id": "sfykcqx71",
+  "url": "https://constellation.church/sfykcqx71",
+  "name": "First Baptist Church, Central",
+  "displayName": "First Baptist Church, Central",
+  "address": {
+    "street": "9676 Sullivan Rd",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70818"
+  },
+  "coordinates": {
+    "latitude": 30.537221908569336,
+    "longitude": -91.02762603759766
+  },
+  "website": "https://firstbaptistcentral.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-central/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-central"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistcentral.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720779752"
+    }
+  ],
+  "advisories": []
+}

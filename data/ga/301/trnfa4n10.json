@@ -1,0 +1,33 @@
+{
+  "id": "trnfa4n10",
+  "url": "https://constellation.church/trnfa4n10",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "519 Main Street",
+    "city": "Villa Rica",
+    "state": "GA",
+    "zip": "30180"
+  },
+  "coordinates": {
+    "latitude": 33.734968185424805,
+    "longitude": -84.92161560058594
+  },
+  "website": "https://firstpresbyterianvr.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1321",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1321"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpresbyterianvr.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "582094166"
+    }
+  ],
+  "advisories": []
+}

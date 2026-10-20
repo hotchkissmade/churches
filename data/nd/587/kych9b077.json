@@ -1,0 +1,33 @@
+{
+  "id": "kych9b077",
+  "url": "https://constellation.church/kych9b077",
+  "name": "Trinity Church",
+  "displayName": "Trinity Church",
+  "address": {
+    "street": "3500 4th St SW",
+    "city": "Minot",
+    "state": "ND",
+    "zip": "58701-7304"
+  },
+  "coordinates": {
+    "latitude": 48.1987419128418,
+    "longitude": -101.29936981201172
+  },
+  "website": "https://trinitychurchminot.org",
+  "listingUrl": "https://churches.efca.org/?id=12817",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12817"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitychurchminot.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450393628"
+    }
+  ],
+  "advisories": []
+}

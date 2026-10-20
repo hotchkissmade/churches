@@ -1,0 +1,33 @@
+{
+  "id": "k6b31z220",
+  "url": "https://constellation.church/k6b31z220",
+  "name": "Covenant Presbyterian Church",
+  "displayName": "Covenant Presbyterian Church",
+  "address": {
+    "street": "65 Old Montgomery Highway",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35209"
+  },
+  "coordinates": {
+    "latitude": 33.4639949798584,
+    "longitude": -86.78217315673828
+  },
+  "website": "https://covpres.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/254",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "254"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covpres.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630753393"
+    }
+  ],
+  "advisories": []
+}

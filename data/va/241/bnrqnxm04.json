@@ -1,0 +1,33 @@
+{
+  "id": "bnrqnxm04",
+  "url": "https://constellation.church/bnrqnxm04",
+  "name": "First Baptist Church, Ridgeway",
+  "displayName": "First Baptist Church, Ridgeway",
+  "address": {
+    "street": "15 CHURCH STREET",
+    "city": "RIDGEWAY",
+    "state": "VA",
+    "zip": "24148"
+  },
+  "coordinates": {
+    "latitude": 36.57632637023926,
+    "longitude": -79.85892105102539
+  },
+  "website": "https://churchofridgeway.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-ridgeway-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-ridgeway-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchofridgeway.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541289858"
+    }
+  ],
+  "advisories": []
+}

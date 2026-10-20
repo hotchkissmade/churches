@@ -1,0 +1,33 @@
+{
+  "id": "epva6vv06",
+  "url": "https://constellation.church/epva6vv06",
+  "name": "Church of Living Water",
+  "displayName": "Church of Living Water",
+  "address": {
+    "street": "24498 Highway 65",
+    "city": "Warsaw",
+    "state": "MO",
+    "zip": "65355"
+  },
+  "coordinates": {
+    "latitude": 38.33209800720215,
+    "longitude": -93.34117889404297
+  },
+  "website": "https://theclw.org",
+  "listingUrl": "https://churches.sbc.net/church/church-of-living-water/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "church-of-living-water"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "theclw.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460573813"
+    }
+  ],
+  "advisories": []
+}

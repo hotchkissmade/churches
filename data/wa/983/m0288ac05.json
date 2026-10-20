@@ -1,0 +1,33 @@
+{
+  "id": "m0288ac05",
+  "url": "https://constellation.church/m0288ac05",
+  "name": "Kitsap Lake Baptist Church",
+  "displayName": "Kitsap Lake Baptist Church",
+  "address": {
+    "street": "5802 Wilmont St",
+    "city": "Bremerton",
+    "state": "WA",
+    "zip": "98312"
+  },
+  "coordinates": {
+    "latitude": 47.57029724121094,
+    "longitude": -122.69193267822266
+  },
+  "website": "https://kitsaplakebaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/kitsap-lake-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "kitsap-lake-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kitsaplakebaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521036412"
+    }
+  ],
+  "advisories": []
+}

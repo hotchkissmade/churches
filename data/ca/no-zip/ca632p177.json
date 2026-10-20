@@ -1,0 +1,33 @@
+{
+  "id": "ca632p177",
+  "url": "https://constellation.church/ca632p177",
+  "name": "MCC San Diego",
+  "displayName": "Metropolitan Community Church San Diego",
+  "address": {
+    "street": "2633 Denver St",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 32.7899112701416,
+    "longitude": -117.20301055908203
+  },
+  "website": "https://themetchurch.org",
+  "listingUrl": "https://visitmccchurch.com/our-churches/mcc-churches-in-the-united-states/mcc-churches-in-ca/mcc-san-diego/",
+  "identifiers": [
+    {
+      "namespace": "com.visitmccchurch.id",
+      "value": "CA/mcc-san-diego"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "themetchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952673301"
+    }
+  ],
+  "advisories": []
+}

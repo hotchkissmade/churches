@@ -1,0 +1,33 @@
+{
+  "id": "m1jsr5311",
+  "url": "https://constellation.church/m1jsr5311",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "930 N. High St.",
+    "city": "Waterford",
+    "state": "PA",
+    "zip": "16441"
+  },
+  "coordinates": {
+    "latitude": 41.95114517211914,
+    "longitude": -79.99000930786133
+  },
+  "website": "https://stmarkslutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=74b66b16-d209-4cd9-a19d-b4ab0b93d63a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "74b66b16-d209-4cd9-a19d-b4ab0b93d63a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkslutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251479524"
+    }
+  ],
+  "advisories": []
+}

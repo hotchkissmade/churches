@@ -1,0 +1,33 @@
+{
+  "id": "b6z379n80",
+  "url": "https://constellation.church/b6z379n80",
+  "name": "St. Thomas Church",
+  "displayName": "St. Thomas Church",
+  "address": {
+    "street": "50 E Bagley Rd",
+    "city": "Berea",
+    "state": "OH",
+    "zip": "44017-2009"
+  },
+  "coordinates": {
+    "latitude": 41.372413635253906,
+    "longitude": -81.85115051269531
+  },
+  "website": "https://stthomaschurch-berea.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-ohio/list/church-st-thomas",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-ohio/church-st-thomas"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stthomaschurch-berea.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340921959"
+    }
+  ],
+  "advisories": []
+}

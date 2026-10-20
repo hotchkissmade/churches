@@ -1,0 +1,33 @@
+{
+  "id": "ncem0ep31",
+  "url": "https://constellation.church/ncem0ep31",
+  "name": "Capital Church",
+  "displayName": "Capital Church",
+  "address": {
+    "street": "1222 Troy Schenectady Rd",
+    "city": "Schenectady",
+    "state": "NY",
+    "zip": "12309"
+  },
+  "coordinates": {
+    "latitude": 42.77302169799805,
+    "longitude": -73.8255500793457
+  },
+  "website": "https://capitalchurchny.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=92f1dfbf-ef9a-46e8-b9c9-bccf4f20e517&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "92f1dfbf-ef9a-46e8-b9c9-bccf4f20e517"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "capitalchurchny.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237408772"
+    }
+  ],
+  "advisories": []
+}

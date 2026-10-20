@@ -1,0 +1,33 @@
+{
+  "id": "mce3v7t57",
+  "url": "https://constellation.church/mce3v7t57",
+  "name": "Mountain City",
+  "displayName": "Mountain City Baptist Church",
+  "address": {
+    "street": "19 Beall St",
+    "city": "Frostburg",
+    "state": "MD",
+    "zip": "21532"
+  },
+  "coordinates": {
+    "latitude": 39.65492248535156,
+    "longitude": -78.92998504638672
+  },
+  "website": "https://mountaincty.church",
+  "listingUrl": "https://churches.sbc.net/church/mountain-city/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mountain-city"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mountaincty.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521204623"
+    }
+  ],
+  "advisories": []
+}

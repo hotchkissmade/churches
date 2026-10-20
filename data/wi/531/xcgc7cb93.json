@@ -1,0 +1,33 @@
+{
+  "id": "xcgc7cb93",
+  "url": "https://constellation.church/xcgc7cb93",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "1101 Logan St",
+    "city": "Lake Geneva",
+    "state": "WI",
+    "zip": "53147-1125"
+  },
+  "coordinates": {
+    "latitude": 42.6043341,
+    "longitude": -88.4391016
+  },
+  "website": "https://firstlutheranwels.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24876",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24876"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranwels.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391232506"
+    }
+  ],
+  "advisories": []
+}

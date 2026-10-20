@@ -1,0 +1,33 @@
+{
+  "id": "q8mj6j146",
+  "url": "https://constellation.church/q8mj6j146",
+  "name": "St Martin Lutheran Church",
+  "displayName": "St. Martin Lutheran Church",
+  "address": {
+    "street": "2427 Church St",
+    "city": "Cross Plains",
+    "state": "WI",
+    "zip": "53528-9110"
+  },
+  "coordinates": {
+    "latitude": 43.11302185058594,
+    "longitude": -89.64144897460938
+  },
+  "website": "https://stmartinscp.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=39e7de63-33b3-44f2-aad2-fd753db6722a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "39e7de63-33b3-44f2-aad2-fd753db6722a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmartinscp.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391401216"
+    }
+  ],
+  "advisories": []
+}

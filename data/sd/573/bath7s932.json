@@ -1,0 +1,33 @@
+{
+  "id": "bath7s932",
+  "url": "https://constellation.church/bath7s932",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "902 S. Main St.",
+    "city": "Chamberlain",
+    "state": "SD",
+    "zip": "57325"
+  },
+  "coordinates": {
+    "latitude": 43.80347442626953,
+    "longitude": -99.33587646484375
+  },
+  "website": "https://trinity-live.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=21a47a10-02cd-41e4-bcf5-37227a3bdbd3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "21a47a10-02cd-41e4-bcf5-37227a3bdbd3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinity-live.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460370556"
+    }
+  ],
+  "advisories": []
+}

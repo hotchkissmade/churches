@@ -1,0 +1,33 @@
+{
+  "id": "c0ydh3007",
+  "url": "https://constellation.church/c0ydh3007",
+  "name": "St. Paul's Church",
+  "displayName": "St. Paul's Church",
+  "address": {
+    "street": "166 High St",
+    "city": "Newburyport",
+    "state": "MA",
+    "zip": "01950"
+  },
+  "coordinates": {
+    "latitude": 42.80979537963867,
+    "longitude": -70.8761978149414
+  },
+  "website": "https://stpauls-nbpt.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-massachusetts/list/st-pauls-church-5",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-massachusetts/st-pauls-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpauls-nbpt.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042106766"
+    }
+  ],
+  "advisories": []
+}

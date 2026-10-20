@@ -1,0 +1,33 @@
+{
+  "id": "qca6vrm29",
+  "url": "https://constellation.church/qca6vrm29",
+  "name": "St. James' Episcopal School",
+  "displayName": "St. James' Episcopal School",
+  "address": {
+    "street": "625 S. St. Andrews Place",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90005"
+  },
+  "coordinates": {
+    "latitude": 34.061184,
+    "longitude": -118.3112777
+  },
+  "website": "https://sjsla.org/preschool",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/los-angeles/list/st-james-episcopal-school",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "los-angeles/st-james-episcopal-school"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sjsla.org/preschool"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952858022"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "z8kv01813",
+  "url": "https://constellation.church/z8kv01813",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "223 W Orange St",
+    "city": "Lancaster",
+    "state": "PA",
+    "zip": "17603-3747"
+  },
+  "coordinates": {
+    "latitude": 40.03939437866211,
+    "longitude": -76.30958557128906
+  },
+  "website": "https://myredeemedlife.church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6302ac9f-b01b-4400-8dcc-b36ca67c7a10",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6302ac9f-b01b-4400-8dcc-b36ca67c7a10"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "myredeemedlife.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "842701732"
+    }
+  ],
+  "advisories": []
+}

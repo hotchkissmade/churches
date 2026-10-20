@@ -1,0 +1,33 @@
+{
+  "id": "xjks2nb44",
+  "url": "https://constellation.church/xjks2nb44",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "1502 W 13th St",
+    "city": "Wilmington",
+    "state": "DE",
+    "zip": "19806-4223"
+  },
+  "coordinates": {
+    "latitude": 39.754438400268555,
+    "longitude": -75.56216812133789
+  },
+  "website": "https://wpc.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/385/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "385"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wpc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510066745"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vc46bf056",
+  "url": "https://constellation.church/vc46bf056",
+  "name": "Christ The King Lutheran Church",
+  "displayName": "Christ The King Lutheran Church",
+  "address": {
+    "street": "104 E Simcoe Dr",
+    "city": "Goldendale",
+    "state": "WA",
+    "zip": "98620-9320"
+  },
+  "coordinates": {
+    "latitude": 45.812591552734375,
+    "longitude": -120.82202911376953
+  },
+  "website": "https://goldendalelutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dbba4b98-6a8a-464a-bab8-44b2b51a2fb0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dbba4b98-6a8a-464a-bab8-44b2b51a2fb0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goldendalelutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911086619"
+    }
+  ],
+  "advisories": []
+}

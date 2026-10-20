@@ -1,0 +1,33 @@
+{
+  "id": "cx8x8tx22",
+  "url": "https://constellation.church/cx8x8tx22",
+  "name": "Kenosha Bible Church",
+  "displayName": "Kenosha Bible Church",
+  "address": {
+    "street": "5405 67th St",
+    "city": "Kenosha",
+    "state": "WI",
+    "zip": "53142-1599"
+  },
+  "coordinates": {
+    "latitude": 42.57336235046387,
+    "longitude": -87.87330627441406
+  },
+  "website": "https://kenoshabible.org",
+  "listingUrl": "https://churches.efca.org/?id=12208",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12208"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kenoshabible.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391030168"
+    }
+  ],
+  "advisories": []
+}

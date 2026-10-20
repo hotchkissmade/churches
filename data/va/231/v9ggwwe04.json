@@ -1,0 +1,33 @@
+{
+  "id": "v9ggwwe04",
+  "url": "https://constellation.church/v9ggwwe04",
+  "name": "Manakin Episcopal Church",
+  "displayName": "Manakin Episcopal Church",
+  "address": {
+    "street": "985 Huguenot Trail",
+    "city": "Midlothian",
+    "state": "VA",
+    "zip": "23113-9224"
+  },
+  "coordinates": {
+    "latitude": 37.565290451049805,
+    "longitude": -77.70938491821289
+  },
+  "website": "https://manakin.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-southern-virginia/list/manakin-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-southern-virginia/manakin-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "manakin.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541100590"
+    }
+  ],
+  "advisories": []
+}

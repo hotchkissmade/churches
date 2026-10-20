@@ -1,0 +1,33 @@
+{
+  "id": "kngnp9s21",
+  "url": "https://constellation.church/kngnp9s21",
+  "name": "Lutheran Church Of The Abiding Presence",
+  "displayName": "Lutheran Church Of The Abiding Presence",
+  "address": {
+    "street": "6304 Lee Chapel Rd",
+    "city": "Burke",
+    "state": "VA",
+    "zip": "22015-4016"
+  },
+  "coordinates": {
+    "latitude": 38.78029823303223,
+    "longitude": -77.27766799926758
+  },
+  "website": "https://abidingpresence.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=786a4eee-69c0-45b6-8587-6406e37bcf17",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "786a4eee-69c0-45b6-8587-6406e37bcf17"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "abidingpresence.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541261733"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "f505qj249",
+  "url": "https://constellation.church/f505qj249",
+  "name": "Sweet Home Baptist Church",
+  "displayName": "Sweet Home Baptist Church",
+  "address": {
+    "street": "2430 Highway 9 W",
+    "city": "Longs",
+    "state": "SC",
+    "zip": "29568"
+  },
+  "coordinates": {
+    "latitude": 33.99965476989746,
+    "longitude": -78.75288009643555
+  },
+  "website": "https://my.simplegive.com/app/giving/shbclongs",
+  "listingUrl": "https://churches.sbc.net/church/sweet-home-baptist-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sweet-home-baptist-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "my.simplegive.com/app/giving/shbclongs"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "562012531"
+    }
+  ],
+  "advisories": []
+}

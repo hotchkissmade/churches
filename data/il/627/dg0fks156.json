@@ -1,0 +1,33 @@
+{
+  "id": "dg0fks156",
+  "url": "https://constellation.church/dg0fks156",
+  "name": "Eastview Baptist Church",
+  "displayName": "Eastview Baptist Church",
+  "address": {
+    "street": "2277 E Black Ave",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62702"
+  },
+  "coordinates": {
+    "latitude": 39.822566986083984,
+    "longitude": -89.61907196044922
+  },
+  "website": "https://eastviewbaptist.church",
+  "listingUrl": "https://churches.sbc.net/church/eastview-baptist-church-9/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "eastview-baptist-church-9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastviewbaptist.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370961487"
+    }
+  ],
+  "advisories": []
+}

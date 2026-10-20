@@ -1,0 +1,33 @@
+{
+  "id": "q6kkr4283",
+  "url": "https://constellation.church/q6kkr4283",
+  "name": "High Tide Church",
+  "displayName": "High Tide Church",
+  "address": {
+    "street": "28000 Nine Foot Rd",
+    "city": "Dagsboro",
+    "state": "DE",
+    "zip": "19939"
+  },
+  "coordinates": {
+    "latitude": 38.53823471069336,
+    "longitude": -75.26088333129883
+  },
+  "website": "https://hightidechurch.org",
+  "listingUrl": "https://churches.sbc.net/church/high-tide-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "high-tide-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hightidechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "571139547"
+    }
+  ],
+  "advisories": []
+}

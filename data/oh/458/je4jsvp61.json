@@ -1,0 +1,37 @@
+{
+  "id": "je4jsvp61",
+  "url": "https://constellation.church/je4jsvp61",
+  "name": "St Mark's Lutheran Church",
+  "displayName": "St. Mark's Lutheran Church",
+  "address": {
+    "street": "302 E Pearl St",
+    "city": "Wapakoneta",
+    "state": "OH",
+    "zip": "45895-2010"
+  },
+  "coordinates": {
+    "latitude": 40.56795310974121,
+    "longitude": -84.18952178955078
+  },
+  "website": "https://stmarkswapak.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=90648b56-ca69-4fa5-8bfd-9d5e7536ef02",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "90648b56-ca69-4fa5-8bfd-9d5e7536ef02"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkswapak.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "346541589"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510148350"
+    }
+  ],
+  "advisories": []
+}

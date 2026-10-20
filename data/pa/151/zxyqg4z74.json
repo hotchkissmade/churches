@@ -1,0 +1,33 @@
+{
+  "id": "zxyqg4z74",
+  "url": "https://constellation.church/zxyqg4z74",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "1719 Mount Royal Blvd",
+    "city": "Glenshaw",
+    "state": "PA",
+    "zip": "15116-2105"
+  },
+  "coordinates": {
+    "latitude": 40.526187896728516,
+    "longitude": -79.96361541748047
+  },
+  "website": "https://belc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=229a4d14-a073-4178-b25d-a0f492c09390",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "229a4d14-a073-4178-b25d-a0f492c09390"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "belc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251118403"
+    }
+  ],
+  "advisories": []
+}

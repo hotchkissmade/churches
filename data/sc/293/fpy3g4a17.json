@@ -1,0 +1,33 @@
+{
+  "id": "fpy3g4a17",
+  "url": "https://constellation.church/fpy3g4a17",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "1387 Highway 56 South",
+    "city": "Clinton",
+    "state": "SC",
+    "zip": "29325"
+  },
+  "coordinates": {
+    "latitude": 34.44179344177246,
+    "longitude": -81.86909484863281
+  },
+  "website": "https://wmpres.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1083",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1083"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wmpres.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570755435"
+    }
+  ],
+  "advisories": []
+}

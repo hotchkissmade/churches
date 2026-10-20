@@ -1,0 +1,37 @@
+{
+  "id": "fctfzpb08",
+  "url": "https://constellation.church/fctfzpb08",
+  "name": "Apostolic Christian Church of Sarasota",
+  "displayName": "Apostolic Christian Church of Sarasota",
+  "address": {
+    "street": "333 Honore Avenue",
+    "city": "Sarasota",
+    "state": "FL",
+    "zip": "34232"
+  },
+  "coordinates": {
+    "latitude": 27.333005905151367,
+    "longitude": -82.46366119384766
+  },
+  "website": "https://sarasotaacchurch.org",
+  "listingUrl": "https://www.apostolicchristian.org/congregations/sarasota",
+  "identifiers": [
+    {
+      "namespace": "org.apostolicchristian.id",
+      "value": "sarasota"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sarasotaacchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237190100"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592155097"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "fsxpja403",
+  "url": "https://constellation.church/fsxpja403",
+  "name": "Bethel Assembly of God",
+  "displayName": "Bethel Assembly of God",
+  "address": {
+    "street": "839 S 12th St",
+    "city": "Quincy",
+    "state": "IL",
+    "zip": "62301"
+  },
+  "coordinates": {
+    "latitude": 39.92140007019043,
+    "longitude": -91.39608764648438
+  },
+  "website": "https://bethelquincy.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=b13c35d1-dc5c-4d12-a5b3-e1ea4be1aa18&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "b13c35d1-dc5c-4d12-a5b3-e1ea4be1aa18"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelquincy.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370661137"
+    }
+  ],
+  "advisories": []
+}

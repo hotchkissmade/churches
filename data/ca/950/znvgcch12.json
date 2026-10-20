@@ -1,0 +1,33 @@
+{
+  "id": "znvgcch12",
+  "url": "https://constellation.church/znvgcch12",
+  "name": "Lutheran Community Church",
+  "displayName": "Lutheran Community Church",
+  "address": {
+    "street": "95 Alta Vista St",
+    "city": "Watsonville",
+    "state": "CA",
+    "zip": "95076-3100"
+  },
+  "coordinates": {
+    "latitude": 36.92651176452637,
+    "longitude": -121.76757049560547
+  },
+  "website": null,
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fb48b85f-1e81-47f2-89ab-9c6ea781466d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fb48b85f-1e81-47f2-89ab-9c6ea781466d"
+    },
+    {
+      "namespace": "com.facebook.page",
+      "value": "lccwatsonville"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942189421"
+    }
+  ],
+  "advisories": []
+}

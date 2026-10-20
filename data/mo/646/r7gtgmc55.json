@@ -1,0 +1,33 @@
+{
+  "id": "r7gtgmc55",
+  "url": "https://constellation.church/r7gtgmc55",
+  "name": "Marceline United Methodist Church",
+  "displayName": "Marceline United Methodist Church",
+  "address": {
+    "street": "321 N Kansas Ave",
+    "city": "Marceline",
+    "state": "MO",
+    "zip": "64658-1128"
+  },
+  "coordinates": {
+    "latitude": 39.71688652038574,
+    "longitude": -92.94934463500977
+  },
+  "website": "https://marcelineumc.churchtrac.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PEC7NIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PEC7NIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "marcelineumc.churchtrac.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430765079"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cmntdp591",
+  "url": "https://constellation.church/cmntdp591",
+  "name": "St. Mark",
+  "displayName": "St. Mark Coptic Orthodox Church",
+  "address": {
+    "street": "530 Lehigh Station Rd",
+    "city": "W Henrietta",
+    "state": "NY",
+    "zip": "14586"
+  },
+  "coordinates": {
+    "latitude": 43.05889129638672,
+    "longitude": -77.66547775268555
+  },
+  "website": "https://stmarksofrochester.com",
+  "listingUrl": "https://copticchurch.net/directory/church/95",
+  "identifiers": [
+    {
+      "namespace": "net.copticchurch.id",
+      "value": "95"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarksofrochester.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161154284"
+    }
+  ],
+  "advisories": []
+}

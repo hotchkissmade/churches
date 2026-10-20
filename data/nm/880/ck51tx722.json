@@ -1,0 +1,33 @@
+{
+  "id": "ck51tx722",
+  "url": "https://constellation.church/ck51tx722",
+  "name": "Grace Covenant Church",
+  "displayName": "Grace Covenant Church",
+  "address": {
+    "street": "3111 N. Main Street",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88001"
+  },
+  "coordinates": {
+    "latitude": 32.34307289123535,
+    "longitude": -106.77494049072266
+  },
+  "website": "https://gccnm.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4616",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4616"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gccnm.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "200702877"
+    }
+  ],
+  "advisories": []
+}

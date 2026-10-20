@@ -1,0 +1,33 @@
+{
+  "id": "gc1sqze61",
+  "url": "https://constellation.church/gc1sqze61",
+  "name": "St Luke's Lutheran Church",
+  "displayName": "St. Luke's Lutheran Church",
+  "address": {
+    "street": "17740 Muncaster Rd",
+    "city": "Derwood",
+    "state": "MD",
+    "zip": "20855-1322"
+  },
+  "coordinates": {
+    "latitude": 39.14752197265625,
+    "longitude": -77.14325332641602
+  },
+  "website": "https://stlukesderwood.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5456e435-62e8-43b6-9ac8-6f62fac45435",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5456e435-62e8-43b6-9ac8-6f62fac45435"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesderwood.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520985504"
+    }
+  ],
+  "advisories": []
+}

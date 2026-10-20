@@ -1,0 +1,33 @@
+{
+  "id": "tmnbaff90",
+  "url": "https://constellation.church/tmnbaff90",
+  "name": "Highpoint Community Church",
+  "displayName": "Highpoint Community Church",
+  "address": {
+    "street": "18 Hahnstown Rd",
+    "city": "Ephrata",
+    "state": "PA",
+    "zip": "17522"
+  },
+  "coordinates": {
+    "latitude": 40.167030334472656,
+    "longitude": -76.1468505859375
+  },
+  "website": "https://highpointephrata.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ca34f40a-e75b-4380-a5f3-e9fb65bf38dd&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ca34f40a-e75b-4380-a5f3-e9fb65bf38dd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "highpointephrata.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232223381"
+    }
+  ],
+  "advisories": []
+}

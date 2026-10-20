@@ -1,0 +1,33 @@
+{
+  "id": "pnjmrxw97",
+  "url": "https://constellation.church/pnjmrxw97",
+  "name": "Life Point Church of Oceanside",
+  "displayName": "Life Point Church of Oceanside",
+  "address": {
+    "street": "202 Oleander Dr",
+    "city": "Oceanside",
+    "state": "CA",
+    "zip": "92057"
+  },
+  "coordinates": {
+    "latitude": 33.20794868469238,
+    "longitude": -117.28970336914062
+  },
+  "website": "https://lifepoint.city",
+  "listingUrl": "https://churches.sbc.net/church/life-point-church-of-oceanside/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "life-point-church-of-oceanside"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lifepoint.city"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330882250"
+    }
+  ],
+  "advisories": []
+}

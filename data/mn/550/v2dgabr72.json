@@ -1,0 +1,33 @@
+{
+  "id": "v2dgabr72",
+  "url": "https://constellation.church/v2dgabr72",
+  "name": "City on a Hill Church",
+  "displayName": "City on a Hill Church",
+  "address": {
+    "street": "14375 South Robert Trail",
+    "city": "Rosemount",
+    "state": "MN",
+    "zip": "55068-4961"
+  },
+  "coordinates": {
+    "latitude": 44.74092102050781,
+    "longitude": -93.12687683105469
+  },
+  "website": "https://mycityonahill.org",
+  "listingUrl": "https://churches.efca.org/?id=263033",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "263033"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mycityonahill.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "272557516"
+    }
+  ],
+  "advisories": []
+}

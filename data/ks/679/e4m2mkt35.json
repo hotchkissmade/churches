@@ -1,0 +1,33 @@
+{
+  "id": "e4m2mkt35",
+  "url": "https://constellation.church/e4m2mkt35",
+  "name": "Trinity Baptist Church",
+  "displayName": "Trinity Baptist Church",
+  "address": {
+    "street": "516 Northeast Ave",
+    "city": "Hugoton",
+    "state": "KS",
+    "zip": "67951"
+  },
+  "coordinates": {
+    "latitude": 37.1831932,
+    "longitude": -101.3411415
+  },
+  "website": "https://westernkansasbaptist.com/our_churches",
+  "listingUrl": "https://churches.sbc.net/church/trinity-baptist-church-152/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "trinity-baptist-church-152"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westernkansasbaptist.com/our_churches"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480919283"
+    }
+  ],
+  "advisories": []
+}

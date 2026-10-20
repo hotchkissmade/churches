@@ -1,0 +1,33 @@
+{
+  "id": "g212pfj57",
+  "url": "https://constellation.church/g212pfj57",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "318 S Cedar St",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99204-1684"
+  },
+  "coordinates": {
+    "latitude": 47.65287399291992,
+    "longitude": -117.43316650390625
+  },
+  "website": "https://spokanefpc.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/9071/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "9071"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "spokanefpc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910564965"
+    }
+  ],
+  "advisories": []
+}

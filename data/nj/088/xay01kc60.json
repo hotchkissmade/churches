@@ -1,0 +1,33 @@
+{
+  "id": "xay01kc60",
+  "url": "https://constellation.church/xay01kc60",
+  "name": "St James Lutheran Church",
+  "displayName": "St. James Lutheran Church",
+  "address": {
+    "street": "1213 US Highway 22",
+    "city": "Phillipsburg",
+    "state": "NJ",
+    "zip": "08865-4102"
+  },
+  "coordinates": {
+    "latitude": 40.680084228515625,
+    "longitude": -75.14592361450195
+  },
+  "website": "https://strawchurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=860c841a-1df7-487a-8e1c-ead6b03624c7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "860c841a-1df7-487a-8e1c-ead6b03624c7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "strawchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222039320"
+    }
+  ],
+  "advisories": []
+}

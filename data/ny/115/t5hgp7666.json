@@ -1,0 +1,33 @@
+{
+  "id": "t5hgp7666",
+  "url": "https://constellation.church/t5hgp7666",
+  "name": "St Andrew Lutheran Church",
+  "displayName": "St. Andrew Lutheran Church",
+  "address": {
+    "street": "54 Nassau Blvd",
+    "city": "West Hempstead",
+    "state": "NY",
+    "zip": "11552-1016"
+  },
+  "coordinates": {
+    "latitude": 40.70802688598633,
+    "longitude": -73.6610336303711
+  },
+  "website": "https://standrewswh.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2f6bfcc6-242c-4dc0-ba37-8012ba2daee1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2f6bfcc6-242c-4dc0-ba37-8012ba2daee1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewswh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112007406"
+    }
+  ],
+  "advisories": []
+}

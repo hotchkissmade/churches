@@ -1,0 +1,33 @@
+{
+  "id": "nm03fnp94",
+  "url": "https://constellation.church/nm03fnp94",
+  "name": "Ponce Presbyterian Church",
+  "displayName": "Ponce Presbyterian Church",
+  "address": {
+    "street": "163 Ponce de Leon Ave NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30308"
+  },
+  "coordinates": {
+    "latitude": 33.77200126647949,
+    "longitude": -84.38211059570312
+  },
+  "website": "https://poncechurch.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4300",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4300"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "poncechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "412050277"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "v3yxqgy04",
+  "url": "https://constellation.church/v3yxqgy04",
+  "name": "Belgrade Christian Assembly",
+  "displayName": "Belgrade Christian Assembly",
+  "address": {
+    "street": "103 E Cascade Ave",
+    "city": "Belgrade",
+    "state": "MT",
+    "zip": "59714"
+  },
+  "coordinates": {
+    "latitude": 45.77118682861328,
+    "longitude": -111.17843627929688
+  },
+  "website": "https://spirit.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=60e22ee1-5bf6-4000-aa80-24db67343c34&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "60e22ee1-5bf6-4000-aa80-24db67343c34"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "spirit.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "331216173"
+    }
+  ],
+  "advisories": []
+}

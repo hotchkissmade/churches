@@ -1,0 +1,33 @@
+{
+  "id": "xx7881098",
+  "url": "https://constellation.church/xx7881098",
+  "name": "Shining Mountains Lutheran Church",
+  "displayName": "Shining Mountains Lutheran Church",
+  "address": {
+    "street": "1710 Vaquero Pkwy",
+    "city": "Bozeman",
+    "state": "MT",
+    "zip": "59718-7380"
+  },
+  "coordinates": {
+    "latitude": 45.69623947143555,
+    "longitude": -111.08367156982422
+  },
+  "website": "https://shiningmountains.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24100",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24100"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "shiningmountains.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "816035156"
+    }
+  ],
+  "advisories": []
+}

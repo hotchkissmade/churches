@@ -1,0 +1,33 @@
+{
+  "id": "hg1s5cd73",
+  "url": "https://constellation.church/hg1s5cd73",
+  "name": "Presbyterian Fellowship of Fountain Inn",
+  "displayName": "Presbyterian Fellowship of Fountain Inn",
+  "address": {
+    "street": "417 S Main St",
+    "city": "Fountain Inn",
+    "state": "SC",
+    "zip": "29644"
+  },
+  "coordinates": {
+    "latitude": 34.687849044799805,
+    "longitude": -82.19225311279297
+  },
+  "website": "https://pffi.net",
+  "listingUrl": "https://eco-pres.org/churches/presbyterian-fellowship-of-fountain-inn/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "presbyterian-fellowship-of-fountain-inn"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pffi.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "461813782"
+    }
+  ],
+  "advisories": []
+}

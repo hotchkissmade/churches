@@ -1,0 +1,33 @@
+{
+  "id": "gxrhb4m52",
+  "url": "https://constellation.church/gxrhb4m52",
+  "name": "St. Thomas Episcopal Church",
+  "displayName": "St. Thomas Episcopal Church",
+  "address": {
+    "street": "2100 Hilton Ave",
+    "city": "Columbus",
+    "state": "GA",
+    "zip": "31906-1500"
+  },
+  "coordinates": {
+    "latitude": 32.482099533081055,
+    "longitude": -84.95429611206055
+  },
+  "website": "https://stthomascolumbus.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-atlanta/list/church-st-thomas",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-atlanta/church-st-thomas"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stthomascolumbus.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580827470"
+    }
+  ],
+  "advisories": []
+}

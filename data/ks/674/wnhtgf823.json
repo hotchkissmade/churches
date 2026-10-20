@@ -1,0 +1,33 @@
+{
+  "id": "wnhtgf823",
+  "url": "https://constellation.church/wnhtgf823",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "119 N Elm St",
+    "city": "McPherson",
+    "state": "KS",
+    "zip": "67460-4331"
+  },
+  "coordinates": {
+    "latitude": 38.36992263793945,
+    "longitude": -97.66439819335938
+  },
+  "website": "https://trinitylutheranmcpherson.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=24fed317-0294-4e2b-8cff-25e71f8e07a3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "24fed317-0294-4e2b-8cff-25e71f8e07a3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylutheranmcpherson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480618439"
+    }
+  ],
+  "advisories": []
+}

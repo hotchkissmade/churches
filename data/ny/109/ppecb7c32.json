@@ -1,0 +1,33 @@
+{
+  "id": "ppecb7c32",
+  "url": "https://constellation.church/ppecb7c32",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "25 Waterstone Rd.",
+    "city": "Greenwood Lake",
+    "state": "NY",
+    "zip": "10925"
+  },
+  "coordinates": {
+    "latitude": 41.22110366821289,
+    "longitude": -74.29072570800781
+  },
+  "website": "https://gracegwl.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e5a55b34-2837-4507-93c2-be3e4ad6f5fb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e5a55b34-2837-4507-93c2-be3e4ad6f5fb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracegwl.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "141467969"
+    }
+  ],
+  "advisories": []
+}

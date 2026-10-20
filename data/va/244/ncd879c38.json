@@ -1,0 +1,33 @@
+{
+  "id": "ncd879c38",
+  "url": "https://constellation.church/ncd879c38",
+  "name": "Lexington Presbyterian Church",
+  "displayName": "Lexington Presbyterian Church",
+  "address": {
+    "street": "120 S Main St",
+    "city": "Lexington",
+    "state": "VA",
+    "zip": "24450"
+  },
+  "coordinates": {
+    "latitude": 37.7838020324707,
+    "longitude": -79.44316101074219
+  },
+  "website": "https://lexpres.org/special-needs",
+  "listingUrl": "https://church-trends.pcusa.org/church/23184/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "23184"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lexpres.org/special-needs"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "471544000"
+    }
+  ],
+  "advisories": []
+}

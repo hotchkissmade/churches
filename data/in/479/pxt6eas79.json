@@ -1,0 +1,33 @@
+{
+  "id": "pxt6eas79",
+  "url": "https://constellation.church/pxt6eas79",
+  "name": "Crosspoint Fellowship",
+  "displayName": "Crosspoint Fellowship",
+  "address": {
+    "street": "1350 Ladoga Rd",
+    "city": "Crawfordsville",
+    "state": "IN",
+    "zip": "47933"
+  },
+  "coordinates": {
+    "latitude": 40.020362854003906,
+    "longitude": -86.88568496704102
+  },
+  "website": "https://welovecville.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=3c1ab5a5-c583-47e5-8b15-e49d85ad9a65&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "3c1ab5a5-c583-47e5-8b15-e49d85ad9a65"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "welovecville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "352255220"
+    }
+  ],
+  "advisories": []
+}

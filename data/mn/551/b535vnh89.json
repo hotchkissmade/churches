@@ -1,0 +1,33 @@
+{
+  "id": "b535vnh89",
+  "url": "https://constellation.church/b535vnh89",
+  "name": "Easter Lutheran Church",
+  "displayName": "Easter Lutheran Church",
+  "address": {
+    "street": "4545 Pilot Knob Rd",
+    "city": "Eagan",
+    "state": "MN",
+    "zip": "55122"
+  },
+  "coordinates": {
+    "latitude": 44.803985595703125,
+    "longitude": -93.16645050048828
+  },
+  "website": "https://easter.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a9ddfc45-5ae0-4cc8-95f0-141e119afd08",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a9ddfc45-5ae0-4cc8-95f0-141e119afd08"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "easter.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411234842"
+    }
+  ],
+  "advisories": []
+}

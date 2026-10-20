@@ -1,0 +1,33 @@
+{
+  "id": "n362rqc53",
+  "url": "https://constellation.church/n362rqc53",
+  "name": "St. Luke's, Dallas",
+  "displayName": "St. Luke's, Dallas",
+  "address": {
+    "street": "5923 Royal Lane",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75020"
+  },
+  "coordinates": {
+    "latitude": 32.895376205444336,
+    "longitude": -96.80701446533203
+  },
+  "website": "https://stlukesdallas.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/dallas/list/st-lukes-dallas",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "dallas/st-lukes-dallas"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesdallas.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "756003741"
+    }
+  ],
+  "advisories": []
+}

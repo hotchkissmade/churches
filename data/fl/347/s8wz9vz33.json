@@ -1,0 +1,33 @@
+{
+  "id": "s8wz9vz33",
+  "url": "https://constellation.church/s8wz9vz33",
+  "name": "First Baptist Church of St. Cloud",
+  "displayName": "First Baptist Church of St. Cloud",
+  "address": {
+    "street": "1717 13th St",
+    "city": "St. Cloud",
+    "state": "FL",
+    "zip": "34769"
+  },
+  "coordinates": {
+    "latitude": 28.245487213134766,
+    "longitude": -81.28864669799805
+  },
+  "website": "https://stcloudcommunity.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-st-cloud/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-st-cloud"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stcloudcommunity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591163072"
+    }
+  ],
+  "advisories": []
+}

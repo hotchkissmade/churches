@@ -1,0 +1,33 @@
+{
+  "id": "yfqv3y134",
+  "url": "https://constellation.church/yfqv3y134",
+  "name": "Western Reserve United Methodist Church",
+  "displayName": "Western Reserve United Methodist Church",
+  "address": {
+    "street": "4580 Canfield Road",
+    "city": "Canfield",
+    "state": "OH",
+    "zip": "44406"
+  },
+  "coordinates": {
+    "latitude": 41.053043365478516,
+    "longitude": -80.73020553588867
+  },
+  "website": "https://westernreserveumc.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PEzzDIAT",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PEzzDIAT"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westernreserveumc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341000110"
+    }
+  ],
+  "advisories": []
+}

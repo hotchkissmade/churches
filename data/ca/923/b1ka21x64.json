@@ -1,0 +1,33 @@
+{
+  "id": "b1ka21x64",
+  "url": "https://constellation.church/b1ka21x64",
+  "name": "Desert Springs Church",
+  "displayName": "Desert Springs Church",
+  "address": {
+    "street": "10125 11th Ave",
+    "city": "Hesperia",
+    "state": "CA",
+    "zip": "92345"
+  },
+  "coordinates": {
+    "latitude": 34.43490409851074,
+    "longitude": -117.32276153564453
+  },
+  "website": "https://dschesperia.com",
+  "listingUrl": "https://churches.sbc.net/church/desert-springs-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "desert-springs-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dschesperia.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330561118"
+    }
+  ],
+  "advisories": []
+}

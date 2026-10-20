@@ -1,0 +1,33 @@
+{
+  "id": "hjw3vc221",
+  "url": "https://constellation.church/hjw3vc221",
+  "name": "Lutheran Church Of The Redeemer",
+  "displayName": "Lutheran Church Of The Redeemer",
+  "address": {
+    "street": "1545 Chain Bridge Rd",
+    "city": "McLean",
+    "state": "VA",
+    "zip": "22101-4420"
+  },
+  "coordinates": {
+    "latitude": 38.92952,
+    "longitude": -77.1835363
+  },
+  "website": "https://redeemermclean.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5bee7fd4-e8dd-482f-8e66-a157e964d010",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5bee7fd4-e8dd-482f-8e66-a157e964d010"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemermclean.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540700803"
+    }
+  ],
+  "advisories": []
+}

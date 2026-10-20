@@ -1,0 +1,33 @@
+{
+  "id": "gvpnzvs67",
+  "url": "https://constellation.church/gvpnzvs67",
+  "name": "St Andrews Presbyterian Church",
+  "displayName": "St. Andrew's Presbyterian Church",
+  "address": {
+    "street": "7650 N Paseo Del Norte",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85704-4540"
+  },
+  "coordinates": {
+    "latitude": 32.34560966491699,
+    "longitude": -110.98252868652344
+  },
+  "website": "https://sapctucson.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/977/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "977"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sapctucson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "866052275"
+    }
+  ],
+  "advisories": []
+}

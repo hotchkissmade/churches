@@ -1,0 +1,33 @@
+{
+  "id": "frte27s11",
+  "url": "https://constellation.church/frte27s11",
+  "name": "Castleview Baptist Church",
+  "displayName": "Castleview Baptist Church",
+  "address": {
+    "street": "8601 Hague Rd",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46256"
+  },
+  "coordinates": {
+    "latitude": 39.913068771362305,
+    "longitude": -86.03239440917969
+  },
+  "website": "https://castleview.org",
+  "listingUrl": "https://churches.sbc.net/church/castleview-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "castleview-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "castleview.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "356000702"
+    }
+  ],
+  "advisories": []
+}

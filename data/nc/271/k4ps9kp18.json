@@ -1,0 +1,33 @@
+{
+  "id": "k4ps9kp18",
+  "url": "https://constellation.church/k4ps9kp18",
+  "name": "The Evangelical Lutheran Church Of The Epiphany",
+  "displayName": "The Evangelical Lutheran Church Of The Epiphany",
+  "address": {
+    "street": "5220 Silas Creek Pkwy",
+    "city": "Winston Salem",
+    "state": "NC",
+    "zip": "27106-5527"
+  },
+  "coordinates": {
+    "latitude": 36.10838508605957,
+    "longitude": -80.30709075927734
+  },
+  "website": "https://epiphanyws.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e52c6b66-5175-4fee-bf11-f95819812e80",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e52c6b66-5175-4fee-bf11-f95819812e80"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "epiphanyws.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561029743"
+    }
+  ],
+  "advisories": []
+}

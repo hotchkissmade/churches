@@ -1,0 +1,33 @@
+{
+  "id": "gwq533r20",
+  "url": "https://constellation.church/gwq533r20",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "123 Zach St",
+    "city": "Glidden",
+    "state": "WI",
+    "zip": "54527"
+  },
+  "coordinates": {
+    "latitude": 46.13528823852539,
+    "longitude": -90.58469009399414
+  },
+  "website": "https://gliddenag.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d6d562fb-7d2c-4f54-a4c4-cf6c84393fdd&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d6d562fb-7d2c-4f54-a4c4-cf6c84393fdd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gliddenag.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391421326"
+    }
+  ],
+  "advisories": []
+}

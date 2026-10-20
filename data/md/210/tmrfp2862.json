@@ -1,0 +1,33 @@
+{
+  "id": "tmrfp2862",
+  "url": "https://constellation.church/tmrfp2862",
+  "name": "Church of the Resurrection",
+  "displayName": "Church of the Resurrection",
+  "address": {
+    "street": "11525 Greenspring Avenue",
+    "city": "Lutherville",
+    "state": "MD",
+    "zip": "21093"
+  },
+  "coordinates": {
+    "latitude": 39.44162178039551,
+    "longitude": -76.71404647827148
+  },
+  "website": "https://resbalt.org",
+  "listingUrl": "https://www.acna.org/admin_units/50",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "50"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "resbalt.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810677781"
+    }
+  ],
+  "advisories": []
+}

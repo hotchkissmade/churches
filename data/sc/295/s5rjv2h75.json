@@ -1,0 +1,33 @@
+{
+  "id": "s5rjv2h75",
+  "url": "https://constellation.church/s5rjv2h75",
+  "name": "Northgate Baptist Church",
+  "displayName": "Northgate Baptist Church",
+  "address": {
+    "street": "1217 N Ebenezer Rd",
+    "city": "Florence",
+    "state": "SC",
+    "zip": "29501"
+  },
+  "coordinates": {
+    "latitude": 34.227094650268555,
+    "longitude": -79.83810424804688
+  },
+  "website": "https://northgatebsc.net/about",
+  "listingUrl": "https://churches.sbc.net/church/northgate-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northgate-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northgatebsc.net/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570618270"
+    }
+  ],
+  "advisories": []
+}

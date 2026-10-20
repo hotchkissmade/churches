@@ -1,0 +1,33 @@
+{
+  "id": "rw6y0r590",
+  "url": "https://constellation.church/rw6y0r590",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "14821 Lee Hwy",
+    "city": "Centreville",
+    "state": "VA",
+    "zip": "20121"
+  },
+  "coordinates": {
+    "latitude": 38.8332955,
+    "longitude": -77.4609872
+  },
+  "website": "https://newwine.live/service-times",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f75da324-419d-43ea-bae9-10ab7e7e737e&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f75da324-419d-43ea-bae9-10ab7e7e737e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newwine.live/service-times"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541650463"
+    }
+  ],
+  "advisories": []
+}

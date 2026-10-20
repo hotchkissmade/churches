@@ -1,0 +1,33 @@
+{
+  "id": "f0y4bvb90",
+  "url": "https://constellation.church/f0y4bvb90",
+  "name": "Cool Springs Baptist Church",
+  "displayName": "Cool Springs Baptist Church",
+  "address": {
+    "street": "1313 Cool Springs Rd",
+    "city": "Sanford",
+    "state": "NC",
+    "zip": "27330"
+  },
+  "coordinates": {
+    "latitude": 35.49092483520508,
+    "longitude": -79.22859191894531
+  },
+  "website": "https://coolspringsbaptist.com/churchhistory",
+  "listingUrl": "https://churches.sbc.net/church/cool-springs-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cool-springs-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "coolspringsbaptist.com/churchhistory"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561392033"
+    }
+  ],
+  "advisories": []
+}

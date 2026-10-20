@@ -1,0 +1,33 @@
+{
+  "id": "dyp9mfv43",
+  "url": "https://constellation.church/dyp9mfv43",
+  "name": "Wisconsin Lutheran Chapel",
+  "displayName": "Wisconsin Lutheran Chapel",
+  "address": {
+    "street": "220 W Gilman St",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53703-1810"
+  },
+  "coordinates": {
+    "latitude": 43.07562828063965,
+    "longitude": -89.39261627197266
+  },
+  "website": "https://wlchapel.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24915",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24915"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wlchapel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391299134"
+    }
+  ],
+  "advisories": []
+}

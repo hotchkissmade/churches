@@ -1,0 +1,33 @@
+{
+  "id": "h5f2fvq79",
+  "url": "https://constellation.church/h5f2fvq79",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "2077 N Frederick Pike",
+    "city": "Winchester",
+    "state": "VA",
+    "zip": "22603-4132"
+  },
+  "coordinates": {
+    "latitude": 39.219871520996094,
+    "longitude": -78.1962661743164
+  },
+  "website": "https://bethelwinchester.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ae2a96ec-e5e8-4995-9abf-f8d1b748a0c9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ae2a96ec-e5e8-4995-9abf-f8d1b748a0c9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelwinchester.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540805796"
+    }
+  ],
+  "advisories": []
+}

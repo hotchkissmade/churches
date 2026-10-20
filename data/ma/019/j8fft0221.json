@@ -1,0 +1,33 @@
+{
+  "id": "j8fft0221",
+  "url": "https://constellation.church/j8fft0221",
+  "name": "Calvary Christian Church",
+  "displayName": "Calvary Christian Church",
+  "address": {
+    "street": "47 Grove St",
+    "city": "Lynnfield",
+    "state": "MA",
+    "zip": "01940"
+  },
+  "coordinates": {
+    "latitude": 42.51580810546875,
+    "longitude": -71.00486373901367
+  },
+  "website": "https://calvarychristian.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=e70b8b9b-d3ee-4d9c-8c67-b92710ae8488&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "e70b8b9b-d3ee-4d9c-8c67-b92710ae8488"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "calvarychristian.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042774905"
+    }
+  ],
+  "advisories": []
+}

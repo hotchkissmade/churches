@@ -1,0 +1,33 @@
+{
+  "id": "gckgv9466",
+  "url": "https://constellation.church/gckgv9466",
+  "name": "Church of the Holy Cross",
+  "displayName": "Church of the Holy Cross",
+  "address": {
+    "street": "2455 Gallows Road",
+    "city": "Dunn Loring",
+    "state": "VA",
+    "zip": "22027-1225"
+  },
+  "coordinates": {
+    "latitude": 38.88999938964844,
+    "longitude": -77.22518539428711
+  },
+  "website": "https://holycrossepiscopal.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-virginia/list/church-holy-cross",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-virginia/church-holy-cross"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holycrossepiscopal.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541290520"
+    }
+  ],
+  "advisories": []
+}

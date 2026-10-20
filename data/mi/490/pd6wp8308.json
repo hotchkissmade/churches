@@ -1,0 +1,33 @@
+{
+  "id": "pd6wp8308",
+  "url": "https://constellation.church/pd6wp8308",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "603 McCleary St",
+    "city": "Dowagiac",
+    "state": "MI",
+    "zip": "49047-1514"
+  },
+  "coordinates": {
+    "latitude": 41.988975524902344,
+    "longitude": -86.09518814086914
+  },
+  "website": "https://stjlutheran.net",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24318",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24318"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjlutheran.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382510367"
+    }
+  ],
+  "advisories": []
+}

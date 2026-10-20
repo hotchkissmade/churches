@@ -1,0 +1,33 @@
+{
+  "id": "by2j3bp69",
+  "url": "https://constellation.church/by2j3bp69",
+  "name": "Parkway",
+  "displayName": "Parkway",
+  "address": {
+    "street": "766 E University Dr",
+    "city": "Auburn",
+    "state": "AL",
+    "zip": "36830"
+  },
+  "coordinates": {
+    "latitude": 32.585134506225586,
+    "longitude": -85.46583938598633
+  },
+  "website": "https://parkwayauburn.org",
+  "listingUrl": "https://churches.sbc.net/church/parkway/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "parkway"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parkwayauburn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237113193"
+    }
+  ],
+  "advisories": []
+}

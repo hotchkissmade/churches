@@ -1,0 +1,33 @@
+{
+  "id": "q0vf0cc61",
+  "url": "https://constellation.church/q0vf0cc61",
+  "name": "Gambrell Street Baptist Church",
+  "displayName": "Gambrell Street Baptist Church",
+  "address": {
+    "street": "1616 W GAMBRELL ST",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76115"
+  },
+  "coordinates": {
+    "latitude": 32.68197059631348,
+    "longitude": -97.34481048583984
+  },
+  "website": "https://gambrellstreet.org",
+  "listingUrl": "https://churches.sbc.net/church/gambrell-street-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "gambrell-street-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gambrellstreet.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750904034"
+    }
+  ],
+  "advisories": []
+}

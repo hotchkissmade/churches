@@ -1,0 +1,33 @@
+{
+  "id": "g6tatrk03",
+  "url": "https://constellation.church/g6tatrk03",
+  "name": "Augustana Lutheran Church",
+  "displayName": "Augustana Lutheran Church",
+  "address": {
+    "street": "628 6th St",
+    "city": "Andover",
+    "state": "IL",
+    "zip": "61233"
+  },
+  "coordinates": {
+    "latitude": 41.29210090637207,
+    "longitude": -90.29692077636719
+  },
+  "website": "https://andoverlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4d66b0a8-80d2-40eb-a995-8ceb5ec5cb23",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4d66b0a8-80d2-40eb-a995-8ceb5ec5cb23"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "andoverlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362323980"
+    }
+  ],
+  "advisories": []
+}

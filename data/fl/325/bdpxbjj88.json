@@ -1,0 +1,33 @@
+{
+  "id": "bdpxbjj88",
+  "url": "https://constellation.church/bdpxbjj88",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "2 Woodham Avenue",
+    "city": "Ft. Walton Beach",
+    "state": "FL",
+    "zip": "32547"
+  },
+  "coordinates": {
+    "latitude": 30.434812545776367,
+    "longitude": -86.60579299926758
+  },
+  "website": "https://wpc-pca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1104",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1104"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wpc-pca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590943260"
+    }
+  ],
+  "advisories": []
+}

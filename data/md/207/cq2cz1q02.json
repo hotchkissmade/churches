@@ -1,0 +1,33 @@
+{
+  "id": "cq2cz1q02",
+  "url": "https://constellation.church/cq2cz1q02",
+  "name": "First Baptist Church of Savage",
+  "displayName": "First Baptist Church of Savage",
+  "address": {
+    "street": "8901 Washington Street",
+    "city": "Savage",
+    "state": "MD",
+    "zip": "20763"
+  },
+  "coordinates": {
+    "latitude": 39.13635444641113,
+    "longitude": -76.82170104980469
+  },
+  "website": "https://fbcsavage.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-savage/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-savage"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcsavage.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520857321"
+    }
+  ],
+  "advisories": []
+}

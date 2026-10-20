@@ -1,0 +1,33 @@
+{
+  "id": "qka6bj874",
+  "url": "https://constellation.church/qka6bj874",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "1001 S James St",
+    "city": "Grimes",
+    "state": "IA",
+    "zip": "50111"
+  },
+  "coordinates": {
+    "latitude": 41.67961502075195,
+    "longitude": -93.79337310791016
+  },
+  "website": "https://stpeterofgrimes.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3eb38936-d292-433b-8f40-e8faf4d00c0c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3eb38936-d292-433b-8f40-e8faf4d00c0c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpeterofgrimes.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237302411"
+    }
+  ],
+  "advisories": []
+}

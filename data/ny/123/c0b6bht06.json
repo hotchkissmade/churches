@@ -1,0 +1,33 @@
+{
+  "id": "c0b6bht06",
+  "url": "https://constellation.church/c0b6bht06",
+  "name": "Trinity Baptist Church, Niskayuna",
+  "displayName": "Trinity Baptist Church, Niskayuna",
+  "address": {
+    "street": "2635 Balltown Rd",
+    "city": "Niskayuna",
+    "state": "NY",
+    "zip": "12309"
+  },
+  "coordinates": {
+    "latitude": 42.835575103759766,
+    "longitude": -73.89276885986328
+  },
+  "website": "https://tbcniskayuna.com",
+  "listingUrl": "https://churches.sbc.net/church/trinity-baptist-church-niskayuna/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "trinity-baptist-church-niskayuna"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tbcniskayuna.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237379950"
+    }
+  ],
+  "advisories": []
+}

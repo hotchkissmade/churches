@@ -1,0 +1,33 @@
+{
+  "id": "ws3zgeb74",
+  "url": "https://constellation.church/ws3zgeb74",
+  "name": "Pantano Baptist Church",
+  "displayName": "Pantano Baptist Church",
+  "address": {
+    "street": "225 S Pantano Rd",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85710"
+  },
+  "coordinates": {
+    "latitude": 32.218252182006836,
+    "longitude": -110.82311248779297
+  },
+  "website": "https://pantanobaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/pantano-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pantano-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pantanobaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860250297"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jbcmn8x33",
+  "url": "https://constellation.church/jbcmn8x33",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "142-10 Sanford Avenue",
+    "city": "Flushing",
+    "state": "NY",
+    "zip": "11355"
+  },
+  "coordinates": {
+    "latitude": 40.757558822631836,
+    "longitude": -73.82448959350586
+  },
+  "website": "https://fbcflushing.org",
+  "listingUrl": "https://venturechurches.org/churches/first-baptist-church-45/",
+  "identifiers": [
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "first-baptist-church-45"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcflushing.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "562330519"
+    }
+  ],
+  "advisories": []
+}

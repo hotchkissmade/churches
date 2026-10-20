@@ -1,0 +1,33 @@
+{
+  "id": "afnxzep65",
+  "url": "https://constellation.church/afnxzep65",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "210 W Green St",
+    "city": "Hazleton",
+    "state": "PA",
+    "zip": "18201-5806"
+  },
+  "coordinates": {
+    "latitude": 40.95936965942383,
+    "longitude": -75.99769592285156
+  },
+  "website": "https://clchazleton.org/bulletin-archive",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e0f21e18-e77c-4fb0-b015-3994d17b3547",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e0f21e18-e77c-4fb0-b015-3994d17b3547"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clchazleton.org/bulletin-archive"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "240807565"
+    }
+  ],
+  "advisories": []
+}

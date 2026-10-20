@@ -1,0 +1,33 @@
+{
+  "id": "a8kh4b744",
+  "url": "https://constellation.church/a8kh4b744",
+  "name": "Harvest Church Memphis",
+  "displayName": "Harvest Church Memphis",
+  "address": {
+    "street": "3645 Forest Hill Irene Rd",
+    "city": "Germantown",
+    "state": "TN",
+    "zip": "38138"
+  },
+  "coordinates": {
+    "latitude": 35.04888916015625,
+    "longitude": -89.76139831542969
+  },
+  "website": "https://harvestmemphis.org",
+  "listingUrl": "https://churches.sbc.net/church/harvest-church-memphis/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "harvest-church-memphis"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "harvestmemphis.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "463079347"
+    }
+  ],
+  "advisories": []
+}

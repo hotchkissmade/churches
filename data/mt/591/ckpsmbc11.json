@@ -1,0 +1,33 @@
+{
+  "id": "ckpsmbc11",
+  "url": "https://constellation.church/ckpsmbc11",
+  "name": "Billings Praise Center",
+  "displayName": "Billings Praise Center",
+  "address": {
+    "street": "516 S 37th St",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59101"
+  },
+  "coordinates": {
+    "latitude": 45.770259857177734,
+    "longitude": -108.51055908203125
+  },
+  "website": "https://montanadreamcenter.com/billings-praise-center",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=0c2f765b-6cdf-42b7-a59a-5657f4364c56&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "0c2f765b-6cdf-42b7-a59a-5657f4364c56"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "montanadreamcenter.com/billings-praise-center"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "562502177"
+    }
+  ],
+  "advisories": []
+}

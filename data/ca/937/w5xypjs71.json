@@ -1,0 +1,33 @@
+{
+  "id": "w5xypjs71",
+  "url": "https://constellation.church/w5xypjs71",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "3973 N Cedar Ave",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93726-5208"
+  },
+  "coordinates": {
+    "latitude": 36.78994941711426,
+    "longitude": -119.75509643554688
+  },
+  "website": "https://tlcfresno.org/events",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6c76f126-57cf-4f91-a14c-0a22d10ce187",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6c76f126-57cf-4f91-a14c-0a22d10ce187"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcfresno.org/events"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941347061"
+    }
+  ],
+  "advisories": []
+}

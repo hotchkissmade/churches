@@ -1,0 +1,33 @@
+{
+  "id": "svavaax82",
+  "url": "https://constellation.church/svavaax82",
+  "name": "Sausalito Presbyterian Church",
+  "displayName": "Sausalito Presbyterian Church",
+  "address": {
+    "street": "112 Bulkley Ave",
+    "city": "Sausalito",
+    "state": "CA",
+    "zip": "94966"
+  },
+  "coordinates": {
+    "latitude": 37.855445861816406,
+    "longitude": -122.48052215576172
+  },
+  "website": "https://sausalitopres.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/682/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "682"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sausalitopres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "680276701"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "v1rbjmg81",
+  "url": "https://constellation.church/v1rbjmg81",
+  "name": "Heritage Presbyterian Church",
+  "displayName": "Heritage Presbyterian Church",
+  "address": {
+    "street": "7850 Millfield Drive",
+    "city": "Warrenton",
+    "state": "VA",
+    "zip": "20187"
+  },
+  "coordinates": {
+    "latitude": 38.71483039855957,
+    "longitude": -77.77976989746094
+  },
+  "website": "https://heritage-pca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/586",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "586"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "heritage-pca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541593797"
+    }
+  ],
+  "advisories": []
+}

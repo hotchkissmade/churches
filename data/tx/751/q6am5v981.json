@@ -1,0 +1,33 @@
+{
+  "id": "q6am5v981",
+  "url": "https://constellation.church/q6am5v981",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "125 E James St",
+    "city": "Wills Point",
+    "state": "TX",
+    "zip": "75169"
+  },
+  "coordinates": {
+    "latitude": 32.70939826965332,
+    "longitude": -96.00755310058594
+  },
+  "website": "https://fbwp.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-1137/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-1137"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbwp.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750904025"
+    }
+  ],
+  "advisories": []
+}

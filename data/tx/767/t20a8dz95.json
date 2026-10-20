@@ -1,0 +1,33 @@
+{
+  "id": "t20a8dz95",
+  "url": "https://constellation.church/t20a8dz95",
+  "name": "Grace Church",
+  "displayName": "Grace Church",
+  "address": {
+    "street": "4610 Bosque Blvd",
+    "city": "Waco",
+    "state": "TX",
+    "zip": "76710"
+  },
+  "coordinates": {
+    "latitude": 31.536279678344727,
+    "longitude": -97.18594360351562
+  },
+  "website": "https://gracewaco.com/leadership",
+  "listingUrl": "https://churches.sbc.net/church/grace-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grace-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracewaco.com/leadership"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "994077076"
+    }
+  ],
+  "advisories": []
+}

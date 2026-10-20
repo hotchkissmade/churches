@@ -1,0 +1,33 @@
+{
+  "id": "x0ffr1r16",
+  "url": "https://constellation.church/x0ffr1r16",
+  "name": "King Of Kings Lutheran Church",
+  "displayName": "King Of Kings Lutheran Church",
+  "address": {
+    "street": "4025 Kings Way",
+    "city": "Fairfax",
+    "state": "VA",
+    "zip": "22033-3200"
+  },
+  "coordinates": {
+    "latitude": 38.876062,
+    "longitude": -77.3867394
+  },
+  "website": "https://kofk.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=441fbcfb-4261-4b69-934e-49dd3d9a6455",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "441fbcfb-4261-4b69-934e-49dd3d9a6455"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kofk.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541187200"
+    }
+  ],
+  "advisories": []
+}

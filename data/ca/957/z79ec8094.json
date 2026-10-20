@@ -1,0 +1,33 @@
+{
+  "id": "z79ec8094",
+  "url": "https://constellation.church/z79ec8094",
+  "name": "St Stephen's Lutheran Church",
+  "displayName": "St. Stephen's Lutheran Church",
+  "address": {
+    "street": "1001 Olson Ln",
+    "city": "El Dorado Hills",
+    "state": "CA",
+    "zip": "95762-4307"
+  },
+  "coordinates": {
+    "latitude": 38.676513671875,
+    "longitude": -121.07868957519531
+  },
+  "website": "https://sslcedh.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=689afba7-a3d7-4d72-b25f-5e3ba267f21c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "689afba7-a3d7-4d72-b25f-5e3ba267f21c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sslcedh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942584019"
+    }
+  ],
+  "advisories": []
+}

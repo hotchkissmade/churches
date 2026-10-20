@@ -1,0 +1,33 @@
+{
+  "id": "bm30prr22",
+  "url": "https://constellation.church/bm30prr22",
+  "name": "Grace Presbyterian Church",
+  "displayName": "Grace Presbyterian Church",
+  "address": {
+    "street": "4300 W Park Blvd",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75093"
+  },
+  "coordinates": {
+    "latitude": 33.02618217468262,
+    "longitude": -96.77793884277344
+  },
+  "website": "https://gracepc.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/10592/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "10592"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracepc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751791587"
+    }
+  ],
+  "advisories": []
+}

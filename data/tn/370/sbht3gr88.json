@@ -1,0 +1,33 @@
+{
+  "id": "sbht3gr88",
+  "url": "https://constellation.church/sbht3gr88",
+  "name": "Hermitage United Methodist Church",
+  "displayName": "Hermitage United Methodist Church",
+  "address": {
+    "street": "205 Belinda Drive",
+    "city": "Hermitage",
+    "state": "TN",
+    "zip": "37076"
+  },
+  "coordinates": {
+    "latitude": 36.204607009887695,
+    "longitude": -86.61270141601562
+  },
+  "website": "https://humc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFFR1IAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFFR1IAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "humc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620856178"
+    }
+  ],
+  "advisories": []
+}

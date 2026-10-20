@@ -1,0 +1,33 @@
+{
+  "id": "f6tb5c111",
+  "url": "https://constellation.church/f6tb5c111",
+  "name": "Sedley Baptist Church",
+  "displayName": "Sedley Baptist Church",
+  "address": {
+    "street": "17494 Johnsons Mill Rd",
+    "city": "Sedley",
+    "state": "VA",
+    "zip": "23878"
+  },
+  "coordinates": {
+    "latitude": 36.777931213378906,
+    "longitude": -76.9842529296875
+  },
+  "website": "https://sedleybaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/sedley-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sedley-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sedleybaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540855749"
+    }
+  ],
+  "advisories": []
+}

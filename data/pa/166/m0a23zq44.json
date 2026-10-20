@@ -1,0 +1,33 @@
+{
+  "id": "m0a23zq44",
+  "url": "https://constellation.church/m0a23zq44",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "401 E Main St",
+    "city": "Roaring Spring",
+    "state": "PA",
+    "zip": "16673-1303"
+  },
+  "coordinates": {
+    "latitude": 40.33566474914551,
+    "longitude": -78.40160369873047
+  },
+  "website": "https://stlukers.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6f14a079-0dc6-4364-ad01-7a0457b8c2fc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6f14a079-0dc6-4364-ad01-7a0457b8c2fc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukers.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231489825"
+    }
+  ],
+  "advisories": []
+}

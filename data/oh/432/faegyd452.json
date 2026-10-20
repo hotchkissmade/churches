@@ -1,0 +1,33 @@
+{
+  "id": "faegyd452",
+  "url": "https://constellation.church/faegyd452",
+  "name": "Pillar Church",
+  "displayName": "Pillar Church",
+  "address": {
+    "street": "3231 Briggs Rd",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43204"
+  },
+  "coordinates": {
+    "latitude": 39.93203926086426,
+    "longitude": -83.08423614501953
+  },
+  "website": "https://briggsroadbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/pillar-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pillar-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "briggsroadbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310847096"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "fmpr8sq39",
+  "url": "https://constellation.church/fmpr8sq39",
+  "name": "Gresham United Methodist Church",
+  "displayName": "Gresham United Methodist Church",
+  "address": {
+    "street": "620 NW 8th St",
+    "city": "Gresham",
+    "state": "OR",
+    "zip": "97030-6935"
+  },
+  "coordinates": {
+    "latitude": 45.50278091430664,
+    "longitude": -122.43863677978516
+  },
+  "website": "https://greshamumc.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFODjIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFODjIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "greshamumc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930427365"
+    }
+  ],
+  "advisories": []
+}

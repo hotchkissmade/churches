@@ -1,0 +1,33 @@
+{
+  "id": "svhk3w957",
+  "url": "https://constellation.church/svhk3w957",
+  "name": "United Lutheran Church",
+  "displayName": "United Lutheran Church",
+  "address": {
+    "street": "167 Seven Points Rd",
+    "city": "Sunbury",
+    "state": "PA",
+    "zip": "17801-7083"
+  },
+  "coordinates": {
+    "latitude": 40.83018493652344,
+    "longitude": -76.73637390136719
+  },
+  "website": "https://unitedlutheransunbury.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=012d4f2c-6be0-4138-ab88-dbf620f5601f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "012d4f2c-6be0-4138-ab88-dbf620f5601f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "unitedlutheransunbury.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231867877"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kr646b709",
+  "url": "https://constellation.church/kr646b709",
+  "name": "Crossgate Church",
+  "displayName": "Crossgate Church",
+  "address": {
+    "street": "404 Keowee School Road",
+    "city": "Seneca",
+    "state": "SC",
+    "zip": "29672"
+  },
+  "coordinates": {
+    "latitude": 34.717864990234375,
+    "longitude": -82.99331665039062
+  },
+  "website": "https://crossgatepca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4045",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4045"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "crossgatepca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "582364767"
+    }
+  ],
+  "advisories": []
+}

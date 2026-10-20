@@ -1,0 +1,33 @@
+{
+  "id": "bf655e308",
+  "url": "https://constellation.church/bf655e308",
+  "name": "Saint Pauls Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "17200 E 39th St S",
+    "city": "Independence",
+    "state": "MO",
+    "zip": "64055-3832"
+  },
+  "coordinates": {
+    "latitude": 39.04922294616699,
+    "longitude": -94.37556457519531
+  },
+  "website": "https://stpaulsindependence.org",
+  "listingUrl": "https://locator.lcms.org/church/C/441691",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "441691"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsindependence.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431131430"
+    }
+  ],
+  "advisories": []
+}

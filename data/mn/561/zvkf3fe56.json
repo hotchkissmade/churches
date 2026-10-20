@@ -1,0 +1,33 @@
+{
+  "id": "zvkf3fe56",
+  "url": "https://constellation.church/zvkf3fe56",
+  "name": "Sillerud Lutheran Church",
+  "displayName": "Sillerud Lutheran Church",
+  "address": {
+    "street": "620 221st St",
+    "city": "Balaton",
+    "state": "MN",
+    "zip": "56115-1126"
+  },
+  "coordinates": {
+    "latitude": 44.171607971191406,
+    "longitude": -95.939453125
+  },
+  "website": "https://trinity-sillerud.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b737b9df-8034-4ea2-94b2-494210d4ff41",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b737b9df-8034-4ea2-94b2-494210d4ff41"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinity-sillerud.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237294675"
+    }
+  ],
+  "advisories": []
+}

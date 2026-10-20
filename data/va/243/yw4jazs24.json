@@ -1,0 +1,33 @@
+{
+  "id": "yw4jazs24",
+  "url": "https://constellation.church/yw4jazs24",
+  "name": "Resurrection Church",
+  "displayName": "Resurrection Church",
+  "address": {
+    "street": "100 Cavs Ln",
+    "city": "Hillsville",
+    "state": "VA",
+    "zip": "24343"
+  },
+  "coordinates": {
+    "latitude": 36.76251220703125,
+    "longitude": -80.72343444824219
+  },
+  "website": "https://resurrectiongo.com",
+  "listingUrl": "https://churches.sbc.net/church/resurrection-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "resurrection-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "resurrectiongo.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "825397321"
+    }
+  ],
+  "advisories": []
+}

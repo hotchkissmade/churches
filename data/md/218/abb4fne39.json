@@ -1,0 +1,33 @@
+{
+  "id": "abb4fne39",
+  "url": "https://constellation.church/abb4fne39",
+  "name": "Ocean City Baptist Church, Inc.",
+  "displayName": "Ocean City Baptist Church",
+  "address": {
+    "street": "102 N Division St",
+    "city": "Ocean City",
+    "state": "MD",
+    "zip": "21842"
+  },
+  "coordinates": {
+    "latitude": 38.33167839050293,
+    "longitude": -75.08647537231445
+  },
+  "website": "https://ocbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/ocean-city-baptist-church-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "ocean-city-baptist-church-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ocbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521205140"
+    }
+  ],
+  "advisories": []
+}

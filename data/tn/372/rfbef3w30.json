@@ -1,0 +1,33 @@
+{
+  "id": "rfbef3w30",
+  "url": "https://constellation.church/rfbef3w30",
+  "name": "Edgehill United Methodist Church",
+  "displayName": "Edgehill United Methodist Church",
+  "address": {
+    "street": "1502 Edgehill Ave",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37212"
+  },
+  "coordinates": {
+    "latitude": 36.143259048461914,
+    "longitude": -86.79073333740234
+  },
+  "website": "https://edgehill.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFNW0IAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFNW0IAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "edgehill.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620789013"
+    }
+  ],
+  "advisories": []
+}

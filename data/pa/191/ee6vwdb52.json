@@ -1,0 +1,33 @@
+{
+  "id": "ee6vwdb52",
+  "url": "https://constellation.church/ee6vwdb52",
+  "name": "St John's Evangelical Lutheran Church",
+  "displayName": "St. John's Evangelical Lutheran Church",
+  "address": {
+    "street": "3101 Tyson Ave",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19149-2031"
+  },
+  "coordinates": {
+    "latitude": 40.03718185424805,
+    "longitude": -75.05249404907227
+  },
+  "website": "https://stjohnsmayfair.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e9e58684-23fb-4a37-84b5-25c6b24ab9e4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e9e58684-23fb-4a37-84b5-25c6b24ab9e4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsmayfair.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231494776"
+    }
+  ],
+  "advisories": []
+}

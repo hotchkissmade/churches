@@ -1,0 +1,33 @@
+{
+  "id": "ycjqv8e15",
+  "url": "https://constellation.church/ycjqv8e15",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "800 Bay Ave",
+    "city": "Toms River",
+    "state": "NJ",
+    "zip": "08753"
+  },
+  "coordinates": {
+    "latitude": 39.97331237792969,
+    "longitude": -74.16766357421875
+  },
+  "website": "https://tomsriverag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d73d8a65-fe51-4bc9-a96e-cebb7e0c2e0c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d73d8a65-fe51-4bc9-a96e-cebb7e0c2e0c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tomsriverag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222126332"
+    }
+  ],
+  "advisories": []
+}

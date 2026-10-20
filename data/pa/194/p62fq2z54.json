@@ -1,0 +1,33 @@
+{
+  "id": "p62fq2z54",
+  "url": "https://constellation.church/p62fq2z54",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "1190 Valley Forge Rd.",
+    "city": "Norristown",
+    "state": "PA",
+    "zip": "19403"
+  },
+  "coordinates": {
+    "latitude": 40.16606140136719,
+    "longitude": -75.3708724975586
+  },
+  "website": "https://trinityfairview.com/livestream",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6bf91c6c-29f5-4544-a785-c43fbbbb16bc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6bf91c6c-29f5-4544-a785-c43fbbbb16bc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityfairview.com/livestream"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231405607"
+    }
+  ],
+  "advisories": []
+}

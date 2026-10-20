@@ -1,0 +1,33 @@
+{
+  "id": "jc8z1c156",
+  "url": "https://constellation.church/jc8z1c156",
+  "name": "St. Paul's Episcopal Church",
+  "displayName": "St. Paul's Episcopal Church",
+  "address": {
+    "street": "515 Columbus Ave",
+    "city": "Waco",
+    "state": "TX",
+    "zip": "76701-1389"
+  },
+  "coordinates": {
+    "latitude": 31.55838394165039,
+    "longitude": -97.13456726074219
+  },
+  "website": "https://saintpaulswaco.org/staff",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-texas/list/st-pauls-episcopal-church-5",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-texas/st-pauls-episcopal-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintpaulswaco.org/staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741109762"
+    }
+  ],
+  "advisories": []
+}

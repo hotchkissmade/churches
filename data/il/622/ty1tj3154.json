@@ -1,0 +1,33 @@
+{
+  "id": "ty1tj3154",
+  "url": "https://constellation.church/ty1tj3154",
+  "name": "West Gate Baptist Church",
+  "displayName": "West Gate Baptist Church",
+  "address": {
+    "street": "843 W Broadway",
+    "city": "Trenton",
+    "state": "IL",
+    "zip": "62293"
+  },
+  "coordinates": {
+    "latitude": 38.605648040771484,
+    "longitude": -89.69703674316406
+  },
+  "website": "https://westgatebc.com",
+  "listingUrl": "https://churches.sbc.net/church/west-gate-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "west-gate-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westgatebc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371128636"
+    }
+  ],
+  "advisories": []
+}

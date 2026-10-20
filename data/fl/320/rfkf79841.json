@@ -1,0 +1,33 @@
+{
+  "id": "rfkf79841",
+  "url": "https://constellation.church/rfkf79841",
+  "name": "Ponte Vedra Presbyterian Church",
+  "displayName": "Ponte Vedra Presbyterian Church",
+  "address": {
+    "street": "4510 Palm Valley Road",
+    "city": "Ponte Vedra Beach",
+    "state": "FL",
+    "zip": "32082"
+  },
+  "coordinates": {
+    "latitude": 30.16852569580078,
+    "longitude": -81.38841247558594
+  },
+  "website": "https://pvpc.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1179",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1179"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pvpc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592926349"
+    }
+  ],
+  "advisories": []
+}

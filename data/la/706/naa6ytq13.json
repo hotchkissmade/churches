@@ -1,0 +1,33 @@
+{
+  "id": "naa6ytq13",
+  "url": "https://constellation.church/naa6ytq13",
+  "name": "Bethel Presbyterian Church",
+  "displayName": "Bethel Presbyterian Church",
+  "address": {
+    "street": "2040 East McNeese Street",
+    "city": "Lake Charles",
+    "state": "LA",
+    "zip": "70607"
+  },
+  "coordinates": {
+    "latitude": 30.175617218017578,
+    "longitude": -93.19065856933594
+  },
+  "website": "https://bethelpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/102",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "102"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720914738"
+    }
+  ],
+  "advisories": []
+}

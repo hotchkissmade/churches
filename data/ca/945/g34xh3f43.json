@@ -1,0 +1,33 @@
+{
+  "id": "g34xh3f43",
+  "url": "https://constellation.church/g34xh3f43",
+  "name": "Church in Alameda",
+  "displayName": "Church in Alameda",
+  "address": {
+    "street": "1926 Broadway",
+    "city": "Alameda",
+    "state": "CA",
+    "zip": "94501"
+  },
+  "coordinates": {
+    "latitude": 37.76849555969238,
+    "longitude": -122.2337646484375
+  },
+  "website": "https://thechurchinalameda.org",
+  "listingUrl": "https://localchurches.org/churches/alameda-ca-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "alameda-ca-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thechurchinalameda.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "461327447"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "maxr2ma73",
+  "url": "https://constellation.church/maxr2ma73",
+  "name": "Edmonds Lutheran Church",
+  "displayName": "Edmonds Lutheran Church",
+  "address": {
+    "street": "23525 84th Ave W",
+    "city": "Edmonds",
+    "state": "WA",
+    "zip": "98026-8611"
+  },
+  "coordinates": {
+    "latitude": 47.785274505615234,
+    "longitude": -122.34484100341797
+  },
+  "website": "https://edmondslutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e92ec4c5-35b6-4099-a532-bd6fab94c9f8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e92ec4c5-35b6-4099-a532-bd6fab94c9f8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "edmondslutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "202007731"
+    }
+  ],
+  "advisories": []
+}

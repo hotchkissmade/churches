@@ -1,0 +1,33 @@
+{
+  "id": "emzvsmn04",
+  "url": "https://constellation.church/emzvsmn04",
+  "name": "NorthCross Lutheran Church",
+  "displayName": "NorthCross Lutheran Church",
+  "address": {
+    "street": "19400 Ipava Ave",
+    "city": "Lakeville",
+    "state": "MN",
+    "zip": "55044-3819"
+  },
+  "coordinates": {
+    "latitude": 44.66801834106445,
+    "longitude": -93.25836181640625
+  },
+  "website": "https://northcrossmn.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24462",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24462"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northcrossmn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421652453"
+    }
+  ],
+  "advisories": []
+}

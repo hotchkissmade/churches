@@ -1,0 +1,33 @@
+{
+  "id": "megamcm16",
+  "url": "https://constellation.church/megamcm16",
+  "name": "Historic Trinity Lutheran Church",
+  "displayName": "Historic Trinity Lutheran Church",
+  "address": {
+    "street": "1345 Gratiot Ave",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48207-2720"
+  },
+  "coordinates": {
+    "latitude": 42.34288787841797,
+    "longitude": -83.0395278930664
+  },
+  "website": "https://historictrinity.org",
+  "listingUrl": "https://locator.lcms.org/church/C/249321",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "249321"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "historictrinity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381381297"
+    }
+  ],
+  "advisories": []
+}

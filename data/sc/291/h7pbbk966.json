@@ -1,0 +1,33 @@
+{
+  "id": "h7pbbk966",
+  "url": "https://constellation.church/h7pbbk966",
+  "name": "Heritage Presbyterian Church",
+  "displayName": "Heritage Presbyterian Church",
+  "address": {
+    "street": "2547 Rainbow Drive",
+    "city": "West Columbia",
+    "state": "SC",
+    "zip": "29170"
+  },
+  "coordinates": {
+    "latitude": 33.970298767089844,
+    "longitude": -81.10292053222656
+  },
+  "website": "https://heritagepca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/587",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "587"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "heritagepca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570869240"
+    }
+  ],
+  "advisories": []
+}

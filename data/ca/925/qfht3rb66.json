@@ -1,0 +1,33 @@
+{
+  "id": "qfht3rb66",
+  "url": "https://constellation.church/qfht3rb66",
+  "name": "Temecula United Methodist Church",
+  "displayName": "Temecula United Methodist Church",
+  "address": {
+    "street": "42690 Margarita Rd",
+    "city": "Temecula",
+    "state": "CA",
+    "zip": "92592-5462"
+  },
+  "coordinates": {
+    "latitude": 33.5034122467041,
+    "longitude": -117.12101745605469
+  },
+  "website": "https://temeculaumc.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFONQIA5",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFONQIA5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "temeculaumc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330295825"
+    }
+  ],
+  "advisories": []
+}

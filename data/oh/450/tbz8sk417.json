@@ -1,0 +1,33 @@
+{
+  "id": "tbz8sk417",
+  "url": "https://constellation.church/tbz8sk417",
+  "name": "Trinity Church",
+  "displayName": "Trinity Church",
+  "address": {
+    "street": "5920 Butler-Warren Road",
+    "city": "Mason",
+    "state": "OH",
+    "zip": "45040"
+  },
+  "coordinates": {
+    "latitude": 39.3530158996582,
+    "longitude": -84.347412109375
+  },
+  "website": "https://trinityrec.org",
+  "listingUrl": "https://www.acna.org/admin_units/536",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "536"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityrec.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311301492"
+    }
+  ],
+  "advisories": []
+}

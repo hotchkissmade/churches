@@ -1,0 +1,33 @@
+{
+  "id": "e7j9qf152",
+  "url": "https://constellation.church/e7j9qf152",
+  "name": "Warwick United Methodist Church",
+  "displayName": "Warwick United Methodist Church",
+  "address": {
+    "street": "135 Forester Avenue",
+    "city": "Warwick",
+    "state": "NY",
+    "zip": "10990"
+  },
+  "coordinates": {
+    "latitude": 41.25124549865723,
+    "longitude": -74.34927749633789
+  },
+  "website": "https://warwickumc.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF7uUIAT",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF7uUIAT"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "warwickumc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "146023201"
+    }
+  ],
+  "advisories": []
+}

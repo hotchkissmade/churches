@@ -1,0 +1,33 @@
+{
+  "id": "anb929856",
+  "url": "https://constellation.church/anb929856",
+  "name": "UNC-Chapel Hill Campus Ministry",
+  "displayName": "UNC-Chapel Hill Campus Ministry",
+  "address": {
+    "street": "304 E Franklin St",
+    "city": "Chapel Hill",
+    "state": "NC",
+    "zip": "27514"
+  },
+  "coordinates": {
+    "latitude": 35.91472053527832,
+    "longitude": -79.05009460449219
+  },
+  "website": "https://thechapelofthecross.org/who-we-are/diocesan-national-church",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-north-carolina/list/unc-chapel-hill-campus-ministry",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-north-carolina/unc-chapel-hill-campus-ministry"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thechapelofthecross.org/who-we-are/diocesan-national-church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581488731"
+    }
+  ],
+  "advisories": []
+}

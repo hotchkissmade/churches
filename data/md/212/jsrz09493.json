@@ -1,0 +1,33 @@
+{
+  "id": "jsrz09493",
+  "url": "https://constellation.church/jsrz09493",
+  "name": "The Garden Church",
+  "displayName": "The Garden Church",
+  "address": {
+    "street": "1500 Druid Hill Ave",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21217"
+  },
+  "coordinates": {
+    "latitude": 39.3035831451416,
+    "longitude": -76.63089752197266
+  },
+  "website": "https://thegardenbaltimore.com",
+  "listingUrl": "https://churches.sbc.net/church/the-garden-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-garden-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thegardenbaltimore.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800254925"
+    }
+  ],
+  "advisories": []
+}

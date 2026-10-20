@@ -1,0 +1,33 @@
+{
+  "id": "jnrz9k961",
+  "url": "https://constellation.church/jnrz9k961",
+  "name": "Emmanuel Lutheran Church",
+  "displayName": "Emmanuel Lutheran Church",
+  "address": {
+    "street": "22 Maynardier Ridge Rd",
+    "city": "Bittinger",
+    "state": "MD",
+    "zip": "21522-1101"
+  },
+  "coordinates": {
+    "latitude": 39.59936332702637,
+    "longitude": -79.21962356567383
+  },
+  "website": "https://emmanuellutheranbittinger.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bf59e7fa-b4ee-4e15-8efa-538757824d24",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bf59e7fa-b4ee-4e15-8efa-538757824d24"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emmanuellutheranbittinger.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521104773"
+    }
+  ],
+  "advisories": []
+}

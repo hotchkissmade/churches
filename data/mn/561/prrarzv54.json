@@ -1,0 +1,33 @@
+{
+  "id": "prrarzv54",
+  "url": "https://constellation.church/prrarzv54",
+  "name": "Bethel CRC",
+  "displayName": "Bethel Christian Reformed Church",
+  "address": {
+    "street": "610 Main St",
+    "city": "Edgerton",
+    "state": "MN",
+    "zip": "56128"
+  },
+  "coordinates": {
+    "latitude": 43.87541198730469,
+    "longitude": -96.12840270996094
+  },
+  "website": "https://betheledgerton.org/resources/bulletin.cfm",
+  "listingUrl": "https://www.crcna.org/churches/6628",
+  "identifiers": [
+    {
+      "namespace": "org.crcna.id",
+      "value": "6628"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "betheledgerton.org/resources/bulletin.cfm"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410724067"
+    }
+  ],
+  "advisories": []
+}

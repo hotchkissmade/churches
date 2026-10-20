@@ -1,0 +1,33 @@
+{
+  "id": "ydavcpg06",
+  "url": "https://constellation.church/ydavcpg06",
+  "name": "Encounter Church",
+  "displayName": "Encounter Church",
+  "address": {
+    "street": "5300 Twin City Hwy",
+    "city": "Groves",
+    "state": "TX",
+    "zip": "77619"
+  },
+  "coordinates": {
+    "latitude": 29.942142486572266,
+    "longitude": -93.94107055664062
+  },
+  "website": "https://encounteronline.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d0e8b001-3e73-4d6b-ac25-97f3ecc063eb&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d0e8b001-3e73-4d6b-ac25-97f3ecc063eb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "encounteronline.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "455470353"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jswbr2e60",
+  "url": "https://constellation.church/jswbr2e60",
+  "name": "Mountain View Presbyterian Church",
+  "displayName": "Mountain View Presbyterian Church",
+  "address": {
+    "street": "8050 E Mountain View Rd",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "zip": "85258"
+  },
+  "coordinates": {
+    "latitude": 33.575387954711914,
+    "longitude": -111.9077377319336
+  },
+  "website": "https://mtviewpres.org",
+  "listingUrl": "https://eco-pres.org/churches/mountain-view-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "mountain-view-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mtviewpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942939680"
+    }
+  ],
+  "advisories": []
+}

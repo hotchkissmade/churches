@@ -1,0 +1,33 @@
+{
+  "id": "z4cds3p22",
+  "url": "https://constellation.church/z4cds3p22",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "317 E Walnut St",
+    "city": "Horicon",
+    "state": "WI",
+    "zip": "53032-1234"
+  },
+  "coordinates": {
+    "latitude": 43.45224380493164,
+    "longitude": -88.63143539428711
+  },
+  "website": "https://zionhoricon.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=66381a41-b0c6-4283-954d-20b2bad8b4f1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "66381a41-b0c6-4283-954d-20b2bad8b4f1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionhoricon.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396153852"
+    }
+  ],
+  "advisories": []
+}

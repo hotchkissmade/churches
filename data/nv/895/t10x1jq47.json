@@ -1,0 +1,33 @@
+{
+  "id": "t10x1jq47",
+  "url": "https://constellation.church/t10x1jq47",
+  "name": "Second Baptist Church of Reno",
+  "displayName": "Second Baptist Church of Reno",
+  "address": {
+    "street": "1265 Montello St",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89512"
+  },
+  "coordinates": {
+    "latitude": 39.54166221618652,
+    "longitude": -119.79566955566406
+  },
+  "website": "https://secondbaptistreno.org",
+  "listingUrl": "https://churches.sbc.net/church/second-baptist-church-of-reno-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "second-baptist-church-of-reno-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "secondbaptistreno.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "880136551"
+    }
+  ],
+  "advisories": []
+}

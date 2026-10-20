@@ -1,0 +1,33 @@
+{
+  "id": "vhgn40t72",
+  "url": "https://constellation.church/vhgn40t72",
+  "name": "Salem Baptist Church",
+  "displayName": "Salem Baptist Church",
+  "address": {
+    "street": "4008 Salem Rd",
+    "city": "Aynor",
+    "state": "SC",
+    "zip": "29511"
+  },
+  "coordinates": {
+    "latitude": 33.95388221740723,
+    "longitude": -79.128173828125
+  },
+  "website": "https://salembaptistchurchofaynor.org",
+  "listingUrl": "https://churches.sbc.net/church/salem-baptist-church-22/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "salem-baptist-church-22"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salembaptistchurchofaynor.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "582355987"
+    }
+  ],
+  "advisories": []
+}

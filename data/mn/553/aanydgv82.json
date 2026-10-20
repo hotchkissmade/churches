@@ -1,0 +1,33 @@
+{
+  "id": "aanydgv82",
+  "url": "https://constellation.church/aanydgv82",
+  "name": "St Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "101 W Chandler St",
+    "city": "Arlington",
+    "state": "MN",
+    "zip": "55307-2111"
+  },
+  "coordinates": {
+    "latitude": 44.610355377197266,
+    "longitude": -94.07806396484375
+  },
+  "website": "https://stpaularlington.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24354",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24354"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaularlington.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410726162"
+    }
+  ],
+  "advisories": []
+}

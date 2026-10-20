@@ -1,0 +1,33 @@
+{
+  "id": "n0wde5f80",
+  "url": "https://constellation.church/n0wde5f80",
+  "name": "Freedom Hill Church, San Antonio",
+  "displayName": "Freedom Hill Church, San Antonio",
+  "address": {
+    "street": "3950 Eisenhauer Rd",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78218"
+  },
+  "coordinates": {
+    "latitude": 29.496496,
+    "longitude": -98.418219
+  },
+  "website": "https://fhsa.church",
+  "listingUrl": "https://churches.sbc.net/church/freedom-hill-church-san-antonio/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "freedom-hill-church-san-antonio"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fhsa.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "832252033"
+    }
+  ],
+  "advisories": []
+}

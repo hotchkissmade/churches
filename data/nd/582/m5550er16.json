@@ -1,0 +1,33 @@
+{
+  "id": "m5550er16",
+  "url": "https://constellation.church/m5550er16",
+  "name": "Walhalla Lutheran Church",
+  "displayName": "Walhalla Lutheran Church",
+  "address": {
+    "street": "416 Central Ave.",
+    "city": "Walhalla",
+    "state": "ND",
+    "zip": "58282"
+  },
+  "coordinates": {
+    "latitude": 48.918434143066406,
+    "longitude": -97.92292785644531
+  },
+  "website": "https://walhalland.org/attractions.php",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b73c7b89-6488-44f2-a2d4-9779606a5d63",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b73c7b89-6488-44f2-a2d4-9779606a5d63"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "walhalland.org/attractions.php"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450337424"
+    }
+  ],
+  "advisories": []
+}

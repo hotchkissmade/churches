@@ -1,0 +1,33 @@
+{
+  "id": "hx3t8k796",
+  "url": "https://constellation.church/hx3t8k796",
+  "name": "St. Herman Church",
+  "displayName": "St. Herman Church",
+  "address": {
+    "street": "142 W Wooley Rd",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93030"
+  },
+  "coordinates": {
+    "latitude": 34.18963813781738,
+    "longitude": -119.178466796875
+  },
+  "website": "https://sthermanoxnard.org/calendar.html",
+  "listingUrl": "https://www.oca.org/parishes/oca-we-oxnshm",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-we-oxnshm"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sthermanoxnard.org/calendar.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953535100"
+    }
+  ],
+  "advisories": []
+}

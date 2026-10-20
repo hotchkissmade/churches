@@ -1,0 +1,33 @@
+{
+  "id": "kwg7p3346",
+  "url": "https://constellation.church/kwg7p3346",
+  "name": "First Baptist Church of Vero Beach",
+  "displayName": "First Baptist Church of Vero Beach",
+  "address": {
+    "street": "2206 16th Ave",
+    "city": "Vero Beach",
+    "state": "FL",
+    "zip": "32960"
+  },
+  "coordinates": {
+    "latitude": 27.641265869140625,
+    "longitude": -80.40104675292969
+  },
+  "website": "https://fbcvero.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-vero-beach/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-vero-beach"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcvero.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590806971"
+    }
+  ],
+  "advisories": []
+}

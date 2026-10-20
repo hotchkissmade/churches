@@ -1,0 +1,33 @@
+{
+  "id": "daf2jqn21",
+  "url": "https://constellation.church/daf2jqn21",
+  "name": "Ft Washington Heights Presbyterian Church",
+  "displayName": "Fort Washington Heights Presbyterian Church",
+  "address": {
+    "street": "21 Wadsworth Ave",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10033-7018"
+  },
+  "coordinates": {
+    "latitude": 40.84540939331055,
+    "longitude": -73.93803787231445
+  },
+  "website": "https://nycago.org/organs/nyc/html/fortwashingtonpres.html",
+  "listingUrl": "https://church-trends.pcusa.org/church/10729/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "10729"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nycago.org/organs/nyc/html/fortwashingtonpres.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "133121268"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hpecf1h52",
+  "url": "https://constellation.church/hpecf1h52",
+  "name": "River City Church",
+  "displayName": "River City Church",
+  "address": {
+    "street": "301 NE Main Street",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55413"
+  },
+  "coordinates": {
+    "latitude": 44.99059867858887,
+    "longitude": -93.26119232177734
+  },
+  "website": "https://rivercitympls.com",
+  "listingUrl": "https://venturechurches.org/churches/river-city-church/",
+  "identifiers": [
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "river-city-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rivercitympls.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410711493"
+    }
+  ],
+  "advisories": []
+}

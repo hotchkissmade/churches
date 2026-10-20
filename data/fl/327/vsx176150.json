@@ -1,0 +1,33 @@
+{
+  "id": "vsx176150",
+  "url": "https://constellation.church/vsx176150",
+  "name": "First Baptist Church of Apopka",
+  "displayName": "First Baptist Church of Apopka",
+  "address": {
+    "street": "441 S Highland Ave",
+    "city": "Apopka",
+    "state": "FL",
+    "zip": "32703"
+  },
+  "coordinates": {
+    "latitude": 28.67239761352539,
+    "longitude": -81.5052604675293
+  },
+  "website": "https://fbcapopka.net",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-apopka/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-apopka"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcapopka.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591197230"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wrqmm6a13",
+  "url": "https://constellation.church/wrqmm6a13",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "777 S Myrtle School Rd",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28052"
+  },
+  "coordinates": {
+    "latitude": 35.250688552856445,
+    "longitude": -81.2241439819336
+  },
+  "website": "https://gastoniafirst.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=42f9f4dd-c748-48ae-becd-af87ca43f02c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "42f9f4dd-c748-48ae-becd-af87ca43f02c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gastoniafirst.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561349384"
+    }
+  ],
+  "advisories": []
+}

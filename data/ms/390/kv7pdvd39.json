@@ -1,0 +1,33 @@
+{
+  "id": "kv7pdvd39",
+  "url": "https://constellation.church/kv7pdvd39",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "603 Smythe Street",
+    "city": "Kosciusko",
+    "state": "MS",
+    "zip": "39090"
+  },
+  "coordinates": {
+    "latitude": 33.05087089538574,
+    "longitude": -89.57725524902344
+  },
+  "website": "https://fpckosciusko.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/458",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "458"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpckosciusko.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640560220"
+    }
+  ],
+  "advisories": []
+}

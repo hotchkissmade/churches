@@ -1,0 +1,33 @@
+{
+  "id": "zfmh5kn24",
+  "url": "https://constellation.church/zfmh5kn24",
+  "name": "Zion Evangelical Lutheran Church",
+  "displayName": "Zion Evangelical Lutheran Church",
+  "address": {
+    "street": "18th St & Central",
+    "city": "Barnegat Light",
+    "state": "NJ",
+    "zip": "08006"
+  },
+  "coordinates": {
+    "latitude": 39.74938774108887,
+    "longitude": -74.11118698120117
+  },
+  "website": "https://zionlbi.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=92f35d09-1268-43d8-9047-3082761cef12",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "92f35d09-1268-43d8-9047-3082761cef12"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionlbi.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222152827"
+    }
+  ],
+  "advisories": []
+}

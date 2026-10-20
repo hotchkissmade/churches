@@ -1,0 +1,33 @@
+{
+  "id": "dkmsggp86",
+  "url": "https://constellation.church/dkmsggp86",
+  "name": "Heart River Lutheran Church",
+  "displayName": "Heart River Lutheran Church",
+  "address": {
+    "street": "701 16th Ave SW",
+    "city": "Mandan",
+    "state": "ND",
+    "zip": "58554-5800"
+  },
+  "coordinates": {
+    "latitude": 46.81782150268555,
+    "longitude": -100.91370391845703
+  },
+  "website": "https://heartriverlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ee0fa50e-ef22-4f0c-817d-695fa132c14b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ee0fa50e-ef22-4f0c-817d-695fa132c14b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "heartriverlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450378855"
+    }
+  ],
+  "advisories": []
+}

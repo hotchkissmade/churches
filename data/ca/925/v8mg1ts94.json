@@ -1,0 +1,33 @@
+{
+  "id": "v8mg1ts94",
+  "url": "https://constellation.church/v8mg1ts94",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "600 W Sumner",
+    "city": "Lake Elsinore",
+    "state": "CA",
+    "zip": "92530-3509"
+  },
+  "coordinates": {
+    "latitude": 33.67318534851074,
+    "longitude": -117.332763671875
+  },
+  "website": "https://firstluth.com",
+  "listingUrl": "https://locator.lcms.org/church/C/489346",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "489346"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstluth.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952625875"
+    }
+  ],
+  "advisories": []
+}

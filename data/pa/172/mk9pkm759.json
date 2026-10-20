@@ -1,0 +1,33 @@
+{
+  "id": "mk9pkm759",
+  "url": "https://constellation.church/mk9pkm759",
+  "name": "Shippensburg Presbyterian Church",
+  "displayName": "Shippensburg Presbyterian Church",
+  "address": {
+    "street": "12 S Prince St",
+    "city": "Shippensburg",
+    "state": "PA",
+    "zip": "17257"
+  },
+  "coordinates": {
+    "latitude": 40.051340103149414,
+    "longitude": -77.5164566040039
+  },
+  "website": "https://presbyship.org",
+  "listingUrl": "https://eco-pres.org/churches/shippensburg-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "shippensburg-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "presbyship.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231405626"
+    }
+  ],
+  "advisories": []
+}

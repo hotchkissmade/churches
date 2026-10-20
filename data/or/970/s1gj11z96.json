@@ -1,0 +1,33 @@
+{
+  "id": "s1gj11z96",
+  "url": "https://constellation.church/s1gj11z96",
+  "name": "Evergreen Presbyterian Church",
+  "displayName": "Evergreen Presbyterian Church",
+  "address": {
+    "street": "7275 SW Hall Boulevard",
+    "city": "Beaverton",
+    "state": "OR",
+    "zip": "97008"
+  },
+  "coordinates": {
+    "latitude": 45.467002868652344,
+    "longitude": -122.80429077148438
+  },
+  "website": "https://evergreenpca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1428",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1428"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "evergreenpca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "931094514"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qh196s839",
+  "url": "https://constellation.church/qh196s839",
+  "name": "Lee Road Baptist Church",
+  "displayName": "Lee Road Baptist Church",
+  "address": {
+    "street": "1503 E Lee Rd",
+    "city": "Taylors",
+    "state": "SC",
+    "zip": "29687"
+  },
+  "coordinates": {
+    "latitude": 34.90502738952637,
+    "longitude": -82.31697845458984
+  },
+  "website": "https://leeroad.com",
+  "listingUrl": "https://churches.sbc.net/church/lee-road-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lee-road-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "leeroad.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570507054"
+    }
+  ],
+  "advisories": []
+}

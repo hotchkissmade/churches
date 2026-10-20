@@ -1,0 +1,33 @@
+{
+  "id": "k6n9txf50",
+  "url": "https://constellation.church/k6n9txf50",
+  "name": "St. Nicholas Church",
+  "displayName": "St. Nicholas Church",
+  "address": {
+    "street": "3873 Cherokee Ave",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92104"
+  },
+  "coordinates": {
+    "latitude": 32.749250411987305,
+    "longitude": -117.11416625976562
+  },
+  "website": "https://st-nicholas-orthodox-church.com",
+  "listingUrl": "https://www.oca.org/parishes/oca-we-sansnc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-we-sansnc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "st-nicholas-orthodox-church.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330049021"
+    }
+  ],
+  "advisories": []
+}

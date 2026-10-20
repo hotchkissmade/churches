@@ -1,0 +1,33 @@
+{
+  "id": "xefnvj027",
+  "url": "https://constellation.church/xefnvj027",
+  "name": "Klamath Lutheran Church",
+  "displayName": "Klamath Lutheran Church",
+  "address": {
+    "street": "1175 Crescent Ave",
+    "city": "Klamath Falls",
+    "state": "OR",
+    "zip": "97601-2515"
+  },
+  "coordinates": {
+    "latitude": 42.23122787475586,
+    "longitude": -121.77974700927734
+  },
+  "website": "https://klamathlutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b5805e26-7fff-4d24-b051-b404de31ee2e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b5805e26-7fff-4d24-b051-b404de31ee2e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "klamathlutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930427367"
+    }
+  ],
+  "advisories": []
+}

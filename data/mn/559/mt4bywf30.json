@@ -1,0 +1,33 @@
+{
+  "id": "mt4bywf30",
+  "url": "https://constellation.church/mt4bywf30",
+  "name": "The Edge Church",
+  "displayName": "The Edge Church",
+  "address": {
+    "street": "69 E 3rd St",
+    "city": "Winona",
+    "state": "MN",
+    "zip": "55987"
+  },
+  "coordinates": {
+    "latitude": 44.04761505126953,
+    "longitude": -91.6401596069336
+  },
+  "website": "https://winonaedge.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d923d8ef-83e5-4be8-b62d-6a8f895e35f9&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d923d8ef-83e5-4be8-b62d-6a8f895e35f9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "winonaedge.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "263044154"
+    }
+  ],
+  "advisories": []
+}

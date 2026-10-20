@@ -1,0 +1,33 @@
+{
+  "id": "f7sqn2218",
+  "url": "https://constellation.church/f7sqn2218",
+  "name": "Mount Gilead Lutheran Church",
+  "displayName": "Mount Gilead Lutheran Church",
+  "address": {
+    "street": "11199 Highway 73 E",
+    "city": "Mount Pleasant",
+    "state": "NC",
+    "zip": "28124-7729"
+  },
+  "coordinates": {
+    "latitude": 35.38714027404785,
+    "longitude": -80.38898849487305
+  },
+  "website": "https://mtgileadlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bea3a598-c80e-46f0-9120-7563e4fe2ed2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bea3a598-c80e-46f0-9120-7563e4fe2ed2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mtgileadlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561205210"
+    }
+  ],
+  "advisories": []
+}

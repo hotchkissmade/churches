@@ -1,0 +1,33 @@
+{
+  "id": "vxznanp02",
+  "url": "https://constellation.church/vxznanp02",
+  "name": "Fellowship CRC",
+  "displayName": "Fellowship Christian Reformed Church",
+  "address": {
+    "street": "407 Perry Ave",
+    "city": "Big Rapids",
+    "state": "MI",
+    "zip": "49307"
+  },
+  "coordinates": {
+    "latitude": 43.68754577636719,
+    "longitude": -85.48946380615234
+  },
+  "website": "https://fellowshipcrc.net",
+  "listingUrl": "https://www.crcna.org/churches/6902",
+  "identifiers": [
+    {
+      "namespace": "org.crcna.id",
+      "value": "6902"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fellowshipcrc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382023052"
+    }
+  ],
+  "advisories": []
+}

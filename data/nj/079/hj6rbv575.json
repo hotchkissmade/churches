@@ -1,0 +1,33 @@
+{
+  "id": "hj6rbv575",
+  "url": "https://constellation.church/hj6rbv575",
+  "name": "St. Bernard's Episcopal Church",
+  "displayName": "St. Bernard's Episcopal Church",
+  "address": {
+    "street": "88 Claremont Rd",
+    "city": "Bernardsville",
+    "state": "NJ",
+    "zip": "07924-2210"
+  },
+  "coordinates": {
+    "latitude": 40.72229766845703,
+    "longitude": -74.57247543334961
+  },
+  "website": "https://stbernardsnj.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-new-jersey/list/st-bernards-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-new-jersey/st-bernards-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stbernardsnj.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221506942"
+    }
+  ],
+  "advisories": []
+}

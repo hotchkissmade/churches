@@ -1,0 +1,37 @@
+{
+  "id": "mprzf4t92",
+  "url": "https://constellation.church/mprzf4t92",
+  "name": "Grace Fellowship Church",
+  "displayName": "Grace Fellowship Church",
+  "address": {
+    "street": "9379 Gunpowder Rd",
+    "city": "Florence",
+    "state": "KY",
+    "zip": "41042"
+  },
+  "coordinates": {
+    "latitude": 38.960418701171875,
+    "longitude": -84.65880584716797
+  },
+  "website": "https://graceky.org",
+  "listingUrl": "https://churches.sbc.net/church/grace-fellowship-church-5/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grace-fellowship-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceky.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611261841"
+    },
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "173783"
+    }
+  ],
+  "advisories": []
+}

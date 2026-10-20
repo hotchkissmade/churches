@@ -1,0 +1,33 @@
+{
+  "id": "x4ftnnk88",
+  "url": "https://constellation.church/x4ftnnk88",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "111 W Las Palmas Dr",
+    "city": "Fullerton",
+    "state": "CA",
+    "zip": "92835-1529"
+  },
+  "coordinates": {
+    "latitude": 33.91241264343262,
+    "longitude": -117.93193817138672
+  },
+  "website": "https://stpaulfullerton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1efe4bf6-17b8-4400-a8ac-ac30bbf74bae",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1efe4bf6-17b8-4400-a8ac-ac30bbf74bae"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulfullerton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952630303"
+    }
+  ],
+  "advisories": []
+}

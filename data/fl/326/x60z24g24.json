@@ -1,0 +1,33 @@
+{
+  "id": "x60z24g24",
+  "url": "https://constellation.church/x60z24g24",
+  "name": "Morriston Baptist Church",
+  "displayName": "Morriston Baptist Church",
+  "address": {
+    "street": "3141 SE US Hwy 41",
+    "city": "Morriston",
+    "state": "FL",
+    "zip": "32668"
+  },
+  "coordinates": {
+    "latitude": 29.284385681152344,
+    "longitude": -82.44479751586914
+  },
+  "website": "https://morristonbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/morriston-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "morriston-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "morristonbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592704734"
+    }
+  ],
+  "advisories": []
+}

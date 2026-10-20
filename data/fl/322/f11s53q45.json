@@ -1,0 +1,33 @@
+{
+  "id": "f11s53q45",
+  "url": "https://constellation.church/f11s53q45",
+  "name": "Cedar Bay Baptist Church",
+  "displayName": "Cedar Bay Baptist Church",
+  "address": {
+    "street": "11553 N Main St",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32218"
+  },
+  "coordinates": {
+    "latitude": 30.446277618408203,
+    "longitude": -81.63883972167969
+  },
+  "website": "https://cedarbaybaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/cedar-bay-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cedar-bay-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cedarbaybaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591381281"
+    }
+  ],
+  "advisories": []
+}

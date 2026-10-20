@@ -1,0 +1,33 @@
+{
+  "id": "cc7977a28",
+  "url": "https://constellation.church/cc7977a28",
+  "name": "All Saints Episcopal Church (and South Sudanese Congregation)",
+  "displayName": "All Saints Episcopal Church (and South Sudanese Congregation)",
+  "address": {
+    "street": "1710 Foothill Dr",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84108"
+  },
+  "coordinates": {
+    "latitude": 40.732980728149414,
+    "longitude": -111.82080841064453
+  },
+  "website": "https://allsaintsslc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-utah/list/all-saints-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-utah/all-saints-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allsaintsslc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "870274301"
+    }
+  ],
+  "advisories": []
+}

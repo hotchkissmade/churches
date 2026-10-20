@@ -1,0 +1,33 @@
+{
+  "id": "zf5d7ey13",
+  "url": "https://constellation.church/zf5d7ey13",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "150 Lamb Ln",
+    "city": "Whitefish",
+    "state": "MT",
+    "zip": "59937"
+  },
+  "coordinates": {
+    "latitude": 48.390933990478516,
+    "longitude": -114.34477996826172
+  },
+  "website": "https://whitefishassembly.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d27d1c06-f760-4186-94db-e238c695c585&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d27d1c06-f760-4186-94db-e238c695c585"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "whitefishassembly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810303541"
+    }
+  ],
+  "advisories": []
+}

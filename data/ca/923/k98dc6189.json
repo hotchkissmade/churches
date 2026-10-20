@@ -1,0 +1,33 @@
+{
+  "id": "k98dc6189",
+  "url": "https://constellation.church/k98dc6189",
+  "name": "First Evangelical Lutheran Church",
+  "displayName": "First Evangelical Lutheran Church",
+  "address": {
+    "street": "1207 W Cypress Ave",
+    "city": "Redlands",
+    "state": "CA",
+    "zip": "92373-5725"
+  },
+  "coordinates": {
+    "latitude": 34.038373947143555,
+    "longitude": -117.19129180908203
+  },
+  "website": "https://firstlutheranredlands.org/about-us",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=48ba8e8e-85c2-4dc0-9c65-33b398889843",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "48ba8e8e-85c2-4dc0-9c65-33b398889843"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranredlands.org/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951985432"
+    }
+  ],
+  "advisories": []
+}

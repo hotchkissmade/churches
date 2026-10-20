@@ -1,0 +1,33 @@
+{
+  "id": "kdqdk9558",
+  "url": "https://constellation.church/kdqdk9558",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "5001 Main St",
+    "city": "Rowlett",
+    "state": "TX",
+    "zip": "75088"
+  },
+  "coordinates": {
+    "latitude": 32.904645919799805,
+    "longitude": -96.55143737792969
+  },
+  "website": "https://fbcrowlett.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-971/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-971"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcrowlett.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751452019"
+    }
+  ],
+  "advisories": []
+}

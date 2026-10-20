@@ -1,0 +1,33 @@
+{
+  "id": "e7mecpn75",
+  "url": "https://constellation.church/e7mecpn75",
+  "name": "First Evangelical Lutheran Church",
+  "displayName": "First Evangelical Lutheran Church",
+  "address": {
+    "street": "600 Homer Ave",
+    "city": "Palo Alto",
+    "state": "CA",
+    "zip": "94301-2827"
+  },
+  "coordinates": {
+    "latitude": 37.44723320007324,
+    "longitude": -122.15398406982422
+  },
+  "website": "https://flcpa.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b830a857-68c8-4fcd-a10c-777a2017b4c3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b830a857-68c8-4fcd-a10c-777a2017b4c3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcpa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941433206"
+    }
+  ],
+  "advisories": []
+}

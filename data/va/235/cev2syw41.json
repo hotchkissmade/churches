@@ -1,0 +1,33 @@
+{
+  "id": "cev2syw41",
+  "url": "https://constellation.church/cev2syw41",
+  "name": "Spurgeon Baptist Church",
+  "displayName": "Spurgeon Baptist Church",
+  "address": {
+    "street": "8026 Old Ocean View Rd",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip": "23518"
+  },
+  "coordinates": {
+    "latitude": 36.91802406311035,
+    "longitude": -76.25031280517578
+  },
+  "website": "https://spurgeonchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/spurgeon-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "spurgeon-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "spurgeonchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540625227"
+    }
+  ],
+  "advisories": []
+}

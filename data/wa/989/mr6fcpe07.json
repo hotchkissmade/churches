@@ -1,0 +1,33 @@
+{
+  "id": "mr6fcpe07",
+  "url": "https://constellation.church/mr6fcpe07",
+  "name": "Bethany Community Church",
+  "displayName": "Bethany Community Church",
+  "address": {
+    "street": "201 Birch Avenue",
+    "city": "Grandview",
+    "state": "WA",
+    "zip": "98930"
+  },
+  "coordinates": {
+    "latitude": 46.25453186035156,
+    "longitude": -119.89881134033203
+  },
+  "website": "https://bethanygrandview.org",
+  "listingUrl": "https://eco-pres.org/churches/bethany-community-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "bethany-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanygrandview.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910640495"
+    }
+  ],
+  "advisories": []
+}

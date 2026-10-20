@@ -1,0 +1,33 @@
+{
+  "id": "x2whx7722",
+  "url": "https://constellation.church/x2whx7722",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "3000 W 16th St",
+    "city": "Greeley",
+    "state": "CO",
+    "zip": "80634"
+  },
+  "coordinates": {
+    "latitude": 40.41379737854004,
+    "longitude": -104.72969818115234
+  },
+  "website": "https://greeleyfirst.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=b63c0cc5-55b6-4f2d-af13-54dc8ab0c87a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "b63c0cc5-55b6-4f2d-af13-54dc8ab0c87a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "greeleyfirst.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840821557"
+    }
+  ],
+  "advisories": []
+}

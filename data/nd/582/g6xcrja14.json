@@ -1,0 +1,33 @@
+{
+  "id": "g6xcrja14",
+  "url": "https://constellation.church/g6xcrja14",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "300 5th St",
+    "city": "Walhalla",
+    "state": "ND",
+    "zip": "58282"
+  },
+  "coordinates": {
+    "latitude": 48.91933059692383,
+    "longitude": -97.92138671875
+  },
+  "website": "https://walhallandag.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=e8fc285a-ab35-495d-b8ba-fab757c2792c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "e8fc285a-ab35-495d-b8ba-fab757c2792c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "walhallandag.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450378940"
+    }
+  ],
+  "advisories": []
+}

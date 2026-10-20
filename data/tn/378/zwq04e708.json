@@ -1,0 +1,33 @@
+{
+  "id": "zwq04e708",
+  "url": "https://constellation.church/zwq04e708",
+  "name": "Covenant Presbyterian Church",
+  "displayName": "Covenant Presbyterian Church",
+  "address": {
+    "street": "3000 Clearview Court",
+    "city": "Oak Ridge",
+    "state": "TN",
+    "zip": "37830"
+  },
+  "coordinates": {
+    "latitude": 35.98843574523926,
+    "longitude": -84.21960830688477
+  },
+  "website": "https://covenant-pca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/301",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "301"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covenant-pca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621177799"
+    }
+  ],
+  "advisories": []
+}

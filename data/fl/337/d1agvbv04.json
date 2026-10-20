@@ -1,0 +1,33 @@
+{
+  "id": "d1agvbv04",
+  "url": "https://constellation.church/d1agvbv04",
+  "name": "St. Dunstan's Anglican Church",
+  "displayName": "St. Dunstan's Anglican Church",
+  "address": {
+    "street": "2790 Sunny Breeze Ave",
+    "city": "Largo",
+    "state": "FL",
+    "zip": "33770"
+  },
+  "coordinates": {
+    "latitude": 27.903331756591797,
+    "longitude": -82.8156967163086
+  },
+  "website": "https://stdunstans.church",
+  "listingUrl": "https://www.acna.org/admin_units/424",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "424"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stdunstans.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "263893948"
+    }
+  ],
+  "advisories": []
+}

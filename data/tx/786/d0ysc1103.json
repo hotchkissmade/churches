@@ -1,0 +1,33 @@
+{
+  "id": "d0ysc1103",
+  "url": "https://constellation.church/d0ysc1103",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "130 W Holland St",
+    "city": "San Marcos",
+    "state": "TX",
+    "zip": "78666-2905"
+  },
+  "coordinates": {
+    "latitude": 29.895343780517578,
+    "longitude": -97.951416015625
+  },
+  "website": "https://flcsm.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8a65f60a-75bc-482a-b10d-fa5b4623373b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8a65f60a-75bc-482a-b10d-fa5b4623373b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcsm.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742291290"
+    }
+  ],
+  "advisories": []
+}

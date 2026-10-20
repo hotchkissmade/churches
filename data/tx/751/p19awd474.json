@@ -1,0 +1,33 @@
+{
+  "id": "p19awd474",
+  "url": "https://constellation.church/p19awd474",
+  "name": "First Baptist Church, Red Oak",
+  "displayName": "First Baptist Church, Red Oak",
+  "address": {
+    "street": "320 E Ovilla Rd",
+    "city": "Red Oak",
+    "state": "TX",
+    "zip": "75154"
+  },
+  "coordinates": {
+    "latitude": 32.5340633392334,
+    "longitude": -96.80076599121094
+  },
+  "website": "https://firstredoak.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-red-oak/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-red-oak"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstredoak.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751560244"
+    }
+  ],
+  "advisories": []
+}

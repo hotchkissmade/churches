@@ -1,0 +1,33 @@
+{
+  "id": "k0fseeq78",
+  "url": "https://constellation.church/k0fseeq78",
+  "name": "Holy Trinity Lutheran Church",
+  "displayName": "Holy Trinity Lutheran Church",
+  "address": {
+    "street": "643 W 17th St",
+    "city": "Erie",
+    "state": "PA",
+    "zip": "16502-1608"
+  },
+  "coordinates": {
+    "latitude": 42.11371994018555,
+    "longitude": -80.09330749511719
+  },
+  "website": "https://holy-church-erie.edan.io",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=739beaeb-6450-48b9-b11d-8cb14fa75a22",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "739beaeb-6450-48b9-b11d-8cb14fa75a22"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holy-church-erie.edan.io"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "256048731"
+    }
+  ],
+  "advisories": []
+}

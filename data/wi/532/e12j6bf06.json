@@ -1,0 +1,33 @@
+{
+  "id": "e12j6bf06",
+  "url": "https://constellation.church/e12j6bf06",
+  "name": "Fairview Lutheran Church",
+  "displayName": "Fairview Lutheran Church",
+  "address": {
+    "street": "137 N 66th St",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53213-4041"
+  },
+  "coordinates": {
+    "latitude": 43.032325744628906,
+    "longitude": -87.99491882324219
+  },
+  "website": "https://fairviewlutheran.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24843",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24843"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fairviewlutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390878988"
+    }
+  ],
+  "advisories": []
+}

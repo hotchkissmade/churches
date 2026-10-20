@@ -1,0 +1,33 @@
+{
+  "id": "fsf0k1848",
+  "url": "https://constellation.church/fsf0k1848",
+  "name": "Trinity Presbyterian Church",
+  "displayName": "Trinity Presbyterian Church",
+  "address": {
+    "street": "11171 Highway 278 East",
+    "city": "Covington",
+    "state": "GA",
+    "zip": "30014"
+  },
+  "coordinates": {
+    "latitude": 33.593482971191406,
+    "longitude": -83.79846572875977
+  },
+  "website": "https://trinitypca.net",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1020",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1020"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitypca.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581629947"
+    }
+  ],
+  "advisories": []
+}

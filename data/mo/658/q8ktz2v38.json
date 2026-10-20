@@ -1,0 +1,33 @@
+{
+  "id": "q8ktz2v38",
+  "url": "https://constellation.church/q8ktz2v38",
+  "name": "National Heights Baptist Church",
+  "displayName": "National Heights Baptist Church",
+  "address": {
+    "street": "3050 N National Ave",
+    "city": "Springfield",
+    "state": "MO",
+    "zip": "65803"
+  },
+  "coordinates": {
+    "latitude": 37.25284767150879,
+    "longitude": -93.27349853515625
+  },
+  "website": "https://nationalheights.org",
+  "listingUrl": "https://churches.sbc.net/church/national-heights-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "national-heights-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nationalheights.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440552060"
+    }
+  ],
+  "advisories": []
+}

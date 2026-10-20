@@ -1,0 +1,33 @@
+{
+  "id": "x2e9m9935",
+  "url": "https://constellation.church/x2e9m9935",
+  "name": "First Baptist Church of Bolingbrook",
+  "displayName": "First Baptist Church of Bolingbrook",
+  "address": {
+    "street": "314 E Briarcliff Rd",
+    "city": "Bolingbrook",
+    "state": "IL",
+    "zip": "60440"
+  },
+  "coordinates": {
+    "latitude": 41.69952201843262,
+    "longitude": -88.05725860595703
+  },
+  "website": "https://firstbaptistbolingbrook.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-bolingbrook/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-bolingbrook"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistbolingbrook.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362766136"
+    }
+  ],
+  "advisories": []
+}

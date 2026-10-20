@@ -1,0 +1,33 @@
+{
+  "id": "qrfc6pv28",
+  "url": "https://constellation.church/qrfc6pv28",
+  "name": "Church in Albuquerque",
+  "displayName": "Church in Albuquerque",
+  "address": {
+    "street": "6102 Constitution Ave NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87110"
+  },
+  "coordinates": {
+    "latitude": 35.070539474487305,
+    "longitude": -106.56147003173828
+  },
+  "website": "https://churchinalbuquerque.org",
+  "listingUrl": "https://localchurches.org/churches/albuquerque-nm-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "albuquerque-nm-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinalbuquerque.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850252522"
+    }
+  ],
+  "advisories": []
+}

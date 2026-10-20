@@ -1,0 +1,33 @@
+{
+  "id": "zhmjdga85",
+  "url": "https://constellation.church/zhmjdga85",
+  "name": "Northway Church",
+  "displayName": "Northway Church",
+  "address": {
+    "street": "3877 Walnut Hill Ln",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75229"
+  },
+  "coordinates": {
+    "latitude": 32.881208419799805,
+    "longitude": -96.8492431640625
+  },
+  "website": "https://northwaychurch.com",
+  "listingUrl": "https://churches.sbc.net/church/northway-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northway-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northwaychurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "834523647"
+    }
+  ],
+  "advisories": []
+}

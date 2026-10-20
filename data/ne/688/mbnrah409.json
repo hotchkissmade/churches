@@ -1,0 +1,33 @@
+{
+  "id": "mbnrah409",
+  "url": "https://constellation.church/mbnrah409",
+  "name": "Calvary Church",
+  "displayName": "Calvary Church",
+  "address": {
+    "street": "110 W 24th St",
+    "city": "Kearney",
+    "state": "NE",
+    "zip": "68847"
+  },
+  "coordinates": {
+    "latitude": 40.69906997680664,
+    "longitude": -99.08401489257812
+  },
+  "website": "https://calvarykearney.com",
+  "listingUrl": "https://churches.sbc.net/church/calvary-church-7/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "calvary-church-7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "calvarykearney.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "824403925"
+    }
+  ],
+  "advisories": []
+}

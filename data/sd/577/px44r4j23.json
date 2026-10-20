@@ -1,0 +1,33 @@
+{
+  "id": "px44r4j23",
+  "url": "https://constellation.church/px44r4j23",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "105 Wall St",
+    "city": "Lead",
+    "state": "SD",
+    "zip": "57754"
+  },
+  "coordinates": {
+    "latitude": 44.35150909423828,
+    "longitude": -103.7652359008789
+  },
+  "website": "https://leadassemblyofgod.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=fb9f7c9b-9381-4957-b8fb-db4bdd08e839&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "fb9f7c9b-9381-4957-b8fb-db4bdd08e839"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "leadassemblyofgod.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460356981"
+    }
+  ],
+  "advisories": []
+}

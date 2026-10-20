@@ -1,0 +1,33 @@
+{
+  "id": "ygygrh661",
+  "url": "https://constellation.church/ygygrh661",
+  "name": "Philadelphia Lutheran Church",
+  "displayName": "Philadelphia Lutheran Church",
+  "address": {
+    "street": "52 Pinewood Rd",
+    "city": "Granite Falls",
+    "state": "NC",
+    "zip": "28630-1229"
+  },
+  "coordinates": {
+    "latitude": 35.81209373474121,
+    "longitude": -81.43682479858398
+  },
+  "website": "https://lifewithphiladelphia.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2fdb7511-b4eb-43b0-8ac6-9190d9098cfe",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2fdb7511-b4eb-43b0-8ac6-9190d9098cfe"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lifewithphiladelphia.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237415893"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tm8ggmj06",
+  "url": "https://constellation.church/tm8ggmj06",
+  "name": "Winfield Heights Baptist Church",
+  "displayName": "Winfield Heights Baptist Church",
+  "address": {
+    "street": "315 Chester St",
+    "city": "Williston",
+    "state": "SC",
+    "zip": "29853"
+  },
+  "coordinates": {
+    "latitude": 33.3892794,
+    "longitude": -81.407041
+  },
+  "website": "https://winfieldheights.org",
+  "listingUrl": "https://churches.sbc.net/church/winfield-heights-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "winfield-heights-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "winfieldheights.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570751021"
+    }
+  ],
+  "advisories": []
+}

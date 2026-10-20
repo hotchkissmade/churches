@@ -1,0 +1,33 @@
+{
+  "id": "ept1x3m77",
+  "url": "https://constellation.church/ept1x3m77",
+  "name": "First Baptist Church of Tallahassee",
+  "displayName": "First Baptist Church of Tallahassee",
+  "address": {
+    "street": "108 W College Ave",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32301"
+  },
+  "coordinates": {
+    "latitude": 30.441137313842773,
+    "longitude": -84.2827033996582
+  },
+  "website": "https://fbctlh.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-tallahassee/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-tallahassee"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbctlh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590711169"
+    }
+  ],
+  "advisories": []
+}

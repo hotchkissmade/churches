@@ -1,0 +1,33 @@
+{
+  "id": "v7wkbat19",
+  "url": "https://constellation.church/v7wkbat19",
+  "name": "St Johns Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "516 Pasadena Dr",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40503-2217"
+  },
+  "coordinates": {
+    "latitude": 38.01103401184082,
+    "longitude": -84.53606033325195
+  },
+  "website": "https://stjohnslexington.org",
+  "listingUrl": "https://locator.lcms.org/church/C/509401",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "509401"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnslexington.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "610702759"
+    }
+  ],
+  "advisories": []
+}

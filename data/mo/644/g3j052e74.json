@@ -1,0 +1,33 @@
+{
+  "id": "g3j052e74",
+  "url": "https://constellation.church/g3j052e74",
+  "name": "First Baptist Church of Maryville",
+  "displayName": "First Baptist Church of Maryville",
+  "address": {
+    "street": "121 E Jenkins St",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": "64468"
+  },
+  "coordinates": {
+    "latitude": 40.34428405761719,
+    "longitude": -94.87145233154297
+  },
+  "website": "https://fbcmaryville.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-maryville-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-maryville-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcmaryville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431091354"
+    }
+  ],
+  "advisories": []
+}

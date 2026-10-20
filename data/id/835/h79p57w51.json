@@ -1,0 +1,33 @@
+{
+  "id": "h79p57w51",
+  "url": "https://constellation.church/h79p57w51",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "3434 6th St",
+    "city": "Lewiston",
+    "state": "ID",
+    "zip": "83501-5132"
+  },
+  "coordinates": {
+    "latitude": 46.37725830078125,
+    "longitude": -117.00228118896484
+  },
+  "website": "https://graceeluth.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d883bbbc-322a-4e67-bd24-d1c3f6bf3249",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d883bbbc-322a-4e67-bd24-d1c3f6bf3249"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceeluth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820347715"
+    }
+  ],
+  "advisories": []
+}

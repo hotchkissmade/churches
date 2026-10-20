@@ -1,0 +1,33 @@
+{
+  "id": "e1whjkv34",
+  "url": "https://constellation.church/e1whjkv34",
+  "name": "University United Methodist Church",
+  "displayName": "University United Methodist Church",
+  "address": {
+    "street": "2818 N University St",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61604-2610"
+  },
+  "coordinates": {
+    "latitude": 40.7223366,
+    "longitude": -89.6129509
+  },
+  "website": "https://uumcpeoria.org/ministries",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFN3iIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFN3iIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "uumcpeoria.org/ministries"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371133806"
+    }
+  ],
+  "advisories": []
+}

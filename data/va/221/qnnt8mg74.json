@@ -1,0 +1,33 @@
+{
+  "id": "qnnt8mg74",
+  "url": "https://constellation.church/qnnt8mg74",
+  "name": "Christ Chapel",
+  "displayName": "Christ Chapel",
+  "address": {
+    "street": "13909 Smoketown Rd",
+    "city": "Woodbridge",
+    "state": "VA",
+    "zip": "22192"
+  },
+  "coordinates": {
+    "latitude": 38.650162,
+    "longitude": -77.3022387
+  },
+  "website": "https://christchapel.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=89fcbef3-278c-4bb7-a8e1-e8a9a168cbfb&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "89fcbef3-278c-4bb7-a8e1-e8a9a168cbfb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christchapel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "546113041"
+    }
+  ],
+  "advisories": []
+}

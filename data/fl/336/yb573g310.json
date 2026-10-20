@@ -1,0 +1,33 @@
+{
+  "id": "yb573g310",
+  "url": "https://constellation.church/yb573g310",
+  "name": "Belmont Baptist Church",
+  "displayName": "Belmont Baptist Church",
+  "address": {
+    "street": "7830 N 56th St",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33617"
+  },
+  "coordinates": {
+    "latitude": 28.019363403320312,
+    "longitude": -82.39508056640625
+  },
+  "website": "https://belmonttampa.org",
+  "listingUrl": "https://churches.sbc.net/church/belmont-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "belmont-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "belmonttampa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590760196"
+    }
+  ],
+  "advisories": []
+}

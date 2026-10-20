@@ -1,0 +1,33 @@
+{
+  "id": "fp4c72f84",
+  "url": "https://constellation.church/fp4c72f84",
+  "name": "Concordia Lutheran Church",
+  "displayName": "Concordia Lutheran Church",
+  "address": {
+    "street": "204 N Main St",
+    "city": "Crosby",
+    "state": "ND",
+    "zip": "58730-3000"
+  },
+  "coordinates": {
+    "latitude": 48.91536331176758,
+    "longitude": -103.29328918457031
+  },
+  "website": "https://concordiacrosby.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=56d05c0e-7d14-45b7-8b78-87cf3a15dc0c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "56d05c0e-7d14-45b7-8b78-87cf3a15dc0c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "concordiacrosby.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450239712"
+    }
+  ],
+  "advisories": []
+}

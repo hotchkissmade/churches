@@ -1,0 +1,33 @@
+{
+  "id": "kx7etz854",
+  "url": "https://constellation.church/kx7etz854",
+  "name": "Fort Worth Presbyterian Church",
+  "displayName": "Fort Worth Presbyterian Church",
+  "address": {
+    "street": "6251 Oakmont Trail",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76132"
+  },
+  "coordinates": {
+    "latitude": 32.658369064331055,
+    "longitude": -97.40859985351562
+  },
+  "website": "https://fortworthpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1410",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1410"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fortworthpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752394189"
+    }
+  ],
+  "advisories": []
+}

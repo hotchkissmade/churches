@@ -1,0 +1,33 @@
+{
+  "id": "rmb3nv639",
+  "url": "https://constellation.church/rmb3nv639",
+  "name": "United Lutheran Church",
+  "displayName": "United Lutheran Church",
+  "address": {
+    "street": "215 10th Ave SE",
+    "city": "Elbow Lake",
+    "state": "MN",
+    "zip": "56531-4730"
+  },
+  "coordinates": {
+    "latitude": 45.988975524902344,
+    "longitude": -95.96285247802734
+  },
+  "website": "https://unitedlutheranelbowlake.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1af3c50a-b4c9-495b-9396-f24f69271fa5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1af3c50a-b4c9-495b-9396-f24f69271fa5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "unitedlutheranelbowlake.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410826174"
+    }
+  ],
+  "advisories": []
+}

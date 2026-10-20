@@ -1,0 +1,33 @@
+{
+  "id": "x7207b281",
+  "url": "https://constellation.church/x7207b281",
+  "name": "Lutheran Church Of The Good Shepherd",
+  "displayName": "Lutheran Church Of The Good Shepherd",
+  "address": {
+    "street": "4801 France Ave S",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55410-1757"
+  },
+  "coordinates": {
+    "latitude": 44.91567611694336,
+    "longitude": -93.32855987548828
+  },
+  "website": "https://goodshepherdmpls.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7cd83108-fa2d-4a26-9347-bf482576d8d1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7cd83108-fa2d-4a26-9347-bf482576d8d1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherdmpls.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410744070"
+    }
+  ],
+  "advisories": []
+}

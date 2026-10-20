@@ -1,0 +1,33 @@
+{
+  "id": "pza4da508",
+  "url": "https://constellation.church/pza4da508",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "1535 Washington Ave",
+    "city": "Enumclaw",
+    "state": "WA",
+    "zip": "98022-3211"
+  },
+  "coordinates": {
+    "latitude": 47.2073974609375,
+    "longitude": -121.99075317382812
+  },
+  "website": "https://trinitylutheranenumclaw.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e12be961-5602-4361-9efd-b480a4bd0527",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e12be961-5602-4361-9efd-b480a4bd0527"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylutheranenumclaw.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910637781"
+    }
+  ],
+  "advisories": []
+}

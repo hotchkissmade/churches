@@ -1,0 +1,33 @@
+{
+  "id": "ck93srf94",
+  "url": "https://constellation.church/ck93srf94",
+  "name": "Parkridge Baptist Church",
+  "displayName": "Parkridge Baptist Church",
+  "address": {
+    "street": "5600 Coral Ridge Dr",
+    "city": "Coral Springs",
+    "state": "FL",
+    "zip": "33076"
+  },
+  "coordinates": {
+    "latitude": 26.269628524780273,
+    "longitude": -80.28269958496094
+  },
+  "website": "https://parkridgechurch.com",
+  "listingUrl": "https://churches.sbc.net/church/parkridge-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "parkridge-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parkridgechurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "650895173"
+    }
+  ],
+  "advisories": []
+}

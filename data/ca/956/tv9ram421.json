@@ -1,0 +1,33 @@
+{
+  "id": "tv9ram421",
+  "url": "https://constellation.church/tv9ram421",
+  "name": "Church in Roseville",
+  "displayName": "Church in Roseville",
+  "address": {
+    "street": "9885 Sierra College Blvd",
+    "city": "Roseville",
+    "state": "CA",
+    "zip": "95661"
+  },
+  "coordinates": {
+    "latitude": 38.7170598,
+    "longitude": -121.2257579
+  },
+  "website": "https://churchinroseville.org",
+  "listingUrl": "https://localchurches.org/churches/roseville-ca-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "roseville-ca-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinroseville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311583780"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xs71bd483",
+  "url": "https://constellation.church/xs71bd483",
+  "name": "Morrow Baptist Church",
+  "displayName": "Morrow Baptist Church",
+  "address": {
+    "street": "5876 E US 22 and 3",
+    "city": "Morrow",
+    "state": "OH",
+    "zip": "45152"
+  },
+  "coordinates": {
+    "latitude": 39.355780827348,
+    "longitude": -84.101725243673
+  },
+  "website": "https://morrowbaptistchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/morrow-baptist-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "morrow-baptist-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "morrowbaptistchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "316046891"
+    }
+  ],
+  "advisories": []
+}

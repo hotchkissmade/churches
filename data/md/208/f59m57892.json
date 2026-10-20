@@ -1,0 +1,33 @@
+{
+  "id": "f59m57892",
+  "url": "https://constellation.church/f59m57892",
+  "name": "St John's Evangelical Lutheran Church",
+  "displayName": "St. John's Evangelical Lutheran Church",
+  "address": {
+    "street": "4629 Aspen Hill Rd",
+    "city": "Rockville",
+    "state": "MD",
+    "zip": "20853-2842"
+  },
+  "coordinates": {
+    "latitude": 39.075998306274414,
+    "longitude": -77.09387588500977
+  },
+  "website": "https://stjohnsrockville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0d809152-7d09-423b-bb29-9422b59d731a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0d809152-7d09-423b-bb29-9422b59d731a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsrockville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520809890"
+    }
+  ],
+  "advisories": []
+}

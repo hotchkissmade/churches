@@ -1,0 +1,33 @@
+{
+  "id": "v8718nt25",
+  "url": "https://constellation.church/v8718nt25",
+  "name": "Cordova Lutheran Church",
+  "displayName": "Cordova Lutheran Church",
+  "address": {
+    "street": "10400 Coloma Rd",
+    "city": "Rancho Cordova",
+    "state": "CA",
+    "zip": "95670-2100"
+  },
+  "coordinates": {
+    "latitude": 38.596656799316406,
+    "longitude": -121.30382537841797
+  },
+  "website": "https://corluth.org",
+  "listingUrl": "https://locator.lcms.org/church/C/752681",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "752681"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "corluth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941706838"
+    }
+  ],
+  "advisories": []
+}

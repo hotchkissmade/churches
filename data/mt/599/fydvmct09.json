@@ -1,0 +1,33 @@
+{
+  "id": "fydvmct09",
+  "url": "https://constellation.church/fydvmct09",
+  "name": "St. Patrick's Episcopal Church",
+  "displayName": "St. Patrick's Episcopal Church",
+  "address": {
+    "street": "30631 Mt Highway 209",
+    "city": "Bigfork",
+    "state": "MT",
+    "zip": "59911"
+  },
+  "coordinates": {
+    "latitude": 48.05157470703125,
+    "longitude": -114.00665283203125
+  },
+  "website": "https://stpatricksbigfork.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-montana/list/st-patricks-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-montana/st-patricks-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpatricksbigfork.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810415556"
+    }
+  ],
+  "advisories": []
+}

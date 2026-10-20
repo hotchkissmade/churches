@@ -1,0 +1,33 @@
+{
+  "id": "fb22s7h89",
+  "url": "https://constellation.church/fb22s7h89",
+  "name": "Salt Church of Gainesville",
+  "displayName": "Salt Church of Gainesville",
+  "address": {
+    "street": "8105 NW 23rd Ave",
+    "city": "Gainesville",
+    "state": "FL",
+    "zip": "32606"
+  },
+  "coordinates": {
+    "latitude": 29.67252540588379,
+    "longitude": -82.42906951904297
+  },
+  "website": "https://saltchurchgnv.com",
+  "listingUrl": "https://churches.sbc.net/church/salt-church-of-gainesville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "salt-church-of-gainesville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saltchurchgnv.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "833521061"
+    }
+  ],
+  "advisories": []
+}

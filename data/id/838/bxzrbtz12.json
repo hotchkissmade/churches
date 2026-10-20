@@ -1,0 +1,33 @@
+{
+  "id": "bxzrbtz12",
+  "url": "https://constellation.church/bxzrbtz12",
+  "name": "Calvary Lutheran Church",
+  "displayName": "Calvary Lutheran Church",
+  "address": {
+    "street": "1011 N Compton St",
+    "city": "Post Falls",
+    "state": "ID",
+    "zip": "83854-7263"
+  },
+  "coordinates": {
+    "latitude": 47.7176763,
+    "longitude": -116.9521088
+  },
+  "website": "https://calvarypostfalls.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2c67b69a-7a05-4ace-aadb-74210d77dd4e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2c67b69a-7a05-4ace-aadb-74210d77dd4e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "calvarypostfalls.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820395063"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vzz1fev42",
+  "url": "https://constellation.church/vzz1fev42",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "154 Meadow St",
+    "city": "Bristol",
+    "state": "CT",
+    "zip": "06010-5730"
+  },
+  "coordinates": {
+    "latitude": 41.6737634,
+    "longitude": -72.94915
+  },
+  "website": "https://ilcs.org/about-us/our-history.php",
+  "listingUrl": "https://locator.lcms.org/church/C/105320",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "105320"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ilcs.org/about-us/our-history.php"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "060772142"
+    }
+  ],
+  "advisories": []
+}

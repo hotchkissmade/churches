@@ -1,0 +1,33 @@
+{
+  "id": "p6dczk157",
+  "url": "https://constellation.church/p6dczk157",
+  "name": "First Baptist Church Oakville",
+  "displayName": "First Baptist Church Oakville",
+  "address": {
+    "street": "6741 Telegraph Rd",
+    "city": "Saint Louis",
+    "state": "MO",
+    "zip": "63129"
+  },
+  "coordinates": {
+    "latitude": 38.44270706176758,
+    "longitude": -90.31991958618164
+  },
+  "website": "https://firstbco.church",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-oakville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-oakville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbco.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430970155"
+    }
+  ],
+  "advisories": []
+}

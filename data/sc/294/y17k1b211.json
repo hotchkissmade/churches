@@ -1,0 +1,33 @@
+{
+  "id": "y17k1b211",
+  "url": "https://constellation.church/y17k1b211",
+  "name": "St Luke's Lutheran Church",
+  "displayName": "St. Luke's Lutheran Church",
+  "address": {
+    "street": "206 Central Ave",
+    "city": "Summerville",
+    "state": "SC",
+    "zip": "29483-6004"
+  },
+  "coordinates": {
+    "latitude": 33.01862907409668,
+    "longitude": -80.17913436889648
+  },
+  "website": "https://stlukessummerville.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1f42f3e7-924a-492d-a451-bb91a4bbd3cf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1f42f3e7-924a-492d-a451-bb91a4bbd3cf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukessummerville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "576034244"
+    }
+  ],
+  "advisories": []
+}

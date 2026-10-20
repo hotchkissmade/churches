@@ -1,0 +1,33 @@
+{
+  "id": "smtpty586",
+  "url": "https://constellation.church/smtpty586",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "401 N Gibbs St",
+    "city": "Pomona",
+    "state": "CA",
+    "zip": "91767"
+  },
+  "coordinates": {
+    "latitude": 34.06161689758301,
+    "longitude": -117.74840545654297
+  },
+  "website": "https://pomonapres.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/588/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "588"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pomonapres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951644012"
+    }
+  ],
+  "advisories": []
+}

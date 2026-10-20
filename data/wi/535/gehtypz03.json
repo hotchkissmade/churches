@@ -1,0 +1,33 @@
+{
+  "id": "gehtypz03",
+  "url": "https://constellation.church/gehtypz03",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "413 E Madison St",
+    "city": "Waterloo",
+    "state": "WI",
+    "zip": "53594-1235"
+  },
+  "coordinates": {
+    "latitude": 43.1842534,
+    "longitude": -88.9864391
+  },
+  "website": "https://stjohnwaterloo.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24923",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24923"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnwaterloo.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390930733"
+    }
+  ],
+  "advisories": []
+}

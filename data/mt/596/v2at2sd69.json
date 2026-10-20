@@ -1,0 +1,33 @@
+{
+  "id": "v2at2sd69",
+  "url": "https://constellation.church/v2at2sd69",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "2231 E Broadway",
+    "city": "Helena",
+    "state": "MT",
+    "zip": "59601-4807"
+  },
+  "coordinates": {
+    "latitude": 46.5840643,
+    "longitude": -112.0008963
+  },
+  "website": "https://firstlutheranhelena.org",
+  "listingUrl": "https://locator.lcms.org/church/C/407193",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "407193"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranhelena.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810305138"
+    }
+  ],
+  "advisories": []
+}

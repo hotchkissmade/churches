@@ -1,0 +1,33 @@
+{
+  "id": "ewdgcwa86",
+  "url": "https://constellation.church/ewdgcwa86",
+  "name": "Home Church",
+  "displayName": "Home Church",
+  "address": {
+    "street": "3520 Sugarloaf Pkwy Suite F0373",
+    "city": "Frederick",
+    "state": "MD",
+    "zip": "21704"
+  },
+  "coordinates": {
+    "latitude": 39.3358211517334,
+    "longitude": -77.39068222045898
+  },
+  "website": "https://homechurchmd.org",
+  "listingUrl": "https://churches.sbc.net/church/home-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "home-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "homechurchmd.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "813027453"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "t1ht2d451",
+  "url": "https://constellation.church/t1ht2d451",
+  "name": "Ebenezer Christian Church",
+  "displayName": "Ebenezer Christian Church",
+  "address": {
+    "street": "69 Wisconsin Ave",
+    "city": "Bay Shore",
+    "state": "NY",
+    "zip": "11706"
+  },
+  "coordinates": {
+    "latitude": 40.762271881103516,
+    "longitude": -73.25325393676758
+  },
+  "website": "https://ebenezercc.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=db1cfd49-2f49-4c92-b058-b41a911e1a34&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "db1cfd49-2f49-4c92-b058-b41a911e1a34"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ebenezercc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "113054766"
+    }
+  ],
+  "advisories": []
+}

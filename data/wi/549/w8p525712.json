@@ -1,0 +1,33 @@
+{
+  "id": "w8p525712",
+  "url": "https://constellation.church/w8p525712",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "PO Box 250",
+    "city": "Hortonville",
+    "state": "WI",
+    "zip": "54944-0250"
+  },
+  "coordinates": {
+    "latitude": 44.34303855895996,
+    "longitude": -88.61997604370117
+  },
+  "website": "https://bethlehem-wels.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24599",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24599"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethlehem-wels.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390925286"
+    }
+  ],
+  "advisories": []
+}

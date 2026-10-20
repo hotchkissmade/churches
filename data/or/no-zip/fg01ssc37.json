@@ -1,0 +1,33 @@
+{
+  "id": "fg01ssc37",
+  "url": "https://constellation.church/fg01ssc37",
+  "name": "West Hills Friends",
+  "displayName": "West Hills Friends",
+  "address": {
+    "street": "7425 SW 52nd Ave.",
+    "city": "Portland",
+    "state": "OR",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 45.47106170654297,
+    "longitude": -122.73101806640625
+  },
+  "website": "https://westhillsfriends.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/west-hills-friends/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "west-hills-friends"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westhillsfriends.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930621741"
+    }
+  ],
+  "advisories": []
+}

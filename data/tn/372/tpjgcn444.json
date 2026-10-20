@@ -1,0 +1,33 @@
+{
+  "id": "tpjgcn444",
+  "url": "https://constellation.church/tpjgcn444",
+  "name": "Smith Springs Baptist Church",
+  "displayName": "Smith Springs Baptist Church",
+  "address": {
+    "street": "2760 Park Dale Dr",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37217"
+  },
+  "coordinates": {
+    "latitude": 36.08264923095703,
+    "longitude": -86.62469100952148
+  },
+  "website": "https://smithspringsbaptist.squarespace.com",
+  "listingUrl": "https://churches.sbc.net/church/smith-springs-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "smith-springs-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "smithspringsbaptist.squarespace.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620911233"
+    }
+  ],
+  "advisories": []
+}

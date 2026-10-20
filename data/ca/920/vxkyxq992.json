@@ -1,0 +1,33 @@
+{
+  "id": "vxkyxq992",
+  "url": "https://constellation.church/vxkyxq992",
+  "name": "St John's Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "1430 Melody Ln",
+    "city": "El Cajon",
+    "state": "CA",
+    "zip": "92019-1925"
+  },
+  "coordinates": {
+    "latitude": 32.797136306762695,
+    "longitude": -116.9308090209961
+  },
+  "website": "https://stjohnslutheranelcajon.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=546ce8f8-f49f-40de-9583-d3b00da7e84f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "546ce8f8-f49f-40de-9583-d3b00da7e84f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnslutheranelcajon.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952497618"
+    }
+  ],
+  "advisories": []
+}

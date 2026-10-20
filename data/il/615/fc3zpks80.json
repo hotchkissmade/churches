@@ -1,0 +1,33 @@
+{
+  "id": "fc3zpks80",
+  "url": "https://constellation.church/fc3zpks80",
+  "name": "Apostolic Christian Church of Washington",
+  "displayName": "Apostolic Christian Church of Washington",
+  "address": {
+    "street": "432 E. Cruger Road",
+    "city": "Washington",
+    "state": "IL",
+    "zip": "61571"
+  },
+  "coordinates": {
+    "latitude": 40.71946334838867,
+    "longitude": -89.40290832519531
+  },
+  "website": "https://washingtonacchurch.org",
+  "listingUrl": "https://www.apostolicchristian.org/congregations/washington",
+  "identifiers": [
+    {
+      "namespace": "org.apostolicchristian.id",
+      "value": "washington"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "washingtonacchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371025233"
+    }
+  ],
+  "advisories": []
+}

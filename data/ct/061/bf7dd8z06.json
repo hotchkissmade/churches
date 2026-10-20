@@ -1,0 +1,33 @@
+{
+  "id": "bf7dd8z06",
+  "url": "https://constellation.church/bf7dd8z06",
+  "name": "New Covenant United Methodist Church",
+  "displayName": "New Covenant United Methodist Church",
+  "address": {
+    "street": "16 Church St",
+    "city": "East Hartford",
+    "state": "CT",
+    "zip": "06108"
+  },
+  "coordinates": {
+    "latitude": 41.779052734375,
+    "longitude": -72.60913467407227
+  },
+  "website": "https://newcovenant-umc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PEuEoIAL",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PEuEoIAL"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newcovenant-umc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421705617"
+    }
+  ],
+  "advisories": []
+}

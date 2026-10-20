@@ -1,0 +1,33 @@
+{
+  "id": "hcrzz5b14",
+  "url": "https://constellation.church/hcrzz5b14",
+  "name": "Martin Luther Lutheran Church",
+  "displayName": "Martin Luther Lutheran Church",
+  "address": {
+    "street": "10151 Sappington Rd",
+    "city": "Saint Louis",
+    "state": "MO",
+    "zip": "63128-1657"
+  },
+  "coordinates": {
+    "latitude": 38.51436233520508,
+    "longitude": -90.38114166259766
+  },
+  "website": "https://mluther.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24479",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24479"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mluther.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431101357"
+    }
+  ],
+  "advisories": []
+}

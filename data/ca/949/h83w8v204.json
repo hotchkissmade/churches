@@ -1,0 +1,33 @@
+{
+  "id": "h83w8v204",
+  "url": "https://constellation.church/h83w8v204",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "72 Kensington Rd",
+    "city": "San Anselmo",
+    "state": "CA",
+    "zip": "94960-2921"
+  },
+  "coordinates": {
+    "latitude": 37.97051811218262,
+    "longitude": -122.56682586669922
+  },
+  "website": "https://togetherweserve.org/about",
+  "listingUrl": "https://church-trends.pcusa.org/church/677/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "677"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "togetherweserve.org/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941167434"
+    }
+  ],
+  "advisories": []
+}

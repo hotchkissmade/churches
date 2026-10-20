@@ -1,0 +1,33 @@
+{
+  "id": "kc7kk7m35",
+  "url": "https://constellation.church/kc7kk7m35",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "401 W Irene Ave",
+    "city": "Moriarty",
+    "state": "NM",
+    "zip": "87035"
+  },
+  "coordinates": {
+    "latitude": 35.00624656677246,
+    "longitude": -106.04666900634766
+  },
+  "website": "https://fbcmoriarty.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-410/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-410"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcmoriarty.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850319643"
+    }
+  ],
+  "advisories": []
+}

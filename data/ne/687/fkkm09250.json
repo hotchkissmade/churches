@@ -1,0 +1,33 @@
+{
+  "id": "fkkm09250",
+  "url": "https://constellation.church/fkkm09250",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "1300 W Benjamin Ave",
+    "city": "Norfolk",
+    "state": "NE",
+    "zip": "68701-2621"
+  },
+  "coordinates": {
+    "latitude": 42.04780960083008,
+    "longitude": -97.42768859863281
+  },
+  "website": "https://stjohnsnorfolk.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=eaedbd57-8f85-451b-b311-1fa2024e62c3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "eaedbd57-8f85-451b-b311-1fa2024e62c3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsnorfolk.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470429339"
+    }
+  ],
+  "advisories": []
+}

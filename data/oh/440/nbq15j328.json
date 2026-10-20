@@ -1,0 +1,33 @@
+{
+  "id": "nbq15j328",
+  "url": "https://constellation.church/nbq15j328",
+  "name": "St. Andrew's Church",
+  "displayName": "St. Andrew's Church",
+  "address": {
+    "street": "300 3rd St",
+    "city": "Elyria",
+    "state": "OH",
+    "zip": "44035-5618"
+  },
+  "coordinates": {
+    "latitude": 41.36493682861328,
+    "longitude": -82.10753631591797
+  },
+  "website": "https://standrewselyria.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-ohio/list/st-andrews-church-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-ohio/st-andrews-church-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewselyria.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340760594"
+    }
+  ],
+  "advisories": []
+}

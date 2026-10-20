@@ -1,0 +1,33 @@
+{
+  "id": "p3pyery29",
+  "url": "https://constellation.church/p3pyery29",
+  "name": "Free Grace Presbyterian Church",
+  "displayName": "Free Grace Presbyterian Church",
+  "address": {
+    "street": "160 Canal Street",
+    "city": "Lewiston",
+    "state": "ME",
+    "zip": "04240"
+  },
+  "coordinates": {
+    "latitude": 44.09247970581055,
+    "longitude": -70.21541976928711
+  },
+  "website": "https://freegrace.us",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5165",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5165"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "freegrace.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "262673205"
+    }
+  ],
+  "advisories": []
+}

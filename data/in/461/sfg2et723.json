@@ -1,0 +1,37 @@
+{
+  "id": "sfg2et723",
+  "url": "https://constellation.church/sfg2et723",
+  "name": "Mooresville United Methodist Church",
+  "displayName": "Mooresville United Methodist Church",
+  "address": {
+    "street": "900 Indianapolis Rd",
+    "city": "Mooresville",
+    "state": "IN",
+    "zip": "46158"
+  },
+  "coordinates": {
+    "latitude": 39.626190185546875,
+    "longitude": -86.36652374267578
+  },
+  "website": "https://mooresvillefumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFP3qIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFP3qIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mooresvillefumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351102005"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "844058354"
+    }
+  ],
+  "advisories": []
+}

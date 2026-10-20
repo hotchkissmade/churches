@@ -1,0 +1,33 @@
+{
+  "id": "r2rbqwg67",
+  "url": "https://constellation.church/r2rbqwg67",
+  "name": "St. Martin's Episcopal Church",
+  "displayName": "St. Martin's Episcopal Church",
+  "address": {
+    "street": "1602 S FM 116",
+    "city": "Copperas Cove",
+    "state": "TX",
+    "zip": "76522-4204"
+  },
+  "coordinates": {
+    "latitude": 31.107072830200195,
+    "longitude": -97.9087905883789
+  },
+  "website": "https://stmartinscove.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-texas/list/st-martins-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-texas/st-martins-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmartinscove.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742441087"
+    }
+  ],
+  "advisories": []
+}

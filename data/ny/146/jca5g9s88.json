@@ -1,0 +1,33 @@
+{
+  "id": "jca5g9s88",
+  "url": "https://constellation.church/jca5g9s88",
+  "name": "St. Paul's Church",
+  "displayName": "St. Paul's Church",
+  "address": {
+    "street": "25 Westminster Rd",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14607-2223"
+  },
+  "coordinates": {
+    "latitude": 43.15174865722656,
+    "longitude": -77.58200454711914
+  },
+  "website": "https://stpaulsec.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-rochester/list/st-pauls-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-rochester/st-pauls-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsec.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "160743122"
+    }
+  ],
+  "advisories": []
+}

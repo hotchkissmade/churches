@@ -1,0 +1,33 @@
+{
+  "id": "t16v9ba22",
+  "url": "https://constellation.church/t16v9ba22",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "133 Downing Street",
+    "city": "Hazlehurst",
+    "state": "MS",
+    "zip": "39083"
+  },
+  "coordinates": {
+    "latitude": 31.85939598083496,
+    "longitude": -90.39729309082031
+  },
+  "website": "https://fpchazlehurst.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/475",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "475"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpchazlehurst.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640409265"
+    }
+  ],
+  "advisories": []
+}

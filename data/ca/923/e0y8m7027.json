@@ -1,0 +1,33 @@
+{
+  "id": "e0y8m7027",
+  "url": "https://constellation.church/e0y8m7027",
+  "name": "Loveland Church",
+  "displayName": "Loveland Church",
+  "address": {
+    "street": "17977 Merrill Ave",
+    "city": "Fontana",
+    "state": "CA",
+    "zip": "92335"
+  },
+  "coordinates": {
+    "latitude": 34.09158897399902,
+    "longitude": -117.41209411621094
+  },
+  "website": "https://lovelandchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/loveland-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "loveland-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lovelandchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330054976"
+    }
+  ],
+  "advisories": []
+}

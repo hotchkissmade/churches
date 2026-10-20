@@ -1,0 +1,33 @@
+{
+  "id": "cngprye13",
+  "url": "https://constellation.church/cngprye13",
+  "name": "Central Baptist Church",
+  "displayName": "Central Baptist Church",
+  "address": {
+    "street": "3101 W State Road 46",
+    "city": "Sanford",
+    "state": "FL",
+    "zip": "32771"
+  },
+  "coordinates": {
+    "latitude": 28.81011199951172,
+    "longitude": -81.3039779663086
+  },
+  "website": "https://gocentralchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/central-baptist-church-4/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "central-baptist-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gocentralchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591499968"
+    }
+  ],
+  "advisories": []
+}

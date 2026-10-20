@@ -1,0 +1,33 @@
+{
+  "id": "e1fhgr387",
+  "url": "https://constellation.church/e1fhgr387",
+  "name": "Anchor Church",
+  "displayName": "Anchor Church",
+  "address": {
+    "street": "6300 San Mateo Blvd NE Ste F1",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87109"
+  },
+  "coordinates": {
+    "latitude": 35.17880439758301,
+    "longitude": -106.55029296875
+  },
+  "website": "https://anchorchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/anchor-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "anchor-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "anchorchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "454533275"
+    }
+  ],
+  "advisories": []
+}

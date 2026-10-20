@@ -1,0 +1,33 @@
+{
+  "id": "wfenf4z47",
+  "url": "https://constellation.church/wfenf4z47",
+  "name": "Luther Lutheran Church",
+  "displayName": "Luther Lutheran Church",
+  "address": {
+    "street": "4955 Richfield Rd",
+    "city": "Richfield",
+    "state": "NC",
+    "zip": "28137-8705"
+  },
+  "coordinates": {
+    "latitude": 35.51625633239746,
+    "longitude": -80.24700546264648
+  },
+  "website": "https://lutherslutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a0adc1e0-29f4-40fb-9b95-f6dc368c5fe3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a0adc1e0-29f4-40fb-9b95-f6dc368c5fe3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lutherslutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640955323"
+    }
+  ],
+  "advisories": []
+}

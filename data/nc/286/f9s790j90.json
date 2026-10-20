@@ -1,0 +1,33 @@
+{
+  "id": "f9s790j90",
+  "url": "https://constellation.church/f9s790j90",
+  "name": "Concord",
+  "displayName": "Concord Baptist Church",
+  "address": {
+    "street": "74 Falls Ave",
+    "city": "Granite Falls",
+    "state": "NC",
+    "zip": "28630"
+  },
+  "coordinates": {
+    "latitude": 35.80064582824707,
+    "longitude": -81.42171096801758
+  },
+  "website": "https://concordbaptistchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/concord-6/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "concord-6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "concordbaptistchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561014471"
+    }
+  ],
+  "advisories": []
+}

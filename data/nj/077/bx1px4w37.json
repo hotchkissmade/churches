@@ -1,0 +1,33 @@
+{
+  "id": "bx1px4w37",
+  "url": "https://constellation.church/bx1px4w37",
+  "name": "Embury United Methodist Church",
+  "displayName": "Embury United Methodist Church",
+  "address": {
+    "street": "49 Church St",
+    "city": "Little Silver",
+    "state": "NJ",
+    "zip": "07739-1401"
+  },
+  "coordinates": {
+    "latitude": 40.34066963195801,
+    "longitude": -74.04144287109375
+  },
+  "website": "https://emburyumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFJlHIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFJlHIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emburyumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "216018499"
+    }
+  ],
+  "advisories": []
+}

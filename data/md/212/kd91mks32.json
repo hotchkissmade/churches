@@ -1,0 +1,33 @@
+{
+  "id": "kd91mks32",
+  "url": "https://constellation.church/kd91mks32",
+  "name": "Light Street Presbyterian Church",
+  "displayName": "Light Street Presbyterian Church",
+  "address": {
+    "street": "809 Light St",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21230"
+  },
+  "coordinates": {
+    "latitude": 39.279541015625,
+    "longitude": -76.6124382019043
+  },
+  "website": "https://lightstreetchurch.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/294/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "294"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lightstreetchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520741612"
+    }
+  ],
+  "advisories": []
+}

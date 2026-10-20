@@ -1,0 +1,33 @@
+{
+  "id": "v1qfnat80",
+  "url": "https://constellation.church/v1qfnat80",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "1020 S A St",
+    "city": "Moses Lake",
+    "state": "WA",
+    "zip": "98837-2023"
+  },
+  "coordinates": {
+    "latitude": 47.12358856201172,
+    "longitude": -119.28253936767578
+  },
+  "website": "https://ilcmoseslake.wixsite.com/mysite",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0d3da26e-8f6b-43fc-b5ac-fe1cb1af78a2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0d3da26e-8f6b-43fc-b5ac-fe1cb1af78a2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ilcmoseslake.wixsite.com/mysite"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910752545"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qedkv9540",
+  "url": "https://constellation.church/qedkv9540",
+  "name": "City Church Boulder",
+  "displayName": "City Church Boulder",
+  "address": {
+    "street": "2801 Jay Road",
+    "city": "Boulder",
+    "state": "CO",
+    "zip": "80301"
+  },
+  "coordinates": {
+    "latitude": 40.051597595214844,
+    "longitude": -105.25917053222656
+  },
+  "website": "https://citychurchboulder.org",
+  "listingUrl": "https://churches.sbc.net/church/city-church-boulder/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "city-church-boulder"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "citychurchboulder.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "812079096"
+    }
+  ],
+  "advisories": []
+}

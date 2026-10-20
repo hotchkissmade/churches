@@ -1,0 +1,33 @@
+{
+  "id": "tr8ndjg14",
+  "url": "https://constellation.church/tr8ndjg14",
+  "name": "St. Luke's United Methodist Church",
+  "displayName": "St. Luke's United Methodist Church",
+  "address": {
+    "street": "100 W 86th St",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46260"
+  },
+  "coordinates": {
+    "latitude": 39.913352966308594,
+    "longitude": -86.16154479980469
+  },
+  "website": "https://stlukesumc.com/live",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF5rmIAD",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF5rmIAD"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesumc.com/live"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "350985951"
+    }
+  ],
+  "advisories": []
+}

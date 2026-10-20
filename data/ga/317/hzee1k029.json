@@ -1,0 +1,33 @@
+{
+  "id": "hzee1k029",
+  "url": "https://constellation.church/hzee1k029",
+  "name": "First Baptist Church of Camilla",
+  "displayName": "First Baptist Church of Camilla",
+  "address": {
+    "street": "27 E Broad St",
+    "city": "Camilla",
+    "state": "GA",
+    "zip": "31730"
+  },
+  "coordinates": {
+    "latitude": 31.2308292388916,
+    "longitude": -84.20743179321289
+  },
+  "website": "https://fbcamilla.net",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-camilla/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-camilla"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcamilla.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581334474"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rmta0db28",
+  "url": "https://constellation.church/rmta0db28",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "58 Church Rd",
+    "city": "Manheim",
+    "state": "PA",
+    "zip": "17545-8904"
+  },
+  "coordinates": {
+    "latitude": 40.22022819519043,
+    "longitude": -76.50271987915039
+  },
+  "website": "https://trinitylutherancolebrook.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e88412fb-5100-4259-b974-0c9e29d6f499",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e88412fb-5100-4259-b974-0c9e29d6f499"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylutherancolebrook.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231984687"
+    }
+  ],
+  "advisories": []
+}

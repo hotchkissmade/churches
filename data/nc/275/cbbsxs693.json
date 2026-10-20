@@ -1,0 +1,33 @@
+{
+  "id": "cbbsxs693",
+  "url": "https://constellation.church/cbbsxs693",
+  "name": "Chapel of the Cross",
+  "displayName": "Chapel of the Cross",
+  "address": {
+    "street": "304 E Franklin St",
+    "city": "Chapel Hill",
+    "state": "NC",
+    "zip": "27514-3624"
+  },
+  "coordinates": {
+    "latitude": 35.91484260559082,
+    "longitude": -79.04989624023438
+  },
+  "website": "https://thechapelofthecross.org/who-we-are/vestry",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-north-carolina/list/chapel-cross",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-north-carolina/chapel-cross"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thechapelofthecross.org/who-we-are/vestry"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560623934"
+    }
+  ],
+  "advisories": []
+}

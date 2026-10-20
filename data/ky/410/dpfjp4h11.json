@@ -1,0 +1,33 @@
+{
+  "id": "dpfjp4h11",
+  "url": "https://constellation.church/dpfjp4h11",
+  "name": "Episcopal Church of the Nativity",
+  "displayName": "Episcopal Church of the Nativity",
+  "address": {
+    "street": "31 E 3rd St",
+    "city": "Maysville",
+    "state": "KY",
+    "zip": "41056-1149"
+  },
+  "coordinates": {
+    "latitude": 38.6462516784668,
+    "longitude": -83.76358413696289
+  },
+  "website": "https://churchofnativity.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-lexington/list/episcopal-church-nativity",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-lexington/episcopal-church-nativity"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchofnativity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611076663"
+    }
+  ],
+  "advisories": []
+}

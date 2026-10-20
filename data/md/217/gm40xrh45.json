@@ -1,0 +1,33 @@
+{
+  "id": "gm40xrh45",
+  "url": "https://constellation.church/gm40xrh45",
+  "name": "St. Thomas' Church",
+  "displayName": "St. Thomas' Church",
+  "address": {
+    "street": "2 E High St",
+    "city": "Hancock",
+    "state": "MD",
+    "zip": "21750-1216"
+  },
+  "coordinates": {
+    "latitude": 39.700069427490234,
+    "longitude": -78.17748641967773
+  },
+  "website": "https://stthomashancock.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maryland/list/st-thomas-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maryland/st-thomas-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stthomashancock.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520688277"
+    }
+  ],
+  "advisories": []
+}

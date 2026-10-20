@@ -1,0 +1,33 @@
+{
+  "id": "rm5qnj363",
+  "url": "https://constellation.church/rm5qnj363",
+  "name": "White Stone Baptist Church",
+  "displayName": "White Stone Baptist Church",
+  "address": {
+    "street": "517 Chesapeake Dr",
+    "city": "White Stone",
+    "state": "VA",
+    "zip": "22578"
+  },
+  "coordinates": {
+    "latitude": 37.647857666015625,
+    "longitude": -76.38803482055664
+  },
+  "website": "https://whitestonebaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/white-stone-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "white-stone-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "whitestonebaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540675227"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "e22zh7v56",
+  "url": "https://constellation.church/e22zh7v56",
+  "name": "Good Shepherd Presbyterian Church",
+  "displayName": "Good Shepherd Presbyterian Church",
+  "address": {
+    "street": "611 N 2450 E",
+    "city": "St George",
+    "state": "UT",
+    "zip": "84790-9038"
+  },
+  "coordinates": {
+    "latitude": 37.118499755859375,
+    "longitude": -113.53241729736328
+  },
+  "website": "https://gspcsg.org/resources/listen-services",
+  "listingUrl": "https://church-trends.pcusa.org/church/11007/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "11007"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gspcsg.org/resources/listen-services"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "870455954"
+    }
+  ],
+  "advisories": []
+}

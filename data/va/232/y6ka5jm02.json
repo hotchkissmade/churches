@@ -1,0 +1,33 @@
+{
+  "id": "y6ka5jm02",
+  "url": "https://constellation.church/y6ka5jm02",
+  "name": "Christ The King Lutheran Church",
+  "displayName": "Christ The King Lutheran Church",
+  "address": {
+    "street": "9800 W Huguenot Rd",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "23235-2234"
+  },
+  "coordinates": {
+    "latitude": 37.53314399719238,
+    "longitude": -77.57697677612305
+  },
+  "website": "https://ctkrva.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7e5686b7-14b6-4944-b37d-e1eab1647f6e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7e5686b7-14b6-4944-b37d-e1eab1647f6e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ctkrva.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540801391"
+    }
+  ],
+  "advisories": []
+}

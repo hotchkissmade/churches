@@ -1,0 +1,33 @@
+{
+  "id": "sb268e963",
+  "url": "https://constellation.church/sb268e963",
+  "name": "Canvas Church",
+  "displayName": "Canvas Church",
+  "address": {
+    "street": "255 Summit Ridge Dr",
+    "city": "Kalispell",
+    "state": "MT",
+    "zip": "59901"
+  },
+  "coordinates": {
+    "latitude": 48.22318649291992,
+    "longitude": -114.33328247070312
+  },
+  "website": "https://canvas.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=7f25f97f-16df-4742-b7e9-4f547efb952f&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "7f25f97f-16df-4742-b7e9-4f547efb952f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "canvas.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810332058"
+    }
+  ],
+  "advisories": []
+}

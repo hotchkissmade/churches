@@ -1,0 +1,33 @@
+{
+  "id": "ywmfxkd12",
+  "url": "https://constellation.church/ywmfxkd12",
+  "name": "Vertical Church Charleston",
+  "displayName": "Vertical Church Charleston",
+  "address": {
+    "street": "30 Chadwick Dr",
+    "city": "Charleston",
+    "state": "SC",
+    "zip": "29407"
+  },
+  "coordinates": {
+    "latitude": 32.77797508239746,
+    "longitude": -79.9811897277832
+  },
+  "website": "https://kingschurch.io/chshome",
+  "listingUrl": "https://churches.sbc.net/church/vertical-church-charleston/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "vertical-church-charleston"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kingschurch.io/chshome"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "823780997"
+    }
+  ],
+  "advisories": []
+}

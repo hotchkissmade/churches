@@ -1,0 +1,33 @@
+{
+  "id": "tp016at65",
+  "url": "https://constellation.church/tp016at65",
+  "name": "First Baptist Church Conway",
+  "displayName": "First Baptist Church Conway",
+  "address": {
+    "street": "148 S Shiloh Ave",
+    "city": "Conway",
+    "state": "MO",
+    "zip": "65632"
+  },
+  "coordinates": {
+    "latitude": 37.5018196105957,
+    "longitude": -92.83290481567383
+  },
+  "website": "https://firstbaptistconway.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-conway/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-conway"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistconway.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431089572"
+    }
+  ],
+  "advisories": []
+}

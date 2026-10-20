@@ -1,0 +1,33 @@
+{
+  "id": "g5efzdc71",
+  "url": "https://constellation.church/g5efzdc71",
+  "name": "Church of the Epiphany",
+  "displayName": "Church of the Epiphany",
+  "address": {
+    "street": "423 N Beaver St",
+    "city": "Flagstaff",
+    "state": "AZ",
+    "zip": "86001-4511"
+  },
+  "coordinates": {
+    "latitude": 35.202484130859375,
+    "longitude": -111.64847564697266
+  },
+  "website": "https://epiphanyaz.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-arizona/list/church-epiphany",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-arizona/church-epiphany"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "epiphanyaz.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237024021"
+    }
+  ],
+  "advisories": []
+}

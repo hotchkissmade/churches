@@ -1,0 +1,33 @@
+{
+  "id": "vsv150v35",
+  "url": "https://constellation.church/vsv150v35",
+  "name": "Good Shepherd Lutheran Church",
+  "displayName": "Good Shepherd Lutheran Church",
+  "address": {
+    "street": "930 Edgewood Rd",
+    "city": "Wausau",
+    "state": "WI",
+    "zip": "54403-2288"
+  },
+  "coordinates": {
+    "latitude": 44.99840545654297,
+    "longitude": -89.61737442016602
+  },
+  "website": "https://gswausau.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=babbcff8-111d-47eb-a182-2d9e4e475bf7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "babbcff8-111d-47eb-a182-2d9e4e475bf7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gswausau.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391052126"
+    }
+  ],
+  "advisories": []
+}

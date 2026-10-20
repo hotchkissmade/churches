@@ -1,0 +1,33 @@
+{
+  "id": "krbppxv03",
+  "url": "https://constellation.church/krbppxv03",
+  "name": "Central Hill Baptist Church",
+  "displayName": "Central Hill Baptist Church",
+  "address": {
+    "street": "10270 Central Hill Rd",
+    "city": "Windsor",
+    "state": "VA",
+    "zip": "23487"
+  },
+  "coordinates": {
+    "latitude": 36.91230773925781,
+    "longitude": -76.74590301513672
+  },
+  "website": "https://centralhillbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/central-hill-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "central-hill-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centralhillbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541146360"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nqg78g168",
+  "url": "https://constellation.church/nqg78g168",
+  "name": "First Baptist Church Winfield",
+  "displayName": "First Baptist Church Winfield",
+  "address": {
+    "street": "3700 E Highway 47",
+    "city": "Winfield",
+    "state": "MO",
+    "zip": "63389"
+  },
+  "coordinates": {
+    "latitude": 38.991201400756836,
+    "longitude": -90.7631607055664
+  },
+  "website": "https://fbcwinfieldmo.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-winfield/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-winfield"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcwinfieldmo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430743680"
+    }
+  ],
+  "advisories": []
+}

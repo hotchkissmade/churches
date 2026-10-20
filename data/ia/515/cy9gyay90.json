@@ -1,0 +1,33 @@
+{
+  "id": "cy9gyay90",
+  "url": "https://constellation.church/cy9gyay90",
+  "name": "Soldier Lutheran Church",
+  "displayName": "Soldier Lutheran Church",
+  "address": {
+    "street": "223 Lark St",
+    "city": "Soldier",
+    "state": "IA",
+    "zip": "51572"
+  },
+  "coordinates": {
+    "latitude": 41.98802185058594,
+    "longitude": -95.78199768066406
+  },
+  "website": "https://soldierlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ad408cb2-87fe-4149-9118-97a450312a7a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ad408cb2-87fe-4149-9118-97a450312a7a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "soldierlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421117532"
+    }
+  ],
+  "advisories": []
+}

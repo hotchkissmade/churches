@@ -1,0 +1,33 @@
+{
+  "id": "h0g64p638",
+  "url": "https://constellation.church/h0g64p638",
+  "name": "First Baptist Church, Pleasanton",
+  "displayName": "First Baptist Church, Pleasanton",
+  "address": {
+    "street": "400 N Reed St",
+    "city": "Pleasanton",
+    "state": "TX",
+    "zip": "78064"
+  },
+  "coordinates": {
+    "latitude": 28.962406158447266,
+    "longitude": -98.4863510131836
+  },
+  "website": "https://fbcpleasanton.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-pleasanton/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-pleasanton"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcpleasanton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742034529"
+    }
+  ],
+  "advisories": []
+}

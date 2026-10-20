@@ -1,0 +1,33 @@
+{
+  "id": "thpvm2k49",
+  "url": "https://constellation.church/thpvm2k49",
+  "name": "Eastern Mennonite Missions",
+  "displayName": "Eastern Mennonite Missions",
+  "address": {
+    "street": "450 N Prince Street",
+    "city": "Lancaster",
+    "state": "PA",
+    "zip": "17603"
+  },
+  "coordinates": {
+    "latitude": 39.98305130004883,
+    "longitude": -75.13348770141602
+  },
+  "website": "https://emm.org",
+  "listingUrl": "https://lmcchurches.org/directory/easter-mennonite-missions/",
+  "identifiers": [
+    {
+      "namespace": "org.lmcchurches.id",
+      "value": "easter-mennonite-missions"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emm.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236005847"
+    }
+  ],
+  "advisories": []
+}

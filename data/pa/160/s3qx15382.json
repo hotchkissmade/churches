@@ -1,0 +1,33 @@
+{
+  "id": "s3qx15382",
+  "url": "https://constellation.church/s3qx15382",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "120 Sunset Dr",
+    "city": "Butler",
+    "state": "PA",
+    "zip": "16001-1332"
+  },
+  "coordinates": {
+    "latitude": 40.89962959289551,
+    "longitude": -79.90864944458008
+  },
+  "website": "https://trinitylutheranbutler.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8b5da1bf-be5a-4d0e-bd3b-7fea25112b69",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8b5da1bf-be5a-4d0e-bd3b-7fea25112b69"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylutheranbutler.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251096358"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hdnvdqq40",
+  "url": "https://constellation.church/hdnvdqq40",
+  "name": "Brentwood Baptist Church",
+  "displayName": "Brentwood Baptist Church",
+  "address": {
+    "street": "7777 Concord Rd",
+    "city": "Brentwood",
+    "state": "TN",
+    "zip": "37027"
+  },
+  "coordinates": {
+    "latitude": 35.98702812194824,
+    "longitude": -86.74247360229492
+  },
+  "website": "https://brentwoodbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/brentwood-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "brentwood-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "brentwoodbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620945312"
+    }
+  ],
+  "advisories": []
+}

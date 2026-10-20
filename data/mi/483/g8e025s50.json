@@ -1,0 +1,33 @@
+{
+  "id": "g8e025s50",
+  "url": "https://constellation.church/g8e025s50",
+  "name": "Lakepointe Church",
+  "displayName": "Lakepointe Church",
+  "address": {
+    "street": "53245 Van Dyke",
+    "city": "Shelby Township",
+    "state": "MI",
+    "zip": "48316"
+  },
+  "coordinates": {
+    "latitude": 42.68609809875488,
+    "longitude": -83.03507614135742
+  },
+  "website": "https://lakepointechurch.org",
+  "listingUrl": "https://churches.sbc.net/church/lakepointe-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lakepointe-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lakepointechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "452225043"
+    }
+  ],
+  "advisories": []
+}

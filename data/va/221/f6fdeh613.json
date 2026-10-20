@@ -1,0 +1,33 @@
+{
+  "id": "f6fdeh613",
+  "url": "https://constellation.church/f6fdeh613",
+  "name": "Emmanuel Lutheran Church",
+  "displayName": "Emmanuel Lutheran Church",
+  "address": {
+    "street": "2589 Chain Bridge Rd",
+    "city": "Vienna",
+    "state": "VA",
+    "zip": "22181-5577"
+  },
+  "coordinates": {
+    "latitude": 38.89154243469238,
+    "longitude": -77.27655410766602
+  },
+  "website": "https://elcvienna.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=605e9d6b-dd94-4fcf-8a83-4d49a4f67b3b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "605e9d6b-dd94-4fcf-8a83-4d49a4f67b3b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elcvienna.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540715699"
+    }
+  ],
+  "advisories": []
+}

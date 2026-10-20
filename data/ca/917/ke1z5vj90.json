@@ -1,0 +1,33 @@
+{
+  "id": "ke1z5vj90",
+  "url": "https://constellation.church/ke1z5vj90",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "2323 Las Lomitas Dr",
+    "city": "Hacienda Heights",
+    "state": "CA",
+    "zip": "91745-4414"
+  },
+  "coordinates": {
+    "latitude": 33.997047424316406,
+    "longitude": -117.98143005371094
+  },
+  "website": "https://stmarkshh.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fad72a0c-e470-47cc-b76c-dd0092b60960",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fad72a0c-e470-47cc-b76c-dd0092b60960"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkshh.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953521479"
+    }
+  ],
+  "advisories": []
+}

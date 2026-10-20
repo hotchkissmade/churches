@@ -1,0 +1,33 @@
+{
+  "id": "p5wbff960",
+  "url": "https://constellation.church/p5wbff960",
+  "name": "St. Paul's Episcopal Church",
+  "displayName": "St. Paul's Episcopal Church",
+  "address": {
+    "street": "265 Lafayette St",
+    "city": "Winona",
+    "state": "MN",
+    "zip": "55987-3535"
+  },
+  "coordinates": {
+    "latitude": 44.0495719909668,
+    "longitude": -91.63683700561523
+  },
+  "website": "https://stpaulswinona.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/st-pauls-episcopal-church-5",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/st-pauls-episcopal-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulswinona.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410693987"
+    }
+  ],
+  "advisories": []
+}

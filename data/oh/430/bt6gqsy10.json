@@ -1,0 +1,33 @@
+{
+  "id": "bt6gqsy10",
+  "url": "https://constellation.church/bt6gqsy10",
+  "name": "Adventure Church",
+  "displayName": "Adventure Church",
+  "address": {
+    "street": "5191 Cornerstone Dr",
+    "city": "Delaware",
+    "state": "OH",
+    "zip": "43015"
+  },
+  "coordinates": {
+    "latitude": 40.22171211242676,
+    "longitude": -83.03665542602539
+  },
+  "website": "https://adventure.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=93bd50e9-ceb7-47e7-aed2-dce070f7557f&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "93bd50e9-ceb7-47e7-aed2-dce070f7557f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "adventure.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "462083274"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "edwmwm573",
+  "url": "https://constellation.church/edwmwm573",
+  "name": "The Church on the Hill",
+  "displayName": "The Church on the Hill",
+  "address": {
+    "street": "217 Hottenstein Rd",
+    "city": "Kutztown",
+    "state": "PA",
+    "zip": "19530"
+  },
+  "coordinates": {
+    "latitude": 40.54204559326172,
+    "longitude": -75.7488021850586
+  },
+  "website": "https://thechurchonthehill.net",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=2114bc5a-93b4-46bc-ade2-9eff971f0fa9&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "2114bc5a-93b4-46bc-ade2-9eff971f0fa9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thechurchonthehill.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232231623"
+    }
+  ],
+  "advisories": []
+}

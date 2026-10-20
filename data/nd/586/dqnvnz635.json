@@ -1,0 +1,33 @@
+{
+  "id": "dqnvnz635",
+  "url": "https://constellation.church/dqnvnz635",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "550 Central Ave N",
+    "city": "Killdeer",
+    "state": "ND",
+    "zip": "58640"
+  },
+  "coordinates": {
+    "latitude": 47.37379455566406,
+    "longitude": -102.75406646728516
+  },
+  "website": "https://stjohnskilldeer.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=565878fb-5d59-4630-b374-d6a0f7f5cae0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "565878fb-5d59-4630-b374-d6a0f7f5cae0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnskilldeer.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "456010825"
+    }
+  ],
+  "advisories": []
+}

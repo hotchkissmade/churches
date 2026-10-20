@@ -1,0 +1,33 @@
+{
+  "id": "baax8fn81",
+  "url": "https://constellation.church/baax8fn81",
+  "name": "Market Street Presbyterian Church",
+  "displayName": "Market Street Presbyterian Church",
+  "address": {
+    "street": "1100 W Market St",
+    "city": "Lima",
+    "state": "OH",
+    "zip": "45805"
+  },
+  "coordinates": {
+    "latitude": 40.74021530151367,
+    "longitude": -84.1281623840332
+  },
+  "website": "https://mspclima.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/6523/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "6523"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mspclima.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "344432732"
+    }
+  ],
+  "advisories": []
+}

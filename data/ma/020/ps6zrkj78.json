@@ -1,0 +1,33 @@
+{
+  "id": "ps6zrkj78",
+  "url": "https://constellation.church/ps6zrkj78",
+  "name": "New England Chapel",
+  "displayName": "New England Chapel",
+  "address": {
+    "street": "300 E Central St",
+    "city": "Franklin",
+    "state": "MA",
+    "zip": "02038"
+  },
+  "coordinates": {
+    "latitude": 42.079872131347656,
+    "longitude": -71.38405990600586
+  },
+  "website": "https://nechapel.org",
+  "listingUrl": "https://www.crcna.org/churches/832",
+  "identifiers": [
+    {
+      "namespace": "org.crcna.id",
+      "value": "832"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nechapel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "043396095"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "b8rtctd12",
+  "url": "https://constellation.church/b8rtctd12",
+  "name": "Oak Hills Church",
+  "displayName": "Oak Hills Church",
+  "address": {
+    "street": "1570 Yankee Doodle Rd",
+    "city": "Eagan",
+    "state": "MN",
+    "zip": "55121"
+  },
+  "coordinates": {
+    "latitude": 44.83279800415039,
+    "longitude": -93.17920684814453
+  },
+  "website": "https://oakhillschurch.net",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=6eef5065-4dc9-4c57-8a58-882cff2bd553&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "6eef5065-4dc9-4c57-8a58-882cff2bd553"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oakhillschurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411736634"
+    }
+  ],
+  "advisories": []
+}

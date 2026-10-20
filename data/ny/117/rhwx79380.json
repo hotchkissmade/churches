@@ -1,0 +1,33 @@
+{
+  "id": "rhwx79380",
+  "url": "https://constellation.church/rhwx79380",
+  "name": "St. Thomas church of Canterbury",
+  "displayName": "St. Thomas church of Canterbury",
+  "address": {
+    "street": "90 Edgewater Avenue",
+    "city": "Smithtown",
+    "state": "NY",
+    "zip": "11787"
+  },
+  "coordinates": {
+    "latitude": 40.85396194458008,
+    "longitude": -73.20544815063477
+  },
+  "website": "https://stthomasofcanterbury.net",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-thomas-canterbury-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-thomas-canterbury-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stthomasofcanterbury.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112550175"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "h43b3qf23",
+  "url": "https://constellation.church/h43b3qf23",
+  "name": "Lakeview Baptist Church",
+  "displayName": "Lakeview Baptist Church",
+  "address": {
+    "street": "222 W 7th Ave",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32303"
+  },
+  "coordinates": {
+    "latitude": 30.45806312561035,
+    "longitude": -84.28388214111328
+  },
+  "website": "https://lakeviewbaptisttallahassee.org",
+  "listingUrl": "https://churches.sbc.net/church/lakeview-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lakeview-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lakeviewbaptisttallahassee.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592350224"
+    }
+  ],
+  "advisories": []
+}

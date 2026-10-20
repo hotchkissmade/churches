@@ -1,0 +1,33 @@
+{
+  "id": "natz0aa41",
+  "url": "https://constellation.church/natz0aa41",
+  "name": "St Matthew Lutheran Church",
+  "displayName": "St. Matthew Lutheran Church",
+  "address": {
+    "street": "123 Market St",
+    "city": "Bloomsburg",
+    "state": "PA",
+    "zip": "17815-1114"
+  },
+  "coordinates": {
+    "latitude": 41.003297,
+    "longitude": -76.458473
+  },
+  "website": "https://stmatthewbloomsburg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=65bc1126-1ca8-47c0-b3a4-ca967312e013",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "65bc1126-1ca8-47c0-b3a4-ca967312e013"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmatthewbloomsburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "240799355"
+    }
+  ],
+  "advisories": []
+}

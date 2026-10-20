@@ -1,0 +1,33 @@
+{
+  "id": "ptdvy1q95",
+  "url": "https://constellation.church/ptdvy1q95",
+  "name": "Pathway Church of Redlands",
+  "displayName": "Pathway Church of Redlands",
+  "address": {
+    "street": "611 E Cypress Ave",
+    "city": "Redlands",
+    "state": "CA",
+    "zip": "92374"
+  },
+  "coordinates": {
+    "latitude": 34.05105400085449,
+    "longitude": -117.17088317871094
+  },
+  "website": "https://pathwayredlands.com",
+  "listingUrl": "https://churches.sbc.net/church/pathway-church-of-redlands/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pathway-church-of-redlands"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pathwayredlands.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237351054"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "f22d16h54",
+  "url": "https://constellation.church/f22d16h54",
+  "name": "Calvary Lutheran Church",
+  "displayName": "Calvary Lutheran Church",
+  "address": {
+    "street": "950 Bradley St NE",
+    "city": "Concord",
+    "state": "NC",
+    "zip": "28025-0908"
+  },
+  "coordinates": {
+    "latitude": 35.44333457946777,
+    "longitude": -80.59366226196289
+  },
+  "website": "https://clconcord.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=18b4ba27-103c-4730-910d-a91b9cc8b702",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "18b4ba27-103c-4730-910d-a91b9cc8b702"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clconcord.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561097530"
+    }
+  ],
+  "advisories": []
+}

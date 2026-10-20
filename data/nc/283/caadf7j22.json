@@ -1,0 +1,33 @@
+{
+  "id": "caadf7j22",
+  "url": "https://constellation.church/caadf7j22",
+  "name": "Epicenter Church",
+  "displayName": "Epicenter Church",
+  "address": {
+    "street": "2512 Fort Bragg Rd",
+    "city": "Fayetteville",
+    "state": "NC",
+    "zip": "28303"
+  },
+  "coordinates": {
+    "latitude": 35.06838798522949,
+    "longitude": -78.91843795776367
+  },
+  "website": "https://yourepicenter.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=0f3bbc4a-0c00-4555-b105-848ba9ac0727&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "0f3bbc4a-0c00-4555-b105-848ba9ac0727"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "yourepicenter.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561468036"
+    }
+  ],
+  "advisories": []
+}

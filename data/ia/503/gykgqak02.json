@@ -1,0 +1,33 @@
+{
+  "id": "gykgqak02",
+  "url": "https://constellation.church/gykgqak02",
+  "name": "Westchester EFC",
+  "displayName": "Westchester Evangelical Free Church",
+  "address": {
+    "street": "4919 Aurora Ave",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50310-2923"
+  },
+  "coordinates": {
+    "latitude": 41.636837005615234,
+    "longitude": -93.68594360351562
+  },
+  "website": "https://westchester.church",
+  "listingUrl": "https://churches.efca.org/?id=12081",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12081"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westchester.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426020262"
+    }
+  ],
+  "advisories": []
+}

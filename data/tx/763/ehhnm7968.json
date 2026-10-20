@@ -1,0 +1,33 @@
+{
+  "id": "ehhnm7968",
+  "url": "https://constellation.church/ehhnm7968",
+  "name": "Second Baptist Church",
+  "displayName": "Second Baptist Church",
+  "address": {
+    "street": "2815 Sand Rd",
+    "city": "Vernon",
+    "state": "TX",
+    "zip": "76384"
+  },
+  "coordinates": {
+    "latitude": 34.14040946960449,
+    "longitude": -99.30511474609375
+  },
+  "website": "https://2bcvernon.org",
+  "listingUrl": "https://churches.sbc.net/church/second-baptist-church-5/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "second-baptist-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "2bcvernon.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751619630"
+    }
+  ],
+  "advisories": []
+}

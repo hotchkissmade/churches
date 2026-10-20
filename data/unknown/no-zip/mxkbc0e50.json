@@ -1,0 +1,33 @@
+{
+  "id": "mxkbc0e50",
+  "url": "https://constellation.church/mxkbc0e50",
+  "name": "Delaware Friends Meeting",
+  "displayName": "Delaware Friends Meeting",
+  "address": {
+    "street": "Andrews House, West Winter & North Franklin",
+    "city": "Delaware",
+    "state": null,
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 40.299991607666016,
+    "longitude": -83.06974029541016
+  },
+  "website": "https://delawarefriendsmeeting.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/delaware-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "delaware-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "delawarefriendsmeeting.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311752606"
+    }
+  ],
+  "advisories": []
+}

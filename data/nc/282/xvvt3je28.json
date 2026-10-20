@@ -1,0 +1,33 @@
+{
+  "id": "xvvt3je28",
+  "url": "https://constellation.church/xvvt3je28",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "3200 Park Rd",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28209-2004"
+  },
+  "coordinates": {
+    "latitude": 35.18666648864746,
+    "longitude": -80.85403060913086
+  },
+  "website": "https://stlukeselca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3bc5574f-80f6-4f2e-8de0-f10842d7e4b4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3bc5574f-80f6-4f2e-8de0-f10842d7e4b4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukeselca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560636259"
+    }
+  ],
+  "advisories": []
+}

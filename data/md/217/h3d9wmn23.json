@@ -1,0 +1,33 @@
+{
+  "id": "h3d9wmn23",
+  "url": "https://constellation.church/h3d9wmn23",
+  "name": "Hagerstown Church",
+  "displayName": "Hagerstown Church",
+  "address": {
+    "street": "15 High St",
+    "city": "Hagerstown",
+    "state": "MD",
+    "zip": "21740"
+  },
+  "coordinates": {
+    "latitude": 39.64639091491699,
+    "longitude": -77.72827529907227
+  },
+  "website": "https://hagerstownchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/hagerstown-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hagerstown-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hagerstownchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520607987"
+    }
+  ],
+  "advisories": []
+}

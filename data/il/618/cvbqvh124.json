@@ -1,0 +1,33 @@
+{
+  "id": "cvbqvh124",
+  "url": "https://constellation.church/cvbqvh124",
+  "name": "First Baptist Church of Tolono",
+  "displayName": "First Baptist Church of Tolono",
+  "address": {
+    "street": "204 W Holden St",
+    "city": "Tolono",
+    "state": "IL",
+    "zip": "61880"
+  },
+  "coordinates": {
+    "latitude": 39.98672294616699,
+    "longitude": -88.26374053955078
+  },
+  "website": "https://fbct.net",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-tolono/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-tolono"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbct.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371143272"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pnramsc44",
+  "url": "https://constellation.church/pnramsc44",
+  "name": "Ascension Presbyterian Church",
+  "displayName": "Ascension Presbyterian Church",
+  "address": {
+    "street": "1165 SE Walnut St.",
+    "city": "Hillsboro",
+    "state": "OR",
+    "zip": "97123"
+  },
+  "coordinates": {
+    "latitude": 45.51752471923828,
+    "longitude": -122.97065734863281
+  },
+  "website": "https://ascensionpc.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5613",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5613"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ascensionpc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "461515018"
+    }
+  ],
+  "advisories": []
+}

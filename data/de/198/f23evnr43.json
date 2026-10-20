@@ -1,0 +1,33 @@
+{
+  "id": "f23evnr43",
+  "url": "https://constellation.church/f23evnr43",
+  "name": "Faith Chapel, Wilmington",
+  "displayName": "Faith Chapel, Wilmington",
+  "address": {
+    "street": "1909 NORTH MARKET STREET",
+    "city": "WILMINGTON",
+    "state": "DE",
+    "zip": "19802"
+  },
+  "coordinates": {
+    "latitude": 39.75184440612793,
+    "longitude": -75.54227447509766
+  },
+  "website": "https://rccgfaithchapel.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=407&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "407"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rccgfaithchapel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "300429898"
+    }
+  ],
+  "advisories": []
+}

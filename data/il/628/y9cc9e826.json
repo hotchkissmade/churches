@@ -1,0 +1,33 @@
+{
+  "id": "y9cc9e826",
+  "url": "https://constellation.church/y9cc9e826",
+  "name": "First Baptist Church of Woodlawn",
+  "displayName": "First Baptist Church of Woodlawn",
+  "address": {
+    "street": "301 N Central",
+    "city": "Woodlawn",
+    "state": "IL",
+    "zip": "62898"
+  },
+  "coordinates": {
+    "latitude": 38.331905364990234,
+    "longitude": -89.03359603881836
+  },
+  "website": "https://fbcwoodlawn.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-woodlawn/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-woodlawn"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcwoodlawn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371111102"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "fakw59e67",
+  "url": "https://constellation.church/fakw59e67",
+  "name": "Community Presbyterian Church",
+  "displayName": "Community Presbyterian Church",
+  "address": {
+    "street": "825 Oak Boulevard",
+    "city": "Moody",
+    "state": "AL",
+    "zip": "35004"
+  },
+  "coordinates": {
+    "latitude": 33.5867977142334,
+    "longitude": -86.50292205810547
+  },
+  "website": "https://communitypca.net",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/221",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "221"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "communitypca.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630856089"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jep8n8z90",
+  "url": "https://constellation.church/jep8n8z90",
+  "name": "Spring Branch Baptist Church",
+  "displayName": "Spring Branch Baptist Church",
+  "address": {
+    "street": "833 Deacon Rd",
+    "city": "Bamberg",
+    "state": "SC",
+    "zip": "29003"
+  },
+  "coordinates": {
+    "latitude": 33.25066947937012,
+    "longitude": -81.00395584106445
+  },
+  "website": "https://sbbcbambergsc.com",
+  "listingUrl": "https://churches.sbc.net/church/spring-branch-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "spring-branch-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sbbcbambergsc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570784916"
+    }
+  ],
+  "advisories": []
+}

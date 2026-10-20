@@ -1,0 +1,33 @@
+{
+  "id": "g2cscw460",
+  "url": "https://constellation.church/g2cscw460",
+  "name": "First Baptist Church of Harrisburg",
+  "displayName": "First Baptist Church of Harrisburg",
+  "address": {
+    "street": "204 N Main St",
+    "city": "Harrisburg",
+    "state": "IL",
+    "zip": "62946"
+  },
+  "coordinates": {
+    "latitude": 37.73979377746582,
+    "longitude": -88.54013061523438
+  },
+  "website": "https://fbcharrisburg.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-harrisburg/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-harrisburg"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcharrisburg.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370705068"
+    }
+  ],
+  "advisories": []
+}

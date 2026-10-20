@@ -1,0 +1,33 @@
+{
+  "id": "fmmqyqt35",
+  "url": "https://constellation.church/fmmqyqt35",
+  "name": "Harbor Assembly of God",
+  "displayName": "Harbor Assembly of God",
+  "address": {
+    "street": "716 M St",
+    "city": "Hoquiam",
+    "state": "WA",
+    "zip": "98550"
+  },
+  "coordinates": {
+    "latitude": 46.97470283508301,
+    "longitude": -123.88910675048828
+  },
+  "website": "https://harborag.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d07bfdd3-e8fc-4b0e-aee1-8b44f4dba940&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d07bfdd3-e8fc-4b0e-aee1-8b44f4dba940"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "harborag.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911163423"
+    }
+  ],
+  "advisories": []
+}

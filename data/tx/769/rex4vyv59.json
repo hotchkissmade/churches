@@ -1,0 +1,33 @@
+{
+  "id": "rex4vyv59",
+  "url": "https://constellation.church/rex4vyv59",
+  "name": "First Baptist Church San Angelo",
+  "displayName": "First Baptist Church San Angelo",
+  "address": {
+    "street": "37 E Harris Ave",
+    "city": "San Angelo",
+    "state": "TX",
+    "zip": "76903"
+  },
+  "coordinates": {
+    "latitude": 31.464069366455078,
+    "longitude": -100.4355239868164
+  },
+  "website": "https://firstsanangelo.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-san-angelo/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-san-angelo"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstsanangelo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750808781"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kat1pb033",
+  "url": "https://constellation.church/kat1pb033",
+  "name": "Community United Methodist Church",
+  "displayName": "Community United Methodist Church",
+  "address": {
+    "street": "301 Chestnut St",
+    "city": "Roselle Park",
+    "state": "NJ",
+    "zip": "07204-1948"
+  },
+  "coordinates": {
+    "latitude": 40.66428184509277,
+    "longitude": -74.2640151977539
+  },
+  "website": "https://roselleparkcumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFLMRIA5",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFLMRIA5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "roselleparkcumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "226000322"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "zy9hbv769",
+  "url": "https://constellation.church/zy9hbv769",
+  "name": "St. Paul's Episcopal Church",
+  "displayName": "St. Paul's Episcopal Church",
+  "address": {
+    "street": "28 Highland Rd",
+    "city": "Glen Cove",
+    "state": "NY",
+    "zip": "11542"
+  },
+  "coordinates": {
+    "latitude": 40.86542320251465,
+    "longitude": -73.6277961730957
+  },
+  "website": "https://stpaulsgc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-pauls-episcopal-church-2",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-pauls-episcopal-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsgc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111631822"
+    }
+  ],
+  "advisories": []
+}

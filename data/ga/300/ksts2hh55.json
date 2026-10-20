@@ -1,0 +1,33 @@
+{
+  "id": "ksts2hh55",
+  "url": "https://constellation.church/ksts2hh55",
+  "name": "Church of St. Peter & St. Paul",
+  "displayName": "Church of St. Peter & St. Paul",
+  "address": {
+    "street": "1795 Johnson Ferry Rd",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30062-6400"
+  },
+  "coordinates": {
+    "latitude": 33.99251747131348,
+    "longitude": -84.42938613891602
+  },
+  "website": "https://peterandpaul.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-atlanta/list/church-st-peter-st-paul",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-atlanta/church-st-peter-st-paul"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "peterandpaul.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581456259"
+    }
+  ],
+  "advisories": []
+}

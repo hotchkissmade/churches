@@ -1,0 +1,33 @@
+{
+  "id": "c3m7v7884",
+  "url": "https://constellation.church/c3m7v7884",
+  "name": "First Baptist Church Copperas Cove",
+  "displayName": "First Baptist Church Copperas Cove",
+  "address": {
+    "street": "300 W Avenue B",
+    "city": "Copperas Cove",
+    "state": "TX",
+    "zip": "76522"
+  },
+  "coordinates": {
+    "latitude": 31.12710952758789,
+    "longitude": -97.90530395507812
+  },
+  "website": "https://fbccove.net",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-copperas-cove-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-copperas-cove-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbccove.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "472856898"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "wd78h7a74",
+  "url": "https://constellation.church/wd78h7a74",
+  "name": "First African Baptist Church",
+  "displayName": "First African Baptist Church",
+  "address": {
+    "street": "356 Nursery Ln",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76114"
+  },
+  "coordinates": {
+    "latitude": 32.75471305847168,
+    "longitude": -97.39583587646484
+  },
+  "website": "https://fabcftw.org",
+  "listingUrl": "https://churches.sbc.net/church/first-african-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-african-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fabcftw.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "203298274"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752653935"
+    }
+  ],
+  "advisories": []
+}

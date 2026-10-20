@@ -1,0 +1,33 @@
+{
+  "id": "n3vpa8x47",
+  "url": "https://constellation.church/n3vpa8x47",
+  "name": "Good Shepherd Lutheran Church",
+  "displayName": "Good Shepherd Lutheran Church",
+  "address": {
+    "street": "273 Vermont Route 15",
+    "city": "Jericho",
+    "state": "VT",
+    "zip": "05465"
+  },
+  "coordinates": {
+    "latitude": 44.512142181396484,
+    "longitude": -72.95759963989258
+  },
+  "website": "https://goodshepherdjericho.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dc00e1b0-ff9a-48e0-9341-80467e0c8409",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dc00e1b0-ff9a-48e0-9341-80467e0c8409"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherdjericho.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237164426"
+    }
+  ],
+  "advisories": []
+}

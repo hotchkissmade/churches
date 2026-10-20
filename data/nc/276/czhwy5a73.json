@@ -1,0 +1,33 @@
+{
+  "id": "czhwy5a73",
+  "url": "https://constellation.church/czhwy5a73",
+  "name": "Church in Raleigh",
+  "displayName": "Church in Raleigh",
+  "address": {
+    "street": "1607 Crest Rd",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27606"
+  },
+  "coordinates": {
+    "latitude": 35.77553367614746,
+    "longitude": -78.68458938598633
+  },
+  "website": "https://churchinraleigh.org",
+  "listingUrl": "https://localchurches.org/churches/raleigh-nc-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "raleigh-nc-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinraleigh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581424655"
+    }
+  ],
+  "advisories": []
+}

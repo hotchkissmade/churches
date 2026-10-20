@@ -1,0 +1,33 @@
+{
+  "id": "rqfs1e635",
+  "url": "https://constellation.church/rqfs1e635",
+  "name": "Church in Hacienda Heights",
+  "displayName": "Church in Hacienda Heights",
+  "address": {
+    "street": "1339 S Hacienda Blvd",
+    "city": "Hacienda Heights",
+    "state": "CA",
+    "zip": "91745"
+  },
+  "coordinates": {
+    "latitude": 34.00569725036621,
+    "longitude": -117.96515655517578
+  },
+  "website": "https://churchinhaciendaheights.org",
+  "listingUrl": "https://localchurches.org/churches/hacienda-heights-ca-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "hacienda-heights-ca-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinhaciendaheights.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330247185"
+    }
+  ],
+  "advisories": []
+}

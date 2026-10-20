@@ -1,0 +1,33 @@
+{
+  "id": "dk4pt5a72",
+  "url": "https://constellation.church/dk4pt5a72",
+  "name": "Nine Forks Baptist Church",
+  "displayName": "Nine Forks Baptist Church",
+  "address": {
+    "street": "3207 Earls Bridge Rd",
+    "city": "Easley",
+    "state": "SC",
+    "zip": "29640"
+  },
+  "coordinates": {
+    "latitude": 34.9559383392334,
+    "longitude": -82.56037139892578
+  },
+  "website": "https://9forks.org",
+  "listingUrl": "https://churches.sbc.net/church/nine-forks-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "nine-forks-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "9forks.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570738475"
+    }
+  ],
+  "advisories": []
+}

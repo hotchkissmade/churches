@@ -1,0 +1,33 @@
+{
+  "id": "s4abhf851",
+  "url": "https://constellation.church/s4abhf851",
+  "name": "Pinecrest Baptist Church",
+  "displayName": "Pinecrest Baptist Church",
+  "address": {
+    "street": "1285 Ashley Hall Rd",
+    "city": "Charleston",
+    "state": "SC",
+    "zip": "29407"
+  },
+  "coordinates": {
+    "latitude": 32.80324363708496,
+    "longitude": -80.00811004638672
+  },
+  "website": "https://pinecrestbaptistcharleston.org",
+  "listingUrl": "https://churches.sbc.net/church/pinecrest-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pinecrest-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pinecrestbaptistcharleston.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "576007833"
+    }
+  ],
+  "advisories": []
+}

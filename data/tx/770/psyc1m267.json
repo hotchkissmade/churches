@@ -1,0 +1,33 @@
+{
+  "id": "psyc1m267",
+  "url": "https://constellation.church/psyc1m267",
+  "name": "St. Thomas the Apostle Episcopal Church",
+  "displayName": "St. Thomas the Apostle Episcopal Church",
+  "address": {
+    "street": "18300 Upper Bay Rd",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77058-4199"
+  },
+  "coordinates": {
+    "latitude": 29.54610824584961,
+    "longitude": -95.08824920654297
+  },
+  "website": "https://sttaec.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-texas/list/st-thomas-apostle-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-texas/st-thomas-apostle-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sttaec.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741540074"
+    }
+  ],
+  "advisories": []
+}

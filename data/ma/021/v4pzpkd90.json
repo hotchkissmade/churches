@@ -1,0 +1,33 @@
+{
+  "id": "v4pzpkd90",
+  "url": "https://constellation.church/v4pzpkd90",
+  "name": "South End Neighborhood Church",
+  "displayName": "South End Neighborhood Church",
+  "address": {
+    "street": "2 San Juan Street",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02118"
+  },
+  "coordinates": {
+    "latitude": 42.34023475646973,
+    "longitude": -71.0738525390625
+  },
+  "website": "https://southendchurch.org",
+  "listingUrl": "https://venturechurches.org/churches/south-end-neighborhood-church/",
+  "identifiers": [
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "south-end-neighborhood-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southendchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237209756"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ve8b7dx49",
+  "url": "https://constellation.church/ve8b7dx49",
+  "name": "First United Lutheran Church",
+  "displayName": "First United Lutheran Church",
+  "address": {
+    "street": "2097 Turk Blvd",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94115-4326"
+  },
+  "coordinates": {
+    "latitude": 37.77042198181152,
+    "longitude": -122.44497680664062
+  },
+  "website": "https://fulc.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=34803032-7437-4bcb-9104-b3ffc6cf6e0f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "34803032-7437-4bcb-9104-b3ffc6cf6e0f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fulc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942914538"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "943214058"
+    }
+  ],
+  "advisories": []
+}

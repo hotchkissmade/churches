@@ -1,0 +1,33 @@
+{
+  "id": "ectmhvd25",
+  "url": "https://constellation.church/ectmhvd25",
+  "name": "Paradise Lutheran Church",
+  "displayName": "Paradise Lutheran Church",
+  "address": {
+    "street": "780 Luther Dr",
+    "city": "Paradise",
+    "state": "CA",
+    "zip": "95969-3918"
+  },
+  "coordinates": {
+    "latitude": 39.762041091918945,
+    "longitude": -121.62127685546875
+  },
+  "website": "https://paradiselutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1676fca1-3e33-445d-a296-f3159a203b79",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1676fca1-3e33-445d-a296-f3159a203b79"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "paradiselutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "946103144"
+    }
+  ],
+  "advisories": []
+}

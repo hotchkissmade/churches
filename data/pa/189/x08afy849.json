@@ -1,0 +1,33 @@
+{
+  "id": "x08afy849",
+  "url": "https://constellation.church/x08afy849",
+  "name": "Redeemer Lutheran Church",
+  "displayName": "Redeemer Lutheran Church",
+  "address": {
+    "street": "2100 York Rd",
+    "city": "Jamison",
+    "state": "PA",
+    "zip": "18929-1618"
+  },
+  "coordinates": {
+    "latitude": 40.25213813781738,
+    "longitude": -75.09038925170898
+  },
+  "website": "https://redeemerjamison.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=66b7bfd8-7345-42d8-9932-c4ad28dd1a63",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "66b7bfd8-7345-42d8-9932-c4ad28dd1a63"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerjamison.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232598472"
+    }
+  ],
+  "advisories": []
+}

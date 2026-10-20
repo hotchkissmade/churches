@@ -1,0 +1,33 @@
+{
+  "id": "nc25d4k46",
+  "url": "https://constellation.church/nc25d4k46",
+  "name": "Northwood Baptist Church",
+  "displayName": "Northwood Baptist Church",
+  "address": {
+    "street": "255 Two Notch Road",
+    "city": "Lexington",
+    "state": "SC",
+    "zip": "29073"
+  },
+  "coordinates": {
+    "latitude": 33.97153663635254,
+    "longitude": -81.17451477050781
+  },
+  "website": "https://northwoodlexington.com",
+  "listingUrl": "https://churches.sbc.net/church/northwood-baptist-church-4/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northwood-baptist-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northwoodlexington.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570799067"
+    }
+  ],
+  "advisories": []
+}

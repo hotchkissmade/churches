@@ -1,0 +1,33 @@
+{
+  "id": "e2tf1tg46",
+  "url": "https://constellation.church/e2tf1tg46",
+  "name": "St Andrew Lutheran Church",
+  "displayName": "St. Andrew Lutheran Church",
+  "address": {
+    "street": "20 Dill Ave",
+    "city": "Perkasie",
+    "state": "PA",
+    "zip": "18944-1611"
+  },
+  "coordinates": {
+    "latitude": 40.36723518371582,
+    "longitude": -75.28570175170898
+  },
+  "website": "https://standrewsperkasie.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b32267ff-8ea9-4b4d-835d-acdc040366e4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b32267ff-8ea9-4b4d-835d-acdc040366e4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewsperkasie.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231513708"
+    }
+  ],
+  "advisories": []
+}

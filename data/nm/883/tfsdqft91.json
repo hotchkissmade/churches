@@ -1,0 +1,33 @@
+{
+  "id": "tfsdqft91",
+  "url": "https://constellation.church/tfsdqft91",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "2201 East 15th Street",
+    "city": "Alamogordo",
+    "state": "NM",
+    "zip": "88310"
+  },
+  "coordinates": {
+    "latitude": 32.90668487548828,
+    "longitude": -105.93525695800781
+  },
+  "website": "https://wpcpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1086",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1086"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wpcpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850198443"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "taxckey85",
+  "url": "https://constellation.church/taxckey85",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "2310 Candlewood Dr",
+    "city": "Manhattan",
+    "state": "KS",
+    "zip": "66503"
+  },
+  "coordinates": {
+    "latitude": 39.2100715637207,
+    "longitude": -96.61837768554688
+  },
+  "website": "https://manhattanfirst.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=b8694ba6-39d4-465b-af1a-be57a0d3eba9&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "b8694ba6-39d4-465b-af1a-be57a0d3eba9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "manhattanfirst.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480918118"
+    }
+  ],
+  "advisories": []
+}

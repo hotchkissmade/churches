@@ -1,0 +1,33 @@
+{
+  "id": "qcs5ecw29",
+  "url": "https://constellation.church/qcs5ecw29",
+  "name": "Incarnation Lutheran Church",
+  "displayName": "Incarnation Lutheran Church",
+  "address": {
+    "street": "3005 Devine St",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29205-1843"
+  },
+  "coordinates": {
+    "latitude": 33.998247146606445,
+    "longitude": -80.99869155883789
+  },
+  "website": "https://incarnationlutheran.com/staff.html",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e82561e3-6e6e-4d4d-bc4d-7c8e4191b6b3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e82561e3-6e6e-4d4d-bc4d-7c8e4191b6b3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "incarnationlutheran.com/staff.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560934799"
+    }
+  ],
+  "advisories": []
+}

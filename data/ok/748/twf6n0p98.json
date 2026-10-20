@@ -1,0 +1,33 @@
+{
+  "id": "twf6n0p98",
+  "url": "https://constellation.church/twf6n0p98",
+  "name": "Shawnee Bible Church",
+  "displayName": "Shawnee Bible Church",
+  "address": {
+    "street": "2100 East 45th",
+    "city": "Shawnee",
+    "state": "OK",
+    "zip": "74804"
+  },
+  "coordinates": {
+    "latitude": 35.37673377990723,
+    "longitude": -96.89574432373047
+  },
+  "website": "https://shawneebible.org",
+  "listingUrl": "https://churches.sbc.net/church/shawnee-bible-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "shawnee-bible-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "shawneebible.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "271717723"
+    }
+  ],
+  "advisories": []
+}

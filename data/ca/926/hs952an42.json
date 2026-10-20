@@ -1,0 +1,33 @@
+{
+  "id": "hs952an42",
+  "url": "https://constellation.church/hs952an42",
+  "name": "Newport Harbor Lutheran Church",
+  "displayName": "Newport Harbor Lutheran Church",
+  "address": {
+    "street": "798 Dover Dr",
+    "city": "Newport Beach",
+    "state": "CA",
+    "zip": "92663-5931"
+  },
+  "coordinates": {
+    "latitude": 33.62144660949707,
+    "longitude": -117.90597534179688
+  },
+  "website": "https://nhlcs.org/preschool",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=05b045db-4bcd-4830-b9b0-4be25bb1e093",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "05b045db-4bcd-4830-b9b0-4be25bb1e093"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nhlcs.org/preschool"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952392120"
+    }
+  ],
+  "advisories": []
+}

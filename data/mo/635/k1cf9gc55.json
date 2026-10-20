@@ -1,0 +1,33 @@
+{
+  "id": "k1cf9gc55",
+  "url": "https://constellation.church/k1cf9gc55",
+  "name": "First Baptist Church Memphis",
+  "displayName": "First Baptist Church Memphis",
+  "address": {
+    "street": "910 N Weaver Ave",
+    "city": "Memphis",
+    "state": "MO",
+    "zip": "63555"
+  },
+  "coordinates": {
+    "latitude": 40.47041702270508,
+    "longitude": -92.18035125732422
+  },
+  "website": "https://firstbaptistmemphis.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-memphis/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-memphis"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistmemphis.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430827710"
+    }
+  ],
+  "advisories": []
+}

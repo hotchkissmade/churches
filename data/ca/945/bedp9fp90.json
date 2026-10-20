@@ -1,0 +1,33 @@
+{
+  "id": "bedp9fp90",
+  "url": "https://constellation.church/bedp9fp90",
+  "name": "Community Presbyterian Church",
+  "displayName": "Community Presbyterian Church",
+  "address": {
+    "street": "2800 Georgia",
+    "city": "Vallejo",
+    "state": "CA",
+    "zip": "94591-6504"
+  },
+  "coordinates": {
+    "latitude": 38.1000862121582,
+    "longitude": -122.22376251220703
+  },
+  "website": "https://cpcvallejo.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/691/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "691"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cpcvallejo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941375782"
+    }
+  ],
+  "advisories": []
+}

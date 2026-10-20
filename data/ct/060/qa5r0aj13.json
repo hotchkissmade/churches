@@ -1,0 +1,33 @@
+{
+  "id": "qa5r0aj13",
+  "url": "https://constellation.church/qa5r0aj13",
+  "name": "Emanuel Lutheran Church",
+  "displayName": "Emanuel Lutheran Church",
+  "address": {
+    "street": "60 Church St",
+    "city": "Manchester",
+    "state": "CT",
+    "zip": "06040-5117"
+  },
+  "coordinates": {
+    "latitude": 41.77270317077637,
+    "longitude": -72.52426147460938
+  },
+  "website": "https://emanuelmanchester.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=893b1cca-3cc5-4843-9ac4-e5b70c39bbab",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "893b1cca-3cc5-4843-9ac4-e5b70c39bbab"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emanuelmanchester.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "060662122"
+    }
+  ],
+  "advisories": []
+}

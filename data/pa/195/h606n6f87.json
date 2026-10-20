@@ -1,0 +1,33 @@
+{
+  "id": "h606n6f87",
+  "url": "https://constellation.church/h606n6f87",
+  "name": "New Bethel Lutheran Church",
+  "displayName": "New Bethel Lutheran Church",
+  "address": {
+    "street": "135 New Bethel Church Rd",
+    "city": "Kempton",
+    "state": "PA",
+    "zip": "19529-9319"
+  },
+  "coordinates": {
+    "latitude": 40.632490158081055,
+    "longitude": -75.89180374145508
+  },
+  "website": "https://nbchurchkempton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ad5a21bf-f70f-41e1-a923-fc08c6ee1924",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ad5a21bf-f70f-41e1-a923-fc08c6ee1924"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nbchurchkempton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237026872"
+    }
+  ],
+  "advisories": []
+}

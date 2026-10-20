@@ -1,0 +1,33 @@
+{
+  "id": "vfkasbr04",
+  "url": "https://constellation.church/vfkasbr04",
+  "name": "Christ Church Vienna",
+  "displayName": "Christ Church Vienna",
+  "address": {
+    "street": "James Madison High School",
+    "city": "Vienna",
+    "state": "VA",
+    "zip": "22181"
+  },
+  "coordinates": {
+    "latitude": 38.89902114868164,
+    "longitude": -77.26695251464844
+  },
+  "website": "https://christchurchvienna.com",
+  "listingUrl": "https://www.acna.org/admin_units/620",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "620"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christchurchvienna.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "453938261"
+    }
+  ],
+  "advisories": []
+}

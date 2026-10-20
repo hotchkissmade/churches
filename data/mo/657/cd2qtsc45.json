@@ -1,0 +1,33 @@
+{
+  "id": "cd2qtsc45",
+  "url": "https://constellation.church/cd2qtsc45",
+  "name": "North Nixa Baptist Church",
+  "displayName": "North Nixa Baptist Church",
+  "address": {
+    "street": "1730 N Highway CC",
+    "city": "Nixa",
+    "state": "MO",
+    "zip": "65714"
+  },
+  "coordinates": {
+    "latitude": 37.07915496826172,
+    "longitude": -93.2930679321289
+  },
+  "website": "https://northnixabaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/north-nixa-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "north-nixa-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northnixabaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431736912"
+    }
+  ],
+  "advisories": []
+}

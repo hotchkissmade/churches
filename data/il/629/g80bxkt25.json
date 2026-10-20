@@ -1,0 +1,33 @@
+{
+  "id": "g80bxkt25",
+  "url": "https://constellation.church/g80bxkt25",
+  "name": "Elkville Baptist Church",
+  "displayName": "Elkville Baptist Church",
+  "address": {
+    "street": "510 N 4th",
+    "city": "Elkville",
+    "state": "IL",
+    "zip": "62932"
+  },
+  "coordinates": {
+    "latitude": 37.916202545166016,
+    "longitude": -89.23466491699219
+  },
+  "website": "https://elkvillefbc.com",
+  "listingUrl": "https://churches.sbc.net/church/elkville-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "elkville-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elkvillefbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371158765"
+    }
+  ],
+  "advisories": []
+}

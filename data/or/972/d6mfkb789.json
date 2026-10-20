@@ -1,0 +1,33 @@
+{
+  "id": "d6mfkb789",
+  "url": "https://constellation.church/d6mfkb789",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "2252 SE 92nd Ave",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97216-2029"
+  },
+  "coordinates": {
+    "latitude": 45.5479736328125,
+    "longitude": -122.58463287353516
+  },
+  "website": "https://grace-wels.net",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24725",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24725"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grace-wels.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "936026277"
+    }
+  ],
+  "advisories": []
+}

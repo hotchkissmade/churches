@@ -1,0 +1,33 @@
+{
+  "id": "g09tp4g28",
+  "url": "https://constellation.church/g09tp4g28",
+  "name": "Shepherd's Heart Fellowship",
+  "displayName": "Shepherd's Heart Fellowship",
+  "address": {
+    "street": "13 Pride St.",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15219"
+  },
+  "coordinates": {
+    "latitude": 40.43801689147949,
+    "longitude": -79.98503112792969
+  },
+  "website": "https://shepheart.org",
+  "listingUrl": "https://www.acna.org/admin_units/145",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "145"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "shepheart.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251773063"
+    }
+  ],
+  "advisories": []
+}

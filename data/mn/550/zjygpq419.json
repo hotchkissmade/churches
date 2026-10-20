@@ -1,0 +1,33 @@
+{
+  "id": "zjygpq419",
+  "url": "https://constellation.church/zjygpq419",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "115 4th St N",
+    "city": "Stillwater",
+    "state": "MN",
+    "zip": "55082-4851"
+  },
+  "coordinates": {
+    "latitude": 45.05631637573242,
+    "longitude": -92.81019973754883
+  },
+  "website": "https://trinitylc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=799ac527-0f04-43dc-b2ad-640a4dc41a63",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "799ac527-0f04-43dc-b2ad-640a4dc41a63"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410757885"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a7tf41g58",
+  "url": "https://constellation.church/a7tf41g58",
+  "name": "Church of the Good Shepherd",
+  "displayName": "Church of the Good Shepherd",
+  "address": {
+    "street": "116 Main St",
+    "city": "Houlton",
+    "state": "ME",
+    "zip": "04730-2113"
+  },
+  "coordinates": {
+    "latitude": 46.125919342041016,
+    "longitude": -67.8355598449707
+  },
+  "website": "https://goodshepherdhoulton.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maine/list/church-good-shepherd",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maine/church-good-shepherd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherdhoulton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "016042695"
+    }
+  ],
+  "advisories": []
+}

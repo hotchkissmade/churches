@@ -1,0 +1,33 @@
+{
+  "id": "mbtdtne05",
+  "url": "https://constellation.church/mbtdtne05",
+  "name": "First Baptist Church, West Main Street",
+  "displayName": "First Baptist Church, West Main Street",
+  "address": {
+    "street": "632 W Main St",
+    "city": "Charlottesville",
+    "state": "VA",
+    "zip": "22903"
+  },
+  "coordinates": {
+    "latitude": 38.03118133544922,
+    "longitude": -78.4895133972168
+  },
+  "website": "https://fbc4g.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-west-main-street/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-west-main-street"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbc4g.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541214479"
+    }
+  ],
+  "advisories": []
+}

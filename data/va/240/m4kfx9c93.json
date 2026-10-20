@@ -1,0 +1,33 @@
+{
+  "id": "m4kfx9c93",
+  "url": "https://constellation.church/m4kfx9c93",
+  "name": "Buchanan Baptist",
+  "displayName": "Buchanan Baptist Church",
+  "address": {
+    "street": "19730 Main St",
+    "city": "Buchanan",
+    "state": "VA",
+    "zip": "24066"
+  },
+  "coordinates": {
+    "latitude": 37.52739143371582,
+    "longitude": -79.6797103881836
+  },
+  "website": "https://buchananbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/buchanan-baptist/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "buchanan-baptist"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "buchananbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540802973"
+    }
+  ],
+  "advisories": []
+}

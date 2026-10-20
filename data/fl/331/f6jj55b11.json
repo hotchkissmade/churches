@@ -1,0 +1,33 @@
+{
+  "id": "f6jj55b11",
+  "url": "https://constellation.church/f6jj55b11",
+  "name": "St Mark's Lutheran Church",
+  "displayName": "St. Mark's Lutheran Church",
+  "address": {
+    "street": "3930 S Le Jeune Rd",
+    "city": "Coral Gables",
+    "state": "FL",
+    "zip": "33134-7116"
+  },
+  "coordinates": {
+    "latitude": 25.73530387878418,
+    "longitude": -80.26256561279297
+  },
+  "website": "https://stmarkslutherancoralgables.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bb2e6224-7dd0-4ca2-9bc1-5613e0a96048",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bb2e6224-7dd0-4ca2-9bc1-5613e0a96048"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkslutherancoralgables.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "596018724"
+    }
+  ],
+  "advisories": []
+}

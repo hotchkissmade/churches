@@ -1,0 +1,37 @@
+{
+  "id": "s503g0a43",
+  "url": "https://constellation.church/s503g0a43",
+  "name": "Little Church on the Prairie",
+  "displayName": "Little Church on the Prairie",
+  "address": {
+    "street": "6310 Motor Ave SW",
+    "city": "Lakewood",
+    "state": "WA",
+    "zip": "98499"
+  },
+  "coordinates": {
+    "latitude": 47.16982078552246,
+    "longitude": -122.52276611328125
+  },
+  "website": "https://littlechurchontheprairie.com",
+  "listingUrl": "https://eco-pres.org/churches/the-little-church-on-the-prairie/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "the-little-church-on-the-prairie"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "littlechurchontheprairie.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910645178"
+    },
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "8987"
+    }
+  ],
+  "advisories": []
+}

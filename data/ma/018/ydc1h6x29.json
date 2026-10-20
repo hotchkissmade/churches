@@ -1,0 +1,33 @@
+{
+  "id": "ydc1h6x29",
+  "url": "https://constellation.church/ydc1h6x29",
+  "name": "First Baptist Church – Haverhill",
+  "displayName": "First Baptist Church – Haverhill",
+  "address": {
+    "street": "217 Main Street",
+    "city": "Haverhill",
+    "state": "MA",
+    "zip": "01830"
+  },
+  "coordinates": {
+    "latitude": 42.779579162597656,
+    "longitude": -71.07707977294922
+  },
+  "website": "https://fbchaverhill.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-haverhill/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-haverhill"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbchaverhill.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042141815"
+    }
+  ],
+  "advisories": []
+}

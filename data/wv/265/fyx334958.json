@@ -1,0 +1,33 @@
+{
+  "id": "fyx334958",
+  "url": "https://constellation.church/fyx334958",
+  "name": "Wesley United Methodist Church",
+  "displayName": "Wesley United Methodist Church",
+  "address": {
+    "street": "503 N High Street",
+    "city": "Morgantown",
+    "state": "WV",
+    "zip": "26505"
+  },
+  "coordinates": {
+    "latitude": 39.63265609741211,
+    "longitude": -79.95367431640625
+  },
+  "website": "https://wesleymorgantown.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKVeIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKVeIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wesleymorgantown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "550359015"
+    }
+  ],
+  "advisories": []
+}

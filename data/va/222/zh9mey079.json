@@ -1,0 +1,33 @@
+{
+  "id": "zh9mey079",
+  "url": "https://constellation.church/zh9mey079",
+  "name": "Portico Church – Arlington",
+  "displayName": "Portico Church – Arlington",
+  "address": {
+    "street": "800 N Illinois St",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "22205"
+  },
+  "coordinates": {
+    "latitude": 38.8754940032959,
+    "longitude": -77.12707901000977
+  },
+  "website": "https://porticoarlington.org",
+  "listingUrl": "https://churches.sbc.net/church/portico-church-arlington/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "portico-church-arlington"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "porticoarlington.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "270607526"
+    }
+  ],
+  "advisories": []
+}

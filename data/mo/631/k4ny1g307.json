@@ -1,0 +1,37 @@
+{
+  "id": "k4ny1g307",
+  "url": "https://constellation.church/k4ny1g307",
+  "name": "St. Thomas the Apostle Church",
+  "displayName": "St. Thomas the Apostle Church",
+  "address": {
+    "street": "6501 Nottingham Ave",
+    "city": "Saint Louis",
+    "state": "MO",
+    "zip": "63109-2659"
+  },
+  "coordinates": {
+    "latitude": 38.58810615539551,
+    "longitude": -90.30398178100586
+  },
+  "website": "https://stthomasstl.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ro-stlsta",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ro-stlsta"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stthomasstl.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430783792"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "522439840"
+    }
+  ],
+  "advisories": []
+}

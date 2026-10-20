@@ -1,0 +1,33 @@
+{
+  "id": "r0vc5eb62",
+  "url": "https://constellation.church/r0vc5eb62",
+  "name": "St. Peter's Episcopal Church",
+  "displayName": "St. Peter's Episcopal Church",
+  "address": {
+    "street": "110 N Warson Rd",
+    "city": "Ladue",
+    "state": "MO",
+    "zip": "63124-1327"
+  },
+  "coordinates": {
+    "latitude": 38.65578269958496,
+    "longitude": -90.39460754394531
+  },
+  "website": "https://specstl.org/worship/worship-services",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-missouri/list/st-peters-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-missouri/st-peters-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "specstl.org/worship/worship-services"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430662493"
+    }
+  ],
+  "advisories": []
+}

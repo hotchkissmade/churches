@@ -1,0 +1,33 @@
+{
+  "id": "gnr11ac14",
+  "url": "https://constellation.church/gnr11ac14",
+  "name": "Grace Bible Church of Roseville",
+  "displayName": "Grace Bible Church of Roseville",
+  "address": {
+    "street": "1390 Baseline Rd",
+    "city": "Roseville",
+    "state": "CA",
+    "zip": "95747"
+  },
+  "coordinates": {
+    "latitude": 38.752628326416016,
+    "longitude": -121.313232421875
+  },
+  "website": "https://gracebibleroseville.com",
+  "listingUrl": "https://churches.sbc.net/church/grace-bible-church-of-roseville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grace-bible-church-of-roseville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracebibleroseville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "680061855"
+    }
+  ],
+  "advisories": []
+}

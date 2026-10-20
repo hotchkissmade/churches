@@ -1,0 +1,33 @@
+{
+  "id": "ae3q79b95",
+  "url": "https://constellation.church/ae3q79b95",
+  "name": "Mackinaw United Methodist Church",
+  "displayName": "Mackinaw United Methodist Church",
+  "address": {
+    "street": "107 N Orchard St",
+    "city": "Mackinaw",
+    "state": "IL",
+    "zip": "61755-0409"
+  },
+  "coordinates": {
+    "latitude": 40.53775405883789,
+    "longitude": -89.35755157470703
+  },
+  "website": "https://mackinawumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKkJIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKkJIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mackinawumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371027848"
+    }
+  ],
+  "advisories": []
+}

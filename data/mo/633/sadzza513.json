@@ -1,0 +1,33 @@
+{
+  "id": "sadzza513",
+  "url": "https://constellation.church/sadzza513",
+  "name": "Oakridge Baptist Church",
+  "displayName": "Oakridge Baptist Church",
+  "address": {
+    "street": "235 Oakridge West Dr",
+    "city": "Saint Peters",
+    "state": "MO",
+    "zip": "63376"
+  },
+  "coordinates": {
+    "latitude": 38.77554512023926,
+    "longitude": -90.66141510009766
+  },
+  "website": "https://oakridgebaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/oakridge-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "oakridge-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oakridgebaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431307743"
+    }
+  ],
+  "advisories": []
+}

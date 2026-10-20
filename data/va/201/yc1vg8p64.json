@@ -1,0 +1,33 @@
+{
+  "id": "yc1vg8p64",
+  "url": "https://constellation.church/yc1vg8p64",
+  "name": "St. Peter's Church",
+  "displayName": "St. Peter's Church",
+  "address": {
+    "street": "37018 Glendale St",
+    "city": "Purcellville",
+    "state": "VA",
+    "zip": "20132"
+  },
+  "coordinates": {
+    "latitude": 39.12921142578125,
+    "longitude": -77.72341537475586
+  },
+  "website": "https://stpetes.net",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-virginia/list/st-peters-church-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-virginia/st-peters-church-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpetes.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540969134"
+    }
+  ],
+  "advisories": []
+}

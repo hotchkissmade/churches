@@ -1,0 +1,33 @@
+{
+  "id": "v35hsft75",
+  "url": "https://constellation.church/v35hsft75",
+  "name": "Bethany Lutheran Church",
+  "displayName": "Bethany Lutheran Church",
+  "address": {
+    "street": "2435 Engle Rd",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46809-1408"
+  },
+  "coordinates": {
+    "latitude": 41.04559898376465,
+    "longitude": -85.17213439941406
+  },
+  "website": "https://bethanylc.org/aboutus.html",
+  "listingUrl": "https://locator.lcms.org/church/C/94",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "94"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanylc.org/aboutus.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351075778"
+    }
+  ],
+  "advisories": []
+}

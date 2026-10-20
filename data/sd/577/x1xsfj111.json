@@ -1,0 +1,33 @@
+{
+  "id": "x1xsfj111",
+  "url": "https://constellation.church/x1xsfj111",
+  "name": "Bethel Church",
+  "displayName": "Bethel Church",
+  "address": {
+    "street": "1202 N Maple Ave",
+    "city": "Rapid City",
+    "state": "SD",
+    "zip": "57701"
+  },
+  "coordinates": {
+    "latitude": 44.09707260131836,
+    "longitude": -103.21098327636719
+  },
+  "website": "https://bethel.ag",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=282c4ee2-8d65-4c2d-8fc4-4d36a5fc3ce5&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "282c4ee2-8d65-4c2d-8fc4-4d36a5fc3ce5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethel.ag"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460368864"
+    }
+  ],
+  "advisories": []
+}

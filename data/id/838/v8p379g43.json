@@ -1,0 +1,33 @@
+{
+  "id": "v8p379g43",
+  "url": "https://constellation.church/v8p379g43",
+  "name": "Troy Lutheran Church",
+  "displayName": "Troy Lutheran Church",
+  "address": {
+    "street": "100 N Main St",
+    "city": "Troy",
+    "state": "ID",
+    "zip": "83871"
+  },
+  "coordinates": {
+    "latitude": 46.736886978149414,
+    "longitude": -116.7695083618164
+  },
+  "website": "https://troylutheranchurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f52fa168-96fe-4c01-9980-874dd449323e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f52fa168-96fe-4c01-9980-874dd449323e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "troylutheranchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820384476"
+    }
+  ],
+  "advisories": []
+}

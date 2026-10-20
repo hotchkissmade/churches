@@ -1,0 +1,33 @@
+{
+  "id": "q9vbb4667",
+  "url": "https://constellation.church/q9vbb4667",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "113851 Elm Tree Rd",
+    "city": "Marshfield",
+    "state": "WI",
+    "zip": "54449"
+  },
+  "coordinates": {
+    "latitude": 44.72822570800781,
+    "longitude": -90.14067840576172
+  },
+  "website": "https://stpeterselc.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/25000",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "25000"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpeterselc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391476528"
+    }
+  ],
+  "advisories": []
+}

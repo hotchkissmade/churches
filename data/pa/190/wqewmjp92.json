@@ -1,0 +1,33 @@
+{
+  "id": "wqewmjp92",
+  "url": "https://constellation.church/wqewmjp92",
+  "name": "Church of St. John the Evangelist",
+  "displayName": "Church of St. John the Evangelist",
+  "address": {
+    "street": "16 W 3rd St",
+    "city": "Essington",
+    "state": "PA",
+    "zip": "19029-1200"
+  },
+  "coordinates": {
+    "latitude": 39.86433029174805,
+    "longitude": -75.30155563354492
+  },
+  "website": "https://stjohnsessington.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/church-st-john-evangelist",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/church-st-john-evangelist"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsessington.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236050739"
+    }
+  ],
+  "advisories": []
+}

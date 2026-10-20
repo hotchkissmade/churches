@@ -1,0 +1,33 @@
+{
+  "id": "db8s40405",
+  "url": "https://constellation.church/db8s40405",
+  "name": "Redeemer Presbyterian Church",
+  "displayName": "Redeemer Presbyterian Church",
+  "address": {
+    "street": "6150 Old Buncombe Road",
+    "city": "Travelers Rest",
+    "state": "SC",
+    "zip": "29609"
+  },
+  "coordinates": {
+    "latitude": 34.93792915344238,
+    "longitude": -82.4317512512207
+  },
+  "website": "https://redeemerpres.church",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4408",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4408"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerpres.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "571130056"
+    }
+  ],
+  "advisories": []
+}

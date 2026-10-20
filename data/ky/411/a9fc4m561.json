@@ -1,0 +1,33 @@
+{
+  "id": "a9fc4m561",
+  "url": "https://constellation.church/a9fc4m561",
+  "name": "Saint Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "1320 Bath Ave",
+    "city": "Ashland",
+    "state": "KY",
+    "zip": "41101-2628"
+  },
+  "coordinates": {
+    "latitude": 38.47703552246094,
+    "longitude": -82.64446258544922
+  },
+  "website": "https://stpaulsashland.us",
+  "listingUrl": "https://locator.lcms.org/church/C/36108",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "36108"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsashland.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "610602666"
+    }
+  ],
+  "advisories": []
+}

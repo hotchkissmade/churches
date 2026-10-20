@@ -1,0 +1,33 @@
+{
+  "id": "q9fvn7x43",
+  "url": "https://constellation.church/q9fvn7x43",
+  "name": "Prestonwood Baptist Church",
+  "displayName": "Prestonwood Baptist Church",
+  "address": {
+    "street": "6801 W Park Blvd",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75093"
+  },
+  "coordinates": {
+    "latitude": 33.028608322143555,
+    "longitude": -96.84696960449219
+  },
+  "website": "https://prestonwood.org",
+  "listingUrl": "https://churches.sbc.net/church/prestonwood-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "prestonwood-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "prestonwood.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751543546"
+    }
+  ],
+  "advisories": []
+}

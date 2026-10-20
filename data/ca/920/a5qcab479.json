@@ -1,0 +1,33 @@
+{
+  "id": "a5qcab479",
+  "url": "https://constellation.church/a5qcab479",
+  "name": "Christ the King (San Diego)",
+  "displayName": "Christ the King (San Diego)",
+  "address": {
+    "street": "12730 Elmpark Lane",
+    "city": "Poway",
+    "state": "CA",
+    "zip": "92064"
+  },
+  "coordinates": {
+    "latitude": 32.95827,
+    "longitude": -117.055161
+  },
+  "website": "https://ctksd.org/about-us",
+  "listingUrl": "https://www.acna.org/admin_units/828",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "828"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ctksd.org/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "205586894"
+    }
+  ],
+  "advisories": []
+}

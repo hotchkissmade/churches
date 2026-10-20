@@ -1,0 +1,33 @@
+{
+  "id": "wv0ysh022",
+  "url": "https://constellation.church/wv0ysh022",
+  "name": "Grace Community Church",
+  "displayName": "Grace Community Church",
+  "address": {
+    "street": "600 S Water St",
+    "city": "Salem",
+    "state": "MO",
+    "zip": "65560"
+  },
+  "coordinates": {
+    "latitude": 37.63886260986328,
+    "longitude": -91.53430938720703
+  },
+  "website": "https://gccsalem.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f6108dd7-f037-4a52-972a-c35b53e730d4&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f6108dd7-f037-4a52-972a-c35b53e730d4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gccsalem.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431227531"
+    }
+  ],
+  "advisories": []
+}

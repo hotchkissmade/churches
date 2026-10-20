@@ -1,0 +1,33 @@
+{
+  "id": "yq0f5hr24",
+  "url": "https://constellation.church/yq0f5hr24",
+  "name": "St Andrew Lutheran Church",
+  "displayName": "St. Andrew Lutheran Church",
+  "address": {
+    "street": "10 S Lake St",
+    "city": "Mundelein",
+    "state": "IL",
+    "zip": "60060-2712"
+  },
+  "coordinates": {
+    "latitude": 42.26272010803223,
+    "longitude": -88.0044174194336
+  },
+  "website": "https://salcmundelein.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f857e9be-82dc-48b3-9c1f-f13e1cf935a7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f857e9be-82dc-48b3-9c1f-f13e1cf935a7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salcmundelein.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366109952"
+    }
+  ],
+  "advisories": []
+}

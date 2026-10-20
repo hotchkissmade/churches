@@ -1,0 +1,33 @@
+{
+  "id": "g0s97ak85",
+  "url": "https://constellation.church/g0s97ak85",
+  "name": "Knox Presbyterian Church",
+  "displayName": "Knox Presbyterian Church",
+  "address": {
+    "street": "3400 Michigan Ave",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45208-2102"
+  },
+  "coordinates": {
+    "latitude": 39.137855529785156,
+    "longitude": -84.44153213500977
+  },
+  "website": "https://knox.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/6282/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "6282"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "knox.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310536672"
+    }
+  ],
+  "advisories": []
+}

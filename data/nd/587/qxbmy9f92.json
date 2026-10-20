@@ -1,0 +1,33 @@
+{
+  "id": "qxbmy9f92",
+  "url": "https://constellation.church/qxbmy9f92",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "524 21st Ave NW",
+    "city": "Minot",
+    "state": "ND",
+    "zip": "58703-0944"
+  },
+  "coordinates": {
+    "latitude": 48.25873565673828,
+    "longitude": -101.3028335571289
+  },
+  "website": "https://graceminot.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/25121",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "25121"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceminot.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911825482"
+    }
+  ],
+  "advisories": []
+}

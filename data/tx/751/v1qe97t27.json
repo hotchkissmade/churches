@@ -1,0 +1,33 @@
+{
+  "id": "v1qe97t27",
+  "url": "https://constellation.church/v1qe97t27",
+  "name": "Harvest Fellowship Baptist Church",
+  "displayName": "Harvest Fellowship Baptist Church",
+  "address": {
+    "street": "2021 N Hampton Rd Ste 130",
+    "city": "Desoto",
+    "state": "TX",
+    "zip": "75115"
+  },
+  "coordinates": {
+    "latitude": 32.630693435668945,
+    "longitude": -96.85820007324219
+  },
+  "website": "https://harvestfbc.org",
+  "listingUrl": "https://churches.sbc.net/church/harvest-fellowship-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "harvest-fellowship-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "harvestfbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "320483022"
+    }
+  ],
+  "advisories": []
+}

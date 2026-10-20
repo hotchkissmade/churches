@@ -1,0 +1,33 @@
+{
+  "id": "syede0e17",
+  "url": "https://constellation.church/syede0e17",
+  "name": "Greenville Community Church",
+  "displayName": "Greenville Community Church",
+  "address": {
+    "street": "38 David St",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29609"
+  },
+  "coordinates": {
+    "latitude": 34.865365982055664,
+    "longitude": -82.4077262878418
+  },
+  "website": "https://greenvillecommunitychurch.com",
+  "listingUrl": "https://churches.sbc.net/church/greenville-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "greenville-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "greenvillecommunitychurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820771998"
+    }
+  ],
+  "advisories": []
+}

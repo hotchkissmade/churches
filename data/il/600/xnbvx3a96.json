@@ -1,0 +1,33 @@
+{
+  "id": "xnbvx3a96",
+  "url": "https://constellation.church/xnbvx3a96",
+  "name": "First Baptist Church of Winthrop Harbor",
+  "displayName": "First Baptist Church of Winthrop Harbor",
+  "address": {
+    "street": "3001 9th St",
+    "city": "Winthrop Hbr",
+    "state": "IL",
+    "zip": "60096"
+  },
+  "coordinates": {
+    "latitude": 42.47837448120117,
+    "longitude": -87.83789825439453
+  },
+  "website": "https://fbcwinthropharbor.church",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-winthrop-harbor/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-winthrop-harbor"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcwinthropharbor.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363267401"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ydbs9ed76",
+  "url": "https://constellation.church/ydbs9ed76",
+  "name": "Iglesia Bautista Nazareth",
+  "displayName": "Iglesia Bautista Nazareth",
+  "address": {
+    "street": "2225 SW 17th Ave",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33145"
+  },
+  "coordinates": {
+    "latitude": 25.749887466430664,
+    "longitude": -80.22171401977539
+  },
+  "website": "https://ibnazaret.org",
+  "listingUrl": "https://churches.sbc.net/church/iglesia-bautista-nazareth/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "iglesia-bautista-nazareth"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ibnazaret.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591370445"
+    }
+  ],
+  "advisories": []
+}

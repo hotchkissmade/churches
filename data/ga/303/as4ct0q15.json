@@ -1,0 +1,33 @@
+{
+  "id": "as4ct0q15",
+  "url": "https://constellation.church/as4ct0q15",
+  "name": "Central Presbyterian Church",
+  "displayName": "Central Presbyterian Church",
+  "address": {
+    "street": "201 Washington St SW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30303-3529"
+  },
+  "coordinates": {
+    "latitude": 33.74968338012695,
+    "longitude": -84.38914108276367
+  },
+  "website": "https://cpcatlanta.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/22073/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "22073"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cpcatlanta.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580566154"
+    }
+  ],
+  "advisories": []
+}

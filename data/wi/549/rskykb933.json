@@ -1,0 +1,33 @@
+{
+  "id": "rskykb933",
+  "url": "https://constellation.church/rskykb933",
+  "name": "First English Lutheran Church",
+  "displayName": "First English Lutheran Church",
+  "address": {
+    "street": "326 E North St",
+    "city": "Appleton",
+    "state": "WI",
+    "zip": "54911-5460"
+  },
+  "coordinates": {
+    "latitude": 44.26590347290039,
+    "longitude": -88.40158081054688
+  },
+  "website": "https://felc.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=04da0efd-daae-490c-a83e-4f92f8f8d436",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "04da0efd-daae-490c-a83e-4f92f8f8d436"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "felc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390826293"
+    }
+  ],
+  "advisories": []
+}

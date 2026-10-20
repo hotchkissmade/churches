@@ -1,0 +1,33 @@
+{
+  "id": "ytpczpk45",
+  "url": "https://constellation.church/ytpczpk45",
+  "name": "The Town Church",
+  "displayName": "The Town Church",
+  "address": {
+    "street": "1905 Williams St",
+    "city": "Eureka",
+    "state": "CA",
+    "zip": "95501"
+  },
+  "coordinates": {
+    "latitude": 40.79167366027832,
+    "longitude": -124.17486572265625
+  },
+  "website": "https://thetownchurch.com/give",
+  "listingUrl": "https://venturechurches.org/churches/the-town-church/",
+  "identifiers": [
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "the-town-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thetownchurch.com/give"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "452279579"
+    }
+  ],
+  "advisories": []
+}

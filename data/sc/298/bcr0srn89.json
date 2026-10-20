@@ -1,0 +1,33 @@
+{
+  "id": "bcr0srn89",
+  "url": "https://constellation.church/bcr0srn89",
+  "name": "Hillview Baptist Church",
+  "displayName": "Hillview Baptist Church",
+  "address": {
+    "street": "1974 Jefferson Davis Hwy",
+    "city": "Graniteville",
+    "state": "SC",
+    "zip": "29829"
+  },
+  "coordinates": {
+    "latitude": 33.539987564086914,
+    "longitude": -81.83256912231445
+  },
+  "website": "https://hillviewchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/hillview-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hillview-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hillviewchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570964259"
+    }
+  ],
+  "advisories": []
+}

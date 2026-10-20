@@ -1,0 +1,37 @@
+{
+  "id": "qtrdvrc69",
+  "url": "https://constellation.church/qtrdvrc69",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "10302 S 27th St",
+    "city": "Oak Creek",
+    "state": "WI",
+    "zip": "53154-6215"
+  },
+  "coordinates": {
+    "latitude": 42.857906341552734,
+    "longitude": -87.95069122314453
+  },
+  "website": "https://stjohnsoakcreek.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24866",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24866"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsoakcreek.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396024257"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396148207"
+    }
+  ],
+  "advisories": []
+}

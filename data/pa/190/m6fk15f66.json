@@ -1,0 +1,33 @@
+{
+  "id": "m6fk15f66",
+  "url": "https://constellation.church/m6fk15f66",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "1141 W Chester Pike",
+    "city": "Havertown",
+    "state": "PA",
+    "zip": "19083-3431"
+  },
+  "coordinates": {
+    "latitude": 39.97262001037598,
+    "longitude": -75.31614685058594
+  },
+  "website": "https://trinityhavertown.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=198bc8d7-2e28-42ad-883b-f9f97d72241c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "198bc8d7-2e28-42ad-883b-f9f97d72241c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityhavertown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231581630"
+    }
+  ],
+  "advisories": []
+}

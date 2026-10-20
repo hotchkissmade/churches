@@ -1,0 +1,33 @@
+{
+  "id": "eejh1fn53",
+  "url": "https://constellation.church/eejh1fn53",
+  "name": "Bethel Baptist Church",
+  "displayName": "Bethel Baptist Church",
+  "address": {
+    "street": "230 Washington St",
+    "city": "West Monroe",
+    "state": "LA",
+    "zip": "71292"
+  },
+  "coordinates": {
+    "latitude": 32.48669242858887,
+    "longitude": -92.17617797851562
+  },
+  "website": "https://bethel-church.net",
+  "listingUrl": "https://churches.sbc.net/church/bethel-baptist-church-28/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bethel-baptist-church-28"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethel-church.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "726029080"
+    }
+  ],
+  "advisories": []
+}

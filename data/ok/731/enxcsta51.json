@@ -1,0 +1,33 @@
+{
+  "id": "enxcsta51",
+  "url": "https://constellation.church/enxcsta51",
+  "name": "Trinity Baptist Church",
+  "displayName": "Trinity Baptist Church",
+  "address": {
+    "street": "1329 NW 23rd St",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73106"
+  },
+  "coordinates": {
+    "latitude": 35.49435997009277,
+    "longitude": -97.53361511230469
+  },
+  "website": "https://trinityokc.com",
+  "listingUrl": "https://churches.sbc.net/church/trinity-baptist-church-81/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "trinity-baptist-church-81"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityokc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "730636646"
+    }
+  ],
+  "advisories": []
+}

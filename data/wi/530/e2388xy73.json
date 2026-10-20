@@ -1,0 +1,33 @@
+{
+  "id": "e2388xy73",
+  "url": "https://constellation.church/e2388xy73",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "N35W6621 Wilson St",
+    "city": "Cedarburg",
+    "state": "WI",
+    "zip": "53012-2341"
+  },
+  "coordinates": {
+    "latitude": 43.28845024108887,
+    "longitude": -87.99376678466797
+  },
+  "website": "https://faithlutherancedarburg.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=13b4e6d1-5ac5-463d-acb7-4c4ec89d5d9b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "13b4e6d1-5ac5-463d-acb7-4c4ec89d5d9b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithlutherancedarburg.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396068389"
+    }
+  ],
+  "advisories": []
+}

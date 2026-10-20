@@ -1,0 +1,33 @@
+{
+  "id": "hj7594c87",
+  "url": "https://constellation.church/hj7594c87",
+  "name": "First Baptist Church,Sitka",
+  "displayName": "First Baptist Church,Sitka",
+  "address": {
+    "street": "514 Halibut Point Rd",
+    "city": "Sitka",
+    "state": "AK",
+    "zip": "99835"
+  },
+  "coordinates": {
+    "latitude": 57.05595016479492,
+    "longitude": -135.34185028076172
+  },
+  "website": "https://fbcsitka.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-churchsitka/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-churchsitka"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcsitka.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920097142"
+    }
+  ],
+  "advisories": []
+}

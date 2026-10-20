@@ -1,0 +1,33 @@
+{
+  "id": "f1k67sc75",
+  "url": "https://constellation.church/f1k67sc75",
+  "name": "Lutheran Church Of The Atonement",
+  "displayName": "Lutheran Church Of The Atonement",
+  "address": {
+    "street": "1285 N New Florissant Rd",
+    "city": "Florissant",
+    "state": "MO",
+    "zip": "63031-4511"
+  },
+  "coordinates": {
+    "latitude": 38.7965902,
+    "longitude": -90.3179198
+  },
+  "website": "https://alcs-web.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=43f477ca-6b08-45ec-99ef-5e385923030e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "43f477ca-6b08-45ec-99ef-5e385923030e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "alcs-web.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521255440"
+    }
+  ],
+  "advisories": []
+}

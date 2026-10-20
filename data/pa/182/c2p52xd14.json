@@ -1,0 +1,33 @@
+{
+  "id": "c2p52xd14",
+  "url": "https://constellation.church/c2p52xd14",
+  "name": "St. Mary Church",
+  "displayName": "St. Mary Church",
+  "address": {
+    "street": "217 1st St",
+    "city": "Coaldale",
+    "state": "PA",
+    "zip": "18218-1602"
+  },
+  "coordinates": {
+    "latitude": 40.8243408203125,
+    "longitude": -75.90226364135742
+  },
+  "website": "https://stmarysnativity.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ep-coasmc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ep-coasmc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarysnativity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237403129"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "q9py4x323",
+  "url": "https://constellation.church/q9py4x323",
+  "name": "Oakland",
+  "displayName": "Oakland Baptist Church",
+  "address": {
+    "street": "2800 Oakland Church Rd",
+    "city": "Gum Spring",
+    "state": "VA",
+    "zip": "23065"
+  },
+  "coordinates": {
+    "latitude": 37.757634,
+    "longitude": -77.865018
+  },
+  "website": "https://oakland-baptist.com",
+  "listingUrl": "https://churches.sbc.net/church/oakland-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "oakland-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oakland-baptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541006157"
+    }
+  ],
+  "advisories": []
+}

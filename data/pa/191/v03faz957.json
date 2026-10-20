@@ -1,0 +1,30 @@
+{
+  "id": "v03faz957",
+  "url": "https://constellation.church/v03faz957",
+  "name": "The Welcome Church",
+  "displayName": "The Welcome Church",
+  "address": {
+    "street": "Please Call For Worship Location",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19119-1723"
+  },
+  "coordinates": null,
+  "website": "https://thewelcomechurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8dd8d642-8557-438a-8fa9-249ba4a14f53",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8dd8d642-8557-438a-8fa9-249ba4a14f53"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thewelcomechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "272863101"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "s1025m148",
+  "url": "https://constellation.church/s1025m148",
+  "name": "Resurrection Evangelical Lutheran Church",
+  "displayName": "Resurrection Evangelical Lutheran Church",
+  "address": {
+    "street": "3500 Main St",
+    "city": "Hilliard",
+    "state": "OH",
+    "zip": "43026-1320"
+  },
+  "coordinates": {
+    "latitude": 40.023231506347656,
+    "longitude": -83.15946197509766
+  },
+  "website": "https://relc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=45b68215-c5f0-4cb6-8641-c9c69250d014",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "45b68215-c5f0-4cb6-8641-c9c69250d014"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "relc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310800465"
+    }
+  ],
+  "advisories": []
+}

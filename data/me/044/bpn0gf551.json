@@ -1,0 +1,29 @@
+{
+  "id": "bpn0gf551",
+  "url": "https://constellation.church/bpn0gf551",
+  "name": "THE RIVER",
+  "displayName": "The River",
+  "address": {
+    "street": "146 CENTER ST",
+    "city": "Bangor",
+    "state": "ME",
+    "zip": "04401"
+  },
+  "coordinates": {
+    "latitude": 44.80880165100098,
+    "longitude": -68.77196884155273
+  },
+  "website": "https://theriverbangor.com",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "010500040"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "theriverbangor.com"
+    }
+  ],
+  "advisories": []
+}

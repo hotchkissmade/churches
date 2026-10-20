@@ -1,0 +1,33 @@
+{
+  "id": "yzcab8s57",
+  "url": "https://constellation.church/yzcab8s57",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "4638 381st Ave NW",
+    "city": "Dalbo",
+    "state": "MN",
+    "zip": "55017-8701"
+  },
+  "coordinates": {
+    "latitude": 45.65760803222656,
+    "longitude": -93.38430786132812
+  },
+  "website": "https://salemlutherandalbo.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=213efe7d-b67f-4c1d-af67-e516a0ad6907",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "213efe7d-b67f-4c1d-af67-e516a0ad6907"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemlutherandalbo.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411441358"
+    }
+  ],
+  "advisories": []
+}

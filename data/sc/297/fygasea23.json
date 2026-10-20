@@ -1,0 +1,33 @@
+{
+  "id": "fygasea23",
+  "url": "https://constellation.church/fygasea23",
+  "name": "Olivet Presbyterian Church",
+  "displayName": "Olivet Presbyterian Church",
+  "address": {
+    "street": "159 Church Street",
+    "city": "McConnells",
+    "state": "SC",
+    "zip": "29726"
+  },
+  "coordinates": {
+    "latitude": 34.869544982910156,
+    "longitude": -81.23103332519531
+  },
+  "website": "https://olivetpca.org/about-us",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/811",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "811"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "olivetpca.org/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570346788"
+    }
+  ],
+  "advisories": []
+}

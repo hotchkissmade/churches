@@ -1,0 +1,33 @@
+{
+  "id": "etq8hfm64",
+  "url": "https://constellation.church/etq8hfm64",
+  "name": "Christ the King Lutheran Church",
+  "displayName": "Christ the King Lutheran Church",
+  "address": {
+    "street": "950 Vindicator Dr",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80919-3615"
+  },
+  "coordinates": {
+    "latitude": 38.92504692077637,
+    "longitude": -104.8457260131836
+  },
+  "website": "https://ctkcs.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=995d1a3a-fc9b-4f51-8e21-e5d3db91397b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "995d1a3a-fc9b-4f51-8e21-e5d3db91397b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ctkcs.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "841179812"
+    }
+  ],
+  "advisories": []
+}

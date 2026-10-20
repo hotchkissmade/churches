@@ -1,0 +1,33 @@
+{
+  "id": "q0pz28s66",
+  "url": "https://constellation.church/q0pz28s66",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "40 N Main St",
+    "city": "Hatfield",
+    "state": "PA",
+    "zip": "19440-2416"
+  },
+  "coordinates": {
+    "latitude": 40.27927017211914,
+    "longitude": -75.30022430419922
+  },
+  "website": "https://gracelutheranhatfield.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e7631cf2-6d93-4fb6-b060-37e791472782",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e7631cf2-6d93-4fb6-b060-37e791472782"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelutheranhatfield.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "320015333"
+    }
+  ],
+  "advisories": []
+}

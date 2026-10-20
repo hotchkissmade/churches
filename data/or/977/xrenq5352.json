@@ -1,0 +1,33 @@
+{
+  "id": "xrenq5352",
+  "url": "https://constellation.church/xrenq5352",
+  "name": "Story Dwelling",
+  "displayName": "Story Dwelling",
+  "address": {
+    "street": "230 NE 9th St",
+    "city": "Bend",
+    "state": "OR",
+    "zip": "97701-5137"
+  },
+  "coordinates": {
+    "latitude": 44.0525421,
+    "longitude": -121.2921364
+  },
+  "website": "https://bendstorydwelling.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fcc9b600-9081-4d69-bcda-9ffca6c0bf74",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fcc9b600-9081-4d69-bcda-9ffca6c0bf74"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bendstorydwelling.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "822828744"
+    }
+  ],
+  "advisories": []
+}

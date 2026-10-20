@@ -1,0 +1,33 @@
+{
+  "id": "hqpnkpr43",
+  "url": "https://constellation.church/hqpnkpr43",
+  "name": "Hope Community Church, SBC",
+  "displayName": "Hope Community Church, SBC",
+  "address": {
+    "street": "3350 N. State Road 267",
+    "city": "Brownsburg",
+    "state": "IN",
+    "zip": "46112"
+  },
+  "coordinates": {
+    "latitude": 39.81163787841797,
+    "longitude": -86.40216064453125
+  },
+  "website": "https://visithope.org",
+  "listingUrl": "https://churches.sbc.net/church/hope-community-church-sbc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hope-community-church-sbc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "visithope.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351387680"
+    }
+  ],
+  "advisories": []
+}

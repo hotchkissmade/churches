@@ -1,0 +1,33 @@
+{
+  "id": "pd60x5e42",
+  "url": "https://constellation.church/pd60x5e42",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "919 W San Antonio St",
+    "city": "Lockhart",
+    "state": "TX",
+    "zip": "78644-2331"
+  },
+  "coordinates": {
+    "latitude": 29.882923126220703,
+    "longitude": -97.68373107910156
+  },
+  "website": "https://gracelutheranlockhart.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8bc10223-98c0-4bc4-a6b7-c40aca624da8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8bc10223-98c0-4bc4-a6b7-c40aca624da8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelutheranlockhart.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741987439"
+    }
+  ],
+  "advisories": []
+}

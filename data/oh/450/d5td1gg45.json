@@ -1,0 +1,33 @@
+{
+  "id": "d5td1gg45",
+  "url": "https://constellation.church/d5td1gg45",
+  "name": "Christ The King Lutheran Church",
+  "displayName": "Christ The King Lutheran Church",
+  "address": {
+    "street": "7393 Dimmick Rd",
+    "city": "West Chester",
+    "state": "OH",
+    "zip": "45069-4231"
+  },
+  "coordinates": {
+    "latitude": 39.31061935424805,
+    "longitude": -84.38313293457031
+  },
+  "website": "https://ctkluth.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dc1efc7c-da8a-4b05-8be9-13bf048b5775",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dc1efc7c-da8a-4b05-8be9-13bf048b5775"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ctkluth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310786106"
+    }
+  ],
+  "advisories": []
+}

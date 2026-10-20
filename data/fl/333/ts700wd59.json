@@ -1,0 +1,33 @@
+{
+  "id": "ts700wd59",
+  "url": "https://constellation.church/ts700wd59",
+  "name": "All Saints' Episcopal Church",
+  "displayName": "All Saints' Episcopal Church",
+  "address": {
+    "street": "333 Tarpon Dr",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "zip": "33301-2337"
+  },
+  "coordinates": {
+    "latitude": 26.118112564086914,
+    "longitude": -80.12989044189453
+  },
+  "website": "https://allsaintsfl.org/leadership",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-southeast-florida/list/all-saints-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-southeast-florida/all-saints-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allsaintsfl.org/leadership"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590637804"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "eq00m7a49",
+  "url": "https://constellation.church/eq00m7a49",
+  "name": "Augustana Lutheran Church Of Hyde Park",
+  "displayName": "Augustana Lutheran Church Of Hyde Park",
+  "address": {
+    "street": "5500 S Woodlawn Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60637-1621"
+  },
+  "coordinates": {
+    "latitude": 41.794837951660156,
+    "longitude": -87.59753036499023
+  },
+  "website": "https://augustanahydepark.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c8d4160c-b2ab-4c5d-8cd5-ba77aafcbbfa",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c8d4160c-b2ab-4c5d-8cd5-ba77aafcbbfa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "augustanahydepark.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362195461"
+    }
+  ],
+  "advisories": []
+}

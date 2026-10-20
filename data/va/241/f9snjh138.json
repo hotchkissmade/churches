@@ -1,0 +1,33 @@
+{
+  "id": "f9snjh138",
+  "url": "https://constellation.church/f9snjh138",
+  "name": "Stuart Baptist Church",
+  "displayName": "Stuart Baptist Church",
+  "address": {
+    "street": "108 W. Blue Ridge St",
+    "city": "Stuart",
+    "state": "VA",
+    "zip": "24171"
+  },
+  "coordinates": {
+    "latitude": 36.642648696899414,
+    "longitude": -80.26969146728516
+  },
+  "website": "https://stuartbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/stuart-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "stuart-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stuartbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540920296"
+    }
+  ],
+  "advisories": []
+}

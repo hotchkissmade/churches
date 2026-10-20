@@ -1,0 +1,33 @@
+{
+  "id": "c989sch67",
+  "url": "https://constellation.church/c989sch67",
+  "name": "Rollag Lutheran Church",
+  "displayName": "Rollag Lutheran Church",
+  "address": {
+    "street": "10501 Highway 32 S",
+    "city": "Hawley",
+    "state": "MN",
+    "zip": "56549-8900"
+  },
+  "coordinates": {
+    "latitude": 46.7398681640625,
+    "longitude": -96.23837280273438
+  },
+  "website": "https://rollaglutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d2520a0e-7309-4a08-92c0-a31e72f1b5f6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d2520a0e-7309-4a08-92c0-a31e72f1b5f6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rollaglutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411362152"
+    }
+  ],
+  "advisories": []
+}

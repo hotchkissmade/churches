@@ -1,0 +1,33 @@
+{
+  "id": "pqp63re04",
+  "url": "https://constellation.church/pqp63re04",
+  "name": "Hillwood Baptist Church",
+  "displayName": "Hillwood Baptist Church",
+  "address": {
+    "street": "300 Kohler Rd SE",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35803"
+  },
+  "coordinates": {
+    "latitude": 34.629072189331055,
+    "longitude": -86.56300354003906
+  },
+  "website": "https://hillwoodbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/hillwood-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hillwood-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hillwoodbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630658512"
+    }
+  ],
+  "advisories": []
+}

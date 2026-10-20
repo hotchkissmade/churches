@@ -1,0 +1,33 @@
+{
+  "id": "cnb776p59",
+  "url": "https://constellation.church/cnb776p59",
+  "name": "Hope Evangelical Lutheran Church",
+  "displayName": "Hope Evangelical Lutheran Church",
+  "address": {
+    "street": "35 Ridge Ave",
+    "city": "Homer City",
+    "state": "PA",
+    "zip": "15748-1521"
+  },
+  "coordinates": {
+    "latitude": 40.53997230529785,
+    "longitude": -79.15826797485352
+  },
+  "website": "https://findhopehere.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=53c7c1f0-fe5e-43e1-a887-c1939d0006ff",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "53c7c1f0-fe5e-43e1-a887-c1939d0006ff"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "findhopehere.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251721881"
+    }
+  ],
+  "advisories": []
+}

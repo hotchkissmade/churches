@@ -1,0 +1,37 @@
+{
+  "id": "mek2j8p38",
+  "url": "https://constellation.church/mek2j8p38",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "211 Washington St",
+    "city": "Gloucester",
+    "state": "MA",
+    "zip": "01930"
+  },
+  "coordinates": {
+    "latitude": 42.62009048461914,
+    "longitude": -70.67380142211914
+  },
+  "website": "https://gloucesterassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a1388a18-864c-455e-b82e-ded13feceb18&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "a1388a18-864c-455e-b82e-ded13feceb18"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gloucesterassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042584861"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042774387"
+    }
+  ],
+  "advisories": []
+}

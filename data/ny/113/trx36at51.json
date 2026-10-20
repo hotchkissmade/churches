@@ -1,0 +1,33 @@
+{
+  "id": "trx36at51",
+  "url": "https://constellation.church/trx36at51",
+  "name": "St. John Chrysostom Church",
+  "displayName": "St. John Chrysostom Church",
+  "address": {
+    "street": "70-29 45th Ave",
+    "city": "Woodside",
+    "state": "NY",
+    "zip": "11377"
+  },
+  "coordinates": {
+    "latitude": 40.74055290222168,
+    "longitude": -73.89368057250977
+  },
+  "website": "https://stjohnwoodside.org/p/welcome.html",
+  "listingUrl": "https://www.oca.org/parishes/oca-ny-woosjc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ny-woosjc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnwoodside.org/p/welcome.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "113195880"
+    }
+  ],
+  "advisories": []
+}

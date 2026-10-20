@@ -1,0 +1,33 @@
+{
+  "id": "hmwjb8818",
+  "url": "https://constellation.church/hmwjb8818",
+  "name": "Good Shepherd Lutheran Church",
+  "displayName": "Good Shepherd Lutheran Church",
+  "address": {
+    "street": "855 Martin Ave",
+    "city": "Fond du Lac",
+    "state": "WI",
+    "zip": "54935-6229"
+  },
+  "coordinates": {
+    "latitude": 43.75585174560547,
+    "longitude": -88.4315185546875
+  },
+  "website": "https://gshep.net",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24694",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24694"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gshep.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391401230"
+    }
+  ],
+  "advisories": []
+}

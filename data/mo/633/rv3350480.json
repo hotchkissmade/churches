@@ -1,0 +1,33 @@
+{
+  "id": "rv3350480",
+  "url": "https://constellation.church/rv3350480",
+  "name": "First Baptist Church O’Fallon",
+  "displayName": "First Baptist Church O’Fallon",
+  "address": {
+    "street": "8750 Veterans Memorial Pkwy",
+    "city": "O Fallon",
+    "state": "MO",
+    "zip": "63366"
+  },
+  "coordinates": {
+    "latitude": 38.798452377319336,
+    "longitude": -90.7032470703125
+  },
+  "website": "https://firstofallon.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-ofallon/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-ofallon"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstofallon.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431113147"
+    }
+  ],
+  "advisories": []
+}

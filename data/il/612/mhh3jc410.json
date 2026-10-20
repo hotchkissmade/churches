@@ -1,0 +1,33 @@
+{
+  "id": "mhh3jc410",
+  "url": "https://constellation.church/mhh3jc410",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "114 E Main St",
+    "city": "Geneseo",
+    "state": "IL",
+    "zip": "61254-1566"
+  },
+  "coordinates": {
+    "latitude": 41.44763946533203,
+    "longitude": -90.15525817871094
+  },
+  "website": "https://firstgeneseo.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e75d3e71-ea53-457b-ab3f-c16306a655a8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e75d3e71-ea53-457b-ab3f-c16306a655a8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstgeneseo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362323982"
+    }
+  ],
+  "advisories": []
+}

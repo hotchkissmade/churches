@@ -1,0 +1,33 @@
+{
+  "id": "c5grpwk41",
+  "url": "https://constellation.church/c5grpwk41",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "2990 Ridge Rd",
+    "city": "Lansing",
+    "state": "IL",
+    "zip": "60438"
+  },
+  "coordinates": {
+    "latitude": 41.56484603881836,
+    "longitude": -87.54437255859375
+  },
+  "website": "https://lansingassembly.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=2556f2bc-d9ac-4820-8ee1-1448bafc96ee&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "2556f2bc-d9ac-4820-8ee1-1448bafc96ee"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lansingassembly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363224753"
+    }
+  ],
+  "advisories": []
+}

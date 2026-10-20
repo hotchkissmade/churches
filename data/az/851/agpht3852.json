@@ -1,0 +1,33 @@
+{
+  "id": "agpht3852",
+  "url": "https://constellation.church/agpht3852",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "651 N Ocotillo Dr",
+    "city": "Apache Junction",
+    "state": "AZ",
+    "zip": "85120"
+  },
+  "coordinates": {
+    "latitude": 33.420942306518555,
+    "longitude": -111.5687484741211
+  },
+  "website": "https://ajfirst.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=6bf0b5b5-ac0a-47bb-b653-0aa2e4c8aca9&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "6bf0b5b5-ac0a-47bb-b653-0aa2e4c8aca9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ajfirst.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860442143"
+    }
+  ],
+  "advisories": []
+}

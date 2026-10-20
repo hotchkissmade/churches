@@ -1,0 +1,33 @@
+{
+  "id": "b5djhh532",
+  "url": "https://constellation.church/b5djhh532",
+  "name": "Geneva Evangelical Lutheran Church",
+  "displayName": "Geneva Evangelical Lutheran Church",
+  "address": {
+    "street": "301 S 3rd St",
+    "city": "Geneva",
+    "state": "IL",
+    "zip": "60134-2725"
+  },
+  "coordinates": {
+    "latitude": 41.884490966796875,
+    "longitude": -88.30793762207031
+  },
+  "website": "https://genevalutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dfe05001-c42e-43cc-8ba1-1279a3ea7564",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dfe05001-c42e-43cc-8ba1-1279a3ea7564"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "genevalutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "369003383"
+    }
+  ],
+  "advisories": []
+}

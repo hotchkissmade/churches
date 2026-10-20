@@ -1,0 +1,33 @@
+{
+  "id": "fx0f63r11",
+  "url": "https://constellation.church/fx0f63r11",
+  "name": "Our Savior's Lutheran Church",
+  "displayName": "Our Savior's Lutheran Church",
+  "address": {
+    "street": "610 13th St N",
+    "city": "Moorhead",
+    "state": "MN",
+    "zip": "56560-2142"
+  },
+  "coordinates": {
+    "latitude": 46.881736755371094,
+    "longitude": -96.75936889648438
+  },
+  "website": "https://oursaviorsmoorhead.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b96fbf3e-f776-4135-babb-3946064fc28e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b96fbf3e-f776-4135-babb-3946064fc28e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oursaviorsmoorhead.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410742489"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nee2rrw25",
+  "url": "https://constellation.church/nee2rrw25",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "2570 Saint Peters Church Rd",
+    "city": "Salisbury",
+    "state": "NC",
+    "zip": "28146-5586"
+  },
+  "coordinates": {
+    "latitude": 35.56893730163574,
+    "longitude": -80.36731338500977
+  },
+  "website": "https://saintpeterslc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5b918b2d-150b-4c26-a8ee-a3a3dd9646fb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5b918b2d-150b-4c26-a8ee-a3a3dd9646fb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintpeterslc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561122668"
+    }
+  ],
+  "advisories": []
+}

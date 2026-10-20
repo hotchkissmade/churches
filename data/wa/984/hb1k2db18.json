@@ -1,0 +1,33 @@
+{
+  "id": "hb1k2db18",
+  "url": "https://constellation.church/hb1k2db18",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "PO Box 8328",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98419-0328"
+  },
+  "coordinates": {
+    "latitude": 47.23650360107422,
+    "longitude": -122.44049835205078
+  },
+  "website": "https://stpaullutherantacoma.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24748",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24748"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaullutherantacoma.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910829195"
+    }
+  ],
+  "advisories": []
+}

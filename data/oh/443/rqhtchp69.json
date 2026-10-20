@@ -1,0 +1,33 @@
+{
+  "id": "rqhtchp69",
+  "url": "https://constellation.church/rqhtchp69",
+  "name": "Messiah Lutheran Church",
+  "displayName": "Messiah Lutheran Church",
+  "address": {
+    "street": "4700 S Main St",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44319-4470"
+  },
+  "coordinates": {
+    "latitude": 40.96206283569336,
+    "longitude": -81.52729034423828
+  },
+  "website": "https://messiahlutheran.cc",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a1739592-0df9-4fcf-8d03-2aeaaa89fd49",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a1739592-0df9-4fcf-8d03-2aeaaa89fd49"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "messiahlutheran.cc"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341008441"
+    }
+  ],
+  "advisories": []
+}

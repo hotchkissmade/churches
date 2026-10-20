@@ -1,0 +1,33 @@
+{
+  "id": "kn47y6f55",
+  "url": "https://constellation.church/kn47y6f55",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "133 Leonard Rd",
+    "city": "Onalaska",
+    "state": "WA",
+    "zip": "98570"
+  },
+  "coordinates": {
+    "latitude": 46.57293891906738,
+    "longitude": -122.718994140625
+  },
+  "website": "https://livingstoneassembly.com/onalaska",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=eaad44d9-fa83-49d8-8995-f4e9ade1c8d1&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "eaad44d9-fa83-49d8-8995-f4e9ade1c8d1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "livingstoneassembly.com/onalaska"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911190783"
+    }
+  ],
+  "advisories": []
+}

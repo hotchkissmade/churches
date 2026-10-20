@@ -1,0 +1,33 @@
+{
+  "id": "dm66f7895",
+  "url": "https://constellation.church/dm66f7895",
+  "name": "Living Hope Lutheran Church",
+  "displayName": "Living Hope Lutheran Church",
+  "address": {
+    "street": "10940 SE 168th St",
+    "city": "Renton",
+    "state": "WA",
+    "zip": "98055-5916"
+  },
+  "coordinates": {
+    "latitude": 47.66988754272461,
+    "longitude": -122.06425476074219
+  },
+  "website": "https://lhlc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bfab33ab-335e-4597-8cbd-d0aba62e14ba",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bfab33ab-335e-4597-8cbd-d0aba62e14ba"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lhlc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "916175339"
+    }
+  ],
+  "advisories": []
+}

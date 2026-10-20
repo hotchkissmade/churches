@@ -1,0 +1,33 @@
+{
+  "id": "qxacr2q37",
+  "url": "https://constellation.church/qxacr2q37",
+  "name": "First Baptist Church of Mesquite",
+  "displayName": "First Baptist Church of Mesquite",
+  "address": {
+    "street": "830 Hafen Lane",
+    "city": "Mesquite",
+    "state": "NV",
+    "zip": "89027"
+  },
+  "coordinates": {
+    "latitude": 36.79583740234375,
+    "longitude": -114.09503936767578
+  },
+  "website": "https://fbcmesquite.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-mesquite/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-mesquite"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcmesquite.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "880474736"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "f2mz4z680",
+  "url": "https://constellation.church/f2mz4z680",
+  "name": "Trinity Presbyterian Church",
+  "displayName": "Trinity Presbyterian Church",
+  "address": {
+    "street": "2577 Schaeffer Lane NE",
+    "city": "Rochester",
+    "state": "MN",
+    "zip": "55906"
+  },
+  "coordinates": {
+    "latitude": 44.049224853515625,
+    "longitude": -92.417724609375
+  },
+  "website": "https://trinityrochester.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1015",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1015"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityrochester.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581586619"
+    }
+  ],
+  "advisories": []
+}

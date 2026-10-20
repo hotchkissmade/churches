@@ -1,0 +1,33 @@
+{
+  "id": "mkxytjh32",
+  "url": "https://constellation.church/mkxytjh32",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "470 S Hill St",
+    "city": "Tatum",
+    "state": "TX",
+    "zip": "75691"
+  },
+  "coordinates": {
+    "latitude": 32.31204414367676,
+    "longitude": -94.51700592041016
+  },
+  "website": "https://fbct.steeplemate.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-1084/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-1084"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbct.steeplemate.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751553175"
+    }
+  ],
+  "advisories": []
+}

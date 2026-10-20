@@ -1,0 +1,29 @@
+{
+  "id": "pyardnd02",
+  "url": "https://constellation.church/pyardnd02",
+  "name": "ST JULIA CHURCH",
+  "displayName": "St. Julia Church",
+  "address": {
+    "street": "638 ROSLYN AVE",
+    "city": "Erie",
+    "state": "PA",
+    "zip": "16505"
+  },
+  "coordinates": {
+    "latitude": 42.09729766845703,
+    "longitude": -80.169921875
+  },
+  "website": "https://stjuliaerie.com",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251643588"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjuliaerie.com"
+    }
+  ],
+  "advisories": []
+}

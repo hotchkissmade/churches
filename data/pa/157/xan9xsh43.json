@@ -1,0 +1,33 @@
+{
+  "id": "xan9xsh43",
+  "url": "https://constellation.church/xan9xsh43",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "100 S 6th St",
+    "city": "Indiana",
+    "state": "PA",
+    "zip": "15701-2736"
+  },
+  "coordinates": {
+    "latitude": 40.6213682,
+    "longitude": -79.151256
+  },
+  "website": "https://zionindianapa.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9b348c51-54b6-41e2-9691-3c0e017d9f99",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9b348c51-54b6-41e2-9691-3c0e017d9f99"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionindianapa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251031965"
+    }
+  ],
+  "advisories": []
+}

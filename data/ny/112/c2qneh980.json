@@ -1,0 +1,33 @@
+{
+  "id": "c2qneh980",
+  "url": "https://constellation.church/c2qneh980",
+  "name": "Eglise Baptiste d’Expression Francaise, Brooklyn",
+  "displayName": "Eglise Baptiste d’Expression Francaise, Brooklyn",
+  "address": {
+    "street": "209 Clermont Ave",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11205"
+  },
+  "coordinates": {
+    "latitude": 40.691365,
+    "longitude": -73.9703179
+  },
+  "website": "https://fsbconline.org/about/our-history",
+  "listingUrl": "https://churches.sbc.net/church/eglise-baptiste-dexpression-francaise-brooklyn-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "eglise-baptiste-dexpression-francaise-brooklyn-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fsbconline.org/about/our-history"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112976925"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jdvb23s46",
+  "url": "https://constellation.church/jdvb23s46",
+  "name": "Mission City Church Assembly of God",
+  "displayName": "Mission City Church Assembly of God",
+  "address": {
+    "street": "1290 Pomeroy Ave",
+    "city": "Santa Clara",
+    "state": "CA",
+    "zip": "95051"
+  },
+  "coordinates": {
+    "latitude": 37.34885025024414,
+    "longitude": -121.98703002929688
+  },
+  "website": "https://mc.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=0938557a-ce84-463b-ae56-b911957ea216&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "0938557a-ce84-463b-ae56-b911957ea216"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942868579"
+    }
+  ],
+  "advisories": []
+}

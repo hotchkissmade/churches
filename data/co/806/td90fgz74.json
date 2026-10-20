@@ -1,0 +1,33 @@
+{
+  "id": "td90fgz74",
+  "url": "https://constellation.church/td90fgz74",
+  "name": "The Anchor Lutheran Church",
+  "displayName": "The Anchor Lutheran Church",
+  "address": {
+    "street": "7263 4th Street",
+    "city": "Greeley",
+    "state": "CO",
+    "zip": "80634"
+  },
+  "coordinates": {
+    "latitude": 40.4296932220459,
+    "longitude": -104.7971420288086
+  },
+  "website": "https://anchorgreeley.church",
+  "listingUrl": "https://lcmc.net/congregation/123770",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "123770"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "anchorgreeley.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "334381019"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "m5wvzcd67",
+  "url": "https://constellation.church/m5wvzcd67",
+  "name": "Hope Lutheran Church",
+  "displayName": "Hope Lutheran Church",
+  "address": {
+    "street": "1345 Macon St",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80010"
+  },
+  "coordinates": {
+    "latitude": 39.73687171936035,
+    "longitude": -104.85546875
+  },
+  "website": "https://hope-aurora.org",
+  "listingUrl": "https://locator.lcms.org/church/C/44545",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "44545"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hope-aurora.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521458740"
+    }
+  ],
+  "advisories": []
+}

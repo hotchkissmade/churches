@@ -1,0 +1,33 @@
+{
+  "id": "f3f7j0w07",
+  "url": "https://constellation.church/f3f7j0w07",
+  "name": "New Creature Baptist Church",
+  "displayName": "New Creature Baptist Church",
+  "address": {
+    "street": "1313 Sellers St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19124"
+  },
+  "coordinates": {
+    "latitude": 40.01633834838867,
+    "longitude": -75.0905990600586
+  },
+  "website": "https://newcreaturebaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/new-creature-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-creature-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newcreaturebaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "020712445"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "d0x31gs73",
+  "url": "https://constellation.church/d0x31gs73",
+  "name": "The Episcopal Day School",
+  "displayName": "The Episcopal Day School",
+  "address": {
+    "street": "34 N. Coria Street",
+    "city": "Brownsville",
+    "state": "TX",
+    "zip": "78520"
+  },
+  "coordinates": {
+    "latitude": 25.926735,
+    "longitude": -97.5088687
+  },
+  "website": "https://episcopaldayschool.net",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/west-texas/list/episcopal-day-school",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "west-texas/episcopal-day-school"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "episcopaldayschool.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "746003489"
+    }
+  ],
+  "advisories": []
+}

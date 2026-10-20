@@ -1,0 +1,33 @@
+{
+  "id": "dv2rd1068",
+  "url": "https://constellation.church/dv2rd1068",
+  "name": "Fellowship Church, Greenwood",
+  "displayName": "Fellowship Church, Greenwood",
+  "address": {
+    "street": "1601 W Main St",
+    "city": "Greenwood",
+    "state": "MO",
+    "zip": "64034"
+  },
+  "coordinates": {
+    "latitude": 38.8033332824707,
+    "longitude": -94.45348358154297
+  },
+  "website": "https://fcfamily.org/sermons",
+  "listingUrl": "https://churches.sbc.net/church/fellowship-church-greenwood/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "fellowship-church-greenwood"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fcfamily.org/sermons"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "821567371"
+    }
+  ],
+  "advisories": []
+}

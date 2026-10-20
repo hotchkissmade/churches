@@ -1,0 +1,33 @@
+{
+  "id": "ysvbx4m04",
+  "url": "https://constellation.church/ysvbx4m04",
+  "name": "South Run Baptist Church",
+  "displayName": "South Run Baptist Church",
+  "address": {
+    "street": "8712 Selger Dr",
+    "city": "Springfield",
+    "state": "VA",
+    "zip": "22153"
+  },
+  "coordinates": {
+    "latitude": 38.75417137145996,
+    "longitude": -77.24487686157227
+  },
+  "website": "https://southrun.org",
+  "listingUrl": "https://churches.sbc.net/church/south-run-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "south-run-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southrun.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541591873"
+    }
+  ],
+  "advisories": []
+}

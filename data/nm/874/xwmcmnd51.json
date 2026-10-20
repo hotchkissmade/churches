@@ -1,0 +1,33 @@
+{
+  "id": "xwmcmnd51",
+  "url": "https://constellation.church/xwmcmnd51",
+  "name": "First Baptist Church of Aztec",
+  "displayName": "First Baptist Church of Aztec",
+  "address": {
+    "street": "700 Navajo Ave",
+    "city": "Aztec",
+    "state": "NM",
+    "zip": "87410"
+  },
+  "coordinates": {
+    "latitude": 36.81643104553223,
+    "longitude": -108.0013656616211
+  },
+  "website": "https://firstaztec.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-aztec/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-aztec"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstaztec.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "856007205"
+    }
+  ],
+  "advisories": []
+}

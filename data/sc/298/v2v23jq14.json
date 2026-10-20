@@ -1,0 +1,33 @@
+{
+  "id": "v2v23jq14",
+  "url": "https://constellation.church/v2v23jq14",
+  "name": "Rosemary Baptist Church",
+  "displayName": "Rosemary Baptist Church",
+  "address": {
+    "street": "3242 Fellowship Road",
+    "city": "Williston",
+    "state": "SC",
+    "zip": "29853"
+  },
+  "coordinates": {
+    "latitude": 33.37791633605957,
+    "longitude": -81.46925354003906
+  },
+  "website": "https://rosemarybaptistchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/rosemary-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "rosemary-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rosemarybaptistchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570763133"
+    }
+  ],
+  "advisories": []
+}

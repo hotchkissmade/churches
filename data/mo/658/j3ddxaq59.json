@@ -1,0 +1,33 @@
+{
+  "id": "j3ddxaq59",
+  "url": "https://constellation.church/j3ddxaq59",
+  "name": "Second Baptist Church Springfield",
+  "displayName": "Second Baptist Church Springfield",
+  "address": {
+    "street": "3111 E Battlefield St",
+    "city": "Springfield",
+    "state": "MO",
+    "zip": "65804"
+  },
+  "coordinates": {
+    "latitude": 37.15930366516113,
+    "longitude": -93.23294830322266
+  },
+  "website": "https://secondbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/second-baptist-church-springfield/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "second-baptist-church-springfield"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "secondbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440656227"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vm80ng514",
+  "url": "https://constellation.church/vm80ng514",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "702 S 9th St",
+    "city": "Salina",
+    "state": "KS",
+    "zip": "67401-4802"
+  },
+  "coordinates": {
+    "latitude": 38.826751708984375,
+    "longitude": -97.6129379272461
+  },
+  "website": "https://trinitysalina.org",
+  "listingUrl": "https://locator.lcms.org/church/C/809309",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "809309"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitysalina.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480732721"
+    }
+  ],
+  "advisories": []
+}

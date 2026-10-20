@@ -1,0 +1,33 @@
+{
+  "id": "x9nex2335",
+  "url": "https://constellation.church/x9nex2335",
+  "name": "Eastbridge Presbyterian Church",
+  "displayName": "Eastbridge Presbyterian Church",
+  "address": {
+    "street": "1250 Lexington Drive",
+    "city": "Mount Pleasant",
+    "state": "SC",
+    "zip": "29466"
+  },
+  "coordinates": {
+    "latitude": 32.86472511291504,
+    "longitude": -79.78837203979492
+  },
+  "website": "https://eastbridge.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1515",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1515"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastbridge.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570951522"
+    }
+  ],
+  "advisories": []
+}

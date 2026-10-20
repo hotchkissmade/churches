@@ -1,0 +1,33 @@
+{
+  "id": "a9gj7ez88",
+  "url": "https://constellation.church/a9gj7ez88",
+  "name": "St. Dimitrie the New Church",
+  "displayName": "St. Dimitrie the New Church",
+  "address": {
+    "street": "6060 Puritan Ln",
+    "city": "Frederick",
+    "state": "CO",
+    "zip": "80516"
+  },
+  "coordinates": {
+    "latitude": 40.08851432800293,
+    "longitude": -104.99412536621094
+  },
+  "website": "https://sfdimitrie.org/en",
+  "listingUrl": "https://www.oca.org/parishes/oca-ro-densdn",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ro-densdn"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sfdimitrie.org/en"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "261173282"
+    }
+  ],
+  "advisories": []
+}

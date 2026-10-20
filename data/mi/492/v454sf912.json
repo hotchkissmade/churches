@@ -1,0 +1,33 @@
+{
+  "id": "v454sf912",
+  "url": "https://constellation.church/v454sf912",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "302 N Maumee St",
+    "city": "Tecumseh",
+    "state": "MI",
+    "zip": "49286-1436"
+  },
+  "coordinates": {
+    "latitude": 42.006948471069336,
+    "longitude": -83.9401969909668
+  },
+  "website": "https://gracetecumseh.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24285",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24285"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracetecumseh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237036061"
+    }
+  ],
+  "advisories": []
+}

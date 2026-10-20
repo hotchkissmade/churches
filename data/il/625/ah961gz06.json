@@ -1,0 +1,33 @@
+{
+  "id": "ah961gz06",
+  "url": "https://constellation.church/ah961gz06",
+  "name": "Forsyth Baptist Church",
+  "displayName": "Forsyth Baptist Church",
+  "address": {
+    "street": "144 E Cox St",
+    "city": "Forsyth",
+    "state": "IL",
+    "zip": "62535"
+  },
+  "coordinates": {
+    "latitude": 39.93023681640625,
+    "longitude": -88.95396423339844
+  },
+  "website": "https://forsythbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/forsyth-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "forsyth-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "forsythbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371042224"
+    }
+  ],
+  "advisories": []
+}

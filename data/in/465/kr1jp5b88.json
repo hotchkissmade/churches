@@ -1,0 +1,33 @@
+{
+  "id": "kr1jp5b88",
+  "url": "https://constellation.church/kr1jp5b88",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "202 S Greene Rd",
+    "city": "Goshen",
+    "state": "IN",
+    "zip": "46526-1525"
+  },
+  "coordinates": {
+    "latitude": 41.584848403930664,
+    "longitude": -85.86669921875
+  },
+  "website": "https://faithgoshen.com/live-stream",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5a294468-92de-44b9-b874-64efb81d6f91",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5a294468-92de-44b9-b874-64efb81d6f91"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithgoshen.com/live-stream"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "465581288"
+    }
+  ],
+  "advisories": []
+}

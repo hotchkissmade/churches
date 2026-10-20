@@ -1,0 +1,33 @@
+{
+  "id": "gvkgegc14",
+  "url": "https://constellation.church/gvkgegc14",
+  "name": "Southside Baptist Church",
+  "displayName": "Southside Baptist Church",
+  "address": {
+    "street": "5330 Lakeland Highlands Road",
+    "city": "Lakeland",
+    "state": "FL",
+    "zip": "33813"
+  },
+  "coordinates": {
+    "latitude": 27.967958450317383,
+    "longitude": -81.9232177734375
+  },
+  "website": "https://mysouthsidelakeland.org",
+  "listingUrl": "https://churches.sbc.net/church/southside-baptist-church-6/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "southside-baptist-church-6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mysouthsidelakeland.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590865846"
+    }
+  ],
+  "advisories": []
+}

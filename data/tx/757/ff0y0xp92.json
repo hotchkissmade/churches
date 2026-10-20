@@ -1,0 +1,33 @@
+{
+  "id": "ff0y0xp92",
+  "url": "https://constellation.church/ff0y0xp92",
+  "name": "Southern Oaks Baptist Church",
+  "displayName": "Southern Oaks Baptist Church",
+  "address": {
+    "street": "601 E Amherst Dr",
+    "city": "Tyler",
+    "state": "TX",
+    "zip": "75701"
+  },
+  "coordinates": {
+    "latitude": 32.312429428100586,
+    "longitude": -95.29410552978516
+  },
+  "website": "https://welovethegospel.com",
+  "listingUrl": "https://churches.sbc.net/church/southern-oaks-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "southern-oaks-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "welovethegospel.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751255857"
+    }
+  ],
+  "advisories": []
+}

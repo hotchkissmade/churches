@@ -1,0 +1,33 @@
+{
+  "id": "vttm7a270",
+  "url": "https://constellation.church/vttm7a270",
+  "name": "Cathedral Church of St. Luke",
+  "displayName": "Cathedral Church of St. Luke",
+  "address": {
+    "street": "143 State St",
+    "city": "Portland",
+    "state": "ME",
+    "zip": "04101-3799"
+  },
+  "coordinates": {
+    "latitude": 43.65232467651367,
+    "longitude": -70.26456832885742
+  },
+  "website": "https://cathedralofsaintluke.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maine/list/cathedral-church-st-luke",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maine/cathedral-church-st-luke"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cathedralofsaintluke.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "010211492"
+    }
+  ],
+  "advisories": []
+}

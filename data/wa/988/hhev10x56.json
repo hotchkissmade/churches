@@ -1,0 +1,33 @@
+{
+  "id": "hhev10x56",
+  "url": "https://constellation.church/hhev10x56",
+  "name": "Eastmont Baptist Church",
+  "displayName": "Eastmont Baptist Church",
+  "address": {
+    "street": "400 S Kentucky Avenue",
+    "city": "East Wenatchee",
+    "state": "WA",
+    "zip": "98802"
+  },
+  "coordinates": {
+    "latitude": 47.397705078125,
+    "longitude": -120.2616195678711
+  },
+  "website": "https://eastmontbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/eastmont-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "eastmont-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastmontbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911103307"
+    }
+  ],
+  "advisories": []
+}

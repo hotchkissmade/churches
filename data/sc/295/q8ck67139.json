@@ -1,0 +1,33 @@
+{
+  "id": "q8ck67139",
+  "url": "https://constellation.church/q8ck67139",
+  "name": "Maple Baptist Church",
+  "displayName": "Maple Baptist Church",
+  "address": {
+    "street": "4500 Highway 65",
+    "city": "Conway",
+    "state": "SC",
+    "zip": "29526"
+  },
+  "coordinates": {
+    "latitude": 33.91375541687012,
+    "longitude": -79.01274871826172
+  },
+  "website": "https://maplebaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/maple-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "maple-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "maplebaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570826233"
+    }
+  ],
+  "advisories": []
+}

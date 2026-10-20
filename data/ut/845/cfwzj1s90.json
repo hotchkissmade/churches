@@ -1,0 +1,33 @@
+{
+  "id": "cfwzj1s90",
+  "url": "https://constellation.church/cfwzj1s90",
+  "name": "First Baptist Church of Price",
+  "displayName": "First Baptist Church of Price",
+  "address": {
+    "street": "200 N 300 E",
+    "city": "Price",
+    "state": "UT",
+    "zip": "84501"
+  },
+  "coordinates": {
+    "latitude": 39.602163314819336,
+    "longitude": -110.80524444580078
+  },
+  "website": "https://fbcprice.net",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-price/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-price"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcprice.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "870351746"
+    }
+  ],
+  "advisories": []
+}

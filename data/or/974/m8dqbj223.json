@@ -1,0 +1,33 @@
+{
+  "id": "m8dqbj223",
+  "url": "https://constellation.church/m8dqbj223",
+  "name": "St. Thomas Episcopal Church",
+  "displayName": "St. Thomas Episcopal Church",
+  "address": {
+    "street": "1465 Coburg Rd",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97401-5006"
+  },
+  "coordinates": {
+    "latitude": 44.07770919799805,
+    "longitude": -123.06827545166016
+  },
+  "website": "https://st-thomaseugene.net",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-oregon/list/st-thomas-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-oregon/st-thomas-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "st-thomaseugene.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "936107421"
+    }
+  ],
+  "advisories": []
+}

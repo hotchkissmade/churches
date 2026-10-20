@@ -1,0 +1,33 @@
+{
+  "id": "wj4yze667",
+  "url": "https://constellation.church/wj4yze667",
+  "name": "Worcester Friends Meeting",
+  "displayName": "Worcester Friends Meeting",
+  "address": {
+    "street": "901 Pleasant St.",
+    "city": "Worcester",
+    "state": "MA",
+    "zip": "01602"
+  },
+  "coordinates": {
+    "latitude": 42.277000427246094,
+    "longitude": -71.83629989624023
+  },
+  "website": "https://worcesterfriendsmeeting.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/worcester-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "worcester-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "worcesterfriendsmeeting.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "853310478"
+    }
+  ],
+  "advisories": []
+}

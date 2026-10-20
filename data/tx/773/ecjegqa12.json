@@ -1,0 +1,33 @@
+{
+  "id": "ecjegqa12",
+  "url": "https://constellation.church/ecjegqa12",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "2025 N Houston Ave",
+    "city": "Livingston",
+    "state": "TX",
+    "zip": "77351"
+  },
+  "coordinates": {
+    "latitude": 30.729867935180664,
+    "longitude": -94.9311294555664
+  },
+  "website": "https://livingstonag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=06ad12be-3a3a-46ff-8acf-ecc644478e71&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "06ad12be-3a3a-46ff-8acf-ecc644478e71"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "livingstonag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760224643"
+    }
+  ],
+  "advisories": []
+}

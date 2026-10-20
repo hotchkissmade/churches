@@ -1,0 +1,33 @@
+{
+  "id": "p9eqvt339",
+  "url": "https://constellation.church/p9eqvt339",
+  "name": "Eagle Pass Frontera Ministries",
+  "displayName": "Eagle Pass Frontera Ministries",
+  "address": {
+    "street": "1752 Eidson Rd",
+    "city": "Eagle Pass",
+    "state": "TX",
+    "zip": "78852"
+  },
+  "coordinates": {
+    "latitude": 28.6825381,
+    "longitude": -100.483399
+  },
+  "website": "https://eaglepassfrontera.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ebc9654c-79f4-4945-b9e7-bbc3d83360bb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ebc9654c-79f4-4945-b9e7-bbc3d83360bb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eaglepassfrontera.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "842478710"
+    }
+  ],
+  "advisories": []
+}

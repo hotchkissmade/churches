@@ -1,0 +1,33 @@
+{
+  "id": "ntbtg7m34",
+  "url": "https://constellation.church/ntbtg7m34",
+  "name": "Church of the Epiphany",
+  "displayName": "Church of the Epiphany",
+  "address": {
+    "street": "1336 Pawtucket Ave",
+    "city": "Rumford",
+    "state": "RI",
+    "zip": "02916-1412"
+  },
+  "coordinates": {
+    "latitude": 41.83767318725586,
+    "longitude": -71.34842300415039
+  },
+  "website": "https://epiphanyep.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-rhode-island/list/church-epiphany",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-rhode-island/church-epiphany"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "epiphanyep.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "050276016"
+    }
+  ],
+  "advisories": []
+}

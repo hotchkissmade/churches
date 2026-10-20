@@ -1,0 +1,33 @@
+{
+  "id": "ffz9c4r14",
+  "url": "https://constellation.church/ffz9c4r14",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "115 E Monroe St",
+    "city": "Bangor",
+    "state": "MI",
+    "zip": "49013-1473"
+  },
+  "coordinates": {
+    "latitude": 42.30965614318848,
+    "longitude": -86.10266876220703
+  },
+  "website": "https://trinitybangor.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24315",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24315"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitybangor.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382075547"
+    }
+  ],
+  "advisories": []
+}

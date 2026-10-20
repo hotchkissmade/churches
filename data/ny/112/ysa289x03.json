@@ -1,0 +1,33 @@
+{
+  "id": "ysa289x03",
+  "url": "https://constellation.church/ysa289x03",
+  "name": "Calvary & St Cyprian's church",
+  "displayName": "Calvary & St. Cyprian's church",
+  "address": {
+    "street": "966 Bushwick Ave",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11221"
+  },
+  "coordinates": {
+    "latitude": 40.69204330444336,
+    "longitude": -73.92315292358398
+  },
+  "website": "https://calvarystcyprians.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/church-calvary-st-cyprian",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/church-calvary-st-cyprian"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "calvarystcyprians.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112006712"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "h9egxp225",
+  "url": "https://constellation.church/h9egxp225",
+  "name": "Covenant Presbyterian Church",
+  "displayName": "Covenant Presbyterian Church",
+  "address": {
+    "street": "819 GA - Highway 314",
+    "city": "Fayetteville",
+    "state": "GA",
+    "zip": "30214"
+  },
+  "coordinates": {
+    "latitude": 33.51310920715332,
+    "longitude": -84.44823455810547
+  },
+  "website": "https://covenantpres.net",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/287",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "287"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covenantpres.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581577216"
+    }
+  ],
+  "advisories": []
+}

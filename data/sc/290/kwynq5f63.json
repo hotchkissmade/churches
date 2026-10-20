@@ -1,0 +1,33 @@
+{
+  "id": "kwynq5f63",
+  "url": "https://constellation.church/kwynq5f63",
+  "name": "Blaney Baptist Church",
+  "displayName": "Blaney Baptist Church",
+  "address": {
+    "street": "1400 Blaney Rd",
+    "city": "Elgin",
+    "state": "SC",
+    "zip": "29045"
+  },
+  "coordinates": {
+    "latitude": 34.1687068939209,
+    "longitude": -80.79230880737305
+  },
+  "website": "https://blaneybaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/blaney-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "blaney-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blaneybaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570622368"
+    }
+  ],
+  "advisories": []
+}

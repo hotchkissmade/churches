@@ -1,0 +1,33 @@
+{
+  "id": "yc966kb62",
+  "url": "https://constellation.church/yc966kb62",
+  "name": "First Baptist Church, Dallas",
+  "displayName": "First Baptist Church, Dallas",
+  "address": {
+    "street": "1707 San Jacinto St",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75201"
+  },
+  "coordinates": {
+    "latitude": 32.78521919250488,
+    "longitude": -96.79999542236328
+  },
+  "website": "https://firstdallas.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-dallas/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-dallas"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstdallas.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750926762"
+    }
+  ],
+  "advisories": []
+}

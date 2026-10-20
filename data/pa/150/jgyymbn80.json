@@ -1,0 +1,33 @@
+{
+  "id": "jgyymbn80",
+  "url": "https://constellation.church/jgyymbn80",
+  "name": "Four Mile Presbyterian Church",
+  "displayName": "Four Mile Presbyterian Church",
+  "address": {
+    "street": "6078 Tuscarawas Rd",
+    "city": "Beaver",
+    "state": "PA",
+    "zip": "15009"
+  },
+  "coordinates": {
+    "latitude": 40.701045989990234,
+    "longitude": -80.4244384765625
+  },
+  "website": "https://fourmile.org",
+  "listingUrl": "https://eco-pres.org/churches/four-mile-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "four-mile-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fourmile.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251381363"
+    }
+  ],
+  "advisories": []
+}

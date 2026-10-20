@@ -1,0 +1,33 @@
+{
+  "id": "jt8bsfp59",
+  "url": "https://constellation.church/jt8bsfp59",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "604 W Broadway St",
+    "city": "Decorah",
+    "state": "IA",
+    "zip": "52101-1602"
+  },
+  "coordinates": {
+    "latitude": 43.302452087402344,
+    "longitude": -91.79240417480469
+  },
+  "website": "https://firstlutherandecorah.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fac92696-11e2-427a-8c75-bbb4508737ac",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fac92696-11e2-427a-8c75-bbb4508737ac"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutherandecorah.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420727485"
+    }
+  ],
+  "advisories": []
+}

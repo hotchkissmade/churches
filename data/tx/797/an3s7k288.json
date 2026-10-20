@@ -1,0 +1,33 @@
+{
+  "id": "an3s7k288",
+  "url": "https://constellation.church/an3s7k288",
+  "name": "First Presbyterian Church of Midland",
+  "displayName": "First Presbyterian Church of Midland",
+  "address": {
+    "street": "800 W Texas Ave",
+    "city": "Midland",
+    "state": "TX",
+    "zip": "79701"
+  },
+  "coordinates": {
+    "latitude": 31.99835205078125,
+    "longitude": -102.0833511352539
+  },
+  "website": "https://fpcmid.org",
+  "listingUrl": "https://eco-pres.org/churches/first-presbyterian-church-of-midland/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "first-presbyterian-church-of-midland"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcmid.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750983832"
+    }
+  ],
+  "advisories": []
+}

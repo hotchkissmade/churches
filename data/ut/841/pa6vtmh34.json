@@ -1,0 +1,33 @@
+{
+  "id": "pa6vtmh34",
+  "url": "https://constellation.church/pa6vtmh34",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "12 N C St",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84103-2398"
+  },
+  "coordinates": {
+    "latitude": 40.76994323730469,
+    "longitude": -111.88043975830078
+  },
+  "website": "https://fpcslc.org/staff",
+  "listingUrl": "https://church-trends.pcusa.org/church/8893/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "8893"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcslc.org/staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "870475781"
+    }
+  ],
+  "advisories": []
+}

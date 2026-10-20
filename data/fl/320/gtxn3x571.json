@@ -1,0 +1,33 @@
+{
+  "id": "gtxn3x571",
+  "url": "https://constellation.church/gtxn3x571",
+  "name": "Elim Baptist Church",
+  "displayName": "Elim Baptist Church",
+  "address": {
+    "street": "3435 SW Elim Church Rd",
+    "city": "Fort White",
+    "state": "FL",
+    "zip": "32038"
+  },
+  "coordinates": {
+    "latitude": 29.943450927734375,
+    "longitude": -82.69649887084961
+  },
+  "website": "https://elim-baptist.com",
+  "listingUrl": "https://churches.sbc.net/church/elim-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "elim-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elim-baptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592871796"
+    }
+  ],
+  "advisories": []
+}

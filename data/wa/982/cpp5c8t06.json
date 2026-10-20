@@ -1,0 +1,33 @@
+{
+  "id": "cpp5c8t06",
+  "url": "https://constellation.church/cpp5c8t06",
+  "name": "Celebration Lutheran Church",
+  "displayName": "Celebration Lutheran Church",
+  "address": {
+    "street": "611 R Ave",
+    "city": "Anacortes",
+    "state": "WA",
+    "zip": "98221"
+  },
+  "coordinates": {
+    "latitude": 48.5170206,
+    "longitude": -122.608996
+  },
+  "website": "https://celebrationanacortes.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f9f4f339-ff12-4260-9987-0e5496524075",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f9f4f339-ff12-4260-9987-0e5496524075"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "celebrationanacortes.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "912024904"
+    }
+  ],
+  "advisories": []
+}

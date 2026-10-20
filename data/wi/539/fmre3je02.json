@@ -1,0 +1,33 @@
+{
+  "id": "fmre3je02",
+  "url": "https://constellation.church/fmre3je02",
+  "name": "Grace Presbyterian Church",
+  "displayName": "Grace Presbyterian Church",
+  "address": {
+    "street": "N7631 Hwy 22",
+    "city": "Pardeeville",
+    "state": "WI",
+    "zip": "53954"
+  },
+  "coordinates": {
+    "latitude": 43.5572509765625,
+    "longitude": -89.30714416503906
+  },
+  "website": "https://gracepresinfo.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1347",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1347"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracepresinfo.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391719910"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "chcthjk26",
+  "url": "https://constellation.church/chcthjk26",
+  "name": "St. Christopher's at the Crossroads",
+  "displayName": "St. Christopher's at the Crossroads",
+  "address": {
+    "street": "1207 Macon Rd",
+    "city": "Perry",
+    "state": "GA",
+    "zip": "31069"
+  },
+  "coordinates": {
+    "latitude": 32.4638614654541,
+    "longitude": -83.73052215576172
+  },
+  "website": "https://stchristophersepiscopal.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-atlanta/list/st-christophers-crossroads",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-atlanta/st-christophers-crossroads"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stchristophersepiscopal.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581503267"
+    }
+  ],
+  "advisories": []
+}

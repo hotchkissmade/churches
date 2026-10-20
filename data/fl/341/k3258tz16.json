@@ -1,0 +1,33 @@
+{
+  "id": "k3258tz16",
+  "url": "https://constellation.church/k3258tz16",
+  "name": "First Baptist Church of Naples",
+  "displayName": "First Baptist Church of Naples",
+  "address": {
+    "street": "3000 Orange Blossom Dr",
+    "city": "Naples",
+    "state": "FL",
+    "zip": "34109"
+  },
+  "coordinates": {
+    "latitude": 26.230571746826172,
+    "longitude": -81.75581741333008
+  },
+  "website": "https://firstnaples.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-naples/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-naples"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstnaples.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590799902"
+    }
+  ],
+  "advisories": []
+}

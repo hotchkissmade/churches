@@ -1,0 +1,33 @@
+{
+  "id": "vc6g3px30",
+  "url": "https://constellation.church/vc6g3px30",
+  "name": "Monmouth Worship Center",
+  "displayName": "Monmouth Worship Center",
+  "address": {
+    "street": "37 Vanderburg Rd",
+    "city": "Marlboro",
+    "state": "NJ",
+    "zip": "07746"
+  },
+  "coordinates": {
+    "latitude": 40.31470489501953,
+    "longitude": -74.2394790649414
+  },
+  "website": "https://monmouthworship.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=99f4451f-15c2-4b97-815b-cc4432a22a8a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "99f4451f-15c2-4b97-815b-cc4432a22a8a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "monmouthworship.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222639242"
+    }
+  ],
+  "advisories": []
+}

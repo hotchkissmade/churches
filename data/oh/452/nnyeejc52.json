@@ -1,0 +1,33 @@
+{
+  "id": "nnyeejc52",
+  "url": "https://constellation.church/nnyeejc52",
+  "name": "First English Evangelical Lutheran Church",
+  "displayName": "First English Evangelical Lutheran Church",
+  "address": {
+    "street": "1208 Race St",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45202-7109"
+  },
+  "coordinates": {
+    "latitude": 39.108442306518555,
+    "longitude": -84.51634216308594
+  },
+  "website": "https://firstlutherancincy.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=911f4328-5ded-4e0f-86b2-25db2f1d04cc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "911f4328-5ded-4e0f-86b2-25db2f1d04cc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutherancincy.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310643538"
+    }
+  ],
+  "advisories": []
+}

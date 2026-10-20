@@ -1,0 +1,33 @@
+{
+  "id": "y0rshb153",
+  "url": "https://constellation.church/y0rshb153",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "3775 E Cudahy Ave",
+    "city": "Cudahy",
+    "state": "WI",
+    "zip": "53110-1128"
+  },
+  "coordinates": {
+    "latitude": 42.960845947265625,
+    "longitude": -87.85551452636719
+  },
+  "website": "https://stpaulscudahy.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24830",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24830"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulscudahy.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396000067"
+    }
+  ],
+  "advisories": []
+}

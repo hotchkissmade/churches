@@ -1,0 +1,33 @@
+{
+  "id": "ayscyth33",
+  "url": "https://constellation.church/ayscyth33",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "206 Plum Rd",
+    "city": "Wrightstown",
+    "state": "WI",
+    "zip": "54180-7300"
+  },
+  "coordinates": {
+    "latitude": 44.3187217,
+    "longitude": -88.1564971
+  },
+  "website": "https://stjohnwrightstown.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24585",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24585"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnwrightstown.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396025685"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "q2m6avk27",
+  "url": "https://constellation.church/q2m6avk27",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "1459 S Highway E",
+    "city": "Norwood",
+    "state": "MO",
+    "zip": "65717"
+  },
+  "coordinates": {
+    "latitude": 37.1192626953125,
+    "longitude": -92.42192840576172
+  },
+  "website": "https://norwoodaog.churchtrac.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=1d9c27c7-38d4-4e08-8434-569a249d5c25&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "1d9c27c7-38d4-4e08-8434-569a249d5c25"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "norwoodaog.churchtrac.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431271450"
+    }
+  ],
+  "advisories": []
+}

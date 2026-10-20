@@ -1,0 +1,33 @@
+{
+  "id": "mtbw36e36",
+  "url": "https://constellation.church/mtbw36e36",
+  "name": "Bryce Avenue Presbyterian Church",
+  "displayName": "Bryce Avenue Presbyterian Church",
+  "address": {
+    "street": "333 Bryce Avenue",
+    "city": "White Rock",
+    "state": "NM",
+    "zip": "87547"
+  },
+  "coordinates": {
+    "latitude": 35.82341194152832,
+    "longitude": -106.20174407958984
+  },
+  "website": "https://brycepresbyterian.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/122",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "122"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "brycepresbyterian.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850240412"
+    }
+  ],
+  "advisories": []
+}

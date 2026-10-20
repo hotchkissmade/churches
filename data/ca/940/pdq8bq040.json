@@ -1,0 +1,33 @@
+{
+  "id": "pdq8bq040",
+  "url": "https://constellation.church/pdq8bq040",
+  "name": "Episcopal Church of the Epiphany",
+  "displayName": "Episcopal Church of the Epiphany",
+  "address": {
+    "street": "1839 Arroyo Ave",
+    "city": "San Carlos",
+    "state": "CA",
+    "zip": "94070-3899"
+  },
+  "coordinates": {
+    "latitude": 37.49778938293457,
+    "longitude": -122.26026916503906
+  },
+  "website": "https://epiphanysancarlos.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-california/list/episcopal-church-epiphany",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-california/episcopal-church-epiphany"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "epiphanysancarlos.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941265060"
+    }
+  ],
+  "advisories": []
+}

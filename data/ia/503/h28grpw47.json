@@ -1,0 +1,33 @@
+{
+  "id": "h28grpw47",
+  "url": "https://constellation.church/h28grpw47",
+  "name": "Redeemer Presbyterian Church",
+  "displayName": "Redeemer Presbyterian Church",
+  "address": {
+    "street": "5001 Hickman Road",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50310"
+  },
+  "coordinates": {
+    "latitude": 41.61502456665039,
+    "longitude": -93.687744140625
+  },
+  "website": "https://redeemer-dm.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4227",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4227"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemer-dm.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421490871"
+    }
+  ],
+  "advisories": []
+}

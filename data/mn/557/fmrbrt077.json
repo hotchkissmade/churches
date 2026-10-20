@@ -1,0 +1,33 @@
+{
+  "id": "fmrbrt077",
+  "url": "https://constellation.church/fmrbrt077",
+  "name": "Bethany Lutheran Church",
+  "displayName": "Bethany Lutheran Church",
+  "address": {
+    "street": "5660 Highway 210",
+    "city": "Cromwell",
+    "state": "MN",
+    "zip": "55726-8174"
+  },
+  "coordinates": {
+    "latitude": 46.678863525390625,
+    "longitude": -92.86848449707031
+  },
+  "website": "https://bethanybethlehem.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=72a0b565-c744-4a46-9f59-0017db17f771",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "72a0b565-c744-4a46-9f59-0017db17f771"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanybethlehem.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411333922"
+    }
+  ],
+  "advisories": []
+}

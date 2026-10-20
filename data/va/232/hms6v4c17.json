@@ -1,0 +1,33 @@
+{
+  "id": "hms6v4c17",
+  "url": "https://constellation.church/hms6v4c17",
+  "name": "St. Giles Presbyterian Church",
+  "displayName": "St. Giles Presbyterian Church",
+  "address": {
+    "street": "5200 Grove Ave",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "23226"
+  },
+  "coordinates": {
+    "latitude": 37.57200622558594,
+    "longitude": -77.51122665405273
+  },
+  "website": "https://stgiles.org",
+  "listingUrl": "https://eco-pres.org/churches/st-giles-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "st-giles-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stgiles.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540505948"
+    }
+  ],
+  "advisories": []
+}

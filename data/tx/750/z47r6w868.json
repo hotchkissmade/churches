@@ -1,0 +1,33 @@
+{
+  "id": "z47r6w868",
+  "url": "https://constellation.church/z47r6w868",
+  "name": "Genesis Church",
+  "displayName": "Genesis Church",
+  "address": {
+    "street": "5780 Virginia Pkwy",
+    "city": "McKinney",
+    "state": "TX",
+    "zip": "75071"
+  },
+  "coordinates": {
+    "latitude": 33.199567794799805,
+    "longitude": -96.69426727294922
+  },
+  "website": "https://genesispeople.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=40335d96-5288-4b64-8ad9-07680530e5ca&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "40335d96-5288-4b64-8ad9-07680530e5ca"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "genesispeople.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751855206"
+    }
+  ],
+  "advisories": []
+}

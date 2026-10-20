@@ -1,0 +1,33 @@
+{
+  "id": "cq3bt2t53",
+  "url": "https://constellation.church/cq3bt2t53",
+  "name": "First Baptist Church Tulsa",
+  "displayName": "First Baptist Church Tulsa",
+  "address": {
+    "street": "420 S Detroit Ave",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74120"
+  },
+  "coordinates": {
+    "latitude": 36.15303993225098,
+    "longitude": -95.98686218261719
+  },
+  "website": "https://tulsafbc.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-tulsa/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-tulsa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tulsafbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "730621892"
+    }
+  ],
+  "advisories": []
+}

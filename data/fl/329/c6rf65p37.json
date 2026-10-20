@@ -1,0 +1,33 @@
+{
+  "id": "c6rf65p37",
+  "url": "https://constellation.church/c6rf65p37",
+  "name": "Lockmar Baptist Church",
+  "displayName": "Lockmar Baptist Church",
+  "address": {
+    "street": "700 Emerson Dr NE",
+    "city": "Palm Bay",
+    "state": "FL",
+    "zip": "32907"
+  },
+  "coordinates": {
+    "latitude": 28.020471572875977,
+    "longitude": -80.6606674194336
+  },
+  "website": "https://lockmar.church",
+  "listingUrl": "https://churches.sbc.net/church/lockmar-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lockmar-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lockmar.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592580579"
+    }
+  ],
+  "advisories": []
+}

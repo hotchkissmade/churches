@@ -1,0 +1,33 @@
+{
+  "id": "tgrnrrt06",
+  "url": "https://constellation.church/tgrnrrt06",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "633 Catalpa St",
+    "city": "Itasca",
+    "state": "IL",
+    "zip": "60143-1820"
+  },
+  "coordinates": {
+    "latitude": 41.979339599609375,
+    "longitude": -88.01913452148438
+  },
+  "website": "https://fpitasca.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/1664/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "1664"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpitasca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362182019"
+    }
+  ],
+  "advisories": []
+}

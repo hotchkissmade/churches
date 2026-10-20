@@ -1,0 +1,33 @@
+{
+  "id": "a9sqm2b78",
+  "url": "https://constellation.church/a9sqm2b78",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "1900 Saint Paul St",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21218-6035"
+  },
+  "coordinates": {
+    "latitude": 39.31206130981445,
+    "longitude": -76.6151351928711
+  },
+  "website": "https://stmarksbaltimore.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=60ffd1c3-e661-4b9b-90d9-1b887a90dfd4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "60ffd1c3-e661-4b9b-90d9-1b887a90dfd4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarksbaltimore.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520623154"
+    }
+  ],
+  "advisories": []
+}

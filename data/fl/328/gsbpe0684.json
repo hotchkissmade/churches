@@ -1,0 +1,33 @@
+{
+  "id": "gsbpe0684",
+  "url": "https://constellation.church/gsbpe0684",
+  "name": "St. Paul's Presbyterian Church",
+  "displayName": "St. Paul's Presbyterian Church",
+  "address": {
+    "street": "4917 Eli Street",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32804"
+  },
+  "coordinates": {
+    "latitude": 28.601762771606445,
+    "longitude": -81.38838958740234
+  },
+  "website": "https://stpaulsorlando.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1329",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1329"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsorlando.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593077130"
+    }
+  ],
+  "advisories": []
+}

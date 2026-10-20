@@ -1,0 +1,37 @@
+{
+  "id": "dwkjen660",
+  "url": "https://constellation.church/dwkjen660",
+  "name": "Christian Assembly of God",
+  "displayName": "Christian Assembly of God",
+  "address": {
+    "street": "415 N Main St",
+    "city": "Englewood",
+    "state": "OH",
+    "zip": "45322"
+  },
+  "coordinates": {
+    "latitude": 39.885881423950195,
+    "longitude": -84.3052864074707
+  },
+  "website": "https://myecag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=27c28f92-6307-4bb7-b62b-5f536f8c139c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "27c28f92-6307-4bb7-b62b-5f536f8c139c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "myecag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "010714801"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310929810"
+    }
+  ],
+  "advisories": []
+}

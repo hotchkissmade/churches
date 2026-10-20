@@ -1,0 +1,33 @@
+{
+  "id": "zy6031496",
+  "url": "https://constellation.church/zy6031496",
+  "name": "Stetson Baptist Church",
+  "displayName": "Stetson Baptist Church",
+  "address": {
+    "street": "1025 W Minnesota Ave",
+    "city": "Deland",
+    "state": "FL",
+    "zip": "32720"
+  },
+  "coordinates": {
+    "latitude": 29.03575897216797,
+    "longitude": -81.32391738891602
+  },
+  "website": "https://stetsonbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/stetson-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "stetson-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stetsonbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "596031891"
+    }
+  ],
+  "advisories": []
+}

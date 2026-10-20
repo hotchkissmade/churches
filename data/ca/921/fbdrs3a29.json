@@ -1,0 +1,33 @@
+{
+  "id": "fbdrs3a29",
+  "url": "https://constellation.church/fbdrs3a29",
+  "name": "St Andrew's Lutheran Church",
+  "displayName": "St. Andrew's Lutheran Church",
+  "address": {
+    "street": "8350 Lake Murray Blvd",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92119-3413"
+  },
+  "coordinates": {
+    "latitude": 32.79256248474121,
+    "longitude": -117.01971435546875
+  },
+  "website": "https://standrewslutheran.church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f1ca0d02-dd97-42a7-a0b5-be812ce0efc6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f1ca0d02-dd97-42a7-a0b5-be812ce0efc6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewslutheran.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952468438"
+    }
+  ],
+  "advisories": []
+}

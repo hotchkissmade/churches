@@ -1,0 +1,33 @@
+{
+  "id": "txtyerk41",
+  "url": "https://constellation.church/txtyerk41",
+  "name": "Hughesville Baptist Church",
+  "displayName": "Hughesville Baptist Church",
+  "address": {
+    "street": "8505 Old Leonardtown Road",
+    "city": "Hughesville",
+    "state": "MD",
+    "zip": "20637"
+  },
+  "coordinates": {
+    "latitude": 38.5301456451416,
+    "longitude": -76.78377151489258
+  },
+  "website": "https://hughesvillebaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/hughesville-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hughesville-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hughesvillebaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521205019"
+    }
+  ],
+  "advisories": []
+}

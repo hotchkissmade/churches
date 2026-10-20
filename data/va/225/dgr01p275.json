@@ -1,0 +1,33 @@
+{
+  "id": "dgr01p275",
+  "url": "https://constellation.church/dgr01p275",
+  "name": "Summit Presbyterian Church",
+  "displayName": "Summit Presbyterian Church",
+  "address": {
+    "street": "256 Shelton Shop Rd",
+    "city": "Stafford",
+    "state": "VA",
+    "zip": "22554-6502"
+  },
+  "coordinates": {
+    "latitude": 38.46037292480469,
+    "longitude": -77.47151565551758
+  },
+  "website": "https://summitstafford.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/23377/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "23377"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "summitstafford.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541568636"
+    }
+  ],
+  "advisories": []
+}

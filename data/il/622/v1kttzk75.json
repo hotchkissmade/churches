@@ -1,0 +1,33 @@
+{
+  "id": "v1kttzk75",
+  "url": "https://constellation.church/v1kttzk75",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "503 E Washington St",
+    "city": "Millstadt",
+    "state": "IL",
+    "zip": "62260-1231"
+  },
+  "coordinates": {
+    "latitude": 38.4621524810791,
+    "longitude": -90.08523559570312
+  },
+  "website": "https://trinitymillstadt.org",
+  "listingUrl": "https://locator.lcms.org/church/C/584799",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "584799"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitymillstadt.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "376091728"
+    }
+  ],
+  "advisories": []
+}

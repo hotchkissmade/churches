@@ -1,0 +1,33 @@
+{
+  "id": "t1hrn6f26",
+  "url": "https://constellation.church/t1hrn6f26",
+  "name": "Pioneer Baptist Church",
+  "displayName": "Pioneer Baptist Church",
+  "address": {
+    "street": "3140 Darbytown Rd",
+    "city": "Henrico",
+    "state": "VA",
+    "zip": "23231"
+  },
+  "coordinates": {
+    "latitude": 37.47163009643555,
+    "longitude": -77.33351135253906
+  },
+  "website": "https://doverbaptist.org/church-directory/pioneer-baptist-church",
+  "listingUrl": "https://churches.sbc.net/church/pioneer-baptist-church-7/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pioneer-baptist-church-7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "doverbaptist.org/church-directory/pioneer-baptist-church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541111305"
+    }
+  ],
+  "advisories": []
+}

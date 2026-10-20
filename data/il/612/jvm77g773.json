@@ -1,0 +1,33 @@
+{
+  "id": "jvm77g773",
+  "url": "https://constellation.church/jvm77g773",
+  "name": "Homewood EFC",
+  "displayName": "Homewood Evangelical Free Church",
+  "address": {
+    "street": "3303 60th St",
+    "city": "Moline",
+    "state": "IL",
+    "zip": "61265-5802"
+  },
+  "coordinates": {
+    "latitude": 41.4794921875,
+    "longitude": -90.45796966552734
+  },
+  "website": "https://homewoodefc.org",
+  "listingUrl": "https://churches.efca.org/?id=12356",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12356"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "homewoodefc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362609407"
+    }
+  ],
+  "advisories": []
+}

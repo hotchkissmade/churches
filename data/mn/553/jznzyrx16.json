@@ -1,0 +1,33 @@
+{
+  "id": "jznzyrx16",
+  "url": "https://constellation.church/jznzyrx16",
+  "name": "West Union Lutheran Church",
+  "displayName": "West Union Lutheran Church",
+  "address": {
+    "street": "15820 Market Ave",
+    "city": "Cologne",
+    "state": "MN",
+    "zip": "55322-4504"
+  },
+  "coordinates": {
+    "latitude": 44.715999603271484,
+    "longitude": -93.7691879272461
+  },
+  "website": "https://westunionlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=453b7b71-3791-452a-8afe-c78a2a29e97b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "453b7b71-3791-452a-8afe-c78a2a29e97b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westunionlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840634234"
+    }
+  ],
+  "advisories": []
+}

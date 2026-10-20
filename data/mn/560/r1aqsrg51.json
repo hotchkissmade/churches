@@ -1,0 +1,33 @@
+{
+  "id": "r1aqsrg51",
+  "url": "https://constellation.church/r1aqsrg51",
+  "name": "Ascension Lutheran Church",
+  "displayName": "Ascension Lutheran Church",
+  "address": {
+    "street": "1101 S Us Hwy 69",
+    "city": "Albert Lea",
+    "state": "MN",
+    "zip": "56007-1892"
+  },
+  "coordinates": {
+    "latitude": 43.6382999420166,
+    "longitude": -93.39258575439453
+  },
+  "website": "https://ascensional.us/home",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cba33de3-077d-471f-bdc1-2ab44e05ac9b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cba33de3-077d-471f-bdc1-2ab44e05ac9b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ascensional.us/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410918480"
+    }
+  ],
+  "advisories": []
+}

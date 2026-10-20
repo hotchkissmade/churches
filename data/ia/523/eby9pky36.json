@@ -1,0 +1,33 @@
+{
+  "id": "eby9pky36",
+  "url": "https://constellation.church/eby9pky36",
+  "name": "Bethany Lutheran Church",
+  "displayName": "Bethany Lutheran Church",
+  "address": {
+    "street": "235 S. 2nd St.",
+    "city": "West Branch",
+    "state": "IA",
+    "zip": "52358"
+  },
+  "coordinates": {
+    "latitude": 41.669090270996094,
+    "longitude": -91.34395599365234
+  },
+  "website": "https://wbbethany.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7ad10d67-afd4-46d9-a0ff-60bd654e4d31",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7ad10d67-afd4-46d9-a0ff-60bd654e4d31"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wbbethany.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421213104"
+    }
+  ],
+  "advisories": []
+}

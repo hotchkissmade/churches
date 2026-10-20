@@ -1,0 +1,33 @@
+{
+  "id": "b3b8xbs28",
+  "url": "https://constellation.church/b3b8xbs28",
+  "name": "All Saints Lutheran Church",
+  "displayName": "All Saints Lutheran Church",
+  "address": {
+    "street": "8100 Belden Blvd",
+    "city": "Cottage Grove",
+    "state": "MN",
+    "zip": "55016-2660"
+  },
+  "coordinates": {
+    "latitude": 44.831817626953125,
+    "longitude": -92.96963500976562
+  },
+  "website": "https://allsaintscg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cd22c668-2be3-4e34-96d2-f1aac17abfd1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cd22c668-2be3-4e34-96d2-f1aac17abfd1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allsaintscg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411296342"
+    }
+  ],
+  "advisories": []
+}

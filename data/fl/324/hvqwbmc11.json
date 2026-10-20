@@ -1,0 +1,33 @@
+{
+  "id": "hvqwbmc11",
+  "url": "https://constellation.church/hvqwbmc11",
+  "name": "St. Andrew Baptist Church",
+  "displayName": "St. Andrew Baptist Church",
+  "address": {
+    "street": "3010 W 15th St",
+    "city": "Panama City",
+    "state": "FL",
+    "zip": "32401"
+  },
+  "coordinates": {
+    "latitude": 30.176645278930664,
+    "longitude": -85.7022933959961
+  },
+  "website": "https://sabc.org",
+  "listingUrl": "https://churches.sbc.net/church/st-andrew-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "st-andrew-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sabc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591036694"
+    }
+  ],
+  "advisories": []
+}

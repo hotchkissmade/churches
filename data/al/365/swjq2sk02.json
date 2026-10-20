@@ -1,0 +1,33 @@
+{
+  "id": "swjq2sk02",
+  "url": "https://constellation.church/swjq2sk02",
+  "name": "Georgetown Assembly of God",
+  "displayName": "Georgetown Assembly of God",
+  "address": {
+    "street": "9436 Wilmer Georgetown Wilmer",
+    "city": null,
+    "state": "AL",
+    "zip": "36587"
+  },
+  "coordinates": {
+    "latitude": 30.887250900268555,
+    "longitude": -88.2924919128418
+  },
+  "website": "https://georgetownassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=6a3c0eb4-fb28-4a95-bd1c-84b8a822efb0&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "6a3c0eb4-fb28-4a95-bd1c-84b8a822efb0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "georgetownassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630836305"
+    }
+  ],
+  "advisories": []
+}

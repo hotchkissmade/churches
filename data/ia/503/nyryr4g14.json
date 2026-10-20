@@ -1,0 +1,33 @@
+{
+  "id": "nyryr4g14",
+  "url": "https://constellation.church/nyryr4g14",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "5201 Urbandale Ave",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50310-1741"
+  },
+  "coordinates": {
+    "latitude": 41.622724533081055,
+    "longitude": -93.69068908691406
+  },
+  "website": "https://gracedm.org/who-we-are",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6d67890a-3e67-48a7-9f28-669435ef772c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6d67890a-3e67-48a7-9f28-669435ef772c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracedm.org/who-we-are"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426006541"
+    }
+  ],
+  "advisories": []
+}

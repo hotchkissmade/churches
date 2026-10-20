@@ -1,0 +1,33 @@
+{
+  "id": "rs0pq3575",
+  "url": "https://constellation.church/rs0pq3575",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "203 Main St",
+    "city": "Terrell",
+    "state": "TX",
+    "zip": "75160"
+  },
+  "coordinates": {
+    "latitude": 32.7417597,
+    "longitude": -96.285644
+  },
+  "website": "https://terrellfirst.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=bbac6b7c-3d04-4303-824f-831d68faf429&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "bbac6b7c-3d04-4303-824f-831d68faf429"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "terrellfirst.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751848759"
+    }
+  ],
+  "advisories": []
+}

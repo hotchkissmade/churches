@@ -1,0 +1,33 @@
+{
+  "id": "c8zmg6289",
+  "url": "https://constellation.church/c8zmg6289",
+  "name": "Coastal Presbyterian Church",
+  "displayName": "Coastal Presbyterian Church",
+  "address": {
+    "street": "505 Beach Boulevard",
+    "city": "Jacksonville Beach",
+    "state": "FL",
+    "zip": "32250"
+  },
+  "coordinates": {
+    "latitude": 30.288516998291016,
+    "longitude": -81.3946304321289
+  },
+  "website": "https://coastalpresbyterian.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/7034",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "7034"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "coastalpresbyterian.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "332503167"
+    }
+  ],
+  "advisories": []
+}

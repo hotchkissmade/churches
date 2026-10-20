@@ -1,0 +1,33 @@
+{
+  "id": "snm1pds25",
+  "url": "https://constellation.church/snm1pds25",
+  "name": "Little River Baptist Church",
+  "displayName": "Little River Baptist Church",
+  "address": {
+    "street": "51 Little River Church Rd",
+    "city": "Penrose",
+    "state": "NC",
+    "zip": "28766"
+  },
+  "coordinates": {
+    "latitude": 35.24206733703613,
+    "longitude": -82.62936401367188
+  },
+  "website": "https://lrbchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/little-river-baptist-church-4/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "little-river-baptist-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lrbchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561078832"
+    }
+  ],
+  "advisories": []
+}

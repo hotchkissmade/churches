@@ -1,0 +1,33 @@
+{
+  "id": "kg80cb795",
+  "url": "https://constellation.church/kg80cb795",
+  "name": "Broadway Presbyterian Church",
+  "displayName": "Broadway Presbyterian Church",
+  "address": {
+    "street": "601 W 114th St",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10025-7997"
+  },
+  "coordinates": {
+    "latitude": 40.807037353515625,
+    "longitude": -73.96512985229492
+  },
+  "website": "https://bpcnyc.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/5619/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "5619"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bpcnyc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "131623916"
+    }
+  ],
+  "advisories": []
+}

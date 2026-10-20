@@ -1,0 +1,33 @@
+{
+  "id": "aqxwtnf74",
+  "url": "https://constellation.church/aqxwtnf74",
+  "name": "Shepherd Of The Valley Lutheran Church",
+  "displayName": "Shepherd Of The Valley Lutheran Church",
+  "address": {
+    "street": "10842 Fury Ln",
+    "city": "La Mesa",
+    "state": "CA",
+    "zip": "91941-7305"
+  },
+  "coordinates": {
+    "latitude": 32.75153160095215,
+    "longitude": -116.96145629882812
+  },
+  "website": "https://svlc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1a984e1b-b750-4ab0-ba04-d3ba4b3f58ce",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1a984e1b-b750-4ab0-ba04-d3ba4b3f58ce"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "svlc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953266581"
+    }
+  ],
+  "advisories": []
+}

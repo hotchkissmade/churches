@@ -1,0 +1,33 @@
+{
+  "id": "v1fwq3770",
+  "url": "https://constellation.church/v1fwq3770",
+  "name": "Olive Street Presbyterian Church",
+  "displayName": "Olive Street Presbyterian Church",
+  "address": {
+    "street": "1400 Olive Street",
+    "city": "Coatesville",
+    "state": "PA",
+    "zip": "19320"
+  },
+  "coordinates": {
+    "latitude": 39.98611831665039,
+    "longitude": -75.79670715332031
+  },
+  "website": "https://olivestreetpres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4791",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4791"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "olivestreetpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231967440"
+    }
+  ],
+  "advisories": []
+}

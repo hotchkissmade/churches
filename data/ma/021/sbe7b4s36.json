@@ -1,0 +1,33 @@
+{
+  "id": "sbe7b4s36",
+  "url": "https://constellation.church/sbe7b4s36",
+  "name": "Renewal Church",
+  "displayName": "Renewal Church",
+  "address": {
+    "street": "152 Arlington Street",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02116"
+  },
+  "coordinates": {
+    "latitude": 42.35321617126465,
+    "longitude": -71.0637092590332
+  },
+  "website": "https://renewalchurchboston.com",
+  "listingUrl": "https://churches.sbc.net/church/renewal-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "renewal-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "renewalchurchboston.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "461855736"
+    }
+  ],
+  "advisories": []
+}

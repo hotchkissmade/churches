@@ -1,0 +1,33 @@
+{
+  "id": "j3me6vc77",
+  "url": "https://constellation.church/j3me6vc77",
+  "name": "St. Ambrose Episcopal Church",
+  "displayName": "St. Ambrose Episcopal Church",
+  "address": {
+    "street": "813 Darby St",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27610-4017"
+  },
+  "coordinates": {
+    "latitude": 35.75647163391113,
+    "longitude": -78.62498092651367
+  },
+  "website": "https://stambroseraleigh.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-north-carolina/list/st-ambrose-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-north-carolina/st-ambrose-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stambroseraleigh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561019350"
+    }
+  ],
+  "advisories": []
+}

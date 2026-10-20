@@ -1,0 +1,33 @@
+{
+  "id": "gae1r5119",
+  "url": "https://constellation.church/gae1r5119",
+  "name": "First Presbyterian Church at Dyersburg",
+  "displayName": "First Presbyterian Church at Dyersburg",
+  "address": {
+    "street": "1005 Highway 51 ByPass West",
+    "city": "Dyersburg",
+    "state": "TN",
+    "zip": "38024"
+  },
+  "coordinates": {
+    "latitude": 36.05643653869629,
+    "longitude": -89.39988708496094
+  },
+  "website": "https://fpcdyersburg.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/432",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "432"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcdyersburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "626040476"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "skvv5hm87",
+  "url": "https://constellation.church/skvv5hm87",
+  "name": "American Lutheran Church",
+  "displayName": "American Lutheran Church",
+  "address": {
+    "street": "1941 Silver St",
+    "city": "Ashland",
+    "state": "NE",
+    "zip": "68003-1638"
+  },
+  "coordinates": {
+    "latitude": 41.038949966430664,
+    "longitude": -96.37543487548828
+  },
+  "website": "https://alcashland.church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7905f708-5af0-4207-ad4d-99102dcf31bb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7905f708-5af0-4207-ad4d-99102dcf31bb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "alcashland.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470666375"
+    }
+  ],
+  "advisories": []
+}

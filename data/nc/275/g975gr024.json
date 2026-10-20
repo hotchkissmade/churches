@@ -1,0 +1,33 @@
+{
+  "id": "g975gr024",
+  "url": "https://constellation.church/g975gr024",
+  "name": "Peace Presbyterian Church",
+  "displayName": "Peace Presbyterian Church",
+  "address": {
+    "street": "1777 West Chatham Street",
+    "city": "Cary",
+    "state": "NC",
+    "zip": "27513"
+  },
+  "coordinates": {
+    "latitude": 35.76928901672363,
+    "longitude": -78.82893371582031
+  },
+  "website": "https://peacepca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/820",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "820"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "peacepca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561574311"
+    }
+  ],
+  "advisories": []
+}

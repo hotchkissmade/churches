@@ -1,0 +1,33 @@
+{
+  "id": "j62v79395",
+  "url": "https://constellation.church/j62v79395",
+  "name": "Parkview Baptist Church",
+  "displayName": "Parkview Baptist Church",
+  "address": {
+    "street": "3403 NW 13th St",
+    "city": "Gainesville",
+    "state": "FL",
+    "zip": "32609"
+  },
+  "coordinates": {
+    "latitude": 29.68401527404785,
+    "longitude": -82.3382568359375
+  },
+  "website": "https://parkview-baptist-church.org",
+  "listingUrl": "https://churches.sbc.net/church/parkview-baptist-church-4/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "parkview-baptist-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parkview-baptist-church.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590838096"
+    }
+  ],
+  "advisories": []
+}

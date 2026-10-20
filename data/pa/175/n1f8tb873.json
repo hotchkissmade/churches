@@ -1,0 +1,33 @@
+{
+  "id": "n1f8tb873",
+  "url": "https://constellation.church/n1f8tb873",
+  "name": "Columbia Presbyterian Church",
+  "displayName": "Columbia Presbyterian Church",
+  "address": {
+    "street": "360 Locust St",
+    "city": "Columbia",
+    "state": "PA",
+    "zip": "17512"
+  },
+  "coordinates": {
+    "latitude": 40.03264808654785,
+    "longitude": -76.50119400024414
+  },
+  "website": "https://columbiapc.org/contact-us",
+  "listingUrl": "https://church-trends.pcusa.org/church/12381/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "12381"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "columbiapc.org/contact-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231396823"
+    }
+  ],
+  "advisories": []
+}

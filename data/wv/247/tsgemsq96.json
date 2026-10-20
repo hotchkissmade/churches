@@ -1,0 +1,33 @@
+{
+  "id": "tsgemsq96",
+  "url": "https://constellation.church/tsgemsq96",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "1325 Augusta St",
+    "city": "Bluefield",
+    "state": "WV",
+    "zip": "24701"
+  },
+  "coordinates": {
+    "latitude": 37.25090980529785,
+    "longitude": -81.23320770263672
+  },
+  "website": "https://firstbaptistbluefield.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-609/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-609"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistbluefield.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "550418309"
+    }
+  ],
+  "advisories": []
+}

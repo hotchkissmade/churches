@@ -1,0 +1,33 @@
+{
+  "id": "wshs65z79",
+  "url": "https://constellation.church/wshs65z79",
+  "name": "St Philip Lutheran Church",
+  "displayName": "St. Philip Lutheran Church",
+  "address": {
+    "street": "1050 Boyd Dr",
+    "city": "Mount Dora",
+    "state": "FL",
+    "zip": "32757-4551"
+  },
+  "coordinates": {
+    "latitude": 28.805116653442383,
+    "longitude": -81.6802978515625
+  },
+  "website": "https://stphiliplc.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a0118bd6-436f-4336-aa44-1ad236941292",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a0118bd6-436f-4336-aa44-1ad236941292"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stphiliplc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591965947"
+    }
+  ],
+  "advisories": []
+}

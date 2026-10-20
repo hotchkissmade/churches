@@ -1,0 +1,33 @@
+{
+  "id": "kty6f3192",
+  "url": "https://constellation.church/kty6f3192",
+  "name": "Gospel City Church",
+  "displayName": "Gospel City Church",
+  "address": {
+    "street": "52277 Hickory Rd",
+    "city": "Granger",
+    "state": "IN",
+    "zip": "46530"
+  },
+  "coordinates": {
+    "latitude": 41.732032775878906,
+    "longitude": -86.19868087768555
+  },
+  "website": "https://mygospelcity.org",
+  "listingUrl": "https://churches.sbc.net/church/gospel-city-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "gospel-city-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mygospelcity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "262159056"
+    }
+  ],
+  "advisories": []
+}

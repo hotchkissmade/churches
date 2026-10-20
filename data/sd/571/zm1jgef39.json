@@ -1,0 +1,33 @@
+{
+  "id": "zm1jgef39",
+  "url": "https://constellation.church/zm1jgef39",
+  "name": "Westside Lutheran Church",
+  "displayName": "Westside Lutheran Church",
+  "address": {
+    "street": "3901 N Oklahoma Ave",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57107-6907"
+  },
+  "coordinates": {
+    "latitude": 43.590017318725586,
+    "longitude": -96.79048919677734
+  },
+  "website": "https://westsidelutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ba60e46b-684c-43b1-8165-250df789301f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ba60e46b-684c-43b1-8165-250df789301f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westsidelutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "273509770"
+    }
+  ],
+  "advisories": []
+}

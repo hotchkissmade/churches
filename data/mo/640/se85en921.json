@@ -1,0 +1,33 @@
+{
+  "id": "se85en921",
+  "url": "https://constellation.church/se85en921",
+  "name": "Camden Point Baptist Church",
+  "displayName": "Camden Point Baptist Church",
+  "address": {
+    "street": "500 3rd St",
+    "city": "Camden Point",
+    "state": "MO",
+    "zip": "64018"
+  },
+  "coordinates": {
+    "latitude": 39.45457458496094,
+    "longitude": -94.7456283569336
+  },
+  "website": "https://cpbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/camden-point-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "camden-point-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cpbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431314258"
+    }
+  ],
+  "advisories": []
+}

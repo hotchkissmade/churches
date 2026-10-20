@@ -1,0 +1,29 @@
+{
+  "id": "ner05xq22",
+  "url": "https://constellation.church/ner05xq22",
+  "name": "NEW LIFE CENTER",
+  "displayName": "New Life Center",
+  "address": {
+    "street": "3213 SW STATE ROAD 47",
+    "city": "Lake City",
+    "state": "FL",
+    "zip": "32025"
+  },
+  "coordinates": {
+    "latitude": 30.126116,
+    "longitude": -82.6521725
+  },
+  "website": "https://nlcflc.com",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592882368"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nlcflc.com"
+    }
+  ],
+  "advisories": []
+}

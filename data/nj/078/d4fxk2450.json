@@ -1,0 +1,33 @@
+{
+  "id": "d4fxk2450",
+  "url": "https://constellation.church/d4fxk2450",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "214 State Route 31 N",
+    "city": "Washington",
+    "state": "NJ",
+    "zip": "07882-1550"
+  },
+  "coordinates": {
+    "latitude": 40.76938056945801,
+    "longitude": -74.97959518432617
+  },
+  "website": "https://stlukeswashington.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cd4a0000-8418-4293-9f24-726700947aec",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cd4a0000-8418-4293-9f24-726700947aec"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukeswashington.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222140727"
+    }
+  ],
+  "advisories": []
+}

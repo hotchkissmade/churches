@@ -1,0 +1,33 @@
+{
+  "id": "wq4z9cj88",
+  "url": "https://constellation.church/wq4z9cj88",
+  "name": "Peoples Church",
+  "displayName": "Peoples Church",
+  "address": {
+    "street": "824 America Ave NW",
+    "city": "Bemidji",
+    "state": "MN",
+    "zip": "56601-3035"
+  },
+  "coordinates": {
+    "latitude": 47.47651672363281,
+    "longitude": -94.8841323852539
+  },
+  "website": "https://peopleschurch-elca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=52c6d001-f64c-46e3-a603-10aaffad1ac8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "52c6d001-f64c-46e3-a603-10aaffad1ac8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "peopleschurch-elca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366546175"
+    }
+  ],
+  "advisories": []
+}

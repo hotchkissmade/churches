@@ -1,0 +1,33 @@
+{
+  "id": "pe5p1f992",
+  "url": "https://constellation.church/pe5p1f992",
+  "name": "South Canyon Lutheran Church",
+  "displayName": "South Canyon Lutheran Church",
+  "address": {
+    "street": "700 44th St",
+    "city": "Rapid City",
+    "state": "SD",
+    "zip": "57702-2078"
+  },
+  "coordinates": {
+    "latitude": 44.07876968383789,
+    "longitude": -103.29210662841797
+  },
+  "website": "https://sclc-rc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7e1655f1-1928-46fc-bd5c-54500f1e5c90",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7e1655f1-1928-46fc-bd5c-54500f1e5c90"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sclc-rc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460307989"
+    }
+  ],
+  "advisories": []
+}

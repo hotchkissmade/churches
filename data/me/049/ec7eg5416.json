@@ -1,0 +1,33 @@
+{
+  "id": "ec7eg5416",
+  "url": "https://constellation.church/ec7eg5416",
+  "name": "Church of the Good Shepherd",
+  "displayName": "Church of the Good Shepherd",
+  "address": {
+    "street": "2614 Main St",
+    "city": "Rangeley",
+    "state": "ME",
+    "zip": "04970-0156"
+  },
+  "coordinates": {
+    "latitude": 44.966426849365234,
+    "longitude": -70.64746856689453
+  },
+  "website": "https://goodshepherdrangeley.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maine/list/church-good-shepherd-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maine/church-good-shepherd-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherdrangeley.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "010402871"
+    }
+  ],
+  "advisories": []
+}

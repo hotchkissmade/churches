@@ -1,0 +1,33 @@
+{
+  "id": "djzzq6874",
+  "url": "https://constellation.church/djzzq6874",
+  "name": "Woodlake Lutheran Church",
+  "displayName": "Woodlake Lutheran Church",
+  "address": {
+    "street": "2120 W 76th St",
+    "city": "Richfield",
+    "state": "MN",
+    "zip": "55423-4498"
+  },
+  "coordinates": {
+    "latitude": 44.86660385131836,
+    "longitude": -93.30647277832031
+  },
+  "website": "https://woodlakechurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=20b6218f-f303-4d62-be92-fe02f8f168a0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "20b6218f-f303-4d62-be92-fe02f8f168a0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "woodlakechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410734778"
+    }
+  ],
+  "advisories": []
+}

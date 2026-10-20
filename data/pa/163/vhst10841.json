@@ -1,0 +1,33 @@
+{
+  "id": "vhst10841",
+  "url": "https://constellation.church/vhst10841",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "890 Liberty St",
+    "city": "Meadville",
+    "state": "PA",
+    "zip": "16335"
+  },
+  "coordinates": {
+    "latitude": 41.63807678222656,
+    "longitude": -80.1479606628418
+  },
+  "website": "https://meadvillefpc.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/7532/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "7532"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "meadvillefpc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "250965364"
+    }
+  ],
+  "advisories": []
+}

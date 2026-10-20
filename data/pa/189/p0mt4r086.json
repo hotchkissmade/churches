@@ -1,0 +1,33 @@
+{
+  "id": "p0mt4r086",
+  "url": "https://constellation.church/p0mt4r086",
+  "name": "Good Shepherd Lutheran Church",
+  "displayName": "Good Shepherd Lutheran Church",
+  "address": {
+    "street": "877 Street Rd",
+    "city": "Southampton",
+    "state": "PA",
+    "zip": "18966-4711"
+  },
+  "coordinates": {
+    "latitude": 40.172279357910156,
+    "longitude": -75.03895950317383
+  },
+  "website": "https://gslconline.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ef1fea14-d5f5-4d00-b903-94c704427fbe",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ef1fea14-d5f5-4d00-b903-94c704427fbe"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gslconline.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231596869"
+    }
+  ],
+  "advisories": []
+}

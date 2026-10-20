@@ -1,0 +1,33 @@
+{
+  "id": "nfkbae732",
+  "url": "https://constellation.church/nfkbae732",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "16900 Main St",
+    "city": "Eden Prairie",
+    "state": "MN",
+    "zip": "55346-4306"
+  },
+  "coordinates": {
+    "latitude": 44.86354064941406,
+    "longitude": -93.49105072021484
+  },
+  "website": "https://christlutheran.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24459",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24459"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christlutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411345355"
+    }
+  ],
+  "advisories": []
+}

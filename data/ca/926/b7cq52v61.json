@@ -1,0 +1,33 @@
+{
+  "id": "b7cq52v61",
+  "url": "https://constellation.church/b7cq52v61",
+  "name": "Saint Andrew's Presbyterian Church",
+  "displayName": "St. Andrew's Presbyterian Church",
+  "address": {
+    "street": "600 St Andrews Rd",
+    "city": "Newport Beach",
+    "state": "CA",
+    "zip": "92663"
+  },
+  "coordinates": {
+    "latitude": 33.62124443054199,
+    "longitude": -117.91275024414062
+  },
+  "website": "https://sapres.org",
+  "listingUrl": "https://eco-pres.org/churches/saint-andrews-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "saint-andrews-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sapres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951969024"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qdats5e80",
+  "url": "https://constellation.church/qdats5e80",
+  "name": "Dupont Park Church",
+  "displayName": "Dupont Park Church",
+  "address": {
+    "street": "3985 Massachusetts Ave SE",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20019-2904"
+  },
+  "coordinates": {
+    "latitude": 38.871564865112305,
+    "longitude": -76.94704055786133
+  },
+  "website": "https://dpcsda.org",
+  "listingUrl": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=15354",
+  "identifiers": [
+    {
+      "namespace": "org.adventistdirectory.id",
+      "value": "15354"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dpcsda.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "530258644"
+    }
+  ],
+  "advisories": []
+}

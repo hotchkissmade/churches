@@ -1,0 +1,33 @@
+{
+  "id": "wr4ktdn79",
+  "url": "https://constellation.church/wr4ktdn79",
+  "name": "Apostolic Christian Church of Bay City",
+  "displayName": "Apostolic Christian Church of Bay City",
+  "address": {
+    "street": "2791 Fraser Road",
+    "city": "Kawkawlin",
+    "state": "MI",
+    "zip": "48631"
+  },
+  "coordinates": {
+    "latitude": 43.65962600708008,
+    "longitude": -84.00836181640625
+  },
+  "website": "https://baycity-apostolicchristian.org",
+  "listingUrl": "https://www.apostolicchristian.org/congregations/bay-city",
+  "identifiers": [
+    {
+      "namespace": "org.apostolicchristian.id",
+      "value": "bay-city"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "baycity-apostolicchristian.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237191186"
+    }
+  ],
+  "advisories": []
+}

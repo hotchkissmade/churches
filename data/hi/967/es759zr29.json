@@ -1,0 +1,33 @@
+{
+  "id": "es759zr29",
+  "url": "https://constellation.church/es759zr29",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "95-1361 Meheula Pkwy",
+    "city": "Mililani",
+    "state": "HI",
+    "zip": "96789-1452"
+  },
+  "coordinates": {
+    "latitude": 21.45560359954834,
+    "longitude": -158.00690460205078
+  },
+  "website": "https://clcmililani.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1f653bcd-a1e2-4bb6-8723-70028a94bef2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1f653bcd-a1e2-4bb6-8723-70028a94bef2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clcmililani.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "990226575"
+    }
+  ],
+  "advisories": []
+}

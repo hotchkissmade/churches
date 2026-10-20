@@ -1,0 +1,33 @@
+{
+  "id": "g3xp1fg70",
+  "url": "https://constellation.church/g3xp1fg70",
+  "name": "Naperville Presbyterian Church",
+  "displayName": "Naperville Presbyterian Church",
+  "address": {
+    "street": "943 Sanctuary Lane",
+    "city": "Naperville",
+    "state": "IL",
+    "zip": "60540"
+  },
+  "coordinates": {
+    "latitude": 41.754220962524414,
+    "longitude": -88.18595123291016
+  },
+  "website": "https://npchurch.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/749",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "749"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "npchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363333516"
+    }
+  ],
+  "advisories": []
+}

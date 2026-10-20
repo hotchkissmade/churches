@@ -1,0 +1,33 @@
+{
+  "id": "jfszx1f29",
+  "url": "https://constellation.church/jfszx1f29",
+  "name": "Church of St. Thomas",
+  "displayName": "Church of St. Thomas",
+  "address": {
+    "street": "16 E Van Buren St",
+    "city": "Battle Creek",
+    "state": "MI",
+    "zip": "49017-3916"
+  },
+  "coordinates": {
+    "latitude": 42.32040596008301,
+    "longitude": -85.17954635620117
+  },
+  "website": "https://stthomasbc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-western-michigan/list/church-st-thomas",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-western-michigan/church-st-thomas"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stthomasbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381443392"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ttwt9fp78",
+  "url": "https://constellation.church/ttwt9fp78",
+  "name": "College Hill Presbyterian Church",
+  "displayName": "College Hill Presbyterian Church",
+  "address": {
+    "street": "339 County Road 102",
+    "city": "Oxford",
+    "state": "MS",
+    "zip": "38655"
+  },
+  "coordinates": {
+    "latitude": 34.4217037,
+    "longitude": -89.5685321
+  },
+  "website": "https://chpcoxford.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/213",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "213"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chpcoxford.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640511380"
+    }
+  ],
+  "advisories": []
+}

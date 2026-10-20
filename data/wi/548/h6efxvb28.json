@@ -1,0 +1,33 @@
+{
+  "id": "h6efxvb28",
+  "url": "https://constellation.church/h6efxvb28",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "1790 Scribner St",
+    "city": "Spooner",
+    "state": "WI",
+    "zip": "54801-1172"
+  },
+  "coordinates": {
+    "latitude": 45.836801528930664,
+    "longitude": -91.88761138916016
+  },
+  "website": "https://trinityspooner.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f5620500-101a-49c8-94cc-af404a115fa0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f5620500-101a-49c8-94cc-af404a115fa0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityspooner.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391020150"
+    }
+  ],
+  "advisories": []
+}

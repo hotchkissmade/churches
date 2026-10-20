@@ -1,0 +1,33 @@
+{
+  "id": "sz6jkbs90",
+  "url": "https://constellation.church/sz6jkbs90",
+  "name": "Waypoint Church",
+  "displayName": "Waypoint Church",
+  "address": {
+    "street": "225 Gospel Drive",
+    "city": "Nocatee",
+    "state": "FL",
+    "zip": "32081"
+  },
+  "coordinates": {
+    "latitude": 30.105470657348633,
+    "longitude": -81.45458984375
+  },
+  "website": "https://waypointchurchfl.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6529",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6529"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "waypointchurchfl.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "883449058"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "g4ev54k45",
+  "url": "https://constellation.church/g4ev54k45",
+  "name": "Boise Friends Meeting",
+  "displayName": "Boise Friends Meeting",
+  "address": {
+    "street": "7751 Goddard Rd",
+    "city": "Boise",
+    "state": "ID",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 43.64337158203125,
+    "longitude": -116.27873992919922
+  },
+  "website": "https://boisefriends.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/boise-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "boise-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "boisefriends.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820361758"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "862123285"
+    }
+  ],
+  "advisories": []
+}

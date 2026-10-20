@@ -1,0 +1,33 @@
+{
+  "id": "d8y3d1h11",
+  "url": "https://constellation.church/d8y3d1h11",
+  "name": "Belmont Baptist Church, Inc.",
+  "displayName": "Belmont Baptist Church",
+  "address": {
+    "street": "275 W Belmont Dr",
+    "city": "Calhoun",
+    "state": "GA",
+    "zip": "30701"
+  },
+  "coordinates": {
+    "latitude": 34.48111915588379,
+    "longitude": -84.94079971313477
+  },
+  "website": "https://mybelmont.org",
+  "listingUrl": "https://churches.sbc.net/church/belmont-baptist-church-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "belmont-baptist-church-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mybelmont.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581300835"
+    }
+  ],
+  "advisories": []
+}

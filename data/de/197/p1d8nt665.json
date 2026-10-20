@@ -1,0 +1,33 @@
+{
+  "id": "p1d8nt665",
+  "url": "https://constellation.church/p1d8nt665",
+  "name": "Townsend FWB Church",
+  "displayName": "Townsend FWB Church",
+  "address": {
+    "street": "4519 S Dupont Pkwy",
+    "city": "Townsend",
+    "state": "DE",
+    "zip": "19734"
+  },
+  "coordinates": {
+    "latitude": 39.36880874633789,
+    "longitude": -75.6583137512207
+  },
+  "website": "https://tfwb.org",
+  "listingUrl": "https://directory.nafwb.org/1182/townsend-fwb-church/",
+  "identifiers": [
+    {
+      "namespace": "org.nafwb.directory.id",
+      "value": "1182"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tfwb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510344777"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a0earf373",
+  "url": "https://constellation.church/a0earf373",
+  "name": "Holy Trinity Lutheran Church",
+  "displayName": "Holy Trinity Lutheran Church",
+  "address": {
+    "street": "547 6th St NW",
+    "city": "Hickory",
+    "state": "NC",
+    "zip": "28601-3503"
+  },
+  "coordinates": {
+    "latitude": 35.74011993408203,
+    "longitude": -81.34814834594727
+  },
+  "website": "https://htlchickory.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e93c92f0-0545-4212-85ad-e43ba31b21ff",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e93c92f0-0545-4212-85ad-e43ba31b21ff"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "htlchickory.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560634516"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "zsvkfx847",
+  "url": "https://constellation.church/zsvkfx847",
+  "name": "St. Ann's by the Sea, Kennebunkport",
+  "displayName": "St. Ann's by the Sea, Kennebunkport",
+  "address": {
+    "street": "167 Ocean Ave.",
+    "city": "Kennebunk",
+    "state": "ME",
+    "zip": "04046"
+  },
+  "coordinates": {
+    "latitude": 43.34302520751953,
+    "longitude": -70.47171401977539
+  },
+  "website": "https://stannskennebunkport.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/maine/list/st-anns-sea-kennebunkport",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "maine/st-anns-sea-kennebunkport"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stannskennebunkport.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "010288460"
+    }
+  ],
+  "advisories": []
+}

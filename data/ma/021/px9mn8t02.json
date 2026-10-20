@@ -1,0 +1,33 @@
+{
+  "id": "px9mn8t02",
+  "url": "https://constellation.church/px9mn8t02",
+  "name": "Good Neighbor Lutheran Church",
+  "displayName": "Good Neighbor Lutheran Church",
+  "address": {
+    "street": "308 W Squantum St",
+    "city": "North Quincy",
+    "state": "MA",
+    "zip": "02171-2730"
+  },
+  "coordinates": {
+    "latitude": 42.26841354370117,
+    "longitude": -71.03754806518555
+  },
+  "website": "https://gnclc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c1f12c08-8db6-45a3-97da-21e56f532e0a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c1f12c08-8db6-45a3-97da-21e56f532e0a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gnclc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "455237228"
+    }
+  ],
+  "advisories": []
+}

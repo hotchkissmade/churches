@@ -1,0 +1,33 @@
+{
+  "id": "a1kp56w42",
+  "url": "https://constellation.church/a1kp56w42",
+  "name": "Stanley Baptist Church",
+  "displayName": "Stanley Baptist Church",
+  "address": {
+    "street": "130 E Main St",
+    "city": "Stanley",
+    "state": "VA",
+    "zip": "22851"
+  },
+  "coordinates": {
+    "latitude": 38.57551956176758,
+    "longitude": -78.50469970703125
+  },
+  "website": "https://stanleybaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/stanley-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "stanley-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stanleybaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541126331"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "t8d0c8155",
+  "url": "https://constellation.church/t8d0c8155",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "947 N George St",
+    "city": "York",
+    "state": "PA",
+    "zip": "17404-2023"
+  },
+  "coordinates": {
+    "latitude": 39.97602844238281,
+    "longitude": -76.7323989868164
+  },
+  "website": "https://stpeterslutheranyork.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b7754d50-11bf-4bec-b7db-5b4b3f4b1b1f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b7754d50-11bf-4bec-b7db-5b4b3f4b1b1f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpeterslutheranyork.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231580397"
+    }
+  ],
+  "advisories": []
+}

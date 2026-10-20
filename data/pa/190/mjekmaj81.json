@@ -1,0 +1,33 @@
+{
+  "id": "mjekmaj81",
+  "url": "https://constellation.church/mjekmaj81",
+  "name": "Faith Presbyterian Church",
+  "displayName": "Faith Presbyterian Church",
+  "address": {
+    "street": "525 South Olds Boulevard",
+    "city": "Fairless Hills",
+    "state": "PA",
+    "zip": "19030"
+  },
+  "coordinates": {
+    "latitude": 40.17659568786621,
+    "longitude": -74.84626388549805
+  },
+  "website": "https://faithprez.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/123",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "123"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithprez.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581704721"
+    }
+  ],
+  "advisories": []
+}

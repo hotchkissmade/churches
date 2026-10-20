@@ -1,0 +1,33 @@
+{
+  "id": "z9v4vvh78",
+  "url": "https://constellation.church/z9v4vvh78",
+  "name": "Creekside Church",
+  "displayName": "Creekside Church",
+  "address": {
+    "street": "506 Saint James Ave",
+    "city": "Goose Creek",
+    "state": "SC",
+    "zip": "29445"
+  },
+  "coordinates": {
+    "latitude": 33.02756690979004,
+    "longitude": -80.05542373657227
+  },
+  "website": "https://creeksidechurch.org",
+  "listingUrl": "https://churches.sbc.net/church/creekside-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "creekside-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "creeksidechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "814381635"
+    }
+  ],
+  "advisories": []
+}

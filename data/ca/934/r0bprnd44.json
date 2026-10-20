@@ -1,0 +1,33 @@
+{
+  "id": "r0bprnd44",
+  "url": "https://constellation.church/r0bprnd44",
+  "name": "First Presbyterian Church of Templeton",
+  "displayName": "First Presbyterian Church of Templeton",
+  "address": {
+    "street": "610 S Main St",
+    "city": "Templeton",
+    "state": "CA",
+    "zip": "93465"
+  },
+  "coordinates": {
+    "latitude": 35.548566818237305,
+    "longitude": -120.70722961425781
+  },
+  "website": "https://templetonpres.org",
+  "listingUrl": "https://eco-pres.org/churches/first-presbyterian-church-of-templeton/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "first-presbyterian-church-of-templeton"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "templetonpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "770264617"
+    }
+  ],
+  "advisories": []
+}

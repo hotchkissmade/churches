@@ -1,0 +1,33 @@
+{
+  "id": "acdp85s29",
+  "url": "https://constellation.church/acdp85s29",
+  "name": "First of West Seattle Lutheran Church",
+  "displayName": "First of West Seattle Lutheran Church",
+  "address": {
+    "street": "4105 California Ave SW",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98116-4101"
+  },
+  "coordinates": {
+    "latitude": 47.566341400146484,
+    "longitude": -122.3869857788086
+  },
+  "website": "https://flcws.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=776f9af2-b1e2-456a-8f94-5f6b194b7c93",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "776f9af2-b1e2-456a-8f94-5f6b194b7c93"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcws.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "916008059"
+    }
+  ],
+  "advisories": []
+}

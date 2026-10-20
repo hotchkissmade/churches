@@ -1,0 +1,33 @@
+{
+  "id": "a2mtn0r85",
+  "url": "https://constellation.church/a2mtn0r85",
+  "name": "Northwest Presbyterian Church",
+  "displayName": "Northwest Presbyterian Church",
+  "address": {
+    "street": "6400 Post Road",
+    "city": "Dublin",
+    "state": "OH",
+    "zip": "43016"
+  },
+  "coordinates": {
+    "latitude": 40.108001708984375,
+    "longitude": -83.16257858276367
+  },
+  "website": "https://npcdublin.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1376",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1376"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "npcdublin.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311339336"
+    }
+  ],
+  "advisories": []
+}

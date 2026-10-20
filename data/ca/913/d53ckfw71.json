@@ -1,0 +1,33 @@
+{
+  "id": "d53ckfw71",
+  "url": "https://constellation.church/d53ckfw71",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "24317 Newhall Ave",
+    "city": "Newhall",
+    "state": "CA",
+    "zip": "91321"
+  },
+  "coordinates": {
+    "latitude": 34.377695083618164,
+    "longitude": -118.53047180175781
+  },
+  "website": "https://presby-newhall.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/578/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "578"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "presby-newhall.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952484719"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "y84d93d95",
+  "url": "https://constellation.church/y84d93d95",
+  "name": "St Peter Evangelical Lutheran Church",
+  "displayName": "St. Peter Evangelical Lutheran Church",
+  "address": {
+    "street": "540 E Franklin St",
+    "city": "Denver",
+    "state": "IA",
+    "zip": "50622-9510"
+  },
+  "coordinates": {
+    "latitude": 42.67250442504883,
+    "longitude": -92.33057403564453
+  },
+  "website": "https://stpeterdenver.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8873b3ca-3a51-483f-b462-09b53f89e343",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8873b3ca-3a51-483f-b462-09b53f89e343"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpeterdenver.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420730345"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "fkgzpc053",
+  "url": "https://constellation.church/fkgzpc053",
+  "name": "Springdale Baptist Church, Inc.",
+  "displayName": "Springdale Baptist Church",
+  "address": {
+    "street": "1701 Springdale Rd",
+    "city": "Dublin",
+    "state": "GA",
+    "zip": "31021"
+  },
+  "coordinates": {
+    "latitude": 32.55327796936035,
+    "longitude": -82.95486450195312
+  },
+  "website": "https://wellspringdublin.com",
+  "listingUrl": "https://churches.sbc.net/church/springdale-baptist-church-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "springdale-baptist-church-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wellspringdublin.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581576266"
+    }
+  ],
+  "advisories": []
+}

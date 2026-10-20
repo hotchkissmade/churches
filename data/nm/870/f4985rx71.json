@@ -1,0 +1,33 @@
+{
+  "id": "f4985rx71",
+  "url": "https://constellation.church/f4985rx71",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "301 S. 8th",
+    "city": "Estancia",
+    "state": "NM",
+    "zip": "87016"
+  },
+  "coordinates": {
+    "latitude": 34.75888442993164,
+    "longitude": -106.06017303466797
+  },
+  "website": "https://fbcestancia.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-1027/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-1027"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcestancia.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850313629"
+    }
+  ],
+  "advisories": []
+}

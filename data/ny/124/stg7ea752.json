@@ -1,0 +1,37 @@
+{
+  "id": "stg7ea752",
+  "url": "https://constellation.church/stg7ea752",
+  "name": "Federated Church of Kerhonkson",
+  "displayName": "Federated Church of Kerhonkson",
+  "address": {
+    "street": "35 42nd St",
+    "city": "Kerhonkson",
+    "state": "NY",
+    "zip": "12446"
+  },
+  "coordinates": {
+    "latitude": 41.77404594421387,
+    "longitude": -74.29783248901367
+  },
+  "website": "https://churchofkerhonkson.org",
+  "listingUrl": "https://www.rca.org/churches/federated-church-of-kerhonkson/",
+  "identifiers": [
+    {
+      "namespace": "org.rca.id",
+      "value": "1139651"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchofkerhonkson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "146019168"
+    },
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFO2nIAH"
+    }
+  ],
+  "advisories": []
+}

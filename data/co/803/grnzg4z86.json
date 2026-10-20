@@ -1,0 +1,33 @@
+{
+  "id": "grnzg4z86",
+  "url": "https://constellation.church/grnzg4z86",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "2200 Broadway",
+    "city": "Boulder",
+    "state": "CO",
+    "zip": "80302-4825"
+  },
+  "coordinates": {
+    "latitude": 40.020301818847656,
+    "longitude": -105.28063201904297
+  },
+  "website": "https://trinityboulder.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=904048ac-3603-49e4-ae34-8ba43678be60",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "904048ac-3603-49e4-ae34-8ba43678be60"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityboulder.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840482049"
+    }
+  ],
+  "advisories": []
+}

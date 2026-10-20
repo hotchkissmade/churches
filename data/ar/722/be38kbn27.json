@@ -1,0 +1,33 @@
+{
+  "id": "be38kbn27",
+  "url": "https://constellation.church/be38kbn27",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "7525 W Markham St",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72205-2607"
+  },
+  "coordinates": {
+    "latitude": 34.75280952453613,
+    "longitude": -92.35828018188477
+  },
+  "website": "https://faithlutheranlr.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e5177d12-a67e-4a02-a798-1ae557a08aa3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e5177d12-a67e-4a02-a798-1ae557a08aa3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithlutheranlr.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "710472205"
+    }
+  ],
+  "advisories": []
+}

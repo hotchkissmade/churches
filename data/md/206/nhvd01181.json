@@ -1,0 +1,33 @@
+{
+  "id": "nhvd01181",
+  "url": "https://constellation.church/nhvd01181",
+  "name": "Trinity Church, St. Mary's",
+  "displayName": "Trinity Church, St. Mary's",
+  "address": {
+    "street": "47477 Trinity Church Rd",
+    "city": "St Marys City",
+    "state": "MD",
+    "zip": "20686"
+  },
+  "coordinates": {
+    "latitude": 38.18755531311035,
+    "longitude": -76.43511581420898
+  },
+  "website": "https://trinitysmcmd.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/trinity-church-st-marys",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/trinity-church-st-marys"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitysmcmd.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521203086"
+    }
+  ],
+  "advisories": []
+}

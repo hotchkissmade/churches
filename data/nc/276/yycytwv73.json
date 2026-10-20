@@ -1,0 +1,33 @@
+{
+  "id": "yycytwv73",
+  "url": "https://constellation.church/yycytwv73",
+  "name": "Holy Trinity Church",
+  "displayName": "Holy Trinity Church",
+  "address": {
+    "street": "100 East Peace Street",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27604"
+  },
+  "coordinates": {
+    "latitude": 35.787649154663086,
+    "longitude": -78.63702392578125
+  },
+  "website": "https://htcraleigh.org",
+  "listingUrl": "https://www.acna.org/admin_units/205",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "205"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "htcraleigh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "201534970"
+    }
+  ],
+  "advisories": []
+}

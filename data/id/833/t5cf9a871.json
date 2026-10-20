@@ -1,0 +1,33 @@
+{
+  "id": "t5cf9a871",
+  "url": "https://constellation.church/t5cf9a871",
+  "name": "Twin Falls Community Church",
+  "displayName": "Twin Falls Community Church",
+  "address": {
+    "street": "999 Frontier Rd",
+    "city": "Twin Falls",
+    "state": "ID",
+    "zip": "83301"
+  },
+  "coordinates": {
+    "latitude": 42.58004951477051,
+    "longitude": -114.4691162109375
+  },
+  "website": "https://twinfallscc.org",
+  "listingUrl": "https://churches.sbc.net/church/twin-falls-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "twin-falls-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "twinfallscc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "853053566"
+    }
+  ],
+  "advisories": []
+}

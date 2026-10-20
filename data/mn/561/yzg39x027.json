@@ -1,0 +1,33 @@
+{
+  "id": "yzg39x027",
+  "url": "https://constellation.church/yzg39x027",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "112 N Main Ave",
+    "city": "Hills",
+    "state": "MN",
+    "zip": "56138-1095"
+  },
+  "coordinates": {
+    "latitude": 43.53001022338867,
+    "longitude": -96.3587417602539
+  },
+  "website": "https://bethlehem-lutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=87be195f-62aa-43dd-81f5-a3674b8ee53f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "87be195f-62aa-43dd-81f5-a3674b8ee53f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethlehem-lutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410829542"
+    }
+  ],
+  "advisories": []
+}

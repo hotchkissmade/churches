@@ -1,0 +1,33 @@
+{
+  "id": "fpe53sz52",
+  "url": "https://constellation.church/fpe53sz52",
+  "name": "Hillside Baptist Church",
+  "displayName": "Hillside Baptist Church",
+  "address": {
+    "street": "501 Hillside Church Rd",
+    "city": "Fountain Inn",
+    "state": "SC",
+    "zip": "29644"
+  },
+  "coordinates": {
+    "latitude": 34.598520278930664,
+    "longitude": -82.2574462890625
+  },
+  "website": "https://hillsidesbc.com",
+  "listingUrl": "https://churches.sbc.net/church/hillside-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hillside-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hillsidesbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570765610"
+    }
+  ],
+  "advisories": []
+}

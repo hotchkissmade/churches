@@ -1,0 +1,33 @@
+{
+  "id": "xdmrypa66",
+  "url": "https://constellation.church/xdmrypa66",
+  "name": "Missio Church, Syracuse",
+  "displayName": "Missio Church, Syracuse",
+  "address": {
+    "street": "620 W Genesee St",
+    "city": "Syracuse",
+    "state": "NY",
+    "zip": "13204"
+  },
+  "coordinates": {
+    "latitude": 43.05376052856445,
+    "longitude": -76.16096115112305
+  },
+  "website": "https://missiochurch.org",
+  "listingUrl": "https://churches.sbc.net/church/missio-church-syracuse/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "missio-church-syracuse"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "missiochurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "412251009"
+    }
+  ],
+  "advisories": []
+}

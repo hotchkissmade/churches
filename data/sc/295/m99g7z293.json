@@ -1,0 +1,33 @@
+{
+  "id": "m99g7z293",
+  "url": "https://constellation.church/m99g7z293",
+  "name": "Mullins Presbyterian Church",
+  "displayName": "Mullins Presbyterian Church",
+  "address": {
+    "street": "809 Sandy Bluff",
+    "city": "Mullins",
+    "state": "SC",
+    "zip": "29574"
+  },
+  "coordinates": {
+    "latitude": 34.19602012634277,
+    "longitude": -79.2472915649414
+  },
+  "website": "https://mullinspca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/746",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "746"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mullinspca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570424103"
+    }
+  ],
+  "advisories": []
+}

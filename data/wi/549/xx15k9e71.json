@@ -1,0 +1,33 @@
+{
+  "id": "xx15k9e71",
+  "url": "https://constellation.church/xx15k9e71",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "829 Appleton Rd",
+    "city": "Menasha",
+    "state": "WI",
+    "zip": "54952-2423"
+  },
+  "coordinates": {
+    "latitude": 44.21406173706055,
+    "longitude": -88.43402099609375
+  },
+  "website": "https://bethelmenasha.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24705",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24705"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelmenasha.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390944540"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n3gkbqp54",
+  "url": "https://constellation.church/n3gkbqp54",
+  "name": "Pinehaven Presbyterian Church",
+  "displayName": "Pinehaven Presbyterian Church",
+  "address": {
+    "street": "2001 Pinehaven Drive",
+    "city": "Clinton",
+    "state": "MS",
+    "zip": "39056"
+  },
+  "coordinates": {
+    "latitude": 32.38254737854004,
+    "longitude": -90.31867599487305
+  },
+  "website": "https://pinehavenpres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/963",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "963"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pinehavenpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640544538"
+    }
+  ],
+  "advisories": []
+}

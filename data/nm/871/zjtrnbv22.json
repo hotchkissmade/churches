@@ -1,0 +1,33 @@
+{
+  "id": "zjtrnbv22",
+  "url": "https://constellation.church/zjtrnbv22",
+  "name": "MCC Albuquerque",
+  "displayName": "Metropolitan Community Church Albuquerque",
+  "address": {
+    "street": "1103 Texas St NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87110"
+  },
+  "coordinates": {
+    "latitude": 35.089412689208984,
+    "longitude": -106.55584716796875
+  },
+  "website": "https://mccabq.com",
+  "listingUrl": "https://visitmccchurch.com/our-churches/mcc-churches-in-the-united-states/mcc-churches-in-nm/mcc-albuquerque/",
+  "identifiers": [
+    {
+      "namespace": "com.visitmccchurch.id",
+      "value": "NM/mcc-albuquerque"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mccabq.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850329737"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "m3fptdz97",
+  "url": "https://constellation.church/m3fptdz97",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "1663 Main St",
+    "city": "West Barnstable",
+    "state": "MA",
+    "zip": "02668-1122"
+  },
+  "coordinates": {
+    "latitude": 41.696542739868164,
+    "longitude": -70.35271835327148
+  },
+  "website": "https://firstcapecod.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=46b20c79-2717-403d-9140-eff94341e873",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "46b20c79-2717-403d-9140-eff94341e873"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstcapecod.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042434950"
+    }
+  ],
+  "advisories": []
+}

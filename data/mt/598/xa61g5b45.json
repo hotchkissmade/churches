@@ -1,0 +1,33 @@
+{
+  "id": "xa61g5b45",
+  "url": "https://constellation.church/xa61g5b45",
+  "name": "Confluence Collective",
+  "displayName": "Confluence Collective",
+  "address": {
+    "street": "830 South Ave W",
+    "city": "Missoula",
+    "state": "MT",
+    "zip": "59801-7912"
+  },
+  "coordinates": {
+    "latitude": 46.8489046,
+    "longitude": -114.0101765
+  },
+  "website": "https://confluencemissoula.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b5c164f1-92e4-4a9e-97a8-187ee784cce5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b5c164f1-92e4-4a9e-97a8-187ee784cce5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "confluencemissoula.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "301210999"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "f2kpx9p51",
+  "url": "https://constellation.church/f2kpx9p51",
+  "name": "Normandale Lutheran Church",
+  "displayName": "Normandale Lutheran Church",
+  "address": {
+    "street": "6100 Normandale Rd",
+    "city": "Edina",
+    "state": "MN",
+    "zip": "55436-2633"
+  },
+  "coordinates": {
+    "latitude": 44.89330291748047,
+    "longitude": -93.35065078735352
+  },
+  "website": "https://normluth.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4594880d-fbe6-4418-a42f-28466b0d73b4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4594880d-fbe6-4418-a42f-28466b0d73b4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "normluth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410838961"
+    }
+  ],
+  "advisories": []
+}

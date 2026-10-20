@@ -1,0 +1,33 @@
+{
+  "id": "j3phfk034",
+  "url": "https://constellation.church/j3phfk034",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "509 N 19th St",
+    "city": "Reedsport",
+    "state": "OR",
+    "zip": "97467"
+  },
+  "coordinates": {
+    "latitude": 43.69923400878906,
+    "longitude": -124.11981201171875
+  },
+  "website": "https://reedsportag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=45e03989-0c58-4eba-a899-8d67603965f7&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "45e03989-0c58-4eba-a899-8d67603965f7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "reedsportag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930870935"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ackttm803",
+  "url": "https://constellation.church/ackttm803",
+  "name": "St. Barnabas Anglican Church",
+  "displayName": "St. Barnabas Anglican Church",
+  "address": {
+    "street": "2140 St. Johns Bluff Road South",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32246"
+  },
+  "coordinates": {
+    "latitude": 30.31180763244629,
+    "longitude": -81.5260009765625
+  },
+  "website": "https://stbarnabasanglican.com",
+  "listingUrl": "https://www.acna.org/admin_units/770",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "770"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stbarnabasanglican.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510595377"
+    }
+  ],
+  "advisories": []
+}

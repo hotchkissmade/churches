@@ -1,0 +1,33 @@
+{
+  "id": "dh16phb04",
+  "url": "https://constellation.church/dh16phb04",
+  "name": "Grace University Lutheran Church",
+  "displayName": "Grace University Lutheran Church",
+  "address": {
+    "street": "324 Harvard St SE",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55414-2920"
+  },
+  "coordinates": {
+    "latitude": 44.972756,
+    "longitude": -93.2306684
+  },
+  "website": "https://graceattheu.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ba569cb3-26c4-449a-9012-e39f96a6680a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ba569cb3-26c4-449a-9012-e39f96a6680a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceattheu.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410718332"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hm6vn7a49",
+  "url": "https://constellation.church/hm6vn7a49",
+  "name": "St. Nicholas Church",
+  "displayName": "St. Nicholas Church",
+  "address": {
+    "street": "11 Oak St",
+    "city": "Coatesville",
+    "state": "PA",
+    "zip": "19320"
+  },
+  "coordinates": {
+    "latitude": 39.97890853881836,
+    "longitude": -75.82022476196289
+  },
+  "website": "https://orthodoxcoatesville.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ep-coasnc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ep-coasnc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "orthodoxcoatesville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237351549"
+    }
+  ],
+  "advisories": []
+}

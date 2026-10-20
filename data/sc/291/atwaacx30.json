@@ -1,0 +1,33 @@
+{
+  "id": "atwaacx30",
+  "url": "https://constellation.church/atwaacx30",
+  "name": "Mount Hermon Lutheran Church",
+  "displayName": "Mount Hermon Lutheran Church",
+  "address": {
+    "street": "3011 Leaphart Rd",
+    "city": "West Columbia",
+    "state": "SC",
+    "zip": "29169-3021"
+  },
+  "coordinates": {
+    "latitude": 33.99618721008301,
+    "longitude": -81.11992263793945
+  },
+  "website": "https://mthlc.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a7cec283-4974-4704-bb91-5b4e3c931f4e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a7cec283-4974-4704-bb91-5b4e3c931f4e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mthlc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570424398"
+    }
+  ],
+  "advisories": []
+}

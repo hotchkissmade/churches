@@ -1,0 +1,33 @@
+{
+  "id": "ahvw87w27",
+  "url": "https://constellation.church/ahvw87w27",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "1823 Washington Ave",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70113-1727"
+  },
+  "coordinates": {
+    "latitude": 29.933284759521484,
+    "longitude": -90.087646484375
+  },
+  "website": "https://blcnola.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9a5afa89-92cd-4c55-9c20-fa30947f1b0c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9a5afa89-92cd-4c55-9c20-fa30947f1b0c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blcnola.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720497929"
+    }
+  ],
+  "advisories": []
+}

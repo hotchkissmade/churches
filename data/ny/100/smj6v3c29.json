@@ -1,0 +1,33 @@
+{
+  "id": "smj6v3c29",
+  "url": "https://constellation.church/smj6v3c29",
+  "name": "The Church of St. Luke in the Fields, Manhattan",
+  "displayName": "The Church of St. Luke in the Fields, Manhattan",
+  "address": {
+    "street": "487 Hudson st",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10014"
+  },
+  "coordinates": {
+    "latitude": 40.73244285583496,
+    "longitude": -74.0067253112793
+  },
+  "website": "https://stlukeinthefields.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-new-york/list/church-st-luke-fields",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-new-york/church-st-luke-fields"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukeinthefields.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "132861673"
+    }
+  ],
+  "advisories": []
+}

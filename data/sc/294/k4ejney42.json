@@ -1,0 +1,33 @@
+{
+  "id": "k4ejney42",
+  "url": "https://constellation.church/k4ejney42",
+  "name": "Northbridge Baptist Church",
+  "displayName": "Northbridge Baptist Church",
+  "address": {
+    "street": "1160 Sam Rittenberg Blvd",
+    "city": "Charleston",
+    "state": "SC",
+    "zip": "29407"
+  },
+  "coordinates": {
+    "latitude": 32.819108963012695,
+    "longitude": -79.99378967285156
+  },
+  "website": "https://northbridgebaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/northbridge-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northbridge-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northbridgebaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570428848"
+    }
+  ],
+  "advisories": []
+}

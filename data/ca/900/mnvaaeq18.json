@@ -1,0 +1,33 @@
+{
+  "id": "mnvaaeq18",
+  "url": "https://constellation.church/mnvaaeq18",
+  "name": "First Chinese Baptist Church, Los Angeles",
+  "displayName": "First Chinese Baptist Church, Los Angeles",
+  "address": {
+    "street": "942 Yale St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90012"
+  },
+  "coordinates": {
+    "latitude": 34.06595802307129,
+    "longitude": -118.23905944824219
+  },
+  "website": "https://fcbc.org",
+  "listingUrl": "https://churches.sbc.net/church/first-chinese-baptist-church-los-angeles/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-chinese-baptist-church-los-angeles"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fcbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953352254"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nzbj1ph49",
+  "url": "https://constellation.church/nzbj1ph49",
+  "name": "First Evangelical Lutheran Church",
+  "displayName": "First Evangelical Lutheran Church",
+  "address": {
+    "street": "410 E Sheridan Ave",
+    "city": "Centerville",
+    "state": "IA",
+    "zip": "52544-2627"
+  },
+  "coordinates": {
+    "latitude": 40.7247257232666,
+    "longitude": -92.87122344970703
+  },
+  "website": "https://firstlutherancenterville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6273c6ce-c1c9-40e6-84f9-cab10c9473d4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6273c6ce-c1c9-40e6-84f9-cab10c9473d4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutherancenterville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421190651"
+    }
+  ],
+  "advisories": []
+}

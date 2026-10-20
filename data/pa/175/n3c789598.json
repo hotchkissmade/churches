@@ -1,0 +1,33 @@
+{
+  "id": "n3c789598",
+  "url": "https://constellation.church/n3c789598",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "435 Main St",
+    "city": "Akron",
+    "state": "PA",
+    "zip": "17501-1214"
+  },
+  "coordinates": {
+    "latitude": 40.158992767333984,
+    "longitude": -76.20843124389648
+  },
+  "website": "https://zionakron.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b77d193b-046a-4207-bc40-660c10fe2845",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b77d193b-046a-4207-bc40-660c10fe2845"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionakron.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232221828"
+    }
+  ],
+  "advisories": []
+}

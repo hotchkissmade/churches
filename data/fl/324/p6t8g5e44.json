@@ -1,0 +1,33 @@
+{
+  "id": "p6t8g5e44",
+  "url": "https://constellation.church/p6t8g5e44",
+  "name": "Frink Baptist Church",
+  "displayName": "Frink Baptist Church",
+  "address": {
+    "street": "11030 SW Frink Baptist Church Rd",
+    "city": "Clarksville",
+    "state": "FL",
+    "zip": "32430"
+  },
+  "coordinates": {
+    "latitude": 30.353260040283203,
+    "longitude": -85.20693588256836
+  },
+  "website": "https://frinkbaptistchurch.wixsite.com/frink",
+  "listingUrl": "https://churches.sbc.net/church/frink-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "frink-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "frinkbaptistchurch.wixsite.com/frink"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592680277"
+    }
+  ],
+  "advisories": []
+}

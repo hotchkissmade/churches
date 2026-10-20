@@ -1,0 +1,33 @@
+{
+  "id": "cfzep6a72",
+  "url": "https://constellation.church/cfzep6a72",
+  "name": "First United Brethren Church (Van Wert)",
+  "displayName": "First United Brethren Church (Van Wert)",
+  "address": {
+    "street": "501 S Race St",
+    "city": "Van Wert",
+    "state": "OH",
+    "zip": "45891"
+  },
+  "coordinates": {
+    "latitude": 40.86513900756836,
+    "longitude": -84.57468032836914
+  },
+  "website": "https://firstubvanwert.org",
+  "listingUrl": "https://ub.org/churches/find-a-church/first-united-brethren-church-van-wert",
+  "identifiers": [
+    {
+      "namespace": "org.ub.id",
+      "value": "first-united-brethren-church-van-wert"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstubvanwert.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341081404"
+    }
+  ],
+  "advisories": []
+}

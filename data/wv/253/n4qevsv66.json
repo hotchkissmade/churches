@@ -1,0 +1,33 @@
+{
+  "id": "n4qevsv66",
+  "url": "https://constellation.church/n4qevsv66",
+  "name": "Resurrection Church",
+  "displayName": "Resurrection Church",
+  "address": {
+    "street": "123 Summers Street",
+    "city": "Charleston",
+    "state": "WV",
+    "zip": "25301"
+  },
+  "coordinates": {
+    "latitude": 38.35044288635254,
+    "longitude": -81.63606643676758
+  },
+  "website": "https://resurrectionwv.com",
+  "listingUrl": "https://churches.sbc.net/church/resurrection-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "resurrection-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "resurrectionwv.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "472569631"
+    }
+  ],
+  "advisories": []
+}

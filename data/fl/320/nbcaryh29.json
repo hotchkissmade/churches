@@ -1,0 +1,33 @@
+{
+  "id": "nbcaryh29",
+  "url": "https://constellation.church/nbcaryh29",
+  "name": "Harbor Baptist Church",
+  "displayName": "Harbor Baptist Church",
+  "address": {
+    "street": "1120 Clay St",
+    "city": "Fleming Island",
+    "state": "FL",
+    "zip": "32003"
+  },
+  "coordinates": {
+    "latitude": 30.05948829650879,
+    "longitude": -81.70846176147461
+  },
+  "website": "https://harborbaptist.church",
+  "listingUrl": "https://churches.sbc.net/church/harbor-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "harbor-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "harborbaptist.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "522458628"
+    }
+  ],
+  "advisories": []
+}

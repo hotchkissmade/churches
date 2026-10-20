@@ -1,0 +1,33 @@
+{
+  "id": "swext8t61",
+  "url": "https://constellation.church/swext8t61",
+  "name": "Kings Cross Church",
+  "displayName": "Kings Cross Church",
+  "address": {
+    "street": "2011 Clements Ferry Rd",
+    "city": "Charleston",
+    "state": "SC",
+    "zip": "29492"
+  },
+  "coordinates": {
+    "latitude": 32.91334342956543,
+    "longitude": -79.88887405395508
+  },
+  "website": "https://kingscross.org",
+  "listingUrl": "https://churches.sbc.net/church/kings-cross-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "kings-cross-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kingscross.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810788342"
+    }
+  ],
+  "advisories": []
+}

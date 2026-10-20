@@ -1,0 +1,33 @@
+{
+  "id": "e767p0b83",
+  "url": "https://constellation.church/e767p0b83",
+  "name": "Lexington United Methodist Church",
+  "displayName": "Lexington United Methodist Church",
+  "address": {
+    "street": "5597 Main St",
+    "city": "Lexington",
+    "state": "MI",
+    "zip": "48450-9386"
+  },
+  "coordinates": {
+    "latitude": 43.26680564880371,
+    "longitude": -82.5306396484375
+  },
+  "website": "https://lumcmi.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFJuvIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFJuvIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lumcmi.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382415231"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mn34axw29",
+  "url": "https://constellation.church/mn34axw29",
+  "name": "St. Luke's Episcopal Church",
+  "displayName": "St. Luke's Episcopal Church",
+  "address": {
+    "street": "263 Spur 962",
+    "city": "Cypress Mill",
+    "state": "TX",
+    "zip": "78663-8486"
+  },
+  "coordinates": {
+    "latitude": 30.380659103393555,
+    "longitude": -98.25310516357422
+  },
+  "website": "https://stlukes-cm.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-texas/list/st-lukes-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-texas/st-lukes-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukes-cm.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742252222"
+    }
+  ],
+  "advisories": []
+}

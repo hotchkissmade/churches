@@ -1,0 +1,33 @@
+{
+  "id": "e06cax862",
+  "url": "https://constellation.church/e06cax862",
+  "name": "First Baptist Church of Sparta",
+  "displayName": "First Baptist Church of Sparta",
+  "address": {
+    "street": "202 S Main St",
+    "city": "Sparta",
+    "state": "NC",
+    "zip": "28675"
+  },
+  "coordinates": {
+    "latitude": 36.503082275390625,
+    "longitude": -81.11852645874023
+  },
+  "website": "https://spartafirstbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-sparta/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-sparta"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "spartafirstbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351617308"
+    }
+  ],
+  "advisories": []
+}

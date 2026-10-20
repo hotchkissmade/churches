@@ -1,0 +1,33 @@
+{
+  "id": "mds724326",
+  "url": "https://constellation.church/mds724326",
+  "name": "Bethel Assembly of God",
+  "displayName": "Bethel Assembly of God",
+  "address": {
+    "street": "2714 N Dal Paso St",
+    "city": "Hobbs",
+    "state": "NM",
+    "zip": "88240"
+  },
+  "coordinates": {
+    "latitude": 32.73630332946777,
+    "longitude": -103.13555145263672
+  },
+  "website": "https://hobbsbethel.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=e59f8ea2-6bbf-4c3b-ac0f-ba018989612f&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "e59f8ea2-6bbf-4c3b-ac0f-ba018989612f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hobbsbethel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850306884"
+    }
+  ],
+  "advisories": []
+}

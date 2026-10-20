@@ -1,0 +1,33 @@
+{
+  "id": "v3pfefw79",
+  "url": "https://constellation.church/v3pfefw79",
+  "name": "Gallup Hill Baptist Church",
+  "displayName": "Gallup Hill Baptist Church",
+  "address": {
+    "street": "79 Gallup Hill Rd",
+    "city": "Ledyard",
+    "state": "CT",
+    "zip": "06339"
+  },
+  "coordinates": {
+    "latitude": 41.435672760009766,
+    "longitude": -71.98806381225586
+  },
+  "website": "https://galluphill.org",
+  "listingUrl": "https://churches.sbc.net/church/gallup-hill-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "gallup-hill-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "galluphill.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "061120039"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "awsacbs74",
+  "url": "https://constellation.church/awsacbs74",
+  "name": "Abiding Faith Baptist Church",
+  "displayName": "Abiding Faith Baptist Church",
+  "address": {
+    "street": "15376 Fondren Road",
+    "city": "Missouri City",
+    "state": "TX",
+    "zip": "77489"
+  },
+  "coordinates": {
+    "latitude": 29.60222816467285,
+    "longitude": -95.50798797607422
+  },
+  "website": "https://abidingfaithbc.org",
+  "listingUrl": "https://churches.sbc.net/church/abiding-faith-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "abiding-faith-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "abidingfaithbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760381475"
+    }
+  ],
+  "advisories": []
+}

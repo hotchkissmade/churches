@@ -1,0 +1,33 @@
+{
+  "id": "k6w634b80",
+  "url": "https://constellation.church/k6w634b80",
+  "name": "Messiah Lutheran Church",
+  "displayName": "Messiah Lutheran Church",
+  "address": {
+    "street": "25225 W Ivanhoe Rd",
+    "city": "Wauconda",
+    "state": "IL",
+    "zip": "60084-2405"
+  },
+  "coordinates": {
+    "latitude": 42.2473258972168,
+    "longitude": -88.12490844726562
+  },
+  "website": "https://messiah-wauconda.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e4db0cbd-f00d-4ac3-a91c-688a687d1fb9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e4db0cbd-f00d-4ac3-a91c-688a687d1fb9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "messiah-wauconda.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362815591"
+    }
+  ],
+  "advisories": []
+}

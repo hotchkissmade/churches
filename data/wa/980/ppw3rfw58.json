@@ -1,0 +1,33 @@
+{
+  "id": "ppw3rfw58",
+  "url": "https://constellation.church/ppw3rfw58",
+  "name": "Lake Hills Baptist Church",
+  "displayName": "Lake Hills Baptist Church",
+  "address": {
+    "street": "506 140th Ave SE",
+    "city": "Bellevue",
+    "state": "WA",
+    "zip": "98005"
+  },
+  "coordinates": {
+    "latitude": 47.6055908203125,
+    "longitude": -122.1528091430664
+  },
+  "website": "https://lakehillsbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/lake-hills-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lake-hills-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lakehillsbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911104433"
+    }
+  ],
+  "advisories": []
+}

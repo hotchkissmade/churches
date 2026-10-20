@@ -1,0 +1,33 @@
+{
+  "id": "sdfngay64",
+  "url": "https://constellation.church/sdfngay64",
+  "name": "The Crossing Church",
+  "displayName": "The Crossing Church",
+  "address": {
+    "street": "7 S Laurens St Ste A",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29601"
+  },
+  "coordinates": {
+    "latitude": 34.8505481,
+    "longitude": -82.4000194
+  },
+  "website": "https://thecrossinggreenville.com",
+  "listingUrl": "https://churches.sbc.net/church/the-crossing-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-crossing-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thecrossinggreenville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "753070362"
+    }
+  ],
+  "advisories": []
+}

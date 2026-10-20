@@ -1,0 +1,33 @@
+{
+  "id": "zzm4c1x85",
+  "url": "https://constellation.church/zzm4c1x85",
+  "name": "King’s Way Baptist Church",
+  "displayName": "King’s Way Baptist Church",
+  "address": {
+    "street": "1000 22nd St",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32805"
+  },
+  "coordinates": {
+    "latitude": 28.51893424987793,
+    "longitude": -81.39330291748047
+  },
+  "website": "https://kwbcorlando.com",
+  "listingUrl": "https://churches.sbc.net/church/kings-way-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "kings-way-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kwbcorlando.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592845378"
+    }
+  ],
+  "advisories": []
+}

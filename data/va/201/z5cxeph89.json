@@ -1,0 +1,33 @@
+{
+  "id": "z5cxeph89",
+  "url": "https://constellation.church/z5cxeph89",
+  "name": "Herndon United Methodist Church",
+  "displayName": "Herndon United Methodist Church",
+  "address": {
+    "street": "701 Bennett Street",
+    "city": "Herndon",
+    "state": "VA",
+    "zip": "20170"
+  },
+  "coordinates": {
+    "latitude": 38.984369,
+    "longitude": -77.373685
+  },
+  "website": "https://herndonumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMOoIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMOoIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "herndonumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541119654"
+    }
+  ],
+  "advisories": []
+}

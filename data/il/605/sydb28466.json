@@ -1,0 +1,33 @@
+{
+  "id": "sydb28466",
+  "url": "https://constellation.church/sydb28466",
+  "name": "Springbrook Community Church",
+  "displayName": "Springbrook Community Church",
+  "address": {
+    "street": "11247 S Heggs Rd",
+    "city": "Plainfield",
+    "state": "IL",
+    "zip": "60585"
+  },
+  "coordinates": {
+    "latitude": 41.676652908325195,
+    "longitude": -88.24946594238281
+  },
+  "website": "https://springbrookchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/springbrook-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "springbrook-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "springbrookchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363084021"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "v6ppyf586",
+  "url": "https://constellation.church/v6ppyf586",
+  "name": "Westwood Baptist Church",
+  "displayName": "Westwood Baptist Church",
+  "address": {
+    "street": "920 11th St SW",
+    "city": "Live Oak",
+    "state": "FL",
+    "zip": "32064"
+  },
+  "coordinates": {
+    "latitude": 30.29097557067871,
+    "longitude": -82.9991340637207
+  },
+  "website": "https://wbclo.com",
+  "listingUrl": "https://churches.sbc.net/church/westwood-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "westwood-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wbclo.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591207947"
+    }
+  ],
+  "advisories": []
+}

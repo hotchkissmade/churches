@@ -1,0 +1,33 @@
+{
+  "id": "c7pa70d57",
+  "url": "https://constellation.church/c7pa70d57",
+  "name": "Assembly of God Church",
+  "displayName": "Assembly of God Church",
+  "address": {
+    "street": "29 Babbitt Rd",
+    "city": "Babbitt",
+    "state": "MN",
+    "zip": "55706"
+  },
+  "coordinates": {
+    "latitude": 47.71065139770508,
+    "longitude": -91.95101165771484
+  },
+  "website": "https://babbittag.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=251cda9b-7f9b-4a8c-aef6-5861b78fa6d2&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "251cda9b-7f9b-4a8c-aef6-5861b78fa6d2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "babbittag.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411434732"
+    }
+  ],
+  "advisories": []
+}

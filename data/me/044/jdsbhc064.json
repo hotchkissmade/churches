@@ -1,0 +1,33 @@
+{
+  "id": "jdsbhc064",
+  "url": "https://constellation.church/jdsbhc064",
+  "name": "Elm Street Congregational Church",
+  "displayName": "Elm Street Congregational Church",
+  "address": {
+    "street": "31 Elm St",
+    "city": "Bucksport",
+    "state": "ME",
+    "zip": "04416"
+  },
+  "coordinates": {
+    "latitude": 44.57337188720703,
+    "longitude": -68.79404067993164
+  },
+  "website": "https://elmstcongo.church",
+  "listingUrl": "https://www.naccc.org/wpbdp_listing/elm-street-congregational-church/",
+  "identifiers": [
+    {
+      "namespace": "org.naccc.id",
+      "value": "elm-street-congregational-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elmstcongo.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "016009704"
+    }
+  ],
+  "advisories": []
+}

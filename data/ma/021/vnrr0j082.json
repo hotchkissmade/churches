@@ -1,0 +1,33 @@
+{
+  "id": "vnrr0j082",
+  "url": "https://constellation.church/vnrr0j082",
+  "name": "Wesley United Methodist Church",
+  "displayName": "Wesley United Methodist Church",
+  "address": {
+    "street": "1076 Washington St",
+    "city": "Dorchester",
+    "state": "MA",
+    "zip": "02124"
+  },
+  "coordinates": {
+    "latitude": 42.2742977142334,
+    "longitude": -71.06973648071289
+  },
+  "website": "https://allsaints.net",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF6ymIAD",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF6ymIAD"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allsaints.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "471098424"
+    }
+  ],
+  "advisories": []
+}

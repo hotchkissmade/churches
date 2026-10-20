@@ -1,0 +1,33 @@
+{
+  "id": "e8xwc5b09",
+  "url": "https://constellation.church/e8xwc5b09",
+  "name": "Church on The Way",
+  "displayName": "Church on The Way",
+  "address": {
+    "street": "196 SE James Ave",
+    "city": "Lake City",
+    "state": "FL",
+    "zip": "32025"
+  },
+  "coordinates": {
+    "latitude": 30.186574935913086,
+    "longitude": -82.61132049560547
+  },
+  "website": "https://cotw.tv",
+  "listingUrl": "https://churches.sbc.net/church/church-on-the-way/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "church-on-the-way"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cotw.tv"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "383729716"
+    }
+  ],
+  "advisories": []
+}

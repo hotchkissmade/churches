@@ -1,0 +1,33 @@
+{
+  "id": "jax5c9c33",
+  "url": "https://constellation.church/jax5c9c33",
+  "name": "Calvary Lutheran Church",
+  "displayName": "Calvary Lutheran Church",
+  "address": {
+    "street": "3901 Chicago Ave",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55407-2614"
+  },
+  "coordinates": {
+    "latitude": 44.9322624206543,
+    "longitude": -93.26214599609375
+  },
+  "website": "https://clchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=97c76e80-f9d7-481d-aec5-3c781e93db07",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "97c76e80-f9d7-481d-aec5-3c781e93db07"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410705762"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "zbqkp0157",
+  "url": "https://constellation.church/zbqkp0157",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "201 S 21st St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19103"
+  },
+  "coordinates": {
+    "latitude": 39.95059776306152,
+    "longitude": -75.17560195922852
+  },
+  "website": "https://fpcphila.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/7984/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "7984"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcphila.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231458014"
+    }
+  ],
+  "advisories": []
+}

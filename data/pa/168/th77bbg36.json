@@ -1,0 +1,33 @@
+{
+  "id": "th77bbg36",
+  "url": "https://constellation.church/th77bbg36",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "850 Snydertown Rd",
+    "city": "Howard",
+    "state": "PA",
+    "zip": "16841-4007"
+  },
+  "coordinates": {
+    "latitude": 40.98563003540039,
+    "longitude": -77.58212661743164
+  },
+  "website": "https://stmarksnydertown.wixsite.com/snydertown",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e6e6b2ed-79c0-4ce9-a097-eaa9afcd7bec",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e6e6b2ed-79c0-4ce9-a097-eaa9afcd7bec"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarksnydertown.wixsite.com/snydertown"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251463545"
+    }
+  ],
+  "advisories": []
+}

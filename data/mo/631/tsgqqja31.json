@@ -1,0 +1,33 @@
+{
+  "id": "tsgqqja31",
+  "url": "https://constellation.church/tsgqqja31",
+  "name": "Church of the Redeemer",
+  "displayName": "Church of the Redeemer",
+  "address": {
+    "street": "2601 Minnesota Ave",
+    "city": "Saint Louis",
+    "state": "MO",
+    "zip": "63118"
+  },
+  "coordinates": {
+    "latitude": 38.6064395904541,
+    "longitude": -90.23219299316406
+  },
+  "website": "https://churchoftheredeemer.co",
+  "listingUrl": "https://churches.sbc.net/church/church-of-the-redeemer/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "church-of-the-redeemer"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchoftheredeemer.co"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "851294965"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hsffpw128",
+  "url": "https://constellation.church/hsffpw128",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "200 Holliday St",
+    "city": "Osage City",
+    "state": "KS",
+    "zip": "66523-1038"
+  },
+  "coordinates": {
+    "latitude": 38.63591766357422,
+    "longitude": -95.83467864990234
+  },
+  "website": "https://osagecitygracelutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cba9c378-7601-498b-ac27-f8b7a5d26a8a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cba9c378-7601-498b-ac27-f8b7a5d26a8a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "osagecitygracelutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "481145996"
+    }
+  ],
+  "advisories": []
+}

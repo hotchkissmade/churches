@@ -1,0 +1,37 @@
+{
+  "id": "j2p2awp68",
+  "url": "https://constellation.church/j2p2awp68",
+  "name": "Grace Presbyterian Church",
+  "displayName": "Grace Presbyterian Church",
+  "address": {
+    "street": "8001 Magnetic St",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79904"
+  },
+  "coordinates": {
+    "latitude": 31.852142333984375,
+    "longitude": -106.45450592041016
+  },
+  "website": "https://epgrace.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/15020/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "15020"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "epgrace.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741287168"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741368926"
+    }
+  ],
+  "advisories": []
+}

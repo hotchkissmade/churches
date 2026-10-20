@@ -1,0 +1,33 @@
+{
+  "id": "s4crrvd65",
+  "url": "https://constellation.church/s4crrvd65",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "3210 30th St",
+    "city": "Columbus",
+    "state": "NE",
+    "zip": "68601"
+  },
+  "coordinates": {
+    "latitude": 41.44605255126953,
+    "longitude": -97.36763000488281
+  },
+  "website": "https://columbusfbc.net",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-1240/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-1240"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "columbusfbc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810873151"
+    }
+  ],
+  "advisories": []
+}

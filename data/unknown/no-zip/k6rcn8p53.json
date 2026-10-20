@@ -1,0 +1,33 @@
+{
+  "id": "k6rcn8p53",
+  "url": "https://constellation.church/k6rcn8p53",
+  "name": "Durham Friends Meeting (NEYM)",
+  "displayName": "Durham Friends Meeting (NEYM)",
+  "address": {
+    "street": "532 Quaker Meetinghouse Road",
+    "city": "Durham",
+    "state": "ME Durham Friends Meeting (Maine)",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 43.94204330444336,
+    "longitude": -70.07336807250977
+  },
+  "website": "https://durhamfriendsmeeting.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/durham-friends-meeting-neym/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "durham-friends-meeting-neym"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "durhamfriendsmeeting.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "010538807"
+    }
+  ],
+  "advisories": []
+}

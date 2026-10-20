@@ -1,0 +1,33 @@
+{
+  "id": "hcw2ps663",
+  "url": "https://constellation.church/hcw2ps663",
+  "name": "John Wesley United Methodist Church",
+  "displayName": "John Wesley United Methodist Church",
+  "address": {
+    "street": "311 Lee St",
+    "city": "Bristol",
+    "state": "VA",
+    "zip": "24201-4326"
+  },
+  "coordinates": {
+    "latitude": 36.59842872619629,
+    "longitude": -82.1807861328125
+  },
+  "website": "https://johnwesleyumcbristol.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFJ2jIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFJ2jIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "johnwesleyumcbristol.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541317631"
+    }
+  ],
+  "advisories": []
+}

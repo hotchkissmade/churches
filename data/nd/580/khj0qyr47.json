@@ -1,0 +1,33 @@
+{
+  "id": "khj0qyr47",
+  "url": "https://constellation.church/khj0qyr47",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "326 Bluff St",
+    "city": "Enderlin",
+    "state": "ND",
+    "zip": "58027-1330"
+  },
+  "coordinates": {
+    "latitude": 46.622440338134766,
+    "longitude": -97.60381317138672
+  },
+  "website": "https://1stlutheranenderlin.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ed71b90d-057c-47ff-bec5-3c321a870fda",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ed71b90d-057c-47ff-bec5-3c321a870fda"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "1stlutheranenderlin.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450346601"
+    }
+  ],
+  "advisories": []
+}

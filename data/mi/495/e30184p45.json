@@ -1,0 +1,33 @@
+{
+  "id": "e30184p45",
+  "url": "https://constellation.church/e30184p45",
+  "name": "Central Reformed Church",
+  "displayName": "Central Reformed Church",
+  "address": {
+    "street": "10 College Ave NE",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49503-3418"
+  },
+  "coordinates": {
+    "latitude": 42.96360778808594,
+    "longitude": -85.6562728881836
+  },
+  "website": "https://centralreformedchurch.org",
+  "listingUrl": "https://www.rca.org/churches/central-reformed-church/",
+  "identifiers": [
+    {
+      "namespace": "org.rca.id",
+      "value": "224917"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centralreformedchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381374225"
+    }
+  ],
+  "advisories": []
+}

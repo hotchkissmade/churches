@@ -1,0 +1,33 @@
+{
+  "id": "k8abyq341",
+  "url": "https://constellation.church/k8abyq341",
+  "name": "St. Anne's",
+  "displayName": "St. Anne's",
+  "address": {
+    "street": "25100 Ridge Rd",
+    "city": "Damascus",
+    "state": "MD",
+    "zip": "20872-1832"
+  },
+  "coordinates": {
+    "latitude": 39.27014350891113,
+    "longitude": -77.21772766113281
+  },
+  "website": "https://saintannesdamascus.net",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/st-annes-damascus",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/st-annes-damascus"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintannesdamascus.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521198474"
+    }
+  ],
+  "advisories": []
+}

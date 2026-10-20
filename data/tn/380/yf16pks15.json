@@ -1,0 +1,33 @@
+{
+  "id": "yf16pks15",
+  "url": "https://constellation.church/yf16pks15",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "2000 N Germantown Pkwy",
+    "city": "Cordova",
+    "state": "TN",
+    "zip": "38016-5091"
+  },
+  "coordinates": {
+    "latitude": 35.179922103881836,
+    "longitude": -89.7921142578125
+  },
+  "website": "https://stlukememphis.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9a32cbf8-1538-4b0d-80bf-ec0238d4b2db",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9a32cbf8-1538-4b0d-80bf-ec0238d4b2db"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukememphis.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621147422"
+    }
+  ],
+  "advisories": []
+}

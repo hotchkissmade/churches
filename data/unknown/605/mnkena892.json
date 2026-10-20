@@ -1,0 +1,33 @@
+{
+  "id": "mnkena892",
+  "url": "https://constellation.church/mnkena892",
+  "name": "Victory Chapel",
+  "displayName": "Victory Chapel",
+  "address": {
+    "street": "595 S River Street",
+    "city": "Batavia",
+    "state": null,
+    "zip": "60510"
+  },
+  "coordinates": {
+    "latitude": 41.84107208251953,
+    "longitude": -88.30607604980469
+  },
+  "website": "https://rccgvc.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=685&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "685"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rccgvc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800818491"
+    }
+  ],
+  "advisories": []
+}

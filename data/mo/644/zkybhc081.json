@@ -1,0 +1,33 @@
+{
+  "id": "zkybhc081",
+  "url": "https://constellation.church/zkybhc081",
+  "name": "Fairfax Baptist Church",
+  "displayName": "Fairfax Baptist Church",
+  "address": {
+    "street": "604 Angell St",
+    "city": "Fairfax",
+    "state": "MO",
+    "zip": "64446"
+  },
+  "coordinates": {
+    "latitude": 40.33817672729492,
+    "longitude": -95.38729095458984
+  },
+  "website": "https://fairfaxbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/fairfax-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "fairfax-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fairfaxbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "436038999"
+    }
+  ],
+  "advisories": []
+}

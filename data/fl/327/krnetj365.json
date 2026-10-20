@@ -1,0 +1,33 @@
+{
+  "id": "krnetj365",
+  "url": "https://constellation.church/krnetj365",
+  "name": "One Church",
+  "displayName": "One Church",
+  "address": {
+    "street": "1675 Dixon Rd",
+    "city": "Longwood",
+    "state": "FL",
+    "zip": "32779"
+  },
+  "coordinates": {
+    "latitude": 28.71895980834961,
+    "longitude": -81.37776184082031
+  },
+  "website": "https://onechurch.net",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=3cf7d3ac-2e44-4981-964f-26528028f38b&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "3cf7d3ac-2e44-4981-964f-26528028f38b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "onechurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "462825595"
+    }
+  ],
+  "advisories": []
+}

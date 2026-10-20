@@ -1,0 +1,33 @@
+{
+  "id": "v86jcz304",
+  "url": "https://constellation.church/v86jcz304",
+  "name": "Church of the Advent",
+  "displayName": "Church of the Advent",
+  "address": {
+    "street": "12 Byberry Rd",
+    "city": "Hatboro",
+    "state": "PA",
+    "zip": "19040-3405"
+  },
+  "coordinates": {
+    "latitude": 40.174320220947266,
+    "longitude": -75.10647964477539
+  },
+  "website": "https://adventhatboro.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/church-advent",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/church-advent"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "adventhatboro.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232301401"
+    }
+  ],
+  "advisories": []
+}

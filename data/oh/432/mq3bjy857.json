@@ -1,0 +1,33 @@
+{
+  "id": "mq3bjy857",
+  "url": "https://constellation.church/mq3bjy857",
+  "name": "Clinton Heights Lutheran Church",
+  "displayName": "Clinton Heights Lutheran Church",
+  "address": {
+    "street": "15 Clinton Heights Ave",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43202-1243"
+  },
+  "coordinates": {
+    "latitude": 40.0302677154541,
+    "longitude": -83.01505661010742
+  },
+  "website": "https://clintonheights.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fa0984bc-6ab0-423a-8931-235c154d6b01",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fa0984bc-6ab0-423a-8931-235c154d6b01"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clintonheights.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310642927"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "beeqrfg42",
+  "url": "https://constellation.church/beeqrfg42",
+  "name": "Cornerstone Baptist Church",
+  "displayName": "Cornerstone Baptist Church",
+  "address": {
+    "street": "1601 S Robinson Dr",
+    "city": "Robinson",
+    "state": "TX",
+    "zip": "76706"
+  },
+  "coordinates": {
+    "latitude": 31.44474220275879,
+    "longitude": -97.10930633544922
+  },
+  "website": "https://cornerstonerobinson.org",
+  "listingUrl": "https://churches.sbc.net/church/cornerstone-baptist-church-53/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cornerstone-baptist-church-53"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cornerstonerobinson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742313377"
+    }
+  ],
+  "advisories": []
+}

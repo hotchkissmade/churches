@@ -1,0 +1,33 @@
+{
+  "id": "vw71gnr19",
+  "url": "https://constellation.church/vw71gnr19",
+  "name": "Change City",
+  "displayName": "Change City",
+  "address": {
+    "street": "200 Hill Rd S",
+    "city": "Pickerington",
+    "state": "OH",
+    "zip": "43147"
+  },
+  "coordinates": {
+    "latitude": 39.879716873168945,
+    "longitude": -82.75805282592773
+  },
+  "website": "https://changecity.church",
+  "listingUrl": "https://churches.sbc.net/church/change-city/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "change-city"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "changecity.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341906904"
+    }
+  ],
+  "advisories": []
+}

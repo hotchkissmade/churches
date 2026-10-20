@@ -1,0 +1,33 @@
+{
+  "id": "s7b910119",
+  "url": "https://constellation.church/s7b910119",
+  "name": "Windsor Presbyterian Church",
+  "displayName": "Windsor Presbyterian Church",
+  "address": {
+    "street": "251 Windsor River Rd",
+    "city": "Windsor",
+    "state": "CA",
+    "zip": "95492"
+  },
+  "coordinates": {
+    "latitude": 38.547441482543945,
+    "longitude": -122.81414031982422
+  },
+  "website": "https://windsorpresby.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/11339/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "11339"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "windsorpresby.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "943206398"
+    }
+  ],
+  "advisories": []
+}

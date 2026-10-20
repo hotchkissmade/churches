@@ -1,0 +1,33 @@
+{
+  "id": "gjrfp1966",
+  "url": "https://constellation.church/gjrfp1966",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "1702 Iowa St",
+    "city": "Davenport",
+    "state": "IA",
+    "zip": "52803-4315"
+  },
+  "coordinates": {
+    "latitude": 41.53664207458496,
+    "longitude": -90.5699462890625
+  },
+  "website": "https://fpcdavenport.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/2598/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "2598"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcdavenport.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420707098"
+    }
+  ],
+  "advisories": []
+}

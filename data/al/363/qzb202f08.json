@@ -1,0 +1,33 @@
+{
+  "id": "qzb202f08",
+  "url": "https://constellation.church/qzb202f08",
+  "name": "Cloverdale Baptist Church",
+  "displayName": "Cloverdale Baptist Church",
+  "address": {
+    "street": "806 Dexter St",
+    "city": "Dothan",
+    "state": "AL",
+    "zip": "36301"
+  },
+  "coordinates": {
+    "latitude": 31.192235946655273,
+    "longitude": -85.39107513427734
+  },
+  "website": "https://cloverdaledothan.com",
+  "listingUrl": "https://churches.sbc.net/church/cloverdale-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cloverdale-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cloverdaledothan.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630499904"
+    }
+  ],
+  "advisories": []
+}

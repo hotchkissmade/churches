@@ -1,0 +1,33 @@
+{
+  "id": "w5zdq0y86",
+  "url": "https://constellation.church/w5zdq0y86",
+  "name": "Connect Church",
+  "displayName": "Connect Church",
+  "address": {
+    "street": "1779 Springdale Blvd",
+    "city": "Fenton",
+    "state": "MO",
+    "zip": "63026"
+  },
+  "coordinates": {
+    "latitude": 38.47773742675781,
+    "longitude": -90.44098663330078
+  },
+  "website": "https://connectchurchstl.com/category/all-products",
+  "listingUrl": "https://churches.sbc.net/church/connect-church-9/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "connect-church-9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "connectchurchstl.com/category/all-products"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "471585140"
+    }
+  ],
+  "advisories": []
+}

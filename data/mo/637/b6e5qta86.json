@@ -1,0 +1,33 @@
+{
+  "id": "b6e5qta86",
+  "url": "https://constellation.church/b6e5qta86",
+  "name": "Fruitland Community Church",
+  "displayName": "Fruitland Community Church",
+  "address": {
+    "street": "6040 US Highway 61",
+    "city": "Jackson",
+    "state": "MO",
+    "zip": "63755"
+  },
+  "coordinates": {
+    "latitude": 37.44669151306152,
+    "longitude": -89.63747024536133
+  },
+  "website": "https://fruitlandcommunity.com",
+  "listingUrl": "https://churches.sbc.net/church/fruitland-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "fruitland-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fruitlandcommunity.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431857473"
+    }
+  ],
+  "advisories": []
+}

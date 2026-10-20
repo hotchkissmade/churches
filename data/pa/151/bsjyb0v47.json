@@ -1,0 +1,33 @@
+{
+  "id": "bsjyb0v47",
+  "url": "https://constellation.church/bsjyb0v47",
+  "name": "St Andrew Evangelical Lutheran Church",
+  "displayName": "St. Andrew Evangelical Lutheran Church",
+  "address": {
+    "street": "218 Alter St",
+    "city": "Carnegie",
+    "state": "PA",
+    "zip": "15106-1116"
+  },
+  "coordinates": {
+    "latitude": 40.41510581970215,
+    "longitude": -80.0750617980957
+  },
+  "website": "https://saintandrew-elca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=58e3a749-af8f-4282-beb5-3fcd26ed9c45",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "58e3a749-af8f-4282-beb5-3fcd26ed9c45"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintandrew-elca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251495951"
+    }
+  ],
+  "advisories": []
+}

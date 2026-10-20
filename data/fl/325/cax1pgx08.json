@@ -1,0 +1,33 @@
+{
+  "id": "cax1pgx08",
+  "url": "https://constellation.church/cax1pgx08",
+  "name": "Olivet Baptist Church",
+  "displayName": "Olivet Baptist Church",
+  "address": {
+    "street": "5240 Dogwood Dr",
+    "city": "Milton",
+    "state": "FL",
+    "zip": "32570"
+  },
+  "coordinates": {
+    "latitude": 30.625469207763672,
+    "longitude": -87.05638885498047
+  },
+  "website": "https://olivet.us",
+  "listingUrl": "https://churches.sbc.net/church/olivet-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "olivet-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "olivet.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591219501"
+    }
+  ],
+  "advisories": []
+}

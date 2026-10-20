@@ -1,0 +1,33 @@
+{
+  "id": "cxysvrg55",
+  "url": "https://constellation.church/cxysvrg55",
+  "name": "Resurrection Church",
+  "displayName": "Resurrection Church",
+  "address": {
+    "street": "2940 Commonwealth Avenue",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28205"
+  },
+  "coordinates": {
+    "latitude": 35.20998764038086,
+    "longitude": -80.79921340942383
+  },
+  "website": "https://reschurchclt.org",
+  "listingUrl": "https://lcmc.net/congregation/111111",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "111111"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "reschurchclt.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560999795"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xtj593m82",
+  "url": "https://constellation.church/xtj593m82",
+  "name": "Shady Oaks Baptist Church",
+  "displayName": "Shady Oaks Baptist Church",
+  "address": {
+    "street": "1336 Cavender Dr",
+    "city": "Hurst",
+    "state": "TX",
+    "zip": "76053"
+  },
+  "coordinates": {
+    "latitude": 32.83513069152832,
+    "longitude": -97.17325592041016
+  },
+  "website": "https://shadyoaks.org",
+  "listingUrl": "https://churches.sbc.net/church/shady-oaks-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "shady-oaks-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "shadyoaks.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751212929"
+    }
+  ],
+  "advisories": []
+}

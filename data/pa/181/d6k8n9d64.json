@@ -1,0 +1,33 @@
+{
+  "id": "d6k8n9d64",
+  "url": "https://constellation.church/d6k8n9d64",
+  "name": "Lehigh Valley Presbyterian Church",
+  "displayName": "Lehigh Valley Presbyterian Church",
+  "address": {
+    "street": "31 South 13th Street",
+    "city": "Allentown",
+    "state": "PA",
+    "zip": "18102"
+  },
+  "coordinates": {
+    "latitude": 40.597951889038086,
+    "longitude": -75.48322296142578
+  },
+  "website": "https://lvpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/688",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "688"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lvpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232321700"
+    }
+  ],
+  "advisories": []
+}

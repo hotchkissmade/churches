@@ -1,0 +1,33 @@
+{
+  "id": "ew3kr1h85",
+  "url": "https://constellation.church/ew3kr1h85",
+  "name": "Knott Avenue Christian Church",
+  "displayName": "Knott Avenue Christian Church",
+  "address": {
+    "street": "315 S Knott Ave",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92804"
+  },
+  "coordinates": {
+    "latitude": 33.82771110534668,
+    "longitude": -118.01126098632812
+  },
+  "website": "https://kacc.church",
+  "listingUrl": "https://churches.sbc.net/church/knott-avenue-christian-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "knott-avenue-christian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kacc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952991111"
+    }
+  ],
+  "advisories": []
+}

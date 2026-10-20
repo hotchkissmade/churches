@@ -1,0 +1,33 @@
+{
+  "id": "ey0pe1t63",
+  "url": "https://constellation.church/ey0pe1t63",
+  "name": "Good Shepherd Lutheran Church",
+  "displayName": "Good Shepherd Lutheran Church",
+  "address": {
+    "street": "99 Central Park Rd",
+    "city": "Plainview",
+    "state": "NY",
+    "zip": "11803-2011"
+  },
+  "coordinates": {
+    "latitude": 40.7793143,
+    "longitude": -73.4780893
+  },
+  "website": "https://gsplainview.com/worship",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2f06337d-0982-4036-8cc4-27876517cbea",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2f06337d-0982-4036-8cc4-27876517cbea"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gsplainview.com/worship"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111808221"
+    }
+  ],
+  "advisories": []
+}

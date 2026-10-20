@@ -1,0 +1,33 @@
+{
+  "id": "anc62b872",
+  "url": "https://constellation.church/anc62b872",
+  "name": "Country Oaks Baptist Church",
+  "displayName": "Country Oaks Baptist Church",
+  "address": {
+    "street": "20915 Schout Rd",
+    "city": "Tehachapi",
+    "state": "CA",
+    "zip": "93561"
+  },
+  "coordinates": {
+    "latitude": 35.1175594329834,
+    "longitude": -118.50259399414062
+  },
+  "website": "https://countryoaks.org",
+  "listingUrl": "https://churches.sbc.net/church/country-oaks-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "country-oaks-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "countryoaks.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "770196944"
+    }
+  ],
+  "advisories": []
+}

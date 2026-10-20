@@ -1,0 +1,33 @@
+{
+  "id": "zstk1bb75",
+  "url": "https://constellation.church/zstk1bb75",
+  "name": "South Coast Church",
+  "displayName": "South Coast Church",
+  "address": {
+    "street": "5814 Cathedral Oaks Rd",
+    "city": "Goleta",
+    "state": "CA",
+    "zip": "93117"
+  },
+  "coordinates": {
+    "latitude": 34.4511494,
+    "longitude": -119.8251643
+  },
+  "website": "https://southcoastchurch.org/live",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=363f1fd9-4ac1-470e-af92-8f7a7ca53f05&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "363f1fd9-4ac1-470e-af92-8f7a7ca53f05"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southcoastchurch.org/live"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953795142"
+    }
+  ],
+  "advisories": []
+}

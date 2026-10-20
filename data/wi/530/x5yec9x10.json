@@ -1,0 +1,33 @@
+{
+  "id": "x5yec9x10",
+  "url": "https://constellation.church/x5yec9x10",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "4860 Arthur Rd",
+    "city": "Slinger",
+    "state": "WI",
+    "zip": "53086-9107"
+  },
+  "coordinates": {
+    "latitude": 43.35418701171875,
+    "longitude": -88.27872467041016
+  },
+  "website": "https://stluke-slinger.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5444cd0e-4daa-4aaf-a265-bed60d121324",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5444cd0e-4daa-4aaf-a265-bed60d121324"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stluke-slinger.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391348262"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sc2kjdy57",
+  "url": "https://constellation.church/sc2kjdy57",
+  "name": "St. Demetrius Mission",
+  "displayName": "St. Demetrius Mission",
+  "address": {
+    "street": "140 Price St",
+    "city": "Naples",
+    "state": "FL",
+    "zip": "34113"
+  },
+  "coordinates": {
+    "latitude": 26.06427764892578,
+    "longitude": -81.70662689208984
+  },
+  "website": "https://stdemetriuschurch.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-so-napsdm",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-so-napsdm"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stdemetriuschurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "650712997"
+    }
+  ],
+  "advisories": []
+}

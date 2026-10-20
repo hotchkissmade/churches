@@ -1,0 +1,33 @@
+{
+  "id": "rxmxdgq47",
+  "url": "https://constellation.church/rxmxdgq47",
+  "name": "Tower Presbyterian Church",
+  "displayName": "Tower Presbyterian Church",
+  "address": {
+    "street": "248 S Broad St",
+    "city": "Grove City",
+    "state": "PA",
+    "zip": "16127"
+  },
+  "coordinates": {
+    "latitude": 41.15818977355957,
+    "longitude": -80.08662796020508
+  },
+  "website": "https://towerchurch.com",
+  "listingUrl": "https://eco-pres.org/churches/tower-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "tower-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "towerchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "250965355"
+    }
+  ],
+  "advisories": []
+}

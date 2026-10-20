@@ -1,0 +1,33 @@
+{
+  "id": "mcgca3k77",
+  "url": "https://constellation.church/mcgca3k77",
+  "name": "St Lucas Lutheran Church",
+  "displayName": "St. Lucas Lutheran Church",
+  "address": {
+    "street": "1420 Parkview Dr",
+    "city": "Kewaskum",
+    "state": "WI",
+    "zip": "53040-9790"
+  },
+  "coordinates": {
+    "latitude": 43.52239418029785,
+    "longitude": -88.22313690185547
+  },
+  "website": "https://stlucaswels.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24697",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24697"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlucaswels.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391251723"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xhwqp0905",
+  "url": "https://constellation.church/xhwqp0905",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "313 Washburn St",
+    "city": "Brownsville",
+    "state": "OR",
+    "zip": "97327"
+  },
+  "coordinates": {
+    "latitude": 44.3865852355957,
+    "longitude": -122.9854965209961
+  },
+  "website": "https://bvilleag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ddef5146-03bf-4f13-8c78-bbcb9e7676e6&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ddef5146-03bf-4f13-8c78-bbcb9e7676e6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bvilleag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930721111"
+    }
+  ],
+  "advisories": []
+}

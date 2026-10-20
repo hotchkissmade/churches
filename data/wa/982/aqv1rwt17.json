@@ -1,0 +1,33 @@
+{
+  "id": "aqv1rwt17",
+  "url": "https://constellation.church/aqv1rwt17",
+  "name": "Pointe Of Grace",
+  "displayName": "Pointe Of Grace",
+  "address": {
+    "street": "5425 Harbour Pointe Blvd",
+    "city": "Mukilteo",
+    "state": "WA",
+    "zip": "98275-5101"
+  },
+  "coordinates": {
+    "latitude": 47.8961067199707,
+    "longitude": -122.30810546875
+  },
+  "website": "https://pointeofgracechurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=90823a34-7f83-4262-a1e1-e458f3bb4e1d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "90823a34-7f83-4262-a1e1-e458f3bb4e1d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pointeofgracechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "825115881"
+    }
+  ],
+  "advisories": []
+}

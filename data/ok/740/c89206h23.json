@@ -1,0 +1,33 @@
+{
+  "id": "c89206h23",
+  "url": "https://constellation.church/c89206h23",
+  "name": "First Baptist Church of Pawnee",
+  "displayName": "First Baptist Church of Pawnee",
+  "address": {
+    "street": "720 6th Street",
+    "city": "Pawnee",
+    "state": "OK",
+    "zip": "74058"
+  },
+  "coordinates": {
+    "latitude": 36.336055755615234,
+    "longitude": -96.80387115478516
+  },
+  "website": "https://pawneefbc.org/baby_boot_camp",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-pawnee/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-pawnee"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pawneefbc.org/baby_boot_camp"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "730973671"
+    }
+  ],
+  "advisories": []
+}

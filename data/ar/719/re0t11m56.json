@@ -1,0 +1,33 @@
+{
+  "id": "re0t11m56",
+  "url": "https://constellation.church/re0t11m56",
+  "name": "Crossgate Church",
+  "displayName": "Crossgate Church",
+  "address": {
+    "street": "3100 E Grand Ave",
+    "city": "Hot Springs",
+    "state": "AR",
+    "zip": "71901"
+  },
+  "coordinates": {
+    "latitude": 34.50610160827637,
+    "longitude": -92.96134948730469
+  },
+  "website": "https://crossgate.org",
+  "listingUrl": "https://churches.sbc.net/church/crossgate-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "crossgate-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "crossgate.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "201555672"
+    }
+  ],
+  "advisories": []
+}

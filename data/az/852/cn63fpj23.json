@@ -1,0 +1,33 @@
+{
+  "id": "cn63fpj23",
+  "url": "https://constellation.church/cn63fpj23",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "6701 E Osborn Rd",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "zip": "85251-6113"
+  },
+  "coordinates": {
+    "latitude": 33.48702430725098,
+    "longitude": -111.93624877929688
+  },
+  "website": "https://salemscottsdale.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24011",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24011"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemscottsdale.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "866056872"
+    }
+  ],
+  "advisories": []
+}

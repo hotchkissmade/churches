@@ -1,0 +1,33 @@
+{
+  "id": "g7e2h7224",
+  "url": "https://constellation.church/g7e2h7224",
+  "name": "Calvary Lutheran Church",
+  "displayName": "Calvary Lutheran Church",
+  "address": {
+    "street": "401 Santa Lucia Ave",
+    "city": "Millbrae",
+    "state": "CA",
+    "zip": "94030-1239"
+  },
+  "coordinates": {
+    "latitude": 37.61335563659668,
+    "longitude": -122.4104232788086
+  },
+  "website": "https://calvarylutheran-millbrae.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e70198d4-5b75-4082-99f2-f8dfc5903508",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e70198d4-5b75-4082-99f2-f8dfc5903508"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "calvarylutheran-millbrae.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941744140"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dx121tq34",
+  "url": "https://constellation.church/dx121tq34",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "104 Greenwood Ave",
+    "city": "Mannford",
+    "state": "OK",
+    "zip": "74044"
+  },
+  "coordinates": {
+    "latitude": 36.11972618103027,
+    "longitude": -96.35325622558594
+  },
+  "website": "https://mannfordag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=5021e9cc-e07d-43ee-8155-15f1c0df30e2&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "5021e9cc-e07d-43ee-8155-15f1c0df30e2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mannfordag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "731141288"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nvsshwa11",
+  "url": "https://constellation.church/nvsshwa11",
+  "name": "First United Methodist Church of Jackson",
+  "displayName": "First United Methodist Church of Jackson",
+  "address": {
+    "street": "275 W Michigan Ave",
+    "city": "Jackson",
+    "state": "MI",
+    "zip": "49201-2218"
+  },
+  "coordinates": {
+    "latitude": 42.24689865112305,
+    "longitude": -84.41095352172852
+  },
+  "website": "https://firstumcjackson.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFAAnIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFAAnIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstumcjackson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381501144"
+    }
+  ],
+  "advisories": []
+}

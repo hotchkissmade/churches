@@ -1,0 +1,33 @@
+{
+  "id": "hc4rgr926",
+  "url": "https://constellation.church/hc4rgr926",
+  "name": "Bethesda Lutheran Church",
+  "displayName": "Bethesda Lutheran Church",
+  "address": {
+    "street": "21590 State Highway 47",
+    "city": "Isle",
+    "state": "MN",
+    "zip": "56342"
+  },
+  "coordinates": {
+    "latitude": 46.328128814697266,
+    "longitude": -93.51861572265625
+  },
+  "website": "https://blcmalmo.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b70fc628-5e9a-41ee-9754-c3f35f300a50",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b70fc628-5e9a-41ee-9754-c3f35f300a50"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blcmalmo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411469914"
+    }
+  ],
+  "advisories": []
+}

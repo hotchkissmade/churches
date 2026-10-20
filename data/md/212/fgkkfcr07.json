@@ -1,0 +1,33 @@
+{
+  "id": "fgkkfcr07",
+  "url": "https://constellation.church/fgkkfcr07",
+  "name": "Church of the Redeemer",
+  "displayName": "Church of the Redeemer",
+  "address": {
+    "street": "5603 N Charles St",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21210"
+  },
+  "coordinates": {
+    "latitude": 39.36545944213867,
+    "longitude": -76.62424087524414
+  },
+  "website": "https://redeemerbaltimore.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maryland/list/church-redeemer",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maryland/church-redeemer"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerbaltimore.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520591689"
+    }
+  ],
+  "advisories": []
+}

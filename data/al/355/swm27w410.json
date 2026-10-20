@@ -1,0 +1,33 @@
+{
+  "id": "swm27w410",
+  "url": "https://constellation.church/swm27w410",
+  "name": "Westside Baptist Church",
+  "displayName": "Westside Baptist Church",
+  "address": {
+    "street": "1101 22nd St W",
+    "city": "Jasper",
+    "state": "AL",
+    "zip": "35501"
+  },
+  "coordinates": {
+    "latitude": 33.82868766784668,
+    "longitude": -87.28863525390625
+  },
+  "website": "https://tbfa.org",
+  "listingUrl": "https://churches.sbc.net/church/westside-baptist-church-24/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "westside-baptist-church-24"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tbfa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630519158"
+    }
+  ],
+  "advisories": []
+}

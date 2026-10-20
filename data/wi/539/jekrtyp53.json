@@ -1,0 +1,33 @@
+{
+  "id": "jekrtyp53",
+  "url": "https://constellation.church/jekrtyp53",
+  "name": "Saint Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "345 N Pine St",
+    "city": "Reedsburg",
+    "state": "WI",
+    "zip": "53959-1667"
+  },
+  "coordinates": {
+    "latitude": 43.53523635864258,
+    "longitude": -90.00437927246094
+  },
+  "website": "https://stpetersreedsburg.com/school-home",
+  "listingUrl": "https://locator.lcms.org/church/C/759116",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "759116"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpetersreedsburg.com/school-home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390851417"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "z2chywc53",
+  "url": "https://constellation.church/z2chywc53",
+  "name": "Rocky Springs Presbyterian Church",
+  "displayName": "Rocky Springs Presbyterian Church",
+  "address": {
+    "street": "123 Rocky Springs Road",
+    "city": "Harrisville",
+    "state": "PA",
+    "zip": "16038"
+  },
+  "coordinates": {
+    "latitude": 41.155821884524,
+    "longitude": -79.938506192014
+  },
+  "website": "https://rockyspringschurch.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/909",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "909"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rockyspringschurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251462953"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tr52e0656",
+  "url": "https://constellation.church/tr52e0656",
+  "name": "Westgate Church",
+  "displayName": "Westgate Church",
+  "address": {
+    "street": "100 Winter St",
+    "city": "Weston",
+    "state": "MA",
+    "zip": "02493-2613"
+  },
+  "coordinates": {
+    "latitude": 42.33320999145508,
+    "longitude": -71.31435012817383
+  },
+  "website": "https://westgate-church.org",
+  "listingUrl": "https://churches.efca.org/?id=180193",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "180193"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westgate-church.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042583018"
+    }
+  ],
+  "advisories": []
+}

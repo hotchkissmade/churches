@@ -1,0 +1,33 @@
+{
+  "id": "hfaa9ja14",
+  "url": "https://constellation.church/hfaa9ja14",
+  "name": "Holy Cross Lutheran Church",
+  "displayName": "Holy Cross Lutheran Church",
+  "address": {
+    "street": "7901 Westview Dr",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77055-6729"
+  },
+  "coordinates": {
+    "latitude": 29.7941837310791,
+    "longitude": -95.48550415039062
+  },
+  "website": "https://holycross.us",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b92a26bb-7c29-4fbb-88c2-6ac3f4429683",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b92a26bb-7c29-4fbb-88c2-6ac3f4429683"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holycross.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741557301"
+    }
+  ],
+  "advisories": []
+}

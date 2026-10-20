@@ -1,0 +1,33 @@
+{
+  "id": "w7kbtrp59",
+  "url": "https://constellation.church/w7kbtrp59",
+  "name": "Topsy Baptist Church",
+  "displayName": "Topsy Baptist Church",
+  "address": {
+    "street": "5311 Topsy Bel Rd",
+    "city": "Lake Charles",
+    "state": "LA",
+    "zip": "70611"
+  },
+  "coordinates": {
+    "latitude": 30.4014228,
+    "longitude": -93.127375
+  },
+  "website": "https://topsybaptistchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/topsy-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "topsy-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "topsybaptistchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "721195474"
+    }
+  ],
+  "advisories": []
+}

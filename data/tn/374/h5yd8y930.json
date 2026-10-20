@@ -1,0 +1,33 @@
+{
+  "id": "h5yd8y930",
+  "url": "https://constellation.church/h5yd8y930",
+  "name": "New City Fellowship",
+  "displayName": "New City Fellowship",
+  "address": {
+    "street": "2424 East Third Street",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37404"
+  },
+  "coordinates": {
+    "latitude": 35.04008102416992,
+    "longitude": -85.25578689575195
+  },
+  "website": "https://newcityfellowship.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/752",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "752"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newcityfellowship.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621002423"
+    }
+  ],
+  "advisories": []
+}

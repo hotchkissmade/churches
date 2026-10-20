@@ -1,0 +1,33 @@
+{
+  "id": "vyajk3y82",
+  "url": "https://constellation.church/vyajk3y82",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "430 North St",
+    "city": "White Plains",
+    "state": "NY",
+    "zip": "10605-2205"
+  },
+  "coordinates": {
+    "latitude": 41.02288055419922,
+    "longitude": -73.74104309082031
+  },
+  "website": "https://trinitylutheranchurchwhiteplains.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5bcd4173-95d4-404c-92a8-14b68cd942d1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5bcd4173-95d4-404c-92a8-14b68cd942d1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylutheranchurchwhiteplains.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "131813826"
+    }
+  ],
+  "advisories": []
+}

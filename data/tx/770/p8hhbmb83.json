@@ -1,0 +1,33 @@
+{
+  "id": "p8hhbmb83",
+  "url": "https://constellation.church/p8hhbmb83",
+  "name": "Church of the Redeemer",
+  "displayName": "Church of the Redeemer",
+  "address": {
+    "street": "5700 Lawndale",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77023-1898"
+  },
+  "coordinates": {
+    "latitude": 29.739727020263672,
+    "longitude": -95.33418273925781
+  },
+  "website": "https://redeemerhouston.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-texas/list/church-redeemer",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-texas/church-redeemer"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerhouston.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760437180"
+    }
+  ],
+  "advisories": []
+}

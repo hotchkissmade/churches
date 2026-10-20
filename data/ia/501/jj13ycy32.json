@@ -1,0 +1,33 @@
+{
+  "id": "jj13ycy32",
+  "url": "https://constellation.church/jj13ycy32",
+  "name": "Bethany Lutheran Church",
+  "displayName": "Bethany Lutheran Church",
+  "address": {
+    "street": "2712 Washington Ave",
+    "city": "Iowa Falls",
+    "state": "IA",
+    "zip": "50126-1554"
+  },
+  "coordinates": {
+    "latitude": 42.51981735229492,
+    "longitude": -93.29302978515625
+  },
+  "website": "https://bethanyiowafalls.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4ea78e37-3951-4400-8007-345bd80f31dd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4ea78e37-3951-4400-8007-345bd80f31dd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanyiowafalls.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421208955"
+    }
+  ],
+  "advisories": []
+}

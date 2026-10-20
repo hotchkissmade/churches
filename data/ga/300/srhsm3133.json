@@ -1,0 +1,33 @@
+{
+  "id": "srhsm3133",
+  "url": "https://constellation.church/srhsm3133",
+  "name": "Eastminster Presbyterian Church",
+  "displayName": "Eastminster Presbyterian Church",
+  "address": {
+    "street": "5801 Hugh Howell Rd",
+    "city": "Stone Mountain",
+    "state": "GA",
+    "zip": "30087-2304"
+  },
+  "coordinates": {
+    "latitude": 33.83321952819824,
+    "longitude": -84.15887451171875
+  },
+  "website": "https://eastminster.us",
+  "listingUrl": "https://church-trends.pcusa.org/church/22170/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "22170"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastminster.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581097787"
+    }
+  ],
+  "advisories": []
+}

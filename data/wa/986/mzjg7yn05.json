@@ -1,0 +1,33 @@
+{
+  "id": "mzjg7yn05",
+  "url": "https://constellation.church/mzjg7yn05",
+  "name": "Gathering Church of Vancouver",
+  "displayName": "Gathering Church of Vancouver",
+  "address": {
+    "street": "2500 NE 78th St",
+    "city": "Vancouver",
+    "state": "WA",
+    "zip": "98665"
+  },
+  "coordinates": {
+    "latitude": 45.67923927307129,
+    "longitude": -122.64544677734375
+  },
+  "website": "https://gatheringchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/gathering-church-of-vancouver/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "gathering-church-of-vancouver"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gatheringchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911366304"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ke0djd853",
+  "url": "https://constellation.church/ke0djd853",
+  "name": "Emmanuel Lutheran Church",
+  "displayName": "Emmanuel Lutheran Church",
+  "address": {
+    "street": "115 2nd St",
+    "city": "Lake View",
+    "state": "IA",
+    "zip": "51450"
+  },
+  "coordinates": {
+    "latitude": 42.30480766296387,
+    "longitude": -95.05441284179688
+  },
+  "website": "https://lakeviewemmanuel.com",
+  "listingUrl": "https://idwlcms.org/congregation.php?id=100",
+  "identifiers": [
+    {
+      "namespace": "org.idwlcms.id",
+      "value": "100"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lakeviewemmanuel.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426140345"
+    },
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "490133"
+    }
+  ],
+  "advisories": []
+}

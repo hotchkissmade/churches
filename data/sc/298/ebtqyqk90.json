@@ -1,0 +1,33 @@
+{
+  "id": "ebtqyqk90",
+  "url": "https://constellation.church/ebtqyqk90",
+  "name": "Matlock Baptist Church",
+  "displayName": "Matlock Baptist Church",
+  "address": {
+    "street": "980 Main St",
+    "city": "Jackson",
+    "state": "SC",
+    "zip": "29831"
+  },
+  "coordinates": {
+    "latitude": 33.340898513793945,
+    "longitude": -81.81850814819336
+  },
+  "website": "https://matlockbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/matlock-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "matlock-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "matlockbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570711705"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qyjc1mv42",
+  "url": "https://constellation.church/qyjc1mv42",
+  "name": "Hillside Church of Marin",
+  "displayName": "Hillside Church of Marin",
+  "address": {
+    "street": "5461 Paradise Dr",
+    "city": "Corte Madera",
+    "state": "CA",
+    "zip": "94925"
+  },
+  "coordinates": {
+    "latitude": 37.91893005371094,
+    "longitude": -122.50088500976562
+  },
+  "website": "https://hillsidemarin.org",
+  "listingUrl": "https://churches.sbc.net/church/hillside-church-of-marin/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hillside-church-of-marin"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hillsidemarin.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941644619"
+    }
+  ],
+  "advisories": []
+}

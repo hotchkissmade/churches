@@ -1,0 +1,33 @@
+{
+  "id": "bfdf6qs09",
+  "url": "https://constellation.church/bfdf6qs09",
+  "name": "GracePoint Church",
+  "displayName": "GracePoint Church",
+  "address": {
+    "street": "95-1080 Ukuwai St",
+    "city": "Mililani",
+    "state": "HI",
+    "zip": "96789"
+  },
+  "coordinates": {
+    "latitude": 21.469511032104492,
+    "longitude": -158.00430297851562
+  },
+  "website": "https://gracepointhawaii.org",
+  "listingUrl": "https://churches.sbc.net/church/gracepoint-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "gracepoint-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracepointhawaii.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "990341849"
+    }
+  ],
+  "advisories": []
+}

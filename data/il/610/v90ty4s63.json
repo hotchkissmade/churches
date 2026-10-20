@@ -1,0 +1,33 @@
+{
+  "id": "v90ty4s63",
+  "url": "https://constellation.church/v90ty4s63",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "717 Stover Ave",
+    "city": "Milledgeville",
+    "state": "IL",
+    "zip": "61051-9276"
+  },
+  "coordinates": {
+    "latitude": 41.96607971191406,
+    "longitude": -89.77965545654297
+  },
+  "website": "https://trinitymville.com/worship",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=27c44fca-3e05-4a7f-a6f5-6c4d21b447da",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "27c44fca-3e05-4a7f-a6f5-6c4d21b447da"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitymville.com/worship"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363277832"
+    }
+  ],
+  "advisories": []
+}

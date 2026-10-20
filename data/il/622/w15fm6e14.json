@@ -1,0 +1,33 @@
+{
+  "id": "w15fm6e14",
+  "url": "https://constellation.church/w15fm6e14",
+  "name": "First Baptist Church of Chester",
+  "displayName": "First Baptist Church of Chester",
+  "address": {
+    "street": "719 State St",
+    "city": "Chester",
+    "state": "IL",
+    "zip": "62233"
+  },
+  "coordinates": {
+    "latitude": 37.9059944152832,
+    "longitude": -89.82686614990234
+  },
+  "website": "https://chesterfbc.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-chester/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-chester"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chesterfbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371131126"
+    }
+  ],
+  "advisories": []
+}

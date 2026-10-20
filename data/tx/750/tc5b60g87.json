@@ -1,0 +1,33 @@
+{
+  "id": "tc5b60g87",
+  "url": "https://constellation.church/tc5b60g87",
+  "name": "Christ the Servant Lutheran Church",
+  "displayName": "Christ the Servant Lutheran Church",
+  "address": {
+    "street": "821 S Greenville Ave",
+    "city": "Allen",
+    "state": "TX",
+    "zip": "75002-3312"
+  },
+  "coordinates": {
+    "latitude": 33.08493614196777,
+    "longitude": -96.67234802246094
+  },
+  "website": "https://christtheservant.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b18c23f2-716e-49b9-8a13-d7a6cdfac565",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b18c23f2-716e-49b9-8a13-d7a6cdfac565"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christtheservant.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742232245"
+    }
+  ],
+  "advisories": []
+}

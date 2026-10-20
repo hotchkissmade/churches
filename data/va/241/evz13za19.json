@@ -1,0 +1,33 @@
+{
+  "id": "evz13za19",
+  "url": "https://constellation.church/evz13za19",
+  "name": "Castle Rock Baptist Church",
+  "displayName": "Castle Rock Baptist Church",
+  "address": {
+    "street": "201 Castle Rock Dr",
+    "city": "Pembroke",
+    "state": "VA",
+    "zip": "24136"
+  },
+  "coordinates": {
+    "latitude": 37.31851005554199,
+    "longitude": -80.63296890258789
+  },
+  "website": "https://castlerockbaptistchurchva.com",
+  "listingUrl": "https://churches.sbc.net/church/castle-rock-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "castle-rock-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "castlerockbaptistchurchva.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541615132"
+    }
+  ],
+  "advisories": []
+}

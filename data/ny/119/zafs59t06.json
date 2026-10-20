@@ -1,0 +1,33 @@
+{
+  "id": "zafs59t06",
+  "url": "https://constellation.church/zafs59t06",
+  "name": "Church of St. John the Baptist",
+  "displayName": "Church of St. John the Baptist",
+  "address": {
+    "street": "33 Railroad Ave",
+    "city": "Center Moriches",
+    "state": "NY",
+    "zip": "11934"
+  },
+  "coordinates": {
+    "latitude": 40.80135917663574,
+    "longitude": -72.78967666625977
+  },
+  "website": "https://stjohnscentermoriches.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/church-st-john-baptist",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/church-st-john-baptist"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnscentermoriches.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "113025860"
+    }
+  ],
+  "advisories": []
+}

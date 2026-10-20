@@ -1,0 +1,33 @@
+{
+  "id": "ctvbp2p08",
+  "url": "https://constellation.church/ctvbp2p08",
+  "name": "Shiloh Baptist Church",
+  "displayName": "Shiloh Baptist Church",
+  "address": {
+    "street": "6434 John Hagar Rd",
+    "city": "Mount Juliet",
+    "state": "TN",
+    "zip": "37122"
+  },
+  "coordinates": {
+    "latitude": 36.15630531311035,
+    "longitude": -86.66609954833984
+  },
+  "website": "https://myshilohbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/shiloh-baptist-church-40/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "shiloh-baptist-church-40"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "myshilohbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "833637532"
+    }
+  ],
+  "advisories": []
+}

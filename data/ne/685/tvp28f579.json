@@ -1,0 +1,33 @@
+{
+  "id": "tvp28f579",
+  "url": "https://constellation.church/tvp28f579",
+  "name": "St Andrew Lutheran Church",
+  "displayName": "St. Andrew Lutheran Church",
+  "address": {
+    "street": "1015 Lancaster Ln",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68505-2117"
+  },
+  "coordinates": {
+    "latitude": 40.82260322570801,
+    "longitude": -96.6185073852539
+  },
+  "website": "https://standrewslutheran.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2daca4d0-0601-41d6-8268-b623b37af521",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2daca4d0-0601-41d6-8268-b623b37af521"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewslutheran.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470528937"
+    }
+  ],
+  "advisories": []
+}

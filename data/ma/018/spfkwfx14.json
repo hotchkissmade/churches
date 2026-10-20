@@ -1,0 +1,33 @@
+{
+  "id": "spfkwfx14",
+  "url": "https://constellation.church/spfkwfx14",
+  "name": "Lutheran Church of the Redeemer",
+  "displayName": "Lutheran Church of the Redeemer",
+  "address": {
+    "street": "60 Forest Park Rd",
+    "city": "Woburn",
+    "state": "MA",
+    "zip": "01801-2439"
+  },
+  "coordinates": {
+    "latitude": 42.501548767089844,
+    "longitude": -71.15024948120117
+  },
+  "website": "https://redeemerwoburn.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5dc6a52d-dfef-41a7-b9db-2c8adb314589",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5dc6a52d-dfef-41a7-b9db-2c8adb314589"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerwoburn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222508452"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c2ctz7527",
+  "url": "https://constellation.church/c2ctz7527",
+  "name": "First Baptist Church of Aberdeen",
+  "displayName": "First Baptist Church of Aberdeen",
+  "address": {
+    "street": "219 E Bel Air Ave",
+    "city": "Aberdeen",
+    "state": "MD",
+    "zip": "21001"
+  },
+  "coordinates": {
+    "latitude": 39.50400352478027,
+    "longitude": -76.1524543762207
+  },
+  "website": "https://aberdeenfirstbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-aberdeen/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-aberdeen"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "aberdeenfirstbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520939529"
+    }
+  ],
+  "advisories": []
+}

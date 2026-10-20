@@ -1,0 +1,33 @@
+{
+  "id": "mytxap708",
+  "url": "https://constellation.church/mytxap708",
+  "name": "First United Methodist Church",
+  "displayName": "First United Methodist Church",
+  "address": {
+    "street": "1225 Boca Chica Blvd",
+    "city": "Brownsville",
+    "state": "TX",
+    "zip": "78520"
+  },
+  "coordinates": {
+    "latitude": 25.926071166992188,
+    "longitude": -97.50286865234375
+  },
+  "website": "https://fumcbrownsville.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFLD3IAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFLD3IAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fumcbrownsville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741664331"
+    }
+  ],
+  "advisories": []
+}

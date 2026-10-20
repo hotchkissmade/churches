@@ -1,0 +1,33 @@
+{
+  "id": "fq5d6hg09",
+  "url": "https://constellation.church/fq5d6hg09",
+  "name": "Gateway Church",
+  "displayName": "Gateway Church",
+  "address": {
+    "street": "13300 NE San Rafael St.",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97230"
+  },
+  "coordinates": {
+    "latitude": 45.53667449951172,
+    "longitude": -122.52604675292969
+  },
+  "website": "https://gatewaychurchpdx.com",
+  "listingUrl": "https://venturechurches.org/churches/gateway-church/",
+  "identifiers": [
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "gateway-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gatewaychurchpdx.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930519075"
+    }
+  ],
+  "advisories": []
+}

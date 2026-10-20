@@ -1,0 +1,33 @@
+{
+  "id": "ckcmqna33",
+  "url": "https://constellation.church/ckcmqna33",
+  "name": "Friendship Lutheran Church",
+  "displayName": "Friendship Lutheran Church",
+  "address": {
+    "street": "5300 Church Rd",
+    "city": "Taylorsville",
+    "state": "NC",
+    "zip": "28681-8200"
+  },
+  "coordinates": {
+    "latitude": 35.8516960144043,
+    "longitude": -81.22526168823242
+  },
+  "website": "https://friendshiptaylorsville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=89d6df1c-22f3-4a26-bc84-32de0ec274be",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "89d6df1c-22f3-4a26-bc84-32de0ec274be"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "friendshiptaylorsville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560808883"
+    }
+  ],
+  "advisories": []
+}

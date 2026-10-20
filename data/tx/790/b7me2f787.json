@@ -1,0 +1,33 @@
+{
+  "id": "b7me2f787",
+  "url": "https://constellation.church/b7me2f787",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "2318 13th Ave",
+    "city": "Canyon",
+    "state": "TX",
+    "zip": "79015"
+  },
+  "coordinates": {
+    "latitude": 34.97031593322754,
+    "longitude": -101.91773223876953
+  },
+  "website": "https://canyonfirst.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=50eb6ca9-7951-4584-825c-ea03a304cf26&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "50eb6ca9-7951-4584-825c-ea03a304cf26"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "canyonfirst.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751744069"
+    }
+  ],
+  "advisories": []
+}

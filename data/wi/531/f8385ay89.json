@@ -1,0 +1,33 @@
+{
+  "id": "f8385ay89",
+  "url": "https://constellation.church/f8385ay89",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "700 N Bloomfield Rd",
+    "city": "Lake Geneva",
+    "state": "WI",
+    "zip": "53147-4761"
+  },
+  "coordinates": {
+    "latitude": 42.57448196411133,
+    "longitude": -88.41299057006836
+  },
+  "website": "https://immanuellg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c8473f75-67f5-41ea-a55e-975ccc65efcb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c8473f75-67f5-41ea-a55e-975ccc65efcb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "immanuellg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396198731"
+    }
+  ],
+  "advisories": []
+}

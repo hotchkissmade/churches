@@ -1,0 +1,33 @@
+{
+  "id": "cnpz39w44",
+  "url": "https://constellation.church/cnpz39w44",
+  "name": "Christ Church",
+  "displayName": "Christ Church",
+  "address": {
+    "street": "970 State St",
+    "city": "Schenectady",
+    "state": "NY",
+    "zip": "12307-1520"
+  },
+  "coordinates": {
+    "latitude": 42.80290985107422,
+    "longitude": -73.93030548095703
+  },
+  "website": "https://christchurchschenectady.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-albany/list/christ-church-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-albany/christ-church-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christchurchschenectady.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "141776620"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p5ps4vn63",
+  "url": "https://constellation.church/p5ps4vn63",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "307 Church St",
+    "city": "Luana",
+    "state": "IA",
+    "zip": "52156-8116"
+  },
+  "coordinates": {
+    "latitude": 43.0614155,
+    "longitude": -91.4544726
+  },
+  "website": "https://stjohn-luana.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bb1e8ca4-99d2-4a93-844e-bc3172f5e24b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bb1e8ca4-99d2-4a93-844e-bc3172f5e24b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohn-luana.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421087969"
+    }
+  ],
+  "advisories": []
+}

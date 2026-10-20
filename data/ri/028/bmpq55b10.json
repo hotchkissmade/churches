@@ -1,0 +1,33 @@
+{
+  "id": "bmpq55b10",
+  "url": "https://constellation.church/bmpq55b10",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "124 Division St",
+    "city": "East Greenwich",
+    "state": "RI",
+    "zip": "02818-3331"
+  },
+  "coordinates": {
+    "latitude": 41.663461685180664,
+    "longitude": -71.45479202270508
+  },
+  "website": "https://firstlutheraneg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6fe5b1a3-fb62-4472-a0da-9e996beb41de",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6fe5b1a3-fb62-4472-a0da-9e996beb41de"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheraneg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "050313585"
+    }
+  ],
+  "advisories": []
+}

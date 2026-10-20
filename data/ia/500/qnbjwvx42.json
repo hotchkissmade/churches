@@ -1,0 +1,37 @@
+{
+  "id": "qnbjwvx42",
+  "url": "https://constellation.church/qnbjwvx42",
+  "name": "Holy Trinity Lutheran Church",
+  "displayName": "Holy Trinity Lutheran Church",
+  "address": {
+    "street": "517 SW Des Moines St",
+    "city": "Ankeny",
+    "state": "IA",
+    "zip": "50023-2805"
+  },
+  "coordinates": {
+    "latitude": 41.726871490478516,
+    "longitude": -93.61166381835938
+  },
+  "website": "https://holytrinityankeny.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1b3d65ad-2987-431a-ba8e-767638aaa44e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1b3d65ad-2987-431a-ba8e-767638aaa44e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holytrinityankeny.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426063523"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426063532"
+    }
+  ],
+  "advisories": []
+}

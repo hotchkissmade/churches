@@ -1,0 +1,33 @@
+{
+  "id": "b9c56v015",
+  "url": "https://constellation.church/b9c56v015",
+  "name": "Eastside Baptist Church",
+  "displayName": "Eastside Baptist Church",
+  "address": {
+    "street": "1318 E Calhoun St",
+    "city": "Plant City",
+    "state": "FL",
+    "zip": "33563"
+  },
+  "coordinates": {
+    "latitude": 28.02263069152832,
+    "longitude": -82.11176300048828
+  },
+  "website": "https://eastsidebcpc.org",
+  "listingUrl": "https://churches.sbc.net/church/eastside-baptist-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "eastside-baptist-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastsidebcpc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591227099"
+    }
+  ],
+  "advisories": []
+}

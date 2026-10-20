@@ -1,0 +1,33 @@
+{
+  "id": "ryy7ddj55",
+  "url": "https://constellation.church/ryy7ddj55",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "10885 O'Neal Road",
+    "city": "Gulfport",
+    "state": "MS",
+    "zip": "39503"
+  },
+  "coordinates": {
+    "latitude": 30.471025466918945,
+    "longitude": -89.02552032470703
+  },
+  "website": "https://fpcgulfport.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/429",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "429"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcgulfport.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640317649"
+    }
+  ],
+  "advisories": []
+}

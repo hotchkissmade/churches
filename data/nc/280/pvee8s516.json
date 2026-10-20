@@ -1,0 +1,33 @@
+{
+  "id": "pvee8s516",
+  "url": "https://constellation.church/pvee8s516",
+  "name": "Lutheran Church Of The Redeemer",
+  "displayName": "Lutheran Church Of The Redeemer",
+  "address": {
+    "street": "1915 S New Hope Rd",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-8427"
+  },
+  "coordinates": {
+    "latitude": 35.24205017089844,
+    "longitude": -81.13155746459961
+  },
+  "website": "https://redeemergastonia.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2d5d7bfb-e240-4557-8c3a-83c0fb7a7302",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2d5d7bfb-e240-4557-8c3a-83c0fb7a7302"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemergastonia.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561050238"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gvks6wx11",
+  "url": "https://constellation.church/gvks6wx11",
+  "name": "Centennial Lutheran Church",
+  "displayName": "Centennial Lutheran Church",
+  "address": {
+    "street": "3558 S 24th St",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53221-1420"
+  },
+  "coordinates": {
+    "latitude": 42.97994041442871,
+    "longitude": -87.9442367553711
+  },
+  "website": "https://centennialwels.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24831",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24831"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centennialwels.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396026049"
+    }
+  ],
+  "advisories": []
+}

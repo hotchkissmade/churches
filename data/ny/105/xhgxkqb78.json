@@ -1,0 +1,33 @@
+{
+  "id": "xhgxkqb78",
+  "url": "https://constellation.church/xhgxkqb78",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "2103 Route 6",
+    "city": "Brewster",
+    "state": "NY",
+    "zip": "10509-2165"
+  },
+  "coordinates": {
+    "latitude": 41.41432189941406,
+    "longitude": -73.6531753540039
+  },
+  "website": "https://trinitybrewsterny.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=487cb11e-b6b8-47ff-b2b3-98a7b2cbe14f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "487cb11e-b6b8-47ff-b2b3-98a7b2cbe14f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitybrewsterny.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "133030241"
+    }
+  ],
+  "advisories": []
+}

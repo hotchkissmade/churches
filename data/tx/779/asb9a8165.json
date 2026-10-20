@@ -1,0 +1,33 @@
+{
+  "id": "asb9a8165",
+  "url": "https://constellation.church/asb9a8165",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "1545 E Fm 1961",
+    "city": "Goliad",
+    "state": "TX",
+    "zip": "77963-3414"
+  },
+  "coordinates": {
+    "latitude": 28.858057022094727,
+    "longitude": -97.34503173828125
+  },
+  "website": "https://stpetersander.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e3722119-6c2c-4ca7-b2c9-b05c4da0add9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e3722119-6c2c-4ca7-b2c9-b05c4da0add9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpetersander.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "746048830"
+    }
+  ],
+  "advisories": []
+}

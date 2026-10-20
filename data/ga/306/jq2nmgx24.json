@@ -1,0 +1,33 @@
+{
+  "id": "jq2nmgx24",
+  "url": "https://constellation.church/jq2nmgx24",
+  "name": "Morningside Baptist Church of Winder, Inc.",
+  "displayName": "Morningside Baptist Church of Winder",
+  "address": {
+    "street": "580 Miles Patrick Rd",
+    "city": "Winder",
+    "state": "GA",
+    "zip": "30680"
+  },
+  "coordinates": {
+    "latitude": 34.0226993560791,
+    "longitude": -83.73745727539062
+  },
+  "website": "https://mymorningside.org",
+  "listingUrl": "https://churches.sbc.net/church/morningside-baptist-church-of-winder-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "morningside-baptist-church-of-winder-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mymorningside.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581532428"
+    }
+  ],
+  "advisories": []
+}

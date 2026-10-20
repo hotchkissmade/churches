@@ -1,0 +1,33 @@
+{
+  "id": "ksqxja590",
+  "url": "https://constellation.church/ksqxja590",
+  "name": "The Hill Church, Liberty Hill",
+  "displayName": "The Hill Church, Liberty Hill",
+  "address": {
+    "street": "111 Holmes Rd",
+    "city": "Liberty Hill",
+    "state": "TX",
+    "zip": "78642"
+  },
+  "coordinates": {
+    "latitude": 30.653778076171875,
+    "longitude": -97.87175750732422
+  },
+  "website": "https://thehillchurch.church",
+  "listingUrl": "https://churches.sbc.net/church/the-hill-church-liberty-hill/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-hill-church-liberty-hill"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thehillchurch.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "301419145"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "efbdmgp90",
+  "url": "https://constellation.church/efbdmgp90",
+  "name": "Seacoast Chapel of the Assemblies of God",
+  "displayName": "Seacoast Chapel of the Assemblies of God",
+  "address": {
+    "street": "228 Buxton Rd",
+    "city": "Saco",
+    "state": "ME",
+    "zip": "04072"
+  },
+  "coordinates": {
+    "latitude": 43.545867919921875,
+    "longitude": -70.4881706237793
+  },
+  "website": "https://seacoastchapel.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f314fc24-e779-406a-a3ef-e72f5f8cb1bc&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f314fc24-e779-406a-a3ef-e72f5f8cb1bc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "seacoastchapel.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "010375870"
+    }
+  ],
+  "advisories": []
+}

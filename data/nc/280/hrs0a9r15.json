@@ -1,0 +1,33 @@
+{
+  "id": "hrs0a9r15",
+  "url": "https://constellation.church/hrs0a9r15",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "102 S Central Ave",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012-3821"
+  },
+  "coordinates": {
+    "latitude": 35.2375316,
+    "longitude": -81.0411717
+  },
+  "website": "https://fpc-belmont.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/20905/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "20905"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpc-belmont.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560597087"
+    }
+  ],
+  "advisories": []
+}

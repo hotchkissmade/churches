@@ -1,0 +1,33 @@
+{
+  "id": "yqpfazj14",
+  "url": "https://constellation.church/yqpfazj14",
+  "name": "Anchor Church",
+  "displayName": "Anchor Church",
+  "address": {
+    "street": "130 W Washington St Ste 2",
+    "city": "Marquette",
+    "state": "MI",
+    "zip": "49855-4352"
+  },
+  "coordinates": {
+    "latitude": 46.5436229,
+    "longitude": -87.3939861
+  },
+  "website": "https://anchorchurchmqt.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/27352",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "27352"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "anchorchurchmqt.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "993338694"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "h5kkaxg12",
+  "url": "https://constellation.church/h5kkaxg12",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "716 8th St",
+    "city": "Dawson",
+    "state": "MN",
+    "zip": "56232-2207"
+  },
+  "coordinates": {
+    "latitude": 44.9295539855957,
+    "longitude": -96.05769348144531
+  },
+  "website": "https://gracedawson.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0d48a822-1a9f-4316-ba80-98ee909281d2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0d48a822-1a9f-4316-ba80-98ee909281d2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracedawson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410846520"
+    }
+  ],
+  "advisories": []
+}

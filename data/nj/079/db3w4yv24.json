@@ -1,0 +1,33 @@
+{
+  "id": "db3w4yv24",
+  "url": "https://constellation.church/db3w4yv24",
+  "name": "Grace Church",
+  "displayName": "Grace Church",
+  "address": {
+    "street": "4 Madison Ave",
+    "city": "Madison",
+    "state": "NJ",
+    "zip": "07940-1433"
+  },
+  "coordinates": {
+    "latitude": 40.76065444946289,
+    "longitude": -74.42001342773438
+  },
+  "website": "https://gracemadison.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-newark/list/grace-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-newark/grace-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracemadison.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221487573"
+    }
+  ],
+  "advisories": []
+}

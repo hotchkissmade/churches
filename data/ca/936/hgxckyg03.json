@@ -1,0 +1,33 @@
+{
+  "id": "hgxckyg03",
+  "url": "https://constellation.church/hgxckyg03",
+  "name": "Pella Evangelical Lutheran Church",
+  "displayName": "Pella Evangelical Lutheran Church",
+  "address": {
+    "street": "1505 Evergreen St",
+    "city": "Selma",
+    "state": "CA",
+    "zip": "93662-3814"
+  },
+  "coordinates": {
+    "latitude": 36.56687355041504,
+    "longitude": -119.60591888427734
+  },
+  "website": "https://pellalutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2f82d283-9127-47fc-9c80-01b3a4c2908c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2f82d283-9127-47fc-9c80-01b3a4c2908c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pellalutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942559855"
+    }
+  ],
+  "advisories": []
+}

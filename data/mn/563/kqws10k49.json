@@ -1,0 +1,33 @@
+{
+  "id": "kqws10k49",
+  "url": "https://constellation.church/kqws10k49",
+  "name": "Glenwood Lutheran Church",
+  "displayName": "Glenwood Lutheran Church",
+  "address": {
+    "street": "206 Minnesota Ave E",
+    "city": "Glenwood",
+    "state": "MN",
+    "zip": "56334-1630"
+  },
+  "coordinates": {
+    "latitude": 45.65010643005371,
+    "longitude": -95.38634490966797
+  },
+  "website": "https://glenwoodlutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=db2a2602-c985-4eb6-acd1-72375810f7af",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "db2a2602-c985-4eb6-acd1-72375810f7af"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "glenwoodlutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410721663"
+    }
+  ],
+  "advisories": []
+}

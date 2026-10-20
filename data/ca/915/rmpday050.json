@@ -1,0 +1,29 @@
+{
+  "id": "rmpday050",
+  "url": "https://constellation.church/rmpday050",
+  "name": "SCRC",
+  "displayName": "Scrc",
+  "address": {
+    "street": "635 E MAGNOLIA BLVD APT E",
+    "city": "Burbank",
+    "state": "CA",
+    "zip": "91501"
+  },
+  "coordinates": {
+    "latitude": 33.799699783325195,
+    "longitude": -117.92019653320312
+  },
+  "website": "https://scrc.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237241858"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "scrc.org"
+    }
+  ],
+  "advisories": []
+}

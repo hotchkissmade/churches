@@ -1,0 +1,33 @@
+{
+  "id": "dytvza983",
+  "url": "https://constellation.church/dytvza983",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "315 W King St",
+    "city": "Martinsburg",
+    "state": "WV",
+    "zip": "25401"
+  },
+  "coordinates": {
+    "latitude": 39.45675086975098,
+    "longitude": -77.96718215942383
+  },
+  "website": "https://fbcmartinsburg.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-638/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-638"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcmartinsburg.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "550383666"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hx1d7ag41",
+  "url": "https://constellation.church/hx1d7ag41",
+  "name": "Pilgrim Mission Church",
+  "displayName": "Pilgrim Mission Church",
+  "address": {
+    "street": "80 Commerce Way",
+    "city": "Hackensack",
+    "state": "NJ",
+    "zip": "07601"
+  },
+  "coordinates": {
+    "latitude": 40.911027908325195,
+    "longitude": -74.03242874145508
+  },
+  "website": "https://njpmc.org",
+  "listingUrl": "https://eco-pres.org/churches/pilgrim-mission-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "pilgrim-mission-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "njpmc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "823871958"
+    }
+  ],
+  "advisories": []
+}

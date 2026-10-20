@@ -1,0 +1,33 @@
+{
+  "id": "h823yrp89",
+  "url": "https://constellation.church/h823yrp89",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "1001 S Rankin St",
+    "city": "Edmond",
+    "state": "OK",
+    "zip": "73034"
+  },
+  "coordinates": {
+    "latitude": 35.64373207092285,
+    "longitude": -97.47428131103516
+  },
+  "website": "https://fpcedmond.org",
+  "listingUrl": "https://eco-pres.org/churches/first-presbyterian-church-edmond/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "first-presbyterian-church-edmond"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcedmond.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "730581063"
+    }
+  ],
+  "advisories": []
+}

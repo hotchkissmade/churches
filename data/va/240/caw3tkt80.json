@@ -1,0 +1,33 @@
+{
+  "id": "caw3tkt80",
+  "url": "https://constellation.church/caw3tkt80",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "2306 Peters Creek Road",
+    "city": "Roanoke",
+    "state": "VA",
+    "zip": "24017"
+  },
+  "coordinates": {
+    "latitude": 37.312049865722656,
+    "longitude": -80.00844955444336
+  },
+  "website": "https://westpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1105",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1105"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540799385"
+    }
+  ],
+  "advisories": []
+}

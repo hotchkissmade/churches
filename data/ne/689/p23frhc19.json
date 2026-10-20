@@ -1,0 +1,37 @@
+{
+  "id": "p23frhc19",
+  "url": "https://constellation.church/p23frhc19",
+  "name": "The Well",
+  "displayName": "The Well",
+  "address": {
+    "street": "1814 W B St",
+    "city": "Hastings",
+    "state": "NE",
+    "zip": "68901"
+  },
+  "coordinates": {
+    "latitude": 40.58058547973633,
+    "longitude": -98.40754699707031
+  },
+  "website": "https://thewellhastings.com",
+  "listingUrl": "https://churches.sbc.net/church/the-well-9/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-well-9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thewellhastings.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "461236987"
+    },
+    {
+      "namespace": "org.converge.id",
+      "value": "38835"
+    }
+  ],
+  "advisories": []
+}

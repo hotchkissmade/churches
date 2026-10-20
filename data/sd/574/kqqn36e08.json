@@ -1,0 +1,33 @@
+{
+  "id": "kqqn36e08",
+  "url": "https://constellation.church/kqqn36e08",
+  "name": "Good Shepherd Lutheran Church",
+  "displayName": "Good Shepherd Lutheran Church",
+  "address": {
+    "street": "1429 N Dakota St",
+    "city": "Aberdeen",
+    "state": "SD",
+    "zip": "57401-2169"
+  },
+  "coordinates": {
+    "latitude": 45.48035430908203,
+    "longitude": -98.47499084472656
+  },
+  "website": "https://goodshepherdaberdeen.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dac3319a-39d9-4121-999f-0d8cd35a1fd4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dac3319a-39d9-4121-999f-0d8cd35a1fd4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherdaberdeen.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460316097"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "r3f0fft21",
+  "url": "https://constellation.church/r3f0fft21",
+  "name": "St. Andrew's Episcopal Church",
+  "displayName": "St. Andrew's Episcopal Church",
+  "address": {
+    "street": "1025 3 Mile Rd NE",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49505-3419"
+  },
+  "coordinates": {
+    "latitude": 43.0136661529541,
+    "longitude": -85.64266204833984
+  },
+  "website": "https://standrewsgr.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-western-michigan/list/st-andrews-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-western-michigan/st-andrews-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewsgr.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381715340"
+    }
+  ],
+  "advisories": []
+}

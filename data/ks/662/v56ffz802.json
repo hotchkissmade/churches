@@ -1,0 +1,33 @@
+{
+  "id": "v56ffz802",
+  "url": "https://constellation.church/v56ffz802",
+  "name": "United Methodist Church of the Resurrection",
+  "displayName": "United Methodist Church of the Resurrection",
+  "address": {
+    "street": "13720 Roe Blvd",
+    "city": "Leawood",
+    "state": "KS",
+    "zip": "66224-3588"
+  },
+  "coordinates": {
+    "latitude": 38.87995529174805,
+    "longitude": -94.64350891113281
+  },
+  "website": "https://resurrection.church",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFH18IAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFH18IAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "resurrection.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "481107898"
+    }
+  ],
+  "advisories": []
+}

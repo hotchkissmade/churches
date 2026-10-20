@@ -1,0 +1,33 @@
+{
+  "id": "vsk4mdm79",
+  "url": "https://constellation.church/vsk4mdm79",
+  "name": "St Stephen Lutheran Church",
+  "displayName": "St. Stephen Lutheran Church",
+  "address": {
+    "street": "2500 Soquel Ave",
+    "city": "Santa Cruz",
+    "state": "CA",
+    "zip": "95062-1405"
+  },
+  "coordinates": {
+    "latitude": 36.98410606384277,
+    "longitude": -121.99210357666016
+  },
+  "website": "https://ststephenslutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=035b4a6a-c854-49b4-9988-ef8deb0fe456",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "035b4a6a-c854-49b4-9988-ef8deb0fe456"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ststephenslutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942277951"
+    }
+  ],
+  "advisories": []
+}

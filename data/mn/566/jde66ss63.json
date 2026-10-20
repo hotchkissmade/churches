@@ -1,0 +1,33 @@
+{
+  "id": "jde66ss63",
+  "url": "https://constellation.church/jde66ss63",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "1015 4th St SE",
+    "city": "Bemidji",
+    "state": "MN",
+    "zip": "56601"
+  },
+  "coordinates": {
+    "latitude": 47.45802688598633,
+    "longitude": -94.85403442382812
+  },
+  "website": "https://bemidjiag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=4e2f3f22-1e21-4c53-8e4d-e4076ec92766&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "4e2f3f22-1e21-4c53-8e4d-e4076ec92766"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bemidjiag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411729161"
+    }
+  ],
+  "advisories": []
+}

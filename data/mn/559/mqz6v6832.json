@@ -1,0 +1,33 @@
+{
+  "id": "mqz6v6832",
+  "url": "https://constellation.church/mqz6v6832",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "414 Main St",
+    "city": "La Crescent",
+    "state": "MN",
+    "zip": "55947-1159"
+  },
+  "coordinates": {
+    "latitude": 43.829402923583984,
+    "longitude": -91.3069839477539
+  },
+  "website": "https://keepchristfirst.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24408",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24408"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "keepchristfirst.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411415861"
+    }
+  ],
+  "advisories": []
+}

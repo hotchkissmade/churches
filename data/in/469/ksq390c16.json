@@ -1,0 +1,33 @@
+{
+  "id": "ksq390c16",
+  "url": "https://constellation.church/ksq390c16",
+  "name": "Wabash Presbyterian Church",
+  "displayName": "Wabash Presbyterian Church",
+  "address": {
+    "street": "123 W Hill St",
+    "city": "Wabash",
+    "state": "IN",
+    "zip": "46992-3015"
+  },
+  "coordinates": {
+    "latitude": 40.7984733581543,
+    "longitude": -85.82286071777344
+  },
+  "website": "https://wabashpresbyterian.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/2199/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "2199"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wabashpresbyterian.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "350870107"
+    }
+  ],
+  "advisories": []
+}

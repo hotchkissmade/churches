@@ -1,0 +1,33 @@
+{
+  "id": "d68whkg51",
+  "url": "https://constellation.church/d68whkg51",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "501 Oak St",
+    "city": "Irwin",
+    "state": "PA",
+    "zip": "15642"
+  },
+  "coordinates": {
+    "latitude": 40.33077049255371,
+    "longitude": -79.70987319946289
+  },
+  "website": "https://irwinfirst.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=35e239f7-fdcc-406e-a958-5dc4ddcde97a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "35e239f7-fdcc-406e-a958-5dc4ddcde97a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "irwinfirst.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251146891"
+    }
+  ],
+  "advisories": []
+}

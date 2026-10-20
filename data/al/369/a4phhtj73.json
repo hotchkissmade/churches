@@ -1,0 +1,33 @@
+{
+  "id": "a4phhtj73",
+  "url": "https://constellation.church/a4phhtj73",
+  "name": "York",
+  "displayName": "York Baptist Church",
+  "address": {
+    "street": "314 N Broad St",
+    "city": "York",
+    "state": "AL",
+    "zip": "36925"
+  },
+  "coordinates": {
+    "latitude": 32.487714767456055,
+    "longitude": -88.29742431640625
+  },
+  "website": "https://yorkbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/york/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "york"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "yorkbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630397967"
+    }
+  ],
+  "advisories": []
+}

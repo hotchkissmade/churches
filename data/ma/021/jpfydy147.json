@@ -1,0 +1,33 @@
+{
+  "id": "jpfydy147",
+  "url": "https://constellation.church/jpfydy147",
+  "name": "Church at the Well",
+  "displayName": "Church at the Well",
+  "address": {
+    "street": "173 Border St",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02128"
+  },
+  "coordinates": {
+    "latitude": 42.37423515319824,
+    "longitude": -71.04010391235352
+  },
+  "website": "https://catwboston.com",
+  "listingUrl": "https://churches.sbc.net/church/church-at-the-well/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "church-at-the-well"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "catwboston.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "453085711"
+    }
+  ],
+  "advisories": []
+}

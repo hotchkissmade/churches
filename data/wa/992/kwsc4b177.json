@@ -1,0 +1,33 @@
+{
+  "id": "kwsc4b177",
+  "url": "https://constellation.church/kwsc4b177",
+  "name": "Crestline Baptist Church",
+  "displayName": "Crestline Baptist Church",
+  "address": {
+    "street": "2206 E 44th Ave",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99203"
+  },
+  "coordinates": {
+    "latitude": 47.613624572753906,
+    "longitude": -117.37821960449219
+  },
+  "website": "https://crestlinebaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/crestline-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "crestline-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "crestlinebaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911921863"
+    }
+  ],
+  "advisories": []
+}

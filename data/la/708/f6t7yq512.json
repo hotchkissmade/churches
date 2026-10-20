@@ -1,0 +1,33 @@
+{
+  "id": "f6t7yq512",
+  "url": "https://constellation.church/f6t7yq512",
+  "name": "New Life Church of Baton Rouge",
+  "displayName": "New Life Church of Baton Rouge",
+  "address": {
+    "street": "365 Staring Ln",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70810"
+  },
+  "coordinates": {
+    "latitude": 30.372276306152344,
+    "longitude": -91.12123107910156
+  },
+  "website": "https://nlcbr.org",
+  "listingUrl": "https://churches.sbc.net/church/new-life-church-of-baton-rouge/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-life-church-of-baton-rouge"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nlcbr.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720646330"
+    }
+  ],
+  "advisories": []
+}

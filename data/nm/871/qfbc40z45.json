@@ -1,0 +1,33 @@
+{
+  "id": "qfbc40z45",
+  "url": "https://constellation.church/qfbc40z45",
+  "name": "Eastern Hills Baptist Church",
+  "displayName": "Eastern Hills Baptist Church",
+  "address": {
+    "street": "3100 Morris St NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87111"
+  },
+  "coordinates": {
+    "latitude": 35.11865425109863,
+    "longitude": -106.5241470336914
+  },
+  "website": "https://ehbc.org",
+  "listingUrl": "https://churches.sbc.net/church/eastern-hills-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "eastern-hills-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ehbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850195268"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "v5d7t7e45",
+  "url": "https://constellation.church/v5d7t7e45",
+  "name": "Riverside Baptist Church",
+  "displayName": "Riverside Baptist Church",
+  "address": {
+    "street": "1249 S Suber Rd",
+    "city": "Greer",
+    "state": "SC",
+    "zip": "29650"
+  },
+  "coordinates": {
+    "latitude": 34.905155181884766,
+    "longitude": -82.25894927978516
+  },
+  "website": "https://rbcgreer.com",
+  "listingUrl": "https://churches.sbc.net/church/riverside-baptist-church-20/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "riverside-baptist-church-20"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rbcgreer.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570635857"
+    }
+  ],
+  "advisories": []
+}

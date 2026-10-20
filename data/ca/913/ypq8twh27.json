@@ -1,0 +1,33 @@
+{
+  "id": "ypq8twh27",
+  "url": "https://constellation.church/ypq8twh27",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "4963 Balboa Blvd",
+    "city": "Encino",
+    "state": "CA",
+    "zip": "91316-3437"
+  },
+  "coordinates": {
+    "latitude": 34.161211013793945,
+    "longitude": -118.50145721435547
+  },
+  "website": "https://bethelencino.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=84a153d1-b606-482c-9b6d-773947f25801",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "84a153d1-b606-482c-9b6d-773947f25801"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelencino.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951878821"
+    }
+  ],
+  "advisories": []
+}

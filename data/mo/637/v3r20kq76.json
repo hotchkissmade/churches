@@ -1,0 +1,33 @@
+{
+  "id": "v3r20kq76",
+  "url": "https://constellation.church/v3r20kq76",
+  "name": "First Baptist Church Delta",
+  "displayName": "First Baptist Church Delta",
+  "address": {
+    "street": "591 Liberty St",
+    "city": "Delta",
+    "state": "MO",
+    "zip": "63744"
+  },
+  "coordinates": {
+    "latitude": 37.204660415649414,
+    "longitude": -89.7357406616211
+  },
+  "website": "https://fbcdelta.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-delta/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-delta"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcdelta.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431305833"
+    }
+  ],
+  "advisories": []
+}

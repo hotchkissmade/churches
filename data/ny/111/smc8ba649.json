@@ -1,0 +1,33 @@
+{
+  "id": "smc8ba649",
+  "url": "https://constellation.church/smc8ba649",
+  "name": "church of the Redeemer",
+  "displayName": "church of the Redeemer",
+  "address": {
+    "street": "30-14 Crescent St",
+    "city": "Astoria",
+    "state": "NY",
+    "zip": "11102"
+  },
+  "coordinates": {
+    "latitude": 40.768028259277344,
+    "longitude": -73.92557525634766
+  },
+  "website": "https://redeemer-astoria.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/church-redeemer",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/church-redeemer"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemer-astoria.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112708045"
+    }
+  ],
+  "advisories": []
+}

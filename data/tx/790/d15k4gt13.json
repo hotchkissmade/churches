@@ -1,0 +1,33 @@
+{
+  "id": "d15k4gt13",
+  "url": "https://constellation.church/d15k4gt13",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "1300 N Interstate 27 Plainview",
+    "city": null,
+    "state": "TX",
+    "zip": "79072"
+  },
+  "coordinates": {
+    "latitude": 34.19431495666504,
+    "longitude": -101.74916076660156
+  },
+  "website": "https://plainviewfirst.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=9c42c833-ab71-4f4d-83e8-f1c47840cdae&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "9c42c833-ab71-4f4d-83e8-f1c47840cdae"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "plainviewfirst.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751845437"
+    }
+  ],
+  "advisories": []
+}

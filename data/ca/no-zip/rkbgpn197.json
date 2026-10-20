@@ -1,0 +1,33 @@
+{
+  "id": "rkbgpn197",
+  "url": "https://constellation.church/rkbgpn197",
+  "name": "Santa Barbara Friends Meeting",
+  "displayName": "Santa Barbara Friends Meeting",
+  "address": {
+    "street": "2012 Chapala Street",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 34.43023109436035,
+    "longitude": -119.7161865234375
+  },
+  "website": "https://sbfriends.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/santa-barbara-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "santa-barbara-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sbfriends.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "770148410"
+    }
+  ],
+  "advisories": []
+}

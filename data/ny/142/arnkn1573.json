@@ -1,0 +1,33 @@
+{
+  "id": "arnkn1573",
+  "url": "https://constellation.church/arnkn1573",
+  "name": "Parkside Lutheran Church",
+  "displayName": "Parkside Lutheran Church",
+  "address": {
+    "street": "2 Wallace Ave",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14214-1515"
+  },
+  "coordinates": {
+    "latitude": 42.94371032714844,
+    "longitude": -78.84728622436523
+  },
+  "website": "https://churchunleashedtv.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5cac1a76-3be5-4769-90ca-2bccc5a31bfa",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5cac1a76-3be5-4769-90ca-2bccc5a31bfa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchunleashedtv.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "883549537"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pm78t9y67",
+  "url": "https://constellation.church/pm78t9y67",
+  "name": "Elim Lutheran Church",
+  "displayName": "Elim Lutheran Church",
+  "address": {
+    "street": "1277 60th St",
+    "city": "Amery",
+    "state": "WI",
+    "zip": "54001-2544"
+  },
+  "coordinates": {
+    "latitude": 45.392677307128906,
+    "longitude": -92.28502655029297
+  },
+  "website": "https://elimlutheranchurchrange.org/about",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ad93970a-7fe8-4cc4-8bb7-9757f91381fb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ad93970a-7fe8-4cc4-8bb7-9757f91381fb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elimlutheranchurchrange.org/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391467862"
+    }
+  ],
+  "advisories": []
+}

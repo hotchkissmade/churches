@@ -1,0 +1,33 @@
+{
+  "id": "qbtx63829",
+  "url": "https://constellation.church/qbtx63829",
+  "name": "St. Elisabeth's church",
+  "displayName": "St. Elisabeth's church",
+  "address": {
+    "street": "6 Harvard Street",
+    "city": "Floral Park",
+    "state": "NY",
+    "zip": "11001"
+  },
+  "coordinates": {
+    "latitude": 40.72408103942871,
+    "longitude": -73.70131301879883
+  },
+  "website": "https://stelisabethsfloral.wixsite.com/st-elisabeth-fp",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-elisabeths-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-elisabeths-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stelisabethsfloral.wixsite.com/st-elisabeth-fp"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112076882"
+    }
+  ],
+  "advisories": []
+}

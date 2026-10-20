@@ -1,0 +1,33 @@
+{
+  "id": "nxbff6164",
+  "url": "https://constellation.church/nxbff6164",
+  "name": "Southside Baptist Church, Fulton",
+  "displayName": "Southside Baptist Church, Fulton",
+  "address": {
+    "street": "395 Country Meadows Ln",
+    "city": "Fulton",
+    "state": "MO",
+    "zip": "65251"
+  },
+  "coordinates": {
+    "latitude": 38.84747123718262,
+    "longitude": -91.97412872314453
+  },
+  "website": "https://sbcfulton.com",
+  "listingUrl": "https://churches.sbc.net/church/southside-baptist-church-fulton/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "southside-baptist-church-fulton"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sbcfulton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430912454"
+    }
+  ],
+  "advisories": []
+}

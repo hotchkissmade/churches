@@ -1,0 +1,37 @@
+{
+  "id": "kc8by8968",
+  "url": "https://constellation.church/kc8by8968",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "3223 University Ave",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50311"
+  },
+  "coordinates": {
+    "latitude": 41.60089302062988,
+    "longitude": -93.66108322143555
+  },
+  "website": "https://trinitydesmoines.org",
+  "listingUrl": "https://idwlcms.org/congregation.php?id=57",
+  "identifiers": [
+    {
+      "namespace": "org.idwlcms.id",
+      "value": "57"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitydesmoines.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420713634"
+    },
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "240169"
+    }
+  ],
+  "advisories": []
+}

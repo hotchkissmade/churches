@@ -1,0 +1,33 @@
+{
+  "id": "sb0jgaq84",
+  "url": "https://constellation.church/sb0jgaq84",
+  "name": "St. Elmo Presbyterian Church",
+  "displayName": "St. Elmo Presbyterian Church",
+  "address": {
+    "street": "4400 St. Elmo Avenue",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37409"
+  },
+  "coordinates": {
+    "latitude": 35.00163650512695,
+    "longitude": -85.3291130065918
+  },
+  "website": "https://stelmopres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/961",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "961"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stelmopres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620952792"
+    }
+  ],
+  "advisories": []
+}

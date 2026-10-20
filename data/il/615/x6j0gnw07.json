@@ -1,0 +1,33 @@
+{
+  "id": "x6j0gnw07",
+  "url": "https://constellation.church/x6j0gnw07",
+  "name": "St Mark's Lutheran Church",
+  "displayName": "St. Mark's Lutheran Church",
+  "address": {
+    "street": "200 S Main St",
+    "city": "Washington",
+    "state": "IL",
+    "zip": "61571-2559"
+  },
+  "coordinates": {
+    "latitude": 40.70187568664551,
+    "longitude": -89.40755462646484
+  },
+  "website": "https://stmarkswashington.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ac843081-fdd8-4fa0-8031-3a0ac80519ec",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ac843081-fdd8-4fa0-8031-3a0ac80519ec"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkswashington.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "376031796"
+    }
+  ],
+  "advisories": []
+}

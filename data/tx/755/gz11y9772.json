@@ -1,0 +1,33 @@
+{
+  "id": "gz11y9772",
+  "url": "https://constellation.church/gz11y9772",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "306 Baker Street",
+    "city": "Atlanta",
+    "state": "TX",
+    "zip": "75551"
+  },
+  "coordinates": {
+    "latitude": 33.11508750915527,
+    "longitude": -94.16141128540039
+  },
+  "website": "https://atlantafbc.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-286/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-286"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "atlantafbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "756001430"
+    }
+  ],
+  "advisories": []
+}

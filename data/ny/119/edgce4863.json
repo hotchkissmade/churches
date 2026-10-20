@@ -1,0 +1,37 @@
+{
+  "id": "edgce4863",
+  "url": "https://constellation.church/edgce4863",
+  "name": "Holy Trinity church",
+  "displayName": "Holy Trinity church",
+  "address": {
+    "street": "768 Main Street",
+    "city": "Greenport",
+    "state": "NY",
+    "zip": "11944"
+  },
+  "coordinates": {
+    "latitude": 41.10972023010254,
+    "longitude": -72.36342239379883
+  },
+  "website": "https://holytrinitygreenport.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/church-holy-trinity",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/church-holy-trinity"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holytrinitygreenport.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112225155"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112487162"
+    }
+  ],
+  "advisories": []
+}

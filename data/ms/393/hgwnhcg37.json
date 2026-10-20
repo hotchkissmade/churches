@@ -1,0 +1,33 @@
+{
+  "id": "hgwnhcg37",
+  "url": "https://constellation.church/hgwnhcg37",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "874 S. Columbus Avenue",
+    "city": "Louisville",
+    "state": "MS",
+    "zip": "39339"
+  },
+  "coordinates": {
+    "latitude": 33.122270584106445,
+    "longitude": -89.05284118652344
+  },
+  "website": "https://fpclouisville.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/428",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "428"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpclouisville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640393925"
+    }
+  ],
+  "advisories": []
+}

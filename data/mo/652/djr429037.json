@@ -1,0 +1,33 @@
+{
+  "id": "djr429037",
+  "url": "https://constellation.church/djr429037",
+  "name": "First Baptist Church Huntsville",
+  "displayName": "First Baptist Church Huntsville",
+  "address": {
+    "street": "301 S Main St",
+    "city": "Huntsville",
+    "state": "MO",
+    "zip": "65259"
+  },
+  "coordinates": {
+    "latitude": 39.43906021118164,
+    "longitude": -92.54352569580078
+  },
+  "website": "https://fbchuntsvillemo.info",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-huntsville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-huntsville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbchuntsvillemo.info"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431098648"
+    }
+  ],
+  "advisories": []
+}

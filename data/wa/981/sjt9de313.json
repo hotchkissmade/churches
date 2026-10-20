@@ -1,0 +1,33 @@
+{
+  "id": "sjt9de313",
+  "url": "https://constellation.church/sjt9de313",
+  "name": "Trinity, Seattle",
+  "displayName": "Trinity, Seattle",
+  "address": {
+    "street": "609 8th Ave",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98104-1997"
+  },
+  "coordinates": {
+    "latitude": 47.605167388916016,
+    "longitude": -122.3260726928711
+  },
+  "website": "https://trinityseattle.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-olympia/list/trinity-church-episcopal",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-olympia/trinity-church-episcopal"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityseattle.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910444510"
+    }
+  ],
+  "advisories": []
+}

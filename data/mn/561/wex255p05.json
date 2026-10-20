@@ -1,0 +1,33 @@
+{
+  "id": "wex255p05",
+  "url": "https://constellation.church/wex255p05",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "104 E Henderson St",
+    "city": "Hendricks",
+    "state": "MN",
+    "zip": "56136-9547"
+  },
+  "coordinates": {
+    "latitude": 44.50938606262207,
+    "longitude": -96.42393493652344
+  },
+  "website": "https://christlutheranhendricks.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=37ec5ea3-b795-4521-bc6d-0b386b98e4ba",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "37ec5ea3-b795-4521-bc6d-0b386b98e4ba"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christlutheranhendricks.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411641584"
+    }
+  ],
+  "advisories": []
+}

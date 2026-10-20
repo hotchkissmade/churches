@@ -1,0 +1,33 @@
+{
+  "id": "epg1pb586",
+  "url": "https://constellation.church/epg1pb586",
+  "name": "St. Anna's Episcopal Church",
+  "displayName": "St. Anna's Episcopal Church",
+  "address": {
+    "street": "301 E 13th St",
+    "city": "Antioch",
+    "state": "CA",
+    "zip": "94509"
+  },
+  "coordinates": {
+    "latitude": 38.009286880493164,
+    "longitude": -121.79911041259766
+  },
+  "website": "https://saintannas.org/our-history",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/california/list/st-annas-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "california/st-annas-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintannas.org/our-history"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510194871"
+    }
+  ],
+  "advisories": []
+}

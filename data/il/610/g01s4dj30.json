@@ -1,0 +1,33 @@
+{
+  "id": "g01s4dj30",
+  "url": "https://constellation.church/g01s4dj30",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "229 S 1st St",
+    "city": "Pearl City",
+    "state": "IL",
+    "zip": "61062"
+  },
+  "coordinates": {
+    "latitude": 42.264556884765625,
+    "longitude": -89.827392578125
+  },
+  "website": "https://stjohnspearlcity.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=88f8ca65-d8f9-45ed-a392-e96250b5407b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "88f8ca65-d8f9-45ed-a392-e96250b5407b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnspearlcity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366087477"
+    }
+  ],
+  "advisories": []
+}

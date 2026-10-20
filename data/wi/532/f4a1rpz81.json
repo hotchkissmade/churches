@@ -1,0 +1,37 @@
+{
+  "id": "f4a1rpz81",
+  "url": "https://constellation.church/f4a1rpz81",
+  "name": "St Matthew Lutheran Church",
+  "displayName": "St. Matthew Lutheran Church",
+  "address": {
+    "street": "8444 W Melvina St",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53222-2845"
+  },
+  "coordinates": {
+    "latitude": 43.08901596069336,
+    "longitude": -88.01874542236328
+  },
+  "website": "https://stmattstosa.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24813",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24813"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmattstosa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390824872"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390901174"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "esf6nnd55",
+  "url": "https://constellation.church/esf6nnd55",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "457 Jefferson St",
+    "city": "Greenfield",
+    "state": "OH",
+    "zip": "45123"
+  },
+  "coordinates": {
+    "latitude": 39.35099220275879,
+    "longitude": -83.38668823242188
+  },
+  "website": "https://greenfieldfpc.com",
+  "listingUrl": "https://eco-pres.org/churches/first-presbyterian-church-greenfield/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "first-presbyterian-church-greenfield"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "greenfieldfpc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310544270"
+    }
+  ],
+  "advisories": []
+}

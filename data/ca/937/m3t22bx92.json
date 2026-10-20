@@ -1,0 +1,33 @@
+{
+  "id": "m3t22bx92",
+  "url": "https://constellation.church/m3t22bx92",
+  "name": "NorthPointe Community Church",
+  "displayName": "NorthPointe Community Church",
+  "address": {
+    "street": "4625 W Palo Alto Ave",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93722"
+  },
+  "coordinates": {
+    "latitude": 36.83224296569824,
+    "longitude": -119.87559509277344
+  },
+  "website": "https://northpointe.org",
+  "listingUrl": "https://churches.sbc.net/church/northpointe-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northpointe-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northpointe.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "770178055"
+    }
+  ],
+  "advisories": []
+}

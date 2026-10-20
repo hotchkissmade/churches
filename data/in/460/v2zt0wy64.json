@@ -1,0 +1,33 @@
+{
+  "id": "v2zt0wy64",
+  "url": "https://constellation.church/v2zt0wy64",
+  "name": "Geist Community Church",
+  "displayName": "Geist Community Church",
+  "address": {
+    "street": "6697 W 900 N",
+    "city": "McCordsville",
+    "state": "IN",
+    "zip": "46055"
+  },
+  "coordinates": {
+    "latitude": 39.9121150970459,
+    "longitude": -85.93235778808594
+  },
+  "website": "https://geist.org",
+  "listingUrl": "https://churches.sbc.net/church/geist-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "geist-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "geist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351874543"
+    }
+  ],
+  "advisories": []
+}

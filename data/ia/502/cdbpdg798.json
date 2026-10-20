@@ -1,0 +1,33 @@
+{
+  "id": "cdbpdg798",
+  "url": "https://constellation.church/cdbpdg798",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "1115 Grand Ave",
+    "city": "West Des Moines",
+    "state": "IA",
+    "zip": "50265-3564"
+  },
+  "coordinates": {
+    "latitude": 41.58202934265137,
+    "longitude": -93.71856689453125
+  },
+  "website": "https://stmarkwdm.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0d4ff0f1-d224-432d-9100-395435a93168",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0d4ff0f1-d224-432d-9100-395435a93168"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkwdm.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426021233"
+    }
+  ],
+  "advisories": []
+}

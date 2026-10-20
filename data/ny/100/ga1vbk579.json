@@ -1,0 +1,33 @@
+{
+  "id": "ga1vbk579",
+  "url": "https://constellation.church/ga1vbk579",
+  "name": "St. Bartholomew's Church, Manhattan",
+  "displayName": "St. Bartholomew's Church, Manhattan",
+  "address": {
+    "street": "325 Park Avenue",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10022"
+  },
+  "coordinates": {
+    "latitude": 40.75728225708008,
+    "longitude": -73.97308731079102
+  },
+  "website": "https://stbarts.org/notes-and-news/happy-pride",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-new-york/list/st-bartholomews-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-new-york/st-bartholomews-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stbarts.org/notes-and-news/happy-pride"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "136049583"
+    }
+  ],
+  "advisories": []
+}

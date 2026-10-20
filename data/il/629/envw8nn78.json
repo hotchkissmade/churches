@@ -1,0 +1,33 @@
+{
+  "id": "envw8nn78",
+  "url": "https://constellation.church/envw8nn78",
+  "name": "Christ Church",
+  "displayName": "Christ Church",
+  "address": {
+    "street": "719 S Giant City Rd",
+    "city": "Carbondale",
+    "state": "IL",
+    "zip": "62902"
+  },
+  "coordinates": {
+    "latitude": 37.719125747680664,
+    "longitude": -89.18441009521484
+  },
+  "website": "https://christchurchcarbondale.org",
+  "listingUrl": "https://churches.sbc.net/church/christ-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "christ-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christchurchcarbondale.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "475271871"
+    }
+  ],
+  "advisories": []
+}

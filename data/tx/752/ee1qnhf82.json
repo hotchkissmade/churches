@@ -1,0 +1,33 @@
+{
+  "id": "ee1qnhf82",
+  "url": "https://constellation.church/ee1qnhf82",
+  "name": "Spring Valley United Methodist Church",
+  "displayName": "Spring Valley United Methodist Church",
+  "address": {
+    "street": "7700 Spring Valley",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75254"
+  },
+  "coordinates": {
+    "latitude": 32.93908500671387,
+    "longitude": -96.77275848388672
+  },
+  "website": "https://svumc.org/welcome-to-preschool",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMvUIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMvUIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "svumc.org/welcome-to-preschool"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900598529"
+    }
+  ],
+  "advisories": []
+}

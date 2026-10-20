@@ -1,0 +1,33 @@
+{
+  "id": "pcx9nng56",
+  "url": "https://constellation.church/pcx9nng56",
+  "name": "Doxa Church",
+  "displayName": "Doxa Church",
+  "address": {
+    "street": "2829 No Oaks Rdg",
+    "city": "Fitchburg",
+    "state": "WI",
+    "zip": "53711"
+  },
+  "coordinates": {
+    "latitude": 43.032142639160156,
+    "longitude": -89.38479614257812
+  },
+  "website": "https://doxamadison.com",
+  "listingUrl": "https://churches.sbc.net/church/doxa-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "doxa-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "doxamadison.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "822646739"
+    }
+  ],
+  "advisories": []
+}

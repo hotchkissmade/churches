@@ -1,0 +1,33 @@
+{
+  "id": "mm4ecfb64",
+  "url": "https://constellation.church/mm4ecfb64",
+  "name": "First United Methodist Church of Avalon",
+  "displayName": "First United Methodist Church of Avalon",
+  "address": {
+    "street": "3344 Dune Dr",
+    "city": "Avalon",
+    "state": "NJ",
+    "zip": "08202-1737"
+  },
+  "coordinates": {
+    "latitude": 39.0936336517334,
+    "longitude": -74.72504043579102
+  },
+  "website": "https://fumcavalon.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF8etIAD",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF8etIAD"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fumcavalon.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222481909"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "s8yje2687",
+  "url": "https://constellation.church/s8yje2687",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "109 Ponquogue Ave",
+    "city": "Hampton Bays",
+    "state": "NY",
+    "zip": "11946"
+  },
+  "coordinates": {
+    "latitude": 40.865379333496094,
+    "longitude": -72.5145034790039
+  },
+  "website": "https://hamptonbaysag.net",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f1cec6c8-9ee0-4e9f-b873-6683dba8da29&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f1cec6c8-9ee0-4e9f-b873-6683dba8da29"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hamptonbaysag.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "113234457"
+    }
+  ],
+  "advisories": []
+}

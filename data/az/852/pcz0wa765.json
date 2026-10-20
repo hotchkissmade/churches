@@ -1,0 +1,33 @@
+{
+  "id": "pcz0wa765",
+  "url": "https://constellation.church/pcz0wa765",
+  "name": "University Lutheran Church",
+  "displayName": "University Lutheran Church",
+  "address": {
+    "street": "340 E 15th St",
+    "city": "Tempe",
+    "state": "AZ",
+    "zip": "85281-6612"
+  },
+  "coordinates": {
+    "latitude": 33.4124591,
+    "longitude": -111.9310847
+  },
+  "website": "https://ulctempe.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5bfd4639-69cd-4290-85d3-8a37657ffa97",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5bfd4639-69cd-4290-85d3-8a37657ffa97"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ulctempe.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860325275"
+    }
+  ],
+  "advisories": []
+}

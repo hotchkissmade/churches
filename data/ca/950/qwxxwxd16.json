@@ -1,0 +1,37 @@
+{
+  "id": "qwxxwxd16",
+  "url": "https://constellation.church/qwxxwxd16",
+  "name": "Gilroy",
+  "displayName": "Iglesia ni Cristo — Gilroy",
+  "address": {
+    "street": "651 Broadway",
+    "city": "Gilroy",
+    "state": "CA",
+    "zip": "95020"
+  },
+  "coordinates": {
+    "latitude": 37.01457405090332,
+    "longitude": -121.58193969726562
+  },
+  "website": "https://saintstephensgilroy.org",
+  "listingUrl": "https://iglesianicristo.net/directory/locales/gilroy-watsonville",
+  "identifiers": [
+    {
+      "namespace": "net.iglesianicristo.id",
+      "value": "47839"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintstephensgilroy.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "946085349"
+    },
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-el-camino-real/st-stephens-episcopal-church"
+    }
+  ],
+  "advisories": []
+}

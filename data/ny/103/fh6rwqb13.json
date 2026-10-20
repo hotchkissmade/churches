@@ -1,0 +1,33 @@
+{
+  "id": "fh6rwqb13",
+  "url": "https://constellation.church/fh6rwqb13",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "505 Watchogue Rd",
+    "city": "Staten Island",
+    "state": "NY",
+    "zip": "10314-1903"
+  },
+  "coordinates": {
+    "latitude": 40.61730766296387,
+    "longitude": -74.1458854675293
+  },
+  "website": "https://zion505.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=481971e3-87f9-4d8a-b0ae-c25cbe76bc3c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "481971e3-87f9-4d8a-b0ae-c25cbe76bc3c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zion505.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "133240953"
+    }
+  ],
+  "advisories": []
+}

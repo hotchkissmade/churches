@@ -1,0 +1,33 @@
+{
+  "id": "kb0fe0123",
+  "url": "https://constellation.church/kb0fe0123",
+  "name": "Lakeview Baptist Church",
+  "displayName": "Lakeview Baptist Church",
+  "address": {
+    "street": "202 Lakeview Blvd",
+    "city": "Hartsville",
+    "state": "SC",
+    "zip": "29550"
+  },
+  "coordinates": {
+    "latitude": 34.38981628417969,
+    "longitude": -80.07970428466797
+  },
+  "website": "https://lakeviewfamily.com",
+  "listingUrl": "https://churches.sbc.net/church/lakeview-baptist-church-9/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lakeview-baptist-church-9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lakeviewfamily.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570511137"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wnhb4x128",
+  "url": "https://constellation.church/wnhb4x128",
+  "name": "Southern Calvert Baptist Church",
+  "displayName": "Southern Calvert Baptist Church",
+  "address": {
+    "street": "12140 HG Trueman Rd",
+    "city": "Lusby",
+    "state": "MD",
+    "zip": "20657"
+  },
+  "coordinates": {
+    "latitude": 38.3648796081543,
+    "longitude": -76.4481315612793
+  },
+  "website": "https://scbcmd.com",
+  "listingUrl": "https://churches.sbc.net/church/southern-calvert-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "southern-calvert-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "scbcmd.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521253943"
+    }
+  ],
+  "advisories": []
+}

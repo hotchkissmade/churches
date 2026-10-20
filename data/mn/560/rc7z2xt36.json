@@ -1,0 +1,33 @@
+{
+  "id": "rc7z2xt36",
+  "url": "https://constellation.church/rc7z2xt36",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "315 9th St S",
+    "city": "Saint James",
+    "state": "MN",
+    "zip": "56081-2125"
+  },
+  "coordinates": {
+    "latitude": 43.981402,
+    "longitude": -94.6231104
+  },
+  "website": "https://stpaulsstjames.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24379",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24379"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsstjames.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416006541"
+    }
+  ],
+  "advisories": []
+}

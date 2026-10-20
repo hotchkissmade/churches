@@ -1,0 +1,33 @@
+{
+  "id": "rwjkv5c07",
+  "url": "https://constellation.church/rwjkv5c07",
+  "name": "Parkview Baptist",
+  "displayName": "Parkview Baptist Church",
+  "address": {
+    "street": "1404 Highway 72 E",
+    "city": "Tuscumbia",
+    "state": "AL",
+    "zip": "35674"
+  },
+  "coordinates": {
+    "latitude": 34.714019775390625,
+    "longitude": -87.67983627319336
+  },
+  "website": "https://parkviewfamily.org",
+  "listingUrl": "https://churches.sbc.net/church/parkview-baptist/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "parkview-baptist"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parkviewfamily.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "631057582"
+    }
+  ],
+  "advisories": []
+}

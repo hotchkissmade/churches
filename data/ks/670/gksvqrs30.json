@@ -1,0 +1,33 @@
+{
+  "id": "gksvqrs30",
+  "url": "https://constellation.church/gksvqrs30",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "107 S Maple St",
+    "city": "Douglass",
+    "state": "KS",
+    "zip": "67039"
+  },
+  "coordinates": {
+    "latitude": 37.519269943237305,
+    "longitude": -97.0180435180664
+  },
+  "website": "https://fbcdouglass.net",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-614/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-614"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcdouglass.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480926046"
+    }
+  ],
+  "advisories": []
+}

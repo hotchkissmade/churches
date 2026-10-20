@@ -1,0 +1,33 @@
+{
+  "id": "z6xhf3078",
+  "url": "https://constellation.church/z6xhf3078",
+  "name": "Lakewood Presbyterian Church",
+  "displayName": "Lakewood Presbyterian Church",
+  "address": {
+    "street": "4970 Stemley Bridge Road",
+    "city": "Pell City",
+    "state": "AL",
+    "zip": "35128"
+  },
+  "coordinates": {
+    "latitude": 33.528425216674805,
+    "longitude": -86.25640487670898
+  },
+  "website": "https://lakewoodpca.net",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1520",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1520"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lakewoodpca.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "631101161"
+    }
+  ],
+  "advisories": []
+}

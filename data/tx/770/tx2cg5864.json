@@ -1,0 +1,33 @@
+{
+  "id": "tx2cg5864",
+  "url": "https://constellation.church/tx2cg5864",
+  "name": "Pneuma Church",
+  "displayName": "Pneuma Church",
+  "address": {
+    "street": "3402 Runnels St",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77003"
+  },
+  "coordinates": {
+    "latitude": 29.753562927246094,
+    "longitude": -95.3365707397461
+  },
+  "website": "https://mypneumachurch.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=1376900c-5235-4bba-9d21-22f0cf71bc98&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "1376900c-5235-4bba-9d21-22f0cf71bc98"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mypneumachurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "770513201"
+    }
+  ],
+  "advisories": []
+}

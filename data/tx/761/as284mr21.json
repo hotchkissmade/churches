@@ -1,0 +1,33 @@
+{
+  "id": "as284mr21",
+  "url": "https://constellation.church/as284mr21",
+  "name": "St. Anne's Church",
+  "displayName": "St. Anne's Church",
+  "address": {
+    "street": "6055 Azle Avenue",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76135"
+  },
+  "coordinates": {
+    "latitude": 32.814279556274414,
+    "longitude": -97.41754150390625
+  },
+  "website": "https://stannesfw.org/home-1",
+  "listingUrl": "https://www.acna.org/admin_units/386",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "386"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stannesfw.org/home-1"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "756040470"
+    }
+  ],
+  "advisories": []
+}

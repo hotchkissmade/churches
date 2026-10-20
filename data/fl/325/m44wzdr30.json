@@ -1,0 +1,33 @@
+{
+  "id": "m44wzdr30",
+  "url": "https://constellation.church/m44wzdr30",
+  "name": "Central Baptist Church of Crestview",
+  "displayName": "Central Baptist Church of Crestview",
+  "address": {
+    "street": "951 S Ferdon Blvd",
+    "city": "Crestview",
+    "state": "FL",
+    "zip": "32536"
+  },
+  "coordinates": {
+    "latitude": 30.75078582763672,
+    "longitude": -86.56278228759766
+  },
+  "website": "https://reachcrestview.org",
+  "listingUrl": "https://churches.sbc.net/church/central-baptist-church-of-crestview/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "central-baptist-church-of-crestview"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "reachcrestview.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591397976"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qmw8x8551",
+  "url": "https://constellation.church/qmw8x8551",
+  "name": "United Methodist Church at Milltown",
+  "displayName": "United Methodist Church at Milltown",
+  "address": {
+    "street": "47 N Main St",
+    "city": "Milltown",
+    "state": "NJ",
+    "zip": "08850-1526"
+  },
+  "coordinates": {
+    "latitude": 40.45224189758301,
+    "longitude": -74.43901443481445
+  },
+  "website": "https://umcmilltown.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFNQdIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFNQdIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "umcmilltown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "226015336"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gbxv1p540",
+  "url": "https://constellation.church/gbxv1p540",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "408 9th St NW",
+    "city": "Mandan",
+    "state": "ND",
+    "zip": "58554-2735"
+  },
+  "coordinates": {
+    "latitude": 46.83534622192383,
+    "longitude": -100.89794921875
+  },
+  "website": "https://firstlutheranofmandan.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9b14cea9-db43-4801-b133-a37e73c284b7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9b14cea9-db43-4801-b133-a37e73c284b7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranofmandan.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450283441"
+    }
+  ],
+  "advisories": []
+}

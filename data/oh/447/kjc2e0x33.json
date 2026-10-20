@@ -1,0 +1,33 @@
+{
+  "id": "kjc2e0x33",
+  "url": "https://constellation.church/kjc2e0x33",
+  "name": "St. Paul's Church",
+  "displayName": "St. Paul's Church",
+  "address": {
+    "street": "425 Cleveland Ave SW",
+    "city": "Canton",
+    "state": "OH",
+    "zip": "44702-1625"
+  },
+  "coordinates": {
+    "latitude": 40.79640579223633,
+    "longitude": -81.37811660766602
+  },
+  "website": "https://stpaulscanton.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-ohio/list/st-pauls-church-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-ohio/st-pauls-church-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulscanton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340789753"
+    }
+  ],
+  "advisories": []
+}

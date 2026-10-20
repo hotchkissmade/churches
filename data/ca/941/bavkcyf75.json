@@ -1,0 +1,33 @@
+{
+  "id": "bavkcyf75",
+  "url": "https://constellation.church/bavkcyf75",
+  "name": "City Church of San Francisco",
+  "displayName": "City Church of San Francisco",
+  "address": {
+    "street": "2460 Sutter St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94115-3016"
+  },
+  "coordinates": {
+    "latitude": 37.785404205322266,
+    "longitude": -122.44091033935547
+  },
+  "website": "https://citychurchsf.org/q-a",
+  "listingUrl": "https://www.rca.org/churches/city-church-of-san-francisco/",
+  "identifiers": [
+    {
+      "namespace": "org.rca.id",
+      "value": "383323"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "citychurchsf.org/q-a"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "320256592"
+    }
+  ],
+  "advisories": []
+}

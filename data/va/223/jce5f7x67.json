@@ -1,0 +1,33 @@
+{
+  "id": "jce5f7x67",
+  "url": "https://constellation.church/jce5f7x67",
+  "name": "Grace Church",
+  "displayName": "Grace Church",
+  "address": {
+    "street": "3601 Russell Rd",
+    "city": "Alexandria",
+    "state": "VA",
+    "zip": "22305-1799"
+  },
+  "coordinates": {
+    "latitude": 38.837392807006836,
+    "longitude": -77.0648307800293
+  },
+  "website": "https://graceschoolalex.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-virginia/list/grace-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-virginia/grace-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceschoolalex.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540696099"
+    }
+  ],
+  "advisories": []
+}

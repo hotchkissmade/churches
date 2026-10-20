@@ -1,0 +1,33 @@
+{
+  "id": "b9ja6c647",
+  "url": "https://constellation.church/b9ja6c647",
+  "name": "Connection Pointe Church",
+  "displayName": "Connection Pointe Church",
+  "address": {
+    "street": "2528 Oates Dr",
+    "city": "Mesquite",
+    "state": "TX",
+    "zip": "75150"
+  },
+  "coordinates": {
+    "latitude": 32.83015251159668,
+    "longitude": -96.63801574707031
+  },
+  "website": "https://mychurch.info",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f5f55d55-326c-415b-97df-f561b0c8f693&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f5f55d55-326c-415b-97df-f561b0c8f693"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mychurch.info"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "756204940"
+    }
+  ],
+  "advisories": []
+}

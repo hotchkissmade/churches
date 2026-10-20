@@ -1,0 +1,33 @@
+{
+  "id": "svr094p04",
+  "url": "https://constellation.church/svr094p04",
+  "name": "Northside Presbyterian Church",
+  "displayName": "Northside Presbyterian Church",
+  "address": {
+    "street": "1400 Lake Washington Road",
+    "city": "Melbourne",
+    "state": "FL",
+    "zip": "32935"
+  },
+  "coordinates": {
+    "latitude": 28.147769927978516,
+    "longitude": -80.64399719238281
+  },
+  "website": "https://northsidepca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1466",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1466"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northsidepca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593162632"
+    }
+  ],
+  "advisories": []
+}

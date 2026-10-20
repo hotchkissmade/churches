@@ -1,0 +1,33 @@
+{
+  "id": "acs1jw843",
+  "url": "https://constellation.church/acs1jw843",
+  "name": "Green Point Baptist Church",
+  "displayName": "Green Point Baptist Church",
+  "address": {
+    "street": "1390 Rainbow Lake Rd",
+    "city": "Inman",
+    "state": "SC",
+    "zip": "29349"
+  },
+  "coordinates": {
+    "latitude": 35.08798027038574,
+    "longitude": -81.97885513305664
+  },
+  "website": "https://greenpointbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/green-point-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "green-point-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "greenpointbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570694786"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "t12620792",
+  "url": "https://constellation.church/t12620792",
+  "name": "Stoughton",
+  "displayName": "Stoughton United Methodist Church",
+  "address": {
+    "street": "525 N Lincoln Ave",
+    "city": "Stoughton",
+    "state": "WI",
+    "zip": "53589-1225"
+  },
+  "coordinates": {
+    "latitude": 42.92280197143555,
+    "longitude": -89.23263168334961
+  },
+  "website": "https://stoughtonumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFLyzIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFLyzIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stoughtonumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391213309"
+    }
+  ],
+  "advisories": []
+}

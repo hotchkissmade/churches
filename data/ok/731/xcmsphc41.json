@@ -1,0 +1,33 @@
+{
+  "id": "xcmsphc41",
+  "url": "https://constellation.church/xcmsphc41",
+  "name": "Bethesda Assembly of God",
+  "displayName": "Bethesda Assembly of God",
+  "address": {
+    "street": "3101 SW 89th St",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73159"
+  },
+  "coordinates": {
+    "latitude": 35.37811088562012,
+    "longitude": -97.56754302978516
+  },
+  "website": "https://okcbethesda.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=e32cbf1d-f832-4320-ab5e-071495d2694c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "e32cbf1d-f832-4320-ab5e-071495d2694c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "okcbethesda.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237015884"
+    }
+  ],
+  "advisories": []
+}

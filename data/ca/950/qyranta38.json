@@ -1,0 +1,33 @@
+{
+  "id": "qyranta38",
+  "url": "https://constellation.church/qyranta38",
+  "name": "St. Luke's Episcopal Church",
+  "displayName": "St. Luke's Episcopal Church",
+  "address": {
+    "street": "720 Monterey Street",
+    "city": "Hollister",
+    "state": "CA",
+    "zip": "95023-3821"
+  },
+  "coordinates": {
+    "latitude": 36.84919357299805,
+    "longitude": -121.40409851074219
+  },
+  "website": "https://stlukesh.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-el-camino-real/list/st-lukes-episcopal-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-el-camino-real/st-lukes-episcopal-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942604542"
+    }
+  ],
+  "advisories": []
+}

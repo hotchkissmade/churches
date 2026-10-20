@@ -1,0 +1,33 @@
+{
+  "id": "bbm5da478",
+  "url": "https://constellation.church/bbm5da478",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "107 S 7th St",
+    "city": "Laramie",
+    "state": "WY",
+    "zip": "82070-3242"
+  },
+  "coordinates": {
+    "latitude": 41.3122673034668,
+    "longitude": -105.58807373046875
+  },
+  "website": "https://telclaramie.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cef07dfb-e134-417d-ad21-20946c7fc4b6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cef07dfb-e134-417d-ad21-20946c7fc4b6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "telclaramie.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237015313"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "eby9mh060",
+  "url": "https://constellation.church/eby9mh060",
+  "name": "OneLife Church",
+  "displayName": "OneLife Church",
+  "address": {
+    "street": "3503 W Emory Rd Powell Place Shopping Center",
+    "city": "Powell",
+    "state": "TN",
+    "zip": "37849"
+  },
+  "coordinates": {
+    "latitude": 35.96492004394531,
+    "longitude": -84.09799575805664
+  },
+  "website": "https://onelifeknox.com",
+  "listingUrl": "https://churches.sbc.net/church/onelife-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "onelife-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "onelifeknox.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "263999162"
+    }
+  ],
+  "advisories": []
+}

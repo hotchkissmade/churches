@@ -1,0 +1,33 @@
+{
+  "id": "mmkza6672",
+  "url": "https://constellation.church/mmkza6672",
+  "name": "St. Columba’s Episcopal Church",
+  "displayName": "St. Columba’s Episcopal Church",
+  "address": {
+    "street": "32 Emery Ln",
+    "city": "Boothbay Harbor",
+    "state": "ME",
+    "zip": "04538-1965"
+  },
+  "coordinates": {
+    "latitude": 43.862266540527344,
+    "longitude": -69.63056564331055
+  },
+  "website": "https://stcolumbasmaine.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maine/list/st-columbas-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maine/st-columbas-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stcolumbasmaine.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "010468718"
+    }
+  ],
+  "advisories": []
+}

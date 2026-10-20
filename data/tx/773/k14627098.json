@@ -1,0 +1,33 @@
+{
+  "id": "k14627098",
+  "url": "https://constellation.church/k14627098",
+  "name": "Local Church of the Assemblies of God",
+  "displayName": "Local Church of the Assemblies of God",
+  "address": {
+    "street": "Ste 109 24922 Tomball Pkwy",
+    "city": "Tomball",
+    "state": "TX",
+    "zip": "77375"
+  },
+  "coordinates": {
+    "latitude": 30.045930862426758,
+    "longitude": -95.60991668701172
+  },
+  "website": "https://localchurch.tv",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=9c540445-5b4d-4269-9535-3b2a06bec797&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "9c540445-5b4d-4269-9535-3b2a06bec797"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "localchurch.tv"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741767942"
+    }
+  ],
+  "advisories": []
+}

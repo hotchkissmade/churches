@@ -1,0 +1,33 @@
+{
+  "id": "mj8eq1933",
+  "url": "https://constellation.church/mj8eq1933",
+  "name": "City Presbyterian Church",
+  "displayName": "City Presbyterian Church",
+  "address": {
+    "street": "829 NW 13th",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73106"
+  },
+  "coordinates": {
+    "latitude": 35.482553482055664,
+    "longitude": -97.52698516845703
+  },
+  "website": "https://citypresokc.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5602",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5602"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "citypresokc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "451655962"
+    }
+  ],
+  "advisories": []
+}

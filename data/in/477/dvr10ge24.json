@@ -1,0 +1,33 @@
+{
+  "id": "dvr10ge24",
+  "url": "https://constellation.church/dvr10ge24",
+  "name": "NorthWoods Church SBC",
+  "displayName": "NorthWoods Church SBC",
+  "address": {
+    "street": "9920 N. Green River Road",
+    "city": "Evansville",
+    "state": "IN",
+    "zip": "47725"
+  },
+  "coordinates": {
+    "latitude": 38.06846237182617,
+    "longitude": -87.49296569824219
+  },
+  "website": "https://northwoodschurch.org",
+  "listingUrl": "https://churches.sbc.net/church/northwoods-church-sbc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northwoods-church-sbc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northwoodschurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161686736"
+    }
+  ],
+  "advisories": []
+}

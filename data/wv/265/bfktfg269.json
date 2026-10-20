@@ -1,0 +1,33 @@
+{
+  "id": "bfktfg269",
+  "url": "https://constellation.church/bfktfg269",
+  "name": "The Foundry Church",
+  "displayName": "The Foundry Church",
+  "address": {
+    "street": "432 High St",
+    "city": "Morgantown",
+    "state": "WV",
+    "zip": "26505"
+  },
+  "coordinates": {
+    "latitude": 39.631242752075195,
+    "longitude": -79.9544792175293
+  },
+  "website": "https://thefoundrywv.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=7f5d52e0-32f9-4bf6-8214-0ee980d1fdfb&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "7f5d52e0-32f9-4bf6-8214-0ee980d1fdfb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thefoundrywv.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "471784163"
+    }
+  ],
+  "advisories": []
+}

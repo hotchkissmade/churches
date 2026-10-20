@@ -1,0 +1,33 @@
+{
+  "id": "mm09jt684",
+  "url": "https://constellation.church/mm09jt684",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "812 N 5th St",
+    "city": "Coeur D Alene",
+    "state": "ID",
+    "zip": "83814-3000"
+  },
+  "coordinates": {
+    "latitude": 47.67978286743164,
+    "longitude": -116.77920532226562
+  },
+  "website": "https://trinitylutherancda.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=433e2a27-b876-4116-87b0-3eb9964f3149",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "433e2a27-b876-4116-87b0-3eb9964f3149"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylutherancda.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820224198"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c67640x58",
+  "url": "https://constellation.church/c67640x58",
+  "name": "Monuments Baptist Church",
+  "displayName": "Monuments Baptist Church",
+  "address": {
+    "street": "2831 St Rt 222",
+    "city": "Bethel",
+    "state": "OH",
+    "zip": "45106"
+  },
+  "coordinates": {
+    "latitude": 38.974952697753906,
+    "longitude": -84.1616439819336
+  },
+  "website": "https://monumentsbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/monuments-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "monuments-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "monumentsbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "208637228"
+    }
+  ],
+  "advisories": []
+}

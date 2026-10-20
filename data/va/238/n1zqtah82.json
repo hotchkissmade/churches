@@ -1,0 +1,33 @@
+{
+  "id": "n1zqtah82",
+  "url": "https://constellation.church/n1zqtah82",
+  "name": "Chesterfield Community Church",
+  "displayName": "Chesterfield Community Church",
+  "address": {
+    "street": "7110 Woodpecker Road",
+    "city": "Chesterfield",
+    "state": "VA",
+    "zip": "23838"
+  },
+  "coordinates": {
+    "latitude": 37.29196357727051,
+    "longitude": -77.48974609375
+  },
+  "website": "https://ccc4jc.net",
+  "listingUrl": "https://churches.sbc.net/church/chesterfield-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "chesterfield-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ccc4jc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "753236900"
+    }
+  ],
+  "advisories": []
+}

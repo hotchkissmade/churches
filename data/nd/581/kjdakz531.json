@@ -1,0 +1,33 @@
+{
+  "id": "kjdakz531",
+  "url": "https://constellation.church/kjdakz531",
+  "name": "River City Church",
+  "displayName": "River City Church",
+  "address": {
+    "street": "323 Main Ave",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58103"
+  },
+  "coordinates": {
+    "latitude": 46.874481201171875,
+    "longitude": -96.78479766845703
+  },
+  "website": "https://rivercityfargo.org",
+  "listingUrl": "https://nabconference.org/directory/river-city-church/",
+  "identifiers": [
+    {
+      "namespace": "org.nabconference.id",
+      "value": "river-city-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rivercityfargo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "270599099"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "apraacq96",
+  "url": "https://constellation.church/apraacq96",
+  "name": "South Wedge Mission Start",
+  "displayName": "South Wedge Mission Start",
+  "address": {
+    "street": "125 Caroline St",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14620-2127"
+  },
+  "coordinates": {
+    "latitude": 43.1396178,
+    "longitude": -77.6024619
+  },
+  "website": "https://southwedgemission.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cbbffd88-8e50-455d-beec-1cbfc099e5fd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cbbffd88-8e50-455d-beec-1cbfc099e5fd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southwedgemission.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "461167830"
+    },
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "rochester/south-wedge-mission"
+    }
+  ],
+  "advisories": []
+}

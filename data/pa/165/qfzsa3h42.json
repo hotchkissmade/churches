@@ -1,0 +1,33 @@
+{
+  "id": "qfzsa3h42",
+  "url": "https://constellation.church/qfzsa3h42",
+  "name": "Wesley United Methodist Church",
+  "displayName": "Wesley United Methodist Church",
+  "address": {
+    "street": "3308 South St",
+    "city": "Erie",
+    "state": "PA",
+    "zip": "16510-1892"
+  },
+  "coordinates": {
+    "latitude": 42.139793395996094,
+    "longitude": -80.0139274597168
+  },
+  "website": "https://wesleyerie.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMNcIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMNcIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wesleyerie.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251041259"
+    }
+  ],
+  "advisories": []
+}

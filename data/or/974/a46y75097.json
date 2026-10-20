@@ -1,0 +1,33 @@
+{
+  "id": "a46y75097",
+  "url": "https://constellation.church/a46y75097",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "975 Drain Section Rd",
+    "city": "Drain",
+    "state": "OR",
+    "zip": "97435"
+  },
+  "coordinates": {
+    "latitude": 43.65713119506836,
+    "longitude": -123.33870697021484
+  },
+  "website": "https://drainag.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=6e17426e-3c1a-4c76-8f67-ebf9a9aa62e2&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "6e17426e-3c1a-4c76-8f67-ebf9a9aa62e2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "drainag.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "936094519"
+    }
+  ],
+  "advisories": []
+}

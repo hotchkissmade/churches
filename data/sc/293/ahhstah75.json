@@ -1,0 +1,33 @@
+{
+  "id": "ahhstah75",
+  "url": "https://constellation.church/ahhstah75",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "1009 S Broad St",
+    "city": "Clinton",
+    "state": "SC",
+    "zip": "29325-2805"
+  },
+  "coordinates": {
+    "latitude": 34.45452117919922,
+    "longitude": -81.88055801391602
+  },
+  "website": "https://saintjohnsclinton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f328b4d2-5bc1-41b6-a014-5e70f66fb2dc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f328b4d2-5bc1-41b6-a014-5e70f66fb2dc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintjohnsclinton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "582477818"
+    }
+  ],
+  "advisories": []
+}

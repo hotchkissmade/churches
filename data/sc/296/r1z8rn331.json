@@ -1,0 +1,33 @@
+{
+  "id": "r1z8rn331",
+  "url": "https://constellation.church/r1z8rn331",
+  "name": "Rocky Knoll Baptist Church",
+  "displayName": "Rocky Knoll Baptist Church",
+  "address": {
+    "street": "970 Highlands Hwy",
+    "city": "Walhalla",
+    "state": "SC",
+    "zip": "29691"
+  },
+  "coordinates": {
+    "latitude": 34.77411460876465,
+    "longitude": -83.09528350830078
+  },
+  "website": "https://rockyknoll.org",
+  "listingUrl": "https://churches.sbc.net/church/rocky-knoll-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "rocky-knoll-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rockyknoll.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570510601"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "syswmhd65",
+  "url": "https://constellation.church/syswmhd65",
+  "name": "Woodland Park Baptist Church",
+  "displayName": "Woodland Park Baptist Church",
+  "address": {
+    "street": "1909 J W Davis Dr",
+    "city": "Hammond",
+    "state": "LA",
+    "zip": "70403"
+  },
+  "coordinates": {
+    "latitude": 30.480249404907227,
+    "longitude": -90.46885299682617
+  },
+  "website": "https://woodlandparkonline.com",
+  "listingUrl": "https://churches.sbc.net/church/woodland-park-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "woodland-park-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "woodlandparkonline.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720685488"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "d07xphp33",
+  "url": "https://constellation.church/d07xphp33",
+  "name": "McFarland Lutheran Church",
+  "displayName": "McFarland Lutheran Church",
+  "address": {
+    "street": "5529 Marsh Rd",
+    "city": "McFarland",
+    "state": "WI",
+    "zip": "53558-9690"
+  },
+  "coordinates": {
+    "latitude": 43.0182256,
+    "longitude": -89.2862582
+  },
+  "website": "https://mcfarlandlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=57c38577-f456-4f84-a829-f84b2f404942",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "57c38577-f456-4f84-a829-f84b2f404942"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mcfarlandlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391135735"
+    }
+  ],
+  "advisories": []
+}

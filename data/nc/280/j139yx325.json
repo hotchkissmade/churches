@@ -1,0 +1,33 @@
+{
+  "id": "j139yx325",
+  "url": "https://constellation.church/j139yx325",
+  "name": "Emmaus",
+  "displayName": "Emmaus",
+  "address": {
+    "street": "2301 Glendale Ave",
+    "city": "Kannapolis",
+    "state": "NC",
+    "zip": "28081"
+  },
+  "coordinates": {
+    "latitude": 35.52511024475098,
+    "longitude": -80.62066268920898
+  },
+  "website": "https://emmaus1.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9c256ad0-6132-4da4-94c9-b1b348b2e82b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9c256ad0-6132-4da4-94c9-b1b348b2e82b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emmaus1.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "821212945"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "em8ct7t97",
+  "url": "https://constellation.church/em8ct7t97",
+  "name": "Evangelical Lutheran Church of St Luke",
+  "displayName": "Evangelical Lutheran Church of St. Luke",
+  "address": {
+    "street": "1500 W Belmont Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60657-3108"
+  },
+  "coordinates": {
+    "latitude": 41.93985939025879,
+    "longitude": -87.66642761230469
+  },
+  "website": "https://stlukechicago.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7db9261c-f8e5-4d83-847e-8e0760d8be7c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7db9261c-f8e5-4d83-847e-8e0760d8be7c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukechicago.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362246712"
+    }
+  ],
+  "advisories": []
+}

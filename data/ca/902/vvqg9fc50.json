@@ -1,0 +1,33 @@
+{
+  "id": "vvqg9fc50",
+  "url": "https://constellation.church/vvqg9fc50",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "6714 Pine Ave",
+    "city": "Bell",
+    "state": "CA",
+    "zip": "90201-2508"
+  },
+  "coordinates": {
+    "latitude": 33.975080490112305,
+    "longitude": -118.18907165527344
+  },
+  "website": "https://gelchurchofbell.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6d91ef2d-c38c-44b4-84f5-28faf27e7be4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6d91ef2d-c38c-44b4-84f5-28faf27e7be4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gelchurchofbell.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "956004126"
+    }
+  ],
+  "advisories": []
+}

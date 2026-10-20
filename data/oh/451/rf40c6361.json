@@ -1,0 +1,33 @@
+{
+  "id": "rf40c6361",
+  "url": "https://constellation.church/rf40c6361",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "609 W Locust St",
+    "city": "Wilmington",
+    "state": "OH",
+    "zip": "45177"
+  },
+  "coordinates": {
+    "latitude": 39.447805404663086,
+    "longitude": -83.83902359008789
+  },
+  "website": "https://wilmingtonag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=db2e83a5-239b-4f30-b0ae-5e034075d110&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "db2e83a5-239b-4f30-b0ae-5e034075d110"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wilmingtonag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311035163"
+    }
+  ],
+  "advisories": []
+}

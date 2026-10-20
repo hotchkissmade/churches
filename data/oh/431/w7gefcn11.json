@@ -1,0 +1,33 @@
+{
+  "id": "w7gefcn11",
+  "url": "https://constellation.church/w7gefcn11",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "135 E Mound St",
+    "city": "Circleville",
+    "state": "OH",
+    "zip": "43113-1701"
+  },
+  "coordinates": {
+    "latitude": 39.59892654418945,
+    "longitude": -82.94466400146484
+  },
+  "website": "https://trinitylutherancville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=af5cda1c-6d50-4795-aca1-49cd47740ee4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "af5cda1c-6d50-4795-aca1-49cd47740ee4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylutherancville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "314420128"
+    }
+  ],
+  "advisories": []
+}

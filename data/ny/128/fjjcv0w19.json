@@ -1,0 +1,33 @@
+{
+  "id": "fjjcv0w19",
+  "url": "https://constellation.church/fjjcv0w19",
+  "name": "Church of the Holy Cross",
+  "displayName": "Church of the Holy Cross",
+  "address": {
+    "street": "3764 Main St",
+    "city": "Warrensburg",
+    "state": "NY",
+    "zip": "12885-1897"
+  },
+  "coordinates": {
+    "latitude": 43.49267578125,
+    "longitude": -73.76819229125977
+  },
+  "website": "https://holycrosswarrensburg.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-albany/list/church-holy-cross",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-albany/church-holy-cross"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holycrosswarrensburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "141609611"
+    }
+  ],
+  "advisories": []
+}

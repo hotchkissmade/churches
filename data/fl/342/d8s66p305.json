@@ -1,0 +1,33 @@
+{
+  "id": "d8s66p305",
+  "url": "https://constellation.church/d8s66p305",
+  "name": "First Baptist Church of Venice",
+  "displayName": "First Baptist Church of Venice",
+  "address": {
+    "street": "312 Miami Ave W",
+    "city": "Venice",
+    "state": "FL",
+    "zip": "34285"
+  },
+  "coordinates": {
+    "latitude": 27.099138259887695,
+    "longitude": -82.44848251342773
+  },
+  "website": "https://fbcvenice.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-venice/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-venice"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcvenice.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590917277"
+    }
+  ],
+  "advisories": []
+}

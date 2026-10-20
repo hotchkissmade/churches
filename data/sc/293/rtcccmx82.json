@@ -1,0 +1,33 @@
+{
+  "id": "rtcccmx82",
+  "url": "https://constellation.church/rtcccmx82",
+  "name": "Northside Baptist Church",
+  "displayName": "Northside Baptist Church",
+  "address": {
+    "street": "818 Northside Church Rd",
+    "city": "Laurens",
+    "state": "SC",
+    "zip": "29360"
+  },
+  "coordinates": {
+    "latitude": 34.526681900024414,
+    "longitude": -81.98096084594727
+  },
+  "website": "https://nbclaurens.org",
+  "listingUrl": "https://churches.sbc.net/church/northside-baptist-church-23/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northside-baptist-church-23"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nbclaurens.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570696294"
+    }
+  ],
+  "advisories": []
+}

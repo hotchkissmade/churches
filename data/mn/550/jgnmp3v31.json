@@ -1,0 +1,33 @@
+{
+  "id": "jgnmp3v31",
+  "url": "https://constellation.church/jgnmp3v31",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "1321 North Ave",
+    "city": "Northfield",
+    "state": "MN",
+    "zip": "55057-4596"
+  },
+  "coordinates": {
+    "latitude": 44.47077751159668,
+    "longitude": -93.17988586425781
+  },
+  "website": "https://bethelnorthfield.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=23dbc5ba-9131-44cb-bcd1-a24df9095068",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "23dbc5ba-9131-44cb-bcd1-a24df9095068"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelnorthfield.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416049270"
+    }
+  ],
+  "advisories": []
+}

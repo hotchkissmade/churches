@@ -1,0 +1,33 @@
+{
+  "id": "cng444e24",
+  "url": "https://constellation.church/cng444e24",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "5084 Main Street E",
+    "city": "Maple Plain",
+    "state": "MN",
+    "zip": "55359"
+  },
+  "coordinates": {
+    "latitude": 43.06769943237305,
+    "longitude": -87.92300796508789
+  },
+  "website": "https://mpclc.org",
+  "listingUrl": "https://lcmc.net/congregation/105480",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "105480"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mpclc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363168105"
+    }
+  ],
+  "advisories": []
+}

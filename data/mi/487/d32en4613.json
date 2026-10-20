@@ -1,0 +1,33 @@
+{
+  "id": "d32en4613",
+  "url": "https://constellation.church/d32en4613",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "7989 Unionville Rd",
+    "city": "Sebewaing",
+    "state": "MI",
+    "zip": "48759"
+  },
+  "coordinates": {
+    "latitude": 43.696347427334,
+    "longitude": -83.457476463922
+  },
+  "website": "https://sebewaingassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ecf0794a-e481-4df4-96ee-8ff4994a65a3&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ecf0794a-e481-4df4-96ee-8ff4994a65a3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sebewaingassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382434173"
+    }
+  ],
+  "advisories": []
+}

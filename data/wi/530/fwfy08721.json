@@ -1,0 +1,33 @@
+{
+  "id": "fwfy08721",
+  "url": "https://constellation.church/fwfy08721",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "2881 Division Rd",
+    "city": "Jackson",
+    "state": "WI",
+    "zip": "53037-9717"
+  },
+  "coordinates": {
+    "latitude": 43.293853759765625,
+    "longitude": -88.12280654907227
+  },
+  "website": "https://stjohnsjackson.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1d6728df-b1bf-4766-99d6-0dd017a4d7fb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1d6728df-b1bf-4766-99d6-0dd017a4d7fb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsjackson.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391303274"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "db8030f45",
+  "url": "https://constellation.church/db8030f45",
+  "name": "St. John's Episcopal Church",
+  "displayName": "St. John's Episcopal Church",
+  "address": {
+    "street": "149-49 Sanford Avenue",
+    "city": "Flushing",
+    "state": "NY",
+    "zip": "11355"
+  },
+  "coordinates": {
+    "latitude": 40.76095199584961,
+    "longitude": -73.81344604492188
+  },
+  "website": "https://suneuichurch.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-johns-episcopal-church-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-johns-episcopal-church-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "suneuichurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460543501"
+    }
+  ],
+  "advisories": []
+}

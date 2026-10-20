@@ -1,0 +1,33 @@
+{
+  "id": "hva1fcy17",
+  "url": "https://constellation.church/hva1fcy17",
+  "name": "First Baptist Church Chesterfield",
+  "displayName": "First Baptist Church Chesterfield",
+  "address": {
+    "street": "17103 Wild Horse Creek Rd",
+    "city": "Chesterfield",
+    "state": "MO",
+    "zip": "63005"
+  },
+  "coordinates": {
+    "latitude": 38.656930923461914,
+    "longitude": -90.60755920410156
+  },
+  "website": "https://firstbcc.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-chesterfield/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-chesterfield"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbcc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431661652"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "q2vq4x880",
+  "url": "https://constellation.church/q2vq4x880",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "12345 Cotton Mill Dr",
+    "city": "Woodbridge",
+    "state": "VA",
+    "zip": "22192-1090"
+  },
+  "coordinates": {
+    "latitude": 38.6886043548584,
+    "longitude": -77.31630325317383
+  },
+  "website": "https://trinityofwoodbridge.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24180",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24180"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityofwoodbridge.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541643238"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800749542"
+    }
+  ],
+  "advisories": []
+}

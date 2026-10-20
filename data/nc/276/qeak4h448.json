@@ -1,0 +1,33 @@
+{
+  "id": "qeak4h448",
+  "url": "https://constellation.church/qeak4h448",
+  "name": "St. Michael's Episcopal Church",
+  "displayName": "St. Michael's Episcopal Church",
+  "address": {
+    "street": "1520 Canterbury Rd",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27608-1197"
+  },
+  "coordinates": {
+    "latitude": 35.80917930603027,
+    "longitude": -78.66741561889648
+  },
+  "website": "https://holymichael.org/news-events-calendar",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-north-carolina/list/st-michaels-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-north-carolina/st-michaels-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holymichael.org/news-events-calendar"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581488885"
+    }
+  ],
+  "advisories": []
+}

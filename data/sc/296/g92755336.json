@@ -1,0 +1,33 @@
+{
+  "id": "g92755336",
+  "url": "https://constellation.church/g92755336",
+  "name": "Townville Baptist Church",
+  "displayName": "Townville Baptist Church",
+  "address": {
+    "street": "8816 Highway 24",
+    "city": "Townville",
+    "state": "SC",
+    "zip": "29689"
+  },
+  "coordinates": {
+    "latitude": 34.565277099609375,
+    "longitude": -82.89725875854492
+  },
+  "website": "https://townvillebaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/townville-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "townville-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "townvillebaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570757928"
+    }
+  ],
+  "advisories": []
+}

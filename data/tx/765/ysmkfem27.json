@@ -1,0 +1,33 @@
+{
+  "id": "ysmkfem27",
+  "url": "https://constellation.church/ysmkfem27",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "722 W Main St",
+    "city": "Troy",
+    "state": "TX",
+    "zip": "76579"
+  },
+  "coordinates": {
+    "latitude": 31.210927963256836,
+    "longitude": -97.31024932861328
+  },
+  "website": "https://troyfirstag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ff6499df-89fc-476c-82ae-b4de254003db&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ff6499df-89fc-476c-82ae-b4de254003db"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "troyfirstag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752357641"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "seh7k6c06",
+  "url": "https://constellation.church/seh7k6c06",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "305 Delaware Rd",
+    "city": "Riegelsville",
+    "state": "PA",
+    "zip": "18077-7023"
+  },
+  "coordinates": {
+    "latitude": 40.59423065185547,
+    "longitude": -75.1959228515625
+  },
+  "website": "https://builtontherock.cc",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=eecafde4-ebee-442e-9c59-aadac133d206",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "eecafde4-ebee-442e-9c59-aadac133d206"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "builtontherock.cc"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232266261"
+    }
+  ],
+  "advisories": []
+}

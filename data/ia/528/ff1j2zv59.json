@@ -1,0 +1,33 @@
+{
+  "id": "ff1j2zv59",
+  "url": "https://constellation.church/ff1j2zv59",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "1216 W 8th St",
+    "city": "Davenport",
+    "state": "IA",
+    "zip": "52802-1330"
+  },
+  "coordinates": {
+    "latitude": 41.5282096862793,
+    "longitude": -90.59163284301758
+  },
+  "website": "https://ziondavenport.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=977dec4e-f6d8-4dad-a8b7-93ce010384fa",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "977dec4e-f6d8-4dad-a8b7-93ce010384fa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ziondavenport.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426005500"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "brm177w61",
+  "url": "https://constellation.church/brm177w61",
+  "name": "PC in Chinatown Presbyterian Church",
+  "displayName": "PC in Chinatown Presbyterian Church",
+  "address": {
+    "street": "925 Stockton St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94108-1607"
+  },
+  "coordinates": {
+    "latitude": 37.79438591003418,
+    "longitude": -122.40808868408203
+  },
+  "website": "https://pccsf.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/797/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "797"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pccsf.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "946103727"
+    }
+  ],
+  "advisories": []
+}

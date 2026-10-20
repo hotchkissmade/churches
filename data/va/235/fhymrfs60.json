@@ -1,0 +1,33 @@
+{
+  "id": "fhymrfs60",
+  "url": "https://constellation.church/fhymrfs60",
+  "name": "First View Baptist Church",
+  "displayName": "First View Baptist Church",
+  "address": {
+    "street": "9124 1st View St",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip": "23503"
+  },
+  "coordinates": {
+    "latitude": 36.94606971740723,
+    "longitude": -76.26736831665039
+  },
+  "website": "https://firstviewbaptistchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/first-view-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-view-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstviewbaptistchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540829574"
+    }
+  ],
+  "advisories": []
+}

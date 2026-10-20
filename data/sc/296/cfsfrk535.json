@@ -1,0 +1,33 @@
+{
+  "id": "cfsfrk535",
+  "url": "https://constellation.church/cfsfrk535",
+  "name": "Return Baptist Church",
+  "displayName": "Return Baptist Church",
+  "address": {
+    "street": "733 Return Church Rd",
+    "city": "Seneca",
+    "state": "SC",
+    "zip": "29678"
+  },
+  "coordinates": {
+    "latitude": 34.63881301879883,
+    "longitude": -82.99696731567383
+  },
+  "website": "https://returnbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/return-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "return-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "returnbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570712639"
+    }
+  ],
+  "advisories": []
+}

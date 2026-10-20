@@ -1,0 +1,33 @@
+{
+  "id": "asxpazd42",
+  "url": "https://constellation.church/asxpazd42",
+  "name": "Pleasant View Mennonite Church",
+  "displayName": "Pleasant View Mennonite Church",
+  "address": {
+    "street": "346 Warm Spring Road",
+    "city": "Chambersburg",
+    "state": "PA",
+    "zip": "17202"
+  },
+  "coordinates": {
+    "latitude": 39.92535209655762,
+    "longitude": -77.69716262817383
+  },
+  "website": "https://pv-mc.com/children",
+  "listingUrl": "https://lmcchurches.org/directory/pleasant-view-mennonite-church/",
+  "identifiers": [
+    {
+      "namespace": "org.lmcchurches.id",
+      "value": "pleasant-view-mennonite-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pv-mc.com/children"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "233018255"
+    }
+  ],
+  "advisories": []
+}

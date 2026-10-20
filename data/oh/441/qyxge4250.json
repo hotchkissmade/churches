@@ -1,0 +1,33 @@
+{
+  "id": "qyxge4250",
+  "url": "https://constellation.church/qyxge4250",
+  "name": "St. E. Premte Church",
+  "displayName": "St. E. Premte Church",
+  "address": {
+    "street": "10716 Jasper Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44111"
+  },
+  "coordinates": {
+    "latitude": 41.45192337036133,
+    "longitude": -81.76139068603516
+  },
+  "website": "https://stepremte.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-al-clesep",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-al-clesep"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stepremte.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341210533"
+    }
+  ],
+  "advisories": []
+}

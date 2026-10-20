@@ -1,0 +1,33 @@
+{
+  "id": "ecfv25041",
+  "url": "https://constellation.church/ecfv25041",
+  "name": "West Springs Baptist Church",
+  "displayName": "West Springs Baptist Church",
+  "address": {
+    "street": "4811 Buffalo West Springs Hwy",
+    "city": "Pauline",
+    "state": "SC",
+    "zip": "29374"
+  },
+  "coordinates": {
+    "latitude": 34.77463340759277,
+    "longitude": -81.79071426391602
+  },
+  "website": "https://westspringsbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/west-springs-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "west-springs-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westspringsbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570759907"
+    }
+  ],
+  "advisories": []
+}

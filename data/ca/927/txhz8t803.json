@@ -1,0 +1,33 @@
+{
+  "id": "txhz8t803",
+  "url": "https://constellation.church/txhz8t803",
+  "name": "Shoreline Baptist Church.",
+  "displayName": "Shoreline Baptist Church.",
+  "address": {
+    "street": "10350 Ellis Ave",
+    "city": "Fountain Valley",
+    "state": "CA",
+    "zip": "92708"
+  },
+  "coordinates": {
+    "latitude": 33.69399452209473,
+    "longitude": -117.94926452636719
+  },
+  "website": "https://shorelinebaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/shoreline-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "shoreline-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "shorelinebaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952701263"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "j36z1aw52",
+  "url": "https://constellation.church/j36z1aw52",
+  "name": "Rockpoint Church",
+  "displayName": "Rockpoint Church",
+  "address": {
+    "street": "5825 Kelvin Ave N",
+    "city": "Lake Elmo",
+    "state": "MN",
+    "zip": "55042-8641"
+  },
+  "coordinates": {
+    "latitude": 45.032615661621094,
+    "longitude": -92.89649963378906
+  },
+  "website": "https://rockpoint.church",
+  "listingUrl": "https://churches.efca.org/?id=12434",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12434"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rockpoint.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416111326"
+    }
+  ],
+  "advisories": []
+}

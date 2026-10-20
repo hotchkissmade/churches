@@ -1,0 +1,33 @@
+{
+  "id": "jbw6far75",
+  "url": "https://constellation.church/jbw6far75",
+  "name": "Bethany Lutheran Church",
+  "displayName": "Bethany Lutheran Church",
+  "address": {
+    "street": "6 Leo Moss Dr",
+    "city": "Olean",
+    "state": "NY",
+    "zip": "14760-1155"
+  },
+  "coordinates": {
+    "latitude": 42.087669372558594,
+    "longitude": -78.450439453125
+  },
+  "website": "https://bethanyolean.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=22d7c263-f2a0-4f3e-8fe9-925bc35871ee",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "22d7c263-f2a0-4f3e-8fe9-925bc35871ee"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanyolean.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "166029975"
+    }
+  ],
+  "advisories": []
+}

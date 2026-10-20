@@ -1,0 +1,33 @@
+{
+  "id": "j4znx1t58",
+  "url": "https://constellation.church/j4znx1t58",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "107 7th St",
+    "city": "Honesdale",
+    "state": "PA",
+    "zip": "18431-1834"
+  },
+  "coordinates": {
+    "latitude": 41.57183837890625,
+    "longitude": -75.25426864624023
+  },
+  "website": "https://honesdalelutherans.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=444983cc-9569-4ec6-a045-660e2659e110",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "444983cc-9569-4ec6-a045-660e2659e110"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "honesdalelutherans.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "240804051"
+    }
+  ],
+  "advisories": []
+}

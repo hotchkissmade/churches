@@ -1,0 +1,33 @@
+{
+  "id": "hbr23qn56",
+  "url": "https://constellation.church/hbr23qn56",
+  "name": "Oakwood Presbyterian Church",
+  "displayName": "Oakwood Presbyterian Church",
+  "address": {
+    "street": "1865 Waddle Road",
+    "city": "State College",
+    "state": "PA",
+    "zip": "16803"
+  },
+  "coordinates": {
+    "latitude": 40.814430236816406,
+    "longitude": -77.89688110351562
+  },
+  "website": "https://oakwoodpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1327",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1327"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oakwoodpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232121682"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a63cke166",
+  "url": "https://constellation.church/a63cke166",
+  "name": "Grace Episcopal Church",
+  "displayName": "Grace Episcopal Church",
+  "address": {
+    "street": "111 Lee Court",
+    "city": "Clayton",
+    "state": "NC",
+    "zip": "27520"
+  },
+  "coordinates": {
+    "latitude": 35.639076232910156,
+    "longitude": -78.47610092163086
+  },
+  "website": "https://graceclayton.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-north-carolina/list/grace-episcopal-mission",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-north-carolina/grace-episcopal-mission"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceclayton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "562100023"
+    }
+  ],
+  "advisories": []
+}

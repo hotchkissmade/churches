@@ -1,0 +1,33 @@
+{
+  "id": "y72r4kn66",
+  "url": "https://constellation.church/y72r4kn66",
+  "name": "St. Francis Episcopal Church",
+  "displayName": "St. Francis Episcopal Church",
+  "address": {
+    "street": "1484 Hockett Rd",
+    "city": "Manakin Sabot",
+    "state": "VA",
+    "zip": "23103-2228"
+  },
+  "coordinates": {
+    "latitude": 37.666372299194336,
+    "longitude": -77.67845153808594
+  },
+  "website": "https://stfrancisva.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-virginia/list/st-francis-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-virginia/st-francis-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stfrancisva.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "300232423"
+    }
+  ],
+  "advisories": []
+}

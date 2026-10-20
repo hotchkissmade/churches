@@ -1,0 +1,33 @@
+{
+  "id": "gdwdrmb30",
+  "url": "https://constellation.church/gdwdrmb30",
+  "name": "Lutheran Church Of The Good Shepherd",
+  "displayName": "Lutheran Church Of The Good Shepherd",
+  "address": {
+    "street": "7701 Kenwood Rd",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45236-2803"
+  },
+  "coordinates": {
+    "latitude": 39.20104217529297,
+    "longitude": -84.38078308105469
+  },
+  "website": "https://goodshepherd.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=399f8d72-5975-426e-acdc-57c6ae39a257",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "399f8d72-5975-426e-acdc-57c6ae39a257"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherd.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310710372"
+    }
+  ],
+  "advisories": []
+}

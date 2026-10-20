@@ -1,0 +1,33 @@
+{
+  "id": "ewv3gcz54",
+  "url": "https://constellation.church/ewv3gcz54",
+  "name": "Zion Church",
+  "displayName": "Zion Church",
+  "address": {
+    "street": "10 Park Pl",
+    "city": "Avon",
+    "state": "NY",
+    "zip": "14414-1055"
+  },
+  "coordinates": {
+    "latitude": 42.91193389892578,
+    "longitude": -77.7442626953125
+  },
+  "website": "https://zionepiscopalchurchavon.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-rochester/list/zion-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-rochester/zion-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionepiscopalchurchavon.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222511719"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a4nt4d396",
+  "url": "https://constellation.church/a4nt4d396",
+  "name": "Church of the Advent",
+  "displayName": "Church of the Advent",
+  "address": {
+    "street": "678 King St.",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80204"
+  },
+  "coordinates": {
+    "latitude": 39.72764587402344,
+    "longitude": -105.03348541259766
+  },
+  "website": "https://adventdenver.com",
+  "listingUrl": "https://www.acna.org/admin_units/732",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "732"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "adventdenver.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "452873623"
+    }
+  ],
+  "advisories": []
+}

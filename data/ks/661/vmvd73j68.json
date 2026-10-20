@@ -1,0 +1,33 @@
+{
+  "id": "vmvd73j68",
+  "url": "https://constellation.church/vmvd73j68",
+  "name": "The Way Church KC",
+  "displayName": "The Way Church KC",
+  "address": {
+    "street": "4326 Lloyd St",
+    "city": "Kansas City",
+    "state": "KS",
+    "zip": "66103"
+  },
+  "coordinates": {
+    "latitude": 39.049163818359375,
+    "longitude": -94.61805725097656
+  },
+  "website": "https://thewaykc.church/about",
+  "listingUrl": "https://churches.sbc.net/church/the-way-church-kc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-way-church-kc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thewaykc.church/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "921804846"
+    }
+  ],
+  "advisories": []
+}

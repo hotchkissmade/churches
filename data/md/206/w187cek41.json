@@ -1,0 +1,33 @@
+{
+  "id": "w187cek41",
+  "url": "https://constellation.church/w187cek41",
+  "name": "Potomac Heights Baptist Church",
+  "displayName": "Potomac Heights Baptist Church",
+  "address": {
+    "street": "37 Glymont Rd",
+    "city": "Indian Head",
+    "state": "MD",
+    "zip": "20640"
+  },
+  "coordinates": {
+    "latitude": 38.60721969604492,
+    "longitude": -77.13350296020508
+  },
+  "website": "https://phbc.com",
+  "listingUrl": "https://churches.sbc.net/church/potomac-heights-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "potomac-heights-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "phbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521205135"
+    }
+  ],
+  "advisories": []
+}

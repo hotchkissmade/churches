@@ -1,0 +1,33 @@
+{
+  "id": "jddnbkr78",
+  "url": "https://constellation.church/jddnbkr78",
+  "name": "Glad Tidings Church",
+  "displayName": "Glad Tidings Church",
+  "address": {
+    "street": "18 Spear St",
+    "city": "Quincy",
+    "state": "MA",
+    "zip": "02169"
+  },
+  "coordinates": {
+    "latitude": 42.25210189819336,
+    "longitude": -71.00082015991211
+  },
+  "website": "https://gtcquincy.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=5b391693-5677-4834-a516-6cef2bec0e5c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "5b391693-5677-4834-a516-6cef2bec0e5c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gtcquincy.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "046361349"
+    }
+  ],
+  "advisories": []
+}

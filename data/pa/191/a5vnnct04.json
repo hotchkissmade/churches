@@ -1,0 +1,33 @@
+{
+  "id": "a5vnnct04",
+  "url": "https://constellation.church/a5vnnct04",
+  "name": "Church of St. James Kingsessing",
+  "displayName": "Church of St. James Kingsessing",
+  "address": {
+    "street": "6838 Woodland Ave",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19142-1822"
+  },
+  "coordinates": {
+    "latitude": 39.921749114990234,
+    "longitude": -75.23910903930664
+  },
+  "website": "https://stjameskingsessing.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/church-st-james-kingsessing",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/church-st-james-kingsessing"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjameskingsessing.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231352453"
+    }
+  ],
+  "advisories": []
+}

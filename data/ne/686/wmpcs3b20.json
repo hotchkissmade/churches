@@ -1,0 +1,33 @@
+{
+  "id": "wmpcs3b20",
+  "url": "https://constellation.church/wmpcs3b20",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "319 S 5th St",
+    "city": "Albion",
+    "state": "NE",
+    "zip": "68620-1305"
+  },
+  "coordinates": {
+    "latitude": 41.69057846069336,
+    "longitude": -98.00220489501953
+  },
+  "website": "https://zionalbion.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=34a3746c-617b-421e-ad50-d3b4a4000c50",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "34a3746c-617b-421e-ad50-d3b4a4000c50"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionalbion.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470426533"
+    }
+  ],
+  "advisories": []
+}

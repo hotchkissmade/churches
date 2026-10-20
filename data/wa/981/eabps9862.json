@@ -1,0 +1,33 @@
+{
+  "id": "eabps9862",
+  "url": "https://constellation.church/eabps9862",
+  "name": "Samoan District Council",
+  "displayName": "Samoan District Council",
+  "address": {
+    "street": "19804 8th Ave S",
+    "city": "Des Moines",
+    "state": "WA",
+    "zip": "98148"
+  },
+  "coordinates": {
+    "latitude": 47.425323486328125,
+    "longitude": -122.32422637939453
+  },
+  "website": "https://sdcaog.org/online-giving",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=dc0806df-ca36-4cb1-b022-8b2760c6d70d&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "dc0806df-ca36-4cb1-b022-8b2760c6d70d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sdcaog.org/online-giving"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "464214861"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ff5gp7v10",
+  "url": "https://constellation.church/ff5gp7v10",
+  "name": "Bethel CRC",
+  "displayName": "Bethel Christian Reformed Church",
+  "address": {
+    "street": "2157 230th St",
+    "city": "Oskaloosa",
+    "state": "IA",
+    "zip": "52577"
+  },
+  "coordinates": {
+    "latitude": 41.32200241088867,
+    "longitude": -92.64949798583984
+  },
+  "website": "https://oskybethel.org",
+  "listingUrl": "https://www.crcna.org/churches/8142",
+  "identifiers": [
+    {
+      "namespace": "org.crcna.id",
+      "value": "8142"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oskybethel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426065195"
+    }
+  ],
+  "advisories": []
+}

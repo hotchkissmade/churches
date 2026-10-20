@@ -1,0 +1,33 @@
+{
+  "id": "b5hvbqs06",
+  "url": "https://constellation.church/b5hvbqs06",
+  "name": "First Baptist Church of Buda",
+  "displayName": "First Baptist Church of Buda",
+  "address": {
+    "street": "104 S San Marcos St",
+    "city": "Buda",
+    "state": "TX",
+    "zip": "78610"
+  },
+  "coordinates": {
+    "latitude": 30.081180572509766,
+    "longitude": -97.84561157226562
+  },
+  "website": "https://firstbaptistbuda.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-buda/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-buda"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistbuda.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "261622635"
+    }
+  ],
+  "advisories": []
+}

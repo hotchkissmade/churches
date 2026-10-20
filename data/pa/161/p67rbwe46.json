@@ -1,0 +1,33 @@
+{
+  "id": "p67rbwe46",
+  "url": "https://constellation.church/p67rbwe46",
+  "name": "East Main Presbyterian Church",
+  "displayName": "East Main Presbyterian Church",
+  "address": {
+    "street": "120 E Main St",
+    "city": "Grove City",
+    "state": "PA",
+    "zip": "16127"
+  },
+  "coordinates": {
+    "latitude": 41.156333923339844,
+    "longitude": -80.08646392822266
+  },
+  "website": "https://eastmainpc.org",
+  "listingUrl": "https://eco-pres.org/churches/east-main-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "east-main-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastmainpc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251101850"
+    }
+  ],
+  "advisories": []
+}

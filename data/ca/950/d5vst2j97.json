@@ -1,0 +1,33 @@
+{
+  "id": "d5vst2j97",
+  "url": "https://constellation.church/d5vst2j97",
+  "name": "Church in Santa Clara",
+  "displayName": "Church in Santa Clara",
+  "address": {
+    "street": "3550 Benton St",
+    "city": "Santa Clara",
+    "state": "CA",
+    "zip": "95051"
+  },
+  "coordinates": {
+    "latitude": 37.34500312805176,
+    "longitude": -121.99443817138672
+  },
+  "website": "https://churchinsantaclara.org",
+  "listingUrl": "https://localchurches.org/churches/santa-clara-ca-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "santa-clara-ca-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinsantaclara.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "770379164"
+    }
+  ],
+  "advisories": []
+}

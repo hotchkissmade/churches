@@ -1,0 +1,33 @@
+{
+  "id": "cp0509e55",
+  "url": "https://constellation.church/cp0509e55",
+  "name": "Wayland CRC",
+  "displayName": "Wayland Christian Reformed Church",
+  "address": {
+    "street": "303 E Elm St",
+    "city": "Wayland",
+    "state": "MI",
+    "zip": "49348-1107"
+  },
+  "coordinates": {
+    "latitude": 42.677772521972656,
+    "longitude": -85.64004135131836
+  },
+  "website": "https://waylandcrc.org",
+  "listingUrl": "https://www.crcna.org/churches/3691",
+  "identifiers": [
+    {
+      "namespace": "org.crcna.id",
+      "value": "3691"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "waylandcrc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382056496"
+    }
+  ],
+  "advisories": []
+}

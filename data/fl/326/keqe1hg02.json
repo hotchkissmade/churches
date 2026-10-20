@@ -1,0 +1,33 @@
+{
+  "id": "keqe1hg02",
+  "url": "https://constellation.church/keqe1hg02",
+  "name": "First Baptist Church of Gainesville",
+  "displayName": "First Baptist Church of Gainesville",
+  "address": {
+    "street": "14105 NW 39th Ave",
+    "city": "Gainesville",
+    "state": "FL",
+    "zip": "32606"
+  },
+  "coordinates": {
+    "latitude": 29.688199996948242,
+    "longitude": -82.49456024169922
+  },
+  "website": "https://fbcgainesville.net",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-gainesville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-gainesville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcgainesville.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590782446"
+    }
+  ],
+  "advisories": []
+}

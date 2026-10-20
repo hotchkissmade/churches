@@ -1,0 +1,33 @@
+{
+  "id": "f57ncym05",
+  "url": "https://constellation.church/f57ncym05",
+  "name": "The Church at Viera",
+  "displayName": "The Church at Viera",
+  "address": {
+    "street": "9005 N Wickham Rd",
+    "city": "Melbourne",
+    "state": "FL",
+    "zip": "32940"
+  },
+  "coordinates": {
+    "latitude": 28.22856330871582,
+    "longitude": -80.73386764526367
+  },
+  "website": "https://churchatviera.com",
+  "listingUrl": "https://churches.sbc.net/church/the-church-at-viera/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-church-at-viera"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchatviera.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593214036"
+    }
+  ],
+  "advisories": []
+}

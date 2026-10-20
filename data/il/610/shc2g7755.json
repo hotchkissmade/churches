@@ -1,0 +1,33 @@
+{
+  "id": "shc2g7755",
+  "url": "https://constellation.church/shc2g7755",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "301 S Clay St",
+    "city": "Mount Carroll",
+    "state": "IL",
+    "zip": "61053-1306"
+  },
+  "coordinates": {
+    "latitude": 42.095916748046875,
+    "longitude": -89.97785568237305
+  },
+  "website": "https://firstlutheranmc.com/home",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b1a35fd0-a7f6-4e5e-9756-57390e517337",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b1a35fd0-a7f6-4e5e-9756-57390e517337"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranmc.com/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366072462"
+    }
+  ],
+  "advisories": []
+}

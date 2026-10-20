@@ -1,0 +1,33 @@
+{
+  "id": "jt0327v79",
+  "url": "https://constellation.church/jt0327v79",
+  "name": "Meriden",
+  "displayName": "Meriden Christadelphian Ecclesia",
+  "address": {
+    "street": "145 Evansville Avenue",
+    "city": "Meriden",
+    "state": "CT",
+    "zip": "06451"
+  },
+  "coordinates": {
+    "latitude": 41.51556587219238,
+    "longitude": -72.83068084716797
+  },
+  "website": "https://meridenchristadelphians.com",
+  "listingUrl": "https://christadelphia.org/ecclesialist.php?CT#meriden",
+  "identifiers": [
+    {
+      "namespace": "org.christadelphia.id",
+      "value": "CT#meriden"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "meridenchristadelphians.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "815111784"
+    }
+  ],
+  "advisories": []
+}

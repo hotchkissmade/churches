@@ -1,0 +1,33 @@
+{
+  "id": "zdafve070",
+  "url": "https://constellation.church/zdafve070",
+  "name": "Antioch Baptist Church, Hannibal",
+  "displayName": "Antioch Baptist Church, Hannibal",
+  "address": {
+    "street": "59621 Antioch Ln",
+    "city": "Hannibal",
+    "state": "MO",
+    "zip": "63401"
+  },
+  "coordinates": {
+    "latitude": 39.65765380859375,
+    "longitude": -91.34915161132812
+  },
+  "website": "https://abchannibal.com",
+  "listingUrl": "https://churches.sbc.net/church/antioch-baptist-church-hannibal/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "antioch-baptist-church-hannibal"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "abchannibal.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431341283"
+    }
+  ],
+  "advisories": []
+}

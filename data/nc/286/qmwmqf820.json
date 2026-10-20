@@ -1,0 +1,33 @@
+{
+  "id": "qmwmqf820",
+  "url": "https://constellation.church/qmwmqf820",
+  "name": "First United Methodist Church",
+  "displayName": "First United Methodist Church",
+  "address": {
+    "street": "300 N Main Ave",
+    "city": "Newton",
+    "state": "NC",
+    "zip": "28658"
+  },
+  "coordinates": {
+    "latitude": 35.66517639160156,
+    "longitude": -81.22217559814453
+  },
+  "website": "https://firstnewton.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFLTYIA5",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFLTYIA5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstnewton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560623952"
+    }
+  ],
+  "advisories": []
+}

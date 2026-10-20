@@ -1,0 +1,33 @@
+{
+  "id": "khkbyxm82",
+  "url": "https://constellation.church/khkbyxm82",
+  "name": "St. Paul's Episcopal Church",
+  "displayName": "St. Paul's Episcopal Church",
+  "address": {
+    "street": "914 E Knapp Street",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53202-2825"
+  },
+  "coordinates": {
+    "latitude": 43.04744911193848,
+    "longitude": -87.9006576538086
+  },
+  "website": "https://stpaulsmilwaukee.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-milwaukee/list/st-pauls-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-milwaukee/st-pauls-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsmilwaukee.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390807049"
+    }
+  ],
+  "advisories": []
+}

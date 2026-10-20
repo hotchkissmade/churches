@@ -1,0 +1,33 @@
+{
+  "id": "sw6g2kz89",
+  "url": "https://constellation.church/sw6g2kz89",
+  "name": "East Mesa Baptist Church",
+  "displayName": "East Mesa Baptist Church",
+  "address": {
+    "street": "6160 Moongate Rd",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88012"
+  },
+  "coordinates": {
+    "latitude": 32.40950584411621,
+    "longitude": -106.64815521240234
+  },
+  "website": "https://eastmesabaptist.net",
+  "listingUrl": "https://churches.sbc.net/church/east-mesa-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "east-mesa-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastmesabaptist.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850398391"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jtfvreg06",
+  "url": "https://constellation.church/jtfvreg06",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "11 Bernard St W",
+    "city": "West St Paul",
+    "state": "MN",
+    "zip": "55118-1409"
+  },
+  "coordinates": {
+    "latitude": 44.91663360595703,
+    "longitude": -93.08585357666016
+  },
+  "website": "https://salemluth.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=964698cc-30e5-440f-9dd8-791167510e7b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "964698cc-30e5-440f-9dd8-791167510e7b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemluth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410859472"
+    }
+  ],
+  "advisories": []
+}

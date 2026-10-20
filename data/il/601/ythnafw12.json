@@ -1,0 +1,33 @@
+{
+  "id": "ythnafw12",
+  "url": "https://constellation.church/ythnafw12",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "1915 N 1st St",
+    "city": "Dekalb",
+    "state": "IL",
+    "zip": "60115-1842"
+  },
+  "coordinates": {
+    "latitude": 41.95027542114258,
+    "longitude": -88.7469482421875
+  },
+  "website": "https://bethlehemdekalb.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b19f17e5-2c1a-4617-bc50-c66cbd1f462c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b19f17e5-2c1a-4617-bc50-c66cbd1f462c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethlehemdekalb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362411075"
+    }
+  ],
+  "advisories": []
+}

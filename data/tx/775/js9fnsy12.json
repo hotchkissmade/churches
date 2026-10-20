@@ -1,0 +1,33 @@
+{
+  "id": "js9fnsy12",
+  "url": "https://constellation.church/js9fnsy12",
+  "name": "Galveston Chinese Church",
+  "displayName": "Galveston Chinese Church",
+  "address": {
+    "street": "2207 67TH ST",
+    "city": "Galveston",
+    "state": "TX",
+    "zip": "77551"
+  },
+  "coordinates": {
+    "latitude": 29.274215698242188,
+    "longitude": -94.83782196044922
+  },
+  "website": "https://galcctx.us",
+  "listingUrl": "https://churches.sbc.net/church/galveston-chinese-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "galveston-chinese-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "galcctx.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760415475"
+    }
+  ],
+  "advisories": []
+}

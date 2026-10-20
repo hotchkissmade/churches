@@ -1,0 +1,33 @@
+{
+  "id": "vgxcy6k11",
+  "url": "https://constellation.church/vgxcy6k11",
+  "name": "Highland Baptist Church",
+  "displayName": "Highland Baptist Church",
+  "address": {
+    "street": "3460 Hoover Rd",
+    "city": "Grove City",
+    "state": "OH",
+    "zip": "43123"
+  },
+  "coordinates": {
+    "latitude": 39.892730712890625,
+    "longitude": -83.06839752197266
+  },
+  "website": "https://highlandgrovecity.com",
+  "listingUrl": "https://churches.sbc.net/church/highland-baptist-church-30/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "highland-baptist-church-30"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "highlandgrovecity.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310946853"
+    }
+  ],
+  "advisories": []
+}

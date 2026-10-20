@@ -1,0 +1,37 @@
+{
+  "id": "qbqrxtn48",
+  "url": "https://constellation.church/qbqrxtn48",
+  "name": "Grace Anglican Church",
+  "displayName": "Grace Anglican Church",
+  "address": {
+    "street": "57 Sand Hills Road",
+    "city": "Kendall Park",
+    "state": "NJ",
+    "zip": "08824"
+  },
+  "coordinates": {
+    "latitude": 40.42092704772949,
+    "longitude": -74.5579833984375
+  },
+  "website": "https://gracepcsb.org",
+  "listingUrl": "https://www.acna.org/admin_units/1892",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "1892"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracepcsb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221760278"
+    },
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "15066"
+    }
+  ],
+  "advisories": []
+}

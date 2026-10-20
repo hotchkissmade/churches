@@ -1,0 +1,33 @@
+{
+  "id": "kj1tcrx32",
+  "url": "https://constellation.church/kj1tcrx32",
+  "name": "Church of the Advent",
+  "displayName": "Church of the Advent",
+  "address": {
+    "street": "11251 SW Hwy 484",
+    "city": "Dunnellon",
+    "state": "FL",
+    "zip": "34432-6415"
+  },
+  "coordinates": {
+    "latitude": 29.054439544677734,
+    "longitude": -82.30599594116211
+  },
+  "website": "https://adventepiscopal.net",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-central-florida/list/church-advent",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-central-florida/church-advent"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "adventepiscopal.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593062500"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bv8maj348",
+  "url": "https://constellation.church/bv8maj348",
+  "name": "Rhiza Church",
+  "displayName": "Rhiza Church",
+  "address": {
+    "street": "2201 Grove Rd",
+    "city": "Ypsilanti",
+    "state": "MI",
+    "zip": "48198"
+  },
+  "coordinates": {
+    "latitude": 42.216291427612305,
+    "longitude": -83.56653594970703
+  },
+  "website": "https://rhiza.church",
+  "listingUrl": "https://churches.sbc.net/church/rhiza-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "rhiza-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rhiza.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "843063135"
+    }
+  ],
+  "advisories": []
+}

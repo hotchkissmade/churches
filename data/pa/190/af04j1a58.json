@@ -1,0 +1,33 @@
+{
+  "id": "af04j1a58",
+  "url": "https://constellation.church/af04j1a58",
+  "name": "Reformation Evangelical Lutheran Church",
+  "displayName": "Reformation Evangelical Lutheran Church",
+  "address": {
+    "street": "102 W Rose Tree Rd",
+    "city": "Media",
+    "state": "PA",
+    "zip": "19063-2009"
+  },
+  "coordinates": {
+    "latitude": 39.9363899230957,
+    "longitude": -75.39408493041992
+  },
+  "website": "https://relcmedia.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3a90ea8b-6e63-400e-8c26-a823113b88fc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3a90ea8b-6e63-400e-8c26-a823113b88fc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "relcmedia.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236050801"
+    }
+  ],
+  "advisories": []
+}

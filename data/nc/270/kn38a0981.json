@@ -1,0 +1,33 @@
+{
+  "id": "kn38a0981",
+  "url": "https://constellation.church/kn38a0981",
+  "name": "Holy Cross Lutheran Church",
+  "displayName": "Holy Cross Lutheran Church",
+  "address": {
+    "street": "1913 US Highway 601 S",
+    "city": "Mocksville",
+    "state": "NC",
+    "zip": "27028-6903"
+  },
+  "coordinates": {
+    "latitude": 35.8518009185791,
+    "longitude": -80.54898071289062
+  },
+  "website": "https://holycrosslutheranmocksville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c5e6198a-4a49-42ad-aec5-e53e4293c638",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c5e6198a-4a49-42ad-aec5-e53e4293c638"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holycrosslutheranmocksville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561177893"
+    }
+  ],
+  "advisories": []
+}

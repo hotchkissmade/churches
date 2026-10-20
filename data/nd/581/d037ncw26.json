@@ -1,0 +1,33 @@
+{
+  "id": "d037ncw26",
+  "url": "https://constellation.church/d037ncw26",
+  "name": "Messiah Evangelical Lutheran Church",
+  "displayName": "Messiah Evangelical Lutheran Church",
+  "address": {
+    "street": "2010 Elm St S",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58102"
+  },
+  "coordinates": {
+    "latitude": 46.906150817871094,
+    "longitude": -96.77779388427734
+  },
+  "website": "https://messiahfargo.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fdbdf79c-1b3a-4e6c-a5d7-611026fe32e4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fdbdf79c-1b3a-4e6c-a5d7-611026fe32e4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "messiahfargo.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450276311"
+    }
+  ],
+  "advisories": []
+}

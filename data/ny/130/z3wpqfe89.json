@@ -1,0 +1,33 @@
+{
+  "id": "z3wpqfe89",
+  "url": "https://constellation.church/z3wpqfe89",
+  "name": "Church of the Redeemer",
+  "displayName": "Church of the Redeemer",
+  "address": {
+    "street": "125 Tompkins Street",
+    "city": "Cortland",
+    "state": "NY",
+    "zip": "13045"
+  },
+  "coordinates": {
+    "latitude": 42.59224891662598,
+    "longitude": -76.18866348266602
+  },
+  "website": "https://redeemercortland.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5487",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5487"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemercortland.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161128062"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bx9jy4z88",
+  "url": "https://constellation.church/bx9jy4z88",
+  "name": "Ridgewood Church of the Assemblies of God",
+  "displayName": "Ridgewood Church of the Assemblies of God",
+  "address": {
+    "street": "131 Ridgewood Ave",
+    "city": "West View",
+    "state": "PA",
+    "zip": "15229"
+  },
+  "coordinates": {
+    "latitude": 40.514915466308594,
+    "longitude": -80.02265930175781
+  },
+  "website": "https://ridgewood.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ad68b111-51c7-43a4-98ee-d37207bee5d7&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ad68b111-51c7-43a4-98ee-d37207bee5d7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ridgewood.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "200000535"
+    }
+  ],
+  "advisories": []
+}

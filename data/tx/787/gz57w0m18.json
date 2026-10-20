@@ -1,0 +1,33 @@
+{
+  "id": "gz57w0m18",
+  "url": "https://constellation.church/gz57w0m18",
+  "name": "Church in Austin",
+  "displayName": "Church in Austin",
+  "address": {
+    "street": "2530 S Congress Ave",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78704"
+  },
+  "coordinates": {
+    "latitude": 30.23695945739746,
+    "longitude": -97.75550079345703
+  },
+  "website": "https://churchinaustin.org",
+  "listingUrl": "https://localchurches.org/churches/austin-tx-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "austin-tx-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinaustin.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237389220"
+    }
+  ],
+  "advisories": []
+}

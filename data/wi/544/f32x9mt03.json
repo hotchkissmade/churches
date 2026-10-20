@@ -1,0 +1,33 @@
+{
+  "id": "f32x9mt03",
+  "url": "https://constellation.church/f32x9mt03",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "201 S Washington St",
+    "city": "Unity",
+    "state": "WI",
+    "zip": "54488-9773"
+  },
+  "coordinates": {
+    "latitude": 44.84956359863281,
+    "longitude": -90.31845092773438
+  },
+  "website": "https://unity-trinity-lutheran-church.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b3cd9885-0cf7-46b0-bc2f-cad876ca25a9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b3cd9885-0cf7-46b0-bc2f-cad876ca25a9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "unity-trinity-lutheran-church.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391453801"
+    }
+  ],
+  "advisories": []
+}

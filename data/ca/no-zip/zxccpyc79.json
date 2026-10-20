@@ -1,0 +1,33 @@
+{
+  "id": "zxccpyc79",
+  "url": "https://constellation.church/zxccpyc79",
+  "name": "Santa Monica Friends Meeting",
+  "displayName": "Santa Monica Friends Meeting",
+  "address": {
+    "street": "1440 Harvard St",
+    "city": "Santa Monica",
+    "state": "CA",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 34.03375816345215,
+    "longitude": -118.47159576416016
+  },
+  "website": "https://santamonicaquakers.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/santa-monica-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "santa-monica-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "santamonicaquakers.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953976234"
+    }
+  ],
+  "advisories": []
+}

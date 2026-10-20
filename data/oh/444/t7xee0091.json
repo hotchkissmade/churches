@@ -1,0 +1,33 @@
+{
+  "id": "t7xee0091",
+  "url": "https://constellation.church/t7xee0091",
+  "name": "Central Baptist Church",
+  "displayName": "Central Baptist Church",
+  "address": {
+    "street": "1301 North Road",
+    "city": "Niles",
+    "state": "OH",
+    "zip": "44446"
+  },
+  "coordinates": {
+    "latitude": 41.20900535583496,
+    "longitude": -80.76373291015625
+  },
+  "website": "https://cbcniles.com",
+  "listingUrl": "https://churches.sbc.net/church/central-baptist-church-109/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "central-baptist-church-109"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cbcniles.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341185263"
+    }
+  ],
+  "advisories": []
+}

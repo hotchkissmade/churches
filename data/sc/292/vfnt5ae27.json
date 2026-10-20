@@ -1,0 +1,33 @@
+{
+  "id": "vfnt5ae27",
+  "url": "https://constellation.church/vfnt5ae27",
+  "name": "Trinity Episcopal Cathedral",
+  "displayName": "Trinity Episcopal Cathedral",
+  "address": {
+    "street": "1100 Sumter St",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29201-3795"
+  },
+  "coordinates": {
+    "latitude": 34.00103187561035,
+    "longitude": -81.03082656860352
+  },
+  "website": "https://trinitysc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-upper-south-carolina/list/trinity-cathedral-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-upper-south-carolina/trinity-cathedral-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitysc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570314419"
+    }
+  ],
+  "advisories": []
+}

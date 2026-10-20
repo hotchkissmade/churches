@@ -1,0 +1,33 @@
+{
+  "id": "zjnjv1245",
+  "url": "https://constellation.church/zjnjv1245",
+  "name": "Providence Baptist Church, St Louis",
+  "displayName": "Providence Baptist Church, St. Louis",
+  "address": {
+    "street": "2539 Rockford Ave",
+    "city": "Saint Louis",
+    "state": "MO",
+    "zip": "63144"
+  },
+  "coordinates": {
+    "latitude": 38.615278244018555,
+    "longitude": -90.35874938964844
+  },
+  "website": "https://pbcstlouis.com",
+  "listingUrl": "https://churches.sbc.net/church/providence-baptist-church-st-louis/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "providence-baptist-church-st-louis"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pbcstlouis.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431913373"
+    }
+  ],
+  "advisories": []
+}

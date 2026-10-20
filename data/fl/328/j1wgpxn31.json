@@ -1,0 +1,33 @@
+{
+  "id": "j1wgpxn31",
+  "url": "https://constellation.church/j1wgpxn31",
+  "name": "All Saints Lutheran Church",
+  "displayName": "All Saints Lutheran Church",
+  "address": {
+    "street": "12601 Balcombe Rd",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32837-6219"
+  },
+  "coordinates": {
+    "latitude": 28.382905960083008,
+    "longitude": -81.39750289916992
+  },
+  "website": "https://allsaintsorlando.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7b5148d2-da0d-4823-b217-12fb1e53fd8b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7b5148d2-da0d-4823-b217-12fb1e53fd8b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allsaintsorlando.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592713016"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "px8p9dt40",
+  "url": "https://constellation.church/px8p9dt40",
+  "name": "Cornerstone Church of Bluffton",
+  "displayName": "Cornerstone Church of Bluffton",
+  "address": {
+    "street": "1300 May River Rd",
+    "city": "Bluffton",
+    "state": "SC",
+    "zip": "29910"
+  },
+  "coordinates": {
+    "latitude": 32.23674201965332,
+    "longitude": -80.86088943481445
+  },
+  "website": "https://gocornerstone.church",
+  "listingUrl": "https://churches.sbc.net/church/cornerstone-church-of-bluffton/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cornerstone-church-of-bluffton"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gocornerstone.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "576078951"
+    }
+  ],
+  "advisories": []
+}

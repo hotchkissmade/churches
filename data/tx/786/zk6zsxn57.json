@@ -1,0 +1,33 @@
+{
+  "id": "zk6zsxn57",
+  "url": "https://constellation.church/zk6zsxn57",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "500 Immanuel Rd",
+    "city": "Pflugerville",
+    "state": "TX",
+    "zip": "78660-8057"
+  },
+  "coordinates": {
+    "latitude": 30.431455612182617,
+    "longitude": -97.6141128540039
+  },
+  "website": "https://ilcpville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=20d391a2-d621-48fc-8cc3-3d93943d4cc1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "20d391a2-d621-48fc-8cc3-3d93943d4cc1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ilcpville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741464779"
+    }
+  ],
+  "advisories": []
+}

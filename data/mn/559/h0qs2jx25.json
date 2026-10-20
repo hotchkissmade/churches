@@ -1,0 +1,33 @@
+{
+  "id": "h0qs2jx25",
+  "url": "https://constellation.church/h0qs2jx25",
+  "name": "Central Lutheran Church",
+  "displayName": "Central Lutheran Church",
+  "address": {
+    "street": "259 W Wabasha St",
+    "city": "Winona",
+    "state": "MN",
+    "zip": "55987-3259"
+  },
+  "coordinates": {
+    "latitude": 44.04972839355469,
+    "longitude": -91.64480590820312
+  },
+  "website": "https://centrallutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e40fb303-1e16-4a2e-98c3-86a5bc681fe1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e40fb303-1e16-4a2e-98c3-86a5bc681fe1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centrallutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410724058"
+    }
+  ],
+  "advisories": []
+}

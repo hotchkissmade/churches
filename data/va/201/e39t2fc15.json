@@ -1,0 +1,33 @@
+{
+  "id": "e39t2fc15",
+  "url": "https://constellation.church/e39t2fc15",
+  "name": "Forest Grove",
+  "displayName": "Forest Grove Baptist Church",
+  "address": {
+    "street": "258 Forest Grove Road",
+    "city": "Amissville",
+    "state": "VA",
+    "zip": "20106"
+  },
+  "coordinates": {
+    "latitude": 38.64158248901367,
+    "longitude": -78.0531234741211
+  },
+  "website": "https://forestgrovebc.org",
+  "listingUrl": "https://churches.sbc.net/church/forest-grove/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "forest-grove"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "forestgrovebc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "260277185"
+    }
+  ],
+  "advisories": []
+}

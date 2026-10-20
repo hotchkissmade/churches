@@ -1,0 +1,33 @@
+{
+  "id": "sh9nv0s68",
+  "url": "https://constellation.church/sh9nv0s68",
+  "name": "Lakeport",
+  "displayName": "Lakeport",
+  "address": {
+    "street": "455 S Forbes St",
+    "city": "Lakeport",
+    "state": "CA",
+    "zip": "95453"
+  },
+  "coordinates": {
+    "latitude": 39.03874588012695,
+    "longitude": -122.91629028320312
+  },
+  "website": "https://lcchub.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=83d3d70c-fc67-44d8-a9d0-d8d5399511ae&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "83d3d70c-fc67-44d8-a9d0-d8d5399511ae"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcchub.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942697326"
+    }
+  ],
+  "advisories": []
+}

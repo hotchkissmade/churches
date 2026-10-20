@@ -1,0 +1,33 @@
+{
+  "id": "fqg32b446",
+  "url": "https://constellation.church/fqg32b446",
+  "name": "Our Saviour's Lutheran Church",
+  "displayName": "Our Saviour's Lutheran Church",
+  "address": {
+    "street": "1300 Mansfield St",
+    "city": "Chippewa Falls",
+    "state": "WI",
+    "zip": "54729-2029"
+  },
+  "coordinates": {
+    "latitude": 44.93826103210449,
+    "longitude": -91.41748046875
+  },
+  "website": "https://oslccf.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6d845d1e-9e83-488a-a9e3-b6f63fb132e3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6d845d1e-9e83-488a-a9e3-b6f63fb132e3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oslccf.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391338283"
+    }
+  ],
+  "advisories": []
+}

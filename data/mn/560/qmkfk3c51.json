@@ -1,0 +1,33 @@
+{
+  "id": "qmkfk3c51",
+  "url": "https://constellation.church/qmkfk3c51",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "300 Elm Ave E",
+    "city": "Waseca",
+    "state": "MN",
+    "zip": "56093-2977"
+  },
+  "coordinates": {
+    "latitude": 44.07741165161133,
+    "longitude": -93.5042953491211
+  },
+  "website": "https://wasecagracelutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=693b1c0d-6477-40d8-8ea7-29e1835ef5c1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "693b1c0d-6477-40d8-8ea7-29e1835ef5c1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wasecagracelutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416008188"
+    }
+  ],
+  "advisories": []
+}

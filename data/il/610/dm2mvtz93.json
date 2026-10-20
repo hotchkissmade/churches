@@ -1,0 +1,33 @@
+{
+  "id": "dm2mvtz93",
+  "url": "https://constellation.church/dm2mvtz93",
+  "name": "Oregon United Methodist Church",
+  "displayName": "Oregon United Methodist Church",
+  "address": {
+    "street": "200 S 4th Street",
+    "city": "Oregon",
+    "state": "IL",
+    "zip": "61061"
+  },
+  "coordinates": {
+    "latitude": 42.01293754577637,
+    "longitude": -89.3328742980957
+  },
+  "website": "https://oregonumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFK18IAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFK18IAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oregonumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363261649"
+    }
+  ],
+  "advisories": []
+}

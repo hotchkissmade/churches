@@ -1,0 +1,33 @@
+{
+  "id": "hjkpvsc28",
+  "url": "https://constellation.church/hjkpvsc28",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "225 S 3rd St",
+    "city": "Rockford",
+    "state": "IL",
+    "zip": "61104-2035"
+  },
+  "coordinates": {
+    "latitude": 42.26568412780762,
+    "longitude": -89.08794403076172
+  },
+  "website": "https://firstlutheranrockford.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7bd0445f-6f02-4bc1-a538-6f624c9d81b1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7bd0445f-6f02-4bc1-a538-6f624c9d81b1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranrockford.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362467867"
+    }
+  ],
+  "advisories": []
+}

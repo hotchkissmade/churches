@@ -1,0 +1,33 @@
+{
+  "id": "m8v6ncg95",
+  "url": "https://constellation.church/m8v6ncg95",
+  "name": "Eastville Baptist Church",
+  "displayName": "Eastville Baptist Church",
+  "address": {
+    "street": "5413 Willow Oak Road",
+    "city": "Eastville",
+    "state": "VA",
+    "zip": "23347"
+  },
+  "coordinates": {
+    "latitude": 37.352088928222656,
+    "longitude": -75.93945693969727
+  },
+  "website": "https://eastvillebaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/eastville-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "eastville-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastvillebaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611459581"
+    }
+  ],
+  "advisories": []
+}

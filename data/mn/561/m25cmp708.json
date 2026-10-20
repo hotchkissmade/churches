@@ -1,0 +1,33 @@
+{
+  "id": "m25cmp708",
+  "url": "https://constellation.church/m25cmp708",
+  "name": "American Lutheran Church",
+  "displayName": "American Lutheran Church",
+  "address": {
+    "street": "906 Prospect Ave",
+    "city": "Windom",
+    "state": "MN",
+    "zip": "56101-1754"
+  },
+  "coordinates": {
+    "latitude": 43.86602783203125,
+    "longitude": -95.11080932617188
+  },
+  "website": "https://alcofwindom.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5f07d206-aa7a-4e77-b204-931ded0fc699",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5f07d206-aa7a-4e77-b204-931ded0fc699"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "alcofwindom.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410742499"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pb8e71278",
+  "url": "https://constellation.church/pb8e71278",
+  "name": "Pilgrim Lutheran Church",
+  "displayName": "Pilgrim Lutheran Church",
+  "address": {
+    "street": "4300 N Winchester Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60613-1016"
+  },
+  "coordinates": {
+    "latitude": 41.9598805,
+    "longitude": -87.6778921
+  },
+  "website": "https://pilgrimchurchchicago.org/about",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=066e485f-67e5-49ef-bfb2-17bfd719f9e4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "066e485f-67e5-49ef-bfb2-17bfd719f9e4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pilgrimchurchchicago.org/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362284295"
+    }
+  ],
+  "advisories": []
+}

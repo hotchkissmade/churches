@@ -1,0 +1,33 @@
+{
+  "id": "deca7da08",
+  "url": "https://constellation.church/deca7da08",
+  "name": "Red Mountain Church",
+  "displayName": "Red Mountain Church",
+  "address": {
+    "street": "2829 7th Avenue South",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35233"
+  },
+  "coordinates": {
+    "latitude": 33.5112190246582,
+    "longitude": -86.7879524230957
+  },
+  "website": "https://redmountainchurch.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4387",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4387"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redmountainchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "200832479"
+    }
+  ],
+  "advisories": []
+}

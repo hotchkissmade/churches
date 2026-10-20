@@ -1,0 +1,33 @@
+{
+  "id": "ebgp6sv08",
+  "url": "https://constellation.church/ebgp6sv08",
+  "name": "Christ Church Lutheran",
+  "displayName": "Christ Church Lutheran",
+  "address": {
+    "street": "3244 34th Ave S",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55406-2108"
+  },
+  "coordinates": {
+    "latitude": 44.943538665771484,
+    "longitude": -93.22309875488281
+  },
+  "website": "https://christchurchluth.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d0e540a0-3955-40fe-9cb4-c73a69c5e76e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d0e540a0-3955-40fe-9cb4-c73a69c5e76e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christchurchluth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410954923"
+    }
+  ],
+  "advisories": []
+}

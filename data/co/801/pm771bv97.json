@@ -1,0 +1,33 @@
+{
+  "id": "pm771bv97",
+  "url": "https://constellation.church/pm771bv97",
+  "name": "Skyview Presbyterian Church",
+  "displayName": "Skyview Presbyterian Church",
+  "address": {
+    "street": "251 E. Sterne Boulevard",
+    "city": "Centennial",
+    "state": "CO",
+    "zip": "80122"
+  },
+  "coordinates": {
+    "latitude": 39.5779914855957,
+    "longitude": -104.97797393798828
+  },
+  "website": "https://skyviewpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1475",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1475"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "skyviewpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "841295431"
+    }
+  ],
+  "advisories": []
+}

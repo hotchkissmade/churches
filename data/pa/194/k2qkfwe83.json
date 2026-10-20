@@ -1,0 +1,33 @@
+{
+  "id": "k2qkfwe83",
+  "url": "https://constellation.church/k2qkfwe83",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "1239 Clover Mill Rd",
+    "city": "Chester Springs",
+    "state": "PA",
+    "zip": "19425-1213"
+  },
+  "coordinates": {
+    "latitude": 40.09842109680176,
+    "longitude": -75.58883666992188
+  },
+  "website": "https://stpeterschestersprings.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=df153988-d6a9-44e5-a496-05e0f213429e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "df153988-d6a9-44e5-a496-05e0f213429e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpeterschestersprings.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236412052"
+    }
+  ],
+  "advisories": []
+}

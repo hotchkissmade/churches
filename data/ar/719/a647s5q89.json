@@ -1,0 +1,33 @@
+{
+  "id": "a647s5q89",
+  "url": "https://constellation.church/a647s5q89",
+  "name": "Piney Baptist Church",
+  "displayName": "Piney Baptist Church",
+  "address": {
+    "street": "3150 Albert Pike Rd",
+    "city": "Hot Springs",
+    "state": "AR",
+    "zip": "71913"
+  },
+  "coordinates": {
+    "latitude": 34.50522041320801,
+    "longitude": -93.1275405883789
+  },
+  "website": "https://pineybaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/piney-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "piney-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pineybaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237380579"
+    }
+  ],
+  "advisories": []
+}

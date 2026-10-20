@@ -1,0 +1,33 @@
+{
+  "id": "jm6d76327",
+  "url": "https://constellation.church/jm6d76327",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "132 E School St",
+    "city": "Neosho",
+    "state": "WI",
+    "zip": "53059-0145"
+  },
+  "coordinates": {
+    "latitude": 43.30879211425781,
+    "longitude": -88.51701354980469
+  },
+  "website": "https://stpaulsneosho.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24781",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24781"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsneosho.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391371091"
+    }
+  ],
+  "advisories": []
+}

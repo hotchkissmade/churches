@@ -1,0 +1,33 @@
+{
+  "id": "zzcx73p84",
+  "url": "https://constellation.church/zzcx73p84",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "6 Eddy St",
+    "city": "Waltham",
+    "state": "MA",
+    "zip": "02453-7753"
+  },
+  "coordinates": {
+    "latitude": 42.37457275390625,
+    "longitude": -71.25370025634766
+  },
+  "website": "https://firstlutheranwaltham.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=54018a61-cee7-486a-807c-fdaf7eacd11f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "54018a61-cee7-486a-807c-fdaf7eacd11f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranwaltham.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "046079488"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "txbf83d82",
+  "url": "https://constellation.church/txbf83d82",
+  "name": "Western Hills United Methodist Church",
+  "displayName": "Western Hills United Methodist Church",
+  "address": {
+    "street": "524 Thunderbird Dr",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79912-3315"
+  },
+  "coordinates": {
+    "latitude": 31.83924102783203,
+    "longitude": -106.5246810913086
+  },
+  "website": "https://westernhillsep.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PEmeCIAT",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PEmeCIAT"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westernhillsep.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741319918"
+    }
+  ],
+  "advisories": []
+}

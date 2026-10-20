@@ -1,0 +1,33 @@
+{
+  "id": "ssysg3r93",
+  "url": "https://constellation.church/ssysg3r93",
+  "name": "St John's/St Mark's Lutheran Church",
+  "displayName": "St. John's/St Mark's Lutheran Church",
+  "address": {
+    "street": "143 Church St",
+    "city": "Canajoharie",
+    "state": "NY",
+    "zip": "13317-1121"
+  },
+  "coordinates": {
+    "latitude": 42.90777778625488,
+    "longitude": -74.57149124145508
+  },
+  "website": "https://stjm-canajoharie.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3958e0f6-5552-481d-b6aa-5252fb698fa5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3958e0f6-5552-481d-b6aa-5252fb698fa5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjm-canajoharie.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "146003513"
+    }
+  ],
+  "advisories": []
+}

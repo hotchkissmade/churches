@@ -1,0 +1,33 @@
+{
+  "id": "z72te0n85",
+  "url": "https://constellation.church/z72te0n85",
+  "name": "Grace House",
+  "displayName": "Grace House",
+  "address": {
+    "street": "182 5th Street NW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30313"
+  },
+  "coordinates": {
+    "latitude": 33.77653694152832,
+    "longitude": -84.3931655883789
+  },
+  "website": "https://atllutheran.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-atlanta/list/grace-house",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-atlanta/grace-house"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "atllutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581904011"
+    }
+  ],
+  "advisories": []
+}

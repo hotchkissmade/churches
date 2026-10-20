@@ -1,0 +1,33 @@
+{
+  "id": "rnbtm7z93",
+  "url": "https://constellation.church/rnbtm7z93",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "1054 W Clinton St",
+    "city": "Elmira",
+    "state": "NY",
+    "zip": "14905-1400"
+  },
+  "coordinates": {
+    "latitude": 42.08645057678223,
+    "longitude": -76.83667373657227
+  },
+  "website": "https://firstpreselmira.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/5899/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "5899"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpreselmira.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "160755773"
+    }
+  ],
+  "advisories": []
+}

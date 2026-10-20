@@ -1,0 +1,33 @@
+{
+  "id": "rfdf7cv95",
+  "url": "https://constellation.church/rfdf7cv95",
+  "name": "Belfield Lutheran Church",
+  "displayName": "Belfield Lutheran Church",
+  "address": {
+    "street": "506 2nd Ave NE",
+    "city": "Belfield",
+    "state": "ND",
+    "zip": "58622-7232"
+  },
+  "coordinates": {
+    "latitude": 46.88579559326172,
+    "longitude": -103.19258880615234
+  },
+  "website": "https://belfieldlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=71499f31-994b-4d62-b073-807fc517fc57",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "71499f31-994b-4d62-b073-807fc517fc57"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "belfieldlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450342021"
+    }
+  ],
+  "advisories": []
+}

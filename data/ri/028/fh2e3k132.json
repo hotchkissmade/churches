@@ -1,0 +1,33 @@
+{
+  "id": "fh2e3k132",
+  "url": "https://constellation.church/fh2e3k132",
+  "name": "St. John the Baptist Church",
+  "displayName": "St. John the Baptist Church",
+  "address": {
+    "street": "501 E School St",
+    "city": "Woonsocket",
+    "state": "RI",
+    "zip": "02895-1375"
+  },
+  "coordinates": {
+    "latitude": 42.010498046875,
+    "longitude": -71.50500106811523
+  },
+  "website": "https://stjohnroc.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ro-womsjb",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ro-womsjb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnroc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "056010984"
+    }
+  ],
+  "advisories": []
+}

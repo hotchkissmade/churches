@@ -1,0 +1,37 @@
+{
+  "id": "dpjyz0c31",
+  "url": "https://constellation.church/dpjyz0c31",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "533 S Webster Ave",
+    "city": "Green Bay",
+    "state": "WI",
+    "zip": "54301-3924"
+  },
+  "coordinates": {
+    "latitude": 43.06033515930176,
+    "longitude": -94.42559051513672
+  },
+  "website": "https://stpaulgreenbay.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24581",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24581"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulgreenbay.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390883471"
+    },
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "975255"
+    }
+  ],
+  "advisories": []
+}

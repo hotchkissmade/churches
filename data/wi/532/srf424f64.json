@@ -1,0 +1,33 @@
+{
+  "id": "srf424f64",
+  "url": "https://constellation.church/srf424f64",
+  "name": "Epikos Church",
+  "displayName": "Epikos Church",
+  "address": {
+    "street": "2308 E Belleview Pl",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53211"
+  },
+  "coordinates": {
+    "latitude": 43.066192626953125,
+    "longitude": -87.88142395019531
+  },
+  "website": "https://epikos.org",
+  "listingUrl": "https://converge.org/church/epikos-church/",
+  "identifiers": [
+    {
+      "namespace": "org.converge.id",
+      "value": "37873"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "epikos.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "200655547"
+    }
+  ],
+  "advisories": []
+}

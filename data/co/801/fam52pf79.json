@@ -1,0 +1,33 @@
+{
+  "id": "fam52pf79",
+  "url": "https://constellation.church/fam52pf79",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "17750 Knollwood Dr",
+    "city": "Monument",
+    "state": "CO",
+    "zip": "80132-7451"
+  },
+  "coordinates": {
+    "latitude": 39.08970260620117,
+    "longitude": -104.85295867919922
+  },
+  "website": "https://trinitymonument.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c6dfc8a5-5884-4e28-b9cb-7b15e0622cf1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c6dfc8a5-5884-4e28-b9cb-7b15e0622cf1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitymonument.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "841157337"
+    }
+  ],
+  "advisories": []
+}

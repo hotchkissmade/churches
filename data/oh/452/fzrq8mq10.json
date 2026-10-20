@@ -1,0 +1,33 @@
+{
+  "id": "fzrq8mq10",
+  "url": "https://constellation.church/fzrq8mq10",
+  "name": "Kenwood Baptist Church",
+  "displayName": "Kenwood Baptist Church",
+  "address": {
+    "street": "8341 Kenwood Rd",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45236"
+  },
+  "coordinates": {
+    "latitude": 39.209726333618164,
+    "longitude": -84.38016128540039
+  },
+  "website": "https://kenwoodbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/kenwood-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "kenwood-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kenwoodbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310568234"
+    }
+  ],
+  "advisories": []
+}

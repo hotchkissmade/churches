@@ -1,0 +1,33 @@
+{
+  "id": "r1p4rgj24",
+  "url": "https://constellation.church/r1p4rgj24",
+  "name": "First Baptist Church Chaffee",
+  "displayName": "First Baptist Church Chaffee",
+  "address": {
+    "street": "301 S 3rd St",
+    "city": "Chaffee",
+    "state": "MO",
+    "zip": "63740"
+  },
+  "coordinates": {
+    "latitude": 37.17953681945801,
+    "longitude": -89.66054916381836
+  },
+  "website": "https://chaffeefbc.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-chaffee/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-chaffee"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chaffeefbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430723499"
+    }
+  ],
+  "advisories": []
+}

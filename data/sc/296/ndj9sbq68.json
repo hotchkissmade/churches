@@ -1,0 +1,37 @@
+{
+  "id": "ndj9sbq68",
+  "url": "https://constellation.church/ndj9sbq68",
+  "name": "Ridgewood Church",
+  "displayName": "Ridgewood Church",
+  "address": {
+    "street": "407 Ridgewood Dr",
+    "city": "Greer",
+    "state": "SC",
+    "zip": "29651"
+  },
+  "coordinates": {
+    "latitude": 34.94918632507324,
+    "longitude": -82.21807479858398
+  },
+  "website": "https://ridgewoodgreer.com",
+  "listingUrl": "https://churches.sbc.net/church/ridgewood-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "ridgewood-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ridgewoodgreer.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "463813175"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570769784"
+    }
+  ],
+  "advisories": []
+}

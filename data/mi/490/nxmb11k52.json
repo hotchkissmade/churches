@@ -1,0 +1,33 @@
+{
+  "id": "nxmb11k52",
+  "url": "https://constellation.church/nxmb11k52",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "718 Arbor Ct",
+    "city": "South Haven",
+    "state": "MI",
+    "zip": "49090-1959"
+  },
+  "coordinates": {
+    "latitude": 42.3918779,
+    "longitude": -86.2686454
+  },
+  "website": "https://stpaulsouthhaven.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24323",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24323"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsouthhaven.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381642600"
+    }
+  ],
+  "advisories": []
+}

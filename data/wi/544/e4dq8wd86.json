@@ -1,0 +1,33 @@
+{
+  "id": "e4dq8wd86",
+  "url": "https://constellation.church/e4dq8wd86",
+  "name": "Homestead Church",
+  "displayName": "Homestead Church",
+  "address": {
+    "street": "710 Center St",
+    "city": "Antigo",
+    "state": "WI",
+    "zip": "54409"
+  },
+  "coordinates": {
+    "latitude": 45.157745361328125,
+    "longitude": -89.15196228027344
+  },
+  "website": "https://homesteadantigo.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=b40f5618-8000-4d21-b665-6e5d12141b23&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "b40f5618-8000-4d21-b665-6e5d12141b23"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "homesteadantigo.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "260104854"
+    }
+  ],
+  "advisories": []
+}

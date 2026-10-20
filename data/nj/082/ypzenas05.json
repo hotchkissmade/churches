@@ -1,0 +1,33 @@
+{
+  "id": "ypzenas05",
+  "url": "https://constellation.church/ypzenas05",
+  "name": "Holy Trinity Lutheran Church",
+  "displayName": "Holy Trinity Lutheran Church",
+  "address": {
+    "street": "2810 Atlantic Ave",
+    "city": "Wildwood",
+    "state": "NJ",
+    "zip": "08260-4902"
+  },
+  "coordinates": {
+    "latitude": 38.99141311645508,
+    "longitude": -74.80855941772461
+  },
+  "website": "https://holytrinitywildwood.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5b3e65d9-2120-4aa7-bb22-e416ae456bca",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5b3e65d9-2120-4aa7-bb22-e416ae456bca"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holytrinitywildwood.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "160817372"
+    }
+  ],
+  "advisories": []
+}

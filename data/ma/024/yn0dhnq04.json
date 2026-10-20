@@ -1,0 +1,33 @@
+{
+  "id": "yn0dhnq04",
+  "url": "https://constellation.church/yn0dhnq04",
+  "name": "St. Paul's Church",
+  "displayName": "St. Paul's Church",
+  "address": {
+    "street": "1135 Walnut St",
+    "city": "Newton (Newton Highlands)",
+    "state": "MA",
+    "zip": "02461"
+  },
+  "coordinates": {
+    "latitude": 42.322614669799805,
+    "longitude": -71.2072868347168
+  },
+  "website": "https://parishofstpaul.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-massachusetts/list/st-pauls-church-6",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-massachusetts/st-pauls-church-6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parishofstpaul.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042104816"
+    }
+  ],
+  "advisories": []
+}

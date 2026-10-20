@@ -1,0 +1,33 @@
+{
+  "id": "h7abgxx04",
+  "url": "https://constellation.church/h7abgxx04",
+  "name": "Allen Blvd Baptist Church",
+  "displayName": "Allen Blvd Baptist Church",
+  "address": {
+    "street": "11520 SW Allen Blvd",
+    "city": "Beaverton",
+    "state": "OR",
+    "zip": "97005"
+  },
+  "coordinates": {
+    "latitude": 45.47618865966797,
+    "longitude": -122.79598236083984
+  },
+  "website": "https://allenbbc.org",
+  "listingUrl": "https://venturechurches.org/churches/allen-blvd-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "allen-blvd-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allenbbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930563921"
+    }
+  ],
+  "advisories": []
+}

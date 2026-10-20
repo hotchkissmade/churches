@@ -1,0 +1,33 @@
+{
+  "id": "vcwg24738",
+  "url": "https://constellation.church/vcwg24738",
+  "name": "Morgan Hill Bible Church",
+  "displayName": "Morgan Hill Bible Church",
+  "address": {
+    "street": "15055 Monterey Street",
+    "city": "Morgan Hill",
+    "state": "CA",
+    "zip": "95037"
+  },
+  "coordinates": {
+    "latitude": 37.10378646850586,
+    "longitude": -121.62960052490234
+  },
+  "website": "https://mhbible.org/welcome",
+  "listingUrl": "https://venturechurches.org/churches/morgan-hill-bible-church/",
+  "identifiers": [
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "morgan-hill-bible-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mhbible.org/welcome"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "680643629"
+    }
+  ],
+  "advisories": []
+}

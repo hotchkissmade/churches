@@ -1,0 +1,33 @@
+{
+  "id": "mg6hkmt59",
+  "url": "https://constellation.church/mg6hkmt59",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "1803 Dundalk Ave",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21222-2904"
+  },
+  "coordinates": {
+    "latitude": 39.27191925048828,
+    "longitude": -76.53026580810547
+  },
+  "website": "https://stlukesdundalk.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=683a18db-14aa-4350-ab77-4d002bea566f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "683a18db-14aa-4350-ab77-4d002bea566f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesdundalk.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "526033318"
+    }
+  ],
+  "advisories": []
+}

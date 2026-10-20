@@ -1,0 +1,33 @@
+{
+  "id": "t1awmed59",
+  "url": "https://constellation.church/t1awmed59",
+  "name": "St John's Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "26 3rd St",
+    "city": "Wood Lake",
+    "state": "MN",
+    "zip": "56297-0156"
+  },
+  "coordinates": {
+    "latitude": 44.650177001953125,
+    "longitude": -95.53913116455078
+  },
+  "website": "https://stjohnswoodlake.com/service-videos",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24424",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24424"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnswoodlake.com/service-videos"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410764089"
+    }
+  ],
+  "advisories": []
+}

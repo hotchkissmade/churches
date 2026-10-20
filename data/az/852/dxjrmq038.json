@@ -1,0 +1,33 @@
+{
+  "id": "dxjrmq038",
+  "url": "https://constellation.church/dxjrmq038",
+  "name": "Desert Palms Church",
+  "displayName": "Desert Palms Church",
+  "address": {
+    "street": "4265 S. Arizona Avenue",
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85248"
+  },
+  "coordinates": {
+    "latitude": 33.24335289001465,
+    "longitude": -111.84060668945312
+  },
+  "website": "https://dpc-pca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1504",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1504"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dpc-pca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860769773"
+    }
+  ],
+  "advisories": []
+}

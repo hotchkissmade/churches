@@ -1,0 +1,33 @@
+{
+  "id": "ra4msjh42",
+  "url": "https://constellation.church/ra4msjh42",
+  "name": "McCombs Baptist Church, El Paso",
+  "displayName": "McCombs Baptist Church, El Paso",
+  "address": {
+    "street": "10601 McCombs St",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79924"
+  },
+  "coordinates": {
+    "latitude": 31.92247772216797,
+    "longitude": -106.4078598022461
+  },
+  "website": "https://mccombsbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/mccombs-baptist-church-el-paso/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mccombs-baptist-church-el-paso"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mccombsbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742309538"
+    }
+  ],
+  "advisories": []
+}

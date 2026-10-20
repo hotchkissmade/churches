@@ -1,0 +1,33 @@
+{
+  "id": "nkqd3j960",
+  "url": "https://constellation.church/nkqd3j960",
+  "name": "St Andrew's Lutheran Church",
+  "displayName": "St. Andrew's Lutheran Church",
+  "address": {
+    "street": "2650 148th Ave SE",
+    "city": "Bellevue",
+    "state": "WA",
+    "zip": "98007-6452"
+  },
+  "coordinates": {
+    "latitude": 47.58588409423828,
+    "longitude": -122.14231872558594
+  },
+  "website": "https://salc.church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=aa0a30e4-e8ee-47b2-b606-a7c9e6757da9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "aa0a30e4-e8ee-47b2-b606-a7c9e6757da9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910949638"
+    }
+  ],
+  "advisories": []
+}

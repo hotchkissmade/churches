@@ -1,0 +1,33 @@
+{
+  "id": "d111cc510",
+  "url": "https://constellation.church/d111cc510",
+  "name": "Pleasant View Evangelical Lutheran Church",
+  "displayName": "Pleasant View Evangelical Lutheran Church",
+  "address": {
+    "street": "2733 Spring Hill Rd",
+    "city": "Staunton",
+    "state": "VA",
+    "zip": "24401-6415"
+  },
+  "coordinates": {
+    "latitude": 38.21162223815918,
+    "longitude": -79.05825805664062
+  },
+  "website": "https://pvelchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a4360d8a-e221-4f0e-9055-c92a892509b8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a4360d8a-e221-4f0e-9055-c92a892509b8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pvelchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540574602"
+    }
+  ],
+  "advisories": []
+}

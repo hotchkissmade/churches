@@ -1,0 +1,33 @@
+{
+  "id": "g1jhcjs23",
+  "url": "https://constellation.church/g1jhcjs23",
+  "name": "St Stephen Lutheran Church",
+  "displayName": "St. Stephen Lutheran Church",
+  "address": {
+    "street": "632 S Madison St",
+    "city": "Adrian",
+    "state": "MI",
+    "zip": "49221-3138"
+  },
+  "coordinates": {
+    "latitude": 41.89011192321777,
+    "longitude": -84.05913925170898
+  },
+  "website": "https://ststephenadrian.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24273",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24273"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ststephenadrian.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381652320"
+    }
+  ],
+  "advisories": []
+}

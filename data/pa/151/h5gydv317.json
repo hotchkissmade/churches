@@ -1,0 +1,33 @@
+{
+  "id": "h5gydv317",
+  "url": "https://constellation.church/h5gydv317",
+  "name": "St Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "616 Washington St",
+    "city": "Sewickley",
+    "state": "PA",
+    "zip": "15143-1805"
+  },
+  "coordinates": {
+    "latitude": 40.53810119628906,
+    "longitude": -80.17922592163086
+  },
+  "website": "https://stpaulssewickley.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3949e628-db58-44c5-b1ab-84718d4772a5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3949e628-db58-44c5-b1ab-84718d4772a5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulssewickley.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251186836"
+    }
+  ],
+  "advisories": []
+}

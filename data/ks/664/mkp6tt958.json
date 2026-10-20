@@ -1,0 +1,33 @@
+{
+  "id": "mkp6tt958",
+  "url": "https://constellation.church/mkp6tt958",
+  "name": "Lyndon United Methodist Church",
+  "displayName": "Lyndon United Methodist Church",
+  "address": {
+    "street": "126 W 8th St",
+    "city": "Lyndon",
+    "state": "KS",
+    "zip": "66451-0256"
+  },
+  "coordinates": {
+    "latitude": 38.61065864562988,
+    "longitude": -95.68553924560547
+  },
+  "website": "https://lyndon-united-methodist-church.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKXvIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKXvIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lyndon-united-methodist-church.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480930292"
+    }
+  ],
+  "advisories": []
+}

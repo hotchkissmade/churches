@@ -1,0 +1,33 @@
+{
+  "id": "nq8p1jm64",
+  "url": "https://constellation.church/nq8p1jm64",
+  "name": "Bethany Presbyterian Church",
+  "displayName": "Bethany Presbyterian Church",
+  "address": {
+    "street": "5625 24th St",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95822"
+  },
+  "coordinates": {
+    "latitude": 38.52404975891113,
+    "longitude": -121.48239135742188
+  },
+  "website": "https://bethpres.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/741/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "741"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethpres.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941366599"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ws32cxp11",
+  "url": "https://constellation.church/ws32cxp11",
+  "name": "City Reach Church",
+  "displayName": "City Reach Church",
+  "address": {
+    "street": "950 Weiser St",
+    "city": "Reading",
+    "state": "PA",
+    "zip": "19601"
+  },
+  "coordinates": {
+    "latitude": 40.35037040710449,
+    "longitude": -75.93796920776367
+  },
+  "website": "https://cityreachreading.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=7ba8c735-f516-4f21-a1c6-e16cdcee7685&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "7ba8c735-f516-4f21-a1c6-e16cdcee7685"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cityreachreading.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "453514262"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a4ac3c678",
+  "url": "https://constellation.church/a4ac3c678",
+  "name": "St. Paul's Church",
+  "displayName": "St. Paul's Church",
+  "address": {
+    "street": "31 Rider Avenue",
+    "city": "Patchogue",
+    "state": "NY",
+    "zip": "11772"
+  },
+  "coordinates": {
+    "latitude": 40.76460838317871,
+    "longitude": -73.00854110717773
+  },
+  "website": "https://stpaulspatchogue.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-pauls-episcopal-church-3",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-pauls-episcopal-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulspatchogue.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112007577"
+    }
+  ],
+  "advisories": []
+}

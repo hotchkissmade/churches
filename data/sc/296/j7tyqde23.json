@@ -1,0 +1,33 @@
+{
+  "id": "j7tyqde23",
+  "url": "https://constellation.church/j7tyqde23",
+  "name": "Chauga Baptist Church",
+  "displayName": "Chauga Baptist Church",
+  "address": {
+    "street": "150 Chauga Church Rd",
+    "city": "Westminster",
+    "state": "SC",
+    "zip": "29693"
+  },
+  "coordinates": {
+    "latitude": 34.623939514160156,
+    "longitude": -83.13897705078125
+  },
+  "website": "https://chaugabaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/chauga-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "chauga-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chaugabaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570762066"
+    }
+  ],
+  "advisories": []
+}

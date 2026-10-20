@@ -1,0 +1,37 @@
+{
+  "id": "ykgdfya76",
+  "url": "https://constellation.church/ykgdfya76",
+  "name": "Plymouth Church of Brooklyn",
+  "displayName": "Plymouth Church of Brooklyn",
+  "address": {
+    "street": "75 Hicks St",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11201"
+  },
+  "coordinates": {
+    "latitude": 40.699140548706055,
+    "longitude": -73.99321365356445
+  },
+  "website": "https://plymouthchurch.org",
+  "listingUrl": "https://www.naccc.org/wpbdp_listing/plymouth-church-of-brooklyn/",
+  "identifiers": [
+    {
+      "namespace": "org.naccc.id",
+      "value": "plymouth-church-of-brooklyn"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "plymouthchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111672783"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111672831"
+    }
+  ],
+  "advisories": []
+}

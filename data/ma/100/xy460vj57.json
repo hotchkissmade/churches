@@ -1,0 +1,33 @@
+{
+  "id": "xy460vj57",
+  "url": "https://constellation.church/xy460vj57",
+  "name": "MERCYhouse Church",
+  "displayName": "MERCYhouse Church",
+  "address": {
+    "street": "365 North Pleasant St",
+    "city": "Amherst",
+    "state": "MA",
+    "zip": "10002"
+  },
+  "coordinates": {
+    "latitude": 42.38302421569824,
+    "longitude": -72.52033615112305
+  },
+  "website": "https://mercyhouse365.org",
+  "listingUrl": "https://churches.sbc.net/church/mercyhouse-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mercyhouse-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mercyhouse365.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "043514232"
+    }
+  ],
+  "advisories": []
+}

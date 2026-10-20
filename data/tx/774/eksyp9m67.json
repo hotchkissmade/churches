@@ -1,0 +1,33 @@
+{
+  "id": "eksyp9m67",
+  "url": "https://constellation.church/eksyp9m67",
+  "name": "St. Aidan's Episcopal Church",
+  "displayName": "St. Aidan's Episcopal Church",
+  "address": {
+    "street": "13131 Fry Rd",
+    "city": "Cypress",
+    "state": "TX",
+    "zip": "77433-3339"
+  },
+  "coordinates": {
+    "latitude": 29.96990966796875,
+    "longitude": -95.70306396484375
+  },
+  "website": "https://aidanschurch.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-texas/list/st-aidans-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-texas/st-aidans-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "aidanschurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "201447154"
+    }
+  ],
+  "advisories": []
+}

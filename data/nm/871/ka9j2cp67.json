@@ -1,0 +1,33 @@
+{
+  "id": "ka9j2cp67",
+  "url": "https://constellation.church/ka9j2cp67",
+  "name": "Episcopal Diocese of the Rio Grande",
+  "displayName": "Episcopal Diocese of the Rio Grande",
+  "address": {
+    "street": "318 Silver Ave SW",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87102"
+  },
+  "coordinates": {
+    "latitude": 35.0822685,
+    "longitude": -106.6518385
+  },
+  "website": "https://dioceserg.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/rio-grande/list/episcopal-diocese-rio-grande",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "rio-grande/episcopal-diocese-rio-grande"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dioceserg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850152901"
+    }
+  ],
+  "advisories": []
+}

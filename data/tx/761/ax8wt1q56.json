@@ -1,0 +1,33 @@
+{
+  "id": "ax8wt1q56",
+  "url": "https://constellation.church/ax8wt1q56",
+  "name": "Refuge Church",
+  "displayName": "Refuge Church",
+  "address": {
+    "street": "2101 N Riverside Dr",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76111"
+  },
+  "coordinates": {
+    "latitude": 32.78961753845215,
+    "longitude": -97.30267333984375
+  },
+  "website": "https://refugefw.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=fbe0d0f9-fa27-4815-ba78-f9818484214b&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "fbe0d0f9-fa27-4815-ba78-f9818484214b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "refugefw.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900472720"
+    }
+  ],
+  "advisories": []
+}

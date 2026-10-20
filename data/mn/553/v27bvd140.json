@@ -1,0 +1,33 @@
+{
+  "id": "v27bvd140",
+  "url": "https://constellation.church/v27bvd140",
+  "name": "Lutheran Church of the Ascension",
+  "displayName": "Lutheran Church of the Ascension",
+  "address": {
+    "street": "1801 E Cliff Rd",
+    "city": "Burnsville",
+    "state": "MN",
+    "zip": "55337-1344"
+  },
+  "coordinates": {
+    "latitude": 44.79007530212402,
+    "longitude": -93.24834442138672
+  },
+  "website": "https://ascensionburnsville.org",
+  "listingUrl": "https://locator.lcms.org/church/C/123087",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "123087"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ascensionburnsville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416050188"
+    }
+  ],
+  "advisories": []
+}

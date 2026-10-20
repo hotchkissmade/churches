@@ -1,0 +1,33 @@
+{
+  "id": "fqhxf5w24",
+  "url": "https://constellation.church/fqhxf5w24",
+  "name": "Christ Church Anglican",
+  "displayName": "Christ Church Anglican",
+  "address": {
+    "street": "5500 West 91st Street",
+    "city": "Overland Park",
+    "state": "KS",
+    "zip": "66207"
+  },
+  "coordinates": {
+    "latitude": 38.9649658203125,
+    "longitude": -94.65035247802734
+  },
+  "website": "https://christchurchkc.org",
+  "listingUrl": "https://www.acna.org/admin_units/100",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "100"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christchurchkc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431923726"
+    }
+  ],
+  "advisories": []
+}

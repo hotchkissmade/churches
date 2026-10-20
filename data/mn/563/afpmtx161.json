@@ -1,0 +1,33 @@
+{
+  "id": "afpmtx161",
+  "url": "https://constellation.church/afpmtx161",
+  "name": "Petra Lutheran Church",
+  "displayName": "Petra Lutheran Church",
+  "address": {
+    "street": "1049 1st Ave N",
+    "city": "Sauk Rapids",
+    "state": "MN",
+    "zip": "56379-2103"
+  },
+  "coordinates": {
+    "latitude": 45.601531982421875,
+    "longitude": -94.1825942993164
+  },
+  "website": "https://petralutheran.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24341",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24341"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "petralutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410966455"
+    }
+  ],
+  "advisories": []
+}

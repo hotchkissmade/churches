@@ -1,0 +1,33 @@
+{
+  "id": "hq0h3rs98",
+  "url": "https://constellation.church/hq0h3rs98",
+  "name": "Church in Newington",
+  "displayName": "Church in Newington",
+  "address": {
+    "street": "125 Maple Hill Ave",
+    "city": "Newington",
+    "state": "CT",
+    "zip": "06111"
+  },
+  "coordinates": {
+    "latitude": 41.69105529785156,
+    "longitude": -72.74538803100586
+  },
+  "website": "https://churchinnewington.org",
+  "listingUrl": "https://localchurches.org/churches/newington-ct-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "newington-ct-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinnewington.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222795730"
+    }
+  ],
+  "advisories": []
+}

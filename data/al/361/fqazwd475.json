@@ -1,0 +1,33 @@
+{
+  "id": "fqazwd475",
+  "url": "https://constellation.church/fqazwd475",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "5 Arden Rd",
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "36109"
+  },
+  "coordinates": {
+    "latitude": 32.38236045837402,
+    "longitude": -86.27010345458984
+  },
+  "website": "https://1stmgm.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/468",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "468"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "1stmgm.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630374415"
+    }
+  ],
+  "advisories": []
+}

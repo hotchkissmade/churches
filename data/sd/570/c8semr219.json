@@ -1,0 +1,33 @@
+{
+  "id": "c8semr219",
+  "url": "https://constellation.church/c8semr219",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "701 N Main Ave",
+    "city": "Hartford",
+    "state": "SD",
+    "zip": "57033-2178"
+  },
+  "coordinates": {
+    "latitude": 43.6291389465332,
+    "longitude": -96.9459457397461
+  },
+  "website": "https://clchartford.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=acaa68ba-46fd-4e87-be01-c9abe4d836f8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "acaa68ba-46fd-4e87-be01-c9abe4d836f8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clchartford.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460352001"
+    }
+  ],
+  "advisories": []
+}

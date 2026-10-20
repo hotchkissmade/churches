@@ -1,0 +1,33 @@
+{
+  "id": "s0v06fe18",
+  "url": "https://constellation.church/s0v06fe18",
+  "name": "Church of the Good Samaritan",
+  "displayName": "Church of the Good Samaritan",
+  "address": {
+    "street": "529 S Main St",
+    "city": "Sauk Centre",
+    "state": "MN",
+    "zip": "56378-0205"
+  },
+  "coordinates": {
+    "latitude": 45.73365020751953,
+    "longitude": -94.95169830322266
+  },
+  "website": "https://goodsamaritansaukcentre.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/church-good-samaritan",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/church-good-samaritan"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodsamaritansaukcentre.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900338210"
+    }
+  ],
+  "advisories": []
+}

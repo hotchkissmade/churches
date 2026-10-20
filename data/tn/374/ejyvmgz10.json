@@ -1,0 +1,33 @@
+{
+  "id": "ejyvmgz10",
+  "url": "https://constellation.church/ejyvmgz10",
+  "name": "Red Bank Presbyterian Church",
+  "displayName": "Red Bank Presbyterian Church",
+  "address": {
+    "street": "4320 Dayton Boulevard",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37415"
+  },
+  "coordinates": {
+    "latitude": 35.1264591217041,
+    "longitude": -85.28460693359375
+  },
+  "website": "https://redbankpres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/880",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "880"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redbankpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620590102"
+    }
+  ],
+  "advisories": []
+}

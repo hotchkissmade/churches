@@ -1,0 +1,33 @@
+{
+  "id": "cn6sxrj12",
+  "url": "https://constellation.church/cn6sxrj12",
+  "name": "New Market Baptist Church",
+  "displayName": "New Market Baptist Church",
+  "address": {
+    "street": "921 Churchview St",
+    "city": "New Market",
+    "state": "TN",
+    "zip": "37820"
+  },
+  "coordinates": {
+    "latitude": 36.10065460205078,
+    "longitude": -83.55306243896484
+  },
+  "website": "https://newmarketbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/new-market-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-market-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newmarketbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630823946"
+    }
+  ],
+  "advisories": []
+}

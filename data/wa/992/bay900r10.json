@@ -1,0 +1,33 @@
+{
+  "id": "bay900r10",
+  "url": "https://constellation.church/bay900r10",
+  "name": "Driscoll Boulevard Baptist Church",
+  "displayName": "Driscoll Boulevard Baptist Church",
+  "address": {
+    "street": "4815 N Driscoll Blvd",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99205"
+  },
+  "coordinates": {
+    "latitude": 47.702056884765625,
+    "longitude": -117.4627914428711
+  },
+  "website": "https://driscollbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/driscoll-boulevard-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "driscoll-boulevard-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "driscollbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910977443"
+    }
+  ],
+  "advisories": []
+}

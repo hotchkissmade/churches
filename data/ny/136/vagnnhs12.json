@@ -1,0 +1,33 @@
+{
+  "id": "vagnnhs12",
+  "url": "https://constellation.church/vagnnhs12",
+  "name": "St. Olympia Mission",
+  "displayName": "St. Olympia Mission",
+  "address": {
+    "street": "34 North Main Street",
+    "city": "Norwood",
+    "state": "NY",
+    "zip": "13668"
+  },
+  "coordinates": {
+    "latitude": 44.751502990722656,
+    "longitude": -74.99392318725586
+  },
+  "website": "https://saintolympiaorthodoxchurch.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ny-potsoc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ny-potsoc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintolympiaorthodoxchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "454851800"
+    }
+  ],
+  "advisories": []
+}

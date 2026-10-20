@@ -1,0 +1,33 @@
+{
+  "id": "yzaztfm80",
+  "url": "https://constellation.church/yzaztfm80",
+  "name": "Cityview Community Church",
+  "displayName": "Cityview Community Church",
+  "address": {
+    "street": "6301 Broadway St",
+    "city": "Pearland",
+    "state": "TX",
+    "zip": "77581"
+  },
+  "coordinates": {
+    "latitude": 29.560176849365234,
+    "longitude": -95.31685638427734
+  },
+  "website": "https://cityviewpearland.com",
+  "listingUrl": "https://churches.sbc.net/church/cityview-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cityview-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cityviewpearland.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "462635956"
+    }
+  ],
+  "advisories": []
+}

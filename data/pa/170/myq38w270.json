@@ -1,0 +1,33 @@
+{
+  "id": "myq38w270",
+  "url": "https://constellation.church/myq38w270",
+  "name": "Salem Evangelical Lutheran Church",
+  "displayName": "Salem Evangelical Lutheran Church",
+  "address": {
+    "street": "8th & Willow Sts",
+    "city": "Lebanon",
+    "state": "PA",
+    "zip": "17046"
+  },
+  "coordinates": {
+    "latitude": 40.34123229980469,
+    "longitude": -76.42495727539062
+  },
+  "website": "https://salemlebanon.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=381bd97c-5af1-431c-b2f3-b812940bc1b8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "381bd97c-5af1-431c-b2f3-b812940bc1b8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemlebanon.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231381433"
+    }
+  ],
+  "advisories": []
+}

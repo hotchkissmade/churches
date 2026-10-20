@@ -1,0 +1,33 @@
+{
+  "id": "a747bb013",
+  "url": "https://constellation.church/a747bb013",
+  "name": "Valley Creek Baptist Church",
+  "displayName": "Valley Creek Baptist Church",
+  "address": {
+    "street": "4685 Springfield Rd",
+    "city": "Elizabethtown",
+    "state": "KY",
+    "zip": "42701"
+  },
+  "coordinates": {
+    "latitude": 37.75071907043457,
+    "longitude": -85.90047454833984
+  },
+  "website": "https://vcbc.org",
+  "listingUrl": "https://churches.sbc.net/church/valley-creek-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "valley-creek-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "vcbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611036639"
+    }
+  ],
+  "advisories": []
+}

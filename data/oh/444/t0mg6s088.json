@@ -1,0 +1,33 @@
+{
+  "id": "t0mg6s088",
+  "url": "https://constellation.church/t0mg6s088",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "29 Spruce St",
+    "city": "Leetonia",
+    "state": "OH",
+    "zip": "44431-1284"
+  },
+  "coordinates": {
+    "latitude": 40.87679481506348,
+    "longitude": -80.75135040283203
+  },
+  "website": "https://stpaulsleetonia.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bdbf2550-b039-45de-9f9b-30d318099dc9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bdbf2550-b039-45de-9f9b-30d318099dc9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsleetonia.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "346532119"
+    }
+  ],
+  "advisories": []
+}

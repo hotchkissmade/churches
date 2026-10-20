@@ -1,0 +1,33 @@
+{
+  "id": "hm19pcx20",
+  "url": "https://constellation.church/hm19pcx20",
+  "name": "New Liberty United Methodist Church",
+  "displayName": "New Liberty United Methodist Church",
+  "address": {
+    "street": "17 Thompson Mill Road",
+    "city": "Braselton",
+    "state": "GA",
+    "zip": "30517"
+  },
+  "coordinates": {
+    "latitude": 34.1162052154541,
+    "longitude": -83.79717636108398
+  },
+  "website": "https://newlibertyumc.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMiSIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMiSIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newlibertyumc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "582212104"
+    }
+  ],
+  "advisories": []
+}

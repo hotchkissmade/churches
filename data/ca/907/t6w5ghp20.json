@@ -1,0 +1,33 @@
+{
+  "id": "t6w5ghp20",
+  "url": "https://constellation.church/t6w5ghp20",
+  "name": "Rosewood CRC",
+  "displayName": "Rosewood Christian Reformed Church",
+  "address": {
+    "street": "10115 Rose St",
+    "city": "Bellflower",
+    "state": "CA",
+    "zip": "90706"
+  },
+  "coordinates": {
+    "latitude": 33.87040138244629,
+    "longitude": -118.11836242675781
+  },
+  "website": "https://rosewoodchurch.com",
+  "listingUrl": "https://www.crcna.org/churches/4321",
+  "identifiers": [
+    {
+      "namespace": "org.crcna.id",
+      "value": "4321"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rosewoodchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941782338"
+    }
+  ],
+  "advisories": []
+}

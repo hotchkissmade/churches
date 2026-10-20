@@ -1,0 +1,33 @@
+{
+  "id": "spf0dg051",
+  "url": "https://constellation.church/spf0dg051",
+  "name": "Christ Episcopal Church",
+  "displayName": "Christ Episcopal Church",
+  "address": {
+    "street": "127 Barnum Avenue",
+    "city": "Port Jefferson",
+    "state": "NY",
+    "zip": "11777"
+  },
+  "coordinates": {
+    "latitude": 40.94289588928223,
+    "longitude": -73.0689582824707
+  },
+  "website": "https://christchurchportjeff.org/we-are-christ-church",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/christ-episcopal-church-6",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/christ-episcopal-church-6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christchurchportjeff.org/we-are-christ-church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112519089"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wq0ncjk10",
+  "url": "https://constellation.church/wq0ncjk10",
+  "name": "One Church Lima",
+  "displayName": "One Church Lima",
+  "address": {
+    "street": "3075 Yoakam Rd",
+    "city": "Lima",
+    "state": "OH",
+    "zip": "45806"
+  },
+  "coordinates": {
+    "latitude": 40.69643592834473,
+    "longitude": -84.1744384765625
+  },
+  "website": "https://onechurchlima.com/about-us",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=c5d7e703-f841-4485-b4ea-656d532b7a1d&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "c5d7e703-f841-4485-b4ea-656d532b7a1d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "onechurchlima.com/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341351423"
+    }
+  ],
+  "advisories": []
+}

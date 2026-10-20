@@ -1,0 +1,33 @@
+{
+  "id": "sar8nxw46",
+  "url": "https://constellation.church/sar8nxw46",
+  "name": "Ridge Presbyterian Church",
+  "displayName": "Ridge Presbyterian Church",
+  "address": {
+    "street": "562 Manzanita Ave. #3",
+    "city": "Chico",
+    "state": "CA",
+    "zip": "95926"
+  },
+  "coordinates": {
+    "latitude": 39.75594902038574,
+    "longitude": -121.8429183959961
+  },
+  "website": "https://ridgepresbyterian.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1214",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1214"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ridgepresbyterian.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "943063355"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hhy40xb32",
+  "url": "https://constellation.church/hhy40xb32",
+  "name": "McQueeney Baptist Church",
+  "displayName": "McQueeney Baptist Church",
+  "address": {
+    "street": "201 Schumann Rd.",
+    "city": "McQueeney",
+    "state": "TX",
+    "zip": "78123"
+  },
+  "coordinates": {
+    "latitude": 29.58877944946289,
+    "longitude": -98.04193115234375
+  },
+  "website": "https://mcqueeneybc.com",
+  "listingUrl": "https://churches.sbc.net/church/mcqueeney-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mcqueeney-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mcqueeneybc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742682604"
+    }
+  ],
+  "advisories": []
+}

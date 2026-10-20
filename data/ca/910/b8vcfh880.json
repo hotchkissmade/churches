@@ -1,0 +1,33 @@
+{
+  "id": "b8vcfh880",
+  "url": "https://constellation.church/b8vcfh880",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "101 E Foothill Blvd",
+    "city": "Monrovia",
+    "state": "CA",
+    "zip": "91016"
+  },
+  "coordinates": {
+    "latitude": 34.15144920349121,
+    "longitude": -118.00080108642578
+  },
+  "website": "https://fpcmonrovia.org",
+  "listingUrl": "https://eco-pres.org/churches/first-presbyterian-church-of-monrovia/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "first-presbyterian-church-of-monrovia"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcmonrovia.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951644010"
+    }
+  ],
+  "advisories": []
+}

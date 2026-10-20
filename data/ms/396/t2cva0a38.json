@@ -1,0 +1,33 @@
+{
+  "id": "t2cva0a38",
+  "url": "https://constellation.church/t2cva0a38",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "226 N Second St",
+    "city": "Brookhaven",
+    "state": "MS",
+    "zip": "39601"
+  },
+  "coordinates": {
+    "latitude": 31.58074378967285,
+    "longitude": -90.43842697143555
+  },
+  "website": "https://myassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a722cb88-6dca-48ca-b8c3-2c3c57fdeb3e&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "a722cb88-6dca-48ca-b8c3-2c3c57fdeb3e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "myassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640650976"
+    }
+  ],
+  "advisories": []
+}

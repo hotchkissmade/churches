@@ -1,0 +1,33 @@
+{
+  "id": "kakrz1127",
+  "url": "https://constellation.church/kakrz1127",
+  "name": "St Stephen Lutheran Church",
+  "displayName": "St. Stephen Lutheran Church",
+  "address": {
+    "street": "3510 72nd St",
+    "city": "Urbandale",
+    "state": "IA",
+    "zip": "50322-3104"
+  },
+  "coordinates": {
+    "latitude": 41.626949310302734,
+    "longitude": -93.71719360351562
+  },
+  "website": "https://ststephenlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ae25f39d-6b2a-4312-b088-e6d9f8dd95f9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ae25f39d-6b2a-4312-b088-e6d9f8dd95f9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ststephenlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420928749"
+    }
+  ],
+  "advisories": []
+}

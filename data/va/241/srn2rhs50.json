@@ -1,0 +1,33 @@
+{
+  "id": "srn2rhs50",
+  "url": "https://constellation.church/srn2rhs50",
+  "name": "Grace Episcopal Church",
+  "displayName": "Grace Episcopal Church",
+  "address": {
+    "street": "210 Fourth St",
+    "city": "Radford",
+    "state": "VA",
+    "zip": "24141-1523"
+  },
+  "coordinates": {
+    "latitude": 37.131614685058594,
+    "longitude": -80.57214736938477
+  },
+  "website": "https://graceradford.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-southwestern-virginia/list/grace-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-southwestern-virginia/grace-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceradford.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540798081"
+    }
+  ],
+  "advisories": []
+}

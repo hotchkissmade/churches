@@ -1,0 +1,37 @@
+{
+  "id": "mq4nd2b91",
+  "url": "https://constellation.church/mq4nd2b91",
+  "name": "Community Lutheran Church",
+  "displayName": "Community Lutheran Church",
+  "address": {
+    "street": "3720 E Tropicana Ave",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89121-7337"
+  },
+  "coordinates": {
+    "latitude": 36.100738525390625,
+    "longitude": -115.09359741210938
+  },
+  "website": "https://communitylv.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0564c306-dd89-4904-ad28-384bed0bffa7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0564c306-dd89-4904-ad28-384bed0bffa7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "communitylv.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "880116459"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "880125652"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ghswwg881",
+  "url": "https://constellation.church/ghswwg881",
+  "name": "Mullins First Baptist Church",
+  "displayName": "Mullins First Baptist Church",
+  "address": {
+    "street": "303 N Main St",
+    "city": "Mullins",
+    "state": "SC",
+    "zip": "29574"
+  },
+  "coordinates": {
+    "latitude": 34.20255088806152,
+    "longitude": -79.2535285949707
+  },
+  "website": "https://mullinsfbc.org",
+  "listingUrl": "https://churches.sbc.net/church/mullins-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mullins-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mullinsfbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570441731"
+    }
+  ],
+  "advisories": []
+}

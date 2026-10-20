@@ -1,0 +1,33 @@
+{
+  "id": "p2p3pgh16",
+  "url": "https://constellation.church/p2p3pgh16",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "450 N Rocky Ridge Rd",
+    "city": "Oak Harbor",
+    "state": "OH",
+    "zip": "43449-9132"
+  },
+  "coordinates": {
+    "latitude": 41.522911071777344,
+    "longitude": -83.21300888061523
+  },
+  "website": "https://sjrroh.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9352c423-cb85-4ecb-8a9d-571f964136a1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9352c423-cb85-4ecb-8a9d-571f964136a1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sjrroh.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341209999"
+    }
+  ],
+  "advisories": []
+}

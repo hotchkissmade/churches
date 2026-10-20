@@ -1,0 +1,29 @@
+{
+  "id": "phx1gxa05",
+  "url": "https://constellation.church/phx1gxa05",
+  "name": "POINT OF GRACE",
+  "displayName": "Point of Grace",
+  "address": {
+    "street": "500 COMMONS DR",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35209"
+  },
+  "coordinates": {
+    "latitude": 33.56242561340332,
+    "longitude": -86.89513397216797
+  },
+  "website": "https://yourpog.com",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630841785"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "yourpog.com"
+    }
+  ],
+  "advisories": []
+}

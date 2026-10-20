@@ -1,0 +1,33 @@
+{
+  "id": "zrzexcj03",
+  "url": "https://constellation.church/zrzexcj03",
+  "name": "United Methodist Church of Hyde Park",
+  "displayName": "United Methodist Church of Hyde Park",
+  "address": {
+    "street": "1 Church Street",
+    "city": "Hyde Park",
+    "state": "NY",
+    "zip": "12538"
+  },
+  "coordinates": {
+    "latitude": 41.78985595703125,
+    "longitude": -73.93523788452148
+  },
+  "website": "https://umchp.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMdaIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMdaIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "umchp.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "141469705"
+    }
+  ],
+  "advisories": []
+}

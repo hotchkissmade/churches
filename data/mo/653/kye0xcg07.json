@@ -1,0 +1,33 @@
+{
+  "id": "kye0xcg07",
+  "url": "https://constellation.church/kye0xcg07",
+  "name": "Calhoun Baptist Church",
+  "displayName": "Calhoun Baptist Church",
+  "address": {
+    "street": "307 S College St",
+    "city": "Calhoun",
+    "state": "MO",
+    "zip": "65323"
+  },
+  "coordinates": {
+    "latitude": 38.4652867,
+    "longitude": -93.6254244
+  },
+  "website": "https://calhounbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/calhoun-baptist-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "calhoun-baptist-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "calhounbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431145615"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "v5j1kwb19",
+  "url": "https://constellation.church/v5j1kwb19",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "505 S 7th Ave",
+    "city": "Avenal",
+    "state": "CA",
+    "zip": "93204"
+  },
+  "coordinates": {
+    "latitude": 36.0033016204834,
+    "longitude": -120.12874603271484
+  },
+  "website": "https://avenalassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=82839abb-35c1-4339-9a32-17de1e23fc69&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "82839abb-35c1-4339-9a32-17de1e23fc69"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "avenalassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942463007"
+    }
+  ],
+  "advisories": []
+}

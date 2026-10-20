@@ -1,0 +1,33 @@
+{
+  "id": "gwm0r3t82",
+  "url": "https://constellation.church/gwm0r3t82",
+  "name": "South Hill Baptist Church of Puyallup",
+  "displayName": "South Hill Baptist Church of Puyallup",
+  "address": {
+    "street": "7914 112th St E",
+    "city": "Puyallup",
+    "state": "WA",
+    "zip": "98373"
+  },
+  "coordinates": {
+    "latitude": 47.154449462890625,
+    "longitude": -122.32388305664062
+  },
+  "website": "https://southhillbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/south-hill-baptist-church-of-puyallup/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "south-hill-baptist-church-of-puyallup"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southhillbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910957266"
+    }
+  ],
+  "advisories": []
+}

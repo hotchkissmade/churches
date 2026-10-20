@@ -1,0 +1,33 @@
+{
+  "id": "wqc5z2d25",
+  "url": "https://constellation.church/wqc5z2d25",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "220 S Main St",
+    "city": "Deforest",
+    "state": "WI",
+    "zip": "53532-1112"
+  },
+  "coordinates": {
+    "latitude": 43.24538040161133,
+    "longitude": -89.34450912475586
+  },
+  "website": "https://christlutherandeforest.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cc754174-6d29-45d4-9c52-b65cf5e85421",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cc754174-6d29-45d4-9c52-b65cf5e85421"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christlutherandeforest.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391320382"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wr3nyez13",
+  "url": "https://constellation.church/wr3nyez13",
+  "name": "St Andrew Lutheran Church",
+  "displayName": "St. Andrew Lutheran Church",
+  "address": {
+    "street": "5607 NE Gher Rd",
+    "city": "Vancouver",
+    "state": "WA",
+    "zip": "98662-6152"
+  },
+  "coordinates": {
+    "latitude": 45.66389083862305,
+    "longitude": -122.55947875976562
+  },
+  "website": "https://salcvan.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=eda99860-5ad8-4686-8fb5-1317d925035c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "eda99860-5ad8-4686-8fb5-1317d925035c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salcvan.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911034819"
+    }
+  ],
+  "advisories": []
+}

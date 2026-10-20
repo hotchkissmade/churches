@@ -1,0 +1,33 @@
+{
+  "id": "ncdpt0m11",
+  "url": "https://constellation.church/ncdpt0m11",
+  "name": "Our Saviour Lutheran Church",
+  "displayName": "Our Saviour Lutheran Church",
+  "address": {
+    "street": "320 1st Ave",
+    "city": "Seaside",
+    "state": "OR",
+    "zip": "97138-5908"
+  },
+  "coordinates": {
+    "latitude": 45.99470138549805,
+    "longitude": -123.92589569091797
+  },
+  "website": "https://oslc-seaside.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=63488fa8-ee8c-4a83-bb4b-f7262518570e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "63488fa8-ee8c-4a83-bb4b-f7262518570e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oslc-seaside.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930813274"
+    }
+  ],
+  "advisories": []
+}

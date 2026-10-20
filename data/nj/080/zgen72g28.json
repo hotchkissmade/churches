@@ -1,0 +1,33 @@
+{
+  "id": "zgen72g28",
+  "url": "https://constellation.church/zgen72g28",
+  "name": "Grace Presbyterian Church",
+  "displayName": "Grace Presbyterian Church",
+  "address": {
+    "street": "550 Union Mill Road",
+    "city": "Mount Laurel",
+    "state": "NJ",
+    "zip": "08054"
+  },
+  "coordinates": {
+    "latitude": 39.9547061920166,
+    "longitude": -74.90049362182617
+  },
+  "website": "https://gracepresmtlaurel.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5951",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5951"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracepresmtlaurel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581565493"
+    }
+  ],
+  "advisories": []
+}

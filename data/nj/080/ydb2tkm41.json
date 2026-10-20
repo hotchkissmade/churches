@@ -1,0 +1,33 @@
+{
+  "id": "ydb2tkm41",
+  "url": "https://constellation.church/ydb2tkm41",
+  "name": "Asbury United Methodist Church",
+  "displayName": "Asbury United Methodist Church",
+  "address": {
+    "street": "149 S Main St",
+    "city": "Woodstown",
+    "state": "NJ",
+    "zip": "08098-1109"
+  },
+  "coordinates": {
+    "latitude": 33.96109580993652,
+    "longitude": -80.04297637939453
+  },
+  "website": "https://asburyumcwoodstown.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFEEJIA5",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFEEJIA5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "asburyumcwoodstown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "210738482"
+    }
+  ],
+  "advisories": []
+}

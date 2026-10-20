@@ -1,0 +1,33 @@
+{
+  "id": "hgbzmfh09",
+  "url": "https://constellation.church/hgbzmfh09",
+  "name": "Cape May United Methodist Church",
+  "displayName": "Cape May United Methodist Church",
+  "address": {
+    "street": "635 Washington St",
+    "city": "Cape May",
+    "state": "NJ",
+    "zip": "08204-0472"
+  },
+  "coordinates": {
+    "latitude": 38.934186935424805,
+    "longitude": -74.92076873779297
+  },
+  "website": "https://capemayumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFLhiIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFLhiIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "capemayumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221858256"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "q6h4r2t11",
+  "url": "https://constellation.church/q6h4r2t11",
+  "name": "Pinewood Baptist Church",
+  "displayName": "Pinewood Baptist Church",
+  "address": {
+    "street": "10 East Fulton Manning Road",
+    "city": "Pinewood",
+    "state": "SC",
+    "zip": "29125"
+  },
+  "coordinates": {
+    "latitude": 33.73869514465332,
+    "longitude": -80.46334838867188
+  },
+  "website": "https://pinewoodbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/pinewood-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pinewood-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pinewoodbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570527289"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mtpzb9010",
+  "url": "https://constellation.church/mtpzb9010",
+  "name": "Fort Clark Baptist Church",
+  "displayName": "Fort Clark Baptist Church",
+  "address": {
+    "street": "421 Veterans Row",
+    "city": "Elgin",
+    "state": "SC",
+    "zip": "29045"
+  },
+  "coordinates": {
+    "latitude": 34.23653221130371,
+    "longitude": -80.79764175415039
+  },
+  "website": "https://fortclark.org",
+  "listingUrl": "https://churches.sbc.net/church/fort-clark-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "fort-clark-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fortclark.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570894589"
+    }
+  ],
+  "advisories": []
+}

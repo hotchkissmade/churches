@@ -1,0 +1,33 @@
+{
+  "id": "cm8nrf124",
+  "url": "https://constellation.church/cm8nrf124",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "306 W 5th St",
+    "city": "Revillo",
+    "state": "SD",
+    "zip": "57259-7715"
+  },
+  "coordinates": {
+    "latitude": 45.0176381,
+    "longitude": -96.5730409
+  },
+  "website": "https://tlcrevillosd.webnode.page",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cc4f3989-3bd7-4fe5-9088-285957f3ec04",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cc4f3989-3bd7-4fe5-9088-285957f3ec04"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcrevillosd.webnode.page"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460351270"
+    }
+  ],
+  "advisories": []
+}

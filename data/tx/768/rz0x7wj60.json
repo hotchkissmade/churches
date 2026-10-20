@@ -1,0 +1,33 @@
+{
+  "id": "rz0x7wj60",
+  "url": "https://constellation.church/rz0x7wj60",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "PO BOX 983",
+    "city": "COLEMAN",
+    "state": "TX",
+    "zip": "76834"
+  },
+  "coordinates": {
+    "latitude": 31.828556060791016,
+    "longitude": -99.42158508300781
+  },
+  "website": "https://fbccoleman.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-1204/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-1204"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbccoleman.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750991725"
+    }
+  ],
+  "advisories": []
+}

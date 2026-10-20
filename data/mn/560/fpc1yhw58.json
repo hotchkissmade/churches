@@ -1,0 +1,33 @@
+{
+  "id": "fpc1yhw58",
+  "url": "https://constellation.church/fpc1yhw58",
+  "name": "St John's Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "216 3rd Ave SE",
+    "city": "Sleepy Eye",
+    "state": "MN",
+    "zip": "56085-1612"
+  },
+  "coordinates": {
+    "latitude": 44.29613494873047,
+    "longitude": -94.72016906738281
+  },
+  "website": "https://stjohnsse.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24381",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24381"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsse.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410714299"
+    }
+  ],
+  "advisories": []
+}

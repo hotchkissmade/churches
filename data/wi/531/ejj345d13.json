@@ -1,0 +1,33 @@
+{
+  "id": "ejj345d13",
+  "url": "https://constellation.church/ejj345d13",
+  "name": "House Of Prayer Lutheran Church",
+  "displayName": "House Of Prayer Lutheran Church",
+  "address": {
+    "street": "3900 W Ryan Rd",
+    "city": "Franklin",
+    "state": "WI",
+    "zip": "53132-9525"
+  },
+  "coordinates": {
+    "latitude": 42.87392044067383,
+    "longitude": -87.96595001220703
+  },
+  "website": "https://sandbox.hopfranklin.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=71933c9e-69ed-47b1-a972-dc2f9d998e0b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "71933c9e-69ed-47b1-a972-dc2f9d998e0b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sandbox.hopfranklin.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391349456"
+    }
+  ],
+  "advisories": []
+}

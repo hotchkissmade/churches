@@ -1,0 +1,33 @@
+{
+  "id": "rvpf3g835",
+  "url": "https://constellation.church/rvpf3g835",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "2324 Lombard Ave",
+    "city": "Everett",
+    "state": "WA",
+    "zip": "98201-3023"
+  },
+  "coordinates": {
+    "latitude": 47.9860725402832,
+    "longitude": -122.2032699584961
+  },
+  "website": "https://trinitylutheraneverett.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e7b0cf87-66d2-4960-814e-63138fa0daf5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e7b0cf87-66d2-4960-814e-63138fa0daf5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylutheraneverett.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "916036559"
+    }
+  ],
+  "advisories": []
+}

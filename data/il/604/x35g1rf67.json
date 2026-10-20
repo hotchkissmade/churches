@@ -1,0 +1,33 @@
+{
+  "id": "x35g1rf67",
+  "url": "https://constellation.church/x35g1rf67",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "805 Western Ave",
+    "city": "Joliet",
+    "state": "IL",
+    "zip": "60435"
+  },
+  "coordinates": {
+    "latitude": 41.52831840515137,
+    "longitude": -88.10157775878906
+  },
+  "website": "https://firstpresjoliet.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/1665/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "1665"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpresjoliet.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362169151"
+    }
+  ],
+  "advisories": []
+}

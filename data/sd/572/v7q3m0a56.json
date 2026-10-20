@@ -1,0 +1,33 @@
+{
+  "id": "v7q3m0a56",
+  "url": "https://constellation.church/v7q3m0a56",
+  "name": "Lutheran Church of Our Redeemer",
+  "displayName": "Lutheran Church of Our Redeemer",
+  "address": {
+    "street": "2001 2nd St NW",
+    "city": "Watertown",
+    "state": "SD",
+    "zip": "57201-7251"
+  },
+  "coordinates": {
+    "latitude": 44.928096771240234,
+    "longitude": -97.11888885498047
+  },
+  "website": "https://lcoorwatertown.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1fed8773-c0d3-42fb-b0b5-4c016121f34d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1fed8773-c0d3-42fb-b0b5-4c016121f34d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcoorwatertown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460324629"
+    }
+  ],
+  "advisories": []
+}

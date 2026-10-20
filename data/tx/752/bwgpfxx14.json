@@ -1,0 +1,33 @@
+{
+  "id": "bwgpfxx14",
+  "url": "https://constellation.church/bwgpfxx14",
+  "name": "Mount Olive Lutheran Church",
+  "displayName": "Mount Olive Lutheran Church",
+  "address": {
+    "street": "3100 Martin Luther King Jr Blvd",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75215-2414"
+  },
+  "coordinates": {
+    "latitude": 32.7723331451416,
+    "longitude": -96.7645263671875
+  },
+  "website": "https://mountolivedallas.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7c518068-7991-430b-8d79-14e5da2a099c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7c518068-7991-430b-8d79-14e5da2a099c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mountolivedallas.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751317826"
+    }
+  ],
+  "advisories": []
+}

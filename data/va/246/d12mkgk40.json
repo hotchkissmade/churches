@@ -1,0 +1,33 @@
+{
+  "id": "d12mkgk40",
+  "url": "https://constellation.church/d12mkgk40",
+  "name": "Grundy Baptist Church",
+  "displayName": "Grundy Baptist Church",
+  "address": {
+    "street": "1283 Edgewater Drive",
+    "city": "Grundy",
+    "state": "VA",
+    "zip": "24614"
+  },
+  "coordinates": {
+    "latitude": 37.27720069885254,
+    "longitude": -82.09489822387695
+  },
+  "website": "https://grundybaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/grundy-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grundy-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grundybaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541240205"
+    }
+  ],
+  "advisories": []
+}

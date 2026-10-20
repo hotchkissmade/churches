@@ -1,0 +1,33 @@
+{
+  "id": "grp4v4m62",
+  "url": "https://constellation.church/grp4v4m62",
+  "name": "Grand View Lutheran Church",
+  "displayName": "Grand View Lutheran Church",
+  "address": {
+    "street": "2930 E 13th St",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50316-1444"
+  },
+  "coordinates": {
+    "latitude": 41.62191390991211,
+    "longitude": -93.60376739501953
+  },
+  "website": "https://gvlc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=06798f50-a918-4c1b-809a-75361a8ecdad",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "06798f50-a918-4c1b-809a-75361a8ecdad"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gvlc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420722683"
+    }
+  ],
+  "advisories": []
+}

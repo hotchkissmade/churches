@@ -1,0 +1,33 @@
+{
+  "id": "f8weman82",
+  "url": "https://constellation.church/f8weman82",
+  "name": "Shadow Mountain Community Church",
+  "displayName": "Shadow Mountain Community Church",
+  "address": {
+    "street": "2100 Greenfield Dr",
+    "city": "El Cajon",
+    "state": "CA",
+    "zip": "92019"
+  },
+  "coordinates": {
+    "latitude": 32.799081802368164,
+    "longitude": -116.9029312133789
+  },
+  "website": "https://shadowmountain.org",
+  "listingUrl": "https://churches.sbc.net/church/shadow-mountain-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "shadow-mountain-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "shadowmountain.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951642389"
+    }
+  ],
+  "advisories": []
+}

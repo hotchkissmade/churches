@@ -1,0 +1,37 @@
+{
+  "id": "hekaxyv59",
+  "url": "https://constellation.church/hekaxyv59",
+  "name": "First United Presbyterian Church",
+  "displayName": "First United Presbyterian Church",
+  "address": {
+    "street": "313 E Montgomery Street",
+    "city": "Knoxville",
+    "state": "IA",
+    "zip": "50138"
+  },
+  "coordinates": {
+    "latitude": 41.31724166870117,
+    "longitude": -93.09552001953125
+  },
+  "website": "https://kfumc.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/8975/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "8975"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kfumc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426005635"
+    },
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFHNUIA5"
+    }
+  ],
+  "advisories": []
+}

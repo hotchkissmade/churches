@@ -1,0 +1,33 @@
+{
+  "id": "xxh5q0332",
+  "url": "https://constellation.church/xxh5q0332",
+  "name": "Church of the Highlands",
+  "displayName": "Church of the Highlands",
+  "address": {
+    "street": "6621 Hunter Rd",
+    "city": "Harrison",
+    "state": "TN",
+    "zip": "37341"
+  },
+  "coordinates": {
+    "latitude": 35.13588905334473,
+    "longitude": -85.11648559570312
+  },
+  "website": "https://thehighlands.cc/about-us",
+  "listingUrl": "https://churches.sbc.net/church/church-of-the-highlands/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "church-of-the-highlands"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thehighlands.cc/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620567465"
+    }
+  ],
+  "advisories": []
+}

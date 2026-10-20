@@ -1,0 +1,33 @@
+{
+  "id": "qymwt1665",
+  "url": "https://constellation.church/qymwt1665",
+  "name": "Missio Dei Church",
+  "displayName": "Missio Dei Church",
+  "address": {
+    "street": "360 South Park Street",
+    "city": "Manhattan",
+    "state": "IL",
+    "zip": "60442"
+  },
+  "coordinates": {
+    "latitude": 41.4213809967041,
+    "longitude": -87.98310089111328
+  },
+  "website": "https://mdchurch.us",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5948",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5948"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mdchurch.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "205229468"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "f228xw559",
+  "url": "https://constellation.church/f228xw559",
+  "name": "United Methodist Church of Bay Shore",
+  "displayName": "United Methodist Church of Bay Shore",
+  "address": {
+    "street": "107 East Main Street",
+    "city": "Bay Shore",
+    "state": "NY",
+    "zip": "11706"
+  },
+  "coordinates": {
+    "latitude": 40.72374725341797,
+    "longitude": -73.24546432495117
+  },
+  "website": "https://bayshoreumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMjvIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMjvIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bayshoreumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112005524"
+    }
+  ],
+  "advisories": []
+}

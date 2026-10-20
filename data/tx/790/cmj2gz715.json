@@ -1,0 +1,33 @@
+{
+  "id": "cmj2gz715",
+  "url": "https://constellation.church/cmj2gz715",
+  "name": "St Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "411 Plummer",
+    "city": "Darrouzett",
+    "state": "TX",
+    "zip": "79024"
+  },
+  "coordinates": {
+    "latitude": 36.4462923,
+    "longitude": -100.3280531
+  },
+  "website": "https://stpaulsdarrouzett.wordpress.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8e7a808c-c7a4-4def-ae50-d88113f35f13",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8e7a808c-c7a4-4def-ae50-d88113f35f13"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsdarrouzett.wordpress.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752914014"
+    }
+  ],
+  "advisories": []
+}

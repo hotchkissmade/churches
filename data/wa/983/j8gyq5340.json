@@ -1,0 +1,33 @@
+{
+  "id": "j8gyq5340",
+  "url": "https://constellation.church/j8gyq5340",
+  "name": "Silverdale Lutheran Church",
+  "displayName": "Silverdale Lutheran Church",
+  "address": {
+    "street": "11701 Ridgepoint Dr NW",
+    "city": "Silverdale",
+    "state": "WA",
+    "zip": "98383-7721"
+  },
+  "coordinates": {
+    "latitude": 47.66957092285156,
+    "longitude": -122.66820526123047
+  },
+  "website": "https://silverdalelutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=eba1e874-0cc9-434e-93d2-b0098604282b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "eba1e874-0cc9-434e-93d2-b0098604282b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "silverdalelutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910754823"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "kzprbnt83",
+  "url": "https://constellation.church/kzprbnt83",
+  "name": "First Baptist Church Ozark",
+  "displayName": "First Baptist Church Ozark",
+  "address": {
+    "street": "1400 W Jackson St",
+    "city": "Ozark",
+    "state": "MO",
+    "zip": "65721"
+  },
+  "coordinates": {
+    "latitude": 37.02446174621582,
+    "longitude": -93.21898651123047
+  },
+  "website": "https://fbcozark.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-ozark/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-ozark"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcozark.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "043844141"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431255236"
+    }
+  ],
+  "advisories": []
+}

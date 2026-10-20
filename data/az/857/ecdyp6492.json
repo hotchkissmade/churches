@@ -1,0 +1,33 @@
+{
+  "id": "ecdyp6492",
+  "url": "https://constellation.church/ecdyp6492",
+  "name": "Central City Assembly",
+  "displayName": "Central City Assembly",
+  "address": {
+    "street": "939 S 10th Ave",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85701"
+  },
+  "coordinates": {
+    "latitude": 32.2104255,
+    "longitude": -110.9745655
+  },
+  "website": "https://centralcityonline.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=704b5f7f-ce20-449e-b9ed-b060d60b07ef&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "704b5f7f-ce20-449e-b9ed-b060d60b07ef"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centralcityonline.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "260589315"
+    }
+  ],
+  "advisories": []
+}

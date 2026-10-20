@@ -1,0 +1,33 @@
+{
+  "id": "zgvss1d12",
+  "url": "https://constellation.church/zgvss1d12",
+  "name": "Epiphany Lutheran Church",
+  "displayName": "Epiphany Lutheran Church",
+  "address": {
+    "street": "1100 Colonial Rd",
+    "city": "Harrisburg",
+    "state": "PA",
+    "zip": "17112-1911"
+  },
+  "coordinates": {
+    "latitude": 40.314157485961914,
+    "longitude": -76.82253646850586
+  },
+  "website": "https://epiphanyharrisburg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6be66714-816e-49ab-af5e-517a78a77f18",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6be66714-816e-49ab-af5e-517a78a77f18"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "epiphanyharrisburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236440129"
+    }
+  ],
+  "advisories": []
+}

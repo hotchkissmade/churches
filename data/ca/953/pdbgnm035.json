@@ -1,0 +1,33 @@
+{
+  "id": "pdbgnm035",
+  "url": "https://constellation.church/pdbgnm035",
+  "name": "First Presbyterian Church Ripon",
+  "displayName": "First Presbyterian Church Ripon",
+  "address": {
+    "street": "305 Boesch Dr",
+    "city": "Ripon",
+    "state": "CA",
+    "zip": "95366"
+  },
+  "coordinates": {
+    "latitude": 37.74979782104492,
+    "longitude": -121.12611389160156
+  },
+  "website": "https://riponfirstpres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/7025",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "7025"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "riponfirstpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941475233"
+    }
+  ],
+  "advisories": []
+}

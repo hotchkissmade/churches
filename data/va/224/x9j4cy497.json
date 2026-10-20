@@ -1,0 +1,33 @@
+{
+  "id": "x9j4cy497",
+  "url": "https://constellation.church/x9j4cy497",
+  "name": "Richland",
+  "displayName": "Richland Baptist Church",
+  "address": {
+    "street": "2482 Warrenton Rd",
+    "city": "Fredericksburg",
+    "state": "VA",
+    "zip": "22406"
+  },
+  "coordinates": {
+    "latitude": 38.41000747680664,
+    "longitude": -77.60010528564453
+  },
+  "website": "https://richlandbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/richland-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "richland-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "richlandbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541249375"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "zsaf5sz35",
+  "url": "https://constellation.church/zsaf5sz35",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "One West Harker Road",
+    "city": "Ft. Oglethorpe",
+    "state": "GA",
+    "zip": "30742"
+  },
+  "coordinates": {
+    "latitude": 34.9437313079834,
+    "longitude": -85.25934600830078
+  },
+  "website": "https://fpfo.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/419",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "419"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpfo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581474244"
+    }
+  ],
+  "advisories": []
+}

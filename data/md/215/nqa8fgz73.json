@@ -1,0 +1,33 @@
+{
+  "id": "nqa8fgz73",
+  "url": "https://constellation.church/nqa8fgz73",
+  "name": "LaVale Baptist Church",
+  "displayName": "LaVale Baptist Church",
+  "address": {
+    "street": "1115 National Hwy",
+    "city": "LaVale",
+    "state": "MD",
+    "zip": "21502"
+  },
+  "coordinates": {
+    "latitude": 39.63967514038086,
+    "longitude": -78.82979583740234
+  },
+  "website": "https://lavalebaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/lavale-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lavale-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lavalebaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521204606"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xg8d3jh78",
+  "url": "https://constellation.church/xg8d3jh78",
+  "name": "Granada Presbyterian Church",
+  "displayName": "Granada Presbyterian Church",
+  "address": {
+    "street": "950 University Drive",
+    "city": "Coral Gables",
+    "state": "FL",
+    "zip": "33134"
+  },
+  "coordinates": {
+    "latitude": 25.734670639038086,
+    "longitude": -80.27234649658203
+  },
+  "website": "https://granadachurch.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/566",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "566"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "granadachurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590760211"
+    }
+  ],
+  "advisories": []
+}

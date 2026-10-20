@@ -1,0 +1,33 @@
+{
+  "id": "h73n4zr12",
+  "url": "https://constellation.church/h73n4zr12",
+  "name": "St. Alban's Episcopal Parish",
+  "displayName": "St. Alban's Episcopal Parish",
+  "address": {
+    "street": "105 1st Ave SW",
+    "city": "Glen Burnie",
+    "state": "MD",
+    "zip": "21061-3453"
+  },
+  "coordinates": {
+    "latitude": 39.163352966308594,
+    "longitude": -76.62825775146484
+  },
+  "website": "https://saintalbanschurch.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maryland/list/st-albans-episcopal-parish",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maryland/st-albans-episcopal-parish"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintalbanschurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "526044801"
+    }
+  ],
+  "advisories": []
+}

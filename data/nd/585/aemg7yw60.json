@@ -1,0 +1,33 @@
+{
+  "id": "aemg7yw60",
+  "url": "https://constellation.church/aemg7yw60",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "623 5th St NE",
+    "city": "Garrison",
+    "state": "ND",
+    "zip": "58540"
+  },
+  "coordinates": {
+    "latitude": 47.658199310302734,
+    "longitude": -101.408447265625
+  },
+  "website": "https://stpaulgarrisonnd.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=21d05d50-cb96-4e0d-b41e-41618da44d36",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "21d05d50-cb96-4e0d-b41e-41618da44d36"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulgarrisonnd.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450306285"
+    }
+  ],
+  "advisories": []
+}

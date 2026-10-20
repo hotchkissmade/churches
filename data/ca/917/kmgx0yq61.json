@@ -1,0 +1,33 @@
+{
+  "id": "kmgx0yq61",
+  "url": "https://constellation.church/kmgx0yq61",
+  "name": "First Baptist Church of Walnut Valley",
+  "displayName": "First Baptist Church of Walnut Valley",
+  "address": {
+    "street": "20425 La Puente Rd",
+    "city": "Walnut",
+    "state": "CA",
+    "zip": "91789"
+  },
+  "coordinates": {
+    "latitude": 34.0233097076416,
+    "longitude": -117.85721588134766
+  },
+  "website": "https://fbcwv.org/livestream",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-walnut-valley/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-walnut-valley"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcwv.org/livestream"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "954190780"
+    }
+  ],
+  "advisories": []
+}

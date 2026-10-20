@@ -1,0 +1,33 @@
+{
+  "id": "k737nct62",
+  "url": "https://constellation.church/k737nct62",
+  "name": "St John's United Methodist Church",
+  "displayName": "St. John's United Methodist Church",
+  "address": {
+    "street": "1501 University Ave",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79401-4496"
+  },
+  "coordinates": {
+    "latitude": 33.58160209655762,
+    "longitude": -101.86980438232422
+  },
+  "website": "https://stjohnslubbock.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMcxIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMcxIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnslubbock.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750883111"
+    }
+  ],
+  "advisories": []
+}

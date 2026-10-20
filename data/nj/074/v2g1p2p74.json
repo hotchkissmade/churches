@@ -1,0 +1,33 @@
+{
+  "id": "v2g1p2p74",
+  "url": "https://constellation.church/v2g1p2p74",
+  "name": "Calvary Lutheran Church",
+  "displayName": "Calvary Lutheran Church",
+  "address": {
+    "street": "165 W Crescent Ave",
+    "city": "Allendale",
+    "state": "NJ",
+    "zip": "07401-1545"
+  },
+  "coordinates": {
+    "latitude": 41.03769111633301,
+    "longitude": -74.13102340698242
+  },
+  "website": "https://calvaryluth.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9eaa5aeb-e0b4-4e5a-8f80-c1c6c8416cdc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9eaa5aeb-e0b4-4e5a-8f80-c1c6c8416cdc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "calvaryluth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "226016700"
+    }
+  ],
+  "advisories": []
+}

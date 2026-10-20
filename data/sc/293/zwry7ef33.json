@@ -1,0 +1,33 @@
+{
+  "id": "zwry7ef33",
+  "url": "https://constellation.church/zwry7ef33",
+  "name": "Laurens Second Baptist Church",
+  "displayName": "Laurens Second Baptist Church",
+  "address": {
+    "street": "414 Fleming St",
+    "city": "Laurens",
+    "state": "SC",
+    "zip": "29360"
+  },
+  "coordinates": {
+    "latitude": 34.50404167175293,
+    "longitude": -82.00197982788086
+  },
+  "website": "https://secondlaurens.com",
+  "listingUrl": "https://churches.sbc.net/church/laurens-second-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "laurens-second-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "secondlaurens.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570473786"
+    }
+  ],
+  "advisories": []
+}

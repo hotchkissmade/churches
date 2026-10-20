@@ -1,0 +1,33 @@
+{
+  "id": "xdhsg5n64",
+  "url": "https://constellation.church/xdhsg5n64",
+  "name": "Bakers Grove Baptist Church",
+  "displayName": "Bakers Grove Baptist Church",
+  "address": {
+    "street": "3562 Earhart Rd",
+    "city": "Mount Juliet",
+    "state": "TN",
+    "zip": "37122"
+  },
+  "coordinates": {
+    "latitude": 36.143287658691406,
+    "longitude": -86.5700569152832
+  },
+  "website": "https://bakersgrove.org",
+  "listingUrl": "https://churches.sbc.net/church/bakers-grove-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bakers-grove-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bakersgrove.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621177447"
+    }
+  ],
+  "advisories": []
+}

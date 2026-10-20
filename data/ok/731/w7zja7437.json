@@ -1,0 +1,33 @@
+{
+  "id": "w7zja7437",
+  "url": "https://constellation.church/w7zja7437",
+  "name": "Exchange Avenue Baptist Church",
+  "displayName": "Exchange Avenue Baptist Church",
+  "address": {
+    "street": "1312 S Pennsylvania Ave",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73108"
+  },
+  "coordinates": {
+    "latitude": 35.45228385925293,
+    "longitude": -97.54735565185547
+  },
+  "website": "https://exchangeokc.org",
+  "listingUrl": "https://churches.sbc.net/church/exchange-avenue-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "exchange-avenue-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "exchangeokc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "730621890"
+    }
+  ],
+  "advisories": []
+}

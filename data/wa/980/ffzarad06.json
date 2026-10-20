@@ -1,0 +1,33 @@
+{
+  "id": "ffzarad06",
+  "url": "https://constellation.church/ffzarad06",
+  "name": "Wooden Cross Lutheran Church",
+  "displayName": "Wooden Cross Lutheran Church",
+  "address": {
+    "street": "17401 198th Ave NE",
+    "city": "Woodinville",
+    "state": "WA",
+    "zip": "98077-8855"
+  },
+  "coordinates": {
+    "latitude": 47.754310607910156,
+    "longitude": -122.0746841430664
+  },
+  "website": "https://wearewoodencross.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c3618ba1-2dc6-47f6-b85a-f777a13b8ed6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c3618ba1-2dc6-47f6-b85a-f777a13b8ed6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wearewoodencross.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911428705"
+    }
+  ],
+  "advisories": []
+}

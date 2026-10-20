@@ -1,0 +1,33 @@
+{
+  "id": "mds8z2x55",
+  "url": "https://constellation.church/mds8z2x55",
+  "name": "Locust Hill Baptist Church",
+  "displayName": "Locust Hill Baptist Church",
+  "address": {
+    "street": "5534 Locust Hill Rd",
+    "city": "Travelers Rst",
+    "state": "SC",
+    "zip": "29690"
+  },
+  "coordinates": {
+    "latitude": 35.0163631439209,
+    "longitude": -82.38043212890625
+  },
+  "website": "https://locusthillchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/locust-hill-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "locust-hill-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "locusthillchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570744627"
+    }
+  ],
+  "advisories": []
+}

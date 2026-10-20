@@ -1,0 +1,33 @@
+{
+  "id": "v87awvb38",
+  "url": "https://constellation.church/v87awvb38",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "501 El Dorado St",
+    "city": "Monterey",
+    "state": "CA",
+    "zip": "93940"
+  },
+  "coordinates": {
+    "latitude": 36.590118408203125,
+    "longitude": -121.89236450195312
+  },
+  "website": "https://fpcmonterey.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/898/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "898"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcmonterey.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941186218"
+    }
+  ],
+  "advisories": []
+}

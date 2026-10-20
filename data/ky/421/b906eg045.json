@@ -1,0 +1,33 @@
+{
+  "id": "b906eg045",
+  "url": "https://constellation.church/b906eg045",
+  "name": "Woodburn Baptist Church",
+  "displayName": "Woodburn Baptist Church",
+  "address": {
+    "street": "600 Woodburn Allen Springs Rd",
+    "city": "Woodburn",
+    "state": "KY",
+    "zip": "42170"
+  },
+  "coordinates": {
+    "latitude": 36.84341621398926,
+    "longitude": -86.53002548217773
+  },
+  "website": "https://woodburnbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/woodburn-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "woodburn-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "woodburnbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611078262"
+    }
+  ],
+  "advisories": []
+}

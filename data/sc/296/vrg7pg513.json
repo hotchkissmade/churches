@@ -1,0 +1,33 @@
+{
+  "id": "vrg7pg513",
+  "url": "https://constellation.church/vrg7pg513",
+  "name": "St Michael Lutheran Church",
+  "displayName": "St. Michael Lutheran Church",
+  "address": {
+    "street": "2619 Augusta St",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29605-1946"
+  },
+  "coordinates": {
+    "latitude": 34.81829261779785,
+    "longitude": -82.38663482666016
+  },
+  "website": "https://stmichaelelca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ab7afa8f-0314-4908-b6ff-d910507283a7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ab7afa8f-0314-4908-b6ff-d910507283a7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmichaelelca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "576030425"
+    }
+  ],
+  "advisories": []
+}

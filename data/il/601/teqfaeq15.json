@@ -1,0 +1,33 @@
+{
+  "id": "teqfaeq15",
+  "url": "https://constellation.church/teqfaeq15",
+  "name": "Roselle United Methodist Church",
+  "displayName": "Roselle United Methodist Church",
+  "address": {
+    "street": "206 S Rush Street",
+    "city": "Roselle",
+    "state": "IL",
+    "zip": "60172"
+  },
+  "coordinates": {
+    "latitude": 41.979339599609375,
+    "longitude": -88.07432556152344
+  },
+  "website": "https://roselleumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF61lIAD",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF61lIAD"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "roselleumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366094373"
+    }
+  ],
+  "advisories": []
+}

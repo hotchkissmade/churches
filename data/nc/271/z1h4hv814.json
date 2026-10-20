@@ -1,0 +1,33 @@
+{
+  "id": "z1h4hv814",
+  "url": "https://constellation.church/z1h4hv814",
+  "name": "Emmanuel Church of Winston Salem",
+  "displayName": "Emmanuel Church of Winston Salem",
+  "address": {
+    "street": "407 Petree Rd",
+    "city": "Winston Salem",
+    "state": "NC",
+    "zip": "27106"
+  },
+  "coordinates": {
+    "latitude": 36.12869453430176,
+    "longitude": -80.3162727355957
+  },
+  "website": "https://emmanuelws.com",
+  "listingUrl": "https://churches.sbc.net/church/emmanuel-church-of-winston-salem/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "emmanuel-church-of-winston-salem"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emmanuelws.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "821140331"
+    }
+  ],
+  "advisories": []
+}

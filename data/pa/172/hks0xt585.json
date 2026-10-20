@@ -1,0 +1,33 @@
+{
+  "id": "hks0xt585",
+  "url": "https://constellation.church/hks0xt585",
+  "name": "Antrim BIC",
+  "displayName": "Antrim Brethren in Christ Church",
+  "address": {
+    "street": "24 Kauffman Rd. E",
+    "city": "Chambersburg",
+    "state": "PA",
+    "zip": "17202"
+  },
+  "coordinates": {
+    "latitude": 39.8355712890625,
+    "longitude": -77.71184921264648
+  },
+  "website": "https://antrimbic.net",
+  "listingUrl": "https://bicus.org/church/antrim-bic/",
+  "identifiers": [
+    {
+      "namespace": "org.bicus.id",
+      "value": "317"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "antrimbic.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232150953"
+    }
+  ],
+  "advisories": []
+}

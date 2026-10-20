@@ -1,0 +1,33 @@
+{
+  "id": "sh0cycr49",
+  "url": "https://constellation.church/sh0cycr49",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "4713 150th Ave SE",
+    "city": "Leonard",
+    "state": "ND",
+    "zip": "58052-9757"
+  },
+  "coordinates": {
+    "latitude": 46.728410720825195,
+    "longitude": -97.32598114013672
+  },
+  "website": "https://stjohnstpeterlutheranchurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d9d74f19-50b1-4eed-9030-0162edc5cca8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d9d74f19-50b1-4eed-9030-0162edc5cca8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnstpeterlutheranchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450337672"
+    }
+  ],
+  "advisories": []
+}

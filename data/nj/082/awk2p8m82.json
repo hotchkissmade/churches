@@ -1,0 +1,33 @@
+{
+  "id": "awk2p8m82",
+  "url": "https://constellation.church/awk2p8m82",
+  "name": "United Methodist Church at Absecon",
+  "displayName": "United Methodist Church at Absecon",
+  "address": {
+    "street": "100 Pitney Rd",
+    "city": "Absecon",
+    "state": "NJ",
+    "zip": "08201-2009"
+  },
+  "coordinates": {
+    "latitude": 39.42689323425293,
+    "longitude": -74.49956130981445
+  },
+  "website": "https://abseconumc.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFL9uIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFL9uIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "abseconumc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "216007529"
+    }
+  ],
+  "advisories": []
+}

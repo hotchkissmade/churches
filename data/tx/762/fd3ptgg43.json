@@ -1,0 +1,33 @@
+{
+  "id": "fd3ptgg43",
+  "url": "https://constellation.church/fd3ptgg43",
+  "name": "Sycamore Baptist Church, Decatur",
+  "displayName": "Sycamore Baptist Church, Decatur",
+  "address": {
+    "street": "133 County Road 2425",
+    "city": "Decatur",
+    "state": "TX",
+    "zip": "76234"
+  },
+  "coordinates": {
+    "latitude": 33.32669639587402,
+    "longitude": -97.48570251464844
+  },
+  "website": "https://sycamoredecatur.com",
+  "listingUrl": "https://churches.sbc.net/church/sycamore-baptist-church-decatur-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sycamore-baptist-church-decatur-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sycamoredecatur.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751776642"
+    }
+  ],
+  "advisories": []
+}

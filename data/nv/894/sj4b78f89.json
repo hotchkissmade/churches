@@ -1,0 +1,33 @@
+{
+  "id": "sj4b78f89",
+  "url": "https://constellation.church/sj4b78f89",
+  "name": "Valley Church",
+  "displayName": "Valley Church",
+  "address": {
+    "street": "4150 W Thomas Canyon Rd",
+    "city": "Winnemucca",
+    "state": "NV",
+    "zip": "89445"
+  },
+  "coordinates": {
+    "latitude": 40.91473579406738,
+    "longitude": -117.77825927734375
+  },
+  "website": "https://valleychurchwinnemucca.com",
+  "listingUrl": "https://churches.sbc.net/church/valley-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "valley-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "valleychurchwinnemucca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942945034"
+    }
+  ],
+  "advisories": []
+}

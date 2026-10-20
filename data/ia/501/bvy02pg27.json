@@ -1,0 +1,37 @@
+{
+  "id": "bvy02pg27",
+  "url": "https://constellation.church/bvy02pg27",
+  "name": "Mt. Calvary Lutheran Church",
+  "displayName": "Mount Calvary Lutheran Church",
+  "address": {
+    "street": "2214 East Second Ave",
+    "city": "Indianola",
+    "state": "IA",
+    "zip": "50125"
+  },
+  "coordinates": {
+    "latitude": 41.358619689941406,
+    "longitude": -93.52505874633789
+  },
+  "website": "https://mt-calvary.com",
+  "listingUrl": "https://idwlcms.org/congregation.php?id=90",
+  "identifiers": [
+    {
+      "namespace": "org.idwlcms.id",
+      "value": "90"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mt-calvary.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426140100"
+    },
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "444659"
+    }
+  ],
+  "advisories": []
+}

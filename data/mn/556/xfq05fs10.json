@@ -1,0 +1,33 @@
+{
+  "id": "xfq05fs10",
+  "url": "https://constellation.church/xfq05fs10",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "601 4th Ave",
+    "city": "Two Harbors",
+    "state": "MN",
+    "zip": "55616-1411"
+  },
+  "coordinates": {
+    "latitude": 47.02286911010742,
+    "longitude": -91.67137145996094
+  },
+  "website": "https://blcth.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=44994054-9254-478c-9d00-81628c6fc6ff",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "44994054-9254-478c-9d00-81628c6fc6ff"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blcth.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410874627"
+    }
+  ],
+  "advisories": []
+}

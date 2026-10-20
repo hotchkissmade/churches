@@ -1,0 +1,33 @@
+{
+  "id": "xf500ex64",
+  "url": "https://constellation.church/xf500ex64",
+  "name": "First Baptist Church New London",
+  "displayName": "First Baptist Church New London",
+  "address": {
+    "street": "201 E 3rd St",
+    "city": "New London",
+    "state": "MO",
+    "zip": "63459"
+  },
+  "coordinates": {
+    "latitude": 39.586761474609375,
+    "longitude": -91.39961242675781
+  },
+  "website": "https://fbcnewlondon.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-new-london/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-new-london"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcnewlondon.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431100935"
+    }
+  ],
+  "advisories": []
+}

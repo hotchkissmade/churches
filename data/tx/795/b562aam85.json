@@ -1,0 +1,33 @@
+{
+  "id": "b562aam85",
+  "url": "https://constellation.church/b562aam85",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "301 N Avenue E",
+    "city": "Haskell",
+    "state": "TX",
+    "zip": "79521"
+  },
+  "coordinates": {
+    "latitude": 33.15999412536621,
+    "longitude": -99.73411560058594
+  },
+  "website": "https://fbchaskell.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-289/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-289"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbchaskell.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751050528"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "d265sng49",
+  "url": "https://constellation.church/d265sng49",
+  "name": "Page Avenue Baptist Church",
+  "displayName": "Page Avenue Baptist Church",
+  "address": {
+    "street": "5023 Page Ave",
+    "city": "Jackson",
+    "state": "MI",
+    "zip": "49201"
+  },
+  "coordinates": {
+    "latitude": 42.23297119140625,
+    "longitude": -84.30914306640625
+  },
+  "website": "https://secondbaptistdetroit.org",
+  "listingUrl": "https://churches.sbc.net/church/page-avenue-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "page-avenue-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "secondbaptistdetroit.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381366956"
+    }
+  ],
+  "advisories": []
+}

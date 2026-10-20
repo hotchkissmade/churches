@@ -1,0 +1,33 @@
+{
+  "id": "mbqqv3g25",
+  "url": "https://constellation.church/mbqqv3g25",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "420 Hughes Drive",
+    "city": "Blair",
+    "state": "OK",
+    "zip": "73526"
+  },
+  "coordinates": {
+    "latitude": 34.65072441101074,
+    "longitude": -99.32711029052734
+  },
+  "website": "https://fbcblair.org/welcome",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-378/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-378"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcblair.org/welcome"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470623872"
+    }
+  ],
+  "advisories": []
+}

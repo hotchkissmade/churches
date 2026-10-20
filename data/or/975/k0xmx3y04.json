@@ -1,0 +1,33 @@
+{
+  "id": "k0xmx3y04",
+  "url": "https://constellation.church/k0xmx3y04",
+  "name": "Parkway Christian Center",
+  "displayName": "Parkway Christian Center",
+  "address": {
+    "street": "229 NE Beacon Dr",
+    "city": "Grants Pass",
+    "state": "OR",
+    "zip": "97526"
+  },
+  "coordinates": {
+    "latitude": 42.43767166137695,
+    "longitude": -123.30609130859375
+  },
+  "website": "https://parkwaycc.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=9f374f8a-b6f5-4aa3-9d4e-5f86b861666f&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "9f374f8a-b6f5-4aa3-9d4e-5f86b861666f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parkwaycc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "936002822"
+    }
+  ],
+  "advisories": []
+}

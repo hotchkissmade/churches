@@ -1,0 +1,33 @@
+{
+  "id": "vgbbf8s76",
+  "url": "https://constellation.church/vgbbf8s76",
+  "name": "St. Martin's-in-the-Fields",
+  "displayName": "St. Martin's-in-the-Fields",
+  "address": {
+    "street": "5220 Clemson Ave",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29206-3098"
+  },
+  "coordinates": {
+    "latitude": 34.01887321472168,
+    "longitude": -80.9736442565918
+  },
+  "website": "https://smifsc.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-upper-south-carolina/list/st-martins-fields",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-upper-south-carolina/st-martins-fields"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "smifsc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570384820"
+    }
+  ],
+  "advisories": []
+}

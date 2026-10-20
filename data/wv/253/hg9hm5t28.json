@@ -1,0 +1,33 @@
+{
+  "id": "hg9hm5t28",
+  "url": "https://constellation.church/hg9hm5t28",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "508 2nd Ave",
+    "city": "South Charleston",
+    "state": "WV",
+    "zip": "25303"
+  },
+  "coordinates": {
+    "latitude": 38.36631774902344,
+    "longitude": -81.68835067749023
+  },
+  "website": "https://fpcscwv.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/11704/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "11704"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcscwv.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "556000503"
+    }
+  ],
+  "advisories": []
+}

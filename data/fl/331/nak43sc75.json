@@ -1,0 +1,33 @@
+{
+  "id": "nak43sc75",
+  "url": "https://constellation.church/nak43sc75",
+  "name": "The Brook",
+  "displayName": "The Brook",
+  "address": {
+    "street": "361 NW 67th St",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33150"
+  },
+  "coordinates": {
+    "latitude": 25.836505889892578,
+    "longitude": -80.20277404785156
+  },
+  "website": "https://thebrookmiami.org",
+  "listingUrl": "https://churches.sbc.net/church/the-brook/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-brook"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thebrookmiami.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "471817587"
+    }
+  ],
+  "advisories": []
+}

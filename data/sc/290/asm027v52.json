@@ -1,0 +1,33 @@
+{
+  "id": "asm027v52",
+  "url": "https://constellation.church/asm027v52",
+  "name": "Lexington Baptist Church",
+  "displayName": "Lexington Baptist Church",
+  "address": {
+    "street": "308 E Main St",
+    "city": "Lexington",
+    "state": "SC",
+    "zip": "29072"
+  },
+  "coordinates": {
+    "latitude": 33.98040580749512,
+    "longitude": -81.23276901245117
+  },
+  "website": "https://lexingtonbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/lexington-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lexington-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lexingtonbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570381873"
+    }
+  ],
+  "advisories": []
+}

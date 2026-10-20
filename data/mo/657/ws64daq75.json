@@ -1,0 +1,33 @@
+{
+  "id": "ws64daq75",
+  "url": "https://constellation.church/ws64daq75",
+  "name": "Grace Community Fellowship",
+  "displayName": "Grace Community Fellowship",
+  "address": {
+    "street": "20819 Farm Road 1250",
+    "city": "Shell Knob",
+    "state": "MO",
+    "zip": "65747"
+  },
+  "coordinates": {
+    "latitude": 36.6252384185791,
+    "longitude": -93.62736511230469
+  },
+  "website": "https://gracecommunityfellowshipsk.com",
+  "listingUrl": "https://churches.sbc.net/church/grace-community-fellowship/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grace-community-fellowship"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracecommunityfellowshipsk.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431874452"
+    }
+  ],
+  "advisories": []
+}

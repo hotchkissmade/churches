@@ -1,0 +1,33 @@
+{
+  "id": "jcs4aws76",
+  "url": "https://constellation.church/jcs4aws76",
+  "name": "Pilgrim Lutheran Church",
+  "displayName": "Pilgrim Lutheran Church",
+  "address": {
+    "street": "3257 E University Dr",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85213-8613"
+  },
+  "coordinates": {
+    "latitude": 33.421865463256836,
+    "longitude": -111.76052856445312
+  },
+  "website": "https://pilgrimmesa.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24007",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24007"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pilgrimmesa.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860256826"
+    }
+  ],
+  "advisories": []
+}

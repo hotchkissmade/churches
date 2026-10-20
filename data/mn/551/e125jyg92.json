@@ -1,0 +1,37 @@
+{
+  "id": "e125jyg92",
+  "url": "https://constellation.church/e125jyg92",
+  "name": "Church of the Good Shepherd",
+  "displayName": "Church of the Good Shepherd",
+  "address": {
+    "street": "1660 Birch Lake Rd",
+    "city": "Stillwater",
+    "state": "MN",
+    "zip": "55110"
+  },
+  "coordinates": {
+    "latitude": 45.08226776123047,
+    "longitude": -93.03144073486328
+  },
+  "website": "https://ctkwbl.org/about-us",
+  "listingUrl": "https://www.acna.org/admin_units/4210",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "4210"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ctkwbl.org/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411326964"
+    },
+    {
+      "namespace": "org.elca.id",
+      "value": "6c4457fa-7e6d-4cd3-9f01-fbbcca9f2fc3"
+    }
+  ],
+  "advisories": []
+}

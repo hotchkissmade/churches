@@ -1,0 +1,33 @@
+{
+  "id": "kyad50146",
+  "url": "https://constellation.church/kyad50146",
+  "name": "Church in Plano",
+  "displayName": "Church in Plano",
+  "address": {
+    "street": "2525 Custer Rd",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75075"
+  },
+  "coordinates": {
+    "latitude": 33.03156852722168,
+    "longitude": -96.73445129394531
+  },
+  "website": "https://churchinplano.org",
+  "listingUrl": "https://localchurches.org/churches/plano-tx-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "plano-tx-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinplano.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752475865"
+    }
+  ],
+  "advisories": []
+}

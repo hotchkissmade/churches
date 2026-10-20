@@ -1,0 +1,33 @@
+{
+  "id": "r92z80x68",
+  "url": "https://constellation.church/r92z80x68",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "320 S State St",
+    "city": "Lexington",
+    "state": "NC",
+    "zip": "27292-3206"
+  },
+  "coordinates": {
+    "latitude": 35.82220268249512,
+    "longitude": -80.25774002075195
+  },
+  "website": "https://flclex.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=29761afe-2912-454f-a5db-a49ce66d9184",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "29761afe-2912-454f-a5db-a49ce66d9184"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flclex.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "566021782"
+    }
+  ],
+  "advisories": []
+}

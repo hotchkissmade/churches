@@ -1,0 +1,33 @@
+{
+  "id": "z5784da95",
+  "url": "https://constellation.church/z5784da95",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "17 S 20th St",
+    "city": "Wyandanch",
+    "state": "NY",
+    "zip": "11798-3003"
+  },
+  "coordinates": {
+    "latitude": 40.7493188,
+    "longitude": -73.3636633
+  },
+  "website": "https://trinitywyandanch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2d0aca99-c156-44c0-b1fc-2b6d9fe6dbf8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2d0aca99-c156-44c0-b1fc-2b6d9fe6dbf8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitywyandanch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111867675"
+    }
+  ],
+  "advisories": []
+}

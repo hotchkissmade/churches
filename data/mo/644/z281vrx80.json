@@ -1,0 +1,33 @@
+{
+  "id": "z281vrx80",
+  "url": "https://constellation.church/z281vrx80",
+  "name": "Frazier Baptist Church",
+  "displayName": "Frazier Baptist Church",
+  "address": {
+    "street": "13601 State Route E SE",
+    "city": "Agency",
+    "state": "MO",
+    "zip": "64401"
+  },
+  "coordinates": {
+    "latitude": 39.614097595214844,
+    "longitude": -94.67596435546875
+  },
+  "website": "https://frazierbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/frazier-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "frazier-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "frazierbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440605379"
+    }
+  ],
+  "advisories": []
+}

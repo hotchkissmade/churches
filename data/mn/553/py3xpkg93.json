@@ -1,0 +1,33 @@
+{
+  "id": "py3xpkg93",
+  "url": "https://constellation.church/py3xpkg93",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "16515 Luther Way",
+    "city": "Eden Prairie",
+    "state": "MN",
+    "zip": "55346-4335"
+  },
+  "coordinates": {
+    "latitude": 44.864845275878906,
+    "longitude": -93.4866943359375
+  },
+  "website": "https://immanuel.us",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6cf6457b-061f-434f-ba3d-71b1f1e2f31c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6cf6457b-061f-434f-ba3d-71b1f1e2f31c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "immanuel.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410968965"
+    }
+  ],
+  "advisories": []
+}

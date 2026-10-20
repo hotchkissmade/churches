@@ -1,0 +1,33 @@
+{
+  "id": "cpg324z55",
+  "url": "https://constellation.church/cpg324z55",
+  "name": "St. John's Episcopal Church",
+  "displayName": "St. John's Episcopal Church",
+  "address": {
+    "street": "191 County Rd",
+    "city": "Barrington",
+    "state": "RI",
+    "zip": "02806-4501"
+  },
+  "coordinates": {
+    "latitude": 41.737131118774414,
+    "longitude": -71.30337142944336
+  },
+  "website": "https://stjohnsbarrington.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-rhode-island/list/st-johns-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-rhode-island/st-johns-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsbarrington.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "050312377"
+    }
+  ],
+  "advisories": []
+}

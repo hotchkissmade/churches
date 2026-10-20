@@ -1,0 +1,33 @@
+{
+  "id": "zb6pdw074",
+  "url": "https://constellation.church/zb6pdw074",
+  "name": "Wedgwood Baptist Church",
+  "displayName": "Wedgwood Baptist Church",
+  "address": {
+    "street": "5522 Whitman Ave",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76133"
+  },
+  "coordinates": {
+    "latitude": 32.66428565979004,
+    "longitude": -97.38452911376953
+  },
+  "website": "https://wedgwoodbc.org",
+  "listingUrl": "https://churches.sbc.net/church/wedgwood-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "wedgwood-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wedgwoodbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751242404"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "e6f6qn238",
+  "url": "https://constellation.church/e6f6qn238",
+  "name": "Faith Presbyterian Church",
+  "displayName": "Faith Presbyterian Church",
+  "address": {
+    "street": "4601 Valleydale Road",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35242"
+  },
+  "coordinates": {
+    "latitude": 33.38278388977051,
+    "longitude": -86.73413848876953
+  },
+  "website": "https://faith-pca.org/worship",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/384",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "384"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faith-pca.org/worship"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630704515"
+    }
+  ],
+  "advisories": []
+}

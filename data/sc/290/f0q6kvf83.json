@@ -1,0 +1,33 @@
+{
+  "id": "f0q6kvf83",
+  "url": "https://constellation.church/f0q6kvf83",
+  "name": "St Stephen Lutheran Church",
+  "displayName": "St. Stephen Lutheran Church",
+  "address": {
+    "street": "119 N Church St",
+    "city": "Lexington",
+    "state": "SC",
+    "zip": "29072-2807"
+  },
+  "coordinates": {
+    "latitude": 33.98311424255371,
+    "longitude": -81.23706436157227
+  },
+  "website": "https://sslc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=54f6f480-b416-4322-a90c-57f112b3c5a4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "54f6f480-b416-4322-a90c-57f112b3c5a4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sslc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570362063"
+    }
+  ],
+  "advisories": []
+}

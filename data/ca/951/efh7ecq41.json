@@ -1,0 +1,33 @@
+{
+  "id": "efh7ecq41",
+  "url": "https://constellation.church/efh7ecq41",
+  "name": "Hillside Church",
+  "displayName": "Hillside Church",
+  "address": {
+    "street": "545 Hillsdale Ave",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95136-1202"
+  },
+  "coordinates": {
+    "latitude": 37.280866622924805,
+    "longitude": -121.85978698730469
+  },
+  "website": "https://hillside.org",
+  "listingUrl": "https://churches.efca.org/?id=12113",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12113"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hillside.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942390928"
+    }
+  ],
+  "advisories": []
+}

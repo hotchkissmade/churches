@@ -1,0 +1,33 @@
+{
+  "id": "axjv3kb13",
+  "url": "https://constellation.church/axjv3kb13",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "200 N Center St",
+    "city": "Plano",
+    "state": "IL",
+    "zip": "60545-1504"
+  },
+  "coordinates": {
+    "latitude": 41.66466522216797,
+    "longitude": -88.53751373291016
+  },
+  "website": "https://firstlutheranchurchplano.com/home",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0e33a12d-4f60-4e43-8d44-614f90f353ed",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0e33a12d-4f60-4e43-8d44-614f90f353ed"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranchurchplano.com/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362616077"
+    }
+  ],
+  "advisories": []
+}

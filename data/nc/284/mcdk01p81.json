@@ -1,0 +1,33 @@
+{
+  "id": "mcdk01p81",
+  "url": "https://constellation.church/mcdk01p81",
+  "name": "St Peter Evangelical Lutheran Church",
+  "displayName": "St. Peter Evangelical Lutheran Church",
+  "address": {
+    "street": "4843 Southport Supply Rd SE",
+    "city": "Southport",
+    "state": "NC",
+    "zip": "28461-8741"
+  },
+  "coordinates": {
+    "latitude": 33.953779220581055,
+    "longitude": -78.05715560913086
+  },
+  "website": "https://splc-nc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f3d4582c-7114-4cf3-9d5c-dc42b4c39ca3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f3d4582c-7114-4cf3-9d5c-dc42b4c39ca3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "splc-nc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561380571"
+    }
+  ],
+  "advisories": []
+}

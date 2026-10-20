@@ -1,0 +1,33 @@
+{
+  "id": "sht2jz882",
+  "url": "https://constellation.church/sht2jz882",
+  "name": "Grace Evangelical Lutheran Church",
+  "displayName": "Grace Evangelical Lutheran Church",
+  "address": {
+    "street": "393 Adams St",
+    "city": "Rochester",
+    "state": "PA",
+    "zip": "15074-2128"
+  },
+  "coordinates": {
+    "latitude": 40.70318603515625,
+    "longitude": -80.28129959106445
+  },
+  "website": "https://gracelutheranpa.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e346a9dd-1d55-40a6-9a4b-915f07aacfb3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e346a9dd-1d55-40a6-9a4b-915f07aacfb3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelutheranpa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251005195"
+    }
+  ],
+  "advisories": []
+}

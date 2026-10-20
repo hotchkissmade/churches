@@ -1,0 +1,33 @@
+{
+  "id": "hteyx6776",
+  "url": "https://constellation.church/hteyx6776",
+  "name": "First Baptist Church of Morton",
+  "displayName": "First Baptist Church of Morton",
+  "address": {
+    "street": "900 E Jefferson St",
+    "city": "Morton",
+    "state": "IL",
+    "zip": "61550"
+  },
+  "coordinates": {
+    "latitude": 40.60538101196289,
+    "longitude": -89.44876861572266
+  },
+  "website": "https://firstbaptistmorton.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-morton/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-morton"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistmorton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370977187"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cjb01r137",
+  "url": "https://constellation.church/cjb01r137",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "70-35 112th St",
+    "city": "Forest Hills",
+    "state": "NY",
+    "zip": "11375"
+  },
+  "coordinates": {
+    "latitude": 40.723337173461914,
+    "longitude": -73.83924102783203
+  },
+  "website": "https://presbyfh.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/5281/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "5281"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "presbyfh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111646311"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "s9av2dm39",
+  "url": "https://constellation.church/s9av2dm39",
+  "name": "West Side Baptist Church",
+  "displayName": "West Side Baptist Church",
+  "address": {
+    "street": "715 W Wolfe St",
+    "city": "Harrisonburg",
+    "state": "VA",
+    "zip": "22802"
+  },
+  "coordinates": {
+    "latitude": 38.45322227478027,
+    "longitude": -78.88076400756836
+  },
+  "website": "https://westside-baptist.org",
+  "listingUrl": "https://churches.sbc.net/church/west-side-baptist-church-11/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "west-side-baptist-church-11"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westside-baptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540953093"
+    }
+  ],
+  "advisories": []
+}

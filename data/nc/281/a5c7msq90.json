@@ -1,0 +1,33 @@
+{
+  "id": "a5c7msq90",
+  "url": "https://constellation.church/a5c7msq90",
+  "name": "First Baptist Church Mooresville",
+  "displayName": "First Baptist Church Mooresville",
+  "address": {
+    "street": "150 S Church St",
+    "city": "Mooresville",
+    "state": "NC",
+    "zip": "28115"
+  },
+  "coordinates": {
+    "latitude": 35.58076095581055,
+    "longitude": -80.81170272827148
+  },
+  "website": "https://fbcmooresville.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-mooresville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-mooresville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcmooresville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351390882"
+    }
+  ],
+  "advisories": []
+}

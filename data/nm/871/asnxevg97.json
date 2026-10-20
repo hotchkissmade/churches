@@ -1,0 +1,33 @@
+{
+  "id": "asnxevg97",
+  "url": "https://constellation.church/asnxevg97",
+  "name": "Paragon Church",
+  "displayName": "Paragon Church",
+  "address": {
+    "street": "103 Rio Rancho Blvd NE Ste D1",
+    "city": "Rio Rancho",
+    "state": "NM",
+    "zip": "87124"
+  },
+  "coordinates": {
+    "latitude": 35.25955390930176,
+    "longitude": -106.64102935791016
+  },
+  "website": "https://paragonchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/paragon-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "paragon-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "paragonchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "274541024"
+    }
+  ],
+  "advisories": []
+}

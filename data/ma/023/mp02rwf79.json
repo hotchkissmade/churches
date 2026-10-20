@@ -1,0 +1,33 @@
+{
+  "id": "mp02rwf79",
+  "url": "https://constellation.church/mp02rwf79",
+  "name": "Zion Evangelical Lutheran Church",
+  "displayName": "Zion Evangelical Lutheran Church",
+  "address": {
+    "street": "384 Court St",
+    "city": "Plymouth",
+    "state": "MA",
+    "zip": "02360-7307"
+  },
+  "coordinates": {
+    "latitude": 41.978492736816406,
+    "longitude": -70.69123458862305
+  },
+  "website": "https://zionplymouth.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5b75e39f-e921-4254-8a1a-db899af22932",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5b75e39f-e921-4254-8a1a-db899af22932"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionplymouth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042762774"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bfms1q629",
+  "url": "https://constellation.church/bfms1q629",
+  "name": "Lakeview Church",
+  "displayName": "Lakeview Church",
+  "address": {
+    "street": "9861 Old National Pike",
+    "city": "Ijamsville",
+    "state": "MD",
+    "zip": "21754"
+  },
+  "coordinates": {
+    "latitude": 39.38417434692383,
+    "longitude": -77.25868606567383
+  },
+  "website": "https://lakeviewchurchmd.com",
+  "listingUrl": "https://churches.sbc.net/church/lakeview-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lakeview-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lakeviewchurchmd.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "453078351"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nm7q9wq84",
+  "url": "https://constellation.church/nm7q9wq84",
+  "name": "Chapel of the Good Shepherd at the General Theological Seminary",
+  "displayName": "Chapel of the Good Shepherd at the General Theological Seminary",
+  "address": {
+    "street": "440 W. 21st St.",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10011"
+  },
+  "coordinates": {
+    "latitude": 40.74559211730957,
+    "longitude": -74.00379943847656
+  },
+  "website": "https://gts.edu",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-new-york/list/general-theological-seminary",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-new-york/general-theological-seminary"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gts.edu"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "135563022"
+    }
+  ],
+  "advisories": []
+}

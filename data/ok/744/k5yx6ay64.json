@@ -1,0 +1,33 @@
+{
+  "id": "k5yx6ay64",
+  "url": "https://constellation.church/k5yx6ay64",
+  "name": "Presbyterian Church of Muskogee",
+  "displayName": "Presbyterian Church of Muskogee",
+  "address": {
+    "street": "2000 Haskell Blvd",
+    "city": "Muskogee",
+    "state": "OK",
+    "zip": "74403"
+  },
+  "coordinates": {
+    "latitude": 35.74814033508301,
+    "longitude": -95.34648895263672
+  },
+  "website": "https://pcmuskogee.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/15118/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "15118"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pcmuskogee.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "814757644"
+    }
+  ],
+  "advisories": []
+}

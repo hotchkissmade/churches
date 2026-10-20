@@ -1,0 +1,33 @@
+{
+  "id": "k77nyxf17",
+  "url": "https://constellation.church/k77nyxf17",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "100 6th St W",
+    "city": "Jordan",
+    "state": "MN",
+    "zip": "55352-1316"
+  },
+  "coordinates": {
+    "latitude": 44.67161560058594,
+    "longitude": -93.6296615600586
+  },
+  "website": "https://spljordan.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24358",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24358"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "spljordan.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410919905"
+    }
+  ],
+  "advisories": []
+}

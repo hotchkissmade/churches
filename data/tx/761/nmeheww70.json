@@ -1,0 +1,33 @@
+{
+  "id": "nmeheww70",
+  "url": "https://constellation.church/nmeheww70",
+  "name": "Hope Church",
+  "displayName": "Hope Church",
+  "address": {
+    "street": "1750 Beach St",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76103"
+  },
+  "coordinates": {
+    "latitude": 32.750837326049805,
+    "longitude": -97.29141235351562
+  },
+  "website": "https://hopechurch.com",
+  "listingUrl": "https://churches.sbc.net/church/hope-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hope-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopechurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751803139"
+    }
+  ],
+  "advisories": []
+}

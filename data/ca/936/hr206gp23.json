@@ -1,0 +1,33 @@
+{
+  "id": "hr206gp23",
+  "url": "https://constellation.church/hr206gp23",
+  "name": "First Baptist Church of Madera",
+  "displayName": "First Baptist Church of Madera",
+  "address": {
+    "street": "1111 W Yosemite Ave",
+    "city": "Madera",
+    "state": "CA",
+    "zip": "93637"
+  },
+  "coordinates": {
+    "latitude": 36.954030990600586,
+    "longitude": -120.07160949707031
+  },
+  "website": "https://fbcmadera.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-madera/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-madera"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcmadera.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941691261"
+    }
+  ],
+  "advisories": []
+}

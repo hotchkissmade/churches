@@ -1,0 +1,33 @@
+{
+  "id": "hfzg8a338",
+  "url": "https://constellation.church/hfzg8a338",
+  "name": "Office of The Episcopal Diocese of Wyoming",
+  "displayName": "Office of The Episcopal Diocese of Wyoming",
+  "address": {
+    "street": "159 N Wolcott St, Suite 350",
+    "city": "Casper",
+    "state": "WY",
+    "zip": "82601"
+  },
+  "coordinates": {
+    "latitude": 42.849517822265625,
+    "longitude": -106.32193756103516
+  },
+  "website": "https://episcopalwy.org/our-bishop",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/wyoming/list/office-episcopal-diocese-wyoming",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "wyoming/office-episcopal-diocese-wyoming"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "episcopalwy.org/our-bishop"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "836000959"
+    }
+  ],
+  "advisories": []
+}

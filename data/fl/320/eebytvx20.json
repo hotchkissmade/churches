@@ -1,0 +1,33 @@
+{
+  "id": "eebytvx20",
+  "url": "https://constellation.church/eebytvx20",
+  "name": "Wellborn Baptist Church",
+  "displayName": "Wellborn Baptist Church",
+  "address": {
+    "street": "4146 Lowe Lake Rd",
+    "city": "Wellborn",
+    "state": "FL",
+    "zip": "32094"
+  },
+  "coordinates": {
+    "latitude": 30.210681915283203,
+    "longitude": -82.81267929077148
+  },
+  "website": "https://wellbornbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/wellborn-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "wellborn-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wellbornbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592340528"
+    }
+  ],
+  "advisories": []
+}

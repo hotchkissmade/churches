@@ -1,0 +1,33 @@
+{
+  "id": "r12q5jz86",
+  "url": "https://constellation.church/r12q5jz86",
+  "name": "American Lutheran Church",
+  "displayName": "American Lutheran Church",
+  "address": {
+    "street": "38795 Mulberry St",
+    "city": "Clinton Township",
+    "state": "MI",
+    "zip": "48036-2583"
+  },
+  "coordinates": {
+    "latitude": 42.584922790527344,
+    "longitude": -82.89826965332031
+  },
+  "website": "https://americanlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=74b1baeb-dbe9-43d9-8ff1-4111ca73f445",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "74b1baeb-dbe9-43d9-8ff1-4111ca73f445"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "americanlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381782660"
+    }
+  ],
+  "advisories": []
+}

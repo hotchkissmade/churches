@@ -1,0 +1,33 @@
+{
+  "id": "ammv6kb19",
+  "url": "https://constellation.church/ammv6kb19",
+  "name": "Holy Cross Lutheran Church",
+  "displayName": "Holy Cross Lutheran Church",
+  "address": {
+    "street": "410 N Arlington Ave",
+    "city": "Duluth",
+    "state": "MN",
+    "zip": "55811-5113"
+  },
+  "coordinates": {
+    "latitude": 46.80249786376953,
+    "longitude": -92.13184356689453
+  },
+  "website": "https://holycrossduluth.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=52a09473-a17e-4086-8c9c-a6ab37baa29a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "52a09473-a17e-4086-8c9c-a6ab37baa29a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holycrossduluth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410966751"
+    }
+  ],
+  "advisories": []
+}

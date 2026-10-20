@@ -1,0 +1,33 @@
+{
+  "id": "hbd9pd808",
+  "url": "https://constellation.church/hbd9pd808",
+  "name": "Trinity Presbyterian Church",
+  "displayName": "Trinity Presbyterian Church",
+  "address": {
+    "street": "325 W. Patent Road",
+    "city": "Mt. Kisco",
+    "state": "NY",
+    "zip": "10549"
+  },
+  "coordinates": {
+    "latitude": 41.201568603515625,
+    "longitude": -73.70855331420898
+  },
+  "website": "https://trinitychurchny.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1547",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1547"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitychurchny.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "133831626"
+    }
+  ],
+  "advisories": []
+}

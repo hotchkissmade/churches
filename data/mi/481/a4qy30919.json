@@ -1,0 +1,33 @@
+{
+  "id": "a4qy30919",
+  "url": "https://constellation.church/a4qy30919",
+  "name": "Emmanuel Lutheran Church",
+  "displayName": "Emmanuel Lutheran Church",
+  "address": {
+    "street": "201 N River St",
+    "city": "Ypsilanti",
+    "state": "MI",
+    "zip": "48198-2808"
+  },
+  "coordinates": {
+    "latitude": 42.243011474609375,
+    "longitude": -83.60900497436523
+  },
+  "website": "https://emmanuelypsi.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a858ea8b-e738-4911-b020-2b6179a4e256",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a858ea8b-e738-4911-b020-2b6179a4e256"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emmanuelypsi.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381549142"
+    }
+  ],
+  "advisories": []
+}

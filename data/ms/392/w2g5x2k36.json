@@ -1,0 +1,33 @@
+{
+  "id": "w2g5x2k36",
+  "url": "https://constellation.church/w2g5x2k36",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "1390 North State Street",
+    "city": "Jackson",
+    "state": "MS",
+    "zip": "39202"
+  },
+  "coordinates": {
+    "latitude": 32.318044662475586,
+    "longitude": -90.17822265625
+  },
+  "website": "https://fpcjackson.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/443",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "443"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcjackson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640334266"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "skw25wh97",
+  "url": "https://constellation.church/skw25wh97",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "102 W Main St",
+    "city": "Peru",
+    "state": "IN",
+    "zip": "46970"
+  },
+  "coordinates": {
+    "latitude": 40.75249481201172,
+    "longitude": -86.07247161865234
+  },
+  "website": "https://fpcperu.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/2194/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "2194"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcperu.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351065314"
+    }
+  ],
+  "advisories": []
+}

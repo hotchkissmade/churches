@@ -1,0 +1,33 @@
+{
+  "id": "hje172k46",
+  "url": "https://constellation.church/hje172k46",
+  "name": "Auburn Road Presbyterian Church",
+  "displayName": "Auburn Road Presbyterian Church",
+  "address": {
+    "street": "642 North Auburn Road",
+    "city": "Venice",
+    "state": "FL",
+    "zip": "34292"
+  },
+  "coordinates": {
+    "latitude": 27.114145278930664,
+    "longitude": -82.40069961547852
+  },
+  "website": "https://arpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/80",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "80"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "arpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592112705"
+    }
+  ],
+  "advisories": []
+}

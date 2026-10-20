@@ -1,0 +1,33 @@
+{
+  "id": "tjmpwag94",
+  "url": "https://constellation.church/tjmpwag94",
+  "name": "St Andrew Lutheran Church",
+  "displayName": "St. Andrew Lutheran Church",
+  "address": {
+    "street": "4420 Center Point Rd NE",
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "zip": "52402-3097"
+  },
+  "coordinates": {
+    "latitude": 42.02394485473633,
+    "longitude": -91.66565704345703
+  },
+  "website": "https://standrewlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f2031b0c-cbb3-409a-8b4b-3b0beeedd3c4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f2031b0c-cbb3-409a-8b4b-3b0beeedd3c4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426062638"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "whp1zak68",
+  "url": "https://constellation.church/whp1zak68",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "809 11th Ave S",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58103-3153"
+  },
+  "coordinates": {
+    "latitude": 46.863807678222656,
+    "longitude": -96.79303741455078
+  },
+  "website": "https://stmarkslutheranfargo.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3a1cd38a-d6c3-4856-9e41-6bc098cd84c6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3a1cd38a-d6c3-4856-9e41-6bc098cd84c6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkslutheranfargo.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450236174"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "swcpx1f35",
+  "url": "https://constellation.church/swcpx1f35",
+  "name": "Faith Community Baptist Church",
+  "displayName": "Faith Community Baptist Church",
+  "address": {
+    "street": "10401 NW 8th Ave",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33150"
+  },
+  "coordinates": {
+    "latitude": 25.8702335357666,
+    "longitude": -80.2118034362793
+  },
+  "website": "https://fcbcmiami.org",
+  "listingUrl": "https://churches.sbc.net/church/faith-community-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "faith-community-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fcbcmiami.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "651140802"
+    }
+  ],
+  "advisories": []
+}

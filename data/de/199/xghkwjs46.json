@@ -1,0 +1,33 @@
+{
+  "id": "xghkwjs46",
+  "url": "https://constellation.church/xghkwjs46",
+  "name": "Camden Friends Meeting",
+  "displayName": "Camden Friends Meeting",
+  "address": {
+    "street": "122 E Camden Wyoming Ave",
+    "city": "Camden",
+    "state": "DE",
+    "zip": "19934"
+  },
+  "coordinates": {
+    "latitude": 39.11444091796875,
+    "longitude": -75.54787826538086
+  },
+  "website": "https://camdenquakers.org/contact.php",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/camden-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "camden-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "camdenquakers.org/contact.php"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "516015698"
+    }
+  ],
+  "advisories": []
+}

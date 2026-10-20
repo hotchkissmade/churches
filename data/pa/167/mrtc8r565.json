@@ -1,0 +1,33 @@
+{
+  "id": "mrtc8r565",
+  "url": "https://constellation.church/mrtc8r565",
+  "name": "The Presbyterian Church",
+  "displayName": "The Presbyterian Church",
+  "address": {
+    "street": "103 Greeves St",
+    "city": "Kane",
+    "state": "PA",
+    "zip": "16735"
+  },
+  "coordinates": {
+    "latitude": 41.65968704223633,
+    "longitude": -78.8094482421875
+  },
+  "website": "https://presbykane.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/9208/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "9208"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "presbykane.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251187155"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "v4qdqgm78",
+  "url": "https://constellation.church/v4qdqgm78",
+  "name": "United Methodist Church of Green Valley",
+  "displayName": "United Methodist Church of Green Valley",
+  "address": {
+    "street": "300 W Esperanza Blvd",
+    "city": "Green Valley",
+    "state": "AZ",
+    "zip": "85614-2770"
+  },
+  "coordinates": {
+    "latitude": 31.870893478393555,
+    "longitude": -110.995849609375
+  },
+  "website": "https://umcgv.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFAqxIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFAqxIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "umcgv.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237082106"
+    }
+  ],
+  "advisories": []
+}

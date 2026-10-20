@@ -1,0 +1,33 @@
+{
+  "id": "brmggkm31",
+  "url": "https://constellation.church/brmggkm31",
+  "name": "Federated Presbyterian Church",
+  "displayName": "Federated Presbyterian Church",
+  "address": {
+    "street": "302 N Custer",
+    "city": "Weatherford",
+    "state": "OK",
+    "zip": "73096-0511"
+  },
+  "coordinates": {
+    "latitude": 35.5285587310791,
+    "longitude": -98.70764923095703
+  },
+  "website": "https://thefederatedchurch.net",
+  "listingUrl": "https://church-trends.pcusa.org/church/10150/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "10150"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thefederatedchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "730974943"
+    }
+  ],
+  "advisories": []
+}

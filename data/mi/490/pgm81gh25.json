@@ -1,0 +1,33 @@
+{
+  "id": "pgm81gh25",
+  "url": "https://constellation.church/pgm81gh25",
+  "name": "Peace Evangelical Lutheran Church",
+  "displayName": "Peace Evangelical Lutheran Church",
+  "address": {
+    "street": "06321 Blue Star Memorial Hwy",
+    "city": "South Haven",
+    "state": "MI",
+    "zip": "49090-7775"
+  },
+  "coordinates": {
+    "latitude": 42.39495658874512,
+    "longitude": -86.25903701782227
+  },
+  "website": "https://peaceinsouthhaven.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dbdc6c80-9b4e-400c-b134-fa2654ee6150",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dbdc6c80-9b4e-400c-b134-fa2654ee6150"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "peaceinsouthhaven.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382329592"
+    }
+  ],
+  "advisories": []
+}

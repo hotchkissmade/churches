@@ -1,0 +1,33 @@
+{
+  "id": "j1g7pgc66",
+  "url": "https://constellation.church/j1g7pgc66",
+  "name": "Central Baptist Church",
+  "displayName": "Central Baptist Church",
+  "address": {
+    "street": "9001 N. 145 E. Ave.",
+    "city": "Owasso",
+    "state": "OK",
+    "zip": "74055"
+  },
+  "coordinates": {
+    "latitude": 36.28489112854004,
+    "longitude": -95.8113784790039
+  },
+  "website": "https://cbcowasso.org",
+  "listingUrl": "https://churches.sbc.net/church/central-baptist-church-60/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "central-baptist-church-60"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cbcowasso.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "731154501"
+    }
+  ],
+  "advisories": []
+}

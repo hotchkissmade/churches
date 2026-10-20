@@ -1,0 +1,33 @@
+{
+  "id": "xcp481n29",
+  "url": "https://constellation.church/xcp481n29",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "112 South St",
+    "city": "Auburn",
+    "state": "NY",
+    "zip": "13021"
+  },
+  "coordinates": {
+    "latitude": 42.921363830566406,
+    "longitude": -76.56449508666992
+  },
+  "website": "https://auburnfirst.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/5400/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "5400"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "auburnfirst.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "150532091"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "d315g4761",
+  "url": "https://constellation.church/d315g4761",
+  "name": "Emmanuel Presbyterian Church",
+  "displayName": "Emmanuel Presbyterian Church",
+  "address": {
+    "street": "9770 Hwy 96",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37221-4511"
+  },
+  "coordinates": {
+    "latitude": 36.01262855529785,
+    "longitude": -87.02748107910156
+  },
+  "website": "https://epcnashville.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/12001/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "12001"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "epcnashville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "300446957"
+    }
+  ],
+  "advisories": []
+}

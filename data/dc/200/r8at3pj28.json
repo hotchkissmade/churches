@@ -1,0 +1,33 @@
+{
+  "id": "r8at3pj28",
+  "url": "https://constellation.church/r8at3pj28",
+  "name": "Redeemer City Church",
+  "displayName": "Redeemer City Church",
+  "address": {
+    "street": "1225 Otis St NE",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20017"
+  },
+  "coordinates": {
+    "latitude": 38.93448066711426,
+    "longitude": -76.98983383178711
+  },
+  "website": "https://redeemerdc.org",
+  "listingUrl": "https://churches.sbc.net/church/redeemer-city-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "redeemer-city-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerdc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "464361451"
+    }
+  ],
+  "advisories": []
+}

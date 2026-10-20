@@ -1,0 +1,33 @@
+{
+  "id": "m1hsp6557",
+  "url": "https://constellation.church/m1hsp6557",
+  "name": "Bethel Baptist",
+  "displayName": "Bethel Baptist Church",
+  "address": {
+    "street": "1812 Avenue I",
+    "city": "Scottsbluff",
+    "state": "NE",
+    "zip": "69361"
+  },
+  "coordinates": {
+    "latitude": 41.864925384521484,
+    "longitude": -103.67568969726562
+  },
+  "website": "https://bethelbaptistsbc.org",
+  "listingUrl": "https://churches.sbc.net/church/bethel-baptist-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bethel-baptist-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelbaptistsbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470563374"
+    }
+  ],
+  "advisories": []
+}

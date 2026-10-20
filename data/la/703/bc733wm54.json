@@ -1,0 +1,33 @@
+{
+  "id": "bc733wm54",
+  "url": "https://constellation.church/bc733wm54",
+  "name": "Covenant Church",
+  "displayName": "Covenant Church",
+  "address": {
+    "street": "4863 W Park Ave",
+    "city": "Houma",
+    "state": "LA",
+    "zip": "70364"
+  },
+  "coordinates": {
+    "latitude": 29.662946701049805,
+    "longitude": -90.76980590820312
+  },
+  "website": "https://fbchouma.com",
+  "listingUrl": "https://churches.sbc.net/church/covenant-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "covenant-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbchouma.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720521042"
+    }
+  ],
+  "advisories": []
+}

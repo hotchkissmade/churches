@@ -1,0 +1,33 @@
+{
+  "id": "pjbgbp814",
+  "url": "https://constellation.church/pjbgbp814",
+  "name": "The Summit Church",
+  "displayName": "The Summit Church",
+  "address": {
+    "street": "2335 Presidential Dr Ste 114",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27703"
+  },
+  "coordinates": {
+    "latitude": 35.927385330200195,
+    "longitude": -78.84086990356445
+  },
+  "website": "https://summitchurch.com/story/five-defining-moments-for-the-summit-church",
+  "listingUrl": "https://churches.sbc.net/church/the-summit-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-summit-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "summitchurch.com/story/five-defining-moments-for-the-summit-church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "830398389"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "be35j3z86",
+  "url": "https://constellation.church/be35j3z86",
+  "name": "The United Church of Sandwich",
+  "displayName": "The United Church of Sandwich",
+  "address": {
+    "street": "512 E Lions Rd",
+    "city": "Sandwich",
+    "state": "IL",
+    "zip": "60548"
+  },
+  "coordinates": {
+    "latitude": 41.637887954711914,
+    "longitude": -88.61572265625
+  },
+  "website": "https://unitedchurchsandwich.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFGSsIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFGSsIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "unitedchurchsandwich.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362694557"
+    }
+  ],
+  "advisories": []
+}

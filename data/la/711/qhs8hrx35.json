@@ -1,0 +1,33 @@
+{
+  "id": "qhs8hrx35",
+  "url": "https://constellation.church/qhs8hrx35",
+  "name": "Life Church",
+  "displayName": "Life Church",
+  "address": {
+    "street": "2222 Meriwether Rd",
+    "city": "Shreveport",
+    "state": "LA",
+    "zip": "71108"
+  },
+  "coordinates": {
+    "latitude": 32.4203359,
+    "longitude": -93.7918084
+  },
+  "website": "https://shreveportlife.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=0cc3a604-bbbb-45f9-b0e1-d440c9b0d868&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "0cc3a604-bbbb-45f9-b0e1-d440c9b0d868"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "shreveportlife.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720953414"
+    }
+  ],
+  "advisories": []
+}

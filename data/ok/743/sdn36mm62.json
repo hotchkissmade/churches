@@ -1,0 +1,33 @@
+{
+  "id": "sdn36mm62",
+  "url": "https://constellation.church/sdn36mm62",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "321 W Illinois Avenue",
+    "city": "Vinita",
+    "state": "OK",
+    "zip": "74301"
+  },
+  "coordinates": {
+    "latitude": 36.63987350463867,
+    "longitude": -95.15779876708984
+  },
+  "website": "https://fbcvinita.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-579/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-579"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcvinita.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "730642603"
+    }
+  ],
+  "advisories": []
+}

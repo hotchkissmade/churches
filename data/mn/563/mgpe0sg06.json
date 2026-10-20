@@ -1,0 +1,33 @@
+{
+  "id": "mgpe0sg06",
+  "url": "https://constellation.church/mgpe0sg06",
+  "name": "Esther Lutheran Church",
+  "displayName": "Esther Lutheran Church",
+  "address": {
+    "street": "11019 625th Ave",
+    "city": "Parkers Prairie",
+    "state": "MN",
+    "zip": "56361"
+  },
+  "coordinates": {
+    "latitude": 46.12188720703125,
+    "longitude": -95.18780517578125
+  },
+  "website": "https://estherlutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=75ca5b72-7564-4ed8-abd0-cb55937275db",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "75ca5b72-7564-4ed8-abd0-cb55937275db"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "estherlutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411504168"
+    }
+  ],
+  "advisories": []
+}

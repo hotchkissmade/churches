@@ -1,0 +1,33 @@
+{
+  "id": "m64887d96",
+  "url": "https://constellation.church/m64887d96",
+  "name": "Southside Baptist Church",
+  "displayName": "Southside Baptist Church",
+  "address": {
+    "street": "10413 US Hwy 129",
+    "city": "Live Oak",
+    "state": "FL",
+    "zip": "32060"
+  },
+  "coordinates": {
+    "latitude": 30.2607479095459,
+    "longitude": -82.98831176757812
+  },
+  "website": "https://southsidebc.net",
+  "listingUrl": "https://churches.sbc.net/church/southside-baptist-church-12/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "southside-baptist-church-12"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southsidebc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592346686"
+    }
+  ],
+  "advisories": []
+}

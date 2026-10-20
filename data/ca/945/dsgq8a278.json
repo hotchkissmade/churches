@@ -1,0 +1,33 @@
+{
+  "id": "dsgq8a278",
+  "url": "https://constellation.church/dsgq8a278",
+  "name": "Graceland",
+  "displayName": "RCCG Graceland",
+  "address": {
+    "street": "1 E Airway Blvd , Suite #29",
+    "city": "Livermore",
+    "state": "CA",
+    "zip": "94551"
+  },
+  "coordinates": {
+    "latitude": 37.69586753845215,
+    "longitude": -121.80428314208984
+  },
+  "website": "https://joingraceland.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=461&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "461"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "joingraceland.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "272077053"
+    }
+  ],
+  "advisories": []
+}

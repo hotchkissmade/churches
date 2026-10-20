@@ -1,0 +1,33 @@
+{
+  "id": "fy834fs43",
+  "url": "https://constellation.church/fy834fs43",
+  "name": "Christ Church",
+  "displayName": "Christ Church",
+  "address": {
+    "street": "480 Warwick Ave",
+    "city": "Teaneck",
+    "state": "NJ",
+    "zip": "07666-2926"
+  },
+  "coordinates": {
+    "latitude": 40.90738105773926,
+    "longitude": -74.01404571533203
+  },
+  "website": "https://christchurchteaneck.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-newark/list/christ-church-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-newark/christ-church-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christchurchteaneck.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221500487"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "aqwddsk22",
+  "url": "https://constellation.church/aqwddsk22",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "211 W Comanche Street",
+    "city": "Norman",
+    "state": "OK",
+    "zip": "73069"
+  },
+  "coordinates": {
+    "latitude": 35.219003677368164,
+    "longitude": -97.4455337524414
+  },
+  "website": "https://fbcnorman.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-442/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-442"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcnorman.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "730626505"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "r18qtt169",
+  "url": "https://constellation.church/r18qtt169",
+  "name": "Hudson United Methodist Church",
+  "displayName": "Hudson United Methodist Church",
+  "address": {
+    "street": "1401 Laurel Ave",
+    "city": "Hudson",
+    "state": "WI",
+    "zip": "54016-2072"
+  },
+  "coordinates": {
+    "latitude": 44.970516204833984,
+    "longitude": -92.73896026611328
+  },
+  "website": "https://umchudson.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PEyKKIA1",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PEyKKIA1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "umchudson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391450145"
+    }
+  ],
+  "advisories": []
+}

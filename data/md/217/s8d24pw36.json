@@ -1,0 +1,33 @@
+{
+  "id": "s8d24pw36",
+  "url": "https://constellation.church/s8d24pw36",
+  "name": "Elders Baptist Church",
+  "displayName": "Elders Baptist Church",
+  "address": {
+    "street": "1216 Liberty Rd",
+    "city": "Sykesville",
+    "state": "MD",
+    "zip": "21784"
+  },
+  "coordinates": {
+    "latitude": 39.40556335449219,
+    "longitude": -76.9528694152832
+  },
+  "website": "https://eldersbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/elders-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "elders-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eldersbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521279462"
+    }
+  ],
+  "advisories": []
+}

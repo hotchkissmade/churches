@@ -1,0 +1,33 @@
+{
+  "id": "qephexy75",
+  "url": "https://constellation.church/qephexy75",
+  "name": "Church in the Cove",
+  "displayName": "Church in the Cove",
+  "address": {
+    "street": "167 Hale St",
+    "city": "Beverly",
+    "state": "MA",
+    "zip": "01915"
+  },
+  "coordinates": {
+    "latitude": 42.55282211303711,
+    "longitude": -70.86047744750977
+  },
+  "website": "https://churchinthecove.net",
+  "listingUrl": "https://www.naccc.org/wpbdp_listing/church-in-the-cove/",
+  "identifiers": [
+    {
+      "namespace": "org.naccc.id",
+      "value": "church-in-the-cove"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinthecove.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042661475"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nqr6bxt98",
+  "url": "https://constellation.church/nqr6bxt98",
+  "name": "Arlington United Methodist Church",
+  "displayName": "Arlington United Methodist Church",
+  "address": {
+    "street": "1400 University Blvd N",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32211-5228"
+  },
+  "coordinates": {
+    "latitude": 30.335229873657227,
+    "longitude": -81.60318374633789
+  },
+  "website": "https://arlington-umc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PEyJqIAL",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PEyJqIAL"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "arlington-umc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "596011517"
+    }
+  ],
+  "advisories": []
+}

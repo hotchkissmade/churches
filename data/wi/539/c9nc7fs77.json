@@ -1,0 +1,33 @@
+{
+  "id": "c9nc7fs77",
+  "url": "https://constellation.church/c9nc7fs77",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "110 Edgelawn Dr",
+    "city": "Fox Lake",
+    "state": "WI",
+    "zip": "53933-9704"
+  },
+  "coordinates": {
+    "latitude": 43.56733322143555,
+    "longitude": -88.90353393554688
+  },
+  "website": "https://stjohnsfoxlake.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24888",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24888"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsfoxlake.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396063372"
+    }
+  ],
+  "advisories": []
+}

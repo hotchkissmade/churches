@@ -1,0 +1,33 @@
+{
+  "id": "dsy6a6j84",
+  "url": "https://constellation.church/dsy6a6j84",
+  "name": "First Baptist Church of Albion",
+  "displayName": "First Baptist Church of Albion",
+  "address": {
+    "street": "106 S 4th St",
+    "city": "Albion",
+    "state": "IL",
+    "zip": "62806"
+  },
+  "coordinates": {
+    "latitude": 38.375370025634766,
+    "longitude": -88.05618286132812
+  },
+  "website": "https://fbcai.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-albion/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-albion"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcai.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237199639"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nxh324251",
+  "url": "https://constellation.church/nxh324251",
+  "name": "St Michael Lutheran Church",
+  "displayName": "St. Michael Lutheran Church",
+  "address": {
+    "street": "13232 Blondo St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68164-3313"
+  },
+  "coordinates": {
+    "latitude": 41.27802085876465,
+    "longitude": -96.12125396728516
+  },
+  "website": "https://saintmichaellutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bf23c8fe-49bc-4674-9285-1f0a2b65516e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bf23c8fe-49bc-4674-9285-1f0a2b65516e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintmichaellutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470641425"
+    }
+  ],
+  "advisories": []
+}

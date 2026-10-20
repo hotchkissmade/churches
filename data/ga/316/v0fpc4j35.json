@@ -1,0 +1,33 @@
+{
+  "id": "v0fpc4j35",
+  "url": "https://constellation.church/v0fpc4j35",
+  "name": "Christ Church",
+  "displayName": "Christ Church",
+  "address": {
+    "street": "1521 N Patterson St",
+    "city": "Valdosta",
+    "state": "GA",
+    "zip": "31602-3848"
+  },
+  "coordinates": {
+    "latitude": 30.850088119506836,
+    "longitude": -83.28718566894531
+  },
+  "website": "https://christchurchvaldosta.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/georgia/list/christ-church-2",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "georgia/christ-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christchurchvaldosta.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "364787680"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mkhdges49",
+  "url": "https://constellation.church/mkhdges49",
+  "name": "St. John Chrysostom Church",
+  "displayName": "St. John Chrysostom Church",
+  "address": {
+    "street": "237 N 17th St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19103-1292"
+  },
+  "coordinates": {
+    "latitude": 39.95786094665527,
+    "longitude": -75.16724395751953
+  },
+  "website": "https://stjcaoc.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-al-phlsjc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-al-phlsjc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjcaoc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "233051860"
+    }
+  ],
+  "advisories": []
+}

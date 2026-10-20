@@ -1,0 +1,33 @@
+{
+  "id": "qbtf65j21",
+  "url": "https://constellation.church/qbtf65j21",
+  "name": "First Baptist Church of Hatch",
+  "displayName": "First Baptist Church of Hatch",
+  "address": {
+    "street": "421 N. Franklin",
+    "city": "Hatch",
+    "state": "NM",
+    "zip": "87937"
+  },
+  "coordinates": {
+    "latitude": 32.66890525817871,
+    "longitude": -107.15351867675781
+  },
+  "website": "https://fbchatch.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-hatch/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-hatch"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbchatch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850319555"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cy1wjre75",
+  "url": "https://constellation.church/cy1wjre75",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "308 S Myrtle Ave",
+    "city": "Willard",
+    "state": "OH",
+    "zip": "44890-1515"
+  },
+  "coordinates": {
+    "latitude": 41.0549201965332,
+    "longitude": -82.7261848449707
+  },
+  "website": "https://tlcwillardoh.wixsite.com/home",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e5dfbb97-62b4-4921-83b3-d638c144e0f5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e5dfbb97-62b4-4921-83b3-d638c144e0f5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcwillardoh.wixsite.com/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "344436894"
+    }
+  ],
+  "advisories": []
+}

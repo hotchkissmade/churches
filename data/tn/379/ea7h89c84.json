@@ -1,0 +1,33 @@
+{
+  "id": "ea7h89c84",
+  "url": "https://constellation.church/ea7h89c84",
+  "name": "Ridgedale Baptist Church",
+  "displayName": "Ridgedale Baptist Church",
+  "address": {
+    "street": "5632 Nickle Rd",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37921"
+  },
+  "coordinates": {
+    "latitude": 35.985761642456055,
+    "longitude": -84.0281867980957
+  },
+  "website": "https://ridgedale.org",
+  "listingUrl": "https://churches.sbc.net/church/ridgedale-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "ridgedale-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ridgedale.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621075036"
+    }
+  ],
+  "advisories": []
+}

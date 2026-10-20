@@ -1,0 +1,33 @@
+{
+  "id": "j7yw9rj73",
+  "url": "https://constellation.church/j7yw9rj73",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "200 S Broad St",
+    "city": "Nazareth",
+    "state": "PA",
+    "zip": "18064-2801"
+  },
+  "coordinates": {
+    "latitude": 40.7381591796875,
+    "longitude": -75.30997467041016
+  },
+  "website": "https://stjohnsnaz.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bd46c54f-6dab-4fe3-994a-b477d213d190",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bd46c54f-6dab-4fe3-994a-b477d213d190"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsnaz.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "240800685"
+    }
+  ],
+  "advisories": []
+}

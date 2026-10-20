@@ -1,0 +1,33 @@
+{
+  "id": "nyg9rkg09",
+  "url": "https://constellation.church/nyg9rkg09",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "4200 Londonderry Rd",
+    "city": "Harrisburg",
+    "state": "PA",
+    "zip": "17109-4917"
+  },
+  "coordinates": {
+    "latitude": 40.28279495239258,
+    "longitude": -76.81837844848633
+  },
+  "website": "https://stmarksharrisburg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1922d57c-6065-4e48-a0b8-52fccdb5de97",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1922d57c-6065-4e48-a0b8-52fccdb5de97"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarksharrisburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231537489"
+    }
+  ],
+  "advisories": []
+}

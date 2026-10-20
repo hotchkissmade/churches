@@ -1,0 +1,33 @@
+{
+  "id": "av93ec894",
+  "url": "https://constellation.church/av93ec894",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "32111 Watergate Rd",
+    "city": "Westlake Village",
+    "state": "CA",
+    "zip": "91361"
+  },
+  "coordinates": {
+    "latitude": 34.1460018157959,
+    "longitude": -118.8209457397461
+  },
+  "website": "https://wpcwestlake.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/9581/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "9581"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wpcwestlake.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952630023"
+    }
+  ],
+  "advisories": []
+}

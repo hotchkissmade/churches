@@ -1,0 +1,33 @@
+{
+  "id": "a4m89pz03",
+  "url": "https://constellation.church/a4m89pz03",
+  "name": "St. Mary's Church",
+  "displayName": "St. Mary's Church",
+  "address": {
+    "street": "230 Classon Avenue",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11205"
+  },
+  "coordinates": {
+    "latitude": 40.6926383972168,
+    "longitude": -73.96110153198242
+  },
+  "website": "https://stmarysbrooklyn.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-marks-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-marks-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarysbrooklyn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111672802"
+    }
+  ],
+  "advisories": []
+}

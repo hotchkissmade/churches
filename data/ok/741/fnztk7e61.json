@@ -1,0 +1,33 @@
+{
+  "id": "fnztk7e61",
+  "url": "https://constellation.church/fnztk7e61",
+  "name": "Fellowship Lutheran Church",
+  "displayName": "Fellowship Lutheran Church",
+  "address": {
+    "street": "6727 S Sheridan Rd",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74133-1741"
+  },
+  "coordinates": {
+    "latitude": 36.06387138366699,
+    "longitude": -95.9035415649414
+  },
+  "website": "https://flctulsa.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=df3640b3-fd8f-435f-a2fb-50ecfde1bdcc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "df3640b3-fd8f-435f-a2fb-50ecfde1bdcc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flctulsa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "731043766"
+    }
+  ],
+  "advisories": []
+}

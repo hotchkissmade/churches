@@ -1,0 +1,33 @@
+{
+  "id": "nxxrhy802",
+  "url": "https://constellation.church/nxxrhy802",
+  "name": "Church in Newton",
+  "displayName": "Church in Newton",
+  "address": {
+    "street": "50 Dudley Rd",
+    "city": "Newton",
+    "state": "MA",
+    "zip": "02459"
+  },
+  "coordinates": {
+    "latitude": 42.318450927734375,
+    "longitude": -71.18568801879883
+  },
+  "website": "https://churchinnewton.org",
+  "listingUrl": "https://localchurches.org/churches/newton-ma-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "newton-ma-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinnewton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237365799"
+    }
+  ],
+  "advisories": []
+}

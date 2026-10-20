@@ -1,0 +1,33 @@
+{
+  "id": "aneh86k08",
+  "url": "https://constellation.church/aneh86k08",
+  "name": "Banner Church",
+  "displayName": "Banner Church",
+  "address": {
+    "street": "1500 S West Ln",
+    "city": "New Berlin",
+    "state": "WI",
+    "zip": "53146"
+  },
+  "coordinates": {
+    "latitude": 43.01536178588867,
+    "longitude": -88.13099670410156
+  },
+  "website": "https://bannerchurchwi.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=83e36d13-cc3e-451d-acc5-69bfeac3b9de&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "83e36d13-cc3e-451d-acc5-69bfeac3b9de"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bannerchurchwi.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391829344"
+    }
+  ],
+  "advisories": []
+}

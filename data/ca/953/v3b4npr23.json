@@ -1,0 +1,33 @@
+{
+  "id": "v3b4npr23",
+  "url": "https://constellation.church/v3b4npr23",
+  "name": "Centro Calvario Assembly of God",
+  "displayName": "Centro Calvario Assembly of God",
+  "address": {
+    "street": "985 E Bellevue Rd",
+    "city": "Atwater",
+    "state": "CA",
+    "zip": "95301"
+  },
+  "coordinates": {
+    "latitude": 37.360647201538086,
+    "longitude": -120.58645629882812
+  },
+  "website": "https://calvarioassembly.net",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=6ec021e5-d751-4c3c-80dc-b56a02efca57&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "6ec021e5-d751-4c3c-80dc-b56a02efca57"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "calvarioassembly.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "770421780"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wjqkqbt73",
+  "url": "https://constellation.church/wjqkqbt73",
+  "name": "North Waseca Lutheran Church",
+  "displayName": "North Waseca Lutheran Church",
+  "address": {
+    "street": "40430 120th St",
+    "city": "Waseca",
+    "state": "MN",
+    "zip": "56093-4107"
+  },
+  "coordinates": {
+    "latitude": 44.144874572753906,
+    "longitude": -93.52677917480469
+  },
+  "website": "https://northwasecalutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=64414d5a-e161-4c4f-9477-c4f91049abd9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "64414d5a-e161-4c4f-9477-c4f91049abd9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northwasecalutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411359172"
+    }
+  ],
+  "advisories": []
+}

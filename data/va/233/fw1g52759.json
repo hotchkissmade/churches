@@ -1,0 +1,33 @@
+{
+  "id": "fw1g52759",
+  "url": "https://constellation.church/fw1g52759",
+  "name": "Raleigh Heights Baptist Church",
+  "displayName": "Raleigh Heights Baptist Church",
+  "address": {
+    "street": "1000 Crowell Avenue",
+    "city": "Chesapeake",
+    "state": "VA",
+    "zip": "23324"
+  },
+  "coordinates": {
+    "latitude": 36.78714561462402,
+    "longitude": -76.2822380065918
+  },
+  "website": "https://raleighheights.org",
+  "listingUrl": "https://churches.sbc.net/church/raleigh-heights-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "raleigh-heights-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "raleighheights.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540842438"
+    }
+  ],
+  "advisories": []
+}

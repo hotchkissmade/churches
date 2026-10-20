@@ -1,0 +1,33 @@
+{
+  "id": "rn2pcne42",
+  "url": "https://constellation.church/rn2pcne42",
+  "name": "Good News Presbyterian Church",
+  "displayName": "Good News Presbyterian Church",
+  "address": {
+    "street": "3936 Geary Blvd",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94118"
+  },
+  "coordinates": {
+    "latitude": 37.78127861022949,
+    "longitude": -122.4618148803711
+  },
+  "website": "https://goodnewschurchofsf.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/12100/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "12100"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodnewschurchofsf.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "943215471"
+    }
+  ],
+  "advisories": []
+}

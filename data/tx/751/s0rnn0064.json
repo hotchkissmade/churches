@@ -1,0 +1,33 @@
+{
+  "id": "s0rnn0064",
+  "url": "https://constellation.church/s0rnn0064",
+  "name": "First Baptist Church of Lavon",
+  "displayName": "First Baptist Church of Lavon",
+  "address": {
+    "street": "205 Main St",
+    "city": "Lavon",
+    "state": "TX",
+    "zip": "75166"
+  },
+  "coordinates": {
+    "latitude": 33.0252628326416,
+    "longitude": -96.43508911132812
+  },
+  "website": "https://fbclavon.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-lavon/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-lavon"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbclavon.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751909078"
+    }
+  ],
+  "advisories": []
+}

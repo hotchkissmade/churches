@@ -1,0 +1,33 @@
+{
+  "id": "kh8bce816",
+  "url": "https://constellation.church/kh8bce816",
+  "name": "Another Chance Church",
+  "displayName": "Another Chance Church",
+  "address": {
+    "street": "9550 S Harvard Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60628"
+  },
+  "coordinates": {
+    "latitude": 41.720272064208984,
+    "longitude": -87.63249969482422
+  },
+  "website": "https://anotherchancech.com",
+  "listingUrl": "https://churches.sbc.net/church/another-chance-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "another-chance-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "anotherchancech.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800383207"
+    }
+  ],
+  "advisories": []
+}

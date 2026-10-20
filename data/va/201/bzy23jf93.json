@@ -1,0 +1,33 @@
+{
+  "id": "bzy23jf93",
+  "url": "https://constellation.church/bzy23jf93",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "9250 Prospect Ave",
+    "city": "Catlett",
+    "state": "VA",
+    "zip": "20119"
+  },
+  "coordinates": {
+    "latitude": 38.65315818786621,
+    "longitude": -77.63591384887695
+  },
+  "website": "https://catlettassembly.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=6ac9a6ca-4099-497e-849f-b90dac91240f&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "6ac9a6ca-4099-497e-849f-b90dac91240f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "catlettassembly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541216001"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "r7g9qsd42",
+  "url": "https://constellation.church/r7g9qsd42",
+  "name": "Resurrection Lutheran Church",
+  "displayName": "Resurrection Lutheran Church",
+  "address": {
+    "street": "11575 N 1st Ave",
+    "city": "Oro Valley",
+    "state": "AZ",
+    "zip": "85737-8700"
+  },
+  "coordinates": {
+    "latitude": 32.41657829284668,
+    "longitude": -110.96195220947266
+  },
+  "website": "https://orovalley.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=263d5d15-f995-46b3-a032-dcdee8c2541e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "263d5d15-f995-46b3-a032-dcdee8c2541e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "orovalley.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860559725"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xvchttt35",
+  "url": "https://constellation.church/xvchttt35",
+  "name": "First Baptist Church of Bastrop",
+  "displayName": "First Baptist Church of Bastrop",
+  "address": {
+    "street": "1201 Water St",
+    "city": "Bastrop",
+    "state": "TX",
+    "zip": "78602"
+  },
+  "coordinates": {
+    "latitude": 30.112951278686523,
+    "longitude": -97.31855010986328
+  },
+  "website": "https://fbcbastrop.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-bastrop/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-bastrop"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcbastrop.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741462183"
+    }
+  ],
+  "advisories": []
+}

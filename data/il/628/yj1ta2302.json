@@ -1,0 +1,33 @@
+{
+  "id": "yj1ta2302",
+  "url": "https://constellation.church/yj1ta2302",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "703 N Market St",
+    "city": "Mount Carmel",
+    "state": "IL",
+    "zip": "62863-1460"
+  },
+  "coordinates": {
+    "latitude": 38.41366767883301,
+    "longitude": -87.76303100585938
+  },
+  "website": "https://zionlutheranmc.wixsite.com/website",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7c11ad47-b2f7-4761-a9e6-9562fce40387",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7c11ad47-b2f7-4761-a9e6-9562fce40387"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionlutheranmc.wixsite.com/website"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370813230"
+    }
+  ],
+  "advisories": []
+}

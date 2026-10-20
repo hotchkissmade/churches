@@ -1,0 +1,33 @@
+{
+  "id": "bn7c7nd57",
+  "url": "https://constellation.church/bn7c7nd57",
+  "name": "Pillar Church of San Antonio",
+  "displayName": "Pillar Church of San Antonio",
+  "address": {
+    "street": "3331 Cherokee Cv",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78253"
+  },
+  "coordinates": {
+    "latitude": 29.474225997924805,
+    "longitude": -98.69612884521484
+  },
+  "website": "https://pillarsanantonio.com",
+  "listingUrl": "https://churches.sbc.net/church/pillar-church-of-san-antonio/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pillar-church-of-san-antonio"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pillarsanantonio.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "874676016"
+    }
+  ],
+  "advisories": []
+}

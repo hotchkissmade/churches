@@ -1,0 +1,33 @@
+{
+  "id": "z2m1hex19",
+  "url": "https://constellation.church/z2m1hex19",
+  "name": "Resurrection Lutheran Church",
+  "displayName": "Resurrection Lutheran Church",
+  "address": {
+    "street": "213 E Howard Ave",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53207-3977"
+  },
+  "coordinates": {
+    "latitude": 42.973594665527344,
+    "longitude": -87.90818405151367
+  },
+  "website": "https://rlcmilwaukee.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24836",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24836"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rlcmilwaukee.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237386311"
+    }
+  ],
+  "advisories": []
+}

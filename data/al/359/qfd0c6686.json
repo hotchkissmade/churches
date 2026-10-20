@@ -1,0 +1,33 @@
+{
+  "id": "qfd0c6686",
+  "url": "https://constellation.church/qfd0c6686",
+  "name": "Rainbow Presbyterian Church",
+  "displayName": "Rainbow Presbyterian Church",
+  "address": {
+    "street": "3220 Rainbow Drive",
+    "city": "Rainbow City",
+    "state": "AL",
+    "zip": "35906"
+  },
+  "coordinates": {
+    "latitude": 33.960405349731445,
+    "longitude": -86.03164291381836
+  },
+  "website": "https://rainbowpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/876",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "876"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rainbowpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630575697"
+    }
+  ],
+  "advisories": []
+}

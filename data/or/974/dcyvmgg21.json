@@ -1,0 +1,33 @@
+{
+  "id": "dcyvmgg21",
+  "url": "https://constellation.church/dcyvmgg21",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "360 Darrell Ave",
+    "city": "Winston",
+    "state": "OR",
+    "zip": "97496"
+  },
+  "coordinates": {
+    "latitude": 43.11762809753418,
+    "longitude": -123.40858459472656
+  },
+  "website": "https://winstonassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=7fb49ca8-6156-4885-8ba1-ace34feec28e&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "7fb49ca8-6156-4885-8ba1-ace34feec28e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "winstonassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930680016"
+    }
+  ],
+  "advisories": []
+}

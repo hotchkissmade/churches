@@ -1,0 +1,33 @@
+{
+  "id": "yxc7fkz04",
+  "url": "https://constellation.church/yxc7fkz04",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "4715 Hermantown Rd",
+    "city": "Hermantown",
+    "state": "MN",
+    "zip": "55811-4302"
+  },
+  "coordinates": {
+    "latitude": 46.78972244262695,
+    "longitude": -92.17691802978516
+  },
+  "website": "https://slecduluth.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c5cb5a98-e6c8-4ff2-a793-9d6c6c13f31e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c5cb5a98-e6c8-4ff2-a793-9d6c6c13f31e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "slecduluth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411283325"
+    }
+  ],
+  "advisories": []
+}

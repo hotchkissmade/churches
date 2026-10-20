@@ -1,0 +1,37 @@
+{
+  "id": "y40w1vc45",
+  "url": "https://constellation.church/y40w1vc45",
+  "name": "Wilmington Friends Meeting (PHLYM)",
+  "displayName": "Wilmington Friends Meeting (PHLYM)",
+  "address": {
+    "street": "401 N West St",
+    "city": "Wilmington",
+    "state": "DE",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 39.742149353027344,
+    "longitude": -75.5543212890625
+  },
+  "website": "https://wilmingtondefriendsmeeting.org/about",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/wilmington-friends-meeting-phlym/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "wilmington-friends-meeting-phlym"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wilmingtondefriendsmeeting.org/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510080062"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510370789"
+    }
+  ],
+  "advisories": []
+}

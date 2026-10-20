@@ -1,0 +1,33 @@
+{
+  "id": "vnnpy1971",
+  "url": "https://constellation.church/vnnpy1971",
+  "name": "Main Street Baptist Church",
+  "displayName": "Main Street Baptist Church",
+  "address": {
+    "street": "582 W Main St",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40507"
+  },
+  "coordinates": {
+    "latitude": 38.05148124694824,
+    "longitude": -84.50324249267578
+  },
+  "website": "https://mainstreetbaptistchurchlexky.org",
+  "listingUrl": "https://churches.sbc.net/church/main-street-baptist-church-15/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "main-street-baptist-church-15"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mainstreetbaptistchurchlexky.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "610925346"
+    }
+  ],
+  "advisories": []
+}

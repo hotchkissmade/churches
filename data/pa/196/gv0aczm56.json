@@ -1,0 +1,33 @@
+{
+  "id": "gv0aczm56",
+  "url": "https://constellation.church/gv0aczm56",
+  "name": "Pennside Presbyterian Church",
+  "displayName": "Pennside Presbyterian Church",
+  "address": {
+    "street": "253 N 25th St",
+    "city": "Reading",
+    "state": "PA",
+    "zip": "19606-2062"
+  },
+  "coordinates": {
+    "latitude": 40.33169364929199,
+    "longitude": -75.8873176574707
+  },
+  "website": "https://pennsidepresby.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/8090/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "8090"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pennsidepresby.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231638816"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "f2nmwr926",
+  "url": "https://constellation.church/f2nmwr926",
+  "name": "Union Lutheran Church",
+  "displayName": "Union Lutheran Church",
+  "address": {
+    "street": "5500 Route 873",
+    "city": "Schnecksville",
+    "state": "PA",
+    "zip": "18078-2105"
+  },
+  "coordinates": {
+    "latitude": 40.688629150390625,
+    "longitude": -75.61178588867188
+  },
+  "website": "https://ulclv.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4be1544e-0bfc-4ffb-9935-03dc33e71e08",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4be1544e-0bfc-4ffb-9935-03dc33e71e08"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ulclv.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231507824"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pt6v3dc81",
+  "url": "https://constellation.church/pt6v3dc81",
+  "name": "East Side Baptist Church",
+  "displayName": "East Side Baptist Church",
+  "address": {
+    "street": "920 Anderson Dr",
+    "city": "Liberty",
+    "state": "SC",
+    "zip": "29657"
+  },
+  "coordinates": {
+    "latitude": 34.781761169433594,
+    "longitude": -82.68127059936523
+  },
+  "website": "https://eastsidebaptist.cc",
+  "listingUrl": "https://churches.sbc.net/church/east-side-baptist-church-4/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "east-side-baptist-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastsidebaptist.cc"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570698212"
+    }
+  ],
+  "advisories": []
+}

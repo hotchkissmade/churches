@@ -1,0 +1,33 @@
+{
+  "id": "z246fsp60",
+  "url": "https://constellation.church/z246fsp60",
+  "name": "St James Lutheran Church",
+  "displayName": "St. James Lutheran Church",
+  "address": {
+    "street": "Swamp Pike & Kugler Rd",
+    "city": "Limerick",
+    "state": "PA",
+    "zip": "19468"
+  },
+  "coordinates": {
+    "latitude": 40.24232482910156,
+    "longitude": -75.5300178527832
+  },
+  "website": "https://stjameslimerick.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3c2a20f4-2cfb-444b-aec2-f0edd4b0a916",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3c2a20f4-2cfb-444b-aec2-f0edd4b0a916"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjameslimerick.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232132011"
+    }
+  ],
+  "advisories": []
+}

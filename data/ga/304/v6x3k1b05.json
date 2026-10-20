@@ -1,0 +1,33 @@
+{
+  "id": "v6x3k1b05",
+  "url": "https://constellation.church/v6x3k1b05",
+  "name": "Morningside Baptist Church",
+  "displayName": "Morningside Baptist Church",
+  "address": {
+    "street": "4327 Holton Chapel Rd",
+    "city": "Soperton",
+    "state": "GA",
+    "zip": "30457"
+  },
+  "coordinates": {
+    "latitude": 32.42914390563965,
+    "longitude": -82.39918899536133
+  },
+  "website": "https://morningsidesoperton.org",
+  "listingUrl": "https://churches.sbc.net/church/morningside-baptist-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "morningside-baptist-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "morningsidesoperton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "320293401"
+    }
+  ],
+  "advisories": []
+}

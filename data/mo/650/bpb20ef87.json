@@ -1,0 +1,33 @@
+{
+  "id": "bpb20ef87",
+  "url": "https://constellation.church/bpb20ef87",
+  "name": "Fortuna Baptist Church",
+  "displayName": "Fortuna Baptist Church",
+  "address": {
+    "street": "72233 Highway W",
+    "city": "Fortuna",
+    "state": "MO",
+    "zip": "65034"
+  },
+  "coordinates": {
+    "latitude": 38.57280158996582,
+    "longitude": -92.7942886352539
+  },
+  "website": "https://fortunabaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/fortuna-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "fortuna-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fortunabaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431272235"
+    }
+  ],
+  "advisories": []
+}

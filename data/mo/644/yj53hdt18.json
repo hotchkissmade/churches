@@ -1,0 +1,33 @@
+{
+  "id": "yj53hdt18",
+  "url": "https://constellation.church/yj53hdt18",
+  "name": "New Harvest SBC Church",
+  "displayName": "New Harvest SBC Church",
+  "address": {
+    "street": "9220 State Route FF SE",
+    "city": "Agency",
+    "state": "MO",
+    "zip": "64401"
+  },
+  "coordinates": {
+    "latitude": 39.67706489562988,
+    "longitude": -94.7569580078125
+  },
+  "website": "https://newharvest.me",
+  "listingUrl": "https://churches.sbc.net/church/new-harvest-sbc-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-harvest-sbc-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newharvest.me"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "743065344"
+    }
+  ],
+  "advisories": []
+}

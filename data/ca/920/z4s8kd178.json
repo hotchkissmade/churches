@@ -1,0 +1,33 @@
+{
+  "id": "z4s8kd178",
+  "url": "https://constellation.church/z4s8kd178",
+  "name": "Crest Community Church",
+  "displayName": "Crest Community Church",
+  "address": {
+    "street": "2198 Suncrest Blvd",
+    "city": "El Cajon",
+    "state": "CA",
+    "zip": "92021"
+  },
+  "coordinates": {
+    "latitude": 32.80442237854004,
+    "longitude": -116.867431640625
+  },
+  "website": "https://crestchurch.net",
+  "listingUrl": "https://churches.sbc.net/church/crest-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "crest-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "crestchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "956150011"
+    }
+  ],
+  "advisories": []
+}

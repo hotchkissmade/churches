@@ -1,0 +1,33 @@
+{
+  "id": "ynxhrvp28",
+  "url": "https://constellation.church/ynxhrvp28",
+  "name": "Earlewood Baptist Church",
+  "displayName": "Earlewood Baptist Church",
+  "address": {
+    "street": "2930 River Dr",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29201"
+  },
+  "coordinates": {
+    "latitude": 34.02420234680176,
+    "longitude": -81.04798126220703
+  },
+  "website": "https://earlewoodbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/earlewood-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "earlewood-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "earlewoodbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570511648"
+    }
+  ],
+  "advisories": []
+}

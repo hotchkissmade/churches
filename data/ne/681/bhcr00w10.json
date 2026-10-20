@@ -1,0 +1,33 @@
+{
+  "id": "bhcr00w10",
+  "url": "https://constellation.church/bhcr00w10",
+  "name": "St Thomas Lutheran Church",
+  "displayName": "St. Thomas Lutheran Church",
+  "address": {
+    "street": "17007 Q St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68135-1523"
+  },
+  "coordinates": {
+    "latitude": 41.20440673828125,
+    "longitude": -96.18047332763672
+  },
+  "website": "https://stlc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=890be4d1-1167-480c-9008-9eed47a79813",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "890be4d1-1167-480c-9008-9eed47a79813"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363152037"
+    }
+  ],
+  "advisories": []
+}

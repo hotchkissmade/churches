@@ -1,0 +1,33 @@
+{
+  "id": "xgc38vm14",
+  "url": "https://constellation.church/xgc38vm14",
+  "name": "Lutheran Church Of The Resurrection",
+  "displayName": "Lutheran Church Of The Resurrection",
+  "address": {
+    "street": "9100 Mission Rd",
+    "city": "Prairie Village",
+    "state": "KS",
+    "zip": "66206-1714"
+  },
+  "coordinates": {
+    "latitude": 38.96276092529297,
+    "longitude": -94.63125610351562
+  },
+  "website": "https://lcrpv.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3c9734aa-4435-477f-b005-6ff2bdc3cbdf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3c9734aa-4435-477f-b005-6ff2bdc3cbdf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcrpv.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480879394"
+    }
+  ],
+  "advisories": []
+}

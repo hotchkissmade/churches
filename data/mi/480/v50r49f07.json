@@ -1,0 +1,33 @@
+{
+  "id": "v50r49f07",
+  "url": "https://constellation.church/v50r49f07",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "246 Benjamin St",
+    "city": "Romeo",
+    "state": "MI",
+    "zip": "48065-5184"
+  },
+  "coordinates": {
+    "latitude": 42.80019950866699,
+    "longitude": -83.01891708374023
+  },
+  "website": "https://stjohnromeo.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a636f7a2-01d0-45d7-ae78-6cdaf9d18241",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a636f7a2-01d0-45d7-ae78-6cdaf9d18241"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnromeo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382222090"
+    }
+  ],
+  "advisories": []
+}

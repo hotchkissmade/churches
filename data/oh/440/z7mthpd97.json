@@ -1,0 +1,33 @@
+{
+  "id": "z7mthpd97",
+  "url": "https://constellation.church/z7mthpd97",
+  "name": "Advent Lutheran Church",
+  "displayName": "Advent Lutheran Church",
+  "address": {
+    "street": "7985 Munson Rd",
+    "city": "Mentor",
+    "state": "OH",
+    "zip": "44060-3703"
+  },
+  "coordinates": {
+    "latitude": 41.70576095581055,
+    "longitude": -81.35435104370117
+  },
+  "website": "https://adventmentor.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e4d886c9-ce5b-4a3e-b7b4-4f9e9f87b9e9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e4d886c9-ce5b-4a3e-b7b4-4f9e9f87b9e9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "adventmentor.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "346576295"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gncetph80",
+  "url": "https://constellation.church/gncetph80",
+  "name": "Redeemer Lutheran Church",
+  "displayName": "Redeemer Lutheran Church",
+  "address": {
+    "street": "11 Red Lake Ave SW",
+    "city": "Bagley",
+    "state": "MN",
+    "zip": "56621-8732"
+  },
+  "coordinates": {
+    "latitude": 47.521575927734375,
+    "longitude": -95.40327453613281
+  },
+  "website": "https://sites.google.com/view/redeemerbagley/home",
+  "listingUrl": "https://locator.lcms.org/church/C/50551",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "50551"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sites.google.com/view/redeemerbagley/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416096029"
+    }
+  ],
+  "advisories": []
+}

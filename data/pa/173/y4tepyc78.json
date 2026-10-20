@@ -1,0 +1,33 @@
+{
+  "id": "y4tepyc78",
+  "url": "https://constellation.church/y4tepyc78",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "2666 Furnace Rd",
+    "city": "Felton",
+    "state": "PA",
+    "zip": "17322-7877"
+  },
+  "coordinates": {
+    "latitude": 39.91503715515137,
+    "longitude": -76.47110366821289
+  },
+  "website": "https://mystluke.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ffec0081-cc71-45e6-9ecb-df44b36888c7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ffec0081-cc71-45e6-9ecb-df44b36888c7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mystluke.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232049585"
+    }
+  ],
+  "advisories": []
+}

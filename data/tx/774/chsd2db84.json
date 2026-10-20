@@ -1,0 +1,33 @@
+{
+  "id": "chsd2db84",
+  "url": "https://constellation.church/chsd2db84",
+  "name": "Saint John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "614 Pecan St",
+    "city": "Wharton",
+    "state": "TX",
+    "zip": "77488-4012"
+  },
+  "coordinates": {
+    "latitude": 29.315284729003906,
+    "longitude": -96.09465026855469
+  },
+  "website": "https://stjohns-wharton.org",
+  "listingUrl": "https://locator.lcms.org/church/C/970827",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "970827"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohns-wharton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "746084192"
+    }
+  ],
+  "advisories": []
+}

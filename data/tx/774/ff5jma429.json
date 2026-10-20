@@ -1,0 +1,33 @@
+{
+  "id": "ff5jma429",
+  "url": "https://constellation.church/ff5jma429",
+  "name": "First Baptist Katy",
+  "displayName": "First Baptist Church Katy",
+  "address": {
+    "street": "600 Pin Oak Rd",
+    "city": "Katy",
+    "state": "TX",
+    "zip": "77494"
+  },
+  "coordinates": {
+    "latitude": 29.783771514892578,
+    "longitude": -95.81901550292969
+  },
+  "website": "https://fbkaty.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-katy-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-katy-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbkaty.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760054880"
+    }
+  ],
+  "advisories": []
+}

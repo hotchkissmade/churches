@@ -1,0 +1,33 @@
+{
+  "id": "ry4c9wa25",
+  "url": "https://constellation.church/ry4c9wa25",
+  "name": "Pump Springs Baptist Church",
+  "displayName": "Pump Springs Baptist Church",
+  "address": {
+    "street": "225 Pump Springs Rd",
+    "city": "Harrogate",
+    "state": "TN",
+    "zip": "37752"
+  },
+  "coordinates": {
+    "latitude": 36.56265830993652,
+    "longitude": -83.64099884033203
+  },
+  "website": "https://pumpsprings.org",
+  "listingUrl": "https://churches.sbc.net/church/pump-springs-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pump-springs-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pumpsprings.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621343696"
+    }
+  ],
+  "advisories": []
+}

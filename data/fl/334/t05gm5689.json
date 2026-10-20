@@ -1,0 +1,33 @@
+{
+  "id": "t05gm5689",
+  "url": "https://constellation.church/t05gm5689",
+  "name": "First Baptist Church of Clewiston",
+  "displayName": "First Baptist Church of Clewiston",
+  "address": {
+    "street": "102 E Ventura Ave",
+    "city": "Clewiston",
+    "state": "FL",
+    "zip": "33440"
+  },
+  "coordinates": {
+    "latitude": 26.751693725585938,
+    "longitude": -80.93395614624023
+  },
+  "website": "https://firstclewiston.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-clewiston/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-clewiston"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstclewiston.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591059910"
+    }
+  ],
+  "advisories": []
+}

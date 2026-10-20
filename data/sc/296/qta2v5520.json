@@ -1,0 +1,33 @@
+{
+  "id": "qta2v5520",
+  "url": "https://constellation.church/qta2v5520",
+  "name": "Slater Baptist Church",
+  "displayName": "Slater Baptist Church",
+  "address": {
+    "street": "113 Whitney St",
+    "city": "Slater",
+    "state": "SC",
+    "zip": "29683"
+  },
+  "coordinates": {
+    "latitude": 35.02931022644043,
+    "longitude": -82.49290466308594
+  },
+  "website": "https://slaterbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/slater-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "slater-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "slaterbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570759163"
+    }
+  ],
+  "advisories": []
+}

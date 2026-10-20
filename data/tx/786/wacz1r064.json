@@ -1,0 +1,33 @@
+{
+  "id": "wacz1r064",
+  "url": "https://constellation.church/wacz1r064",
+  "name": "Foundation Church",
+  "displayName": "Foundation Church",
+  "address": {
+    "street": "27216 Ranch Road 12",
+    "city": "Dripping Springs",
+    "state": "TX",
+    "zip": "78620"
+  },
+  "coordinates": {
+    "latitude": 30.186344146728516,
+    "longitude": -98.08390045166016
+  },
+  "website": "https://foundationds.com",
+  "listingUrl": "https://churches.sbc.net/church/foundation-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "foundation-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "foundationds.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "825006083"
+    }
+  ],
+  "advisories": []
+}

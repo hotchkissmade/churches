@@ -1,0 +1,33 @@
+{
+  "id": "qpg01sb17",
+  "url": "https://constellation.church/qpg01sb17",
+  "name": "Episcopal Church of the Incarnation",
+  "displayName": "Episcopal Church of the Incarnation",
+  "address": {
+    "street": "308 College Dr",
+    "city": "Gaffney",
+    "state": "SC",
+    "zip": "29340-3007"
+  },
+  "coordinates": {
+    "latitude": 35.067556381225586,
+    "longitude": -81.64929962158203
+  },
+  "website": "https://incarnation-gaffney.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-upper-south-carolina/list/episcopal-church-incarnation",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-upper-south-carolina/episcopal-church-incarnation"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "incarnation-gaffney.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570798151"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ypr9d4741",
+  "url": "https://constellation.church/ypr9d4741",
+  "name": "Sanctuary",
+  "displayName": "Sanctuary",
+  "address": {
+    "street": "185 Plain St",
+    "city": "Marshfield",
+    "state": "MA",
+    "zip": "02050-2701"
+  },
+  "coordinates": {
+    "latitude": 42.09748077392578,
+    "longitude": -70.72641372680664
+  },
+  "website": "https://sanctuarysouthshore.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=409d447b-8368-412d-8806-1e6ace57834a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "409d447b-8368-412d-8806-1e6ace57834a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sanctuarysouthshore.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "271363921"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "815288551"
+    }
+  ],
+  "advisories": []
+}

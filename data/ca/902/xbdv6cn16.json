@@ -1,0 +1,33 @@
+{
+  "id": "xbdv6cn16",
+  "url": "https://constellation.church/xbdv6cn16",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "4783 W 130th St",
+    "city": "Hawthorne",
+    "state": "CA",
+    "zip": "90250-5148"
+  },
+  "coordinates": {
+    "latitude": 33.9146245,
+    "longitude": -118.3607953
+  },
+  "website": "https://lovehawthorne.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=62430449-2736-4095-8ea0-88135704ec9b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "62430449-2736-4095-8ea0-88135704ec9b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lovehawthorne.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951792759"
+    }
+  ],
+  "advisories": []
+}

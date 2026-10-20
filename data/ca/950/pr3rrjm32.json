@@ -1,0 +1,33 @@
+{
+  "id": "pr3rrjm32",
+  "url": "https://constellation.church/pr3rrjm32",
+  "name": "Milpitas Seventh-day Adventist Church",
+  "displayName": "Milpitas Seventh-day Adventist Church",
+  "address": {
+    "street": "1991 Landess Ave",
+    "city": "Milpitas",
+    "state": "CA",
+    "zip": "95035-7071"
+  },
+  "coordinates": {
+    "latitude": 37.41909599304199,
+    "longitude": -121.86858367919922
+  },
+  "website": "https://milpitasdiscoveryland.org",
+  "listingUrl": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=18421",
+  "identifiers": [
+    {
+      "namespace": "org.adventistdirectory.id",
+      "value": "18421"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "milpitasdiscoveryland.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942265137"
+    }
+  ],
+  "advisories": []
+}

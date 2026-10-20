@@ -1,0 +1,33 @@
+{
+  "id": "g1zq0x591",
+  "url": "https://constellation.church/g1zq0x591",
+  "name": "First Baptist Church, Dayton",
+  "displayName": "First Baptist Church, Dayton",
+  "address": {
+    "street": "202 E Houston St",
+    "city": "Dayton",
+    "state": "TX",
+    "zip": "77535"
+  },
+  "coordinates": {
+    "latitude": 30.044925689697266,
+    "longitude": -94.88605499267578
+  },
+  "website": "https://fbcdayton.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-dayton-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-dayton-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcdayton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741383282"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "swh4k5448",
+  "url": "https://constellation.church/swh4k5448",
+  "name": "AVENUE F CHURCH OF CHRIST",
+  "displayName": "Avenue F Church of Christ",
+  "address": {
+    "street": "1026 F AVE",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75074"
+  },
+  "coordinates": {
+    "latitude": 33.01334190368652,
+    "longitude": -96.70547485351562
+  },
+  "website": "https://avefcoc.com",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752143414"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "avefcoc.com"
+    }
+  ],
+  "advisories": []
+}

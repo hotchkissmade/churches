@@ -1,0 +1,33 @@
+{
+  "id": "tjmnaep32",
+  "url": "https://constellation.church/tjmnaep32",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "743 S Monroe Ave",
+    "city": "Green Bay",
+    "state": "WI",
+    "zip": "54301-3616"
+  },
+  "coordinates": {
+    "latitude": 44.50358581542969,
+    "longitude": -88.016357421875
+  },
+  "website": "https://firstlutherangb.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24578",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24578"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutherangb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391291539"
+    }
+  ],
+  "advisories": []
+}

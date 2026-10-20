@@ -1,0 +1,33 @@
+{
+  "id": "tpav8mr11",
+  "url": "https://constellation.church/tpav8mr11",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "1602 W South St",
+    "city": "Ozark",
+    "state": "MO",
+    "zip": "65721"
+  },
+  "coordinates": {
+    "latitude": 37.00385856628418,
+    "longitude": -93.22062683105469
+  },
+  "website": "https://ozarkag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=efcde8d9-8e20-41da-a967-27c274d08674&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "efcde8d9-8e20-41da-a967-27c274d08674"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ozarkag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431205007"
+    }
+  ],
+  "advisories": []
+}

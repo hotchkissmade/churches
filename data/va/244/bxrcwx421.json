@@ -1,0 +1,33 @@
+{
+  "id": "bxrcwx421",
+  "url": "https://constellation.church/bxrcwx421",
+  "name": "Mount Tabor Lutheran Church",
+  "displayName": "Mount Tabor Lutheran Church",
+  "address": {
+    "street": "334 Mt Tabor Rd",
+    "city": "Staunton",
+    "state": "VA",
+    "zip": "24401-5906"
+  },
+  "coordinates": {
+    "latitude": 38.07831573486328,
+    "longitude": -79.19115829467773
+  },
+  "website": "https://mttaborchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ee67ea9c-db72-48d0-9abc-2600947e7b3a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ee67ea9c-db72-48d0-9abc-2600947e7b3a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mttaborchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541019041"
+    }
+  ],
+  "advisories": []
+}

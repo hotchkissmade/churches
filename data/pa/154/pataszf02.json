@@ -1,0 +1,33 @@
+{
+  "id": "pataszf02",
+  "url": "https://constellation.church/pataszf02",
+  "name": "Trinity United Presbyterian Church",
+  "displayName": "Trinity United Presbyterian Church",
+  "address": {
+    "street": "79 W Fayette St",
+    "city": "Uniontown",
+    "state": "PA",
+    "zip": "15401-3253"
+  },
+  "coordinates": {
+    "latitude": 39.89916801452637,
+    "longitude": -79.72845840454102
+  },
+  "website": "https://trinityupc.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/8324/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "8324"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityupc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251117862"
+    }
+  ],
+  "advisories": []
+}

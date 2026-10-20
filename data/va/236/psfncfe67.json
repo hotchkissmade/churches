@@ -1,0 +1,33 @@
+{
+  "id": "psfncfe67",
+  "url": "https://constellation.church/psfncfe67",
+  "name": "Bethel Church",
+  "displayName": "Bethel Church",
+  "address": {
+    "street": "1705 Todds Ln",
+    "city": "Hampton",
+    "state": "VA",
+    "zip": "23666"
+  },
+  "coordinates": {
+    "latitude": 37.040212631225586,
+    "longitude": -76.40932846069336
+  },
+  "website": "https://bethelhampton.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=b556e190-2110-40d8-b5e1-e44aae303c17&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "b556e190-2110-40d8-b5e1-e44aae303c17"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelhampton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "203361766"
+    }
+  ],
+  "advisories": []
+}

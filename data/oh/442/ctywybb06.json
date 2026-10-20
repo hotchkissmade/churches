@@ -1,0 +1,33 @@
+{
+  "id": "ctywybb06",
+  "url": "https://constellation.church/ctywybb06",
+  "name": "Apostolic Christian Church of Smithville",
+  "displayName": "Apostolic Christian Church of Smithville",
+  "address": {
+    "street": "8530 Fulton Road",
+    "city": "Sterling",
+    "state": "OH",
+    "zip": "44276"
+  },
+  "coordinates": {
+    "latitude": 40.902587890625,
+    "longitude": -81.81853866577148
+  },
+  "website": "https://smithvilleacchurch.org",
+  "listingUrl": "https://www.apostolicchristian.org/congregations/smithville",
+  "identifiers": [
+    {
+      "namespace": "org.apostolicchristian.id",
+      "value": "smithville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "smithvilleacchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341502365"
+    }
+  ],
+  "advisories": []
+}

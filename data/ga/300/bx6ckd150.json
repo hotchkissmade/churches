@@ -1,0 +1,33 @@
+{
+  "id": "bx6ckd150",
+  "url": "https://constellation.church/bx6ckd150",
+  "name": "Birmingham United Methodist Church",
+  "displayName": "Birmingham United Methodist Church",
+  "address": {
+    "street": "15770 Birmingham Highway",
+    "city": "Milton",
+    "state": "GA",
+    "zip": "30004"
+  },
+  "coordinates": {
+    "latitude": 34.163713455200195,
+    "longitude": -84.33638763427734
+  },
+  "website": "https://birminghamumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMqZIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMqZIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "birminghamumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920183833"
+    }
+  ],
+  "advisories": []
+}

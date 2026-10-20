@@ -1,0 +1,33 @@
+{
+  "id": "qemcpct92",
+  "url": "https://constellation.church/qemcpct92",
+  "name": "Palomar Baptist Church",
+  "displayName": "Palomar Baptist Church",
+  "address": {
+    "street": "2190 Fort Harrods Dr",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40513"
+  },
+  "coordinates": {
+    "latitude": 38.0126838684082,
+    "longitude": -84.57451248168945
+  },
+  "website": "https://palomarbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/palomar-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "palomar-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "palomarbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611254964"
+    }
+  ],
+  "advisories": []
+}

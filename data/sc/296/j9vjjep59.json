@@ -1,0 +1,33 @@
+{
+  "id": "j9vjjep59",
+  "url": "https://constellation.church/j9vjjep59",
+  "name": "St. Michael's Episcopal Church",
+  "displayName": "St. Michael's Episcopal Church",
+  "address": {
+    "street": "1200 Powdersville Rd",
+    "city": "Easley",
+    "state": "SC",
+    "zip": "29642-2422"
+  },
+  "coordinates": {
+    "latitude": 34.81162643432617,
+    "longitude": -82.54935455322266
+  },
+  "website": "https://stmec.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-upper-south-carolina/list/st-michaels-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-upper-south-carolina/st-michaels-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmec.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570743225"
+    }
+  ],
+  "advisories": []
+}

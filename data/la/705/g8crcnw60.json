@@ -1,0 +1,33 @@
+{
+  "id": "g8crcnw60",
+  "url": "https://constellation.church/g8crcnw60",
+  "name": "Parish Church",
+  "displayName": "Parish Church",
+  "address": {
+    "street": "1400 W. University Avenue",
+    "city": "Lafayette",
+    "state": "LA",
+    "zip": "70506"
+  },
+  "coordinates": {
+    "latitude": 30.226482391357422,
+    "longitude": -92.02812957763672
+  },
+  "website": "https://ourparishchurch.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6139",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6139"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ourparishchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "812649604"
+    }
+  ],
+  "advisories": []
+}

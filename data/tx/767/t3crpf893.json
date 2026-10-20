@@ -1,0 +1,33 @@
+{
+  "id": "t3crpf893",
+  "url": "https://constellation.church/t3crpf893",
+  "name": "St Matthew Lutheran Church",
+  "displayName": "St. Matthew Lutheran Church",
+  "address": {
+    "street": "800 N New Rd",
+    "city": "Waco",
+    "state": "TX",
+    "zip": "76710-4856"
+  },
+  "coordinates": {
+    "latitude": 31.53132438659668,
+    "longitude": -97.17611694335938
+  },
+  "website": "https://firstlutheranwaco.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c08ccb0b-2eb3-4084-9d49-ac301116dd6e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c08ccb0b-2eb3-4084-9d49-ac301116dd6e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranwaco.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741400542"
+    }
+  ],
+  "advisories": []
+}

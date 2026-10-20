@@ -1,0 +1,33 @@
+{
+  "id": "a01hs6b05",
+  "url": "https://constellation.church/a01hs6b05",
+  "name": "Brandon Presbyterian Church",
+  "displayName": "Brandon Presbyterian Church",
+  "address": {
+    "street": "209 South College Street",
+    "city": "Brandon",
+    "state": "MS",
+    "zip": "39042"
+  },
+  "coordinates": {
+    "latitude": 32.271493911743164,
+    "longitude": -89.98883056640625
+  },
+  "website": "https://brandonpres.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/117",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "117"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "brandonpres.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640646682"
+    }
+  ],
+  "advisories": []
+}

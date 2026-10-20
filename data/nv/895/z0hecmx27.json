@@ -1,0 +1,33 @@
+{
+  "id": "z0hecmx27",
+  "url": "https://constellation.church/z0hecmx27",
+  "name": "The Episcopal Diocese of Nevada (Diocesan Offices)",
+  "displayName": "The Episcopal Diocese of Nevada (Diocesan Offices)",
+  "address": {
+    "street": "200 Island Ave",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89501"
+  },
+  "coordinates": {
+    "latitude": 39.5236465,
+    "longitude": -119.8146264
+  },
+  "website": "https://trinityreno.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/nevada/list/episcopal-diocese-nevada-diocesan-offices",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "nevada/episcopal-diocese-nevada-diocesan-offices"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityreno.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "880059534"
+    }
+  ],
+  "advisories": []
+}

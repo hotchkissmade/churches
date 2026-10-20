@@ -1,0 +1,33 @@
+{
+  "id": "ga9xta529",
+  "url": "https://constellation.church/ga9xta529",
+  "name": "Concordia Evangelical Lutheran Church",
+  "displayName": "Concordia Evangelical Lutheran Church",
+  "address": {
+    "street": "3825 Concordia Rd",
+    "city": "Columbia",
+    "state": "PA",
+    "zip": "17512-9730"
+  },
+  "coordinates": {
+    "latitude": 40.050161361694336,
+    "longitude": -76.44816970825195
+  },
+  "website": "https://concordiaelc.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1a5305ab-b426-4fb8-b7fa-2f9f16cff0ee",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1a5305ab-b426-4fb8-b7fa-2f9f16cff0ee"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "concordiaelc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236275237"
+    }
+  ],
+  "advisories": []
+}

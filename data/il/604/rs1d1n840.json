@@ -1,0 +1,33 @@
+{
+  "id": "rs1d1n840",
+  "url": "https://constellation.church/rs1d1n840",
+  "name": "Grace Episcopal Church",
+  "displayName": "Grace Episcopal Church",
+  "address": {
+    "street": "209 N Pine St",
+    "city": "New Lenox",
+    "state": "IL",
+    "zip": "60451"
+  },
+  "coordinates": {
+    "latitude": 41.51325988769531,
+    "longitude": -87.96814727783203
+  },
+  "website": "https://gracenewlenox.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-chicago/list/grace-episcopal-church-5",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-chicago/grace-episcopal-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracenewlenox.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362734862"
+    }
+  ],
+  "advisories": []
+}

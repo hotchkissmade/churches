@@ -1,0 +1,33 @@
+{
+  "id": "hg37tdp02",
+  "url": "https://constellation.church/hg37tdp02",
+  "name": "Anglican Church of the Redeemer, Franklin",
+  "displayName": "Anglican Church of the Redeemer, Franklin",
+  "address": {
+    "street": "195 Main Street",
+    "city": "Franklin",
+    "state": "MA",
+    "zip": "02038"
+  },
+  "coordinates": {
+    "latitude": 42.08881759643555,
+    "longitude": -71.4000244140625
+  },
+  "website": "https://redeemerfranklin.org",
+  "listingUrl": "https://www.acna.org/admin_units/889",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "889"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerfranklin.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "261233817"
+    }
+  ],
+  "advisories": []
+}

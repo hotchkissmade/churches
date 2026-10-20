@@ -1,0 +1,33 @@
+{
+  "id": "c9baecz61",
+  "url": "https://constellation.church/c9baecz61",
+  "name": "St Matthew Trinity Lutheran Church",
+  "displayName": "St. Matthew Trinity Lutheran Church",
+  "address": {
+    "street": "57 8th St",
+    "city": "Hoboken",
+    "state": "NJ",
+    "zip": "07030-5056"
+  },
+  "coordinates": {
+    "latitude": 40.74574279785156,
+    "longitude": -74.02737045288086
+  },
+  "website": "https://stmatthewtrinity.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3c9fe8b7-07ee-4525-837c-979d624ac101",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3c9fe8b7-07ee-4525-837c-979d624ac101"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmatthewtrinity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221715830"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vzdwtr036",
+  "url": "https://constellation.church/vzdwtr036",
+  "name": "Safe Harbor Presbyterian Church",
+  "displayName": "Safe Harbor Presbyterian Church",
+  "address": {
+    "street": "801 Airport Road",
+    "city": "Destin",
+    "state": "FL",
+    "zip": "32540"
+  },
+  "coordinates": {
+    "latitude": 30.397321701049805,
+    "longitude": -86.48339080810547
+  },
+  "website": "https://safeharborpcadestin.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/914",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "914"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "safeharborpcadestin.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592384343"
+    }
+  ],
+  "advisories": []
+}

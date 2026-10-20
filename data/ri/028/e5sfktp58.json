@@ -1,0 +1,33 @@
+{
+  "id": "e5sfktp58",
+  "url": "https://constellation.church/e5sfktp58",
+  "name": "St. Peter's-by-the-Sea Church",
+  "displayName": "St. Peter's-by-the-Sea Church",
+  "address": {
+    "street": "72 Central St",
+    "city": "Narragansett",
+    "state": "RI",
+    "zip": "02882-3647"
+  },
+  "coordinates": {
+    "latitude": 41.42880821228027,
+    "longitude": -71.46089553833008
+  },
+  "website": "https://stpetersbythesea.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-rhode-island/list/st-peters-sea-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-rhode-island/st-peters-sea-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpetersbythesea.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "056010991"
+    }
+  ],
+  "advisories": []
+}

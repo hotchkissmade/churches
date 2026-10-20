@@ -1,0 +1,33 @@
+{
+  "id": "v7c4gnw50",
+  "url": "https://constellation.church/v7c4gnw50",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "1364 Washington St",
+    "city": "Andover",
+    "state": "IA",
+    "zip": "52701"
+  },
+  "coordinates": {
+    "latitude": 41.98117637634277,
+    "longitude": -90.25295639038086
+  },
+  "website": "https://flcandoveria.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ce10a57b-ac30-4598-9113-e7f1572fc816",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ce10a57b-ac30-4598-9113-e7f1572fc816"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcandoveria.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421209702"
+    }
+  ],
+  "advisories": []
+}

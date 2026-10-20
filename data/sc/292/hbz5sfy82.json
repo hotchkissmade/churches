@@ -1,0 +1,33 @@
+{
+  "id": "hbz5sfy82",
+  "url": "https://constellation.church/hbz5sfy82",
+  "name": "Midtown Fellowship",
+  "displayName": "Midtown Fellowship",
+  "address": {
+    "street": "1800 Blanding St",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29201"
+  },
+  "coordinates": {
+    "latitude": 34.01085090637207,
+    "longitude": -81.026611328125
+  },
+  "website": "https://midtowndowntown.com",
+  "listingUrl": "https://churches.sbc.net/church/midtown-fellowship/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "midtown-fellowship"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "midtowndowntown.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "841690969"
+    }
+  ],
+  "advisories": []
+}

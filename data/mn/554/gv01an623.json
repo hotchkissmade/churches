@@ -1,0 +1,33 @@
+{
+  "id": "gv01an623",
+  "url": "https://constellation.church/gv01an623",
+  "name": "New Salem Church",
+  "displayName": "New Salem Church",
+  "address": {
+    "street": "3101 14th Ave S",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55407-1788"
+  },
+  "coordinates": {
+    "latitude": 44.9464168548584,
+    "longitude": -93.25447845458984
+  },
+  "website": "https://salemefc.com",
+  "listingUrl": "https://churches.efca.org/?id=12132",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12132"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemefc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410874250"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mzv678023",
+  "url": "https://constellation.church/mzv678023",
+  "name": "The Bridge Church",
+  "displayName": "The Bridge Church",
+  "address": {
+    "street": "6443 Norris Lake Rd NW",
+    "city": "Nowthen",
+    "state": "MN",
+    "zip": "55330"
+  },
+  "coordinates": {
+    "latitude": 45.37181091308594,
+    "longitude": -93.43219757080078
+  },
+  "website": "https://sfbridge.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d6282b2f-6a44-41cc-92df-0fe411f0b1fb&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d6282b2f-6a44-41cc-92df-0fe411f0b1fb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sfbridge.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "364668974"
+    }
+  ],
+  "advisories": []
+}

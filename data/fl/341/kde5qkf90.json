@@ -1,0 +1,33 @@
+{
+  "id": "kde5qkf90",
+  "url": "https://constellation.church/kde5qkf90",
+  "name": "New Life Church",
+  "displayName": "New Life Church",
+  "address": {
+    "street": "3971 Via Del Rey",
+    "city": "Bonita Springs",
+    "state": "FL",
+    "zip": "34134"
+  },
+  "coordinates": {
+    "latitude": 26.324934005737305,
+    "longitude": -81.81830215454102
+  },
+  "website": "https://nlcbonita.com",
+  "listingUrl": "https://churches.sbc.net/church/new-life-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-life-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nlcbonita.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591085751"
+    }
+  ],
+  "advisories": []
+}

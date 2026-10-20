@@ -1,0 +1,33 @@
+{
+  "id": "jcfdydm24",
+  "url": "https://constellation.church/jcfdydm24",
+  "name": "Knox Presbyterian Church",
+  "displayName": "Knox Presbyterian Church",
+  "address": {
+    "street": "1105 Catalpa Ln",
+    "city": "Naperville",
+    "state": "IL",
+    "zip": "60540"
+  },
+  "coordinates": {
+    "latitude": 41.75444412231445,
+    "longitude": -88.14340209960938
+  },
+  "website": "https://knoxpres.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/166/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "166"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "knoxpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362529739"
+    }
+  ],
+  "advisories": []
+}

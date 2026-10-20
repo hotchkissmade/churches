@@ -1,0 +1,33 @@
+{
+  "id": "pb7f40m96",
+  "url": "https://constellation.church/pb7f40m96",
+  "name": "Fieldstone Church",
+  "displayName": "Fieldstone Church",
+  "address": {
+    "street": "14480 S Sanford Rd",
+    "city": "Milan",
+    "state": "MI",
+    "zip": "48160"
+  },
+  "coordinates": {
+    "latitude": 42.08173751831055,
+    "longitude": -83.66017150878906
+  },
+  "website": "https://fieldstonechurch.org",
+  "listingUrl": "https://converge.org/church/fieldstone-church/",
+  "identifiers": [
+    {
+      "namespace": "org.converge.id",
+      "value": "37927"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fieldstonechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "814862103"
+    }
+  ],
+  "advisories": []
+}

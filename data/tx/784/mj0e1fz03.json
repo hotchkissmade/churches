@@ -1,0 +1,33 @@
+{
+  "id": "mj0e1fz03",
+  "url": "https://constellation.church/mj0e1fz03",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "4620 S Alameda St",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78412-2329"
+  },
+  "coordinates": {
+    "latitude": 27.7259277,
+    "longitude": -97.3644617
+  },
+  "website": "https://stmarkscctx.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=511b80cf-4eb1-48fe-9927-cb6c20ddcfa0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "511b80cf-4eb1-48fe-9927-cb6c20ddcfa0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkscctx.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "746017813"
+    }
+  ],
+  "advisories": []
+}

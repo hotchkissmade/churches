@@ -1,0 +1,33 @@
+{
+  "id": "wfc6s2n09",
+  "url": "https://constellation.church/wfc6s2n09",
+  "name": "Cambridge Lutheran Church",
+  "displayName": "Cambridge Lutheran Church",
+  "address": {
+    "street": "621 Old North Main St",
+    "city": "Cambridge",
+    "state": "MN",
+    "zip": "55008-1142"
+  },
+  "coordinates": {
+    "latitude": 45.57924461364746,
+    "longitude": -93.22381591796875
+  },
+  "website": "https://cambridgelutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7140f699-28d1-48d9-aa99-02faca7241c2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7140f699-28d1-48d9-aa99-02faca7241c2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cambridgelutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410721652"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "r631hqk14",
+  "url": "https://constellation.church/r631hqk14",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "153 19th Ave",
+    "city": "Moline",
+    "state": "IL",
+    "zip": "61265-3752"
+  },
+  "coordinates": {
+    "latitude": 41.493483,
+    "longitude": -90.5355209
+  },
+  "website": "https://splmoline.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/25036",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "25036"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "splmoline.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366008610"
+    }
+  ],
+  "advisories": []
+}

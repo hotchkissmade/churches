@@ -1,0 +1,33 @@
+{
+  "id": "cd22ees29",
+  "url": "https://constellation.church/cd22ees29",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "1116 Mercer St",
+    "city": "Princeton",
+    "state": "WV",
+    "zip": "24740"
+  },
+  "coordinates": {
+    "latitude": 37.36782264709473,
+    "longitude": -81.09895706176758
+  },
+  "website": "https://fbcprincetonwv.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-1039/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-1039"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcprincetonwv.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "550389197"
+    }
+  ],
+  "advisories": []
+}

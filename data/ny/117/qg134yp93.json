@@ -1,0 +1,33 @@
+{
+  "id": "qg134yp93",
+  "url": "https://constellation.church/qg134yp93",
+  "name": "Trinity Evangelical Lutheran Church",
+  "displayName": "Trinity Evangelical Lutheran Church",
+  "address": {
+    "street": "716 Rt 25a",
+    "city": "Rocky Point",
+    "state": "NY",
+    "zip": "11778-8764"
+  },
+  "coordinates": {
+    "latitude": 40.947214126586914,
+    "longitude": -72.91684341430664
+  },
+  "website": "https://thefishchurch.org/livestream",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8e860ae2-3ac3-4c82-8cdb-600095a2f85a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8e860ae2-3ac3-4c82-8cdb-600095a2f85a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thefishchurch.org/livestream"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "116033579"
+    }
+  ],
+  "advisories": []
+}

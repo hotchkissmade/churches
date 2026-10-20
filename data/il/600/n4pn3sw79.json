@@ -1,0 +1,33 @@
+{
+  "id": "n4pn3sw79",
+  "url": "https://constellation.church/n4pn3sw79",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "200 S Wille St",
+    "city": "Mount Prospect",
+    "state": "IL",
+    "zip": "60056-3121"
+  },
+  "coordinates": {
+    "latitude": 42.06248092651367,
+    "longitude": -87.93858337402344
+  },
+  "website": "https://stmarkmp.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5c60b9b9-8b0a-44f4-b45a-a2e3eca405bb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5c60b9b9-8b0a-44f4-b45a-a2e3eca405bb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkmp.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366007646"
+    }
+  ],
+  "advisories": []
+}

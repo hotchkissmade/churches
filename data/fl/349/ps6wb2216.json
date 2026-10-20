@@ -1,0 +1,33 @@
+{
+  "id": "ps6wb2216",
+  "url": "https://constellation.church/ps6wb2216",
+  "name": "Grace Presbyterian Church",
+  "displayName": "Grace Presbyterian Church",
+  "address": {
+    "street": "1875 NW Britt Road",
+    "city": "Stuart",
+    "state": "FL",
+    "zip": "34994"
+  },
+  "coordinates": {
+    "latitude": 27.23516845703125,
+    "longitude": -80.27737045288086
+  },
+  "website": "https://gracestuart.com/about/our-ministries",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/533",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "533"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracestuart.com/about/our-ministries"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592431832"
+    }
+  ],
+  "advisories": []
+}

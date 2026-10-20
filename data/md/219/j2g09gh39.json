@@ -1,0 +1,33 @@
+{
+  "id": "j2g09gh39",
+  "url": "https://constellation.church/j2g09gh39",
+  "name": "First Baptist Church of Elkton",
+  "displayName": "First Baptist Church of Elkton",
+  "address": {
+    "street": "607 Delaware Ave",
+    "city": "Elkton",
+    "state": "MD",
+    "zip": "21921"
+  },
+  "coordinates": {
+    "latitude": 39.60318946838379,
+    "longitude": -75.80924987792969
+  },
+  "website": "https://fbcelkton.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-elkton-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-elkton-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcelkton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520848059"
+    }
+  ],
+  "advisories": []
+}

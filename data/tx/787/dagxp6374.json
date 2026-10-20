@@ -1,0 +1,33 @@
+{
+  "id": "dagxp6374",
+  "url": "https://constellation.church/dagxp6374",
+  "name": "St Martin's Lutheran Church",
+  "displayName": "St. Martin's Lutheran Church",
+  "address": {
+    "street": "606 W 15th St",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701-1514"
+  },
+  "coordinates": {
+    "latitude": 30.27889633178711,
+    "longitude": -97.74537658691406
+  },
+  "website": "https://saintmartins.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a289dcec-c410-48bd-98e7-8a9c537c03bb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a289dcec-c410-48bd-98e7-8a9c537c03bb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintmartins.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741272408"
+    }
+  ],
+  "advisories": []
+}

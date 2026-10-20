@@ -1,0 +1,33 @@
+{
+  "id": "wrtsjgw24",
+  "url": "https://constellation.church/wrtsjgw24",
+  "name": "Church in Seattle",
+  "displayName": "Church in Seattle",
+  "address": {
+    "street": "6900 Woodlawn Ave NE",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98115"
+  },
+  "coordinates": {
+    "latitude": 47.677913665771484,
+    "longitude": -122.32556915283203
+  },
+  "website": "https://churchinseattle.org",
+  "listingUrl": "https://localchurches.org/churches/seattle-wa-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "seattle-wa-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinseattle.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237124359"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xwp0ksv73",
+  "url": "https://constellation.church/xwp0ksv73",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "11793 Crisfield Ln",
+    "city": "Princess Anne",
+    "state": "MD",
+    "zip": "21853"
+  },
+  "coordinates": {
+    "latitude": 38.205440521240234,
+    "longitude": -75.70133209228516
+  },
+  "website": "https://fbcprincessanne.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-622/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-622"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcprincessanne.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521260512"
+    }
+  ],
+  "advisories": []
+}

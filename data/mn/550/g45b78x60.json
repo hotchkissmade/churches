@@ -1,0 +1,33 @@
+{
+  "id": "g45b78x60",
+  "url": "https://constellation.church/g45b78x60",
+  "name": "Trinity Church",
+  "displayName": "Trinity Church",
+  "address": {
+    "street": "10658 210th St W",
+    "city": "Lakeville",
+    "state": "MN",
+    "zip": "55044-7574"
+  },
+  "coordinates": {
+    "latitude": 44.64387893676758,
+    "longitude": -93.28001403808594
+  },
+  "website": "https://trinitychurchmn.com",
+  "listingUrl": "https://churches.efca.org/?id=12228",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12228"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitychurchmn.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411578422"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "fb8raba35",
+  "url": "https://constellation.church/fb8raba35",
+  "name": "West End Baptist Church",
+  "displayName": "West End Baptist Church",
+  "address": {
+    "street": "1727 Mcconnells Hwy",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732"
+  },
+  "coordinates": {
+    "latitude": 34.93241882324219,
+    "longitude": -81.08289337158203
+  },
+  "website": "https://westendbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/west-end-baptist-church-12/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "west-end-baptist-church-12"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westendbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "576029100"
+    }
+  ],
+  "advisories": []
+}

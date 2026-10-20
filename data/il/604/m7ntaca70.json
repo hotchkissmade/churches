@@ -1,0 +1,33 @@
+{
+  "id": "m7ntaca70",
+  "url": "https://constellation.church/m7ntaca70",
+  "name": "Main Street Baptist Church",
+  "displayName": "Main Street Baptist Church",
+  "address": {
+    "street": "110 S Division St",
+    "city": "Braidwood",
+    "state": "IL",
+    "zip": "60408"
+  },
+  "coordinates": {
+    "latitude": 41.263898849487305,
+    "longitude": -88.22712707519531
+  },
+  "website": "https://msbcbraidwood.com",
+  "listingUrl": "https://churches.sbc.net/church/main-street-baptist-church-18/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "main-street-baptist-church-18"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "msbcbraidwood.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363264319"
+    }
+  ],
+  "advisories": []
+}

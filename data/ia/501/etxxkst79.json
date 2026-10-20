@@ -1,0 +1,33 @@
+{
+  "id": "etxxkst79",
+  "url": "https://constellation.church/etxxkst79",
+  "name": "Mosaic Church",
+  "displayName": "Mosaic Church",
+  "address": {
+    "street": "2501 S Center St Ste D",
+    "city": "Marshalltown",
+    "state": "IA",
+    "zip": "50158"
+  },
+  "coordinates": {
+    "latitude": 42.03990364074707,
+    "longitude": -92.9148941040039
+  },
+  "website": "https://mosaicmtown.com",
+  "listingUrl": "https://churches.sbc.net/church/mosaic-church-9/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mosaic-church-9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mosaicmtown.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "365013613"
+    }
+  ],
+  "advisories": []
+}

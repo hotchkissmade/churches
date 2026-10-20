@@ -1,0 +1,33 @@
+{
+  "id": "zrrsff332",
+  "url": "https://constellation.church/zrrsff332",
+  "name": "Trinity Church PCA",
+  "displayName": "Trinity Church PCA",
+  "address": {
+    "street": "315 Spangler Drive",
+    "city": "Richmond",
+    "state": "KY",
+    "zip": "40475"
+  },
+  "coordinates": {
+    "latitude": 37.73507881164551,
+    "longitude": -84.31518936157227
+  },
+  "website": "https://trinitychurchpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1371",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1371"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitychurchpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611207558"
+    }
+  ],
+  "advisories": []
+}

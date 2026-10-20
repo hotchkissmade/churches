@@ -1,0 +1,33 @@
+{
+  "id": "j8hvks440",
+  "url": "https://constellation.church/j8hvks440",
+  "name": "First Congregational Church of Eaton Rapids",
+  "displayName": "First Congregational Church of Eaton Rapids",
+  "address": {
+    "street": "300 S Main St",
+    "city": "Eaton Rapids",
+    "state": "MI",
+    "zip": "48827"
+  },
+  "coordinates": {
+    "latitude": 42.51023292541504,
+    "longitude": -84.65642166137695
+  },
+  "website": "https://fcceatonrapids.com",
+  "listingUrl": "https://www.naccc.org/wpbdp_listing/first-congregational-church-of-eaton-rapids/",
+  "identifiers": [
+    {
+      "namespace": "org.naccc.id",
+      "value": "first-congregational-church-of-eaton-rapids"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fcceatonrapids.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382499830"
+    }
+  ],
+  "advisories": []
+}

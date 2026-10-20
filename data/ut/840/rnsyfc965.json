@@ -1,0 +1,33 @@
+{
+  "id": "rnsyfc965",
+  "url": "https://constellation.church/rnsyfc965",
+  "name": "Christian Assembly",
+  "displayName": "Christian Assembly",
+  "address": {
+    "street": "870 E 200 N # 112-11 Roosevelt",
+    "city": null,
+    "state": "UT",
+    "zip": "84066"
+  },
+  "coordinates": {
+    "latitude": 40.30192947387695,
+    "longitude": -109.97827911376953
+  },
+  "website": "https://rooseveltchristian.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=4c64ad51-33d0-4346-b24b-7fa0714b5e32&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "4c64ad51-33d0-4346-b24b-7fa0714b5e32"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rooseveltchristian.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "870389966"
+    }
+  ],
+  "advisories": []
+}

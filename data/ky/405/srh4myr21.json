@@ -1,0 +1,33 @@
+{
+  "id": "srh4myr21",
+  "url": "https://constellation.church/srh4myr21",
+  "name": "Episcopal Diocese of Lexington",
+  "displayName": "Episcopal Diocese of Lexington",
+  "address": {
+    "street": "225 Walton Avenue, Suite 120",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40502"
+  },
+  "coordinates": {
+    "latitude": 38.0405914,
+    "longitude": -84.481782
+  },
+  "website": "https://diolex.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/lexington/list/episcopal-diocese-lexington",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "lexington/episcopal-diocese-lexington"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "diolex.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "610536772"
+    }
+  ],
+  "advisories": []
+}

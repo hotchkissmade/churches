@@ -1,0 +1,33 @@
+{
+  "id": "g89j6zr08",
+  "url": "https://constellation.church/g89j6zr08",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "10315 Union Tpke",
+    "city": "Forest Hills",
+    "state": "NY",
+    "zip": "11375-6740"
+  },
+  "coordinates": {
+    "latitude": 40.70846176147461,
+    "longitude": -73.84990310668945
+  },
+  "website": "https://gracefhny.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9940c897-4462-4f5b-8a31-69f3774f0a6f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9940c897-4462-4f5b-8a31-69f3774f0a6f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracefhny.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "116000710"
+    }
+  ],
+  "advisories": []
+}

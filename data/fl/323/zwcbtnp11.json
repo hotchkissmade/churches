@@ -1,0 +1,33 @@
+{
+  "id": "zwcbtnp11",
+  "url": "https://constellation.church/zwcbtnp11",
+  "name": "Seminole Baptist Church",
+  "displayName": "Seminole Baptist Church",
+  "address": {
+    "street": "3330 Mission Rd",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32303"
+  },
+  "coordinates": {
+    "latitude": 30.479421615600586,
+    "longitude": -84.3446159362793
+  },
+  "website": "https://the365church.com",
+  "listingUrl": "https://churches.sbc.net/church/seminole-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "seminole-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "the365church.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591282748"
+    }
+  ],
+  "advisories": []
+}

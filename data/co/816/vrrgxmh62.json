@@ -1,0 +1,33 @@
+{
+  "id": "vrrgxmh62",
+  "url": "https://constellation.church/vrrgxmh62",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "400 Second St",
+    "city": "Gypsum",
+    "state": "CO",
+    "zip": "81637"
+  },
+  "coordinates": {
+    "latitude": 39.64541244506836,
+    "longitude": -106.95346069335938
+  },
+  "website": "https://firstlutheranofgypsum.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=90bfbbfa-cddb-4601-8739-d6a11e79c68f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "90bfbbfa-cddb-4601-8739-d6a11e79c68f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranofgypsum.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "841236211"
+    }
+  ],
+  "advisories": []
+}

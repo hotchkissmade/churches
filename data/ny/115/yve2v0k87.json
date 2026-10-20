@@ -1,0 +1,33 @@
+{
+  "id": "yve2v0k87",
+  "url": "https://constellation.church/yve2v0k87",
+  "name": "St. John's of Lattingtown",
+  "displayName": "St. John's of Lattingtown",
+  "address": {
+    "street": "325 Lattingtown Road",
+    "city": "Locust Valley",
+    "state": "NY",
+    "zip": "11560"
+  },
+  "coordinates": {
+    "latitude": 40.88891792297363,
+    "longitude": -73.6084098815918
+  },
+  "website": "https://stjlat.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-johns-church-lattingtown",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-johns-church-lattingtown"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjlat.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "131982722"
+    }
+  ],
+  "advisories": []
+}

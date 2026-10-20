@@ -1,0 +1,33 @@
+{
+  "id": "bv7a88140",
+  "url": "https://constellation.church/bv7a88140",
+  "name": "St. Martin’s Episcopal School",
+  "displayName": "St. Martin’s Episcopal School",
+  "address": {
+    "street": "225 Green Acres Road",
+    "city": "Metairie",
+    "state": "LA",
+    "zip": "70003"
+  },
+  "coordinates": {
+    "latitude": 29.9799329,
+    "longitude": -90.1911678
+  },
+  "website": "https://stmsaints.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-louisiana/list/st-martins-episcopal-school",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-louisiana/st-martins-episcopal-school"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmsaints.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720475552"
+    }
+  ],
+  "advisories": []
+}

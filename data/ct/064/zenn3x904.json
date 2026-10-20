@@ -1,0 +1,33 @@
+{
+  "id": "zenn3x904",
+  "url": "https://constellation.church/zenn3x904",
+  "name": "St James Lutheran Church",
+  "displayName": "St. James Lutheran Church",
+  "address": {
+    "street": "111 Peter Rd",
+    "city": "Southbury",
+    "state": "CT",
+    "zip": "06488-4607"
+  },
+  "coordinates": {
+    "latitude": 41.468231201171875,
+    "longitude": -73.2217903137207
+  },
+  "website": "https://stjamesct.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=01d6c40a-0bc4-4394-b2f2-4fb7f2d7d417",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "01d6c40a-0bc4-4394-b2f2-4fb7f2d7d417"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamesct.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "060954383"
+    }
+  ],
+  "advisories": []
+}

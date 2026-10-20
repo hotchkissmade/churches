@@ -1,0 +1,33 @@
+{
+  "id": "jtwxdn165",
+  "url": "https://constellation.church/jtwxdn165",
+  "name": "The Episcopal Diocese of Montana (Diocesan Offices)",
+  "displayName": "The Episcopal Diocese of Montana (Diocesan Offices)",
+  "address": {
+    "street": "515 N. Park Avenue",
+    "city": "Helena",
+    "state": "MT",
+    "zip": "59601"
+  },
+  "coordinates": {
+    "latitude": 46.5924086,
+    "longitude": -112.0401273
+  },
+  "website": "https://diomontana.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/montana/list/episcopal-diocese-montana-diocesan-offices",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "montana/episcopal-diocese-montana-diocesan-offices"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "diomontana.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810231779"
+    }
+  ],
+  "advisories": []
+}

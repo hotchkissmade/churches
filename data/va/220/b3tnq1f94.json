@@ -1,0 +1,33 @@
+{
+  "id": "b3tnq1f94",
+  "url": "https://constellation.church/b3tnq1f94",
+  "name": "St. Francis Church",
+  "displayName": "St. Francis Church",
+  "address": {
+    "street": "9220 Georgetown Pike",
+    "city": "Great Falls",
+    "state": "VA",
+    "zip": "22066-2726"
+  },
+  "coordinates": {
+    "latitude": 38.9874703,
+    "longitude": -77.2641405
+  },
+  "website": "https://stfrancisgreatfalls.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-virginia/list/st-francis-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-virginia/st-francis-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stfrancisgreatfalls.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541003892"
+    }
+  ],
+  "advisories": []
+}

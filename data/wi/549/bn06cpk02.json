@@ -1,0 +1,33 @@
+{
+  "id": "bn06cpk02",
+  "url": "https://constellation.church/bn06cpk02",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "55 Prairie Rd",
+    "city": "Fond du Lac",
+    "state": "WI",
+    "zip": "54935-2902"
+  },
+  "coordinates": {
+    "latitude": 43.77946090698242,
+    "longitude": -88.41142272949219
+  },
+  "website": "https://faithlutheranfdl.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24693",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24693"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithlutheranfdl.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391030795"
+    }
+  ],
+  "advisories": []
+}

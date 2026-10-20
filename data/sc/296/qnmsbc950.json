@@ -1,0 +1,33 @@
+{
+  "id": "qnmsbc950",
+  "url": "https://constellation.church/qnmsbc950",
+  "name": "Concord Baptist Church",
+  "displayName": "Concord Baptist Church",
+  "address": {
+    "street": "1012 Concord Rd",
+    "city": "Anderson",
+    "state": "SC",
+    "zip": "29621"
+  },
+  "coordinates": {
+    "latitude": 34.54470252990723,
+    "longitude": -82.65167236328125
+  },
+  "website": "https://concordbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/concord-baptist-church-16/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "concord-baptist-church-16"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "concordbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570698216"
+    }
+  ],
+  "advisories": []
+}

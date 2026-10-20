@@ -1,0 +1,33 @@
+{
+  "id": "e6cks6e31",
+  "url": "https://constellation.church/e6cks6e31",
+  "name": "Monument Presbyterian Church",
+  "displayName": "Monument Presbyterian Church",
+  "address": {
+    "street": "2018 S Broadway",
+    "city": "Grand Junction",
+    "state": "CO",
+    "zip": "81507"
+  },
+  "coordinates": {
+    "latitude": 39.08561706542969,
+    "longitude": -108.67460632324219
+  },
+  "website": "https://monumentpc.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/11797/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "11797"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "monumentpc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "841586236"
+    }
+  ],
+  "advisories": []
+}

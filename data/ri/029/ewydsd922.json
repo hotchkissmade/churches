@@ -1,0 +1,33 @@
+{
+  "id": "ewydsd922",
+  "url": "https://constellation.church/ewydsd922",
+  "name": "Church of the Transfiguration",
+  "displayName": "Church of the Transfiguration",
+  "address": {
+    "street": "1665 Broad St",
+    "city": "Cranston",
+    "state": "RI",
+    "zip": "02905-2727"
+  },
+  "coordinates": {
+    "latitude": 41.781063079833984,
+    "longitude": -71.4014778137207
+  },
+  "website": "https://church-transfig.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-rhode-island/list/church-transfiguration",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-rhode-island/church-transfiguration"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "church-transfig.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "050281707"
+    }
+  ],
+  "advisories": []
+}

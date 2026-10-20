@@ -1,0 +1,33 @@
+{
+  "id": "prwshcd09",
+  "url": "https://constellation.church/prwshcd09",
+  "name": "Epiphany Lutheran Church",
+  "displayName": "Epiphany Lutheran Church",
+  "address": {
+    "street": "5521 Old Mill Rd",
+    "city": "Alexandria",
+    "state": "VA",
+    "zip": "22309-3329"
+  },
+  "coordinates": {
+    "latitude": 38.710187911987305,
+    "longitude": -77.12270736694336
+  },
+  "website": "https://epiphanylutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0e790fc6-037b-4db4-9c11-84e379a50733",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0e790fc6-037b-4db4-9c11-84e379a50733"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "epiphanylutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "546065972"
+    }
+  ],
+  "advisories": []
+}

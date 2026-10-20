@@ -1,0 +1,33 @@
+{
+  "id": "c244wfn11",
+  "url": "https://constellation.church/c244wfn11",
+  "name": "Image Church",
+  "displayName": "Image Church",
+  "address": {
+    "street": "20402 Chappell Knoll Dr",
+    "city": "Cypress",
+    "state": "TX",
+    "zip": "77433"
+  },
+  "coordinates": {
+    "latitude": 30.002593994140625,
+    "longitude": -95.73831176757812
+  },
+  "website": "https://yourimagechurch.com",
+  "listingUrl": "https://churches.sbc.net/church/image-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "image-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "yourimagechurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "472907315"
+    }
+  ],
+  "advisories": []
+}

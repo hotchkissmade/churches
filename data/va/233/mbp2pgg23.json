@@ -1,0 +1,33 @@
+{
+  "id": "mbp2pgg23",
+  "url": "https://constellation.church/mbp2pgg23",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "521 Providence Rd",
+    "city": "Chesapeake",
+    "state": "VA",
+    "zip": "23325-4907"
+  },
+  "coordinates": {
+    "latitude": 36.80174446105957,
+    "longitude": -76.24162292480469
+  },
+  "website": "https://gracelutheranchesapeake.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a4bcbc43-0ecc-44ec-8808-e0df58b4ffd9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a4bcbc43-0ecc-44ec-8808-e0df58b4ffd9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelutheranchesapeake.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540946234"
+    }
+  ],
+  "advisories": []
+}

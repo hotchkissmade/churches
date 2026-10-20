@@ -1,0 +1,33 @@
+{
+  "id": "xz5qvhs50",
+  "url": "https://constellation.church/xz5qvhs50",
+  "name": "Trinity School",
+  "displayName": "Trinity School",
+  "address": {
+    "street": "2650 Sand Hill Road",
+    "city": "Menlo Park",
+    "state": "CA",
+    "zip": "94025"
+  },
+  "coordinates": {
+    "latitude": 37.4209749,
+    "longitude": -122.2075473
+  },
+  "website": "https://trinity-mp.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/california/list/trinity-school",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "california/trinity-school"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinity-mp.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942780280"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ec7f8yf97",
+  "url": "https://constellation.church/ec7f8yf97",
+  "name": "Hope Lutheran Church",
+  "displayName": "Hope Lutheran Church",
+  "address": {
+    "street": "2314 Homedale Rd",
+    "city": "Klamath Falls",
+    "state": "OR",
+    "zip": "97603-6860"
+  },
+  "coordinates": {
+    "latitude": 42.20625877380371,
+    "longitude": -121.72349548339844
+  },
+  "website": "https://hopeklamathfalls.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9a387818-4ac8-4fa6-bfff-96a3cb1c1ae2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9a387818-4ac8-4fa6-bfff-96a3cb1c1ae2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopeklamathfalls.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930580401"
+    }
+  ],
+  "advisories": []
+}

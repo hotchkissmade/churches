@@ -1,0 +1,33 @@
+{
+  "id": "azjv3f636",
+  "url": "https://constellation.church/azjv3f636",
+  "name": "Trinity Community Church",
+  "displayName": "Trinity Community Church",
+  "address": {
+    "street": "6949 Lancaster Pike",
+    "city": "Hockessin",
+    "state": "DE",
+    "zip": "19707"
+  },
+  "coordinates": {
+    "latitude": 39.7793526,
+    "longitude": -75.6791844
+  },
+  "website": "https://tccde.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=e100384c-81e4-4dd1-9924-1edc71d28702&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "e100384c-81e4-4dd1-9924-1edc71d28702"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tccde.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "202959615"
+    }
+  ],
+  "advisories": []
+}

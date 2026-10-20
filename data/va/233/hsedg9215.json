@@ -1,0 +1,33 @@
+{
+  "id": "hsedg9215",
+  "url": "https://constellation.church/hsedg9215",
+  "name": "Horizon Community Church",
+  "displayName": "Horizon Community Church",
+  "address": {
+    "street": "2430 Gum Rd",
+    "city": "Chesapeake",
+    "state": "VA",
+    "zip": "23321"
+  },
+  "coordinates": {
+    "latitude": 36.82168197631836,
+    "longitude": -76.42824172973633
+  },
+  "website": "https://horizoncc.church",
+  "listingUrl": "https://churches.sbc.net/church/horizon-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "horizon-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "horizoncc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "271417843"
+    }
+  ],
+  "advisories": []
+}

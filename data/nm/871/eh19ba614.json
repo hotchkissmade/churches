@@ -1,0 +1,33 @@
+{
+  "id": "eh19ba614",
+  "url": "https://constellation.church/eh19ba614",
+  "name": "Hoffmantown Church",
+  "displayName": "Hoffmantown Church",
+  "address": {
+    "street": "8888 Harper Dr NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87111"
+  },
+  "coordinates": {
+    "latitude": 35.1544303894043,
+    "longitude": -106.5433349609375
+  },
+  "website": "https://hoffmantownchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/hoffmantown-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hoffmantown-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hoffmantownchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850162757"
+    }
+  ],
+  "advisories": []
+}

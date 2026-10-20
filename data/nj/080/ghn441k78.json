@@ -1,0 +1,33 @@
+{
+  "id": "ghn441k78",
+  "url": "https://constellation.church/ghn441k78",
+  "name": "St James Lutheran Church",
+  "displayName": "St. James Lutheran Church",
+  "address": {
+    "street": "400 Columbia Ave",
+    "city": "Pitman",
+    "state": "NJ",
+    "zip": "08071-2314"
+  },
+  "coordinates": {
+    "latitude": 39.73040199279785,
+    "longitude": -75.11816024780273
+  },
+  "website": "https://stjamespitman.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=15d363fd-8b19-4ad9-aa3f-36508cb52436",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "15d363fd-8b19-4ad9-aa3f-36508cb52436"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamespitman.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "210744652"
+    }
+  ],
+  "advisories": []
+}

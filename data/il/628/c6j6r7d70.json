@@ -1,0 +1,33 @@
+{
+  "id": "c6j6r7d70",
+  "url": "https://constellation.church/c6j6r7d70",
+  "name": "First Baptist Church of Salem",
+  "displayName": "First Baptist Church of Salem",
+  "address": {
+    "street": "721 W Main St",
+    "city": "Salem",
+    "state": "IL",
+    "zip": "62881"
+  },
+  "coordinates": {
+    "latitude": 38.62665557861328,
+    "longitude": -88.95255279541016
+  },
+  "website": "https://salemfbc.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-salem/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-salem"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemfbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370714222"
+    }
+  ],
+  "advisories": []
+}

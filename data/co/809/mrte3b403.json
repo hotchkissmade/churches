@@ -1,0 +1,33 @@
+{
+  "id": "mrte3b403",
+  "url": "https://constellation.church/mrte3b403",
+  "name": "Forestgate Presbyterian Church",
+  "displayName": "Forestgate Presbyterian Church",
+  "address": {
+    "street": "970 North Gate Boulevard",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80921"
+  },
+  "coordinates": {
+    "latitude": 39.028079986572266,
+    "longitude": -104.80909729003906
+  },
+  "website": "https://forestgate.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/486",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "486"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "forestgate.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "841058022"
+    }
+  ],
+  "advisories": []
+}

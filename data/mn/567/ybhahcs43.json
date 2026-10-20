@@ -1,0 +1,33 @@
+{
+  "id": "ybhahcs43",
+  "url": "https://constellation.church/ybhahcs43",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "306 Roosevelt Ave. W.",
+    "city": "Karlstad",
+    "state": "MN",
+    "zip": "56732-4023"
+  },
+  "coordinates": {
+    "latitude": 48.574867248535156,
+    "longitude": -96.52328491210938
+  },
+  "website": "https://flckarlstad.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b5bfccfb-c5d3-4649-a96b-b76417180299",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b5bfccfb-c5d3-4649-a96b-b76417180299"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flckarlstad.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411348150"
+    }
+  ],
+  "advisories": []
+}

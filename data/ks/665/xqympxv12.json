@@ -1,0 +1,33 @@
+{
+  "id": "xqympxv12",
+  "url": "https://constellation.church/xqympxv12",
+  "name": "Manhattan Presbyterian Church",
+  "displayName": "Manhattan Presbyterian Church",
+  "address": {
+    "street": "530 Poyntz Avenue",
+    "city": "Manhattan",
+    "state": "KS",
+    "zip": "66502"
+  },
+  "coordinates": {
+    "latitude": 39.17971992492676,
+    "longitude": -96.56478118896484
+  },
+  "website": "https://manhattanpres.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5820",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5820"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "manhattanpres.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "463714133"
+    }
+  ],
+  "advisories": []
+}

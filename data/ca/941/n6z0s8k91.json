@@ -1,0 +1,33 @@
+{
+  "id": "n6z0s8k91",
+  "url": "https://constellation.church/n6z0s8k91",
+  "name": "St Francis Lutheran Church",
+  "displayName": "St. Francis Lutheran Church",
+  "address": {
+    "street": "152 Church St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94114-1111"
+  },
+  "coordinates": {
+    "latitude": 37.768619537353516,
+    "longitude": -122.42926025390625
+  },
+  "website": "https://sflcsf.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d5b591c6-10b5-4742-8ad0-f7f6a9df1cfb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d5b591c6-10b5-4742-8ad0-f7f6a9df1cfb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sflcsf.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941265061"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "as8xqry89",
+  "url": "https://constellation.church/as8xqry89",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "119 SW 2nd St",
+    "city": "Ogden",
+    "state": "IA",
+    "zip": "50212-7710"
+  },
+  "coordinates": {
+    "latitude": 42.038259506225586,
+    "longitude": -94.02928924560547
+  },
+  "website": "https://ogdenimmanuellutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b5a7fde3-b812-4dbd-a10f-3822aa3e048e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b5a7fde3-b812-4dbd-a10f-3822aa3e048e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ogdenimmanuellutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421112367"
+    }
+  ],
+  "advisories": []
+}

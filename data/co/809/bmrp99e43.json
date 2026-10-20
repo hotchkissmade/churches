@@ -1,0 +1,33 @@
+{
+  "id": "bmrp99e43",
+  "url": "https://constellation.church/bmrp99e43",
+  "name": "Pikes Peak MCC",
+  "displayName": "Pikes Peak Metropolitan Community Church",
+  "address": {
+    "street": "1102 S 21st St",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80904"
+  },
+  "coordinates": {
+    "latitude": 38.83664131164551,
+    "longitude": -104.85941314697266
+  },
+  "website": "https://ppmcc.org",
+  "listingUrl": "https://visitmccchurch.com/our-churches/mcc-churches-in-the-united-states/mcc-churches-in-co/pikes-peak-mcc/",
+  "identifiers": [
+    {
+      "namespace": "com.visitmccchurch.id",
+      "value": "CO/pikes-peak-mcc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ppmcc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "841138407"
+    }
+  ],
+  "advisories": []
+}

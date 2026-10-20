@@ -1,0 +1,33 @@
+{
+  "id": "gvtc36898",
+  "url": "https://constellation.church/gvtc36898",
+  "name": "Boston",
+  "displayName": "Boston Christadelphian Ecclesia",
+  "address": {
+    "street": "48 Freeman St.",
+    "city": "Stoughton",
+    "state": "MA",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 42.12576675415039,
+    "longitude": -71.10043716430664
+  },
+  "website": "https://hopeinstoughton.org",
+  "listingUrl": "https://christadelphia.org/ecclesialist.php?MA#Boston",
+  "identifiers": [
+    {
+      "namespace": "org.christadelphia.id",
+      "value": "MA#Boston"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopeinstoughton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "046129682"
+    }
+  ],
+  "advisories": []
+}

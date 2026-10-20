@@ -1,0 +1,33 @@
+{
+  "id": "h7cyhds52",
+  "url": "https://constellation.church/h7cyhds52",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "508 Franklin St",
+    "city": "Grand Haven",
+    "state": "MI",
+    "zip": "49417"
+  },
+  "coordinates": {
+    "latitude": 43.06142044067383,
+    "longitude": -86.22620391845703
+  },
+  "website": "https://fpgh.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/3368/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "3368"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpgh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381367309"
+    }
+  ],
+  "advisories": []
+}

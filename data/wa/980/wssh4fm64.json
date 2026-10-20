@@ -1,0 +1,33 @@
+{
+  "id": "wssh4fm64",
+  "url": "https://constellation.church/wssh4fm64",
+  "name": "Rose Hill Presbyterian Church",
+  "displayName": "Rose Hill Presbyterian Church",
+  "address": {
+    "street": "12202 NE 90th St",
+    "city": "Kirkland",
+    "state": "WA",
+    "zip": "98033"
+  },
+  "coordinates": {
+    "latitude": 47.68297576904297,
+    "longitude": -122.1784439086914
+  },
+  "website": "https://rosehill.church",
+  "listingUrl": "https://eco-pres.org/churches/rose-hill-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "rose-hill-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rosehill.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910622433"
+    }
+  ],
+  "advisories": []
+}

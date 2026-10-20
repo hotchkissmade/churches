@@ -1,0 +1,33 @@
+{
+  "id": "cha0tsr05",
+  "url": "https://constellation.church/cha0tsr05",
+  "name": "Trinity Church",
+  "displayName": "Trinity Church",
+  "address": {
+    "street": "201 E Jefferson St",
+    "city": "Grand Ledge",
+    "state": "MI",
+    "zip": "48837-1536"
+  },
+  "coordinates": {
+    "latitude": 42.752403259277344,
+    "longitude": -84.74494552612305
+  },
+  "website": "https://trinitypeople.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-western-michigan/list/trinity-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-western-michigan/trinity-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitypeople.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237184063"
+    }
+  ],
+  "advisories": []
+}

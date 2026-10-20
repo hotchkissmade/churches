@@ -1,0 +1,33 @@
+{
+  "id": "t85pc6t49",
+  "url": "https://constellation.church/t85pc6t49",
+  "name": "Eastminster Presbyterian Church",
+  "displayName": "Eastminster Presbyterian Church",
+  "address": {
+    "street": "3229 MacDonald Road",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23464"
+  },
+  "coordinates": {
+    "latitude": 36.821462631225586,
+    "longitude": -76.22359466552734
+  },
+  "website": "https://eastminsterpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/333",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "333"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastminsterpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541041366"
+    }
+  ],
+  "advisories": []
+}

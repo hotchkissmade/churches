@@ -1,0 +1,33 @@
+{
+  "id": "ff80ssy70",
+  "url": "https://constellation.church/ff80ssy70",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "1801 S Valley View Rd",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57106-0520"
+  },
+  "coordinates": {
+    "latitude": 43.5282578,
+    "longitude": -96.8010052
+  },
+  "website": "https://bethelwels.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/25075",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "25075"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelwels.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460433699"
+    }
+  ],
+  "advisories": []
+}

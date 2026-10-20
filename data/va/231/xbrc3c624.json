@@ -1,0 +1,33 @@
+{
+  "id": "xbrc3c624",
+  "url": "https://constellation.church/xbrc3c624",
+  "name": "Sandston Baptist Church",
+  "displayName": "Sandston Baptist Church",
+  "address": {
+    "street": "100 W Williamsburg Rd",
+    "city": "Sandston",
+    "state": "VA",
+    "zip": "23150"
+  },
+  "coordinates": {
+    "latitude": 37.52410316467285,
+    "longitude": -77.31637573242188
+  },
+  "website": "https://sandstonbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/sandston-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sandston-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sandstonbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "546004019"
+    }
+  ],
+  "advisories": []
+}

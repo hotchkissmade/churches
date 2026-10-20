@@ -1,0 +1,33 @@
+{
+  "id": "v4z8zz771",
+  "url": "https://constellation.church/v4z8zz771",
+  "name": "St. Luke's Episcopal Church",
+  "displayName": "St. Luke's Episcopal Church",
+  "address": {
+    "street": "99 Pierce St",
+    "city": "East Greenwich",
+    "state": "RI",
+    "zip": "02818-0334"
+  },
+  "coordinates": {
+    "latitude": 41.66123580932617,
+    "longitude": -71.45171737670898
+  },
+  "website": "https://stlukeseg.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-rhode-island/list/st-lukes-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-rhode-island/st-lukes-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukeseg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "050285645"
+    }
+  ],
+  "advisories": []
+}

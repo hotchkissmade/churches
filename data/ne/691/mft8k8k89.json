@@ -1,0 +1,33 @@
+{
+  "id": "mft8k8k89",
+  "url": "https://constellation.church/mft8k8k89",
+  "name": "The Well Church of Sidney",
+  "displayName": "The Well Church of Sidney",
+  "address": {
+    "street": "432 20th Ave",
+    "city": "Sidney",
+    "state": "NE",
+    "zip": "69162"
+  },
+  "coordinates": {
+    "latitude": 41.14850044250488,
+    "longitude": -102.98959350585938
+  },
+  "website": "https://thewellnetwork.church",
+  "listingUrl": "https://churches.sbc.net/church/the-well-church-of-sidney/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-well-church-of-sidney"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thewellnetwork.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "831531575"
+    }
+  ],
+  "advisories": []
+}

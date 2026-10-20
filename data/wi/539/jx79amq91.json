@@ -1,0 +1,33 @@
+{
+  "id": "jx79amq91",
+  "url": "https://constellation.church/jx79amq91",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "120 Faith Dr",
+    "city": "Columbus",
+    "state": "WI",
+    "zip": "53925-1602"
+  },
+  "coordinates": {
+    "latitude": 43.329612731933594,
+    "longitude": -89.02947235107422
+  },
+  "website": "https://faithcolumbuswi.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6ee9924c-23a7-40b8-b1d2-30b03ab49f53",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6ee9924c-23a7-40b8-b1d2-30b03ab49f53"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithcolumbuswi.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391325194"
+    }
+  ],
+  "advisories": []
+}

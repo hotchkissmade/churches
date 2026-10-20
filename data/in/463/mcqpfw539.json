@@ -1,0 +1,33 @@
+{
+  "id": "mcqpfw539",
+  "url": "https://constellation.church/mcqpfw539",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "2050 W 1100 N",
+    "city": "Chesterton",
+    "state": "IN",
+    "zip": "46304-9598"
+  },
+  "coordinates": {
+    "latitude": 41.59515953063965,
+    "longitude": -87.07770538330078
+  },
+  "website": "https://blcin.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=981aa039-2d5f-4c9d-98e3-93b746d8c99a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "981aa039-2d5f-4c9d-98e3-93b746d8c99a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blcin.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351434622"
+    }
+  ],
+  "advisories": []
+}

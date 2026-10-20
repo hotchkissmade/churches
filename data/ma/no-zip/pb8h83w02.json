@@ -1,0 +1,33 @@
+{
+  "id": "pb8h83w02",
+  "url": "https://constellation.church/pb8h83w02",
+  "name": "Yarmouth Friends Meeting (NEYM)",
+  "displayName": "Yarmouth Friends Meeting (NEYM)",
+  "address": {
+    "street": "58 N Main St",
+    "city": "South Yarmouth",
+    "state": "MA",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 41.66921043395996,
+    "longitude": -70.18475723266602
+  },
+  "website": "https://neym.org/meetings/yarmouth-preparative-meeting",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/yarmouth-friends-meeting-neym/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "yarmouth-friends-meeting-neym"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "neym.org/meetings/yarmouth-preparative-meeting"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "825513735"
+    }
+  ],
+  "advisories": []
+}

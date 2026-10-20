@@ -1,0 +1,33 @@
+{
+  "id": "qry0e1b72",
+  "url": "https://constellation.church/qry0e1b72",
+  "name": "Willcox United Methodist Church",
+  "displayName": "Willcox United Methodist Church",
+  "address": {
+    "street": "124 S Curtis Ave",
+    "city": "Willcox",
+    "state": "AZ",
+    "zip": "85644-0307"
+  },
+  "coordinates": {
+    "latitude": 32.2529239654541,
+    "longitude": -109.83403778076172
+  },
+  "website": "https://willcoxunitedmethodist.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFOD3IAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFOD3IAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "willcoxunitedmethodist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860215649"
+    }
+  ],
+  "advisories": []
+}

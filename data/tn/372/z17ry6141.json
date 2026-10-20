@@ -1,0 +1,33 @@
+{
+  "id": "z17ry6141",
+  "url": "https://constellation.church/z17ry6141",
+  "name": "Christ Presbyterian Church",
+  "displayName": "Christ Presbyterian Church",
+  "address": {
+    "street": "2323 Old Hickory Boulevard",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37215"
+  },
+  "coordinates": {
+    "latitude": 36.04917526245117,
+    "longitude": -86.8787956237793
+  },
+  "website": "https://christpres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/186",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "186"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621105077"
+    }
+  ],
+  "advisories": []
+}

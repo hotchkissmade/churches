@@ -1,0 +1,33 @@
+{
+  "id": "a3rknzk75",
+  "url": "https://constellation.church/a3rknzk75",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "903 First St",
+    "city": "Orland",
+    "state": "CA",
+    "zip": "95963"
+  },
+  "coordinates": {
+    "latitude": 39.74492835998535,
+    "longitude": -122.19002532958984
+  },
+  "website": "https://firstbaptistorland.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-642/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-642"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistorland.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942588507"
+    }
+  ],
+  "advisories": []
+}

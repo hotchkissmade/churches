@@ -1,0 +1,33 @@
+{
+  "id": "qh9xek570",
+  "url": "https://constellation.church/qh9xek570",
+  "name": "El Camino Presbyterian Church",
+  "displayName": "El Camino Presbyterian Church",
+  "address": {
+    "street": "2000 California Street",
+    "city": "Oceanside",
+    "state": "CA",
+    "zip": "92054"
+  },
+  "coordinates": {
+    "latitude": 33.19209861755371,
+    "longitude": -117.37234497070312
+  },
+  "website": "https://elcaminopca.com/leaders",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6741",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6741"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elcaminopca.com/leaders"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "880854202"
+    }
+  ],
+  "advisories": []
+}

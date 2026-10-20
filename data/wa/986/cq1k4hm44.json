@@ -1,0 +1,33 @@
+{
+  "id": "cq1k4hm44",
+  "url": "https://constellation.church/cq1k4hm44",
+  "name": "Camas",
+  "displayName": "Camas United Methodist Church",
+  "address": {
+    "street": "706 NE 14th Ave",
+    "city": "Camas",
+    "state": "WA",
+    "zip": "98607-1399"
+  },
+  "coordinates": {
+    "latitude": 45.58975601196289,
+    "longitude": -122.40399932861328
+  },
+  "website": "https://camaschurch.net/home.html",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFL5tIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFL5tIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "camaschurch.net/home.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910646777"
+    }
+  ],
+  "advisories": []
+}

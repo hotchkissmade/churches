@@ -1,0 +1,33 @@
+{
+  "id": "netsz2j22",
+  "url": "https://constellation.church/netsz2j22",
+  "name": "New Hope Church",
+  "displayName": "New Hope Church",
+  "address": {
+    "street": "1125 Garden Way Ste 110 Ste 110",
+    "city": "Manhattan",
+    "state": "KS",
+    "zip": "66502"
+  },
+  "coordinates": {
+    "latitude": 39.188270568847656,
+    "longitude": -96.61054992675781
+  },
+  "website": "https://newhopeks.org",
+  "listingUrl": "https://churches.sbc.net/church/new-hope-church-5/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-hope-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newhopeks.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "481105165"
+    }
+  ],
+  "advisories": []
+}

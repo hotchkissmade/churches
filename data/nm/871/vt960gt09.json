@@ -1,0 +1,33 @@
+{
+  "id": "vt960gt09",
+  "url": "https://constellation.church/vt960gt09",
+  "name": "City Presbyterian Church Albuquerque",
+  "displayName": "City Presbyterian Church Albuquerque",
+  "address": {
+    "street": "210 Truman Street NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87108"
+  },
+  "coordinates": {
+    "latitude": 35.080636978149414,
+    "longitude": -106.58719635009766
+  },
+  "website": "https://citypresabq.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4576",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4576"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "citypresabq.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510483112"
+    }
+  ],
+  "advisories": []
+}

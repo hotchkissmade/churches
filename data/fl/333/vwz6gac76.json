@@ -1,0 +1,33 @@
+{
+  "id": "vwz6gac76",
+  "url": "https://constellation.church/vwz6gac76",
+  "name": "Coral Ridge Presbyterian Church",
+  "displayName": "Coral Ridge Presbyterian Church",
+  "address": {
+    "street": "5555 North Federal Highway",
+    "city": "Ft. Lauderdale",
+    "state": "FL",
+    "zip": "33308"
+  },
+  "coordinates": {
+    "latitude": 26.195837020874023,
+    "longitude": -80.11305236816406
+  },
+  "website": "https://crpc.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/228",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "228"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "crpc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591026547"
+    }
+  ],
+  "advisories": []
+}

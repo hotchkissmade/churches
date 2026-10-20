@@ -1,0 +1,33 @@
+{
+  "id": "ebadv5j18",
+  "url": "https://constellation.church/ebadv5j18",
+  "name": "Des Moines United Methodist Church",
+  "displayName": "Des Moines United Methodist Church",
+  "address": {
+    "street": "22225 9th Ave S",
+    "city": "Des Moines",
+    "state": "WA",
+    "zip": "98198"
+  },
+  "coordinates": {
+    "latitude": 47.40224266052246,
+    "longitude": -122.3225326538086
+  },
+  "website": "https://desmoinesumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMpKIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMpKIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "desmoinesumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "916017727"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ekx3dff16",
+  "url": "https://constellation.church/ekx3dff16",
+  "name": "Episcopal Church of the Blessed Redeemer",
+  "displayName": "Episcopal Church of the Blessed Redeemer",
+  "address": {
+    "street": "1225 Degroodt Rd SW",
+    "city": "Palm Bay",
+    "state": "FL",
+    "zip": "32908-7102"
+  },
+  "coordinates": {
+    "latitude": 27.96847915649414,
+    "longitude": -80.67391586303711
+  },
+  "website": "https://blessedredeemerpb.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-central-florida/list/epis-ch-blessed-redeemer",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-central-florida/epis-ch-blessed-redeemer"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blessedredeemerpb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "202276294"
+    }
+  ],
+  "advisories": []
+}

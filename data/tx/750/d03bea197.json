@@ -1,0 +1,33 @@
+{
+  "id": "d03bea197",
+  "url": "https://constellation.church/d03bea197",
+  "name": "St. Stephen's Episcopal Church",
+  "displayName": "St. Stephen's Episcopal Church",
+  "address": {
+    "street": "401 S Crockett St",
+    "city": "Sherman",
+    "state": "TX",
+    "zip": "75090-7171"
+  },
+  "coordinates": {
+    "latitude": 33.63350486755371,
+    "longitude": -96.60943603515625
+  },
+  "website": "https://saintstephenssherman.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-dallas/list/st-stephens-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-dallas/st-stephens-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintstephenssherman.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751100931"
+    }
+  ],
+  "advisories": []
+}

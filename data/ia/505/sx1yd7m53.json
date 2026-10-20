@@ -1,0 +1,33 @@
+{
+  "id": "sx1yd7m53",
+  "url": "https://constellation.church/sx1yd7m53",
+  "name": "St Olaf Lutheran Church",
+  "displayName": "St. Olaf Lutheran Church",
+  "address": {
+    "street": "239 N 11th St",
+    "city": "Fort Dodge",
+    "state": "IA",
+    "zip": "50501-4018"
+  },
+  "coordinates": {
+    "latitude": 42.50802040100098,
+    "longitude": -94.18377685546875
+  },
+  "website": "https://stolaffd.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dc32cd81-39a0-40ad-8789-754369502da8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dc32cd81-39a0-40ad-8789-754369502da8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stolaffd.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420698238"
+    }
+  ],
+  "advisories": []
+}

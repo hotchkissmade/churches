@@ -1,0 +1,33 @@
+{
+  "id": "g32zc9s03",
+  "url": "https://constellation.church/g32zc9s03",
+  "name": "St. George's, DC",
+  "displayName": "St. George's, DC",
+  "address": {
+    "street": "160 U St NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20001-1699"
+  },
+  "coordinates": {
+    "latitude": 38.91683006286621,
+    "longitude": -77.01407241821289
+  },
+  "website": "https://stgeorgesdc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/st-georges-dc",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/st-georges-dc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stgeorgesdc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520851192"
+    }
+  ],
+  "advisories": []
+}

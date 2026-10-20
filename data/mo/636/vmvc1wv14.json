@@ -1,0 +1,33 @@
+{
+  "id": "vmvc1wv14",
+  "url": "https://constellation.church/vmvc1wv14",
+  "name": "First Baptist Church Sainte Genevieve",
+  "displayName": "First Baptist Church Ste. Genevieve",
+  "address": {
+    "street": "101 Basler Dr",
+    "city": "Ste Genevieve",
+    "state": "MO",
+    "zip": "63670"
+  },
+  "coordinates": {
+    "latitude": 37.963623046875,
+    "longitude": -90.0539779663086
+  },
+  "website": "https://fbcsg.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-sainte-genevieve/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-sainte-genevieve"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcsg.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431330555"
+    }
+  ],
+  "advisories": []
+}

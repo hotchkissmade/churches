@@ -1,0 +1,33 @@
+{
+  "id": "wwt0apt06",
+  "url": "https://constellation.church/wwt0apt06",
+  "name": "Mt Hermon Baptist Church",
+  "displayName": "Mount Hermon Baptist Church",
+  "address": {
+    "street": "2516 E 40th St",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44104"
+  },
+  "coordinates": {
+    "latitude": 41.49156951904297,
+    "longitude": -81.65880584716797
+  },
+  "website": "https://mthermonbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/mt-hermon-baptist-church-5/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mt-hermon-baptist-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mthermonbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340822296"
+    }
+  ],
+  "advisories": []
+}

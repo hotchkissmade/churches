@@ -1,0 +1,33 @@
+{
+  "id": "t1fgrse39",
+  "url": "https://constellation.church/t1fgrse39",
+  "name": "Kahului Union Church",
+  "displayName": "Kahului Union Church",
+  "address": {
+    "street": "101 W Kamehameha Ave",
+    "city": "Kahului",
+    "state": "HI",
+    "zip": "96732"
+  },
+  "coordinates": {
+    "latitude": 20.88725185394287,
+    "longitude": -156.4683380126953
+  },
+  "website": "https://kahuluiunion.org",
+  "listingUrl": "https://churches.sbc.net/church/kahului-union-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "kahului-union-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kahuluiunion.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "990078504"
+    }
+  ],
+  "advisories": []
+}

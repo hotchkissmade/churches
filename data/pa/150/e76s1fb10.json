@@ -1,0 +1,33 @@
+{
+  "id": "e76s1fb10",
+  "url": "https://constellation.church/e76s1fb10",
+  "name": "St. Nicholas Church",
+  "displayName": "St. Nicholas Church",
+  "address": {
+    "street": "1 St Nicholas Dr",
+    "city": "Donora",
+    "state": "PA",
+    "zip": "15033"
+  },
+  "coordinates": {
+    "latitude": 40.180747985839844,
+    "longitude": -79.85859680175781
+  },
+  "website": "https://stnicholasorthodoxdonora.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-wp-donsnc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-wp-donsnc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stnicholasorthodoxdonora.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237230781"
+    }
+  ],
+  "advisories": []
+}

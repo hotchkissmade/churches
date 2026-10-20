@@ -1,0 +1,33 @@
+{
+  "id": "dckrsve40",
+  "url": "https://constellation.church/dckrsve40",
+  "name": "Church on the Street Assembly of God",
+  "displayName": "Church on the Street Assembly of God",
+  "address": {
+    "street": "919 E Ogden Ave",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89101"
+  },
+  "coordinates": {
+    "latitude": 36.16812515258789,
+    "longitude": -115.13441467285156
+  },
+  "website": "https://cotslv.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a5875dd5-309a-4818-8a63-6bbc3ac4605c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "a5875dd5-309a-4818-8a63-6bbc3ac4605c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cotslv.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "880368594"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sshn0st03",
+  "url": "https://constellation.church/sshn0st03",
+  "name": "Mount Pleasant Christian Center of San Jose",
+  "displayName": "Mount Pleasant Christian Center of San Jose",
+  "address": {
+    "street": "3535 Clayton Rd",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95127"
+  },
+  "coordinates": {
+    "latitude": 37.356231689453125,
+    "longitude": -121.79907989501953
+  },
+  "website": "https://mpccsj.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=750a8f5c-6eae-4978-bcdc-2773036cf706&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "750a8f5c-6eae-4978-bcdc-2773036cf706"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mpccsj.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942514993"
+    }
+  ],
+  "advisories": []
+}

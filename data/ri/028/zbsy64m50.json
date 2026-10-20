@@ -1,0 +1,33 @@
+{
+  "id": "zbsy64m50",
+  "url": "https://constellation.church/zbsy64m50",
+  "name": "Church of the Good Shepherd",
+  "displayName": "Church of the Good Shepherd",
+  "address": {
+    "street": "490 Broadway",
+    "city": "Pawtucket",
+    "state": "RI",
+    "zip": "02860-1340"
+  },
+  "coordinates": {
+    "latitude": 41.88719177246094,
+    "longitude": -71.3754997253418
+  },
+  "website": "https://goodshepherdri.net",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-rhode-island/list/church-good-shepherd",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-rhode-island/church-good-shepherd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherdri.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "050398725"
+    }
+  ],
+  "advisories": []
+}

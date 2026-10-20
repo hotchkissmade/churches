@@ -1,0 +1,33 @@
+{
+  "id": "czp769249",
+  "url": "https://constellation.church/czp769249",
+  "name": "Epworth United Methodist Church",
+  "displayName": "Epworth United Methodist Church",
+  "address": {
+    "street": "3207 37th Ave S",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55406"
+  },
+  "coordinates": {
+    "latitude": 44.944862365722656,
+    "longitude": -93.21894073486328
+  },
+  "website": "https://epworthmpls.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFO0dIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFO0dIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "epworthmpls.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410854181"
+    }
+  ],
+  "advisories": []
+}

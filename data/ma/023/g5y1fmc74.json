@@ -1,0 +1,33 @@
+{
+  "id": "g5y1fmc74",
+  "url": "https://constellation.church/g5y1fmc74",
+  "name": "Second Church Of Plymouth",
+  "displayName": "Second Church Of Plymouth",
+  "address": {
+    "street": "PO Box 1754",
+    "city": "Manomet",
+    "state": "MA",
+    "zip": "02345"
+  },
+  "coordinates": {
+    "latitude": 41.92405319213867,
+    "longitude": -70.56943130493164
+  },
+  "website": "https://secondchurchofplymouth.org",
+  "listingUrl": "https://www.naccc.org/wpbdp_listing/second-church-of-plymouth/",
+  "identifiers": [
+    {
+      "namespace": "org.naccc.id",
+      "value": "second-church-of-plymouth"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "secondchurchofplymouth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "043038101"
+    }
+  ],
+  "advisories": []
+}

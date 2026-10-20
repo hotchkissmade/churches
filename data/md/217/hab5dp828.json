@@ -1,0 +1,33 @@
+{
+  "id": "hab5dp828",
+  "url": "https://constellation.church/hab5dp828",
+  "name": "Emmanuel Trinity Lutheran Church",
+  "displayName": "Emmanuel Trinity Lutheran Church",
+  "address": {
+    "street": "4004 Ballenger Creek Pike",
+    "city": "Frederick",
+    "state": "MD",
+    "zip": "21703-7942"
+  },
+  "coordinates": {
+    "latitude": 39.34430122375488,
+    "longitude": -77.47496795654297
+  },
+  "website": "https://emmanueltrinity.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f7ff4436-0a00-4c0b-94b0-56125d1d312b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f7ff4436-0a00-4c0b-94b0-56125d1d312b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emmanueltrinity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "454861209"
+    }
+  ],
+  "advisories": []
+}

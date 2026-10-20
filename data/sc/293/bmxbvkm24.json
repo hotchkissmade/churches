@@ -1,0 +1,33 @@
+{
+  "id": "bmxbvkm24",
+  "url": "https://constellation.church/bmxbvkm24",
+  "name": "Roebuck Presbyterian Church",
+  "displayName": "Roebuck Presbyterian Church",
+  "address": {
+    "street": "2179 E. Blackstock Road",
+    "city": "Roebuck",
+    "state": "SC",
+    "zip": "29376"
+  },
+  "coordinates": {
+    "latitude": 34.877702713012695,
+    "longitude": -81.96408462524414
+  },
+  "website": "https://roebuckpca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/910",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "910"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "roebuckpca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570752546"
+    }
+  ],
+  "advisories": []
+}

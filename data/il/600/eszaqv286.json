@@ -1,0 +1,33 @@
+{
+  "id": "eszaqv286",
+  "url": "https://constellation.church/eszaqv286",
+  "name": "Village Church of Barrington",
+  "displayName": "Village Church of Barrington",
+  "address": {
+    "street": "1600 E Main St",
+    "city": "Barrington",
+    "state": "IL",
+    "zip": "60010-3506"
+  },
+  "coordinates": {
+    "latitude": 42.15486145019531,
+    "longitude": -88.10711288452148
+  },
+  "website": "https://vcbweb.org",
+  "listingUrl": "https://churches.efca.org/?id=12301",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12301"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "vcbweb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362727266"
+    }
+  ],
+  "advisories": []
+}

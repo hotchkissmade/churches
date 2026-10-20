@@ -1,0 +1,33 @@
+{
+  "id": "d35hkdq15",
+  "url": "https://constellation.church/d35hkdq15",
+  "name": "Morningside Baptist Church",
+  "displayName": "Morningside Baptist Church",
+  "address": {
+    "street": "897 S Pine St",
+    "city": "Spartanburg",
+    "state": "SC",
+    "zip": "29302"
+  },
+  "coordinates": {
+    "latitude": 34.94017219543457,
+    "longitude": -81.90403366088867
+  },
+  "website": "https://msidechurch.org/media",
+  "listingUrl": "https://churches.sbc.net/church/morningside-baptist-church-5/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "morningside-baptist-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "msidechurch.org/media"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570370002"
+    }
+  ],
+  "advisories": []
+}

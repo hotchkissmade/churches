@@ -1,0 +1,33 @@
+{
+  "id": "r4dkv7q19",
+  "url": "https://constellation.church/r4dkv7q19",
+  "name": "Bay Area Church, League City",
+  "displayName": "Bay Area Church, League City",
+  "address": {
+    "street": "4800 W. Main St.",
+    "city": "League City",
+    "state": "TX",
+    "zip": "77573"
+  },
+  "coordinates": {
+    "latitude": 29.49434471130371,
+    "longitude": -95.14861297607422
+  },
+  "website": "https://bayarea.church",
+  "listingUrl": "https://churches.sbc.net/church/bay-area-church-league-city/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bay-area-church-league-city"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bayarea.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760398316"
+    }
+  ],
+  "advisories": []
+}

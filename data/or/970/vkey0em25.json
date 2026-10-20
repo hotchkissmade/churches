@@ -1,0 +1,33 @@
+{
+  "id": "vkey0em25",
+  "url": "https://constellation.church/vkey0em25",
+  "name": "Canby Spanish Adventist Co",
+  "displayName": "Canby Spanish Adventist Co",
+  "address": {
+    "street": "900 N Juniper St",
+    "city": "Canby",
+    "state": "OR",
+    "zip": "97013-3135"
+  },
+  "coordinates": {
+    "latitude": 45.26942825317383,
+    "longitude": -122.69235229492188
+  },
+  "website": "https://canbyalliance.org",
+  "listingUrl": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=30199",
+  "identifiers": [
+    {
+      "namespace": "org.adventistdirectory.id",
+      "value": "30199"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "canbyalliance.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930609215"
+    }
+  ],
+  "advisories": []
+}

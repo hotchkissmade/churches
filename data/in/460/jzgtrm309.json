@@ -1,0 +1,33 @@
+{
+  "id": "jzgtrm309",
+  "url": "https://constellation.church/jzgtrm309",
+  "name": "Zionsville United Methodist Church",
+  "displayName": "Zionsville United Methodist Church",
+  "address": {
+    "street": "9644 Whitestown Rd",
+    "city": "Zionsville",
+    "state": "IN",
+    "zip": "46077"
+  },
+  "coordinates": {
+    "latitude": 39.96636390686035,
+    "longitude": -86.28695678710938
+  },
+  "website": "https://zumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFOCxIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFOCxIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351310562"
+    }
+  ],
+  "advisories": []
+}

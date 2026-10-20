@@ -1,0 +1,33 @@
+{
+  "id": "gc943ew24",
+  "url": "https://constellation.church/gc943ew24",
+  "name": "Saint Pauls Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "400 N Maryland Ave",
+    "city": "Fulda",
+    "state": "MN",
+    "zip": "56131-1150"
+  },
+  "coordinates": {
+    "latitude": 43.87279510498047,
+    "longitude": -95.59555053710938
+  },
+  "website": "https://stpaulsfulda.org",
+  "listingUrl": "https://locator.lcms.org/church/C/341699",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "341699"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsfulda.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410780403"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "btt8d2129",
+  "url": "https://constellation.church/btt8d2129",
+  "name": "First Baptist Church of Norton",
+  "displayName": "First Baptist Church of Norton",
+  "address": {
+    "street": "45 9th Street NW",
+    "city": "Norton",
+    "state": "VA",
+    "zip": "24273"
+  },
+  "coordinates": {
+    "latitude": 36.93354606628418,
+    "longitude": -82.63232040405273
+  },
+  "website": "https://fbcnorton.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-norton/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-norton"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcnorton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540614630"
+    }
+  ],
+  "advisories": []
+}

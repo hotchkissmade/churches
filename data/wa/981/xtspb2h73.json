@@ -1,0 +1,37 @@
+{
+  "id": "xtspb2h73",
+  "url": "https://constellation.church/xtspb2h73",
+  "name": "Grace Church Seattle",
+  "displayName": "Grace Church Seattle",
+  "address": {
+    "street": "1300 E Aloha Street",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98102"
+  },
+  "coordinates": {
+    "latitude": 47.626956939697266,
+    "longitude": -122.31549835205078
+  },
+  "website": "https://graceseattle.org",
+  "listingUrl": "https://www.acna.org/admin_units/1905",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "1905"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceseattle.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911836158"
+    },
+    {
+      "namespace": "org.adventistdirectory.id",
+      "value": "18186"
+    }
+  ],
+  "advisories": []
+}

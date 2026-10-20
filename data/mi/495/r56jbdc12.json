@@ -1,0 +1,33 @@
+{
+  "id": "r56jbdc12",
+  "url": "https://constellation.church/r56jbdc12",
+  "name": "Grace Church",
+  "displayName": "Grace Church",
+  "address": {
+    "street": "1815 Hall St SE",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49506-4099"
+  },
+  "coordinates": {
+    "latitude": 42.94137763977051,
+    "longitude": -85.62373352050781
+  },
+  "website": "https://gracechurchgr.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-western-michigan/list/grace-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-western-michigan/grace-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracechurchgr.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381359088"
+    }
+  ],
+  "advisories": []
+}

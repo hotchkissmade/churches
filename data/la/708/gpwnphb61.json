@@ -1,0 +1,33 @@
+{
+  "id": "gpwnphb61",
+  "url": "https://constellation.church/gpwnphb61",
+  "name": "Grace Presbyterian Church",
+  "displayName": "Grace Presbyterian Church",
+  "address": {
+    "street": "9526 Joor Road",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70818"
+  },
+  "coordinates": {
+    "latitude": 30.535289764404297,
+    "longitude": -91.06014251708984
+  },
+  "website": "https://gracepresbyterianbr.church",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/545",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "545"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracepresbyterianbr.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720445162"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wgqhfjw86",
+  "url": "https://constellation.church/wgqhfjw86",
+  "name": "Iglesia Bautista Nuevo Pacto",
+  "displayName": "Iglesia Bautista Nuevo Pacto",
+  "address": {
+    "street": "2517 N Fremont Ave",
+    "city": "Springfield",
+    "state": "MO",
+    "zip": "65803"
+  },
+  "coordinates": {
+    "latitude": 37.242605209350586,
+    "longitude": -93.27047729492188
+  },
+  "website": "https://nuevopactospringfield.org",
+  "listingUrl": "https://churches.sbc.net/church/iglesia-bautista-nuevo-pacto-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "iglesia-bautista-nuevo-pacto-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nuevopactospringfield.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "270500059"
+    }
+  ],
+  "advisories": []
+}

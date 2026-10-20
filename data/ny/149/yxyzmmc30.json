@@ -1,0 +1,33 @@
+{
+  "id": "yxyzmmc30",
+  "url": "https://constellation.church/yxyzmmc30",
+  "name": "Bethany Lutheran Church",
+  "displayName": "Bethany Lutheran Church",
+  "address": {
+    "street": "256 S Walnut St",
+    "city": "Elmira",
+    "state": "NY",
+    "zip": "14904-1157"
+  },
+  "coordinates": {
+    "latitude": 42.07943534851074,
+    "longitude": -76.8137435913086
+  },
+  "website": "https://bethanylutheranelmira.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0d2c3467-fcf4-4622-b857-5e053ddb276f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0d2c3467-fcf4-4622-b857-5e053ddb276f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanylutheranelmira.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161102248"
+    }
+  ],
+  "advisories": []
+}

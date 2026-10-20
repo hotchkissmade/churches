@@ -1,0 +1,33 @@
+{
+  "id": "a7538yq21",
+  "url": "https://constellation.church/a7538yq21",
+  "name": "Laurens First Baptist Church",
+  "displayName": "Laurens First Baptist Church",
+  "address": {
+    "street": "300 W Main St",
+    "city": "Laurens",
+    "state": "SC",
+    "zip": "29360"
+  },
+  "coordinates": {
+    "latitude": 34.49841499328613,
+    "longitude": -82.0190315246582
+  },
+  "website": "https://fbclaurens.org",
+  "listingUrl": "https://churches.sbc.net/church/laurens-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "laurens-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbclaurens.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570325349"
+    }
+  ],
+  "advisories": []
+}

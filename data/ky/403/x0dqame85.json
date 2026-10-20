@@ -1,0 +1,33 @@
+{
+  "id": "x0dqame85",
+  "url": "https://constellation.church/x0dqame85",
+  "name": "Versailles Baptist Church",
+  "displayName": "Versailles Baptist Church",
+  "address": {
+    "street": "125 E Green St",
+    "city": "Versailles",
+    "state": "KY",
+    "zip": "40383"
+  },
+  "coordinates": {
+    "latitude": 38.050302505493164,
+    "longitude": -84.73082733154297
+  },
+  "website": "https://versaillesbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/versailles-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "versailles-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "versaillesbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351001683"
+    }
+  ],
+  "advisories": []
+}

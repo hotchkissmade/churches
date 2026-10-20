@@ -1,0 +1,33 @@
+{
+  "id": "ejk8v1551",
+  "url": "https://constellation.church/ejk8v1551",
+  "name": "Amazing Grace Church",
+  "displayName": "Amazing Grace Church",
+  "address": {
+    "street": "917 N St NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20001"
+  },
+  "coordinates": {
+    "latitude": 38.907501220703125,
+    "longitude": -77.0249252319336
+  },
+  "website": "https://amazinggracedc.org",
+  "listingUrl": "https://churches.sbc.net/church/amazing-grace-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "amazing-grace-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "amazinggracedc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "832623292"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qmnavvm98",
+  "url": "https://constellation.church/qmnavvm98",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "302 N Parker Dr",
+    "city": "Janesville",
+    "state": "WI",
+    "zip": "53545-3024"
+  },
+  "coordinates": {
+    "latitude": 42.68597984313965,
+    "longitude": -89.02409362792969
+  },
+  "website": "https://sjlc-elca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=26dc3652-30e6-4872-9e0e-fe6c7a511646",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "26dc3652-30e6-4872-9e0e-fe6c7a511646"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sjlc-elca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391046054"
+    }
+  ],
+  "advisories": []
+}

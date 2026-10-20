@@ -1,0 +1,33 @@
+{
+  "id": "k55cdfw25",
+  "url": "https://constellation.church/k55cdfw25",
+  "name": "Swamp Mennonite Chruch",
+  "displayName": "Swamp Mennonite Chruch",
+  "address": {
+    "street": "2125 Rosedale Rd",
+    "city": "Quakertown",
+    "state": "PA",
+    "zip": "18951"
+  },
+  "coordinates": {
+    "latitude": 40.46809387207031,
+    "longitude": -75.40665435791016
+  },
+  "website": "https://justswamp.com",
+  "listingUrl": "https://lmcchurches.org/directory/swamp-mennonite-chruch/",
+  "identifiers": [
+    {
+      "namespace": "org.lmcchurches.id",
+      "value": "swamp-mennonite-chruch"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "justswamp.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237439008"
+    }
+  ],
+  "advisories": []
+}

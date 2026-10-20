@@ -1,0 +1,33 @@
+{
+  "id": "de68bht92",
+  "url": "https://constellation.church/de68bht92",
+  "name": "St. Mark's Church",
+  "displayName": "St. Mark's Church",
+  "address": {
+    "street": "754 Montauk Highway",
+    "city": "Islip",
+    "state": "NY",
+    "zip": "11751"
+  },
+  "coordinates": {
+    "latitude": 40.729888916015625,
+    "longitude": -73.20682144165039
+  },
+  "website": "https://stmarksislip.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-marks-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-marks-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarksislip.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111672780"
+    }
+  ],
+  "advisories": []
+}

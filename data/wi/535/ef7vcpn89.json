@@ -1,0 +1,33 @@
+{
+  "id": "ef7vcpn89",
+  "url": "https://constellation.church/ef7vcpn89",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "1105 N Bequette St",
+    "city": "Dodgeville",
+    "state": "WI",
+    "zip": "53533-1115"
+  },
+  "coordinates": {
+    "latitude": 42.971136,
+    "longitude": -90.1323838
+  },
+  "website": "https://gracedodgeville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=24d70150-ad41-4513-ac17-49d2e3914aaa",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "24d70150-ad41-4513-ac17-49d2e3914aaa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracedodgeville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391214330"
+    }
+  ],
+  "advisories": []
+}

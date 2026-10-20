@@ -1,0 +1,33 @@
+{
+  "id": "rf8gz1c71",
+  "url": "https://constellation.church/rf8gz1c71",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "1911 Zion Church Rd",
+    "city": "Hickory",
+    "state": "NC",
+    "zip": "28602-7118"
+  },
+  "coordinates": {
+    "latitude": 35.669212341308594,
+    "longitude": -81.33707809448242
+  },
+  "website": "https://zionhickory.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6806fc0c-2820-45d7-a0c1-b90167f4e50f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6806fc0c-2820-45d7-a0c1-b90167f4e50f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionhickory.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "566133085"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "q8qxfyv32",
+  "url": "https://constellation.church/q8qxfyv32",
+  "name": "St. George's Anglican Church",
+  "displayName": "St. George's Anglican Church",
+  "address": {
+    "street": "56 Main Street",
+    "city": "Helmetta",
+    "state": "NJ",
+    "zip": "08828"
+  },
+  "coordinates": {
+    "latitude": 40.37749481201172,
+    "longitude": -74.42062759399414
+  },
+  "website": "https://helmettachurch.com",
+  "listingUrl": "https://www.acna.org/admin_units/347",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "347"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "helmettachurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "264006957"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vq4h19584",
+  "url": "https://constellation.church/vq4h19584",
+  "name": "West Hampton Baptist Church",
+  "displayName": "West Hampton Baptist Church",
+  "address": {
+    "street": "631 Aberdeen Rd",
+    "city": "Hampton",
+    "state": "VA",
+    "zip": "23661"
+  },
+  "coordinates": {
+    "latitude": 37.01462364196777,
+    "longitude": -76.4043083190918
+  },
+  "website": "https://whbcnow.org",
+  "listingUrl": "https://churches.sbc.net/church/west-hampton-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "west-hampton-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "whbcnow.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540616849"
+    }
+  ],
+  "advisories": []
+}

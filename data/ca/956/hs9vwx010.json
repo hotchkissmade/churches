@@ -1,0 +1,33 @@
+{
+  "id": "hs9vwx010",
+  "url": "https://constellation.church/hs9vwx010",
+  "name": "Lutheran Church Of The Ascension",
+  "displayName": "Lutheran Church Of The Ascension",
+  "address": {
+    "street": "7607 Garden Gate Dr",
+    "city": "Citrus Heights",
+    "state": "CA",
+    "zip": "95621-1911"
+  },
+  "coordinates": {
+    "latitude": 38.70399856567383,
+    "longitude": -121.30607604980469
+  },
+  "website": "https://luthchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2e3eaf29-ed08-4952-b7d3-7c88ab34b0f8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2e3eaf29-ed08-4952-b7d3-7c88ab34b0f8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "luthchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942844484"
+    }
+  ],
+  "advisories": []
+}

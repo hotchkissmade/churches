@@ -1,0 +1,33 @@
+{
+  "id": "j5rb26m70",
+  "url": "https://constellation.church/j5rb26m70",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "1420 S 6th St",
+    "city": "Brainerd",
+    "state": "MN",
+    "zip": "56401-4348"
+  },
+  "coordinates": {
+    "latitude": 46.34369087219238,
+    "longitude": -94.20252227783203
+  },
+  "website": "https://trinitybrainerd.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=96ff2f80-94e4-4624-8156-dea10d7cc2dd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "96ff2f80-94e4-4624-8156-dea10d7cc2dd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitybrainerd.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410764092"
+    }
+  ],
+  "advisories": []
+}

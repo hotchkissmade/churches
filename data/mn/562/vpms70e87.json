@@ -1,0 +1,33 @@
+{
+  "id": "vpms70e87",
+  "url": "https://constellation.church/vpms70e87",
+  "name": "Granite Falls Lutheran Church",
+  "displayName": "Granite Falls Lutheran Church",
+  "address": {
+    "street": "350 9th Ave",
+    "city": "Granite Falls",
+    "state": "MN",
+    "zip": "56241-1441"
+  },
+  "coordinates": {
+    "latitude": 44.81025314331055,
+    "longitude": -95.54349517822266
+  },
+  "website": "https://granitefallslutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2aa88542-6f84-45b6-8f71-5fc2b840a9de",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2aa88542-6f84-45b6-8f71-5fc2b840a9de"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "granitefallslutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410726151"
+    }
+  ],
+  "advisories": []
+}

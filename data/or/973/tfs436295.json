@@ -1,0 +1,33 @@
+{
+  "id": "tfs436295",
+  "url": "https://constellation.church/tfs436295",
+  "name": "Hope Church",
+  "displayName": "Hope Church",
+  "address": {
+    "street": "2817 Santiam Hwy SE",
+    "city": "Albany",
+    "state": "OR",
+    "zip": "97322"
+  },
+  "coordinates": {
+    "latitude": 44.63198471069336,
+    "longitude": -123.07147979736328
+  },
+  "website": "https://hope.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=2ec98500-a962-408b-8b6c-2da68eff8e0c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "2ec98500-a962-408b-8b6c-2da68eff8e0c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hope.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930512020"
+    }
+  ],
+  "advisories": []
+}

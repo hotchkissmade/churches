@@ -1,0 +1,33 @@
+{
+  "id": "cmrs4vh52",
+  "url": "https://constellation.church/cmrs4vh52",
+  "name": "First Metropolitan Baptist Church",
+  "displayName": "First Metropolitan Baptist Church",
+  "address": {
+    "street": "8870 W Sam Houston Pkwy N",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77040"
+  },
+  "coordinates": {
+    "latitude": 29.900178909301758,
+    "longitude": -95.54840087890625
+  },
+  "website": "https://myfirstmet.com",
+  "listingUrl": "https://churches.sbc.net/church/first-metropolitan-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-metropolitan-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "myfirstmet.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760249010"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nzn6an626",
+  "url": "https://constellation.church/nzn6an626",
+  "name": "St. Nicholas Mission",
+  "displayName": "St. Nicholas Mission",
+  "address": {
+    "street": "735 Southern Ave",
+    "city": "Fayetteville",
+    "state": "NC",
+    "zip": "28306"
+  },
+  "coordinates": {
+    "latitude": 35.03946495056152,
+    "longitude": -78.88579940795898
+  },
+  "website": "https://stnicholasnc.com",
+  "listingUrl": "https://www.oca.org/parishes/oca-so-faysnm",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-so-faysnm"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stnicholasnc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561861211"
+    }
+  ],
+  "advisories": []
+}

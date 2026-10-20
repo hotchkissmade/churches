@@ -1,0 +1,33 @@
+{
+  "id": "d07wggw59",
+  "url": "https://constellation.church/d07wggw59",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "1393 Elizabeth St",
+    "city": "Crete",
+    "state": "IL",
+    "zip": "60417-2931"
+  },
+  "coordinates": {
+    "latitude": 41.44289207458496,
+    "longitude": -87.62825775146484
+  },
+  "website": "https://trinitycrete.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24763",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24763"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitycrete.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366004046"
+    }
+  ],
+  "advisories": []
+}

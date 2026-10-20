@@ -1,0 +1,33 @@
+{
+  "id": "kbkx9r207",
+  "url": "https://constellation.church/kbkx9r207",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "346 Shrewsbury St",
+    "city": "Holden",
+    "state": "MA",
+    "zip": "01520-2117"
+  },
+  "coordinates": {
+    "latitude": 42.334293365478516,
+    "longitude": -71.81919479370117
+  },
+  "website": "https://immanuelholden.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c6a4f192-2b5b-4f4b-969f-59e9b4eb441b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c6a4f192-2b5b-4f4b-969f-59e9b4eb441b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "immanuelholden.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "043038724"
+    }
+  ],
+  "advisories": []
+}

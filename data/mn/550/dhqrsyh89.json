@@ -1,0 +1,33 @@
+{
+  "id": "dhqrsyh89",
+  "url": "https://constellation.church/dhqrsyh89",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "500 3rd St W",
+    "city": "Northfield",
+    "state": "MN",
+    "zip": "55057-1717"
+  },
+  "coordinates": {
+    "latitude": 44.45785331726074,
+    "longitude": -93.167236328125
+  },
+  "website": "https://stjohnsnorthfield.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2e57b69a-5aa1-4232-8331-f6d021fcfa6a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2e57b69a-5aa1-4232-8331-f6d021fcfa6a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsnorthfield.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410713879"
+    }
+  ],
+  "advisories": []
+}

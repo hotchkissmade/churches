@@ -1,0 +1,33 @@
+{
+  "id": "sd1av6r88",
+  "url": "https://constellation.church/sd1av6r88",
+  "name": "Santa Fe Episcopal Church",
+  "displayName": "Santa Fe Episcopal Church",
+  "address": {
+    "street": "1108 Brunswick Blvd",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78211-1502"
+  },
+  "coordinates": {
+    "latitude": 29.371225357055664,
+    "longitude": -98.52310943603516
+  },
+  "website": "https://santafechurchsa.wixsite.com/sfec",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-texas/list/sante-fe-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-texas/sante-fe-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "santafechurchsa.wixsite.com/sfec"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741279152"
+    }
+  ],
+  "advisories": []
+}

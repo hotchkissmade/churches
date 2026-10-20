@@ -1,0 +1,33 @@
+{
+  "id": "k19thn127",
+  "url": "https://constellation.church/k19thn127",
+  "name": "Main Street",
+  "displayName": "Main Street",
+  "address": {
+    "street": "1615 N Main St",
+    "city": "China Grove",
+    "state": "NC",
+    "zip": "28023"
+  },
+  "coordinates": {
+    "latitude": 35.58271598815918,
+    "longitude": -80.55993270874023
+  },
+  "website": "https://gcfamily.church",
+  "listingUrl": "https://churches.sbc.net/church/main-street/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "main-street"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gcfamily.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561821137"
+    }
+  ],
+  "advisories": []
+}

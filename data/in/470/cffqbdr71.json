@@ -1,0 +1,33 @@
+{
+  "id": "cffqbdr71",
+  "url": "https://constellation.church/cffqbdr71",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "10629 State Road 48",
+    "city": "Sunman",
+    "state": "IN",
+    "zip": "47041-8789"
+  },
+  "coordinates": {
+    "latitude": 39.154781341552734,
+    "longitude": -85.01603698730469
+  },
+  "website": "https://zionmanchester.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5665f4a4-cfd2-4ced-9887-6655eb93f6c2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5665f4a4-cfd2-4ced-9887-6655eb93f6c2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionmanchester.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351617467"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "f6hpjgv42",
+  "url": "https://constellation.church/f6hpjgv42",
+  "name": "St. Paul's Episcopal Church",
+  "displayName": "St. Paul's Episcopal Church",
+  "address": {
+    "street": "261 S 900 E",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84102-2308"
+  },
+  "coordinates": {
+    "latitude": 40.763221740722656,
+    "longitude": -111.86479187011719
+  },
+  "website": "https://stpauls-slc.org/preschool",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-utah/list/st-pauls-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-utah/st-pauls-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpauls-slc.org/preschool"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "870212463"
+    }
+  ],
+  "advisories": []
+}

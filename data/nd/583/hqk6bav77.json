@@ -1,0 +1,33 @@
+{
+  "id": "hqk6bav77",
+  "url": "https://constellation.church/hqk6bav77",
+  "name": "St Olaf Lutheran Church",
+  "displayName": "St. Olaf Lutheran Church",
+  "address": {
+    "street": "601 6th St NE",
+    "city": "Devils Lake",
+    "state": "ND",
+    "zip": "58301-2525"
+  },
+  "coordinates": {
+    "latitude": 48.1142463684082,
+    "longitude": -98.85694122314453
+  },
+  "website": "https://stolafchurchdevilslake.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b731f14f-8b1c-4a15-ac5f-78c04c07fe35",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b731f14f-8b1c-4a15-ac5f-78c04c07fe35"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stolafchurchdevilslake.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450240919"
+    }
+  ],
+  "advisories": []
+}

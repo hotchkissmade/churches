@@ -1,0 +1,33 @@
+{
+  "id": "sv763by37",
+  "url": "https://constellation.church/sv763by37",
+  "name": "Metro East Baptist Church",
+  "displayName": "Metro East Baptist Church",
+  "address": {
+    "street": "333 N 143rd St E",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67230"
+  },
+  "coordinates": {
+    "latitude": 37.689083099365234,
+    "longitude": -97.17247009277344
+  },
+  "website": "https://metroeastbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/metro-east-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "metro-east-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "metroeastbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "481217827"
+    }
+  ],
+  "advisories": []
+}

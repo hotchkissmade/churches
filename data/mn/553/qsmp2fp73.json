@@ -1,0 +1,33 @@
+{
+  "id": "qsmp2fp73",
+  "url": "https://constellation.church/qsmp2fp73",
+  "name": "Ridgewood Church",
+  "displayName": "Ridgewood Church",
+  "address": {
+    "street": "4420 County Rd 101",
+    "city": "Minnetonka",
+    "state": "MN",
+    "zip": "55345"
+  },
+  "coordinates": {
+    "latitude": 44.92303466796875,
+    "longitude": -93.50469207763672
+  },
+  "website": "https://myrwc.org",
+  "listingUrl": "https://converge.org/church/ridgewood-church/",
+  "identifiers": [
+    {
+      "namespace": "org.converge.id",
+      "value": "38651"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "myrwc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416024202"
+    }
+  ],
+  "advisories": []
+}

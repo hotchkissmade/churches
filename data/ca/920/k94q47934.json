@@ -1,0 +1,33 @@
+{
+  "id": "k94q47934",
+  "url": "https://constellation.church/k94q47934",
+  "name": "San Marcos Lutheran Church",
+  "displayName": "San Marcos Lutheran Church",
+  "address": {
+    "street": "3419 Grand Ave",
+    "city": "San Marcos",
+    "state": "CA",
+    "zip": "92078-2330"
+  },
+  "coordinates": {
+    "latitude": 33.14752388000488,
+    "longitude": -117.2066879272461
+  },
+  "website": "https://sanmarcoslutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5000edc3-c906-4af2-bba0-faeb507b6658",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5000edc3-c906-4af2-bba0-faeb507b6658"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sanmarcoslutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237381682"
+    }
+  ],
+  "advisories": []
+}

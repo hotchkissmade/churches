@@ -1,0 +1,33 @@
+{
+  "id": "mrm8m3q72",
+  "url": "https://constellation.church/mrm8m3q72",
+  "name": "St. Demetrius Church",
+  "displayName": "St. Demetrius Church",
+  "address": {
+    "street": "3043 Seymour Rd",
+    "city": "Jackson",
+    "state": "MI",
+    "zip": "49204"
+  },
+  "coordinates": {
+    "latitude": 42.28365707397461,
+    "longitude": -84.36758804321289
+  },
+  "website": "https://stdemetrius.com",
+  "listingUrl": "https://www.oca.org/parishes/oca-mw-jacsdc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-mw-jacsdc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stdemetrius.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382130036"
+    }
+  ],
+  "advisories": []
+}

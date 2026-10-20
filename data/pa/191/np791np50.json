@@ -1,0 +1,33 @@
+{
+  "id": "np791np50",
+  "url": "https://constellation.church/np791np50",
+  "name": "House of Prayer",
+  "displayName": "House of Prayer",
+  "address": {
+    "street": "1747 Church Ln",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19141-1309"
+  },
+  "coordinates": {
+    "latitude": 40.04642105102539,
+    "longitude": -75.14969253540039
+  },
+  "website": "https://houseofprayerepiscopal.weebly.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/house-prayer",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/house-prayer"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "houseofprayerepiscopal.weebly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231672743"
+    }
+  ],
+  "advisories": []
+}

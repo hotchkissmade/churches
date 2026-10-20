@@ -1,0 +1,33 @@
+{
+  "id": "qab36gd51",
+  "url": "https://constellation.church/qab36gd51",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "1801 Grand Central Ave",
+    "city": "Lavallette",
+    "state": "NJ",
+    "zip": "08735-2515"
+  },
+  "coordinates": {
+    "latitude": 39.965049779598,
+    "longitude": -74.069727482606
+  },
+  "website": "https://faithlavallette.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cf5f6a54-2cad-462c-acef-7eb82ecddaf2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cf5f6a54-2cad-462c-acef-7eb82ecddaf2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithlavallette.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "223218611"
+    }
+  ],
+  "advisories": []
+}

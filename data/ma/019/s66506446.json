@@ -1,0 +1,29 @@
+{
+  "id": "s66506446",
+  "url": "https://constellation.church/s66506446",
+  "name": "NORTH POINT EPC",
+  "displayName": "North Point EPC",
+  "address": {
+    "street": "41 CENTRE ST",
+    "city": "Danvers",
+    "state": "MA",
+    "zip": "01923"
+  },
+  "coordinates": {
+    "latitude": 42.56470489501953,
+    "longitude": -70.96043014526367
+  },
+  "website": "https://northpointepc.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "271785802"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northpointepc.org"
+    }
+  ],
+  "advisories": []
+}

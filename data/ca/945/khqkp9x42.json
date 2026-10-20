@@ -1,0 +1,33 @@
+{
+  "id": "khqkp9x42",
+  "url": "https://constellation.church/khqkp9x42",
+  "name": "Our Saviors Lutheran Church",
+  "displayName": "Our Saviors Lutheran Church",
+  "address": {
+    "street": "1035 Carol Ln",
+    "city": "Lafayette",
+    "state": "CA",
+    "zip": "94549-4716"
+  },
+  "coordinates": {
+    "latitude": 37.89295959472656,
+    "longitude": -122.10322570800781
+  },
+  "website": "https://oslc.net/ways-to-support-us",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a0963918-ad5e-49c7-8f8a-8f17a1529107",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a0963918-ad5e-49c7-8f8a-8f17a1529107"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oslc.net/ways-to-support-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "680386464"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "s947yxr64",
+  "url": "https://constellation.church/s947yxr64",
+  "name": "Galilean Lutheran Church",
+  "displayName": "Galilean Lutheran Church",
+  "address": {
+    "street": "3321 Cimarron Blvd",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78414-3660"
+  },
+  "coordinates": {
+    "latitude": 27.673416137695312,
+    "longitude": -97.37332153320312
+  },
+  "website": "https://galileanlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b4f09e63-c394-43cf-be09-a5bbe6ca991d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b4f09e63-c394-43cf-be09-a5bbe6ca991d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "galileanlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742335921"
+    }
+  ],
+  "advisories": []
+}

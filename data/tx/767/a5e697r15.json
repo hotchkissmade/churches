@@ -1,0 +1,33 @@
+{
+  "id": "a5e697r15",
+  "url": "https://constellation.church/a5e697r15",
+  "name": "Meadowbrook Baptist Church",
+  "displayName": "Meadowbrook Baptist Church",
+  "address": {
+    "street": "1207 N Old Robinson Rd",
+    "city": "Waco",
+    "state": "TX",
+    "zip": "76706"
+  },
+  "coordinates": {
+    "latitude": 31.501750946044922,
+    "longitude": -97.13300323486328
+  },
+  "website": "https://meadowbrookbc.org",
+  "listingUrl": "https://churches.sbc.net/church/meadowbrook-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "meadowbrook-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "meadowbrookbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741537338"
+    }
+  ],
+  "advisories": []
+}

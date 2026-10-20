@@ -1,0 +1,33 @@
+{
+  "id": "hkbhfe713",
+  "url": "https://constellation.church/hkbhfe713",
+  "name": "Central Baptist Church",
+  "displayName": "Central Baptist Church",
+  "address": {
+    "street": "904 Wheat Rd",
+    "city": "Winfield",
+    "state": "KS",
+    "zip": "67156"
+  },
+  "coordinates": {
+    "latitude": 37.24066352844238,
+    "longitude": -96.97080993652344
+  },
+  "website": "https://cbcwinfield.com",
+  "listingUrl": "https://churches.sbc.net/church/central-baptist-church-67/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "central-baptist-church-67"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cbcwinfield.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480963233"
+    }
+  ],
+  "advisories": []
+}

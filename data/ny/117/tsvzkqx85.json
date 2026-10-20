@@ -1,0 +1,33 @@
+{
+  "id": "tsvzkqx85",
+  "url": "https://constellation.church/tsvzkqx85",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "211 Bay Shore Rd",
+    "city": "Bay Shore",
+    "state": "NY",
+    "zip": "11706"
+  },
+  "coordinates": {
+    "latitude": 40.73569107055664,
+    "longitude": -73.28097915649414
+  },
+  "website": "https://bayshoreag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d4eddc7b-842a-4ba7-a20b-300aa0dc90d3&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d4eddc7b-842a-4ba7-a20b-300aa0dc90d3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bayshoreag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112386448"
+    }
+  ],
+  "advisories": []
+}

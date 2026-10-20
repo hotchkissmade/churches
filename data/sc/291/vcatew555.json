@@ -1,0 +1,33 @@
+{
+  "id": "vcatew555",
+  "url": "https://constellation.church/vcatew555",
+  "name": "Grace Baptist Church",
+  "displayName": "Grace Baptist Church",
+  "address": {
+    "street": "219 W Calhoun St",
+    "city": "Sumter",
+    "state": "SC",
+    "zip": "29150"
+  },
+  "coordinates": {
+    "latitude": 33.924795150756836,
+    "longitude": -80.34819030761719
+  },
+  "website": "https://gracebaptistsumter.org",
+  "listingUrl": "https://churches.sbc.net/church/grace-baptist-church-22/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grace-baptist-church-22"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracebaptistsumter.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570373040"
+    }
+  ],
+  "advisories": []
+}

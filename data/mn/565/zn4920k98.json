@@ -1,0 +1,33 @@
+{
+  "id": "zn4920k98",
+  "url": "https://constellation.church/zn4920k98",
+  "name": "Halstad Lutheran Church",
+  "displayName": "Halstad Lutheran Church",
+  "address": {
+    "street": "304 5th St E",
+    "city": "Halstad",
+    "state": "MN",
+    "zip": "56548-4148"
+  },
+  "coordinates": {
+    "latitude": 47.34992599487305,
+    "longitude": -96.82171630859375
+  },
+  "website": "https://halstadlutheranparish.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6c5ead32-dd4c-4c9c-8ae1-b88b040f2033",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6c5ead32-dd4c-4c9c-8ae1-b88b040f2033"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "halstadlutheranparish.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410843661"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kt7c9m852",
+  "url": "https://constellation.church/kt7c9m852",
+  "name": "Covenant Lutheran Church",
+  "displayName": "Covenant Lutheran Church",
+  "address": {
+    "street": "103 S Church St",
+    "city": "Saint Paris",
+    "state": "OH",
+    "zip": "43072-7709"
+  },
+  "coordinates": {
+    "latitude": 40.12859535217285,
+    "longitude": -83.96080017089844
+  },
+  "website": "https://covenant-lutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4559185c-8b37-4fea-90ba-3577d2e4ccfb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4559185c-8b37-4fea-90ba-3577d2e4ccfb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covenant-lutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341314595"
+    }
+  ],
+  "advisories": []
+}

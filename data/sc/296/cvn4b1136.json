@@ -1,0 +1,33 @@
+{
+  "id": "cvn4b1136",
+  "url": "https://constellation.church/cvn4b1136",
+  "name": "Parisview Baptist Church",
+  "displayName": "Parisview Baptist Church",
+  "address": {
+    "street": "100 Bud St",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29617"
+  },
+  "coordinates": {
+    "latitude": 34.88594627380371,
+    "longitude": -82.43103408813477
+  },
+  "website": "https://parisviewchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/parisview-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "parisview-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parisviewchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570757312"
+    }
+  ],
+  "advisories": []
+}

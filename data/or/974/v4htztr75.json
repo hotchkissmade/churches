@@ -1,0 +1,33 @@
+{
+  "id": "v4htztr75",
+  "url": "https://constellation.church/v4htztr75",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "230 N 8th St",
+    "city": "Lakeside",
+    "state": "OR",
+    "zip": "97449"
+  },
+  "coordinates": {
+    "latitude": 43.57848358154297,
+    "longitude": -124.17576599121094
+  },
+  "website": "https://lakesideag.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=2d67f762-63c2-49c1-8b16-4deb847bfc0f&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "2d67f762-63c2-49c1-8b16-4deb847bfc0f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lakesideag.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900586475"
+    }
+  ],
+  "advisories": []
+}

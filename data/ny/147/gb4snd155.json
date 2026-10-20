@@ -1,0 +1,33 @@
+{
+  "id": "gb4snd155",
+  "url": "https://constellation.church/gb4snd155",
+  "name": "St. Elia Church",
+  "displayName": "St. Elia Church",
+  "address": {
+    "street": "103 Palmer St",
+    "city": "Jamestown",
+    "state": "NY",
+    "zip": "14702"
+  },
+  "coordinates": {
+    "latitude": 42.09006690979004,
+    "longitude": -79.25046157836914
+  },
+  "website": "https://stelia.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-al-jamsec",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-al-jamsec"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stelia.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900735558"
+    }
+  ],
+  "advisories": []
+}

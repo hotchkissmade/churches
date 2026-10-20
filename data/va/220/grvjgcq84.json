@@ -1,0 +1,33 @@
+{
+  "id": "grvjgcq84",
+  "url": "https://constellation.church/grvjgcq84",
+  "name": "Restoration City Church",
+  "displayName": "Restoration City Church",
+  "address": {
+    "street": "4404 Airlie Way",
+    "city": "Annandale",
+    "state": "VA",
+    "zip": "22003"
+  },
+  "coordinates": {
+    "latitude": 38.84811210632324,
+    "longitude": -77.06951141357422
+  },
+  "website": "https://restorationcity.church",
+  "listingUrl": "https://churches.sbc.net/church/restoration-city-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "restoration-city-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "restorationcity.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "464994321"
+    }
+  ],
+  "advisories": []
+}

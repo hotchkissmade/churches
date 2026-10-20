@@ -1,0 +1,33 @@
+{
+  "id": "bdnnc7525",
+  "url": "https://constellation.church/bdnnc7525",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "300 Main St W",
+    "city": "Eagle Bend",
+    "state": "MN",
+    "zip": "56446-9577"
+  },
+  "coordinates": {
+    "latitude": 46.16468620300293,
+    "longitude": -95.04009246826172
+  },
+  "website": "https://eaglebendmn.com/places-of-worship",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c5489ffb-bdfb-4a33-a461-9900e68c3c7b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c5489ffb-bdfb-4a33-a461-9900e68c3c7b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eaglebendmn.com/places-of-worship"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411347251"
+    }
+  ],
+  "advisories": []
+}

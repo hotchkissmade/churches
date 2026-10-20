@@ -1,0 +1,37 @@
+{
+  "id": "t6zgrg008",
+  "url": "https://constellation.church/t6zgrg008",
+  "name": "First Presbyterian Church of Belvidere",
+  "displayName": "First Presbyterian Church of Belvidere",
+  "address": {
+    "street": "221 N Main St",
+    "city": "Belvidere",
+    "state": "IL",
+    "zip": "61008"
+  },
+  "coordinates": {
+    "latitude": 42.26179885864258,
+    "longitude": -88.84227752685547
+  },
+  "website": "https://ourfamilyoffaith.org",
+  "listingUrl": "https://eco-pres.org/churches/first-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "first-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ourfamilyoffaith.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362276980"
+    },
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "1740"
+    }
+  ],
+  "advisories": []
+}

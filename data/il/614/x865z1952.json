@@ -1,0 +1,33 @@
+{
+  "id": "x865z1952",
+  "url": "https://constellation.church/x865z1952",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "108 S Timber St",
+    "city": "Knoxville",
+    "state": "IL",
+    "zip": "61448-1372"
+  },
+  "coordinates": {
+    "latitude": 40.907073974609375,
+    "longitude": -90.28366088867188
+  },
+  "website": "https://graceknoxville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b34511ff-ee49-4a2f-92ed-2647b073ca2f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b34511ff-ee49-4a2f-92ed-2647b073ca2f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceknoxville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "376032799"
+    }
+  ],
+  "advisories": []
+}

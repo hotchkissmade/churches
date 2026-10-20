@@ -1,0 +1,33 @@
+{
+  "id": "dbc6d4s09",
+  "url": "https://constellation.church/dbc6d4s09",
+  "name": "Church of the Redeemer, United Methodist Church",
+  "displayName": "Church of the Redeemer, United Methodist Church",
+  "address": {
+    "street": "2420 South Taylor Road",
+    "city": "Cleveland Heights",
+    "state": "OH",
+    "zip": "44118-3424"
+  },
+  "coordinates": {
+    "latitude": 41.49382019042969,
+    "longitude": -81.55636215209961
+  },
+  "website": "https://cleredeemer.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFFQLIA5",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFFQLIA5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cleredeemer.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340789737"
+    }
+  ],
+  "advisories": []
+}

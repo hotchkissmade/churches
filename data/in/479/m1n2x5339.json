@@ -1,0 +1,33 @@
+{
+  "id": "m1n2x5339",
+  "url": "https://constellation.church/m1n2x5339",
+  "name": "Connection Point Church",
+  "displayName": "Connection Point Church",
+  "address": {
+    "street": "2541 Cumberland Ave",
+    "city": "West Lafayette",
+    "state": "IN",
+    "zip": "47906"
+  },
+  "coordinates": {
+    "latitude": 40.45572280883789,
+    "longitude": -86.94789123535156
+  },
+  "website": "https://connectionpointchurch.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=9ee43297-ec0c-4d6c-8733-c1aeabc24ff7&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "9ee43297-ec0c-4d6c-8733-c1aeabc24ff7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "connectionpointchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351819460"
+    }
+  ],
+  "advisories": []
+}

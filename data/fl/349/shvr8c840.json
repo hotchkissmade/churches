@@ -1,0 +1,33 @@
+{
+  "id": "shvr8c840",
+  "url": "https://constellation.church/shvr8c840",
+  "name": "Church of the Advent",
+  "displayName": "Church of the Advent",
+  "address": {
+    "street": "4484 SW Citrus Blvd",
+    "city": "Palm City",
+    "state": "FL",
+    "zip": "34990"
+  },
+  "coordinates": {
+    "latitude": 27.151100158691406,
+    "longitude": -80.32016372680664
+  },
+  "website": "https://adventpalmcity.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-southeast-florida/list/church-advent",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-southeast-florida/church-advent"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "adventpalmcity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "650008233"
+    }
+  ],
+  "advisories": []
+}

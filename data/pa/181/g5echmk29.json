@@ -1,0 +1,33 @@
+{
+  "id": "g5echmk29",
+  "url": "https://constellation.church/g5echmk29",
+  "name": "Faith Church",
+  "displayName": "Faith Church",
+  "address": {
+    "street": "6528 Hamilton Blvd",
+    "city": "Allentown",
+    "state": "PA",
+    "zip": "18106-9184"
+  },
+  "coordinates": {
+    "latitude": 40.553361892700195,
+    "longitude": -75.5836296081543
+  },
+  "website": "https://faithchurchpa.com",
+  "listingUrl": "https://churches.efca.org/?id=12632",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12632"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithchurchpa.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236408347"
+    }
+  ],
+  "advisories": []
+}

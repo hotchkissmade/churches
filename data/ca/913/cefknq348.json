@@ -1,0 +1,33 @@
+{
+  "id": "cefknq348",
+  "url": "https://constellation.church/cefknq348",
+  "name": "Holy Trinity Lutheran Church",
+  "displayName": "Holy Trinity Lutheran Church",
+  "address": {
+    "street": "1 W Avenida De Los Arboles",
+    "city": "Thousand Oaks",
+    "state": "CA",
+    "zip": "91360-2939"
+  },
+  "coordinates": {
+    "latitude": 34.21953010559082,
+    "longitude": -118.87631225585938
+  },
+  "website": "https://htlcto.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3b4e0a17-fef1-43cd-89da-fce1e01f5bb9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3b4e0a17-fef1-43cd-89da-fce1e01f5bb9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "htlcto.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952407024"
+    }
+  ],
+  "advisories": []
+}

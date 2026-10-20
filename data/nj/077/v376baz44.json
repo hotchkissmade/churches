@@ -1,0 +1,33 @@
+{
+  "id": "v376baz44",
+  "url": "https://constellation.church/v376baz44",
+  "name": "House Of Glory",
+  "displayName": "RCCG House Of Glory",
+  "address": {
+    "street": "40 Broad Street",
+    "city": "Freehold",
+    "state": "NJ",
+    "zip": "07728"
+  },
+  "coordinates": {
+    "latitude": 40.258975982666016,
+    "longitude": -74.27388381958008
+  },
+  "website": "https://rccgfreehold.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=383&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "383"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rccgfreehold.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "113708455"
+    }
+  ],
+  "advisories": []
+}

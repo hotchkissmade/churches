@@ -1,0 +1,33 @@
+{
+  "id": "brscdbn06",
+  "url": "https://constellation.church/brscdbn06",
+  "name": "Malmo EFC",
+  "displayName": "Malmo Evangelical Free Church",
+  "address": {
+    "street": "21927 322nd Ave",
+    "city": "Malmo",
+    "state": "MN",
+    "zip": "56342-4759"
+  },
+  "coordinates": {
+    "latitude": 46.33302307128906,
+    "longitude": -93.51995468139648
+  },
+  "website": "https://millelacs.com/locations/community-resources/malmo-evangelical-free",
+  "listingUrl": "https://churches.efca.org/?id=12150",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12150"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "millelacs.com/locations/community-resources/malmo-evangelical-free"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411313529"
+    }
+  ],
+  "advisories": []
+}

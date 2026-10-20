@@ -1,0 +1,33 @@
+{
+  "id": "t46fmp270",
+  "url": "https://constellation.church/t46fmp270",
+  "name": "Grace Baptist Church",
+  "displayName": "Grace Baptist Church",
+  "address": {
+    "street": "321 Potomac Ave.",
+    "city": "Shenandoah Junction",
+    "state": "WV",
+    "zip": "25442"
+  },
+  "coordinates": {
+    "latitude": 39.35877799987793,
+    "longitude": -77.84102630615234
+  },
+  "website": "https://gracebaptistchurchwv.org",
+  "listingUrl": "https://churches.sbc.net/church/grace-baptist-church-81/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grace-baptist-church-81"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracebaptistchurchwv.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "550571940"
+    }
+  ],
+  "advisories": []
+}

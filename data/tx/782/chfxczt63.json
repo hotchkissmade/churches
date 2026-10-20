@@ -1,0 +1,37 @@
+{
+  "id": "chfxczt63",
+  "url": "https://constellation.church/chfxczt63",
+  "name": "Church of Reconciliation",
+  "displayName": "Church of Reconciliation",
+  "address": {
+    "street": "8900 Starcrest Dr",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78217-4700"
+  },
+  "coordinates": {
+    "latitude": 29.522340774536133,
+    "longitude": -98.42156982421875
+  },
+  "website": "https://cor-satx.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-texas/list/church-reconciliation-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-texas/church-reconciliation-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cor-satx.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741669988"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742601493"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mvs44ec92",
+  "url": "https://constellation.church/mvs44ec92",
+  "name": "Peace Lutheran Church",
+  "displayName": "Peace Lutheran Church",
+  "address": {
+    "street": "8316 39th Ave SW",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98136-2351"
+  },
+  "coordinates": {
+    "latitude": 47.528608322143555,
+    "longitude": -122.38182830810547
+  },
+  "website": "https://peacelutheranseattle.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0b7fd1cb-9bd4-4083-bf13-a86cc7cb3a11",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0b7fd1cb-9bd4-4083-bf13-a86cc7cb3a11"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "peacelutheranseattle.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "916052141"
+    }
+  ],
+  "advisories": []
+}

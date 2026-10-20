@@ -1,0 +1,33 @@
+{
+  "id": "fj4k1ve80",
+  "url": "https://constellation.church/fj4k1ve80",
+  "name": "Trinity Presbyterian Church",
+  "displayName": "Trinity Presbyterian Church",
+  "address": {
+    "street": "3910 22nd Avenue",
+    "city": "Kearney",
+    "state": "NE",
+    "zip": "68845"
+  },
+  "coordinates": {
+    "latitude": 40.714420318603516,
+    "longitude": -99.11176300048828
+  },
+  "website": "https://tpckearney.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1019",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1019"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tpckearney.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470642056"
+    }
+  ],
+  "advisories": []
+}

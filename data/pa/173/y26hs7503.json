@@ -1,0 +1,33 @@
+{
+  "id": "y26hs7503",
+  "url": "https://constellation.church/y26hs7503",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "127 York St",
+    "city": "Hanover",
+    "state": "PA",
+    "zip": "17331-3127"
+  },
+  "coordinates": {
+    "latitude": 39.79970359802246,
+    "longitude": -76.97982406616211
+  },
+  "website": "https://stpaulsyorkst.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b80926c1-46f3-4378-ac94-6294cc4a2c0f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b80926c1-46f3-4378-ac94-6294cc4a2c0f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsyorkst.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231724655"
+    }
+  ],
+  "advisories": []
+}

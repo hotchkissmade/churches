@@ -1,0 +1,33 @@
+{
+  "id": "p9gz8zt54",
+  "url": "https://constellation.church/p9gz8zt54",
+  "name": "Grace Presbyterian Church",
+  "displayName": "Grace Presbyterian Church",
+  "address": {
+    "street": "4701 North 29th Street",
+    "city": "McAllen",
+    "state": "TX",
+    "zip": "78504"
+  },
+  "coordinates": {
+    "latitude": 26.249399185180664,
+    "longitude": -98.24644470214844
+  },
+  "website": "https://gracemcallen.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/775",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "775"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracemcallen.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742264993"
+    }
+  ],
+  "advisories": []
+}

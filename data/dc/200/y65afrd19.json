@@ -1,0 +1,33 @@
+{
+  "id": "y65afrd19",
+  "url": "https://constellation.church/y65afrd19",
+  "name": "St. Augustine's, DC",
+  "displayName": "St. Augustine's, DC",
+  "address": {
+    "street": "555 Water Street SW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20024-2441"
+  },
+  "coordinates": {
+    "latitude": 38.87631607055664,
+    "longitude": -77.02049255371094
+  },
+  "website": "https://staugustinesdc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/st-augustines-dc",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/st-augustines-dc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "staugustinesdc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520936952"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xkkx3g229",
+  "url": "https://constellation.church/xkkx3g229",
+  "name": "St. Patrick's Episcopal Church",
+  "displayName": "St. Patrick's Episcopal Church",
+  "address": {
+    "street": "7121 Muirfield Dr",
+    "city": "Dublin",
+    "state": "OH",
+    "zip": "43017-2863"
+  },
+  "coordinates": {
+    "latitude": 40.11376190185547,
+    "longitude": -83.1551284790039
+  },
+  "website": "https://pats-dublin.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-southern-ohio/list/st-patricks-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-southern-ohio/st-patricks-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pats-dublin.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311059358"
+    }
+  ],
+  "advisories": []
+}

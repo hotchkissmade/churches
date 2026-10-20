@@ -1,0 +1,33 @@
+{
+  "id": "h38b55018",
+  "url": "https://constellation.church/h38b55018",
+  "name": "Bethel Church",
+  "displayName": "Bethel Church",
+  "address": {
+    "street": "600 Shockley Rd",
+    "city": "Richland",
+    "state": "WA",
+    "zip": "99352"
+  },
+  "coordinates": {
+    "latitude": 46.24365997314453,
+    "longitude": -119.29761505126953
+  },
+  "website": "https://bethel.ch",
+  "listingUrl": "https://venturechurches.org/churches/bethel-church/",
+  "identifiers": [
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "bethel-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethel.ch"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911093595"
+    }
+  ],
+  "advisories": []
+}

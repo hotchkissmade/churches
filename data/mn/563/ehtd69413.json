@@ -1,0 +1,33 @@
+{
+  "id": "ehtd69413",
+  "url": "https://constellation.church/ehtd69413",
+  "name": "Bethany Lutheran Church",
+  "displayName": "Bethany Lutheran Church",
+  "address": {
+    "street": "500 Lindquist St W",
+    "city": "Onamia",
+    "state": "MN",
+    "zip": "56359-4015"
+  },
+  "coordinates": {
+    "latitude": 46.067026138305664,
+    "longitude": -93.66635131835938
+  },
+  "website": "https://onamiabethanylutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3d284c1a-f32d-4b87-b792-52fc96284fe8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3d284c1a-f32d-4b87-b792-52fc96284fe8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "onamiabethanylutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410916530"
+    }
+  ],
+  "advisories": []
+}

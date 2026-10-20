@@ -1,0 +1,33 @@
+{
+  "id": "z5z4z6a13",
+  "url": "https://constellation.church/z5z4z6a13",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "201 N Division Ave",
+    "city": "Polo",
+    "state": "IL",
+    "zip": "61064-1429"
+  },
+  "coordinates": {
+    "latitude": 41.98757362365723,
+    "longitude": -89.57903289794922
+  },
+  "website": "https://stmarkspolo.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9e03365d-d3e0-4b1e-8a49-07476e52805c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9e03365d-d3e0-4b1e-8a49-07476e52805c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkspolo.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363076790"
+    }
+  ],
+  "advisories": []
+}

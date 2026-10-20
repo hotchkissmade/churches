@@ -1,0 +1,33 @@
+{
+  "id": "apw5y1q92",
+  "url": "https://constellation.church/apw5y1q92",
+  "name": "St Martin Lutheran Church",
+  "displayName": "St. Martin Lutheran Church",
+  "address": {
+    "street": "813 Bay Rd",
+    "city": "Webster",
+    "state": "NY",
+    "zip": "14580-1645"
+  },
+  "coordinates": {
+    "latitude": 43.21982765197754,
+    "longitude": -77.51379776000977
+  },
+  "website": "https://stmartinwebster.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ca22b3aa-f245-4ea9-8c2b-66c606087d97",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ca22b3aa-f245-4ea9-8c2b-66c606087d97"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmartinwebster.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "160852595"
+    }
+  ],
+  "advisories": []
+}

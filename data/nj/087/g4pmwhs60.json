@@ -1,0 +1,33 @@
+{
+  "id": "g4pmwhs60",
+  "url": "https://constellation.church/g4pmwhs60",
+  "name": "Whiting United Methodist Church",
+  "displayName": "Whiting United Methodist Church",
+  "address": {
+    "street": "55 Lacey Rd",
+    "city": "Whiting",
+    "state": "NJ",
+    "zip": "08759-4439"
+  },
+  "coordinates": {
+    "latitude": 39.94291877746582,
+    "longitude": -74.35890197753906
+  },
+  "website": "https://whitingumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKqUIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKqUIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "whitingumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222673549"
+    }
+  ],
+  "advisories": []
+}

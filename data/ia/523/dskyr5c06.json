@@ -1,0 +1,37 @@
+{
+  "id": "dskyr5c06",
+  "url": "https://constellation.church/dskyr5c06",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "15531 County Road E17",
+    "city": "Monticello",
+    "state": "IA",
+    "zip": "52310-8091"
+  },
+  "coordinates": {
+    "latitude": 42.16446304321289,
+    "longitude": -91.18082427978516
+  },
+  "website": "https://waynezion.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cad37fbd-bd6b-4be5-80d0-ef1024c28f08",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cad37fbd-bd6b-4be5-80d0-ef1024c28f08"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "waynezion.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420816104"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421114913"
+    }
+  ],
+  "advisories": []
+}

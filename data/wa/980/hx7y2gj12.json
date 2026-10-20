@@ -1,0 +1,33 @@
+{
+  "id": "hx7y2gj12",
+  "url": "https://constellation.church/hx7y2gj12",
+  "name": "Sunset Community Church",
+  "displayName": "Sunset Community Church",
+  "address": {
+    "street": "1032 Edmonds Ave NE",
+    "city": "Renton",
+    "state": "WA",
+    "zip": "98056"
+  },
+  "coordinates": {
+    "latitude": 47.50006866455078,
+    "longitude": -122.18513488769531
+  },
+  "website": "https://sunsetcommunity.church",
+  "listingUrl": "https://churches.sbc.net/church/sunset-community-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sunset-community-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sunsetcommunity.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910890111"
+    }
+  ],
+  "advisories": []
+}

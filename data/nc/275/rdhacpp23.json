@@ -1,0 +1,33 @@
+{
+  "id": "rdhacpp23",
+  "url": "https://constellation.church/rdhacpp23",
+  "name": "Trinity Community Church",
+  "displayName": "Trinity Community Church",
+  "address": {
+    "street": "1650 Old Apex Rd",
+    "city": "Cary",
+    "state": "NC",
+    "zip": "27513-5719"
+  },
+  "coordinates": {
+    "latitude": 35.76190757751465,
+    "longitude": -78.82418441772461
+  },
+  "website": "https://trinitycary.com",
+  "listingUrl": "https://churches.efca.org/?id=158592",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "158592"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitycary.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "562133358"
+    }
+  ],
+  "advisories": []
+}

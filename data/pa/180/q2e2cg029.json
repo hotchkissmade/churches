@@ -1,0 +1,33 @@
+{
+  "id": "q2e2cg029",
+  "url": "https://constellation.church/q2e2cg029",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "1028 Church St",
+    "city": "Fogelsville",
+    "state": "PA",
+    "zip": "18051-1709"
+  },
+  "coordinates": {
+    "latitude": 40.58395767211914,
+    "longitude": -75.6343765258789
+  },
+  "website": "https://stjohns-fogelsville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e07992ed-0e80-43c9-b63a-ecf88c1910fb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e07992ed-0e80-43c9-b63a-ecf88c1910fb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohns-fogelsville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236285414"
+    }
+  ],
+  "advisories": []
+}

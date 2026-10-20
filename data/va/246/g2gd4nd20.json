@@ -1,0 +1,33 @@
+{
+  "id": "g2gd4nd20",
+  "url": "https://constellation.church/g2gd4nd20",
+  "name": "Raven Assembly of God",
+  "displayName": "Raven Assembly of God",
+  "address": {
+    "street": "814 Raven Rd",
+    "city": "Raven",
+    "state": "VA",
+    "zip": "24639"
+  },
+  "coordinates": {
+    "latitude": 37.088375091552734,
+    "longitude": -81.85107803344727
+  },
+  "website": "https://ravenag.org/newsite",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=90bd5c77-c4e1-45e6-a3b8-314c6d33469c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "90bd5c77-c4e1-45e6-a3b8-314c6d33469c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ravenag.org/newsite"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541122975"
+    }
+  ],
+  "advisories": []
+}

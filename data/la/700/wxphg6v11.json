@@ -1,0 +1,37 @@
+{
+  "id": "wxphg6v11",
+  "url": "https://constellation.church/wxphg6v11",
+  "name": "Grace Presbyterian Church",
+  "displayName": "Grace Presbyterian Church",
+  "address": {
+    "street": "6129 W. Esplanade Avenue",
+    "city": "Metairie",
+    "state": "LA",
+    "zip": "70003"
+  },
+  "coordinates": {
+    "latitude": 30.01832389831543,
+    "longitude": -90.2132339477539
+  },
+  "website": "https://gpcmet.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/540",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "540"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gpcmet.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720823968"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720907857"
+    }
+  ],
+  "advisories": []
+}

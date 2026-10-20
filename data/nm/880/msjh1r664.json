@@ -1,0 +1,33 @@
+{
+  "id": "msjh1r664",
+  "url": "https://constellation.church/msjh1r664",
+  "name": "First Baptist Church of Deming",
+  "displayName": "First Baptist Church of Deming",
+  "address": {
+    "street": "206 W Pine St",
+    "city": "Deming",
+    "state": "NM",
+    "zip": "88030"
+  },
+  "coordinates": {
+    "latitude": 32.26788139343262,
+    "longitude": -107.76066589355469
+  },
+  "website": "https://fbcdeming.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-deming/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-deming"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcdeming.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850212420"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "j2bsmta19",
+  "url": "https://constellation.church/j2bsmta19",
+  "name": "Lansdowne United Methodist Church",
+  "displayName": "Lansdowne United Methodist Church",
+  "address": {
+    "street": "114 Laverne Ave",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21227-3097"
+  },
+  "coordinates": {
+    "latitude": 39.24601173400879,
+    "longitude": -76.66316604614258
+  },
+  "website": "https://lansdowneumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PEyJdIAL",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PEyJdIAL"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lansdowneumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521317080"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dpbnv6070",
+  "url": "https://constellation.church/dpbnv6070",
+  "name": "First Baptist Church of Pleasant Hill",
+  "displayName": "First Baptist Church of Pleasant Hill",
+  "address": {
+    "street": "302 Parkview",
+    "city": "Pleasant Hill",
+    "state": "IL",
+    "zip": "62366"
+  },
+  "coordinates": {
+    "latitude": 39.4509299,
+    "longitude": -90.8681091
+  },
+  "website": "https://fbcphill.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-pleasant-hill/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-pleasant-hill"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcphill.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510153406"
+    }
+  ],
+  "advisories": []
+}

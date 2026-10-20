@@ -1,0 +1,33 @@
+{
+  "id": "nf89jsd80",
+  "url": "https://constellation.church/nf89jsd80",
+  "name": "Friedens Lutheran Church",
+  "displayName": "Friedens Lutheran Church",
+  "address": {
+    "street": "9727 Red Rd",
+    "city": "Kempton",
+    "state": "PA",
+    "zip": "19529-8797"
+  },
+  "coordinates": {
+    "latitude": 40.6207389831543,
+    "longitude": -75.8164176940918
+  },
+  "website": "https://friedens-lutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ff54803a-1a39-429e-95ee-855836cbfd7f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ff54803a-1a39-429e-95ee-855836cbfd7f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "friedens-lutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231646918"
+    }
+  ],
+  "advisories": []
+}

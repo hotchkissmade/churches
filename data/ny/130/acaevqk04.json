@@ -1,0 +1,33 @@
+{
+  "id": "acaevqk04",
+  "url": "https://constellation.church/acaevqk04",
+  "name": "Immanuel Evangelical Lutheran Church",
+  "displayName": "Immanuel Evangelical Lutheran Church",
+  "address": {
+    "street": "4947 State Route 31",
+    "city": "Clay",
+    "state": "NY",
+    "zip": "13041-8708"
+  },
+  "coordinates": {
+    "latitude": 43.18620681762695,
+    "longitude": -76.17341613769531
+  },
+  "website": "https://immanuelclay.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=485c3d1f-0a29-43ab-8116-ee75a774437f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "485c3d1f-0a29-43ab-8116-ee75a774437f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "immanuelclay.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237242440"
+    }
+  ],
+  "advisories": []
+}

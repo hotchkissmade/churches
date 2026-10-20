@@ -1,0 +1,33 @@
+{
+  "id": "gzgqreb15",
+  "url": "https://constellation.church/gzgqreb15",
+  "name": "Elkridge Baptist Church",
+  "displayName": "Elkridge Baptist Church",
+  "address": {
+    "street": "5929 Setter Dr",
+    "city": "Elkridge",
+    "state": "MD",
+    "zip": "21075"
+  },
+  "coordinates": {
+    "latitude": 39.208866119384766,
+    "longitude": -76.73897552490234
+  },
+  "website": "https://elkridgebaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/elkridge-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "elkridge-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elkridgebaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521205016"
+    }
+  ],
+  "advisories": []
+}

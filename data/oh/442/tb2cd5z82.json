@@ -1,0 +1,33 @@
+{
+  "id": "tb2cd5z82",
+  "url": "https://constellation.church/tb2cd5z82",
+  "name": "Cornerstone Church of Aurora",
+  "displayName": "Cornerstone Church of Aurora",
+  "address": {
+    "street": "79 E Mennonite Rd",
+    "city": "Aurora",
+    "state": "OH",
+    "zip": "44202"
+  },
+  "coordinates": {
+    "latitude": 41.29238510131836,
+    "longitude": -81.34296798706055
+  },
+  "website": "https://cornerstoneaurora.com",
+  "listingUrl": "https://churches.sbc.net/church/cornerstone-church-of-aurora/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cornerstone-church-of-aurora"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cornerstoneaurora.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341414662"
+    }
+  ],
+  "advisories": []
+}

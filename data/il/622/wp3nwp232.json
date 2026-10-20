@@ -1,0 +1,33 @@
+{
+  "id": "wp3nwp232",
+  "url": "https://constellation.church/wp3nwp232",
+  "name": "First Baptist Church of Smithton",
+  "displayName": "First Baptist Church of Smithton",
+  "address": {
+    "street": "701 S Main",
+    "city": "Smithton",
+    "state": "IL",
+    "zip": "62285"
+  },
+  "coordinates": {
+    "latitude": 38.40203857421875,
+    "longitude": -89.99239349365234
+  },
+  "website": "https://fbcsmithton.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-smithton/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-smithton"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcsmithton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371022326"
+    }
+  ],
+  "advisories": []
+}

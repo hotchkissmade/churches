@@ -1,0 +1,33 @@
+{
+  "id": "jgp736d09",
+  "url": "https://constellation.church/jgp736d09",
+  "name": "Grace Presbyterian Church",
+  "displayName": "Grace Presbyterian Church",
+  "address": {
+    "street": "3312 Calvin Dr.",
+    "city": "Lawrence",
+    "state": "KS",
+    "zip": "66049"
+  },
+  "coordinates": {
+    "latitude": 38.99039077758789,
+    "longitude": -95.27838134765625
+  },
+  "website": "https://gpca.church",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5505",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5505"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gpca.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "481054341"
+    }
+  ],
+  "advisories": []
+}

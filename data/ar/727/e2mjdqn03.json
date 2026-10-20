@@ -1,0 +1,33 @@
+{
+  "id": "e2mjdqn03",
+  "url": "https://constellation.church/e2mjdqn03",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "901 NE J St",
+    "city": "Bentonville",
+    "state": "AR",
+    "zip": "72712-4933"
+  },
+  "coordinates": {
+    "latitude": 36.38100624084473,
+    "longitude": -94.1976318359375
+  },
+  "website": "https://fpcbentonville.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/72/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "72"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcbentonville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "710275007"
+    }
+  ],
+  "advisories": []
+}

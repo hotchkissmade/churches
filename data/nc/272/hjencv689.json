@@ -1,0 +1,33 @@
+{
+  "id": "hjencv689",
+  "url": "https://constellation.church/hjencv689",
+  "name": "Main Street United Methodist Church",
+  "displayName": "Main Street United Methodist Church",
+  "address": {
+    "street": "306 South Main Street",
+    "city": "Kernersville",
+    "state": "NC",
+    "zip": "27284"
+  },
+  "coordinates": {
+    "latitude": 36.11716651916504,
+    "longitude": -80.07721710205078
+  },
+  "website": "https://mainstreetumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PExAwIAL",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PExAwIAL"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mainstreetumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "566053711"
+    }
+  ],
+  "advisories": []
+}

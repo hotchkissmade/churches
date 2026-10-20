@@ -1,0 +1,33 @@
+{
+  "id": "yxd8srf25",
+  "url": "https://constellation.church/yxd8srf25",
+  "name": "St Matthew Lutheran Church",
+  "displayName": "St. Matthew Lutheran Church",
+  "address": {
+    "street": "115 E Penn St",
+    "city": "Martinsburg",
+    "state": "PA",
+    "zip": "16662-1127"
+  },
+  "coordinates": {
+    "latitude": 40.30971908569336,
+    "longitude": -78.32429885864258
+  },
+  "website": "https://stmatthewlc.com/bulletins-announcements",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4c4f7480-316c-4951-9369-fbf5d0ebcd69",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4c4f7480-316c-4951-9369-fbf5d0ebcd69"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmatthewlc.com/bulletins-announcements"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231489826"
+    }
+  ],
+  "advisories": []
+}

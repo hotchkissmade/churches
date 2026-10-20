@@ -1,0 +1,33 @@
+{
+  "id": "pyxtwh574",
+  "url": "https://constellation.church/pyxtwh574",
+  "name": "Parkway Baptist Church",
+  "displayName": "Parkway Baptist Church",
+  "address": {
+    "street": "18000 NW 18th Ave",
+    "city": "Miami Gardens",
+    "state": "FL",
+    "zip": "33056"
+  },
+  "coordinates": {
+    "latitude": 25.938871383666992,
+    "longitude": -80.23130416870117
+  },
+  "website": "https://parkwaymiamigardens.org",
+  "listingUrl": "https://churches.sbc.net/church/parkway-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "parkway-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parkwaymiamigardens.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "596045351"
+    }
+  ],
+  "advisories": []
+}

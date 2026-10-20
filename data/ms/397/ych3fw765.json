@@ -1,0 +1,33 @@
+{
+  "id": "ych3fw765",
+  "url": "https://constellation.church/ych3fw765",
+  "name": "Longview Baptist Church",
+  "displayName": "Longview Baptist Church",
+  "address": {
+    "street": "991 Buckner St",
+    "city": "Starkville",
+    "state": "MS",
+    "zip": "39759"
+  },
+  "coordinates": {
+    "latitude": 33.407358169555664,
+    "longitude": -88.92306518554688
+  },
+  "website": "https://fbclongview.org",
+  "listingUrl": "https://churches.sbc.net/church/longview-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "longview-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbclongview.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030400306"
+    }
+  ],
+  "advisories": []
+}

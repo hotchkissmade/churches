@@ -1,0 +1,33 @@
+{
+  "id": "fegf88f20",
+  "url": "https://constellation.church/fegf88f20",
+  "name": "First Baptist Church of San Francisco",
+  "displayName": "First Baptist Church of San Francisco",
+  "address": {
+    "street": "22 Waller St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94102"
+  },
+  "coordinates": {
+    "latitude": 37.77214241027832,
+    "longitude": -122.4239730834961
+  },
+  "website": "https://firstsf.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-san-francisco/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-san-francisco"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstsf.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941225384"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ssgg03f53",
+  "url": "https://constellation.church/ssgg03f53",
+  "name": "Kennebec Lutheran Church",
+  "displayName": "Kennebec Lutheran Church",
+  "address": {
+    "street": "343 First St",
+    "city": "Kennebec",
+    "state": "SD",
+    "zip": "57568"
+  },
+  "coordinates": {
+    "latitude": 43.906654357910156,
+    "longitude": -100.06008911132812
+  },
+  "website": "https://lymancountyparish.org/kennebec-lutheran",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dbb4482c-9eb7-44a4-8603-9c055b8cef05",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dbb4482c-9eb7-44a4-8603-9c055b8cef05"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lymancountyparish.org/kennebec-lutheran"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "331148334"
+    }
+  ],
+  "advisories": []
+}

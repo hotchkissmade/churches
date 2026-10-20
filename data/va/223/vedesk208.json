@@ -1,0 +1,33 @@
+{
+  "id": "vedesk208",
+  "url": "https://constellation.church/vedesk208",
+  "name": "Washington Farm United Methodist Church",
+  "displayName": "Washington Farm United Methodist Church",
+  "address": {
+    "street": "3921 Old Mill Rd",
+    "city": "Alexandria",
+    "state": "VA",
+    "zip": "22309-2812"
+  },
+  "coordinates": {
+    "latitude": 38.71386528015137,
+    "longitude": -77.10036849975586
+  },
+  "website": "https://washingtonfarmumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFJflIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFJflIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "washingtonfarmumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "546121486"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "f793mag33",
+  "url": "https://constellation.church/f793mag33",
+  "name": "Camp McDowell",
+  "displayName": "Camp McDowell",
+  "address": {
+    "street": "105 DeLong Road",
+    "city": "Nauvoo",
+    "state": "AL",
+    "zip": "35578"
+  },
+  "coordinates": {
+    "latitude": 34.014951,
+    "longitude": -87.3623622
+  },
+  "website": "https://campmcdowell.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/alabama/list/camp-mcdowell",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "alabama/camp-mcdowell"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "campmcdowell.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "636001873"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "hx5y28482",
+  "url": "https://constellation.church/hx5y28482",
+  "name": "LCOR",
+  "displayName": "Lcor",
+  "address": {
+    "street": "212 MAIN ST",
+    "city": "Foxborough",
+    "state": "MA",
+    "zip": "02035"
+  },
+  "coordinates": {
+    "latitude": 42.0754433,
+    "longitude": -71.2727225
+  },
+  "website": "https://lcor.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042839111"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcor.org"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cmnveht12",
+  "url": "https://constellation.church/cmnveht12",
+  "name": "Our Savior Lutheran Church",
+  "displayName": "Our Savior Lutheran Church",
+  "address": {
+    "street": "298 E. High St.",
+    "city": "Quincy",
+    "state": "CA",
+    "zip": "95971-9424"
+  },
+  "coordinates": {
+    "latitude": 39.935163497924805,
+    "longitude": -120.94442749023438
+  },
+  "website": "https://quincylutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ea689c2f-72af-40ff-bfe8-fca3f4074a75",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ea689c2f-72af-40ff-bfe8-fca3f4074a75"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "quincylutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237090995"
+    }
+  ],
+  "advisories": []
+}

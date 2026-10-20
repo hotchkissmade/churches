@@ -1,0 +1,33 @@
+{
+  "id": "s0xqypy11",
+  "url": "https://constellation.church/s0xqypy11",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "13 E Main St",
+    "city": "Fairfield",
+    "state": "PA",
+    "zip": "17320-8966"
+  },
+  "coordinates": {
+    "latitude": 39.78775215148926,
+    "longitude": -77.36933517456055
+  },
+  "website": "https://stjohnfairfield.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c8a35819-ab46-47e5-9812-b18eaa636029",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c8a35819-ab46-47e5-9812-b18eaa636029"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnfairfield.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231696532"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vy7g61x98",
+  "url": "https://constellation.church/vy7g61x98",
+  "name": "Peace Evangelical Lutheran Church",
+  "displayName": "Peace Evangelical Lutheran Church",
+  "address": {
+    "street": "8600 E Bush Lake Rd",
+    "city": "Bloomington",
+    "state": "MN",
+    "zip": "55438-1558"
+  },
+  "coordinates": {
+    "latitude": 44.846778869628906,
+    "longitude": -93.37328338623047
+  },
+  "website": "https://peacebloomington.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f763cad6-c986-45d3-aac1-62e24bf600fd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f763cad6-c986-45d3-aac1-62e24bf600fd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "peacebloomington.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411313476"
+    }
+  ],
+  "advisories": []
+}

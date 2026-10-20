@@ -1,0 +1,33 @@
+{
+  "id": "xmtppjm87",
+  "url": "https://constellation.church/xmtppjm87",
+  "name": "Ellsworth Assembly of God",
+  "displayName": "Ellsworth Assembly of God",
+  "address": {
+    "street": "131 Beechland Rd",
+    "city": "Ellsworth",
+    "state": "ME",
+    "zip": "04605"
+  },
+  "coordinates": {
+    "latitude": 44.51813888549805,
+    "longitude": -68.4034309387207
+  },
+  "website": "https://ellsworthassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=fc39db3d-e2c8-4c27-b080-39fb24042d9a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "fc39db3d-e2c8-4c27-b080-39fb24042d9a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ellsworthassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "010384978"
+    }
+  ],
+  "advisories": []
+}

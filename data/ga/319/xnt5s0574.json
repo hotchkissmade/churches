@@ -1,0 +1,33 @@
+{
+  "id": "xnt5s0574",
+  "url": "https://constellation.church/xnt5s0574",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "2303 Double Churches Road",
+    "city": "Columbus",
+    "state": "GA",
+    "zip": "31909"
+  },
+  "coordinates": {
+    "latitude": 32.556413650512695,
+    "longitude": -84.95779037475586
+  },
+  "website": "https://wpcpca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1095",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1095"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wpcpca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581699208"
+    }
+  ],
+  "advisories": []
+}

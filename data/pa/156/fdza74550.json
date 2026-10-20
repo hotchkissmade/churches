@@ -1,0 +1,33 @@
+{
+  "id": "fdza74550",
+  "url": "https://constellation.church/fdza74550",
+  "name": "Vandergrift United Methodist Church",
+  "displayName": "Vandergrift United Methodist Church",
+  "address": {
+    "street": "134 Custer Ave",
+    "city": "Vandergrift",
+    "state": "PA",
+    "zip": "15690-1307"
+  },
+  "coordinates": {
+    "latitude": 40.60275840759277,
+    "longitude": -79.56682586669922
+  },
+  "website": "https://firstumcvandergrift.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFNAnIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFNAnIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstumcvandergrift.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251035667"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "t0vghgs36",
+  "url": "https://constellation.church/t0vghgs36",
+  "name": "Ashland Baptist Church",
+  "displayName": "Ashland Baptist Church",
+  "address": {
+    "street": "203 E Broadway",
+    "city": "Ashland",
+    "state": "MO",
+    "zip": "65010"
+  },
+  "coordinates": {
+    "latitude": 38.77484703063965,
+    "longitude": -92.25995635986328
+  },
+  "website": "https://ashlandbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/ashland-baptist-church-4/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "ashland-baptist-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ashlandbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "436041397"
+    }
+  ],
+  "advisories": []
+}

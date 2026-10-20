@@ -1,0 +1,33 @@
+{
+  "id": "w820ck651",
+  "url": "https://constellation.church/w820ck651",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "701 S Main St",
+    "city": "Groton",
+    "state": "NY",
+    "zip": "13073"
+  },
+  "coordinates": {
+    "latitude": 42.57953643798828,
+    "longitude": -76.36344528198242
+  },
+  "website": "https://grotonassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=37801306-3e69-4304-8eb2-04670ee82cf4&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "37801306-3e69-4304-8eb2-04670ee82cf4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grotonassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161189560"
+    }
+  ],
+  "advisories": []
+}

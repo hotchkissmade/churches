@@ -1,0 +1,33 @@
+{
+  "id": "rd3haaz65",
+  "url": "https://constellation.church/rd3haaz65",
+  "name": "Friendly Baptist Church",
+  "displayName": "Friendly Baptist Church",
+  "address": {
+    "street": "2751 Kirkland Dr",
+    "city": "Branson",
+    "state": "MO",
+    "zip": "65616"
+  },
+  "coordinates": {
+    "latitude": 36.64066123962402,
+    "longitude": -93.30142974853516
+  },
+  "website": "https://friendlybaptistbranson.com",
+  "listingUrl": "https://churches.sbc.net/church/friendly-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "friendly-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "friendlybaptistbranson.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421662348"
+    }
+  ],
+  "advisories": []
+}

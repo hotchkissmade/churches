@@ -1,0 +1,33 @@
+{
+  "id": "dpkapje15",
+  "url": "https://constellation.church/dpkapje15",
+  "name": "Temple Zion Baptist Church",
+  "displayName": "Temple Zion Baptist Church",
+  "address": {
+    "street": "1174 Heyward Brockington Rd",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29203"
+  },
+  "coordinates": {
+    "latitude": 34.09175109863281,
+    "longitude": -81.06304931640625
+  },
+  "website": "https://templezbc.org",
+  "listingUrl": "https://churches.sbc.net/church/temple-zion-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "temple-zion-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "templezbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570729993"
+    }
+  ],
+  "advisories": []
+}

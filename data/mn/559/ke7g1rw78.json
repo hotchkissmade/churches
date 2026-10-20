@@ -1,0 +1,33 @@
+{
+  "id": "ke7g1rw78",
+  "url": "https://constellation.church/ke7g1rw78",
+  "name": "Byron United Methodist Church",
+  "displayName": "Byron United Methodist Church",
+  "address": {
+    "street": "503 1st Ave NW",
+    "city": "Byron",
+    "state": "MN",
+    "zip": "55920"
+  },
+  "coordinates": {
+    "latitude": 44.03401184082031,
+    "longitude": -92.647216796875
+  },
+  "website": "https://byronmn.umcchurches.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKUqIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKUqIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "byronmn.umcchurches.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411358604"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "harcv0s62",
+  "url": "https://constellation.church/harcv0s62",
+  "name": "St. George's Church",
+  "displayName": "St. George's Church",
+  "address": {
+    "street": "168 W Arizona St",
+    "city": "Holbrook",
+    "state": "AZ",
+    "zip": "86025-2824"
+  },
+  "coordinates": {
+    "latitude": 34.903289794921875,
+    "longitude": -110.16032409667969
+  },
+  "website": "https://stgeorge.azdiocese.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-arizona/list/st-georges-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-arizona/st-georges-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stgeorge.azdiocese.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860380590"
+    }
+  ],
+  "advisories": []
+}

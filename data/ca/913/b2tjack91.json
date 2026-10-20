@@ -1,0 +1,33 @@
+{
+  "id": "b2tjack91",
+  "url": "https://constellation.church/b2tjack91",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "12227 Balboa Blvd",
+    "city": "Granada Hills",
+    "state": "CA",
+    "zip": "91344-1703"
+  },
+  "coordinates": {
+    "latitude": 34.2921418,
+    "longitude": -118.5021186
+  },
+  "website": "https://bethlehemlutheran.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=161c39f4-43a3-4f5e-b409-255bd8393dd3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "161c39f4-43a3-4f5e-b409-255bd8393dd3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethlehemlutheran.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953160494"
+    }
+  ],
+  "advisories": []
+}

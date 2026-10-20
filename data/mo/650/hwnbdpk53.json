@@ -1,0 +1,33 @@
+{
+  "id": "hwnbdpk53",
+  "url": "https://constellation.church/hwnbdpk53",
+  "name": "Centertown Baptist Church",
+  "displayName": "Centertown Baptist Church",
+  "address": {
+    "street": "1213 Broadway St",
+    "city": "Centertown",
+    "state": "MO",
+    "zip": "65023"
+  },
+  "coordinates": {
+    "latitude": 38.61943244934082,
+    "longitude": -92.41339111328125
+  },
+  "website": "https://centertownbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/centertown-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "centertown-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centertownbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431165366"
+    }
+  ],
+  "advisories": []
+}

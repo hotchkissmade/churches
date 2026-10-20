@@ -1,0 +1,33 @@
+{
+  "id": "r0ctm8334",
+  "url": "https://constellation.church/r0ctm8334",
+  "name": "Lyman First Baptist Church",
+  "displayName": "Lyman First Baptist Church",
+  "address": {
+    "street": "80 Groce Rd",
+    "city": "Lyman",
+    "state": "SC",
+    "zip": "29365"
+  },
+  "coordinates": {
+    "latitude": 34.948747634887695,
+    "longitude": -82.12189483642578
+  },
+  "website": "https://firstlyman.org/ourteam",
+  "listingUrl": "https://churches.sbc.net/church/lyman-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lyman-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlyman.org/ourteam"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570697445"
+    }
+  ],
+  "advisories": []
+}

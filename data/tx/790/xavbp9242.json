@@ -1,0 +1,33 @@
+{
+  "id": "xavbp9242",
+  "url": "https://constellation.church/xavbp9242",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "404 W 5TH ST",
+    "city": "Friona",
+    "state": "TX",
+    "zip": "79035"
+  },
+  "coordinates": {
+    "latitude": 34.63561820983887,
+    "longitude": -102.72278594970703
+  },
+  "website": "https://fbcfriona.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-991/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-991"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcfriona.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750986841"
+    }
+  ],
+  "advisories": []
+}

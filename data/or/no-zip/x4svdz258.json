@@ -1,0 +1,33 @@
+{
+  "id": "x4svdz258",
+  "url": "https://constellation.church/x4svdz258",
+  "name": "Multnomah Friends Meeting",
+  "displayName": "Multnomah Friends Meeting",
+  "address": {
+    "street": "4312 SE Stark St.",
+    "city": "Portland",
+    "state": "OR",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 45.519248962402344,
+    "longitude": -122.61734008789062
+  },
+  "website": "https://multnomahfriends.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/multnomah-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "multnomah-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "multnomahfriends.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930815614"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kt3zxmj14",
+  "url": "https://constellation.church/kt3zxmj14",
+  "name": "East Union Presbyterian Church",
+  "displayName": "East Union Presbyterian Church",
+  "address": {
+    "street": "292 E Union Rd",
+    "city": "Cheswick",
+    "state": "PA",
+    "zip": "15024"
+  },
+  "coordinates": {
+    "latitude": 40.60994338989258,
+    "longitude": -79.85304260253906
+  },
+  "website": "https://eastunionchurch.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/999/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "999"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastunionchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251140759"
+    }
+  ],
+  "advisories": []
+}

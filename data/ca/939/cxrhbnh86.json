@@ -1,0 +1,33 @@
+{
+  "id": "cxrhbnh86",
+  "url": "https://constellation.church/cxrhbnh86",
+  "name": "Monterey Bay Christian Center",
+  "displayName": "Monterey Bay Christian Center",
+  "address": {
+    "street": "1184 Hilby Ave",
+    "city": "Seaside",
+    "state": "CA",
+    "zip": "93955"
+  },
+  "coordinates": {
+    "latitude": 36.602121353149414,
+    "longitude": -121.84151458740234
+  },
+  "website": "https://mbccag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=7845c76f-1577-4c79-bb84-4509b8b7d93a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "7845c76f-1577-4c79-bb84-4509b8b7d93a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mbccag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237437805"
+    }
+  ],
+  "advisories": []
+}

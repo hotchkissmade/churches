@@ -1,0 +1,33 @@
+{
+  "id": "tmn431h50",
+  "url": "https://constellation.church/tmn431h50",
+  "name": "United Presbyterian Church",
+  "displayName": "United Presbyterian Church",
+  "address": {
+    "street": "525 E Front St",
+    "city": "Plainfield",
+    "state": "NJ",
+    "zip": "07060-1411"
+  },
+  "coordinates": {
+    "latitude": 40.62563705444336,
+    "longitude": -74.41777801513672
+  },
+  "website": "https://upcplainfield.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/10020/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "10020"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "upcplainfield.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221931653"
+    }
+  ],
+  "advisories": []
+}

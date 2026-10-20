@@ -1,0 +1,37 @@
+{
+  "id": "ras0jtq96",
+  "url": "https://constellation.church/ras0jtq96",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "9424 N 7th Ave",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85021-3109"
+  },
+  "coordinates": {
+    "latitude": 33.57228660583496,
+    "longitude": -112.08284759521484
+  },
+  "website": "https://tlcphx.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=da9aaacc-3186-4d0c-be36-75d77d55177b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "da9aaacc-3186-4d0c-be36-75d77d55177b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcphx.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860183670"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860783670"
+    }
+  ],
+  "advisories": []
+}

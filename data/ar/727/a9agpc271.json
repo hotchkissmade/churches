@@ -1,0 +1,33 @@
+{
+  "id": "a9agpc271",
+  "url": "https://constellation.church/a9agpc271",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "1800 W Emma Ave",
+    "city": "Springdale",
+    "state": "AR",
+    "zip": "72762-3905"
+  },
+  "coordinates": {
+    "latitude": 36.18577575683594,
+    "longitude": -94.15252685546875
+  },
+  "website": "https://salemspringdale.org",
+  "listingUrl": "https://locator.lcms.org/church/C/865222",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "865222"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemspringdale.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "710389775"
+    }
+  ],
+  "advisories": []
+}

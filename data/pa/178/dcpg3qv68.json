@@ -1,0 +1,33 @@
+{
+  "id": "dcpg3qv68",
+  "url": "https://constellation.church/dcpg3qv68",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "241 E Market St",
+    "city": "Danville",
+    "state": "PA",
+    "zip": "17821-1943"
+  },
+  "coordinates": {
+    "latitude": 40.9593892,
+    "longitude": -76.6157221
+  },
+  "website": "https://tlcdanvillepa.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d5b769f4-89fd-4ca1-9051-67fbb9e3e46b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d5b769f4-89fd-4ca1-9051-67fbb9e3e46b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcdanvillepa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "240820954"
+    }
+  ],
+  "advisories": []
+}

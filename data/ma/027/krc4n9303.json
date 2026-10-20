@@ -1,0 +1,33 @@
+{
+  "id": "krc4n9303",
+  "url": "https://constellation.church/krc4n9303",
+  "name": "St. Peter's Church",
+  "displayName": "St. Peter's Church",
+  "address": {
+    "street": "351 Elm St",
+    "city": "Dartmouth",
+    "state": "MA",
+    "zip": "02748"
+  },
+  "coordinates": {
+    "latitude": 41.588172912597656,
+    "longitude": -70.94429397583008
+  },
+  "website": "https://stpetersdartmouth.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-massachusetts/list/st-peters-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-massachusetts/st-peters-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpetersdartmouth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042589518"
+    }
+  ],
+  "advisories": []
+}

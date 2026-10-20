@@ -1,0 +1,33 @@
+{
+  "id": "hft9vqd50",
+  "url": "https://constellation.church/hft9vqd50",
+  "name": "Lordstown Lutheran Church",
+  "displayName": "Lordstown Lutheran Church",
+  "address": {
+    "street": "5615 Palmyra Rd SW",
+    "city": "Warren",
+    "state": "OH",
+    "zip": "44481-9712"
+  },
+  "coordinates": {
+    "latitude": 41.18859100341797,
+    "longitude": -80.88258361816406
+  },
+  "website": "https://lordstownlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=17fea708-daca-4327-a235-2d3eabed5f71",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "17fea708-daca-4327-a235-2d3eabed5f71"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lordstownlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341472400"
+    }
+  ],
+  "advisories": []
+}

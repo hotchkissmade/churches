@@ -1,0 +1,33 @@
+{
+  "id": "a4kk4f735",
+  "url": "https://constellation.church/a4kk4f735",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "300 E 10th St",
+    "city": "Dewey",
+    "state": "OK",
+    "zip": "74029"
+  },
+  "coordinates": {
+    "latitude": 36.80080604553223,
+    "longitude": -95.93785095214844
+  },
+  "website": "https://fbcdewey.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-598/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-598"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcdewey.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "730726659"
+    }
+  ],
+  "advisories": []
+}

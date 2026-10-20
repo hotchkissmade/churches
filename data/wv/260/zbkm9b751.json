@@ -1,0 +1,33 @@
+{
+  "id": "zbkm9b751",
+  "url": "https://constellation.church/zbkm9b751",
+  "name": "Wheeling, WV",
+  "displayName": "United Church of God Wheeling",
+  "address": {
+    "street": "316 Washington Ave",
+    "city": "Wheeling",
+    "state": "WV",
+    "zip": "26003"
+  },
+  "coordinates": {
+    "latitude": 40.0705198,
+    "longitude": -80.6926567
+  },
+  "website": "https://apps.sos.wv.gov/business/corporations/organization.aspx",
+  "listingUrl": "https://www.ucg.org/congregations/wheeling-wv",
+  "identifiers": [
+    {
+      "namespace": "org.ucg.id",
+      "value": "wheeling-wv"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "apps.sos.wv.gov/business/corporations/organization.aspx"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "550394213"
+    }
+  ],
+  "advisories": []
+}

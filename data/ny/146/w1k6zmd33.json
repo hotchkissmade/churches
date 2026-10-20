@@ -1,0 +1,33 @@
+{
+  "id": "w1k6zmd33",
+  "url": "https://constellation.church/w1k6zmd33",
+  "name": "Atonement Lutheran Church",
+  "displayName": "Atonement Lutheran Church",
+  "address": {
+    "street": "1900 Westfall Rd",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14618-2832"
+  },
+  "coordinates": {
+    "latitude": 43.11655807495117,
+    "longitude": -77.56698989868164
+  },
+  "website": "https://atonementrochester.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d24ed3a0-728e-4a1e-b54e-54eae8999cf3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d24ed3a0-728e-4a1e-b54e-54eae8999cf3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "atonementrochester.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510244192"
+    }
+  ],
+  "advisories": []
+}

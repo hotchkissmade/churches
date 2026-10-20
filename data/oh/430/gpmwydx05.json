@@ -1,0 +1,33 @@
+{
+  "id": "gpmwydx05",
+  "url": "https://constellation.church/gpmwydx05",
+  "name": "Jersey Church",
+  "displayName": "Jersey Church",
+  "address": {
+    "street": "13260 Morse Rd SW",
+    "city": "New Albany",
+    "state": "OH",
+    "zip": "43054"
+  },
+  "coordinates": {
+    "latitude": 40.05417251586914,
+    "longitude": -82.73719024658203
+  },
+  "website": "https://jerseychurch.org",
+  "listingUrl": "https://churches.sbc.net/church/jersey-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "jersey-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jerseychurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310993514"
+    }
+  ],
+  "advisories": []
+}

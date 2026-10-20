@@ -1,0 +1,33 @@
+{
+  "id": "q3t447b17",
+  "url": "https://constellation.church/q3t447b17",
+  "name": "St. Luke's Episcopal Church",
+  "displayName": "St. Luke's Episcopal Church",
+  "address": {
+    "street": "500 Hillcrest Blvd",
+    "city": "Phillipsburg",
+    "state": "NJ",
+    "zip": "08865-1499"
+  },
+  "coordinates": {
+    "latitude": 40.69830894470215,
+    "longitude": -75.18880081176758
+  },
+  "website": "https://stlukesnj.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-newark/list/st-luke-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-newark/st-luke-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesnj.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222084830"
+    }
+  ],
+  "advisories": []
+}

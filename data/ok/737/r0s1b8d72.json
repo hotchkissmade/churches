@@ -1,0 +1,33 @@
+{
+  "id": "r0s1b8d72",
+  "url": "https://constellation.church/r0s1b8d72",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "201 S Oakwood Rd",
+    "city": "Enid",
+    "state": "OK",
+    "zip": "73703"
+  },
+  "coordinates": {
+    "latitude": 36.39463996887207,
+    "longitude": -97.9255142211914
+  },
+  "website": "https://enidfaithelca.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3c7acc5a-9f4c-4e2b-9244-04f2d1cad36c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3c7acc5a-9f4c-4e2b-9244-04f2d1cad36c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "enidfaithelca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "731044028"
+    }
+  ],
+  "advisories": []
+}

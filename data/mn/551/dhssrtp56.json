@@ -1,0 +1,33 @@
+{
+  "id": "dhssrtp56",
+  "url": "https://constellation.church/dhssrtp56",
+  "name": "Roseville Lutheran Church",
+  "displayName": "Roseville Lutheran Church",
+  "address": {
+    "street": "1215 Roselawn Ave W",
+    "city": "Roseville",
+    "state": "MN",
+    "zip": "55113-5952"
+  },
+  "coordinates": {
+    "latitude": 44.999908447265625,
+    "longitude": -93.15070343017578
+  },
+  "website": "https://rosevillelutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d05343c0-c035-4aee-97fd-e25dd9efa4f3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d05343c0-c035-4aee-97fd-e25dd9efa4f3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rosevillelutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410745918"
+    }
+  ],
+  "advisories": []
+}

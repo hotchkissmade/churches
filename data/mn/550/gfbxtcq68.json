@@ -1,0 +1,33 @@
+{
+  "id": "gfbxtcq68",
+  "url": "https://constellation.church/gfbxtcq68",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "11194 36th St N",
+    "city": "Lake Elmo",
+    "state": "MN",
+    "zip": "55042-9628"
+  },
+  "coordinates": {
+    "latitude": 45.001346588134766,
+    "longitude": -92.87891006469727
+  },
+  "website": "https://clclakeelmo.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=37ce115b-e6c8-40f0-b2d6-c141bf2f06bf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "37ce115b-e6c8-40f0-b2d6-c141bf2f06bf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clclakeelmo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416008739"
+    }
+  ],
+  "advisories": []
+}

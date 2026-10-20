@@ -1,0 +1,37 @@
+{
+  "id": "vnvg0ef32",
+  "url": "https://constellation.church/vnvg0ef32",
+  "name": "Saint Pauls Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "12345 Manchester Rd",
+    "city": "Des Peres",
+    "state": "MO",
+    "zip": "63131"
+  },
+  "coordinates": {
+    "latitude": 38.60455131530762,
+    "longitude": -90.44363403320312
+  },
+  "website": "https://stpaulsdesperes.org",
+  "listingUrl": "https://locator.lcms.org/church/C/240455",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "240455"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsdesperes.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430687407"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521252616"
+    }
+  ],
+  "advisories": []
+}

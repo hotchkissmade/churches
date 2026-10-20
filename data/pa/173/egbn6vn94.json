@@ -1,0 +1,33 @@
+{
+  "id": "egbn6vn94",
+  "url": "https://constellation.church/egbn6vn94",
+  "name": "St Bartholomew's United Church",
+  "displayName": "St. Bartholomew's United Church",
+  "address": {
+    "street": "1204 Grand Valley Rd",
+    "city": "Hanover",
+    "state": "PA",
+    "zip": "17331-9773"
+  },
+  "coordinates": {
+    "latitude": 39.72597694396973,
+    "longitude": -76.97963333129883
+  },
+  "website": "https://stbart-hanoverpa.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=87f236a6-5412-45ea-9086-73444e27ce6d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "87f236a6-5412-45ea-9086-73444e27ce6d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stbart-hanoverpa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "233057998"
+    }
+  ],
+  "advisories": []
+}

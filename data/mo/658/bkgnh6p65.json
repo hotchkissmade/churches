@@ -1,0 +1,33 @@
+{
+  "id": "bkgnh6p65",
+  "url": "https://constellation.church/bkgnh6p65",
+  "name": "First Baptist Church Springfield",
+  "displayName": "First Baptist Church Springfield",
+  "address": {
+    "street": "525 South Ave",
+    "city": "Springfield",
+    "state": "MO",
+    "zip": "65806"
+  },
+  "coordinates": {
+    "latitude": 37.20448112487793,
+    "longitude": -93.29302978515625
+  },
+  "website": "https://fbcspringfield.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-springfield/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-springfield"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcspringfield.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440584293"
+    }
+  ],
+  "advisories": []
+}

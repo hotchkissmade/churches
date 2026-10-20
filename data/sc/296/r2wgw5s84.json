@@ -1,0 +1,33 @@
+{
+  "id": "r2wgw5s84",
+  "url": "https://constellation.church/r2wgw5s84",
+  "name": "Church of the Redeemer",
+  "displayName": "Church of the Redeemer",
+  "address": {
+    "street": "120 Mauldin Rd",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29605-1257"
+  },
+  "coordinates": {
+    "latitude": 34.80435752868652,
+    "longitude": -82.37728118896484
+  },
+  "website": "https://corgsc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-upper-south-carolina/list/church-redeemer",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-upper-south-carolina/church-redeemer"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "corgsc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570347692"
+    }
+  ],
+  "advisories": []
+}

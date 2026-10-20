@@ -1,0 +1,33 @@
+{
+  "id": "x1pfk5c67",
+  "url": "https://constellation.church/x1pfk5c67",
+  "name": "Olympia Friends Meeting",
+  "displayName": "Olympia Friends Meeting",
+  "address": {
+    "street": "3201 Boston Harbor Road NE",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 47.07804870605469,
+    "longitude": -122.89673614501953
+  },
+  "website": "https://olympiafriends.org/donate",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/olympia-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "olympia-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "olympiafriends.org/donate"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "943145171"
+    }
+  ],
+  "advisories": []
+}

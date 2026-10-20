@@ -1,0 +1,37 @@
+{
+  "id": "xtngqxd50",
+  "url": "https://constellation.church/xtngqxd50",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "15000 First Baptist Lane",
+    "city": "Laurel",
+    "state": "MD",
+    "zip": "20707"
+  },
+  "coordinates": {
+    "latitude": 39.09972381591797,
+    "longitude": -76.87726211547852
+  },
+  "website": "https://fbclaurel.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-634/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-634"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbclaurel.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520730221"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521398774"
+    }
+  ],
+  "advisories": []
+}

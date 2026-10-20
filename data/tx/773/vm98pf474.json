@@ -1,0 +1,33 @@
+{
+  "id": "vm98pf474",
+  "url": "https://constellation.church/vm98pf474",
+  "name": "Pillar Church",
+  "displayName": "Pillar Church",
+  "address": {
+    "street": "230 S Loop 336 W",
+    "city": "Conroe",
+    "state": "TX",
+    "zip": "77304"
+  },
+  "coordinates": {
+    "latitude": 30.280611038208008,
+    "longitude": -95.4611587524414
+  },
+  "website": "https://pillarconroe.church",
+  "listingUrl": "https://churches.sbc.net/church/pillar-church-4/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pillar-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pillarconroe.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "873802762"
+    }
+  ],
+  "advisories": []
+}

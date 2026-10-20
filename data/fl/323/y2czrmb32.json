@@ -1,0 +1,33 @@
+{
+  "id": "y2czrmb32",
+  "url": "https://constellation.church/y2czrmb32",
+  "name": "Emergency Care Help Organization (ECHO)",
+  "displayName": "Emergency Care Help Organization (ECHO)",
+  "address": {
+    "street": "1707 S. Gadsden Street",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32301"
+  },
+  "coordinates": {
+    "latitude": 30.4259569,
+    "longitude": -84.2781421
+  },
+  "website": "https://echotlh.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/florida/list/emergency-care-help-organization-echo",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "florida/emergency-care-help-organization-echo"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "echotlh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592290628"
+    }
+  ],
+  "advisories": []
+}

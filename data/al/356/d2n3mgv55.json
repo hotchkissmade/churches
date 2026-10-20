@@ -1,0 +1,33 @@
+{
+  "id": "d2n3mgv55",
+  "url": "https://constellation.church/d2n3mgv55",
+  "name": "Decatur Presbyterian Church",
+  "displayName": "Decatur Presbyterian Church",
+  "address": {
+    "street": "2306 Modaus Road SW",
+    "city": "Decatur",
+    "state": "AL",
+    "zip": "35603"
+  },
+  "coordinates": {
+    "latitude": 34.5615291595459,
+    "longitude": -87.0281753540039
+  },
+  "website": "https://decaturpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/320",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "320"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "decaturpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630986109"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cqrm7z630",
+  "url": "https://constellation.church/cqrm7z630",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "135 Hamilton St",
+    "city": "Penn Yan",
+    "state": "NY",
+    "zip": "14527-1234"
+  },
+  "coordinates": {
+    "latitude": 42.66511154174805,
+    "longitude": -77.04935836791992
+  },
+  "website": "https://stpaulspennyan.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7a1d6e83-89e5-423e-8a8e-e8cc772451d4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7a1d6e83-89e5-423e-8a8e-e8cc772451d4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulspennyan.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "166038916"
+    }
+  ],
+  "advisories": []
+}

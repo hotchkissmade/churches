@@ -1,0 +1,33 @@
+{
+  "id": "ayaeg4186",
+  "url": "https://constellation.church/ayaeg4186",
+  "name": "Calvary-St. Augustine Church",
+  "displayName": "Calvary-St. Augustine Church",
+  "address": {
+    "street": "814 N 41st St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19104-4813"
+  },
+  "coordinates": {
+    "latitude": 39.96789741516113,
+    "longitude": -75.20595169067383
+  },
+  "website": "https://plsephilly.org/pardons/find-pardon-hubs",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/calvary-st-augustine-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/calvary-st-augustine-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "plsephilly.org/pardons/find-pardon-hubs"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231494760"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ts1m0vt43",
+  "url": "https://constellation.church/ts1m0vt43",
+  "name": "SOZO Church",
+  "displayName": "SOZO Church",
+  "address": {
+    "street": "1300 SW 87th Ave",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33174"
+  },
+  "coordinates": {
+    "latitude": 25.757526397705078,
+    "longitude": -80.33652877807617
+  },
+  "website": "https://sozochurch.miami/privacy-policy",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=2a559bb9-85cc-4fce-99a0-091c6c6d378d&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "2a559bb9-85cc-4fce-99a0-091c6c6d378d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sozochurch.miami/privacy-policy"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591303132"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "areets322",
+  "url": "https://constellation.church/areets322",
+  "name": "Northwest Baptist Church",
+  "displayName": "Northwest Baptist Church",
+  "address": {
+    "street": "951 NW 136th St",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33168"
+  },
+  "coordinates": {
+    "latitude": 25.899446487426758,
+    "longitude": -80.21424102783203
+  },
+  "website": "https://nwbchurchfl.org",
+  "listingUrl": "https://churches.sbc.net/church/northwest-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northwest-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nwbchurchfl.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590760219"
+    }
+  ],
+  "advisories": []
+}

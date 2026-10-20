@@ -1,0 +1,33 @@
+{
+  "id": "cqt8gyz43",
+  "url": "https://constellation.church/cqt8gyz43",
+  "name": "First United Methodist Church of Jefferson City",
+  "displayName": "First United Methodist Church of Jefferson City",
+  "address": {
+    "street": "201 Monroe St",
+    "city": "Jefferson City",
+    "state": "MO",
+    "zip": "65101-3209"
+  },
+  "coordinates": {
+    "latitude": 38.57586669921875,
+    "longitude": -92.1685676574707
+  },
+  "website": "https://jcfumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFJtRIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFJtRIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jcfumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440577780"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hxs9bnz69",
+  "url": "https://constellation.church/hxs9bnz69",
+  "name": "Church in Sacramento",
+  "displayName": "Church in Sacramento",
+  "address": {
+    "street": "2041 Wyda Way",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95825"
+  },
+  "coordinates": {
+    "latitude": 38.60034942626953,
+    "longitude": -121.41902923583984
+  },
+  "website": "https://churchinsacramento.org",
+  "listingUrl": "https://localchurches.org/churches/sacramento-ca-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "sacramento-ca-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinsacramento.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942409648"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tn5hcay43",
+  "url": "https://constellation.church/tn5hcay43",
+  "name": "House of Mercy Lutheran Church",
+  "displayName": "House of Mercy Lutheran Church",
+  "address": {
+    "street": "436 Roy St N",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip": "55104-3808"
+  },
+  "coordinates": {
+    "latitude": 44.95456504821777,
+    "longitude": -93.1678695678711
+  },
+  "website": "https://houseofmercy.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=55b6c71b-89f0-4bbd-b1eb-4c338b462a60",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "55b6c71b-89f0-4bbd-b1eb-4c338b462a60"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "houseofmercy.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800247328"
+    }
+  ],
+  "advisories": []
+}

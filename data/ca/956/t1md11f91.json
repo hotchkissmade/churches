@@ -1,0 +1,33 @@
+{
+  "id": "t1md11f91",
+  "url": "https://constellation.church/t1md11f91",
+  "name": "Real Life Church of Galt",
+  "displayName": "Real Life Church of Galt",
+  "address": {
+    "street": "Ste 100 550 Industrial Dr",
+    "city": "Galt",
+    "state": "CA",
+    "zip": "95632"
+  },
+  "coordinates": {
+    "latitude": 38.267778396606445,
+    "longitude": -121.30804443359375
+  },
+  "website": "https://rlconline.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=c62a15f2-6e11-4524-8b42-9afd9e185197&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "c62a15f2-6e11-4524-8b42-9afd9e185197"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rlconline.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "271282723"
+    }
+  ],
+  "advisories": []
+}

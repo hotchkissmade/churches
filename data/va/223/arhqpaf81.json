@@ -1,0 +1,33 @@
+{
+  "id": "arhqpaf81",
+  "url": "https://constellation.church/arhqpaf81",
+  "name": "Alexandria Presbyterian Church",
+  "displayName": "Alexandria Presbyterian Church",
+  "address": {
+    "street": "1302 West Braddock Road",
+    "city": "Alexandria",
+    "state": "VA",
+    "zip": "22302"
+  },
+  "coordinates": {
+    "latitude": 38.82610511779785,
+    "longitude": -77.08145523071289
+  },
+  "website": "https://alexandriapres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/60",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "60"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "alexandriapres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541369992"
+    }
+  ],
+  "advisories": []
+}

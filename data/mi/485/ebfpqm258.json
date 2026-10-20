@@ -1,0 +1,37 @@
+{
+  "id": "ebfpqm258",
+  "url": "https://constellation.church/ebfpqm258",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "2526 Corunna Rd",
+    "city": "Flint",
+    "state": "MI",
+    "zip": "48503-3375"
+  },
+  "coordinates": {
+    "latitude": 43.003761291503906,
+    "longitude": -83.72013092041016
+  },
+  "website": "https://graceinflint.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24207",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24207"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceinflint.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237011748"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237101174"
+    }
+  ],
+  "advisories": []
+}

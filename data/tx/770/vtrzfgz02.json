@@ -1,0 +1,33 @@
+{
+  "id": "vtrzfgz02",
+  "url": "https://constellation.church/vtrzfgz02",
+  "name": "Windwood Presbyterian Church",
+  "displayName": "Windwood Presbyterian Church",
+  "address": {
+    "street": "10555 Spring Cypress Rd",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77070"
+  },
+  "coordinates": {
+    "latitude": 30.013517379760742,
+    "longitude": -95.58024597167969
+  },
+  "website": "https://windwoodpc.org",
+  "listingUrl": "https://eco-pres.org/churches/windwood-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "windwood-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "windwoodpc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "746191399"
+    }
+  ],
+  "advisories": []
+}

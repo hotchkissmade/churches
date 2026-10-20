@@ -1,0 +1,33 @@
+{
+  "id": "dmj5vwk03",
+  "url": "https://constellation.church/dmj5vwk03",
+  "name": "Templo de la Cruz",
+  "displayName": "Templo de la Cruz",
+  "address": {
+    "street": "24362 Thomas Ave",
+    "city": "Hayward",
+    "state": "CA",
+    "zip": "94544"
+  },
+  "coordinates": {
+    "latitude": 37.661970138549805,
+    "longitude": -122.08131408691406
+  },
+  "website": "https://tdlc.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d83dcfc2-156b-4e46-99b3-01ce0ba77c2f&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d83dcfc2-156b-4e46-99b3-01ce0ba77c2f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tdlc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941399295"
+    }
+  ],
+  "advisories": []
+}

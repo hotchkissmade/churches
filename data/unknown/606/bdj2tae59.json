@@ -1,0 +1,33 @@
+{
+  "id": "bdj2tae59",
+  "url": "https://constellation.church/bdj2tae59",
+  "name": "New Hope Assembly",
+  "displayName": "New Hope Assembly",
+  "address": {
+    "street": "7077 N Ashland Blvd",
+    "city": "Chicago",
+    "state": null,
+    "zip": "60626"
+  },
+  "coordinates": {
+    "latitude": 42.011130221347,
+    "longitude": -87.670068757063
+  },
+  "website": "https://newhopeassemblychicago.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=140&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "140"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newhopeassemblychicago.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593840063"
+    }
+  ],
+  "advisories": []
+}

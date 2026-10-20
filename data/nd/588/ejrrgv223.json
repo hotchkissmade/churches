@@ -1,0 +1,33 @@
+{
+  "id": "ejrrgv223",
+  "url": "https://constellation.church/ejrrgv223",
+  "name": "St Olaf Lutheran Church",
+  "displayName": "St. Olaf Lutheran Church",
+  "address": {
+    "street": "220 Main St.",
+    "city": "Grenora",
+    "state": "ND",
+    "zip": "58845"
+  },
+  "coordinates": {
+    "latitude": 48.619476318359375,
+    "longitude": -103.93684387207031
+  },
+  "website": "https://solc.weebly.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ef5ba126-327b-4618-a8c2-5d0bbb2ebb2f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ef5ba126-327b-4618-a8c2-5d0bbb2ebb2f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "solc.weebly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450283359"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "r8vbrxx43",
+  "url": "https://constellation.church/r8vbrxx43",
+  "name": "Our Saviour Lutheran Church",
+  "displayName": "Our Saviour Lutheran Church",
+  "address": {
+    "street": "7479 Richmond Rd",
+    "city": "Williamsburg",
+    "state": "VA",
+    "zip": "23188-7225"
+  },
+  "coordinates": {
+    "latitude": 37.36964416503906,
+    "longitude": -76.77411651611328
+  },
+  "website": "https://our-saviours.org/church-council",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f5f6f368-bca1-48d2-8f47-5229713060c2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f5f6f368-bca1-48d2-8f47-5229713060c2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "our-saviours.org/church-council"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237412711"
+    }
+  ],
+  "advisories": []
+}

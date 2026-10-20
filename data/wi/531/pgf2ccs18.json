@@ -1,0 +1,37 @@
+{
+  "id": "pgf2ccs18",
+  "url": "https://constellation.church/pgf2ccs18",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "198 Westridge Ave",
+    "city": "Burlington",
+    "state": "WI",
+    "zip": "53105-1742"
+  },
+  "coordinates": {
+    "latitude": 42.58247375488281,
+    "longitude": -88.29145812988281
+  },
+  "website": "https://stjohnsburlington.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24873",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24873"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsburlington.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390833614"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396094497"
+    }
+  ],
+  "advisories": []
+}

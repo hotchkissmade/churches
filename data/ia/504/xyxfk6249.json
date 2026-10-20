@@ -1,0 +1,37 @@
+{
+  "id": "xyxfk6249",
+  "url": "https://constellation.church/xyxfk6249",
+  "name": "St. Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "810 State St",
+    "city": "Garner",
+    "state": "IA",
+    "zip": "50438"
+  },
+  "coordinates": {
+    "latitude": 43.097511291503906,
+    "longitude": -93.60247802734375
+  },
+  "website": "https://stpaulgarner.org",
+  "listingUrl": "https://idwlcms.org/congregation.php?id=76",
+  "identifiers": [
+    {
+      "namespace": "org.idwlcms.id",
+      "value": "76"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulgarner.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420819619"
+    },
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "346561"
+    }
+  ],
+  "advisories": []
+}

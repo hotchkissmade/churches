@@ -1,0 +1,29 @@
+{
+  "id": "re64xja91",
+  "url": "https://constellation.church/re64xja91",
+  "name": "CREATE CHURCH",
+  "displayName": "Create Church",
+  "address": {
+    "street": "3766 PERSHING AVE",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92104"
+  },
+  "coordinates": {
+    "latitude": 32.76721000671387,
+    "longitude": -117.05277252197266
+  },
+  "website": "https://createchurch.co/about-us",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "991087533"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "createchurch.co/about-us"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hgejzqh98",
+  "url": "https://constellation.church/hgejzqh98",
+  "name": "Newspring Church",
+  "displayName": "Newspring Church",
+  "address": {
+    "street": "1150 S Main St",
+    "city": "Springboro",
+    "state": "OH",
+    "zip": "45066"
+  },
+  "coordinates": {
+    "latitude": 39.543460845947266,
+    "longitude": -84.23334884643555
+  },
+  "website": "https://newspringlive.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d4afed31-94f6-49be-be00-f0d5c48efde6&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d4afed31-94f6-49be-be00-f0d5c48efde6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newspringlive.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311238675"
+    }
+  ],
+  "advisories": []
+}

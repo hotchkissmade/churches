@@ -1,0 +1,33 @@
+{
+  "id": "bea2csg61",
+  "url": "https://constellation.church/bea2csg61",
+  "name": "Advent Lutheran Church",
+  "displayName": "Advent Lutheran Church",
+  "address": {
+    "street": "9475 Jefferson Hwy",
+    "city": "Maple Grove",
+    "state": "MN",
+    "zip": "55369-4242"
+  },
+  "coordinates": {
+    "latitude": 45.12616729736328,
+    "longitude": -93.40253829956055
+  },
+  "website": "https://adventlutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8abb118f-828f-4c7c-838d-453df80f1a72",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8abb118f-828f-4c7c-838d-453df80f1a72"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "adventlutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410901541"
+    }
+  ],
+  "advisories": []
+}

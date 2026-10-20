@@ -1,0 +1,33 @@
+{
+  "id": "dbhsjx235",
+  "url": "https://constellation.church/dbhsjx235",
+  "name": "Northwest Bible Church",
+  "displayName": "Northwest Bible Church",
+  "address": {
+    "street": "4343 Edgewood Dr NE",
+    "city": "Saint Michael",
+    "state": "MN",
+    "zip": "55376"
+  },
+  "coordinates": {
+    "latitude": 45.21409225463867,
+    "longitude": -93.6555290222168
+  },
+  "website": "https://nwbc.mn",
+  "listingUrl": "https://churches.sbc.net/church/northwest-bible-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northwest-bible-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nwbc.mn"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "202620755"
+    }
+  ],
+  "advisories": []
+}

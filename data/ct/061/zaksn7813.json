@@ -1,0 +1,33 @@
+{
+  "id": "zaksn7813",
+  "url": "https://constellation.church/zaksn7813",
+  "name": "Emanuel Lutheran Church",
+  "displayName": "Emanuel Lutheran Church",
+  "address": {
+    "street": "311 Capitol Ave",
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06106-1410"
+  },
+  "coordinates": {
+    "latitude": 41.763179779052734,
+    "longitude": -72.68568801879883
+  },
+  "website": "https://emanuelhartford.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7a1244eb-3914-4193-ae8b-939e247719a7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7a1244eb-3914-4193-ae8b-939e247719a7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emanuelhartford.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "060719418"
+    }
+  ],
+  "advisories": []
+}

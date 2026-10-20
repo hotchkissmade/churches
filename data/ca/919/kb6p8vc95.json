@@ -1,0 +1,33 @@
+{
+  "id": "kb6p8vc95",
+  "url": "https://constellation.church/kb6p8vc95",
+  "name": "Bonita Road Baptist Church",
+  "displayName": "Bonita Road Baptist Church",
+  "address": {
+    "street": "73 E. Bonita Rd",
+    "city": "Chula Vista",
+    "state": "CA",
+    "zip": "91910"
+  },
+  "coordinates": {
+    "latitude": 32.64867973327637,
+    "longitude": -117.0656967163086
+  },
+  "website": "https://brbcsd.org",
+  "listingUrl": "https://churches.sbc.net/church/bonita-road-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bonita-road-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "brbcsd.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952237417"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xpc4pt611",
+  "url": "https://constellation.church/xpc4pt611",
+  "name": "University Baptist Church",
+  "displayName": "University Baptist Church",
+  "address": {
+    "street": "333 W Maple St",
+    "city": "Fayetteville",
+    "state": "AR",
+    "zip": "72701"
+  },
+  "coordinates": {
+    "latitude": 36.0693468,
+    "longitude": -94.1636075
+  },
+  "website": "https://ubcfayetteville.org",
+  "listingUrl": "https://churches.sbc.net/church/university-baptist-church-18/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "university-baptist-church-18"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ubcfayetteville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "710303460"
+    }
+  ],
+  "advisories": []
+}

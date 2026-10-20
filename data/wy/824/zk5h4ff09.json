@@ -1,0 +1,33 @@
+{
+  "id": "zk5h4ff09",
+  "url": "https://constellation.church/zk5h4ff09",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "310 Idaho Ave",
+    "city": "Lovell",
+    "state": "WY",
+    "zip": "82431"
+  },
+  "coordinates": {
+    "latitude": 44.8387705,
+    "longitude": -108.3998322
+  },
+  "website": "https://lovellassemblyofgod.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=cfe8ee5c-f5e0-44ac-bcd2-1307f1e9bab4&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "cfe8ee5c-f5e0-44ac-bcd2-1307f1e9bab4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lovellassemblyofgod.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "830260817"
+    }
+  ],
+  "advisories": []
+}

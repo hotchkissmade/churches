@@ -1,0 +1,37 @@
+{
+  "id": "n1mvmsq10",
+  "url": "https://constellation.church/n1mvmsq10",
+  "name": "Church of the Savior Lutheran Church",
+  "displayName": "Church of the Savior Lutheran Church",
+  "address": {
+    "street": "2118 Elk Park Hwy",
+    "city": "Newland",
+    "state": "NC",
+    "zip": "28657-8827"
+  },
+  "coordinates": {
+    "latitude": 36.1191471,
+    "longitude": -81.9330495
+  },
+  "website": "https://sites.google.com/view/churchofthesavior/home",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8af894dd-5683-4fb7-abaa-9f573f9bd351",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8af894dd-5683-4fb7-abaa-9f573f9bd351"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sites.google.com/view/churchofthesavior/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581505885"
+    },
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-western-north-carolina/savior"
+    }
+  ],
+  "advisories": []
+}

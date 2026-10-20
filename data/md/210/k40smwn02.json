@@ -1,0 +1,33 @@
+{
+  "id": "k40smwn02",
+  "url": "https://constellation.church/k40smwn02",
+  "name": "Church of the Good Shepherd",
+  "displayName": "Church of the Good Shepherd",
+  "address": {
+    "street": "2875 Bethany Lane",
+    "city": "Ellicott city",
+    "state": "MD",
+    "zip": "21042"
+  },
+  "coordinates": {
+    "latitude": 39.2928581237793,
+    "longitude": -76.85592269897461
+  },
+  "website": "https://gscmd.org",
+  "listingUrl": "https://www.acna.org/admin_units/1752",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "1752"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gscmd.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521881605"
+    }
+  ],
+  "advisories": []
+}

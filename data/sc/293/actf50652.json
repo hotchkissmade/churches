@@ -1,0 +1,33 @@
+{
+  "id": "actf50652",
+  "url": "https://constellation.church/actf50652",
+  "name": "Holly Grove Baptist Church",
+  "displayName": "Holly Grove Baptist Church",
+  "address": {
+    "street": "92 Holly Grove Church Rd",
+    "city": "Laurens",
+    "state": "SC",
+    "zip": "29360"
+  },
+  "coordinates": {
+    "latitude": 34.482425689697266,
+    "longitude": -81.95464706420898
+  },
+  "website": "https://hollygrovebaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/holly-grove-baptist-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "holly-grove-baptist-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hollygrovebaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371507070"
+    }
+  ],
+  "advisories": []
+}

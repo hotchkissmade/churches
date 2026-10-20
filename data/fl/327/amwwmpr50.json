@@ -1,0 +1,33 @@
+{
+  "id": "amwwmpr50",
+  "url": "https://constellation.church/amwwmpr50",
+  "name": "First Baptist Church of Oak Hill",
+  "displayName": "First Baptist Church of Oak Hill",
+  "address": {
+    "street": "192 E Halifax Ave",
+    "city": "Oak Hill",
+    "state": "FL",
+    "zip": "32759"
+  },
+  "coordinates": {
+    "latitude": 28.864303588867188,
+    "longitude": -80.84770965576172
+  },
+  "website": "https://oakhillfbc.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-oak-hill/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-oak-hill"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oakhillfbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592338528"
+    }
+  ],
+  "advisories": []
+}

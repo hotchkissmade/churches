@@ -1,0 +1,33 @@
+{
+  "id": "rcj7vbd42",
+  "url": "https://constellation.church/rcj7vbd42",
+  "name": "First Baptist Church Bethany",
+  "displayName": "First Baptist Church Bethany",
+  "address": {
+    "street": "302 N 22nd St",
+    "city": "Bethany",
+    "state": "MO",
+    "zip": "64424"
+  },
+  "coordinates": {
+    "latitude": 40.27020072937012,
+    "longitude": -94.02903747558594
+  },
+  "website": "https://fbcbethany.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-bethany/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-bethany"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcbethany.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440562033"
+    }
+  ],
+  "advisories": []
+}

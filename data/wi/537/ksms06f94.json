@@ -1,0 +1,33 @@
+{
+  "id": "ksms06f94",
+  "url": "https://constellation.church/ksms06f94",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "605 Spruce St",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53715-2151"
+  },
+  "coordinates": {
+    "latitude": 43.05283737182617,
+    "longitude": -89.39250946044922
+  },
+  "website": "https://stmarksmadison.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=633307b0-c0da-4f5c-8073-53c96fd84432",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "633307b0-c0da-4f5c-8073-53c96fd84432"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarksmadison.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391090159"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "m3mvzy838",
+  "url": "https://constellation.church/m3mvzy838",
+  "name": "Banner Church",
+  "displayName": "Banner Church",
+  "address": {
+    "street": "1111 68th Street",
+    "city": "Byron Center",
+    "state": "MI",
+    "zip": "49315"
+  },
+  "coordinates": {
+    "latitude": 42.84189224243164,
+    "longitude": -85.69182968139648
+  },
+  "website": "https://bannerchurch.org",
+  "listingUrl": "https://ub.org/churches/find-a-church/banner-church",
+  "identifiers": [
+    {
+      "namespace": "org.ub.id",
+      "value": "banner-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bannerchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382403400"
+    }
+  ],
+  "advisories": []
+}

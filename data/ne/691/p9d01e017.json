@@ -1,0 +1,33 @@
+{
+  "id": "p9d01e017",
+  "url": "https://constellation.church/p9d01e017",
+  "name": "Bethel Church",
+  "displayName": "Bethel Church",
+  "address": {
+    "street": "2700 W Philip Ave",
+    "city": "North Platte",
+    "state": "NE",
+    "zip": "69101-6339"
+  },
+  "coordinates": {
+    "latitude": 41.125749588012695,
+    "longitude": -100.79322052001953
+  },
+  "website": "https://bethelnp.org/about-us",
+  "listingUrl": "https://churches.efca.org/?id=12179",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12179"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelnp.org/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "476049398"
+    }
+  ],
+  "advisories": []
+}

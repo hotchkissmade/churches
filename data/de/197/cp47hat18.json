@@ -1,0 +1,37 @@
+{
+  "id": "cp47hat18",
+  "url": "https://constellation.church/cp47hat18",
+  "name": "Good Shepherd Baptist Church",
+  "displayName": "Good Shepherd Baptist Church",
+  "address": {
+    "street": "2274 Porter Rd",
+    "city": "Bear",
+    "state": "DE",
+    "zip": "19701"
+  },
+  "coordinates": {
+    "latitude": 39.58895301818848,
+    "longitude": -75.72065353393555
+  },
+  "website": "https://gsbcde.church",
+  "listingUrl": "https://churches.sbc.net/church/good-shepherd-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "good-shepherd-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gsbcde.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "043767826"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510333199"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a155vgd38",
+  "url": "https://constellation.church/a155vgd38",
+  "name": "St. John's Episcopal Church",
+  "displayName": "St. John's Episcopal Church",
+  "address": {
+    "street": "523 Hartford Turnpike",
+    "city": "Vernon",
+    "state": "CT",
+    "zip": "06066-4900"
+  },
+  "coordinates": {
+    "latitude": 41.83184242248535,
+    "longitude": -72.47719955444336
+  },
+  "website": "https://stjohnsvernonct.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/episcopal-church-connecticut/list/st-johns-episcopal-church-8",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "episcopal-church-connecticut/st-johns-episcopal-church-8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsvernonct.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "066047080"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pa1rsdg23",
+  "url": "https://constellation.church/pa1rsdg23",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "260 W McLaughlin Ave",
+    "city": "Madisonville",
+    "state": "KY",
+    "zip": "42431"
+  },
+  "coordinates": {
+    "latitude": 37.318363189697266,
+    "longitude": -87.50562286376953
+  },
+  "website": "https://newfpc.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/3077/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "3077"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newfpc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "610664461"
+    }
+  ],
+  "advisories": []
+}

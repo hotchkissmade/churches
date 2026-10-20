@@ -1,0 +1,33 @@
+{
+  "id": "ag8r6r475",
+  "url": "https://constellation.church/ag8r6r475",
+  "name": "First Baptist Church of Las Cruces",
+  "displayName": "First Baptist Church of Las Cruces",
+  "address": {
+    "street": "4201 N Sonoma Ranch Blvd",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88011"
+  },
+  "coordinates": {
+    "latitude": 32.36590003967285,
+    "longitude": -106.73980712890625
+  },
+  "website": "https://fbclascruces.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-las-cruces/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-las-cruces"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbclascruces.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850127877"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "t2y97dc11",
+  "url": "https://constellation.church/t2y97dc11",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "133 Junction Rd",
+    "city": "Brookfield",
+    "state": "CT",
+    "zip": "06804"
+  },
+  "coordinates": {
+    "latitude": 41.45419120788574,
+    "longitude": -73.40178298950195
+  },
+  "website": "https://brookfieldfirst.org/give",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=56f196d8-bc6e-4f0a-8c2e-a5a89318aad2&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "56f196d8-bc6e-4f0a-8c2e-a5a89318aad2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "brookfieldfirst.org/give"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "060872941"
+    }
+  ],
+  "advisories": []
+}

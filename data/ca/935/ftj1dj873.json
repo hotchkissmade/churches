@@ -1,0 +1,33 @@
+{
+  "id": "ftj1dj873",
+  "url": "https://constellation.church/ftj1dj873",
+  "name": "Neighborhood Church",
+  "displayName": "Neighborhood Church",
+  "address": {
+    "street": "315 E South St",
+    "city": "Bishop",
+    "state": "CA",
+    "zip": "93514"
+  },
+  "coordinates": {
+    "latitude": 37.35888481140137,
+    "longitude": -118.39128875732422
+  },
+  "website": "https://neighborhoodag.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ac924f70-a0d4-46ce-8f6c-3915d6a7ef5d&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ac924f70-a0d4-46ce-8f6c-3915d6a7ef5d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "neighborhoodag.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953145241"
+    }
+  ],
+  "advisories": []
+}

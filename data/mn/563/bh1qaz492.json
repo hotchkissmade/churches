@@ -1,0 +1,33 @@
+{
+  "id": "bh1qaz492",
+  "url": "https://constellation.church/bh1qaz492",
+  "name": "Isle EFC",
+  "displayName": "Isle Evangelical Free Church",
+  "address": {
+    "street": "2100 Oak St",
+    "city": "Isle",
+    "state": "MN",
+    "zip": "56342-2693"
+  },
+  "coordinates": {
+    "latitude": 46.13311958312988,
+    "longitude": -93.45573425292969
+  },
+  "website": "https://islefree.org",
+  "listingUrl": "https://churches.efca.org/?id=12290",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12290"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "islefree.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411395427"
+    }
+  ],
+  "advisories": []
+}

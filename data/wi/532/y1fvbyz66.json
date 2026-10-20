@@ -1,0 +1,33 @@
+{
+  "id": "y1fvbyz66",
+  "url": "https://constellation.church/y1fvbyz66",
+  "name": "Bay Shore Lutheran Church",
+  "displayName": "Bay Shore Lutheran Church",
+  "address": {
+    "street": "1200 E Hampton Rd",
+    "city": "Whitefish Bay",
+    "state": "WI",
+    "zip": "53217-6012"
+  },
+  "coordinates": {
+    "latitude": 43.10420227050781,
+    "longitude": -87.89558410644531
+  },
+  "website": "https://bayshorelutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=092d171a-2daa-4dbf-a2b3-48d8f6eab10c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "092d171a-2daa-4dbf-a2b3-48d8f6eab10c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bayshorelutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390966210"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "awaqbqv50",
+  "url": "https://constellation.church/awaqbqv50",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "300 W Maple Rd",
+    "city": "Linthicum Heights",
+    "state": "MD",
+    "zip": "21090-2434"
+  },
+  "coordinates": {
+    "latitude": 39.20574188232422,
+    "longitude": -76.6573371887207
+  },
+  "website": "https://sjlc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cd16d013-0e1b-4fa7-bd7d-3f89fc101f10",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cd16d013-0e1b-4fa7-bd7d-3f89fc101f10"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sjlc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520610458"
+    }
+  ],
+  "advisories": []
+}

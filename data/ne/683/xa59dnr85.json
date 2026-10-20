@@ -1,0 +1,37 @@
+{
+  "id": "xa59dnr85",
+  "url": "https://constellation.church/xa59dnr85",
+  "name": "American Lutheran Church",
+  "displayName": "American Lutheran Church",
+  "address": {
+    "street": "1111 12th St",
+    "city": "Fairbury",
+    "state": "NE",
+    "zip": "68352-1705"
+  },
+  "coordinates": {
+    "latitude": 40.14451026916504,
+    "longitude": -97.1705322265625
+  },
+  "website": "https://alcfairbury.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bb219d28-20db-4194-81aa-e0c7d844ace5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bb219d28-20db-4194-81aa-e0c7d844ace5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "alcfairbury.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470612815"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470672325"
+    }
+  ],
+  "advisories": []
+}

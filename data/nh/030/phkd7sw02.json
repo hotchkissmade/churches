@@ -1,0 +1,33 @@
+{
+  "id": "phkd7sw02",
+  "url": "https://constellation.church/phkd7sw02",
+  "name": "Pleasant Street United Methodist Church",
+  "displayName": "Pleasant Street United Methodist Church",
+  "address": {
+    "street": "8 Pleasant St",
+    "city": "Salem",
+    "state": "NH",
+    "zip": "03079"
+  },
+  "coordinates": {
+    "latitude": 42.75382614135742,
+    "longitude": -71.2058334350586
+  },
+  "website": "https://pleasantstreetumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFNPsIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFNPsIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pleasantstreetumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "026006742"
+    }
+  ],
+  "advisories": []
+}

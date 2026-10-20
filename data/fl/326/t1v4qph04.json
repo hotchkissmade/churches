@@ -1,0 +1,33 @@
+{
+  "id": "t1v4qph04",
+  "url": "https://constellation.church/t1v4qph04",
+  "name": "Faith Presbyterian Church",
+  "displayName": "Faith Presbyterian Church",
+  "address": {
+    "street": "5916 NW 39th Avenue",
+    "city": "Gainesville",
+    "state": "FL",
+    "zip": "32606"
+  },
+  "coordinates": {
+    "latitude": 29.689653396606445,
+    "longitude": -82.4059066772461
+  },
+  "website": "https://faithgainesville.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/386",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "386"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithgainesville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592019298"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vjbv0vj27",
+  "url": "https://constellation.church/vjbv0vj27",
+  "name": "First Baptist Church of Bosque Farms",
+  "displayName": "First Baptist Church of Bosque Farms",
+  "address": {
+    "street": "1350 Bosque Farms Blvd",
+    "city": "Bosque Farms",
+    "state": "NM",
+    "zip": "87068"
+  },
+  "coordinates": {
+    "latitude": 34.8550968170166,
+    "longitude": -106.68988037109375
+  },
+  "website": "https://fbcbf.church",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-bosque-farms/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-bosque-farms"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcbf.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850288829"
+    }
+  ],
+  "advisories": []
+}

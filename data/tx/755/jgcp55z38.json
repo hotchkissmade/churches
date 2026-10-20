@@ -1,0 +1,33 @@
+{
+  "id": "jgcp55z38",
+  "url": "https://constellation.church/jgcp55z38",
+  "name": "GT Church",
+  "displayName": "GT Church",
+  "address": {
+    "street": "607 Holly St",
+    "city": "Atlanta",
+    "state": "TX",
+    "zip": "75551"
+  },
+  "coordinates": {
+    "latitude": 33.1230411529541,
+    "longitude": -94.1551513671875
+  },
+  "website": "https://gtatlanta.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=497e109a-1d16-4bfe-8704-fe14169da348&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "497e109a-1d16-4bfe-8704-fe14169da348"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gtatlanta.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751930624"
+    }
+  ],
+  "advisories": []
+}

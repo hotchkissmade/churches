@@ -1,0 +1,33 @@
+{
+  "id": "s0whkr415",
+  "url": "https://constellation.church/s0whkr415",
+  "name": "Exodus Church",
+  "displayName": "Exodus Church",
+  "address": {
+    "street": "6325 Wilkinson Blvd",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012"
+  },
+  "coordinates": {
+    "latitude": 35.25236701965332,
+    "longitude": -81.04815292358398
+  },
+  "website": "https://theexoduschurch.org",
+  "listingUrl": "https://churches.sbc.net/church/exodus-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "exodus-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "theexoduschurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900428770"
+    }
+  ],
+  "advisories": []
+}

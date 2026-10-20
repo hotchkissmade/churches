@@ -1,0 +1,33 @@
+{
+  "id": "b68mae509",
+  "url": "https://constellation.church/b68mae509",
+  "name": "Knights Baptist Church",
+  "displayName": "Knights Baptist Church",
+  "address": {
+    "street": "4809 N Alexander St",
+    "city": "Plant City",
+    "state": "FL",
+    "zip": "33565"
+  },
+  "coordinates": {
+    "latitude": 28.064220994483,
+    "longitude": -82.135875207963
+  },
+  "website": "https://knightsbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/knights-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "knights-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "knightsbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592102267"
+    }
+  ],
+  "advisories": []
+}

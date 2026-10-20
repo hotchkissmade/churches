@@ -1,0 +1,33 @@
+{
+  "id": "ej60fnq17",
+  "url": "https://constellation.church/ej60fnq17",
+  "name": "University Baptist Church",
+  "displayName": "University Baptist Church",
+  "address": {
+    "street": "16106 Middlebrook Dr",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77059"
+  },
+  "coordinates": {
+    "latitude": 29.5933533,
+    "longitude": -95.1039908
+  },
+  "website": "https://ubc.org",
+  "listingUrl": "https://churches.sbc.net/church/university-baptist-church-16/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "university-baptist-church-16"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ubc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741862114"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vwawde131",
+  "url": "https://constellation.church/vwawde131",
+  "name": "Church of the Redeemer",
+  "displayName": "Church of the Redeemer",
+  "address": {
+    "street": "222 S Palm Ave",
+    "city": "Sarasota",
+    "state": "FL",
+    "zip": "34236-6799"
+  },
+  "coordinates": {
+    "latitude": 27.333702087402344,
+    "longitude": -82.54227066040039
+  },
+  "website": "https://redeemersarasota.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-southwest-florida/list/church-redeemer",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-southwest-florida/church-redeemer"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemersarasota.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590751911"
+    }
+  ],
+  "advisories": []
+}

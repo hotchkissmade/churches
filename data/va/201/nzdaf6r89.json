@@ -1,0 +1,33 @@
+{
+  "id": "nzdaf6r89",
+  "url": "https://constellation.church/nzdaf6r89",
+  "name": "Mountaintop Church",
+  "displayName": "Mountaintop Church",
+  "address": {
+    "street": "9213 Center St",
+    "city": "Manassas",
+    "state": "VA",
+    "zip": "20110"
+  },
+  "coordinates": {
+    "latitude": 38.75071907043457,
+    "longitude": -77.474365234375
+  },
+  "website": "https://mountaintopchurch.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f5eaf068-5a0d-465c-b346-f8edcc5a4903&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f5eaf068-5a0d-465c-b346-f8edcc5a4903"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mountaintopchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421683583"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "v2ja5qr92",
+  "url": "https://constellation.church/v2ja5qr92",
+  "name": "Life Church of Hershey",
+  "displayName": "Life Church of Hershey",
+  "address": {
+    "street": "30 E Granada Ave",
+    "city": "Hershey",
+    "state": "PA",
+    "zip": "17033"
+  },
+  "coordinates": {
+    "latitude": 40.283912658691406,
+    "longitude": -76.6475944519043
+  },
+  "website": "https://lifechurchhershey.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a3cce115-14f5-46d9-a20d-ca0054c8adee&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "a3cce115-14f5-46d9-a20d-ca0054c8adee"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lifechurchhershey.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "320415056"
+    }
+  ],
+  "advisories": []
+}

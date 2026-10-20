@@ -1,0 +1,33 @@
+{
+  "id": "a223a7446",
+  "url": "https://constellation.church/a223a7446",
+  "name": "Sweetwater Baptist Church",
+  "displayName": "Sweetwater Baptist Church",
+  "address": {
+    "street": "198 Sweetwater Rd",
+    "city": "North Augusta",
+    "state": "SC",
+    "zip": "29860"
+  },
+  "coordinates": {
+    "latitude": 33.591054916381836,
+    "longitude": -81.95144271850586
+  },
+  "website": "https://sweetwaterbc.church",
+  "listingUrl": "https://churches.sbc.net/church/sweetwater-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sweetwater-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sweetwaterbc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570534585"
+    }
+  ],
+  "advisories": []
+}

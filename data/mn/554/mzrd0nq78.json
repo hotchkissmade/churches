@@ -1,0 +1,33 @@
+{
+  "id": "mzrd0nq78",
+  "url": "https://constellation.church/mzrd0nq78",
+  "name": "City Church",
+  "displayName": "City Church",
+  "address": {
+    "street": "1501 W 54th St",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55419"
+  },
+  "coordinates": {
+    "latitude": 44.90461730957031,
+    "longitude": -93.29855346679688
+  },
+  "website": "https://citychurchmpls.org",
+  "listingUrl": "https://converge.org/church/city-church/",
+  "identifiers": [
+    {
+      "namespace": "org.converge.id",
+      "value": "37515"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "citychurchmpls.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "204261256"
+    }
+  ],
+  "advisories": []
+}

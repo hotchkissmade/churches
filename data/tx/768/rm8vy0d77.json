@@ -1,0 +1,33 @@
+{
+  "id": "rm8vy0d77",
+  "url": "https://constellation.church/rm8vy0d77",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "325 W College",
+    "city": "Mason",
+    "state": "TX",
+    "zip": "76856"
+  },
+  "coordinates": {
+    "latitude": 30.743696212768555,
+    "longitude": -99.23435974121094
+  },
+  "website": "https://fbmason.org/students",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-124/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-124"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbmason.org/students"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310684177"
+    }
+  ],
+  "advisories": []
+}

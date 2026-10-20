@@ -1,0 +1,37 @@
+{
+  "id": "t0n7h1w22",
+  "url": "https://constellation.church/t0n7h1w22",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "1669 W Maple Rd",
+    "city": "Birmingham",
+    "state": "MI",
+    "zip": "48009"
+  },
+  "coordinates": {
+    "latitude": 42.54539489746094,
+    "longitude": -83.23548126220703
+  },
+  "website": "https://fpcbirmingham.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/3114/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "3114"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcbirmingham.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381360544"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381365544"
+    }
+  ],
+  "advisories": []
+}

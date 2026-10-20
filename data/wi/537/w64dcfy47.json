@@ -1,0 +1,33 @@
+{
+  "id": "w64dcfy47",
+  "url": "https://constellation.church/w64dcfy47",
+  "name": "Luther Memorial Lutheran Church",
+  "displayName": "Luther Memorial Lutheran Church",
+  "address": {
+    "street": "1021 University Ave",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53715-1041"
+  },
+  "coordinates": {
+    "latitude": 43.073171615600586,
+    "longitude": -89.40328216552734
+  },
+  "website": "https://luthermem.org/faq-2",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ec084c50-8764-49c4-bd63-cb11c670c61a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ec084c50-8764-49c4-bd63-cb11c670c61a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "luthermem.org/faq-2"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "263067274"
+    }
+  ],
+  "advisories": []
+}

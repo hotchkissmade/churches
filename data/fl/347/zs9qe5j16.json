@@ -1,0 +1,33 @@
+{
+  "id": "zs9qe5j16",
+  "url": "https://constellation.church/zs9qe5j16",
+  "name": "St. John's Episcopal Church",
+  "displayName": "St. John's Episcopal Church",
+  "address": {
+    "street": "1709 N John Young Pkwy",
+    "city": "Kissimmee",
+    "state": "FL",
+    "zip": "34741-3200"
+  },
+  "coordinates": {
+    "latitude": 28.307085037231445,
+    "longitude": -81.41522979736328
+  },
+  "website": "https://stjohnschurch.net",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-central-florida/list/st-johns-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-central-florida/st-johns-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnschurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591291125"
+    }
+  ],
+  "advisories": []
+}

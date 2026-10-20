@@ -1,0 +1,33 @@
+{
+  "id": "q4zdy2w31",
+  "url": "https://constellation.church/q4zdy2w31",
+  "name": "Summit United Methodist Church",
+  "displayName": "Summit United Methodist Church",
+  "address": {
+    "street": "1510 Townhall Road West",
+    "city": "Erie",
+    "state": "PA",
+    "zip": "16509"
+  },
+  "coordinates": {
+    "latitude": 42.03116035461426,
+    "longitude": -80.04922103881836
+  },
+  "website": "https://summitumc.net",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKaSIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKaSIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "summitumc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251474182"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cdeb72429",
+  "url": "https://constellation.church/cdeb72429",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "13819 Pleasant Valley Rd",
+    "city": "Logan",
+    "state": "OH",
+    "zip": "43138-8514"
+  },
+  "coordinates": {
+    "latitude": 39.531280517578125,
+    "longitude": -82.50260162353516
+  },
+  "website": "https://stjohnlutheranlogan.org/about",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dd7a9224-8494-4ce2-a712-984603ded5eb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dd7a9224-8494-4ce2-a712-984603ded5eb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnlutheranlogan.org/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800223282"
+    }
+  ],
+  "advisories": []
+}

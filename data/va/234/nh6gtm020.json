@@ -1,0 +1,33 @@
+{
+  "id": "nh6gtm020",
+  "url": "https://constellation.church/nh6gtm020",
+  "name": "Providence Presbyterian Church",
+  "displayName": "Providence Presbyterian Church",
+  "address": {
+    "street": "5497 Providence Rd.",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23464"
+  },
+  "coordinates": {
+    "latitude": 36.8154293,
+    "longitude": -76.1777326
+  },
+  "website": "https://provpres.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/23300/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "23300"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "provpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541070191"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cty2whe87",
+  "url": "https://constellation.church/cty2whe87",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "1409 Ridge Ave",
+    "city": "Mass City",
+    "state": "MI",
+    "zip": "49948-9620"
+  },
+  "coordinates": {
+    "latitude": 46.76459503173828,
+    "longitude": -89.07999420166016
+  },
+  "website": "https://northernlights-up.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f2873d97-408f-4ae5-9acb-32e48fd13239",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f2873d97-408f-4ae5-9acb-32e48fd13239"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northernlights-up.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "386115715"
+    }
+  ],
+  "advisories": []
+}

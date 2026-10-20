@@ -1,0 +1,33 @@
+{
+  "id": "gdkehf147",
+  "url": "https://constellation.church/gdkehf147",
+  "name": "Symsonia Baptist Church",
+  "displayName": "Symsonia Baptist Church",
+  "address": {
+    "street": "680 State Route 348 W",
+    "city": "Symsonia",
+    "state": "KY",
+    "zip": "42082"
+  },
+  "coordinates": {
+    "latitude": 36.92708396911621,
+    "longitude": -88.53025817871094
+  },
+  "website": "https://symsoniabaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/symsonia-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "symsonia-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "symsoniabaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611279801"
+    }
+  ],
+  "advisories": []
+}

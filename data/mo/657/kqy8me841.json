@@ -1,0 +1,33 @@
+{
+  "id": "kqy8me841",
+  "url": "https://constellation.church/kqy8me841",
+  "name": "Hopedale Baptist Church",
+  "displayName": "Hopedale Baptist Church",
+  "address": {
+    "street": "5370 N State Highway NN",
+    "city": "Ozark",
+    "state": "MO",
+    "zip": "65721"
+  },
+  "coordinates": {
+    "latitude": 37.06952095031738,
+    "longitude": -93.21820831298828
+  },
+  "website": "https://hopedale.org",
+  "listingUrl": "https://churches.sbc.net/church/hopedale-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hopedale-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopedale.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431303966"
+    }
+  ],
+  "advisories": []
+}

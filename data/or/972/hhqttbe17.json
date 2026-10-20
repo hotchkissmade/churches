@@ -1,0 +1,33 @@
+{
+  "id": "hhqttbe17",
+  "url": "https://constellation.church/hhqttbe17",
+  "name": "Central Lutheran Church",
+  "displayName": "Central Lutheran Church",
+  "address": {
+    "street": "1820 NE 21st Ave",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97212-4788"
+  },
+  "coordinates": {
+    "latitude": 45.536094665527344,
+    "longitude": -122.64436340332031
+  },
+  "website": "https://centralportland.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5040ed0d-d801-4934-9b4b-f6aa930afa61",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5040ed0d-d801-4934-9b4b-f6aa930afa61"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centralportland.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930417817"
+    }
+  ],
+  "advisories": []
+}

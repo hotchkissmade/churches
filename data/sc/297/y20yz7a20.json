@@ -1,0 +1,33 @@
+{
+  "id": "y20yz7a20",
+  "url": "https://constellation.church/y20yz7a20",
+  "name": "Bethel Presbyterian Church",
+  "displayName": "Bethel Presbyterian Church",
+  "address": {
+    "street": "2445 Highway 557",
+    "city": "Clover",
+    "state": "SC",
+    "zip": "29710"
+  },
+  "coordinates": {
+    "latitude": 35.11160850524902,
+    "longitude": -81.15288162231445
+  },
+  "website": "https://bethelchurchpca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/104",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "104"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelchurchpca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237382037"
+    }
+  ],
+  "advisories": []
+}

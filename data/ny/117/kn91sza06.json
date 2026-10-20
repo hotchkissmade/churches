@@ -1,0 +1,33 @@
+{
+  "id": "kn91sza06",
+  "url": "https://constellation.church/kn91sza06",
+  "name": "St. Johns church",
+  "displayName": "St. John's church",
+  "address": {
+    "street": "12 Prospect Street",
+    "city": "Huntington",
+    "state": "NY",
+    "zip": "11743"
+  },
+  "coordinates": {
+    "latitude": 40.87059020996094,
+    "longitude": -73.42945098876953
+  },
+  "website": "https://stjohnshuntington.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-johns-episcopal-church-3",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-johns-episcopal-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnshuntington.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111873619"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "j4yej5s32",
+  "url": "https://constellation.church/j4yej5s32",
+  "name": "Rincon Mountain Presbyterian Church",
+  "displayName": "Rincon Mountain Presbyterian Church",
+  "address": {
+    "street": "8445 E. Tanque Verde Road",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85749"
+  },
+  "coordinates": {
+    "latitude": 32.25951957702637,
+    "longitude": -110.81135559082031
+  },
+  "website": "https://rinconpres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4321",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4321"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rinconpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "861017524"
+    }
+  ],
+  "advisories": []
+}

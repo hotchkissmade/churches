@@ -1,0 +1,33 @@
+{
+  "id": "pnvtepp47",
+  "url": "https://constellation.church/pnvtepp47",
+  "name": "Rosedale Baptist",
+  "displayName": "Rosedale Baptist Church",
+  "address": {
+    "street": "352 Oakvale Ave",
+    "city": "Rosedale",
+    "state": "VA",
+    "zip": "24280"
+  },
+  "coordinates": {
+    "latitude": 36.96275329589844,
+    "longitude": -81.93581771850586
+  },
+  "website": "https://rosedale.church",
+  "listingUrl": "https://churches.sbc.net/church/rosedale-baptist/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "rosedale-baptist"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rosedale.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541739876"
+    }
+  ],
+  "advisories": []
+}

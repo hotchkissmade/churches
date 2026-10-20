@@ -1,0 +1,33 @@
+{
+  "id": "wn9fjrf13",
+  "url": "https://constellation.church/wn9fjrf13",
+  "name": "Blackstone Baptist Church",
+  "displayName": "Blackstone Baptist Church",
+  "address": {
+    "street": "405 S Main St",
+    "city": "Blackstone",
+    "state": "VA",
+    "zip": "23824"
+  },
+  "coordinates": {
+    "latitude": 37.077219009399414,
+    "longitude": -77.99906921386719
+  },
+  "website": "https://blackstonebaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/blackstone-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "blackstone-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blackstonebaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540608303"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "fjv081m81",
+  "url": "https://constellation.church/fjv081m81",
+  "name": "Sanctuary",
+  "displayName": "Sanctuary",
+  "address": {
+    "street": "302 Parkins Mill Rd",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29607"
+  },
+  "coordinates": {
+    "latitude": 34.83481025695801,
+    "longitude": -82.35878372192383
+  },
+  "website": "https://sanctuarygreenville.com",
+  "listingUrl": "https://churches.sbc.net/church/sanctuary/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sanctuary"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sanctuarygreenville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570422229"
+    }
+  ],
+  "advisories": []
+}

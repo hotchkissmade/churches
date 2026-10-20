@@ -1,0 +1,33 @@
+{
+  "id": "wf908wk03",
+  "url": "https://constellation.church/wf908wk03",
+  "name": "Anchor Lutheran Church",
+  "displayName": "Anchor Lutheran Church",
+  "address": {
+    "street": "214 Biltmore Pl",
+    "city": "Panama City Beach",
+    "state": "FL",
+    "zip": "32413-2833"
+  },
+  "coordinates": {
+    "latitude": 30.2198516,
+    "longitude": -85.8621966
+  },
+  "website": "https://anchorpcb.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/27362",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "27362"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "anchorpcb.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "392352834"
+    }
+  ],
+  "advisories": []
+}

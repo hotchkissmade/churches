@@ -1,0 +1,33 @@
+{
+  "id": "m126tmr65",
+  "url": "https://constellation.church/m126tmr65",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "135 Bell Rd",
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "36117"
+  },
+  "coordinates": {
+    "latitude": 32.37798500061035,
+    "longitude": -86.18986129760742
+  },
+  "website": "https://montgomeryfirst.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=b016eeb1-e6f8-4075-a973-215933165d16&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "b016eeb1-e6f8-4075-a973-215933165d16"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "montgomeryfirst.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "636085797"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kvbsxr192",
+  "url": "https://constellation.church/kvbsxr192",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "300 Gaston Ave",
+    "city": "Fairmont",
+    "state": "WV",
+    "zip": "26554-2741"
+  },
+  "coordinates": {
+    "latitude": 43.65012741088867,
+    "longitude": -94.4533920288086
+  },
+  "website": "https://gracelutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c61901ad-37a6-43f0-b0fb-3cd5ce6a8331",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c61901ad-37a6-43f0-b0fb-3cd5ce6a8331"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410797352"
+    }
+  ],
+  "advisories": []
+}

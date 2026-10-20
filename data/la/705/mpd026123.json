@@ -1,0 +1,29 @@
+{
+  "id": "mpd026123",
+  "url": "https://constellation.church/mpd026123",
+  "name": "DIOCESE OF LAFAYETTE",
+  "displayName": "Diocese of Lafayette",
+  "address": {
+    "street": "1408 CARMEL DR",
+    "city": "Lafayette",
+    "state": "LA",
+    "zip": "70501"
+  },
+  "coordinates": {
+    "latitude": 30.231876373291016,
+    "longitude": -91.98651885986328
+  },
+  "website": "https://diolaf.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720437696"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "diolaf.org"
+    }
+  ],
+  "advisories": []
+}

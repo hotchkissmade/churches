@@ -1,0 +1,33 @@
+{
+  "id": "mdf2x2x41",
+  "url": "https://constellation.church/mdf2x2x41",
+  "name": "Trinity Church",
+  "displayName": "Trinity Church",
+  "address": {
+    "street": "61770 Miami Rd",
+    "city": "South Bend",
+    "state": "IN",
+    "zip": "46614-6499"
+  },
+  "coordinates": {
+    "latitude": 41.59614372253418,
+    "longitude": -86.23372650146484
+  },
+  "website": "https://tefs.org",
+  "listingUrl": "https://churches.efca.org/?id=12353",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12353"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tefs.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351382762"
+    }
+  ],
+  "advisories": []
+}

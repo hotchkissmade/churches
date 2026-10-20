@@ -1,0 +1,33 @@
+{
+  "id": "e9dkwwk37",
+  "url": "https://constellation.church/e9dkwwk37",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "820 Lockett Rd",
+    "city": "Kirkwood",
+    "state": "MO",
+    "zip": "63122-2408"
+  },
+  "coordinates": {
+    "latitude": 38.594404220581055,
+    "longitude": -90.42709350585938
+  },
+  "website": "https://trinitykirkwood.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5c316d16-0c27-424f-b129-fd74abd0d1ff",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5c316d16-0c27-424f-b129-fd74abd0d1ff"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitykirkwood.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "436061421"
+    }
+  ],
+  "advisories": []
+}

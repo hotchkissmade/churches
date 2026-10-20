@@ -1,0 +1,33 @@
+{
+  "id": "gefykny02",
+  "url": "https://constellation.church/gefykny02",
+  "name": "St. Michael Church",
+  "displayName": "St. Michael Church",
+  "address": {
+    "street": "131 N Willow St",
+    "city": "Mount Carmel",
+    "state": "PA",
+    "zip": "17851-1122"
+  },
+  "coordinates": {
+    "latitude": 40.79772186279297,
+    "longitude": -76.42070007324219
+  },
+  "website": "https://stmichaelsorthodoxchurch.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ep-mtcsmc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ep-mtcsmc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmichaelsorthodoxchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232271810"
+    }
+  ],
+  "advisories": []
+}

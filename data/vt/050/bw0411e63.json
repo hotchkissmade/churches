@@ -1,0 +1,33 @@
+{
+  "id": "bw0411e63",
+  "url": "https://constellation.church/bw0411e63",
+  "name": "Trinity EFC",
+  "displayName": "Trinity Evangelical Free Church",
+  "address": {
+    "street": "44 Main St",
+    "city": "Windsor",
+    "state": "VT",
+    "zip": "05089"
+  },
+  "coordinates": {
+    "latitude": 43.481882095336914,
+    "longitude": -72.3856086730957
+  },
+  "website": "https://trinitywindsor.com",
+  "listingUrl": "https://churches.efca.org/?id=12648",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12648"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitywindsor.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030273966"
+    }
+  ],
+  "advisories": []
+}

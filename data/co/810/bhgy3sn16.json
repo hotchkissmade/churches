@@ -1,0 +1,33 @@
+{
+  "id": "bhgy3sn16",
+  "url": "https://constellation.church/bhgy3sn16",
+  "name": "Majestic Baptist Church",
+  "displayName": "Majestic Baptist Church",
+  "address": {
+    "street": "494 E Hemlock Dr",
+    "city": "Pueblo West",
+    "state": "CO",
+    "zip": "81007"
+  },
+  "coordinates": {
+    "latitude": 38.30105018615723,
+    "longitude": -104.71977233886719
+  },
+  "website": "https://majesticchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/majestic-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "majestic-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "majesticchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "841358122"
+    }
+  ],
+  "advisories": []
+}

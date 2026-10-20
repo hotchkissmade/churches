@@ -1,0 +1,29 @@
+{
+  "id": "cdk537474",
+  "url": "https://constellation.church/cdk537474",
+  "name": "EPIC CHURCH",
+  "displayName": "Epic Church",
+  "address": {
+    "street": "150 MONUMENT ROAD",
+    "city": "Bala Cynwyd",
+    "state": "PA",
+    "zip": "19004"
+  },
+  "coordinates": {
+    "latitude": 40.011423110961914,
+    "longitude": -75.21774673461914
+  },
+  "website": "https://epic.church",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "208869397"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "epic.church"
+    }
+  ],
+  "advisories": []
+}

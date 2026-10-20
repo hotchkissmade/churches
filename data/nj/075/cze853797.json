@@ -1,0 +1,33 @@
+{
+  "id": "cze853797",
+  "url": "https://constellation.church/cze853797",
+  "name": "St. Paul's Episcopal Church",
+  "displayName": "St. Paul's Episcopal Church",
+  "address": {
+    "street": "422 Broadway",
+    "city": "Paterson",
+    "state": "NJ",
+    "zip": "07501-2119"
+  },
+  "coordinates": {
+    "latitude": 40.918060302734375,
+    "longitude": -74.15603256225586
+  },
+  "website": "https://stpaulspaterson.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-newark/list/st-pauls-episcopal-church-3",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-newark/st-pauls-episcopal-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulspaterson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221568156"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "j30zn4v21",
+  "url": "https://constellation.church/j30zn4v21",
+  "name": "First Baptist Church Iberia",
+  "displayName": "First Baptist Church Iberia",
+  "address": {
+    "street": "3 Bonnie Dr",
+    "city": "Iberia",
+    "state": "MO",
+    "zip": "65486"
+  },
+  "coordinates": {
+    "latitude": 38.10028076171875,
+    "longitude": -92.31243896484375
+  },
+  "website": "https://fbciberia.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-iberia/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-iberia"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbciberia.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431304755"
+    }
+  ],
+  "advisories": []
+}

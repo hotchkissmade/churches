@@ -1,0 +1,33 @@
+{
+  "id": "qk6s33a22",
+  "url": "https://constellation.church/qk6s33a22",
+  "name": "South Columbia Baptist Church",
+  "displayName": "South Columbia Baptist Church",
+  "address": {
+    "street": "8814 Guilford Rd",
+    "city": "Columbia",
+    "state": "MD",
+    "zip": "21046"
+  },
+  "coordinates": {
+    "latitude": 39.16749572753906,
+    "longitude": -76.85840225219727
+  },
+  "website": "https://scbcmd.org",
+  "listingUrl": "https://churches.sbc.net/church/south-columbia-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "south-columbia-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "scbcmd.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911889940"
+    }
+  ],
+  "advisories": []
+}

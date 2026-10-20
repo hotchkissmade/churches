@@ -1,0 +1,29 @@
+{
+  "id": "s0me45480",
+  "url": "https://constellation.church/s0me45480",
+  "name": "MAIN STREET CHURCH",
+  "displayName": "Main Street Church",
+  "address": {
+    "street": "116 N MAIN ST",
+    "city": "Saint Charles",
+    "state": "MO",
+    "zip": "63301"
+  },
+  "coordinates": {
+    "latitude": 38.7815055847168,
+    "longitude": -90.48097229003906
+  },
+  "website": "https://churchonmain.com",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "261215747"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchonmain.com"
+    }
+  ],
+  "advisories": []
+}

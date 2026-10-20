@@ -1,0 +1,33 @@
+{
+  "id": "af93df696",
+  "url": "https://constellation.church/af93df696",
+  "name": "The Vine",
+  "displayName": "The Vine",
+  "address": {
+    "street": "1 S Main St.",
+    "city": "Smithsburg",
+    "state": "MD",
+    "zip": "21783"
+  },
+  "coordinates": {
+    "latitude": 39.65465545654297,
+    "longitude": -77.57269287109375
+  },
+  "website": "https://thevinebic.com",
+  "listingUrl": "https://bicus.org/church/the-vine/",
+  "identifiers": [
+    {
+      "namespace": "org.bicus.id",
+      "value": "19342"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thevinebic.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "262524743"
+    }
+  ],
+  "advisories": []
+}

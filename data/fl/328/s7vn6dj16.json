@@ -1,0 +1,33 @@
+{
+  "id": "s7vn6dj16",
+  "url": "https://constellation.church/s7vn6dj16",
+  "name": "Iglesia Bautista El Camino",
+  "displayName": "Iglesia Bautista El Camino",
+  "address": {
+    "street": "5815 Cornelia Ave",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32807"
+  },
+  "coordinates": {
+    "latitude": 28.568693161010742,
+    "longitude": -81.30910110473633
+  },
+  "website": "https://elcaminoorlando.org",
+  "listingUrl": "https://churches.sbc.net/church/iglesia-bautista-el-camino/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "iglesia-bautista-el-camino"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elcaminoorlando.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593157865"
+    }
+  ],
+  "advisories": []
+}

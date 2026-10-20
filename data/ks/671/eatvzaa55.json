@@ -1,0 +1,33 @@
+{
+  "id": "eatvzaa55",
+  "url": "https://constellation.church/eatvzaa55",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "1020 N 2nd Ave",
+    "city": "Mulvane",
+    "state": "KS",
+    "zip": "67110"
+  },
+  "coordinates": {
+    "latitude": 37.48498725891113,
+    "longitude": -97.24360656738281
+  },
+  "website": "https://fbcmulvane.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-990/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-990"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcmulvane.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480821298"
+    }
+  ],
+  "advisories": []
+}

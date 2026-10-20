@@ -1,0 +1,33 @@
+{
+  "id": "v1vnptf25",
+  "url": "https://constellation.church/v1vnptf25",
+  "name": "Westhills Church, Incorporated",
+  "displayName": "Westhills Church",
+  "address": {
+    "street": "159 Liberty Rd",
+    "city": "Villa Rica",
+    "state": "GA",
+    "zip": "30180"
+  },
+  "coordinates": {
+    "latitude": 33.71791648864746,
+    "longitude": -84.90133666992188
+  },
+  "website": "https://westhillschurch.org",
+  "listingUrl": "https://churches.sbc.net/church/westhills-church-incorporated/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "westhills-church-incorporated"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westhillschurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "261085759"
+    }
+  ],
+  "advisories": []
+}

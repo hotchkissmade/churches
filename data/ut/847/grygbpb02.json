@@ -1,0 +1,33 @@
+{
+  "id": "grygbpb02",
+  "url": "https://constellation.church/grygbpb02",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "410 E 1935 N",
+    "city": "Cedar City",
+    "state": "UT",
+    "zip": "84720-9735"
+  },
+  "coordinates": {
+    "latitude": 37.71212959289551,
+    "longitude": -113.0553207397461
+  },
+  "website": "https://cedarlutheran.org",
+  "listingUrl": "https://locator.lcms.org/church/C/140569",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "140569"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cedarlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "870505642"
+    }
+  ],
+  "advisories": []
+}

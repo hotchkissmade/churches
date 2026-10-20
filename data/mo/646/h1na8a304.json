@@ -1,0 +1,33 @@
+{
+  "id": "h1na8a304",
+  "url": "https://constellation.church/h1na8a304",
+  "name": "Grace Episcopal Church",
+  "displayName": "Grace Episcopal Church",
+  "address": {
+    "street": "421 Elm St.",
+    "city": "Chillicothe",
+    "state": "MO",
+    "zip": "64601-2610"
+  },
+  "coordinates": {
+    "latitude": 39.791500091552734,
+    "longitude": -93.55091857910156
+  },
+  "website": "https://gracechillicothe.diowestmo.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-missouri/list/grace-episcopal-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-missouri/grace-episcopal-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracechillicothe.diowestmo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "446012322"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "d67e33x71",
+  "url": "https://constellation.church/d67e33x71",
+  "name": "First English Lutheran Church",
+  "displayName": "First English Lutheran Church",
+  "address": {
+    "street": "1015 E Main St",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43205-2374"
+  },
+  "coordinates": {
+    "latitude": 39.95766258239746,
+    "longitude": -82.97204208374023
+  },
+  "website": "https://felccolumbus.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e99c27df-660c-4061-bf84-ca3d8aac4d03",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e99c27df-660c-4061-bf84-ca3d8aac4d03"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "felccolumbus.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "314414877"
+    }
+  ],
+  "advisories": []
+}

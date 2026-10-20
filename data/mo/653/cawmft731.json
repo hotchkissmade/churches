@@ -1,0 +1,33 @@
+{
+  "id": "cawmft731",
+  "url": "https://constellation.church/cawmft731",
+  "name": "Heartland Church, Knob Noster",
+  "displayName": "Heartland Church, Knob Noster",
+  "address": {
+    "street": "777 NE 23 Hwy",
+    "city": "Knob Noster",
+    "state": "MO",
+    "zip": "65336"
+  },
+  "coordinates": {
+    "latitude": 38.868032455444336,
+    "longitude": -93.54405212402344
+  },
+  "website": "https://heartlandchurchknobnoster.com",
+  "listingUrl": "https://churches.sbc.net/church/heartland-church-knob-noster/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "heartland-church-knob-noster"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "heartlandchurchknobnoster.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431679286"
+    }
+  ],
+  "advisories": []
+}

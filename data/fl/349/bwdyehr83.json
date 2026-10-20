@@ -1,0 +1,33 @@
+{
+  "id": "bwdyehr83",
+  "url": "https://constellation.church/bwdyehr83",
+  "name": "Westside Baptist Church",
+  "displayName": "Westside Baptist Church",
+  "address": {
+    "street": "3361 S Jenkins Rd",
+    "city": "Fort Pierce",
+    "state": "FL",
+    "zip": "34981"
+  },
+  "coordinates": {
+    "latitude": 27.405500411987305,
+    "longitude": -80.38546752929688
+  },
+  "website": "https://westside.church",
+  "listingUrl": "https://churches.sbc.net/church/westside-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "westside-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westside.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591146479"
+    }
+  ],
+  "advisories": []
+}

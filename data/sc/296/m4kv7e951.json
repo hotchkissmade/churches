@@ -1,0 +1,33 @@
+{
+  "id": "m4kv7e951",
+  "url": "https://constellation.church/m4kv7e951",
+  "name": "Clemson Presbyterian Church",
+  "displayName": "Clemson Presbyterian Church",
+  "address": {
+    "street": "346 Old Greenville Highway",
+    "city": "Clemson",
+    "state": "SC",
+    "zip": "29631"
+  },
+  "coordinates": {
+    "latitude": 34.68075370788574,
+    "longitude": -82.81796264648438
+  },
+  "website": "https://clemsonpres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/207",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "207"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clemsonpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570812699"
+    }
+  ],
+  "advisories": []
+}

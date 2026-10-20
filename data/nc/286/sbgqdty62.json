@@ -1,0 +1,33 @@
+{
+  "id": "sbgqdty62",
+  "url": "https://constellation.church/sbgqdty62",
+  "name": "Elkin Valley Baptist Church",
+  "displayName": "Elkin Valley Baptist Church",
+  "address": {
+    "street": "118 N Elkin Dr",
+    "city": "Elkin",
+    "state": "NC",
+    "zip": "28621"
+  },
+  "coordinates": {
+    "latitude": 36.2734432220459,
+    "longitude": -80.85208129882812
+  },
+  "website": "https://evbcfamily.org/watch-online",
+  "listingUrl": "https://churches.sbc.net/church/elkin-valley-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "elkin-valley-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "evbcfamily.org/watch-online"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561241130"
+    }
+  ],
+  "advisories": []
+}

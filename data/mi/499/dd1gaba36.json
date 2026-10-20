@@ -1,0 +1,33 @@
+{
+  "id": "dd1gaba36",
+  "url": "https://constellation.church/dd1gaba36",
+  "name": "Mission United Lutheran Church",
+  "displayName": "Mission United Lutheran Church",
+  "address": {
+    "street": "16463 Pelkie Rd",
+    "city": "Pelkie",
+    "state": "MI",
+    "zip": "49958"
+  },
+  "coordinates": {
+    "latitude": 46.7812614440918,
+    "longitude": -88.62985229492188
+  },
+  "website": "https://mulc-mi.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bbbaf9c6-b5d0-47c4-8a00-b56e89f1c46a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bbbaf9c6-b5d0-47c4-8a00-b56e89f1c46a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mulc-mi.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382353555"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "fdv8f5y02",
+  "url": "https://constellation.church/fdv8f5y02",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "1301 Indiana Ave",
+    "city": "Monaca",
+    "state": "PA",
+    "zip": "15061-1915"
+  },
+  "coordinates": {
+    "latitude": 40.69130516052246,
+    "longitude": -80.27367401123047
+  },
+  "website": "https://fpcmonaca.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/7195/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "7195"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcmonaca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "256007159"
+    }
+  ],
+  "advisories": []
+}

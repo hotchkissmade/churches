@@ -1,0 +1,33 @@
+{
+  "id": "vmqzvvt06",
+  "url": "https://constellation.church/vmqzvvt06",
+  "name": "Holy Trinity Church",
+  "displayName": "Holy Trinity Church",
+  "address": {
+    "street": "90 Park St",
+    "city": "Springfield",
+    "state": "VT",
+    "zip": "05156"
+  },
+  "coordinates": {
+    "latitude": 43.2978630065918,
+    "longitude": -72.48601150512695
+  },
+  "website": "https://htocvt.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ne-svthtc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ne-svthtc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "htocvt.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030268814"
+    }
+  ],
+  "advisories": []
+}

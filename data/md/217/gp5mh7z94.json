@@ -1,0 +1,33 @@
+{
+  "id": "gp5mh7z94",
+  "url": "https://constellation.church/gp5mh7z94",
+  "name": "Chapel Lutheran Church",
+  "displayName": "Chapel Lutheran Church",
+  "address": {
+    "street": "11109 Daysville Rd",
+    "city": "Frederick",
+    "state": "MD",
+    "zip": "21701-2208"
+  },
+  "coordinates": {
+    "latitude": 39.486778259277344,
+    "longitude": -77.27931594848633
+  },
+  "website": "https://chapellutheranchurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c5e0d43f-b66c-474b-8ddf-57e211e64786",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c5e0d43f-b66c-474b-8ddf-57e211e64786"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chapellutheranchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521322014"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bxs15j614",
+  "url": "https://constellation.church/bxs15j614",
+  "name": "CityLine Bible Church",
+  "displayName": "CityLine Bible Church",
+  "address": {
+    "street": "7333 N Caldwell Ave",
+    "city": "Niles",
+    "state": "IL",
+    "zip": "60714"
+  },
+  "coordinates": {
+    "latitude": 42.01553153991699,
+    "longitude": -87.79014587402344
+  },
+  "website": "https://cityline.church",
+  "listingUrl": "https://churches.sbc.net/church/cityline-bible-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cityline-bible-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cityline.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "841945773"
+    }
+  ],
+  "advisories": []
+}

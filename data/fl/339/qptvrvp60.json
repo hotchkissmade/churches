@@ -1,0 +1,33 @@
+{
+  "id": "qptvrvp60",
+  "url": "https://constellation.church/qptvrvp60",
+  "name": "Northside Baptist Church",
+  "displayName": "Northside Baptist Church",
+  "address": {
+    "street": "8250 Littleton Rd",
+    "city": "North Fort Myers",
+    "state": "FL",
+    "zip": "33903"
+  },
+  "coordinates": {
+    "latitude": 26.697555541992188,
+    "longitude": -81.89577865600586
+  },
+  "website": "https://northsidebc.com",
+  "listingUrl": "https://churches.sbc.net/church/northside-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northside-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northsidebc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592183842"
+    }
+  ],
+  "advisories": []
+}

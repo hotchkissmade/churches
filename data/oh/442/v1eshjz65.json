@@ -1,0 +1,33 @@
+{
+  "id": "v1eshjz65",
+  "url": "https://constellation.church/v1eshjz65",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "7656 State Route 82",
+    "city": "Garrettsville",
+    "state": "OH",
+    "zip": "44231"
+  },
+  "coordinates": {
+    "latitude": 41.291072845458984,
+    "longitude": -81.11510848999023
+  },
+  "website": "https://fbcgarrettsville.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-650/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-650"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcgarrettsville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341432112"
+    }
+  ],
+  "advisories": []
+}

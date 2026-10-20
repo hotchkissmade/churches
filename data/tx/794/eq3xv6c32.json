@@ -1,0 +1,33 @@
+{
+  "id": "eq3xv6c32",
+  "url": "https://constellation.church/eq3xv6c32",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "3801 98Th St",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79423"
+  },
+  "coordinates": {
+    "latitude": 33.50362968444824,
+    "longitude": -101.89685821533203
+  },
+  "website": "https://lubbockag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f0d11c89-b862-4410-8dff-a2a92e38aeeb&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f0d11c89-b862-4410-8dff-a2a92e38aeeb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lubbockag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751414399"
+    }
+  ],
+  "advisories": []
+}

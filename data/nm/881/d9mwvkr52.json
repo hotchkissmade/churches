@@ -1,0 +1,33 @@
+{
+  "id": "d9mwvkr52",
+  "url": "https://constellation.church/d9mwvkr52",
+  "name": "Parkland Baptist Church",
+  "displayName": "Parkland Baptist Church",
+  "address": {
+    "street": "921 Parkland Dr",
+    "city": "Clovis",
+    "state": "NM",
+    "zip": "88101"
+  },
+  "coordinates": {
+    "latitude": 34.42242622375488,
+    "longitude": -103.19395446777344
+  },
+  "website": "https://parklandonline.net",
+  "listingUrl": "https://churches.sbc.net/church/parkland-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "parkland-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parklandonline.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850199858"
+    }
+  ],
+  "advisories": []
+}

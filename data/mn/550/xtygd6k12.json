@@ -1,0 +1,33 @@
+{
+  "id": "xtygd6k12",
+  "url": "https://constellation.church/xtygd6k12",
+  "name": "Siloa Lutheran Church",
+  "displayName": "Siloa Lutheran Church",
+  "address": {
+    "street": "2607 405th Ave NW",
+    "city": "Braham",
+    "state": "MN",
+    "zip": "55006-3509"
+  },
+  "coordinates": {
+    "latitude": 45.70228385925293,
+    "longitude": -93.33291625976562
+  },
+  "website": "https://siloalutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2ee0ffeb-1d70-4242-9a43-ae7f902b2695",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2ee0ffeb-1d70-4242-9a43-ae7f902b2695"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "siloalutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411549398"
+    }
+  ],
+  "advisories": []
+}

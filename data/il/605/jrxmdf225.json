@@ -1,0 +1,33 @@
+{
+  "id": "jrxmdf225",
+  "url": "https://constellation.church/jrxmdf225",
+  "name": "Oswego Presbyterian Church",
+  "displayName": "Oswego Presbyterian Church",
+  "address": {
+    "street": "1976 Rt 25",
+    "city": "Oswego",
+    "state": "IL",
+    "zip": "60543-9834"
+  },
+  "coordinates": {
+    "latitude": 41.693603515625,
+    "longitude": -88.34645080566406
+  },
+  "website": "https://opchurch.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/1821/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "1821"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "opchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362792245"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "w319pm088",
+  "url": "https://constellation.church/w319pm088",
+  "name": "Crossroads Church",
+  "displayName": "Crossroads Church",
+  "address": {
+    "street": "150 Verona Dr",
+    "city": "Lafayette",
+    "state": "LA",
+    "zip": "70507"
+  },
+  "coordinates": {
+    "latitude": 30.259830474853516,
+    "longitude": -92.01946258544922
+  },
+  "website": "https://mycrossroads.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=1ddcb75f-93aa-4cad-ae8a-2ab4ece7f077&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "1ddcb75f-93aa-4cad-ae8a-2ab4ece7f077"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mycrossroads.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720960078"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ybsp1xg79",
+  "url": "https://constellation.church/ybsp1xg79",
+  "name": "First Baptist Church Centralia",
+  "displayName": "First Baptist Church Centralia",
+  "address": {
+    "street": "101 S Collier St",
+    "city": "Centralia",
+    "state": "MO",
+    "zip": "65240"
+  },
+  "coordinates": {
+    "latitude": 39.2109375,
+    "longitude": -92.13678741455078
+  },
+  "website": "https://centraliafbc.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-centralia/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-centralia"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centraliafbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430670928"
+    }
+  ],
+  "advisories": []
+}

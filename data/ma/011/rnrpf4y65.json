@@ -1,0 +1,33 @@
+{
+  "id": "rnrpf4y65",
+  "url": "https://constellation.church/rnrpf4y65",
+  "name": "SS. Peter and Paul Church",
+  "displayName": "SS. Peter and Paul Church",
+  "address": {
+    "street": "118 Carew St",
+    "city": "Springfield",
+    "state": "MA",
+    "zip": "01104"
+  },
+  "coordinates": {
+    "latitude": 42.11256408691406,
+    "longitude": -72.59844589233398
+  },
+  "website": "https://stspp.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ne-spispp",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ne-spispp"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stspp.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "046000817"
+    }
+  ],
+  "advisories": []
+}

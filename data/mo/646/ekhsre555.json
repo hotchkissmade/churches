@@ -1,0 +1,33 @@
+{
+  "id": "ekhsre555",
+  "url": "https://constellation.church/ekhsre555",
+  "name": "First Baptist Church Trenton",
+  "displayName": "First Baptist Church Trenton",
+  "address": {
+    "street": "2421 Oklahoma Ave",
+    "city": "Trenton",
+    "state": "MO",
+    "zip": "64683"
+  },
+  "coordinates": {
+    "latitude": 40.08740425109863,
+    "longitude": -93.60417175292969
+  },
+  "website": "https://fbctrenton.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-trenton/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-trenton"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbctrenton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440590011"
+    }
+  ],
+  "advisories": []
+}

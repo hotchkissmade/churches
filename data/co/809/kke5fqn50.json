@@ -1,0 +1,33 @@
+{
+  "id": "kke5fqn50",
+  "url": "https://constellation.church/kke5fqn50",
+  "name": "Waypoint Church",
+  "displayName": "Waypoint Church",
+  "address": {
+    "street": "6350 Windom Peak Blvd",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80923"
+  },
+  "coordinates": {
+    "latitude": 38.92029571533203,
+    "longitude": -104.71029663085938
+  },
+  "website": "https://waypointcos.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6650",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6650"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "waypointcos.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "862027828"
+    }
+  ],
+  "advisories": []
+}

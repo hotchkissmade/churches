@@ -1,0 +1,33 @@
+{
+  "id": "zp5qd3j36",
+  "url": "https://constellation.church/zp5qd3j36",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "9100 Menaul Blvd NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87112-2233"
+  },
+  "coordinates": {
+    "latitude": 35.10848808288574,
+    "longitude": -106.5401611328125
+  },
+  "website": "https://stlukeabq.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f4df0948-9fe0-4467-b645-58e9c6d87162",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f4df0948-9fe0-4467-b645-58e9c6d87162"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukeabq.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "856003664"
+    }
+  ],
+  "advisories": []
+}

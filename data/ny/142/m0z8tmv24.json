@@ -1,0 +1,33 @@
+{
+  "id": "m0z8tmv24",
+  "url": "https://constellation.church/m0z8tmv24",
+  "name": "St Paul Evangelical Lutheran Church",
+  "displayName": "St. Paul Evangelical Lutheran Church",
+  "address": {
+    "street": "68 Eagle St",
+    "city": "Williamsville",
+    "state": "NY",
+    "zip": "14221-5551"
+  },
+  "coordinates": {
+    "latitude": 42.96513366699219,
+    "longitude": -78.74041748046875
+  },
+  "website": "https://stpaulswilliamsville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5e61cfee-70de-4d8b-96b2-d2c0b88ce568",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5e61cfee-70de-4d8b-96b2-d2c0b88ce568"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulswilliamsville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "166002724"
+    }
+  ],
+  "advisories": []
+}

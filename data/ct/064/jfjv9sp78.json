@@ -1,0 +1,33 @@
+{
+  "id": "jfjv9sp78",
+  "url": "https://constellation.church/jfjv9sp78",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "531 Woodruff St",
+    "city": "Southington",
+    "state": "CT",
+    "zip": "06489-2716"
+  },
+  "coordinates": {
+    "latitude": 41.605472564697266,
+    "longitude": -72.85665512084961
+  },
+  "website": "https://zionlutheranct.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=42dcadc1-9256-4eb3-9089-d3d3b21c6c34",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "42dcadc1-9256-4eb3-9089-d3d3b21c6c34"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionlutheranct.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "066012017"
+    }
+  ],
+  "advisories": []
+}

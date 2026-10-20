@@ -1,0 +1,33 @@
+{
+  "id": "kcctztx20",
+  "url": "https://constellation.church/kcctztx20",
+  "name": "Foreman Memorial Baptist Church",
+  "displayName": "Foreman Memorial Baptist Church",
+  "address": {
+    "street": "207 Smith Ave",
+    "city": "New Ellenton",
+    "state": "SC",
+    "zip": "29809"
+  },
+  "coordinates": {
+    "latitude": 33.42106819152832,
+    "longitude": -81.68886947631836
+  },
+  "website": "https://foremanbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/foreman-memorial-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "foreman-memorial-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "foremanbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570759895"
+    }
+  ],
+  "advisories": []
+}

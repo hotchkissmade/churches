@@ -1,0 +1,33 @@
+{
+  "id": "hv2xtwp28",
+  "url": "https://constellation.church/hv2xtwp28",
+  "name": "First Baptist Church of Sylvania, Inc.",
+  "displayName": "First Baptist Church of Sylvania",
+  "address": {
+    "street": "214 S Main St",
+    "city": "Sylvania",
+    "state": "GA",
+    "zip": "30467"
+  },
+  "coordinates": {
+    "latitude": 32.749189376831055,
+    "longitude": -81.63610076904297
+  },
+  "website": "https://fbcsylvania.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-sylvania-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-sylvania-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcsylvania.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580838386"
+    }
+  ],
+  "advisories": []
+}

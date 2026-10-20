@@ -1,0 +1,33 @@
+{
+  "id": "scmq1wh41",
+  "url": "https://constellation.church/scmq1wh41",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "316 S Mountain Blvd",
+    "city": "Mountain Top",
+    "state": "PA",
+    "zip": "18707-1916"
+  },
+  "coordinates": {
+    "latitude": 41.13456726074219,
+    "longitude": -75.90311813354492
+  },
+  "website": "https://stpaulsmttop.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c81f2467-00dd-49b3-9c18-73c4f20ec4dd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c81f2467-00dd-49b3-9c18-73c4f20ec4dd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsmttop.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232152871"
+    }
+  ],
+  "advisories": []
+}

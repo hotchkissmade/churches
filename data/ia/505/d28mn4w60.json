@@ -1,0 +1,33 @@
+{
+  "id": "d28mn4w60",
+  "url": "https://constellation.church/d28mn4w60",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "1614 W 5th St",
+    "city": "Storm Lake",
+    "state": "IA",
+    "zip": "50588-3030"
+  },
+  "coordinates": {
+    "latitude": 42.644248962402344,
+    "longitude": -95.22410583496094
+  },
+  "website": "https://stmarkstormlake.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ffae29ae-6bfa-4220-ad21-e8131265c462",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ffae29ae-6bfa-4220-ad21-e8131265c462"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkstormlake.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420871971"
+    }
+  ],
+  "advisories": []
+}

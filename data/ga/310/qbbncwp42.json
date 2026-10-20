@@ -1,0 +1,33 @@
+{
+  "id": "qbbncwp42",
+  "url": "https://constellation.church/qbbncwp42",
+  "name": "First Baptist Church of Gray, Inc.",
+  "displayName": "First Baptist Church of Gray",
+  "address": {
+    "street": "134 W Clinton St",
+    "city": "Gray",
+    "state": "GA",
+    "zip": "31032"
+  },
+  "coordinates": {
+    "latitude": 33.008928298950195,
+    "longitude": -83.53728485107422
+  },
+  "website": "https://fbcgray.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-gray-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-gray-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcgray.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581313496"
+    }
+  ],
+  "advisories": []
+}

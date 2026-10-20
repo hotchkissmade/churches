@@ -1,0 +1,33 @@
+{
+  "id": "qpx333311",
+  "url": "https://constellation.church/qpx333311",
+  "name": "Mora United Methodist Church",
+  "displayName": "Mora United Methodist Church",
+  "address": {
+    "street": "500 Clark St",
+    "city": "Mora",
+    "state": "MN",
+    "zip": "55051-1804"
+  },
+  "coordinates": {
+    "latitude": 45.871856689453125,
+    "longitude": -93.29069519042969
+  },
+  "website": "https://moraumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFFQbIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFFQbIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "moraumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411541385"
+    }
+  ],
+  "advisories": []
+}

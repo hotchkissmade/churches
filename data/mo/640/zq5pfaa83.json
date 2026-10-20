@@ -1,0 +1,33 @@
+{
+  "id": "zq5pfaa83",
+  "url": "https://constellation.church/zq5pfaa83",
+  "name": "First Baptist Church Lees Summit",
+  "displayName": "First Baptist Church Lees Summit",
+  "address": {
+    "street": "2 NE Douglas St",
+    "city": "Lees Summit",
+    "state": "MO",
+    "zip": "64063"
+  },
+  "coordinates": {
+    "latitude": 38.91587829589844,
+    "longitude": -94.37898254394531
+  },
+  "website": "https://fbcls.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-lees-summit/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-lees-summit"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcls.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440572966"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dcnpybg34",
+  "url": "https://constellation.church/dcnpybg34",
+  "name": "Eau Claire Presbyterian Church",
+  "displayName": "Eau Claire Presbyterian Church",
+  "address": {
+    "street": "629 Wildwood Avenue",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29203"
+  },
+  "coordinates": {
+    "latitude": 34.04294013977051,
+    "longitude": -81.04361343383789
+  },
+  "website": "https://ecpchurch.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/336",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "336"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ecpchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570324918"
+    }
+  ],
+  "advisories": []
+}

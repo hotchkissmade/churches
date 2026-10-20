@@ -1,0 +1,33 @@
+{
+  "id": "v1c35k369",
+  "url": "https://constellation.church/v1c35k369",
+  "name": "Boonsboro Presbyterian Church",
+  "displayName": "Boonsboro Presbyterian Church",
+  "address": {
+    "street": "2025 Mimosa Drive",
+    "city": "Lynchburg",
+    "state": "VA",
+    "zip": "24503"
+  },
+  "coordinates": {
+    "latitude": 37.44069290161133,
+    "longitude": -79.21374893188477
+  },
+  "website": "https://boonsboropres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4550",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4550"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "boonsboropres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "020715174"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "grxwwen10",
+  "url": "https://constellation.church/grxwwen10",
+  "name": "Klondike Baptist Church",
+  "displayName": "Klondike Baptist Church",
+  "address": {
+    "street": "7201 Klondike Rd",
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32526"
+  },
+  "coordinates": {
+    "latitude": 30.497709274291992,
+    "longitude": -87.33191299438477
+  },
+  "website": "https://lovepensacola.org",
+  "listingUrl": "https://churches.sbc.net/church/klondike-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "klondike-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lovepensacola.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593174481"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "z5ry0hg59",
+  "url": "https://constellation.church/z5ry0hg59",
+  "name": "Emmanuel Lutheran Church",
+  "displayName": "Emmanuel Lutheran Church",
+  "address": {
+    "street": "790 Tamiami Trl S",
+    "city": "Venice",
+    "state": "FL",
+    "zip": "34285-3601"
+  },
+  "coordinates": {
+    "latitude": 27.116750717163086,
+    "longitude": -82.45033645629883
+  },
+  "website": "https://emmanuel-elca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e50de7e7-cb71-45db-a6ef-fbc924026943",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e50de7e7-cb71-45db-a6ef-fbc924026943"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emmanuel-elca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591351925"
+    }
+  ],
+  "advisories": []
+}

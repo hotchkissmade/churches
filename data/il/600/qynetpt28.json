@@ -1,0 +1,37 @@
+{
+  "id": "qynetpt28",
+  "url": "https://constellation.church/qynetpt28",
+  "name": "Jerusalem Lutheran Church",
+  "displayName": "Jerusalem Lutheran Church",
+  "address": {
+    "street": "6218 Capulina Ave",
+    "city": "Morton Grove",
+    "state": "IL",
+    "zip": "60053-2809"
+  },
+  "coordinates": {
+    "latitude": 42.03845024108887,
+    "longitude": -87.78193664550781
+  },
+  "website": "https://jerusalemlutheran.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24754",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24754"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jerusalemlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362414935"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362481035"
+    }
+  ],
+  "advisories": []
+}

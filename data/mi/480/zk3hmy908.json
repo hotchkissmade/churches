@@ -1,0 +1,33 @@
+{
+  "id": "zk3hmy908",
+  "url": "https://constellation.church/zk3hmy908",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "123 S 7th St",
+    "city": "Saint Clair",
+    "state": "MI",
+    "zip": "48079-5374"
+  },
+  "coordinates": {
+    "latitude": 42.82453536987305,
+    "longitude": -82.49087905883789
+  },
+  "website": "https://stpeterstclair.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e3ff9d97-fa42-4fc3-8f2a-a9b23d073ed2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e3ff9d97-fa42-4fc3-8f2a-a9b23d073ed2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpeterstclair.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382023278"
+    }
+  ],
+  "advisories": []
+}

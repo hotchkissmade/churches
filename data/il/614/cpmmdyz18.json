@@ -1,0 +1,33 @@
+{
+  "id": "cpmmdyz18",
+  "url": "https://constellation.church/cpmmdyz18",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "364 E Water St",
+    "city": "Galesburg",
+    "state": "IL",
+    "zip": "61401-4820"
+  },
+  "coordinates": {
+    "latitude": 40.94961166381836,
+    "longitude": -90.3652114868164
+  },
+  "website": "https://galesburgfirstlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a053e6a7-1689-4ff2-bb97-cf9793d68502",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a053e6a7-1689-4ff2-bb97-cf9793d68502"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "galesburgfirstlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370673494"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "yw4ca7818",
+  "url": "https://constellation.church/yw4ca7818",
+  "name": "Connections Church",
+  "displayName": "Connections Church",
+  "address": {
+    "street": "1900 S Monroe Ste 200 Tallahassee",
+    "city": null,
+    "state": "FL",
+    "zip": "32301"
+  },
+  "coordinates": {
+    "latitude": 30.4234619140625,
+    "longitude": -84.28092575073242
+  },
+  "website": "https://connect-ag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=c924b1de-9d39-4f94-b5e3-7884fd17dadf&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "c924b1de-9d39-4f94-b5e3-7884fd17dadf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "connect-ag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "274725249"
+    }
+  ],
+  "advisories": []
+}

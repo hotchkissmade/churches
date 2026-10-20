@@ -1,0 +1,33 @@
+{
+  "id": "s75w4kx20",
+  "url": "https://constellation.church/s75w4kx20",
+  "name": "Fox Valley Church",
+  "displayName": "Fox Valley Church",
+  "address": {
+    "street": "1200 W Kimberly Ave",
+    "city": "Kimberly",
+    "state": "WI",
+    "zip": "54136"
+  },
+  "coordinates": {
+    "latitude": 44.26988983154297,
+    "longitude": -88.35044860839844
+  },
+  "website": "https://foxvalley.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=7c5ed08f-a08d-4f22-bddb-be851cb74ffa&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "7c5ed08f-a08d-4f22-bddb-be851cb74ffa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "foxvalley.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391902500"
+    }
+  ],
+  "advisories": []
+}

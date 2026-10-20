@@ -1,0 +1,33 @@
+{
+  "id": "gf2bgkv97",
+  "url": "https://constellation.church/gf2bgkv97",
+  "name": "St Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "327 S 12th St",
+    "city": "Livingston",
+    "state": "MT",
+    "zip": "59047-2933"
+  },
+  "coordinates": {
+    "latitude": 45.651838302612305,
+    "longitude": -110.56925964355469
+  },
+  "website": "https://stpaulslivingston.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24105",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24105"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulslivingston.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "816016458"
+    }
+  ],
+  "advisories": []
+}

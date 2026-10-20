@@ -1,0 +1,33 @@
+{
+  "id": "hmpxam142",
+  "url": "https://constellation.church/hmpxam142",
+  "name": "Restoration Chapel",
+  "displayName": "Restoration Chapel",
+  "address": {
+    "street": "611 Smithfield Avenue",
+    "city": "Lincoln",
+    "state": "RI",
+    "zip": "02865"
+  },
+  "coordinates": {
+    "latitude": 41.880043029785156,
+    "longitude": -71.4151725769043
+  },
+  "website": "https://rccgrcri.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=176&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "176"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rccgrcri.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371616695"
+    }
+  ],
+  "advisories": []
+}

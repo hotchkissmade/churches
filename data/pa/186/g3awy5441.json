@@ -1,0 +1,33 @@
+{
+  "id": "g3awy5441",
+  "url": "https://constellation.church/g3awy5441",
+  "name": "St. John the Baptist Church",
+  "displayName": "St. John the Baptist Church",
+  "address": {
+    "street": "106 Welles St",
+    "city": "Nanticoke",
+    "state": "PA",
+    "zip": "18634"
+  },
+  "coordinates": {
+    "latitude": 41.18509864807129,
+    "longitude": -75.98541259765625
+  },
+  "website": "https://stjohnsnanticoke.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ep-nansjb",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ep-nansjb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsnanticoke.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232569255"
+    }
+  ],
+  "advisories": []
+}

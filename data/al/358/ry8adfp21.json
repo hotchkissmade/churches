@@ -1,0 +1,33 @@
+{
+  "id": "ry8adfp21",
+  "url": "https://constellation.church/ry8adfp21",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "5744 Oakwood Road NW",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35806"
+  },
+  "coordinates": {
+    "latitude": 34.75852012634277,
+    "longitude": -86.67566680908203
+  },
+  "website": "https://wpc-hsv.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1092",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1092"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wpc-hsv.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630506079"
+    }
+  ],
+  "advisories": []
+}

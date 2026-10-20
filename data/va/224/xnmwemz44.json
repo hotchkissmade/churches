@@ -1,0 +1,33 @@
+{
+  "id": "xnmwemz44",
+  "url": "https://constellation.church/xnmwemz44",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "1300 Augustine Ave",
+    "city": "Fredericksburg",
+    "state": "VA",
+    "zip": "22401-5306"
+  },
+  "coordinates": {
+    "latitude": 38.29924964904785,
+    "longitude": -77.47710418701172
+  },
+  "website": "https://clcfred.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0ea914d7-90c0-493a-abdf-4fdc1426d45f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0ea914d7-90c0-493a-abdf-4fdc1426d45f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clcfred.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541259281"
+    }
+  ],
+  "advisories": []
+}

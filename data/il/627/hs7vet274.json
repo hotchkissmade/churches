@@ -1,0 +1,33 @@
+{
+  "id": "hs7vet274",
+  "url": "https://constellation.church/hs7vet274",
+  "name": "Hope Church",
+  "displayName": "Hope Church",
+  "address": {
+    "street": "3000 Lenhart Rd",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62711-9203"
+  },
+  "coordinates": {
+    "latitude": 39.757673263549805,
+    "longitude": -89.75186157226562
+  },
+  "website": "https://myhope.church",
+  "listingUrl": "https://churches.efca.org/?id=12401",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12401"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "myhope.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371089506"
+    }
+  ],
+  "advisories": []
+}

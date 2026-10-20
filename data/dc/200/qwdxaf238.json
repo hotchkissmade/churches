@@ -1,0 +1,33 @@
+{
+  "id": "qwdxaf238",
+  "url": "https://constellation.church/qwdxaf238",
+  "name": "Waterfront Church DC",
+  "displayName": "Waterfront Church DC",
+  "address": {
+    "street": "100 K St SE",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20003"
+  },
+  "coordinates": {
+    "latitude": 38.878482818603516,
+    "longitude": -77.00564575195312
+  },
+  "website": "https://waterfrontchurchdc.com",
+  "listingUrl": "https://churches.sbc.net/church/waterfront-church-dc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "waterfront-church-dc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "waterfrontchurchdc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "463964223"
+    }
+  ],
+  "advisories": []
+}

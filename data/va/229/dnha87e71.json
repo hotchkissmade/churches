@@ -1,0 +1,33 @@
+{
+  "id": "dnha87e71",
+  "url": "https://constellation.church/dnha87e71",
+  "name": "Blue Run Baptist Church",
+  "displayName": "Blue Run Baptist Church",
+  "address": {
+    "street": "13267 Blue Ridge Tpke",
+    "city": "Somerset",
+    "state": "VA",
+    "zip": "22972"
+  },
+  "coordinates": {
+    "latitude": 38.22229766845703,
+    "longitude": -78.21942901611328
+  },
+  "website": "https://bluerunbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/blue-run-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "blue-run-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bluerunbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541069287"
+    }
+  ],
+  "advisories": []
+}

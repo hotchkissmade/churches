@@ -1,0 +1,33 @@
+{
+  "id": "d6ssne336",
+  "url": "https://constellation.church/d6ssne336",
+  "name": "Northview Church",
+  "displayName": "Northview Church",
+  "address": {
+    "street": "3401 25th St S",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58104"
+  },
+  "coordinates": {
+    "latitude": 46.82841873168945,
+    "longitude": -96.82112121582031
+  },
+  "website": "https://northview.life",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=7d898c39-91ab-4e49-96ef-9de0576e6b59&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "7d898c39-91ab-4e49-96ef-9de0576e6b59"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northview.life"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450229333"
+    }
+  ],
+  "advisories": []
+}

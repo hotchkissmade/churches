@@ -1,0 +1,33 @@
+{
+  "id": "v5em00e84",
+  "url": "https://constellation.church/v5em00e84",
+  "name": "Pasadena Presbyterian Church",
+  "displayName": "Pasadena Presbyterian Church",
+  "address": {
+    "street": "585 E Colorado Blvd",
+    "city": "Pasadena",
+    "state": "CA",
+    "zip": "91101-2036"
+  },
+  "coordinates": {
+    "latitude": 34.14628028869629,
+    "longitude": -118.1387710571289
+  },
+  "website": "https://ppc.net",
+  "listingUrl": "https://church-trends.pcusa.org/church/583/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "583"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ppc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "956051252"
+    }
+  ],
+  "advisories": []
+}

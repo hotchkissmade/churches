@@ -1,0 +1,33 @@
+{
+  "id": "rweng5x75",
+  "url": "https://constellation.church/rweng5x75",
+  "name": "Marin Lutheran Church",
+  "displayName": "Marin Lutheran Church",
+  "address": {
+    "street": "649 Meadowsweet Dr",
+    "city": "Corte Madera",
+    "state": "CA",
+    "zip": "94925-1631"
+  },
+  "coordinates": {
+    "latitude": 37.92463493347168,
+    "longitude": -122.52014923095703
+  },
+  "website": "https://marinlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6769a0a4-2da1-430e-b02b-cf353de0a4d5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6769a0a4-2da1-430e-b02b-cf353de0a4d5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "marinlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941312329"
+    }
+  ],
+  "advisories": []
+}

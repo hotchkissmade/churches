@@ -1,0 +1,33 @@
+{
+  "id": "tfedft025",
+  "url": "https://constellation.church/tfedft025",
+  "name": "Grace Collective Church",
+  "displayName": "Grace Collective Church",
+  "address": {
+    "street": "2656 Catawba Church Rd",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29730"
+  },
+  "coordinates": {
+    "latitude": 34.906843185424805,
+    "longitude": -80.96544647216797
+  },
+  "website": "https://gracecollective.org",
+  "listingUrl": "https://churches.sbc.net/church/grace-collective-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grace-collective-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracecollective.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470995266"
+    }
+  ],
+  "advisories": []
+}

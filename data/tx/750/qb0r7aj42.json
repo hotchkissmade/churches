@@ -1,0 +1,33 @@
+{
+  "id": "qb0r7aj42",
+  "url": "https://constellation.church/qb0r7aj42",
+  "name": "Church of the Holy Nativity",
+  "displayName": "Church of the Holy Nativity",
+  "address": {
+    "street": "2200 18th Street",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75086"
+  },
+  "coordinates": {
+    "latitude": 33.02370643615723,
+    "longitude": -96.6844253540039
+  },
+  "website": "https://holynativity.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-dallas/list/church-holy-nativity",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-dallas/church-holy-nativity"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holynativity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751317915"
+    }
+  ],
+  "advisories": []
+}

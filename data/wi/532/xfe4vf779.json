@@ -1,0 +1,33 @@
+{
+  "id": "xfe4vf779",
+  "url": "https://constellation.church/xfe4vf779",
+  "name": "Church in Milwaukee",
+  "displayName": "Church in Milwaukee",
+  "address": {
+    "street": "550 N 95th St",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53226"
+  },
+  "coordinates": {
+    "latitude": 43.0368791,
+    "longitude": -88.031258
+  },
+  "website": "https://churchinmilwaukee.org",
+  "listingUrl": "https://localchurches.org/churches/milwaukee-wi-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "milwaukee-wi-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinmilwaukee.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237364651"
+    }
+  ],
+  "advisories": []
+}

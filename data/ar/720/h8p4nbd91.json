@@ -1,0 +1,33 @@
+{
+  "id": "h8p4nbd91",
+  "url": "https://constellation.church/h8p4nbd91",
+  "name": "The City of Mosaic",
+  "displayName": "The City of Mosaic",
+  "address": {
+    "street": "2125 Harkrider St",
+    "city": "Conway",
+    "state": "AR",
+    "zip": "72032"
+  },
+  "coordinates": {
+    "latitude": 35.10708045959473,
+    "longitude": -92.4427490234375
+  },
+  "website": "https://mosaicconway.net",
+  "listingUrl": "https://churches.sbc.net/church/the-city-of-mosaic/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-city-of-mosaic"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mosaicconway.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "825179907"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c5698rs08",
+  "url": "https://constellation.church/c5698rs08",
+  "name": "Pilgrim Congregational Church of Green Bay",
+  "displayName": "Pilgrim Congregational Church of Green Bay",
+  "address": {
+    "street": "991 Pilgrim Way",
+    "city": "Green Bay",
+    "state": "WI",
+    "zip": "54304"
+  },
+  "coordinates": {
+    "latitude": 44.48306846618652,
+    "longitude": -88.07464599609375
+  },
+  "website": "https://pilgrimgreenbay.com",
+  "listingUrl": "https://www.naccc.org/wpbdp_listing/pilgrim-congregational-church-of-green-bay/",
+  "identifiers": [
+    {
+      "namespace": "org.naccc.id",
+      "value": "pilgrim-congregational-church-of-green-bay"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pilgrimgreenbay.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391101235"
+    }
+  ],
+  "advisories": []
+}

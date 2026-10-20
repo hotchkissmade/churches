@@ -1,0 +1,33 @@
+{
+  "id": "k628q3t86",
+  "url": "https://constellation.church/k628q3t86",
+  "name": "Tenth Presbyterian Church",
+  "displayName": "Tenth Presbyterian Church",
+  "address": {
+    "street": "17th & Spruce Streets",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19103"
+  },
+  "coordinates": {
+    "latitude": 39.947580002489,
+    "longitude": -75.169614007987
+  },
+  "website": "https://tenth.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/979",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "979"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tenth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231365261"
+    }
+  ],
+  "advisories": []
+}

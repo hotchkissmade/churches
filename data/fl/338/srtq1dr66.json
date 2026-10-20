@@ -1,0 +1,33 @@
+{
+  "id": "srtq1dr66",
+  "url": "https://constellation.church/srtq1dr66",
+  "name": "First Baptist Church of Lake Alfred",
+  "displayName": "First Baptist Church of Lake Alfred",
+  "address": {
+    "street": "280 E Pierce St",
+    "city": "Lake Alfred",
+    "state": "FL",
+    "zip": "33850"
+  },
+  "coordinates": {
+    "latitude": 28.09099769592285,
+    "longitude": -81.72759246826172
+  },
+  "website": "https://fbclakealfred.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-lake-alfred/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-lake-alfred"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbclakealfred.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591683521"
+    }
+  ],
+  "advisories": []
+}

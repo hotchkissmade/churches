@@ -1,0 +1,33 @@
+{
+  "id": "zjvrqvw81",
+  "url": "https://constellation.church/zjvrqvw81",
+  "name": "Ridgeville Baptist Church",
+  "displayName": "Ridgeville Baptist Church",
+  "address": {
+    "street": "150 N Main St",
+    "city": "Ridgeville",
+    "state": "SC",
+    "zip": "29472"
+  },
+  "coordinates": {
+    "latitude": 33.09796714782715,
+    "longitude": -80.31338119506836
+  },
+  "website": "https://ridgevillebaptistchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/ridgeville-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "ridgeville-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ridgevillebaptistchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800171096"
+    }
+  ],
+  "advisories": []
+}

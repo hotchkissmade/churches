@@ -1,0 +1,33 @@
+{
+  "id": "mrjd0jd74",
+  "url": "https://constellation.church/mrjd0jd74",
+  "name": "Trinity at the Marketplace",
+  "displayName": "Trinity at the Marketplace",
+  "address": {
+    "street": "2520 Chama NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87110"
+  },
+  "coordinates": {
+    "latitude": 35.10785484313965,
+    "longitude": -106.56624603271484
+  },
+  "website": "https://trinityabq.org",
+  "listingUrl": "https://www.acna.org/admin_units/353",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "353"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityabq.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "731728080"
+    }
+  ],
+  "advisories": []
+}

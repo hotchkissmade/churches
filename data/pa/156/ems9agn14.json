@@ -1,0 +1,33 @@
+{
+  "id": "ems9agn14",
+  "url": "https://constellation.church/ems9agn14",
+  "name": "Holy Trinity Lutheran Church",
+  "displayName": "Holy Trinity Lutheran Church",
+  "address": {
+    "street": "211 Gaskill Ave",
+    "city": "Jeannette",
+    "state": "PA",
+    "zip": "15644-3348"
+  },
+  "coordinates": {
+    "latitude": 40.32808876037598,
+    "longitude": -79.6145248413086
+  },
+  "website": "https://lutheranjnt.org/history.html",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=098f3b09-aa2d-4563-bad7-fa11b622ea3a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "098f3b09-aa2d-4563-bad7-fa11b622ea3a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lutheranjnt.org/history.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "256052732"
+    }
+  ],
+  "advisories": []
+}

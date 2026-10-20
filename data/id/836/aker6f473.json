@@ -1,0 +1,33 @@
+{
+  "id": "aker6f473",
+  "url": "https://constellation.church/aker6f473",
+  "name": "Riverside Church",
+  "displayName": "Riverside Church",
+  "address": {
+    "street": "400 Highway 16",
+    "city": "Emmett",
+    "state": "ID",
+    "zip": "83617"
+  },
+  "coordinates": {
+    "latitude": 43.86151885986328,
+    "longitude": -116.49734497070312
+  },
+  "website": "https://riversideemmett.org",
+  "listingUrl": "https://churches.sbc.net/church/riverside-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "riverside-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "riversideemmett.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "833148433"
+    }
+  ],
+  "advisories": []
+}

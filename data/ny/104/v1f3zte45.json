@@ -1,0 +1,33 @@
+{
+  "id": "v1f3zte45",
+  "url": "https://constellation.church/v1f3zte45",
+  "name": "Iglesia Evang Bautista Kichwa Piedra Viva",
+  "displayName": "Iglesia Evang Bautista Kichwa Piedra Viva",
+  "address": {
+    "street": "881 East 167th Street",
+    "city": "Bronx",
+    "state": "NY",
+    "zip": "10459"
+  },
+  "coordinates": {
+    "latitude": 40.8261729,
+    "longitude": -73.8962275
+  },
+  "website": "https://iglesiabautistakichwapiedraviva.com",
+  "listingUrl": "https://churches.sbc.net/church/iglesia-evang-bautista-kichwa-piedra-viva/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "iglesia-evang-bautista-kichwa-piedra-viva"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "iglesiabautistakichwapiedraviva.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "862835413"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pv8te1276",
+  "url": "https://constellation.church/pv8te1276",
+  "name": "Eastwood Baptist Church",
+  "displayName": "Eastwood Baptist Church",
+  "address": {
+    "street": "500 Eastwood St",
+    "city": "Bowling Green",
+    "state": "KY",
+    "zip": "42103"
+  },
+  "coordinates": {
+    "latitude": 36.88125801086426,
+    "longitude": -86.35954284667969
+  },
+  "website": "https://eastwoodonline.net",
+  "listingUrl": "https://churches.sbc.net/church/eastwood-baptist-church-8/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "eastwood-baptist-church-8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastwoodonline.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "610595684"
+    }
+  ],
+  "advisories": []
+}

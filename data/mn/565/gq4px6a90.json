@@ -1,0 +1,33 @@
+{
+  "id": "gq4px6a90",
+  "url": "https://constellation.church/gq4px6a90",
+  "name": "Sverdrup Lutheran Church",
+  "displayName": "Sverdrup Lutheran Church",
+  "address": {
+    "street": "209 Southern Ave. E.",
+    "city": "Underwood",
+    "state": "MN",
+    "zip": "56586-7021"
+  },
+  "coordinates": {
+    "latitude": 46.28306579589844,
+    "longitude": -95.86784362792969
+  },
+  "website": "https://sverdruplutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cdda5b00-a045-42ac-b34d-2b0df981636d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cdda5b00-a045-42ac-b34d-2b0df981636d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sverdruplutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411267509"
+    }
+  ],
+  "advisories": []
+}

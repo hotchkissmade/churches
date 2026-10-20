@@ -1,0 +1,33 @@
+{
+  "id": "d5y7nwh07",
+  "url": "https://constellation.church/d5y7nwh07",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "600 N Brady Rd",
+    "city": "Dearborn",
+    "state": "MI",
+    "zip": "48124-1110"
+  },
+  "coordinates": {
+    "latitude": 42.3175048828125,
+    "longitude": -83.24309921264648
+  },
+  "website": "https://firstpresdearborn.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/3120/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "3120"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpresdearborn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381367085"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dy1yz7q68",
+  "url": "https://constellation.church/dy1yz7q68",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "20080 Redwood Rd",
+    "city": "Castro Valley",
+    "state": "CA",
+    "zip": "94546-4325"
+  },
+  "coordinates": {
+    "latitude": 37.69954490661621,
+    "longitude": -122.07356262207031
+  },
+  "website": "https://flccv.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=eb512230-a976-4e4b-b887-d6402838f701",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "eb512230-a976-4e4b-b887-d6402838f701"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flccv.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941659674"
+    }
+  ],
+  "advisories": []
+}

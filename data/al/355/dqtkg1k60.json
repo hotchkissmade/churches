@@ -1,0 +1,33 @@
+{
+  "id": "dqtkg1k60",
+  "url": "https://constellation.church/dqtkg1k60",
+  "name": "Northside Baptist Church",
+  "displayName": "Northside Baptist Church",
+  "address": {
+    "street": "500 Highway 78 E",
+    "city": "Jasper",
+    "state": "AL",
+    "zip": "35501"
+  },
+  "coordinates": {
+    "latitude": 33.84950828552246,
+    "longitude": -87.27022171020508
+  },
+  "website": "https://nbcjasper.net",
+  "listingUrl": "https://churches.sbc.net/church/northside-baptist-church-18/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northside-baptist-church-18"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nbcjasper.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630069712"
+    }
+  ],
+  "advisories": []
+}

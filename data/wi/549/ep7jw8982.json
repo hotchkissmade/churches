@@ -1,0 +1,33 @@
+{
+  "id": "ep7jw8982",
+  "url": "https://constellation.church/ep7jw8982",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "430 W Griswold St",
+    "city": "Ripon",
+    "state": "WI",
+    "zip": "54971-1862"
+  },
+  "coordinates": {
+    "latitude": 43.83237266540527,
+    "longitude": -88.84369277954102
+  },
+  "website": "https://graceripon.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fd8ff95d-7a05-4c10-bebc-3a505b2d366e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fd8ff95d-7a05-4c10-bebc-3a505b2d366e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceripon.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390866370"
+    }
+  ],
+  "advisories": []
+}

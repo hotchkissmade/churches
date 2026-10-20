@@ -1,0 +1,33 @@
+{
+  "id": "t94emhz87",
+  "url": "https://constellation.church/t94emhz87",
+  "name": "St Andrews Presbyterian Church",
+  "displayName": "St. Andrew's Presbyterian Church",
+  "address": {
+    "street": "3228 SW Sunset Blvd",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97239-1273"
+  },
+  "coordinates": {
+    "latitude": 45.4885139465332,
+    "longitude": -122.71002197265625
+  },
+  "website": "https://standrewspdx.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/2126/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "2126"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewspdx.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "936009882"
+    }
+  ],
+  "advisories": []
+}

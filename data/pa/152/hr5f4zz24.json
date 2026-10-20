@@ -1,0 +1,33 @@
+{
+  "id": "hr5f4zz24",
+  "url": "https://constellation.church/hr5f4zz24",
+  "name": "St Matthew's Lutheran Church",
+  "displayName": "St. Matthew's Lutheran Church",
+  "address": {
+    "street": "45 Steuben St",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15205-2766"
+  },
+  "coordinates": {
+    "latitude": 40.43828773498535,
+    "longitude": -80.06489181518555
+  },
+  "website": "https://stmattscrafton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=459a8901-9d3f-470f-a9ca-7b12dfd13206",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "459a8901-9d3f-470f-a9ca-7b12dfd13206"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmattscrafton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251122363"
+    }
+  ],
+  "advisories": []
+}

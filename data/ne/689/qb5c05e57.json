@@ -1,0 +1,33 @@
+{
+  "id": "qb5c05e57",
+  "url": "https://constellation.church/qb5c05e57",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "502 Sanders Ave",
+    "city": "Hildreth",
+    "state": "NE",
+    "zip": "68947-5196"
+  },
+  "coordinates": {
+    "latitude": 40.3347225189209,
+    "longitude": -99.03997802734375
+  },
+  "website": "https://trinityhildreth.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4bfb7aac-e9d9-46ae-8ee7-60de16e91968",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4bfb7aac-e9d9-46ae-8ee7-60de16e91968"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityhildreth.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470805529"
+    }
+  ],
+  "advisories": []
+}

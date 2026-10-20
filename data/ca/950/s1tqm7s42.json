@@ -1,0 +1,33 @@
+{
+  "id": "s1tqm7s42",
+  "url": "https://constellation.church/s1tqm7s42",
+  "name": "Christian Worship Center of San Jose",
+  "displayName": "Christian Worship Center of San Jose",
+  "address": {
+    "street": "241 S Main St",
+    "city": "Milpitas",
+    "state": "CA",
+    "zip": "95035"
+  },
+  "coordinates": {
+    "latitude": 37.4271905,
+    "longitude": -121.9071536
+  },
+  "website": "https://cwcbayarea.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f6ff8eed-f18e-421a-a4be-660e29b9baa2&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f6ff8eed-f18e-421a-a4be-660e29b9baa2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cwcbayarea.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "342060285"
+    }
+  ],
+  "advisories": []
+}

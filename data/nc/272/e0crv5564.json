@@ -1,0 +1,33 @@
+{
+  "id": "e0crv5564",
+  "url": "https://constellation.church/e0crv5564",
+  "name": "Burlington Assembly of God",
+  "displayName": "Burlington Assembly of God",
+  "address": {
+    "street": "821 Tucker St",
+    "city": "Burlington",
+    "state": "NC",
+    "zip": "27215"
+  },
+  "coordinates": {
+    "latitude": 36.082454681396484,
+    "longitude": -79.43938827514648
+  },
+  "website": "https://burlingtonassembly.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=94f8764e-1b0b-40fd-b419-b62994e66c12&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "94f8764e-1b0b-40fd-b419-b62994e66c12"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "burlingtonassembly.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561346751"
+    }
+  ],
+  "advisories": []
+}

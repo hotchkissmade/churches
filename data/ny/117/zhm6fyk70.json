@@ -1,0 +1,33 @@
+{
+  "id": "zhm6fyk70",
+  "url": "https://constellation.church/zhm6fyk70",
+  "name": "St. James Church",
+  "displayName": "St. James Church",
+  "address": {
+    "street": "490 N Country Road",
+    "city": "Saint James",
+    "state": "NY",
+    "zip": "11780"
+  },
+  "coordinates": {
+    "latitude": 40.88385009765625,
+    "longitude": -73.16414260864258
+  },
+  "website": "https://stjamesstjames.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-james-episcopal-church-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-james-episcopal-church-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamesstjames.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "116003170"
+    }
+  ],
+  "advisories": []
+}

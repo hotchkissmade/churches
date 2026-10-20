@@ -1,0 +1,33 @@
+{
+  "id": "svzcz6d95",
+  "url": "https://constellation.church/svzcz6d95",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "609 Lincoln Ave",
+    "city": "Owatonna",
+    "state": "MN",
+    "zip": "55060-3407"
+  },
+  "coordinates": {
+    "latitude": 44.0789852142334,
+    "longitude": -93.2150650024414
+  },
+  "website": "https://tlcowatonna.org/scholarships",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dea26ba4-d6df-45ac-9419-cc8a50935599",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dea26ba4-d6df-45ac-9419-cc8a50935599"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcowatonna.org/scholarships"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363381969"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "q083kxw41",
+  "url": "https://constellation.church/q083kxw41",
+  "name": "Church on the Rock",
+  "displayName": "Church on the Rock",
+  "address": {
+    "street": "301 E Alsobrook St",
+    "city": "Plant City",
+    "state": "FL",
+    "zip": "33563"
+  },
+  "coordinates": {
+    "latitude": 28.00680160522461,
+    "longitude": -82.12059020996094
+  },
+  "website": "https://rockofpc.com",
+  "listingUrl": "https://churches.sbc.net/church/church-on-the-rock/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "church-on-the-rock"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rockofpc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591152536"
+    }
+  ],
+  "advisories": []
+}

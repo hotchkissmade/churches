@@ -1,0 +1,33 @@
+{
+  "id": "scpkqan75",
+  "url": "https://constellation.church/scpkqan75",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "W8267 Hwy 33",
+    "city": "Portage",
+    "state": "WI",
+    "zip": "53901-9782"
+  },
+  "coordinates": {
+    "latitude": 43.55454063415527,
+    "longitude": -89.41234588623047
+  },
+  "website": "https://blcportage.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=12305ad5-b0e4-4b14-85a5-bc28e0a1a572",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "12305ad5-b0e4-4b14-85a5-bc28e0a1a572"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blcportage.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391045809"
+    }
+  ],
+  "advisories": []
+}

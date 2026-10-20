@@ -1,0 +1,33 @@
+{
+  "id": "tcx1ea011",
+  "url": "https://constellation.church/tcx1ea011",
+  "name": "Restoration Presbyterian Church",
+  "displayName": "Restoration Presbyterian Church",
+  "address": {
+    "street": "2655 Chichester Avenue",
+    "city": "Upper Chichester",
+    "state": "PA",
+    "zip": "19061"
+  },
+  "coordinates": {
+    "latitude": 39.832275390625,
+    "longitude": -75.44053649902344
+  },
+  "website": "https://restorationpca.org/location-time",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/889",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "889"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "restorationpca.org/location-time"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237405804"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a529xzq90",
+  "url": "https://constellation.church/a529xzq90",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "1001 Market St",
+    "city": "Mifflinburg",
+    "state": "PA",
+    "zip": "17844"
+  },
+  "coordinates": {
+    "latitude": 40.91302680969238,
+    "longitude": -77.05585098266602
+  },
+  "website": "https://miffag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=34498b5f-6da8-423e-9c98-8019fd940c75&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "34498b5f-6da8-423e-9c98-8019fd940c75"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "miffag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231888001"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c02cyax17",
+  "url": "https://constellation.church/c02cyax17",
+  "name": "St. Mark's Church",
+  "displayName": "St. Mark's Church",
+  "address": {
+    "street": "111 W Shore Rd",
+    "city": "Warwick",
+    "state": "RI",
+    "zip": "02889-1102"
+  },
+  "coordinates": {
+    "latitude": 41.73283004760742,
+    "longitude": -71.40216445922852
+  },
+  "website": "https://stmarkswarwick.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-rhode-island/list/st-marks-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-rhode-island/st-marks-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkswarwick.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222501180"
+    }
+  ],
+  "advisories": []
+}

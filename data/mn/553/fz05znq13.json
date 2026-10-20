@@ -1,0 +1,33 @@
+{
+  "id": "fz05znq13",
+  "url": "https://constellation.church/fz05znq13",
+  "name": "Oasis Church",
+  "displayName": "Oasis Church",
+  "address": {
+    "street": "11901 Excelsior Blvd",
+    "city": "Minnetonka",
+    "state": "MN",
+    "zip": "55343"
+  },
+  "coordinates": {
+    "latitude": 44.92032241821289,
+    "longitude": -93.43114471435547
+  },
+  "website": "https://oasismn.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=48a59765-6142-4d5d-a25b-a04659bd6d8f&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "48a59765-6142-4d5d-a25b-a04659bd6d8f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oasismn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411440286"
+    }
+  ],
+  "advisories": []
+}

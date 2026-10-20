@@ -1,0 +1,33 @@
+{
+  "id": "ref2dgs38",
+  "url": "https://constellation.church/ref2dgs38",
+  "name": "Old Union Presbyterian Church",
+  "displayName": "Old Union Presbyterian Church",
+  "address": {
+    "street": "200 Union Church Rd",
+    "city": "Mars",
+    "state": "PA",
+    "zip": "16046-3526"
+  },
+  "coordinates": {
+    "latitude": 40.73659706115723,
+    "longitude": -80.0110855102539
+  },
+  "website": "https://oldunionchurch.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/5463/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "5463"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oldunionchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251291191"
+    }
+  ],
+  "advisories": []
+}

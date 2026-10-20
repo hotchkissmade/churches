@@ -1,0 +1,33 @@
+{
+  "id": "pr42q2875",
+  "url": "https://constellation.church/pr42q2875",
+  "name": "Lakeside Presbyterian Church",
+  "displayName": "Lakeside Presbyterian Church",
+  "address": {
+    "street": "2701 W. Southlake Boulevard",
+    "city": "Southlake",
+    "state": "TX",
+    "zip": "76092"
+  },
+  "coordinates": {
+    "latitude": 32.93355369567871,
+    "longitude": -97.19357299804688
+  },
+  "website": "https://lakesidepca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1432",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1432"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lakesidepca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752440826"
+    }
+  ],
+  "advisories": []
+}

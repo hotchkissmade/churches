@@ -1,0 +1,33 @@
+{
+  "id": "rwvx4fs08",
+  "url": "https://constellation.church/rwvx4fs08",
+  "name": "Orchard Valley Baptist Church",
+  "displayName": "Orchard Valley Baptist Church",
+  "address": {
+    "street": "2301 Jericho Rd",
+    "city": "Aurora",
+    "state": "IL",
+    "zip": "60506"
+  },
+  "coordinates": {
+    "latitude": 41.74494171142578,
+    "longitude": -88.37521362304688
+  },
+  "website": "https://ovbcil.org",
+  "listingUrl": "https://churches.sbc.net/church/orchard-valley-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "orchard-valley-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ovbcil.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362686868"
+    }
+  ],
+  "advisories": []
+}

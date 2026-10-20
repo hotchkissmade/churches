@@ -1,0 +1,33 @@
+{
+  "id": "en247d031",
+  "url": "https://constellation.church/en247d031",
+  "name": "Orrs Baptist Church",
+  "displayName": "Orrs Baptist Church",
+  "address": {
+    "street": "1266 Lancaster Hwy",
+    "city": "Chester",
+    "state": "SC",
+    "zip": "29706"
+  },
+  "coordinates": {
+    "latitude": 34.72204399108887,
+    "longitude": -81.14942169189453
+  },
+  "website": "https://orrsbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/orrs-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "orrs-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "orrsbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570650493"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "beaew4j30",
+  "url": "https://constellation.church/beaew4j30",
+  "name": "St. Mary's Episcopal Church",
+  "displayName": "St. Mary's Episcopal Church",
+  "address": {
+    "street": "216 Orange Ave",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "zip": "32114"
+  },
+  "coordinates": {
+    "latitude": 29.207353591918945,
+    "longitude": -81.02040481567383
+  },
+  "website": "https://stmarysdaytona.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-central-florida/list/st-marys-episcopal-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-central-florida/st-marys-episcopal-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarysdaytona.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590714832"
+    }
+  ],
+  "advisories": []
+}

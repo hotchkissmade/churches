@@ -1,0 +1,33 @@
+{
+  "id": "dc5krps49",
+  "url": "https://constellation.church/dc5krps49",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "1709 W Elizabeth",
+    "city": "Ft Collins",
+    "state": "CO",
+    "zip": "80521"
+  },
+  "coordinates": {
+    "latitude": 40.57437705993652,
+    "longitude": -105.10869598388672
+  },
+  "website": "https://westpresftc.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/1240/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "1240"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westpresftc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840631785"
+    }
+  ],
+  "advisories": []
+}

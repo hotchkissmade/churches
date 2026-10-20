@@ -1,0 +1,33 @@
+{
+  "id": "zqksrgw39",
+  "url": "https://constellation.church/zqksrgw39",
+  "name": "All Saints' Church",
+  "displayName": "All Saints' Church",
+  "address": {
+    "street": "14851 Gideon Drive",
+    "city": "Woodbridge",
+    "state": "VA",
+    "zip": "22192"
+  },
+  "coordinates": {
+    "latitude": 38.63020133972168,
+    "longitude": -77.30108642578125
+  },
+  "website": "https://allsaintswoodbridge.org",
+  "listingUrl": "https://www.acna.org/admin_units/32",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "32"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allsaintswoodbridge.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541043724"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nmr330k42",
+  "url": "https://constellation.church/nmr330k42",
+  "name": "Resurrection Lutheran Church",
+  "displayName": "Resurrection Lutheran Church",
+  "address": {
+    "street": "9925 Bailey Rd",
+    "city": "Woodbury",
+    "state": "MN",
+    "zip": "55129-9687"
+  },
+  "coordinates": {
+    "latitude": 44.88981246948242,
+    "longitude": -92.90489959716797
+  },
+  "website": "https://liveresurrection.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=def4e8fc-7f1d-4be4-9f98-aa56bf16a24f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "def4e8fc-7f1d-4be4-9f98-aa56bf16a24f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "liveresurrection.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411677818"
+    }
+  ],
+  "advisories": []
+}

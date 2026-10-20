@@ -1,0 +1,37 @@
+{
+  "id": "hcbm8v719",
+  "url": "https://constellation.church/hcbm8v719",
+  "name": "Grace Anglican Church (REC)",
+  "displayName": "Grace Anglican Church (REC)",
+  "address": {
+    "street": "523 Clifton Avenue",
+    "city": "Collingdale",
+    "state": "PA",
+    "zip": "19023"
+  },
+  "coordinates": {
+    "latitude": 39.914947509765625,
+    "longitude": -75.28031158447266
+  },
+  "website": "https://gracerec.com",
+  "listingUrl": "https://www.acna.org/admin_units/564",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "564"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracerec.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231522650"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232266938"
+    }
+  ],
+  "advisories": []
+}

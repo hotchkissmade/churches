@@ -1,0 +1,33 @@
+{
+  "id": "zwqbz3y28",
+  "url": "https://constellation.church/zwqbz3y28",
+  "name": "San Jose Friends Meeting",
+  "displayName": "San Jose Friends Meeting",
+  "address": {
+    "street": "1041 Morse Street",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95126"
+  },
+  "coordinates": {
+    "latitude": 37.341400146484375,
+    "longitude": -121.92829132080078
+  },
+  "website": "https://sanjosefriends.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/san-jose-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "san-jose-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sanjosefriends.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941513139"
+    }
+  ],
+  "advisories": []
+}

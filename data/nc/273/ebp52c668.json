@@ -1,0 +1,33 @@
+{
+  "id": "ebp52c668",
+  "url": "https://constellation.church/ebp52c668",
+  "name": "Mitchell Chapel",
+  "displayName": "Mitchell Chapel",
+  "address": {
+    "street": "1085 Mitchells Chapel Rd.",
+    "city": "Pittsboro",
+    "state": "NC",
+    "zip": "27312"
+  },
+  "coordinates": {
+    "latitude": 35.7412052154541,
+    "longitude": -79.22210311889648
+  },
+  "website": "https://mitchellchapel.org",
+  "listingUrl": "https://amezion.org/location/mitchell-chapel/",
+  "identifiers": [
+    {
+      "namespace": "org.amezion.id",
+      "value": "14169"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mitchellchapel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561394347"
+    }
+  ],
+  "advisories": []
+}

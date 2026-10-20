@@ -1,0 +1,33 @@
+{
+  "id": "hhsnmcg96",
+  "url": "https://constellation.church/hhsnmcg96",
+  "name": "Wildwood Presbyterian Church",
+  "displayName": "Wildwood Presbyterian Church",
+  "address": {
+    "street": "18630 W Old Gages Lake",
+    "city": "Grayslake",
+    "state": "IL",
+    "zip": "60030"
+  },
+  "coordinates": {
+    "latitude": 42.35572814941406,
+    "longitude": -87.99518585205078
+  },
+  "website": "https://wildwoodpc.net",
+  "listingUrl": "https://church-trends.pcusa.org/church/216/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "216"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wildwoodpc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366457622"
+    }
+  ],
+  "advisories": []
+}

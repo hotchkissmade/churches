@@ -1,0 +1,33 @@
+{
+  "id": "bc6wmbe27",
+  "url": "https://constellation.church/bc6wmbe27",
+  "name": "United Lutheran Church",
+  "displayName": "United Lutheran Church",
+  "address": {
+    "street": "3825 Erie St",
+    "city": "Racine",
+    "state": "WI",
+    "zip": "53402-3521"
+  },
+  "coordinates": {
+    "latitude": 42.76810646057129,
+    "longitude": -87.78584671020508
+  },
+  "website": "https://unitedlutheran.co",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6b882ab2-88a1-41ee-ad05-12c0361a952d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6b882ab2-88a1-41ee-ad05-12c0361a952d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "unitedlutheran.co"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611845631"
+    }
+  ],
+  "advisories": []
+}

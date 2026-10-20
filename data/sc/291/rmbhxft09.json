@@ -1,0 +1,33 @@
+{
+  "id": "rmbhxft09",
+  "url": "https://constellation.church/rmbhxft09",
+  "name": "Westside Baptist Church",
+  "displayName": "Westside Baptist Church",
+  "address": {
+    "street": "554 Pinewood Rd",
+    "city": "Sumter",
+    "state": "SC",
+    "zip": "29154"
+  },
+  "coordinates": {
+    "latitude": 33.897817611694336,
+    "longitude": -80.38331604003906
+  },
+  "website": "https://wbcsumter.org",
+  "listingUrl": "https://churches.sbc.net/church/westside-baptist-church-25/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "westside-baptist-church-25"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wbcsumter.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570523596"
+    }
+  ],
+  "advisories": []
+}

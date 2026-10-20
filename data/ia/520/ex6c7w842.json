@@ -1,0 +1,33 @@
+{
+  "id": "ex6c7w842",
+  "url": "https://constellation.church/ex6c7w842",
+  "name": "Veritas Church Dubuque",
+  "displayName": "Veritas Church Dubuque",
+  "address": {
+    "street": "959 N Algona St",
+    "city": "dubuque",
+    "state": "IA",
+    "zip": "52001"
+  },
+  "coordinates": {
+    "latitude": 42.49840545654297,
+    "longitude": -90.6926040649414
+  },
+  "website": "https://veritasdubuque.com",
+  "listingUrl": "https://churches.sbc.net/church/veritas-church-dubuque/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "veritas-church-dubuque"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "veritasdubuque.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "991378804"
+    }
+  ],
+  "advisories": []
+}

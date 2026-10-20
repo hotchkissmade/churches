@@ -1,0 +1,33 @@
+{
+  "id": "t1jgewp32",
+  "url": "https://constellation.church/t1jgewp32",
+  "name": "Salem United Methodist Church",
+  "displayName": "Salem United Methodist Church",
+  "address": {
+    "street": "140 N Penn St",
+    "city": "Manheim",
+    "state": "PA",
+    "zip": "17545-1104"
+  },
+  "coordinates": {
+    "latitude": 40.16327095031738,
+    "longitude": -76.40399932861328
+  },
+  "website": "https://salemmanheim.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF9tEIAT",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF9tEIAT"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemmanheim.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231476320"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ymtsme724",
+  "url": "https://constellation.church/ymtsme724",
+  "name": "St John's Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "51161 Maria St",
+    "city": "New Baltimore",
+    "state": "MI",
+    "zip": "48047-2152"
+  },
+  "coordinates": {
+    "latitude": 42.680233001708984,
+    "longitude": -82.73783874511719
+  },
+  "website": "https://stjohnsnewbaltimore.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7ec1a41c-0cb6-4370-97ca-b249cb8b576e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7ec1a41c-0cb6-4370-97ca-b249cb8b576e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsnewbaltimore.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382277638"
+    }
+  ],
+  "advisories": []
+}

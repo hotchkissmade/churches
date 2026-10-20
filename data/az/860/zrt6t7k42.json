@@ -1,0 +1,33 @@
+{
+  "id": "zrt6t7k42",
+  "url": "https://constellation.church/zrt6t7k42",
+  "name": "Trinity Church",
+  "displayName": "Trinity Church",
+  "address": {
+    "street": "393 N Navajo Dr",
+    "city": "Fredonia",
+    "state": "AZ",
+    "zip": "86022"
+  },
+  "coordinates": {
+    "latitude": 36.954647064208984,
+    "longitude": -112.52777099609375
+  },
+  "website": "https://trinitychurchfredonia.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=288cd28e-2f29-4316-915a-42f659c5e659&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "288cd28e-2f29-4316-915a-42f659c5e659"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitychurchfredonia.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860503304"
+    }
+  ],
+  "advisories": []
+}

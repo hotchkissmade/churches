@@ -1,0 +1,33 @@
+{
+  "id": "ff81bsc21",
+  "url": "https://constellation.church/ff81bsc21",
+  "name": "Advent Lutheran Church",
+  "displayName": "Advent Lutheran Church",
+  "address": {
+    "street": "62 E Grove St",
+    "city": "Middleboro",
+    "state": "MA",
+    "zip": "02346-1810"
+  },
+  "coordinates": {
+    "latitude": 41.882347106933594,
+    "longitude": -70.90623092651367
+  },
+  "website": "https://luther95.net/alc-mma",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=67208fc2-d9ea-4e8c-a67b-4f023edc7345",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "67208fc2-d9ea-4e8c-a67b-4f023edc7345"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "luther95.net/alc-mma"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363912482"
+    }
+  ],
+  "advisories": []
+}

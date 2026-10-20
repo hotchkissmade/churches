@@ -1,0 +1,33 @@
+{
+  "id": "wnqrh1d04",
+  "url": "https://constellation.church/wnqrh1d04",
+  "name": "Beachside Baptist Church",
+  "displayName": "Beachside Baptist Church",
+  "address": {
+    "street": "629 S Pine St",
+    "city": "New Smyrna Beach",
+    "state": "FL",
+    "zip": "32169"
+  },
+  "coordinates": {
+    "latitude": 29.031646728515625,
+    "longitude": -80.90060806274414
+  },
+  "website": "https://beachsidebaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/beachside-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "beachside-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "beachsidebaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591024470"
+    }
+  ],
+  "advisories": []
+}

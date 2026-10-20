@@ -1,0 +1,33 @@
+{
+  "id": "v1m7ca753",
+  "url": "https://constellation.church/v1m7ca753",
+  "name": "Andrews Presbyterian Church",
+  "displayName": "Andrews Presbyterian Church",
+  "address": {
+    "street": "215 Cherry Street",
+    "city": "Andrews",
+    "state": "NC",
+    "zip": "28901"
+  },
+  "coordinates": {
+    "latitude": 35.1998348236084,
+    "longitude": -83.82247543334961
+  },
+  "website": "https://andrewspca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1230",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1230"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "andrewspca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561391597"
+    }
+  ],
+  "advisories": []
+}

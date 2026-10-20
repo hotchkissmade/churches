@@ -1,0 +1,33 @@
+{
+  "id": "wmxej0681",
+  "url": "https://constellation.church/wmxej0681",
+  "name": "St Luke's Lutheran Church",
+  "displayName": "St. Luke's Lutheran Church",
+  "address": {
+    "street": "7337 Hubbard Ave",
+    "city": "Middleton",
+    "state": "WI",
+    "zip": "53562-3115"
+  },
+  "coordinates": {
+    "latitude": 43.09501266479492,
+    "longitude": -89.50755310058594
+  },
+  "website": "https://stlukes-elca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=97c0fe4c-9775-410d-9463-5ea44ceadcfe",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "97c0fe4c-9775-410d-9463-5ea44ceadcfe"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukes-elca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390928316"
+    }
+  ],
+  "advisories": []
+}

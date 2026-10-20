@@ -1,0 +1,33 @@
+{
+  "id": "r82syth19",
+  "url": "https://constellation.church/r82syth19",
+  "name": "First United Presbyterian Church",
+  "displayName": "First United Presbyterian Church",
+  "address": {
+    "street": "16 Jackson St",
+    "city": "Little Falls",
+    "state": "NY",
+    "zip": "13365"
+  },
+  "coordinates": {
+    "latitude": 43.0451545715332,
+    "longitude": -74.85866928100586
+  },
+  "website": "https://presbylf.org/default.aspx",
+  "listingUrl": "https://church-trends.pcusa.org/church/6013/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "6013"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "presbylf.org/default.aspx"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "156021608"
+    }
+  ],
+  "advisories": []
+}

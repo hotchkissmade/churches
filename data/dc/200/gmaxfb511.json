@@ -1,0 +1,33 @@
+{
+  "id": "gmaxfb511",
+  "url": "https://constellation.church/gmaxfb511",
+  "name": "Reformation Lutheran Church",
+  "displayName": "Reformation Lutheran Church",
+  "address": {
+    "street": "212 E Capitol St NE",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20003-1036"
+  },
+  "coordinates": {
+    "latitude": 38.890005111694336,
+    "longitude": -77.00284957885742
+  },
+  "website": "https://reformationdc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8ef191fb-6ea7-448a-836a-5b9ded993952",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8ef191fb-6ea7-448a-836a-5b9ded993952"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "reformationdc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "530205695"
+    }
+  ],
+  "advisories": []
+}

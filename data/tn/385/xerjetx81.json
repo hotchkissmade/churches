@@ -1,0 +1,33 @@
+{
+  "id": "xerjetx81",
+  "url": "https://constellation.church/xerjetx81",
+  "name": "Church On The Hill",
+  "displayName": "Church On The Hill",
+  "address": {
+    "street": "3001 Phillips Cemetery Rd",
+    "city": "Cookeville",
+    "state": "TN",
+    "zip": "38506"
+  },
+  "coordinates": {
+    "latitude": 36.20496940612793,
+    "longitude": -85.45636367797852
+  },
+  "website": "https://churchonthehill.tv",
+  "listingUrl": "https://churches.sbc.net/church/church-on-the-hill-4/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "church-on-the-hill-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchonthehill.tv"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620792154"
+    }
+  ],
+  "advisories": []
+}

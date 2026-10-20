@@ -1,0 +1,33 @@
+{
+  "id": "yqzp2bp39",
+  "url": "https://constellation.church/yqzp2bp39",
+  "name": "New Light Christian Church, ELCA",
+  "displayName": "New Light Christian Church, ELCA",
+  "address": {
+    "street": "1700 N Rand Rd",
+    "city": "Palatine",
+    "state": "IL",
+    "zip": "60074-1126"
+  },
+  "coordinates": {
+    "latitude": 42.14033508300781,
+    "longitude": -88.0240707397461
+  },
+  "website": "https://nlcc.faith/english",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=10509f71-1646-4bd6-a034-906d00421578",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "10509f71-1646-4bd6-a034-906d00421578"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nlcc.faith/english"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363440709"
+    }
+  ],
+  "advisories": []
+}

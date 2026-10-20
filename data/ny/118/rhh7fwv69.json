@@ -1,0 +1,33 @@
+{
+  "id": "rhh7fwv69",
+  "url": "https://constellation.church/rhh7fwv69",
+  "name": "St. Margaret's Episcopal Church",
+  "displayName": "St. Margaret's Episcopal Church",
+  "address": {
+    "street": "1000 Washington Ave",
+    "city": "Plainview",
+    "state": "NY",
+    "zip": "11803"
+  },
+  "coordinates": {
+    "latitude": 40.803226470947266,
+    "longitude": -73.45019149780273
+  },
+  "website": "https://stmargaretepiscopal.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-margarets-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-margarets-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmargaretepiscopal.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112550667"
+    }
+  ],
+  "advisories": []
+}

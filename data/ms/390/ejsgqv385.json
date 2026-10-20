@@ -1,0 +1,33 @@
+{
+  "id": "ejsgqv385",
+  "url": "https://constellation.church/ejsgqv385",
+  "name": "Edwards Presbyterian Church",
+  "displayName": "Edwards Presbyterian Church",
+  "address": {
+    "street": "302 Broadway Street",
+    "city": "Edwards",
+    "state": "MS",
+    "zip": "39066"
+  },
+  "coordinates": {
+    "latitude": 32.331979751586914,
+    "longitude": -90.60600280761719
+  },
+  "website": "https://edwardspres.org/history",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/343",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "343"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "edwardspres.org/history"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640658777"
+    }
+  ],
+  "advisories": []
+}

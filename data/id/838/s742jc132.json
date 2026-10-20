@@ -1,0 +1,33 @@
+{
+  "id": "s742jc132",
+  "url": "https://constellation.church/s742jc132",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "6711 El Paso St",
+    "city": "Bonners Ferry",
+    "state": "ID",
+    "zip": "83805"
+  },
+  "coordinates": {
+    "latitude": 48.684261322021484,
+    "longitude": -116.31600189208984
+  },
+  "website": "https://fbcbonnersferry.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-662/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-662"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcbonnersferry.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820377535"
+    }
+  ],
+  "advisories": []
+}

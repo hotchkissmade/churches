@@ -1,0 +1,33 @@
+{
+  "id": "qpf51x245",
+  "url": "https://constellation.church/qpf51x245",
+  "name": "United Methodist Church of Westport Weston",
+  "displayName": "United Methodist Church of Westport Weston",
+  "address": {
+    "street": "49 Weston Road",
+    "city": "Westport",
+    "state": "CT",
+    "zip": "06880-1233"
+  },
+  "coordinates": {
+    "latitude": 41.16836166381836,
+    "longitude": -73.36214828491211
+  },
+  "website": "https://westportumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKvnIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKvnIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westportumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "861115670"
+    }
+  ],
+  "advisories": []
+}

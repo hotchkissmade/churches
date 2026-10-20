@@ -1,0 +1,33 @@
+{
+  "id": "hnswf3862",
+  "url": "https://constellation.church/hnswf3862",
+  "name": "Emmanuel Upstate Presbyterian Church",
+  "displayName": "Emmanuel Upstate Presbyterian Church",
+  "address": {
+    "street": "1100 Piedmont Park Road",
+    "city": "Taylors",
+    "state": "SC",
+    "zip": "29687"
+  },
+  "coordinates": {
+    "latitude": 34.91005897521973,
+    "longitude": -82.36468505859375
+  },
+  "website": "https://naparcsearch.com/pca/calvary",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6206",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6206"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "naparcsearch.com/pca/calvary"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "815122009"
+    }
+  ],
+  "advisories": []
+}

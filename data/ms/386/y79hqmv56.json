@@ -1,0 +1,33 @@
+{
+  "id": "y79hqmv56",
+  "url": "https://constellation.church/y79hqmv56",
+  "name": "Marks Presbyterian Church",
+  "displayName": "Marks Presbyterian Church",
+  "address": {
+    "street": "515 Locust Street",
+    "city": "Marks",
+    "state": "MS",
+    "zip": "38646"
+  },
+  "coordinates": {
+    "latitude": 34.2552433013916,
+    "longitude": -90.27008819580078
+  },
+  "website": "https://markspres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/713",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "713"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "markspres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640504720"
+    }
+  ],
+  "advisories": []
+}

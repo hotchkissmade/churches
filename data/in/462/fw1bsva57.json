@@ -1,0 +1,33 @@
+{
+  "id": "fw1bsva57",
+  "url": "https://constellation.church/fw1bsva57",
+  "name": "New City Church",
+  "displayName": "New City Church",
+  "address": {
+    "street": "345 N. Kitley Avenue, Christ Lutheran Church",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46219"
+  },
+  "coordinates": {
+    "latitude": 39.774959564208984,
+    "longitude": -86.05424880981445
+  },
+  "website": "https://newcityindy.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4451",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4451"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newcityindy.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "300061272"
+    }
+  ],
+  "advisories": []
+}

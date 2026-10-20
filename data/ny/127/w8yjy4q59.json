@@ -1,0 +1,33 @@
+{
+  "id": "w8yjy4q59",
+  "url": "https://constellation.church/w8yjy4q59",
+  "name": "River City Church",
+  "displayName": "River City Church",
+  "address": {
+    "street": "13 US Route 6 Port Jervis",
+    "city": null,
+    "state": "NY",
+    "zip": "12771"
+  },
+  "coordinates": {
+    "latitude": 41.3728084564209,
+    "longitude": -74.69569778442383
+  },
+  "website": "https://wearerivercity.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=07853a7c-15c4-4512-9604-15dd78258e1d&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "07853a7c-15c4-4512-9604-15dd78258e1d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wearerivercity.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "141639471"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c6mey9c81",
+  "url": "https://constellation.church/c6mey9c81",
+  "name": "First United Methodist Church of Yankton",
+  "displayName": "First United Methodist Church of Yankton",
+  "address": {
+    "street": "207 W 11th",
+    "city": "Yankton",
+    "state": "SD",
+    "zip": "57078"
+  },
+  "coordinates": {
+    "latitude": 42.88082504272461,
+    "longitude": -97.39472198486328
+  },
+  "website": "https://firstumcyankton.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFNJwIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFNJwIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstumcyankton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460282239"
+    }
+  ],
+  "advisories": []
+}

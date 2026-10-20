@@ -1,0 +1,33 @@
+{
+  "id": "dvc4c0230",
+  "url": "https://constellation.church/dvc4c0230",
+  "name": "Back Bay Christian Assembly",
+  "displayName": "Back Bay Christian Assembly",
+  "address": {
+    "street": "1212 Princess Anne Rd",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23457"
+  },
+  "coordinates": {
+    "latitude": 36.666215896606445,
+    "longitude": -76.02842712402344
+  },
+  "website": "https://bbcachurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=c500c7f5-0b02-499f-bbb4-16d8d1a9c66c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "c500c7f5-0b02-499f-bbb4-16d8d1a9c66c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bbcachurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541396189"
+    }
+  ],
+  "advisories": []
+}

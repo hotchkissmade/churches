@@ -1,0 +1,33 @@
+{
+  "id": "wrh806221",
+  "url": "https://constellation.church/wrh806221",
+  "name": "Silver Valley Worship Center",
+  "displayName": "Silver Valley Worship Center",
+  "address": {
+    "street": "307 main Street",
+    "city": "Smelterville",
+    "state": "ID",
+    "zip": "83868"
+  },
+  "coordinates": {
+    "latitude": 47.54288101196289,
+    "longitude": -116.1798324584961
+  },
+  "website": "https://wc.church",
+  "listingUrl": "https://rforw.pcg.org/ChurchDetails.aspx?contactID=86718",
+  "identifiers": [
+    {
+      "namespace": "org.pcg.rforw.id",
+      "value": "86718"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820515102"
+    }
+  ],
+  "advisories": []
+}

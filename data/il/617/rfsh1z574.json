@@ -1,0 +1,33 @@
+{
+  "id": "rfsh1z574",
+  "url": "https://constellation.church/rfsh1z574",
+  "name": "Faith Church",
+  "displayName": "Faith Church",
+  "address": {
+    "street": "2714 McGraw Drive",
+    "city": "Bloomington",
+    "state": "IL",
+    "zip": "61704"
+  },
+  "coordinates": {
+    "latitude": 40.467935931229,
+    "longitude": -88.953031794652
+  },
+  "website": "https://myfaithlcmc.org",
+  "listingUrl": "https://lcmc.net/congregation/110907",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "110907"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "myfaithlcmc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "821791669"
+    }
+  ],
+  "advisories": []
+}

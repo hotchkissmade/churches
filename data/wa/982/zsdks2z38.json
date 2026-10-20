@@ -1,0 +1,33 @@
+{
+  "id": "zsdks2z38",
+  "url": "https://constellation.church/zsdks2z38",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "1306 Lake View Ave",
+    "city": "Snohomish",
+    "state": "WA",
+    "zip": "98290-1844"
+  },
+  "coordinates": {
+    "latitude": 47.92856979370117,
+    "longitude": -122.08961486816406
+  },
+  "website": "https://snopres.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/8944/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "8944"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "snopres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910839877"
+    }
+  ],
+  "advisories": []
+}

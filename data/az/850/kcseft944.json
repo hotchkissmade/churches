@@ -1,0 +1,33 @@
+{
+  "id": "kcseft944",
+  "url": "https://constellation.church/kcseft944",
+  "name": "Mountain View Lutheran Church",
+  "displayName": "Mountain View Lutheran Church",
+  "address": {
+    "street": "11002 S 48th St",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85044-1702"
+  },
+  "coordinates": {
+    "latitude": 33.34637451171875,
+    "longitude": -111.98130798339844
+  },
+  "website": "https://mvlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=96846d57-7b8e-4493-a35c-845ae4257d8b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "96846d57-7b8e-4493-a35c-845ae4257d8b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mvlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237432758"
+    }
+  ],
+  "advisories": []
+}

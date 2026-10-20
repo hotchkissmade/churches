@@ -1,0 +1,33 @@
+{
+  "id": "twzfwjy29",
+  "url": "https://constellation.church/twzfwjy29",
+  "name": "Cathedral of the Incarnation",
+  "displayName": "Cathedral of the Incarnation",
+  "address": {
+    "street": "4 E University Pkwy",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21218-2490"
+  },
+  "coordinates": {
+    "latitude": 39.33220672607422,
+    "longitude": -76.61672973632812
+  },
+  "website": "https://incarnationbmore.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maryland/list/cathedral-incarnation",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maryland/cathedral-incarnation"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "incarnationbmore.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520607978"
+    }
+  ],
+  "advisories": []
+}

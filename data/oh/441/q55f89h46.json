@@ -1,0 +1,33 @@
+{
+  "id": "q55f89h46",
+  "url": "https://constellation.church/q55f89h46",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "1370 Richmond Rd",
+    "city": "Lyndhurst",
+    "state": "OH",
+    "zip": "44124"
+  },
+  "coordinates": {
+    "latitude": 41.52276611328125,
+    "longitude": -81.49786758422852
+  },
+  "website": "https://firstag.us",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=7c739b78-11b7-4f11-a44c-ecb1be9c76a6&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "7c739b78-11b7-4f11-a44c-ecb1be9c76a6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstag.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340760592"
+    }
+  ],
+  "advisories": []
+}

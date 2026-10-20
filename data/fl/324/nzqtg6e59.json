@@ -1,0 +1,33 @@
+{
+  "id": "nzqtg6e59",
+  "url": "https://constellation.church/nzqtg6e59",
+  "name": "Long Avenue Baptist Church",
+  "displayName": "Long Avenue Baptist Church",
+  "address": {
+    "street": "1601 Long Ave",
+    "city": "Port St. Joe",
+    "state": "FL",
+    "zip": "32456"
+  },
+  "coordinates": {
+    "latitude": 29.801301956176758,
+    "longitude": -85.29623794555664
+  },
+  "website": "https://longavenuebaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/long-avenue-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "long-avenue-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "longavenuebaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591083043"
+    }
+  ],
+  "advisories": []
+}

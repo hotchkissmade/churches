@@ -1,0 +1,33 @@
+{
+  "id": "y1dfqns41",
+  "url": "https://constellation.church/y1dfqns41",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "337 8th St",
+    "city": "Brookings",
+    "state": "SD",
+    "zip": "57006-1209"
+  },
+  "coordinates": {
+    "latitude": 44.3151798248291,
+    "longitude": -96.79863739013672
+  },
+  "website": "https://firstlutheranbrookings.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3fa58baa-621b-4e2a-a504-41e695dbbafa",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3fa58baa-621b-4e2a-a504-41e695dbbafa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranbrookings.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460224723"
+    }
+  ],
+  "advisories": []
+}

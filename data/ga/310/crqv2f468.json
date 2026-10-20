@@ -1,0 +1,33 @@
+{
+  "id": "crqv2f468",
+  "url": "https://constellation.church/crqv2f468",
+  "name": "Perry Presbyterian Church",
+  "displayName": "Perry Presbyterian Church",
+  "address": {
+    "street": "1111 Second Street",
+    "city": "Perry",
+    "state": "GA",
+    "zip": "31069"
+  },
+  "coordinates": {
+    "latitude": 32.46201515197754,
+    "longitude": -83.7291259765625
+  },
+  "website": "https://perrypres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/827",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "827"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "perrypres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "586131427"
+    }
+  ],
+  "advisories": []
+}

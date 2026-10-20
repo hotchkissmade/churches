@@ -1,0 +1,33 @@
+{
+  "id": "nfch34m15",
+  "url": "https://constellation.church/nfch34m15",
+  "name": "Bethesda Evangelical Lutheran Church",
+  "displayName": "Bethesda Evangelical Lutheran Church",
+  "address": {
+    "street": "204 5th St",
+    "city": "Carlton",
+    "state": "MN",
+    "zip": "55718"
+  },
+  "coordinates": {
+    "latitude": 46.664283752441406,
+    "longitude": -92.42008972167969
+  },
+  "website": "https://bethesdacarlton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e8e540a1-3311-4103-ad4a-bee8553d4f01",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e8e540a1-3311-4103-ad4a-bee8553d4f01"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethesdacarlton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411360523"
+    }
+  ],
+  "advisories": []
+}

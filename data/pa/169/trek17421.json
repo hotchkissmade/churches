@@ -1,0 +1,33 @@
+{
+  "id": "trek17421",
+  "url": "https://constellation.church/trek17421",
+  "name": "Church of the New Covenant",
+  "displayName": "Church of the New Covenant",
+  "address": {
+    "street": "310 Extension St",
+    "city": "Mansfield",
+    "state": "PA",
+    "zip": "16933"
+  },
+  "coordinates": {
+    "latitude": 41.815608978271484,
+    "longitude": -77.07381057739258
+  },
+  "website": "https://cncministries.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=87702c07-e5fd-47a1-931d-41320b6cc83e&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "87702c07-e5fd-47a1-931d-41320b6cc83e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cncministries.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232103546"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jckf57m30",
+  "url": "https://constellation.church/jckf57m30",
+  "name": "Tabor Lutheran Church",
+  "displayName": "Tabor Lutheran Church",
+  "address": {
+    "street": "102 E Orman Ave",
+    "city": "Pueblo",
+    "state": "CO",
+    "zip": "81004-2142"
+  },
+  "coordinates": {
+    "latitude": 38.25482940673828,
+    "longitude": -104.62696838378906
+  },
+  "website": "https://taborlutheranchurchpueblo.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dbfde379-e5b5-464e-9177-6020c078b748",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dbfde379-e5b5-464e-9177-6020c078b748"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "taborlutheranchurchpueblo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840450139"
+    }
+  ],
+  "advisories": []
+}

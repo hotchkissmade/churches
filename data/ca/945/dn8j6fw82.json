@@ -1,0 +1,33 @@
+{
+  "id": "dn8j6fw82",
+  "url": "https://constellation.church/dn8j6fw82",
+  "name": "Fair Oaks Church",
+  "displayName": "Fair Oaks Church",
+  "address": {
+    "street": "1925 Risdon Rd",
+    "city": "Concord",
+    "state": "CA",
+    "zip": "94518"
+  },
+  "coordinates": {
+    "latitude": 37.94405174255371,
+    "longitude": -122.03280639648438
+  },
+  "website": "https://fairoaks.org",
+  "listingUrl": "https://converge.org/church/fair-oaks-church/",
+  "identifiers": [
+    {
+      "namespace": "org.converge.id",
+      "value": "37891"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fairoaks.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "946095732"
+    }
+  ],
+  "advisories": []
+}

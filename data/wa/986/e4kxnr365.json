@@ -1,0 +1,33 @@
+{
+  "id": "e4kxnr365",
+  "url": "https://constellation.church/e4kxnr365",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "1707 NW 104th St",
+    "city": "Vancouver",
+    "state": "WA",
+    "zip": "98685-5042"
+  },
+  "coordinates": {
+    "latitude": 45.64969253540039,
+    "longitude": -122.67395782470703
+  },
+  "website": "https://trinityvancouver.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4f4b8eed-6db6-4ae6-8c9b-4d9de5012a7a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4f4b8eed-6db6-4ae6-8c9b-4d9de5012a7a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityvancouver.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910691145"
+    }
+  ],
+  "advisories": []
+}

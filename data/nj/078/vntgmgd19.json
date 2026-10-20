@@ -1,0 +1,33 @@
+{
+  "id": "vntgmgd19",
+  "url": "https://constellation.church/vntgmgd19",
+  "name": "Trinity United Methodist Church",
+  "displayName": "Trinity United Methodist Church",
+  "address": {
+    "street": "213 Main St",
+    "city": "Hackettstown",
+    "state": "NJ",
+    "zip": "07840"
+  },
+  "coordinates": {
+    "latitude": 40.85246658325195,
+    "longitude": -74.82725143432617
+  },
+  "website": "https://catchthespirit.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFOzQIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFOzQIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "catchthespirit.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221723319"
+    }
+  ],
+  "advisories": []
+}

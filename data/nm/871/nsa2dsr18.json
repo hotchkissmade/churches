@@ -1,0 +1,33 @@
+{
+  "id": "nsa2dsr18",
+  "url": "https://constellation.church/nsa2dsr18",
+  "name": "Covenant Presbyterian Church",
+  "displayName": "Covenant Presbyterian Church",
+  "address": {
+    "street": "9315 Candelaria Rd NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87112-1301"
+  },
+  "coordinates": {
+    "latitude": 35.1168098449707,
+    "longitude": -106.538330078125
+  },
+  "website": "https://covpresnm.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/5108/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "5108"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covpresnm.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850171773"
+    }
+  ],
+  "advisories": []
+}

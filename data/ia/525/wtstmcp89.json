@@ -1,0 +1,33 @@
+{
+  "id": "wtstmcp89",
+  "url": "https://constellation.church/wtstmcp89",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "PO Box 266",
+    "city": "Oskaloosa",
+    "state": "IA",
+    "zip": "52577-0266"
+  },
+  "coordinates": {
+    "latitude": 41.28696632385254,
+    "longitude": -92.62429809570312
+  },
+  "website": "https://grace-wels.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24477",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24477"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grace-wels.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421120868"
+    }
+  ],
+  "advisories": []
+}

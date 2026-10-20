@@ -1,0 +1,33 @@
+{
+  "id": "bvetbjp45",
+  "url": "https://constellation.church/bvetbjp45",
+  "name": "Old Lexington Baptist Church",
+  "displayName": "Old Lexington Baptist Church",
+  "address": {
+    "street": "800 Old Lexington Rd",
+    "city": "Leesville",
+    "state": "SC",
+    "zip": "29070"
+  },
+  "coordinates": {
+    "latitude": 34.051347732543945,
+    "longitude": -81.4560775756836
+  },
+  "website": "https://oldlexingtonbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/old-lexington-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "old-lexington-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oldlexingtonbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "576023435"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "knrvj5z51",
+  "url": "https://constellation.church/knrvj5z51",
+  "name": "First Evangelical Lutheran Church",
+  "displayName": "First Evangelical Lutheran Church",
+  "address": {
+    "street": "1019 W 5th St",
+    "city": "Lorain",
+    "state": "OH",
+    "zip": "44052-1409"
+  },
+  "coordinates": {
+    "latitude": 41.46542167663574,
+    "longitude": -82.18008041381836
+  },
+  "website": "https://firstlutheranlorain.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3381a3aa-c907-431e-a592-e717442a77da",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3381a3aa-c907-431e-a592-e717442a77da"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranlorain.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "346001078"
+    }
+  ],
+  "advisories": []
+}

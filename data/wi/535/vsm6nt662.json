@@ -1,0 +1,33 @@
+{
+  "id": "vsm6nt662",
+  "url": "https://constellation.church/vsm6nt662",
+  "name": "Barneveld Lutheran Church",
+  "displayName": "Barneveld Lutheran Church",
+  "address": {
+    "street": "505 Swiss Ln",
+    "city": "Barneveld",
+    "state": "WI",
+    "zip": "53507-9515"
+  },
+  "coordinates": {
+    "latitude": 43.018856048583984,
+    "longitude": -89.88856506347656
+  },
+  "website": "https://barneveldlutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dfd5ce9b-0768-4544-a3d2-d75ba5f562b8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dfd5ce9b-0768-4544-a3d2-d75ba5f562b8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "barneveldlutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396106955"
+    }
+  ],
+  "advisories": []
+}

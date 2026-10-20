@@ -1,0 +1,33 @@
+{
+  "id": "t67tb5v84",
+  "url": "https://constellation.church/t67tb5v84",
+  "name": "Our Saviour's Lutheran Church",
+  "displayName": "Our Saviour's Lutheran Church",
+  "address": {
+    "street": "815 S Washington St",
+    "city": "Naperville",
+    "state": "IL",
+    "zip": "60540-7443"
+  },
+  "coordinates": {
+    "latitude": 41.75974082946777,
+    "longitude": -88.14881134033203
+  },
+  "website": "https://oursaviours.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1b45ef6e-a22f-47cd-bf55-11ea991eac03",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1b45ef6e-a22f-47cd-bf55-11ea991eac03"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oursaviours.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362684454"
+    }
+  ],
+  "advisories": []
+}

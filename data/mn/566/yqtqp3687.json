@@ -1,0 +1,33 @@
+{
+  "id": "yqtqp3687",
+  "url": "https://constellation.church/yqtqp3687",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "123 Wayside Ln",
+    "city": "International Falls",
+    "state": "MN",
+    "zip": "56649-2113"
+  },
+  "coordinates": {
+    "latitude": 48.595970153808594,
+    "longitude": -93.42601013183594
+  },
+  "website": "https://firstlutheranifalls.org/contact-us.html",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=585cd5f8-2734-4cb3-84ad-e5c9bd09f52c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "585cd5f8-2734-4cb3-84ad-e5c9bd09f52c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranifalls.org/contact-us.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410797348"
+    }
+  ],
+  "advisories": []
+}

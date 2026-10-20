@@ -1,0 +1,33 @@
+{
+  "id": "d16711n27",
+  "url": "https://constellation.church/d16711n27",
+  "name": "Kannapolis First Baptist Church",
+  "displayName": "Kannapolis First Baptist Church",
+  "address": {
+    "street": "101 N Main St",
+    "city": "Kannapolis",
+    "state": "NC",
+    "zip": "28081"
+  },
+  "coordinates": {
+    "latitude": 35.49839210510254,
+    "longitude": -80.62441635131836
+  },
+  "website": "https://firstbaptistkannapolis.com",
+  "listingUrl": "https://churches.sbc.net/church/kannapolis-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "kannapolis-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistkannapolis.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560642874"
+    }
+  ],
+  "advisories": []
+}

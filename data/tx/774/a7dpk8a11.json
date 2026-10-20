@@ -1,0 +1,33 @@
+{
+  "id": "a7dpk8a11",
+  "url": "https://constellation.church/a7dpk8a11",
+  "name": "Southwest Presbyterian Church",
+  "displayName": "Southwest Presbyterian Church",
+  "address": {
+    "street": "6033 South Rice Avenue",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77401"
+  },
+  "coordinates": {
+    "latitude": 29.715068817138672,
+    "longitude": -95.46762084960938
+  },
+  "website": "https://swpres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1301",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1301"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "swpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760391560"
+    }
+  ],
+  "advisories": []
+}

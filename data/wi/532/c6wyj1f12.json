@@ -1,0 +1,33 @@
+{
+  "id": "c6wyj1f12",
+  "url": "https://constellation.church/c6wyj1f12",
+  "name": "Mt Lebanon Lutheran Church",
+  "displayName": "Mount Lebanon Lutheran Church",
+  "address": {
+    "street": "4809 N 60th St",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53218-4150"
+  },
+  "coordinates": {
+    "latitude": 43.10529708862305,
+    "longitude": -87.98687744140625
+  },
+  "website": "https://themountmke.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24820",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24820"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "themountmke.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391021105"
+    }
+  ],
+  "advisories": []
+}

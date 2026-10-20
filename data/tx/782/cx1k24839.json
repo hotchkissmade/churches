@@ -1,0 +1,33 @@
+{
+  "id": "cx1k24839",
+  "url": "https://constellation.church/cx1k24839",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "504 Avenue E",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78215-1840"
+  },
+  "coordinates": {
+    "latitude": 29.429014205932617,
+    "longitude": -98.4830551147461
+  },
+  "website": "https://gracesa.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8134fc29-ab3e-4fa2-8a93-7810b7c04aec",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8134fc29-ab3e-4fa2-8a93-7810b7c04aec"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracesa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741124073"
+    }
+  ],
+  "advisories": []
+}

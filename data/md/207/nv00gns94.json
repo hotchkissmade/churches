@@ -1,0 +1,33 @@
+{
+  "id": "nv00gns94",
+  "url": "https://constellation.church/nv00gns94",
+  "name": "Maryland City Baptist Church",
+  "displayName": "Maryland City Baptist Church",
+  "address": {
+    "street": "326 Brock Bridge Rd",
+    "city": "Laurel",
+    "state": "MD",
+    "zip": "20724"
+  },
+  "coordinates": {
+    "latitude": 39.09210968017578,
+    "longitude": -76.82490158081055
+  },
+  "website": "https://marylandcitybaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/maryland-city-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "maryland-city-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "marylandcitybaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510121836"
+    }
+  ],
+  "advisories": []
+}

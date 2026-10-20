@@ -1,0 +1,33 @@
+{
+  "id": "v1ry0rg50",
+  "url": "https://constellation.church/v1ry0rg50",
+  "name": "Tabernaculo de la Fe",
+  "displayName": "Tabernaculo de la Fe",
+  "address": {
+    "street": "315 E Hunting Park Ave",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19124"
+  },
+  "coordinates": {
+    "latitude": 40.01352310180664,
+    "longitude": -75.12093734741211
+  },
+  "website": "https://tabernaculodelafephilly.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=8d50ef09-bbb7-42b1-963c-f5e49a3ac7f0&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "8d50ef09-bbb7-42b1-963c-f5e49a3ac7f0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tabernaculodelafephilly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "233030331"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "x7cdhwk16",
+  "url": "https://constellation.church/x7cdhwk16",
+  "name": "Southern Hills Baptist Church",
+  "displayName": "Southern Hills Baptist Church",
+  "address": {
+    "street": "1220 S Springfield Ave",
+    "city": "Bolivar",
+    "state": "MO",
+    "zip": "65613"
+  },
+  "coordinates": {
+    "latitude": 37.6024055480957,
+    "longitude": -93.40467834472656
+  },
+  "website": "https://southernhillsbolivar.org",
+  "listingUrl": "https://churches.sbc.net/church/southern-hills-baptist-church-4/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "southern-hills-baptist-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southernhillsbolivar.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431251641"
+    }
+  ],
+  "advisories": []
+}

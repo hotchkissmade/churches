@@ -1,0 +1,33 @@
+{
+  "id": "az629hh33",
+  "url": "https://constellation.church/az629hh33",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "204 2nd Ave NE",
+    "city": "Clara City",
+    "state": "MN",
+    "zip": "56222-1032"
+  },
+  "coordinates": {
+    "latitude": 44.958234786987305,
+    "longitude": -95.36518859863281
+  },
+  "website": "https://ilc-claracity.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=11cf1586-eee8-4987-997c-318c0408be86",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "11cf1586-eee8-4987-997c-318c0408be86"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ilc-claracity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410799308"
+    }
+  ],
+  "advisories": []
+}

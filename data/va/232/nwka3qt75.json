@@ -1,0 +1,33 @@
+{
+  "id": "nwka3qt75",
+  "url": "https://constellation.church/nwka3qt75",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "7757 Chippenham Pkwy",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "23225-1405"
+  },
+  "coordinates": {
+    "latitude": 37.542280197143555,
+    "longitude": -77.5383186340332
+  },
+  "website": "https://stlukerichmond.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=39002fc5-2ede-4ce0-bc0c-c76c4ce0bb59",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "39002fc5-2ede-4ce0-bc0c-c76c4ce0bb59"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukerichmond.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540955366"
+    }
+  ],
+  "advisories": []
+}

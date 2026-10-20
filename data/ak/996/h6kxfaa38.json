@@ -1,0 +1,33 @@
+{
+  "id": "h6kxfaa38",
+  "url": "https://constellation.church/h6kxfaa38",
+  "name": "New Journey Church",
+  "displayName": "New Journey Church",
+  "address": {
+    "street": "4001 E Darrington Village Ave",
+    "city": "Wasilla",
+    "state": "AK",
+    "zip": "99654"
+  },
+  "coordinates": {
+    "latitude": 61.613624572753906,
+    "longitude": -149.3517074584961
+  },
+  "website": "https://newjourneychurch.com/about",
+  "listingUrl": "https://churches.sbc.net/church/new-journey-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-journey-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newjourneychurch.com/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "994808068"
+    }
+  ],
+  "advisories": []
+}

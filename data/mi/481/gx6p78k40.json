@@ -1,0 +1,33 @@
+{
+  "id": "gx6p78k40",
+  "url": "https://constellation.church/gx6p78k40",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "195 E Michigan Ave",
+    "city": "Saline",
+    "state": "MI",
+    "zip": "48176-1574"
+  },
+  "coordinates": {
+    "latitude": 42.16795349121094,
+    "longitude": -83.7793083190918
+  },
+  "website": "https://tlcsaline.church",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24284",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24284"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcsaline.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382193508"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "f2fbvxb03",
+  "url": "https://constellation.church/f2fbvxb03",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "205 Pulaski St",
+    "city": "Lincoln",
+    "state": "IL",
+    "zip": "62656-2037"
+  },
+  "coordinates": {
+    "latitude": 40.148149490356445,
+    "longitude": -89.36689758300781
+  },
+  "website": "https://zlclinc.org",
+  "listingUrl": "https://locator.lcms.org/church/C/512012",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "512012"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zlclinc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370741107"
+    }
+  ],
+  "advisories": []
+}

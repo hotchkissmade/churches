@@ -1,0 +1,37 @@
+{
+  "id": "a5ka2ny10",
+  "url": "https://constellation.church/a5ka2ny10",
+  "name": "Ascension Lutheran Church",
+  "displayName": "Ascension Lutheran Church",
+  "address": {
+    "street": "1412 Neva Rd",
+    "city": "Antigo",
+    "state": "WI",
+    "zip": "54409-2337"
+  },
+  "coordinates": {
+    "latitude": 45.1506233215332,
+    "longitude": -89.15058135986328
+  },
+  "website": "https://ascensionantigo.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24653",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24653"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ascensionantigo.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391290142"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391667607"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ebcttnb10",
+  "url": "https://constellation.church/ebcttnb10",
+  "name": "Restoration Chapel, San Antonio",
+  "displayName": "Restoration Chapel, San Antonio",
+  "address": {
+    "street": "2122 Mannix Drive",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78217"
+  },
+  "coordinates": {
+    "latitude": 29.524383544921875,
+    "longitude": -98.45870971679688
+  },
+  "website": "https://rccgrestorationsa.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=502&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "502"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rccgrestorationsa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "272245833"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p2egjfs30",
+  "url": "https://constellation.church/p2egjfs30",
+  "name": "Zion Presbyterian Church",
+  "displayName": "Zion Presbyterian Church",
+  "address": {
+    "street": "2219 The Avenue",
+    "city": "Chester",
+    "state": "SC",
+    "zip": "29706"
+  },
+  "coordinates": {
+    "latitude": 34.80395317077637,
+    "longitude": -81.2410774230957
+  },
+  "website": "https://zionchurchpca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1135",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1135"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionchurchpca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "576082649"
+    }
+  ],
+  "advisories": []
+}

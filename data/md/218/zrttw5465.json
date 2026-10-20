@@ -1,0 +1,33 @@
+{
+  "id": "zrttw5465",
+  "url": "https://constellation.church/zrttw5465",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "10301 Coastal Hwy",
+    "city": "Ocean City",
+    "state": "MD",
+    "zip": "21842-2501"
+  },
+  "coordinates": {
+    "latitude": 38.41506767272949,
+    "longitude": -75.05801010131836
+  },
+  "website": "https://stpetersoc.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b155d705-74d5-4e55-b2c1-4541356dc2a7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b155d705-74d5-4e55-b2c1-4541356dc2a7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpetersoc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521152198"
+    }
+  ],
+  "advisories": []
+}

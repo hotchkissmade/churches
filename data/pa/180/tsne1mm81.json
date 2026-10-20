@@ -1,0 +1,33 @@
+{
+  "id": "tsne1mm81",
+  "url": "https://constellation.church/tsne1mm81",
+  "name": "Faith Evangelical Lutheran Church",
+  "displayName": "Faith Evangelical Lutheran Church",
+  "address": {
+    "street": "3355 Macarthur Rd",
+    "city": "Whitehall",
+    "state": "PA",
+    "zip": "18052-2903"
+  },
+  "coordinates": {
+    "latitude": 40.6584587097168,
+    "longitude": -75.5067253112793
+  },
+  "website": "https://faithlutheranwhitehall.org/staff.html",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=12fec42e-1eea-4f84-8216-1e105d3e0462",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "12fec42e-1eea-4f84-8216-1e105d3e0462"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithlutheranwhitehall.org/staff.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231887428"
+    }
+  ],
+  "advisories": []
+}

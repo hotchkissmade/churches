@@ -1,0 +1,33 @@
+{
+  "id": "wq10e9716",
+  "url": "https://constellation.church/wq10e9716",
+  "name": "St James Lutheran Church",
+  "displayName": "St. James Lutheran Church",
+  "address": {
+    "street": "1720 Route 930 E",
+    "city": "New Haven",
+    "state": "IN",
+    "zip": "46774"
+  },
+  "coordinates": {
+    "latitude": 41.065650939941406,
+    "longitude": -85.00434875488281
+  },
+  "website": "https://stjamesnewhaven.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f4d617d3-5660-40fc-9dd7-83126ad90813",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f4d617d3-5660-40fc-9dd7-83126ad90813"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamesnewhaven.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351451126"
+    }
+  ],
+  "advisories": []
+}

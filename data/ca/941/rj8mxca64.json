@@ -1,0 +1,37 @@
+{
+  "id": "rj8mxca64",
+  "url": "https://constellation.church/rj8mxca64",
+  "name": "Seventh Avenue Presbyterian Church",
+  "displayName": "Seventh Avenue Presbyterian Church",
+  "address": {
+    "street": "1329 7th Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94122"
+  },
+  "coordinates": {
+    "latitude": 37.76350212097168,
+    "longitude": -122.46444702148438
+  },
+  "website": "https://seventhavenuechurch.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/810/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "810"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "seventhavenuechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941498234"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "946081034"
+    }
+  ],
+  "advisories": []
+}

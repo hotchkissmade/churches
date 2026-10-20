@@ -1,0 +1,33 @@
+{
+  "id": "jegxnv280",
+  "url": "https://constellation.church/jegxnv280",
+  "name": "Grace Presbyterian Church of Dearborn",
+  "displayName": "Grace Presbyterian Church of Dearborn",
+  "address": {
+    "street": "1865 Nowlin St",
+    "city": "Dearborn",
+    "state": "MI",
+    "zip": "48124"
+  },
+  "coordinates": {
+    "latitude": 42.298397064208984,
+    "longitude": -83.25625228881836
+  },
+  "website": "https://gracedearborn.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6845",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6845"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracedearborn.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "923407952"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "r7f2r5121",
+  "url": "https://constellation.church/r7f2r5121",
+  "name": "East Hill Baptist Church",
+  "displayName": "East Hill Baptist Church",
+  "address": {
+    "street": "912 Miccosukee Rd",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32308"
+  },
+  "coordinates": {
+    "latitude": 30.453184127807617,
+    "longitude": -84.2681655883789
+  },
+  "website": "https://easthill.net",
+  "listingUrl": "https://churches.sbc.net/church/east-hill-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "east-hill-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "easthill.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "596020345"
+    }
+  ],
+  "advisories": []
+}

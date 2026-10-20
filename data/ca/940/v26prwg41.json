@@ -1,0 +1,33 @@
+{
+  "id": "v26prwg41",
+  "url": "https://constellation.church/v26prwg41",
+  "name": "Primera Iglesia Bautista de South San Francisco",
+  "displayName": "Primera Iglesia Bautista de South San Francisco",
+  "address": {
+    "street": "299 Country Club Dr",
+    "city": "So San Francisco",
+    "state": "CA",
+    "zip": "94080"
+  },
+  "coordinates": {
+    "latitude": 37.64272880554199,
+    "longitude": -122.4333724975586
+  },
+  "website": "https://pibssf.com",
+  "listingUrl": "https://churches.sbc.net/church/primera-iglesia-bautista-de-south-san-francisco/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "primera-iglesia-bautista-de-south-san-francisco"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pibssf.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "943186395"
+    }
+  ],
+  "advisories": []
+}

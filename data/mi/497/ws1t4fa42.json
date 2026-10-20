@@ -1,0 +1,33 @@
+{
+  "id": "ws1t4fa42",
+  "url": "https://constellation.church/ws1t4fa42",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "615 Washington Way",
+    "city": "Sault Sainte Marie",
+    "state": "MI",
+    "zip": "49783-2657"
+  },
+  "coordinates": {
+    "latitude": 46.48948669433594,
+    "longitude": -84.36257934570312
+  },
+  "website": "https://immanuelssm.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24612",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24612"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "immanuelssm.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "386082759"
+    }
+  ],
+  "advisories": []
+}

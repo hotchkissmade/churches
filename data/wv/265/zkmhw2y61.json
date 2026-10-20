@@ -1,0 +1,33 @@
+{
+  "id": "zkmhw2y61",
+  "url": "https://constellation.church/zkmhw2y61",
+  "name": "Crossroads Church",
+  "displayName": "Crossroads Church",
+  "address": {
+    "street": "15 Harrison St",
+    "city": "Morgantown",
+    "state": "WV",
+    "zip": "26501"
+  },
+  "coordinates": {
+    "latitude": 39.63393020629883,
+    "longitude": -79.9466781616211
+  },
+  "website": "https://wvcrossroads.com",
+  "listingUrl": "https://churches.sbc.net/church/crossroads-church-6/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "crossroads-church-6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wvcrossroads.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "342065246"
+    }
+  ],
+  "advisories": []
+}

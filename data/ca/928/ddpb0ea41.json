@@ -1,0 +1,33 @@
+{
+  "id": "ddpb0ea41",
+  "url": "https://constellation.church/ddpb0ea41",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "2715 E La Veta Ave",
+    "city": "Orange",
+    "state": "CA",
+    "zip": "92869-5108"
+  },
+  "coordinates": {
+    "latitude": 33.7812557220459,
+    "longitude": -117.82447814941406
+  },
+  "website": "https://clcorange.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f0284303-3e17-4b9c-a7d3-e07ab4b8e484",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f0284303-3e17-4b9c-a7d3-e07ab4b8e484"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clcorange.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952469252"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "yr83gvk03",
+  "url": "https://constellation.church/yr83gvk03",
+  "name": "Parkview Baptist Church",
+  "displayName": "Parkview Baptist Church",
+  "address": {
+    "street": "403 Hayes Rd",
+    "city": "Fort Pierce",
+    "state": "FL",
+    "zip": "34950"
+  },
+  "coordinates": {
+    "latitude": 27.437124252319336,
+    "longitude": -80.32689666748047
+  },
+  "website": "https://parkviewfortpierce.com",
+  "listingUrl": "https://churches.sbc.net/church/parkview-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "parkview-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parkviewfortpierce.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590971745"
+    }
+  ],
+  "advisories": []
+}

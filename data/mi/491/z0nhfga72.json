@@ -1,0 +1,33 @@
+{
+  "id": "z0nhfga72",
+  "url": "https://constellation.church/z0nhfga72",
+  "name": "St Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "2673 W John Beers Rd",
+    "city": "Stevensville",
+    "state": "MI",
+    "zip": "49127-1212"
+  },
+  "coordinates": {
+    "latitude": 42.014652252197266,
+    "longitude": -86.51854705810547
+  },
+  "website": "https://stpaulswels.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24324",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24324"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulswels.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381671460"
+    }
+  ],
+  "advisories": []
+}

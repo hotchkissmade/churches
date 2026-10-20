@@ -1,0 +1,33 @@
+{
+  "id": "kcqyfmd53",
+  "url": "https://constellation.church/kcqyfmd53",
+  "name": "Good Shepherd Lutheran Church",
+  "displayName": "Good Shepherd Lutheran Church",
+  "address": {
+    "street": "2238 Parade Rd",
+    "city": "Laconia",
+    "state": "NH",
+    "zip": "03246-1520"
+  },
+  "coordinates": {
+    "latitude": 43.57710647583008,
+    "longitude": -71.49490737915039
+  },
+  "website": "https://goodshepherdnh.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f55eba95-e408-4bcf-9101-f3a5bd1e225d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f55eba95-e408-4bcf-9101-f3a5bd1e225d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherdnh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222488894"
+    }
+  ],
+  "advisories": []
+}

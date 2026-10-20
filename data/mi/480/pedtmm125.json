@@ -1,0 +1,33 @@
+{
+  "id": "pedtmm125",
+  "url": "https://constellation.church/pedtmm125",
+  "name": "First United Methodist Church of Port Huron",
+  "displayName": "First United Methodist Church of Port Huron",
+  "address": {
+    "street": "828 Lapeer Ave",
+    "city": "Port Huron",
+    "state": "MI",
+    "zip": "48060-4476"
+  },
+  "coordinates": {
+    "latitude": 42.97589111328125,
+    "longitude": -82.4304313659668
+  },
+  "website": "https://phfumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFBMOIA5",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFBMOIA5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "phfumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381474920"
+    }
+  ],
+  "advisories": []
+}

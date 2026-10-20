@@ -1,0 +1,33 @@
+{
+  "id": "b7afs5f53",
+  "url": "https://constellation.church/b7afs5f53",
+  "name": "Nuevas Alturas Iglesia Bautista",
+  "displayName": "Nuevas Alturas Iglesia Bautista",
+  "address": {
+    "street": "1200 Atrisco Dr. SW",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87105"
+  },
+  "coordinates": {
+    "latitude": 35.06259727478027,
+    "longitude": -106.69270324707031
+  },
+  "website": "https://ibna.info",
+  "listingUrl": "https://churches.sbc.net/church/nuevas-alturas-iglesia-bautista/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "nuevas-alturas-iglesia-bautista"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ibna.info"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "822374477"
+    }
+  ],
+  "advisories": []
+}

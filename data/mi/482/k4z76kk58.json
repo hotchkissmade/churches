@@ -1,0 +1,33 @@
+{
+  "id": "k4z76kk58",
+  "url": "https://constellation.church/k4z76kk58",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "143 Albany St",
+    "city": "Ferndale",
+    "state": "MI",
+    "zip": "48220-1835"
+  },
+  "coordinates": {
+    "latitude": 42.457984924316406,
+    "longitude": -83.13359832763672
+  },
+  "website": "https://zionlutheranmi.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3eb1a3ca-7532-4573-8406-2973b8edd48b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3eb1a3ca-7532-4573-8406-2973b8edd48b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionlutheranmi.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381678223"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "b4nnws031",
+  "url": "https://constellation.church/b4nnws031",
+  "name": "North Shore Community Church",
+  "displayName": "North Shore Community Church",
+  "address": {
+    "street": "209-213 South Street",
+    "city": "Oyster Bay",
+    "state": "NY",
+    "zip": "11771"
+  },
+  "coordinates": {
+    "latitude": 40.86922073364258,
+    "longitude": -73.53129959106445
+  },
+  "website": "https://nscc.live",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1585",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1585"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nscc.live"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "113195868"
+    }
+  ],
+  "advisories": []
+}

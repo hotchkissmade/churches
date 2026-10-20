@@ -1,0 +1,33 @@
+{
+  "id": "wtjrabs68",
+  "url": "https://constellation.church/wtjrabs68",
+  "name": "Ohana Church",
+  "displayName": "Ohana Church",
+  "address": {
+    "street": "388 Kaumana Dr",
+    "city": "Hilo",
+    "state": "HI",
+    "zip": "96720"
+  },
+  "coordinates": {
+    "latitude": 19.69082546234131,
+    "longitude": -155.06938934326172
+  },
+  "website": "https://ohanachurch.com",
+  "listingUrl": "https://churches.sbc.net/church/ohana-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "ohana-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ohanachurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "463022775"
+    }
+  ],
+  "advisories": []
+}

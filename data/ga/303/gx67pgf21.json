@@ -1,0 +1,33 @@
+{
+  "id": "gx67pgf21",
+  "url": "https://constellation.church/gx67pgf21",
+  "name": "Church in Atlanta",
+  "displayName": "Church in Atlanta",
+  "address": {
+    "street": "432 Calhoun St NW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30318"
+  },
+  "coordinates": {
+    "latitude": 33.85626792907715,
+    "longitude": -84.28125762939453
+  },
+  "website": "https://churchinatlanta.org",
+  "listingUrl": "https://localchurches.org/churches/atlanta-ga-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "atlanta-ga-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinatlanta.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237236646"
+    }
+  ],
+  "advisories": []
+}

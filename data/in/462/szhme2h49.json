@@ -1,0 +1,33 @@
+{
+  "id": "szhme2h49",
+  "url": "https://constellation.church/szhme2h49",
+  "name": "Episcopal Diocese of Indianapolis",
+  "displayName": "Episcopal Diocese of Indianapolis",
+  "address": {
+    "street": "125 Monument Circle",
+    "city": "INDIANAPOLIS",
+    "state": "IN",
+    "zip": "46204"
+  },
+  "coordinates": {
+    "latitude": 39.7692957,
+    "longitude": -86.1576301
+  },
+  "website": "https://indydio.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/indianapolis/list/episcopal-diocese-indianapolis",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "indianapolis/episcopal-diocese-indianapolis"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "indydio.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "350915468"
+    }
+  ],
+  "advisories": []
+}

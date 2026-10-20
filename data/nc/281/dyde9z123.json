@@ -1,0 +1,33 @@
+{
+  "id": "dyde9z123",
+  "url": "https://constellation.church/dyde9z123",
+  "name": "Bethany Baptist Church, Weddington",
+  "displayName": "Bethany Baptist Church, Weddington",
+  "address": {
+    "street": "4301 Beulah Church Rd",
+    "city": "Weddington",
+    "state": "NC",
+    "zip": "28104"
+  },
+  "coordinates": {
+    "latitude": 35.0268611907959,
+    "longitude": -80.72956085205078
+  },
+  "website": "https://mybethany.com",
+  "listingUrl": "https://churches.sbc.net/church/bethany-baptist-church-weddington/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bethany-baptist-church-weddington"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mybethany.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561534693"
+    }
+  ],
+  "advisories": []
+}

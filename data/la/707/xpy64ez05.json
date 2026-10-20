@@ -1,0 +1,33 @@
+{
+  "id": "xpy64ez05",
+  "url": "https://constellation.church/xpy64ez05",
+  "name": "Dutchtown Baptist Church",
+  "displayName": "Dutchtown Baptist Church",
+  "address": {
+    "street": "36495 C Braud Rd",
+    "city": "Prairieville",
+    "state": "LA",
+    "zip": "70769"
+  },
+  "coordinates": {
+    "latitude": 30.268756866455078,
+    "longitude": -90.99075317382812
+  },
+  "website": "https://dutchtownbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/dutchtown-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "dutchtown-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dutchtownbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720983784"
+    }
+  ],
+  "advisories": []
+}

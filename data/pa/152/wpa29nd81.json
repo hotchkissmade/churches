@@ -1,0 +1,33 @@
+{
+  "id": "wpa29nd81",
+  "url": "https://constellation.church/wpa29nd81",
+  "name": "Eastminster Presbyterian Church",
+  "displayName": "Eastminster Presbyterian Church",
+  "address": {
+    "street": "250 N Highland Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15206-3026"
+  },
+  "coordinates": {
+    "latitude": 40.46341514587402,
+    "longitude": -79.92368698120117
+  },
+  "website": "https://eastminsterchurch.net",
+  "listingUrl": "https://church-trends.pcusa.org/church/11605/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "11605"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastminsterchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "250979378"
+    }
+  ],
+  "advisories": []
+}

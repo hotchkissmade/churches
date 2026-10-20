@@ -1,0 +1,33 @@
+{
+  "id": "gj47e3640",
+  "url": "https://constellation.church/gj47e3640",
+  "name": "First Baptist Church, Whitesboro",
+  "displayName": "First Baptist Church, Whitesboro",
+  "address": {
+    "street": "124 Center St",
+    "city": "Whitesboro",
+    "state": "TX",
+    "zip": "76273"
+  },
+  "coordinates": {
+    "latitude": 33.657575607299805,
+    "longitude": -96.90514373779297
+  },
+  "website": "https://fbcwhitesboro.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-whitesboro/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-whitesboro"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcwhitesboro.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752647644"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "d7eck5832",
+  "url": "https://constellation.church/d7eck5832",
+  "name": "Ascension Lutheran Church",
+  "displayName": "Ascension Lutheran Church",
+  "address": {
+    "street": "2911 Libal St",
+    "city": "Green Bay",
+    "state": "WI",
+    "zip": "54301-1561"
+  },
+  "coordinates": {
+    "latitude": 44.463951110839844,
+    "longitude": -88.0245132446289
+  },
+  "website": "https://ascensiongb.com/worshipservices",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ca908b70-71a4-42b1-90e8-426d8d79e2bd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ca908b70-71a4-42b1-90e8-426d8d79e2bd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ascensiongb.com/worshipservices"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391094400"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "b65qp9425",
+  "url": "https://constellation.church/b65qp9425",
+  "name": "St. Martin's Episcopal Church",
+  "displayName": "St. Martin's Episcopal Church",
+  "address": {
+    "street": "102 N Park St",
+    "city": "Fairmont",
+    "state": "MN",
+    "zip": "56031-2822"
+  },
+  "coordinates": {
+    "latitude": 43.65332221984863,
+    "longitude": -94.4607162475586
+  },
+  "website": "https://smecmn.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/st-martins-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/st-martins-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "smecmn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411243764"
+    }
+  ],
+  "advisories": []
+}

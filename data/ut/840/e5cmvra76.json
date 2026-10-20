@@ -1,0 +1,33 @@
+{
+  "id": "e5cmvra76",
+  "url": "https://constellation.church/e5cmvra76",
+  "name": "First Baptist Church, Tooele",
+  "displayName": "First Baptist Church, Tooele",
+  "address": {
+    "street": "580 S Main St",
+    "city": "Tooele",
+    "state": "UT",
+    "zip": "84074"
+  },
+  "coordinates": {
+    "latitude": 40.5180606842041,
+    "longitude": -112.30072784423828
+  },
+  "website": "https://firstbaptisttooele.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-tooele/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-tooele"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptisttooele.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "870415617"
+    }
+  ],
+  "advisories": []
+}

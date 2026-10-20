@@ -1,0 +1,33 @@
+{
+  "id": "epb3f4t87",
+  "url": "https://constellation.church/epb3f4t87",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "3000 E Twelve Mile Rd",
+    "city": "Warren",
+    "state": "MI",
+    "zip": "48092-2420"
+  },
+  "coordinates": {
+    "latitude": 42.50491523742676,
+    "longitude": -83.07533645629883
+  },
+  "website": "https://firstofwarren.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/3143/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "3143"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstofwarren.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382256358"
+    }
+  ],
+  "advisories": []
+}

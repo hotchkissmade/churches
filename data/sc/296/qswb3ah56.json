@@ -1,0 +1,33 @@
+{
+  "id": "qswb3ah56",
+  "url": "https://constellation.church/qswb3ah56",
+  "name": "Milford Baptist Church",
+  "displayName": "Milford Baptist Church",
+  "address": {
+    "street": "1282 Milford Church Rd",
+    "city": "Greer",
+    "state": "SC",
+    "zip": "29651"
+  },
+  "coordinates": {
+    "latitude": 34.97837257385254,
+    "longitude": -82.28461837768555
+  },
+  "website": "https://mbcgreer.org",
+  "listingUrl": "https://churches.sbc.net/church/milford-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "milford-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mbcgreer.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "300691245"
+    }
+  ],
+  "advisories": []
+}

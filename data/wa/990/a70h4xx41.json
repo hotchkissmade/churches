@@ -1,0 +1,33 @@
+{
+  "id": "a70h4xx41",
+  "url": "https://constellation.church/a70h4xx41",
+  "name": "Greenacres Baptist Church",
+  "displayName": "Greenacres Baptist Church",
+  "address": {
+    "street": "18620 E Sprague Ave",
+    "city": "Spokane Valley",
+    "state": "WA",
+    "zip": "99016"
+  },
+  "coordinates": {
+    "latitude": 47.65644073486328,
+    "longitude": -117.15419006347656
+  },
+  "website": "https://gbcspokane.com",
+  "listingUrl": "https://churches.sbc.net/church/greenacres-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "greenacres-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gbcspokane.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911187248"
+    }
+  ],
+  "advisories": []
+}

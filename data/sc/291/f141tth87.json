@@ -1,0 +1,33 @@
+{
+  "id": "f141tth87",
+  "url": "https://constellation.church/f141tth87",
+  "name": "Bethel Baptist Church",
+  "displayName": "Bethel Baptist Church",
+  "address": {
+    "street": "2401 Bethel Church Rd",
+    "city": "Sumter",
+    "state": "SC",
+    "zip": "29154"
+  },
+  "coordinates": {
+    "latitude": 33.82698440551758,
+    "longitude": -80.39506530761719
+  },
+  "website": "https://bethelsumter.com",
+  "listingUrl": "https://churches.sbc.net/church/bethel-baptist-church-50/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bethel-baptist-church-50"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelsumter.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570572415"
+    }
+  ],
+  "advisories": []
+}

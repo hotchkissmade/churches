@@ -1,0 +1,33 @@
+{
+  "id": "ma34spq63",
+  "url": "https://constellation.church/ma34spq63",
+  "name": "St John's Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "55 Pleasant Ave",
+    "city": "Lancaster",
+    "state": "NY",
+    "zip": "14086-2105"
+  },
+  "coordinates": {
+    "latitude": 42.902931213378906,
+    "longitude": -78.66720581054688
+  },
+  "website": "https://stjohnslanc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a249a756-f469-4501-931d-e76a69d6ed74",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a249a756-f469-4501-931d-e76a69d6ed74"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnslanc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "160755845"
+    }
+  ],
+  "advisories": []
+}

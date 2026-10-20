@@ -1,0 +1,33 @@
+{
+  "id": "e6gsqeq06",
+  "url": "https://constellation.church/e6gsqeq06",
+  "name": "Central Baptist Church",
+  "displayName": "Central Baptist Church",
+  "address": {
+    "street": "1217 Nehoa St",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96822"
+  },
+  "coordinates": {
+    "latitude": 21.308773040771484,
+    "longitude": -157.836669921875
+  },
+  "website": "https://cbchi.org",
+  "listingUrl": "https://churches.sbc.net/church/central-baptist-church-103/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "central-baptist-church-103"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cbchi.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "990160024"
+    }
+  ],
+  "advisories": []
+}

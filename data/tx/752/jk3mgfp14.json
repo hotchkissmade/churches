@@ -1,0 +1,33 @@
+{
+  "id": "jk3mgfp14",
+  "url": "https://constellation.church/jk3mgfp14",
+  "name": "Bethel Church PCA",
+  "displayName": "Bethel Church PCA",
+  "address": {
+    "street": "17990 Midway Road",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75287"
+  },
+  "coordinates": {
+    "latitude": 32.99426078796387,
+    "longitude": -96.84344482421875
+  },
+  "website": "https://bethelchurchpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4712",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4712"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelchurchpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752018491"
+    }
+  ],
+  "advisories": []
+}

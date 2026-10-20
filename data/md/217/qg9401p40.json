@@ -1,0 +1,33 @@
+{
+  "id": "qg9401p40",
+  "url": "https://constellation.church/qg9401p40",
+  "name": "St. Paul's Episcopal Church",
+  "displayName": "St. Paul's Episcopal Church",
+  "address": {
+    "street": "1914 Ballenger Creek Rd",
+    "city": "Point of Rocks",
+    "state": "MD",
+    "zip": "21777"
+  },
+  "coordinates": {
+    "latitude": 39.28713607788086,
+    "longitude": -77.52878189086914
+  },
+  "website": "https://stpaulspointrocks.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maryland/list/st-pauls-episcopal-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maryland/st-pauls-episcopal-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulspointrocks.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520735086"
+    }
+  ],
+  "advisories": []
+}

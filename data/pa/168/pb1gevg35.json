@@ -1,0 +1,33 @@
+{
+  "id": "pb1gevg35",
+  "url": "https://constellation.church/pb1gevg35",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "301 N. Pennsylvania Ave.",
+    "city": "Centre Hall",
+    "state": "PA",
+    "zip": "16828"
+  },
+  "coordinates": {
+    "latitude": 40.84822082519531,
+    "longitude": -77.68811416625977
+  },
+  "website": "https://stlukecentrehall.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=32b1c864-dd5b-474f-b4b9-7af6e4526077",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "32b1c864-dd5b-474f-b4b9-7af6e4526077"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukecentrehall.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251464517"
+    }
+  ],
+  "advisories": []
+}

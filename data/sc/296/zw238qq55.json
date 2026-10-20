@@ -1,0 +1,33 @@
+{
+  "id": "zw238qq55",
+  "url": "https://constellation.church/zw238qq55",
+  "name": "Covenant Presbyterian Church",
+  "displayName": "Covenant Presbyterian Church",
+  "address": {
+    "street": "4500 Highway 86",
+    "city": "Easley",
+    "state": "SC",
+    "zip": "29642"
+  },
+  "coordinates": {
+    "latitude": 34.75184440612793,
+    "longitude": -82.55374145507812
+  },
+  "website": "https://mycovenantpc.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/253",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "253"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mycovenantpc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570724959"
+    }
+  ],
+  "advisories": []
+}

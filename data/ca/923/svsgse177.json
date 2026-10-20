@@ -1,0 +1,33 @@
+{
+  "id": "svsgse177",
+  "url": "https://constellation.church/svsgse177",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "12449 California St",
+    "city": "Yucaipa",
+    "state": "CA",
+    "zip": "92399-4405"
+  },
+  "coordinates": {
+    "latitude": 34.0281992,
+    "longitude": -117.0387271
+  },
+  "website": "https://faithlutheranyucaipa.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=73706918-4256-4246-8f77-091d761b54ba",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "73706918-4256-4246-8f77-091d761b54ba"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithlutheranyucaipa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952162546"
+    }
+  ],
+  "advisories": []
+}

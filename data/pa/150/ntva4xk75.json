@@ -1,0 +1,33 @@
+{
+  "id": "ntva4xk75",
+  "url": "https://constellation.church/ntva4xk75",
+  "name": "Edgewood Church",
+  "displayName": "Edgewood Church",
+  "address": {
+    "street": "430 Edgewood Rd",
+    "city": "Beaver Falls",
+    "state": "PA",
+    "zip": "15010"
+  },
+  "coordinates": {
+    "latitude": 40.792972564697266,
+    "longitude": -80.29460525512695
+  },
+  "website": "https://edgewood-church.com",
+  "listingUrl": "https://churches.sbc.net/church/edgewood-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "edgewood-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "edgewood-church.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237007727"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kh5sh8616",
+  "url": "https://constellation.church/kh5sh8616",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "500 N Kniss Ave",
+    "city": "Luverne",
+    "state": "MN",
+    "zip": "56156-1265"
+  },
+  "coordinates": {
+    "latitude": 43.65866279602051,
+    "longitude": -96.21249389648438
+  },
+  "website": "https://graceluverne.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=12a98cd6-692e-460b-b637-b39d9039a1ae",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "12a98cd6-692e-460b-b637-b39d9039a1ae"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceluverne.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410799789"
+    }
+  ],
+  "advisories": []
+}

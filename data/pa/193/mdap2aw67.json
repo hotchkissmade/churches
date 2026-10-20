@@ -1,0 +1,33 @@
+{
+  "id": "mdap2aw67",
+  "url": "https://constellation.church/mdap2aw67",
+  "name": "Manor Presbyterian Church",
+  "displayName": "Manor Presbyterian Church",
+  "address": {
+    "street": "505 Street Road",
+    "city": "Cochranville",
+    "state": "PA",
+    "zip": "19330"
+  },
+  "coordinates": {
+    "latitude": 39.85808753967285,
+    "longitude": -75.9104995727539
+  },
+  "website": "https://manorpresbyterian.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/366",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "366"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "manorpresbyterian.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231512144"
+    }
+  ],
+  "advisories": []
+}

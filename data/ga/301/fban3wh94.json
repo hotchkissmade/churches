@@ -1,0 +1,33 @@
+{
+  "id": "fban3wh94",
+  "url": "https://constellation.church/fban3wh94",
+  "name": "Midway Presbyterian Church",
+  "displayName": "Midway Presbyterian Church",
+  "address": {
+    "street": "4635 Dallas Highway",
+    "city": "Powder Springs",
+    "state": "GA",
+    "zip": "30127"
+  },
+  "coordinates": {
+    "latitude": 33.94365692138672,
+    "longitude": -84.68771362304688
+  },
+  "website": "https://midwaypca.org/staff",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/730",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "730"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "midwaypca.org/staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581535998"
+    }
+  ],
+  "advisories": []
+}

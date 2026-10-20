@@ -1,0 +1,33 @@
+{
+  "id": "yjs8hrg66",
+  "url": "https://constellation.church/yjs8hrg66",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "1710 W College Ave",
+    "city": "Normal",
+    "state": "IL",
+    "zip": "61761-2708"
+  },
+  "coordinates": {
+    "latitude": 40.510175704956055,
+    "longitude": -89.01856994628906
+  },
+  "website": "https://stmarknormal.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/25033",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "25033"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarknormal.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237311435"
+    }
+  ],
+  "advisories": []
+}

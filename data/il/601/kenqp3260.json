@@ -1,0 +1,33 @@
+{
+  "id": "kenqp3260",
+  "url": "https://constellation.church/kenqp3260",
+  "name": "Emmanuel Church of Elgin",
+  "displayName": "Emmanuel Church of Elgin",
+  "address": {
+    "street": "1158 Larkin Ave",
+    "city": "Elgin",
+    "state": "IL",
+    "zip": "60123"
+  },
+  "coordinates": {
+    "latitude": 42.03632736206055,
+    "longitude": -88.30754852294922
+  },
+  "website": "https://emmanuelchurchofelgin.net",
+  "listingUrl": "https://churches.sbc.net/church/emmanuel-church-of-elgin/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "emmanuel-church-of-elgin"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emmanuelchurchofelgin.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362416194"
+    }
+  ],
+  "advisories": []
+}

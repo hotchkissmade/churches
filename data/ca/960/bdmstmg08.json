@@ -1,0 +1,33 @@
+{
+  "id": "bdmstmg08",
+  "url": "https://constellation.church/bdmstmg08",
+  "name": "Lighthouse Assembly of God",
+  "displayName": "Lighthouse Assembly of God",
+  "address": {
+    "street": "1712 Locust Ave",
+    "city": "Shasta Lake",
+    "state": "CA",
+    "zip": "96019"
+  },
+  "coordinates": {
+    "latitude": 40.67939567565918,
+    "longitude": -122.36923217773438
+  },
+  "website": "https://lighthouseslc.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=3c0d9cd8-2198-4045-bf0f-8886a4b7a3ed&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "3c0d9cd8-2198-4045-bf0f-8886a4b7a3ed"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lighthouseslc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942627788"
+    }
+  ],
+  "advisories": []
+}

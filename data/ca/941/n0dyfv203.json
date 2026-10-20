@@ -1,0 +1,33 @@
+{
+  "id": "n0dyfv203",
+  "url": "https://constellation.church/n0dyfv203",
+  "name": "Golden Gate CRC",
+  "displayName": "Golden Gate Christian Reformed Church",
+  "address": {
+    "street": "378 18th Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94121"
+  },
+  "coordinates": {
+    "latitude": 37.78096961975098,
+    "longitude": -122.47695922851562
+  },
+  "website": "https://ggcrc.org",
+  "listingUrl": "https://www.crcna.org/churches/1854",
+  "identifiers": [
+    {
+      "namespace": "org.crcna.id",
+      "value": "1854"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ggcrc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942267881"
+    }
+  ],
+  "advisories": []
+}

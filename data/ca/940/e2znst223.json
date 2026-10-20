@@ -1,0 +1,33 @@
+{
+  "id": "e2znst223",
+  "url": "https://constellation.church/e2znst223",
+  "name": "Berean Mission Church",
+  "displayName": "Berean Mission Church",
+  "address": {
+    "street": "400 Murchison Dr",
+    "city": "Millbrae",
+    "state": "CA",
+    "zip": "94030"
+  },
+  "coordinates": {
+    "latitude": 37.59462928771973,
+    "longitude": -122.39054870605469
+  },
+  "website": "https://bereanmission.com",
+  "listingUrl": "https://churches.sbc.net/church/berean-mission-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "berean-mission-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bereanmission.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "465028010"
+    }
+  ],
+  "advisories": []
+}

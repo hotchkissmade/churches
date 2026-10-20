@@ -1,0 +1,33 @@
+{
+  "id": "f2w8dh829",
+  "url": "https://constellation.church/f2w8dh829",
+  "name": "Willamette Community Church",
+  "displayName": "Willamette Community Church",
+  "address": {
+    "street": "420 3rd Ave SE",
+    "city": "Albany",
+    "state": "OR",
+    "zip": "97321"
+  },
+  "coordinates": {
+    "latitude": 44.635902404785156,
+    "longitude": -123.1005859375
+  },
+  "website": "https://wccalbany.com",
+  "listingUrl": "https://venturechurches.org/churches/willamette-community-church/",
+  "identifiers": [
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "willamette-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wccalbany.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "936000001"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bqpfqdc80",
+  "url": "https://constellation.church/bqpfqdc80",
+  "name": "Hope Lutheran Church",
+  "displayName": "Hope Lutheran Church",
+  "address": {
+    "street": "2226 Eddy Ln",
+    "city": "Eau Claire",
+    "state": "WI",
+    "zip": "54703-1054"
+  },
+  "coordinates": {
+    "latitude": 44.85136032104492,
+    "longitude": -91.47777557373047
+  },
+  "website": "https://hopechurchec.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fd44b01c-fbaa-4d3f-9b7f-9c78ae7eeaf8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fd44b01c-fbaa-4d3f-9b7f-9c78ae7eeaf8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopechurchec.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391039819"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nsjrdg737",
+  "url": "https://constellation.church/nsjrdg737",
+  "name": "Valley Presbyterian Church",
+  "displayName": "Valley Presbyterian Church",
+  "address": {
+    "street": "350 Falcon Ridge Pk #702",
+    "city": "Mesquite",
+    "state": "NV",
+    "zip": "89027-8880"
+  },
+  "coordinates": {
+    "latitude": 36.809316635131836,
+    "longitude": -114.10987091064453
+  },
+  "website": "https://vpcmesquite.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/12306/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "12306"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "vpcmesquite.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "352345673"
+    }
+  ],
+  "advisories": []
+}

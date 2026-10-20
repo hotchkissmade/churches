@@ -1,0 +1,33 @@
+{
+  "id": "jgbt06r37",
+  "url": "https://constellation.church/jgbt06r37",
+  "name": "Brooklyn United Methodist Church",
+  "displayName": "Brooklyn United Methodist Church",
+  "address": {
+    "street": "7200 Brooklyn Blvd",
+    "city": "Brooklyn Center",
+    "state": "MN",
+    "zip": "55429-1238"
+  },
+  "coordinates": {
+    "latitude": 45.0852165222168,
+    "longitude": -93.34163665771484
+  },
+  "website": "https://bumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMxoIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMxoIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411549917"
+    }
+  ],
+  "advisories": []
+}

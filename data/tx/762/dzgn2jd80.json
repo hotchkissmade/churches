@@ -1,0 +1,33 @@
+{
+  "id": "dzgn2jd80",
+  "url": "https://constellation.church/dzgn2jd80",
+  "name": "The Church at Pecan Creek",
+  "displayName": "The Church at Pecan Creek",
+  "address": {
+    "street": "1811 Shady Oaks Dr",
+    "city": "Denton",
+    "state": "TX",
+    "zip": "76205"
+  },
+  "coordinates": {
+    "latitude": 33.20193672180176,
+    "longitude": -97.11299896240234
+  },
+  "website": "https://thechurchatpecancreek.com",
+  "listingUrl": "https://churches.sbc.net/church/the-church-at-pecan-creek/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-church-at-pecan-creek"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thechurchatpecancreek.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "472452723"
+    }
+  ],
+  "advisories": []
+}

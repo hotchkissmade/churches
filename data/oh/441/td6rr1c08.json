@@ -1,0 +1,33 @@
+{
+  "id": "td6rr1c08",
+  "url": "https://constellation.church/td6rr1c08",
+  "name": "Diocese of Ohio (Diocesan Offices)",
+  "displayName": "Diocese of Ohio (Diocesan Offices)",
+  "address": {
+    "street": "2230 Euclid Avenue",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44115"
+  },
+  "coordinates": {
+    "latitude": 41.5015036,
+    "longitude": -81.6751614
+  },
+  "website": "https://dohio.org/committees-commissions/trustees-of-the-diocese",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/ohio/list/diocese-ohio-diocesan-offices",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "ohio/diocese-ohio-diocesan-offices"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dohio.org/committees-commissions/trustees-of-the-diocese"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "346540422"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xzs2rgw02",
+  "url": "https://constellation.church/xzs2rgw02",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "840 N Lenzner Ave",
+    "city": "Sierra Vista",
+    "state": "AZ",
+    "zip": "85635"
+  },
+  "coordinates": {
+    "latitude": 31.564207077026367,
+    "longitude": -110.28221130371094
+  },
+  "website": "https://svfaog.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a70a0e03-01f4-40f9-a51e-b7e965b5e35b&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "a70a0e03-01f4-40f9-a51e-b7e965b5e35b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "svfaog.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860379612"
+    }
+  ],
+  "advisories": []
+}

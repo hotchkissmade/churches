@@ -1,0 +1,33 @@
+{
+  "id": "jq171my37",
+  "url": "https://constellation.church/jq171my37",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "14206 E Flagg Rd",
+    "city": "Rochelle",
+    "state": "IL",
+    "zip": "61068-9100"
+  },
+  "coordinates": {
+    "latitude": 41.94138717651367,
+    "longitude": -89.07148742675781
+  },
+  "website": "https://faithlcrochelle.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b091f8b1-ce83-40b5-9738-0fa28207281e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b091f8b1-ce83-40b5-9738-0fa28207281e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithlcrochelle.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371041022"
+    }
+  ],
+  "advisories": []
+}

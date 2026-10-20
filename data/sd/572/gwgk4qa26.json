@@ -1,0 +1,33 @@
+{
+  "id": "gwgk4qa26",
+  "url": "https://constellation.church/gwgk4qa26",
+  "name": "American Lutheran Church",
+  "displayName": "American Lutheran Church",
+  "address": {
+    "street": "411 4th St SW",
+    "city": "De Smet",
+    "state": "SD",
+    "zip": "57231-2251"
+  },
+  "coordinates": {
+    "latitude": 44.38404846191406,
+    "longitude": -97.55619812011719
+  },
+  "website": "https://americanlutherandesmet.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cfae1a80-2386-42bc-9e7a-debe21073a5f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cfae1a80-2386-42bc-9e7a-debe21073a5f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "americanlutherandesmet.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460350473"
+    }
+  ],
+  "advisories": []
+}

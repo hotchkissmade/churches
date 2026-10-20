@@ -1,0 +1,33 @@
+{
+  "id": "k68vc7y62",
+  "url": "https://constellation.church/k68vc7y62",
+  "name": "Whispering Pines Baptist Church",
+  "displayName": "Whispering Pines Baptist Church",
+  "address": {
+    "street": "303 White Pine Dr",
+    "city": "Sebring",
+    "state": "FL",
+    "zip": "33872"
+  },
+  "coordinates": {
+    "latitude": 27.501779556274414,
+    "longitude": -81.49316787719727
+  },
+  "website": "https://wpbcsebring.org",
+  "listingUrl": "https://churches.sbc.net/church/whispering-pines-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "whispering-pines-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wpbcsebring.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592420202"
+    }
+  ],
+  "advisories": []
+}

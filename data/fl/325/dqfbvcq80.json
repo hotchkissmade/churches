@@ -1,0 +1,33 @@
+{
+  "id": "dqfbvcq80",
+  "url": "https://constellation.church/dqfbvcq80",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "6659 Park Avenue",
+    "city": "Milton",
+    "state": "FL",
+    "zip": "32570"
+  },
+  "coordinates": {
+    "latitude": 30.630603790283203,
+    "longitude": -87.04442596435547
+  },
+  "website": "https://westminstermilton.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1084",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1084"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westminstermilton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593750817"
+    }
+  ],
+  "advisories": []
+}

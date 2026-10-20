@@ -1,0 +1,33 @@
+{
+  "id": "dv5ddf889",
+  "url": "https://constellation.church/dv5ddf889",
+  "name": "St. Nicholas Church",
+  "displayName": "St. Nicholas Church",
+  "address": {
+    "street": "9650 Johnnycake Ridge Rd",
+    "city": "Mentor",
+    "state": "OH",
+    "zip": "44060"
+  },
+  "coordinates": {
+    "latitude": 41.66620445251465,
+    "longitude": -81.29420852661133
+  },
+  "website": "https://saintnicholas-oca.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-mw-mensnc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-mw-mensnc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintnicholas-oca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510196835"
+    }
+  ],
+  "advisories": []
+}

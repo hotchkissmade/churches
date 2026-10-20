@@ -1,0 +1,33 @@
+{
+  "id": "cr5ncy027",
+  "url": "https://constellation.church/cr5ncy027",
+  "name": "First Baptist Church of Conyers, Inc.",
+  "displayName": "First Baptist Church of Conyers",
+  "address": {
+    "street": "2100 Highway 138 NE",
+    "city": "Conyers",
+    "state": "GA",
+    "zip": "30013"
+  },
+  "coordinates": {
+    "latitude": 33.678009033203125,
+    "longitude": -83.97802734375
+  },
+  "website": "https://firstconyers.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-conyers-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-conyers-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstconyers.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581171733"
+    }
+  ],
+  "advisories": []
+}

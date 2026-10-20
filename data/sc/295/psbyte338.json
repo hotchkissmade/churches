@@ -1,0 +1,33 @@
+{
+  "id": "psbyte338",
+  "url": "https://constellation.church/psbyte338",
+  "name": "Market Common Community Church",
+  "displayName": "Market Common Community Church",
+  "address": {
+    "street": "803 Howard Ave",
+    "city": "Myrtle Beach",
+    "state": "SC",
+    "zip": "29577"
+  },
+  "coordinates": {
+    "latitude": 33.66195487976074,
+    "longitude": -78.93828201293945
+  },
+  "website": "https://marketcommoncc.org",
+  "listingUrl": "https://churches.sbc.net/church/market-common-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "market-common-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "marketcommoncc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "833366306"
+    }
+  ],
+  "advisories": []
+}

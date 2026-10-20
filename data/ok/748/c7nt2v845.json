@@ -1,0 +1,33 @@
+{
+  "id": "c7nt2v845",
+  "url": "https://constellation.church/c7nt2v845",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "912 W 1st St",
+    "city": "Chandler",
+    "state": "OK",
+    "zip": "74834"
+  },
+  "coordinates": {
+    "latitude": 35.71066474914551,
+    "longitude": -96.8907699584961
+  },
+  "website": "https://firstbaptistchandler.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-510/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-510"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistchandler.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "731007176"
+    }
+  ],
+  "advisories": []
+}

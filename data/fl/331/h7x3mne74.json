@@ -1,0 +1,33 @@
+{
+  "id": "h7x3mne74",
+  "url": "https://constellation.church/h7x3mne74",
+  "name": "Iglesia Bautista Resurreccion",
+  "displayName": "Iglesia Bautista Resurreccion",
+  "address": {
+    "street": "2323 SW 27th Ave",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33145"
+  },
+  "coordinates": {
+    "latitude": 25.74785804748535,
+    "longitude": -80.23764038085938
+  },
+  "website": "https://ibrmiami.org",
+  "listingUrl": "https://churches.sbc.net/church/iglesia-bautista-resurreccion/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "iglesia-bautista-resurreccion"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ibrmiami.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237289818"
+    }
+  ],
+  "advisories": []
+}

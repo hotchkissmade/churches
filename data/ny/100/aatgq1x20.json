@@ -1,0 +1,33 @@
+{
+  "id": "aatgq1x20",
+  "url": "https://constellation.church/aatgq1x20",
+  "name": "Church of Saint Mary the Virgin, Manhattan",
+  "displayName": "Church of St. Mary the Virgin, Manhattan",
+  "address": {
+    "street": "145 West 46th Street",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10036-3502"
+  },
+  "coordinates": {
+    "latitude": 40.75822067260742,
+    "longitude": -73.98380279541016
+  },
+  "website": "https://smokymarys.org/a-brief-history-of-saint-marys",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-new-york/list/church-st-mary-virgin-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-new-york/church-st-mary-virgin-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "smokymarys.org/a-brief-history-of-saint-marys"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "131624187"
+    }
+  ],
+  "advisories": []
+}

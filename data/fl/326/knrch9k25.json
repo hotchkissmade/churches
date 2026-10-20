@@ -1,0 +1,33 @@
+{
+  "id": "knrch9k25",
+  "url": "https://constellation.church/knrch9k25",
+  "name": "First Baptist Church of Newberry",
+  "displayName": "First Baptist Church of Newberry",
+  "address": {
+    "street": "25520 W Newberry Rd",
+    "city": "Newberry",
+    "state": "FL",
+    "zip": "32669"
+  },
+  "coordinates": {
+    "latitude": 29.646299362182617,
+    "longitude": -82.61321258544922
+  },
+  "website": "https://fbcnewberry.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-newberry/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-newberry"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcnewberry.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591858744"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gj7wh3167",
+  "url": "https://constellation.church/gj7wh3167",
+  "name": "Church of Covenant Presbyterian Church",
+  "displayName": "Church of Covenant Presbyterian Church",
+  "address": {
+    "street": "11205 Euclid Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44106-1717"
+  },
+  "coordinates": {
+    "latitude": 41.50830078125,
+    "longitude": -81.60724639892578
+  },
+  "website": "https://covenantweb.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/6360/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "6360"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covenantweb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340714641"
+    }
+  ],
+  "advisories": []
+}

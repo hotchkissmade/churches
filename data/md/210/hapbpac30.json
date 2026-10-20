@@ -1,0 +1,33 @@
+{
+  "id": "hapbpac30",
+  "url": "https://constellation.church/hapbpac30",
+  "name": "Cornerstone Community Church",
+  "displayName": "Cornerstone Community Church",
+  "address": {
+    "street": "2907 Mountain Rd",
+    "city": "Joppa",
+    "state": "MD",
+    "zip": "21085"
+  },
+  "coordinates": {
+    "latitude": 39.445770263671875,
+    "longitude": -76.3497200012207
+  },
+  "website": "https://cornerstonejoppa.org",
+  "listingUrl": "https://churches.sbc.net/church/cornerstone-community-church-10/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cornerstone-community-church-10"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cornerstonejoppa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521747331"
+    }
+  ],
+  "advisories": []
+}

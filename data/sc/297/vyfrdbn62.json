@@ -1,0 +1,33 @@
+{
+  "id": "vyfrdbn62",
+  "url": "https://constellation.church/vyfrdbn62",
+  "name": "Church of the Good Shepherd",
+  "displayName": "Church of the Good Shepherd",
+  "address": {
+    "street": "108 E Liberty St",
+    "city": "York",
+    "state": "SC",
+    "zip": "29745-1549"
+  },
+  "coordinates": {
+    "latitude": 34.99282264709473,
+    "longitude": -81.23975372314453
+  },
+  "website": "https://goodshepherdyork.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-upper-south-carolina/list/church-good-shepherd-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-upper-south-carolina/church-good-shepherd-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherdyork.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "576057345"
+    }
+  ],
+  "advisories": []
+}

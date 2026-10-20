@@ -1,0 +1,33 @@
+{
+  "id": "f3ch31885",
+  "url": "https://constellation.church/f3ch31885",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "501 S 4th St",
+    "city": "Douglas",
+    "state": "WY",
+    "zip": "82633"
+  },
+  "coordinates": {
+    "latitude": 42.75386047363281,
+    "longitude": -105.38253784179688
+  },
+  "website": "https://douglasassemblyofgod.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=699e50b6-b5c8-4bf9-a386-ddbb803d0b32&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "699e50b6-b5c8-4bf9-a386-ddbb803d0b32"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "douglasassemblyofgod.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "300498951"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "thhjf0h79",
+  "url": "https://constellation.church/thhjf0h79",
+  "name": "St Olaf Lutheran Church",
+  "displayName": "St. Olaf Lutheran Church",
+  "address": {
+    "street": "W653 Roosevelt Rd",
+    "city": "Rubicon",
+    "state": "WI",
+    "zip": "53078-9601"
+  },
+  "coordinates": {
+    "latitude": 43.22407341003418,
+    "longitude": -88.4283676147461
+  },
+  "website": "https://st-olaf.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=65b8bf11-c4ce-4036-b51b-77891a6eff6c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "65b8bf11-c4ce-4036-b51b-77891a6eff6c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "st-olaf.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391453561"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mwyrnm316",
+  "url": "https://constellation.church/mwyrnm316",
+  "name": "Church of St. Matthew",
+  "displayName": "Church of St. Matthew",
+  "address": {
+    "street": "9071 E Old Spanish Trail",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85710-6265"
+  },
+  "coordinates": {
+    "latitude": 32.21115303039551,
+    "longitude": -110.79988861083984
+  },
+  "website": "https://stmatthewtucson.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-arizona/list/episcopal-church-st-matthew",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-arizona/episcopal-church-st-matthew"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmatthewtucson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860203066"
+    }
+  ],
+  "advisories": []
+}

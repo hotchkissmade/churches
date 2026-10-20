@@ -1,0 +1,33 @@
+{
+  "id": "e518cg332",
+  "url": "https://constellation.church/e518cg332",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "109 Main St",
+    "city": "Centerbrook",
+    "state": "CT",
+    "zip": "06409-1004"
+  },
+  "coordinates": {
+    "latitude": 41.34955596923828,
+    "longitude": -72.42253494262695
+  },
+  "website": "https://tlccenterbrook.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dea9edfd-52ed-4e38-8f44-87f887dada65",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dea9edfd-52ed-4e38-8f44-87f887dada65"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlccenterbrook.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "066072639"
+    }
+  ],
+  "advisories": []
+}

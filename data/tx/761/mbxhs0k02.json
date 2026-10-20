@@ -1,0 +1,33 @@
+{
+  "id": "mbxhs0k02",
+  "url": "https://constellation.church/mbxhs0k02",
+  "name": "University Baptist Church",
+  "displayName": "University Baptist Church",
+  "address": {
+    "street": "2720 Wabash Ave",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76109"
+  },
+  "coordinates": {
+    "latitude": 32.7125395,
+    "longitude": -97.363004
+  },
+  "website": "https://ubcfortworth.org/jobs",
+  "listingUrl": "https://churches.sbc.net/church/university-baptist-church-8/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "university-baptist-church-8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ubcfortworth.org/jobs"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750979889"
+    }
+  ],
+  "advisories": []
+}

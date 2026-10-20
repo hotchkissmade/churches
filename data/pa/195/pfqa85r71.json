@@ -1,0 +1,33 @@
+{
+  "id": "pfqa85r71",
+  "url": "https://constellation.church/pfqa85r71",
+  "name": "Harvest Church",
+  "displayName": "Harvest Church",
+  "address": {
+    "street": "300 W Arch St",
+    "city": "Fleetwood",
+    "state": "PA",
+    "zip": "19522"
+  },
+  "coordinates": {
+    "latitude": 40.45401573181152,
+    "longitude": -75.82373046875
+  },
+  "website": "https://harvestchurchpa.net",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=320e0fe5-8146-4a5d-b254-ca9177264f85&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "320e0fe5-8146-4a5d-b254-ca9177264f85"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "harvestchurchpa.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "432066451"
+    }
+  ],
+  "advisories": []
+}

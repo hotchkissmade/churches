@@ -1,0 +1,33 @@
+{
+  "id": "cnh1rze26",
+  "url": "https://constellation.church/cnh1rze26",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "700 Beechwood Ave",
+    "city": "Waukesha",
+    "state": "WI",
+    "zip": "53186-5123"
+  },
+  "coordinates": {
+    "latitude": 43.01100540161133,
+    "longitude": -88.21858215332031
+  },
+  "website": "https://gracewaukesha.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24857",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24857"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracewaukesha.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396062557"
+    }
+  ],
+  "advisories": []
+}

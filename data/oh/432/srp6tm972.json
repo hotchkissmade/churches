@@ -1,0 +1,33 @@
+{
+  "id": "srp6tm972",
+  "url": "https://constellation.church/srp6tm972",
+  "name": "St Philip Lutheran Church",
+  "displayName": "St. Philip Lutheran Church",
+  "address": {
+    "street": "1506 E Long St",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43203-1962"
+  },
+  "coordinates": {
+    "latitude": 39.968955993652344,
+    "longitude": -82.96113967895508
+  },
+  "website": "https://stphilipslc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bde829c3-9e4d-4f50-9365-e6db2c7bfa2d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bde829c3-9e4d-4f50-9365-e6db2c7bfa2d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stphilipslc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310668738"
+    }
+  ],
+  "advisories": []
+}

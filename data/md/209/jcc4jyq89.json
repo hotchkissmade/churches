@@ -1,0 +1,33 @@
+{
+  "id": "jcc4jyq89",
+  "url": "https://constellation.church/jcc4jyq89",
+  "name": "St. Mark's Fairland, Silver Spring",
+  "displayName": "St. Mark's Fairland, Silver Spring",
+  "address": {
+    "street": "12621 Old Columbia Pike",
+    "city": "Silver Spring",
+    "state": "MD",
+    "zip": "20904-1614"
+  },
+  "coordinates": {
+    "latitude": 39.06436729431152,
+    "longitude": -76.9637565612793
+  },
+  "website": "https://stmarks-silverspring.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/st-marks-silver-spring",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/st-marks-silver-spring"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarks-silverspring.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "526082617"
+    }
+  ],
+  "advisories": []
+}

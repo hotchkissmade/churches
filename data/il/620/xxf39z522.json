@@ -1,0 +1,33 @@
+{
+  "id": "xxf39z522",
+  "url": "https://constellation.church/xxf39z522",
+  "name": "First Baptist Church of Ramsey",
+  "displayName": "First Baptist Church of Ramsey",
+  "address": {
+    "street": "2756 US Highway 51",
+    "city": "Ramsey",
+    "state": "IL",
+    "zip": "62080"
+  },
+  "coordinates": {
+    "latitude": 39.13629341125488,
+    "longitude": -89.10494995117188
+  },
+  "website": "https://fbcramsey.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-ramsey/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-ramsey"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcramsey.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371039092"
+    }
+  ],
+  "advisories": []
+}

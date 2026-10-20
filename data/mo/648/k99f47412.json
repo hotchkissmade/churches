@@ -1,0 +1,33 @@
+{
+  "id": "k99f47412",
+  "url": "https://constellation.church/k99f47412",
+  "name": "Joplin Heights Baptist Church",
+  "displayName": "Joplin Heights Baptist Church",
+  "address": {
+    "street": "2107 S Willard Ave",
+    "city": "Joplin",
+    "state": "MO",
+    "zip": "64804"
+  },
+  "coordinates": {
+    "latitude": 37.06849670410156,
+    "longitude": -94.53993225097656
+  },
+  "website": "https://joplinheightschurc.wixsite.com/website",
+  "listingUrl": "https://churches.sbc.net/church/joplin-heights-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "joplin-heights-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "joplinheightschurc.wixsite.com/website"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237440261"
+    }
+  ],
+  "advisories": []
+}

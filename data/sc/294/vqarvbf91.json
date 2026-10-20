@@ -1,0 +1,33 @@
+{
+  "id": "vqarvbf91",
+  "url": "https://constellation.church/vqarvbf91",
+  "name": "Cornerstone Baptist Church",
+  "displayName": "Cornerstone Baptist Church",
+  "address": {
+    "street": "888 Central Ave",
+    "city": "Summerville",
+    "state": "SC",
+    "zip": "29483"
+  },
+  "coordinates": {
+    "latitude": 33.0161075592041,
+    "longitude": -80.20033264160156
+  },
+  "website": "https://cornerstonesummerville.org",
+  "listingUrl": "https://churches.sbc.net/church/cornerstone-baptist-church-12/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cornerstone-baptist-church-12"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cornerstonesummerville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570957847"
+    }
+  ],
+  "advisories": []
+}

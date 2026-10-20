@@ -1,0 +1,33 @@
+{
+  "id": "waq82g103",
+  "url": "https://constellation.church/waq82g103",
+  "name": "First Southern Baptist Church",
+  "displayName": "First Southern Baptist Church",
+  "address": {
+    "street": "1201 E 23rd Ave",
+    "city": "Hutchinson",
+    "state": "KS",
+    "zip": "67502"
+  },
+  "coordinates": {
+    "latitude": 38.079092025756836,
+    "longitude": -97.90762329101562
+  },
+  "website": "https://fsbhutch.com",
+  "listingUrl": "https://churches.sbc.net/church/first-southern-baptist-church-21/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-southern-baptist-church-21"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fsbhutch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480692523"
+    }
+  ],
+  "advisories": []
+}

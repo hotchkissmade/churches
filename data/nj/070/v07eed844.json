@@ -1,0 +1,33 @@
+{
+  "id": "v07eed844",
+  "url": "https://constellation.church/v07eed844",
+  "name": "Covenant Presbyterian Church",
+  "displayName": "Covenant Presbyterian Church",
+  "address": {
+    "street": "291 Parsonage Hill Road",
+    "city": "Short Hills",
+    "state": "NJ",
+    "zip": "07078"
+  },
+  "coordinates": {
+    "latitude": 40.74685859680176,
+    "longitude": -74.33472442626953
+  },
+  "website": "https://covenantshorthills.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/252",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "252"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covenantshorthills.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222396137"
+    }
+  ],
+  "advisories": []
+}

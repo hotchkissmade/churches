@@ -1,0 +1,33 @@
+{
+  "id": "ra3sthk64",
+  "url": "https://constellation.church/ra3sthk64",
+  "name": "Lutheran Chapel Church",
+  "displayName": "Lutheran Chapel Church",
+  "address": {
+    "street": "702 N New Hope Rd",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054-7479"
+  },
+  "coordinates": {
+    "latitude": 35.27581977844238,
+    "longitude": -81.14819717407227
+  },
+  "website": "https://lutheranchapelchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=24c13e1f-32c1-46dd-a0dc-d02d81b3290d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "24c13e1f-32c1-46dd-a0dc-d02d81b3290d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lutheranchapelchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560941074"
+    }
+  ],
+  "advisories": []
+}

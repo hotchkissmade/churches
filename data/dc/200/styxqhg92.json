@@ -1,0 +1,33 @@
+{
+  "id": "styxqhg92",
+  "url": "https://constellation.church/styxqhg92",
+  "name": "Holy Communion",
+  "displayName": "Holy Communion",
+  "address": {
+    "street": "3640 Martin Luther King Jr Ave SE",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20032-1546"
+  },
+  "coordinates": {
+    "latitude": 38.83835983276367,
+    "longitude": -77.00549697875977
+  },
+  "website": "https://holycommuniondc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/holy-communion-dc",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/holy-communion-dc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holycommuniondc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "530213316"
+    }
+  ],
+  "advisories": []
+}

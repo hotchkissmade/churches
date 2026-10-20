@@ -1,0 +1,33 @@
+{
+  "id": "p2jj0fs72",
+  "url": "https://constellation.church/p2jj0fs72",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "9181 S Gore Rd",
+    "city": "Harrodsburg",
+    "state": "IN",
+    "zip": "47434"
+  },
+  "coordinates": {
+    "latitude": 39.61042785644531,
+    "longitude": -86.37508392333984
+  },
+  "website": "https://churchonthehill.net",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=6c7e4dc0-8e7f-4585-96e1-cdceed651c63&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "6c7e4dc0-8e7f-4585-96e1-cdceed651c63"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchonthehill.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351523769"
+    }
+  ],
+  "advisories": []
+}

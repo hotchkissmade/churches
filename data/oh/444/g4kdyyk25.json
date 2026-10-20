@@ -1,0 +1,33 @@
+{
+  "id": "g4kdyyk25",
+  "url": "https://constellation.church/g4kdyyk25",
+  "name": "Grace Church of Columbiana",
+  "displayName": "Grace Church of Columbiana",
+  "address": {
+    "street": "140 S Main St",
+    "city": "Columbiana",
+    "state": "OH",
+    "zip": "44408"
+  },
+  "coordinates": {
+    "latitude": 40.88619804382324,
+    "longitude": -80.69345474243164
+  },
+  "website": "https://gracechurchcolumbiana.com",
+  "listingUrl": "https://www.naccc.org/wpbdp_listing/grace-church-of-columbiana/",
+  "identifiers": [
+    {
+      "namespace": "org.naccc.id",
+      "value": "grace-church-of-columbiana"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracechurchcolumbiana.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340810372"
+    }
+  ],
+  "advisories": []
+}

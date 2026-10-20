@@ -1,0 +1,33 @@
+{
+  "id": "xc0padd42",
+  "url": "https://constellation.church/xc0padd42",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "333 Vine St",
+    "city": "Willows",
+    "state": "CA",
+    "zip": "95988-2444"
+  },
+  "coordinates": {
+    "latitude": 39.52560997009277,
+    "longitude": -122.1978759765625
+  },
+  "website": "https://flcwillows.org",
+  "listingUrl": "https://locator.lcms.org/church/C/980667",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "980667"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcwillows.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237062509"
+    }
+  ],
+  "advisories": []
+}

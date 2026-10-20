@@ -1,0 +1,33 @@
+{
+  "id": "h2705gf81",
+  "url": "https://constellation.church/h2705gf81",
+  "name": "St. John Episcopal Church",
+  "displayName": "St. John Episcopal Church",
+  "address": {
+    "street": "3000 Washington Blvd",
+    "city": "Huntington",
+    "state": "WV",
+    "zip": "25705-1633"
+  },
+  "coordinates": {
+    "latitude": 38.40983772277832,
+    "longitude": -82.39202117919922
+  },
+  "website": "https://stjohnshuntingtonwv.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-virginia/list/st-john-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-virginia/st-john-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnshuntingtonwv.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "550419866"
+    }
+  ],
+  "advisories": []
+}

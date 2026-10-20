@@ -1,0 +1,37 @@
+{
+  "id": "agcssx294",
+  "url": "https://constellation.church/agcssx294",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "1430 7th Ave SE",
+    "city": "Le Mars",
+    "state": "IA",
+    "zip": "51031"
+  },
+  "coordinates": {
+    "latitude": 42.775665283203125,
+    "longitude": -96.1546859741211
+  },
+  "website": "https://gracelemars.org",
+  "listingUrl": "https://idwlcms.org/congregation.php?id=103",
+  "identifiers": [
+    {
+      "namespace": "org.idwlcms.id",
+      "value": "103"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelemars.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420788233"
+    },
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "502574"
+    }
+  ],
+  "advisories": []
+}

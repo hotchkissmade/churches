@@ -1,0 +1,33 @@
+{
+  "id": "eg1an5s29",
+  "url": "https://constellation.church/eg1an5s29",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "1206 Ontario St",
+    "city": "Oshkosh",
+    "state": "WI",
+    "zip": "54901-3660"
+  },
+  "coordinates": {
+    "latitude": 44.03242874145508,
+    "longitude": -88.54584121704102
+  },
+  "website": "https://cometobethlehem.net",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24670",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24670"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cometobethlehem.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390827489"
+    }
+  ],
+  "advisories": []
+}

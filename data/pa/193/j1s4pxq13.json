@@ -1,0 +1,33 @@
+{
+  "id": "j1s4pxq13",
+  "url": "https://constellation.church/j1s4pxq13",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "203 N Valley Forge Rd",
+    "city": "Devon",
+    "state": "PA",
+    "zip": "19333-1485"
+  },
+  "coordinates": {
+    "latitude": 40.05075263977051,
+    "longitude": -75.42117691040039
+  },
+  "website": "https://saintlukedevon.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3afaf8ac-6d0a-44a3-bc1d-7c42501a2b79",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3afaf8ac-6d0a-44a3-bc1d-7c42501a2b79"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintlukedevon.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236005912"
+    }
+  ],
+  "advisories": []
+}

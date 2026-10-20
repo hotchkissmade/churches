@@ -1,0 +1,33 @@
+{
+  "id": "gmmf3rn14",
+  "url": "https://constellation.church/gmmf3rn14",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "1229 Kathy Ln",
+    "city": "Webster City",
+    "state": "IA",
+    "zip": "50595-2727"
+  },
+  "coordinates": {
+    "latitude": 42.461421966552734,
+    "longitude": -93.83479309082031
+  },
+  "website": "https://trinitywebstercity.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=048d0941-b12c-45e6-bd76-087781eb6e1c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "048d0941-b12c-45e6-bd76-087781eb6e1c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitywebstercity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420823430"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kcc3yhx95",
+  "url": "https://constellation.church/kcc3yhx95",
+  "name": "St Andrew's Lutheran Church",
+  "displayName": "St. Andrew's Lutheran Church",
+  "address": {
+    "street": "1416 Broad River Rd",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29210-7623"
+  },
+  "coordinates": {
+    "latitude": 34.030134201049805,
+    "longitude": -81.08540725708008
+  },
+  "website": "https://salutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c42a7da1-9eb4-4264-bc52-959530898f70",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c42a7da1-9eb4-4264-bc52-959530898f70"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570971395"
+    }
+  ],
+  "advisories": []
+}

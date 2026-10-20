@@ -1,0 +1,33 @@
+{
+  "id": "fbmf7m828",
+  "url": "https://constellation.church/fbmf7m828",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "5631 W Stony Lake Rd",
+    "city": "New Era",
+    "state": "MI",
+    "zip": "49446-8083"
+  },
+  "coordinates": {
+    "latitude": 43.55843162536621,
+    "longitude": -86.41800308227539
+  },
+  "website": "https://tlcnewera.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d57c4584-79cf-495c-9c2a-f84504e18cfb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d57c4584-79cf-495c-9c2a-f84504e18cfb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcnewera.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381387155"
+    }
+  ],
+  "advisories": []
+}

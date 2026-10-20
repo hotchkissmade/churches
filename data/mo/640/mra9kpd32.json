@@ -1,0 +1,33 @@
+{
+  "id": "mra9kpd32",
+  "url": "https://constellation.church/mra9kpd32",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "112 W Walnut St",
+    "city": "Waverly",
+    "state": "MO",
+    "zip": "64096"
+  },
+  "coordinates": {
+    "latitude": 39.20730018615723,
+    "longitude": -93.51969909667969
+  },
+  "website": "https://waverly-mo.com/worship",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=5a669258-49c6-4e28-b015-4eb181378afb&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "5a669258-49c6-4e28-b015-4eb181378afb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "waverly-mo.com/worship"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431120116"
+    }
+  ],
+  "advisories": []
+}

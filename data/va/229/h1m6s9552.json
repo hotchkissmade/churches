@@ -1,0 +1,33 @@
+{
+  "id": "h1m6s9552",
+  "url": "https://constellation.church/h1m6s9552",
+  "name": "City Church",
+  "displayName": "City Church",
+  "address": {
+    "street": "1010 Rio Rd E",
+    "city": "Charlottesville",
+    "state": "VA",
+    "zip": "22901"
+  },
+  "coordinates": {
+    "latitude": 38.06361770629883,
+    "longitude": -78.46364974975586
+  },
+  "website": "https://citychurchcville.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=2377e0c4-3b14-4e38-ac97-971d36d1f12d&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "2377e0c4-3b14-4e38-ac97-971d36d1f12d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "citychurchcville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541174802"
+    }
+  ],
+  "advisories": []
+}

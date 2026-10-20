@@ -1,0 +1,33 @@
+{
+  "id": "cr5cwjn75",
+  "url": "https://constellation.church/cr5cwjn75",
+  "name": "St Matthew Lutheran Church",
+  "displayName": "St. Matthew Lutheran Church",
+  "address": {
+    "street": "6065 King Rd",
+    "city": "Bridgeport",
+    "state": "MI",
+    "zip": "48722-9740"
+  },
+  "coordinates": {
+    "latitude": 43.379289627075195,
+    "longitude": -83.83656692504883
+  },
+  "website": "https://stmatthewsbridgeport.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d7e54a08-e9ef-4363-8778-0867d2cfed9b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d7e54a08-e9ef-4363-8778-0867d2cfed9b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmatthewsbridgeport.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381946723"
+    }
+  ],
+  "advisories": []
+}

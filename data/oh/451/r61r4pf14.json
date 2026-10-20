@@ -1,0 +1,33 @@
+{
+  "id": "r61r4pf14",
+  "url": "https://constellation.church/r61r4pf14",
+  "name": "Bethany Baptist Church (Clarksville)",
+  "displayName": "Bethany Baptist Church (Clarksville)",
+  "address": {
+    "street": "10156 St. Rt. 350",
+    "city": "Clarksville",
+    "state": "OH",
+    "zip": "45113"
+  },
+  "coordinates": {
+    "latitude": 39.40629959106445,
+    "longitude": -84.00954055786133
+  },
+  "website": "https://bethanybaptistclarksville.com",
+  "listingUrl": "https://churches.sbc.net/church/bethany-baptist-church-clarksville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bethany-baptist-church-clarksville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanybaptistclarksville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311128747"
+    }
+  ],
+  "advisories": []
+}

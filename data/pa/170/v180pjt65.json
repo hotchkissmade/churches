@@ -1,0 +1,33 @@
+{
+  "id": "v180pjt65",
+  "url": "https://constellation.church/v180pjt65",
+  "name": "St Anthony Coptic",
+  "displayName": "St. Anthony Coptic Church",
+  "address": {
+    "street": "118 West Main St",
+    "city": "Annville",
+    "state": "PA",
+    "zip": "17003"
+  },
+  "coordinates": {
+    "latitude": 40.328657150268555,
+    "longitude": -76.51776885986328
+  },
+  "website": "https://stanthonycocpa.org",
+  "listingUrl": "https://copticchurch.net/directory/church/291",
+  "identifiers": [
+    {
+      "namespace": "net.copticchurch.id",
+      "value": "291"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stanthonycocpa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232898765"
+    }
+  ],
+  "advisories": []
+}

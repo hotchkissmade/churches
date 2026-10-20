@@ -1,0 +1,33 @@
+{
+  "id": "c07f5n939",
+  "url": "https://constellation.church/c07f5n939",
+  "name": "St Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "10600 N Council Rd",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73162-4378"
+  },
+  "coordinates": {
+    "latitude": 35.57704734802246,
+    "longitude": -97.65538024902344
+  },
+  "website": "https://stpaulsokc.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e6baf29b-5211-47ef-8a90-4359fd01a1e6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e6baf29b-5211-47ef-8a90-4359fd01a1e6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsokc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "730722339"
+    }
+  ],
+  "advisories": []
+}

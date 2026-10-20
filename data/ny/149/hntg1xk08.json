@@ -1,0 +1,33 @@
+{
+  "id": "hntg1xk08",
+  "url": "https://constellation.church/hntg1xk08",
+  "name": "North Presbyterian Church",
+  "displayName": "North Presbyterian Church",
+  "address": {
+    "street": "921 College Ave",
+    "city": "Elmira",
+    "state": "NY",
+    "zip": "14901-2048"
+  },
+  "coordinates": {
+    "latitude": 42.099626541137695,
+    "longitude": -76.8165283203125
+  },
+  "website": "https://northpres.church",
+  "listingUrl": "https://church-trends.pcusa.org/church/5902/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "5902"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northpres.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "160754665"
+    }
+  ],
+  "advisories": []
+}

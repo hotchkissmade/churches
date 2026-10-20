@@ -1,0 +1,33 @@
+{
+  "id": "wr7csdd27",
+  "url": "https://constellation.church/wr7csdd27",
+  "name": "First Baptist Church, Columbus",
+  "displayName": "First Baptist Church, Columbus",
+  "address": {
+    "street": "1700 Milam St",
+    "city": "Columbus",
+    "state": "TX",
+    "zip": "78934"
+  },
+  "coordinates": {
+    "latitude": 29.6994571685791,
+    "longitude": -96.5399398803711
+  },
+  "website": "https://fbccolumbustx.org/contact-us",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-columbus/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-columbus"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbccolumbustx.org/contact-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741533944"
+    }
+  ],
+  "advisories": []
+}

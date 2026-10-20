@@ -1,0 +1,33 @@
+{
+  "id": "nvq7nqy11",
+  "url": "https://constellation.church/nvq7nqy11",
+  "name": "Restoration Pavilion",
+  "displayName": "RCCG Restoration Pavilion",
+  "address": {
+    "street": "768 North Street",
+    "city": "White Plains",
+    "state": "NY",
+    "zip": "10605"
+  },
+  "coordinates": {
+    "latitude": 41.01426696777344,
+    "longitude": -73.73566818237305
+  },
+  "website": "https://rccgrestorationpavilion.org/online-giving",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=527&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "527"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rccgrestorationpavilion.org/online-giving"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "274465946"
+    }
+  ],
+  "advisories": []
+}

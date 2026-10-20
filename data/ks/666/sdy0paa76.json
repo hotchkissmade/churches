@@ -1,0 +1,33 @@
+{
+  "id": "sdy0paa76",
+  "url": "https://constellation.church/sdy0paa76",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "1234 SW Fairlawn Rd",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66604-2021"
+  },
+  "coordinates": {
+    "latitude": 39.04562187194824,
+    "longitude": -95.74248504638672
+  },
+  "website": "https://firstlutherantopeka.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ed2cedf0-9127-4b73-852d-0faf5edf564e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ed2cedf0-9127-4b73-852d-0faf5edf564e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutherantopeka.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "486086945"
+    }
+  ],
+  "advisories": []
+}

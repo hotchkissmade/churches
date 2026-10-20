@@ -1,0 +1,33 @@
+{
+  "id": "y3nae1f40",
+  "url": "https://constellation.church/y3nae1f40",
+  "name": "First Baptist Church Orrick",
+  "displayName": "First Baptist Church Orrick",
+  "address": {
+    "street": "301 Adams St",
+    "city": "Orrick",
+    "state": "MO",
+    "zip": "64077"
+  },
+  "coordinates": {
+    "latitude": 39.211543,
+    "longitude": -94.125848
+  },
+  "website": "https://fbcorrickmo.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-orrick/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-orrick"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcorrickmo.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431094053"
+    }
+  ],
+  "advisories": []
+}

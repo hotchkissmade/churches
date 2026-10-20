@@ -1,0 +1,33 @@
+{
+  "id": "ft87nwf46",
+  "url": "https://constellation.church/ft87nwf46",
+  "name": "Church of the Redeemer",
+  "displayName": "Church of the Redeemer",
+  "address": {
+    "street": "207 Highway 343 South",
+    "city": "Camden",
+    "state": "NC",
+    "zip": "27921"
+  },
+  "coordinates": {
+    "latitude": 36.318241119384766,
+    "longitude": -76.15948486328125
+  },
+  "website": "https://redeemernc.com",
+  "listingUrl": "https://www.acna.org/admin_units/49",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "49"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemernc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "205591695"
+    }
+  ],
+  "advisories": []
+}

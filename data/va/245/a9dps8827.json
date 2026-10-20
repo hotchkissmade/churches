@@ -1,0 +1,33 @@
+{
+  "id": "a9dps8827",
+  "url": "https://constellation.church/a9dps8827",
+  "name": "Marion Baptist Church",
+  "displayName": "Marion Baptist Church",
+  "address": {
+    "street": "2669 Marion Rd",
+    "city": "Chatham",
+    "state": "VA",
+    "zip": "24531"
+  },
+  "coordinates": {
+    "latitude": 36.80262565612793,
+    "longitude": -79.45873260498047
+  },
+  "website": "https://marionbcva.com",
+  "listingUrl": "https://churches.sbc.net/church/marion-baptist-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "marion-baptist-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "marionbcva.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541220055"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ffwe80278",
+  "url": "https://constellation.church/ffwe80278",
+  "name": "Nova Church",
+  "displayName": "Nova Church",
+  "address": {
+    "street": "4955 Jefferies Hwy",
+    "city": "Walterboro",
+    "state": "SC",
+    "zip": "29488"
+  },
+  "coordinates": {
+    "latitude": 32.9685001373291,
+    "longitude": -80.64121627807617
+  },
+  "website": "https://mynovachurch.com/contacts.html",
+  "listingUrl": "https://churches.sbc.net/church/nova-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "nova-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mynovachurch.com/contacts.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "453930094"
+    }
+  ],
+  "advisories": []
+}

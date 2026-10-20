@@ -1,0 +1,33 @@
+{
+  "id": "jp1b1yz60",
+  "url": "https://constellation.church/jp1b1yz60",
+  "name": "Hermitage Baptist Church",
+  "displayName": "Hermitage Baptist Church",
+  "address": {
+    "street": "814 Jefferson Davis Hwy",
+    "city": "Camden",
+    "state": "SC",
+    "zip": "29020"
+  },
+  "coordinates": {
+    "latitude": 34.247690200805664,
+    "longitude": -80.58415603637695
+  },
+  "website": "https://hermitagebaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/hermitage-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hermitage-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hermitagebaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570479359"
+    }
+  ],
+  "advisories": []
+}

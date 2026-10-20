@@ -1,0 +1,33 @@
+{
+  "id": "wtjzy9189",
+  "url": "https://constellation.church/wtjzy9189",
+  "name": "Trinity Point",
+  "displayName": "Trinity Point",
+  "address": {
+    "street": "1938 Brushy Creek Rd",
+    "city": "Easley",
+    "state": "SC",
+    "zip": "29642"
+  },
+  "coordinates": {
+    "latitude": 34.78312110900879,
+    "longitude": -82.55142211914062
+  },
+  "website": "https://trinitypoint.org",
+  "listingUrl": "https://churches.sbc.net/church/trinity-point/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "trinity-point"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitypoint.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "208046154"
+    }
+  ],
+  "advisories": []
+}

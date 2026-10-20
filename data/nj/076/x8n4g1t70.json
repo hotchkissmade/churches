@@ -1,0 +1,33 @@
+{
+  "id": "x8n4g1t70",
+  "url": "https://constellation.church/x8n4g1t70",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "430 Knickerbocker Rd",
+    "city": "Tenafly",
+    "state": "NJ",
+    "zip": "07670-1961"
+  },
+  "coordinates": {
+    "latitude": 40.92697525024414,
+    "longitude": -73.97722244262695
+  },
+  "website": "https://trinitytenafly.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b9b7ae8e-3773-43bc-96bd-8129bebb8504",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b9b7ae8e-3773-43bc-96bd-8129bebb8504"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitytenafly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221591497"
+    }
+  ],
+  "advisories": []
+}

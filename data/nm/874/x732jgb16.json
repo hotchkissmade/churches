@@ -1,0 +1,33 @@
+{
+  "id": "x732jgb16",
+  "url": "https://constellation.church/x732jgb16",
+  "name": "Higher Ground Church of Farmington",
+  "displayName": "Higher Ground Church of Farmington",
+  "address": {
+    "street": "5206 Comanche St.",
+    "city": "Farmington",
+    "state": "NM",
+    "zip": "87401"
+  },
+  "coordinates": {
+    "latitude": 36.73558044433594,
+    "longitude": -108.27728271484375
+  },
+  "website": "https://highergroundnm.com",
+  "listingUrl": "https://churches.sbc.net/church/higher-ground-church-of-farmington/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "higher-ground-church-of-farmington"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "highergroundnm.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "831627626"
+    }
+  ],
+  "advisories": []
+}

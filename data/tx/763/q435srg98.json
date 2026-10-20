@@ -1,0 +1,33 @@
+{
+  "id": "q435srg98",
+  "url": "https://constellation.church/q435srg98",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "3601 Taft Blvd",
+    "city": "Wichita Falls",
+    "state": "TX",
+    "zip": "76308"
+  },
+  "coordinates": {
+    "latitude": 33.87406349182129,
+    "longitude": -98.5177001953125
+  },
+  "website": "https://myfirstpres.org",
+  "listingUrl": "https://eco-pres.org/churches/first-presbyterian-church-wichita-falls/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "first-presbyterian-church-wichita-falls"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "myfirstpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751890908"
+    }
+  ],
+  "advisories": []
+}

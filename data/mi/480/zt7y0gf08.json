@@ -1,0 +1,33 @@
+{
+  "id": "zt7y0gf08",
+  "url": "https://constellation.church/zt7y0gf08",
+  "name": "Lutheran Church of the Master",
+  "displayName": "Lutheran Church of the Master",
+  "address": {
+    "street": "3333 Coolidge Hwy",
+    "city": "Troy",
+    "state": "MI",
+    "zip": "48084-1417"
+  },
+  "coordinates": {
+    "latitude": 42.56611251831055,
+    "longitude": -83.18821716308594
+  },
+  "website": "https://lutheranchurchtroy.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bcde4acd-9ca0-4732-bd7f-8be7b926c06b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bcde4acd-9ca0-4732-bd7f-8be7b926c06b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lutheranchurchtroy.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382191240"
+    }
+  ],
+  "advisories": []
+}

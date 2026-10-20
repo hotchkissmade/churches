@@ -1,0 +1,33 @@
+{
+  "id": "rdeamp496",
+  "url": "https://constellation.church/rdeamp496",
+  "name": "Southwood Lutheran Church",
+  "displayName": "Southwood Lutheran Church",
+  "address": {
+    "street": "4301 Wilderness Hills Blvd",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68516-4557"
+  },
+  "coordinates": {
+    "latitude": 40.71841049194336,
+    "longitude": -96.65988159179688
+  },
+  "website": "https://southwoodlutheran.church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b7a3737a-6f05-4763-aec8-75bf844dd29c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b7a3737a-6f05-4763-aec8-75bf844dd29c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southwoodlutheran.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470576864"
+    }
+  ],
+  "advisories": []
+}

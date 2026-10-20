@@ -1,0 +1,33 @@
+{
+  "id": "agbta4f10",
+  "url": "https://constellation.church/agbta4f10",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "80 Bartley Rd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15241-1204"
+  },
+  "coordinates": {
+    "latitude": 40.34975814819336,
+    "longitude": -80.0537223815918
+  },
+  "website": "https://uscfaith.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f3cd14a6-de01-4ced-9544-2f39bb6fef11",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f3cd14a6-de01-4ced-9544-2f39bb6fef11"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "uscfaith.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251220342"
+    }
+  ],
+  "advisories": []
+}

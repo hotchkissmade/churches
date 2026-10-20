@@ -1,0 +1,33 @@
+{
+  "id": "nn0ymrr66",
+  "url": "https://constellation.church/nn0ymrr66",
+  "name": "First Baptist Church Maysville",
+  "displayName": "First Baptist Church Maysville",
+  "address": {
+    "street": "300 W Main St",
+    "city": "Maysville",
+    "state": "MO",
+    "zip": "64469"
+  },
+  "coordinates": {
+    "latitude": 39.889381408691406,
+    "longitude": -94.36187744140625
+  },
+  "website": "https://fbcmaysvillemo.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-maysville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-maysville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcmaysvillemo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440605378"
+    }
+  ],
+  "advisories": []
+}

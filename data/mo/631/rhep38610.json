@@ -1,0 +1,33 @@
+{
+  "id": "rhep38610",
+  "url": "https://constellation.church/rhep38610",
+  "name": "Heartland Baptist Church, St Louis",
+  "displayName": "Heartland Baptist Church, St. Louis",
+  "address": {
+    "street": "6829 Telegraph Rd",
+    "city": "Saint Louis",
+    "state": "MO",
+    "zip": "63129"
+  },
+  "coordinates": {
+    "latitude": 38.439300537109375,
+    "longitude": -90.3236312866211
+  },
+  "website": "https://connectatheartland.com",
+  "listingUrl": "https://churches.sbc.net/church/heartland-baptist-church-st-louis/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "heartland-baptist-church-st-louis"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "connectatheartland.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431626703"
+    }
+  ],
+  "advisories": []
+}

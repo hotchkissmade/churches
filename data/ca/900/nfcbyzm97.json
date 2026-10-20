@@ -1,0 +1,33 @@
+{
+  "id": "nfcbyzm97",
+  "url": "https://constellation.church/nfcbyzm97",
+  "name": "Lutheran Church of The Master",
+  "displayName": "Lutheran Church of The Master",
+  "address": {
+    "street": "10931 Santa Monica Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90025-4537"
+  },
+  "coordinates": {
+    "latitude": 34.04929542541504,
+    "longitude": -118.43942260742188
+  },
+  "website": "https://lutheran.churchofthemaster.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7de50dec-dd7d-4042-a27e-452744abec63",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7de50dec-dd7d-4042-a27e-452744abec63"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lutheran.churchofthemaster.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951782320"
+    }
+  ],
+  "advisories": []
+}

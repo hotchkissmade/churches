@@ -1,0 +1,33 @@
+{
+  "id": "ng565ha48",
+  "url": "https://constellation.church/ng565ha48",
+  "name": "Olsburg Lutheran Church",
+  "displayName": "Olsburg Lutheran Church",
+  "address": {
+    "street": "104 N 1st St",
+    "city": "Olsburg",
+    "state": "KS",
+    "zip": "66520"
+  },
+  "coordinates": {
+    "latitude": 39.428693771362305,
+    "longitude": -96.61588287353516
+  },
+  "website": "https://olsburglutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=74c78d2f-c70c-4a34-8bd1-31fb7fa7510e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "74c78d2f-c70c-4a34-8bd1-31fb7fa7510e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "olsburglutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480597112"
+    }
+  ],
+  "advisories": []
+}

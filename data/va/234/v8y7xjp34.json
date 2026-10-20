@@ -1,0 +1,33 @@
+{
+  "id": "v8y7xjp34",
+  "url": "https://constellation.church/v8y7xjp34",
+  "name": "Coastal Community Church",
+  "displayName": "Coastal Community Church",
+  "address": {
+    "street": "2800 S Independence Blvd",
+    "city": "Virginia Bch",
+    "state": "VA",
+    "zip": "23456"
+  },
+  "coordinates": {
+    "latitude": 36.7760009765625,
+    "longitude": -76.13953018188477
+  },
+  "website": "https://vbcoastal.com",
+  "listingUrl": "https://churches.sbc.net/church/coastal-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "coastal-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "vbcoastal.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541934707"
+    }
+  ],
+  "advisories": []
+}

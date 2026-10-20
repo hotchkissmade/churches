@@ -1,0 +1,33 @@
+{
+  "id": "r7g9h1k02",
+  "url": "https://constellation.church/r7g9h1k02",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "304 E Ferris St",
+    "city": "Galesburg",
+    "state": "IL",
+    "zip": "61401-4811"
+  },
+  "coordinates": {
+    "latitude": 40.94836616516113,
+    "longitude": -90.36603927612305
+  },
+  "website": "https://trinitygalesburg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=19fb8a36-4448-4200-bf27-751b6d023ae5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "19fb8a36-4448-4200-bf27-751b6d023ae5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitygalesburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370661170"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c1vqkw017",
+  "url": "https://constellation.church/c1vqkw017",
+  "name": "Stroudsburg Seventh-day Adventist Church",
+  "displayName": "Stroudsburg Seventh-day Adventist Church",
+  "address": {
+    "street": "2001 W Main St",
+    "city": "Stroudsburg",
+    "state": "PA",
+    "zip": "18360-6517"
+  },
+  "coordinates": {
+    "latitude": 40.980743408203125,
+    "longitude": -75.22826385498047
+  },
+  "website": "https://pacs-sda.org",
+  "listingUrl": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=15979",
+  "identifiers": [
+    {
+      "namespace": "org.adventistdirectory.id",
+      "value": "15979"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pacs-sda.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "901071925"
+    }
+  ],
+  "advisories": []
+}

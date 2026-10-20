@@ -1,0 +1,37 @@
+{
+  "id": "ym1wfyg77",
+  "url": "https://constellation.church/ym1wfyg77",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "612 S Dewey St",
+    "city": "Odebolt",
+    "state": "IA",
+    "zip": "51458"
+  },
+  "coordinates": {
+    "latitude": 42.30729675292969,
+    "longitude": -95.2613754272461
+  },
+  "website": "https://odebolttrinity.com",
+  "listingUrl": "https://idwlcms.org/congregation.php?id=124",
+  "identifiers": [
+    {
+      "namespace": "org.idwlcms.id",
+      "value": "124"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "odebolttrinity.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426141355"
+    },
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "663735"
+    }
+  ],
+  "advisories": []
+}

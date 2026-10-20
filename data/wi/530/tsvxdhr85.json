@@ -1,0 +1,37 @@
+{
+  "id": "tsvxdhr85",
+  "url": "https://constellation.church/tsvxdhr85",
+  "name": "Christ Church",
+  "displayName": "Christ Church",
+  "address": {
+    "street": "13460 N Port Washington Road",
+    "city": "Mequon",
+    "state": "WI",
+    "zip": "53097"
+  },
+  "coordinates": {
+    "latitude": 43.26298522949219,
+    "longitude": -87.92293548583984
+  },
+  "website": "https://christchurchmequon.life",
+  "listingUrl": "https://lcmc.net/congregation/123782",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "123782"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christchurchmequon.life"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391267427"
+    },
+    {
+      "namespace": "org.elca.id",
+      "value": "bf75ad8f-735b-492d-91b9-22330960ee50"
+    }
+  ],
+  "advisories": []
+}

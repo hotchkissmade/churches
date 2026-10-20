@@ -1,0 +1,33 @@
+{
+  "id": "h7q04ar49",
+  "url": "https://constellation.church/h7q04ar49",
+  "name": "First United Methodist Church",
+  "displayName": "First United Methodist Church",
+  "address": {
+    "street": "120 N Kellogg St",
+    "city": "Galesburg",
+    "state": "IL",
+    "zip": "61401-4715"
+  },
+  "coordinates": {
+    "latitude": 40.94878005981445,
+    "longitude": -90.36652374267578
+  },
+  "website": "https://firstumcgalesburg.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF4o4IAD",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF4o4IAD"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstumcgalesburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370662527"
+    }
+  ],
+  "advisories": []
+}

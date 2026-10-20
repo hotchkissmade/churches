@@ -1,0 +1,33 @@
+{
+  "id": "vm0070e55",
+  "url": "https://constellation.church/vm0070e55",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "3830 Gomer St",
+    "city": "Yorktown Heights",
+    "state": "NY",
+    "zip": "10598-1721"
+  },
+  "coordinates": {
+    "latitude": 41.33543014526367,
+    "longitude": -73.78716659545898
+  },
+  "website": "https://graceyorktown.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7438eb4e-d8d4-427c-9e5d-45f868b12ebf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7438eb4e-d8d4-427c-9e5d-45f868b12ebf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceyorktown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "132579625"
+    }
+  ],
+  "advisories": []
+}

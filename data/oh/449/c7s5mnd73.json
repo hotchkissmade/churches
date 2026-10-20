@@ -1,0 +1,33 @@
+{
+  "id": "c7s5mnd73",
+  "url": "https://constellation.church/c7s5mnd73",
+  "name": "Chapel Hill UMC",
+  "displayName": "Chapel Hill UMC",
+  "address": {
+    "street": "3716 Bellville North Road",
+    "city": "Mansfield",
+    "state": "OH",
+    "zip": "44904"
+  },
+  "coordinates": {
+    "latitude": 40.65745735168457,
+    "longitude": -82.5118179321289
+  },
+  "website": "https://chapelhillumcohio.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFK6MIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFK6MIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chapelhillumcohio.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341447603"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xnve9cn91",
+  "url": "https://constellation.church/xnve9cn91",
+  "name": "Towson Presbyterian Church",
+  "displayName": "Towson Presbyterian Church",
+  "address": {
+    "street": "400 W Chesapeake Ave",
+    "city": "Towson",
+    "state": "MD",
+    "zip": "21204-4398"
+  },
+  "coordinates": {
+    "latitude": 39.40048027038574,
+    "longitude": -76.61063766479492
+  },
+  "website": "https://towsonpres.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/10062/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "10062"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "towsonpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520510540"
+    }
+  ],
+  "advisories": []
+}

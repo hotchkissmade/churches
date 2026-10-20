@@ -1,0 +1,33 @@
+{
+  "id": "a61n1nq50",
+  "url": "https://constellation.church/a61n1nq50",
+  "name": "St. Paul the Apostle",
+  "displayName": "St. Paul the Apostle",
+  "address": {
+    "street": "Canon T Porter Ball Memorial Parish House, 1802 Abercorn St",
+    "city": "Savannah",
+    "state": "GA",
+    "zip": "31401-8122"
+  },
+  "coordinates": {
+    "latitude": 32.05868721008301,
+    "longitude": -81.0966796875
+  },
+  "website": "https://stpaulsavannah.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/georgia/list/st-paul-apostle",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "georgia/st-paul-apostle"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsavannah.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581271892"
+    }
+  ],
+  "advisories": []
+}

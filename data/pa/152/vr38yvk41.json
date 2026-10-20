@@ -1,0 +1,33 @@
+{
+  "id": "vr38yvk41",
+  "url": "https://constellation.church/vr38yvk41",
+  "name": "Episcopal Diocese of Pittsburgh",
+  "displayName": "Episcopal Diocese of Pittsburgh",
+  "address": {
+    "street": "325 Oliver Ave.",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15222"
+  },
+  "coordinates": {
+    "latitude": 40.441314697265625,
+    "longitude": -79.99869155883789
+  },
+  "website": "https://episcopalpgh.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/pittsburgh/list/episcopal-diocese-pittsburgh",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "pittsburgh/episcopal-diocese-pittsburgh"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "episcopalpgh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "250965251"
+    }
+  ],
+  "advisories": []
+}

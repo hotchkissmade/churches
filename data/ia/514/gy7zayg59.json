@@ -1,0 +1,33 @@
+{
+  "id": "gy7zayg59",
+  "url": "https://constellation.church/gy7zayg59",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "801 E 18th St",
+    "city": "Carroll",
+    "state": "IA",
+    "zip": "51401-1773"
+  },
+  "coordinates": {
+    "latitude": 42.07921600341797,
+    "longitude": -94.85456085205078
+  },
+  "website": "https://stjohncarroll.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b3abe151-a8c9-40b8-8434-89ffb1d15004",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b3abe151-a8c9-40b8-8434-89ffb1d15004"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohncarroll.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421095343"
+    }
+  ],
+  "advisories": []
+}

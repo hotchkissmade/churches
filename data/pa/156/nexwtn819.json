@@ -1,0 +1,33 @@
+{
+  "id": "nexwtn819",
+  "url": "https://constellation.church/nexwtn819",
+  "name": "Saltsburg Presbyterian Church",
+  "displayName": "Saltsburg Presbyterian Church",
+  "address": {
+    "street": "517 Salt St",
+    "city": "Saltsburg",
+    "state": "PA",
+    "zip": "15681-1125"
+  },
+  "coordinates": {
+    "latitude": 40.48628807067871,
+    "longitude": -79.45069122314453
+  },
+  "website": "https://saltsburg.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/7694/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "7694"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saltsburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "250966613"
+    }
+  ],
+  "advisories": []
+}

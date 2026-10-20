@@ -1,0 +1,33 @@
+{
+  "id": "fzrnmkj09",
+  "url": "https://constellation.church/fzrnmkj09",
+  "name": "St Stephen Lutheran Church",
+  "displayName": "St. Stephen Lutheran Church",
+  "address": {
+    "street": "5903 Bardstown Rd",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40291-1934"
+  },
+  "coordinates": {
+    "latitude": 38.161359786987305,
+    "longitude": -85.59300231933594
+  },
+  "website": "https://ststephen-louisville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ac43b241-8418-4640-a0c1-7bab064fb6af",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ac43b241-8418-4640-a0c1-7bab064fb6af"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ststephen-louisville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611117626"
+    }
+  ],
+  "advisories": []
+}

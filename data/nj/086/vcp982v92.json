@@ -1,0 +1,33 @@
+{
+  "id": "vcp982v92",
+  "url": "https://constellation.church/vcp982v92",
+  "name": "Diocesan office - New Jersey",
+  "displayName": "Diocesan office - New Jersey",
+  "address": {
+    "street": "808 W State St.",
+    "city": "Trenton",
+    "state": "NJ",
+    "zip": "08618"
+  },
+  "coordinates": {
+    "latitude": 40.2303695,
+    "longitude": -74.7866095
+  },
+  "website": "https://dioceseofnj.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/new-jersey/list/diocesan-office-new-jersey",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "new-jersey/diocesan-office-new-jersey"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dioceseofnj.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "210634592"
+    }
+  ],
+  "advisories": []
+}

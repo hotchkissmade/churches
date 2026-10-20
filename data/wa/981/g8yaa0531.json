@@ -1,0 +1,37 @@
+{
+  "id": "g8yaa0531",
+  "url": "https://constellation.church/g8yaa0531",
+  "name": "Church of the Apostles",
+  "displayName": "Church of the Apostles",
+  "address": {
+    "street": "4272 Fremont Ave N",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98103-7279"
+  },
+  "coordinates": {
+    "latitude": 47.65925216674805,
+    "longitude": -122.34991455078125
+  },
+  "website": "https://apostleschurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9fe963dd-f9ba-424e-9141-1988ed8256fe",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9fe963dd-f9ba-424e-9141-1988ed8256fe"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "apostleschurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "020624186"
+    },
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-olympia/church-apostles-cota"
+    }
+  ],
+  "advisories": []
+}

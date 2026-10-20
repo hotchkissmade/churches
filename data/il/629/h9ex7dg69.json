@@ -1,0 +1,33 @@
+{
+  "id": "h9ex7dg69",
+  "url": "https://constellation.church/h9ex7dg69",
+  "name": "First Baptist Church of Eldorado",
+  "displayName": "First Baptist Church of Eldorado",
+  "address": {
+    "street": "1101 2nd St",
+    "city": "Eldorado",
+    "state": "IL",
+    "zip": "62930"
+  },
+  "coordinates": {
+    "latitude": 37.81330871582031,
+    "longitude": -88.4417839050293
+  },
+  "website": "https://fbceldorado.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-eldorado/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-eldorado"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbceldorado.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370814046"
+    }
+  ],
+  "advisories": []
+}

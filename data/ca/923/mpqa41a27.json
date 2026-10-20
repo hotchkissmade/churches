@@ -1,0 +1,33 @@
+{
+  "id": "mpqa41a27",
+  "url": "https://constellation.church/mpqa41a27",
+  "name": "Garden City Church",
+  "displayName": "Garden City Church",
+  "address": {
+    "street": "1020 Poinsettia Cir",
+    "city": "Calimesa",
+    "state": "CA",
+    "zip": "92320"
+  },
+  "coordinates": {
+    "latitude": 33.967153549194336,
+    "longitude": -117.04155731201172
+  },
+  "website": "https://gardencity.church",
+  "listingUrl": "https://churches.sbc.net/church/garden-city-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "garden-city-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gardencity.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "853894815"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n3a6qft18",
+  "url": "https://constellation.church/n3a6qft18",
+  "name": "First Baptist Church Marshfield",
+  "displayName": "First Baptist Church Marshfield",
+  "address": {
+    "street": "1001 S White Oak Rd",
+    "city": "Marshfield",
+    "state": "MO",
+    "zip": "65706"
+  },
+  "coordinates": {
+    "latitude": 37.32827377319336,
+    "longitude": -92.9126968383789
+  },
+  "website": "https://marshfieldfirst.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-marshfield/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-marshfield"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "marshfieldfirst.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440660320"
+    }
+  ],
+  "advisories": []
+}

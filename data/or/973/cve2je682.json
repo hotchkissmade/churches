@@ -1,0 +1,33 @@
+{
+  "id": "cve2je682",
+  "url": "https://constellation.church/cve2je682",
+  "name": "Silverton United Methodist Church",
+  "displayName": "Silverton United Methodist Church",
+  "address": {
+    "street": "203 W Main St",
+    "city": "Silverton",
+    "state": "OR",
+    "zip": "97381-2020"
+  },
+  "coordinates": {
+    "latitude": 45.00415802001953,
+    "longitude": -122.78397369384766
+  },
+  "website": "https://silvertonumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF8fqIAD",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF8fqIAD"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "silvertonumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930421474"
+    }
+  ],
+  "advisories": []
+}

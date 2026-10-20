@@ -1,0 +1,33 @@
+{
+  "id": "f003e4876",
+  "url": "https://constellation.church/f003e4876",
+  "name": "Hope Lutheran Church",
+  "displayName": "Hope Lutheran Church",
+  "address": {
+    "street": "250 Avenida Los Angelos",
+    "city": "The Villages",
+    "state": "FL",
+    "zip": "32162-3607"
+  },
+  "coordinates": {
+    "latitude": 28.920703887939453,
+    "longitude": -81.96696853637695
+  },
+  "website": "https://hope4all.church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6629d955-fe3d-42d0-b5c6-570276ed10c5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6629d955-fe3d-42d0-b5c6-570276ed10c5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hope4all.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593539044"
+    }
+  ],
+  "advisories": []
+}

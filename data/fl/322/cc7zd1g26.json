@@ -1,0 +1,33 @@
+{
+  "id": "cc7zd1g26",
+  "url": "https://constellation.church/cc7zd1g26",
+  "name": "Dinsmore Baptist Church",
+  "displayName": "Dinsmore Baptist Church",
+  "address": {
+    "street": "10500 Old Kings Rd",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32219"
+  },
+  "coordinates": {
+    "latitude": 30.424917221069336,
+    "longitude": -81.7655258178711
+  },
+  "website": "https://dbcjax.com",
+  "listingUrl": "https://churches.sbc.net/church/dinsmore-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "dinsmore-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dbcjax.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590737870"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sqpsnan13",
+  "url": "https://constellation.church/sqpsnan13",
+  "name": "Lazybrook Baptist Church dba LifeBrook Church",
+  "displayName": "Lazybrook Baptist Church",
+  "address": {
+    "street": "1822 W 18th St",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77008"
+  },
+  "coordinates": {
+    "latitude": 29.801435470581055,
+    "longitude": -95.43305969238281
+  },
+  "website": "https://lifebrook.church",
+  "listingUrl": "https://churches.sbc.net/church/lazybrook-baptist-church-dba-lifebrook-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lazybrook-baptist-church-dba-lifebrook-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lifebrook.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741889426"
+    }
+  ],
+  "advisories": []
+}

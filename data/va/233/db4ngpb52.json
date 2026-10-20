@@ -1,0 +1,33 @@
+{
+  "id": "db4ngpb52",
+  "url": "https://constellation.church/db4ngpb52",
+  "name": "Grace Presbyterian Church",
+  "displayName": "Grace Presbyterian Church",
+  "address": {
+    "street": "1428 Cedar Road",
+    "city": "Chesapeake",
+    "state": "VA",
+    "zip": "23322"
+  },
+  "coordinates": {
+    "latitude": 36.7228741,
+    "longitude": -76.291592
+  },
+  "website": "https://gracechesapeake.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5396",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5396"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracechesapeake.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "271315029"
+    }
+  ],
+  "advisories": []
+}

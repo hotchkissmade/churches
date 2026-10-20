@@ -1,0 +1,33 @@
+{
+  "id": "dyhegqx83",
+  "url": "https://constellation.church/dyhegqx83",
+  "name": "Holy Cross Church",
+  "displayName": "Holy Cross Church",
+  "address": {
+    "street": "1401 S White Rd",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95127"
+  },
+  "coordinates": {
+    "latitude": 37.350786209106445,
+    "longitude": -121.814697265625
+  },
+  "website": "https://sjholycross.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ro-sajhcm",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ro-sajhcm"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sjholycross.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311616808"
+    }
+  ],
+  "advisories": []
+}

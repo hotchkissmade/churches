@@ -1,0 +1,33 @@
+{
+  "id": "rmc7cq157",
+  "url": "https://constellation.church/rmc7cq157",
+  "name": "Waddill Street Baptist Church",
+  "displayName": "Waddill Street Baptist Church",
+  "address": {
+    "street": "1401 N Waddill St",
+    "city": "Mckinney",
+    "state": "TX",
+    "zip": "75069"
+  },
+  "coordinates": {
+    "latitude": 33.209794998168945,
+    "longitude": -96.62646484375
+  },
+  "website": "https://waddillstreet.org",
+  "listingUrl": "https://churches.sbc.net/church/waddill-street-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "waddill-street-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "waddillstreet.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751405316"
+    }
+  ],
+  "advisories": []
+}

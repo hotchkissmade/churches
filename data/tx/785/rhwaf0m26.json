@@ -1,0 +1,33 @@
+{
+  "id": "rhwaf0m26",
+  "url": "https://constellation.church/rhwaf0m26",
+  "name": "Iglesia Bautista Pan De Vida",
+  "displayName": "Iglesia Bautista Pan De Vida",
+  "address": {
+    "street": "1101 E FERN",
+    "city": "McAllen",
+    "state": "TX",
+    "zip": "78501"
+  },
+  "coordinates": {
+    "latitude": 26.22975730895996,
+    "longitude": -98.20242309570312
+  },
+  "website": "https://pandevidamcallen.com",
+  "listingUrl": "https://churches.sbc.net/church/iglesia-bautista-pan-de-vida/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "iglesia-bautista-pan-de-vida"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pandevidamcallen.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "461066066"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tax80zz51",
+  "url": "https://constellation.church/tax80zz51",
+  "name": "First Baptist Church, Lake Jackson",
+  "displayName": "First Baptist Church, Lake Jackson",
+  "address": {
+    "street": "401 Yaupon St",
+    "city": "Lake Jackson",
+    "state": "TX",
+    "zip": "77566"
+  },
+  "coordinates": {
+    "latitude": 29.037612915039062,
+    "longitude": -95.43955993652344
+  },
+  "website": "https://fbclj.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-lake-jackson-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-lake-jackson-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbclj.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "746003657"
+    }
+  ],
+  "advisories": []
+}

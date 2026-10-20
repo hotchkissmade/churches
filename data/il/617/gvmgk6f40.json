@@ -1,0 +1,33 @@
+{
+  "id": "gvmgk6f40",
+  "url": "https://constellation.church/gvmgk6f40",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "320 S Oak St",
+    "city": "Forrest",
+    "state": "IL",
+    "zip": "61741"
+  },
+  "coordinates": {
+    "latitude": 40.74714469909668,
+    "longitude": -88.4123764038086
+  },
+  "website": "https://forreststpaulslutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=843bb54f-2c14-484b-bfec-8b11c594ff26",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "843bb54f-2c14-484b-bfec-8b11c594ff26"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "forreststpaulslutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371061314"
+    }
+  ],
+  "advisories": []
+}

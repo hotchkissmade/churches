@@ -1,0 +1,33 @@
+{
+  "id": "b1ygm5760",
+  "url": "https://constellation.church/b1ygm5760",
+  "name": "Templo La Luz",
+  "displayName": "Templo La Luz",
+  "address": {
+    "street": "2000 Woodside Rd",
+    "city": "Redwood City",
+    "state": "CA",
+    "zip": "94061"
+  },
+  "coordinates": {
+    "latitude": 37.449466705322266,
+    "longitude": -122.23213195800781
+  },
+  "website": "https://templolaluz.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=52abbb6c-b3bd-4541-81a0-e62c298ce033&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "52abbb6c-b3bd-4541-81a0-e62c298ce033"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "templolaluz.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237366070"
+    }
+  ],
+  "advisories": []
+}

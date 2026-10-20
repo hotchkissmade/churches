@@ -1,0 +1,33 @@
+{
+  "id": "f4d57e075",
+  "url": "https://constellation.church/f4d57e075",
+  "name": "RCCG LIFE CENTER",
+  "displayName": "RCCG Life Center",
+  "address": {
+    "street": "9750 Bird River Road",
+    "city": "Middle River",
+    "state": "MD",
+    "zip": "21220"
+  },
+  "coordinates": {
+    "latitude": 39.35124588012695,
+    "longitude": -76.44593048095703
+  },
+  "website": "https://lifecentermiddleriver.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=5903&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "5903"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lifecentermiddleriver.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "473439142"
+    }
+  ],
+  "advisories": []
+}

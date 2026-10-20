@@ -1,0 +1,33 @@
+{
+  "id": "cgjzk6679",
+  "url": "https://constellation.church/cgjzk6679",
+  "name": "Coastal Church",
+  "displayName": "Coastal Church",
+  "address": {
+    "street": "3891 Highway 17",
+    "city": "Murrells Inlt",
+    "state": "SC",
+    "zip": "29576"
+  },
+  "coordinates": {
+    "latitude": 33.5630019,
+    "longitude": -79.0380197
+  },
+  "website": "https://scbaptist.org/churches/murrells-inlet-first-baptist-church",
+  "listingUrl": "https://churches.sbc.net/church/coastal-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "coastal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "scbaptist.org/churches/murrells-inlet-first-baptist-church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570695861"
+    }
+  ],
+  "advisories": []
+}

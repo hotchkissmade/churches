@@ -1,0 +1,33 @@
+{
+  "id": "gxt86p903",
+  "url": "https://constellation.church/gxt86p903",
+  "name": "Waldo Missionary Baptist Church",
+  "displayName": "Waldo Missionary Baptist Church",
+  "address": {
+    "street": "6970 Waldo Church Rd",
+    "city": "Metropolis",
+    "state": "IL",
+    "zip": "62960"
+  },
+  "coordinates": {
+    "latitude": 37.17412185668945,
+    "longitude": -88.61394119262695
+  },
+  "website": "https://waldobaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/waldo-missionary-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "waldo-missionary-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "waldobaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371262268"
+    }
+  ],
+  "advisories": []
+}

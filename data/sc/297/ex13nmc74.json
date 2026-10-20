@@ -1,0 +1,33 @@
+{
+  "id": "ex13nmc74",
+  "url": "https://constellation.church/ex13nmc74",
+  "name": "White Plains Baptist Church",
+  "displayName": "White Plains Baptist Church",
+  "address": {
+    "street": "3490 White Plains Church Rd",
+    "city": "Jefferson",
+    "state": "SC",
+    "zip": "29718"
+  },
+  "coordinates": {
+    "latitude": 34.70741844177246,
+    "longitude": -80.41525650024414
+  },
+  "website": "https://whiteplainssc.com",
+  "listingUrl": "https://churches.sbc.net/church/white-plains-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "white-plains-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "whiteplainssc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "300963074"
+    }
+  ],
+  "advisories": []
+}

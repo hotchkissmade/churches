@@ -1,0 +1,33 @@
+{
+  "id": "qqctbhe56",
+  "url": "https://constellation.church/qqctbhe56",
+  "name": "St Paul's Evangelical Lutheran Church",
+  "displayName": "St. Paul's Evangelical Lutheran Church",
+  "address": {
+    "street": "201 Mount Royal Ave",
+    "city": "Aberdeen",
+    "state": "MD",
+    "zip": "21001-2410"
+  },
+  "coordinates": {
+    "latitude": 39.518009185791016,
+    "longitude": -76.16497421264648
+  },
+  "website": "https://growwithjesus.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b9b56050-7b4e-4d34-8cde-4f823202d27c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b9b56050-7b4e-4d34-8cde-4f823202d27c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "growwithjesus.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520850007"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rpnz12930",
+  "url": "https://constellation.church/rpnz12930",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "11022 11th St",
+    "city": "Fontanelle",
+    "state": "NE",
+    "zip": "68044-2564"
+  },
+  "coordinates": {
+    "latitude": 41.5384464263916,
+    "longitude": -96.42221069335938
+  },
+  "website": "https://salemfontanelle.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8ab96922-5550-47f9-84d0-d162788796c9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8ab96922-5550-47f9-84d0-d162788796c9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemfontanelle.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470638700"
+    }
+  ],
+  "advisories": []
+}

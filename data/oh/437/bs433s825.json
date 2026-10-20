@@ -1,0 +1,33 @@
+{
+  "id": "bs433s825",
+  "url": "https://constellation.church/bs433s825",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "128 S 7th St",
+    "city": "Zanesville",
+    "state": "OH",
+    "zip": "43701-4304"
+  },
+  "coordinates": {
+    "latitude": 39.93742370605469,
+    "longitude": -82.00399017333984
+  },
+  "website": "https://trinityzanesville.org",
+  "listingUrl": "https://locator.lcms.org/church/C/998379",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "998379"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityzanesville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310626594"
+    }
+  ],
+  "advisories": []
+}

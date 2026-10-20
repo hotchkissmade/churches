@@ -1,0 +1,33 @@
+{
+  "id": "sqrcv8595",
+  "url": "https://constellation.church/sqrcv8595",
+  "name": "Park Cities Presbyterian Church",
+  "displayName": "Park Cities Presbyterian Church",
+  "address": {
+    "street": "4124 Oak Lawn Avenue",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75219"
+  },
+  "coordinates": {
+    "latitude": 32.8189640045166,
+    "longitude": -96.80165100097656
+  },
+  "website": "https://pcpc.org/about",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1345",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1345"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pcpc.org/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752348585"
+    }
+  ],
+  "advisories": []
+}

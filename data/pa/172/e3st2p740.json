@@ -1,0 +1,33 @@
+{
+  "id": "e3st2p740",
+  "url": "https://constellation.church/e3st2p740",
+  "name": "Salem Church",
+  "displayName": "Salem Church",
+  "address": {
+    "street": "4349 Letterkenny Rd",
+    "city": "Chambersburg",
+    "state": "PA",
+    "zip": "17201"
+  },
+  "coordinates": {
+    "latitude": 39.985572814941406,
+    "longitude": -77.65580368041992
+  },
+  "website": "https://salemub.org",
+  "listingUrl": "https://ub.org/churches/find-a-church/salem-church",
+  "identifiers": [
+    {
+      "namespace": "org.ub.id",
+      "value": "salem-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemub.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251424527"
+    }
+  ],
+  "advisories": []
+}

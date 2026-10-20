@@ -1,0 +1,33 @@
+{
+  "id": "qa9e5gb73",
+  "url": "https://constellation.church/qa9e5gb73",
+  "name": "Bronx Baptist Church",
+  "displayName": "Bronx Baptist Church",
+  "address": {
+    "street": "331 East 187th Street",
+    "city": "Bronx",
+    "state": "NY",
+    "zip": "10458"
+  },
+  "coordinates": {
+    "latitude": 40.85980415344238,
+    "longitude": -73.89553451538086
+  },
+  "website": "https://bronxbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/bronx-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bronx-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bronxbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "133204177"
+    }
+  ],
+  "advisories": []
+}

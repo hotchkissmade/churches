@@ -1,0 +1,33 @@
+{
+  "id": "y8v697p56",
+  "url": "https://constellation.church/y8v697p56",
+  "name": "church of the Holy Apostles",
+  "displayName": "church of the Holy Apostles",
+  "address": {
+    "street": "612 Greenwood Ave",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11218"
+  },
+  "coordinates": {
+    "latitude": 40.65143013000488,
+    "longitude": -73.97528839111328
+  },
+  "website": "https://holyapostlesbrooklyn.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/church-holy-apostles",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/church-holy-apostles"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holyapostlesbrooklyn.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "116015780"
+    }
+  ],
+  "advisories": []
+}

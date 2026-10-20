@@ -1,0 +1,33 @@
+{
+  "id": "ec1qtcg28",
+  "url": "https://constellation.church/ec1qtcg28",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "17125 W Fountain Hill Ln",
+    "city": "Yarnell",
+    "state": "AZ",
+    "zip": "85362"
+  },
+  "coordinates": {
+    "latitude": 34.21524620056152,
+    "longitude": -112.75538635253906
+  },
+  "website": "https://yarnellassemblyofgod.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=fe788595-d194-49ef-aeba-2f407d3b8cad&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "fe788595-d194-49ef-aeba-2f407d3b8cad"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "yarnellassemblyofgod.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860659868"
+    }
+  ],
+  "advisories": []
+}

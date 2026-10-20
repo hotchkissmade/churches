@@ -1,0 +1,33 @@
+{
+  "id": "ssnst9g23",
+  "url": "https://constellation.church/ssnst9g23",
+  "name": "Catawba Baptist Church",
+  "displayName": "Catawba Baptist Church",
+  "address": {
+    "street": "1450 Anderson Rd S",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29730"
+  },
+  "coordinates": {
+    "latitude": 34.90588188171387,
+    "longitude": -80.96332550048828
+  },
+  "website": "https://catawbalive.com",
+  "listingUrl": "https://churches.sbc.net/church/catawba-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "catawba-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "catawbalive.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570551965"
+    }
+  ],
+  "advisories": []
+}

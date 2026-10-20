@@ -1,0 +1,33 @@
+{
+  "id": "rtfdynr92",
+  "url": "https://constellation.church/rtfdynr92",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "918 1st Ave E",
+    "city": "Mobridge",
+    "state": "SD",
+    "zip": "57601-1801"
+  },
+  "coordinates": {
+    "latitude": 45.54219055175781,
+    "longitude": -100.431884765625
+  },
+  "website": "https://trinitylutheranmobridge.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8fae925a-f844-4445-856c-24a0e6bde472",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8fae925a-f844-4445-856c-24a0e6bde472"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylutheranmobridge.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460280092"
+    }
+  ],
+  "advisories": []
+}

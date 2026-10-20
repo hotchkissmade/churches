@@ -1,0 +1,33 @@
+{
+  "id": "tg0c81s02",
+  "url": "https://constellation.church/tg0c81s02",
+  "name": "Anna Heights Baptist Church",
+  "displayName": "Anna Heights Baptist Church",
+  "address": {
+    "street": "100 Turner Ave",
+    "city": "Anna",
+    "state": "IL",
+    "zip": "62906"
+  },
+  "coordinates": {
+    "latitude": 37.45700263977051,
+    "longitude": -89.23115921020508
+  },
+  "website": "https://annaheights.com",
+  "listingUrl": "https://churches.sbc.net/church/anna-heights-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "anna-heights-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "annaheights.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371009561"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xn3b9ss71",
+  "url": "https://constellation.church/xn3b9ss71",
+  "name": "Westview",
+  "displayName": "Westview Baptist Church",
+  "address": {
+    "street": "500 Melody Ln",
+    "city": "Shelby",
+    "state": "NC",
+    "zip": "28152"
+  },
+  "coordinates": {
+    "latitude": 35.28453254699707,
+    "longitude": -81.56512451171875
+  },
+  "website": "https://wbcshelby.churchcenter.com",
+  "listingUrl": "https://churches.sbc.net/church/westview/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "westview"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wbcshelby.churchcenter.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560750021"
+    }
+  ],
+  "advisories": []
+}

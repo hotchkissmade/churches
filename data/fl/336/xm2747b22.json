@@ -1,0 +1,33 @@
+{
+  "id": "xm2747b22",
+  "url": "https://constellation.church/xm2747b22",
+  "name": "Church of the Way",
+  "displayName": "Church of the Way",
+  "address": {
+    "street": "1712 E Busch Blvd",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33612"
+  },
+  "coordinates": {
+    "latitude": 28.032827377319336,
+    "longitude": -82.43954849243164
+  },
+  "website": "https://ctw1712.com",
+  "listingUrl": "https://churches.sbc.net/church/church-of-the-way/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "church-of-the-way"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ctw1712.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592231910"
+    }
+  ],
+  "advisories": []
+}

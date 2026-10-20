@@ -1,0 +1,33 @@
+{
+  "id": "g49v12c26",
+  "url": "https://constellation.church/g49v12c26",
+  "name": "Fort Caroline Baptist Church",
+  "displayName": "Fort Caroline Baptist Church",
+  "address": {
+    "street": "11428 McCormick Rd",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32225"
+  },
+  "coordinates": {
+    "latitude": 30.358728408813477,
+    "longitude": -81.51132583618164
+  },
+  "website": "https://fortcaroline.com",
+  "listingUrl": "https://churches.sbc.net/church/fort-caroline-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "fort-caroline-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fortcaroline.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592352250"
+    }
+  ],
+  "advisories": []
+}

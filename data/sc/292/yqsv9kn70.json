@@ -1,0 +1,33 @@
+{
+  "id": "yqsv9kn70",
+  "url": "https://constellation.church/yqsv9kn70",
+  "name": "North Point Community Church",
+  "displayName": "North Point Community Church",
+  "address": {
+    "street": "132 Beckett Ln",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29223"
+  },
+  "coordinates": {
+    "latitude": 34.11907768249512,
+    "longitude": -80.90995407104492
+  },
+  "website": "https://northpointcolumbia.com",
+  "listingUrl": "https://churches.sbc.net/church/north-point-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "north-point-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northpointcolumbia.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "571069777"
+    }
+  ],
+  "advisories": []
+}

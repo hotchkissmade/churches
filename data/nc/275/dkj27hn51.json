@@ -1,0 +1,33 @@
+{
+  "id": "dkj27hn51",
+  "url": "https://constellation.church/dkj27hn51",
+  "name": "The Point Church Cary",
+  "displayName": "The Point Church Cary",
+  "address": {
+    "street": "1503 Walnut St",
+    "city": "Cary",
+    "state": "NC",
+    "zip": "27511"
+  },
+  "coordinates": {
+    "latitude": 35.76538848876953,
+    "longitude": -78.75118637084961
+  },
+  "website": "https://pointchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/the-point-church-cary/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-point-church-cary"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pointchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "271190089"
+    }
+  ],
+  "advisories": []
+}

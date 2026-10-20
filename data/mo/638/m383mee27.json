@@ -1,0 +1,33 @@
+{
+  "id": "m383mee27",
+  "url": "https://constellation.church/m383mee27",
+  "name": "First Baptist Church Steele",
+  "displayName": "First Baptist Church Steele",
+  "address": {
+    "street": "222 S Walnut St",
+    "city": "Steele",
+    "state": "MO",
+    "zip": "63877"
+  },
+  "coordinates": {
+    "latitude": 36.08245277404785,
+    "longitude": -89.83184814453125
+  },
+  "website": "https://fbcsteele.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-steele/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-steele"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcsteele.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430768222"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qbfryzr26",
+  "url": "https://constellation.church/qbfryzr26",
+  "name": "St. Michael's Episcopal Church",
+  "displayName": "St. Michael's Episcopal Church",
+  "address": {
+    "street": "16 Bradley Ave.",
+    "city": "Brattleboro",
+    "state": "VT",
+    "zip": "05301"
+  },
+  "coordinates": {
+    "latitude": 42.85972595214844,
+    "longitude": -72.55804824829102
+  },
+  "website": "https://stmichaels-vt.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/episcopal-church-vermont/list/st-michaels-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "episcopal-church-vermont/st-michaels-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmichaels-vt.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030179427"
+    }
+  ],
+  "advisories": []
+}

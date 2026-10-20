@@ -1,0 +1,33 @@
+{
+  "id": "g1zh5em61",
+  "url": "https://constellation.church/g1zh5em61",
+  "name": "St Philip Lutheran Church",
+  "displayName": "St. Philip Lutheran Church",
+  "address": {
+    "street": "7531 S Kendall Blvd",
+    "city": "Littleton",
+    "state": "CO",
+    "zip": "80128-7060"
+  },
+  "coordinates": {
+    "latitude": 39.57997703552246,
+    "longitude": -105.06694793701172
+  },
+  "website": "https://stphilip-co.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c6378424-762a-4948-b9a3-740ce52f160d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c6378424-762a-4948-b9a3-740ce52f160d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stphilip-co.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840923808"
+    }
+  ],
+  "advisories": []
+}

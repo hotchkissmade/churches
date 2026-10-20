@@ -1,0 +1,33 @@
+{
+  "id": "s87451j02",
+  "url": "https://constellation.church/s87451j02",
+  "name": "New Covenant Church of Albuquerque",
+  "displayName": "New Covenant Church of Albuquerque",
+  "address": {
+    "street": "7201 Paseo Del Norte NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87113"
+  },
+  "coordinates": {
+    "latitude": 35.17515754699707,
+    "longitude": -106.56487274169922
+  },
+  "website": "https://nccabq.org",
+  "listingUrl": "https://churches.sbc.net/church/new-covenant-church-of-albuquerque/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-covenant-church-of-albuquerque"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nccabq.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850416124"
+    }
+  ],
+  "advisories": []
+}

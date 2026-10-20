@@ -1,0 +1,33 @@
+{
+  "id": "j0zbetd48",
+  "url": "https://constellation.church/j0zbetd48",
+  "name": "Church of the Ascension",
+  "displayName": "Church of the Ascension",
+  "address": {
+    "street": "214 Northampton Rd",
+    "city": "Seneca",
+    "state": "SC",
+    "zip": "29672-2221"
+  },
+  "coordinates": {
+    "latitude": 34.70172882080078,
+    "longitude": -82.95404815673828
+  },
+  "website": "https://ascensionseneca.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-upper-south-carolina/list/church-ascension",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-upper-south-carolina/church-ascension"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ascensionseneca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570640508"
+    }
+  ],
+  "advisories": []
+}

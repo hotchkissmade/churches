@@ -1,0 +1,33 @@
+{
+  "id": "jykh01g92",
+  "url": "https://constellation.church/jykh01g92",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "501 Creswell Ave E",
+    "city": "Greenwood",
+    "state": "SC",
+    "zip": "29646-3407"
+  },
+  "coordinates": {
+    "latitude": 34.18410873413086,
+    "longitude": -82.1496467590332
+  },
+  "website": "https://ilcgreenwood.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ea0ce018-9d2e-4712-9013-2969f746e61c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ea0ce018-9d2e-4712-9013-2969f746e61c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ilcgreenwood.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570740451"
+    }
+  ],
+  "advisories": []
+}

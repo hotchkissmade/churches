@@ -1,0 +1,33 @@
+{
+  "id": "jvkx0aw16",
+  "url": "https://constellation.church/jvkx0aw16",
+  "name": "Glencliff United Methodist Church",
+  "displayName": "Glencliff United Methodist Church",
+  "address": {
+    "street": "2901 Glencliff Road",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37211"
+  },
+  "coordinates": {
+    "latitude": 36.1114387512207,
+    "longitude": -86.72119903564453
+  },
+  "website": "https://glencliffumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFP8rIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFP8rIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "glencliffumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620784734"
+    }
+  ],
+  "advisories": []
+}

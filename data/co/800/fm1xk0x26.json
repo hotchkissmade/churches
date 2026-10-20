@@ -1,0 +1,33 @@
+{
+  "id": "fm1xk0x26",
+  "url": "https://constellation.church/fm1xk0x26",
+  "name": "Living Room Church",
+  "displayName": "Living Room Church",
+  "address": {
+    "street": "14485 E Evans Ave",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80014"
+  },
+  "coordinates": {
+    "latitude": 39.67981147766113,
+    "longitude": -104.81979370117188
+  },
+  "website": "https://sgcco.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=cc884b79-657f-447f-93c7-c00be681e09a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "cc884b79-657f-447f-93c7-c00be681e09a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sgcco.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "841474983"
+    }
+  ],
+  "advisories": []
+}

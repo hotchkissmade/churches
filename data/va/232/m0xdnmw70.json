@@ -1,0 +1,33 @@
+{
+  "id": "m0xdnmw70",
+  "url": "https://constellation.church/m0xdnmw70",
+  "name": "West End Presbyterian Church",
+  "displayName": "West End Presbyterian Church",
+  "address": {
+    "street": "9008 Quioccasin Road",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "23229"
+  },
+  "coordinates": {
+    "latitude": 37.60696220397949,
+    "longitude": -77.57137680053711
+  },
+  "website": "https://wepc.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1450",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1450"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wepc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541678374"
+    }
+  ],
+  "advisories": []
+}

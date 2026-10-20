@@ -1,0 +1,33 @@
+{
+  "id": "a40s3fa78",
+  "url": "https://constellation.church/a40s3fa78",
+  "name": "St Luke's Lutheran Church",
+  "displayName": "St. Luke's Lutheran Church",
+  "address": {
+    "street": "126 N 4th St",
+    "city": "Youngwood",
+    "state": "PA",
+    "zip": "15697-1308"
+  },
+  "coordinates": {
+    "latitude": 40.24170684814453,
+    "longitude": -79.57757568359375
+  },
+  "website": "https://stlukesyoungwood.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b6ed54c0-2a8a-43a3-83cd-ac9f9cd8a30a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b6ed54c0-2a8a-43a3-83cd-ac9f9cd8a30a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesyoungwood.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251445973"
+    }
+  ],
+  "advisories": []
+}

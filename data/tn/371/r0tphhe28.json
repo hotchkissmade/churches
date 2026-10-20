@@ -1,0 +1,33 @@
+{
+  "id": "r0tphhe28",
+  "url": "https://constellation.church/r0tphhe28",
+  "name": "Living Water Church",
+  "displayName": "Living Water Church",
+  "address": {
+    "street": "586 Fortress Blvd",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "zip": "37128"
+  },
+  "coordinates": {
+    "latitude": 35.85359191894531,
+    "longitude": -86.46660614013672
+  },
+  "website": "https://livingwc.org",
+  "listingUrl": "https://churches.sbc.net/church/living-water-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "living-water-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "livingwc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "463359917"
+    }
+  ],
+  "advisories": []
+}

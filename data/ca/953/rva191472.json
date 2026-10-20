@@ -1,0 +1,33 @@
+{
+  "id": "rva191472",
+  "url": "https://constellation.church/rva191472",
+  "name": "Christian Worship Center",
+  "displayName": "Christian Worship Center",
+  "address": {
+    "street": "786 Button Ave",
+    "city": "Manteca",
+    "state": "CA",
+    "zip": "95336"
+  },
+  "coordinates": {
+    "latitude": 37.80777359008789,
+    "longitude": -121.19745635986328
+  },
+  "website": "https://cwcmanteca.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=05d46b3e-067a-4bf3-9651-d7adaa28d694&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "05d46b3e-067a-4bf3-9651-d7adaa28d694"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cwcmanteca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "680245994"
+    }
+  ],
+  "advisories": []
+}

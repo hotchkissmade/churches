@@ -1,0 +1,33 @@
+{
+  "id": "g43bfyv89",
+  "url": "https://constellation.church/g43bfyv89",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "21140 W Toledo St",
+    "city": "Williston",
+    "state": "OH",
+    "zip": "43468"
+  },
+  "coordinates": {
+    "latitude": 41.603206634521484,
+    "longitude": -83.34081268310547
+  },
+  "website": "https://stjohnwilliston.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7573daad-27f4-4af5-8579-1ae7b2e425f4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7573daad-27f4-4af5-8579-1ae7b2e425f4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnwilliston.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340895476"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "xyb8shv26",
+  "url": "https://constellation.church/xyb8shv26",
+  "name": "Church of the Redeemer",
+  "displayName": "Church of the Redeemer",
+  "address": {
+    "street": "145 W Springfield Rd",
+    "city": "Springfield",
+    "state": "PA",
+    "zip": "19064-1414"
+  },
+  "coordinates": {
+    "latitude": 39.934762954711914,
+    "longitude": -75.33294677734375
+  },
+  "website": "https://redeemerspringfield.net",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/church-redeemer-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/church-redeemer-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerspringfield.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231508339"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231970126"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pvakasp80",
+  "url": "https://constellation.church/pvakasp80",
+  "name": "Black Springs Baptist Church, Inc.",
+  "displayName": "Black Springs Baptist Church",
+  "address": {
+    "street": "673 Sparta Hwy NE",
+    "city": "Milledgeville",
+    "state": "GA",
+    "zip": "31061"
+  },
+  "coordinates": {
+    "latitude": 33.10426902770996,
+    "longitude": -83.1439208984375
+  },
+  "website": "https://blacksprings.org",
+  "listingUrl": "https://churches.sbc.net/church/black-springs-baptist-church-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "black-springs-baptist-church-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blacksprings.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "586136718"
+    }
+  ],
+  "advisories": []
+}

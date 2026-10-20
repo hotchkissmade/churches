@@ -1,0 +1,33 @@
+{
+  "id": "z37wd9022",
+  "url": "https://constellation.church/z37wd9022",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "42 Guy Park Ave",
+    "city": "Amsterdam",
+    "state": "NY",
+    "zip": "12010-4105"
+  },
+  "coordinates": {
+    "latitude": 42.9401912689209,
+    "longitude": -74.19328689575195
+  },
+  "website": "https://tlcamsterdam.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6049d4e8-df34-4846-8507-e1042509c746",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6049d4e8-df34-4846-8507-e1042509c746"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcamsterdam.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237179485"
+    }
+  ],
+  "advisories": []
+}

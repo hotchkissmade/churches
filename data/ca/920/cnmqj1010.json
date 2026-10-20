@@ -1,0 +1,33 @@
+{
+  "id": "cnmqj1010",
+  "url": "https://constellation.church/cnmqj1010",
+  "name": "Church of St. Michaels-by-the-Sea",
+  "displayName": "Church of St. Michaels-by-the-Sea",
+  "address": {
+    "street": "2775 Carlsbad Blvd",
+    "city": "Carlsbad",
+    "state": "CA",
+    "zip": "92008-2210"
+  },
+  "coordinates": {
+    "latitude": 33.16024971008301,
+    "longitude": -117.3529281616211
+  },
+  "website": "https://stmichaelsbythesea.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-san-diego/list/church-st-michaels-sea",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-san-diego/church-st-michaels-sea"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmichaelsbythesea.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510176460"
+    }
+  ],
+  "advisories": []
+}

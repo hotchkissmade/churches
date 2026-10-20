@@ -1,0 +1,33 @@
+{
+  "id": "qra7w8328",
+  "url": "https://constellation.church/qra7w8328",
+  "name": "Diocese of Massachusetts office",
+  "displayName": "Diocese of Massachusetts office",
+  "address": {
+    "street": "138 Tremont St.",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02111"
+  },
+  "coordinates": {
+    "latitude": 42.3558527,
+    "longitude": -71.0625457
+  },
+  "website": "https://diomass.org/node/50",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/massachusetts/list/diocese-massachusetts-office",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "massachusetts/diocese-massachusetts-office"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "diomass.org/node/50"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042104156"
+    }
+  ],
+  "advisories": []
+}

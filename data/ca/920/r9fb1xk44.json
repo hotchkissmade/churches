@@ -1,0 +1,33 @@
+{
+  "id": "r9fb1xk44",
+  "url": "https://constellation.church/r9fb1xk44",
+  "name": "Oasis Church",
+  "displayName": "Oasis Church",
+  "address": {
+    "street": "1663 Greenfield Dr",
+    "city": "El Cajon",
+    "state": "CA",
+    "zip": "92021"
+  },
+  "coordinates": {
+    "latitude": 32.812238693237305,
+    "longitude": -116.92063903808594
+  },
+  "website": "https://oasissd.org",
+  "listingUrl": "https://rforw.pcg.org/ChurchDetails.aspx?contactID=781206",
+  "identifiers": [
+    {
+      "namespace": "org.pcg.rforw.id",
+      "value": "781206"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oasissd.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330562747"
+    }
+  ],
+  "advisories": []
+}

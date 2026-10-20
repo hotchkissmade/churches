@@ -1,0 +1,33 @@
+{
+  "id": "mk6z7kb08",
+  "url": "https://constellation.church/mk6z7kb08",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "2900 Elks Dr",
+    "city": "Las Cruces",
+    "state": "NM",
+    "zip": "88005-1125"
+  },
+  "coordinates": {
+    "latitude": 32.34383773803711,
+    "longitude": -106.77627563476562
+  },
+  "website": "https://trinitylutheranlc.org/special-programs.html",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f7b39fe2-d6e4-44c1-9113-e603ea3cb214",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f7b39fe2-d6e4-44c1-9113-e603ea3cb214"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylutheranlc.org/special-programs.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850320920"
+    }
+  ],
+  "advisories": []
+}

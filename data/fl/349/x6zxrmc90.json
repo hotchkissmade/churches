@@ -1,0 +1,33 @@
+{
+  "id": "x6zxrmc90",
+  "url": "https://constellation.church/x6zxrmc90",
+  "name": "First Baptist Church Fort Pierce",
+  "displayName": "First Baptist Church Fort Pierce",
+  "address": {
+    "street": "4500 S 25th St",
+    "city": "Fort Pierce",
+    "state": "FL",
+    "zip": "34981"
+  },
+  "coordinates": {
+    "latitude": 27.38312339782715,
+    "longitude": -80.35015106201172
+  },
+  "website": "https://firstbaptistfp.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-fort-pierce/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-fort-pierce"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistfp.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590637834"
+    }
+  ],
+  "advisories": []
+}

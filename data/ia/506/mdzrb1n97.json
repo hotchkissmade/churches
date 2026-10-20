@@ -1,0 +1,41 @@
+{
+  "id": "mdzrb1n97",
+  "url": "https://constellation.church/mdzrb1n97",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "301 1st St NW",
+    "city": "Waverly",
+    "state": "IA",
+    "zip": "50677-2611"
+  },
+  "coordinates": {
+    "latitude": 42.727833,
+    "longitude": -92.472138
+  },
+  "website": "https://stpaulswaverly.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7c8d8bcd-06ae-4fd6-9a06-4ce219cbfe8b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7c8d8bcd-06ae-4fd6-9a06-4ce219cbfe8b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulswaverly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420754662"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426140898"
+    },
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "956313"
+    }
+  ],
+  "advisories": []
+}

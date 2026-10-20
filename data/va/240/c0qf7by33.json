@@ -1,0 +1,33 @@
+{
+  "id": "c0qf7by33",
+  "url": "https://constellation.church/c0qf7by33",
+  "name": "Our Saviour Lutheran Church",
+  "displayName": "Our Saviour Lutheran Church",
+  "address": {
+    "street": "1845 Cambria St NE",
+    "city": "Christiansburg",
+    "state": "VA",
+    "zip": "24073-1347"
+  },
+  "coordinates": {
+    "latitude": 37.150800704956055,
+    "longitude": -80.40929794311523
+  },
+  "website": "https://oslc-cburg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2d56d8a6-ad74-46f8-b6f5-6361f7afe8ea",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2d56d8a6-ad74-46f8-b6f5-6361f7afe8ea"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oslc-cburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541260224"
+    }
+  ],
+  "advisories": []
+}

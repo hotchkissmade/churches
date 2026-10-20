@@ -1,0 +1,33 @@
+{
+  "id": "jw314zc62",
+  "url": "https://constellation.church/jw314zc62",
+  "name": "Pine Grove Baptist Church",
+  "displayName": "Pine Grove Baptist Church",
+  "address": {
+    "street": "4200 NW 39th Ave",
+    "city": "Gainesville",
+    "state": "FL",
+    "zip": "32606"
+  },
+  "coordinates": {
+    "latitude": 29.688983917236328,
+    "longitude": -82.38772583007812
+  },
+  "website": "https://mypinegrovebaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/pine-grove-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pine-grove-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mypinegrovebaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "562328686"
+    }
+  ],
+  "advisories": []
+}

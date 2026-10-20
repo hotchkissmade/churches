@@ -1,0 +1,33 @@
+{
+  "id": "cjs89t575",
+  "url": "https://constellation.church/cjs89t575",
+  "name": "Epworth United Methodist Church",
+  "displayName": "Epworth United Methodist Church",
+  "address": {
+    "street": "19285 Holland Glade Rd",
+    "city": "Rehoboth Beach",
+    "state": "DE",
+    "zip": "19971"
+  },
+  "coordinates": {
+    "latitude": 38.71907615661621,
+    "longitude": -75.10701370239258
+  },
+  "website": "https://epworth.faith",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFJjZIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFJjZIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "epworth.faith"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510200669"
+    }
+  ],
+  "advisories": []
+}

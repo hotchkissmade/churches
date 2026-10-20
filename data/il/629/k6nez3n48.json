@@ -1,0 +1,33 @@
+{
+  "id": "k6nez3n48",
+  "url": "https://constellation.church/k6nez3n48",
+  "name": "Third Baptist Church of Marion",
+  "displayName": "Third Baptist Church of Marion",
+  "address": {
+    "street": "1102 E Boulevard St",
+    "city": "Marion",
+    "state": "IL",
+    "zip": "62959"
+  },
+  "coordinates": {
+    "latitude": 37.73758125305176,
+    "longitude": -88.91484069824219
+  },
+  "website": "https://tbcmarion.com",
+  "listingUrl": "https://churches.sbc.net/church/third-baptist-church-of-marion/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "third-baptist-church-of-marion"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tbcmarion.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370908965"
+    }
+  ],
+  "advisories": []
+}

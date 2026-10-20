@@ -1,0 +1,33 @@
+{
+  "id": "nvz52ez12",
+  "url": "https://constellation.church/nvz52ez12",
+  "name": "New Philadelphia Worship Center",
+  "displayName": "New Philadelphia Worship Center",
+  "address": {
+    "street": "1401 62nd Ave S",
+    "city": "St Petersburg",
+    "state": "FL",
+    "zip": "33712"
+  },
+  "coordinates": {
+    "latitude": 27.736221313476562,
+    "longitude": -82.68375778198242
+  },
+  "website": "https://newpworship.org",
+  "listingUrl": "https://churches.sbc.net/church/new-philadelphia-worship-center/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-philadelphia-worship-center"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newpworship.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "464008206"
+    }
+  ],
+  "advisories": []
+}

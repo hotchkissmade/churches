@@ -1,0 +1,33 @@
+{
+  "id": "jyc63f170",
+  "url": "https://constellation.church/jyc63f170",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "108 W Somo Ave",
+    "city": "Tomahawk",
+    "state": "WI",
+    "zip": "54487-1253"
+  },
+  "coordinates": {
+    "latitude": 45.47229766845703,
+    "longitude": -89.73099136352539
+  },
+  "website": "https://gracelutherantomahawk.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ce6ae8a3-c022-45cb-9cb8-4d2c0059f166",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ce6ae8a3-c022-45cb-9cb8-4d2c0059f166"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelutherantomahawk.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391305941"
+    }
+  ],
+  "advisories": []
+}

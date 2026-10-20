@@ -1,0 +1,33 @@
+{
+  "id": "bgb931e30",
+  "url": "https://constellation.church/bgb931e30",
+  "name": "Mountain View Bible Church of Colorado Springs",
+  "displayName": "Mountain View Bible Church of Colorado Springs",
+  "address": {
+    "street": "305 Norman Dr",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80911"
+  },
+  "coordinates": {
+    "latitude": 38.75455093383789,
+    "longitude": -104.73824310302734
+  },
+  "website": "https://mvcoc.org",
+  "listingUrl": "https://churches.sbc.net/church/mountain-view-bible-church-of-colorado-springs/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mountain-view-bible-church-of-colorado-springs"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mvcoc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "871624266"
+    }
+  ],
+  "advisories": []
+}

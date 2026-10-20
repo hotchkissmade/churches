@@ -1,0 +1,33 @@
+{
+  "id": "dzdbk4648",
+  "url": "https://constellation.church/dzdbk4648",
+  "name": "Orbit Church",
+  "displayName": "Orbit Church",
+  "address": {
+    "street": "555 S Jackrabbit Trl",
+    "city": "Buckeye",
+    "state": "AZ",
+    "zip": "85326"
+  },
+  "coordinates": {
+    "latitude": 33.4421332,
+    "longitude": -112.4787074
+  },
+  "website": "https://orbitchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/orbit-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "orbit-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "orbitchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "882920503"
+    }
+  ],
+  "advisories": []
+}

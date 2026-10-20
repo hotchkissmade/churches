@@ -1,0 +1,33 @@
+{
+  "id": "htfpsq215",
+  "url": "https://constellation.church/htfpsq215",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "25402 Arsenal Rd",
+    "city": "Brownstown",
+    "state": "MI",
+    "zip": "48134-1146"
+  },
+  "coordinates": {
+    "latitude": 42.12058067321777,
+    "longitude": -83.28981018066406
+  },
+  "website": "https://faithbrownstown.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a13fb8af-e5dc-4ed4-ba31-3351b3a2effd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a13fb8af-e5dc-4ed4-ba31-3351b3a2effd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithbrownstown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381882328"
+    }
+  ],
+  "advisories": []
+}

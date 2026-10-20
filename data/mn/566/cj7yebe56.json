@@ -1,0 +1,33 @@
+{
+  "id": "cj7yebe56",
+  "url": "https://constellation.church/cj7yebe56",
+  "name": "Aardahl Lutheran Church",
+  "displayName": "Aardahl Lutheran Church",
+  "address": {
+    "street": "2920 Van Buren Ave SE",
+    "city": "Bemidji",
+    "state": "MN",
+    "zip": "56601-7357"
+  },
+  "coordinates": {
+    "latitude": 47.431915283203125,
+    "longitude": -94.7994155883789
+  },
+  "website": "https://aardahllutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=00fe3289-2640-4668-a37f-fb4c1a7f9c6b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "00fe3289-2640-4668-a37f-fb4c1a7f9c6b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "aardahllutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "412004118"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tscwsvs13",
+  "url": "https://constellation.church/tscwsvs13",
+  "name": "Redeemer Presbyterian Church West Side",
+  "displayName": "Redeemer Presbyterian Church West Side",
+  "address": {
+    "street": "150 West 83rd Street",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10024"
+  },
+  "coordinates": {
+    "latitude": 40.78238105773926,
+    "longitude": -73.95304489135742
+  },
+  "website": "https://redeemeres.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6285",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6285"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemeres.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "854247588"
+    }
+  ],
+  "advisories": []
+}

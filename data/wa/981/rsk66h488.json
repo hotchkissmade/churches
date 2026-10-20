@@ -1,0 +1,33 @@
+{
+  "id": "rsk66h488",
+  "url": "https://constellation.church/rsk66h488",
+  "name": "A Seattle Church",
+  "displayName": "A Seattle Church",
+  "address": {
+    "street": "766 John Street",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98109"
+  },
+  "coordinates": {
+    "latitude": 47.61989212036133,
+    "longitude": -122.3414535522461
+  },
+  "website": "https://aseattlechurch.com",
+  "listingUrl": "https://venturechurches.org/churches/a-seattle-church/",
+  "identifiers": [
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "a-seattle-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "aseattlechurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "463632939"
+    }
+  ],
+  "advisories": []
+}

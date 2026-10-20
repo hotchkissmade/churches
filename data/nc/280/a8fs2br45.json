@@ -1,0 +1,33 @@
+{
+  "id": "a8fs2br45",
+  "url": "https://constellation.church/a8fs2br45",
+  "name": "West Cabarrus Church",
+  "displayName": "West Cabarrus Church",
+  "address": {
+    "street": "7655 Bruton Smith Blvd",
+    "city": "Concord",
+    "state": "NC",
+    "zip": "28027"
+  },
+  "coordinates": {
+    "latitude": 35.35965538024902,
+    "longitude": -80.70633316040039
+  },
+  "website": "https://westcab.org",
+  "listingUrl": "https://churches.sbc.net/church/west-cabarrus-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "west-cabarrus-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westcab.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561736840"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kenmhyg14",
+  "url": "https://constellation.church/kenmhyg14",
+  "name": "Andersonville Baptist Church",
+  "displayName": "Andersonville Baptist Church",
+  "address": {
+    "street": "6902 Dobbins Bridge Rd",
+    "city": "Anderson",
+    "state": "SC",
+    "zip": "29626"
+  },
+  "coordinates": {
+    "latitude": 34.484384536743164,
+    "longitude": -82.80423736572266
+  },
+  "website": "https://andersonvillebaptistchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/andersonville-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "andersonville-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "andersonvillebaptistchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "576082336"
+    }
+  ],
+  "advisories": []
+}

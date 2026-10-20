@@ -1,0 +1,33 @@
+{
+  "id": "yv4rwm788",
+  "url": "https://constellation.church/yv4rwm788",
+  "name": "Peace Lutheran Church",
+  "displayName": "Peace Lutheran Church",
+  "address": {
+    "street": "1001 Center St",
+    "city": "Hartford",
+    "state": "WI",
+    "zip": "53027-1100"
+  },
+  "coordinates": {
+    "latitude": 43.32823944091797,
+    "longitude": -88.38136672973633
+  },
+  "website": "https://peacehartford.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24775",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24775"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "peacehartford.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391025896"
+    }
+  ],
+  "advisories": []
+}

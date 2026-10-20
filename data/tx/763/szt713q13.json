@@ -1,0 +1,33 @@
+{
+  "id": "szt713q13",
+  "url": "https://constellation.church/szt713q13",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "601 E Cash St",
+    "city": "Iowa Park",
+    "state": "TX",
+    "zip": "76367"
+  },
+  "coordinates": {
+    "latitude": 33.9514102935791,
+    "longitude": -98.66141510009766
+  },
+  "website": "https://aogip.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=40d3094d-b436-4938-a92f-ef6f459508ce&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "40d3094d-b436-4938-a92f-ef6f459508ce"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "aogip.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751652975"
+    }
+  ],
+  "advisories": []
+}

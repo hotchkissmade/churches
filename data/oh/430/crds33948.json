@@ -1,0 +1,33 @@
+{
+  "id": "crds33948",
+  "url": "https://constellation.church/crds33948",
+  "name": "Northside Fellowship Presbyterian Church",
+  "displayName": "Northside Fellowship Presbyterian Church",
+  "address": {
+    "street": "6841 Freeman Rd",
+    "city": "Westerville",
+    "state": "OH",
+    "zip": "43082"
+  },
+  "coordinates": {
+    "latitude": 40.17154502868652,
+    "longitude": -82.91373443603516
+  },
+  "website": "https://northsidefellowship.org",
+  "listingUrl": "https://eco-pres.org/churches/northside-fellowship-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "northside-fellowship-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northsidefellowship.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311341581"
+    }
+  ],
+  "advisories": []
+}

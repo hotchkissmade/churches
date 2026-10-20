@@ -1,0 +1,33 @@
+{
+  "id": "e2semf073",
+  "url": "https://constellation.church/e2semf073",
+  "name": "Messiah Lutheran Church",
+  "displayName": "Messiah Lutheran Church",
+  "address": {
+    "street": "229 Chestnut St",
+    "city": "Janesville",
+    "state": "IA",
+    "zip": "50647"
+  },
+  "coordinates": {
+    "latitude": 42.647064208984375,
+    "longitude": -92.4588623046875
+  },
+  "website": "https://sites.google.com/view/messiahlutheranchurch/home",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4b48a9e7-1e19-4267-b6ec-964e97266065",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4b48a9e7-1e19-4267-b6ec-964e97266065"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sites.google.com/view/messiahlutheranchurch/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421103937"
+    }
+  ],
+  "advisories": []
+}

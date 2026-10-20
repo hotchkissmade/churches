@@ -1,0 +1,33 @@
+{
+  "id": "kcvdr7t75",
+  "url": "https://constellation.church/kcvdr7t75",
+  "name": "Harbor Church PCA",
+  "displayName": "Harbor Church PCA",
+  "address": {
+    "street": "433 Williamson Road",
+    "city": "Mooresville",
+    "state": "NC",
+    "zip": "28117"
+  },
+  "coordinates": {
+    "latitude": 35.57802772521973,
+    "longitude": -80.86943054199219
+  },
+  "website": "https://harborchurch.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1600",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1600"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "harborchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561946733"
+    }
+  ],
+  "advisories": []
+}

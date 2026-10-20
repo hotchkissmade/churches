@@ -1,0 +1,33 @@
+{
+  "id": "fh7h89b30",
+  "url": "https://constellation.church/fh7h89b30",
+  "name": "City Church",
+  "displayName": "City Church",
+  "address": {
+    "street": "815 Bridge Ave",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "zip": "37129"
+  },
+  "coordinates": {
+    "latitude": 35.843109130859375,
+    "longitude": -86.39120864868164
+  },
+  "website": "https://borocitychurch.com",
+  "listingUrl": "https://churches.sbc.net/church/city-church-4/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "city-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "borocitychurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "451155994"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xrbt6gr71",
+  "url": "https://constellation.church/xrbt6gr71",
+  "name": "First English Lutheran Church",
+  "displayName": "First English Lutheran Church",
+  "address": {
+    "street": "3001 Whitis Ave",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78705-2921"
+  },
+  "coordinates": {
+    "latitude": 30.295345306396484,
+    "longitude": -97.73873901367188
+  },
+  "website": "https://felcaustin.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=05ded193-4eaa-4e2c-833d-ccb8f6811285",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "05ded193-4eaa-4e2c-833d-ccb8f6811285"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "felcaustin.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741198306"
+    }
+  ],
+  "advisories": []
+}

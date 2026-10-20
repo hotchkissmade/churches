@@ -1,0 +1,33 @@
+{
+  "id": "nph555z30",
+  "url": "https://constellation.church/nph555z30",
+  "name": "First Presbyterian Church of San Angelo",
+  "displayName": "First Presbyterian Church of San Angelo",
+  "address": {
+    "street": "32 N Irving St",
+    "city": "San Angelo",
+    "state": "TX",
+    "zip": "76903"
+  },
+  "coordinates": {
+    "latitude": 31.46424102783203,
+    "longitude": -100.43914031982422
+  },
+  "website": "https://fpcsanangelo.org",
+  "listingUrl": "https://eco-pres.org/churches/first-presbyterian-church-of-san-angelo/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "first-presbyterian-church-of-san-angelo"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcsanangelo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750904033"
+    }
+  ],
+  "advisories": []
+}

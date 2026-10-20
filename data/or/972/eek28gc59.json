@@ -1,0 +1,33 @@
+{
+  "id": "eek28gc59",
+  "url": "https://constellation.church/eek28gc59",
+  "name": "Bethany Presbyterian Church",
+  "displayName": "Bethany Presbyterian Church",
+  "address": {
+    "street": "15505 NW Springville Rd",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97229-1801"
+  },
+  "coordinates": {
+    "latitude": 45.566802978515625,
+    "longitude": -122.83698272705078
+  },
+  "website": "https://bethanypc.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/7080/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "7080"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanypc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930499327"
+    }
+  ],
+  "advisories": []
+}

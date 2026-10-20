@@ -1,0 +1,33 @@
+{
+  "id": "cw0b7ta86",
+  "url": "https://constellation.church/cw0b7ta86",
+  "name": "Covenant Presbyterian Church",
+  "displayName": "Covenant Presbyterian Church",
+  "address": {
+    "street": "1450 Golden Hill Road",
+    "city": "Paso Robles",
+    "state": "CA",
+    "zip": "93446"
+  },
+  "coordinates": {
+    "latitude": 35.63591957092285,
+    "longitude": -120.65721893310547
+  },
+  "website": "https://covenantpaso.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/243",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "243"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covenantpaso.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "770018527"
+    }
+  ],
+  "advisories": []
+}

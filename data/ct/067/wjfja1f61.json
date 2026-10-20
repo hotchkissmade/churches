@@ -1,0 +1,33 @@
+{
+  "id": "wjfja1f61",
+  "url": "https://constellation.church/wjfja1f61",
+  "name": "Watertown United Methodist Church",
+  "displayName": "Watertown United Methodist Church",
+  "address": {
+    "street": "305 Main Street",
+    "city": "Watertown",
+    "state": "CT",
+    "zip": "06795"
+  },
+  "coordinates": {
+    "latitude": 41.60615539550781,
+    "longitude": -73.11804580688477
+  },
+  "website": "https://wumcct.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFLyXIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFLyXIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wumcct.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222510737"
+    }
+  ],
+  "advisories": []
+}

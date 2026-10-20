@@ -1,0 +1,33 @@
+{
+  "id": "d0s9j1879",
+  "url": "https://constellation.church/d0s9j1879",
+  "name": "Sacramento Friends Meeting, PACYM",
+  "displayName": "Sacramento Friends Meeting, PACYM",
+  "address": {
+    "street": "890 57th Street",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95819"
+  },
+  "coordinates": {
+    "latitude": 38.565752,
+    "longitude": -121.433379
+  },
+  "website": "https://sacfriendsmtg.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/sacramento-friends-meeting-pacym/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "sacramento-friends-meeting-pacym"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sacfriendsmtg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311575767"
+    }
+  ],
+  "advisories": []
+}

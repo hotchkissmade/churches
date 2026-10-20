@@ -1,0 +1,33 @@
+{
+  "id": "afj30d116",
+  "url": "https://constellation.church/afj30d116",
+  "name": "Antioch Southern Baptist Church",
+  "displayName": "Antioch Southern Baptist Church",
+  "address": {
+    "street": "2601 E Mechanic St",
+    "city": "Harrisonville",
+    "state": "MO",
+    "zip": "64701"
+  },
+  "coordinates": {
+    "latitude": 38.66050910949707,
+    "longitude": -94.3232421875
+  },
+  "website": "https://asbch.com",
+  "listingUrl": "https://churches.sbc.net/church/antioch-southern-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "antioch-southern-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "asbch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431198386"
+    }
+  ],
+  "advisories": []
+}

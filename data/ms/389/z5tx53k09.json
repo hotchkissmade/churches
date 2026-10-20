@@ -1,0 +1,33 @@
+{
+  "id": "z5tx53k09",
+  "url": "https://constellation.church/z5tx53k09",
+  "name": "Grace Presbyterian Church",
+  "displayName": "Grace Presbyterian Church",
+  "address": {
+    "street": "2150 Country Club Road",
+    "city": "Grenada",
+    "state": "MS",
+    "zip": "38901"
+  },
+  "coordinates": {
+    "latitude": 33.75788879394531,
+    "longitude": -89.79483413696289
+  },
+  "website": "https://gpcgrenada.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/571",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "571"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gpcgrenada.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640662088"
+    }
+  ],
+  "advisories": []
+}

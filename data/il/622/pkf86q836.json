@@ -1,0 +1,33 @@
+{
+  "id": "pkf86q836",
+  "url": "https://constellation.church/pkf86q836",
+  "name": "August Gate Church",
+  "displayName": "August Gate Church",
+  "address": {
+    "street": "1209 Royal Heights Rd",
+    "city": "Belleville",
+    "state": "IL",
+    "zip": "62226"
+  },
+  "coordinates": {
+    "latitude": 38.550235748291016,
+    "longitude": -90.0119857788086
+  },
+  "website": "https://augustgate.com",
+  "listingUrl": "https://churches.sbc.net/church/august-gate-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "august-gate-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "augustgate.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "263765044"
+    }
+  ],
+  "advisories": []
+}

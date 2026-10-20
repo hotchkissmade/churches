@@ -1,0 +1,33 @@
+{
+  "id": "vwy43gq28",
+  "url": "https://constellation.church/vwy43gq28",
+  "name": "Forest Presbyterian Church",
+  "displayName": "Forest Presbyterian Church",
+  "address": {
+    "street": "337 East First Street",
+    "city": "Forest",
+    "state": "MS",
+    "zip": "39074"
+  },
+  "coordinates": {
+    "latitude": 32.361948013305664,
+    "longitude": -89.47189712524414
+  },
+  "website": "https://forestpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/489",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "489"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "forestpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640673526"
+    }
+  ],
+  "advisories": []
+}

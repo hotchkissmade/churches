@@ -1,0 +1,33 @@
+{
+  "id": "j4vv62h37",
+  "url": "https://constellation.church/j4vv62h37",
+  "name": "Church of the Epiphany",
+  "displayName": "Church of the Epiphany",
+  "address": {
+    "street": "4900 Nathan Ln N",
+    "city": "Plymouth",
+    "state": "MN",
+    "zip": "55442-3156"
+  },
+  "coordinates": {
+    "latitude": 45.04321479797363,
+    "longitude": -93.40482711791992
+  },
+  "website": "https://epiphanyplymouth.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/church-epiphany",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/church-epiphany"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "epiphanyplymouth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411267205"
+    }
+  ],
+  "advisories": []
+}

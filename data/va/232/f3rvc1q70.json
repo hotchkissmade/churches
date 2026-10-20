@@ -1,0 +1,33 @@
+{
+  "id": "f3rvc1q70",
+  "url": "https://constellation.church/f3rvc1q70",
+  "name": "West End Assembly of God",
+  "displayName": "West End Assembly of God",
+  "address": {
+    "street": "401 N Parham Rd",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "23229"
+  },
+  "coordinates": {
+    "latitude": 37.58106803894043,
+    "longitude": -77.56809616088867
+  },
+  "website": "https://weag.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=6aafc288-8b53-414a-bc52-571471e2e839&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "6aafc288-8b53-414a-bc52-571471e2e839"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "weag.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161685218"
+    }
+  ],
+  "advisories": []
+}

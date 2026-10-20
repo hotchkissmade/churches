@@ -1,0 +1,33 @@
+{
+  "id": "qxspe6z64",
+  "url": "https://constellation.church/qxspe6z64",
+  "name": "St James Lutheran Church",
+  "displayName": "St. James Lutheran Church",
+  "address": {
+    "street": "109 York St",
+    "city": "Gettysburg",
+    "state": "PA",
+    "zip": "17325-1933"
+  },
+  "coordinates": {
+    "latitude": 39.830501556396484,
+    "longitude": -77.22854995727539
+  },
+  "website": "https://stjamesgettysburg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=93e388c8-1ff8-4c31-899d-b0c5d841380b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "93e388c8-1ff8-4c31-899d-b0c5d841380b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamesgettysburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231409685"
+    }
+  ],
+  "advisories": []
+}

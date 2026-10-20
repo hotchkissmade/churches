@@ -1,0 +1,33 @@
+{
+  "id": "c7r6swz64",
+  "url": "https://constellation.church/c7r6swz64",
+  "name": "Oak Knoll Lutheran Church",
+  "displayName": "Oak Knoll Lutheran Church",
+  "address": {
+    "street": "600 Hopkins Crossroad",
+    "city": "Minnetonka",
+    "state": "MN",
+    "zip": "55305-1469"
+  },
+  "coordinates": {
+    "latitude": 44.97529411315918,
+    "longitude": -93.42195892333984
+  },
+  "website": "https://oklutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0e25cf16-e67c-4038-be95-eec183fa7f47",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0e25cf16-e67c-4038-be95-eec183fa7f47"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oklutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410811631"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pp1wm9t20",
+  "url": "https://constellation.church/pp1wm9t20",
+  "name": "The Summit Church",
+  "displayName": "The Summit Church",
+  "address": {
+    "street": "1300 Pittsburg Ave NW",
+    "city": "North Canton",
+    "state": "OH",
+    "zip": "44720"
+  },
+  "coordinates": {
+    "latitude": 40.889896392822266,
+    "longitude": -81.41945266723633
+  },
+  "website": "https://thesummit.life/our-team",
+  "listingUrl": "https://churches.sbc.net/church/the-summit-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-summit-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thesummit.life/our-team"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341413462"
+    }
+  ],
+  "advisories": []
+}

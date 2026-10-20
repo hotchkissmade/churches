@@ -1,0 +1,33 @@
+{
+  "id": "wrm49c924",
+  "url": "https://constellation.church/wrm49c924",
+  "name": "Trinity Baptist Church",
+  "displayName": "Trinity Baptist Church",
+  "address": {
+    "street": "2003 Charleston Hwy",
+    "city": "Cayce",
+    "state": "SC",
+    "zip": "29033"
+  },
+  "coordinates": {
+    "latitude": 33.96240425109863,
+    "longitude": -81.07936096191406
+  },
+  "website": "https://tbccayce.com",
+  "listingUrl": "https://churches.sbc.net/church/trinity-baptist-church-51/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "trinity-baptist-church-51"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tbccayce.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570606962"
+    }
+  ],
+  "advisories": []
+}

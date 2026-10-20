@@ -1,0 +1,33 @@
+{
+  "id": "j2g6af833",
+  "url": "https://constellation.church/j2g6af833",
+  "name": "Oak Street Baptist Church",
+  "displayName": "Oak Street Baptist Church",
+  "address": {
+    "street": "605 E Oak St",
+    "city": "Kingman",
+    "state": "AZ",
+    "zip": "86401"
+  },
+  "coordinates": {
+    "latitude": 35.19057846069336,
+    "longitude": -114.04887390136719
+  },
+  "website": "https://oakstreetbaptistchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/oak-street-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "oak-street-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oakstreetbaptistchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860790628"
+    }
+  ],
+  "advisories": []
+}

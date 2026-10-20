@@ -1,0 +1,33 @@
+{
+  "id": "pwnasgz40",
+  "url": "https://constellation.church/pwnasgz40",
+  "name": "St Andrew Lutheran Church",
+  "displayName": "St. Andrew Lutheran Church",
+  "address": {
+    "street": "1901 62nd Ave S",
+    "city": "St Petersburg",
+    "state": "FL",
+    "zip": "33712-5715"
+  },
+  "coordinates": {
+    "latitude": 27.712543487548828,
+    "longitude": -82.6583251953125
+  },
+  "website": "https://saint-andrew-lutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8fcddfdc-09a3-4181-b48d-6c7fda41ed6f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8fcddfdc-09a3-4181-b48d-6c7fda41ed6f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saint-andrew-lutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590823951"
+    }
+  ],
+  "advisories": []
+}

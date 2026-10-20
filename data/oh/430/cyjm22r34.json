@@ -1,0 +1,33 @@
+{
+  "id": "cyjm22r34",
+  "url": "https://constellation.church/cyjm22r34",
+  "name": "Genoa Baptist Church",
+  "displayName": "Genoa Baptist Church",
+  "address": {
+    "street": "7562 Lewis Center Rd",
+    "city": "Westerville",
+    "state": "OH",
+    "zip": "43082"
+  },
+  "coordinates": {
+    "latitude": 40.19541549682617,
+    "longitude": -82.90941619873047
+  },
+  "website": "https://genoachurch.org",
+  "listingUrl": "https://churches.sbc.net/church/genoa-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "genoa-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "genoachurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311237319"
+    }
+  ],
+  "advisories": []
+}

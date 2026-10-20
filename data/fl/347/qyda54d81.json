@@ -1,0 +1,33 @@
+{
+  "id": "qyda54d81",
+  "url": "https://constellation.church/qyda54d81",
+  "name": "Midway Baptist Church",
+  "displayName": "Midway Baptist Church",
+  "address": {
+    "street": "32707 Blossom Ln",
+    "city": "Leesburg",
+    "state": "FL",
+    "zip": "34788"
+  },
+  "coordinates": {
+    "latitude": 28.825590133666992,
+    "longitude": -81.78963470458984
+  },
+  "website": "https://midwaybaptistonline.org",
+  "listingUrl": "https://churches.sbc.net/church/midway-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "midway-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "midwaybaptistonline.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593270444"
+    }
+  ],
+  "advisories": []
+}

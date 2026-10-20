@@ -1,0 +1,33 @@
+{
+  "id": "zxz8v6v97",
+  "url": "https://constellation.church/zxz8v6v97",
+  "name": "St. Luke Church",
+  "displayName": "St. Luke Church",
+  "address": {
+    "street": "6801 Georgetown Pike",
+    "city": "McLean",
+    "state": "VA",
+    "zip": "22101"
+  },
+  "coordinates": {
+    "latitude": 38.95045471191406,
+    "longitude": -77.17849349975586
+  },
+  "website": "https://stlukemclean.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-wa-mclslc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-wa-mclslc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukemclean.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521053464"
+    }
+  ],
+  "advisories": []
+}

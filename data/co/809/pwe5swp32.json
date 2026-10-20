@@ -1,0 +1,33 @@
+{
+  "id": "pwe5swp32",
+  "url": "https://constellation.church/pwe5swp32",
+  "name": "First United Methodist Church of Colorado Springs",
+  "displayName": "First United Methodist Church of Colorado Springs",
+  "address": {
+    "street": "420 N Nevada Ave",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80903-1227"
+  },
+  "coordinates": {
+    "latitude": 38.840423583984375,
+    "longitude": -104.82179260253906
+  },
+  "website": "https://fumc-cs.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFJURIA5",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFJURIA5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fumc-cs.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "846000097"
+    }
+  ],
+  "advisories": []
+}

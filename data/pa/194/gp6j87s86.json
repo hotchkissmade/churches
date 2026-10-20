@@ -1,0 +1,33 @@
+{
+  "id": "gp6j87s86",
+  "url": "https://constellation.church/gp6j87s86",
+  "name": "The Episcopal Diocese of Pennsylvania",
+  "displayName": "The Episcopal Diocese of Pennsylvania",
+  "address": {
+    "street": "23 E. Airy Street",
+    "city": "Norristown",
+    "state": "PA",
+    "zip": "19401"
+  },
+  "coordinates": {
+    "latitude": 40.1161087,
+    "longitude": -75.3423928
+  },
+  "website": "https://diopa.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/pennsylvania/list/episcopal-diocese-pennsylvania",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "pennsylvania/episcopal-diocese-pennsylvania"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "diopa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231352108"
+    }
+  ],
+  "advisories": []
+}

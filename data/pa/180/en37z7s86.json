@@ -1,0 +1,33 @@
+{
+  "id": "en37z7s86",
+  "url": "https://constellation.church/en37z7s86",
+  "name": "Holy Trinity Lutheran Church",
+  "displayName": "Holy Trinity Lutheran Church",
+  "address": {
+    "street": "604 4th St",
+    "city": "Catasauqua",
+    "state": "PA",
+    "zip": "18032-2438"
+  },
+  "coordinates": {
+    "latitude": 40.656843185424805,
+    "longitude": -75.47296524047852
+  },
+  "website": "https://htcatty.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=12c9abce-d72c-47f8-92f6-0d605bdd6ebb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "12c9abce-d72c-47f8-92f6-0d605bdd6ebb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "htcatty.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232019831"
+    }
+  ],
+  "advisories": []
+}

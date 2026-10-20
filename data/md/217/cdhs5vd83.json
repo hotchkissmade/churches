@@ -1,0 +1,33 @@
+{
+  "id": "cdhs5vd83",
+  "url": "https://constellation.church/cdhs5vd83",
+  "name": "St Paul Utica Lutheran Church",
+  "displayName": "St. Paul Utica Lutheran Church",
+  "address": {
+    "street": "10621 Old Frederick Rd",
+    "city": "Thurmont",
+    "state": "MD",
+    "zip": "21788-2919"
+  },
+  "coordinates": {
+    "latitude": 39.525447845458984,
+    "longitude": -77.39403533935547
+  },
+  "website": "https://splcutica.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e624bdcf-c5a6-4db1-aaa2-93d68bde9e02",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e624bdcf-c5a6-4db1-aaa2-93d68bde9e02"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "splcutica.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521216060"
+    }
+  ],
+  "advisories": []
+}

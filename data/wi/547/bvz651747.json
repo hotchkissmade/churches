@@ -1,0 +1,33 @@
+{
+  "id": "bvz651747",
+  "url": "https://constellation.church/bvz651747",
+  "name": "Osseo Evangelical Lutheran Church",
+  "displayName": "Osseo Evangelical Lutheran Church",
+  "address": {
+    "street": "50351 Harmony St",
+    "city": "Osseo",
+    "state": "WI",
+    "zip": "54758-7395"
+  },
+  "coordinates": {
+    "latitude": 44.573896408081055,
+    "longitude": -91.22526931762695
+  },
+  "website": "https://oelc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=85ec1267-526d-41b5-9b5d-001e00f99d72",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "85ec1267-526d-41b5-9b5d-001e00f99d72"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oelc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391213032"
+    }
+  ],
+  "advisories": []
+}

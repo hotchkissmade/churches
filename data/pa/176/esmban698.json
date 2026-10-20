@@ -1,0 +1,33 @@
+{
+  "id": "esmban698",
+  "url": "https://constellation.church/esmban698",
+  "name": "Wheatland Presbyterian Church",
+  "displayName": "Wheatland Presbyterian Church",
+  "address": {
+    "street": "1125 Columbia Avenue",
+    "city": "Lancaster",
+    "state": "PA",
+    "zip": "17603"
+  },
+  "coordinates": {
+    "latitude": 40.03942108154297,
+    "longitude": -76.3305778503418
+  },
+  "website": "https://wheatlandpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1569",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1569"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wheatlandpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232810236"
+    }
+  ],
+  "advisories": []
+}

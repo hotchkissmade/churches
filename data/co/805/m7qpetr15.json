@@ -1,0 +1,33 @@
+{
+  "id": "m7qpetr15",
+  "url": "https://constellation.church/m7qpetr15",
+  "name": "Our Saviour Lutheran Church",
+  "displayName": "Our Saviour Lutheran Church",
+  "address": {
+    "street": "2000 S Lemay Ave",
+    "city": "Fort Collins",
+    "state": "CO",
+    "zip": "80525-1204"
+  },
+  "coordinates": {
+    "latitude": 40.5591926574707,
+    "longitude": -105.05713653564453
+  },
+  "website": "https://our-saviours.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=523a70a0-e15a-483e-b412-70561a4895d5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "523a70a0-e15a-483e-b412-70561a4895d5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "our-saviours.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840756428"
+    }
+  ],
+  "advisories": []
+}

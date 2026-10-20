@@ -1,0 +1,33 @@
+{
+  "id": "pcb0gv079",
+  "url": "https://constellation.church/pcb0gv079",
+  "name": "South Orlando Baptist Church",
+  "displayName": "South Orlando Baptist Church",
+  "address": {
+    "street": "11513 S Orange Blossom Trl",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32837"
+  },
+  "coordinates": {
+    "latitude": 28.399486541748047,
+    "longitude": -81.40377426147461
+  },
+  "website": "https://southorlandobaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/south-orlando-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "south-orlando-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southorlandobaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592243625"
+    }
+  ],
+  "advisories": []
+}

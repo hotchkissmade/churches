@@ -1,0 +1,33 @@
+{
+  "id": "evshpq942",
+  "url": "https://constellation.church/evshpq942",
+  "name": "Reading Friends Meeting",
+  "displayName": "Reading Friends Meeting",
+  "address": {
+    "street": "108 N 6th St",
+    "city": "Reading",
+    "state": "PA",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 40.33711242675781,
+    "longitude": -75.9261360168457
+  },
+  "website": "https://readingfriendsmeeting.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/reading-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "reading-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "readingfriendsmeeting.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236245560"
+    }
+  ],
+  "advisories": []
+}

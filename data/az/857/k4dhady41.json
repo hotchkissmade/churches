@@ -1,0 +1,33 @@
+{
+  "id": "k4dhady41",
+  "url": "https://constellation.church/k4dhady41",
+  "name": "Zion City",
+  "displayName": "Zion City",
+  "address": {
+    "street": "2561 W Ruthrauff Rd",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85705"
+  },
+  "coordinates": {
+    "latitude": 32.293405532836914,
+    "longitude": -111.02144622802734
+  },
+  "website": "https://zioncity.me",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=9b26b65e-e7b2-47ed-9ff8-cf24683e623a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "9b26b65e-e7b2-47ed-9ff8-cf24683e623a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zioncity.me"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860344743"
+    }
+  ],
+  "advisories": []
+}

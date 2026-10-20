@@ -1,0 +1,33 @@
+{
+  "id": "rbfd2mg02",
+  "url": "https://constellation.church/rbfd2mg02",
+  "name": "Amherst Baptist Church",
+  "displayName": "Amherst Baptist Church",
+  "address": {
+    "street": "226 Lexington Tpke",
+    "city": "Amherst",
+    "state": "VA",
+    "zip": "24521"
+  },
+  "coordinates": {
+    "latitude": 37.59398651123047,
+    "longitude": -79.04894256591797
+  },
+  "website": "https://amherstbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/amherst-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "amherst-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "amherstbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540673907"
+    }
+  ],
+  "advisories": []
+}

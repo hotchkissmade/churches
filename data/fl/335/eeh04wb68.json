@@ -1,0 +1,33 @@
+{
+  "id": "eeh04wb68",
+  "url": "https://constellation.church/eeh04wb68",
+  "name": "Sunlake Baptist Church",
+  "displayName": "Sunlake Baptist Church",
+  "address": {
+    "street": "18908 Sunlake Blvd",
+    "city": "Lutz",
+    "state": "FL",
+    "zip": "33558"
+  },
+  "coordinates": {
+    "latitude": 28.15187644958496,
+    "longitude": -82.49343490600586
+  },
+  "website": "https://sunlakebaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/sunlake-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sunlake-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sunlakebaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593374971"
+    }
+  ],
+  "advisories": []
+}

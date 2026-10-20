@@ -1,0 +1,33 @@
+{
+  "id": "pz2g6ga82",
+  "url": "https://constellation.church/pz2g6ga82",
+  "name": "Bethel Church",
+  "displayName": "Bethel Church",
+  "address": {
+    "street": "1312 Walnut St E",
+    "city": "Devils Lake",
+    "state": "ND",
+    "zip": "58301-3908"
+  },
+  "coordinates": {
+    "latitude": 48.10722732543945,
+    "longitude": -98.84477233886719
+  },
+  "website": "https://bethelfree.com",
+  "listingUrl": "https://churches.efca.org/?id=12341",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12341"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelfree.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450436926"
+    }
+  ],
+  "advisories": []
+}

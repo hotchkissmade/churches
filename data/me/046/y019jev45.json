@@ -1,0 +1,33 @@
+{
+  "id": "y019jev45",
+  "url": "https://constellation.church/y019jev45",
+  "name": "St. Saviour's Church",
+  "displayName": "St. Saviour's Church",
+  "address": {
+    "street": "41 Mount Desert St",
+    "city": "Bar Harbor",
+    "state": "ME",
+    "zip": "04609-1753"
+  },
+  "coordinates": {
+    "latitude": 44.387163162231445,
+    "longitude": -68.20693969726562
+  },
+  "website": "https://stsaviours.me",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maine/list/st-saviours-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maine/st-saviours-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stsaviours.me"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "010214021"
+    }
+  ],
+  "advisories": []
+}

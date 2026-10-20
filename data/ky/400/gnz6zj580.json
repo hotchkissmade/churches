@@ -1,0 +1,33 @@
+{
+  "id": "gnz6zj580",
+  "url": "https://constellation.church/gnz6zj580",
+  "name": "Parkway Baptist Church",
+  "displayName": "Parkway Baptist Church",
+  "address": {
+    "street": "2580 Springfield Rd",
+    "city": "Bardstown",
+    "state": "KY",
+    "zip": "40004"
+  },
+  "coordinates": {
+    "latitude": 37.797515869140625,
+    "longitude": -85.42576217651367
+  },
+  "website": "https://parkwaybaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/parkway-baptist-church-15/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "parkway-baptist-church-15"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parkwaybaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611294996"
+    }
+  ],
+  "advisories": []
+}

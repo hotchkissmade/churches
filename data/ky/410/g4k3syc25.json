@@ -1,0 +1,33 @@
+{
+  "id": "g4k3syc25",
+  "url": "https://constellation.church/g4k3syc25",
+  "name": "Covenant Presbyterian Church",
+  "displayName": "Covenant Presbyterian Church",
+  "address": {
+    "street": "502 East Bridge Street",
+    "city": "Cynthiana",
+    "state": "KY",
+    "zip": "41031"
+  },
+  "coordinates": {
+    "latitude": 38.387067794799805,
+    "longitude": -84.2857551574707
+  },
+  "website": "https://covpcacyn.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/266",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "266"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covpcacyn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "610867618"
+    }
+  ],
+  "advisories": []
+}

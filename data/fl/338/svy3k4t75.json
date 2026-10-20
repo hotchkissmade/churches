@@ -1,0 +1,33 @@
+{
+  "id": "svy3k4t75",
+  "url": "https://constellation.church/svy3k4t75",
+  "name": "Mt. Tabor Baptist Church",
+  "displayName": "Mount Tabor Baptist Church",
+  "address": {
+    "street": "3504 Mt. Tabor Rd",
+    "city": "Lakeland",
+    "state": "FL",
+    "zip": "33810"
+  },
+  "coordinates": {
+    "latitude": 28.09861946105957,
+    "longitude": -82.01740646362305
+  },
+  "website": "https://mymtbc.com",
+  "listingUrl": "https://churches.sbc.net/church/mt-tabor-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mt-tabor-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mymtbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592942408"
+    }
+  ],
+  "advisories": []
+}

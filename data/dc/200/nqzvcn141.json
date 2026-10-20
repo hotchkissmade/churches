@@ -1,0 +1,33 @@
+{
+  "id": "nqzvcn141",
+  "url": "https://constellation.church/nqzvcn141",
+  "name": "Calvary Church",
+  "displayName": "Calvary Church",
+  "address": {
+    "street": "820 6th St NE",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20002-4326"
+  },
+  "coordinates": {
+    "latitude": 38.900936126708984,
+    "longitude": -76.99860000610352
+  },
+  "website": "https://calvarydc.net",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/calvary-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/calvary-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "calvarydc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "530244347"
+    }
+  ],
+  "advisories": []
+}

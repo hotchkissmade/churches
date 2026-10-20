@@ -1,0 +1,33 @@
+{
+  "id": "t389pkd23",
+  "url": "https://constellation.church/t389pkd23",
+  "name": "Second Baptist Church of Granite City",
+  "displayName": "Second Baptist Church of Granite City",
+  "address": {
+    "street": "2100 Illinois Ave",
+    "city": "Granite City",
+    "state": "IL",
+    "zip": "62040"
+  },
+  "coordinates": {
+    "latitude": 38.7083797454834,
+    "longitude": -90.15519714355469
+  },
+  "website": "https://sbcgranite.org",
+  "listingUrl": "https://churches.sbc.net/church/second-baptist-church-of-granite-city/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "second-baptist-church-of-granite-city"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sbcgranite.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370951324"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hs2e60b26",
+  "url": "https://constellation.church/hs2e60b26",
+  "name": "Overland Church",
+  "displayName": "Overland Church",
+  "address": {
+    "street": "620 W Horsetooth Rd",
+    "city": "Fort Collins",
+    "state": "CO",
+    "zip": "80526"
+  },
+  "coordinates": {
+    "latitude": 40.538509368896484,
+    "longitude": -105.08741760253906
+  },
+  "website": "https://overlandchurch.org/what-to-expect",
+  "listingUrl": "https://churches.sbc.net/church/overland-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "overland-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "overlandchurch.org/what-to-expect"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "880877523"
+    }
+  ],
+  "advisories": []
+}

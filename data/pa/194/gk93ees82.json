@@ -1,0 +1,33 @@
+{
+  "id": "gk93ees82",
+  "url": "https://constellation.church/gk93ees82",
+  "name": "Covenant Presbyterian Church",
+  "displayName": "Covenant Presbyterian Church",
+  "address": {
+    "street": "310 Covenant Lane",
+    "city": "Harleysville",
+    "state": "PA",
+    "zip": "19438"
+  },
+  "coordinates": {
+    "latitude": 40.29536819458008,
+    "longitude": -75.40801620483398
+  },
+  "website": "https://covpreschurch.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/278",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "278"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covpreschurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232288764"
+    }
+  ],
+  "advisories": []
+}

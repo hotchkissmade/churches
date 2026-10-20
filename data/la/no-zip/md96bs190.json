@@ -1,0 +1,33 @@
+{
+  "id": "md96bs190",
+  "url": "https://constellation.church/md96bs190",
+  "name": "MCC of Baton Rouge",
+  "displayName": "Metropolitan Community Church of Baton Rouge",
+  "address": {
+    "street": "7747 Tom Dr",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 30.46480369567871,
+    "longitude": -91.10889053344727
+  },
+  "website": "https://mccbr.org",
+  "listingUrl": "https://visitmccchurch.com/our-churches/mcc-churches-in-the-united-states/mcc-churches-in-la/mcc-of-baton-rouge/",
+  "identifiers": [
+    {
+      "namespace": "com.visitmccchurch.id",
+      "value": "LA/mcc-of-baton-rouge"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mccbr.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "721090220"
+    }
+  ],
+  "advisories": []
+}

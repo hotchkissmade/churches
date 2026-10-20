@@ -1,0 +1,33 @@
+{
+  "id": "c1qnd1441",
+  "url": "https://constellation.church/c1qnd1441",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "436 Roy St N",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip": "55104-3808"
+  },
+  "coordinates": {
+    "latitude": 44.95441818237305,
+    "longitude": -93.16802215576172
+  },
+  "website": "https://bethlehem-midway.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e406a08a-17e3-40fb-b646-2f0fc6f45850",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e406a08a-17e3-40fb-b646-2f0fc6f45850"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethlehem-midway.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416008873"
+    }
+  ],
+  "advisories": []
+}

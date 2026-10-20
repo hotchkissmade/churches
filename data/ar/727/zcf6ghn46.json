@@ -1,0 +1,33 @@
+{
+  "id": "zcf6ghn46",
+  "url": "https://constellation.church/zcf6ghn46",
+  "name": "The Neighborhood Church",
+  "displayName": "The Neighborhood Church",
+  "address": {
+    "street": "2702 SW I St",
+    "city": "Bentonville",
+    "state": "AR",
+    "zip": "72712-9000"
+  },
+  "coordinates": {
+    "latitude": 36.34567832946777,
+    "longitude": -94.22273254394531
+  },
+  "website": "https://theneighborhood.church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=87c81a33-7a2e-481a-a61a-6938eb29d69e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "87c81a33-7a2e-481a-a61a-6938eb29d69e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "theneighborhood.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "452742948"
+    }
+  ],
+  "advisories": []
+}

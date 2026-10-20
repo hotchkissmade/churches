@@ -1,0 +1,33 @@
+{
+  "id": "c1mrgc473",
+  "url": "https://constellation.church/c1mrgc473",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "3215 4 Mile Rd NE",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49525-9635"
+  },
+  "coordinates": {
+    "latitude": 43.02861785888672,
+    "longitude": -85.58898544311523
+  },
+  "website": "https://saintlukeschurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c0b1c07b-36b7-40f6-8b64-5760af33288a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c0b1c07b-36b7-40f6-8b64-5760af33288a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintlukeschurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382417683"
+    }
+  ],
+  "advisories": []
+}

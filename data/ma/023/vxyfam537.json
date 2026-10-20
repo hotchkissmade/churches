@@ -1,0 +1,33 @@
+{
+  "id": "vxyfam537",
+  "url": "https://constellation.church/vxyfam537",
+  "name": "St. Mark of Ephesus Church",
+  "displayName": "St. Mark of Ephesus Church",
+  "address": {
+    "street": "261 Main St",
+    "city": "Kingston",
+    "state": "MA",
+    "zip": "02364"
+  },
+  "coordinates": {
+    "latitude": 41.99456787109375,
+    "longitude": -70.73807525634766
+  },
+  "website": "https://stmarkofephesusma.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ne-plysme",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ne-plysme"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkofephesusma.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222568485"
+    }
+  ],
+  "advisories": []
+}

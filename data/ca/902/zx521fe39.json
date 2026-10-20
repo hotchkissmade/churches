@@ -1,0 +1,33 @@
+{
+  "id": "zx521fe39",
+  "url": "https://constellation.church/zx521fe39",
+  "name": "Gardena Presbyterian Church",
+  "displayName": "Gardena Presbyterian Church",
+  "address": {
+    "street": "1340 W. Gardena Blvd.",
+    "city": "Gardena",
+    "state": "CA",
+    "zip": "90247"
+  },
+  "coordinates": {
+    "latitude": 33.88120079040527,
+    "longitude": -118.29913330078125
+  },
+  "website": "https://gpclove.com/bbs/content.php",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6768",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6768"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gpclove.com/bbs/content.php"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953846618"
+    }
+  ],
+  "advisories": []
+}

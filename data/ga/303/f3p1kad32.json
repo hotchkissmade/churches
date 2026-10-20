@@ -1,0 +1,33 @@
+{
+  "id": "f3p1kad32",
+  "url": "https://constellation.church/f3p1kad32",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "1438 Sheridan Road NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30324"
+  },
+  "coordinates": {
+    "latitude": 33.82541084289551,
+    "longitude": -84.34119415283203
+  },
+  "website": "https://wmpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1111",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1111"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wmpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580673200"
+    }
+  ],
+  "advisories": []
+}

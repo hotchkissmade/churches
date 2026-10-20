@@ -1,0 +1,33 @@
+{
+  "id": "fymaw9z76",
+  "url": "https://constellation.church/fymaw9z76",
+  "name": "Lutheran Church of Our Savior",
+  "displayName": "Lutheran Church of Our Savior",
+  "address": {
+    "street": "1115 Lejeune Blvd",
+    "city": "Jacksonville",
+    "state": "NC",
+    "zip": "28540-6333"
+  },
+  "coordinates": {
+    "latitude": 34.747270584106445,
+    "longitude": -77.40514755249023
+  },
+  "website": "https://lcosjax.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8f2e422b-a434-4c30-a133-3d59b5bd3343",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8f2e422b-a434-4c30-a133-3d59b5bd3343"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcosjax.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560812820"
+    }
+  ],
+  "advisories": []
+}

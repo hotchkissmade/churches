@@ -1,0 +1,33 @@
+{
+  "id": "sne3zdp53",
+  "url": "https://constellation.church/sne3zdp53",
+  "name": "Servants’ Quarters Fellowship",
+  "displayName": "Servants’ Quarters Fellowship",
+  "address": {
+    "street": "1429 Sabal Palm Dr",
+    "city": "Edgewater",
+    "state": "FL",
+    "zip": "32132"
+  },
+  "coordinates": {
+    "latitude": 28.973773956298828,
+    "longitude": -80.91552352905273
+  },
+  "website": "https://sqf.org",
+  "listingUrl": "https://churches.sbc.net/church/servants-quarters-fellowship/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "servants-quarters-fellowship"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sqf.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593480249"
+    }
+  ],
+  "advisories": []
+}

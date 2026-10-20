@@ -1,0 +1,33 @@
+{
+  "id": "xzhs7h929",
+  "url": "https://constellation.church/xzhs7h929",
+  "name": "Woodrun Baptist Church",
+  "displayName": "Woodrun Baptist Church",
+  "address": {
+    "street": "8203 Apalachee Pkwy",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32311"
+  },
+  "coordinates": {
+    "latitude": 30.4193014,
+    "longitude": -84.1411892
+  },
+  "website": "https://woodrunbc.com",
+  "listingUrl": "https://churches.sbc.net/church/woodrun-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "woodrun-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "woodrunbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592986568"
+    }
+  ],
+  "advisories": []
+}

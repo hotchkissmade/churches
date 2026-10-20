@@ -1,0 +1,33 @@
+{
+  "id": "qnm8zs006",
+  "url": "https://constellation.church/qnm8zs006",
+  "name": "United Methodist Church of Westford",
+  "displayName": "United Methodist Church of Westford",
+  "address": {
+    "street": "10 Church Street",
+    "city": "Westford",
+    "state": "MA",
+    "zip": "01886"
+  },
+  "coordinates": {
+    "latitude": 42.59401321411133,
+    "longitude": -71.46591567993164
+  },
+  "website": "https://umcw.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKCsIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKCsIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "umcw.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042718283"
+    }
+  ],
+  "advisories": []
+}

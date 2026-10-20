@@ -1,0 +1,33 @@
+{
+  "id": "w2vpc6y86",
+  "url": "https://constellation.church/w2vpc6y86",
+  "name": "Selmore Baptist Church",
+  "displayName": "Selmore Baptist Church",
+  "address": {
+    "street": "4768 Selmore Rd",
+    "city": "Ozark",
+    "state": "MO",
+    "zip": "65721"
+  },
+  "coordinates": {
+    "latitude": 36.9669246673584,
+    "longitude": -93.23009490966797
+  },
+  "website": "https://selmorebaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/selmore-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "selmore-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "selmorebaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431314460"
+    }
+  ],
+  "advisories": []
+}

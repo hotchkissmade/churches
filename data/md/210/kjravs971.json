@@ -1,0 +1,33 @@
+{
+  "id": "kjravs971",
+  "url": "https://constellation.church/kjravs971",
+  "name": "New Hope Lutheran Church",
+  "displayName": "New Hope Lutheran Church",
+  "address": {
+    "street": "8575 Guilford Rd",
+    "city": "Columbia",
+    "state": "MD",
+    "zip": "21046-3301"
+  },
+  "coordinates": {
+    "latitude": 39.172576904296875,
+    "longitude": -76.86624908447266
+  },
+  "website": "https://newhopelutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=348dea1f-4db5-4f15-b6f1-940c3ab39d8e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "348dea1f-4db5-4f15-b6f1-940c3ab39d8e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newhopelutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521322006"
+    }
+  ],
+  "advisories": []
+}

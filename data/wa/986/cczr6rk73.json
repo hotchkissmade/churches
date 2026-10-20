@@ -1,0 +1,33 @@
+{
+  "id": "cczr6rk73",
+  "url": "https://constellation.church/cczr6rk73",
+  "name": "NorthLake Church",
+  "displayName": "NorthLake Church",
+  "address": {
+    "street": "500 SE Everett Rd",
+    "city": "Camas",
+    "state": "WA",
+    "zip": "98607"
+  },
+  "coordinates": {
+    "latitude": 45.6190185546875,
+    "longitude": -122.40465545654297
+  },
+  "website": "https://nlccamas.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=db6318d6-0465-4f26-ae92-f6d98e654a30&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "db6318d6-0465-4f26-ae92-f6d98e654a30"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nlccamas.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911032120"
+    }
+  ],
+  "advisories": []
+}

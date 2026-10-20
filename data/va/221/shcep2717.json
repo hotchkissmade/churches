@@ -1,0 +1,33 @@
+{
+  "id": "shcep2717",
+  "url": "https://constellation.church/shcep2717",
+  "name": "Messiah United Methodist Church",
+  "displayName": "Messiah United Methodist Church",
+  "address": {
+    "street": "6215 Rolling Road",
+    "city": "Springfield",
+    "state": "VA",
+    "zip": "22152"
+  },
+  "coordinates": {
+    "latitude": 38.78264236450195,
+    "longitude": -77.23440170288086
+  },
+  "website": "https://messiahumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFN0vIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFN0vIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "messiahumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "546059490"
+    }
+  ],
+  "advisories": []
+}

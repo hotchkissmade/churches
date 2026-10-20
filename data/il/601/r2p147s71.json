@@ -1,0 +1,33 @@
+{
+  "id": "r2p147s71",
+  "url": "https://constellation.church/r2p147s71",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "2700 West Highland Avenue",
+    "city": "Elgin",
+    "state": "IL",
+    "zip": "60124"
+  },
+  "coordinates": {
+    "latitude": 42.05046463012695,
+    "longitude": -88.34442901611328
+  },
+  "website": "https://wpchurch.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1073",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1073"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wpchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362478216"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p60e70r28",
+  "url": "https://constellation.church/p60e70r28",
+  "name": "Lakeview Lutheran Church",
+  "displayName": "Lakeview Lutheran Church",
+  "address": {
+    "street": "4001 Mandrake Rd",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53704-1622"
+  },
+  "coordinates": {
+    "latitude": 43.136959075927734,
+    "longitude": -89.37757873535156
+  },
+  "website": "https://lakeviewlutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0516de12-3e34-4917-9578-e69145d4f199",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0516de12-3e34-4917-9578-e69145d4f199"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lakeviewlutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396031033"
+    }
+  ],
+  "advisories": []
+}

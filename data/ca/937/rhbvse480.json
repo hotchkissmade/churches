@@ -1,0 +1,33 @@
+{
+  "id": "rhbvse480",
+  "url": "https://constellation.church/rhbvse480",
+  "name": "Church in Fresno",
+  "displayName": "Church in Fresno",
+  "address": {
+    "street": "1570 E Swift Ave",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93704"
+  },
+  "coordinates": {
+    "latitude": 36.79549026489258,
+    "longitude": -119.79177856445312
+  },
+  "website": "https://churchinfresno.org",
+  "listingUrl": "https://localchurches.org/churches/fresno-ca-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "fresno-ca-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinfresno.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237329763"
+    }
+  ],
+  "advisories": []
+}

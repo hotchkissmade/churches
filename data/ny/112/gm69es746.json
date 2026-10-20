@@ -1,0 +1,33 @@
+{
+  "id": "gm69es746",
+  "url": "https://constellation.church/gm69es746",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "939 83rd St",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11228-2817"
+  },
+  "coordinates": {
+    "latitude": 40.620113372802734,
+    "longitude": -74.01916885375977
+  },
+  "website": "https://schools.nyc.gov/schools/kcpo",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=247d2785-ef83-4b69-b5b2-2b4ed0563f9c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "247d2785-ef83-4b69-b5b2-2b4ed0563f9c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "schools.nyc.gov/schools/kcpo"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112685413"
+    }
+  ],
+  "advisories": []
+}

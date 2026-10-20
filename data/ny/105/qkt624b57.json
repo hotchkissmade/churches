@@ -1,0 +1,33 @@
+{
+  "id": "qkt624b57",
+  "url": "https://constellation.church/qkt624b57",
+  "name": "Peak Community Church",
+  "displayName": "Peak Community Church",
+  "address": {
+    "street": "900 Main St",
+    "city": "Peekskill",
+    "state": "NY",
+    "zip": "10566"
+  },
+  "coordinates": {
+    "latitude": 41.291542053222656,
+    "longitude": -73.92193984985352
+  },
+  "website": "https://thepeakcc.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=eace23b5-be7d-4d9c-971b-2d2312665704&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "eace23b5-be7d-4d9c-971b-2d2312665704"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thepeakcc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "432007574"
+    }
+  ],
+  "advisories": []
+}

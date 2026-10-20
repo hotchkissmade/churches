@@ -1,0 +1,33 @@
+{
+  "id": "r14kt9105",
+  "url": "https://constellation.church/r14kt9105",
+  "name": "West Hills Presbyterian Church",
+  "displayName": "West Hills Presbyterian Church",
+  "address": {
+    "street": "7600 Bennington Drive",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37909"
+  },
+  "coordinates": {
+    "latitude": 35.935720443725586,
+    "longitude": -84.03901290893555
+  },
+  "website": "https://whpca.net",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1062",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1062"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "whpca.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620933362"
+    }
+  ],
+  "advisories": []
+}

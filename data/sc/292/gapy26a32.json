@@ -1,0 +1,33 @@
+{
+  "id": "gapy26a32",
+  "url": "https://constellation.church/gapy26a32",
+  "name": "Redeemer Lutheran Church",
+  "displayName": "Redeemer Lutheran Church",
+  "address": {
+    "street": "525 Saint Andrews Rd",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29210-4516"
+  },
+  "coordinates": {
+    "latitude": 34.04590034484863,
+    "longitude": -81.12955093383789
+  },
+  "website": "https://relu.church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5f7fb2b2-793e-4bb9-bd71-75270c3c7f82",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5f7fb2b2-793e-4bb9-bd71-75270c3c7f82"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "relu.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570627314"
+    }
+  ],
+  "advisories": []
+}

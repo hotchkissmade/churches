@@ -1,0 +1,33 @@
+{
+  "id": "t72rgy241",
+  "url": "https://constellation.church/t72rgy241",
+  "name": "West Broad Street Baptist Church",
+  "displayName": "West Broad Street Baptist Church",
+  "address": {
+    "street": "3809 W Broad St",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33614"
+  },
+  "coordinates": {
+    "latitude": 28.016754150390625,
+    "longitude": -82.50615692138672
+  },
+  "website": "https://wbsbctampa.org",
+  "listingUrl": "https://churches.sbc.net/church/west-broad-street-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "west-broad-street-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wbsbctampa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591727550"
+    }
+  ],
+  "advisories": []
+}

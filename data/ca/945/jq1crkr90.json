@@ -1,0 +1,33 @@
+{
+  "id": "jq1crkr90",
+  "url": "https://constellation.church/jq1crkr90",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "4000 Concord Blvd",
+    "city": "Concord",
+    "state": "CA",
+    "zip": "94519-1515"
+  },
+  "coordinates": {
+    "latitude": 37.97738456726074,
+    "longitude": -121.9981460571289
+  },
+  "website": "https://flcconcord.org",
+  "listingUrl": "https://locator.lcms.org/church/C/198842",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "198842"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcconcord.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237097253"
+    }
+  ],
+  "advisories": []
+}

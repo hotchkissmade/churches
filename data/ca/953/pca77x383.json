@@ -1,0 +1,33 @@
+{
+  "id": "pca77x383",
+  "url": "https://constellation.church/pca77x383",
+  "name": "St. Susanna Mission",
+  "displayName": "St. Susanna Mission",
+  "address": {
+    "street": "10825 Robinwood Ln",
+    "city": "Sonora",
+    "state": "CA",
+    "zip": "95370"
+  },
+  "coordinates": {
+    "latitude": 37.994699478149414,
+    "longitude": -120.40990447998047
+  },
+  "website": "https://stsusanna.com",
+  "listingUrl": "https://www.oca.org/parishes/oca-we-sonssm",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-we-sonssm"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stsusanna.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "770569098"
+    }
+  ],
+  "advisories": []
+}

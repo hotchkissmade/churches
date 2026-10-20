@@ -1,0 +1,33 @@
+{
+  "id": "kcj7xgh12",
+  "url": "https://constellation.church/kcj7xgh12",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "120 Main Str",
+    "city": "East Hampton",
+    "state": "NY",
+    "zip": "11937"
+  },
+  "coordinates": {
+    "latitude": 40.96027755737305,
+    "longitude": -72.18782806396484
+  },
+  "website": "https://fpceh.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/5586/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "5586"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpceh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112004585"
+    }
+  ],
+  "advisories": []
+}

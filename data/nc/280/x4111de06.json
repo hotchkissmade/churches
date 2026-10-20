@@ -1,0 +1,33 @@
+{
+  "id": "x4111de06",
+  "url": "https://constellation.church/x4111de06",
+  "name": "Legacy FWB Church",
+  "displayName": "Legacy FWB Church",
+  "address": {
+    "street": "2316 Union Rd",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054"
+  },
+  "coordinates": {
+    "latitude": 35.22947883605957,
+    "longitude": -81.16827774047852
+  },
+  "website": "https://livelegacy.org",
+  "listingUrl": "https://directory.nafwb.org/1899/first-fwb-church-64/",
+  "identifiers": [
+    {
+      "namespace": "org.nafwb.directory.id",
+      "value": "1899"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "livelegacy.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "453163764"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tc890gj34",
+  "url": "https://constellation.church/tc890gj34",
+  "name": "Trinity United Methodist Church",
+  "displayName": "Trinity United Methodist Church",
+  "address": {
+    "street": "3030 Thorn St",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92104-4626"
+  },
+  "coordinates": {
+    "latitude": 32.73940849304199,
+    "longitude": -117.1285629272461
+  },
+  "website": "https://trinityumcsd.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKTiIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKTiIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityumcsd.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330361519"
+    }
+  ],
+  "advisories": []
+}

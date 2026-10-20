@@ -1,0 +1,33 @@
+{
+  "id": "hfamd9315",
+  "url": "https://constellation.church/hfamd9315",
+  "name": "Georgia Avenue Baptist Church",
+  "displayName": "Georgia Avenue Baptist Church",
+  "address": {
+    "street": "12525 Georgia Avenue",
+    "city": "Silver Spring",
+    "state": "MD",
+    "zip": "20906"
+  },
+  "coordinates": {
+    "latitude": 39.06337356567383,
+    "longitude": -77.05384063720703
+  },
+  "website": "https://gabcglenmont.org",
+  "listingUrl": "https://churches.sbc.net/church/georgia-avenue-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "georgia-avenue-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gabcglenmont.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520729326"
+    }
+  ],
+  "advisories": []
+}

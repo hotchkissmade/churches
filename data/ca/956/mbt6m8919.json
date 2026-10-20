@@ -1,0 +1,33 @@
+{
+  "id": "mbt6m8919",
+  "url": "https://constellation.church/mbt6m8919",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "625 2nd St",
+    "city": "Lincoln",
+    "state": "CA",
+    "zip": "95648-1804"
+  },
+  "coordinates": {
+    "latitude": 38.88753890991211,
+    "longitude": -121.29231262207031
+  },
+  "website": "https://glclincoln.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=10ac0cb9-8fd3-400c-b20a-104963efbc01",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "10ac0cb9-8fd3-400c-b20a-104963efbc01"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "glclincoln.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "680417951"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tx6cndn24",
+  "url": "https://constellation.church/tx6cndn24",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "2213 Brandon Ln",
+    "city": "Kingsport",
+    "state": "TN",
+    "zip": "37660"
+  },
+  "coordinates": {
+    "latitude": 36.5436897277832,
+    "longitude": -82.50533294677734
+  },
+  "website": "https://kingsportfirst.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=838b0f30-0f2a-4be2-859f-96494c752b62&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "838b0f30-0f2a-4be2-859f-96494c752b62"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kingsportfirst.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621016680"
+    }
+  ],
+  "advisories": []
+}

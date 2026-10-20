@@ -1,0 +1,33 @@
+{
+  "id": "qkj645v24",
+  "url": "https://constellation.church/qkj645v24",
+  "name": "Unity Church",
+  "displayName": "Unity Church",
+  "address": {
+    "street": "2101 Lancaster Ave",
+    "city": "Wilmington",
+    "state": "DE",
+    "zip": "19805-3731"
+  },
+  "coordinates": {
+    "latitude": 39.74765396118164,
+    "longitude": -75.57616806030273
+  },
+  "website": "https://unitywilmington.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d9bf24b4-1586-493d-a2ab-13ba5486c2bf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d9bf24b4-1586-493d-a2ab-13ba5486c2bf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "unitywilmington.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "825061420"
+    }
+  ],
+  "advisories": []
+}

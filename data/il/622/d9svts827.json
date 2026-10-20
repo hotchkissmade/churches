@@ -1,0 +1,33 @@
+{
+  "id": "d9svts827",
+  "url": "https://constellation.church/d9svts827",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "520 E Highway 50",
+    "city": "O Fallon",
+    "state": "IL",
+    "zip": "62269-2810"
+  },
+  "coordinates": {
+    "latitude": 38.58302116394043,
+    "longitude": -89.90055084228516
+  },
+  "website": "https://faithofallon.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d6c3ee48-2cc8-46b5-aa30-afa5956733db",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d6c3ee48-2cc8-46b5-aa30-afa5956733db"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithofallon.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370915845"
+    }
+  ],
+  "advisories": []
+}

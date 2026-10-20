@@ -1,0 +1,33 @@
+{
+  "id": "jzwaarn80",
+  "url": "https://constellation.church/jzwaarn80",
+  "name": "Second Church",
+  "displayName": "Second Church",
+  "address": {
+    "street": "6950 Lake Michigan Dr",
+    "city": "Allendale",
+    "state": "MI",
+    "zip": "49401-0026"
+  },
+  "coordinates": {
+    "latitude": 42.969505310058594,
+    "longitude": -85.95768737792969
+  },
+  "website": "https://secondchurchallendale.org",
+  "listingUrl": "https://www.crcna.org/churches/9608",
+  "identifiers": [
+    {
+      "namespace": "org.crcna.id",
+      "value": "9608"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "secondchurchallendale.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237410170"
+    }
+  ],
+  "advisories": []
+}

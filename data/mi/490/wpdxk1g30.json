@@ -1,0 +1,33 @@
+{
+  "id": "wpdxk1g30",
+  "url": "https://constellation.church/wpdxk1g30",
+  "name": "Church of the Resurrection",
+  "displayName": "Church of the Resurrection",
+  "address": {
+    "street": "2589 Capital Ave SW",
+    "city": "Battle Creek",
+    "state": "MI",
+    "zip": "49015-4160"
+  },
+  "coordinates": {
+    "latitude": 42.26337814331055,
+    "longitude": -85.19461822509766
+  },
+  "website": "https://churchoftheresurrectionbc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-western-michigan/list/church-resurrection",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-western-michigan/church-resurrection"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchoftheresurrectionbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381890490"
+    }
+  ],
+  "advisories": []
+}

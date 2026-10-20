@@ -1,0 +1,33 @@
+{
+  "id": "emn6rnc16",
+  "url": "https://constellation.church/emn6rnc16",
+  "name": "Cavern Baptist Church",
+  "displayName": "Cavern Baptist Church",
+  "address": {
+    "street": "110 Russell Street",
+    "city": "Carlsbad",
+    "state": "NM",
+    "zip": "88220"
+  },
+  "coordinates": {
+    "latitude": 32.38215446472168,
+    "longitude": -104.22236633300781
+  },
+  "website": "https://cavernbc.com",
+  "listingUrl": "https://churches.sbc.net/church/cavern-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cavern-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cavernbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850318931"
+    }
+  ],
+  "advisories": []
+}

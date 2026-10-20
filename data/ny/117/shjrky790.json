@@ -1,0 +1,33 @@
+{
+  "id": "shjrky790",
+  "url": "https://constellation.church/shjrky790",
+  "name": "Saint Mary's Episcopal Church",
+  "displayName": "St. Mary's Episcopal Church",
+  "address": {
+    "street": "175 Broadway",
+    "city": "Amityville",
+    "state": "NY",
+    "zip": "11701"
+  },
+  "coordinates": {
+    "latitude": 40.67723083496094,
+    "longitude": -73.41730117797852
+  },
+  "website": "https://stmarysamityville.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-marys-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-marys-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarysamityville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111772997"
+    }
+  ],
+  "advisories": []
+}

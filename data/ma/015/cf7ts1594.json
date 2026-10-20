@@ -1,0 +1,33 @@
+{
+  "id": "cf7ts1594",
+  "url": "https://constellation.church/cf7ts1594",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "90 Bryn Mawr Ave",
+    "city": "Auburn",
+    "state": "MA",
+    "zip": "01501-1604"
+  },
+  "coordinates": {
+    "latitude": 42.207725524902344,
+    "longitude": -71.84518814086914
+  },
+  "website": "https://district23aa.org/meetinglist.aspx",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cb81e0ef-589e-444b-b79d-1a9ffe7ae8d3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cb81e0ef-589e-444b-b79d-1a9ffe7ae8d3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "district23aa.org/meetinglist.aspx"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042392665"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "f4v71dw42",
+  "url": "https://constellation.church/f4v71dw42",
+  "name": "Christ Church, Washington (Capitol Hill)",
+  "displayName": "Christ Church, Washington (Capitol Hill)",
+  "address": {
+    "street": "620 G St SE",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20003-2722"
+  },
+  "coordinates": {
+    "latitude": 38.88183784484863,
+    "longitude": -76.99744033813477
+  },
+  "website": "https://christchurchdc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/christ-church-capitol-hill",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/christ-church-capitol-hill"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christchurchdc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520901645"
+    }
+  ],
+  "advisories": []
+}

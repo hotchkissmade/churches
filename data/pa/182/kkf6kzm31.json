@@ -1,0 +1,33 @@
+{
+  "id": "kkf6kzm31",
+  "url": "https://constellation.church/kkf6kzm31",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "200 Mauch Chunk St",
+    "city": "Tamaqua",
+    "state": "PA",
+    "zip": "18252-1728"
+  },
+  "coordinates": {
+    "latitude": 40.79855918884277,
+    "longitude": -75.96784210205078
+  },
+  "website": "https://nepasynod.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=20bc6ddb-da0c-47d3-82b0-c344bc1e787b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "20bc6ddb-da0c-47d3-82b0-c344bc1e787b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nepasynod.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236256991"
+    }
+  ],
+  "advisories": []
+}

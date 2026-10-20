@@ -1,0 +1,33 @@
+{
+  "id": "s6hbewy79",
+  "url": "https://constellation.church/s6hbewy79",
+  "name": "Morning Star Lutheran Church",
+  "displayName": "Morning Star Lutheran Church",
+  "address": {
+    "street": "342 S Lewis St",
+    "city": "Monroe",
+    "state": "WA",
+    "zip": "98272-2321"
+  },
+  "coordinates": {
+    "latitude": 47.85203170776367,
+    "longitude": -121.97108459472656
+  },
+  "website": "https://morningstarlc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dd43087c-9801-4de5-a7bf-5c5cdd357fed",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dd43087c-9801-4de5-a7bf-5c5cdd357fed"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "morningstarlc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911651503"
+    }
+  ],
+  "advisories": []
+}

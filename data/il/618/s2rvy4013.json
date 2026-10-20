@@ -1,0 +1,33 @@
+{
+  "id": "s2rvy4013",
+  "url": "https://constellation.church/s2rvy4013",
+  "name": "Apostolic Christian Church of Champaign",
+  "displayName": "Apostolic Christian Church of Champaign",
+  "address": {
+    "street": "1401 Devonshire Drive",
+    "city": "Champaign",
+    "state": "IL",
+    "zip": "61821"
+  },
+  "coordinates": {
+    "latitude": 40.089216232299805,
+    "longitude": -88.26797485351562
+  },
+  "website": "https://champaignacchurch.org",
+  "listingUrl": "https://www.apostolicchristian.org/congregations/champaign",
+  "identifiers": [
+    {
+      "namespace": "org.apostolicchristian.id",
+      "value": "champaign"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "champaignacchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237197798"
+    }
+  ],
+  "advisories": []
+}

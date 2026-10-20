@@ -1,0 +1,33 @@
+{
+  "id": "cp35smf33",
+  "url": "https://constellation.church/cp35smf33",
+  "name": "Crown of Life Lutheran Church",
+  "displayName": "Crown of Life Lutheran Church",
+  "address": {
+    "street": "5939 Magnolia Ave",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92506-1828"
+  },
+  "coordinates": {
+    "latitude": 33.9613366,
+    "longitude": -117.3916057
+  },
+  "website": "https://mycrownoflife.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/25111",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "25111"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mycrownoflife.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "912143613"
+    }
+  ],
+  "advisories": []
+}

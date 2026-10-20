@@ -1,0 +1,33 @@
+{
+  "id": "ahrfqxf17",
+  "url": "https://constellation.church/ahrfqxf17",
+  "name": "Noble City Church",
+  "displayName": "Noble City Church",
+  "address": {
+    "street": "450 W King St",
+    "city": "York",
+    "state": "PA",
+    "zip": "17401"
+  },
+  "coordinates": {
+    "latitude": 39.95762825012207,
+    "longitude": -76.73778915405273
+  },
+  "website": "https://noblecitychurch.org",
+  "listingUrl": "https://churches.sbc.net/church/noble-city-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "noble-city-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "noblecitychurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371833328"
+    }
+  ],
+  "advisories": []
+}

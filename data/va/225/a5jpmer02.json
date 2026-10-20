@@ -1,0 +1,33 @@
+{
+  "id": "a5jpmer02",
+  "url": "https://constellation.church/a5jpmer02",
+  "name": "Mine Road",
+  "displayName": "Mine Road",
+  "address": {
+    "street": "11111 Post Oak Road",
+    "city": "Spotsylvania",
+    "state": "VA",
+    "zip": "22551"
+  },
+  "coordinates": {
+    "latitude": 38.15697479248047,
+    "longitude": -77.73783493041992
+  },
+  "website": "https://littlemineroadbc.org",
+  "listingUrl": "https://churches.sbc.net/church/mine-road-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mine-road-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "littlemineroadbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "542033323"
+    }
+  ],
+  "advisories": []
+}

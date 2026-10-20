@@ -1,0 +1,33 @@
+{
+  "id": "b059mn454",
+  "url": "https://constellation.church/b059mn454",
+  "name": "First Baptist Church of Inverness",
+  "displayName": "First Baptist Church of Inverness",
+  "address": {
+    "street": "550 Pleasant Grove Rd",
+    "city": "Inverness",
+    "state": "FL",
+    "zip": "34452"
+  },
+  "coordinates": {
+    "latitude": 28.826297760009766,
+    "longitude": -82.35127258300781
+  },
+  "website": "https://fbcinverness.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-inverness/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-inverness"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcinverness.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591265586"
+    }
+  ],
+  "advisories": []
+}

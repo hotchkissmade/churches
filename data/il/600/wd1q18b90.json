@@ -1,0 +1,33 @@
+{
+  "id": "wd1q18b90",
+  "url": "https://constellation.church/wd1q18b90",
+  "name": "Glenview United Methodist Church",
+  "displayName": "Glenview United Methodist Church",
+  "address": {
+    "street": "727 Harlem Ave",
+    "city": "Glenview",
+    "state": "IL",
+    "zip": "60025"
+  },
+  "coordinates": {
+    "latitude": 42.06806945800781,
+    "longitude": -87.80433654785156
+  },
+  "website": "https://glenviewumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFOtYIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFOtYIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "glenviewumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362512383"
+    }
+  ],
+  "advisories": []
+}

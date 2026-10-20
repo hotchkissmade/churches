@@ -1,0 +1,33 @@
+{
+  "id": "tbtpsd675",
+  "url": "https://constellation.church/tbtpsd675",
+  "name": "New Heights Church",
+  "displayName": "New Heights Church",
+  "address": {
+    "street": "1145 Main St",
+    "city": "Milton",
+    "state": "WV",
+    "zip": "25541"
+  },
+  "coordinates": {
+    "latitude": 38.434579849243164,
+    "longitude": -82.1352767944336
+  },
+  "website": "https://newheightswv.com",
+  "listingUrl": "https://churches.sbc.net/church/new-heights-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-heights-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newheightswv.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "461245059"
+    }
+  ],
+  "advisories": []
+}

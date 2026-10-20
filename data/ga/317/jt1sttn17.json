@@ -1,0 +1,33 @@
+{
+  "id": "jt1sttn17",
+  "url": "https://constellation.church/jt1sttn17",
+  "name": "First Baptist Church of Ty Ty, Inc.",
+  "displayName": "First Baptist Church of Ty Ty",
+  "address": {
+    "street": "157 N Church St",
+    "city": "Ty Ty",
+    "state": "GA",
+    "zip": "31795"
+  },
+  "coordinates": {
+    "latitude": 31.467708587646484,
+    "longitude": -83.65117645263672
+  },
+  "website": "https://tytyfbc.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-ty-ty-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-ty-ty-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tytyfbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581558513"
+    }
+  ],
+  "advisories": []
+}

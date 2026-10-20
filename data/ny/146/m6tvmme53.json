@@ -1,0 +1,33 @@
+{
+  "id": "m6tvmme53",
+  "url": "https://constellation.church/m6tvmme53",
+  "name": "Memorial",
+  "displayName": "Memorial AME Zion Church",
+  "address": {
+    "street": "549 Clarissa Street",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14608"
+  },
+  "coordinates": {
+    "latitude": 43.14509582519531,
+    "longitude": -77.6182746887207
+  },
+  "website": "https://memorialamez.org",
+  "listingUrl": "https://amezion.org/location/memorial/",
+  "identifiers": [
+    {
+      "namespace": "org.amezion.id",
+      "value": "692"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "memorialamez.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161502542"
+    }
+  ],
+  "advisories": []
+}

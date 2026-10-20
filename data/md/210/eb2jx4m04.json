@@ -1,0 +1,33 @@
+{
+  "id": "eb2jx4m04",
+  "url": "https://constellation.church/eb2jx4m04",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "803 Edgewood Rd",
+    "city": "Edgewood",
+    "state": "MD",
+    "zip": "21040"
+  },
+  "coordinates": {
+    "latitude": 39.42909812927246,
+    "longitude": -76.2999153137207
+  },
+  "website": "https://edgewoodag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ed1cc6ea-04a1-4124-8c83-f69df57cdeff&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ed1cc6ea-04a1-4124-8c83-f69df57cdeff"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "edgewoodag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521149170"
+    }
+  ],
+  "advisories": []
+}

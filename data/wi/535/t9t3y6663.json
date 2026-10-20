@@ -1,0 +1,33 @@
+{
+  "id": "t9t3y6663",
+  "url": "https://constellation.church/t9t3y6663",
+  "name": "Deerfield Lutheran Church",
+  "displayName": "Deerfield Lutheran Church",
+  "address": {
+    "street": "206 S Main St",
+    "city": "Deerfield",
+    "state": "WI",
+    "zip": "53531-9537"
+  },
+  "coordinates": {
+    "latitude": 43.05094337463379,
+    "longitude": -89.07615280151367
+  },
+  "website": "https://dlchurchoffice.wixsite.com/deerfieldlutheran",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ab4b4488-a0a5-4a73-b555-282af888b212",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ab4b4488-a0a5-4a73-b555-282af888b212"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dlchurchoffice.wixsite.com/deerfieldlutheran"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391331067"
+    }
+  ],
+  "advisories": []
+}

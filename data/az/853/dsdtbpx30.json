@@ -1,0 +1,33 @@
+{
+  "id": "dsdtbpx30",
+  "url": "https://constellation.church/dsdtbpx30",
+  "name": "Asante Church",
+  "displayName": "Asante Church",
+  "address": {
+    "street": "17180 W Hedgehog Place",
+    "city": "Surprise",
+    "state": "AZ",
+    "zip": "85387"
+  },
+  "coordinates": {
+    "latitude": 33.69553565979004,
+    "longitude": -112.41793060302734
+  },
+  "website": "https://asante.church",
+  "listingUrl": "https://churches.sbc.net/church/asante-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "asante-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "asante.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "842579910"
+    }
+  ],
+  "advisories": []
+}

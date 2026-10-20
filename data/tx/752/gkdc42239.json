@@ -1,0 +1,33 @@
+{
+  "id": "gkdc42239",
+  "url": "https://constellation.church/gkdc42239",
+  "name": "Good Shepherd Community Church",
+  "displayName": "Good Shepherd Community Church",
+  "address": {
+    "street": "4701 Virginia Avenue",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75204"
+  },
+  "coordinates": {
+    "latitude": 32.803701400756836,
+    "longitude": -96.6993408203125
+  },
+  "website": "https://gsccdallas.org",
+  "listingUrl": "https://churches.sbc.net/church/good-shepherd-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "good-shepherd-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gsccdallas.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751945606"
+    }
+  ],
+  "advisories": []
+}

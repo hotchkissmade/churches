@@ -1,0 +1,33 @@
+{
+  "id": "nnqpgkg81",
+  "url": "https://constellation.church/nnqpgkg81",
+  "name": "Lands Lutheran Church",
+  "displayName": "Lands Lutheran Church",
+  "address": {
+    "street": "16640 Highway 60 Blvd",
+    "city": "Zumbrota",
+    "state": "MN",
+    "zip": "55992-5105"
+  },
+  "coordinates": {
+    "latitude": 44.29292297363281,
+    "longitude": -92.70035171508789
+  },
+  "website": "https://landslutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e9631af6-b15a-412b-9fd0-c07ce1b79f66",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e9631af6-b15a-412b-9fd0-c07ce1b79f66"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "landslutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410826563"
+    }
+  ],
+  "advisories": []
+}

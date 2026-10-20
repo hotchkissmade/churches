@@ -1,0 +1,33 @@
+{
+  "id": "v0hrcqj29",
+  "url": "https://constellation.church/v0hrcqj29",
+  "name": "Seabreeze Community Church",
+  "displayName": "Seabreeze Community Church",
+  "address": {
+    "street": "18162 Gothard St",
+    "city": "Huntington Beach",
+    "state": "CA",
+    "zip": "92648"
+  },
+  "coordinates": {
+    "latitude": 33.69858360290527,
+    "longitude": -117.99874114990234
+  },
+  "website": "https://seabreezechurch.com",
+  "listingUrl": "https://churches.sbc.net/church/seabreeze-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "seabreeze-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "seabreezechurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330390902"
+    }
+  ],
+  "advisories": []
+}

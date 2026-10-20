@@ -1,0 +1,33 @@
+{
+  "id": "w2s1y9v61",
+  "url": "https://constellation.church/w2s1y9v61",
+  "name": "Williams Bay Lutheran Church",
+  "displayName": "Williams Bay Lutheran Church",
+  "address": {
+    "street": "11 Collie St",
+    "city": "Williams Bay",
+    "state": "WI",
+    "zip": "53191-9745"
+  },
+  "coordinates": {
+    "latitude": 42.574745178222656,
+    "longitude": -88.54567337036133
+  },
+  "website": "https://wblc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bd5655ab-d9f6-4b62-adf0-05a9dc4fbc5c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bd5655ab-d9f6-4b62-adf0-05a9dc4fbc5c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wblc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391310641"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c1pnkqv10",
+  "url": "https://constellation.church/c1pnkqv10",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "65 Crooked Oak Dr",
+    "city": "Pawleys Island",
+    "state": "SC",
+    "zip": "29585-8167"
+  },
+  "coordinates": {
+    "latitude": 33.475481,
+    "longitude": -79.1032494
+  },
+  "website": "https://stpeterspawleys.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7d775fbc-c84e-406e-aace-af9663211ac5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7d775fbc-c84e-406e-aace-af9663211ac5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpeterspawleys.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570742292"
+    }
+  ],
+  "advisories": []
+}

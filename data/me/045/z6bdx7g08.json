@@ -1,0 +1,33 @@
+{
+  "id": "z6bdx7g08",
+  "url": "https://constellation.church/z6bdx7g08",
+  "name": "St. Philip's Episcopal Church",
+  "displayName": "St. Philip's Episcopal Church",
+  "address": {
+    "street": "12 Hodge St",
+    "city": "Wiscasset",
+    "state": "ME",
+    "zip": "04578-4021"
+  },
+  "coordinates": {
+    "latitude": 44.0053136,
+    "longitude": -69.667063
+  },
+  "website": "https://stphilipswiscasset.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maine/list/st-philips-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maine/st-philips-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stphilipswiscasset.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "010354944"
+    }
+  ],
+  "advisories": []
+}

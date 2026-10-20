@@ -1,0 +1,41 @@
+{
+  "id": "x24vw3z13",
+  "url": "https://constellation.church/x24vw3z13",
+  "name": "Good Shepherd Lutheran Church",
+  "displayName": "Good Shepherd Lutheran Church",
+  "address": {
+    "street": "7420 4th Ave",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11209-2508"
+  },
+  "coordinates": {
+    "latitude": 40.6312198638916,
+    "longitude": -74.02517700195312
+  },
+  "website": "https://goodshepherd-bayridge.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=91dbf32c-e3e9-4a15-b031-ca1f93a34590",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "91dbf32c-e3e9-4a15-b031-ca1f93a34590"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherd-bayridge.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111635100"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111817275"
+    },
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "109324"
+    }
+  ],
+  "advisories": []
+}

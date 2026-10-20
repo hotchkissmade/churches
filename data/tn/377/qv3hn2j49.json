@@ -1,0 +1,33 @@
+{
+  "id": "qv3hn2j49",
+  "url": "https://constellation.church/qv3hn2j49",
+  "name": "Springbrook Church",
+  "displayName": "Springbrook Church",
+  "address": {
+    "street": "1873 N Wright Rd",
+    "city": "Alcoa",
+    "state": "TN",
+    "zip": "37701"
+  },
+  "coordinates": {
+    "latitude": 35.8044361,
+    "longitude": -83.9765028
+  },
+  "website": "https://springbrookchurch.net",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d23c03b7-65c4-426f-bb68-7fce18601d2d&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d23c03b7-65c4-426f-bb68-7fce18601d2d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "springbrookchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621379402"
+    }
+  ],
+  "advisories": []
+}

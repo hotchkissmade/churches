@@ -1,0 +1,33 @@
+{
+  "id": "p2hr8m459",
+  "url": "https://constellation.church/p2hr8m459",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "244 E Boyd Blvd",
+    "city": "Laporte",
+    "state": "IN",
+    "zip": "46350"
+  },
+  "coordinates": {
+    "latitude": 41.583648681640625,
+    "longitude": -86.69754791259766
+  },
+  "website": "https://laporteag.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ebfeaf86-b7e1-42f2-98e6-26d30578098e&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ebfeaf86-b7e1-42f2-98e6-26d30578098e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "laporteag.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351382766"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "f3zn98n22",
+  "url": "https://constellation.church/f3zn98n22",
+  "name": "Morgenland Union Church",
+  "displayName": "Morgenland Union Church",
+  "address": {
+    "street": "3120 Weidasville Rd",
+    "city": "Orefield",
+    "state": "PA",
+    "zip": "18069-2748"
+  },
+  "coordinates": {
+    "latitude": 40.62632751464844,
+    "longitude": -75.63753128051758
+  },
+  "website": "https://morgenlandchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c1c72b4e-849e-4723-9022-0636e850e38a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c1c72b4e-849e-4723-9022-0636e850e38a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "morgenlandchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "050633357"
+    }
+  ],
+  "advisories": []
+}

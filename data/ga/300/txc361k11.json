@@ -1,0 +1,33 @@
+{
+  "id": "txc361k11",
+  "url": "https://constellation.church/txc361k11",
+  "name": "Highlands Presbyterian Church",
+  "displayName": "Highlands Presbyterian Church",
+  "address": {
+    "street": "830 Grayson Parkway",
+    "city": "Grayson",
+    "state": "GA",
+    "zip": "30017-0847"
+  },
+  "coordinates": {
+    "latitude": 33.88430595397949,
+    "longitude": -83.96697616577148
+  },
+  "website": "https://highlandspca.org/master-calendar",
+  "listingUrl": "https://arpchurch.org/churches/highlands-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.arpchurch.id",
+      "value": "450"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "highlandspca.org/master-calendar"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580659876"
+    }
+  ],
+  "advisories": []
+}

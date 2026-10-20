@@ -1,0 +1,33 @@
+{
+  "id": "zhbjb4s29",
+  "url": "https://constellation.church/zhbjb4s29",
+  "name": "Homewood Friends Meeting",
+  "displayName": "Homewood Friends Meeting",
+  "address": {
+    "street": "3107 N Charles St",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 39.326364517211914,
+    "longitude": -76.61706161499023
+  },
+  "website": "https://homewoodfriends.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/homewood-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "homewood-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "homewoodfriends.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520607962"
+    }
+  ],
+  "advisories": []
+}

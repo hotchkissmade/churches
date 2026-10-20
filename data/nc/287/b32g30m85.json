@@ -1,0 +1,33 @@
+{
+  "id": "b32g30m85",
+  "url": "https://constellation.church/b32g30m85",
+  "name": "Whittier United Methodist Church",
+  "displayName": "Whittier United Methodist Church",
+  "address": {
+    "street": "150 Church St",
+    "city": "Whittier",
+    "state": "NC",
+    "zip": "28789"
+  },
+  "coordinates": {
+    "latitude": 35.43222999572754,
+    "longitude": -83.35984420776367
+  },
+  "website": "https://whittierumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMe0IAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMe0IAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "whittierumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "562129048"
+    }
+  ],
+  "advisories": []
+}

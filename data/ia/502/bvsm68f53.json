@@ -1,0 +1,33 @@
+{
+  "id": "bvsm68f53",
+  "url": "https://constellation.church/bvsm68f53",
+  "name": "Ashworth Church",
+  "displayName": "Ashworth Church",
+  "address": {
+    "street": "5300 Ashworth Rd",
+    "city": "West Des Moines",
+    "state": "IA",
+    "zip": "50266"
+  },
+  "coordinates": {
+    "latitude": 41.58375549316406,
+    "longitude": -93.77873229980469
+  },
+  "website": "https://ashworth.church",
+  "listingUrl": "https://converge.org/church/ashworth-church/",
+  "identifiers": [
+    {
+      "namespace": "org.converge.id",
+      "value": "37320"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ashworth.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421195070"
+    }
+  ],
+  "advisories": []
+}

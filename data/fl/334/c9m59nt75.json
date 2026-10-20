@@ -1,0 +1,33 @@
+{
+  "id": "c9m59nt75",
+  "url": "https://constellation.church/c9m59nt75",
+  "name": "Westside Baptist Church",
+  "displayName": "Westside Baptist Church",
+  "address": {
+    "street": "3711 Old Boynton Rd",
+    "city": "Boynton Beach",
+    "state": "FL",
+    "zip": "33436"
+  },
+  "coordinates": {
+    "latitude": 26.532169342041016,
+    "longitude": -80.10193252563477
+  },
+  "website": "https://westsidefbc.org",
+  "listingUrl": "https://churches.sbc.net/church/westside-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "westside-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westsidefbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592009770"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bcwc4vg11",
+  "url": "https://constellation.church/bcwc4vg11",
+  "name": "The Church of the Holy Communion",
+  "displayName": "The Church of the Holy Communion",
+  "address": {
+    "street": "118 N Minnesota Ave",
+    "city": "Saint Peter",
+    "state": "MN",
+    "zip": "56082"
+  },
+  "coordinates": {
+    "latitude": 44.32654571533203,
+    "longitude": -93.95563507080078
+  },
+  "website": "https://sites.google.com/view/holy-communion/home",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/church-holy-communion",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/church-holy-communion"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sites.google.com/view/holy-communion/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416031047"
+    }
+  ],
+  "advisories": []
+}

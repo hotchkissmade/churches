@@ -1,0 +1,33 @@
+{
+  "id": "d8p3mnk05",
+  "url": "https://constellation.church/d8p3mnk05",
+  "name": "First Baptist Church Vandalia",
+  "displayName": "First Baptist Church Vandalia",
+  "address": {
+    "street": "209 N Main St",
+    "city": "Vandalia",
+    "state": "MO",
+    "zip": "63382"
+  },
+  "coordinates": {
+    "latitude": 39.3104248046875,
+    "longitude": -91.48824310302734
+  },
+  "website": "https://fbcvandaliamo.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-vandalia/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-vandalia"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcvandaliamo.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431283681"
+    }
+  ],
+  "advisories": []
+}

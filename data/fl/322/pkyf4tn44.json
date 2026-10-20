@@ -1,0 +1,37 @@
+{
+  "id": "pkyf4tn44",
+  "url": "https://constellation.church/pkyf4tn44",
+  "name": "North Jacksonville Baptist Church",
+  "displayName": "North Jacksonville Baptist Church",
+  "address": {
+    "street": "8531 N Main St",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32218"
+  },
+  "coordinates": {
+    "latitude": 30.40167999267578,
+    "longitude": -81.6480484008789
+  },
+  "website": "https://njbc.org",
+  "listingUrl": "https://churches.sbc.net/church/north-jacksonville-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "north-jacksonville-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "njbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590818920"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "596001569"
+    }
+  ],
+  "advisories": []
+}

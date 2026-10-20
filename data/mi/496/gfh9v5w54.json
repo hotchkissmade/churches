@@ -1,0 +1,33 @@
+{
+  "id": "gfh9v5w54",
+  "url": "https://constellation.church/gfh9v5w54",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "955 James St",
+    "city": "Frankfort",
+    "state": "MI",
+    "zip": "49635-8300"
+  },
+  "coordinates": {
+    "latitude": 44.63633346557617,
+    "longitude": -86.22964859008789
+  },
+  "website": "https://trinityfrankfort.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bd8f41ad-c6e2-41b1-93e8-50e4d99d51f8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bd8f41ad-c6e2-41b1-93e8-50e4d99d51f8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityfrankfort.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382550918"
+    }
+  ],
+  "advisories": []
+}

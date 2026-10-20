@@ -1,0 +1,33 @@
+{
+  "id": "ea0dq2503",
+  "url": "https://constellation.church/ea0dq2503",
+  "name": "Reach Church",
+  "displayName": "Reach Church",
+  "address": {
+    "street": "909 Meadowbrook Rd",
+    "city": "Asheboro",
+    "state": "NC",
+    "zip": "27203"
+  },
+  "coordinates": {
+    "latitude": 35.72049140930176,
+    "longitude": -79.80353546142578
+  },
+  "website": "https://reachchurch.world/leadership",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=5ae5c221-4e87-497e-8de4-a83ca7c3ccae&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "5ae5c221-4e87-497e-8de4-a83ca7c3ccae"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "reachchurch.world/leadership"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561260483"
+    }
+  ],
+  "advisories": []
+}

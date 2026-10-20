@@ -1,0 +1,33 @@
+{
+  "id": "w0x7n1x96",
+  "url": "https://constellation.church/w0x7n1x96",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "34 Oak St",
+    "city": "Center Moriches",
+    "state": "NY",
+    "zip": "11934"
+  },
+  "coordinates": {
+    "latitude": 40.8104362487793,
+    "longitude": -72.783203125
+  },
+  "website": "https://aogcm.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=0efb19f3-c0ec-44b0-885d-e7569eeeb6f2&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "0efb19f3-c0ec-44b0-885d-e7569eeeb6f2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "aogcm.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510212626"
+    }
+  ],
+  "advisories": []
+}

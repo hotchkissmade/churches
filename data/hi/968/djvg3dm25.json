@@ -1,0 +1,33 @@
+{
+  "id": "djvg3dm25",
+  "url": "https://constellation.church/djvg3dm25",
+  "name": "St. Clement's School",
+  "displayName": "St. Clement's School",
+  "address": {
+    "street": "1515 Wilder Avenue",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96822"
+  },
+  "coordinates": {
+    "latitude": 21.3033297,
+    "longitude": -157.8347356
+  },
+  "website": "https://stclem.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/hawaii/list/st-clements-school",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "hawaii/st-clements-school"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stclem.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "990119532"
+    }
+  ],
+  "advisories": []
+}

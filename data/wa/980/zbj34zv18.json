@@ -1,0 +1,33 @@
+{
+  "id": "zbj34zv18",
+  "url": "https://constellation.church/zbj34zv18",
+  "name": "Leaven Church",
+  "displayName": "Leaven Church",
+  "address": {
+    "street": "232 5th Ave S",
+    "city": "Kirkland",
+    "state": "WA",
+    "zip": "98033"
+  },
+  "coordinates": {
+    "latitude": 47.67227554321289,
+    "longitude": -122.20281219482422
+  },
+  "website": "https://leavenchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/leaven-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "leaven-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "leavenchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "462900766"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "m8rc0cn77",
+  "url": "https://constellation.church/m8rc0cn77",
+  "name": "Our Saviour Lutheran Church",
+  "displayName": "Our Saviour Lutheran Church",
+  "address": {
+    "street": "1200 S 40th St",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68510-4612"
+  },
+  "coordinates": {
+    "latitude": 40.8015079498291,
+    "longitude": -96.66273498535156
+  },
+  "website": "https://osllincoln.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=488c988d-d35c-48e7-821c-a97e9b77b3c3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "488c988d-d35c-48e7-821c-a97e9b77b3c3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "osllincoln.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "476000940"
+    }
+  ],
+  "advisories": []
+}

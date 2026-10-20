@@ -1,0 +1,33 @@
+{
+  "id": "ec41prt95",
+  "url": "https://constellation.church/ec41prt95",
+  "name": "Glad Tidings Church",
+  "displayName": "Glad Tidings Church",
+  "address": {
+    "street": "711 Fairground Rd",
+    "city": "Dunn",
+    "state": "NC",
+    "zip": "28334"
+  },
+  "coordinates": {
+    "latitude": 35.323753356933594,
+    "longitude": -78.60898208618164
+  },
+  "website": "https://gladtidings.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=3ee35e80-7d68-4d2b-8985-a3474176edd6&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "3ee35e80-7d68-4d2b-8985-a3474176edd6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gladtidings.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561414960"
+    }
+  ],
+  "advisories": []
+}

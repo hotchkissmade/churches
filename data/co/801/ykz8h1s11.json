@@ -1,0 +1,33 @@
+{
+  "id": "ykz8h1s11",
+  "url": "https://constellation.church/ykz8h1s11",
+  "name": "St James Presbyterian Church",
+  "displayName": "St. James Presbyterian Church",
+  "address": {
+    "street": "3601 W Belleview Ave",
+    "city": "Littleton",
+    "state": "CO",
+    "zip": "80123"
+  },
+  "coordinates": {
+    "latitude": 39.62455177307129,
+    "longitude": -105.03616333007812
+  },
+  "website": "https://sjpres.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/1219/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "1219"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sjpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840631648"
+    }
+  ],
+  "advisories": []
+}

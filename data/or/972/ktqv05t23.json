@@ -1,0 +1,33 @@
+{
+  "id": "ktqv05t23",
+  "url": "https://constellation.church/ktqv05t23",
+  "name": "Zomi Bethel Church",
+  "displayName": "Zomi Bethel Church",
+  "address": {
+    "street": "200 SE 76th Ave",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97215"
+  },
+  "coordinates": {
+    "latitude": 45.522987365722656,
+    "longitude": -122.51488494873047
+  },
+  "website": "https://zomibethelchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/zomi-bethel-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "zomi-bethel-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zomibethelchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "811331051"
+    }
+  ],
+  "advisories": []
+}

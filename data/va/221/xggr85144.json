@@ -1,0 +1,33 @@
+{
+  "id": "xggr85144",
+  "url": "https://constellation.church/xggr85144",
+  "name": "St Matthew's Lutheran Church",
+  "displayName": "St. Matthew's Lutheran Church",
+  "address": {
+    "street": "12351 All Saints Pl",
+    "city": "Woodbridge",
+    "state": "VA",
+    "zip": "22192-3378"
+  },
+  "coordinates": {
+    "latitude": 38.685190200805664,
+    "longitude": -77.30886840820312
+  },
+  "website": "https://stmatthewsva.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1cf17753-b528-4d11-929b-7479f59a19e5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1cf17753-b528-4d11-929b-7479f59a19e5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmatthewsva.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540969917"
+    }
+  ],
+  "advisories": []
+}

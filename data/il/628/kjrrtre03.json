@@ -1,0 +1,33 @@
+{
+  "id": "kjrrtre03",
+  "url": "https://constellation.church/kjrrtre03",
+  "name": "First Baptist Church of Fairfield",
+  "displayName": "First Baptist Church of Fairfield",
+  "address": {
+    "street": "308 S 1st St",
+    "city": "Fairfield",
+    "state": "IL",
+    "zip": "62837"
+  },
+  "coordinates": {
+    "latitude": 38.37672996520996,
+    "longitude": -88.35961151123047
+  },
+  "website": "https://fairfieldfbc.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-fairfield-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-fairfield-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fairfieldfbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370762476"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "fgzan3e03",
+  "url": "https://constellation.church/fgzan3e03",
+  "name": "New York Chinese EFC",
+  "displayName": "New York Chinese Evangelical Free Church",
+  "address": {
+    "street": "6501 6th Ave",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11220-5503"
+  },
+  "coordinates": {
+    "latitude": 40.634687,
+    "longitude": -74.0169582
+  },
+  "website": "https://nycefc.org",
+  "listingUrl": "https://churches.efca.org/?id=193124",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "193124"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nycefc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "113522531"
+    }
+  ],
+  "advisories": []
+}

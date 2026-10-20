@@ -1,0 +1,33 @@
+{
+  "id": "m00fdx925",
+  "url": "https://constellation.church/m00fdx925",
+  "name": "Bay Area Presbyterian Church",
+  "displayName": "Bay Area Presbyterian Church",
+  "address": {
+    "street": "670 East Medical Center Boulevard",
+    "city": "Webster",
+    "state": "TX",
+    "zip": "77598"
+  },
+  "coordinates": {
+    "latitude": 29.54798698425293,
+    "longitude": -95.11492919921875
+  },
+  "website": "https://bapc.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/84",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "84"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bapc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760229701"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ff5tqy880",
+  "url": "https://constellation.church/ff5tqy880",
+  "name": "River City Church",
+  "displayName": "River City Church",
+  "address": {
+    "street": "2037 Noble St",
+    "city": "Swissvale",
+    "state": "PA",
+    "zip": "15218"
+  },
+  "coordinates": {
+    "latitude": 40.42090606689453,
+    "longitude": -79.88561630249023
+  },
+  "website": "https://rivercitypgh.com",
+  "listingUrl": "https://churches.sbc.net/church/river-city-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "river-city-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rivercitypgh.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "463712618"
+    }
+  ],
+  "advisories": []
+}

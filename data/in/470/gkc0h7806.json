@@ -1,0 +1,33 @@
+{
+  "id": "gkc0h7806",
+  "url": "https://constellation.church/gkc0h7806",
+  "name": "Milan United Methodist Church",
+  "displayName": "Milan United Methodist Church",
+  "address": {
+    "street": "306 N Main St",
+    "city": "Milan",
+    "state": "IN",
+    "zip": "47031"
+  },
+  "coordinates": {
+    "latitude": 39.12130546569824,
+    "longitude": -85.1313591003418
+  },
+  "website": "https://milanumc.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFLU2IAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFLU2IAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "milanumc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351479317"
+    }
+  ],
+  "advisories": []
+}

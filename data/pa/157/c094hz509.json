@@ -1,0 +1,33 @@
+{
+  "id": "c094hz509",
+  "url": "https://constellation.church/c094hz509",
+  "name": "United Presbyterian Church",
+  "displayName": "United Presbyterian Church",
+  "address": {
+    "street": "137 N Walnut St",
+    "city": "Blairsville",
+    "state": "PA",
+    "zip": "15717"
+  },
+  "coordinates": {
+    "latitude": 40.43249702453613,
+    "longitude": -79.2651596069336
+  },
+  "website": "https://r-church.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/9659/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "9659"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "r-church.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251203201"
+    }
+  ],
+  "advisories": []
+}

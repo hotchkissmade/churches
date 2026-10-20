@@ -1,0 +1,33 @@
+{
+  "id": "hcbahy955",
+  "url": "https://constellation.church/hcbahy955",
+  "name": "St. Mary's Cathedral",
+  "displayName": "St. Mary's Cathedral",
+  "address": {
+    "street": "1701 5th St NE",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55413"
+  },
+  "coordinates": {
+    "latitude": 45.00505828857422,
+    "longitude": -93.26010131835938
+  },
+  "website": "https://stmarysoca.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-mw-minsmk",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-mw-minsmk"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarysoca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410737340"
+    }
+  ],
+  "advisories": []
+}

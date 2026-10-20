@@ -1,0 +1,33 @@
+{
+  "id": "khjvvm725",
+  "url": "https://constellation.church/khjvvm725",
+  "name": "Holy Trinity Lutheran Church",
+  "displayName": "Holy Trinity Lutheran Church",
+  "address": {
+    "street": "502 Lafayette Ave",
+    "city": "Palmerton",
+    "state": "PA",
+    "zip": "18071-1621"
+  },
+  "coordinates": {
+    "latitude": 40.80575370788574,
+    "longitude": -75.60566711425781
+  },
+  "website": "https://holytrinitypalmerton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1a37f9f4-0a29-44a0-a80a-0808ad5040dd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1a37f9f4-0a29-44a0-a80a-0808ad5040dd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holytrinitypalmerton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237140093"
+    }
+  ],
+  "advisories": []
+}

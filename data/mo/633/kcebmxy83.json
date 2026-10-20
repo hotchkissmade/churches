@@ -1,0 +1,33 @@
+{
+  "id": "kcebmxy83",
+  "url": "https://constellation.church/kcebmxy83",
+  "name": "Grace River Church",
+  "displayName": "Grace River Church",
+  "address": {
+    "street": "1913 Trade Center Dr",
+    "city": "St. Peters",
+    "state": "MO",
+    "zip": "63376"
+  },
+  "coordinates": {
+    "latitude": 38.80207443237305,
+    "longitude": -90.66553497314453
+  },
+  "website": "https://graceriver.cc/home",
+  "listingUrl": "https://converge.org/church/grace-river-church/",
+  "identifiers": [
+    {
+      "namespace": "org.converge.id",
+      "value": "38101"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceriver.cc/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "465693542"
+    }
+  ],
+  "advisories": []
+}

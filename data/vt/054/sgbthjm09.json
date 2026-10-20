@@ -1,0 +1,33 @@
+{
+  "id": "sgbthjm09",
+  "url": "https://constellation.church/sgbthjm09",
+  "name": "Rock Church",
+  "displayName": "Rock Church",
+  "address": {
+    "street": "1091 Fairfax Rd",
+    "city": "Saint Albans",
+    "state": "VT",
+    "zip": "05478"
+  },
+  "coordinates": {
+    "latitude": 44.78988265991211,
+    "longitude": -73.07403182983398
+  },
+  "website": "https://therockvt.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=700eade7-a85d-4d2c-9524-780399465c68&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "700eade7-a85d-4d2c-9524-780399465c68"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "therockvt.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030274753"
+    }
+  ],
+  "advisories": []
+}

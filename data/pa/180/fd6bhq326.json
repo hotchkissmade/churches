@@ -1,0 +1,33 @@
+{
+  "id": "fd6bhq326",
+  "url": "https://constellation.church/fd6bhq326",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "5907 Sullivan Trl",
+    "city": "Nazareth",
+    "state": "PA",
+    "zip": "18064-9275"
+  },
+  "coordinates": {
+    "latitude": 40.782249450683594,
+    "longitude": -75.27933120727539
+  },
+  "website": "https://gracebelfastpa.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8a998060-2403-42d6-b7db-2c0cebb74a57",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8a998060-2403-42d6-b7db-2c0cebb74a57"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracebelfastpa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232086405"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "y2hkbax75",
+  "url": "https://constellation.church/y2hkbax75",
+  "name": "Holy Apostles Church",
+  "displayName": "Holy Apostles Church",
+  "address": {
+    "street": "17 Platt Ave",
+    "city": "Saddle Brook",
+    "state": "NJ",
+    "zip": "07663"
+  },
+  "coordinates": {
+    "latitude": 40.899431228637695,
+    "longitude": -74.08247756958008
+  },
+  "website": "https://holyapostlesnj.net",
+  "listingUrl": "https://www.oca.org/parishes/oca-ny-sadhac",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ny-sadhac"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holyapostlesnj.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237132020"
+    }
+  ],
+  "advisories": []
+}

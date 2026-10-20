@@ -1,0 +1,33 @@
+{
+  "id": "sqw2nb861",
+  "url": "https://constellation.church/sqw2nb861",
+  "name": "Calvary Lutheran Church",
+  "displayName": "Calvary Lutheran Church",
+  "address": {
+    "street": "414 Wood St S",
+    "city": "Mora",
+    "state": "MN",
+    "zip": "55051-1453"
+  },
+  "coordinates": {
+    "latitude": 45.87278366088867,
+    "longitude": -93.29956817626953
+  },
+  "website": "https://calvarymora.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f1a9de6b-fbe1-4a3c-9fcd-6a07d09f4665",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f1a9de6b-fbe1-4a3c-9fcd-6a07d09f4665"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "calvarymora.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411356951"
+    }
+  ],
+  "advisories": []
+}

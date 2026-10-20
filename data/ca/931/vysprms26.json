@@ -1,0 +1,33 @@
+{
+  "id": "vysprms26",
+  "url": "https://constellation.church/vysprms26",
+  "name": "Christ Presbyterian Church",
+  "displayName": "Christ Presbyterian Church",
+  "address": {
+    "street": "36 East Victoria Street",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "zip": "93101"
+  },
+  "coordinates": {
+    "latitude": 34.42523384094238,
+    "longitude": -119.70458984375
+  },
+  "website": "https://cpcsb.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1669",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1669"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cpcsb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "770435317"
+    }
+  ],
+  "advisories": []
+}

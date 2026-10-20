@@ -1,0 +1,33 @@
+{
+  "id": "sn3kfnd56",
+  "url": "https://constellation.church/sn3kfnd56",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "401 S Lake St",
+    "city": "Lake Mills",
+    "state": "IA",
+    "zip": "50450-1607"
+  },
+  "coordinates": {
+    "latitude": 43.41607475280762,
+    "longitude": -93.53235626220703
+  },
+  "website": "https://salemlakemills.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6c183cb5-c79b-4c4f-b8f2-4c062783e6d6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6c183cb5-c79b-4c4f-b8f2-4c062783e6d6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemlakemills.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420722688"
+    }
+  ],
+  "advisories": []
+}

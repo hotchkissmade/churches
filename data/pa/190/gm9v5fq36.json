@@ -1,0 +1,33 @@
+{
+  "id": "gm9v5fq36",
+  "url": "https://constellation.church/gm9v5fq36",
+  "name": "Darby Friends Meeting",
+  "displayName": "Darby Friends Meeting",
+  "address": {
+    "street": "1017 Main St.",
+    "city": "Darby",
+    "state": "PA",
+    "zip": "19023"
+  },
+  "coordinates": {
+    "latitude": 39.92081260681152,
+    "longitude": -75.26326370239258
+  },
+  "website": "https://darbyfriendsmeeting.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/darby-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "darby-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "darbyfriendsmeeting.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236291606"
+    }
+  ],
+  "advisories": []
+}

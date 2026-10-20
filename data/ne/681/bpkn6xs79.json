@@ -1,0 +1,37 @@
+{
+  "id": "bpkn6xs79",
+  "url": "https://constellation.church/bpkn6xs79",
+  "name": "Iglesia Luterana San Andres",
+  "displayName": "Iglesia Luterana San Andres",
+  "address": {
+    "street": "4440 S 25th St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68107-1740"
+  },
+  "coordinates": {
+    "latitude": 41.21492004394531,
+    "longitude": -95.94873046875
+  },
+  "website": "https://sanandresomaha.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=06d25da3-5ee5-41a3-be8d-f187e85523d4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "06d25da3-5ee5-41a3-be8d-f187e85523d4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sanandresomaha.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "465593884"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "471150624"
+    }
+  ],
+  "advisories": []
+}

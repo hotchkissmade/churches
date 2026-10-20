@@ -1,0 +1,33 @@
+{
+  "id": "s55f7sc41",
+  "url": "https://constellation.church/s55f7sc41",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "1340 County Hwy 5",
+    "city": "Longville",
+    "state": "MN",
+    "zip": "56655"
+  },
+  "coordinates": {
+    "latitude": 46.989219665527344,
+    "longitude": -94.21512603759766
+  },
+  "website": "https://salemlongville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=96bed4dd-5886-4be9-911e-c71655a5355c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "96bed4dd-5886-4be9-911e-c71655a5355c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemlongville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411465157"
+    }
+  ],
+  "advisories": []
+}

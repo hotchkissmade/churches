@@ -1,0 +1,33 @@
+{
+  "id": "ya8f4fa04",
+  "url": "https://constellation.church/ya8f4fa04",
+  "name": "Mill City Church of Cayce",
+  "displayName": "Mill City Church of Cayce",
+  "address": {
+    "street": "600 Holland Ave",
+    "city": "Cayce",
+    "state": "SC",
+    "zip": "29033"
+  },
+  "coordinates": {
+    "latitude": 33.97520637512207,
+    "longitude": -81.05449676513672
+  },
+  "website": "https://millcitycayce.com",
+  "listingUrl": "https://churches.sbc.net/church/mill-city-church-of-cayce/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mill-city-church-of-cayce"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "millcitycayce.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "461122742"
+    }
+  ],
+  "advisories": []
+}

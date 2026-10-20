@@ -1,0 +1,33 @@
+{
+  "id": "psrjmaj79",
+  "url": "https://constellation.church/psrjmaj79",
+  "name": "Memorial Church of the Good Shepherd",
+  "displayName": "Memorial Church of the Good Shepherd",
+  "address": {
+    "street": "3820 The Oak Road",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19129-1030"
+  },
+  "coordinates": {
+    "latitude": 40.02242660522461,
+    "longitude": -75.18305206298828
+  },
+  "website": "https://goodshepherd-eastfalls.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/memorial-church-good-shepherd",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/memorial-church-good-shepherd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherd-eastfalls.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231365248"
+    }
+  ],
+  "advisories": []
+}

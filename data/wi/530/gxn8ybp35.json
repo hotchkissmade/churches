@@ -1,0 +1,33 @@
+{
+  "id": "gxn8ybp35",
+  "url": "https://constellation.church/gxn8ybp35",
+  "name": "St Matthew's Lutheran Church",
+  "displayName": "St. Matthew's Lutheran Church",
+  "address": {
+    "street": "1650 Brown St",
+    "city": "Oconomowoc",
+    "state": "WI",
+    "zip": "53066-2380"
+  },
+  "coordinates": {
+    "latitude": 43.13784599304199,
+    "longitude": -88.46335220336914
+  },
+  "website": "https://smls.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24931",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24931"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "smls.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396000393"
+    }
+  ],
+  "advisories": []
+}

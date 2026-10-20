@@ -1,0 +1,33 @@
+{
+  "id": "vsdm4hb85",
+  "url": "https://constellation.church/vsdm4hb85",
+  "name": "CHURCH OF GOD",
+  "displayName": "Church of God",
+  "address": {
+    "street": "200 EL PASO AVE",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95351"
+  },
+  "coordinates": {
+    "latitude": 37.6140123,
+    "longitude": -120.9917252
+  },
+  "website": "https://cog-eim.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "770111272"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cog-eim.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "770399100"
+    }
+  ],
+  "advisories": []
+}

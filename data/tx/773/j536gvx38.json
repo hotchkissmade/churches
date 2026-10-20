@@ -1,0 +1,33 @@
+{
+  "id": "j536gvx38",
+  "url": "https://constellation.church/j536gvx38",
+  "name": "Houston Northeast Church, Humble",
+  "displayName": "Houston Northeast Church, Humble",
+  "address": {
+    "street": "18000 W Lake Houston Pkwy",
+    "city": "Humble",
+    "state": "TX",
+    "zip": "77346"
+  },
+  "coordinates": {
+    "latitude": 29.98017120361328,
+    "longitude": -95.16449737548828
+  },
+  "website": "https://my.houstonnortheast.org/home",
+  "listingUrl": "https://churches.sbc.net/church/houston-northeast-church-humble/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "houston-northeast-church-humble"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "my.houstonnortheast.org/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760691244"
+    }
+  ],
+  "advisories": []
+}

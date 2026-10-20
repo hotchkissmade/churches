@@ -1,0 +1,33 @@
+{
+  "id": "tc6ajk951",
+  "url": "https://constellation.church/tc6ajk951",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "859 5th St",
+    "city": "Hancock",
+    "state": "MN",
+    "zip": "56244-9760"
+  },
+  "coordinates": {
+    "latitude": 45.49960708618164,
+    "longitude": -95.79240417480469
+  },
+  "website": "https://hancocklutheran.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24346",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24346"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hancocklutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411476732"
+    }
+  ],
+  "advisories": []
+}

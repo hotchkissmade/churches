@@ -1,0 +1,33 @@
+{
+  "id": "f42ft0b16",
+  "url": "https://constellation.church/f42ft0b16",
+  "name": "Hedding United Methodist Church",
+  "displayName": "Hedding United Methodist Church",
+  "address": {
+    "street": "40 Washington St",
+    "city": "Barre",
+    "state": "VT",
+    "zip": "05641-4241"
+  },
+  "coordinates": {
+    "latitude": 44.19688606262207,
+    "longitude": -72.4999885559082
+  },
+  "website": "https://heddingchurch.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFNGqIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFNGqIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "heddingchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030194042"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jq650wr27",
+  "url": "https://constellation.church/jq650wr27",
+  "name": "MCC Key West",
+  "displayName": "Metropolitan Community Church Key West",
+  "address": {
+    "street": "1215 Petronia St",
+    "city": "Key West",
+    "state": "FL",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 24.558385848999023,
+    "longitude": -81.79220962524414
+  },
+  "website": "https://mcckeywest.com",
+  "listingUrl": "https://visitmccchurch.com/our-churches/mcc-churches-in-the-united-states/mcc-churches-in-fl/mcc-key-west/",
+  "identifiers": [
+    {
+      "namespace": "com.visitmccchurch.id",
+      "value": "FL/mcc-key-west"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mcckeywest.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "230794543"
+    }
+  ],
+  "advisories": []
+}

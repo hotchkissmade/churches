@@ -1,0 +1,33 @@
+{
+  "id": "ezwtdkr64",
+  "url": "https://constellation.church/ezwtdkr64",
+  "name": "King Grove Baptist Church",
+  "displayName": "King Grove Baptist Church",
+  "address": {
+    "street": "1580 Highway 178",
+    "city": "Swansea",
+    "state": "SC",
+    "zip": "29160"
+  },
+  "coordinates": {
+    "latitude": 33.70678901672363,
+    "longitude": -81.20182037353516
+  },
+  "website": "https://kinggrove.org",
+  "listingUrl": "https://churches.sbc.net/church/king-grove-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "king-grove-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kinggrove.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "020769450"
+    }
+  ],
+  "advisories": []
+}

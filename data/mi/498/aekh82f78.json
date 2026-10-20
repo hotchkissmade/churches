@@ -1,0 +1,33 @@
+{
+  "id": "aekh82f78",
+  "url": "https://constellation.church/aekh82f78",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "120 N Front St",
+    "city": "Marquette",
+    "state": "MI",
+    "zip": "49855-4303"
+  },
+  "coordinates": {
+    "latitude": 46.54395294189453,
+    "longitude": -87.392333984375
+  },
+  "website": "https://firstpresbyterianmarquette.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/3260/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "3260"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpresbyterianmarquette.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381505634"
+    }
+  ],
+  "advisories": []
+}

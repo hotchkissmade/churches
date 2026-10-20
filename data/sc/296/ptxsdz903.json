@@ -1,0 +1,33 @@
+{
+  "id": "ptxsdz903",
+  "url": "https://constellation.church/ptxsdz903",
+  "name": "North Side Baptist Church",
+  "displayName": "North Side Baptist Church",
+  "address": {
+    "street": "409 Northside Dr W",
+    "city": "Greenwood",
+    "state": "SC",
+    "zip": "29649"
+  },
+  "coordinates": {
+    "latitude": 34.22994041442871,
+    "longitude": -82.19086456298828
+  },
+  "website": "https://northsidebc.org",
+  "listingUrl": "https://churches.sbc.net/church/north-side-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "north-side-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northsidebc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570484802"
+    }
+  ],
+  "advisories": []
+}

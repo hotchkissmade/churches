@@ -1,0 +1,33 @@
+{
+  "id": "g20c92m83",
+  "url": "https://constellation.church/g20c92m83",
+  "name": "Garden City",
+  "displayName": "Garden City Baptist Church",
+  "address": {
+    "street": "3536 Garden City Blvd SE",
+    "city": "Roanoke",
+    "state": "VA",
+    "zip": "24014"
+  },
+  "coordinates": {
+    "latitude": 37.229366302490234,
+    "longitude": -79.92914199829102
+  },
+  "website": "https://gardencitybaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/garden-city-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "garden-city-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gardencitybaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540931292"
+    }
+  ],
+  "advisories": []
+}

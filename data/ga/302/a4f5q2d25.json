@@ -1,0 +1,33 @@
+{
+  "id": "a4f5q2d25",
+  "url": "https://constellation.church/a4f5q2d25",
+  "name": "Sardis Baptist Church",
+  "displayName": "Sardis Baptist Church",
+  "address": {
+    "street": "2120 Keys Ferry Rd",
+    "city": "Mcdonough",
+    "state": "GA",
+    "zip": "30252"
+  },
+  "coordinates": {
+    "latitude": 33.412492752075195,
+    "longitude": -83.97353744506836
+  },
+  "website": "https://sardismcdonough.net",
+  "listingUrl": "https://churches.sbc.net/church/sardis-baptist-church-10/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sardis-baptist-church-10"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sardismcdonough.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "050596303"
+    }
+  ],
+  "advisories": []
+}

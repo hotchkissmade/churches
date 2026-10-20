@@ -1,0 +1,33 @@
+{
+  "id": "mzy34w798",
+  "url": "https://constellation.church/mzy34w798",
+  "name": "Harvest Fresno Church",
+  "displayName": "Harvest Fresno Church",
+  "address": {
+    "street": "3620 N Millbrook Ave",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93726"
+  },
+  "coordinates": {
+    "latitude": 36.78363609313965,
+    "longitude": -119.76251220703125
+  },
+  "website": "https://harvestfresno.org",
+  "listingUrl": "https://churches.sbc.net/church/harvest-fresno-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "harvest-fresno-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "harvestfresno.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "770491590"
+    }
+  ],
+  "advisories": []
+}

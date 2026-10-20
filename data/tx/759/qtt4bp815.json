@@ -1,0 +1,33 @@
+{
+  "id": "qtt4bp815",
+  "url": "https://constellation.church/qtt4bp815",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "314 N Main St",
+    "city": "Jasper",
+    "state": "TX",
+    "zip": "75951"
+  },
+  "coordinates": {
+    "latitude": 30.923425674438477,
+    "longitude": -94.00023651123047
+  },
+  "website": "https://fbcjaspertx.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-144/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-144"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcjaspertx.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "746001451"
+    }
+  ],
+  "advisories": []
+}

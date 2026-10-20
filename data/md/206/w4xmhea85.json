@@ -1,0 +1,33 @@
+{
+  "id": "w4xmhea85",
+  "url": "https://constellation.church/w4xmhea85",
+  "name": "Nanjemoy Baptist Church",
+  "displayName": "Nanjemoy Baptist Church",
+  "address": {
+    "street": "3030 Baptist Church Rd",
+    "city": "Nanjemoy",
+    "state": "MD",
+    "zip": "20662"
+  },
+  "coordinates": {
+    "latitude": 38.456520080566406,
+    "longitude": -77.20882797241211
+  },
+  "website": "https://nanjemoybaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/nanjemoy-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "nanjemoy-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nanjemoybaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521137137"
+    }
+  ],
+  "advisories": []
+}

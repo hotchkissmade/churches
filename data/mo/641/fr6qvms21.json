@@ -1,0 +1,33 @@
+{
+  "id": "fr6qvms21",
+  "url": "https://constellation.church/fr6qvms21",
+  "name": "Church in Kansas City",
+  "displayName": "Church in Kansas City",
+  "address": {
+    "street": "4751 N Holmes St",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64116"
+  },
+  "coordinates": {
+    "latitude": 39.18023109436035,
+    "longitude": -94.57117462158203
+  },
+  "website": "https://thechurchinkansascity.org",
+  "listingUrl": "https://localchurches.org/churches/kansas-city-mo-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "kansas-city-mo-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thechurchinkansascity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431246666"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "npwjj9y84",
+  "url": "https://constellation.church/npwjj9y84",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "111 E 20th St",
+    "city": "La Junta",
+    "state": "CO",
+    "zip": "81050"
+  },
+  "coordinates": {
+    "latitude": 37.97000503540039,
+    "longitude": -103.54119873046875
+  },
+  "website": "https://firstchurchlajunta.org",
+  "listingUrl": "https://eco-pres.org/churches/first-presbyterian-church-la-junta/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "first-presbyterian-church-la-junta"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstchurchlajunta.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "412166318"
+    }
+  ],
+  "advisories": []
+}

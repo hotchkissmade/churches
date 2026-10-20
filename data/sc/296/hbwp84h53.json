@@ -1,0 +1,33 @@
+{
+  "id": "hbwp84h53",
+  "url": "https://constellation.church/hbwp84h53",
+  "name": "Pope Drive Baptist Church",
+  "displayName": "Pope Drive Baptist Church",
+  "address": {
+    "street": "2510 Pope Drive",
+    "city": "Anderson",
+    "state": "SC",
+    "zip": "29625"
+  },
+  "coordinates": {
+    "latitude": 34.52737617492676,
+    "longitude": -82.66965103149414
+  },
+  "website": "https://popedrive.com",
+  "listingUrl": "https://churches.sbc.net/church/pope-drive-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pope-drive-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "popedrive.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570426851"
+    }
+  ],
+  "advisories": []
+}

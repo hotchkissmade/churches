@@ -1,0 +1,33 @@
+{
+  "id": "j9e8txc54",
+  "url": "https://constellation.church/j9e8txc54",
+  "name": "Redland Baptist Church",
+  "displayName": "Redland Baptist Church",
+  "address": {
+    "street": "6922 Muncaster Mill Rd",
+    "city": "Derwood",
+    "state": "MD",
+    "zip": "20855"
+  },
+  "coordinates": {
+    "latitude": 39.14211082458496,
+    "longitude": -77.13983535766602
+  },
+  "website": "https://redlandbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/redland-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "redland-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redlandbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521077266"
+    }
+  ],
+  "advisories": []
+}

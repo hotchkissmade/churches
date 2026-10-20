@@ -1,0 +1,33 @@
+{
+  "id": "rnapazs05",
+  "url": "https://constellation.church/rnapazs05",
+  "name": "Mount Horeb Lutheran Church",
+  "displayName": "Mount Horeb Lutheran Church",
+  "address": {
+    "street": "101 E Boundary St",
+    "city": "Chapin",
+    "state": "SC",
+    "zip": "29036-8385"
+  },
+  "coordinates": {
+    "latitude": 34.16738,
+    "longitude": -81.346201
+  },
+  "website": "https://mthoreb.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c978c70a-8528-42b9-9b47-a9a9863605ed",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c978c70a-8528-42b9-9b47-a9a9863605ed"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mthoreb.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "576069473"
+    }
+  ],
+  "advisories": []
+}

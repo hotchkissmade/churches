@@ -1,0 +1,33 @@
+{
+  "id": "pj1aedm18",
+  "url": "https://constellation.church/pj1aedm18",
+  "name": "Lutheran Church of the Redeemer",
+  "displayName": "Lutheran Church of the Redeemer",
+  "address": {
+    "street": "4211 Vermont Ave",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21229-3599"
+  },
+  "coordinates": {
+    "latitude": 39.285728454589844,
+    "longitude": -76.68562316894531
+  },
+  "website": "https://redeemerlutheranbaltimore.org",
+  "listingUrl": "https://locator.lcms.org/church/C/54698",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "54698"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerlutheranbaltimore.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "526014991"
+    }
+  ],
+  "advisories": []
+}

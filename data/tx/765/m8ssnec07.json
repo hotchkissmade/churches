@@ -1,0 +1,33 @@
+{
+  "id": "m8ssnec07",
+  "url": "https://constellation.church/m8ssnec07",
+  "name": "Lakeview Baptist Church, Belton",
+  "displayName": "Lakeview Baptist Church, Belton",
+  "address": {
+    "street": "7717 Hwy 317",
+    "city": "Belton",
+    "state": "TX",
+    "zip": "76513"
+  },
+  "coordinates": {
+    "latitude": 31.126559263767,
+    "longitude": -97.441387220498
+  },
+  "website": "https://lbcbelton.org",
+  "listingUrl": "https://churches.sbc.net/church/lakeview-baptist-church-belton-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lakeview-baptist-church-belton-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lbcbelton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742106640"
+    }
+  ],
+  "advisories": []
+}

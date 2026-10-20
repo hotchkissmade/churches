@@ -1,0 +1,33 @@
+{
+  "id": "x61c83f47",
+  "url": "https://constellation.church/x61c83f47",
+  "name": "Berwyn Baptist Church",
+  "displayName": "Berwyn Baptist Church",
+  "address": {
+    "street": "4720 Cherokee St",
+    "city": "College Park",
+    "state": "MD",
+    "zip": "20740"
+  },
+  "coordinates": {
+    "latitude": 39.0035400390625,
+    "longitude": -76.92795944213867
+  },
+  "website": "https://berwynbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/berwyn-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "berwyn-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "berwynbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520784172"
+    }
+  ],
+  "advisories": []
+}

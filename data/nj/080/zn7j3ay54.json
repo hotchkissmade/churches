@@ -1,0 +1,33 @@
+{
+  "id": "zn7j3ay54",
+  "url": "https://constellation.church/zn7j3ay54",
+  "name": "The House Church",
+  "displayName": "The House Church",
+  "address": {
+    "street": "529 Hurffville Crosskeys Rd",
+    "city": "Sewell",
+    "state": "NJ",
+    "zip": "08080"
+  },
+  "coordinates": {
+    "latitude": 39.74345016479492,
+    "longitude": -75.07909393310547
+  },
+  "website": "https://thehousechurch.family",
+  "listingUrl": "https://churches.sbc.net/church/the-house-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-house-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thehousechurch.family"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "413730273"
+    }
+  ],
+  "advisories": []
+}

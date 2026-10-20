@@ -1,0 +1,33 @@
+{
+  "id": "k8zrh6s60",
+  "url": "https://constellation.church/k8zrh6s60",
+  "name": "St Lukes Lutheran Church",
+  "displayName": "St. Luke's Lutheran Church",
+  "address": {
+    "street": "365 W River Dr",
+    "city": "New Richmond",
+    "state": "WI",
+    "zip": "54017-1435"
+  },
+  "coordinates": {
+    "latitude": 45.11990737915039,
+    "longitude": -92.55449676513672
+  },
+  "website": "https://stlukesnr.org",
+  "listingUrl": "https://locator.lcms.org/church/C/639139",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "639139"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesnr.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396139618"
+    }
+  ],
+  "advisories": []
+}

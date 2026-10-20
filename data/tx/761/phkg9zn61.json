@@ -1,0 +1,33 @@
+{
+  "id": "phkg9zn61",
+  "url": "https://constellation.church/phkg9zn61",
+  "name": "World Missionary Baptist Church",
+  "displayName": "World Missionary Baptist Church",
+  "address": {
+    "street": "1200 Bessie St",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76104"
+  },
+  "coordinates": {
+    "latitude": 32.73994255065918,
+    "longitude": -97.31204986572266
+  },
+  "website": "https://worldmbc.com",
+  "listingUrl": "https://churches.sbc.net/church/world-missionary-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "world-missionary-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "worldmbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751803227"
+    }
+  ],
+  "advisories": []
+}

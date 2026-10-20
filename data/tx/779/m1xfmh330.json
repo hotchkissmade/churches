@@ -1,0 +1,33 @@
+{
+  "id": "m1xfmh330",
+  "url": "https://constellation.church/m1xfmh330",
+  "name": "Austin Street Baptist Church",
+  "displayName": "Austin Street Baptist Church",
+  "address": {
+    "street": "1308 E Gonzales St",
+    "city": "Yoakum",
+    "state": "TX",
+    "zip": "77995"
+  },
+  "coordinates": {
+    "latitude": 29.278663635253906,
+    "longitude": -97.1342544555664
+  },
+  "website": "https://austinstreetyoakum.org",
+  "listingUrl": "https://churches.sbc.net/church/austin-street-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "austin-street-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "austinstreetyoakum.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742232116"
+    }
+  ],
+  "advisories": []
+}

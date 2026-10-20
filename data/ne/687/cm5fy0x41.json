@@ -1,0 +1,33 @@
+{
+  "id": "cm5fy0x41",
+  "url": "https://constellation.church/cm5fy0x41",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "600 Nutmeg",
+    "city": "Stanton",
+    "state": "NE",
+    "zip": "68779-0386"
+  },
+  "coordinates": {
+    "latitude": 41.95509338378906,
+    "longitude": -97.21927642822266
+  },
+  "website": "https://stjohnsstanton.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24492",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24492"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsstanton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "476005600"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "f96ew0308",
+  "url": "https://constellation.church/f96ew0308",
+  "name": "St John's Church",
+  "displayName": "St. John's Church",
+  "address": {
+    "street": "252 S. Dargan St",
+    "city": "Florence",
+    "state": "SC",
+    "zip": "29506"
+  },
+  "coordinates": {
+    "latitude": 34.19441032409668,
+    "longitude": -79.76551055908203
+  },
+  "website": "https://stjohnsflorence.org",
+  "listingUrl": "https://www.acna.org/admin_units/1405",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "1405"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsflorence.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570357964"
+    }
+  ],
+  "advisories": []
+}

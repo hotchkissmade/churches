@@ -1,0 +1,33 @@
+{
+  "id": "cprcwf169",
+  "url": "https://constellation.church/cprcwf169",
+  "name": "Central United Methodist Church",
+  "displayName": "Central United Methodist Church",
+  "address": {
+    "street": "200 E Marion St",
+    "city": "Shelby",
+    "state": "NC",
+    "zip": "28150"
+  },
+  "coordinates": {
+    "latitude": 35.29165458679199,
+    "longitude": -81.53865432739258
+  },
+  "website": "https://cumcshelby.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFNFKIA5",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFNFKIA5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cumcshelby.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560588462"
+    }
+  ],
+  "advisories": []
+}

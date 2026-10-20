@@ -1,0 +1,33 @@
+{
+  "id": "mv2zm3b43",
+  "url": "https://constellation.church/mv2zm3b43",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "410 West Ave S",
+    "city": "La Crosse",
+    "state": "WI",
+    "zip": "54601-4759"
+  },
+  "coordinates": {
+    "latitude": 43.8075285,
+    "longitude": -91.2393521
+  },
+  "website": "https://firstlacrosse.org/service-schedule",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24954",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24954"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlacrosse.org/service-schedule"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390875189"
+    }
+  ],
+  "advisories": []
+}

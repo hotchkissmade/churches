@@ -1,0 +1,33 @@
+{
+  "id": "kkfrhs314",
+  "url": "https://constellation.church/kkfrhs314",
+  "name": "Maple Leaf Lutheran Church",
+  "displayName": "Maple Leaf Lutheran Church",
+  "address": {
+    "street": "10005 32nd Ave NE",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98125-7801"
+  },
+  "coordinates": {
+    "latitude": 47.701438903808594,
+    "longitude": -122.29440307617188
+  },
+  "website": "https://reachoutchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c5d4e370-9727-4570-9a47-23dc91979a29",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c5d4e370-9727-4570-9a47-23dc91979a29"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "reachoutchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910663542"
+    }
+  ],
+  "advisories": []
+}

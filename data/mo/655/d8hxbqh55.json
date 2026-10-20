@@ -1,0 +1,33 @@
+{
+  "id": "d8hxbqh55",
+  "url": "https://constellation.church/d8hxbqh55",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "2601 W Elm St",
+    "city": "Lebanon",
+    "state": "MO",
+    "zip": "65536"
+  },
+  "coordinates": {
+    "latitude": 37.64294242858887,
+    "longitude": -92.67422103881836
+  },
+  "website": "https://lebanon1st.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=387fbb0b-9450-4e3c-a8a4-443d5fac636a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "387fbb0b-9450-4e3c-a8a4-443d5fac636a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lebanon1st.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431271275"
+    }
+  ],
+  "advisories": []
+}

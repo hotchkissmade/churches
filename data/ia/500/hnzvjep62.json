@@ -1,0 +1,33 @@
+{
+  "id": "hnzvjep62",
+  "url": "https://constellation.church/hnzvjep62",
+  "name": "Sacred Mission Church",
+  "displayName": "Sacred Mission Church",
+  "address": {
+    "street": "416 4th Ave",
+    "city": "Collins",
+    "state": "IA",
+    "zip": "50055"
+  },
+  "coordinates": {
+    "latitude": 41.867319107055664,
+    "longitude": -93.29292297363281
+  },
+  "website": "https://sacredmission.church",
+  "listingUrl": "https://churches.sbc.net/church/sacred-mission-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sacred-mission-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sacredmission.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "832176908"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pjqxdsh55",
+  "url": "https://constellation.church/pjqxdsh55",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "925 Balour Dr",
+    "city": "Encinitas",
+    "state": "CA",
+    "zip": "92024-3946"
+  },
+  "coordinates": {
+    "latitude": 33.04022026062012,
+    "longitude": -117.26790618896484
+  },
+  "website": "https://blcenc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fd16c28c-d208-4b08-a729-e5e39d3f7e9e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fd16c28c-d208-4b08-a729-e5e39d3f7e9e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blcenc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952847819"
+    }
+  ],
+  "advisories": []
+}

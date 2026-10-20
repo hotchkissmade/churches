@@ -1,0 +1,33 @@
+{
+  "id": "de1dtse06",
+  "url": "https://constellation.church/de1dtse06",
+  "name": "Highland Avenue United Methodist Church",
+  "displayName": "Highland Avenue United Methodist Church",
+  "address": {
+    "street": "35 Highland Ave",
+    "city": "Gardiner",
+    "state": "ME",
+    "zip": "04345"
+  },
+  "coordinates": {
+    "latitude": 44.23233985900879,
+    "longitude": -69.77521896362305
+  },
+  "website": "https://highlandaveumc.net",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFOHhIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFOHhIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "highlandaveumc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "016024393"
+    }
+  ],
+  "advisories": []
+}

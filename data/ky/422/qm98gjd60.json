@@ -1,0 +1,33 @@
+{
+  "id": "qm98gjd60",
+  "url": "https://constellation.church/qm98gjd60",
+  "name": "Liberty Point Baptist Church",
+  "displayName": "Liberty Point Baptist Church",
+  "address": {
+    "street": "187 Old Dover Rd",
+    "city": "Cadiz",
+    "state": "KY",
+    "zip": "42211"
+  },
+  "coordinates": {
+    "latitude": 36.847543716430664,
+    "longitude": -87.85026550292969
+  },
+  "website": "https://libertypoint.church",
+  "listingUrl": "https://churches.sbc.net/church/liberty-point-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "liberty-point-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "libertypoint.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611046547"
+    }
+  ],
+  "advisories": []
+}

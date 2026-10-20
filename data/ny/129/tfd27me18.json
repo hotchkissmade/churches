@@ -1,0 +1,37 @@
+{
+  "id": "tfd27me18",
+  "url": "https://constellation.church/tfd27me18",
+  "name": "Lutheran Church of the Holy Trinity",
+  "displayName": "Lutheran Church of the Holy Trinity",
+  "address": {
+    "street": "136 Main St",
+    "city": "Saranac Lake",
+    "state": "NY",
+    "zip": "12983-1734"
+  },
+  "coordinates": {
+    "latitude": 44.32747268676758,
+    "longitude": -74.12909698486328
+  },
+  "website": "https://northcountrylutherans.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4c6f299d-0217-4df5-a273-da380940a0b6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4c6f299d-0217-4df5-a273-da380940a0b6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northcountrylutherans.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "141623288"
+    },
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "albany/church-st-luke-beloved-physician"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mx0065623",
+  "url": "https://constellation.church/mx0065623",
+  "name": "First EFC",
+  "displayName": "First Evangelical Free Church",
+  "address": {
+    "street": "3321 7th St",
+    "city": "Moline",
+    "state": "IL",
+    "zip": "61265-6109"
+  },
+  "coordinates": {
+    "latitude": 41.47804069519043,
+    "longitude": -90.52910614013672
+  },
+  "website": "https://firstfreemoline.net",
+  "listingUrl": "https://churches.efca.org/?id=12043",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12043"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstfreemoline.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362310472"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "svy4esk11",
+  "url": "https://constellation.church/svy4esk11",
+  "name": "St. Luke's Episcopal church",
+  "displayName": "St. Luke's Episcopal church",
+  "address": {
+    "street": "253 Glen Avenue",
+    "city": "Sea Cliff",
+    "state": "NY",
+    "zip": "11579"
+  },
+  "coordinates": {
+    "latitude": 40.846845626831055,
+    "longitude": -73.64521408081055
+  },
+  "website": "https://saintlukes-seacliff.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-lukes-episcopal-church-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-lukes-episcopal-church-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintlukes-seacliff.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "116028932"
+    }
+  ],
+  "advisories": []
+}

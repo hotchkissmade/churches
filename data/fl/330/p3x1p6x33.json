@@ -1,0 +1,33 @@
+{
+  "id": "p3x1p6x33",
+  "url": "https://constellation.church/p3x1p6x33",
+  "name": "Hollywood Community Church",
+  "displayName": "Hollywood Community Church",
+  "address": {
+    "street": "1708 N 60th Ave",
+    "city": "Hollywood",
+    "state": "FL",
+    "zip": "33021"
+  },
+  "coordinates": {
+    "latitude": 26.025327682495117,
+    "longitude": -80.21005630493164
+  },
+  "website": "https://ourhcc.org",
+  "listingUrl": "https://churches.sbc.net/church/hollywood-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hollywood-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ourhcc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590900990"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nms7a5a11",
+  "url": "https://constellation.church/nms7a5a11",
+  "name": "Church of the Good Shepherd",
+  "displayName": "Church of the Good Shepherd",
+  "address": {
+    "street": "11122 Midway Rd",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75229-4199"
+  },
+  "coordinates": {
+    "latitude": 32.90146827697754,
+    "longitude": -96.83741760253906
+  },
+  "website": "https://goodshepherddallas.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-dallas/list/church-good-shepherd-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-dallas/church-good-shepherd-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherddallas.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751008445"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ex05mkv25",
+  "url": "https://constellation.church/ex05mkv25",
+  "name": "DALLAS EVANGELICAL CHURCH",
+  "displayName": "Dallas Evangelical Church",
+  "address": {
+    "street": "783 SW CHURCH ST",
+    "city": "Dallas",
+    "state": "OR",
+    "zip": "97338"
+  },
+  "coordinates": {
+    "latitude": 44.92177200317383,
+    "longitude": -123.31873321533203
+  },
+  "website": "https://dallasec.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930454770"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dallasec.org"
+    }
+  ],
+  "advisories": []
+}

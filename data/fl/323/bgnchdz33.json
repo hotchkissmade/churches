@@ -1,0 +1,33 @@
+{
+  "id": "bgnchdz33",
+  "url": "https://constellation.church/bgnchdz33",
+  "name": "Athena Baptist Church",
+  "displayName": "Athena Baptist Church",
+  "address": {
+    "street": "10060 Josh Ezell Grade",
+    "city": "Perry",
+    "state": "FL",
+    "zip": "32348"
+  },
+  "coordinates": {
+    "latitude": 29.980823516845703,
+    "longitude": -83.49289321899414
+  },
+  "website": "https://athenabaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/athena-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "athena-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "athenabaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592288102"
+    }
+  ],
+  "advisories": []
+}

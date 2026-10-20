@@ -1,0 +1,33 @@
+{
+  "id": "fmf6ze569",
+  "url": "https://constellation.church/fmf6ze569",
+  "name": "North Rock Hill Church",
+  "displayName": "North Rock Hill Church",
+  "address": {
+    "street": "2562 Mt Gallant Rd",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732"
+  },
+  "coordinates": {
+    "latitude": 34.99462699890137,
+    "longitude": -81.00348663330078
+  },
+  "website": "https://northrockhill.com",
+  "listingUrl": "https://churches.sbc.net/church/north-rock-hill-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "north-rock-hill-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northrockhill.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "571061413"
+    }
+  ],
+  "advisories": []
+}

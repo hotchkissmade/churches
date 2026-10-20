@@ -1,0 +1,33 @@
+{
+  "id": "rxkhm1665",
+  "url": "https://constellation.church/rxkhm1665",
+  "name": "Seivern Baptist Church",
+  "displayName": "Seivern Baptist Church",
+  "address": {
+    "street": "1337 Seivern Rd",
+    "city": "Wagener",
+    "state": "SC",
+    "zip": "29164"
+  },
+  "coordinates": {
+    "latitude": 33.71367835998535,
+    "longitude": -81.41018295288086
+  },
+  "website": "https://seivernchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/seivern-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "seivern-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "seivernchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "571071483"
+    }
+  ],
+  "advisories": []
+}

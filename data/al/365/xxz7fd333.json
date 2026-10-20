@@ -1,0 +1,33 @@
+{
+  "id": "xxz7fd333",
+  "url": "https://constellation.church/xxz7fd333",
+  "name": "Eastern Shore Presbyterian Church",
+  "displayName": "Eastern Shore Presbyterian Church",
+  "address": {
+    "street": "320 Presbyterian Drive",
+    "city": "Fairhope",
+    "state": "AL",
+    "zip": "36532"
+  },
+  "coordinates": {
+    "latitude": 30.561050415039062,
+    "longitude": -87.89262390136719
+  },
+  "website": "https://easternshorepca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1157",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1157"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "easternshorepca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630984801"
+    }
+  ],
+  "advisories": []
+}

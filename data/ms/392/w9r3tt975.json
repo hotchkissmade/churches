@@ -1,0 +1,33 @@
+{
+  "id": "w9r3tt975",
+  "url": "https://constellation.church/w9r3tt975",
+  "name": "Church in Jackson",
+  "displayName": "Church in Jackson",
+  "address": {
+    "street": "406 Briarwood Dr, Suite 200",
+    "city": "Jackson",
+    "state": "MS",
+    "zip": "39206"
+  },
+  "coordinates": {
+    "latitude": 32.38129425048828,
+    "longitude": -90.15191650390625
+  },
+  "website": "https://churchinjackson.com",
+  "listingUrl": "https://localchurches.org/churches/jackson-ms-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "jackson-ms-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinjackson.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640947552"
+    }
+  ],
+  "advisories": []
+}

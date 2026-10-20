@@ -1,0 +1,33 @@
+{
+  "id": "r142d6x39",
+  "url": "https://constellation.church/r142d6x39",
+  "name": "Wesley United Methodist Church",
+  "displayName": "Wesley United Methodist Church",
+  "address": {
+    "street": "201 E 95th St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60619"
+  },
+  "coordinates": {
+    "latitude": 41.72154998779297,
+    "longitude": -87.6185531616211
+  },
+  "website": "https://wesleyumcchicago.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFJzzIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFJzzIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wesleyumcchicago.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362764788"
+    }
+  ],
+  "advisories": []
+}

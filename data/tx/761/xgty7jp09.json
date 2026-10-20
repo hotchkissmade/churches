@@ -1,0 +1,33 @@
+{
+  "id": "xgty7jp09",
+  "url": "https://constellation.church/xgty7jp09",
+  "name": "Central Christian Church",
+  "displayName": "Central Christian Church",
+  "address": {
+    "street": "305 Hamilton Avenue",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76107"
+  },
+  "coordinates": {
+    "latitude": 32.75418663024902,
+    "longitude": -97.36366271972656
+  },
+  "website": "https://cccfw.org",
+  "listingUrl": "https://churches.sbc.net/church/central-christian-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "central-christian-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cccfw.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750977580"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xyghgm606",
+  "url": "https://constellation.church/xyghgm606",
+  "name": "Evangelical Lutheran Church Of All Saints",
+  "displayName": "Evangelical Lutheran Church Of All Saints",
+  "address": {
+    "street": "5800 State Park Rd",
+    "city": "Fox Lake",
+    "state": "IL",
+    "zip": "60020-1182"
+  },
+  "coordinates": {
+    "latitude": 42.42331504821777,
+    "longitude": -88.19802856445312
+  },
+  "website": "https://allsaintsfoxlake.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e65b952a-6a74-49a3-9f17-44e2fc85e930",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e65b952a-6a74-49a3-9f17-44e2fc85e930"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allsaintsfoxlake.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362950570"
+    }
+  ],
+  "advisories": []
+}

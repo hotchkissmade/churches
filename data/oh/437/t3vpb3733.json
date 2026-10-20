@@ -1,0 +1,33 @@
+{
+  "id": "t3vpb3733",
+  "url": "https://constellation.church/t3vpb3733",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "116 N 7th St",
+    "city": "Zanesville",
+    "state": "OH",
+    "zip": "43701-3767"
+  },
+  "coordinates": {
+    "latitude": 39.942073822021484,
+    "longitude": -82.00358581542969
+  },
+  "website": "https://stjohnszanesville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=aa760566-e6c3-496e-ac4a-d996dd232d54",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "aa760566-e6c3-496e-ac4a-d996dd232d54"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnszanesville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "314386847"
+    }
+  ],
+  "advisories": []
+}

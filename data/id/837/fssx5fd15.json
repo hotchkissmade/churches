@@ -1,0 +1,33 @@
+{
+  "id": "fssx5fd15",
+  "url": "https://constellation.church/fssx5fd15",
+  "name": "Idaho Episcopal Foundation",
+  "displayName": "Idaho Episcopal Foundation",
+  "address": {
+    "street": "1858 West Judith Lane",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83705"
+  },
+  "coordinates": {
+    "latitude": 43.5914343,
+    "longitude": -116.2042938
+  },
+  "website": "https://episcopalidaho.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/idaho/list/idaho-episcopal-foundation",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "idaho/idaho-episcopal-foundation"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "episcopalidaho.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820200897"
+    }
+  ],
+  "advisories": []
+}

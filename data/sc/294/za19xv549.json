@@ -1,0 +1,33 @@
+{
+  "id": "za19xv549",
+  "url": "https://constellation.church/za19xv549",
+  "name": "Goose Creek First Baptist Church",
+  "displayName": "Goose Creek First Baptist Church",
+  "address": {
+    "street": "141 Saint James Ave",
+    "city": "Goose Creek",
+    "state": "SC",
+    "zip": "29445"
+  },
+  "coordinates": {
+    "latitude": 33.00174140930176,
+    "longitude": -80.0423469543457
+  },
+  "website": "https://firstbaptistgc.com",
+  "listingUrl": "https://churches.sbc.net/church/goose-creek-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "goose-creek-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistgc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570475043"
+    }
+  ],
+  "advisories": []
+}

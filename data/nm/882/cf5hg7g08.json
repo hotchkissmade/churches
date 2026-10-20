@@ -1,0 +1,33 @@
+{
+  "id": "cf5hg7g08",
+  "url": "https://constellation.church/cf5hg7g08",
+  "name": "Blodgett Street Baptist Church",
+  "displayName": "Blodgett Street Baptist Church",
+  "address": {
+    "street": "1500 W Blodgett St",
+    "city": "Carlsbad",
+    "state": "NM",
+    "zip": "88220"
+  },
+  "coordinates": {
+    "latitude": 32.43280220031738,
+    "longitude": -104.2449722290039
+  },
+  "website": "https://bsbcnm.com",
+  "listingUrl": "https://churches.sbc.net/church/blodgett-street-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "blodgett-street-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bsbcnm.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850140440"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "w87368326",
+  "url": "https://constellation.church/w87368326",
+  "name": "Providence Presbyterian Church",
+  "displayName": "Providence Presbyterian Church",
+  "address": {
+    "street": "311 Parker Road",
+    "city": "Salisbury",
+    "state": "MD",
+    "zip": "21804"
+  },
+  "coordinates": {
+    "latitude": 38.37889099121094,
+    "longitude": -75.55441665649414
+  },
+  "website": "https://providencesalisbury.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/196",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "196"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "providencesalisbury.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521534543"
+    }
+  ],
+  "advisories": []
+}

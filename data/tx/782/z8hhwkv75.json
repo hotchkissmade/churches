@@ -1,0 +1,33 @@
+{
+  "id": "z8hhwkv75",
+  "url": "https://constellation.church/z8hhwkv75",
+  "name": "Iglesia Bautista Monte Calvario",
+  "displayName": "Iglesia Bautista Monte Calvario",
+  "address": {
+    "street": "2300 Basse Rd",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78213"
+  },
+  "coordinates": {
+    "latitude": 29.4884033203125,
+    "longitude": -98.52293395996094
+  },
+  "website": "https://montecalvario2300.org",
+  "listingUrl": "https://churches.sbc.net/church/iglesia-bautista-monte-calvario/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "iglesia-bautista-monte-calvario"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "montecalvario2300.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742686811"
+    }
+  ],
+  "advisories": []
+}

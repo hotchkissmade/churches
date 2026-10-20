@@ -1,0 +1,33 @@
+{
+  "id": "msm4ebp69",
+  "url": "https://constellation.church/msm4ebp69",
+  "name": "King’s Baptist Church",
+  "displayName": "King’s Baptist Church",
+  "address": {
+    "street": "3235 58th Ave",
+    "city": "Vero Beach",
+    "state": "FL",
+    "zip": "32966"
+  },
+  "coordinates": {
+    "latitude": 27.651012420654297,
+    "longitude": -80.44701385498047
+  },
+  "website": "https://vero.church",
+  "listingUrl": "https://churches.sbc.net/church/kings-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "kings-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "vero.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591713997"
+    }
+  ],
+  "advisories": []
+}

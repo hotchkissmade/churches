@@ -1,0 +1,33 @@
+{
+  "id": "cxbd62558",
+  "url": "https://constellation.church/cxbd62558",
+  "name": "Bay Street Presbyterian Church",
+  "displayName": "Bay Street Presbyterian Church",
+  "address": {
+    "street": "204 Short Bay Street",
+    "city": "Hattiesburg",
+    "state": "MS",
+    "zip": "39401"
+  },
+  "coordinates": {
+    "latitude": 31.32332992553711,
+    "longitude": -89.2858772277832
+  },
+  "website": "https://baystreetchurch.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/86",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "86"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "baystreetchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640662265"
+    }
+  ],
+  "advisories": []
+}

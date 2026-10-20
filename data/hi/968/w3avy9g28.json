@@ -1,0 +1,33 @@
+{
+  "id": "w3avy9g28",
+  "url": "https://constellation.church/w3avy9g28",
+  "name": "St. Clement, The Episcopal Parish of",
+  "displayName": "St. Clement, The Episcopal Parish of",
+  "address": {
+    "street": "1515 Wilder Ave",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96822-4614"
+  },
+  "coordinates": {
+    "latitude": 21.3033297,
+    "longitude": -157.8347356
+  },
+  "website": "https://stclem.org/who-we-are",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-hawaii/list/st-clement-parish",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-hawaii/st-clement-parish"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stclem.org/who-we-are"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "990085402"
+    }
+  ],
+  "advisories": []
+}

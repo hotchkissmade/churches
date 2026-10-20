@@ -1,0 +1,33 @@
+{
+  "id": "cssnsc362",
+  "url": "https://constellation.church/cssnsc362",
+  "name": "Boone Creek Baptist Church",
+  "displayName": "Boone Creek Baptist Church",
+  "address": {
+    "street": "10864 Highway 137",
+    "city": "Licking",
+    "state": "MO",
+    "zip": "65542"
+  },
+  "coordinates": {
+    "latitude": 37.44215965270996,
+    "longitude": -91.8359603881836
+  },
+  "website": "https://boonecreekbaptistlickingmo.org",
+  "listingUrl": "https://churches.sbc.net/church/boone-creek-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "boone-creek-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "boonecreekbaptistlickingmo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431277056"
+    }
+  ],
+  "advisories": []
+}

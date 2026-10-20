@@ -1,0 +1,33 @@
+{
+  "id": "zythcka69",
+  "url": "https://constellation.church/zythcka69",
+  "name": "Claremont Presbyterian Church",
+  "displayName": "Claremont Presbyterian Church",
+  "address": {
+    "street": "1111 N Mountain Ave",
+    "city": "Claremont",
+    "state": "CA",
+    "zip": "91711-3751"
+  },
+  "coordinates": {
+    "latitude": 34.1048641204834,
+    "longitude": -117.7300033569336
+  },
+  "website": "https://claremontpres.org/tour",
+  "listingUrl": "https://church-trends.pcusa.org/church/553/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "553"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "claremontpres.org/tour"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "475502559"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a6q29qp53",
+  "url": "https://constellation.church/a6q29qp53",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "959 12th St",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94607-3233"
+  },
+  "coordinates": {
+    "latitude": 37.80713081359863,
+    "longitude": -122.28266906738281
+  },
+  "website": "https://blcoakblog.wordpress.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c8460239-337c-453c-a740-0805474f2456",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c8460239-337c-453c-a740-0805474f2456"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blcoakblog.wordpress.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941734810"
+    }
+  ],
+  "advisories": []
+}

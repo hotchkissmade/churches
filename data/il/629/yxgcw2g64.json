@@ -1,0 +1,33 @@
+{
+  "id": "yxgcw2g64",
+  "url": "https://constellation.church/yxgcw2g64",
+  "name": "Elm Street Baptist Church",
+  "displayName": "Elm Street Baptist Church",
+  "address": {
+    "street": "1907 Elm St",
+    "city": "Murphysboro",
+    "state": "IL",
+    "zip": "62966"
+  },
+  "coordinates": {
+    "latitude": 37.766130447387695,
+    "longitude": -89.3449935913086
+  },
+  "website": "https://elmstreetchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/elm-street-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "elm-street-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elmstreetchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370805459"
+    }
+  ],
+  "advisories": []
+}

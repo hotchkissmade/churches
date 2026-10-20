@@ -1,0 +1,33 @@
+{
+  "id": "f5h27e235",
+  "url": "https://constellation.church/f5h27e235",
+  "name": "Liberty Baptist Church",
+  "displayName": "Liberty Baptist Church",
+  "address": {
+    "street": "1200 Madison St.",
+    "city": "Lisbon",
+    "state": "MD",
+    "zip": "21765"
+  },
+  "coordinates": {
+    "latitude": 39.337942123413086,
+    "longitude": -77.0716323852539
+  },
+  "website": "https://libertybaptistmaryland.org",
+  "listingUrl": "https://churches.sbc.net/church/liberty-baptist-church-75/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "liberty-baptist-church-75"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "libertybaptistmaryland.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521205236"
+    }
+  ],
+  "advisories": []
+}

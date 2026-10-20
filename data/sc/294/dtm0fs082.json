@@ -1,0 +1,33 @@
+{
+  "id": "dtm0fs082",
+  "url": "https://constellation.church/dtm0fs082",
+  "name": "Martin Luther Evangelical Lutheran Church",
+  "displayName": "Martin Luther Evangelical Lutheran Church",
+  "address": {
+    "street": "1605 Harbor View Rd",
+    "city": "Charleston",
+    "state": "SC",
+    "zip": "29412-3215"
+  },
+  "coordinates": {
+    "latitude": 32.75465202331543,
+    "longitude": -79.96965408325195
+  },
+  "website": "https://martinlutherchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3b028f63-8eda-4bfe-b792-79ece8668a10",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3b028f63-8eda-4bfe-b792-79ece8668a10"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "martinlutherchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570473622"
+    }
+  ],
+  "advisories": []
+}

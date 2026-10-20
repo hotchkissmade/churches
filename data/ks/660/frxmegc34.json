@@ -1,0 +1,33 @@
+{
+  "id": "frxmegc34",
+  "url": "https://constellation.church/frxmegc34",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "21155 College Blvd",
+    "city": "Olathe",
+    "state": "KS",
+    "zip": "66061-7312"
+  },
+  "coordinates": {
+    "latitude": 38.92618942260742,
+    "longitude": -94.83104705810547
+  },
+  "website": "https://stmarksolathe.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=23c29b27-d635-428c-b0db-5081f68f33b4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "23c29b27-d635-428c-b0db-5081f68f33b4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarksolathe.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480873179"
+    }
+  ],
+  "advisories": []
+}

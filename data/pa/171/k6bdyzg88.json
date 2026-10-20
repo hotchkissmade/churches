@@ -1,0 +1,33 @@
+{
+  "id": "k6bdyzg88",
+  "url": "https://constellation.church/k6bdyzg88",
+  "name": "Devonshire Church",
+  "displayName": "Devonshire Church",
+  "address": {
+    "street": "5630 Devonshire Rd",
+    "city": "Harrisburg",
+    "state": "PA",
+    "zip": "17112"
+  },
+  "coordinates": {
+    "latitude": 40.30546569824219,
+    "longitude": -76.78961944580078
+  },
+  "website": "https://devonshirechurch.org",
+  "listingUrl": "https://ub.org/churches/find-a-church/devonshire-church",
+  "identifiers": [
+    {
+      "namespace": "org.ub.id",
+      "value": "devonshire-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "devonshirechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231903412"
+    }
+  ],
+  "advisories": []
+}

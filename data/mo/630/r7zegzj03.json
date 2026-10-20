@@ -1,0 +1,33 @@
+{
+  "id": "r7zegzj03",
+  "url": "https://constellation.church/r7zegzj03",
+  "name": "Parker Road Baptist Church",
+  "displayName": "Parker Road Baptist Church",
+  "address": {
+    "street": "2675 Parker Rd",
+    "city": "Florissant",
+    "state": "MO",
+    "zip": "63033"
+  },
+  "coordinates": {
+    "latitude": 38.795875549316406,
+    "longitude": -90.30413055419922
+  },
+  "website": "https://parkerroadbc.org",
+  "listingUrl": "https://churches.sbc.net/church/parker-road-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "parker-road-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parkerroadbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430815885"
+    }
+  ],
+  "advisories": []
+}

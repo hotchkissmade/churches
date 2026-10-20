@@ -1,0 +1,33 @@
+{
+  "id": "apd21b224",
+  "url": "https://constellation.church/apd21b224",
+  "name": "Northpointe Presbyterian Church",
+  "displayName": "Northpointe Presbyterian Church",
+  "address": {
+    "street": "920 Windmill Drive",
+    "city": "Meridian",
+    "state": "MS",
+    "zip": "39305"
+  },
+  "coordinates": {
+    "latitude": 32.43617057800293,
+    "longitude": -88.6811637878418
+  },
+  "website": "https://northpointepca.org/missionaries",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1587",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1587"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northpointepca.org/missionaries"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640882924"
+    }
+  ],
+  "advisories": []
+}

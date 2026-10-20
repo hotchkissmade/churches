@@ -1,0 +1,33 @@
+{
+  "id": "s907brp14",
+  "url": "https://constellation.church/s907brp14",
+  "name": "Bovina Baptist Church",
+  "displayName": "Bovina Baptist Church",
+  "address": {
+    "street": "5293 Highway 80",
+    "city": "Vicksburg",
+    "state": "MS",
+    "zip": "39180"
+  },
+  "coordinates": {
+    "latitude": 32.35208702087402,
+    "longitude": -90.73954772949219
+  },
+  "website": "https://bovinabaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/bovina-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bovina-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bovinabaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640603865"
+    }
+  ],
+  "advisories": []
+}

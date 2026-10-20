@@ -1,0 +1,33 @@
+{
+  "id": "zhrmk3d97",
+  "url": "https://constellation.church/zhrmk3d97",
+  "name": "First Baptist Church of Sebring",
+  "displayName": "First Baptist Church of Sebring",
+  "address": {
+    "street": "200 E Center Ave",
+    "city": "Sebring",
+    "state": "FL",
+    "zip": "33870"
+  },
+  "coordinates": {
+    "latitude": 27.49696159362793,
+    "longitude": -81.43912506103516
+  },
+  "website": "https://fbsebring.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-sebring/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-sebring"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbsebring.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591286356"
+    }
+  ],
+  "advisories": []
+}

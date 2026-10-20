@@ -1,0 +1,33 @@
+{
+  "id": "h0tgbhs75",
+  "url": "https://constellation.church/h0tgbhs75",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "2349 S Ohio St",
+    "city": "Salina",
+    "state": "KS",
+    "zip": "67401-6931"
+  },
+  "coordinates": {
+    "latitude": 38.79842185974121,
+    "longitude": -97.59381103515625
+  },
+  "website": "https://stmarksalina.org/our-congregation",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24547",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24547"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarksalina.org/our-congregation"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800098841"
+    }
+  ],
+  "advisories": []
+}

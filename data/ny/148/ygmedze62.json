@@ -1,0 +1,33 @@
+{
+  "id": "ygmedze62",
+  "url": "https://constellation.church/ygmedze62",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "6 E Morris St",
+    "city": "Bath",
+    "state": "NY",
+    "zip": "14810-1516"
+  },
+  "coordinates": {
+    "latitude": 42.33221435546875,
+    "longitude": -77.31863021850586
+  },
+  "website": "https://bathfirstpres.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/5886/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "5886"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bathfirstpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "160757759"
+    }
+  ],
+  "advisories": []
+}

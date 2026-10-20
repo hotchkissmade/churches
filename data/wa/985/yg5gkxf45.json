@@ -1,0 +1,33 @@
+{
+  "id": "yg5gkxf45",
+  "url": "https://constellation.church/yg5gkxf45",
+  "name": "Alder Street Baptist Church",
+  "displayName": "Alder Street Baptist Church",
+  "address": {
+    "street": "1010 Alder Street",
+    "city": "Centralia",
+    "state": "WA",
+    "zip": "98531"
+  },
+  "coordinates": {
+    "latitude": 46.71029472351074,
+    "longitude": -122.96722412109375
+  },
+  "website": "https://alderstreetbaptist.wixsite.com/alder-street-baptist",
+  "listingUrl": "https://churches.sbc.net/church/alder-street-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "alder-street-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "alderstreetbaptist.wixsite.com/alder-street-baptist"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911013118"
+    }
+  ],
+  "advisories": []
+}

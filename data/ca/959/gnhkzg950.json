@@ -1,0 +1,33 @@
+{
+  "id": "gnhkzg950",
+  "url": "https://constellation.church/gnhkzg950",
+  "name": "St. Nicholas' Episcopal Church",
+  "displayName": "St. Nicholas' Episcopal Church",
+  "address": {
+    "street": "5872 Oliver Rd",
+    "city": "Paradise",
+    "state": "CA",
+    "zip": "95969-3835"
+  },
+  "coordinates": {
+    "latitude": 39.76275062561035,
+    "longitude": -121.62256622314453
+  },
+  "website": "https://stnicholasparadise.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-northern-california/list/church-st-nicholas",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-northern-california/church-st-nicholas"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stnicholasparadise.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "680046101"
+    }
+  ],
+  "advisories": []
+}

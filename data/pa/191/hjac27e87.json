@@ -1,0 +1,33 @@
+{
+  "id": "hjac27e87",
+  "url": "https://constellation.church/hjac27e87",
+  "name": "Redemption Lutheran Church",
+  "displayName": "Redemption Lutheran Church",
+  "address": {
+    "street": "8001 Bustleton Ave",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19152-2801"
+  },
+  "coordinates": {
+    "latitude": 40.05972099304199,
+    "longitude": -75.05178451538086
+  },
+  "website": "https://redemptionphiladelphia.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=868b0d68-8e31-4d68-b922-b52e6f009e18",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "868b0d68-8e31-4d68-b922-b52e6f009e18"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redemptionphiladelphia.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231719577"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mfbh12805",
+  "url": "https://constellation.church/mfbh12805",
+  "name": "Muskogee, First Baptist",
+  "displayName": "Muskogee, First Baptist Church",
+  "address": {
+    "street": "111 S 7th Street",
+    "city": "Muskogee",
+    "state": "OK",
+    "zip": "74401"
+  },
+  "coordinates": {
+    "latitude": 35.750484466552734,
+    "longitude": -95.3777847290039
+  },
+  "website": "https://fbcmuskogee.org",
+  "listingUrl": "https://churches.sbc.net/church/muskogee-first-baptist/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "muskogee-first-baptist"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcmuskogee.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "736132908"
+    }
+  ],
+  "advisories": []
+}

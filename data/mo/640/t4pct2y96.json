@@ -1,0 +1,33 @@
+{
+  "id": "t4pct2y96",
+  "url": "https://constellation.church/t4pct2y96",
+  "name": "St. Luke's Episcopal Church",
+  "displayName": "St. Luke's Episcopal Church",
+  "address": {
+    "street": "404 Regent Street",
+    "city": "Excelsior Springs",
+    "state": "MO",
+    "zip": "64024-2649"
+  },
+  "coordinates": {
+    "latitude": 39.33779716491699,
+    "longitude": -94.22698974609375
+  },
+  "website": "https://esepiscopal.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-missouri/list/st-luke-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-missouri/st-luke-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "esepiscopal.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "753221835"
+    }
+  ],
+  "advisories": []
+}

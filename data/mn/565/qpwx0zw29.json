@@ -1,0 +1,33 @@
+{
+  "id": "qpwx0zw29",
+  "url": "https://constellation.church/qpwx0zw29",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "201 S. Highway 32",
+    "city": "Hitterdal",
+    "state": "MN",
+    "zip": "56552"
+  },
+  "coordinates": {
+    "latitude": 46.97600555419922,
+    "longitude": -96.2594223022461
+  },
+  "website": "https://salemhitterdal.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5ddc51a6-f8b1-4265-b299-ad0195cba5ce",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5ddc51a6-f8b1-4265-b299-ad0195cba5ce"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemhitterdal.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410837661"
+    }
+  ],
+  "advisories": []
+}

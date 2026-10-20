@@ -1,0 +1,33 @@
+{
+  "id": "y3seqxv76",
+  "url": "https://constellation.church/y3seqxv76",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "5454 Miller Trunk Hwy",
+    "city": "Hermantown",
+    "state": "MN",
+    "zip": "55811-1235"
+  },
+  "coordinates": {
+    "latitude": 46.84089660644531,
+    "longitude": -92.25277709960938
+  },
+  "website": "https://gracehermantown.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8e3393f6-ea4b-4aa7-8511-5ab8da469491",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8e3393f6-ea4b-4aa7-8511-5ab8da469491"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracehermantown.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410974537"
+    }
+  ],
+  "advisories": []
+}

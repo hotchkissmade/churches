@@ -1,0 +1,33 @@
+{
+  "id": "rddnf6d20",
+  "url": "https://constellation.church/rddnf6d20",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "357 N Farview Ave",
+    "city": "Paramus",
+    "state": "NJ",
+    "zip": "07652-4650"
+  },
+  "coordinates": {
+    "latitude": 40.943416595458984,
+    "longitude": -74.05998611450195
+  },
+  "website": "https://christparamus.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=98f4b18c-ded1-4a5a-9731-dbe8300d4b2c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "98f4b18c-ded1-4a5a-9731-dbe8300d4b2c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christparamus.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221835145"
+    }
+  ],
+  "advisories": []
+}

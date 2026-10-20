@@ -1,0 +1,33 @@
+{
+  "id": "xrnqggm61",
+  "url": "https://constellation.church/xrnqggm61",
+  "name": "Lutheran Church Of The Incarnation",
+  "displayName": "Lutheran Church Of The Incarnation",
+  "address": {
+    "street": "16889 Espola Rd",
+    "city": "Poway",
+    "state": "CA",
+    "zip": "92064-1533"
+  },
+  "coordinates": {
+    "latitude": 33.01935386657715,
+    "longitude": -117.05123138427734
+  },
+  "website": "https://godamong.us",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=96d0d721-c2ee-45a1-8d3f-808b448d907e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "96d0d721-c2ee-45a1-8d3f-808b448d907e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "godamong.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952504484"
+    }
+  ],
+  "advisories": []
+}

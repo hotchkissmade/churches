@@ -1,0 +1,33 @@
+{
+  "id": "e5yar1h42",
+  "url": "https://constellation.church/e5yar1h42",
+  "name": "Broadman Baptist Church",
+  "displayName": "Broadman Baptist Church",
+  "address": {
+    "street": "350 E Bath Rd",
+    "city": "Cuyahoga Fls",
+    "state": "OH",
+    "zip": "44223"
+  },
+  "coordinates": {
+    "latitude": 41.15785217285156,
+    "longitude": -81.49775695800781
+  },
+  "website": "https://broadmanchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/broadman-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "broadman-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "broadmanchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341210439"
+    }
+  ],
+  "advisories": []
+}

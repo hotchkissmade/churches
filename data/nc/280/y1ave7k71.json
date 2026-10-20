@@ -1,0 +1,33 @@
+{
+  "id": "y1ave7k71",
+  "url": "https://constellation.church/y1ave7k71",
+  "name": "The Burg Church",
+  "displayName": "The Burg Church",
+  "address": {
+    "street": "7155 Hickory Ridge Rd",
+    "city": "Harrisburg",
+    "state": "NC",
+    "zip": "28075"
+  },
+  "coordinates": {
+    "latitude": 35.31009483337402,
+    "longitude": -80.64522552490234
+  },
+  "website": "https://theburg.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f5f0cf84-3bd8-4097-878b-c9d84c07ccbe&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f5f0cf84-3bd8-4097-878b-c9d84c07ccbe"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "theburg.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "933819030"
+    }
+  ],
+  "advisories": []
+}

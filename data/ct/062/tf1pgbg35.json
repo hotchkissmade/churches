@@ -1,0 +1,33 @@
+{
+  "id": "tf1pgbg35",
+  "url": "https://constellation.church/tf1pgbg35",
+  "name": "United Methodist Church of Danielson",
+  "displayName": "United Methodist Church of Danielson",
+  "address": {
+    "street": "9 Spring St",
+    "city": "Danielson",
+    "state": "CT",
+    "zip": "06239"
+  },
+  "coordinates": {
+    "latitude": 41.80733108520508,
+    "longitude": -71.88204574584961
+  },
+  "website": "https://umcdanielson.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMXvIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMXvIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "umcdanielson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "060790389"
+    }
+  ],
+  "advisories": []
+}

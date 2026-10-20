@@ -1,0 +1,33 @@
+{
+  "id": "kg6z1sx43",
+  "url": "https://constellation.church/kg6z1sx43",
+  "name": "St Michael Lutheran Church",
+  "displayName": "St. Michael Lutheran Church",
+  "address": {
+    "street": "2208 Princess Anne Rd",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23456-3536"
+  },
+  "coordinates": {
+    "latitude": 36.76028823852539,
+    "longitude": -76.02048110961914
+  },
+  "website": "https://smlvb.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=29fd096a-acc2-4aa2-993c-05d80f741dca",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "29fd096a-acc2-4aa2-993c-05d80f741dca"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "smlvb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541362389"
+    }
+  ],
+  "advisories": []
+}

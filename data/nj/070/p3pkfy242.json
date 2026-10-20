@@ -1,0 +1,33 @@
+{
+  "id": "p3pkfy242",
+  "url": "https://constellation.church/p3pkfy242",
+  "name": "First United Methodist Church of Montclair",
+  "displayName": "First United Methodist Church of Montclair",
+  "address": {
+    "street": "24 N Fullerton Ave",
+    "city": "Montclair",
+    "state": "NJ",
+    "zip": "07042-3445"
+  },
+  "coordinates": {
+    "latitude": 40.815147399902344,
+    "longitude": -74.21723937988281
+  },
+  "website": "https://firstmontclair.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFJ2bIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFJ2bIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstmontclair.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "205260104"
+    }
+  ],
+  "advisories": []
+}

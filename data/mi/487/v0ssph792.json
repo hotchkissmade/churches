@@ -1,0 +1,33 @@
+{
+  "id": "v0ssph792",
+  "url": "https://constellation.church/v0ssph792",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "5129 French Rd",
+    "city": "Unionville",
+    "state": "MI",
+    "zip": "48767-9654"
+  },
+  "coordinates": {
+    "latitude": 43.61447715759277,
+    "longitude": -83.43212890625
+  },
+  "website": "https://stpeterelca.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=04ec5b3f-94a2-4228-aa4f-366142a10f39",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "04ec5b3f-94a2-4228-aa4f-366142a10f39"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpeterelca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382094895"
+    }
+  ],
+  "advisories": []
+}

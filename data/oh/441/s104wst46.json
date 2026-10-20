@@ -1,0 +1,33 @@
+{
+  "id": "s104wst46",
+  "url": "https://constellation.church/s104wst46",
+  "name": "St. Theodosius Cathedral",
+  "displayName": "St. Theodosius Cathedral",
+  "address": {
+    "street": "733 Starkweather Ave",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44113-4642"
+  },
+  "coordinates": {
+    "latitude": 41.47740173339844,
+    "longitude": -81.68170547485352
+  },
+  "website": "https://sttheodosius.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-mw-clestk",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-mw-clestk"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sttheodosius.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340757179"
+    }
+  ],
+  "advisories": []
+}

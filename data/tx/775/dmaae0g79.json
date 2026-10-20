@@ -1,0 +1,37 @@
+{
+  "id": "dmaae0g79",
+  "url": "https://constellation.church/dmaae0g79",
+  "name": "Memorial Lutheran Church",
+  "displayName": "Memorial Lutheran Church",
+  "address": {
+    "street": "2021 29th St N",
+    "city": "Texas City",
+    "state": "TX",
+    "zip": "77590-4858"
+  },
+  "coordinates": {
+    "latitude": 29.404052734375,
+    "longitude": -94.93819427490234
+  },
+  "website": "https://mem1.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=27c80169-6663-4788-a3bd-1925fd0505ee",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "27c80169-6663-4788-a3bd-1925fd0505ee"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mem1.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "746150858"
+    },
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "21583"
+    }
+  ],
+  "advisories": []
+}

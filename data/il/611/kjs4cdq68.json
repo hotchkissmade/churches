@@ -1,0 +1,33 @@
+{
+  "id": "kjs4cdq68",
+  "url": "https://constellation.church/kjs4cdq68",
+  "name": "First Baptist Church of Machesney Park",
+  "displayName": "First Baptist Church of Machesney Park",
+  "address": {
+    "street": "718 Harlem Rd",
+    "city": "Machesney Park",
+    "state": "IL",
+    "zip": "61115"
+  },
+  "coordinates": {
+    "latitude": 42.33995246887207,
+    "longitude": -89.04908752441406
+  },
+  "website": "https://fbcmp.net",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-machesney-park/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-machesney-park"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcmp.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363276988"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "fr2x6xk63",
+  "url": "https://constellation.church/fr2x6xk63",
+  "name": "Pacific Church of Irvine",
+  "displayName": "Pacific Church of Irvine",
+  "address": {
+    "street": "15 Orange Tree",
+    "city": "Irvine",
+    "state": "CA",
+    "zip": "92618"
+  },
+  "coordinates": {
+    "latitude": 33.67430305480957,
+    "longitude": -117.7733383178711
+  },
+  "website": "https://pacificchurch.com/staff",
+  "listingUrl": "https://churches.sbc.net/church/pacific-church-of-irvine/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pacific-church-of-irvine"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pacificchurch.com/staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "931091737"
+    }
+  ],
+  "advisories": []
+}

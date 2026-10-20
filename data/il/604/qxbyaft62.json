@@ -1,0 +1,33 @@
+{
+  "id": "qxbyaft62",
+  "url": "https://constellation.church/qxbyaft62",
+  "name": "Cross Point Church",
+  "displayName": "Cross Point Church",
+  "address": {
+    "street": "17530 W Fox Hollow Dr",
+    "city": "Lockport",
+    "state": "IL",
+    "zip": "60441"
+  },
+  "coordinates": {
+    "latitude": 41.56399345397949,
+    "longitude": -88.04308700561523
+  },
+  "website": "https://cpcag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=3a75de9f-29a7-41d9-abe4-485bd93fc9b8&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "3a75de9f-29a7-41d9-abe4-485bd93fc9b8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cpcag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363206077"
+    }
+  ],
+  "advisories": []
+}

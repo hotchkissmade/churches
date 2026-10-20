@@ -1,0 +1,33 @@
+{
+  "id": "pjyn4qv50",
+  "url": "https://constellation.church/pjyn4qv50",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "907 Luther Dr",
+    "city": "Wilmington",
+    "state": "IL",
+    "zip": "60481-1534"
+  },
+  "coordinates": {
+    "latitude": 41.29920768737793,
+    "longitude": -88.13652420043945
+  },
+  "website": "https://gracewilm.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=98184564-367f-4a1d-bda5-c17597086132",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "98184564-367f-4a1d-bda5-c17597086132"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracewilm.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362692892"
+    }
+  ],
+  "advisories": []
+}

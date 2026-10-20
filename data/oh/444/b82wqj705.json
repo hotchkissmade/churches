@@ -1,0 +1,33 @@
+{
+  "id": "b82wqj705",
+  "url": "https://constellation.church/b82wqj705",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "10857 Main St",
+    "city": "New Middletown",
+    "state": "OH",
+    "zip": "44442-7739"
+  },
+  "coordinates": {
+    "latitude": 40.96036720275879,
+    "longitude": -80.55620574951172
+  },
+  "website": "https://zionlutheranchurch.info",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ff2d1960-7962-401b-a373-32dfce1e26f9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ff2d1960-7962-401b-a373-32dfce1e26f9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionlutheranchurch.info"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "346003219"
+    }
+  ],
+  "advisories": []
+}

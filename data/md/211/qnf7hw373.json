@@ -1,0 +1,33 @@
+{
+  "id": "qnf7hw373",
+  "url": "https://constellation.church/qnf7hw373",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "109 Main St",
+    "city": "Reisterstown",
+    "state": "MD",
+    "zip": "21136-1211"
+  },
+  "coordinates": {
+    "latitude": 39.4661922454834,
+    "longitude": -76.82890701293945
+  },
+  "website": "https://trinityreisterstown.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4a25627e-ee7d-414d-8569-d05dfd101b92",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4a25627e-ee7d-414d-8569-d05dfd101b92"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityreisterstown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "526049828"
+    }
+  ],
+  "advisories": []
+}

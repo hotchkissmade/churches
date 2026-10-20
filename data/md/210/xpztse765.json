@@ -1,0 +1,33 @@
+{
+  "id": "xpztse765",
+  "url": "https://constellation.church/xpztse765",
+  "name": "St Pauls Evangelical Lutheran Church",
+  "displayName": "St. Paul's Evangelical Lutheran Church",
+  "address": {
+    "street": "1609 Kurtz Ave",
+    "city": "Lutherville",
+    "state": "MD",
+    "zip": "21093-5314"
+  },
+  "coordinates": {
+    "latitude": 39.42416763305664,
+    "longitude": -76.62540817260742
+  },
+  "website": "https://stpaulslutherville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c5b1e686-5909-48be-9991-9495267e092b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c5b1e686-5909-48be-9991-9495267e092b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulslutherville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520670119"
+    }
+  ],
+  "advisories": []
+}

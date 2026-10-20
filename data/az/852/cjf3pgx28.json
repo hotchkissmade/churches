@@ -1,0 +1,33 @@
+{
+  "id": "cjf3pgx28",
+  "url": "https://constellation.church/cjf3pgx28",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "2745 N 32nd St",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85213-1810"
+  },
+  "coordinates": {
+    "latitude": 33.46597862243652,
+    "longitude": -111.76114654541016
+  },
+  "website": "https://blcmesa.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=badfa008-51e1-4d4c-80e6-96d43e80358a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "badfa008-51e1-4d4c-80e6-96d43e80358a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blcmesa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860635454"
+    }
+  ],
+  "advisories": []
+}

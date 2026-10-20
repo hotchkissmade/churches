@@ -1,0 +1,33 @@
+{
+  "id": "pjq7ya223",
+  "url": "https://constellation.church/pjq7ya223",
+  "name": "The River Church of Conway",
+  "displayName": "The River Church of Conway",
+  "address": {
+    "street": "2600 E Main St",
+    "city": "Center Conway",
+    "state": "NH",
+    "zip": "03813"
+  },
+  "coordinates": {
+    "latitude": 43.99773406982422,
+    "longitude": -71.02463150024414
+  },
+  "website": "https://trcnh.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=cb66eff6-5ca8-4b47-b0b7-16f0bc50471d&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "cb66eff6-5ca8-4b47-b0b7-16f0bc50471d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trcnh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "412062815"
+    }
+  ],
+  "advisories": []
+}

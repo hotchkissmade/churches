@@ -1,0 +1,33 @@
+{
+  "id": "k17ae9064",
+  "url": "https://constellation.church/k17ae9064",
+  "name": "Grandview Baptist Church",
+  "displayName": "Grandview Baptist Church",
+  "address": {
+    "street": "1300 Columbine St",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "99508"
+  },
+  "coordinates": {
+    "latitude": 61.20301055908203,
+    "longitude": -149.8111801147461
+  },
+  "website": "https://gbcak.org",
+  "listingUrl": "https://churches.sbc.net/church/grandview-baptist-church-8/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grandview-baptist-church-8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gbcak.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920043014"
+    }
+  ],
+  "advisories": []
+}

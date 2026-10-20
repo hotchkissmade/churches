@@ -1,0 +1,33 @@
+{
+  "id": "p50dc8r39",
+  "url": "https://constellation.church/p50dc8r39",
+  "name": "St. Philip's Church",
+  "displayName": "St. Philip's Church",
+  "address": {
+    "street": "6400 Stonebrook Pkwy",
+    "city": "Frisco",
+    "state": "TX",
+    "zip": "75034-5711"
+  },
+  "coordinates": {
+    "latitude": 33.13179588317871,
+    "longitude": -96.82852172851562
+  },
+  "website": "https://stphilipsfrisco.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-dallas/list/st-philips-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-dallas/st-philips-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stphilipsfrisco.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752964478"
+    }
+  ],
+  "advisories": []
+}

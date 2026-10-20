@@ -1,0 +1,33 @@
+{
+  "id": "xb2v9s774",
+  "url": "https://constellation.church/xb2v9s774",
+  "name": "Iglesia Agape, Fort Worth",
+  "displayName": "Iglesia Agape, Fort Worth",
+  "address": {
+    "street": "3940 8th Ave",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76110"
+  },
+  "coordinates": {
+    "latitude": 32.69034767150879,
+    "longitude": -97.34420013427734
+  },
+  "website": "https://iglesiaagape.org",
+  "listingUrl": "https://churches.sbc.net/church/iglesia-agape-fort-worth/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "iglesia-agape-fort-worth"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "iglesiaagape.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "991346626"
+    }
+  ],
+  "advisories": []
+}

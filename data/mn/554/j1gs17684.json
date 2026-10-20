@@ -1,0 +1,33 @@
+{
+  "id": "j1gs17684",
+  "url": "https://constellation.church/j1gs17684",
+  "name": "Church in Minneapolis",
+  "displayName": "Church in Minneapolis",
+  "address": {
+    "street": "901 15th Ave SE",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55414"
+  },
+  "coordinates": {
+    "latitude": 44.985408314219,
+    "longitude": -93.230458036767
+  },
+  "website": "https://churchinminneapolis.org",
+  "listingUrl": "https://localchurches.org/churches/minneapolis-mn-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "minneapolis-mn-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinminneapolis.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363346656"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "g2ysa7245",
+  "url": "https://constellation.church/g2ysa7245",
+  "name": "St. David's Episcopal Church",
+  "displayName": "St. David's Episcopal Church",
+  "address": {
+    "street": "13000 St Davids Rd",
+    "city": "Minnetonka",
+    "state": "MN",
+    "zip": "55305-4119"
+  },
+  "coordinates": {
+    "latitude": 44.94057083129883,
+    "longitude": -93.44473648071289
+  },
+  "website": "https://stdavidsparish.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/st-davids-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/st-davids-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stdavidsparish.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410797362"
+    }
+  ],
+  "advisories": []
+}

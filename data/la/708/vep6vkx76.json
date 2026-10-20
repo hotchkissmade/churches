@@ -1,0 +1,33 @@
+{
+  "id": "vep6vkx76",
+  "url": "https://constellation.church/vep6vkx76",
+  "name": "Jefferson Baptist Church",
+  "displayName": "Jefferson Baptist Church",
+  "address": {
+    "street": "9135 Jefferson Hwy",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70809"
+  },
+  "coordinates": {
+    "latitude": 30.41503143310547,
+    "longitude": -91.084228515625
+  },
+  "website": "https://jeffersonbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/jefferson-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "jefferson-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jeffersonbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720649163"
+    }
+  ],
+  "advisories": []
+}

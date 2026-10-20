@@ -1,0 +1,33 @@
+{
+  "id": "v0ef8yk55",
+  "url": "https://constellation.church/v0ef8yk55",
+  "name": "Cross Connection Church",
+  "displayName": "Cross Connection Church",
+  "address": {
+    "street": "12517 Hartford Ave.",
+    "city": "Orofino",
+    "state": "ID",
+    "zip": "83544-9313"
+  },
+  "coordinates": {
+    "latitude": 46.496219635009766,
+    "longitude": -116.31253814697266
+  },
+  "website": "https://crossconnectionorofino.net",
+  "listingUrl": "https://rforw.pcg.org/ChurchDetails.aspx?contactID=743305",
+  "identifiers": [
+    {
+      "namespace": "org.pcg.rforw.id",
+      "value": "743305"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "crossconnectionorofino.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "364218901"
+    }
+  ],
+  "advisories": []
+}

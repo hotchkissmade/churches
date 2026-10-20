@@ -1,0 +1,33 @@
+{
+  "id": "zke20mg75",
+  "url": "https://constellation.church/zke20mg75",
+  "name": "St. David's Episcopal Church",
+  "displayName": "St. David's Episcopal Church",
+  "address": {
+    "street": "145 Edgewood Drive",
+    "city": "Lakeland",
+    "state": "FL",
+    "zip": "33803"
+  },
+  "coordinates": {
+    "latitude": 28.010913848876953,
+    "longitude": -81.95577239990234
+  },
+  "website": "https://stdavidchurch.org/pipe-organ",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-central-florida/list/st-davids-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-central-florida/st-davids-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stdavidchurch.org/pipe-organ"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590899017"
+    }
+  ],
+  "advisories": []
+}

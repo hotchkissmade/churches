@@ -1,0 +1,33 @@
+{
+  "id": "t0ay2ba76",
+  "url": "https://constellation.church/t0ay2ba76",
+  "name": "Concord Church, St Louis",
+  "displayName": "Concord Church, St. Louis",
+  "address": {
+    "street": "13775 Tesson Ferry Rd",
+    "city": "Saint Louis",
+    "state": "MO",
+    "zip": "63128"
+  },
+  "coordinates": {
+    "latitude": 38.4711799621582,
+    "longitude": -90.40164947509766
+  },
+  "website": "https://concordchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/concord-church-st-louis/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "concord-church-st-louis"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "concordchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "436049123"
+    }
+  ],
+  "advisories": []
+}

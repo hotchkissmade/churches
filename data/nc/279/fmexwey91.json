@@ -1,0 +1,33 @@
+{
+  "id": "fmexwey91",
+  "url": "https://constellation.church/fmexwey91",
+  "name": "Harbor Presbyterian Church",
+  "displayName": "Harbor Presbyterian Church",
+  "address": {
+    "street": "801 Riverside Avenue",
+    "city": "Elizabeth City",
+    "state": "NC",
+    "zip": "27909"
+  },
+  "coordinates": {
+    "latitude": 36.295602798461914,
+    "longitude": -76.21335983276367
+  },
+  "website": "https://harborecity.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6044",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6044"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "harborecity.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "474240656"
+    }
+  ],
+  "advisories": []
+}

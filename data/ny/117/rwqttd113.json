@@ -1,0 +1,37 @@
+{
+  "id": "rwqttd113",
+  "url": "https://constellation.church/rwqttd113",
+  "name": "Central Presbyterian Church",
+  "displayName": "Central Presbyterian Church",
+  "address": {
+    "street": "240 Main St",
+    "city": "Huntington",
+    "state": "NY",
+    "zip": "11743"
+  },
+  "coordinates": {
+    "latitude": 40.87113380432129,
+    "longitude": -73.42551803588867
+  },
+  "website": "https://centralpresbyterianchurch.net",
+  "listingUrl": "https://eco-pres.org/churches/central-presbyterian-church-huntington/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "central-presbyterian-church-huntington"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centralpresbyterianchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111681135"
+    },
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "5289"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pfb19b590",
+  "url": "https://constellation.church/pfb19b590",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "915 E Camp St",
+    "city": "Ely",
+    "state": "MN",
+    "zip": "55731-1607"
+  },
+  "coordinates": {
+    "latitude": 47.90448760986328,
+    "longitude": -91.85337829589844
+  },
+  "website": "https://firstlutheranely.org",
+  "listingUrl": "https://locator.lcms.org/church/C/289504",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "289504"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranely.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416097662"
+    }
+  ],
+  "advisories": []
+}

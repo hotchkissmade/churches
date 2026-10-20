@@ -1,0 +1,33 @@
+{
+  "id": "fwafs1212",
+  "url": "https://constellation.church/fwafs1212",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "508 Mentor Ave",
+    "city": "Painesville",
+    "state": "OH",
+    "zip": "44077-2628"
+  },
+  "coordinates": {
+    "latitude": 41.71772003173828,
+    "longitude": -81.25498962402344
+  },
+  "website": "https://zionpainesville.com",
+  "listingUrl": "https://locator.lcms.org/church/C/691191",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "691191"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionpainesville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341007066"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wdpm29v20",
+  "url": "https://constellation.church/wdpm29v20",
+  "name": "Grove Presbyterian Church",
+  "displayName": "Grove Presbyterian Church",
+  "address": {
+    "street": "358 Bloom St",
+    "city": "Danville",
+    "state": "PA",
+    "zip": "17821"
+  },
+  "coordinates": {
+    "latitude": 40.964006423950195,
+    "longitude": -76.61091232299805
+  },
+  "website": "https://grovepres.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/7874/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "7874"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grovepres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "246025543"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ww22v6j31",
+  "url": "https://constellation.church/ww22v6j31",
+  "name": "First Baptist Church Lamar",
+  "displayName": "First Baptist Church Lamar",
+  "address": {
+    "street": "1301 E 6th St",
+    "city": "Lamar",
+    "state": "MO",
+    "zip": "64759"
+  },
+  "coordinates": {
+    "latitude": 37.48589897155762,
+    "longitude": -94.25970077514648
+  },
+  "website": "https://fbclamar.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-lamar/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-lamar"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbclamar.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431313498"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gjm9f6b74",
+  "url": "https://constellation.church/gjm9f6b74",
+  "name": "Alexandria Baptist Church",
+  "displayName": "Alexandria Baptist Church",
+  "address": {
+    "street": "124 S Mulberry St",
+    "city": "Alexandria",
+    "state": "MO",
+    "zip": "63430"
+  },
+  "coordinates": {
+    "latitude": 40.359012603759766,
+    "longitude": -91.45574951171875
+  },
+  "website": "https://alexbc.org",
+  "listingUrl": "https://churches.sbc.net/church/alexandria-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "alexandria-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "alexbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "352298112"
+    }
+  ],
+  "advisories": []
+}

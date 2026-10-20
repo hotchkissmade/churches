@@ -1,0 +1,33 @@
+{
+  "id": "nj3rfv264",
+  "url": "https://constellation.church/nj3rfv264",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "26400 Little Mack Ave",
+    "city": "Saint Clair Shores",
+    "state": "MI",
+    "zip": "48081-2154"
+  },
+  "coordinates": {
+    "latitude": 42.487979888916016,
+    "longitude": -82.9068603515625
+  },
+  "website": "https://bethelscsmi.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dc1807a8-2597-4545-af61-b17b773b29dc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dc1807a8-2597-4545-af61-b17b773b29dc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelscsmi.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "386029236"
+    }
+  ],
+  "advisories": []
+}

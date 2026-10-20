@@ -1,0 +1,33 @@
+{
+  "id": "f8sb0d273",
+  "url": "https://constellation.church/f8sb0d273",
+  "name": "Zion Presbyterian Church",
+  "displayName": "Zion Presbyterian Church",
+  "address": {
+    "street": "2322 Zion Road",
+    "city": "Columbia",
+    "state": "TN",
+    "zip": "38401"
+  },
+  "coordinates": {
+    "latitude": 35.59945487976074,
+    "longitude": -87.14507293701172
+  },
+  "website": "https://zioncolumbia.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1139",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1139"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zioncolumbia.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "626041570"
+    }
+  ],
+  "advisories": []
+}

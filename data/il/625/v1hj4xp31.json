@@ -1,0 +1,33 @@
+{
+  "id": "v1hj4xp31",
+  "url": "https://constellation.church/v1hj4xp31",
+  "name": "Lampstand Presbyterian Church",
+  "displayName": "Lampstand Presbyterian Church",
+  "address": {
+    "street": "655 S Airport Rd",
+    "city": "Decatur",
+    "state": "IL",
+    "zip": "62521"
+  },
+  "coordinates": {
+    "latitude": 39.83679389953613,
+    "longitude": -88.88177108764648
+  },
+  "website": "https://lampstandpc.org",
+  "listingUrl": "https://eco-pres.org/churches/lampstand-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "lampstand-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lampstandpc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "376029454"
+    }
+  ],
+  "advisories": []
+}

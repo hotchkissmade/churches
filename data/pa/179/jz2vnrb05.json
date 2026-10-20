@@ -1,0 +1,33 @@
+{
+  "id": "jz2vnrb05",
+  "url": "https://constellation.church/jz2vnrb05",
+  "name": "Zion's Red Church",
+  "displayName": "Zion's Red Church",
+  "address": {
+    "street": "1287 Centre Tpke",
+    "city": "Orwigsburg",
+    "state": "PA",
+    "zip": "17961-9068"
+  },
+  "coordinates": {
+    "latitude": 40.6391716003418,
+    "longitude": -76.0778923034668
+  },
+  "website": "https://zionsredchurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c76a1cfa-56b3-4ced-b55d-2feef8ad0414",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c76a1cfa-56b3-4ced-b55d-2feef8ad0414"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionsredchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236276324"
+    }
+  ],
+  "advisories": []
+}

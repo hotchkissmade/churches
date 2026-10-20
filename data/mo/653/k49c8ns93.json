@@ -1,0 +1,33 @@
+{
+  "id": "k49c8ns93",
+  "url": "https://constellation.church/k49c8ns93",
+  "name": "Encounter Church",
+  "displayName": "Encounter Church",
+  "address": {
+    "street": "1201 N William Parkhurst Sedalia",
+    "city": null,
+    "state": "MO",
+    "zip": "65301"
+  },
+  "coordinates": {
+    "latitude": 38.722476959228516,
+    "longitude": -93.2424430847168
+  },
+  "website": "https://encounterchurch.ag",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=6dfa86d7-e901-4eab-ac5d-df698bd7d6d5&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "6dfa86d7-e901-4eab-ac5d-df698bd7d6d5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "encounterchurch.ag"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "710920732"
+    }
+  ],
+  "advisories": []
+}

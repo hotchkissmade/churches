@@ -1,0 +1,33 @@
+{
+  "id": "bjgy2sm90",
+  "url": "https://constellation.church/bjgy2sm90",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "3701 Jefferson Ave",
+    "city": "Midland",
+    "state": "MI",
+    "zip": "48640-3504"
+  },
+  "coordinates": {
+    "latitude": 43.63107872009277,
+    "longitude": -84.2276611328125
+  },
+  "website": "https://tlcmidland.org/our-history",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c2df9c60-27b7-475a-a90d-e0c4ecd569e5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c2df9c60-27b7-475a-a90d-e0c4ecd569e5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcmidland.org/our-history"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "383191918"
+    }
+  ],
+  "advisories": []
+}

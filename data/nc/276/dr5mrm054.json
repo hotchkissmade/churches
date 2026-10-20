@@ -1,0 +1,33 @@
+{
+  "id": "dr5mrm054",
+  "url": "https://constellation.church/dr5mrm054",
+  "name": "Holy Trinity Evangelical Lutheran Church",
+  "displayName": "Holy Trinity Evangelical Lutheran Church",
+  "address": {
+    "street": "2723 Clark Ave",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27607-7101"
+  },
+  "coordinates": {
+    "latitude": 35.7908878326416,
+    "longitude": -78.67248916625977
+  },
+  "website": "https://htelc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=58879cfc-8389-4551-86db-abdbfaa2a732",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "58879cfc-8389-4551-86db-abdbfaa2a732"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "htelc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "566012484"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "emrdmtk02",
+  "url": "https://constellation.church/emrdmtk02",
+  "name": "Rima Ridge Baptist Church",
+  "displayName": "Rima Ridge Baptist Church",
+  "address": {
+    "street": "11 Cone Rd",
+    "city": "Ormond Beach",
+    "state": "FL",
+    "zip": "32174"
+  },
+  "coordinates": {
+    "latitude": 29.253915786743164,
+    "longitude": -81.21145629882812
+  },
+  "website": "https://rimaridgebaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/rima-ridge-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "rima-ridge-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rimaridgebaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593360065"
+    }
+  ],
+  "advisories": []
+}

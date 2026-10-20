@@ -1,0 +1,33 @@
+{
+  "id": "rmstb1022",
+  "url": "https://constellation.church/rmstb1022",
+  "name": "The Branch Community Church",
+  "displayName": "The Branch Community Church",
+  "address": {
+    "street": "6125 W Foster Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60630"
+  },
+  "coordinates": {
+    "latitude": 41.97553062438965,
+    "longitude": -87.78145217895508
+  },
+  "website": "https://brch.org",
+  "listingUrl": "https://nabconference.org/directory/the-branch-community-church/",
+  "identifiers": [
+    {
+      "namespace": "org.nabconference.id",
+      "value": "the-branch-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "brch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362644392"
+    }
+  ],
+  "advisories": []
+}

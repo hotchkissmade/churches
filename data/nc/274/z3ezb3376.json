@@ -1,0 +1,33 @@
+{
+  "id": "z3ezb3376",
+  "url": "https://constellation.church/z3ezb3376",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "3600 W Friendly Ave",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27410-4812"
+  },
+  "coordinates": {
+    "latitude": 36.088565826416016,
+    "longitude": -79.8436050415039
+  },
+  "website": "https://firstlutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ab262379-f755-4b76-a185-675f0d312fc4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ab262379-f755-4b76-a185-675f0d312fc4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "566023679"
+    }
+  ],
+  "advisories": []
+}

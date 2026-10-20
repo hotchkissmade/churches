@@ -1,0 +1,33 @@
+{
+  "id": "rszh1p420",
+  "url": "https://constellation.church/rszh1p420",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "324 Madison St",
+    "city": "Jefferson City",
+    "state": "MO",
+    "zip": "65101-3109"
+  },
+  "coordinates": {
+    "latitude": 38.57539367675781,
+    "longitude": -92.17227172851562
+  },
+  "website": "https://fpcjcmo.org/about-us/leadership",
+  "listingUrl": "https://church-trends.pcusa.org/church/4265/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "4265"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcjcmo.org/about-us/leadership"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440546193"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hnfn0sp43",
+  "url": "https://constellation.church/hnfn0sp43",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "220 S. Bell Street",
+    "city": "Hamilton",
+    "state": "TX",
+    "zip": "76531"
+  },
+  "coordinates": {
+    "latitude": 31.701831817626953,
+    "longitude": -98.1233901977539
+  },
+  "website": "https://hamilton1stbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-180/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-180"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hamilton1stbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "200543600"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jh2xb7598",
+  "url": "https://constellation.church/jh2xb7598",
+  "name": "Church in San Diego",
+  "displayName": "Church in San Diego",
+  "address": {
+    "street": "6640 Flanders Dr",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92121"
+  },
+  "coordinates": {
+    "latitude": 32.9060179,
+    "longitude": -117.1768675
+  },
+  "website": "https://churchinsandiego.org",
+  "listingUrl": "https://localchurches.org/churches/san-diego-ca-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "san-diego-ca-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinsandiego.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "956112989"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tfr8s0f18",
+  "url": "https://constellation.church/tfr8s0f18",
+  "name": "Park Lane Baptist Church",
+  "displayName": "Park Lane Baptist Church",
+  "address": {
+    "street": "1480 Lake Shore Blvd",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32205"
+  },
+  "coordinates": {
+    "latitude": 30.29329490661621,
+    "longitude": -81.7391242980957
+  },
+  "website": "https://parklanebaptist.churchtrac.com",
+  "listingUrl": "https://churches.sbc.net/church/park-lane-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "park-lane-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parklanebaptist.churchtrac.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591031695"
+    }
+  ],
+  "advisories": []
+}

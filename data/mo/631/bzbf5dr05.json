@@ -1,0 +1,33 @@
+{
+  "id": "bzbf5dr05",
+  "url": "https://constellation.church/bzbf5dr05",
+  "name": "Second Presbyterian Church",
+  "displayName": "Second Presbyterian Church",
+  "address": {
+    "street": "4501 Westminster Pl",
+    "city": "Saint Louis",
+    "state": "MO",
+    "zip": "63108-1801"
+  },
+  "coordinates": {
+    "latitude": 38.6474494934082,
+    "longitude": -90.25569915771484
+  },
+  "website": "https://secondchurch.net",
+  "listingUrl": "https://church-trends.pcusa.org/church/4208/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "4208"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "secondchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430654873"
+    }
+  ],
+  "advisories": []
+}

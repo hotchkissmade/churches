@@ -1,0 +1,33 @@
+{
+  "id": "dxhkjtc77",
+  "url": "https://constellation.church/dxhkjtc77",
+  "name": "Church of the Incarnation",
+  "displayName": "Church of the Incarnation",
+  "address": {
+    "street": "3966 McKinney Ave",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75204-2099"
+  },
+  "coordinates": {
+    "latitude": 32.811819076538086,
+    "longitude": -96.79308319091797
+  },
+  "website": "https://incarnation.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-dallas/list/church-incarnation",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-dallas/church-incarnation"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "incarnation.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750808771"
+    }
+  ],
+  "advisories": []
+}

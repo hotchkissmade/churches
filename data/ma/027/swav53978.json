@@ -1,0 +1,33 @@
+{
+  "id": "swav53978",
+  "url": "https://constellation.church/swav53978",
+  "name": "Episcopal Church of St. Thomas",
+  "displayName": "Episcopal Church of St. Thomas",
+  "address": {
+    "street": "111 High St",
+    "city": "Taunton",
+    "state": "MA",
+    "zip": "02780-3901"
+  },
+  "coordinates": {
+    "latitude": 41.89996337890625,
+    "longitude": -71.0966682434082
+  },
+  "website": "https://stthomastaunton.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-massachusetts/list/episcopal-church-st-thomas",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-massachusetts/episcopal-church-st-thomas"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stthomastaunton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "814560362"
+    }
+  ],
+  "advisories": []
+}

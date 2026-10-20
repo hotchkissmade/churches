@@ -1,0 +1,33 @@
+{
+  "id": "wrzfzbr11",
+  "url": "https://constellation.church/wrzfzbr11",
+  "name": "Our Saviour Lutheran Church",
+  "displayName": "Our Saviour Lutheran Church",
+  "address": {
+    "street": "6194 Dumfries Rd",
+    "city": "Warrenton",
+    "state": "VA",
+    "zip": "20187-4169"
+  },
+  "coordinates": {
+    "latitude": 38.73702049255371,
+    "longitude": -77.7627067565918
+  },
+  "website": "https://oslc-warrenton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8cc71405-6c6a-4835-a226-cbd77d7058aa",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8cc71405-6c6a-4835-a226-cbd77d7058aa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oslc-warrenton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541130475"
+    }
+  ],
+  "advisories": []
+}

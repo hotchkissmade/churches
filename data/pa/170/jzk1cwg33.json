@@ -1,0 +1,33 @@
+{
+  "id": "jzk1cwg33",
+  "url": "https://constellation.church/jzk1cwg33",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "1610 Carlisle Rd",
+    "city": "Camp Hill",
+    "state": "PA",
+    "zip": "17011-7505"
+  },
+  "coordinates": {
+    "latitude": 40.231462478637695,
+    "longitude": -76.90542984008789
+  },
+  "website": "https://gracecamphill.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d9ec7715-cdc3-4f22-8900-82ed01ad25ac",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d9ec7715-cdc3-4f22-8900-82ed01ad25ac"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracecamphill.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236050521"
+    }
+  ],
+  "advisories": []
+}

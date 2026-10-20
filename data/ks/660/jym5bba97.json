@@ -1,0 +1,33 @@
+{
+  "id": "jym5bba97",
+  "url": "https://constellation.church/jym5bba97",
+  "name": "North Baptist Church",
+  "displayName": "North Baptist Church",
+  "address": {
+    "street": "413 East Wilson",
+    "city": "Ottawa",
+    "state": "KS",
+    "zip": "66067"
+  },
+  "coordinates": {
+    "latitude": 38.63044548034668,
+    "longitude": -95.26392364501953
+  },
+  "website": "https://ottawanbc.com",
+  "listingUrl": "https://churches.sbc.net/church/north-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "north-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ottawanbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480608907"
+    }
+  ],
+  "advisories": []
+}

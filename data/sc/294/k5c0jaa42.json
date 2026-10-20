@@ -1,0 +1,33 @@
+{
+  "id": "k5c0jaa42",
+  "url": "https://constellation.church/k5c0jaa42",
+  "name": "Sullivans Island Baptist Church",
+  "displayName": "Sullivans Island Baptist Church",
+  "address": {
+    "street": "1753 Central Ave",
+    "city": "Sullivans Is",
+    "state": "SC",
+    "zip": "29482"
+  },
+  "coordinates": {
+    "latitude": 32.759531021118164,
+    "longitude": -79.84582901000977
+  },
+  "website": "https://sibc.church",
+  "listingUrl": "https://churches.sbc.net/church/sullivans-island-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sullivans-island-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sibc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570764222"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "g96kbqy62",
+  "url": "https://constellation.church/g96kbqy62",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "7171 Pearl Rd",
+    "city": "Middleburg Heights",
+    "state": "OH",
+    "zip": "44130-4946"
+  },
+  "coordinates": {
+    "latitude": 41.37023162841797,
+    "longitude": -81.80020141601562
+  },
+  "website": "https://bethelmiddleburghts.com/facilityuse",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d5f5a445-453b-48c4-aaee-6d95960b3f13",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d5f5a445-453b-48c4-aaee-6d95960b3f13"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelmiddleburghts.com/facilityuse"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340821250"
+    }
+  ],
+  "advisories": []
+}

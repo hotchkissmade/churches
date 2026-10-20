@@ -1,0 +1,33 @@
+{
+  "id": "pv56vvm20",
+  "url": "https://constellation.church/pv56vvm20",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "805 Center Ave",
+    "city": "Bay City",
+    "state": "MI",
+    "zip": "48708"
+  },
+  "coordinates": {
+    "latitude": 43.59796142578125,
+    "longitude": -83.88206481933594
+  },
+  "website": "https://firstpresbaycity.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/3331/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "3331"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpresbaycity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381368332"
+    }
+  ],
+  "advisories": []
+}

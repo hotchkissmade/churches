@@ -1,0 +1,33 @@
+{
+  "id": "rsvjffj60",
+  "url": "https://constellation.church/rsvjffj60",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "1600 S Orlando Ave",
+    "city": "Winter Park",
+    "state": "FL",
+    "zip": "32789-5547"
+  },
+  "coordinates": {
+    "latitude": 28.58270263671875,
+    "longitude": -81.36441802978516
+  },
+  "website": "https://mysj.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=81b785e3-c258-4555-a008-b3aad644d655",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "81b785e3-c258-4555-a008-b3aad644d655"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mysj.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590900996"
+    }
+  ],
+  "advisories": []
+}

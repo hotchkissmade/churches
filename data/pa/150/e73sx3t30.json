@@ -1,0 +1,33 @@
+{
+  "id": "e73sx3t30",
+  "url": "https://constellation.church/e73sx3t30",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "911 Howard St",
+    "city": "Monongahela",
+    "state": "PA",
+    "zip": "15063-2719"
+  },
+  "coordinates": {
+    "latitude": 40.2039680480957,
+    "longitude": -79.93476104736328
+  },
+  "website": "https://graceisforgiving.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f89f5a8a-eb40-4261-93da-dc67381efab4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f89f5a8a-eb40-4261-93da-dc67381efab4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceisforgiving.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251238875"
+    }
+  ],
+  "advisories": []
+}

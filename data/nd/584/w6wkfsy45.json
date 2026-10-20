@@ -1,0 +1,33 @@
+{
+  "id": "w6wkfsy45",
+  "url": "https://constellation.church/w6wkfsy45",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "107 S Centennial St",
+    "city": "Wishek",
+    "state": "ND",
+    "zip": "58495-7219"
+  },
+  "coordinates": {
+    "latitude": 46.257850646972656,
+    "longitude": -99.55766296386719
+  },
+  "website": "https://wkstluke.churchtrac.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=422fd7cc-3052-4885-9922-571d8a3e4c91",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "422fd7cc-3052-4885-9922-571d8a3e4c91"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wkstluke.churchtrac.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450250682"
+    }
+  ],
+  "advisories": []
+}

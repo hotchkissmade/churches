@@ -1,0 +1,33 @@
+{
+  "id": "dt9atw302",
+  "url": "https://constellation.church/dt9atw302",
+  "name": "West Des Moines United Methodist Church",
+  "displayName": "West Des Moines United Methodist Church",
+  "address": {
+    "street": "720 Grand Ave",
+    "city": "West Des Moines",
+    "state": "IA",
+    "zip": "50265-3624"
+  },
+  "coordinates": {
+    "latitude": 41.58217239379883,
+    "longitude": -93.71253204345703
+  },
+  "website": "https://wdmumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFJtsIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFJtsIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wdmumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420791564"
+    }
+  ],
+  "advisories": []
+}

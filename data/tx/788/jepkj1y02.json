@@ -1,0 +1,33 @@
+{
+  "id": "jepkj1y02",
+  "url": "https://constellation.church/jepkj1y02",
+  "name": "First Baptist Church, Camp Wood",
+  "displayName": "First Baptist Church, Camp Wood",
+  "address": {
+    "street": "813 S. Nueces",
+    "city": "Camp Wood",
+    "state": "TX",
+    "zip": "78833"
+  },
+  "coordinates": {
+    "latitude": 29.662120819091797,
+    "longitude": -100.01040649414062
+  },
+  "website": "https://fbccw.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-camp-wood-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-camp-wood-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbccw.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742290753"
+    }
+  ],
+  "advisories": []
+}

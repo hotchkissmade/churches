@@ -1,0 +1,33 @@
+{
+  "id": "mxkvvae46",
+  "url": "https://constellation.church/mxkvvae46",
+  "name": "St Andrew Lutheran Church",
+  "displayName": "St. Andrew Lutheran Church",
+  "address": {
+    "street": "304 Morewood Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15213-1888"
+  },
+  "coordinates": {
+    "latitude": 40.45381164550781,
+    "longitude": -79.944580078125
+  },
+  "website": "https://standrewpittsburgh.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2c3a427e-6f2f-4d73-83b5-8abb241c3c5c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2c3a427e-6f2f-4d73-83b5-8abb241c3c5c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewpittsburgh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "250969425"
+    }
+  ],
+  "advisories": []
+}

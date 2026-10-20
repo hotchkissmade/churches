@@ -1,0 +1,33 @@
+{
+  "id": "jygrajp67",
+  "url": "https://constellation.church/jygrajp67",
+  "name": "St. Mark's Episcopal Church",
+  "displayName": "St. Mark's Episcopal Church",
+  "address": {
+    "street": "15 Pearl St",
+    "city": "Mystic",
+    "state": "CT",
+    "zip": "06355-2599"
+  },
+  "coordinates": {
+    "latitude": 41.35601806640625,
+    "longitude": -71.97088241577148
+  },
+  "website": "https://stmarksmystic.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/episcopal-church-connecticut/list/st-marks-episcopal-church-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "episcopal-church-connecticut/st-marks-episcopal-church-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarksmystic.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "060804716"
+    }
+  ],
+  "advisories": []
+}

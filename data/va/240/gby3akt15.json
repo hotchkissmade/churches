@@ -1,0 +1,33 @@
+{
+  "id": "gby3akt15",
+  "url": "https://constellation.church/gby3akt15",
+  "name": "Northstar Church",
+  "displayName": "Northstar Church",
+  "address": {
+    "street": "3929 Prices Fork Rd",
+    "city": "Blacksburg",
+    "state": "VA",
+    "zip": "24060"
+  },
+  "coordinates": {
+    "latitude": 37.21175193786621,
+    "longitude": -80.48210144042969
+  },
+  "website": "https://northstarfamily.org",
+  "listingUrl": "https://churches.sbc.net/church/northstar-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northstar-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northstarfamily.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "300143412"
+    }
+  ],
+  "advisories": []
+}

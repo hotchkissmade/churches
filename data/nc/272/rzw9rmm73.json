@@ -1,0 +1,33 @@
+{
+  "id": "rzw9rmm73",
+  "url": "https://constellation.church/rzw9rmm73",
+  "name": "Northside Presbyterian Church",
+  "displayName": "Northside Presbyterian Church",
+  "address": {
+    "street": "1805 Vaughn Road",
+    "city": "Burlington",
+    "state": "NC",
+    "zip": "27217"
+  },
+  "coordinates": {
+    "latitude": 36.10067558288574,
+    "longitude": -79.40740585327148
+  },
+  "website": "https://northsidepca.net",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/794",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "794"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northsidepca.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560732758"
+    }
+  ],
+  "advisories": []
+}

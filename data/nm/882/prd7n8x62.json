@@ -1,0 +1,33 @@
+{
+  "id": "prd7n8x62",
+  "url": "https://constellation.church/prd7n8x62",
+  "name": "First Baptist Church of Roswell",
+  "displayName": "First Baptist Church of Roswell",
+  "address": {
+    "street": "500 N Pennsylvania Ave",
+    "city": "Roswell",
+    "state": "NM",
+    "zip": "88201"
+  },
+  "coordinates": {
+    "latitude": 33.39843940734863,
+    "longitude": -104.52632904052734
+  },
+  "website": "https://fbcroswell.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-roswell/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-roswell"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcroswell.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850123256"
+    }
+  ],
+  "advisories": []
+}

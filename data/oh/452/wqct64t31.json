@@ -1,0 +1,33 @@
+{
+  "id": "wqct64t31",
+  "url": "https://constellation.church/wqct64t31",
+  "name": "Hope Lutheran Church",
+  "displayName": "Hope Lutheran Church",
+  "address": {
+    "street": "4695 Blue Rock Rd",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45247-3571"
+  },
+  "coordinates": {
+    "latitude": 39.22384834289551,
+    "longitude": -84.6161003112793
+  },
+  "website": "https://hopeonbluerock.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2d2b5f36-4cb1-40c3-8306-c7830529e73f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2d2b5f36-4cb1-40c3-8306-c7830529e73f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopeonbluerock.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310875072"
+    }
+  ],
+  "advisories": []
+}

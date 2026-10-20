@@ -1,0 +1,33 @@
+{
+  "id": "bpbmpfp94",
+  "url": "https://constellation.church/bpbmpfp94",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "1620 Milwaukee Ave NE",
+    "city": "Aberdeen",
+    "state": "SD",
+    "zip": "57401-4857"
+  },
+  "coordinates": {
+    "latitude": 45.46403121948242,
+    "longitude": -98.46202087402344
+  },
+  "website": "https://bethlehemaberdeen.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=db3509e6-5dae-4f28-b7b7-994d03ba0e86",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "db3509e6-5dae-4f28-b7b7-994d03ba0e86"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethlehemaberdeen.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460234355"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qcs2zef64",
+  "url": "https://constellation.church/qcs2zef64",
+  "name": "Trinity Baptist Church",
+  "displayName": "Trinity Baptist Church",
+  "address": {
+    "street": "620 Churchill Rd",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76114"
+  },
+  "coordinates": {
+    "latitude": 32.769033432006836,
+    "longitude": -97.38973236083984
+  },
+  "website": "https://trinityfortworth.org",
+  "listingUrl": "https://churches.sbc.net/church/trinity-baptist-church-143/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "trinity-baptist-church-143"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityfortworth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750929500"
+    }
+  ],
+  "advisories": []
+}

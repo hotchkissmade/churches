@@ -1,0 +1,33 @@
+{
+  "id": "qpjrgwf02",
+  "url": "https://constellation.church/qpjrgwf02",
+  "name": "Apostolic Christian Church of Phoenix",
+  "displayName": "Apostolic Christian Church of Phoenix",
+  "address": {
+    "street": "9230 North 26th Street",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85029"
+  },
+  "coordinates": {
+    "latitude": 33.570865631103516,
+    "longitude": -112.02679443359375
+  },
+  "website": "https://accaz.org",
+  "listingUrl": "https://www.apostolicchristian.org/congregations/phoenix",
+  "identifiers": [
+    {
+      "namespace": "org.apostolicchristian.id",
+      "value": "phoenix"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "accaz.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237424647"
+    }
+  ],
+  "advisories": []
+}

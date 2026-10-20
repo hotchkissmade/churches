@@ -1,0 +1,33 @@
+{
+  "id": "zf7eacs43",
+  "url": "https://constellation.church/zf7eacs43",
+  "name": "First Baptist Church of Butler, Inc.",
+  "displayName": "First Baptist Church of Butler",
+  "address": {
+    "street": "4 S Poplar St",
+    "city": "Butler",
+    "state": "GA",
+    "zip": "31006"
+  },
+  "coordinates": {
+    "latitude": 32.55744743347168,
+    "longitude": -84.23959350585938
+  },
+  "website": "https://fbcbutlerga.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-butler-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-butler-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcbutlerga.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581539976"
+    }
+  ],
+  "advisories": []
+}

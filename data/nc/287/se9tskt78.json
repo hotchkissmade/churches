@@ -1,0 +1,33 @@
+{
+  "id": "se9tskt78",
+  "url": "https://constellation.church/se9tskt78",
+  "name": "Covenant Presbyterian Church",
+  "displayName": "Covenant Presbyterian Church",
+  "address": {
+    "street": "2101 Kanuga Road",
+    "city": "Hendersonville",
+    "state": "NC",
+    "zip": "28739"
+  },
+  "coordinates": {
+    "latitude": 35.28639030456543,
+    "longitude": -82.4795913696289
+  },
+  "website": "https://covpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/280",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "280"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561235083"
+    }
+  ],
+  "advisories": []
+}

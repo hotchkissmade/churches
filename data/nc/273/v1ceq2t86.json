@@ -1,0 +1,33 @@
+{
+  "id": "v1ceq2t86",
+  "url": "https://constellation.church/v1ceq2t86",
+  "name": "First Baptist Church of Robbins",
+  "displayName": "First Baptist Church of Robbins",
+  "address": {
+    "street": "651 E Hemp St",
+    "city": "Robbins",
+    "state": "NC",
+    "zip": "27325"
+  },
+  "coordinates": {
+    "latitude": 35.426025390625,
+    "longitude": -79.57550811767578
+  },
+  "website": "https://robbinsfbc.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-robbins/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-robbins"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "robbinsfbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237113183"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kxjrrcj89",
+  "url": "https://constellation.church/kxjrrcj89",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "301 E Pittsburgh St",
+    "city": "Delmont",
+    "state": "PA",
+    "zip": "15626-1427"
+  },
+  "coordinates": {
+    "latitude": 40.41186332702637,
+    "longitude": -79.56640625
+  },
+  "website": "https://salemdelmont.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3ff09496-9f82-4326-9989-5f49cfaade7e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3ff09496-9f82-4326-9989-5f49cfaade7e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemdelmont.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "250998181"
+    }
+  ],
+  "advisories": []
+}

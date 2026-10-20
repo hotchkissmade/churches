@@ -1,0 +1,33 @@
+{
+  "id": "mf6gz8643",
+  "url": "https://constellation.church/mf6gz8643",
+  "name": "Advent Lutheran Church",
+  "displayName": "Advent Lutheran Church",
+  "address": {
+    "street": "2504 Broadway",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10025-6949"
+  },
+  "coordinates": {
+    "latitude": 40.79277038574219,
+    "longitude": -73.97289276123047
+  },
+  "website": "https://adventnyc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=178e9c20-d702-40d5-a187-6d84fd240f60",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "178e9c20-d702-40d5-a187-6d84fd240f60"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "adventnyc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "131635264"
+    }
+  ],
+  "advisories": []
+}

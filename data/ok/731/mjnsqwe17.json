@@ -1,0 +1,33 @@
+{
+  "id": "mjnsqwe17",
+  "url": "https://constellation.church/mjnsqwe17",
+  "name": "Newchurch",
+  "displayName": "Newchurch",
+  "address": {
+    "street": "9201 N Rockwell Ave",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73132"
+  },
+  "coordinates": {
+    "latitude": 35.56266212463379,
+    "longitude": -97.64032745361328
+  },
+  "website": "https://newchurch.tv",
+  "listingUrl": "https://churches.sbc.net/church/newchurch/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "newchurch"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newchurch.tv"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "731368164"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "s5vnn9t68",
+  "url": "https://constellation.church/s5vnn9t68",
+  "name": "Emmanuel Lutheran Church",
+  "displayName": "Emmanuel Lutheran Church",
+  "address": {
+    "street": "3900 Virginia Beach Blvd",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23452-2449"
+  },
+  "coordinates": {
+    "latitude": 36.84077453613281,
+    "longitude": -76.10995483398438
+  },
+  "website": "https://elvb.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b4b2d90a-7dcd-4537-ae09-1e8748776731",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b4b2d90a-7dcd-4537-ae09-1e8748776731"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elvb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541105417"
+    }
+  ],
+  "advisories": []
+}

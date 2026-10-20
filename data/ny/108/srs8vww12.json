@@ -1,0 +1,33 @@
+{
+  "id": "srs8vww12",
+  "url": "https://constellation.church/srs8vww12",
+  "name": "New Rochelle Presbyterian Church",
+  "displayName": "New Rochelle Presbyterian Church",
+  "address": {
+    "street": "50 Pintard Ave",
+    "city": "New Rochelle",
+    "state": "NY",
+    "zip": "10801-7148"
+  },
+  "coordinates": {
+    "latitude": 40.9047453,
+    "longitude": -73.7851711
+  },
+  "website": "https://pcnr.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/10233/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "10233"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pcnr.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "132791958"
+    }
+  ],
+  "advisories": []
+}

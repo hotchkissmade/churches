@@ -1,0 +1,33 @@
+{
+  "id": "d09mzs358",
+  "url": "https://constellation.church/d09mzs358",
+  "name": "Community Church",
+  "displayName": "Community Church",
+  "address": {
+    "street": "2372 E Lynwood Dr",
+    "city": "San Bernardino",
+    "state": "CA",
+    "zip": "92404"
+  },
+  "coordinates": {
+    "latitude": 34.14754295349121,
+    "longitude": -117.23580932617188
+  },
+  "website": "https://wearesbcc.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=68ed0086-a5da-497e-b0e6-6982838f9279&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "68ed0086-a5da-497e-b0e6-6982838f9279"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wearesbcc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952321584"
+    }
+  ],
+  "advisories": []
+}

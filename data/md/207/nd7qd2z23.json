@@ -1,0 +1,33 @@
+{
+  "id": "nd7qd2z23",
+  "url": "https://constellation.church/nd7qd2z23",
+  "name": "St. Philip's, Laurel",
+  "displayName": "St. Philip's, Laurel",
+  "address": {
+    "street": "522 Main Street",
+    "city": "Laurel",
+    "state": "MD",
+    "zip": "20707-4118"
+  },
+  "coordinates": {
+    "latitude": 39.10743713378906,
+    "longitude": -76.85173034667969
+  },
+  "website": "https://stphilipslaurel.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/st-philips-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/st-philips-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stphilipslaurel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520856626"
+    }
+  ],
+  "advisories": []
+}

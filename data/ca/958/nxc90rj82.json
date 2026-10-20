@@ -1,0 +1,33 @@
+{
+  "id": "nxc90rj82",
+  "url": "https://constellation.church/nxc90rj82",
+  "name": "Sacramento Christian Fellowship",
+  "displayName": "Sacramento Christian Fellowship",
+  "address": {
+    "street": "2800 C St",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95816"
+  },
+  "coordinates": {
+    "latitude": 38.581385,
+    "longitude": -121.46577
+  },
+  "website": "https://agscf.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=9eedd385-6b51-4407-ab5e-cb499243455f&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "9eedd385-6b51-4407-ab5e-cb499243455f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "agscf.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942854722"
+    }
+  ],
+  "advisories": []
+}

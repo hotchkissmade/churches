@@ -1,0 +1,33 @@
+{
+  "id": "f645vmn56",
+  "url": "https://constellation.church/f645vmn56",
+  "name": "West Linn Lutheran Church",
+  "displayName": "West Linn Lutheran Church",
+  "address": {
+    "street": "20390 Willamette Dr",
+    "city": "West Linn",
+    "state": "OR",
+    "zip": "97068-2522"
+  },
+  "coordinates": {
+    "latitude": 45.378326416015625,
+    "longitude": -122.63423919677734
+  },
+  "website": "https://wllc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e3055e7b-5b45-4416-9a98-07c869d05e6a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e3055e7b-5b45-4416-9a98-07c869d05e6a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wllc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930510364"
+    }
+  ],
+  "advisories": []
+}

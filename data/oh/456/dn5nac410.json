@@ -1,0 +1,33 @@
+{
+  "id": "dn5nac410",
+  "url": "https://constellation.church/dn5nac410",
+  "name": "Chillicothe Baptist Church",
+  "displayName": "Chillicothe Baptist Church",
+  "address": {
+    "street": "14000 State Route 104",
+    "city": "Chillicothe",
+    "state": "OH",
+    "zip": "45601"
+  },
+  "coordinates": {
+    "latitude": 39.35112380981445,
+    "longitude": -82.99357223510742
+  },
+  "website": "https://chillicothebaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/chillicothe-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "chillicothe-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chillicothebaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "316048740"
+    }
+  ],
+  "advisories": []
+}

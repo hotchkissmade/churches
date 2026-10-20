@@ -1,0 +1,33 @@
+{
+  "id": "s72c4xt05",
+  "url": "https://constellation.church/s72c4xt05",
+  "name": "First Southern Baptist Church Pomeroy",
+  "displayName": "First Southern Baptist Church Pomeroy",
+  "address": {
+    "street": "41872 Pomeroy Pike",
+    "city": "Pomeroy",
+    "state": "OH",
+    "zip": "45769"
+  },
+  "coordinates": {
+    "latitude": 39.05643081665039,
+    "longitude": -82.015869140625
+  },
+  "website": "https://fsbcpomeroy.org",
+  "listingUrl": "https://churches.sbc.net/church/first-southern-baptist-church-pomeroy/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-southern-baptist-church-pomeroy"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fsbcpomeroy.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311062385"
+    }
+  ],
+  "advisories": []
+}

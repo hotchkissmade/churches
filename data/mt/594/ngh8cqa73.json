@@ -1,0 +1,33 @@
+{
+  "id": "ngh8cqa73",
+  "url": "https://constellation.church/ngh8cqa73",
+  "name": "Mountain View Lutheran Church",
+  "displayName": "Mountain View Lutheran Church",
+  "address": {
+    "street": "800 Sacajawea Dr",
+    "city": "Great Falls",
+    "state": "MT",
+    "zip": "59404-1224"
+  },
+  "coordinates": {
+    "latitude": 47.53300857543945,
+    "longitude": -111.29420471191406
+  },
+  "website": "https://mvlchurch.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24103",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24103"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mvlchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810397448"
+    }
+  ],
+  "advisories": []
+}

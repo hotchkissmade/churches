@@ -1,0 +1,33 @@
+{
+  "id": "amqts6h03",
+  "url": "https://constellation.church/amqts6h03",
+  "name": "Saint Barnabas on the Desert",
+  "displayName": "St. Barnabas on the Desert",
+  "address": {
+    "street": "6715 N Mockingbird Ln",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "zip": "85253-4344"
+  },
+  "coordinates": {
+    "latitude": 33.53554344177246,
+    "longitude": -111.93340301513672
+  },
+  "website": "https://saintbarnabas.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-arizona/list/st-barnabas-desert",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-arizona/st-barnabas-desert"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintbarnabas.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860127609"
+    }
+  ],
+  "advisories": []
+}

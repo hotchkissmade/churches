@@ -1,0 +1,33 @@
+{
+  "id": "zkjgzbc08",
+  "url": "https://constellation.church/zkjgzbc08",
+  "name": "Waco Baptist Church, Inc.",
+  "displayName": "Waco Baptist Church",
+  "address": {
+    "street": "34 Atlantic Ave",
+    "city": "Waco",
+    "state": "GA",
+    "zip": "30182"
+  },
+  "coordinates": {
+    "latitude": 33.70377159118652,
+    "longitude": -85.18192291259766
+  },
+  "website": "https://wacobc.org",
+  "listingUrl": "https://churches.sbc.net/church/waco-baptist-church-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "waco-baptist-church-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wacobc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581407067"
+    }
+  ],
+  "advisories": []
+}

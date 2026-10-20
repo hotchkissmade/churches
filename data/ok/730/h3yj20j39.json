@@ -1,0 +1,33 @@
+{
+  "id": "h3yj20j39",
+  "url": "https://constellation.church/h3yj20j39",
+  "name": "River Church",
+  "displayName": "River Church",
+  "address": {
+    "street": "1203 Iowa Street",
+    "city": "Norman",
+    "state": "OK",
+    "zip": "73069"
+  },
+  "coordinates": {
+    "latitude": 35.224679946899414,
+    "longitude": -97.45934295654297
+  },
+  "website": "https://riverchurchnorman.org/meet-the-staff",
+  "listingUrl": "https://churches.sbc.net/church/river-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "river-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "riverchurchnorman.org/meet-the-staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "562611504"
+    }
+  ],
+  "advisories": []
+}

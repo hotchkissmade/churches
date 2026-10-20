@@ -1,0 +1,33 @@
+{
+  "id": "db20z7d92",
+  "url": "https://constellation.church/db20z7d92",
+  "name": "North Shore Fellowship",
+  "displayName": "North Shore Fellowship",
+  "address": {
+    "street": "118 Woodland Avenue",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37405"
+  },
+  "coordinates": {
+    "latitude": 35.06351661682129,
+    "longitude": -85.30750274658203
+  },
+  "website": "https://nsfellowship.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4785",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4785"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nsfellowship.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470953937"
+    }
+  ],
+  "advisories": []
+}

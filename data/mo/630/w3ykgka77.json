@@ -1,0 +1,33 @@
+{
+  "id": "w3ykgka77",
+  "url": "https://constellation.church/w3ykgka77",
+  "name": "Lutheran Church Of The Living Christ",
+  "displayName": "Lutheran Church Of The Living Christ",
+  "address": {
+    "street": "2725 Concord Dr",
+    "city": "Florissant",
+    "state": "MO",
+    "zip": "63033-1118"
+  },
+  "coordinates": {
+    "latitude": 38.818655014038086,
+    "longitude": -90.30400085449219
+  },
+  "website": "https://lc-livingchrist.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c09d6db8-503c-4ef0-be14-4f3c4cd8d904",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c09d6db8-503c-4ef0-be14-4f3c4cd8d904"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lc-livingchrist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430889819"
+    }
+  ],
+  "advisories": []
+}

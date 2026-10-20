@@ -1,0 +1,33 @@
+{
+  "id": "j19y0hb55",
+  "url": "https://constellation.church/j19y0hb55",
+  "name": "Walla Walla Presbyterian Church",
+  "displayName": "Walla Walla Presbyterian Church",
+  "address": {
+    "street": "325 S 1st Ave",
+    "city": "Walla Walla",
+    "state": "WA",
+    "zip": "99362"
+  },
+  "coordinates": {
+    "latitude": 46.064096450805664,
+    "longitude": -118.33507537841797
+  },
+  "website": "https://wwpc.org",
+  "listingUrl": "https://eco-pres.org/churches/walla-walla-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "walla-walla-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wwpc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910640787"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "t6b39dt75",
+  "url": "https://constellation.church/t6b39dt75",
+  "name": "St John Evangelical Lutheran Church",
+  "displayName": "St. John Evangelical Lutheran Church",
+  "address": {
+    "street": "122 W Ottawa St",
+    "city": "Oak Harbor",
+    "state": "OH",
+    "zip": "43449-1345"
+  },
+  "coordinates": {
+    "latitude": 41.51011276245117,
+    "longitude": -83.1469955444336
+  },
+  "website": "https://oakharborchurch.com/services",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=99668169-d5e6-4d3e-92e4-c30db4720fb2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "99668169-d5e6-4d3e-92e4-c30db4720fb2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oakharborchurch.com/services"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "344428240"
+    }
+  ],
+  "advisories": []
+}

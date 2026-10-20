@@ -1,0 +1,33 @@
+{
+  "id": "jrd3hmq47",
+  "url": "https://constellation.church/jrd3hmq47",
+  "name": "Northwood Lutheran Church",
+  "displayName": "Northwood Lutheran Church",
+  "address": {
+    "street": "307 2nd Ave",
+    "city": "Northwood",
+    "state": "ND",
+    "zip": "58267-7707"
+  },
+  "coordinates": {
+    "latitude": 47.73530960083008,
+    "longitude": -97.57032012939453
+  },
+  "website": "https://northwoodwashington.org/northwood-church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=114c4c61-433a-4581-9a3f-8027a99f2ca0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "114c4c61-433a-4581-9a3f-8027a99f2ca0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northwoodwashington.org/northwood-church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450242276"
+    }
+  ],
+  "advisories": []
+}

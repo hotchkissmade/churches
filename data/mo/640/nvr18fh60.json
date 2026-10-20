@@ -1,0 +1,33 @@
+{
+  "id": "nvr18fh60",
+  "url": "https://constellation.church/nvr18fh60",
+  "name": "Bethel Church of Liberty",
+  "displayName": "Bethel Church of Liberty",
+  "address": {
+    "street": "1025 Nashua Rd",
+    "city": "Liberty",
+    "state": "MO",
+    "zip": "64068"
+  },
+  "coordinates": {
+    "latitude": 39.26226234436035,
+    "longitude": -94.43734741210938
+  },
+  "website": "https://bethelchurchkc.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a8a6a5f6-1b28-4699-a70b-0fe94632caf0&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "a8a6a5f6-1b28-4699-a70b-0fe94632caf0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelchurchkc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "331086567"
+    }
+  ],
+  "advisories": []
+}

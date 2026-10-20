@@ -1,0 +1,33 @@
+{
+  "id": "eb21gnn42",
+  "url": "https://constellation.church/eb21gnn42",
+  "name": "St. Paul's Church",
+  "displayName": "St. Paul's Church",
+  "address": {
+    "street": "317 E Liberty St",
+    "city": "Medina",
+    "state": "OH",
+    "zip": "44256-2108"
+  },
+  "coordinates": {
+    "latitude": 41.13938903808594,
+    "longitude": -81.86001586914062
+  },
+  "website": "https://stpauls-medina.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-ohio/list/st-pauls-church-4",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-ohio/st-pauls-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpauls-medina.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341189192"
+    }
+  ],
+  "advisories": []
+}

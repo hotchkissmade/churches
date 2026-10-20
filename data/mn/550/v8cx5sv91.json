@@ -1,0 +1,33 @@
+{
+  "id": "v8cx5sv91",
+  "url": "https://constellation.church/v8cx5sv91",
+  "name": "St. Paul's Episcopal Church",
+  "displayName": "St. Paul's Episcopal Church",
+  "address": {
+    "street": "220 S Cedar Ave",
+    "city": "Owatonna",
+    "state": "MN",
+    "zip": "55060-2915"
+  },
+  "coordinates": {
+    "latitude": 44.082950592041016,
+    "longitude": -93.22624969482422
+  },
+  "website": "https://stpaulsowatonna.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/st-pauls-episcopal-church-3",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/st-pauls-episcopal-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsowatonna.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416043735"
+    }
+  ],
+  "advisories": []
+}

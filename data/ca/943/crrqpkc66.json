@@ -1,0 +1,33 @@
+{
+  "id": "crrqpkc66",
+  "url": "https://constellation.church/crrqpkc66",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "3149 Waverley St",
+    "city": "Palo Alto",
+    "state": "CA",
+    "zip": "94306-2902"
+  },
+  "coordinates": {
+    "latitude": 37.42667579650879,
+    "longitude": -122.12714385986328
+  },
+  "website": "https://gracepa.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c898be02-b7e5-4cc1-82b7-009da4ebbb90",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c898be02-b7e5-4cc1-82b7-009da4ebbb90"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracepa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941251133"
+    }
+  ],
+  "advisories": []
+}

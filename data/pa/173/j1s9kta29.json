@@ -1,0 +1,33 @@
+{
+  "id": "j1s9kta29",
+  "url": "https://constellation.church/j1s9kta29",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "80 S Main St",
+    "city": "Loganville",
+    "state": "PA",
+    "zip": "17342"
+  },
+  "coordinates": {
+    "latitude": 39.85211372375488,
+    "longitude": -76.70980072021484
+  },
+  "website": "https://christlutheranloganville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3146ec6b-d6cd-42e0-b9fb-28063c77ba8c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3146ec6b-d6cd-42e0-b9fb-28063c77ba8c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christlutheranloganville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232169434"
+    }
+  ],
+  "advisories": []
+}

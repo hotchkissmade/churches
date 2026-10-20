@@ -1,0 +1,33 @@
+{
+  "id": "kztxtxn08",
+  "url": "https://constellation.church/kztxtxn08",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "633 Willow Ave",
+    "city": "Council Bluffs",
+    "state": "IA",
+    "zip": "51501-4242"
+  },
+  "coordinates": {
+    "latitude": 41.25831413269043,
+    "longitude": -95.85416412353516
+  },
+  "website": "https://saintjohnelca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fb4c2e1e-eb40-4a65-bc33-4bb9760546ed",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fb4c2e1e-eb40-4a65-bc33-4bb9760546ed"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintjohnelca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420788221"
+    }
+  ],
+  "advisories": []
+}

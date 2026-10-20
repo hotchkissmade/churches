@@ -1,0 +1,33 @@
+{
+  "id": "mbqsvsh55",
+  "url": "https://constellation.church/mbqsvsh55",
+  "name": "The Order of Saint Helena",
+  "displayName": "The Order of St. Helena",
+  "address": {
+    "street": "414 Savannah Barony Dr.",
+    "city": "North Augusta",
+    "state": "SC",
+    "zip": "29841"
+  },
+  "coordinates": {
+    "latitude": 33.5288143157959,
+    "longitude": -81.99073028564453
+  },
+  "website": "https://osh.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/upper-south-carolina/list/order-saint-helena",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "upper-south-carolina/order-saint-helena"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "osh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "141450152"
+    }
+  ],
+  "advisories": []
+}

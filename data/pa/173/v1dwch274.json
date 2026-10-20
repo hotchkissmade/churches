@@ -1,0 +1,33 @@
+{
+  "id": "v1dwch274",
+  "url": "https://constellation.church/v1dwch274",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "53 W King St",
+    "city": "Littlestown",
+    "state": "PA",
+    "zip": "17340-1429"
+  },
+  "coordinates": {
+    "latitude": 39.743974685668945,
+    "longitude": -77.09015274047852
+  },
+  "website": "https://stpaulslittlestown.weebly.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9399266b-86c8-4f51-b8a5-0de29b735950",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9399266b-86c8-4f51-b8a5-0de29b735950"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulslittlestown.weebly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232012157"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gbra93725",
+  "url": "https://constellation.church/gbra93725",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "313 Chaparral St",
+    "city": "Nordheim",
+    "state": "TX",
+    "zip": "78141"
+  },
+  "coordinates": {
+    "latitude": 28.92217254638672,
+    "longitude": -97.61397552490234
+  },
+  "website": "https://stpaulnordheim.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6c73bd55-4ad7-42e5-8554-f5f4cb6f5dad",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6c73bd55-4ad7-42e5-8554-f5f4cb6f5dad"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulnordheim.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742030437"
+    }
+  ],
+  "advisories": []
+}

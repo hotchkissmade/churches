@@ -1,0 +1,33 @@
+{
+  "id": "qmretsd53",
+  "url": "https://constellation.church/qmretsd53",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "103 Clover St",
+    "city": "Kiron",
+    "state": "IA",
+    "zip": "51448-7712"
+  },
+  "coordinates": {
+    "latitude": 42.19545936584473,
+    "longitude": -95.3259048461914
+  },
+  "website": "https://bethelkironorg.wordpress.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=28a1aabe-8c5f-47eb-9191-e683b0f0a120",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "28a1aabe-8c5f-47eb-9191-e683b0f0a120"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelkironorg.wordpress.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426264841"
+    }
+  ],
+  "advisories": []
+}

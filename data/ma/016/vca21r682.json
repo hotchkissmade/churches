@@ -1,0 +1,33 @@
+{
+  "id": "vca21r682",
+  "url": "https://constellation.church/vca21r682",
+  "name": "Church in Worcester",
+  "displayName": "Church in Worcester",
+  "address": {
+    "street": "578 Chandler St",
+    "city": "Worcester",
+    "state": "MA",
+    "zip": "01602"
+  },
+  "coordinates": {
+    "latitude": 42.2728118,
+    "longitude": -71.849162
+  },
+  "website": "https://churchinworcester.org",
+  "listingUrl": "https://localchurches.org/churches/worcester-ma-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "worcester-ma-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinworcester.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042730170"
+    }
+  ],
+  "advisories": []
+}

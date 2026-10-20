@@ -1,0 +1,33 @@
+{
+  "id": "j52e4dk23",
+  "url": "https://constellation.church/j52e4dk23",
+  "name": "Stonegate Church",
+  "displayName": "Stonegate Church",
+  "address": {
+    "street": "4025 E US 287",
+    "city": "Midlothian",
+    "state": "TX",
+    "zip": "76065"
+  },
+  "coordinates": {
+    "latitude": 32.46402168273926,
+    "longitude": -96.94495391845703
+  },
+  "website": "https://stonegate.church",
+  "listingUrl": "https://churches.sbc.net/church/stonegate-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "stonegate-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stonegate.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "270480723"
+    }
+  ],
+  "advisories": []
+}

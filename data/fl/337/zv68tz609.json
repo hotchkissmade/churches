@@ -1,0 +1,33 @@
+{
+  "id": "zv68tz609",
+  "url": "https://constellation.church/zv68tz609",
+  "name": "Gateway Baptist Church",
+  "displayName": "Gateway Baptist Church",
+  "address": {
+    "street": "7700 16th St N",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33702"
+  },
+  "coordinates": {
+    "latitude": 27.843286514282227,
+    "longitude": -82.65591049194336
+  },
+  "website": "https://gatewaybc.church",
+  "listingUrl": "https://churches.sbc.net/church/gateway-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "gateway-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gatewaybc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591370061"
+    }
+  ],
+  "advisories": []
+}

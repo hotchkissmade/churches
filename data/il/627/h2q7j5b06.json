@@ -1,0 +1,33 @@
+{
+  "id": "h2q7j5b06",
+  "url": "https://constellation.church/h2q7j5b06",
+  "name": "Exodus Presbyterian Church",
+  "displayName": "Exodus Presbyterian Church",
+  "address": {
+    "street": "2450 Taylor Avenue",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62703"
+  },
+  "coordinates": {
+    "latitude": 39.77187919616699,
+    "longitude": -89.61685943603516
+  },
+  "website": "https://exoduspres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6610",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6610"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "exoduspres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "852407467"
+    }
+  ],
+  "advisories": []
+}

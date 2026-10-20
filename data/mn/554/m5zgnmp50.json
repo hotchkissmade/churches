@@ -1,0 +1,33 @@
+{
+  "id": "m5zgnmp50",
+  "url": "https://constellation.church/m5zgnmp50",
+  "name": "Aldersgate United Methodist Church",
+  "displayName": "Aldersgate United Methodist Church",
+  "address": {
+    "street": "5801 Minnetonka Blvd",
+    "city": "St Louis Park",
+    "state": "MN",
+    "zip": "55416"
+  },
+  "coordinates": {
+    "latitude": 44.94917297363281,
+    "longitude": -93.35328674316406
+  },
+  "website": "https://aldersgatemn.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFAKwIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFAKwIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "aldersgatemn.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410760458"
+    }
+  ],
+  "advisories": []
+}

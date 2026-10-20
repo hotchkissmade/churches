@@ -1,0 +1,33 @@
+{
+  "id": "qxds4ds50",
+  "url": "https://constellation.church/qxds4ds50",
+  "name": "St. Peters church",
+  "displayName": "St. Peter's church",
+  "address": {
+    "street": "137-28 244th Street",
+    "city": "Rosedale",
+    "state": "NY",
+    "zip": "11422"
+  },
+  "coordinates": {
+    "latitude": 40.66775321960449,
+    "longitude": -73.73331069946289
+  },
+  "website": "https://stpetersrosedale.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-peters-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-peters-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpetersrosedale.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "116024337"
+    }
+  ],
+  "advisories": []
+}

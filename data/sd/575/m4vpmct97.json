@@ -1,0 +1,33 @@
+{
+  "id": "m4vpmct97",
+  "url": "https://constellation.church/m4vpmct97",
+  "name": "Lutheran Memorial",
+  "displayName": "Lutheran Memorial",
+  "address": {
+    "street": "320 E Prospect Ave",
+    "city": "Pierre",
+    "state": "SD",
+    "zip": "57501-2533"
+  },
+  "coordinates": {
+    "latitude": 44.368255615234375,
+    "longitude": -100.34712219238281
+  },
+  "website": "https://lutheranmemorial.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c4e11e5a-bad1-4073-828f-72ca1cf6d115",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c4e11e5a-bad1-4073-828f-72ca1cf6d115"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lutheranmemorial.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460251888"
+    }
+  ],
+  "advisories": []
+}

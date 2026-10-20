@@ -1,0 +1,33 @@
+{
+  "id": "ew0mdcb64",
+  "url": "https://constellation.church/ew0mdcb64",
+  "name": "Sullivan Southern Baptist Church",
+  "displayName": "Sullivan Southern Baptist Church",
+  "address": {
+    "street": "615 E Jackson St",
+    "city": "Sullivan",
+    "state": "IL",
+    "zip": "61951"
+  },
+  "coordinates": {
+    "latitude": 39.60063552856445,
+    "longitude": -88.60151672363281
+  },
+  "website": "https://sullivansbc.org",
+  "listingUrl": "https://churches.sbc.net/church/sullivan-southern-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sullivan-southern-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sullivansbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371161779"
+    }
+  ],
+  "advisories": []
+}

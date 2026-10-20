@@ -1,0 +1,33 @@
+{
+  "id": "bm6587d97",
+  "url": "https://constellation.church/bm6587d97",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "300 W High St",
+    "city": "Womelsdorf",
+    "state": "PA",
+    "zip": "19567-1402"
+  },
+  "coordinates": {
+    "latitude": 40.36364936828613,
+    "longitude": -76.18929672241211
+  },
+  "website": "https://zionlutheranwomelsdorf.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a9d03f87-f62d-4c5b-8341-d1cbf8dff8e6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a9d03f87-f62d-4c5b-8341-d1cbf8dff8e6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionlutheranwomelsdorf.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231940625"
+    }
+  ],
+  "advisories": []
+}

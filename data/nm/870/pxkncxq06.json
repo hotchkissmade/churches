@@ -1,0 +1,33 @@
+{
+  "id": "pxkncxq06",
+  "url": "https://constellation.church/pxkncxq06",
+  "name": "First Baptist Church of Bernalillo",
+  "displayName": "First Baptist Church of Bernalillo",
+  "address": {
+    "street": "800 Camino Del Pueblo",
+    "city": "Bernalillo",
+    "state": "NM",
+    "zip": "87004"
+  },
+  "coordinates": {
+    "latitude": 35.30488395690918,
+    "longitude": -106.54871368408203
+  },
+  "website": "https://bernalillofirstbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-bernalillo/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-bernalillo"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bernalillofirstbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850396526"
+    }
+  ],
+  "advisories": []
+}

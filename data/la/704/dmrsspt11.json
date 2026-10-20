@@ -1,0 +1,33 @@
+{
+  "id": "dmrsspt11",
+  "url": "https://constellation.church/dmrsspt11",
+  "name": "Trinity Church",
+  "displayName": "Trinity Church",
+  "address": {
+    "street": "19380 N 10th St",
+    "city": "Covington",
+    "state": "LA",
+    "zip": "70433-8877"
+  },
+  "coordinates": {
+    "latitude": 30.465761184692383,
+    "longitude": -90.07831573486328
+  },
+  "website": "https://trinityefca.com",
+  "listingUrl": "https://churches.efca.org/?id=12845",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12845"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityefca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720852907"
+    }
+  ],
+  "advisories": []
+}

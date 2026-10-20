@@ -1,0 +1,33 @@
+{
+  "id": "n9f8d8017",
+  "url": "https://constellation.church/n9f8d8017",
+  "name": "Lakeview Presbyterian Church",
+  "displayName": "Lakeview Presbyterian Church",
+  "address": {
+    "street": "1100 Lakeview Parkway",
+    "city": "Vernon Hills",
+    "state": "IL",
+    "zip": "60061"
+  },
+  "coordinates": {
+    "latitude": 42.24654960632324,
+    "longitude": -87.96049880981445
+  },
+  "website": "https://lakeviewpc.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/792",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "792"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lakeviewpc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363518849"
+    }
+  ],
+  "advisories": []
+}

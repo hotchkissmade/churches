@@ -1,0 +1,33 @@
+{
+  "id": "srkgnvh04",
+  "url": "https://constellation.church/srkgnvh04",
+  "name": "Christ The King Lutheran Church",
+  "displayName": "Christ The King Lutheran Church",
+  "address": {
+    "street": "5575 Peachtree Pkwy",
+    "city": "Peachtree Corners",
+    "state": "GA",
+    "zip": "30092-2551"
+  },
+  "coordinates": {
+    "latitude": 33.967512130737305,
+    "longitude": -84.22349548339844
+  },
+  "website": "https://ctklutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b3dcae66-5266-4347-958f-08067e9cf67e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b3dcae66-5266-4347-958f-08067e9cf67e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ctklutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581648870"
+    }
+  ],
+  "advisories": []
+}

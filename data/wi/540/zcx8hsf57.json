@@ -1,0 +1,33 @@
+{
+  "id": "zcx8hsf57",
+  "url": "https://constellation.church/zcx8hsf57",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "240 Elm St W",
+    "city": "Amery",
+    "state": "WI",
+    "zip": "54001-1228"
+  },
+  "coordinates": {
+    "latitude": 45.30911636352539,
+    "longitude": -92.36454772949219
+  },
+  "website": "https://flcamery.org/livestream",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1b88944f-776c-4e59-8919-abd07b724422",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1b88944f-776c-4e59-8919-abd07b724422"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcamery.org/livestream"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391186527"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dq59qpe61",
+  "url": "https://constellation.church/dq59qpe61",
+  "name": "Church of the Resurrection",
+  "displayName": "Church of the Resurrection",
+  "address": {
+    "street": "3925 Hilyard St",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97405-3957"
+  },
+  "coordinates": {
+    "latitude": 44.01312065124512,
+    "longitude": -123.08194732666016
+  },
+  "website": "https://resurrectioneugene.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-oregon/list/church-resurrection",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-oregon/church-resurrection"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "resurrectioneugene.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930574990"
+    }
+  ],
+  "advisories": []
+}

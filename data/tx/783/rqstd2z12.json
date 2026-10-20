@@ -1,0 +1,33 @@
+{
+  "id": "rqstd2z12",
+  "url": "https://constellation.church/rqstd2z12",
+  "name": "Trinity by the Sea",
+  "displayName": "Trinity by the Sea",
+  "address": {
+    "street": "433 Trojan St",
+    "city": "Port Aransas",
+    "state": "TX",
+    "zip": "78373"
+  },
+  "coordinates": {
+    "latitude": 27.827192306518555,
+    "longitude": -97.06233978271484
+  },
+  "website": "https://trinitybythesea.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-texas/list/trinity-sea",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-texas/trinity-sea"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitybythesea.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741615169"
+    }
+  ],
+  "advisories": []
+}

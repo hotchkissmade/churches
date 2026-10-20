@@ -1,0 +1,33 @@
+{
+  "id": "ydx495x16",
+  "url": "https://constellation.church/ydx495x16",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "210 Grace St",
+    "city": "Prosperity",
+    "state": "SC",
+    "zip": "29127-6923"
+  },
+  "coordinates": {
+    "latitude": 34.210031509399414,
+    "longitude": -81.53175354003906
+  },
+  "website": "https://graceluth.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bc10835c-305d-4088-b7e8-2a42dde9e831",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bc10835c-305d-4088-b7e8-2a42dde9e831"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceluth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570526923"
+    }
+  ],
+  "advisories": []
+}

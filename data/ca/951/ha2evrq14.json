@@ -1,0 +1,33 @@
+{
+  "id": "ha2evrq14",
+  "url": "https://constellation.church/ha2evrq14",
+  "name": "Church in San Jose",
+  "displayName": "Church in San Jose",
+  "address": {
+    "street": "124 S 11th St",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95112"
+  },
+  "coordinates": {
+    "latitude": 37.338972091674805,
+    "longitude": -121.87799835205078
+  },
+  "website": "https://churchinsanjose.com",
+  "listingUrl": "https://localchurches.org/churches/san-jose-ca-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "san-jose-ca-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinsanjose.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237261129"
+    }
+  ],
+  "advisories": []
+}

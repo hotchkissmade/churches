@@ -1,0 +1,29 @@
+{
+  "id": "bntjhng59",
+  "url": "https://constellation.church/bntjhng59",
+  "name": "SDB CHICAGO",
+  "displayName": "SDB Chicago",
+  "address": {
+    "street": "1751 W HOWARD ST UNIT D",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60626"
+  },
+  "coordinates": {
+    "latitude": 42.0191604,
+    "longitude": -87.6740769
+  },
+  "website": "https://sdbchicago.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "334068718"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sdbchicago.org"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "r9d432572",
+  "url": "https://constellation.church/r9d432572",
+  "name": "City Reach - Philadelphia",
+  "displayName": "City Reach - Philadelphia",
+  "address": {
+    "street": "6814 Torresdale Ave",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19135"
+  },
+  "coordinates": {
+    "latitude": 40.025821685791016,
+    "longitude": -75.04433059692383
+  },
+  "website": "https://cityreachchurch.net",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d9c3edd7-09df-4cb4-b919-103f34990b6c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d9c3edd7-09df-4cb4-b919-103f34990b6c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cityreachchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "473625454"
+    }
+  ],
+  "advisories": []
+}

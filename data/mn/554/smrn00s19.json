@@ -1,0 +1,33 @@
+{
+  "id": "smrn00s19",
+  "url": "https://constellation.church/smrn00s19",
+  "name": "St. Herman Church",
+  "displayName": "St. Herman Church",
+  "address": {
+    "street": "5355 38th Ave S",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55417"
+  },
+  "coordinates": {
+    "latitude": 44.90552520751953,
+    "longitude": -93.21762466430664
+  },
+  "website": "https://sthermanmpls.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-mw-broshm",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-mw-broshm"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sthermanmpls.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411288295"
+    }
+  ],
+  "advisories": []
+}

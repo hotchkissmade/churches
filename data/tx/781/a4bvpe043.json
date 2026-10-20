@@ -1,0 +1,33 @@
+{
+  "id": "a4bvpe043",
+  "url": "https://constellation.church/a4bvpe043",
+  "name": "St. Philip's Episcopal Church",
+  "displayName": "St. Philip's Episcopal Church",
+  "address": {
+    "street": "311 E Corpus Christi St",
+    "city": "Beeville",
+    "state": "TX",
+    "zip": "78102-4899"
+  },
+  "coordinates": {
+    "latitude": 28.403409957885742,
+    "longitude": -97.745361328125
+  },
+  "website": "https://saintphilipsbeeville.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-texas/list/st-philips-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-texas/st-philips-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintphilipsbeeville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "746177830"
+    }
+  ],
+  "advisories": []
+}

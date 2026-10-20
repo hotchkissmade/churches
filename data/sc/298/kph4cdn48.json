@@ -1,0 +1,33 @@
+{
+  "id": "kph4cdn48",
+  "url": "https://constellation.church/kph4cdn48",
+  "name": "Edgefield First Baptist Church",
+  "displayName": "Edgefield First Baptist Church",
+  "address": {
+    "street": "212 Church St",
+    "city": "Edgefield",
+    "state": "SC",
+    "zip": "29824"
+  },
+  "coordinates": {
+    "latitude": 33.791133880615234,
+    "longitude": -81.92754745483398
+  },
+  "website": "https://edgefieldfbc.com",
+  "listingUrl": "https://churches.sbc.net/church/edgefield-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "edgefield-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "edgefieldfbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570400021"
+    }
+  ],
+  "advisories": []
+}

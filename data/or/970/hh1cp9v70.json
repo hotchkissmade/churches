@@ -1,0 +1,33 @@
+{
+  "id": "hh1cp9v70",
+  "url": "https://constellation.church/hh1cp9v70",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "507 W Powell Blvd",
+    "city": "Gresham",
+    "state": "OR",
+    "zip": "97030-7046"
+  },
+  "coordinates": {
+    "latitude": 45.49749755859375,
+    "longitude": -122.43706512451172
+  },
+  "website": "https://tlcgresham.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0366163f-598c-4397-85e5-7be84f142c07",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0366163f-598c-4397-85e5-7be84f142c07"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcgresham.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930467272"
+    }
+  ],
+  "advisories": []
+}

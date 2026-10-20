@@ -1,0 +1,33 @@
+{
+  "id": "cgwbjss10",
+  "url": "https://constellation.church/cgwbjss10",
+  "name": "Iglesia Nuevo Renacer",
+  "displayName": "Iglesia Nuevo Renacer",
+  "address": {
+    "street": "2401 Paula St",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27608"
+  },
+  "coordinates": {
+    "latitude": 35.81289482116699,
+    "longitude": -78.6254768371582
+  },
+  "website": "https://ignuevorenacer.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=cd2c862f-724e-4306-bf15-50f1932d72ff&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "cd2c862f-724e-4306-bf15-50f1932d72ff"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ignuevorenacer.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "270435288"
+    }
+  ],
+  "advisories": []
+}

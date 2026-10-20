@@ -1,0 +1,37 @@
+{
+  "id": "m101zt457",
+  "url": "https://constellation.church/m101zt457",
+  "name": "Christ Memorial Church",
+  "displayName": "Christ Memorial Church",
+  "address": {
+    "street": "1033 Essex Rd",
+    "city": "Williston",
+    "state": "VT",
+    "zip": "05495"
+  },
+  "coordinates": {
+    "latitude": 44.46714210510254,
+    "longitude": -73.11230087280273
+  },
+  "website": "https://cmcvermont.org",
+  "listingUrl": "https://churches.sbc.net/church/christ-memorial-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "christ-memorial-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cmcvermont.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030335054"
+    },
+    {
+      "namespace": "org.converge.id",
+      "value": "37490"
+    }
+  ],
+  "advisories": []
+}

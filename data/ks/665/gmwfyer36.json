@@ -1,0 +1,33 @@
+{
+  "id": "gmwfyer36",
+  "url": "https://constellation.church/gmwfyer36",
+  "name": "Rock Hills Church",
+  "displayName": "Rock Hills Church",
+  "address": {
+    "street": "2610 Farm Bureau Rd",
+    "city": "Manhattan",
+    "state": "KS",
+    "zip": "66502"
+  },
+  "coordinates": {
+    "latitude": 39.17802619934082,
+    "longitude": -96.60456848144531
+  },
+  "website": "https://myrockhillschurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=b92b163f-c4c6-4b53-ad1e-ce5e20f57c6d&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "b92b163f-c4c6-4b53-ad1e-ce5e20f57c6d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "myrockhillschurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "472899042"
+    }
+  ],
+  "advisories": []
+}

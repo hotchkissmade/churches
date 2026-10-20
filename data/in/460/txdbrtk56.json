@@ -1,0 +1,33 @@
+{
+  "id": "txdbrtk56",
+  "url": "https://constellation.church/txdbrtk56",
+  "name": "Advent Lutheran Church",
+  "displayName": "Advent Lutheran Church",
+  "address": {
+    "street": "11250 N Michigan Rd",
+    "city": "Zionsville",
+    "state": "IN",
+    "zip": "46077-9207"
+  },
+  "coordinates": {
+    "latitude": 39.94863319396973,
+    "longitude": -86.2405776977539
+  },
+  "website": "https://adventlutheran.org",
+  "listingUrl": "https://locator.lcms.org/church/C/299",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "299"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "adventlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351875009"
+    }
+  ],
+  "advisories": []
+}

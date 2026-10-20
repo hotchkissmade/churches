@@ -1,0 +1,33 @@
+{
+  "id": "gbs53gd25",
+  "url": "https://constellation.church/gbs53gd25",
+  "name": "First Baptist Church Senath",
+  "displayName": "First Baptist Church Senath",
+  "address": {
+    "street": "205 N Main St",
+    "city": "Senath",
+    "state": "MO",
+    "zip": "63876"
+  },
+  "coordinates": {
+    "latitude": 36.13606643676758,
+    "longitude": -90.1594123840332
+  },
+  "website": "https://senathfirstbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-senath/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-senath"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "senathfirstbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431303030"
+    }
+  ],
+  "advisories": []
+}

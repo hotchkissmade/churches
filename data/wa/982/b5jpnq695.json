@@ -1,0 +1,33 @@
+{
+  "id": "b5jpnq695",
+  "url": "https://constellation.church/b5jpnq695",
+  "name": "Central Lutheran Church",
+  "displayName": "Central Lutheran Church",
+  "address": {
+    "street": "2702 Rockefeller Ave",
+    "city": "Everett",
+    "state": "WA",
+    "zip": "98201-3523"
+  },
+  "coordinates": {
+    "latitude": 47.98173141479492,
+    "longitude": -122.20594024658203
+  },
+  "website": "https://centrallutheraneverett.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f228bb14-8fce-4dcc-8b18-56783581130f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f228bb14-8fce-4dcc-8b18-56783581130f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centrallutheraneverett.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910687110"
+    }
+  ],
+  "advisories": []
+}

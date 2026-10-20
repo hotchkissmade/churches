@@ -1,0 +1,33 @@
+{
+  "id": "ejb08h641",
+  "url": "https://constellation.church/ejb08h641",
+  "name": "Congregational Church of the Chimes",
+  "displayName": "Congregational Church of the Chimes",
+  "address": {
+    "street": "14115 Magnolia Blvd",
+    "city": "Sherman Oaks",
+    "state": "CA",
+    "zip": "91423"
+  },
+  "coordinates": {
+    "latitude": 34.16566276550293,
+    "longitude": -118.44058990478516
+  },
+  "website": "https://churchofthechimes.org/about-us",
+  "listingUrl": "https://www.naccc.org/wpbdp_listing/congregational-church-of-the-chimes/",
+  "identifiers": [
+    {
+      "namespace": "org.naccc.id",
+      "value": "congregational-church-of-the-chimes"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchofthechimes.org/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951900683"
+    }
+  ],
+  "advisories": []
+}

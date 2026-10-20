@@ -1,0 +1,33 @@
+{
+  "id": "pttk6s015",
+  "url": "https://constellation.church/pttk6s015",
+  "name": "Flagstaff Christian Fellowship",
+  "displayName": "Flagstaff Christian Fellowship",
+  "address": {
+    "street": "123 S Beaver St",
+    "city": "Flagstaff",
+    "state": "AZ",
+    "zip": "86001"
+  },
+  "coordinates": {
+    "latitude": 35.194658279418945,
+    "longitude": -111.65145111083984
+  },
+  "website": "https://fcfonline.org",
+  "listingUrl": "https://venturechurches.org/churches/flagstaff-christian-fellowship/",
+  "identifiers": [
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "flagstaff-christian-fellowship"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fcfonline.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860187242"
+    }
+  ],
+  "advisories": []
+}

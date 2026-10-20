@@ -1,0 +1,33 @@
+{
+  "id": "fw5xwvk56",
+  "url": "https://constellation.church/fw5xwvk56",
+  "name": "St Matthew Lutheran Church",
+  "displayName": "St. Matthew Lutheran Church",
+  "address": {
+    "street": "2440 Conestoga Rd",
+    "city": "Chester Springs",
+    "state": "PA",
+    "zip": "19425-3600"
+  },
+  "coordinates": {
+    "latitude": 40.10764122009277,
+    "longitude": -75.6725845336914
+  },
+  "website": "https://stmatthews-church.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c2f2641e-e42d-4e41-9c8c-3e5023757b86",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c2f2641e-e42d-4e41-9c8c-3e5023757b86"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmatthews-church.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232353937"
+    }
+  ],
+  "advisories": []
+}

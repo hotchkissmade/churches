@@ -1,0 +1,33 @@
+{
+  "id": "vdjsthc21",
+  "url": "https://constellation.church/vdjsthc21",
+  "name": "Grace Episcopal Church",
+  "displayName": "Grace Episcopal Church",
+  "address": {
+    "street": "4557 Colfax Ave S",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55419"
+  },
+  "coordinates": {
+    "latitude": 44.919790267944336,
+    "longitude": -93.29170989990234
+  },
+  "website": "https://stlukesepiscopal.org/about",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/st-lukes-episcopal-church-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/st-lukes-episcopal-church-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesepiscopal.org/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410724047"
+    }
+  ],
+  "advisories": []
+}

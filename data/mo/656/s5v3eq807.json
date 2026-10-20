@@ -1,0 +1,33 @@
+{
+  "id": "s5v3eq807",
+  "url": "https://constellation.church/s5v3eq807",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "1344 Ozark St",
+    "city": "Cabool",
+    "state": "MO",
+    "zip": "65689"
+  },
+  "coordinates": {
+    "latitude": 37.1240291595459,
+    "longitude": -92.11396789550781
+  },
+  "website": "https://caboolag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f6d0607a-9016-45ea-8dd7-c1d37d6ded86&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f6d0607a-9016-45ea-8dd7-c1d37d6ded86"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "caboolag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431253817"
+    }
+  ],
+  "advisories": []
+}

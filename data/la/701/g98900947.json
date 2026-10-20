@@ -1,0 +1,33 @@
+{
+  "id": "g98900947",
+  "url": "https://constellation.church/g98900947",
+  "name": "Redeemer Presbyterian Church",
+  "displayName": "Redeemer Presbyterian Church",
+  "address": {
+    "street": "7100 St. Charles Avenue",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70118"
+  },
+  "coordinates": {
+    "latitude": 29.93672752380371,
+    "longitude": -90.12664413452148
+  },
+  "website": "https://redeemernola.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4161",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4161"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemernola.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "721447229"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "esa3r4t23",
+  "url": "https://constellation.church/esa3r4t23",
+  "name": "Canvas Church",
+  "displayName": "Canvas Church",
+  "address": {
+    "street": "2200 N 7th St",
+    "city": "Coeur D Alene",
+    "state": "ID",
+    "zip": "83814"
+  },
+  "coordinates": {
+    "latitude": 47.69749450683594,
+    "longitude": -116.77507781982422
+  },
+  "website": "https://canvascda.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=7a865b72-f221-4325-99cb-0b57d8fc07d9&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "7a865b72-f221-4325-99cb-0b57d8fc07d9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "canvascda.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237199010"
+    }
+  ],
+  "advisories": []
+}

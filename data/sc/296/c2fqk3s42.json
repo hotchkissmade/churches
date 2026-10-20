@@ -1,0 +1,33 @@
+{
+  "id": "c2fqk3s42",
+  "url": "https://constellation.church/c2fqk3s42",
+  "name": "Mt Airy Baptist Church",
+  "displayName": "Mount Airy Baptist Church",
+  "address": {
+    "street": "210 Mount Airy Church Rd",
+    "city": "Easley",
+    "state": "SC",
+    "zip": "29642"
+  },
+  "coordinates": {
+    "latitude": 34.74966621398926,
+    "longitude": -82.53045272827148
+  },
+  "website": "https://mtairybaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/mt-airy-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mt-airy-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mtairybaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570642610"
+    }
+  ],
+  "advisories": []
+}

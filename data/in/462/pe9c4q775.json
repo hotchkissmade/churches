@@ -1,0 +1,33 @@
+{
+  "id": "pe9c4q775",
+  "url": "https://constellation.church/pe9c4q775",
+  "name": "St. Philip's Episcopal Church",
+  "displayName": "St. Philip's Episcopal Church",
+  "address": {
+    "street": "720 Dr Martin Luther King Jr St",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46202-3116"
+  },
+  "coordinates": {
+    "latitude": 39.77772521972656,
+    "longitude": -86.16785430908203
+  },
+  "website": "https://stphilipsindy.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-indianapolis/list/st-philips-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-indianapolis/st-philips-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stphilipsindy.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351470605"
+    }
+  ],
+  "advisories": []
+}

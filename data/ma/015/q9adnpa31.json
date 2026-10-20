@@ -1,0 +1,33 @@
+{
+  "id": "q9adnpa31",
+  "url": "https://constellation.church/q9adnpa31",
+  "name": "Heritage Bible Chapel",
+  "displayName": "Heritage Bible Chapel",
+  "address": {
+    "street": "182 Brooks Station Road",
+    "city": "Princeton",
+    "state": "MA",
+    "zip": "01541"
+  },
+  "coordinates": {
+    "latitude": 42.42278861999512,
+    "longitude": -71.89594650268555
+  },
+  "website": "https://heritagebiblechapel.org",
+  "listingUrl": "https://churches.sbc.net/church/heritage-bible-chapel/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "heritage-bible-chapel"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "heritagebiblechapel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "043539000"
+    }
+  ],
+  "advisories": []
+}

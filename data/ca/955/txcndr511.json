@@ -1,0 +1,29 @@
+{
+  "id": "txcndr511",
+  "url": "https://constellation.church/txcndr511",
+  "name": "FIRST COVENANT CHURCH EUREKA CA",
+  "displayName": "First Covenant Church Eureka CA",
+  "address": {
+    "street": "2526 J ST",
+    "city": "Eureka",
+    "state": "CA",
+    "zip": "95501"
+  },
+  "coordinates": {
+    "latitude": 40.784812927246094,
+    "longitude": -124.15912628173828
+  },
+  "website": "https://fcceureka.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510140136"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fcceureka.org"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "crnkvzf67",
+  "url": "https://constellation.church/crnkvzf67",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "601 6th Ave",
+    "city": "Sibley",
+    "state": "IA",
+    "zip": "51249"
+  },
+  "coordinates": {
+    "latitude": 43.402156829833984,
+    "longitude": -95.74613952636719
+  },
+  "website": "https://sibleypresby.com",
+  "listingUrl": "https://eco-pres.org/churches/first-presbyterian-church-sibley/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "first-presbyterian-church-sibley"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sibleypresby.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420752675"
+    }
+  ],
+  "advisories": []
+}

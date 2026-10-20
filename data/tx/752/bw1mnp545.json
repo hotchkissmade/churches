@@ -1,0 +1,33 @@
+{
+  "id": "bw1mnp545",
+  "url": "https://constellation.church/bw1mnp545",
+  "name": "Church of the Transfiguration",
+  "displayName": "Church of the Transfiguration",
+  "address": {
+    "street": "14115 Hillcrest Rd,",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75254"
+  },
+  "coordinates": {
+    "latitude": 32.941118240356445,
+    "longitude": -96.78656768798828
+  },
+  "website": "https://transfiguration.net",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/dallas/list/church-transfiguration",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "dallas/church-transfiguration"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "transfiguration.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "756005101"
+    }
+  ],
+  "advisories": []
+}

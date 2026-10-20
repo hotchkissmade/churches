@@ -1,0 +1,33 @@
+{
+  "id": "jktsznv50",
+  "url": "https://constellation.church/jktsznv50",
+  "name": "Church of the Redeemer",
+  "displayName": "Church of the Redeemer",
+  "address": {
+    "street": "6201 Dunrobbin Dr",
+    "city": "Bethesda",
+    "state": "MD",
+    "zip": "20816-1044"
+  },
+  "coordinates": {
+    "latitude": 38.96968650817871,
+    "longitude": -77.13994598388672
+  },
+  "website": "https://redeemerbethesda.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/church-redeemer-bethesda",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/church-redeemer-bethesda"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerbethesda.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520820644"
+    }
+  ],
+  "advisories": []
+}

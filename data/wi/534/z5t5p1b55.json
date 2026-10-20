@@ -1,0 +1,33 @@
+{
+  "id": "z5t5p1b55",
+  "url": "https://constellation.church/z5t5p1b55",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "728 Villa St",
+    "city": "Racine",
+    "state": "WI",
+    "zip": "53403-1144"
+  },
+  "coordinates": {
+    "latitude": 42.725040435791016,
+    "longitude": -87.78729248046875
+  },
+  "website": "https://firstracine.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24868",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24868"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstracine.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396029476"
+    }
+  ],
+  "advisories": []
+}

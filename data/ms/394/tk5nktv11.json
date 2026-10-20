@@ -1,0 +1,33 @@
+{
+  "id": "tk5nktv11",
+  "url": "https://constellation.church/tk5nktv11",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "4901 Hardy Street",
+    "city": "Hattiesburg",
+    "state": "MS",
+    "zip": "39402"
+  },
+  "coordinates": {
+    "latitude": 31.32473373413086,
+    "longitude": -89.36184692382812
+  },
+  "website": "https://fpchattiesburg.org/pastorsearch/pastor-search-committee",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/462",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "462"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpchattiesburg.org/pastorsearch/pastor-search-committee"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640888652"
+    }
+  ],
+  "advisories": []
+}

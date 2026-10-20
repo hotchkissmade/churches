@@ -1,0 +1,33 @@
+{
+  "id": "d90gmt007",
+  "url": "https://constellation.church/d90gmt007",
+  "name": "Bethel Baptist Church",
+  "displayName": "Bethel Baptist Church",
+  "address": {
+    "street": "160 Bethel Church Rd",
+    "city": "Westminster",
+    "state": "SC",
+    "zip": "29693"
+  },
+  "coordinates": {
+    "latitude": 34.597158432006836,
+    "longitude": -83.01905822753906
+  },
+  "website": "https://lovingbethel.com",
+  "listingUrl": "https://churches.sbc.net/church/bethel-baptist-church-60/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bethel-baptist-church-60"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lovingbethel.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "576072044"
+    }
+  ],
+  "advisories": []
+}

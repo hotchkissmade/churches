@@ -1,0 +1,33 @@
+{
+  "id": "hnta0h085",
+  "url": "https://constellation.church/hnta0h085",
+  "name": "Providence Presbyterian Church",
+  "displayName": "Providence Presbyterian Church",
+  "address": {
+    "street": "77 Phillips Lane",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15136"
+  },
+  "coordinates": {
+    "latitude": 40.46880340576172,
+    "longitude": -80.14554595947266
+  },
+  "website": "https://providencepgh.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/864",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "864"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "providencepgh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251269525"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "srv6fhr67",
+  "url": "https://constellation.church/srv6fhr67",
+  "name": "Pine Grove Baptist Church of Thomson, Inc.",
+  "displayName": "Pine Grove Baptist Church of Thomson",
+  "address": {
+    "street": "3041 Pine Grove Church Dr",
+    "city": "Thomson",
+    "state": "GA",
+    "zip": "30824"
+  },
+  "coordinates": {
+    "latitude": 33.54702568054199,
+    "longitude": -82.50870513916016
+  },
+  "website": "https://pinegrove-church.com",
+  "listingUrl": "https://churches.sbc.net/church/pine-grove-baptist-church-of-thomson-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pine-grove-baptist-church-of-thomson-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pinegrove-church.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581657390"
+    }
+  ],
+  "advisories": []
+}

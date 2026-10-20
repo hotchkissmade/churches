@@ -1,0 +1,33 @@
+{
+  "id": "b2sgs2v59",
+  "url": "https://constellation.church/b2sgs2v59",
+  "name": "First Baptist Church of Farmersville",
+  "displayName": "First Baptist Church of Farmersville",
+  "address": {
+    "street": "124 S Washington St",
+    "city": "Farmersville",
+    "state": "TX",
+    "zip": "75442"
+  },
+  "coordinates": {
+    "latitude": 33.16265678405762,
+    "longitude": -96.36133575439453
+  },
+  "website": "https://fbcfarmersville.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-farmersville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-farmersville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcfarmersville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750808803"
+    }
+  ],
+  "advisories": []
+}

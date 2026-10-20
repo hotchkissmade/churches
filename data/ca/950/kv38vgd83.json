@@ -1,0 +1,33 @@
+{
+  "id": "kv38vgd83",
+  "url": "https://constellation.church/kv38vgd83",
+  "name": "Las Lomas Community Church",
+  "displayName": "Las Lomas Community Church",
+  "address": {
+    "street": "29 Willow Rd",
+    "city": "Watsonville",
+    "state": "CA",
+    "zip": "95076"
+  },
+  "coordinates": {
+    "latitude": 36.86435890197754,
+    "longitude": -121.73487854003906
+  },
+  "website": "https://laslomascc.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=417d0521-4c16-411c-b9f4-c1515479edfc&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "417d0521-4c16-411c-b9f4-c1515479edfc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "laslomascc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942855894"
+    }
+  ],
+  "advisories": []
+}

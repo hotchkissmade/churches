@@ -1,0 +1,33 @@
+{
+  "id": "s93h7ap67",
+  "url": "https://constellation.church/s93h7ap67",
+  "name": "Assembly of God Church",
+  "displayName": "Assembly of God Church",
+  "address": {
+    "street": "138 S Main St",
+    "city": "Hugoton",
+    "state": "KS",
+    "zip": "67951"
+  },
+  "coordinates": {
+    "latitude": 37.18275260925293,
+    "longitude": -101.34788513183594
+  },
+  "website": "https://hugotonassembly.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d61a749c-2eea-45d9-baa5-c44a47def269&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d61a749c-2eea-45d9-baa5-c44a47def269"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hugotonassembly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "481006008"
+    }
+  ],
+  "advisories": []
+}

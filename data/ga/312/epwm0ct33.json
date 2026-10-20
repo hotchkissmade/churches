@@ -1,0 +1,33 @@
+{
+  "id": "epwm0ct33",
+  "url": "https://constellation.church/epwm0ct33",
+  "name": "City Refuge Church",
+  "displayName": "City Refuge Church",
+  "address": {
+    "street": "1534 Tucker Rd",
+    "city": "Macon",
+    "state": "GA",
+    "zip": "31220"
+  },
+  "coordinates": {
+    "latitude": 32.85293769836426,
+    "longitude": -83.74468994140625
+  },
+  "website": "https://cityrefugemacon.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=11db003c-2f4d-4ba4-a238-100ab60fc599&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "11db003c-2f4d-4ba4-a238-100ab60fc599"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cityrefugemacon.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581495684"
+    }
+  ],
+  "advisories": []
+}

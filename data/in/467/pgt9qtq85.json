@@ -1,0 +1,33 @@
+{
+  "id": "pgt9qtq85",
+  "url": "https://constellation.church/pgt9qtq85",
+  "name": "Huntington Baptist Church",
+  "displayName": "Huntington Baptist Church",
+  "address": {
+    "street": "2435 Waterworks Rd",
+    "city": "Huntington",
+    "state": "IN",
+    "zip": "46750"
+  },
+  "coordinates": {
+    "latitude": 40.858760833740234,
+    "longitude": -85.49909210205078
+  },
+  "website": "https://huntingtonbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/huntington-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "huntington-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "huntingtonbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351272409"
+    }
+  ],
+  "advisories": []
+}

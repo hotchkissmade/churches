@@ -1,0 +1,33 @@
+{
+  "id": "rnxmkgk40",
+  "url": "https://constellation.church/rnxmkgk40",
+  "name": "Arvon Baptist Church",
+  "displayName": "Arvon Baptist Church",
+  "address": {
+    "street": "28350 N James Madison Hwy",
+    "city": "New Canton",
+    "state": "VA",
+    "zip": "23123"
+  },
+  "coordinates": {
+    "latitude": 37.6685791015625,
+    "longitude": -78.3414192199707
+  },
+  "website": "https://arvonbaptistchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/arvon-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "arvon-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "arvonbaptistchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541880799"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "hacxwfj03",
+  "url": "https://constellation.church/hacxwfj03",
+  "name": "Church of the Vine",
+  "displayName": "Church of the Vine",
+  "address": {
+    "street": "502 S. St. Paul Hwy",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": "97132"
+  },
+  "coordinates": {
+    "latitude": 45.29650115966797,
+    "longitude": -122.95025634765625
+  },
+  "website": "https://myflc.org",
+  "listingUrl": "https://www.acna.org/admin_units/1540",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "1540"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "myflc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930760875"
+    },
+    {
+      "namespace": "org.ag.id",
+      "value": "36efe681-c7aa-4cf5-916e-9cee4b1629f4"
+    }
+  ],
+  "advisories": []
+}

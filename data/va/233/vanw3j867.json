@@ -1,0 +1,33 @@
+{
+  "id": "vanw3j867",
+  "url": "https://constellation.church/vanw3j867",
+  "name": "Southside Baptist",
+  "displayName": "Southside Baptist Church",
+  "address": {
+    "street": "1200 Bainbridge Blvd",
+    "city": "Chesapeake",
+    "state": "VA",
+    "zip": "23324"
+  },
+  "coordinates": {
+    "latitude": 36.81487846374512,
+    "longitude": -76.2790641784668
+  },
+  "website": "https://southsidebaptist23324.org",
+  "listingUrl": "https://churches.sbc.net/church/southside-baptist/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "southside-baptist"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southsidebaptist23324.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540682113"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hj894eg26",
+  "url": "https://constellation.church/hj894eg26",
+  "name": "Church of the Resurrection",
+  "displayName": "Church of the Resurrection",
+  "address": {
+    "street": "700 S Main St",
+    "city": "Greenwood",
+    "state": "SC",
+    "zip": "29646-3211"
+  },
+  "coordinates": {
+    "latitude": 34.18628120422363,
+    "longitude": -82.15932083129883
+  },
+  "website": "https://episcopalgreenwood.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-upper-south-carolina/list/church-resurrection",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-upper-south-carolina/church-resurrection"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "episcopalgreenwood.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570567669"
+    }
+  ],
+  "advisories": []
+}

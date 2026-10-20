@@ -1,0 +1,33 @@
+{
+  "id": "wp92h5f42",
+  "url": "https://constellation.church/wp92h5f42",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "2700 Lisenby Avenue",
+    "city": "Panama City",
+    "state": "FL",
+    "zip": "32405"
+  },
+  "coordinates": {
+    "latitude": 30.1604061126709,
+    "longitude": -85.65924835205078
+  },
+  "website": "https://firstprespc.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/451",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "451"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstprespc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590696297"
+    }
+  ],
+  "advisories": []
+}

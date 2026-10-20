@@ -1,0 +1,33 @@
+{
+  "id": "dv6decs49",
+  "url": "https://constellation.church/dv6decs49",
+  "name": "Westview Baptist Church",
+  "displayName": "Westview Baptist Church",
+  "address": {
+    "street": "28 Jamison St",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29611"
+  },
+  "coordinates": {
+    "latitude": 34.82807731628418,
+    "longitude": -82.42971801757812
+  },
+  "website": "https://westviewbaptistgreenville.org",
+  "listingUrl": "https://churches.sbc.net/church/westview-baptist-church-8/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "westview-baptist-church-8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westviewbaptistgreenville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570763617"
+    }
+  ],
+  "advisories": []
+}

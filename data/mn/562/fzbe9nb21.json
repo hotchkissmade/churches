@@ -1,0 +1,33 @@
+{
+  "id": "fzbe9nb21",
+  "url": "https://constellation.church/fzbe9nb21",
+  "name": "Our Redeemer Lutheran Church",
+  "displayName": "Our Redeemer Lutheran Church",
+  "address": {
+    "street": "800 10th St S",
+    "city": "Benson",
+    "state": "MN",
+    "zip": "56215-2000"
+  },
+  "coordinates": {
+    "latitude": 45.306297302246094,
+    "longitude": -95.59717559814453
+  },
+  "website": "https://our-redeemers.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=255dd1f6-811a-4e71-ac69-ee52b70e7490",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "255dd1f6-811a-4e71-ac69-ee52b70e7490"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "our-redeemers.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410705815"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "v9jy78559",
+  "url": "https://constellation.church/v9jy78559",
+  "name": "Lutheran Church of the Redeemer",
+  "displayName": "Lutheran Church of the Redeemer",
+  "address": {
+    "street": "2525 S Oak Ave",
+    "city": "Sanford",
+    "state": "FL",
+    "zip": "32773-5155"
+  },
+  "coordinates": {
+    "latitude": 28.784421920776367,
+    "longitude": -81.26871109008789
+  },
+  "website": "https://redeemersanford.org",
+  "listingUrl": "https://locator.lcms.org/church/C/820463",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "820463"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemersanford.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237042050"
+    }
+  ],
+  "advisories": []
+}

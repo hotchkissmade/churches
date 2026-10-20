@@ -1,0 +1,33 @@
+{
+  "id": "ds2x0m220",
+  "url": "https://constellation.church/ds2x0m220",
+  "name": "Graceland Baptist Church",
+  "displayName": "Graceland Baptist Church",
+  "address": {
+    "street": "3600 Kamer Miller Rd",
+    "city": "New Albany",
+    "state": "IN",
+    "zip": "47150"
+  },
+  "coordinates": {
+    "latitude": 38.3523726,
+    "longitude": -85.8023691
+  },
+  "website": "https://graceland.church",
+  "listingUrl": "https://churches.sbc.net/church/graceland-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "graceland-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceland.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "356257853"
+    }
+  ],
+  "advisories": []
+}

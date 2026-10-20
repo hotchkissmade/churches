@@ -1,0 +1,33 @@
+{
+  "id": "ftz2b6j78",
+  "url": "https://constellation.church/ftz2b6j78",
+  "name": "Central Valley Baptist Church",
+  "displayName": "Central Valley Baptist Church",
+  "address": {
+    "street": "600 N. Ten Mile Road",
+    "city": "Meridian",
+    "state": "ID",
+    "zip": "83642"
+  },
+  "coordinates": {
+    "latitude": 43.60992431640625,
+    "longitude": -116.43183135986328
+  },
+  "website": "https://centralvalleybaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/central-valley-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "central-valley-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centralvalleybaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820374601"
+    }
+  ],
+  "advisories": []
+}

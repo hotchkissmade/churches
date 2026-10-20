@@ -1,0 +1,33 @@
+{
+  "id": "kzqdaze67",
+  "url": "https://constellation.church/kzqdaze67",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "707 W Fort St",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83702-5524"
+  },
+  "coordinates": {
+    "latitude": 43.62109375,
+    "longitude": -116.19723510742188
+  },
+  "website": "https://ilcboise.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=90cf0063-e389-4c9e-84fe-c6a2e7525b1c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "90cf0063-e389-4c9e-84fe-c6a2e7525b1c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ilcboise.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820230117"
+    }
+  ],
+  "advisories": []
+}

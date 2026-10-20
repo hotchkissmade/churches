@@ -1,0 +1,33 @@
+{
+  "id": "awf4zhr62",
+  "url": "https://constellation.church/awf4zhr62",
+  "name": "GPS Faith Community",
+  "displayName": "GPS Faith Community",
+  "address": {
+    "street": "11189 Forest Hills Rd",
+    "city": "Machesney Park",
+    "state": "IL",
+    "zip": "61115-8272"
+  },
+  "coordinates": {
+    "latitude": 42.37341117858887,
+    "longitude": -89.03028106689453
+  },
+  "website": "https://gpsfaith.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d9ef9f0d-88ee-4d51-8131-535d542c2aa2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d9ef9f0d-88ee-4d51-8131-535d542c2aa2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gpsfaith.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "271334851"
+    }
+  ],
+  "advisories": []
+}

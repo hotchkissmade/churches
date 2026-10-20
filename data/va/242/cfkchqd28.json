@@ -1,0 +1,33 @@
+{
+  "id": "cfkchqd28",
+  "url": "https://constellation.church/cfkchqd28",
+  "name": "Sandlick Presbyterian Church",
+  "displayName": "Sandlick Presbyterian Church",
+  "address": {
+    "street": "159 Olney LeVada Road",
+    "city": "Birchleaf",
+    "state": "VA",
+    "zip": "24220"
+  },
+  "coordinates": {
+    "latitude": 37.18143844604492,
+    "longitude": -82.2738037109375
+  },
+  "website": "https://sandlickpresbyterianchurch.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/919",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "919"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sandlickpresbyterianchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581599659"
+    }
+  ],
+  "advisories": []
+}

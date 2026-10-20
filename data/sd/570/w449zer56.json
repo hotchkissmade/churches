@@ -1,0 +1,33 @@
+{
+  "id": "w449zer56",
+  "url": "https://constellation.church/w449zer56",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "403 Broadway Ave",
+    "city": "Yankton",
+    "state": "SD",
+    "zip": "57078-3920"
+  },
+  "coordinates": {
+    "latitude": 42.87190628051758,
+    "longitude": -97.39727783203125
+  },
+  "website": "https://tlcyankton.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=186361bb-fbb0-40b4-86b3-6c22feaebb59",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "186361bb-fbb0-40b4-86b3-6c22feaebb59"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcyankton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460235882"
+    }
+  ],
+  "advisories": []
+}

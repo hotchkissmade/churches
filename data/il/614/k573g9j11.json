@@ -1,0 +1,33 @@
+{
+  "id": "k573g9j11",
+  "url": "https://constellation.church/k573g9j11",
+  "name": "University Baptist Church",
+  "displayName": "University Baptist Church",
+  "address": {
+    "street": "315 N Sherman Ave",
+    "city": "Macomb",
+    "state": "IL",
+    "zip": "61455"
+  },
+  "coordinates": {
+    "latitude": 40.4614903,
+    "longitude": -90.6835271
+  },
+  "website": "https://ubcmacomb.com",
+  "listingUrl": "https://churches.sbc.net/church/university-baptist-church-12/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "university-baptist-church-12"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ubcmacomb.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371336654"
+    }
+  ],
+  "advisories": []
+}

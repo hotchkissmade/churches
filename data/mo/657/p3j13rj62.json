@@ -1,0 +1,33 @@
+{
+  "id": "p3j13rj62",
+  "url": "https://constellation.church/p3j13rj62",
+  "name": "First Baptist Church Mountain Grove",
+  "displayName": "First Baptist Church Mountain Grove",
+  "address": {
+    "street": "807 E 17th St",
+    "city": "Mountain Grove",
+    "state": "MO",
+    "zip": "65711"
+  },
+  "coordinates": {
+    "latitude": 37.14383316040039,
+    "longitude": -92.25531768798828
+  },
+  "website": "https://mgfbc.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-mountain-grove/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-mountain-grove"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mgfbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440660507"
+    }
+  ],
+  "advisories": []
+}

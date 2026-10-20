@@ -1,0 +1,33 @@
+{
+  "id": "h8k4mwa42",
+  "url": "https://constellation.church/h8k4mwa42",
+  "name": "St Timothy Lutheran Church",
+  "displayName": "St. Timothy Lutheran Church",
+  "address": {
+    "street": "14500 SE Powell Blvd",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97236-2520"
+  },
+  "coordinates": {
+    "latitude": 45.49850654602051,
+    "longitude": -122.51390075683594
+  },
+  "website": "https://sainttimothypdx.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f1a93d35-6a87-48b5-ad35-ed3338d66d3f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f1a93d35-6a87-48b5-ad35-ed3338d66d3f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sainttimothypdx.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930579117"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sb1b6s519",
+  "url": "https://constellation.church/sb1b6s519",
+  "name": "Christ Presbyterian Church",
+  "displayName": "Christ Presbyterian Church",
+  "address": {
+    "street": "8300 Katy Freeway",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77024"
+  },
+  "coordinates": {
+    "latitude": 29.785627365112305,
+    "longitude": -95.48921966552734
+  },
+  "website": "https://cpchouston.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6485",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6485"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cpchouston.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760332175"
+    }
+  ],
+  "advisories": []
+}

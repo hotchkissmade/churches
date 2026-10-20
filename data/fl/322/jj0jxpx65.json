@@ -1,0 +1,33 @@
+{
+  "id": "jj0jxpx65",
+  "url": "https://constellation.church/jj0jxpx65",
+  "name": "First Baptist Church of Atlantic Beach",
+  "displayName": "First Baptist Church of Atlantic Beach",
+  "address": {
+    "street": "1050 Mayport Rd",
+    "city": "Atlantic Beach",
+    "state": "FL",
+    "zip": "32233"
+  },
+  "coordinates": {
+    "latitude": 30.331575393676758,
+    "longitude": -81.41685485839844
+  },
+  "website": "https://fbatlbch.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-atlantic-beach/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-atlantic-beach"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbatlbch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591161109"
+    }
+  ],
+  "advisories": []
+}

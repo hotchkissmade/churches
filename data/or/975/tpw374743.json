@@ -1,0 +1,33 @@
+{
+  "id": "tpw374743",
+  "url": "https://constellation.church/tpw374743",
+  "name": "Solid Rock Church of Grants Pass",
+  "displayName": "Solid Rock Church of Grants Pass",
+  "address": {
+    "street": "1832 Dowell Rd",
+    "city": "Grants Pass",
+    "state": "OR",
+    "zip": "97527"
+  },
+  "coordinates": {
+    "latitude": 42.41710090637207,
+    "longitude": -123.36815643310547
+  },
+  "website": "https://solidrockgp.org",
+  "listingUrl": "https://churches.sbc.net/church/solid-rock-church-of-grants-pass/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "solid-rock-church-of-grants-pass"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "solidrockgp.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "931318015"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cnbzd7f17",
+  "url": "https://constellation.church/cnbzd7f17",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "2300 Washington Ave",
+    "city": "Evansville",
+    "state": "IN",
+    "zip": "47714-2320"
+  },
+  "coordinates": {
+    "latitude": 37.962955474853516,
+    "longitude": -87.52217864990234
+  },
+  "website": "https://stmarksevansville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4a9f6479-eb4a-42e0-a385-ed48b15488f4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4a9f6479-eb4a-42e0-a385-ed48b15488f4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarksevansville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "356000478"
+    }
+  ],
+  "advisories": []
+}

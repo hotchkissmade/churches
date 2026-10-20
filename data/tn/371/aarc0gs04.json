@@ -1,0 +1,33 @@
+{
+  "id": "aarc0gs04",
+  "url": "https://constellation.church/aarc0gs04",
+  "name": "Grace Baptist Church",
+  "displayName": "Grace Baptist Church",
+  "address": {
+    "street": "2523 Bradyville Pike",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "zip": "37127"
+  },
+  "coordinates": {
+    "latitude": 35.81377983093262,
+    "longitude": -86.3504524230957
+  },
+  "website": "https://gracemurfreesboro.com",
+  "listingUrl": "https://churches.sbc.net/church/grace-baptist-church-48/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grace-baptist-church-48"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracemurfreesboro.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621194084"
+    }
+  ],
+  "advisories": []
+}

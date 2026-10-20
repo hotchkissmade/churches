@@ -1,0 +1,33 @@
+{
+  "id": "tssxhgd87",
+  "url": "https://constellation.church/tssxhgd87",
+  "name": "St Mark's Lutheran Church",
+  "displayName": "St. Mark's Lutheran Church",
+  "address": {
+    "street": "10 N Liberty St",
+    "city": "Asheville",
+    "state": "NC",
+    "zip": "28801-1823"
+  },
+  "coordinates": {
+    "latitude": 35.60344123840332,
+    "longitude": -82.55217742919922
+  },
+  "website": "https://stmarkslutheran.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=53b3a840-6221-44cc-b716-b0b2ea9d1e81",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "53b3a840-6221-44cc-b716-b0b2ea9d1e81"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkslutheran.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161647426"
+    }
+  ],
+  "advisories": []
+}

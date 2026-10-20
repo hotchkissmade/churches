@@ -1,0 +1,33 @@
+{
+  "id": "j98nqx028",
+  "url": "https://constellation.church/j98nqx028",
+  "name": "Redmond Assembly of God",
+  "displayName": "Redmond Assembly of God",
+  "address": {
+    "street": "16601 NE 95th St",
+    "city": "Redmond",
+    "state": "WA",
+    "zip": "98052"
+  },
+  "coordinates": {
+    "latitude": 47.68528747558594,
+    "longitude": -122.11822509765625
+  },
+  "website": "https://redmondag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=1e84401f-6ae1-439d-8f6a-3a5f230905fb&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "1e84401f-6ae1-439d-8f6a-3a5f230905fb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redmondag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910860640"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c7n1zb892",
+  "url": "https://constellation.church/c7n1zb892",
+  "name": "Salem United Methodist Church",
+  "displayName": "Salem United Methodist Church",
+  "address": {
+    "street": "120 Sheboygan St",
+    "city": "Fond du Lac",
+    "state": "WI",
+    "zip": "54935"
+  },
+  "coordinates": {
+    "latitude": 43.777565002441406,
+    "longitude": -88.44242858886719
+  },
+  "website": "https://fdlsalemchurch.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFLpyIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFLpyIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fdlsalemchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390978440"
+    }
+  ],
+  "advisories": []
+}

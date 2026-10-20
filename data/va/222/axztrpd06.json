@@ -1,0 +1,33 @@
+{
+  "id": "axztrpd06",
+  "url": "https://constellation.church/axztrpd06",
+  "name": "Resurrection Lutheran Church",
+  "displayName": "Resurrection Lutheran Church",
+  "address": {
+    "street": "6201 Washington Blvd",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "22205-2034"
+  },
+  "coordinates": {
+    "latitude": 38.88753128051758,
+    "longitude": -77.14926147460938
+  },
+  "website": "https://relcarlington.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6be8e7a1-4f9f-4189-9313-fd9f7508e9ec",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6be8e7a1-4f9f-4189-9313-fd9f7508e9ec"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "relcarlington.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540506470"
+    }
+  ],
+  "advisories": []
+}

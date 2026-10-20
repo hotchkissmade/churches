@@ -1,0 +1,33 @@
+{
+  "id": "g2k4kyd66",
+  "url": "https://constellation.church/g2k4kyd66",
+  "name": "Church of the Foothills",
+  "displayName": "Church of the Foothills",
+  "address": {
+    "street": "13425 Glenoaks Blvd",
+    "city": "Sylmar",
+    "state": "CA",
+    "zip": "91342-2049"
+  },
+  "coordinates": {
+    "latitude": 34.31585502624512,
+    "longitude": -118.46127319335938
+  },
+  "website": "https://churchofthefoothillssylmar.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e0d43873-f36a-42c8-b1a3-6788b1c84e60",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e0d43873-f36a-42c8-b1a3-6788b1c84e60"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchofthefoothillssylmar.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952880787"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "smagtaw58",
+  "url": "https://constellation.church/smagtaw58",
+  "name": "St Luke's American Lutheran Church",
+  "displayName": "St. Luke's American Lutheran Church",
+  "address": {
+    "street": "7595 Center Pkwy",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95823-3755"
+  },
+  "coordinates": {
+    "latitude": 38.48201560974121,
+    "longitude": -121.44154357910156
+  },
+  "website": "https://slelca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7a4c772a-44f7-4b1b-ab38-10cc18ccc3fd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7a4c772a-44f7-4b1b-ab38-10cc18ccc3fd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "slelca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "680004807"
+    }
+  ],
+  "advisories": []
+}

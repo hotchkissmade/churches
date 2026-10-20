@@ -1,0 +1,33 @@
+{
+  "id": "jedb30k60",
+  "url": "https://constellation.church/jedb30k60",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "9529 State Highway 80",
+    "city": "Marshfield",
+    "state": "WI",
+    "zip": "54449-9681"
+  },
+  "coordinates": {
+    "latitude": 44.592139,
+    "longitude": -90.1806604
+  },
+  "website": "https://trinitymarshfield.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/25001",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "25001"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitymarshfield.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237354572"
+    }
+  ],
+  "advisories": []
+}

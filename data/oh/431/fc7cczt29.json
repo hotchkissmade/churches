@@ -1,0 +1,33 @@
+{
+  "id": "fc7cczt29",
+  "url": "https://constellation.church/fc7cczt29",
+  "name": "Sycamore Creek Community Church",
+  "displayName": "Sycamore Creek Community Church",
+  "address": {
+    "street": "8100 Refugee Road",
+    "city": "Pickerington",
+    "state": "OH",
+    "zip": "43147"
+  },
+  "coordinates": {
+    "latitude": 39.90903091430664,
+    "longitude": -82.73919677734375
+  },
+  "website": "https://sycamorecreek.org",
+  "listingUrl": "https://churches.sbc.net/church/sycamore-creek-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sycamore-creek-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sycamorecreek.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311433772"
+    }
+  ],
+  "advisories": []
+}

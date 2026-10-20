@@ -1,0 +1,33 @@
+{
+  "id": "w3f9qsc31",
+  "url": "https://constellation.church/w3f9qsc31",
+  "name": "Lutheran Church of the Lakes",
+  "displayName": "Lutheran Church of the Lakes",
+  "address": {
+    "street": "8800 N Rollin Hwy",
+    "city": "Addison",
+    "state": "MI",
+    "zip": "49220"
+  },
+  "coordinates": {
+    "latitude": 42.011253356933594,
+    "longitude": -84.30588912963867
+  },
+  "website": "https://lcol.org",
+  "listingUrl": "https://locator.lcms.org/church/C/52",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "52"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcol.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382933170"
+    }
+  ],
+  "advisories": []
+}

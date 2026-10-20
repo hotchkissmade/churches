@@ -1,0 +1,33 @@
+{
+  "id": "gt8xcnz16",
+  "url": "https://constellation.church/gt8xcnz16",
+  "name": "St Luke's Lutheran Church",
+  "displayName": "St. Luke's Lutheran Church",
+  "address": {
+    "street": "308 W 46th St",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10036-3801"
+  },
+  "coordinates": {
+    "latitude": 40.760009765625,
+    "longitude": -73.98868179321289
+  },
+  "website": "https://stlukesnyc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b8ca0c75-3321-4c07-886b-777554fd7bab",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b8ca0c75-3321-4c07-886b-777554fd7bab"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesnyc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "131656649"
+    }
+  ],
+  "advisories": []
+}

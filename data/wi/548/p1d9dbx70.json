@@ -1,0 +1,33 @@
+{
+  "id": "p1d9dbx70",
+  "url": "https://constellation.church/p1d9dbx70",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "83105 Washington Ave",
+    "city": "Port Wing",
+    "state": "WI",
+    "zip": "54865-3703"
+  },
+  "coordinates": {
+    "latitude": 46.77689743041992,
+    "longitude": -91.38485717773438
+  },
+  "website": "https://firstlutheranportwing.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d2c53d35-cec9-4bd9-a58f-b5d27341999e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d2c53d35-cec9-4bd9-a58f-b5d27341999e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranportwing.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "392015878"
+    }
+  ],
+  "advisories": []
+}

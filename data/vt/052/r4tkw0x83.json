@@ -1,0 +1,33 @@
+{
+  "id": "r4tkw0x83",
+  "url": "https://constellation.church/r4tkw0x83",
+  "name": "Redeemer Lutheran Church",
+  "displayName": "Redeemer Lutheran Church",
+  "address": {
+    "street": "1509 Route 67",
+    "city": "Shaftsbury",
+    "state": "VT",
+    "zip": "05262"
+  },
+  "coordinates": {
+    "latitude": 42.9358203,
+    "longitude": -73.2365672
+  },
+  "website": "https://redeemervt.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f19bfd61-7ed3-4e97-b25a-893780a6ce03",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f19bfd61-7ed3-4e97-b25a-893780a6ce03"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemervt.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030229065"
+    }
+  ],
+  "advisories": []
+}

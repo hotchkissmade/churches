@@ -1,0 +1,33 @@
+{
+  "id": "x6ky2d170",
+  "url": "https://constellation.church/x6ky2d170",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "840 Philadelphia Ave",
+    "city": "Reading",
+    "state": "PA",
+    "zip": "19607-3112"
+  },
+  "coordinates": {
+    "latitude": 40.354427337646484,
+    "longitude": -75.9485969543457
+  },
+  "website": "https://christlutheranrdg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1cd71f74-0b9f-4b01-8416-2b12805946e5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1cd71f74-0b9f-4b01-8416-2b12805946e5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christlutheranrdg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "235270297"
+    }
+  ],
+  "advisories": []
+}

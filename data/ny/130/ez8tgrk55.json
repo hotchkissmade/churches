@@ -1,0 +1,33 @@
+{
+  "id": "ez8tgrk55",
+  "url": "https://constellation.church/ez8tgrk55",
+  "name": "Lakes Church",
+  "displayName": "Lakes Church",
+  "address": {
+    "street": "138 E Genesee St",
+    "city": "Auburn",
+    "state": "NY",
+    "zip": "13021"
+  },
+  "coordinates": {
+    "latitude": 42.93331527709961,
+    "longitude": -76.54973983764648
+  },
+  "website": "https://lakeschurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=22f1c218-d1ca-4edd-9923-272354358a30&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "22f1c218-d1ca-4edd-9923-272354358a30"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lakeschurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161282751"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sgfcgy967",
+  "url": "https://constellation.church/sgfcgy967",
+  "name": "The Custer Lutheran Fellowship",
+  "displayName": "The Custer Lutheran Fellowship",
+  "address": {
+    "street": "12622 US Highway 16a",
+    "city": "Custer",
+    "state": "SD",
+    "zip": "57730-8350"
+  },
+  "coordinates": {
+    "latitude": 43.77025604248047,
+    "longitude": -103.53388977050781
+  },
+  "website": "https://custerlutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e626f7e0-e33c-49c3-9840-6406128a0a18",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e626f7e0-e33c-49c3-9840-6406128a0a18"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "custerlutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460374233"
+    }
+  ],
+  "advisories": []
+}

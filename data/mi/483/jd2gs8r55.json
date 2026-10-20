@@ -1,0 +1,33 @@
+{
+  "id": "jd2gs8r55",
+  "url": "https://constellation.church/jd2gs8r55",
+  "name": "Commerce United Methodist Church",
+  "displayName": "Commerce United Methodist Church",
+  "address": {
+    "street": "1155 N Commerce Rd",
+    "city": "Commerce Township",
+    "state": "MI",
+    "zip": "48382-2608"
+  },
+  "coordinates": {
+    "latitude": 42.595428466796875,
+    "longitude": -83.49186706542969
+  },
+  "website": "https://commerceumc.org/about-us",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFGCKIA5",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFGCKIA5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "commerceumc.org/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381796222"
+    }
+  ],
+  "advisories": []
+}

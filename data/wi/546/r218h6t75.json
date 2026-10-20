@@ -1,0 +1,33 @@
+{
+  "id": "r218h6t75",
+  "url": "https://constellation.church/r218h6t75",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "410 Main St",
+    "city": "Onalaska",
+    "state": "WI",
+    "zip": "54650-2952"
+  },
+  "coordinates": {
+    "latitude": 43.88294792175293,
+    "longitude": -91.23087310791016
+  },
+  "website": "https://firstlutheranonalaska.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c716cbf5-fe68-4282-bc10-46dc599b9567",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c716cbf5-fe68-4282-bc10-46dc599b9567"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranonalaska.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390895415"
+    }
+  ],
+  "advisories": []
+}

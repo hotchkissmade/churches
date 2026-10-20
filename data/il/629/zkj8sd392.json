@@ -1,0 +1,33 @@
+{
+  "id": "zkj8sd392",
+  "url": "https://constellation.church/zkj8sd392",
+  "name": "Second Baptist Church of Marion",
+  "displayName": "Second Baptist Church of Marion",
+  "address": {
+    "street": "308 S Russell St",
+    "city": "Marion",
+    "state": "IL",
+    "zip": "62959"
+  },
+  "coordinates": {
+    "latitude": 37.72862243652344,
+    "longitude": -88.9423599243164
+  },
+  "website": "https://sbcmarion.com",
+  "listingUrl": "https://churches.sbc.net/church/second-baptist-church-of-marion/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "second-baptist-church-of-marion"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sbcmarion.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370810520"
+    }
+  ],
+  "advisories": []
+}

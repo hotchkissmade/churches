@@ -1,0 +1,33 @@
+{
+  "id": "ymr7e3555",
+  "url": "https://constellation.church/ymr7e3555",
+  "name": "St John's Evangelical Lutheran Church",
+  "displayName": "St. John's Evangelical Lutheran Church",
+  "address": {
+    "street": "100 Oak St",
+    "city": "Prairie Du Sac",
+    "state": "WI",
+    "zip": "53578-1548"
+  },
+  "coordinates": {
+    "latitude": 43.282291412353516,
+    "longitude": -89.72172164916992
+  },
+  "website": "https://stjohnssaukprairie.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=33b85a49-dbb3-4e98-b5c9-59de2106db75",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "33b85a49-dbb3-4e98-b5c9-59de2106db75"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnssaukprairie.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391320800"
+    }
+  ],
+  "advisories": []
+}

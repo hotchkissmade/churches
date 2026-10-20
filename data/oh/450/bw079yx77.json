@@ -1,0 +1,33 @@
+{
+  "id": "bw079yx77",
+  "url": "https://constellation.church/bw079yx77",
+  "name": "Allison Avenue Baptist Church",
+  "displayName": "Allison Avenue Baptist Church",
+  "address": {
+    "street": "5915 Allison Ave",
+    "city": "Hamilton",
+    "state": "OH",
+    "zip": "45011"
+  },
+  "coordinates": {
+    "latitude": 39.40997314453125,
+    "longitude": -84.5276870727539
+  },
+  "website": "https://allisonavenue.org/small-groups",
+  "listingUrl": "https://churches.sbc.net/church/allison-avenue-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "allison-avenue-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allisonavenue.org/small-groups"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311054148"
+    }
+  ],
+  "advisories": []
+}

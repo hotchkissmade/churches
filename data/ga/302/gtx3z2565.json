@@ -1,0 +1,33 @@
+{
+  "id": "gtx3z2565",
+  "url": "https://constellation.church/gtx3z2565",
+  "name": "Church of the Nativity",
+  "displayName": "Church of the Nativity",
+  "address": {
+    "street": "130 Antioch Rd",
+    "city": "Fayetteville",
+    "state": "GA",
+    "zip": "30215-5701"
+  },
+  "coordinates": {
+    "latitude": 33.39942741394043,
+    "longitude": -84.4416732788086
+  },
+  "website": "https://nativityepiscopal.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-atlanta/list/church-nativity",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-atlanta/church-nativity"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nativityepiscopal.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "753216903"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "z9fzyzw73",
+  "url": "https://constellation.church/z9fzyzw73",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "365 Orange St",
+    "city": "Wrightsville",
+    "state": "PA",
+    "zip": "17368"
+  },
+  "coordinates": {
+    "latitude": 40.02215766906738,
+    "longitude": -76.5321159362793
+  },
+  "website": "https://wrightsvillechurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=830bfbab-7d6d-43c9-ae98-a26623631ffa&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "830bfbab-7d6d-43c9-ae98-a26623631ffa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wrightsvillechurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232228126"
+    }
+  ],
+  "advisories": []
+}

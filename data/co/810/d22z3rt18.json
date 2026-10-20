@@ -1,0 +1,33 @@
+{
+  "id": "d22z3rt18",
+  "url": "https://constellation.church/d22z3rt18",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "2105 Adams Ave",
+    "city": "La Junta",
+    "state": "CO",
+    "zip": "81050"
+  },
+  "coordinates": {
+    "latitude": 37.96881675720215,
+    "longitude": -103.53246307373047
+  },
+  "website": "https://firstassemblylajunta.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=fe5173d4-2cbd-40f2-bdc2-4b7eefd3f2bc&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "fe5173d4-2cbd-40f2-bdc2-4b7eefd3f2bc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstassemblylajunta.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "846032769"
+    }
+  ],
+  "advisories": []
+}

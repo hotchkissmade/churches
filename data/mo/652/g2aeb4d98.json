@@ -1,0 +1,33 @@
+{
+  "id": "g2aeb4d98",
+  "url": "https://constellation.church/g2aeb4d98",
+  "name": "North Park Baptist Church",
+  "displayName": "North Park Baptist Church",
+  "address": {
+    "street": "401 Franklin Ave",
+    "city": "Moberly",
+    "state": "MO",
+    "zip": "65270"
+  },
+  "coordinates": {
+    "latitude": 39.42918395996094,
+    "longitude": -92.43146514892578
+  },
+  "website": "https://mynpbc.org",
+  "listingUrl": "https://churches.sbc.net/church/north-park-baptist-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "north-park-baptist-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mynpbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510149333"
+    }
+  ],
+  "advisories": []
+}

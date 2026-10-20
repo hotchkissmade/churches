@@ -1,0 +1,33 @@
+{
+  "id": "zydh1p663",
+  "url": "https://constellation.church/zydh1p663",
+  "name": "Calvary Lutheran Church",
+  "displayName": "Calvary Lutheran Church",
+  "address": {
+    "street": "600 Rush Point Dr",
+    "city": "Stanchfield",
+    "state": "MN",
+    "zip": "55080-5275"
+  },
+  "coordinates": {
+    "latitude": 45.65902328491211,
+    "longitude": -93.09769439697266
+  },
+  "website": "https://my.calvaryofrushpoint.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e8e5cc33-a027-4949-a3f5-75d47b77a5cf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e8e5cc33-a027-4949-a3f5-75d47b77a5cf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "my.calvaryofrushpoint.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411470977"
+    }
+  ],
+  "advisories": []
+}

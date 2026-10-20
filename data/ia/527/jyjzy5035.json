@@ -1,0 +1,33 @@
+{
+  "id": "jyjzy5035",
+  "url": "https://constellation.church/jyjzy5035",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "513 Sycamore St",
+    "city": "Muscatine",
+    "state": "IA",
+    "zip": "52761-3828"
+  },
+  "coordinates": {
+    "latitude": 41.425140380859375,
+    "longitude": -91.04727935791016
+  },
+  "website": "https://zionmuscatine.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a8b8ee94-cc74-44b0-ae3c-6a108b62a4b8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a8b8ee94-cc74-44b0-ae3c-6a108b62a4b8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionmuscatine.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426005675"
+    }
+  ],
+  "advisories": []
+}

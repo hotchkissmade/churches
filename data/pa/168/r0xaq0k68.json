@@ -1,0 +1,33 @@
+{
+  "id": "r0xaq0k68",
+  "url": "https://constellation.church/r0xaq0k68",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "101 Mill St",
+    "city": "Millheim",
+    "state": "PA",
+    "zip": "16854"
+  },
+  "coordinates": {
+    "latitude": 40.88778114318848,
+    "longitude": -77.47600936889648
+  },
+  "website": "https://stjohnsmillheim.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=02b20ee8-3679-4216-9e1a-5653e09e40a9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "02b20ee8-3679-4216-9e1a-5653e09e40a9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsmillheim.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251223252"
+    }
+  ],
+  "advisories": []
+}

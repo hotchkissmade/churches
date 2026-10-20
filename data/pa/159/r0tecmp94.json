@@ -1,0 +1,33 @@
+{
+  "id": "r0tecmp94",
+  "url": "https://constellation.church/r0tecmp94",
+  "name": "St Paul's Evangelical Lutheran Church",
+  "displayName": "St. Paul's Evangelical Lutheran Church",
+  "address": {
+    "street": "3328 William Penn Ave",
+    "city": "Johnstown",
+    "state": "PA",
+    "zip": "15909-4403"
+  },
+  "coordinates": {
+    "latitude": 40.431196212768555,
+    "longitude": -78.85388946533203
+  },
+  "website": "https://stpaulsevluth-mc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a0df3a29-2a64-415c-adba-a3a829e162d5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a0df3a29-2a64-415c-adba-a3a829e162d5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsevluth-mc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251094924"
+    }
+  ],
+  "advisories": []
+}

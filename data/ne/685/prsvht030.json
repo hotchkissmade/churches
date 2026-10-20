@@ -1,0 +1,33 @@
+{
+  "id": "prsvht030",
+  "url": "https://constellation.church/prsvht030",
+  "name": "Mt Olive Lutheran Church",
+  "displayName": "Mount Olive Lutheran Church",
+  "address": {
+    "street": "7979 Holdrege St",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68505-3036"
+  },
+  "coordinates": {
+    "latitude": 40.827287673950195,
+    "longitude": -96.61167907714844
+  },
+  "website": "https://mtolivewels.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24531",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24531"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mtolivewels.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900050214"
+    }
+  ],
+  "advisories": []
+}

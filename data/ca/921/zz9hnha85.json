@@ -1,0 +1,33 @@
+{
+  "id": "zz9hnha85",
+  "url": "https://constellation.church/zz9hnha85",
+  "name": "Cornerstone Assembly",
+  "displayName": "Cornerstone Assembly",
+  "address": {
+    "street": "1405 30th Street Suite B",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92154"
+  },
+  "coordinates": {
+    "latitude": 32.57164192199707,
+    "longitude": -117.0671157836914
+  },
+  "website": "https://rccgsandiego.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=38&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "38"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rccgsandiego.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900066444"
+    }
+  ],
+  "advisories": []
+}

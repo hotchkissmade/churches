@@ -1,0 +1,33 @@
+{
+  "id": "jbjrzzr14",
+  "url": "https://constellation.church/jbjrzzr14",
+  "name": "The Ridge Church",
+  "displayName": "The Ridge Church",
+  "address": {
+    "street": "4561 N Josey",
+    "city": "Carrollton",
+    "state": "TX",
+    "zip": "75010"
+  },
+  "coordinates": {
+    "latitude": 33.03566551208496,
+    "longitude": -96.88566589355469
+  },
+  "website": "https://ridgeonline.org",
+  "listingUrl": "https://churches.sbc.net/church/the-ridge-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-ridge-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ridgeonline.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752069304"
+    }
+  ],
+  "advisories": []
+}

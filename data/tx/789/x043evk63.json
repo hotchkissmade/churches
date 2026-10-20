@@ -1,0 +1,33 @@
+{
+  "id": "x043evk63",
+  "url": "https://constellation.church/x043evk63",
+  "name": "Martin Luther Lutheran Church",
+  "displayName": "Martin Luther Lutheran Church",
+  "address": {
+    "street": "211 Luther Ln.",
+    "city": "Carmine",
+    "state": "TX",
+    "zip": "78932"
+  },
+  "coordinates": {
+    "latitude": 30.14891242980957,
+    "longitude": -96.68475341796875
+  },
+  "website": "https://mllccarmine.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ed8103b8-cbc1-4be6-94a0-63e47fe4e0e1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ed8103b8-cbc1-4be6-94a0-63e47fe4e0e1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mllccarmine.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "746069676"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ecekpkk30",
+  "url": "https://constellation.church/ecekpkk30",
+  "name": "Epiphany Lutheran Church",
+  "displayName": "Epiphany Lutheran Church",
+  "address": {
+    "street": "1501 W Chautauqua St",
+    "city": "Carbondale",
+    "state": "IL",
+    "zip": "62901-2459"
+  },
+  "coordinates": {
+    "latitude": 37.71514892578125,
+    "longitude": -89.2359848022461
+  },
+  "website": "https://elcarb.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=114f6cdf-c5a9-47b5-9891-5bd8d6c8b9db",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "114f6cdf-c5a9-47b5-9891-5bd8d6c8b9db"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elcarb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371110114"
+    }
+  ],
+  "advisories": []
+}

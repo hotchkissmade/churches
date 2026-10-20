@@ -1,0 +1,33 @@
+{
+  "id": "k23yyqr27",
+  "url": "https://constellation.church/k23yyqr27",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "409 White Horse Pike",
+    "city": "Oaklyn",
+    "state": "NJ",
+    "zip": "08107-1451"
+  },
+  "coordinates": {
+    "latitude": 39.904314041137695,
+    "longitude": -75.07845687866211
+  },
+  "website": "https://stmarksoaklyn.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ba30dad5-e61b-4af4-aa1a-c5214c2eac31",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ba30dad5-e61b-4af4-aa1a-c5214c2eac31"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarksoaklyn.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "210652118"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mcrwnr160",
+  "url": "https://constellation.church/mcrwnr160",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "34606 E 2450 North Rd",
+    "city": "Colfax",
+    "state": "IL",
+    "zip": "61728"
+  },
+  "coordinates": {
+    "latitude": 40.63915252685547,
+    "longitude": -88.60153198242188
+  },
+  "website": "https://immanuellutherancolfax.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=05395d63-2900-4387-8a2a-80d3834521ad",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "05395d63-2900-4387-8a2a-80d3834521ad"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "immanuellutherancolfax.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371000624"
+    }
+  ],
+  "advisories": []
+}

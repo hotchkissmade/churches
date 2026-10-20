@@ -1,0 +1,33 @@
+{
+  "id": "wymnsgh15",
+  "url": "https://constellation.church/wymnsgh15",
+  "name": "Good Samaritan Lutheran Church",
+  "displayName": "Good Samaritan Lutheran Church",
+  "address": {
+    "street": "8425 W Windmill Ln",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89113-4445"
+  },
+  "coordinates": {
+    "latitude": 36.0399112701416,
+    "longitude": -115.27513122558594
+  },
+  "website": "https://goodsamlv.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=095f0b89-d1f2-4c75-b0c3-6fadef618b03",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "095f0b89-d1f2-4c75-b0c3-6fadef618b03"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodsamlv.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "880145501"
+    }
+  ],
+  "advisories": []
+}

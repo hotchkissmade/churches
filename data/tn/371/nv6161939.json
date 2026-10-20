@@ -1,0 +1,41 @@
+{
+  "id": "nv6161939",
+  "url": "https://constellation.church/nv6161939",
+  "name": "Holy Trinity Anglican Church",
+  "displayName": "Holy Trinity Anglican Church",
+  "address": {
+    "street": "540 Sam Ridley Pkwy W",
+    "city": "Smyrna",
+    "state": "TN",
+    "zip": "37167"
+  },
+  "coordinates": {
+    "latitude": 35.98245429992676,
+    "longitude": -86.55751037597656
+  },
+  "website": "https://fpcsmyrna.org",
+  "listingUrl": "https://www.acna.org/admin_units/1459",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "1459"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcsmyrna.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "626040720"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911822993"
+    },
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "11637"
+    }
+  ],
+  "advisories": []
+}

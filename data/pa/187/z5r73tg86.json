@@ -1,0 +1,33 @@
+{
+  "id": "z5r73tg86",
+  "url": "https://constellation.church/z5r73tg86",
+  "name": "Holy Trinity Church",
+  "displayName": "Holy Trinity Church",
+  "address": {
+    "street": "401 E Main St",
+    "city": "Wilkes-Barre",
+    "state": "PA",
+    "zip": "18705"
+  },
+  "coordinates": {
+    "latitude": 41.26663398742676,
+    "longitude": -75.83130264282227
+  },
+  "website": "https://wbholytrinity.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ep-wlbhtc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ep-wlbhtc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wbholytrinity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232085968"
+    }
+  ],
+  "advisories": []
+}

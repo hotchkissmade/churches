@@ -1,0 +1,33 @@
+{
+  "id": "gd46hqz94",
+  "url": "https://constellation.church/gd46hqz94",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "103 E Midland St",
+    "city": "Bay City",
+    "state": "MI",
+    "zip": "48706"
+  },
+  "coordinates": {
+    "latitude": 43.6023063659668,
+    "longitude": -83.90451431274414
+  },
+  "website": "https://wpcbc.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/3333/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "3333"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wpcbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381381137"
+    }
+  ],
+  "advisories": []
+}

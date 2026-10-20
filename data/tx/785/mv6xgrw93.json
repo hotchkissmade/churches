@@ -1,0 +1,33 @@
+{
+  "id": "mv6xgrw93",
+  "url": "https://constellation.church/mv6xgrw93",
+  "name": "St. Alban's Episcopal Church",
+  "displayName": "St. Alban's Episcopal Church",
+  "address": {
+    "street": "1417 E Austin Ave",
+    "city": "Harlingen",
+    "state": "TX",
+    "zip": "78550-8855"
+  },
+  "coordinates": {
+    "latitude": 26.20269775390625,
+    "longitude": -97.6792221069336
+  },
+  "website": "https://staec.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-texas/list/st-albans-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-texas/st-albans-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "staec.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "746013806"
+    }
+  ],
+  "advisories": []
+}

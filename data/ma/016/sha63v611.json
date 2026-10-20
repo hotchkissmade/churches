@@ -1,0 +1,33 @@
+{
+  "id": "sha63v611",
+  "url": "https://constellation.church/sha63v611",
+  "name": "Epworth United Methodist Church",
+  "displayName": "Epworth United Methodist Church",
+  "address": {
+    "street": "64 Salisbury St",
+    "city": "Worcester",
+    "state": "MA",
+    "zip": "01609"
+  },
+  "coordinates": {
+    "latitude": 42.274566650390625,
+    "longitude": -71.80229187011719
+  },
+  "website": "https://epworthworcester.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF60uIAD",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF60uIAD"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "epworthworcester.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "046000984"
+    }
+  ],
+  "advisories": []
+}

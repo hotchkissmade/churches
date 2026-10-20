@@ -1,0 +1,33 @@
+{
+  "id": "fhajhng24",
+  "url": "https://constellation.church/fhajhng24",
+  "name": "New Covenant Church",
+  "displayName": "New Covenant Church",
+  "address": {
+    "street": "1510 W Madison St",
+    "city": "Knoxville",
+    "state": "IA",
+    "zip": "50138"
+  },
+  "coordinates": {
+    "latitude": 41.313262939453125,
+    "longitude": -93.11372375488281
+  },
+  "website": "https://knoxvillencc.com",
+  "listingUrl": "https://converge.org/church/new-covenant-church/",
+  "identifiers": [
+    {
+      "namespace": "org.converge.id",
+      "value": "38450"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "knoxvillencc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800076626"
+    }
+  ],
+  "advisories": []
+}

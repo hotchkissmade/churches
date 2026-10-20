@@ -1,0 +1,33 @@
+{
+  "id": "a8x30xy93",
+  "url": "https://constellation.church/a8x30xy93",
+  "name": "Providence Presbyterian Church",
+  "displayName": "Providence Presbyterian Church",
+  "address": {
+    "street": "1580 Clinton-Raymond",
+    "city": "Clinton",
+    "state": "MS",
+    "zip": "39056"
+  },
+  "coordinates": {
+    "latitude": 32.32215690612793,
+    "longitude": -90.35234451293945
+  },
+  "website": "https://providenceclinton.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1087",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1087"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "providenceclinton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640334267"
+    }
+  ],
+  "advisories": []
+}

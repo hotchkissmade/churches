@@ -1,0 +1,33 @@
+{
+  "id": "sg0x8w733",
+  "url": "https://constellation.church/sg0x8w733",
+  "name": "First Southern Baptist Church",
+  "displayName": "First Southern Baptist Church",
+  "address": {
+    "street": "6400 S Sooner Road",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73135"
+  },
+  "coordinates": {
+    "latitude": 35.40053367614746,
+    "longitude": -97.42085266113281
+  },
+  "website": "https://firstsouthern.tv",
+  "listingUrl": "https://churches.sbc.net/church/first-southern-baptist-church-7/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-southern-baptist-church-7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstsouthern.tv"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "730717523"
+    }
+  ],
+  "advisories": []
+}

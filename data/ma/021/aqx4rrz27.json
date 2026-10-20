@@ -1,0 +1,33 @@
+{
+  "id": "aqx4rrz27",
+  "url": "https://constellation.church/aqx4rrz27",
+  "name": "University Lutheran Church",
+  "displayName": "University Lutheran Church",
+  "address": {
+    "street": "66 Winthrop St",
+    "city": "Cambridge",
+    "state": "MA",
+    "zip": "02138-5928"
+  },
+  "coordinates": {
+    "latitude": 42.3717986,
+    "longitude": -71.1201245
+  },
+  "website": "https://unilu.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=09365cae-2366-4558-a039-82d5362d2c2f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "09365cae-2366-4558-a039-82d5362d2c2f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "unilu.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042212163"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pex5eex67",
+  "url": "https://constellation.church/pex5eex67",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "301 E Stuart St",
+    "city": "Fort Collins",
+    "state": "CO",
+    "zip": "80525-1438"
+  },
+  "coordinates": {
+    "latitude": 40.563148498535156,
+    "longitude": -105.07311248779297
+  },
+  "website": "https://trinitylutheranfc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=47fcafc2-b393-4e97-a226-0beaafc214c8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "47fcafc2-b393-4e97-a226-0beaafc214c8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylutheranfc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840444325"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nsfh4e123",
+  "url": "https://constellation.church/nsfh4e123",
+  "name": "Life Church",
+  "displayName": "Life Church",
+  "address": {
+    "street": "2465 Old Anson Rd",
+    "city": "Abilene",
+    "state": "TX",
+    "zip": "79603"
+  },
+  "coordinates": {
+    "latitude": 32.47817802429199,
+    "longitude": -99.74493408203125
+  },
+  "website": "https://lifechurchtxag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=be1277ad-5b1c-4560-94c5-ab78d94d2d32&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "be1277ad-5b1c-4560-94c5-ab78d94d2d32"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lifechurchtxag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752810060"
+    }
+  ],
+  "advisories": []
+}

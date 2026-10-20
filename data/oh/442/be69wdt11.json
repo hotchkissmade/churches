@@ -1,0 +1,33 @@
+{
+  "id": "be69wdt11",
+  "url": "https://constellation.church/be69wdt11",
+  "name": "NorthWinds Church",
+  "displayName": "NorthWinds Church",
+  "address": {
+    "street": "8691 W Easton Rd (SR 604)",
+    "city": "West Salem",
+    "state": "OH",
+    "zip": "44287"
+  },
+  "coordinates": {
+    "latitude": 40.92211151123047,
+    "longitude": -82.08588027954102
+  },
+  "website": "https://mynorthwinds.org",
+  "listingUrl": "https://converge.org/church/northwinds-church/",
+  "identifiers": [
+    {
+      "namespace": "org.converge.id",
+      "value": "38525"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mynorthwinds.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "822046455"
+    }
+  ],
+  "advisories": []
+}

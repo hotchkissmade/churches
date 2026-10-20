@@ -1,0 +1,33 @@
+{
+  "id": "rmn62hz07",
+  "url": "https://constellation.church/rmn62hz07",
+  "name": "Buckingham Baptist Church",
+  "displayName": "Buckingham Baptist Church",
+  "address": {
+    "street": "24234 N James Madison Hwy",
+    "city": "New Canton",
+    "state": "VA",
+    "zip": "23123"
+  },
+  "coordinates": {
+    "latitude": 37.617353439331055,
+    "longitude": -78.37601089477539
+  },
+  "website": "https://buckinghambaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/buckingham-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "buckingham-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "buckinghambaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540964419"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "cve8cph92",
+  "url": "https://constellation.church/cve8cph92",
+  "name": "GARDEN CITY CHURCH PITTSBURGH",
+  "displayName": "Garden City Church Pittsburgh",
+  "address": {
+    "street": "2212 OSGOOD ST",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15214"
+  },
+  "coordinates": {
+    "latitude": 40.47186088562012,
+    "longitude": -80.00794982910156
+  },
+  "website": "https://gardencitypgh.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "853692890"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gardencitypgh.org"
+    }
+  ],
+  "advisories": []
+}

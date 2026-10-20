@@ -1,0 +1,33 @@
+{
+  "id": "xntc8d518",
+  "url": "https://constellation.church/xntc8d518",
+  "name": "Trinity Lutheran Church Of Choteau",
+  "displayName": "Trinity Lutheran Church Of Choteau",
+  "address": {
+    "street": "38 1st Ave SW",
+    "city": "Choteau",
+    "state": "MT",
+    "zip": "59422"
+  },
+  "coordinates": {
+    "latitude": 47.80978775024414,
+    "longitude": -112.18352508544922
+  },
+  "website": "https://choteautlc.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f5d354b7-9cef-487b-bfaa-3389b888bad3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f5d354b7-9cef-487b-bfaa-3389b888bad3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "choteautlc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810418246"
+    }
+  ],
+  "advisories": []
+}

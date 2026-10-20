@@ -1,0 +1,33 @@
+{
+  "id": "xnkseda53",
+  "url": "https://constellation.church/xnkseda53",
+  "name": "Hoboken Community Church",
+  "displayName": "Hoboken Community Church",
+  "address": {
+    "street": "600 Garden St",
+    "city": "Hoboken",
+    "state": "NJ",
+    "zip": "07030-3904"
+  },
+  "coordinates": {
+    "latitude": 40.74395942687988,
+    "longitude": -74.03096389770508
+  },
+  "website": "https://hobokencommunity.org/who-we-are",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFFM7IAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFFM7IAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hobokencommunity.org/who-we-are"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "226001069"
+    }
+  ],
+  "advisories": []
+}

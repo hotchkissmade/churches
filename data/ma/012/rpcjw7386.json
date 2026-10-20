@@ -1,0 +1,33 @@
+{
+  "id": "rpcjw7386",
+  "url": "https://constellation.church/rpcjw7386",
+  "name": "First United Methodist Church of Pittsfield",
+  "displayName": "First United Methodist Church of Pittsfield",
+  "address": {
+    "street": "55 Fenn St",
+    "city": "Pittsfield",
+    "state": "MA",
+    "zip": "01201"
+  },
+  "coordinates": {
+    "latitude": 42.450212478637695,
+    "longitude": -73.25206756591797
+  },
+  "website": "https://fumcpittsfield.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFLT1IAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFLT1IAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fumcpittsfield.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042192691"
+    }
+  ],
+  "advisories": []
+}

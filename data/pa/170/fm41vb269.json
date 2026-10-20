@@ -1,0 +1,33 @@
+{
+  "id": "fm41vb269",
+  "url": "https://constellation.church/fm41vb269",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "2000 Chestnut St",
+    "city": "Camp Hill",
+    "state": "PA",
+    "zip": "17011-5409"
+  },
+  "coordinates": {
+    "latitude": 40.239274978637695,
+    "longitude": -76.91758346557617
+  },
+  "website": "https://trinitycamphill.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=eeb9fded-96ea-4cca-b5ec-29c14cd11ce1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "eeb9fded-96ea-4cca-b5ec-29c14cd11ce1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitycamphill.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "901121762"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mtmwc7t30",
+  "url": "https://constellation.church/mtmwc7t30",
+  "name": "St. James church",
+  "displayName": "St. James church",
+  "address": {
+    "street": "84-07 Broadway",
+    "city": "Elmhurst",
+    "state": "NY",
+    "zip": "11373"
+  },
+  "coordinates": {
+    "latitude": 40.739749908447266,
+    "longitude": -73.87807846069336
+  },
+  "website": "https://stjce.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-james-episcopal-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-james-episcopal-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjce.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111805351"
+    }
+  ],
+  "advisories": []
+}

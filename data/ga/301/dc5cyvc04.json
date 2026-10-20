@@ -1,0 +1,33 @@
+{
+  "id": "dc5cyvc04",
+  "url": "https://constellation.church/dc5cyvc04",
+  "name": "First Baptist Church of Kennesaw, Inc.",
+  "displayName": "First Baptist Church of Kennesaw",
+  "address": {
+    "street": "2958 N Main St NW",
+    "city": "Kennesaw",
+    "state": "GA",
+    "zip": "30144"
+  },
+  "coordinates": {
+    "latitude": 34.025922775268555,
+    "longitude": -84.61809158325195
+  },
+  "website": "https://kennesawfirst.church",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-kennesaw-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-kennesaw-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kennesawfirst.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581030748"
+    }
+  ],
+  "advisories": []
+}

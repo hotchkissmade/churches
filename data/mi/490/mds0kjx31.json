@@ -1,0 +1,33 @@
+{
+  "id": "mds0kjx31",
+  "url": "https://constellation.church/mds0kjx31",
+  "name": "H2O Church – Kalamazoo",
+  "displayName": "H2O Church – Kalamazoo",
+  "address": {
+    "street": "2011 Greenlawn Ave",
+    "city": "Kalamazoo",
+    "state": "MI",
+    "zip": "49006"
+  },
+  "coordinates": {
+    "latitude": 42.28362846374512,
+    "longitude": -85.61394500732422
+  },
+  "website": "https://h2okzoo.com",
+  "listingUrl": "https://churches.sbc.net/church/h2o-church-kalamazoo/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "h2o-church-kalamazoo"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "h2okzoo.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "825422649"
+    }
+  ],
+  "advisories": []
+}

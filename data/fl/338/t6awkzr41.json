@@ -1,0 +1,33 @@
+{
+  "id": "t6awkzr41",
+  "url": "https://constellation.church/t6awkzr41",
+  "name": "First Baptist Church of Bartow",
+  "displayName": "First Baptist Church of Bartow",
+  "address": {
+    "street": "410 E Church St",
+    "city": "Bartow",
+    "state": "FL",
+    "zip": "33830"
+  },
+  "coordinates": {
+    "latitude": 27.89822006225586,
+    "longitude": -81.84039306640625
+  },
+  "website": "https://fbcbartow.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-bartow/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-bartow"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcbartow.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590830737"
+    }
+  ],
+  "advisories": []
+}

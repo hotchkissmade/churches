@@ -1,0 +1,33 @@
+{
+  "id": "zzg3q7s85",
+  "url": "https://constellation.church/zzg3q7s85",
+  "name": "Island Community Church",
+  "displayName": "Island Community Church",
+  "address": {
+    "street": "1000 N Banana River Dr",
+    "city": "Merritt Is",
+    "state": "FL",
+    "zip": "32952"
+  },
+  "coordinates": {
+    "latitude": 28.373638153076172,
+    "longitude": -80.66930389404297
+  },
+  "website": "https://islandcommunitychurch.net",
+  "listingUrl": "https://churches.sbc.net/church/island-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "island-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "islandcommunitychurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593402889"
+    }
+  ],
+  "advisories": []
+}

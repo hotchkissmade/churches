@@ -1,0 +1,33 @@
+{
+  "id": "qj7t6y108",
+  "url": "https://constellation.church/qj7t6y108",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "212 Center Ave",
+    "city": "Garretson",
+    "state": "SD",
+    "zip": "57030-2083"
+  },
+  "coordinates": {
+    "latitude": 43.71159362792969,
+    "longitude": -96.50069427490234
+  },
+  "website": "https://garretsonzionlutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=edc7b36a-8cda-4668-8353-6f9af972d2a5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "edc7b36a-8cda-4668-8353-6f9af972d2a5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "garretsonzionlutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460229818"
+    }
+  ],
+  "advisories": []
+}

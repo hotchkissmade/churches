@@ -1,0 +1,33 @@
+{
+  "id": "pzg8adk78",
+  "url": "https://constellation.church/pzg8adk78",
+  "name": "Grace Church",
+  "displayName": "Grace Church",
+  "address": {
+    "street": "2005 Estates Pkwy",
+    "city": "Allen",
+    "state": "TX",
+    "zip": "75002-8009"
+  },
+  "coordinates": {
+    "latitude": 33.09957504272461,
+    "longitude": -96.60768127441406
+  },
+  "website": "https://grace-efc.org",
+  "listingUrl": "https://churches.efca.org/?id=12476",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12476"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grace-efc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751762716"
+    }
+  ],
+  "advisories": []
+}

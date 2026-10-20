@@ -1,0 +1,33 @@
+{
+  "id": "g6es8c013",
+  "url": "https://constellation.church/g6es8c013",
+  "name": "House of Prayer Lutheran Church",
+  "displayName": "House of Prayer Lutheran Church",
+  "address": {
+    "street": "916 Main St",
+    "city": "Hingham",
+    "state": "MA",
+    "zip": "02043-3504"
+  },
+  "coordinates": {
+    "latitude": 42.1958122253418,
+    "longitude": -70.8814468383789
+  },
+  "website": "https://houseofprayerhingham.org/oktoberfest",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=90acb625-133d-4f8c-b518-ce43a0177728",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "90acb625-133d-4f8c-b518-ce43a0177728"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "houseofprayerhingham.org/oktoberfest"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "043042715"
+    }
+  ],
+  "advisories": []
+}

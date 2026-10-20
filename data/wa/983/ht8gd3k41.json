@@ -1,0 +1,33 @@
+{
+  "id": "ht8gd3k41",
+  "url": "https://constellation.church/ht8gd3k41",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "1120 Walker St",
+    "city": "Port Townsend",
+    "state": "WA",
+    "zip": "98368-6350"
+  },
+  "coordinates": {
+    "latitude": 48.116268157958984,
+    "longitude": -122.77205657958984
+  },
+  "website": "https://gracelutheranpt.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fb50414b-eee2-4852-9c1f-bec86ec126c6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fb50414b-eee2-4852-9c1f-bec86ec126c6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelutheranpt.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910850646"
+    }
+  ],
+  "advisories": []
+}

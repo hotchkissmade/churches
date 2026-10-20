@@ -1,0 +1,33 @@
+{
+  "id": "dtcp05720",
+  "url": "https://constellation.church/dtcp05720",
+  "name": "Sharon United Methodist Church",
+  "displayName": "Sharon United Methodist Church",
+  "address": {
+    "street": "275 Poplar Branch Rd",
+    "city": "Poplar Branch",
+    "state": "NC",
+    "zip": "27965-0182"
+  },
+  "coordinates": {
+    "latitude": 36.278669357299805,
+    "longitude": -75.89190292358398
+  },
+  "website": "https://sharon-umc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFOE7IAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFOE7IAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sharon-umc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561993288"
+    }
+  ],
+  "advisories": []
+}

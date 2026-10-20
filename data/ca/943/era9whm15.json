@@ -1,0 +1,33 @@
+{
+  "id": "era9whm15",
+  "url": "https://constellation.church/era9whm15",
+  "name": "All Saints' Episcopal Church",
+  "displayName": "All Saints' Episcopal Church",
+  "address": {
+    "street": "555 Waverley Street",
+    "city": "Palo Alto",
+    "state": "CA",
+    "zip": "94301-1721"
+  },
+  "coordinates": {
+    "latitude": 37.446746826171875,
+    "longitude": -122.15916442871094
+  },
+  "website": "https://asaints.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-el-camino-real/list/all-saints-episcopal-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-el-camino-real/all-saints-episcopal-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "asaints.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941156839"
+    }
+  ],
+  "advisories": []
+}

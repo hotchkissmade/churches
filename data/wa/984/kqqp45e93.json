@@ -1,0 +1,33 @@
+{
+  "id": "kqqp45e93",
+  "url": "https://constellation.church/kqqp45e93",
+  "name": "Trinity Presbyterian Church",
+  "displayName": "Trinity Presbyterian Church",
+  "address": {
+    "street": "1619 6th Ave",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98405"
+  },
+  "coordinates": {
+    "latitude": 47.2564352,
+    "longitude": -122.4604533
+  },
+  "website": "https://tpctacoma.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/8119/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "8119"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tpctacoma.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910570859"
+    }
+  ],
+  "advisories": []
+}

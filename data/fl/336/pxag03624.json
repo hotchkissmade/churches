@@ -1,0 +1,33 @@
+{
+  "id": "pxag03624",
+  "url": "https://constellation.church/pxag03624",
+  "name": "Carrollwood Baptist Church",
+  "displayName": "Carrollwood Baptist Church",
+  "address": {
+    "street": "5395 Ehrlich Rd",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33625"
+  },
+  "coordinates": {
+    "latitude": 28.082416534423828,
+    "longitude": -82.54634094238281
+  },
+  "website": "https://carrollwoodbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/carrollwood-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "carrollwood-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "carrollwoodbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592105414"
+    }
+  ],
+  "advisories": []
+}

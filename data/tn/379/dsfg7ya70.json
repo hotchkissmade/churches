@@ -1,0 +1,33 @@
+{
+  "id": "dsfg7ya70",
+  "url": "https://constellation.church/dsfg7ya70",
+  "name": "MCC Knoxville",
+  "displayName": "Metropolitan Community Church Knoxville",
+  "address": {
+    "street": "7820 Redeemer Ln",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37919"
+  },
+  "coordinates": {
+    "latitude": 35.90408515930176,
+    "longitude": -84.03128814697266
+  },
+  "website": "https://mccknoxville.org",
+  "listingUrl": "https://visitmccchurch.com/our-churches/mcc-churches-in-the-united-states/mcc-churches-in-tn/mcc-knoxville/",
+  "identifiers": [
+    {
+      "namespace": "com.visitmccchurch.id",
+      "value": "TN/mcc-knoxville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mccknoxville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621018176"
+    }
+  ],
+  "advisories": []
+}

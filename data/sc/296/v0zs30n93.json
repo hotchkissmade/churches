@@ -1,0 +1,33 @@
+{
+  "id": "v0zs30n93",
+  "url": "https://constellation.church/v0zs30n93",
+  "name": "Asaville Baptist Church",
+  "displayName": "Asaville Baptist Church",
+  "address": {
+    "street": "201 Asaville Church Rd",
+    "city": "Anderson",
+    "state": "SC",
+    "zip": "29621"
+  },
+  "coordinates": {
+    "latitude": 34.3492374420166,
+    "longitude": -82.55588150024414
+  },
+  "website": "https://asaville.com",
+  "listingUrl": "https://churches.sbc.net/church/asaville-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "asaville-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "asaville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570642344"
+    }
+  ],
+  "advisories": []
+}

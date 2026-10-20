@@ -1,0 +1,33 @@
+{
+  "id": "e4r952a86",
+  "url": "https://constellation.church/e4r952a86",
+  "name": "Jones Road Baptist Church",
+  "displayName": "Jones Road Baptist Church",
+  "address": {
+    "street": "2506 Jones Rd",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32220"
+  },
+  "coordinates": {
+    "latitude": 30.35410499572754,
+    "longitude": -81.80742645263672
+  },
+  "website": "https://jonesroadbc.org",
+  "listingUrl": "https://churches.sbc.net/church/jones-road-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "jones-road-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jonesroadbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592426152"
+    }
+  ],
+  "advisories": []
+}

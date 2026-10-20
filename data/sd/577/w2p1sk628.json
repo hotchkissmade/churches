@@ -1,0 +1,33 @@
+{
+  "id": "w2p1sk628",
+  "url": "https://constellation.church/w2p1sk628",
+  "name": "St James Lutheran Church",
+  "displayName": "St. James Lutheran Church",
+  "address": {
+    "street": "1100 Stanley St",
+    "city": "Belle Fourche",
+    "state": "SD",
+    "zip": "57717-2132"
+  },
+  "coordinates": {
+    "latitude": 44.657981872558594,
+    "longitude": -103.84403228759766
+  },
+  "website": "https://sjlcbellefourche.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=38cf4915-c0fe-4b30-a0d7-e973baa08fbb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "38cf4915-c0fe-4b30-a0d7-e973baa08fbb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sjlcbellefourche.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460352235"
+    }
+  ],
+  "advisories": []
+}

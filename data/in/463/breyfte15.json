@@ -1,0 +1,29 @@
+{
+  "id": "breyfte15",
+  "url": "https://constellation.church/breyfte15",
+  "name": "MARQUETTE HIGH SCHOOL",
+  "displayName": "Marquette High School",
+  "address": {
+    "street": "306 W 10TH ST",
+    "city": "Michigan City",
+    "state": "IN",
+    "zip": "46360"
+  },
+  "coordinates": {
+    "latitude": 41.7111267,
+    "longitude": -86.9024953
+  },
+  "website": "https://marquette-hs.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351148636"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "marquette-hs.org"
+    }
+  ],
+  "advisories": []
+}

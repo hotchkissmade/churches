@@ -1,0 +1,33 @@
+{
+  "id": "ycnsmtq30",
+  "url": "https://constellation.church/ycnsmtq30",
+  "name": "Orangeburg First Baptist Church",
+  "displayName": "Orangeburg First Baptist Church",
+  "address": {
+    "street": "1240 Russell St",
+    "city": "Orangeburg",
+    "state": "SC",
+    "zip": "29115"
+  },
+  "coordinates": {
+    "latitude": 33.489723205566406,
+    "longitude": -80.86308670043945
+  },
+  "website": "https://fbcorangeburg.org",
+  "listingUrl": "https://churches.sbc.net/church/orangeburg-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "orangeburg-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcorangeburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570381872"
+    }
+  ],
+  "advisories": []
+}

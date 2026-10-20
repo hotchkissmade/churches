@@ -1,0 +1,33 @@
+{
+  "id": "bzczr7264",
+  "url": "https://constellation.church/bzczr7264",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "4299 S Nc Highway 150",
+    "city": "Lexington",
+    "state": "NC",
+    "zip": "27295-6065"
+  },
+  "coordinates": {
+    "latitude": 35.80883598327637,
+    "longitude": -80.37282943725586
+  },
+  "website": "https://stlukeslutheran.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f8009eef-ad1c-49fd-b175-95e9724d4f8c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f8009eef-ad1c-49fd-b175-95e9724d4f8c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukeslutheran.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "566150648"
+    }
+  ],
+  "advisories": []
+}

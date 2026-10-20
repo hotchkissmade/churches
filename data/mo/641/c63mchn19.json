@@ -1,0 +1,33 @@
+{
+  "id": "c63mchn19",
+  "url": "https://constellation.church/c63mchn19",
+  "name": "Church of the Redeemer",
+  "displayName": "Church of the Redeemer",
+  "address": {
+    "street": "7110 N State Route 9",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64152-2930"
+  },
+  "coordinates": {
+    "latitude": 39.22478485107422,
+    "longitude": -94.66063690185547
+  },
+  "website": "https://redeemerkc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-missouri/list/church-redeemer",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-missouri/church-redeemer"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerkc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431318002"
+    }
+  ],
+  "advisories": []
+}

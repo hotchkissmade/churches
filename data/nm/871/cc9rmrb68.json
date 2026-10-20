@@ -1,0 +1,33 @@
+{
+  "id": "cc9rmrb68",
+  "url": "https://constellation.church/cc9rmrb68",
+  "name": "Casa Del Rey",
+  "displayName": "Casa Del Rey",
+  "address": {
+    "street": "2500 Corona Dr NW",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87120"
+  },
+  "coordinates": {
+    "latitude": 35.1106014251709,
+    "longitude": -106.69853973388672
+  },
+  "website": "https://mychurch.casa",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d7408991-fe05-4609-afb4-9d979b850ec3&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d7408991-fe05-4609-afb4-9d979b850ec3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mychurch.casa"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "300219220"
+    }
+  ],
+  "advisories": []
+}

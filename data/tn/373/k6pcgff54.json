@@ -1,0 +1,33 @@
+{
+  "id": "k6pcgff54",
+  "url": "https://constellation.church/k6pcgff54",
+  "name": "First United Methodist Church of Copperhill",
+  "displayName": "First United Methodist Church of Copperhill",
+  "address": {
+    "street": "146 Scenic Dr",
+    "city": "Copperhill",
+    "state": "TN",
+    "zip": "37317-0538"
+  },
+  "coordinates": {
+    "latitude": 34.98965644836426,
+    "longitude": -84.36345672607422
+  },
+  "website": "https://fumc-copperhill.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF80EIAT",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF80EIAT"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fumc-copperhill.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621179209"
+    }
+  ],
+  "advisories": []
+}

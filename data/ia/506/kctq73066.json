@@ -1,0 +1,33 @@
+{
+  "id": "kctq73066",
+  "url": "https://constellation.church/kctq73066",
+  "name": "St John American Lutheran Church",
+  "displayName": "St. John American Lutheran Church",
+  "address": {
+    "street": "715 College St",
+    "city": "Cedar Falls",
+    "state": "IA",
+    "zip": "50613-2555"
+  },
+  "coordinates": {
+    "latitude": 42.531761169433594,
+    "longitude": -92.456787109375
+  },
+  "website": "https://stjohncf.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=62e3752c-93ba-47d6-a574-6818c0db19cd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "62e3752c-93ba-47d6-a574-6818c0db19cd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohncf.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420859521"
+    }
+  ],
+  "advisories": []
+}

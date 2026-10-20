@@ -1,0 +1,33 @@
+{
+  "id": "rpe9st078",
+  "url": "https://constellation.church/rpe9st078",
+  "name": "Atonement Lutheran Church",
+  "displayName": "Atonement Lutheran Church",
+  "address": {
+    "street": "1542 E Montgomery Ave",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19125-2434"
+  },
+  "coordinates": {
+    "latitude": 39.976436614990234,
+    "longitude": -75.13089752197266
+  },
+  "website": "https://elcota.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5c5935f1-dca4-4b05-b3cb-5aa1286f6925",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5c5935f1-dca4-4b05-b3cb-5aa1286f6925"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elcota.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232260218"
+    }
+  ],
+  "advisories": []
+}

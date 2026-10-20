@@ -1,0 +1,33 @@
+{
+  "id": "ws06psm21",
+  "url": "https://constellation.church/ws06psm21",
+  "name": "Lutheran Church Of The Nativity",
+  "displayName": "Lutheran Church Of The Nativity",
+  "address": {
+    "street": "2425 Hendersonville Rd",
+    "city": "Arden",
+    "state": "NC",
+    "zip": "28704-3337"
+  },
+  "coordinates": {
+    "latitude": 35.46037483215332,
+    "longitude": -82.51358795166016
+  },
+  "website": "https://nativityarden.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=329cfd30-ec77-4e80-bbcf-9282a6996920",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "329cfd30-ec77-4e80-bbcf-9282a6996920"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nativityarden.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "566054203"
+    }
+  ],
+  "advisories": []
+}

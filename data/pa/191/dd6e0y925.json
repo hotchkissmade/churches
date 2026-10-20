@@ -1,0 +1,33 @@
+{
+  "id": "dd6e0y925",
+  "url": "https://constellation.church/dd6e0y925",
+  "name": "Cresheim Valley Church",
+  "displayName": "Cresheim Valley Church",
+  "address": {
+    "street": "501 West Springfield Avenue",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19118"
+  },
+  "coordinates": {
+    "latitude": 40.061527252197266,
+    "longitude": -75.20784378051758
+  },
+  "website": "https://cvcpca.org/about-us/staffleadership",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4998",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4998"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cvcpca.org/about-us/staffleadership"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "208128447"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rk1wnxd89",
+  "url": "https://constellation.church/rk1wnxd89",
+  "name": "First Baptist Church of Mount Rainier",
+  "displayName": "First Baptist Church of Mount Rainier",
+  "address": {
+    "street": "3103 Shepherd St",
+    "city": "Mount Rainier",
+    "state": "MD",
+    "zip": "20712"
+  },
+  "coordinates": {
+    "latitude": 38.9395751953125,
+    "longitude": -76.96368789672852
+  },
+  "website": "https://firstbaptmr.org/contact-us",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-mount-rainier/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-mount-rainier"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptmr.org/contact-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521205145"
+    }
+  ],
+  "advisories": []
+}

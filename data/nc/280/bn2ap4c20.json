@@ -1,0 +1,33 @@
+{
+  "id": "bn2ap4c20",
+  "url": "https://constellation.church/bn2ap4c20",
+  "name": "The Pointe Church (Forest Pointe)",
+  "displayName": "The Pointe Church (Forest Pointe)",
+  "address": {
+    "street": "6700 Wilkinson Blvd",
+    "city": "Belmont",
+    "state": "NC",
+    "zip": "28012"
+  },
+  "coordinates": {
+    "latitude": 35.25185203552246,
+    "longitude": -81.03218078613281
+  },
+  "website": "https://thepointe.cc",
+  "listingUrl": "https://churches.sbc.net/church/the-pointe-church-forest-pointe/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-pointe-church-forest-pointe"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thepointe.cc"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "562228423"
+    }
+  ],
+  "advisories": []
+}

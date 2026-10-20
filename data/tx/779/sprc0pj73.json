@@ -1,0 +1,33 @@
+{
+  "id": "sprc0pj73",
+  "url": "https://constellation.church/sprc0pj73",
+  "name": "Parkway Church",
+  "displayName": "Parkway Church",
+  "address": {
+    "street": "4802 John Stockbauer Dr",
+    "city": "Victoria",
+    "state": "TX",
+    "zip": "77904"
+  },
+  "coordinates": {
+    "latitude": 28.855607986450195,
+    "longitude": -96.98328399658203
+  },
+  "website": "https://parkwaychurch.tv",
+  "listingUrl": "https://churches.sbc.net/church/parkway-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "parkway-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parkwaychurch.tv"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742672844"
+    }
+  ],
+  "advisories": []
+}

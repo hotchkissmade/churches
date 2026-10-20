@@ -1,0 +1,33 @@
+{
+  "id": "x1rxqg380",
+  "url": "https://constellation.church/x1rxqg380",
+  "name": "Grace Harbor Church – New Bedford",
+  "displayName": "Grace Harbor Church – New Bedford",
+  "address": {
+    "street": "519 County Street",
+    "city": "New Bedford",
+    "state": "MA",
+    "zip": "02740"
+  },
+  "coordinates": {
+    "latitude": 41.63755416870117,
+    "longitude": -70.93103408813477
+  },
+  "website": "https://graceharborchurch.net/giving",
+  "listingUrl": "https://churches.sbc.net/church/grace-harbor-church-new-bedford/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grace-harbor-church-new-bedford"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceharborchurch.net/giving"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "833302894"
+    }
+  ],
+  "advisories": []
+}

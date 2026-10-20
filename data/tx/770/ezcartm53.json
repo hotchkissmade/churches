@@ -1,0 +1,33 @@
+{
+  "id": "ezcartm53",
+  "url": "https://constellation.church/ezcartm53",
+  "name": "Heritage Chapel",
+  "displayName": "Heritage Chapel",
+  "address": {
+    "street": "2237 South Highway 6 south,",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77077"
+  },
+  "coordinates": {
+    "latitude": 29.741191864013672,
+    "longitude": -95.6436538696289
+  },
+  "website": "https://rccgheritagechapelhtx.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=14104&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "14104"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rccgheritagechapelhtx.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "454536576"
+    }
+  ],
+  "advisories": []
+}

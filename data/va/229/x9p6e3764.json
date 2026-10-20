@@ -1,0 +1,33 @@
+{
+  "id": "x9p6e3764",
+  "url": "https://constellation.church/x9p6e3764",
+  "name": "Holy Cross Presbyterian Church",
+  "displayName": "Holy Cross Presbyterian Church",
+  "address": {
+    "street": "232 Hornet Road",
+    "city": "Staunton",
+    "state": "VA",
+    "zip": "22939"
+  },
+  "coordinates": {
+    "latitude": 38.12632179260254,
+    "longitude": -79.05236434936523
+  },
+  "website": "https://hcpres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5495",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5495"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hcpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "271264400"
+    }
+  ],
+  "advisories": []
+}

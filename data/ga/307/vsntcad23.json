@@ -1,0 +1,33 @@
+{
+  "id": "vsntcad23",
+  "url": "https://constellation.church/vsntcad23",
+  "name": "Cassandra Baptist Church",
+  "displayName": "Cassandra Baptist Church",
+  "address": {
+    "street": "1371 W Cove Rd",
+    "city": "Chickamauga",
+    "state": "GA",
+    "zip": "30707"
+  },
+  "coordinates": {
+    "latitude": 34.7529294,
+    "longitude": -85.4128031
+  },
+  "website": null,
+  "listingUrl": "https://churches.sbc.net/church/cassandra-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cassandra-baptist-church"
+    },
+    {
+      "namespace": "com.facebook.page",
+      "value": "cassandrabaptistchurch"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581339171"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hrn6ghj47",
+  "url": "https://constellation.church/hrn6ghj47",
+  "name": "Fellowship Church Louisville",
+  "displayName": "Fellowship Church Louisville",
+  "address": {
+    "street": "8509 Westport Rd",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40242"
+  },
+  "coordinates": {
+    "latitude": 38.28096008300781,
+    "longitude": -85.59519958496094
+  },
+  "website": "https://fellowshiplouisville.org",
+  "listingUrl": "https://churches.sbc.net/church/fellowship-church-louisville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "fellowship-church-louisville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fellowshiplouisville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "300349420"
+    }
+  ],
+  "advisories": []
+}

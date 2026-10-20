@@ -1,0 +1,33 @@
+{
+  "id": "m92399y57",
+  "url": "https://constellation.church/m92399y57",
+  "name": "church of St. John the Evangelist",
+  "displayName": "church of St. John the Evangelist",
+  "address": {
+    "street": "133-04 109th Avenue",
+    "city": "South Ozone Park",
+    "state": "NY",
+    "zip": "11420"
+  },
+  "coordinates": {
+    "latitude": 40.68609428405762,
+    "longitude": -73.81044006347656
+  },
+  "website": "https://stjohnsouthozonepark.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-johns-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-johns-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsouthozonepark.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112671202"
+    }
+  ],
+  "advisories": []
+}

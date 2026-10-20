@@ -1,0 +1,33 @@
+{
+  "id": "tbjfap940",
+  "url": "https://constellation.church/tbjfap940",
+  "name": "Heritage Church",
+  "displayName": "Heritage Church",
+  "address": {
+    "street": "8803 NE 76th St",
+    "city": "Vancouver",
+    "state": "WA",
+    "zip": "98662"
+  },
+  "coordinates": {
+    "latitude": 45.67718505859375,
+    "longitude": -122.58271789550781
+  },
+  "website": "https://heritagenw.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f50fc22d-6c77-4756-a83a-b32dacbe24b1&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f50fc22d-6c77-4756-a83a-b32dacbe24b1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "heritagenw.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911209733"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "b5tjhk009",
+  "url": "https://constellation.church/b5tjhk009",
+  "name": "ECHO CHURCH",
+  "displayName": "Echo Church",
+  "address": {
+    "street": "1172 MURPHY AVE STE 130",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95131"
+  },
+  "coordinates": {
+    "latitude": 37.3818117,
+    "longitude": -121.8932886
+  },
+  "website": "https://echo.church/locations/north-san-jose",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "223979908"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "echo.church/locations/north-san-jose"
+    }
+  ],
+  "advisories": []
+}

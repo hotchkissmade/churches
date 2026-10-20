@@ -1,0 +1,33 @@
+{
+  "id": "y5ccpqy70",
+  "url": "https://constellation.church/y5ccpqy70",
+  "name": "St James Lutheran Church",
+  "displayName": "St. James Lutheran Church",
+  "address": {
+    "street": "2381 Romence Rd",
+    "city": "Portage",
+    "state": "MI",
+    "zip": "49024-4069"
+  },
+  "coordinates": {
+    "latitude": 42.2151337,
+    "longitude": -85.6175381
+  },
+  "website": "https://stjamesportage.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24312",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24312"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamesportage.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382146382"
+    }
+  ],
+  "advisories": []
+}

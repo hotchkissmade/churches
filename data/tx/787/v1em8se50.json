@@ -1,0 +1,33 @@
+{
+  "id": "v1em8se50",
+  "url": "https://constellation.church/v1em8se50",
+  "name": "Northwest Hills United Methodist Church",
+  "displayName": "Northwest Hills United Methodist Church",
+  "address": {
+    "street": "7050 Village Center Dr",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78731-3024"
+  },
+  "coordinates": {
+    "latitude": 30.35377311706543,
+    "longitude": -97.75591278076172
+  },
+  "website": "https://nwhillsumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFJmWIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFJmWIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nwhillsumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "746161717"
+    }
+  ],
+  "advisories": []
+}

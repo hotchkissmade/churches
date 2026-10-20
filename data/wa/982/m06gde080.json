@@ -1,0 +1,33 @@
+{
+  "id": "m06gde080",
+  "url": "https://constellation.church/m06gde080",
+  "name": "St. Brendan's Anglican Church",
+  "displayName": "St. Brendan's Anglican Church",
+  "address": {
+    "street": "2826 Birchwood Ave",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98225"
+  },
+  "coordinates": {
+    "latitude": 48.77415084838867,
+    "longitude": -122.505126953125
+  },
+  "website": "https://stbrendansanglican.org/who-we-are",
+  "listingUrl": "https://www.acna.org/admin_units/723",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "723"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stbrendansanglican.org/who-we-are"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "260787888"
+    }
+  ],
+  "advisories": []
+}

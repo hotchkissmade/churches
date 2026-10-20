@@ -1,0 +1,33 @@
+{
+  "id": "s182hap21",
+  "url": "https://constellation.church/s182hap21",
+  "name": "Dogwood Church",
+  "displayName": "Dogwood Church",
+  "address": {
+    "street": "6467 Fm 2494",
+    "city": "Athens",
+    "state": "TX",
+    "zip": "75751"
+  },
+  "coordinates": {
+    "latitude": 32.16476631164551,
+    "longitude": -95.89720153808594
+  },
+  "website": "https://dogwoodathens.com",
+  "listingUrl": "https://churches.sbc.net/church/dogwood-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "dogwood-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dogwoodathens.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752204593"
+    }
+  ],
+  "advisories": []
+}

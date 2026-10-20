@@ -1,0 +1,33 @@
+{
+  "id": "gwb7r4798",
+  "url": "https://constellation.church/gwb7r4798",
+  "name": "Alice Drive Baptist Church",
+  "displayName": "Alice Drive Baptist Church",
+  "address": {
+    "street": "1305 Loring Mill Rd",
+    "city": "Sumter",
+    "state": "SC",
+    "zip": "29150"
+  },
+  "coordinates": {
+    "latitude": 33.93882942199707,
+    "longitude": -80.4183235168457
+  },
+  "website": "https://alicedrive.church",
+  "listingUrl": "https://churches.sbc.net/church/alice-drive-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "alice-drive-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "alicedrive.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570507089"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rq998z217",
+  "url": "https://constellation.church/rq998z217",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "211 E Robinson St",
+    "city": "Lake Crystal",
+    "state": "MN",
+    "zip": "56055"
+  },
+  "coordinates": {
+    "latitude": 44.10800743103027,
+    "longitude": -94.21658325195312
+  },
+  "website": "https://zionluthlakecrystal.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3d84d5e7-1225-4fc9-8bf5-d1063974e88d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3d84d5e7-1225-4fc9-8bf5-d1063974e88d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionluthlakecrystal.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411327953"
+    }
+  ],
+  "advisories": []
+}

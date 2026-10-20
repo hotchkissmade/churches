@@ -1,0 +1,33 @@
+{
+  "id": "yf76zn563",
+  "url": "https://constellation.church/yf76zn563",
+  "name": "Chinese Baptist Church",
+  "displayName": "Chinese Baptist Church",
+  "address": {
+    "street": "595 SW 124th Ave",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33184"
+  },
+  "coordinates": {
+    "latitude": 25.762714385986328,
+    "longitude": -80.39628982543945
+  },
+  "website": "https://cbcmiami.org",
+  "listingUrl": "https://churches.sbc.net/church/chinese-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "chinese-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cbcmiami.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591378365"
+    }
+  ],
+  "advisories": []
+}

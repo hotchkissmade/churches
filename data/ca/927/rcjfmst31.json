@@ -1,0 +1,33 @@
+{
+  "id": "rcjfmst31",
+  "url": "https://constellation.church/rcjfmst31",
+  "name": "Church of the Messiah",
+  "displayName": "Church of the Messiah",
+  "address": {
+    "street": "614 N Bush St",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92701-4157"
+  },
+  "coordinates": {
+    "latitude": 33.7503776550293,
+    "longitude": -117.86676788330078
+  },
+  "website": "https://messiah-santaana.org/events/parish-life-events",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-los-angeles/list/church-messiah",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-los-angeles/church-messiah"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "messiah-santaana.org/events/parish-life-events"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952787400"
+    }
+  ],
+  "advisories": []
+}

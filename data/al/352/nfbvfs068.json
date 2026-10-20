@@ -1,0 +1,33 @@
+{
+  "id": "nfbvfs068",
+  "url": "https://constellation.church/nfbvfs068",
+  "name": "Green Valley Baptist Church",
+  "displayName": "Green Valley Baptist Church",
+  "address": {
+    "street": "1815 Patton Chapel Rd",
+    "city": "Hoover",
+    "state": "AL",
+    "zip": "35226"
+  },
+  "coordinates": {
+    "latitude": 33.387800216674805,
+    "longitude": -86.81690979003906
+  },
+  "website": "https://gvbc.org",
+  "listingUrl": "https://churches.sbc.net/church/green-valley-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "green-valley-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gvbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630503309"
+    }
+  ],
+  "advisories": []
+}

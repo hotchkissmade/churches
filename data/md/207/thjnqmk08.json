@@ -1,0 +1,33 @@
+{
+  "id": "thjnqmk08",
+  "url": "https://constellation.church/thjnqmk08",
+  "name": "Jessup Baptist Church",
+  "displayName": "Jessup Baptist Church",
+  "address": {
+    "street": "2862 Jessup Rd",
+    "city": "Jessup",
+    "state": "MD",
+    "zip": "20794"
+  },
+  "coordinates": {
+    "latitude": 39.14296913146973,
+    "longitude": -76.76340103149414
+  },
+  "website": "https://jessupbaptistchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/jessup-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "jessup-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jessupbaptistchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521072707"
+    }
+  ],
+  "advisories": []
+}

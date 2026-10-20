@@ -1,0 +1,33 @@
+{
+  "id": "zbz7zn353",
+  "url": "https://constellation.church/zbz7zn353",
+  "name": "Grace Central Church",
+  "displayName": "Grace Central Church",
+  "address": {
+    "street": "344 North 115th Street",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68154"
+  },
+  "coordinates": {
+    "latitude": 41.26104736328125,
+    "longitude": -96.09285736083984
+  },
+  "website": "https://graceomaha.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1000",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1000"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceomaha.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470628782"
+    }
+  ],
+  "advisories": []
+}

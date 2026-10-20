@@ -1,0 +1,33 @@
+{
+  "id": "cfhdxam80",
+  "url": "https://constellation.church/cfhdxam80",
+  "name": "Emmaus Lutheran Church",
+  "displayName": "Emmaus Lutheran Church",
+  "address": {
+    "street": "404 Maple St",
+    "city": "Kennard",
+    "state": "NE",
+    "zip": "68034-3001"
+  },
+  "coordinates": {
+    "latitude": 41.47523498535156,
+    "longitude": -96.20336151123047
+  },
+  "website": "https://ludvigsenmortuary.com/services.asp",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9502edd1-201e-4f09-84cf-09364b83f366",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9502edd1-201e-4f09-84cf-09364b83f366"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ludvigsenmortuary.com/services.asp"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470521573"
+    }
+  ],
+  "advisories": []
+}

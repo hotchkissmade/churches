@@ -1,0 +1,33 @@
+{
+  "id": "rttetzv15",
+  "url": "https://constellation.church/rttetzv15",
+  "name": "Saint Thomas Lutheran Church",
+  "displayName": "St. Thomas Lutheran Church",
+  "address": {
+    "street": "21211 Detroit Rd",
+    "city": "Rocky River",
+    "state": "OH",
+    "zip": "44116-2213"
+  },
+  "coordinates": {
+    "latitude": 41.472984313964844,
+    "longitude": -81.85428237915039
+  },
+  "website": "https://stcr.org",
+  "listingUrl": "https://locator.lcms.org/church/C/777849",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "777849"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stcr.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340816480"
+    }
+  ],
+  "advisories": []
+}

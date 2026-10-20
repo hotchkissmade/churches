@@ -1,0 +1,33 @@
+{
+  "id": "eanz9fb47",
+  "url": "https://constellation.church/eanz9fb47",
+  "name": "Church of the Advent",
+  "displayName": "Church of the Advent",
+  "address": {
+    "street": "412 Oak St",
+    "city": "Farmington",
+    "state": "MN",
+    "zip": "55024-1326"
+  },
+  "coordinates": {
+    "latitude": 44.6386833190918,
+    "longitude": -93.14244079589844
+  },
+  "website": "https://adventmn.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/church-advent",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/church-advent"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "adventmn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411909617"
+    }
+  ],
+  "advisories": []
+}

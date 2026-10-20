@@ -1,0 +1,33 @@
+{
+  "id": "cb2m96g72",
+  "url": "https://constellation.church/cb2m96g72",
+  "name": "Third Haven Friends Meeting",
+  "displayName": "Third Haven Friends Meeting",
+  "address": {
+    "street": "405 S. Washington Street",
+    "city": "Easton",
+    "state": "MD",
+    "zip": "21601"
+  },
+  "coordinates": {
+    "latitude": 38.766510009765625,
+    "longitude": -76.07535552978516
+  },
+  "website": "https://thirdhaven.org/donate.php",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/third-haven-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "third-haven-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thirdhaven.org/donate.php"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "922145454"
+    }
+  ],
+  "advisories": []
+}

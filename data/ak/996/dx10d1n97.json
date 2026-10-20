@@ -1,0 +1,33 @@
+{
+  "id": "dx10d1n97",
+  "url": "https://constellation.church/dx10d1n97",
+  "name": "Resurrection Lutheran Church",
+  "displayName": "Resurrection Lutheran Church",
+  "address": {
+    "street": "400 Third Ave",
+    "city": "Seward",
+    "state": "AK",
+    "zip": "99664"
+  },
+  "coordinates": {
+    "latitude": 60.10491180419922,
+    "longitude": -149.44171905517578
+  },
+  "website": "https://rlcseward.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=99146b21-69ec-4468-a895-467bc9c6644f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "99146b21-69ec-4468-a895-467bc9c6644f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rlcseward.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920149632"
+    }
+  ],
+  "advisories": []
+}

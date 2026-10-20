@@ -1,0 +1,33 @@
+{
+  "id": "v4p8p1r58",
+  "url": "https://constellation.church/v4p8p1r58",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "200 W Sycamore Ave",
+    "city": "Bloomfield",
+    "state": "NM",
+    "zip": "87413"
+  },
+  "coordinates": {
+    "latitude": 36.712575912475586,
+    "longitude": -107.98048400878906
+  },
+  "website": "https://fbcbloomfield.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-590/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-590"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcbloomfield.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "856019515"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "be9xpc728",
+  "url": "https://constellation.church/be9xpc728",
+  "name": "Central Lutheran Church",
+  "displayName": "Central Lutheran Church",
+  "address": {
+    "street": "333 S 12th St",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55404-1453"
+  },
+  "coordinates": {
+    "latitude": 44.969308853149414,
+    "longitude": -93.27083969116211
+  },
+  "website": "https://centralmpls.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ee8ff2bc-8053-41d4-b620-91d511b56da6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ee8ff2bc-8053-41d4-b620-91d511b56da6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centralmpls.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410693942"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xz7f70x77",
+  "url": "https://constellation.church/xz7f70x77",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "508 W Miami Ave",
+    "city": "Cleveland",
+    "state": "OK",
+    "zip": "74020"
+  },
+  "coordinates": {
+    "latitude": 36.3128719329834,
+    "longitude": -96.47002410888672
+  },
+  "website": "https://clevelandag.churchtrac.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a3eaf17c-f0e0-431a-aa68-e918db8e5c5c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "a3eaf17c-f0e0-431a-aa68-e918db8e5c5c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clevelandag.churchtrac.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "731165647"
+    }
+  ],
+  "advisories": []
+}

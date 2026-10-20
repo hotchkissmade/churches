@@ -1,0 +1,33 @@
+{
+  "id": "sc73shg52",
+  "url": "https://constellation.church/sc73shg52",
+  "name": "First Baptist Church of Groesbeck, TX",
+  "displayName": "First Baptist Church of Groesbeck, TX",
+  "address": {
+    "street": "306 N Ellis St",
+    "city": "Groesbeck",
+    "state": "TX",
+    "zip": "76642"
+  },
+  "coordinates": {
+    "latitude": 31.525659561157227,
+    "longitude": -96.532958984375
+  },
+  "website": "https://fbcgroesbeck.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-groesbeck-tx/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-groesbeck-tx"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcgroesbeck.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751688552"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qd6105d42",
+  "url": "https://constellation.church/qd6105d42",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "299 Haywood Ln",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37211-5542"
+  },
+  "coordinates": {
+    "latitude": 36.067853927612305,
+    "longitude": -86.70730972290039
+  },
+  "website": "https://clcnashville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2a415b83-10aa-44d5-bb3a-5934eaf4eec8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2a415b83-10aa-44d5-bb3a-5934eaf4eec8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clcnashville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621060047"
+    }
+  ],
+  "advisories": []
+}

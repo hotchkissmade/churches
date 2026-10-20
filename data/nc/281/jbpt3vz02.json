@@ -1,0 +1,33 @@
+{
+  "id": "jbpt3vz02",
+  "url": "https://constellation.church/jbpt3vz02",
+  "name": "Central United Methodist Church",
+  "displayName": "Central United Methodist Church",
+  "address": {
+    "street": "801 S Hayne St",
+    "city": "Monroe",
+    "state": "NC",
+    "zip": "28112"
+  },
+  "coordinates": {
+    "latitude": 34.97395896911621,
+    "longitude": -80.54852294921875
+  },
+  "website": "https://centralumcmonroe.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKuYIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKuYIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centralumcmonroe.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560547457"
+    }
+  ],
+  "advisories": []
+}

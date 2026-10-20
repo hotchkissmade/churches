@@ -1,0 +1,33 @@
+{
+  "id": "q1bayzk73",
+  "url": "https://constellation.church/q1bayzk73",
+  "name": "Good Shepherd Lutheran Church",
+  "displayName": "Good Shepherd Lutheran Church",
+  "address": {
+    "street": "4120 Cleveland Ave NW",
+    "city": "Canton",
+    "state": "OH",
+    "zip": "44709-2348"
+  },
+  "coordinates": {
+    "latitude": 40.84420585632324,
+    "longitude": -81.39133834838867
+  },
+  "website": "https://goodshepherdcanton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=080d0e3f-36b7-409d-acd7-25f9f3a5c682",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "080d0e3f-36b7-409d-acd7-25f9f3a5c682"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherdcanton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341305045"
+    }
+  ],
+  "advisories": []
+}

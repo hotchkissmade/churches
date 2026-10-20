@@ -1,0 +1,33 @@
+{
+  "id": "dt44a4r42",
+  "url": "https://constellation.church/dt44a4r42",
+  "name": "Gillis First Baptist Church",
+  "displayName": "Gillis First Baptist Church",
+  "address": {
+    "street": "678 Topsy Rd",
+    "city": "Lake Charles",
+    "state": "LA",
+    "zip": "70611"
+  },
+  "coordinates": {
+    "latitude": 30.374338150024414,
+    "longitude": -93.19894409179688
+  },
+  "website": "https://fbcgillis.org",
+  "listingUrl": "https://churches.sbc.net/church/gillis-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "gillis-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcgillis.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720983697"
+    }
+  ],
+  "advisories": []
+}

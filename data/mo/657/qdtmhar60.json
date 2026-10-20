@@ -1,0 +1,33 @@
+{
+  "id": "qdtmhar60",
+  "url": "https://constellation.church/qdtmhar60",
+  "name": "All Saints' Episcopal Church",
+  "displayName": "All Saints' Episcopal Church",
+  "address": {
+    "street": "107 S Curry St",
+    "city": "West Plains",
+    "state": "MO",
+    "zip": "65775-3943"
+  },
+  "coordinates": {
+    "latitude": 36.72762489318848,
+    "longitude": -91.8493423461914
+  },
+  "website": "https://allsaintswestplains.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-missouri/list/all-saints-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-missouri/all-saints-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allsaintswestplains.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431089642"
+    }
+  ],
+  "advisories": []
+}

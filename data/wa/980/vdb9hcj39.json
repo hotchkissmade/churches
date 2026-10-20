@@ -1,0 +1,33 @@
+{
+  "id": "vdb9hcj39",
+  "url": "https://constellation.church/vdb9hcj39",
+  "name": "Cedar Park Church Persian",
+  "displayName": "Cedar Park Church Persian",
+  "address": {
+    "street": "16300 112th Ave NE",
+    "city": "Bothell",
+    "state": "WA",
+    "zip": "98011"
+  },
+  "coordinates": {
+    "latitude": 47.74631881713867,
+    "longitude": -122.18950653076172
+  },
+  "website": "https://cedarpark.org/who-we-are/our-team",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=68a94786-4b2b-402e-859a-9d713866968f&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "68a94786-4b2b-402e-859a-9d713866968f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cedarpark.org/who-we-are/our-team"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510137442"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "e49k18q56",
+  "url": "https://constellation.church/e49k18q56",
+  "name": "Augustana Lutheran Church",
+  "displayName": "Augustana Lutheran Church",
+  "address": {
+    "street": "1400 Robert St S",
+    "city": "West St Paul",
+    "state": "MN",
+    "zip": "55118-3140"
+  },
+  "coordinates": {
+    "latitude": 44.904483795166016,
+    "longitude": -93.07989501953125
+  },
+  "website": "https://augustana.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=29d114a4-032b-4a43-a4ba-75d560ef216b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "29d114a4-032b-4a43-a4ba-75d560ef216b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "augustana.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410782849"
+    }
+  ],
+  "advisories": []
+}

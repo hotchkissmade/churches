@@ -1,0 +1,33 @@
+{
+  "id": "j31sjt947",
+  "url": "https://constellation.church/j31sjt947",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "2221 N Oak Ln",
+    "city": "State College",
+    "state": "PA",
+    "zip": "16803-1129"
+  },
+  "coordinates": {
+    "latitude": 40.81027030944824,
+    "longitude": -77.920166015625
+  },
+  "website": "https://trinitystatecollege.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=56d4e38f-803c-4a00-9105-9ddbde4234c7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "56d4e38f-803c-4a00-9105-9ddbde4234c7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitystatecollege.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251445408"
+    }
+  ],
+  "advisories": []
+}

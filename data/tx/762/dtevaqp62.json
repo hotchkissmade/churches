@@ -1,0 +1,33 @@
+{
+  "id": "dtevaqp62",
+  "url": "https://constellation.church/dtevaqp62",
+  "name": "St. David's Church",
+  "displayName": "St. David's Church",
+  "address": {
+    "street": "623 Ector St",
+    "city": "Denton",
+    "state": "TX",
+    "zip": "76201-2423"
+  },
+  "coordinates": {
+    "latitude": 33.219743728637695,
+    "longitude": -97.15568542480469
+  },
+  "website": "https://stdavidsdenton.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-dallas/list/st-davids-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-dallas/st-davids-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stdavidsdenton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751318626"
+    }
+  ],
+  "advisories": []
+}

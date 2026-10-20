@@ -1,0 +1,37 @@
+{
+  "id": "m35m38879",
+  "url": "https://constellation.church/m35m38879",
+  "name": "Episcopal Church of the Holy Communion",
+  "displayName": "Episcopal Church of the Holy Communion",
+  "address": {
+    "street": "7401 Delmar Blvd.",
+    "city": "University City",
+    "state": "MO",
+    "zip": "63130-4093"
+  },
+  "coordinates": {
+    "latitude": 38.65861129760742,
+    "longitude": -90.32894897460938
+  },
+  "website": "https://holycommunion.net",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-missouri/list/episcopal-church-holy-communion",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-missouri/episcopal-church-holy-communion"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holycommunion.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430653307"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "436036514"
+    }
+  ],
+  "advisories": []
+}

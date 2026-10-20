@@ -1,0 +1,33 @@
+{
+  "id": "t8gq68b51",
+  "url": "https://constellation.church/t8gq68b51",
+  "name": "First Baptist Church of Vienna",
+  "displayName": "First Baptist Church of Vienna",
+  "address": {
+    "street": "301 N 7th St",
+    "city": "Vienna",
+    "state": "IL",
+    "zip": "62995"
+  },
+  "coordinates": {
+    "latitude": 37.41630935668945,
+    "longitude": -88.89891052246094
+  },
+  "website": "https://viennafirstbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-vienna/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-vienna"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "viennafirstbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370978486"
+    }
+  ],
+  "advisories": []
+}

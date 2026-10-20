@@ -1,0 +1,33 @@
+{
+  "id": "ycay9t215",
+  "url": "https://constellation.church/ycay9t215",
+  "name": "The Rock Church",
+  "displayName": "The Rock Church",
+  "address": {
+    "street": "1401 Old Clyattville Rd",
+    "city": "Valdosta",
+    "state": "GA",
+    "zip": "31601"
+  },
+  "coordinates": {
+    "latitude": 30.805086135864258,
+    "longitude": -83.29164505004883
+  },
+  "website": "https://therockvaldosta.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=6db75d81-fbf9-4503-8b90-2a29af2b049f&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "6db75d81-fbf9-4503-8b90-2a29af2b049f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "therockvaldosta.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581496647"
+    }
+  ],
+  "advisories": []
+}

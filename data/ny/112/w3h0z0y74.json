@@ -1,0 +1,33 @@
+{
+  "id": "w3h0z0y74",
+  "url": "https://constellation.church/w3h0z0y74",
+  "name": "Ebenezer Seventh-day Adventist Church",
+  "displayName": "Ebenezer Seventh-day Adventist Church",
+  "address": {
+    "street": "1234 E New York Ave",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11212-4101"
+  },
+  "coordinates": {
+    "latitude": 40.66753387451172,
+    "longitude": -73.92140579223633
+  },
+  "website": "https://ebenezereny.org",
+  "listingUrl": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=14274",
+  "identifiers": [
+    {
+      "namespace": "org.adventistdirectory.id",
+      "value": "14274"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ebenezereny.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "113190479"
+    }
+  ],
+  "advisories": []
+}

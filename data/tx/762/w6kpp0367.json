@@ -1,0 +1,33 @@
+{
+  "id": "w6kpp0367",
+  "url": "https://constellation.church/w6kpp0367",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "315 E. Scott Street",
+    "city": "Gainesville",
+    "state": "TX",
+    "zip": "76240"
+  },
+  "coordinates": {
+    "latitude": 33.62822151184082,
+    "longitude": -97.14347076416016
+  },
+  "website": "https://wpcgtx.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1089",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1089"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wpcgtx.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751954261"
+    }
+  ],
+  "advisories": []
+}

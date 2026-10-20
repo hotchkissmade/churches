@@ -1,0 +1,33 @@
+{
+  "id": "f0c9dsc64",
+  "url": "https://constellation.church/f0c9dsc64",
+  "name": "Homestead Community Church",
+  "displayName": "Homestead Community Church",
+  "address": {
+    "street": "344 3rd St",
+    "city": "Farmington",
+    "state": "MN",
+    "zip": "55024"
+  },
+  "coordinates": {
+    "latitude": 44.6392822265625,
+    "longitude": -93.14544677734375
+  },
+  "website": "https://homesteadcommunitychurch.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=acceca45-6631-4853-aad5-ea519d63c681&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "acceca45-6631-4853-aad5-ea519d63c681"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "homesteadcommunitychurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "472246419"
+    }
+  ],
+  "advisories": []
+}

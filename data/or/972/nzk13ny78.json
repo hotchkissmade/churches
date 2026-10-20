@@ -1,0 +1,33 @@
+{
+  "id": "nzk13ny78",
+  "url": "https://constellation.church/nzk13ny78",
+  "name": "Bridge City Friends Meeting",
+  "displayName": "Bridge City Friends Meeting",
+  "address": {
+    "street": "2901 SE Steele",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97202"
+  },
+  "coordinates": {
+    "latitude": 45.4853593,
+    "longitude": -122.6359287
+  },
+  "website": "https://bridgecitymeeting.org/when-we-worship",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/bridge-city-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "bridge-city-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bridgecitymeeting.org/when-we-worship"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "202608792"
+    }
+  ],
+  "advisories": []
+}

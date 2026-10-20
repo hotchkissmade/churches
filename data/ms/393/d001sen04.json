@@ -1,0 +1,33 @@
+{
+  "id": "d001sen04",
+  "url": "https://constellation.church/d001sen04",
+  "name": "Bailey Presbyterian Church",
+  "displayName": "Bailey Presbyterian Church",
+  "address": {
+    "street": "8665 Hwy 493",
+    "city": "Bailey",
+    "state": "MS",
+    "zip": "39320"
+  },
+  "coordinates": {
+    "latitude": 32.48162651062012,
+    "longitude": -88.72867584228516
+  },
+  "website": "https://baileypres.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/82",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "82"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "baileypres.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640685298"
+    }
+  ],
+  "advisories": []
+}

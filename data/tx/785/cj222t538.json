@@ -1,0 +1,33 @@
+{
+  "id": "cj222t538",
+  "url": "https://constellation.church/cj222t538",
+  "name": "St. John's Episcopal Church",
+  "displayName": "St. John's Episcopal Church",
+  "address": {
+    "street": "2500 N 10th St",
+    "city": "McAllen",
+    "state": "TX",
+    "zip": "78501-4008"
+  },
+  "coordinates": {
+    "latitude": 26.22614860534668,
+    "longitude": -98.2253646850586
+  },
+  "website": "https://stjohnsmcallen.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-texas/list/st-johns-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-texas/st-johns-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsmcallen.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741356583"
+    }
+  ],
+  "advisories": []
+}

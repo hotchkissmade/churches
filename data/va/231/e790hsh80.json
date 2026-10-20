@@ -1,0 +1,33 @@
+{
+  "id": "e790hsh80",
+  "url": "https://constellation.church/e790hsh80",
+  "name": "All Souls Episcopal Church",
+  "displayName": "All Souls Episcopal Church",
+  "address": {
+    "street": "9077 Atlee Rd",
+    "city": "Mechanicsville",
+    "state": "VA",
+    "zip": "23116-2501"
+  },
+  "coordinates": {
+    "latitude": 37.64628791809082,
+    "longitude": -77.39588165283203
+  },
+  "website": "https://allsoulsva.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-virginia/list/all-souls-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-virginia/all-souls-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allsoulsva.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "020690639"
+    }
+  ],
+  "advisories": []
+}

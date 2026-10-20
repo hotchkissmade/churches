@@ -1,0 +1,33 @@
+{
+  "id": "ed0twcp66",
+  "url": "https://constellation.church/ed0twcp66",
+  "name": "Apostolic Christian Church of Princeville",
+  "displayName": "Apostolic Christian Church of Princeville",
+  "address": {
+    "street": "710 E. Main",
+    "city": "Princeville",
+    "state": "IL",
+    "zip": "61559"
+  },
+  "coordinates": {
+    "latitude": 40.9307804107666,
+    "longitude": -89.74918365478516
+  },
+  "website": "https://princevilleacchurch.org",
+  "listingUrl": "https://www.apostolicchristian.org/congregations/princeville",
+  "identifiers": [
+    {
+      "namespace": "org.apostolicchristian.id",
+      "value": "princeville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "princevilleacchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366091116"
+    }
+  ],
+  "advisories": []
+}

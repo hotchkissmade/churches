@@ -1,0 +1,33 @@
+{
+  "id": "bcrdd6t83",
+  "url": "https://constellation.church/bcrdd6t83",
+  "name": "Good Hope Baptist Church",
+  "displayName": "Good Hope Baptist Church",
+  "address": {
+    "street": "221 Good Hope Church Rd",
+    "city": "Iva",
+    "state": "SC",
+    "zip": "29655"
+  },
+  "coordinates": {
+    "latitude": 34.33486747741699,
+    "longitude": -82.69277954101562
+  },
+  "website": "https://goodhopeiva.org",
+  "listingUrl": "https://churches.sbc.net/church/good-hope-baptist-church-15/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "good-hope-baptist-church-15"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodhopeiva.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "300272262"
+    }
+  ],
+  "advisories": []
+}

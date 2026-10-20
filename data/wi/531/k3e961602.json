@@ -1,0 +1,33 @@
+{
+  "id": "k3e961602",
+  "url": "https://constellation.church/k3e961602",
+  "name": "Mount Olive Evangelical Lutheran Church",
+  "displayName": "Mount Olive Evangelical Lutheran Church",
+  "address": {
+    "street": "211 Main St",
+    "city": "Mukwonago",
+    "state": "WI",
+    "zip": "53149-1525"
+  },
+  "coordinates": {
+    "latitude": 42.86209487915039,
+    "longitude": -88.33262634277344
+  },
+  "website": "https://mountolive-elca.net/who-we-are",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f67b9951-bb15-4a4b-81ec-4c736514c9a8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f67b9951-bb15-4a4b-81ec-4c736514c9a8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mountolive-elca.net/who-we-are"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391095101"
+    }
+  ],
+  "advisories": []
+}

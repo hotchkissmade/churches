@@ -1,0 +1,33 @@
+{
+  "id": "v4jamjy76",
+  "url": "https://constellation.church/v4jamjy76",
+  "name": "Faith Lutheran Church ELCA",
+  "displayName": "Faith Lutheran Church ELCA",
+  "address": {
+    "street": "551 Rotonda Blvd W",
+    "city": "Rotonda West",
+    "state": "FL",
+    "zip": "33947-2506"
+  },
+  "coordinates": {
+    "latitude": 26.88823890686035,
+    "longitude": -82.30161666870117
+  },
+  "website": "https://alivingfaith.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ce76cfaf-c991-496a-b1f5-28ec8d5e6337",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ce76cfaf-c991-496a-b1f5-28ec8d5e6337"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "alivingfaith.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581461378"
+    }
+  ],
+  "advisories": []
+}

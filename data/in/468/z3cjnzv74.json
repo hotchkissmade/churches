@@ -1,0 +1,33 @@
+{
+  "id": "z3cjnzv74",
+  "url": "https://constellation.church/z3cjnzv74",
+  "name": "The Pointe Church",
+  "displayName": "The Pointe Church",
+  "address": {
+    "street": "5335 Bass Road",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46808"
+  },
+  "coordinates": {
+    "latitude": 41.08760070800781,
+    "longitude": -85.21112060546875
+  },
+  "website": "https://thepointe.church",
+  "listingUrl": "https://churches.sbc.net/church/the-pointe-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-pointe-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thepointe.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "202008161"
+    }
+  ],
+  "advisories": []
+}

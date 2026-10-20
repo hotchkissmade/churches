@@ -1,0 +1,33 @@
+{
+  "id": "sv83t3f48",
+  "url": "https://constellation.church/sv83t3f48",
+  "name": "Renovate Church",
+  "displayName": "Renovate Church",
+  "address": {
+    "street": "5121 Hayter Ave",
+    "city": "Lakewood",
+    "state": "CA",
+    "zip": "90712"
+  },
+  "coordinates": {
+    "latitude": 33.850969314575195,
+    "longitude": -118.146240234375
+  },
+  "website": "https://renovatechurch.org/about",
+  "listingUrl": "https://churches.sbc.net/church/renovate-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "renovate-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "renovatechurch.org/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "843040721"
+    }
+  ],
+  "advisories": []
+}

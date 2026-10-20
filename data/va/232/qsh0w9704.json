@@ -1,0 +1,33 @@
+{
+  "id": "qsh0w9704",
+  "url": "https://constellation.church/qsh0w9704",
+  "name": "MCC Richmond",
+  "displayName": "Metropolitan Community Church Richmond",
+  "address": {
+    "street": "2501 Park Ave",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "23220"
+  },
+  "coordinates": {
+    "latitude": 37.557437896728516,
+    "longitude": -77.46862030029297
+  },
+  "website": "https://mccrichmond.org",
+  "listingUrl": "https://visitmccchurch.com/our-churches/mcc-churches-in-the-united-states/mcc-churches-in-va/mcc-richmond/",
+  "identifiers": [
+    {
+      "namespace": "com.visitmccchurch.id",
+      "value": "VA/mcc-richmond"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mccrichmond.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541401497"
+    }
+  ],
+  "advisories": []
+}

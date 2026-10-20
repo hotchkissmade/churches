@@ -1,0 +1,33 @@
+{
+  "id": "hexj44633",
+  "url": "https://constellation.church/hexj44633",
+  "name": "Latta Baptist Church",
+  "displayName": "Latta Baptist Church",
+  "address": {
+    "street": "202 N Marion St",
+    "city": "Latta",
+    "state": "SC",
+    "zip": "29565"
+  },
+  "coordinates": {
+    "latitude": 34.339975357055664,
+    "longitude": -79.4340705871582
+  },
+  "website": "https://lattabaptistchurchsc.com",
+  "listingUrl": "https://churches.sbc.net/church/latta-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "latta-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lattabaptistchurchsc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570745046"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dfrmjsn87",
+  "url": "https://constellation.church/dfrmjsn87",
+  "name": "Relevant Church",
+  "displayName": "Relevant Church",
+  "address": {
+    "street": "1704 N 16th St",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33605"
+  },
+  "coordinates": {
+    "latitude": 27.959835052490234,
+    "longitude": -82.44188690185547
+  },
+  "website": "https://relevantchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/relevant-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "relevant-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "relevantchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "201365536"
+    }
+  ],
+  "advisories": []
+}

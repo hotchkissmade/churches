@@ -1,0 +1,33 @@
+{
+  "id": "ysadm6483",
+  "url": "https://constellation.church/ysadm6483",
+  "name": "Concordia Lutheran Church",
+  "displayName": "Concordia Lutheran Church",
+  "address": {
+    "street": "5702 N Jupiter Road",
+    "city": "Garland",
+    "state": "TX",
+    "zip": "75044-3600"
+  },
+  "coordinates": {
+    "latitude": 32.96719551086426,
+    "longitude": -96.68246459960938
+  },
+  "website": "https://concordiatx.org",
+  "listingUrl": "https://locator.lcms.org/church/C/346204",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "346204"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "concordiatx.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751758519"
+    }
+  ],
+  "advisories": []
+}

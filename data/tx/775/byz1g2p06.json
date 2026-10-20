@@ -1,0 +1,33 @@
+{
+  "id": "byz1g2p06",
+  "url": "https://constellation.church/byz1g2p06",
+  "name": "Church of the Holy Comforter",
+  "displayName": "Church of the Holy Comforter",
+  "address": {
+    "street": "234 South Arcola (Office), 227 S. Chenango Street (Church)",
+    "city": "Angleton",
+    "state": "TX",
+    "zip": "77516"
+  },
+  "coordinates": {
+    "latitude": 29.162750244140625,
+    "longitude": -95.42977905273438
+  },
+  "website": "https://holycomforterangleton.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-texas/list/church-holy-comforter",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-texas/church-holy-comforter"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holycomforterangleton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760395608"
+    }
+  ],
+  "advisories": []
+}

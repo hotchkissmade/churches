@@ -1,0 +1,33 @@
+{
+  "id": "wk93abn36",
+  "url": "https://constellation.church/wk93abn36",
+  "name": "First Baptist of Montgomery",
+  "displayName": "First Baptist Church of Montgomery",
+  "address": {
+    "street": "305 S Perry St",
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "36104"
+  },
+  "coordinates": {
+    "latitude": 32.374216079711914,
+    "longitude": -86.30686950683594
+  },
+  "website": "https://montgomeryfbc.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-of-montgomery/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-of-montgomery"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "montgomeryfbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741865066"
+    }
+  ],
+  "advisories": []
+}

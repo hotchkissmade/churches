@@ -1,0 +1,33 @@
+{
+  "id": "gqjhkr266",
+  "url": "https://constellation.church/gqjhkr266",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "323 Nazareth Pike",
+    "city": "Bethlehem",
+    "state": "PA",
+    "zip": "18020-9601"
+  },
+  "coordinates": {
+    "latitude": 40.6987194,
+    "longitude": -75.3318419
+  },
+  "website": "https://trinityhecktown.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8c6967bd-0084-4b78-ad4e-18cf012ffb0e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8c6967bd-0084-4b78-ad4e-18cf012ffb0e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityhecktown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "240835175"
+    }
+  ],
+  "advisories": []
+}

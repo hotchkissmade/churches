@@ -1,0 +1,33 @@
+{
+  "id": "c5d528s40",
+  "url": "https://constellation.church/c5d528s40",
+  "name": "New Hanover Evangelical Lutheran Church",
+  "displayName": "New Hanover Evangelical Lutheran Church",
+  "address": {
+    "street": "2941 Lutheran Rd",
+    "city": "Gilbertsville",
+    "state": "PA",
+    "zip": "19525-9622"
+  },
+  "coordinates": {
+    "latitude": 40.30070495605469,
+    "longitude": -75.5794677734375
+  },
+  "website": "https://newhanoverlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b074573c-212f-4598-b900-7d477aa80bb3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b074573c-212f-4598-b900-7d477aa80bb3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newhanoverlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231507840"
+    }
+  ],
+  "advisories": []
+}

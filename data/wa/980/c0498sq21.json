@@ -1,0 +1,33 @@
+{
+  "id": "c0498sq21",
+  "url": "https://constellation.church/c0498sq21",
+  "name": "LifeWay Church",
+  "displayName": "LifeWay Church",
+  "address": {
+    "street": "5015 SW Dash Point Rd",
+    "city": "Federal Way",
+    "state": "WA",
+    "zip": "98023"
+  },
+  "coordinates": {
+    "latitude": 47.32173156738281,
+    "longitude": -122.39508056640625
+  },
+  "website": "https://lifewayconnect.com",
+  "listingUrl": "https://churches.sbc.net/church/lifeway-church-4/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lifeway-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lifewayconnect.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "432008665"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pkgs21c95",
+  "url": "https://constellation.church/pkgs21c95",
+  "name": "Redemption Story",
+  "displayName": "Redemption Story",
+  "address": {
+    "street": "2100 Morrison Dr",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76112"
+  },
+  "coordinates": {
+    "latitude": 32.74842071533203,
+    "longitude": -97.18840789794922
+  },
+  "website": "https://redemptionstory.com",
+  "listingUrl": "https://churches.sbc.net/church/redemption-story/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "redemption-story"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redemptionstory.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "845080111"
+    }
+  ],
+  "advisories": []
+}

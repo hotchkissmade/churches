@@ -1,0 +1,33 @@
+{
+  "id": "nmwpy7663",
+  "url": "https://constellation.church/nmwpy7663",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "650 2nd Ave N",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58102"
+  },
+  "coordinates": {
+    "latitude": 46.87777328491211,
+    "longitude": -96.7908706665039
+  },
+  "website": "https://firstpresfargo.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/6124/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "6124"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpresfargo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450226475"
+    }
+  ],
+  "advisories": []
+}

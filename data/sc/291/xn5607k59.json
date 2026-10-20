@@ -1,0 +1,33 @@
+{
+  "id": "xn5607k59",
+  "url": "https://constellation.church/xn5607k59",
+  "name": "Colony Lutheran Church",
+  "displayName": "Colony Lutheran Church",
+  "address": {
+    "street": "48 Colony Church Rd",
+    "city": "Newberry",
+    "state": "SC",
+    "zip": "29108-8374"
+  },
+  "coordinates": {
+    "latitude": 34.23550605773926,
+    "longitude": -81.56164932250977
+  },
+  "website": "https://colonyelca.church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=82e84ce4-27f4-46a4-984a-35c06745d7e4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "82e84ce4-27f4-46a4-984a-35c06745d7e4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "colonyelca.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570624578"
+    }
+  ],
+  "advisories": []
+}

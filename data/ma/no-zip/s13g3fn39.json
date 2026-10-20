@@ -1,0 +1,33 @@
+{
+  "id": "s13g3fn39",
+  "url": "https://constellation.church/s13g3fn39",
+  "name": "Cambridge Friends Meeting",
+  "displayName": "Cambridge Friends Meeting",
+  "address": {
+    "street": "5 Longfellow Park",
+    "city": "Cambridge",
+    "state": "MA",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 42.3758487701416,
+    "longitude": -71.12737655639648
+  },
+  "website": "https://fmcquaker.org/outreach/racial-justice",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/cambridge-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "cambridge-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fmcquaker.org/outreach/racial-justice"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042104241"
+    }
+  ],
+  "advisories": []
+}

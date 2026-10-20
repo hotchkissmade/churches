@@ -1,0 +1,33 @@
+{
+  "id": "ht008m981",
+  "url": "https://constellation.church/ht008m981",
+  "name": "Seacoast Community Church",
+  "displayName": "Seacoast Community Church",
+  "address": {
+    "street": "1050 Regal Rd",
+    "city": "Encinitas",
+    "state": "CA",
+    "zip": "92024-4698"
+  },
+  "coordinates": {
+    "latitude": 33.03895378112793,
+    "longitude": -117.28179168701172
+  },
+  "website": "https://seacoast-church.org",
+  "listingUrl": "https://churches.efca.org/?id=12698",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12698"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "seacoast-church.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330335463"
+    }
+  ],
+  "advisories": []
+}

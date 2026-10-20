@@ -1,0 +1,33 @@
+{
+  "id": "npfxpc260",
+  "url": "https://constellation.church/npfxpc260",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "2000 W McIntosh Rd",
+    "city": "Griffin",
+    "state": "GA",
+    "zip": "30223"
+  },
+  "coordinates": {
+    "latitude": 33.26999855041504,
+    "longitude": -84.30876922607422
+  },
+  "website": "https://griffinfirst.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=dba0472f-bba8-42f3-8e7b-fbd5fe11ffe0&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "dba0472f-bba8-42f3-8e7b-fbd5fe11ffe0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "griffinfirst.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581035224"
+    }
+  ],
+  "advisories": []
+}

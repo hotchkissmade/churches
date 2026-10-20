@@ -1,0 +1,33 @@
+{
+  "id": "d933c8n78",
+  "url": "https://constellation.church/d933c8n78",
+  "name": "Dallas Friends Meeting",
+  "displayName": "Dallas Friends Meeting",
+  "address": {
+    "street": "5828 Worth St",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75214"
+  },
+  "coordinates": {
+    "latitude": 32.806936264038086,
+    "longitude": -96.75630950927734
+  },
+  "website": "https://dallasquakers.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/dallas-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "dallas-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dallasquakers.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "756025812"
+    }
+  ],
+  "advisories": []
+}

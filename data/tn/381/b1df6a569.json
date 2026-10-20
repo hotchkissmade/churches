@@ -1,0 +1,33 @@
+{
+  "id": "b1df6a569",
+  "url": "https://constellation.church/b1df6a569",
+  "name": "Church of the Incarnation",
+  "displayName": "Church of the Incarnation",
+  "address": {
+    "street": "815 N. McLean Blvd.",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38107"
+  },
+  "coordinates": {
+    "latitude": 35.15994834899902,
+    "longitude": -89.99684524536133
+  },
+  "website": "https://mosaicmemphis.com",
+  "listingUrl": "https://www.acna.org/admin_units/2296",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "2296"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mosaicmemphis.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "462186590"
+    }
+  ],
+  "advisories": []
+}

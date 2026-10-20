@@ -1,0 +1,33 @@
+{
+  "id": "xethcfn37",
+  "url": "https://constellation.church/xethcfn37",
+  "name": "One Assembly",
+  "displayName": "One Assembly",
+  "address": {
+    "street": "561 Saint Joseph St",
+    "city": "Herculaneum",
+    "state": "MO",
+    "zip": "63048"
+  },
+  "coordinates": {
+    "latitude": 38.27110290527344,
+    "longitude": -90.38543701171875
+  },
+  "website": "https://cityofherculaneum.gov/departments/local-resources",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=642fd3d7-aca8-4028-aa41-115d4dd98781&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "642fd3d7-aca8-4028-aa41-115d4dd98781"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cityofherculaneum.gov/departments/local-resources"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431271306"
+    }
+  ],
+  "advisories": []
+}

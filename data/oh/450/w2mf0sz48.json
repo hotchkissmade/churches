@@ -1,0 +1,33 @@
+{
+  "id": "w2mf0sz48",
+  "url": "https://constellation.church/w2mf0sz48",
+  "name": "First Baptist Church, Trenton",
+  "displayName": "First Baptist Church, Trenton",
+  "address": {
+    "street": "305 cypress ave",
+    "city": "Trenton",
+    "state": "OH",
+    "zip": "45067"
+  },
+  "coordinates": {
+    "latitude": 39.47333526611328,
+    "longitude": -84.46124267578125
+  },
+  "website": "https://fbctrenton.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-trenton-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-trenton-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbctrenton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237381929"
+    }
+  ],
+  "advisories": []
+}

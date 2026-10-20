@@ -1,0 +1,33 @@
+{
+  "id": "nfwsdb643",
+  "url": "https://constellation.church/nfwsdb643",
+  "name": "First Baptist Church of Blakely, Inc.",
+  "displayName": "First Baptist Church of Blakely",
+  "address": {
+    "street": "790 S Church St",
+    "city": "Blakely",
+    "state": "GA",
+    "zip": "39823"
+  },
+  "coordinates": {
+    "latitude": 31.377334594726562,
+    "longitude": -84.93606567382812
+  },
+  "website": "https://fbcblakely.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-blakely-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-blakely-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcblakely.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580871619"
+    }
+  ],
+  "advisories": []
+}

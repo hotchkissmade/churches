@@ -1,0 +1,33 @@
+{
+  "id": "k9x08sg19",
+  "url": "https://constellation.church/k9x08sg19",
+  "name": "Journey Church",
+  "displayName": "Journey Church",
+  "address": {
+    "street": "301 S Mckinley Ave",
+    "city": "Joplin",
+    "state": "MO",
+    "zip": "64801"
+  },
+  "coordinates": {
+    "latitude": 37.08914375305176,
+    "longitude": -94.5411376953125
+  },
+  "website": "https://myjourney.us",
+  "listingUrl": "https://churches.sbc.net/church/journey-church-8/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "journey-church-8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "myjourney.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "861123436"
+    }
+  ],
+  "advisories": []
+}

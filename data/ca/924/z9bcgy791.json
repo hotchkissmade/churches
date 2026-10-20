@@ -1,0 +1,33 @@
+{
+  "id": "z9bcgy791",
+  "url": "https://constellation.church/z9bcgy791",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "1900 N D St",
+    "city": "San Bernardino",
+    "state": "CA",
+    "zip": "92405"
+  },
+  "coordinates": {
+    "latitude": 34.13289833068848,
+    "longitude": -117.2923355102539
+  },
+  "website": "https://fpcsb.net",
+  "listingUrl": "https://church-trends.pcusa.org/church/713/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "713"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcsb.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951690997"
+    }
+  ],
+  "advisories": []
+}

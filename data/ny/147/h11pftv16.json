@@ -1,0 +1,33 @@
+{
+  "id": "h11pftv16",
+  "url": "https://constellation.church/h11pftv16",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "120 Chandler St",
+    "city": "Jamestown",
+    "state": "NY",
+    "zip": "14701-5640"
+  },
+  "coordinates": {
+    "latitude": 42.097007751464844,
+    "longitude": -79.23258972167969
+  },
+  "website": "https://flcjny.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7ad061b7-7f70-47d3-85d0-42c9ffe7d7d7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7ad061b7-7f70-47d3-85d0-42c9ffe7d7d7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcjny.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "160775577"
+    }
+  ],
+  "advisories": []
+}

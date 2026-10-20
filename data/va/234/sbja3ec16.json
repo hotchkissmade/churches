@@ -1,0 +1,33 @@
+{
+  "id": "sbja3ec16",
+  "url": "https://constellation.church/sbja3ec16",
+  "name": "St John’s Baptist Church",
+  "displayName": "St. John’s Baptist Church",
+  "address": {
+    "street": "2300 Holland Rd",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23453"
+  },
+  "coordinates": {
+    "latitude": 36.757164001464844,
+    "longitude": -76.05075073242188
+  },
+  "website": "https://stjohnsbaptistvb.org",
+  "listingUrl": "https://churches.sbc.net/church/st-johns-baptist-church-5/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "st-johns-baptist-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsbaptistvb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541039840"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "b6xkrw345",
+  "url": "https://constellation.church/b6xkrw345",
+  "name": "Hilltop Community Church",
+  "displayName": "Hilltop Community Church",
+  "address": {
+    "street": "3118 Shane Dr",
+    "city": "Richmond",
+    "state": "CA",
+    "zip": "94806"
+  },
+  "coordinates": {
+    "latitude": 37.97588539123535,
+    "longitude": -122.32721710205078
+  },
+  "website": "https://hilltopcommunitychurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=6a839e7c-59f9-4c14-bb74-e2c9b1a03808&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "6a839e7c-59f9-4c14-bb74-e2c9b1a03808"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hilltopcommunitychurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941433889"
+    }
+  ],
+  "advisories": []
+}

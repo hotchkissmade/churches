@@ -1,0 +1,33 @@
+{
+  "id": "hty9ntx98",
+  "url": "https://constellation.church/hty9ntx98",
+  "name": "Rise Church",
+  "displayName": "Rise Church",
+  "address": {
+    "street": "3520 Bishop Rd",
+    "city": "Rocky Mount",
+    "state": "NC",
+    "zip": "27804"
+  },
+  "coordinates": {
+    "latitude": 36.019514083862305,
+    "longitude": -77.77945709228516
+  },
+  "website": "https://risenc.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=7ad44f91-30da-47d3-bd06-8ddd008efc95&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "7ad44f91-30da-47d3-bd06-8ddd008efc95"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "risenc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561953352"
+    }
+  ],
+  "advisories": []
+}

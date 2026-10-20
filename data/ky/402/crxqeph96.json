@@ -1,0 +1,33 @@
+{
+  "id": "crxqeph96",
+  "url": "https://constellation.church/crxqeph96",
+  "name": "Community Presbyterian Church",
+  "displayName": "Community Presbyterian Church",
+  "address": {
+    "street": "13902 Factory Lane",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40245"
+  },
+  "coordinates": {
+    "latitude": 38.2832595,
+    "longitude": -85.4931573
+  },
+  "website": "https://communitypca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1233",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1233"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "communitypca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611164398"
+    }
+  ],
+  "advisories": []
+}

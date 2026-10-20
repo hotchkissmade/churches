@@ -1,0 +1,33 @@
+{
+  "id": "j7t9txk53",
+  "url": "https://constellation.church/j7t9txk53",
+  "name": "Cedar Park Kenmore",
+  "displayName": "Cedar Park Kenmore",
+  "address": {
+    "street": "18737 68th Ave NE",
+    "city": "Kenmore",
+    "state": "WA",
+    "zip": "98028"
+  },
+  "coordinates": {
+    "latitude": 47.76557159423828,
+    "longitude": -122.24981689453125
+  },
+  "website": "https://cpkenmore.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=817fb0a7-8026-4688-857f-5aa80e28b0be&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "817fb0a7-8026-4688-857f-5aa80e28b0be"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cpkenmore.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911608102"
+    }
+  ],
+  "advisories": []
+}

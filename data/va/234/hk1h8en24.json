@@ -1,0 +1,33 @@
+{
+  "id": "hk1h8en24",
+  "url": "https://constellation.church/hk1h8en24",
+  "name": "Smithfield Baptist Church",
+  "displayName": "Smithfield Baptist Church",
+  "address": {
+    "street": "100 Wainwright Dr",
+    "city": "Smithfield",
+    "state": "VA",
+    "zip": "23430"
+  },
+  "coordinates": {
+    "latitude": 36.98346519470215,
+    "longitude": -76.61104202270508
+  },
+  "website": "https://smithfieldbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/smithfield-baptist-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "smithfield-baptist-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "smithfieldbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540894619"
+    }
+  ],
+  "advisories": []
+}

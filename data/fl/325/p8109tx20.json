@@ -1,0 +1,33 @@
+{
+  "id": "p8109tx20",
+  "url": "https://constellation.church/p8109tx20",
+  "name": "Ray’s Chapel",
+  "displayName": "Ray’s Chapel",
+  "address": {
+    "street": "140 W Bogia Rd",
+    "city": "McDavid",
+    "state": "FL",
+    "zip": "32568"
+  },
+  "coordinates": {
+    "latitude": 30.842636108398438,
+    "longitude": -87.3332748413086
+  },
+  "website": "https://rayschapel.org",
+  "listingUrl": "https://churches.sbc.net/church/rays-chapel/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "rays-chapel"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rayschapel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592354155"
+    }
+  ],
+  "advisories": []
+}

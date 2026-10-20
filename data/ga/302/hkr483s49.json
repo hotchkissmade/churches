@@ -1,0 +1,33 @@
+{
+  "id": "hkr483s49",
+  "url": "https://constellation.church/hkr483s49",
+  "name": "St. Joseph's Episcopal Church",
+  "displayName": "St. Joseph's Episcopal Church",
+  "address": {
+    "street": "1865 Highway 20 E",
+    "city": "McDonough",
+    "state": "GA",
+    "zip": "30252-2264"
+  },
+  "coordinates": {
+    "latitude": 33.48163604736328,
+    "longitude": -84.09713745117188
+  },
+  "website": "https://stjosephsmcdonough.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-atlanta/list/st-josephs-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-atlanta/st-josephs-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjosephsmcdonough.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581764160"
+    }
+  ],
+  "advisories": []
+}

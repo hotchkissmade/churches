@@ -1,0 +1,33 @@
+{
+  "id": "xqexfnd14",
+  "url": "https://constellation.church/xqexfnd14",
+  "name": "Charlotte Assembly of God",
+  "displayName": "Charlotte Assembly of God",
+  "address": {
+    "street": "1100 E Clinton Trl",
+    "city": "Charlotte",
+    "state": "MI",
+    "zip": "48813"
+  },
+  "coordinates": {
+    "latitude": 42.55122375488281,
+    "longitude": -84.81744384765625
+  },
+  "website": "https://charlotteag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=42fcf096-f4e1-4c65-a5c9-c3442309e743&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "42fcf096-f4e1-4c65-a5c9-c3442309e743"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "charlotteag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382489924"
+    }
+  ],
+  "advisories": []
+}

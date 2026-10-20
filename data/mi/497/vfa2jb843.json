@@ -1,0 +1,33 @@
+{
+  "id": "vfa2jb843",
+  "url": "https://constellation.church/vfa2jb843",
+  "name": "Ellsworth CRC",
+  "displayName": "Ellsworth Christian Reformed Church",
+  "address": {
+    "street": "9323 Main St",
+    "city": "Ellsworth",
+    "state": "MI",
+    "zip": "49729"
+  },
+  "coordinates": {
+    "latitude": 45.166683197021484,
+    "longitude": -85.24629974365234
+  },
+  "website": "https://ellsworthcrc.org",
+  "listingUrl": "https://www.crcna.org/churches/1235",
+  "identifiers": [
+    {
+      "namespace": "org.crcna.id",
+      "value": "1235"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ellsworthcrc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510174123"
+    }
+  ],
+  "advisories": []
+}

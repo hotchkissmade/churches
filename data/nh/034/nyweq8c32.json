@@ -1,0 +1,33 @@
+{
+  "id": "nyweq8c32",
+  "url": "https://constellation.church/nyweq8c32",
+  "name": "Peterborough United Methodist Church (PUMC)",
+  "displayName": "Peterborough United Methodist Church (PUMC)",
+  "address": {
+    "street": "43 Concord St",
+    "city": "Peterborough",
+    "state": "NH",
+    "zip": "03458"
+  },
+  "coordinates": {
+    "latitude": 42.87974166870117,
+    "longitude": -71.94665908813477
+  },
+  "website": "https://peterboroughumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFArdIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFArdIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "peterboroughumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "020405117"
+    }
+  ],
+  "advisories": []
+}

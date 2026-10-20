@@ -1,0 +1,33 @@
+{
+  "id": "y724vgb40",
+  "url": "https://constellation.church/y724vgb40",
+  "name": "Church of the Advent of Christ the King",
+  "displayName": "Church of the Advent of Christ the King",
+  "address": {
+    "street": "162 Hickory Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94102-5147"
+  },
+  "coordinates": {
+    "latitude": 37.7756501,
+    "longitude": -122.4220663
+  },
+  "website": "https://advent-sf.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-california/list/church-advent-christ-king",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-california/church-advent-christ-king"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "advent-sf.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941312312"
+    }
+  ],
+  "advisories": []
+}

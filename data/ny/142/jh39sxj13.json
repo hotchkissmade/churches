@@ -1,0 +1,33 @@
+{
+  "id": "jh39sxj13",
+  "url": "https://constellation.church/jh39sxj13",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "576 Delaware Rd",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14223-1344"
+  },
+  "coordinates": {
+    "latitude": 42.97754096984863,
+    "longitude": -78.86771774291992
+  },
+  "website": "https://kenpres.org/contact",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fa5e0b5e-eed1-4511-bb20-e8495ea37100",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fa5e0b5e-eed1-4511-bb20-e8495ea37100"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kenpres.org/contact"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "160786273"
+    }
+  ],
+  "advisories": []
+}

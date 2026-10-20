@@ -1,0 +1,33 @@
+{
+  "id": "ej0e71k35",
+  "url": "https://constellation.church/ej0e71k35",
+  "name": "Meadowbrook Church",
+  "displayName": "Meadowbrook Church",
+  "address": {
+    "street": "17934 NE 65th St",
+    "city": "Redmond",
+    "state": "WA",
+    "zip": "98052"
+  },
+  "coordinates": {
+    "latitude": 47.6645853,
+    "longitude": -122.1019391
+  },
+  "website": "https://meadowbrookchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/meadowbrook-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "meadowbrook-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "meadowbrookchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911578912"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xphbpvb91",
+  "url": "https://constellation.church/xphbpvb91",
+  "name": "Relate Community Church",
+  "displayName": "Relate Community Church",
+  "address": {
+    "street": "237 East Ashland Street",
+    "city": "Brockton",
+    "state": "MA",
+    "zip": "02302"
+  },
+  "coordinates": {
+    "latitude": 42.09589195251465,
+    "longitude": -71.00955581665039
+  },
+  "website": "https://relatecc.org",
+  "listingUrl": "https://churches.sbc.net/church/relate-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "relate-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "relatecc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "821556341"
+    }
+  ],
+  "advisories": []
+}

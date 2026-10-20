@@ -1,0 +1,33 @@
+{
+  "id": "e6njkt752",
+  "url": "https://constellation.church/e6njkt752",
+  "name": "SunCoast MCC",
+  "displayName": "SunCoast Metropolitan Community Church",
+  "address": {
+    "street": "3276 E Venice Ave",
+    "city": "Venice",
+    "state": "FL",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 27.099597930908203,
+    "longitude": -82.359375
+  },
+  "website": "https://suncoastmcc.com",
+  "listingUrl": "https://visitmccchurch.com/our-churches/mcc-churches-in-the-united-states/mcc-churches-in-fl/suncoast-mcc/",
+  "identifiers": [
+    {
+      "namespace": "com.visitmccchurch.id",
+      "value": "FL/suncoast-mcc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "suncoastmcc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "650598940"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "apjyabz95",
+  "url": "https://constellation.church/apjyabz95",
+  "name": "Intown Lutheran Church",
+  "displayName": "Intown Lutheran Church",
+  "address": {
+    "street": "300 Oakland Ave SE Ste A",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30312-2222"
+  },
+  "coordinates": {
+    "latitude": 33.74664497375488,
+    "longitude": -84.37462615966797
+  },
+  "website": "https://intownlutheran.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/27171",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "27171"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "intownlutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "823525124"
+    }
+  ],
+  "advisories": []
+}

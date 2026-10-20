@@ -1,0 +1,33 @@
+{
+  "id": "dr6atjk83",
+  "url": "https://constellation.church/dr6atjk83",
+  "name": "Our Savior's Lutheran Church",
+  "displayName": "Our Savior's Lutheran Church",
+  "address": {
+    "street": "200 Avenida San Pablo",
+    "city": "San Clemente",
+    "state": "CA",
+    "zip": "92672-3236"
+  },
+  "coordinates": {
+    "latitude": 33.415143966674805,
+    "longitude": -117.59813690185547
+  },
+  "website": "https://oursaviorsonline.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ac29cfc6-3b92-429a-83b3-06c8f1e1dee7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ac29cfc6-3b92-429a-83b3-06c8f1e1dee7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oursaviorsonline.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953614203"
+    }
+  ],
+  "advisories": []
+}

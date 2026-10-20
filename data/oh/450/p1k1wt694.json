@@ -1,0 +1,33 @@
+{
+  "id": "p1k1wt694",
+  "url": "https://constellation.church/p1k1wt694",
+  "name": "Liberty Heights Church",
+  "displayName": "Liberty Heights Church",
+  "address": {
+    "street": "7904 Princeton Rd",
+    "city": "Liberty Twp",
+    "state": "OH",
+    "zip": "45044"
+  },
+  "coordinates": {
+    "latitude": 39.39298629760742,
+    "longitude": -84.35955047607422
+  },
+  "website": "https://libertyheights.org",
+  "listingUrl": "https://churches.sbc.net/church/liberty-heights-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "liberty-heights-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "libertyheights.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310800594"
+    }
+  ],
+  "advisories": []
+}

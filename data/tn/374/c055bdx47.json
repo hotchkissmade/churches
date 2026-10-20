@@ -1,0 +1,33 @@
+{
+  "id": "c055bdx47",
+  "url": "https://constellation.church/c055bdx47",
+  "name": "St. Elmo United Methodist Church",
+  "displayName": "St. Elmo United Methodist Church",
+  "address": {
+    "street": "4626 Saint Elmo Ave",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37409-1640"
+  },
+  "coordinates": {
+    "latitude": 34.99673271179199,
+    "longitude": -85.32929611206055
+  },
+  "website": "https://saintelmo.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFIygIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFIygIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintelmo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620580791"
+    }
+  ],
+  "advisories": []
+}

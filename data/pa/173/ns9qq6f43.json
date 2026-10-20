@@ -1,0 +1,33 @@
+{
+  "id": "ns9qq6f43",
+  "url": "https://constellation.church/ns9qq6f43",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "100 E Water St",
+    "city": "Abbottstown",
+    "state": "PA",
+    "zip": "17301-9545"
+  },
+  "coordinates": {
+    "latitude": 39.88781929016113,
+    "longitude": -76.98330688476562
+  },
+  "website": "https://stjohnsatown.com/service.html",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d093f461-f9cf-48fa-a166-a33858b15a4c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d093f461-f9cf-48fa-a166-a33858b15a4c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsatown.com/service.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231510111"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p5p02g544",
+  "url": "https://constellation.church/p5p02g544",
+  "name": "MCC New York",
+  "displayName": "Metropolitan Community Church New York",
+  "address": {
+    "street": "446 West 36th St.",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10018"
+  },
+  "coordinates": {
+    "latitude": 40.755324,
+    "longitude": -73.9975259
+  },
+  "website": "https://mccny.org",
+  "listingUrl": "https://visitmccchurch.com/our-churches/mcc-churches-in-the-united-states/mcc-churches-in-ny/mcc-new-york/",
+  "identifiers": [
+    {
+      "namespace": "com.visitmccchurch.id",
+      "value": "NY/mcc-new-york"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mccny.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510152961"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "q6y7scm96",
+  "url": "https://constellation.church/q6y7scm96",
+  "name": "Lutheran Church Of The Covenant",
+  "displayName": "Lutheran Church Of The Covenant",
+  "address": {
+    "street": "15008 Cloverdale Rd",
+    "city": "Dale City",
+    "state": "VA",
+    "zip": "22193-1616"
+  },
+  "coordinates": {
+    "latitude": 38.62709426879883,
+    "longitude": -77.32308578491211
+  },
+  "website": "https://lcocdalecity.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ad59ee17-da27-4fb1-8753-56db5c796252",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ad59ee17-da27-4fb1-8753-56db5c796252"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcocdalecity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540974088"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xgt1fc117",
+  "url": "https://constellation.church/xgt1fc117",
+  "name": "Allen Street Baptist Church",
+  "displayName": "Allen Street Baptist Church",
+  "address": {
+    "street": "210 W Allen St",
+    "city": "Clinton",
+    "state": "MO",
+    "zip": "64735"
+  },
+  "coordinates": {
+    "latitude": 38.3632869720459,
+    "longitude": -93.77859497070312
+  },
+  "website": "https://allenstreetclinton.com",
+  "listingUrl": "https://churches.sbc.net/church/allen-street-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "allen-street-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allenstreetclinton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430886145"
+    }
+  ],
+  "advisories": []
+}

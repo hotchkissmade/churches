@@ -1,0 +1,33 @@
+{
+  "id": "c2ezzy881",
+  "url": "https://constellation.church/c2ezzy881",
+  "name": "The Lord’s Church",
+  "displayName": "The Lord’s Church",
+  "address": {
+    "street": "7S201 S River Rd",
+    "city": "Naperville",
+    "state": "IL",
+    "zip": "60540"
+  },
+  "coordinates": {
+    "latitude": 41.76576805114746,
+    "longitude": -88.17399978637695
+  },
+  "website": "https://tlcfamily.org",
+  "listingUrl": "https://churches.sbc.net/church/the-lords-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-lords-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcfamily.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "320083773"
+    }
+  ],
+  "advisories": []
+}

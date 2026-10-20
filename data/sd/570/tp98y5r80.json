@@ -1,0 +1,33 @@
+{
+  "id": "tp98y5r80",
+  "url": "https://constellation.church/tp98y5r80",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "405 E 3rd St",
+    "city": "Colton",
+    "state": "SD",
+    "zip": "57018"
+  },
+  "coordinates": {
+    "latitude": 43.78786849975586,
+    "longitude": -96.92669677734375
+  },
+  "website": "https://coltonlutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4fff91ca-b5c0-4363-a9e5-16b24b4e238f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4fff91ca-b5c0-4363-a9e5-16b24b4e238f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "coltonlutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460225355"
+    }
+  ],
+  "advisories": []
+}

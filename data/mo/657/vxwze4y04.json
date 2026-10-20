@@ -1,0 +1,33 @@
+{
+  "id": "vxwze4y04",
+  "url": "https://constellation.church/vxwze4y04",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "1505 3rd Rd",
+    "city": "Stockton",
+    "state": "MO",
+    "zip": "65785"
+  },
+  "coordinates": {
+    "latitude": 37.68398094177246,
+    "longitude": -93.80459594726562
+  },
+  "website": "https://stocktonassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=74e9e967-1669-4222-ba73-dfe56e3f4db9&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "74e9e967-1669-4222-ba73-dfe56e3f4db9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stocktonassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431272212"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p2q4bpf03",
+  "url": "https://constellation.church/p2q4bpf03",
+  "name": "Wesley United Methodist Church",
+  "displayName": "Wesley United Methodist Church",
+  "address": {
+    "street": "40 W Main St",
+    "city": "Strasburg",
+    "state": "PA",
+    "zip": "17579-1517"
+  },
+  "coordinates": {
+    "latitude": 39.98269271850586,
+    "longitude": -76.1804084777832
+  },
+  "website": "https://wesleystrasburg.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFIDmIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFIDmIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wesleystrasburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231605728"
+    }
+  ],
+  "advisories": []
+}

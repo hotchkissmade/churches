@@ -1,0 +1,33 @@
+{
+  "id": "hn83r5v27",
+  "url": "https://constellation.church/hn83r5v27",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "1306 Wilcox St",
+    "city": "Menomonie",
+    "state": "WI",
+    "zip": "54751-4624"
+  },
+  "coordinates": {
+    "latitude": 44.89790725708008,
+    "longitude": -91.92190551757812
+  },
+  "website": "https://welcome2clc.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7f67d5d6-b2c1-4cc9-b637-b7f5d355a171",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7f67d5d6-b2c1-4cc9-b637-b7f5d355a171"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "welcome2clc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391021308"
+    }
+  ],
+  "advisories": []
+}

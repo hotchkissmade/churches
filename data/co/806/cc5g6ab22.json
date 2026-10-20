@@ -1,0 +1,33 @@
+{
+  "id": "cc5g6ab22",
+  "url": "https://constellation.church/cc5g6ab22",
+  "name": "La Salle Lighthouse Church",
+  "displayName": "La Salle Lighthouse Church",
+  "address": {
+    "street": "307 S 3rd St",
+    "city": "La Salle",
+    "state": "CO",
+    "zip": "80645"
+  },
+  "coordinates": {
+    "latitude": 40.348161697387695,
+    "longitude": -104.7087631225586
+  },
+  "website": "https://lasallelighthouse.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f640439b-c02b-4052-883f-7ac1898e7ab9&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f640439b-c02b-4052-883f-7ac1898e7ab9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lasallelighthouse.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "141982831"
+    }
+  ],
+  "advisories": []
+}

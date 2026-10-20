@@ -1,0 +1,33 @@
+{
+  "id": "e4fa7e990",
+  "url": "https://constellation.church/e4fa7e990",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "27 N Wittenberg Ave",
+    "city": "Springfield",
+    "state": "OH",
+    "zip": "45502-1109"
+  },
+  "coordinates": {
+    "latitude": 39.92583084106445,
+    "longitude": -83.81431579589844
+  },
+  "website": "https://stjohnslutheran-spfldoh.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=65900004-2fee-4b8f-90e4-bd278a483c15",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "65900004-2fee-4b8f-90e4-bd278a483c15"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnslutheran-spfldoh.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310592068"
+    }
+  ],
+  "advisories": []
+}

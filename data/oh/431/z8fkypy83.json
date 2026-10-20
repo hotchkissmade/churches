@@ -1,0 +1,33 @@
+{
+  "id": "z8fkypy83",
+  "url": "https://constellation.church/z8fkypy83",
+  "name": "Creekside Church",
+  "displayName": "Creekside Church",
+  "address": {
+    "street": "6446 Alkire Rd",
+    "city": "Galloway",
+    "state": "OH",
+    "zip": "43119"
+  },
+  "coordinates": {
+    "latitude": 39.90708541870117,
+    "longitude": -83.16686630249023
+  },
+  "website": "https://creeksidechurch.us",
+  "listingUrl": "https://churches.sbc.net/church/creekside-church-5/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "creekside-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "creeksidechurch.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311581994"
+    }
+  ],
+  "advisories": []
+}

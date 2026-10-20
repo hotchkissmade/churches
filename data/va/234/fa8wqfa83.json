@@ -1,0 +1,33 @@
+{
+  "id": "fa8wqfa83",
+  "url": "https://constellation.church/fa8wqfa83",
+  "name": "Southside Baptist Church",
+  "displayName": "Southside Baptist Church",
+  "address": {
+    "street": "917 Carolina Rd",
+    "city": "Suffolk",
+    "state": "VA",
+    "zip": "23434"
+  },
+  "coordinates": {
+    "latitude": 36.69271278381348,
+    "longitude": -76.60668563842773
+  },
+  "website": "https://sbcsuffolk.org",
+  "listingUrl": "https://churches.sbc.net/church/southside-baptist-church-86/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "southside-baptist-church-86"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sbcsuffolk.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541005307"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "zgphmav59",
+  "url": "https://constellation.church/zgphmav59",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "4595 SW California St",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97219-1690"
+  },
+  "coordinates": {
+    "latitude": 45.4752197265625,
+    "longitude": -122.72477722167969
+  },
+  "website": "https://stlukechurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=de803143-f410-4eef-b793-fad03956589b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "de803143-f410-4eef-b793-fad03956589b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukechurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930493473"
+    }
+  ],
+  "advisories": []
+}

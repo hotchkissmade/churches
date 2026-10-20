@@ -1,0 +1,33 @@
+{
+  "id": "mjvtcx139",
+  "url": "https://constellation.church/mjvtcx139",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "426 W 1st Ave",
+    "city": "Plentywood",
+    "state": "MT",
+    "zip": "59254"
+  },
+  "coordinates": {
+    "latitude": 48.77640914916992,
+    "longitude": -104.56580352783203
+  },
+  "website": "https://riveroflifeassembly.wixsite.com/website",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=fdd8d00a-591e-4b87-a32a-ab4cf604b877&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "fdd8d00a-591e-4b87-a32a-ab4cf604b877"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "riveroflifeassembly.wixsite.com/website"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810408459"
+    }
+  ],
+  "advisories": []
+}

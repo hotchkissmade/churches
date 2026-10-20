@@ -1,0 +1,33 @@
+{
+  "id": "rzcdy2q63",
+  "url": "https://constellation.church/rzcdy2q63",
+  "name": "Grace Point Church",
+  "displayName": "Grace Point Church",
+  "address": {
+    "street": "13340 Hayford Way",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92130"
+  },
+  "coordinates": {
+    "latitude": 32.96066093444824,
+    "longitude": -117.20918273925781
+  },
+  "website": "https://gpc.sd",
+  "listingUrl": "https://churches.sbc.net/church/grace-point-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grace-point-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gpc.sd"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330349441"
+    }
+  ],
+  "advisories": []
+}

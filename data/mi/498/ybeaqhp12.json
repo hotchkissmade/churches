@@ -1,0 +1,37 @@
+{
+  "id": "ybeaqhp12",
+  "url": "https://constellation.church/ybeaqhp12",
+  "name": "First Baptist Church of Norway",
+  "displayName": "First Baptist Church of Norway",
+  "address": {
+    "street": "425 Iron St",
+    "city": "Norway",
+    "state": "MI",
+    "zip": "49870"
+  },
+  "coordinates": {
+    "latitude": 45.78462219238281,
+    "longitude": -87.90644073486328
+  },
+  "website": "https://fbcnorway.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-norway/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-norway"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcnorway.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382490366"
+    },
+    {
+      "namespace": "org.converge.id",
+      "value": "37984"
+    }
+  ],
+  "advisories": []
+}

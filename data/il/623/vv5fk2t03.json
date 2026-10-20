@@ -1,0 +1,33 @@
+{
+  "id": "vv5fk2t03",
+  "url": "https://constellation.church/vv5fk2t03",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "500 E Wood St",
+    "city": "Camp Point",
+    "state": "IL",
+    "zip": "62320"
+  },
+  "coordinates": {
+    "latitude": 40.0403995513916,
+    "longitude": -91.05933380126953
+  },
+  "website": "https://camppointassembly.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=85f34b0d-6543-4f7c-b2dd-aefa33db6dea&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "85f34b0d-6543-4f7c-b2dd-aefa33db6dea"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "camppointassembly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237419603"
+    }
+  ],
+  "advisories": []
+}

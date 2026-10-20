@@ -1,0 +1,33 @@
+{
+  "id": "z14d6m108",
+  "url": "https://constellation.church/z14d6m108",
+  "name": "New Prospect",
+  "displayName": "New Prospect Baptist Church",
+  "address": {
+    "street": "770 Highway 5",
+    "city": "Jasper",
+    "state": "AL",
+    "zip": "35503"
+  },
+  "coordinates": {
+    "latitude": 33.86239433288574,
+    "longitude": -87.29721069335938
+  },
+  "website": "https://npbcjasper.org",
+  "listingUrl": "https://churches.sbc.net/church/new-prospect/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-prospect"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "npbcjasper.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593033794"
+    }
+  ],
+  "advisories": []
+}

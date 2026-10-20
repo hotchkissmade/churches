@@ -1,0 +1,29 @@
+{
+  "id": "scte8h584",
+  "url": "https://constellation.church/scte8h584",
+  "name": "GRACE COMMUNITY CHURCH",
+  "displayName": "Grace Community Church",
+  "address": {
+    "street": "1150 WYOMING ST",
+    "city": "Boulder City",
+    "state": "NV",
+    "zip": "89005"
+  },
+  "coordinates": {
+    "latitude": 35.977033615112305,
+    "longitude": -114.83523559570312
+  },
+  "website": "https://bcgrace.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "886000428"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bcgrace.org"
+    }
+  ],
+  "advisories": []
+}

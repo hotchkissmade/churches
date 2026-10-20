@@ -1,0 +1,33 @@
+{
+  "id": "v3fk2t132",
+  "url": "https://constellation.church/v3fk2t132",
+  "name": "Lutheran Church of the Good Shepherd",
+  "displayName": "Lutheran Church of the Good Shepherd",
+  "address": {
+    "street": "3820 SW 9th St",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50315-3580"
+  },
+  "coordinates": {
+    "latitude": 41.549434661865234,
+    "longitude": -93.6259765625
+  },
+  "website": "https://goodshepherddsm.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=45fa3531-5c9c-47a9-97ab-41ae0f5e8211",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "45fa3531-5c9c-47a9-97ab-41ae0f5e8211"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherddsm.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420808086"
+    }
+  ],
+  "advisories": []
+}

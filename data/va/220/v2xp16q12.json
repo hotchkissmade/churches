@@ -1,0 +1,37 @@
+{
+  "id": "v2xp16q12",
+  "url": "https://constellation.church/v2xp16q12",
+  "name": "Truro Anglican Church",
+  "displayName": "Truro Anglican Church",
+  "address": {
+    "street": "10520 Main Street",
+    "city": "Fairfax",
+    "state": "VA",
+    "zip": "22030"
+  },
+  "coordinates": {
+    "latitude": 38.84781455993652,
+    "longitude": -77.3088493347168
+  },
+  "website": "https://truroanglican.com",
+  "listingUrl": "https://www.acna.org/admin_units/65",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "65"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "truroanglican.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540568400"
+    },
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-virginia/holy-cross-korean-episcopal-church"
+    }
+  ],
+  "advisories": []
+}

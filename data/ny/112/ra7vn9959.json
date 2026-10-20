@@ -1,0 +1,33 @@
+{
+  "id": "ra7vn9959",
+  "url": "https://constellation.church/ra7vn9959",
+  "name": "Bedford Central Presbyterian Church",
+  "displayName": "Bedford Central Presbyterian Church",
+  "address": {
+    "street": "1200 Dean St",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11216-3101"
+  },
+  "coordinates": {
+    "latitude": 40.67668533325195,
+    "longitude": -73.94968795776367
+  },
+  "website": "https://bedfordcentralchurch.org/live",
+  "listingUrl": "https://church-trends.pcusa.org/church/5250/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "5250"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bedfordcentralchurch.org/live"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111660857"
+    }
+  ],
+  "advisories": []
+}

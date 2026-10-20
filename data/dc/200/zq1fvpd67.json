@@ -1,0 +1,33 @@
+{
+  "id": "zq1fvpd67",
+  "url": "https://constellation.church/zq1fvpd67",
+  "name": "St. Paul's, K Street",
+  "displayName": "St. Paul's, K Street",
+  "address": {
+    "street": "2430 K St NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20037-1797"
+  },
+  "coordinates": {
+    "latitude": 38.90231895446777,
+    "longitude": -77.05253601074219
+  },
+  "website": "https://saintpaulskstreet.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/st-pauls-k-street",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/st-pauls-k-street"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintpaulskstreet.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521687394"
+    }
+  ],
+  "advisories": []
+}

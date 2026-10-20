@@ -1,0 +1,33 @@
+{
+  "id": "xfpk2va45",
+  "url": "https://constellation.church/xfpk2va45",
+  "name": "St. Stephen's Episcopal Church",
+  "displayName": "St. Stephen's Episcopal Church",
+  "address": {
+    "street": "4439 W 50th St",
+    "city": "Edina",
+    "state": "MN",
+    "zip": "55424-1399"
+  },
+  "coordinates": {
+    "latitude": 44.912349700927734,
+    "longitude": -93.33853149414062
+  },
+  "website": "https://ststephens.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/st-stephen-martyr-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/st-stephen-martyr-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ststephens.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410698599"
+    }
+  ],
+  "advisories": []
+}

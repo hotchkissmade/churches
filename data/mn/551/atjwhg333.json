@@ -1,0 +1,33 @@
+{
+  "id": "atjwhg333",
+  "url": "https://constellation.church/atjwhg333",
+  "name": "Gethsemane Lutheran Church",
+  "displayName": "Gethsemane Lutheran Church",
+  "address": {
+    "street": "2410 Stillwater Rd E",
+    "city": "Maplewood",
+    "state": "MN",
+    "zip": "55119-3613"
+  },
+  "coordinates": {
+    "latitude": 44.969268798828125,
+    "longitude": -92.99859619140625
+  },
+  "website": "https://geth.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=63071bfe-89de-4229-a942-007c68741330",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "63071bfe-89de-4229-a942-007c68741330"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "geth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410789389"
+    }
+  ],
+  "advisories": []
+}

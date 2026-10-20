@@ -1,0 +1,33 @@
+{
+  "id": "jfzmp4d82",
+  "url": "https://constellation.church/jfzmp4d82",
+  "name": "The Rock Church of St Louis",
+  "displayName": "The Rock Church of St. Louis",
+  "address": {
+    "street": "9125 Manchester Rd",
+    "city": "Saint Louis",
+    "state": "MO",
+    "zip": "63144"
+  },
+  "coordinates": {
+    "latitude": 38.612627029418945,
+    "longitude": -90.35520935058594
+  },
+  "website": "https://therockstl.com",
+  "listingUrl": "https://churches.sbc.net/church/the-rock-church-of-st-louis/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-rock-church-of-st-louis"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "therockstl.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430699799"
+    }
+  ],
+  "advisories": []
+}

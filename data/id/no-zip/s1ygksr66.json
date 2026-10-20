@@ -1,0 +1,33 @@
+{
+  "id": "s1ygksr66",
+  "url": "https://constellation.church/s1ygksr66",
+  "name": "Caldwell Friends Meeting",
+  "displayName": "Caldwell Friends Meeting",
+  "address": {
+    "street": "521 E. Elm St",
+    "city": "Caldwell",
+    "state": "ID",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 43.65351867675781,
+    "longitude": -116.6920394897461
+  },
+  "website": "https://caldwellfriends.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/caldwell-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "caldwell-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "caldwellfriends.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820303762"
+    }
+  ],
+  "advisories": []
+}

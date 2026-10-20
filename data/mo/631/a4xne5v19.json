@@ -1,0 +1,33 @@
+{
+  "id": "a4xne5v19",
+  "url": "https://constellation.church/a4xne5v19",
+  "name": "Holy Cross Lutheran Church",
+  "displayName": "Holy Cross Lutheran Church",
+  "address": {
+    "street": "13014 Olive Blvd",
+    "city": "Creve Coeur",
+    "state": "MO",
+    "zip": "63141-6152"
+  },
+  "coordinates": {
+    "latitude": 38.682071685791016,
+    "longitude": -90.48177337646484
+  },
+  "website": "https://holycrosselca.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f2cdbcbd-071d-4bd5-a1cd-de51131d79ef",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f2cdbcbd-071d-4bd5-a1cd-de51131d79ef"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holycrosselca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "436062736"
+    }
+  ],
+  "advisories": []
+}

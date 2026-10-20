@@ -1,0 +1,33 @@
+{
+  "id": "b5df5rk33",
+  "url": "https://constellation.church/b5df5rk33",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "121 S Home Ave",
+    "city": "Topton",
+    "state": "PA",
+    "zip": "19562-1225"
+  },
+  "coordinates": {
+    "latitude": 40.501556396484375,
+    "longitude": -75.70028686523438
+  },
+  "website": "https://trinity-topton.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b2ebab49-15bc-4fff-accd-89cb2acfeb33",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b2ebab49-15bc-4fff-accd-89cb2acfeb33"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinity-topton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231966530"
+    }
+  ],
+  "advisories": []
+}

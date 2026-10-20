@@ -1,0 +1,33 @@
+{
+  "id": "bv4a8z896",
+  "url": "https://constellation.church/bv4a8z896",
+  "name": "Good Shepherd Lutheran Church",
+  "displayName": "Good Shepherd Lutheran Church",
+  "address": {
+    "street": "3909 Forest Dr",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29204-4106"
+  },
+  "coordinates": {
+    "latitude": 34.0207576751709,
+    "longitude": -80.9841423034668
+  },
+  "website": "https://gslc.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e20b1014-ebe0-4039-bc68-556ffa76c5cc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e20b1014-ebe0-4039-bc68-556ffa76c5cc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gslc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570405342"
+    }
+  ],
+  "advisories": []
+}

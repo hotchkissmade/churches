@@ -1,0 +1,33 @@
+{
+  "id": "se1q32a66",
+  "url": "https://constellation.church/se1q32a66",
+  "name": "Manning First Baptist Church",
+  "displayName": "Manning First Baptist Church",
+  "address": {
+    "street": "49 W Boyce St",
+    "city": "Manning",
+    "state": "SC",
+    "zip": "29102"
+  },
+  "coordinates": {
+    "latitude": 33.695756912231445,
+    "longitude": -80.21318054199219
+  },
+  "website": "https://fbcmanning.org",
+  "listingUrl": "https://churches.sbc.net/church/manning-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "manning-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcmanning.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570362061"
+    }
+  ],
+  "advisories": []
+}

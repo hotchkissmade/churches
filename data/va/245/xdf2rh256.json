@@ -1,0 +1,33 @@
+{
+  "id": "xdf2rh256",
+  "url": "https://constellation.church/xdf2rh256",
+  "name": "Antioch Baptist Church",
+  "displayName": "Antioch Baptist Church",
+  "address": {
+    "street": "4422 Antioch Rd",
+    "city": "Scottsville",
+    "state": "VA",
+    "zip": "24590"
+  },
+  "coordinates": {
+    "latitude": 37.84618949890137,
+    "longitude": -78.42191314697266
+  },
+  "website": "https://antiochva.org",
+  "listingUrl": "https://churches.sbc.net/church/antioch-baptist-church-80/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "antioch-baptist-church-80"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "antiochva.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541257688"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xv4n9gz20",
+  "url": "https://constellation.church/xv4n9gz20",
+  "name": "Valley Church",
+  "displayName": "Valley Church",
+  "address": {
+    "street": "4343 Fuller Rd",
+    "city": "West Des Moines",
+    "state": "IA",
+    "zip": "50265-5319"
+  },
+  "coordinates": {
+    "latitude": 41.56006050109863,
+    "longitude": -93.7631607055664
+  },
+  "website": "https://valley.church",
+  "listingUrl": "https://churches.efca.org/?id=173534",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "173534"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "valley.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421359736"
+    }
+  ],
+  "advisories": []
+}

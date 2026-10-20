@@ -1,0 +1,33 @@
+{
+  "id": "qf4b26p86",
+  "url": "https://constellation.church/qf4b26p86",
+  "name": "Orange County Friends Meeting",
+  "displayName": "Orange County Friends Meeting",
+  "address": {
+    "street": "2845 Mesa Verde Dr E Suite 8",
+    "city": "Costa Mesa",
+    "state": "CA",
+    "zip": "92656"
+  },
+  "coordinates": {
+    "latitude": 33.673940658569336,
+    "longitude": -117.92674255371094
+  },
+  "website": "https://orangecountyquakers.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/orange-county-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "orange-county-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "orangecountyquakers.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "300507805"
+    }
+  ],
+  "advisories": []
+}

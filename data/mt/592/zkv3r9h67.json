@@ -1,0 +1,37 @@
+{
+  "id": "zkv3r9h67",
+  "url": "https://constellation.church/zkv3r9h67",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "616 4th Ave N",
+    "city": "Wolf Point",
+    "state": "MT",
+    "zip": "59201"
+  },
+  "coordinates": {
+    "latitude": 48.09617614746094,
+    "longitude": -105.64259338378906
+  },
+  "website": "https://wolfpointchurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=8e1d816b-db07-4754-9868-68fa5494f431&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "8e1d816b-db07-4754-9868-68fa5494f431"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wolfpointchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "264774061"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810369719"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kt5cwf036",
+  "url": "https://constellation.church/kt5cwf036",
+  "name": "Seagrove Baptist Church",
+  "displayName": "Seagrove Baptist Church",
+  "address": {
+    "street": "4915 E County Hwy 30A",
+    "city": "Santa Rosa Beach",
+    "state": "FL",
+    "zip": "32459"
+  },
+  "coordinates": {
+    "latitude": 30.31321907043457,
+    "longitude": -86.09811401367188
+  },
+  "website": "https://seagrovebaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/seagrove-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "seagrove-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "seagrovebaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593294856"
+    }
+  ],
+  "advisories": []
+}

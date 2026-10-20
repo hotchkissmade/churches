@@ -1,0 +1,33 @@
+{
+  "id": "ttrsfpe28",
+  "url": "https://constellation.church/ttrsfpe28",
+  "name": "Trinity Parish of Newton Centre",
+  "displayName": "Trinity Parish of Newton Centre",
+  "address": {
+    "street": "11 Homer St",
+    "city": "Newton Centre (Newton)",
+    "state": "MA",
+    "zip": "02459-1510"
+  },
+  "coordinates": {
+    "latitude": 42.33464431762695,
+    "longitude": -71.19399642944336
+  },
+  "website": "https://trinitynewton.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-massachusetts/list/trinity-parish-newton-centre",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-massachusetts/trinity-parish-newton-centre"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitynewton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042105758"
+    }
+  ],
+  "advisories": []
+}

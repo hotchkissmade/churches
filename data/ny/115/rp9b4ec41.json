@@ -1,0 +1,33 @@
+{
+  "id": "rp9b4ec41",
+  "url": "https://constellation.church/rp9b4ec41",
+  "name": "All Saints' church",
+  "displayName": "All Saints' church",
+  "address": {
+    "street": "2375 Harrison Ave",
+    "city": "Baldwin",
+    "state": "NY",
+    "zip": "11510"
+  },
+  "coordinates": {
+    "latitude": 40.65260314941406,
+    "longitude": -73.60845565795898
+  },
+  "website": "https://allsaintsbaldwin.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/all-saints-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/all-saints-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allsaintsbaldwin.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112166576"
+    }
+  ],
+  "advisories": []
+}

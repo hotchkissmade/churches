@@ -1,0 +1,25 @@
+{
+  "id": "cve7v7069",
+  "url": "https://constellation.church/cve7v7069",
+  "name": "Whitesville Baptist Church",
+  "displayName": "Whitesville Baptist Church",
+  "address": {
+    "street": "10167 State Route 54",
+    "city": "Whitesville",
+    "state": "KY",
+    "zip": "42378"
+  },
+  "coordinates": {
+    "latitude": 37.68354034423828,
+    "longitude": -86.86848449707031
+  },
+  "website": null,
+  "listingUrl": "https://churches.sbc.net/church/whitesville-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "whitesville-baptist-church"
+    }
+  ],
+  "advisories": []
+}

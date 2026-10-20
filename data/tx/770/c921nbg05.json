@@ -1,0 +1,33 @@
+{
+  "id": "c921nbg05",
+  "url": "https://constellation.church/c921nbg05",
+  "name": "Advent Presbyterian Church of Houston",
+  "displayName": "Advent Presbyterian Church of Houston",
+  "address": {
+    "street": "7101 Stella Link Boulevard",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77025"
+  },
+  "coordinates": {
+    "latitude": 29.700182117548,
+    "longitude": -95.440102335171
+  },
+  "website": "https://adventpres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6702",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6702"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "adventpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "872675257"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ff2y1jk86",
+  "url": "https://constellation.church/ff2y1jk86",
+  "name": "First Baptist Church, Pampa",
+  "displayName": "First Baptist Church, Pampa",
+  "address": {
+    "street": "203 N West St",
+    "city": "Pampa",
+    "state": "TX",
+    "zip": "79065"
+  },
+  "coordinates": {
+    "latitude": 35.53477096557617,
+    "longitude": -100.96772003173828
+  },
+  "website": "https://firstpampa.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-pampa/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-pampa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpampa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750983831"
+    }
+  ],
+  "advisories": []
+}

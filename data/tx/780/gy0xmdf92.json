@@ -1,0 +1,33 @@
+{
+  "id": "gy0xmdf92",
+  "url": "https://constellation.church/gy0xmdf92",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "451 N State Highway 173",
+    "city": "Bandera",
+    "state": "TX",
+    "zip": "78003"
+  },
+  "coordinates": {
+    "latitude": 29.733379181413,
+    "longitude": -99.076348401667
+  },
+  "website": "https://gracebandera.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3c9ff83b-6fdc-4adf-bcc0-62cf0a5fb0f7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3c9ff83b-6fdc-4adf-bcc0-62cf0a5fb0f7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracebandera.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741895313"
+    }
+  ],
+  "advisories": []
+}

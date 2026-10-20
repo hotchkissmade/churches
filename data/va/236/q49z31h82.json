@@ -1,0 +1,33 @@
+{
+  "id": "q49z31h82",
+  "url": "https://constellation.church/q49z31h82",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "118 Old York Hampton Hwy",
+    "city": "Yorktown",
+    "state": "VA",
+    "zip": "23692-4818"
+  },
+  "coordinates": {
+    "latitude": 41.3440055847168,
+    "longitude": -83.10007858276367
+  },
+  "website": "https://smlconline.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cc86bed2-0e68-44ae-ad40-d455591bbcc0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cc86bed2-0e68-44ae-ad40-d455591bbcc0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "smlconline.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540951874"
+    }
+  ],
+  "advisories": []
+}

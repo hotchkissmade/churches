@@ -1,0 +1,33 @@
+{
+  "id": "x9ec6jt40",
+  "url": "https://constellation.church/x9ec6jt40",
+  "name": "Columbia Presbyterian Church",
+  "displayName": "Columbia Presbyterian Church",
+  "address": {
+    "street": "1700 Huger Street",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29201"
+  },
+  "coordinates": {
+    "latitude": 34.017019271850586,
+    "longitude": -81.03850555419922
+  },
+  "website": "https://colapres.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5814",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5814"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "colapres.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "462422109"
+    }
+  ],
+  "advisories": []
+}

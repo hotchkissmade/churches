@@ -1,0 +1,33 @@
+{
+  "id": "xecns3q30",
+  "url": "https://constellation.church/xecns3q30",
+  "name": "St Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "5918 Conover Rd",
+    "city": "Taneytown",
+    "state": "MD",
+    "zip": "21787-1218"
+  },
+  "coordinates": {
+    "latitude": 39.715187072753906,
+    "longitude": -77.20500946044922
+  },
+  "website": "https://mjspparish.org/map-and-directions",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e9b5f5d5-8e06-4c52-8553-6526ff280e30",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e9b5f5d5-8e06-4c52-8553-6526ff280e30"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mjspparish.org/map-and-directions"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "300738164"
+    }
+  ],
+  "advisories": []
+}

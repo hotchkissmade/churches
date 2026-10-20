@@ -1,0 +1,33 @@
+{
+  "id": "m1809a606",
+  "url": "https://constellation.church/m1809a606",
+  "name": "Hope Presbyterian Church",
+  "displayName": "Hope Presbyterian Church",
+  "address": {
+    "street": "2050 Peace Haven Road",
+    "city": "Winston-Salem",
+    "state": "NC",
+    "zip": "27106"
+  },
+  "coordinates": {
+    "latitude": 36.120046615600586,
+    "longitude": -80.31209182739258
+  },
+  "website": "https://hopechurchws.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4008",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4008"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopechurchws.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "562091299"
+    }
+  ],
+  "advisories": []
+}

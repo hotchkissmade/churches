@@ -1,0 +1,33 @@
+{
+  "id": "r4c8d0803",
+  "url": "https://constellation.church/r4c8d0803",
+  "name": "Christ United Methodist Church",
+  "displayName": "Christ United Methodist Church",
+  "address": {
+    "street": "3625 West 138th Street",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44111-3333"
+  },
+  "coordinates": {
+    "latitude": 41.455013275146484,
+    "longitude": -81.78756713867188
+  },
+  "website": "https://christumc.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFNQrIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFNQrIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christumc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "346000612"
+    }
+  ],
+  "advisories": []
+}

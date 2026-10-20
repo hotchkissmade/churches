@@ -1,0 +1,33 @@
+{
+  "id": "fep8fmx19",
+  "url": "https://constellation.church/fep8fmx19",
+  "name": "St. Stephen's Episcopal Church",
+  "displayName": "St. Stephen's Episcopal Church",
+  "address": {
+    "street": "66 Saint Stephens Dr",
+    "city": "Orinda",
+    "state": "CA",
+    "zip": "94563-1949"
+  },
+  "coordinates": {
+    "latitude": 37.897855824371,
+    "longitude": -122.172948731318
+  },
+  "website": "https://ststephensorinda.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-california/list/st-stephens-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-california/st-stephens-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ststephensorinda.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941399270"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pf1ysam71",
+  "url": "https://constellation.church/pf1ysam71",
+  "name": "Bayside Baptist Church",
+  "displayName": "Bayside Baptist Church",
+  "address": {
+    "street": "1920 Pleasure House Rd",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23455"
+  },
+  "coordinates": {
+    "latitude": 36.9002742767334,
+    "longitude": -76.13640975952148
+  },
+  "website": "https://sites.google.com/baysidebc.org/baysidebc/home",
+  "listingUrl": "https://churches.sbc.net/church/bayside-baptist-church-6/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bayside-baptist-church-6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sites.google.com/baysidebc.org/baysidebc/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540921120"
+    }
+  ],
+  "advisories": []
+}

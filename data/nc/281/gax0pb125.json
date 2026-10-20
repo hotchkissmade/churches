@@ -1,0 +1,29 @@
+{
+  "id": "gax0pb125",
+  "url": "https://constellation.church/gax0pb125",
+  "name": "DEPOT CHURCH",
+  "displayName": "Depot Church",
+  "address": {
+    "street": "101 N MAIN ST",
+    "city": "Stanley",
+    "state": "NC",
+    "zip": "28164"
+  },
+  "coordinates": {
+    "latitude": 35.35960006713867,
+    "longitude": -81.09619522094727
+  },
+  "website": "https://depotchurch.com",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "352467314"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "depotchurch.com"
+    }
+  ],
+  "advisories": []
+}

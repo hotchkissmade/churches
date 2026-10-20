@@ -1,0 +1,33 @@
+{
+  "id": "wyt230d16",
+  "url": "https://constellation.church/wyt230d16",
+  "name": "City of God Church",
+  "displayName": "City of God Church",
+  "address": {
+    "street": "525 N. 26th Street",
+    "city": "Lafayette",
+    "state": "IN",
+    "zip": "47904"
+  },
+  "coordinates": {
+    "latitude": 40.42234802246094,
+    "longitude": -86.86695861816406
+  },
+  "website": "https://cogchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/city-of-god-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "city-of-god-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cogchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "264606865"
+    }
+  ],
+  "advisories": []
+}

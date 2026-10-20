@@ -1,0 +1,33 @@
+{
+  "id": "ffbnqs788",
+  "url": "https://constellation.church/ffbnqs788",
+  "name": "First Baptist Church of Thurmont",
+  "displayName": "First Baptist Church of Thurmont",
+  "address": {
+    "street": "7 Sunny Way",
+    "city": "Thurmont",
+    "state": "MD",
+    "zip": "21788"
+  },
+  "coordinates": {
+    "latitude": 39.61627960205078,
+    "longitude": -77.39417266845703
+  },
+  "website": "https://fbcthurmont.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-thurmont/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-thurmont"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcthurmont.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521090824"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tkqvd4f27",
+  "url": "https://constellation.church/tkqvd4f27",
+  "name": "Church in Frisco",
+  "displayName": "Church in Frisco",
+  "address": {
+    "street": "7551 Cottonwood St",
+    "city": "Frisco",
+    "state": "TX",
+    "zip": "75033"
+  },
+  "coordinates": {
+    "latitude": 33.1587481,
+    "longitude": -96.8202241
+  },
+  "website": "https://churchinfrisco.org",
+  "listingUrl": "https://localchurches.org/churches/frisco-tx-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "frisco-tx-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinfrisco.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "334366169"
+    }
+  ],
+  "advisories": []
+}

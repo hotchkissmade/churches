@@ -1,0 +1,33 @@
+{
+  "id": "tx4q12260",
+  "url": "https://constellation.church/tx4q12260",
+  "name": "Mount Zion Baptist Church",
+  "displayName": "Mount Zion Baptist Church",
+  "address": {
+    "street": "9701 Blandville Rd",
+    "city": "West Paducah",
+    "state": "KY",
+    "zip": "42086"
+  },
+  "coordinates": {
+    "latitude": 37.0228385925293,
+    "longitude": -88.77886199951172
+  },
+  "website": "https://mtzionpaducah.org/mtzionpreschool",
+  "listingUrl": "https://churches.sbc.net/church/mount-zion-baptist-church-27/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mount-zion-baptist-church-27"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mtzionpaducah.org/mtzionpreschool"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611333492"
+    }
+  ],
+  "advisories": []
+}

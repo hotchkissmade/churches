@@ -1,0 +1,33 @@
+{
+  "id": "de3r6tj10",
+  "url": "https://constellation.church/de3r6tj10",
+  "name": "St. Philip's Church",
+  "displayName": "St. Philip's Church",
+  "address": {
+    "street": "31 Allendale Ln",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29607-2208"
+  },
+  "coordinates": {
+    "latitude": 34.839101791381836,
+    "longitude": -82.36970520019531
+  },
+  "website": "https://stphilipsgreenville.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-upper-south-carolina/list/st-philips-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-upper-south-carolina/st-philips-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stphilipsgreenville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "576082578"
+    }
+  ],
+  "advisories": []
+}

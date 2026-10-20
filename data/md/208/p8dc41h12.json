@@ -1,0 +1,33 @@
+{
+  "id": "p8dc41h12",
+  "url": "https://constellation.church/p8dc41h12",
+  "name": "Church of the Ascension, Gaithersburg",
+  "displayName": "Church of the Ascension, Gaithersburg",
+  "address": {
+    "street": "205 S Summit Ave",
+    "city": "Gaithersburg",
+    "state": "MD",
+    "zip": "20877-2399"
+  },
+  "coordinates": {
+    "latitude": 39.13715362548828,
+    "longitude": -77.19409561157227
+  },
+  "website": "https://ascensionmd.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/church-ascension-gaithersburg",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/church-ascension-gaithersburg"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ascensionmd.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520824886"
+    }
+  ],
+  "advisories": []
+}

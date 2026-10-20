@@ -1,0 +1,33 @@
+{
+  "id": "pwbp1q685",
+  "url": "https://constellation.church/pwbp1q685",
+  "name": "St. Luke's Church",
+  "displayName": "St. Luke's Church",
+  "address": {
+    "street": "85 Greenway S",
+    "city": "Forest Hills",
+    "state": "NY",
+    "zip": "11375"
+  },
+  "coordinates": {
+    "latitude": 40.714040756225586,
+    "longitude": -73.84456634521484
+  },
+  "website": "https://stlukesforesthills.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-lukes-episcopal-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-lukes-episcopal-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesforesthills.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111723803"
+    }
+  ],
+  "advisories": []
+}

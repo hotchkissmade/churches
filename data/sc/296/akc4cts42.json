@@ -1,0 +1,33 @@
+{
+  "id": "akc4cts42",
+  "url": "https://constellation.church/akc4cts42",
+  "name": "Crescent Hill Baptist Church",
+  "displayName": "Crescent Hill Baptist Church",
+  "address": {
+    "street": "115 Crescent Hill Dr",
+    "city": "Pickens",
+    "state": "SC",
+    "zip": "29671"
+  },
+  "coordinates": {
+    "latitude": 34.90133476257324,
+    "longitude": -82.70046997070312
+  },
+  "website": "https://chbcpickens.org",
+  "listingUrl": "https://churches.sbc.net/church/crescent-hill-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "crescent-hill-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chbcpickens.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570751759"
+    }
+  ],
+  "advisories": []
+}

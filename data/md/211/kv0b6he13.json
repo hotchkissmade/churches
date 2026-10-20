@@ -1,0 +1,33 @@
+{
+  "id": "kv0b6he13",
+  "url": "https://constellation.church/kv0b6he13",
+  "name": "Our Shepherd Lutheran Church",
+  "displayName": "Our Shepherd Lutheran Church",
+  "address": {
+    "street": "400 Benfield Rd",
+    "city": "Severna Park",
+    "state": "MD",
+    "zip": "21146-2717"
+  },
+  "coordinates": {
+    "latitude": 39.07858085632324,
+    "longitude": -76.57016372680664
+  },
+  "website": "https://ourshepherd.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=636935d1-6fcc-4f5f-85c2-c835ac4cbfc1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "636935d1-6fcc-4f5f-85c2-c835ac4cbfc1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ourshepherd.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520859670"
+    }
+  ],
+  "advisories": []
+}

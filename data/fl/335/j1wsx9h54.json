@@ -1,0 +1,33 @@
+{
+  "id": "j1wsx9h54",
+  "url": "https://constellation.church/j1wsx9h54",
+  "name": "Simmons Loop Baptist Church",
+  "displayName": "Simmons Loop Baptist Church",
+  "address": {
+    "street": "6610 Simmons Loop",
+    "city": "Riverview",
+    "state": "FL",
+    "zip": "33578"
+  },
+  "coordinates": {
+    "latitude": 27.78057098388672,
+    "longitude": -82.33726119995117
+  },
+  "website": "https://simmonsloop.org",
+  "listingUrl": "https://churches.sbc.net/church/simmons-loop-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "simmons-loop-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "simmonsloop.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591677093"
+    }
+  ],
+  "advisories": []
+}

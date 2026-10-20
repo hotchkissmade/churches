@@ -1,0 +1,33 @@
+{
+  "id": "bmaeyze72",
+  "url": "https://constellation.church/bmaeyze72",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "125 Garden St",
+    "city": "Mount Holly",
+    "state": "NJ",
+    "zip": "08060"
+  },
+  "coordinates": {
+    "latitude": 39.99699592590332,
+    "longitude": -74.78501892089844
+  },
+  "website": "https://firstpresmtholly.org",
+  "listingUrl": "https://eco-pres.org/churches/first-presbyterian-church-mount-holly/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "first-presbyterian-church-mount-holly"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpresmtholly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "210716994"
+    }
+  ],
+  "advisories": []
+}

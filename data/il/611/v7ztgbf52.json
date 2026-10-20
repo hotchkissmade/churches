@@ -1,0 +1,33 @@
+{
+  "id": "v7ztgbf52",
+  "url": "https://constellation.church/v7ztgbf52",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "343 Grand Ave",
+    "city": "Loves Park",
+    "state": "IL",
+    "zip": "61111-4510"
+  },
+  "coordinates": {
+    "latitude": 42.311946868896484,
+    "longitude": -89.06086730957031
+  },
+  "website": "https://gracelovespark.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=77e13ec6-707b-45b6-b2d5-87ee70e3b908",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "77e13ec6-707b-45b6-b2d5-87ee70e3b908"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelovespark.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366401583"
+    }
+  ],
+  "advisories": []
+}

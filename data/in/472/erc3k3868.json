@@ -1,0 +1,33 @@
+{
+  "id": "erc3k3868",
+  "url": "https://constellation.church/erc3k3868",
+  "name": "Holy Trinity Lutheran Church",
+  "displayName": "Holy Trinity Lutheran Church",
+  "address": {
+    "street": "1219 S Michigan Ave",
+    "city": "Greensburg",
+    "state": "IN",
+    "zip": "47240-7905"
+  },
+  "coordinates": {
+    "latitude": 39.32469177246094,
+    "longitude": -85.46694946289062
+  },
+  "website": "https://htlcg.org",
+  "listingUrl": "https://locator.lcms.org/church/C/378879",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "378879"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "htlcg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "356212538"
+    }
+  ],
+  "advisories": []
+}

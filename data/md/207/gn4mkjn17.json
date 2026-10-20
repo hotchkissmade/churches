@@ -1,0 +1,33 @@
+{
+  "id": "gn4mkjn17",
+  "url": "https://constellation.church/gn4mkjn17",
+  "name": "Cornerstone Church",
+  "displayName": "Cornerstone Church",
+  "address": {
+    "street": "16010 Annapolis Rd",
+    "city": "Bowie",
+    "state": "MD",
+    "zip": "20715"
+  },
+  "coordinates": {
+    "latitude": 38.98384666442871,
+    "longitude": -76.72684860229492
+  },
+  "website": "https://cag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=452c0c20-ac01-468c-9140-a4cd1ef44156&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "452c0c20-ac01-468c-9140-a4cd1ef44156"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521129473"
+    }
+  ],
+  "advisories": []
+}

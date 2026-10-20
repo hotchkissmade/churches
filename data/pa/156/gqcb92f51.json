@@ -1,0 +1,33 @@
+{
+  "id": "gqcb92f51",
+  "url": "https://constellation.church/gqcb92f51",
+  "name": "Holy Trinity Lutheran Church",
+  "displayName": "Holy Trinity Lutheran Church",
+  "address": {
+    "street": "502 Main St",
+    "city": "Irwin",
+    "state": "PA",
+    "zip": "15642-3405"
+  },
+  "coordinates": {
+    "latitude": 40.33084297180176,
+    "longitude": -79.7114372253418
+  },
+  "website": "https://htlc.church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1f88b9d6-46a3-4c09-85f8-5ce16c595fbd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1f88b9d6-46a3-4c09-85f8-5ce16c595fbd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "htlc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "256012171"
+    }
+  ],
+  "advisories": []
+}

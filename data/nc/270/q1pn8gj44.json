@@ -1,0 +1,33 @@
+{
+  "id": "q1pn8gj44",
+  "url": "https://constellation.church/q1pn8gj44",
+  "name": "Central United Methodist Church",
+  "displayName": "Central United Methodist Church",
+  "address": {
+    "street": "1909 North Main Street",
+    "city": "Mount Airy",
+    "state": "NC",
+    "zip": "27030"
+  },
+  "coordinates": {
+    "latitude": 36.52303886413574,
+    "longitude": -80.60445404052734
+  },
+  "website": "https://centralumcma.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFHveIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFHveIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centralumcma.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560653364"
+    }
+  ],
+  "advisories": []
+}

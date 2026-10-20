@@ -1,0 +1,33 @@
+{
+  "id": "v28wv0736",
+  "url": "https://constellation.church/v28wv0736",
+  "name": "St. Martin's Episcopal Church, Radnor",
+  "displayName": "St. Martin's Episcopal Church, Radnor",
+  "address": {
+    "street": "400 King of Prussia Rd",
+    "city": "Radnor",
+    "state": "PA",
+    "zip": "19087-2342"
+  },
+  "coordinates": {
+    "latitude": 40.04730224609375,
+    "longitude": -75.36256790161133
+  },
+  "website": "https://stmartinsradnor.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/st-martins-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/st-martins-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmartinsradnor.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231352466"
+    }
+  ],
+  "advisories": []
+}

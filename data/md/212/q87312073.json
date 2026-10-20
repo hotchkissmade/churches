@@ -1,0 +1,33 @@
+{
+  "id": "q87312073",
+  "url": "https://constellation.church/q87312073",
+  "name": "Church of the Holy Nativity",
+  "displayName": "Church of the Holy Nativity",
+  "address": {
+    "street": "4238 Pimlico Rd",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21215-6961"
+  },
+  "coordinates": {
+    "latitude": 39.33839225769043,
+    "longitude": -76.66371536254883
+  },
+  "website": "https://holynativitybaltimore.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maryland/list/church-holy-nativity",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maryland/church-holy-nativity"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holynativitybaltimore.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520668510"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vm1tmpe36",
+  "url": "https://constellation.church/vm1tmpe36",
+  "name": "New Life CRC",
+  "displayName": "New Life Christian Reformed Church",
+  "address": {
+    "street": "3010 Ridge Rd",
+    "city": "Highland",
+    "state": "IN",
+    "zip": "46322"
+  },
+  "coordinates": {
+    "latitude": 41.55296516418457,
+    "longitude": -87.45635223388672
+  },
+  "website": "https://newlifecrc.com",
+  "listingUrl": "https://www.crcna.org/churches/5620",
+  "identifiers": [
+    {
+      "namespace": "org.crcna.id",
+      "value": "5620"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newlifecrc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "350996123"
+    }
+  ],
+  "advisories": []
+}

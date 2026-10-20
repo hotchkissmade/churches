@@ -1,0 +1,33 @@
+{
+  "id": "w8jcgmc37",
+  "url": "https://constellation.church/w8jcgmc37",
+  "name": "Eastview Baptist Church",
+  "displayName": "Eastview Baptist Church",
+  "address": {
+    "street": "4289 State Route 122",
+    "city": "Franklin",
+    "state": "OH",
+    "zip": "45005"
+  },
+  "coordinates": {
+    "latitude": 39.49272,
+    "longitude": -84.284159
+  },
+  "website": "https://eastviewbaptist.org/blog",
+  "listingUrl": "https://churches.sbc.net/church/eastview-baptist-church-12/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "eastview-baptist-church-12"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastviewbaptist.org/blog"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310857628"
+    }
+  ],
+  "advisories": []
+}

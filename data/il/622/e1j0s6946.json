@@ -1,0 +1,33 @@
+{
+  "id": "e1j0s6946",
+  "url": "https://constellation.church/e1j0s6946",
+  "name": "First Baptist Church of Mulberry Grove",
+  "displayName": "First Baptist Church of Mulberry Grove",
+  "address": {
+    "street": "111 N Second St",
+    "city": "Mulberry Grove",
+    "state": "IL",
+    "zip": "62262"
+  },
+  "coordinates": {
+    "latitude": 38.92586708068848,
+    "longitude": -89.27030563354492
+  },
+  "website": "https://fbcmulberrygrove.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-mulberry-grove/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-mulberry-grove"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcmulberrygrove.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371145555"
+    }
+  ],
+  "advisories": []
+}

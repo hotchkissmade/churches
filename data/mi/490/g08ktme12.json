@@ -1,0 +1,33 @@
+{
+  "id": "g08ktme12",
+  "url": "https://constellation.church/g08ktme12",
+  "name": "Church of the Epiphany",
+  "displayName": "Church of the Epiphany",
+  "address": {
+    "street": "410 Erie St",
+    "city": "South Haven",
+    "state": "MI",
+    "zip": "49090-1324"
+  },
+  "coordinates": {
+    "latitude": 42.400211334228516,
+    "longitude": -86.27539825439453
+  },
+  "website": "https://epiphanysouthhaven.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-western-michigan/list/church-epiphany",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-western-michigan/church-epiphany"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "epiphanysouthhaven.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "386093771"
+    }
+  ],
+  "advisories": []
+}

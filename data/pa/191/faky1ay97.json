@@ -1,0 +1,33 @@
+{
+  "id": "faky1ay97",
+  "url": "https://constellation.church/faky1ay97",
+  "name": "St. Mary's Church, Hamilton Village",
+  "displayName": "St. Mary's Church, Hamilton Village",
+  "address": {
+    "street": "3916 Locust Walk",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19104-6152"
+  },
+  "coordinates": {
+    "latitude": 39.95256805419922,
+    "longitude": -75.20171356201172
+  },
+  "website": "https://stmarysatpenn.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/st-marys-church-hamilton-village",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/st-marys-church-hamilton-village"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarysatpenn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236001620"
+    }
+  ],
+  "advisories": []
+}

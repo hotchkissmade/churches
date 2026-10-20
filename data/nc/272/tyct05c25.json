@@ -1,0 +1,33 @@
+{
+  "id": "tyct05c25",
+  "url": "https://constellation.church/tyct05c25",
+  "name": "Becks Lutheran Church",
+  "displayName": "Becks Lutheran Church",
+  "address": {
+    "street": "441 Becks Church Rd",
+    "city": "Lexington",
+    "state": "NC",
+    "zip": "27292-2136"
+  },
+  "coordinates": {
+    "latitude": 35.78863334655762,
+    "longitude": -80.21562957763672
+  },
+  "website": "https://beckslutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=58fa4702-197a-4e76-a8e6-78373b07c84e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "58fa4702-197a-4e76-a8e6-78373b07c84e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "beckslutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561419381"
+    }
+  ],
+  "advisories": []
+}

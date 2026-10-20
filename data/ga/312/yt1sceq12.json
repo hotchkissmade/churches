@@ -1,0 +1,33 @@
+{
+  "id": "yt1sceq12",
+  "url": "https://constellation.church/yt1sceq12",
+  "name": "North Macon Presbyterian Church",
+  "displayName": "North Macon Presbyterian Church",
+  "address": {
+    "street": "5707 Rivoli Drive",
+    "city": "Macon",
+    "state": "GA",
+    "zip": "31210"
+  },
+  "coordinates": {
+    "latitude": 32.90899085998535,
+    "longitude": -83.74807357788086
+  },
+  "website": "https://nmpc.net",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/786",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "786"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nmpc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581761731"
+    }
+  ],
+  "advisories": []
+}

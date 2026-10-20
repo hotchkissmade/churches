@@ -1,0 +1,33 @@
+{
+  "id": "d7y0v7p88",
+  "url": "https://constellation.church/d7y0v7p88",
+  "name": "Church of the Redeemer",
+  "displayName": "Church of the Redeemer",
+  "address": {
+    "street": "230 Pennswood Rd",
+    "city": "Bryn Mawr",
+    "state": "PA",
+    "zip": "19010"
+  },
+  "coordinates": {
+    "latitude": 40.0218563079834,
+    "longitude": -75.30671310424805
+  },
+  "website": "https://theredeemer.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/church-redeemer-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/church-redeemer-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "theredeemer.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231433862"
+    }
+  ],
+  "advisories": []
+}

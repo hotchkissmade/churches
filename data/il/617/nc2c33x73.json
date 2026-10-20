@@ -1,0 +1,33 @@
+{
+  "id": "nc2c33x73",
+  "url": "https://constellation.church/nc2c33x73",
+  "name": "Morningstar United Methodist Church",
+  "displayName": "Morningstar United Methodist Church",
+  "address": {
+    "street": "3714 Fort Jesse Rd",
+    "city": "Normal",
+    "state": "IL",
+    "zip": "61761-9455"
+  },
+  "coordinates": {
+    "latitude": 40.51835823059082,
+    "longitude": -88.91957092285156
+  },
+  "website": "https://mymorningstar.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFK3FIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFK3FIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mymorningstar.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371335416"
+    }
+  ],
+  "advisories": []
+}

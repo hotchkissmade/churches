@@ -1,0 +1,33 @@
+{
+  "id": "a0f9yf105",
+  "url": "https://constellation.church/a0f9yf105",
+  "name": "Creator Lutheran Church",
+  "displayName": "Creator Lutheran Church",
+  "address": {
+    "street": "13250 SE Sunnyside Rd",
+    "city": "Clackamas",
+    "state": "OR",
+    "zip": "97015-7396"
+  },
+  "coordinates": {
+    "latitude": 45.42629432678223,
+    "longitude": -122.52689361572266
+  },
+  "website": "https://creatorlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ad143e3a-3c55-4664-9cc4-3708030046c7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ad143e3a-3c55-4664-9cc4-3708030046c7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "creatorlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930992061"
+    }
+  ],
+  "advisories": []
+}

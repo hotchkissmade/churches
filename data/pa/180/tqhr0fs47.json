@@ -1,0 +1,33 @@
+{
+  "id": "tqhr0fs47",
+  "url": "https://constellation.church/tqhr0fs47",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "81 Main St",
+    "city": "Pennsburg",
+    "state": "PA",
+    "zip": "18073-1344"
+  },
+  "coordinates": {
+    "latitude": 40.4022274017334,
+    "longitude": -75.49953842163086
+  },
+  "website": "https://stmarkspennsburg.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=34c7f7f8-4e14-419f-8ec8-e2c92d8c3824",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "34c7f7f8-4e14-419f-8ec8-e2c92d8c3824"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkspennsburg.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231857012"
+    }
+  ],
+  "advisories": []
+}

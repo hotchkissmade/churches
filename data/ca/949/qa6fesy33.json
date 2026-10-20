@@ -1,0 +1,33 @@
+{
+  "id": "qa6fesy33",
+  "url": "https://constellation.church/qa6fesy33",
+  "name": "First Baptist Church of Mill Valley",
+  "displayName": "First Baptist Church of Mill Valley",
+  "address": {
+    "street": "285 Miller Ave",
+    "city": "Mill Valley",
+    "state": "CA",
+    "zip": "94941"
+  },
+  "coordinates": {
+    "latitude": 37.89996337890625,
+    "longitude": -122.53927612304688
+  },
+  "website": "https://milleravenuechurch.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-mill-valley/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-mill-valley"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "milleravenuechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "680088941"
+    }
+  ],
+  "advisories": []
+}

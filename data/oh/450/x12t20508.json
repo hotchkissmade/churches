@@ -1,0 +1,33 @@
+{
+  "id": "x12t20508",
+  "url": "https://constellation.church/x12t20508",
+  "name": "Riverview Baptist Church",
+  "displayName": "Riverview Baptist Church",
+  "address": {
+    "street": "7237 Martz Paulin Rd",
+    "city": "Franklin",
+    "state": "OH",
+    "zip": "45005"
+  },
+  "coordinates": {
+    "latitude": 39.55859184265137,
+    "longitude": -84.34550476074219
+  },
+  "website": "https://rbcfranklincarlisle.com",
+  "listingUrl": "https://churches.sbc.net/church/riverview-baptist-church-17/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "riverview-baptist-church-17"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rbcfranklincarlisle.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311085196"
+    }
+  ],
+  "advisories": []
+}

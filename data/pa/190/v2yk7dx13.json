@@ -1,0 +1,33 @@
+{
+  "id": "v2yk7dx13",
+  "url": "https://constellation.church/v2yk7dx13",
+  "name": "St. Herman of Alaska Church",
+  "displayName": "St. Herman of Alaska Church",
+  "address": {
+    "street": "1855 Middletown Rd",
+    "city": "Glen Mills",
+    "state": "PA",
+    "zip": "19039"
+  },
+  "coordinates": {
+    "latitude": 39.945404052734375,
+    "longitude": -75.5009651184082
+  },
+  "website": "https://sthermansoca.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ep-walsha",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ep-walsha"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sthermansoca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237315015"
+    }
+  ],
+  "advisories": []
+}

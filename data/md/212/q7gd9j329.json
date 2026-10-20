@@ -1,0 +1,33 @@
+{
+  "id": "q7gd9j329",
+  "url": "https://constellation.church/q7gd9j329",
+  "name": "St. Andrew Church",
+  "displayName": "St. Andrew Church",
+  "address": {
+    "street": "2028 E Lombard St",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21231-1923"
+  },
+  "coordinates": {
+    "latitude": 39.29071617126465,
+    "longitude": -76.58780288696289
+  },
+  "website": "https://standrew-baltimore.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-wa-balsac",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-wa-balsac"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrew-baltimore.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521044980"
+    }
+  ],
+  "advisories": []
+}

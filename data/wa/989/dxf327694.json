@@ -1,0 +1,33 @@
+{
+  "id": "dxf327694",
+  "url": "https://constellation.church/dxf327694",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "512 N Ruby St",
+    "city": "Ellensburg",
+    "state": "WA",
+    "zip": "98926-3154"
+  },
+  "coordinates": {
+    "latitude": 46.99724578857422,
+    "longitude": -120.54447937011719
+  },
+  "website": "https://flc-eburg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=688b0e59-a3ae-4f45-95e1-ea0b93c0e5d3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "688b0e59-a3ae-4f45-95e1-ea0b93c0e5d3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flc-eburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911033499"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "k43rk2x06",
+  "url": "https://constellation.church/k43rk2x06",
+  "name": "St. Vladimir Church",
+  "displayName": "St. Vladimir Church",
+  "address": {
+    "street": "812 Grand St",
+    "city": "Trenton",
+    "state": "NJ",
+    "zip": "08610"
+  },
+  "coordinates": {
+    "latitude": 40.20163345336914,
+    "longitude": -74.74055862426758
+  },
+  "website": "https://saintvladimir.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ny-tresvc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ny-tresvc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintvladimir.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222468693"
+    }
+  ],
+  "advisories": []
+}

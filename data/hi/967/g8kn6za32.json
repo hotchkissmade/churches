@@ -1,0 +1,33 @@
+{
+  "id": "g8kn6za32",
+  "url": "https://constellation.church/g8kn6za32",
+  "name": "Mountain View Community Church",
+  "displayName": "Mountain View Community Church",
+  "address": {
+    "street": "99-1324 Koaha Pl",
+    "city": "Aiea",
+    "state": "HI",
+    "zip": "96701"
+  },
+  "coordinates": {
+    "latitude": 21.3740526,
+    "longitude": -157.9010068
+  },
+  "website": "https://mvcchawaii.org/livestream",
+  "listingUrl": "https://churches.sbc.net/church/mountain-view-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mountain-view-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mvcchawaii.org/livestream"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "990328197"
+    }
+  ],
+  "advisories": []
+}

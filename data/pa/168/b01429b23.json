@@ -1,0 +1,33 @@
+{
+  "id": "b01429b23",
+  "url": "https://constellation.church/b01429b23",
+  "name": "Bellefonte Presbyterian Church",
+  "displayName": "Bellefonte Presbyterian Church",
+  "address": {
+    "street": "203 N Spring St",
+    "city": "Bellefonte",
+    "state": "PA",
+    "zip": "16823"
+  },
+  "coordinates": {
+    "latitude": 40.91284370422363,
+    "longitude": -77.78057098388672
+  },
+  "website": "https://bellefontepca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6830",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6830"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bellefontepca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "934033723"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kc2qg9m53",
+  "url": "https://constellation.church/kc2qg9m53",
+  "name": "Assembly of God Tabernacle",
+  "displayName": "Assembly of God Tabernacle",
+  "address": {
+    "street": "1580 Agape Way",
+    "city": "Decatur",
+    "state": "GA",
+    "zip": "30035"
+  },
+  "coordinates": {
+    "latitude": 33.74614906311035,
+    "longitude": -84.22975158691406
+  },
+  "website": "https://thetabonline.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d9423f78-9ceb-4cce-8548-e4b55535109a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d9423f78-9ceb-4cce-8548-e4b55535109a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thetabonline.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "586015179"
+    }
+  ],
+  "advisories": []
+}

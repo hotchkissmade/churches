@@ -1,0 +1,33 @@
+{
+  "id": "v1ddpqk24",
+  "url": "https://constellation.church/v1ddpqk24",
+  "name": "Templo La Hermosa Church",
+  "displayName": "Templo La Hermosa Church",
+  "address": {
+    "street": "721 Wesley Ave",
+    "city": "Vacaville",
+    "state": "CA",
+    "zip": "95688"
+  },
+  "coordinates": {
+    "latitude": 38.36309051513672,
+    "longitude": -121.9842300415039
+  },
+  "website": "https://tlhchurchvacaville.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=76ae5d40-af2b-47e2-b2c5-2d57ee3985a0&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "76ae5d40-af2b-47e2-b2c5-2d57ee3985a0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlhchurchvacaville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "680249965"
+    }
+  ],
+  "advisories": []
+}

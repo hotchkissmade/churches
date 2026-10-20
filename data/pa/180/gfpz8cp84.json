@@ -1,0 +1,33 @@
+{
+  "id": "gfpz8cp84",
+  "url": "https://constellation.church/gfpz8cp84",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "2745 Morgan Hill Rd",
+    "city": "Easton",
+    "state": "PA",
+    "zip": "18042-7060"
+  },
+  "coordinates": {
+    "latitude": 40.6378231048584,
+    "longitude": -75.23569869995117
+  },
+  "website": "https://stjohnswilliams.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=891c7c8e-79ea-43f1-bc5c-1f12d1222d1e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "891c7c8e-79ea-43f1-bc5c-1f12d1222d1e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnswilliams.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232272381"
+    }
+  ],
+  "advisories": []
+}

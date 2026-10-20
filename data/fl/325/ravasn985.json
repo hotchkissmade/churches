@@ -1,0 +1,33 @@
+{
+  "id": "ravasn985",
+  "url": "https://constellation.church/ravasn985",
+  "name": "Myrtle Grove Baptist Church",
+  "displayName": "Myrtle Grove Baptist Church",
+  "address": {
+    "street": "5920 Lillian Hwy",
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32506"
+  },
+  "coordinates": {
+    "latitude": 30.42552947998047,
+    "longitude": -87.2945327758789
+  },
+  "website": "https://mgbc.church",
+  "listingUrl": "https://churches.sbc.net/church/myrtle-grove-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "myrtle-grove-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mgbc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590879136"
+    }
+  ],
+  "advisories": []
+}

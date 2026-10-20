@@ -1,0 +1,33 @@
+{
+  "id": "jjmc71r29",
+  "url": "https://constellation.church/jjmc71r29",
+  "name": "St Johns United Lutheran Church",
+  "displayName": "St. John's United Lutheran Church",
+  "address": {
+    "street": "2090 Emerson Ave",
+    "city": "Alliance",
+    "state": "NE",
+    "zip": "69301-2272"
+  },
+  "coordinates": {
+    "latitude": 42.117788314819336,
+    "longitude": -102.87904357910156
+  },
+  "website": "https://alliancestjohns.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ca7158ad-8c12-40aa-8974-760a2ab96d3c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ca7158ad-8c12-40aa-8974-760a2ab96d3c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "alliancestjohns.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470584461"
+    }
+  ],
+  "advisories": []
+}

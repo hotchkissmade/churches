@@ -1,0 +1,33 @@
+{
+  "id": "dp9hdck70",
+  "url": "https://constellation.church/dp9hdck70",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "764 W Henderson Ave",
+    "city": "Porterville",
+    "state": "CA",
+    "zip": "93257-1741"
+  },
+  "coordinates": {
+    "latitude": 36.08099174499512,
+    "longitude": -119.03436279296875
+  },
+  "website": "https://tlc-porterville.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=79f1a095-2e24-4263-954d-188803c0a801",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "79f1a095-2e24-4263-954d-188803c0a801"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlc-porterville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510189234"
+    }
+  ],
+  "advisories": []
+}

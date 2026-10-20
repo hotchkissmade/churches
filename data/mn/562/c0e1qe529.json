@@ -1,0 +1,33 @@
+{
+  "id": "c0e1qe529",
+  "url": "https://constellation.church/c0e1qe529",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "316 3rd St SW",
+    "city": "Renville",
+    "state": "MN",
+    "zip": "56284-1839"
+  },
+  "coordinates": {
+    "latitude": 44.786399841308594,
+    "longitude": -95.21559143066406
+  },
+  "website": "https://flcmn.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b7faf001-1a2a-43f3-9896-086c28a8ddfa",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b7faf001-1a2a-43f3-9896-086c28a8ddfa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcmn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411459926"
+    }
+  ],
+  "advisories": []
+}

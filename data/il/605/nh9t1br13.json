@@ -1,0 +1,33 @@
+{
+  "id": "nh9t1br13",
+  "url": "https://constellation.church/nh9t1br13",
+  "name": "St Timothy Lutheran Church",
+  "displayName": "St. Timothy Lutheran Church",
+  "address": {
+    "street": "1313 N Mill St",
+    "city": "Naperville",
+    "state": "IL",
+    "zip": "60563-2522"
+  },
+  "coordinates": {
+    "latitude": 41.79019546508789,
+    "longitude": -88.15528869628906
+  },
+  "website": "https://sttimothylutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4a76f886-d8c6-47e3-844e-0bce89fb2bd8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4a76f886-d8c6-47e3-844e-0bce89fb2bd8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sttimothylutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363158908"
+    }
+  ],
+  "advisories": []
+}

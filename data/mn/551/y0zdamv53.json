@@ -1,0 +1,33 @@
+{
+  "id": "y0zdamv53",
+  "url": "https://constellation.church/y0zdamv53",
+  "name": "St. Clement's Episcopal Church",
+  "displayName": "St. Clement's Episcopal Church",
+  "address": {
+    "street": "901 Portland Ave",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip": "55104-7032"
+  },
+  "coordinates": {
+    "latitude": 44.943172454833984,
+    "longitude": -93.138427734375
+  },
+  "website": "https://stcstp.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/st-clements-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/st-clements-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stcstp.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410693965"
+    }
+  ],
+  "advisories": []
+}

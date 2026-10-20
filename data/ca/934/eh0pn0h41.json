@@ -1,0 +1,33 @@
+{
+  "id": "eh0pn0h41",
+  "url": "https://constellation.church/eh0pn0h41",
+  "name": "Mount Carmel Lutheran Church",
+  "displayName": "Mount Carmel Lutheran Church",
+  "address": {
+    "street": "1701 Fredericks St",
+    "city": "San Luis Obispo",
+    "state": "CA",
+    "zip": "93405-2005"
+  },
+  "coordinates": {
+    "latitude": 35.29287147521973,
+    "longitude": -120.65449523925781
+  },
+  "website": "https://mtcarmelslo.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a661103b-b4cc-48ae-abc3-b6475d6e7065",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a661103b-b4cc-48ae-abc3-b6475d6e7065"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mtcarmelslo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237224019"
+    }
+  ],
+  "advisories": []
+}

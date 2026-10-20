@@ -1,0 +1,33 @@
+{
+  "id": "z7r55wp38",
+  "url": "https://constellation.church/z7r55wp38",
+  "name": "Grafton Baptist Church",
+  "displayName": "Grafton Baptist Church",
+  "address": {
+    "street": "11 Owen Rd",
+    "city": "Grafton",
+    "state": "NY",
+    "zip": "12082"
+  },
+  "coordinates": {
+    "latitude": 42.76980972290039,
+    "longitude": -73.44977188110352
+  },
+  "website": "https://graftonbc.org",
+  "listingUrl": "https://churches.sbc.net/church/grafton-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grafton-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graftonbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237416227"
+    }
+  ],
+  "advisories": []
+}

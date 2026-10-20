@@ -1,0 +1,33 @@
+{
+  "id": "qvjpynx32",
+  "url": "https://constellation.church/qvjpynx32",
+  "name": "United Church of Friendship",
+  "displayName": "United Church of Friendship",
+  "address": {
+    "street": "31 E Main St",
+    "city": "Friendship",
+    "state": "NY",
+    "zip": "14739"
+  },
+  "coordinates": {
+    "latitude": 42.2086181640625,
+    "longitude": -78.13190078735352
+  },
+  "website": "https://unitedchurchfriendship.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=b4cea3d0-a025-4951-948e-f4a0ac4c414e&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "b4cea3d0-a025-4951-948e-f4a0ac4c414e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "unitedchurchfriendship.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "166031608"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "egd359263",
+  "url": "https://constellation.church/egd359263",
+  "name": "Lutheran Church Of The Atonement",
+  "displayName": "Lutheran Church Of The Atonement",
+  "address": {
+    "street": "909 E Main St",
+    "city": "Barrington",
+    "state": "IL",
+    "zip": "60010-4688"
+  },
+  "coordinates": {
+    "latitude": 42.15353202819824,
+    "longitude": -88.12043762207031
+  },
+  "website": "https://churchofatonement.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=edf7b95d-5bdd-496f-904f-d368eb3c2c06",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "edf7b95d-5bdd-496f-904f-d368eb3c2c06"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchofatonement.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366424125"
+    }
+  ],
+  "advisories": []
+}

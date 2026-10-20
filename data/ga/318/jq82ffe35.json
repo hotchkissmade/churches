@@ -1,0 +1,33 @@
+{
+  "id": "jq82ffe35",
+  "url": "https://constellation.church/jq82ffe35",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "1218 Chalybeate Rd",
+    "city": "Manchester",
+    "state": "GA",
+    "zip": "31816"
+  },
+  "coordinates": {
+    "latitude": 32.85931205749512,
+    "longitude": -84.58577728271484
+  },
+  "website": "https://manchesterag.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a5f0f392-c1de-4b6c-b833-a74cc495b433&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "a5f0f392-c1de-4b6c-b833-a74cc495b433"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "manchesterag.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581376152"
+    }
+  ],
+  "advisories": []
+}

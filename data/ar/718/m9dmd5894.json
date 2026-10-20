@@ -1,0 +1,33 @@
+{
+  "id": "m9dmd5894",
+  "url": "https://constellation.church/m9dmd5894",
+  "name": "Prescott First Baptist Church",
+  "displayName": "Prescott First Baptist Church",
+  "address": {
+    "street": "201 E Main St",
+    "city": "Prescott",
+    "state": "AR",
+    "zip": "71857"
+  },
+  "coordinates": {
+    "latitude": 30.736923217773438,
+    "longitude": -88.07852172851562
+  },
+  "website": "https://firstbaptistchurchprescott.com",
+  "listingUrl": "https://churches.sbc.net/church/prescott-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "prescott-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistchurchprescott.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "866006688"
+    }
+  ],
+  "advisories": []
+}

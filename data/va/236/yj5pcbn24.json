@@ -1,0 +1,33 @@
+{
+  "id": "yj5pcbn24",
+  "url": "https://constellation.church/yj5pcbn24",
+  "name": "Hilton Baptist Church",
+  "displayName": "Hilton Baptist Church",
+  "address": {
+    "street": "101 Main St",
+    "city": "Newport News",
+    "state": "VA",
+    "zip": "23601"
+  },
+  "coordinates": {
+    "latitude": 37.03311347961426,
+    "longitude": -76.46036148071289
+  },
+  "website": "https://hiltonbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/hilton-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hilton-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hiltonbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540652493"
+    }
+  ],
+  "advisories": []
+}

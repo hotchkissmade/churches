@@ -1,0 +1,33 @@
+{
+  "id": "w5vm0r496",
+  "url": "https://constellation.church/w5vm0r496",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "804 E. Jackson Road",
+    "city": "Union",
+    "state": "MS",
+    "zip": "39365"
+  },
+  "coordinates": {
+    "latitude": 32.57075309753418,
+    "longitude": -89.11039733886719
+  },
+  "website": "https://firstpresunion.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/459",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "459"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpresunion.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640691461"
+    }
+  ],
+  "advisories": []
+}

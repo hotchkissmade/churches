@@ -1,0 +1,33 @@
+{
+  "id": "sh1sj2d81",
+  "url": "https://constellation.church/sh1sj2d81",
+  "name": "First Southern Baptist Church of Mattoon",
+  "displayName": "First Southern Baptist Church of Mattoon",
+  "address": {
+    "street": "3521 DeWitt Ave",
+    "city": "Mattoon",
+    "state": "IL",
+    "zip": "61938"
+  },
+  "coordinates": {
+    "latitude": 39.48956108093262,
+    "longitude": -88.40231323242188
+  },
+  "website": "https://fsbcmattoon.com",
+  "listingUrl": "https://churches.sbc.net/church/first-southern-baptist-church-of-mattoon/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-southern-baptist-church-of-mattoon"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fsbcmattoon.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371145794"
+    }
+  ],
+  "advisories": []
+}

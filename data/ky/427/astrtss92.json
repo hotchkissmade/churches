@@ -1,0 +1,33 @@
+{
+  "id": "astrtss92",
+  "url": "https://constellation.church/astrtss92",
+  "name": "Lakeside Worship Center",
+  "displayName": "Lakeside Worship Center",
+  "address": {
+    "street": "1801 Ring Rd",
+    "city": "Elizabethtown",
+    "state": "KY",
+    "zip": "42701"
+  },
+  "coordinates": {
+    "latitude": 37.73090362548828,
+    "longitude": -85.87429809570312
+  },
+  "website": "https://lakesideetown.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=71ea0890-e40e-442f-9040-295346f38afd&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "71ea0890-e40e-442f-9040-295346f38afd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lakesideetown.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621257750"
+    }
+  ],
+  "advisories": []
+}

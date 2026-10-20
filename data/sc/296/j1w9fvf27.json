@@ -1,0 +1,33 @@
+{
+  "id": "j1w9fvf27",
+  "url": "https://constellation.church/j1w9fvf27",
+  "name": "Dorchester Baptist Church",
+  "displayName": "Dorchester Baptist Church",
+  "address": {
+    "street": "134 Dorchester Rd",
+    "city": "Belton",
+    "state": "SC",
+    "zip": "29627"
+  },
+  "coordinates": {
+    "latitude": 34.54524040222168,
+    "longitude": -82.52001953125
+  },
+  "website": "https://dbcbelton.org",
+  "listingUrl": "https://churches.sbc.net/church/dorchester-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "dorchester-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dbcbelton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570715722"
+    }
+  ],
+  "advisories": []
+}

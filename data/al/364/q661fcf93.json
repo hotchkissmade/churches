@@ -1,0 +1,33 @@
+{
+  "id": "q661fcf93",
+  "url": "https://constellation.church/q661fcf93",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "108 Florida St",
+    "city": "Brewton",
+    "state": "AL",
+    "zip": "36426"
+  },
+  "coordinates": {
+    "latitude": 31.08800506591797,
+    "longitude": -87.06150817871094
+  },
+  "website": "https://mybrewtonfirst.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d8e5e8d0-3ebd-48d5-9c91-e6a34c8336a2&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d8e5e8d0-3ebd-48d5-9c91-e6a34c8336a2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mybrewtonfirst.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630734227"
+    }
+  ],
+  "advisories": []
+}

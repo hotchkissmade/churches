@@ -1,0 +1,33 @@
+{
+  "id": "c4dcjkt59",
+  "url": "https://constellation.church/c4dcjkt59",
+  "name": "Rogers First Baptist Church",
+  "displayName": "Rogers First Baptist Church",
+  "address": {
+    "street": "3364 W Pleasant Grove Rd",
+    "city": "Rogers",
+    "state": "AR",
+    "zip": "72758"
+  },
+  "coordinates": {
+    "latitude": 36.27997589111328,
+    "longitude": -94.16669845581055
+  },
+  "website": "https://fbcrogers.org",
+  "listingUrl": "https://churches.sbc.net/church/rogers-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "rogers-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcrogers.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "710266956"
+    }
+  ],
+  "advisories": []
+}

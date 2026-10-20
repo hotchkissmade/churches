@@ -1,0 +1,33 @@
+{
+  "id": "gvsrwh823",
+  "url": "https://constellation.church/gvsrwh823",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "1144 W Columbia Ln",
+    "city": "Provo",
+    "state": "UT",
+    "zip": "84604"
+  },
+  "coordinates": {
+    "latitude": 40.25823974609375,
+    "longitude": -111.677001953125
+  },
+  "website": "https://fbcprovo.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-644/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-644"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcprovo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942832034"
+    }
+  ],
+  "advisories": []
+}

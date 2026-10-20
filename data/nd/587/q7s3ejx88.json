@@ -1,0 +1,33 @@
+{
+  "id": "q7s3ejx88",
+  "url": "https://constellation.church/q7s3ejx88",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "120 5th Ave NW",
+    "city": "Minot",
+    "state": "ND",
+    "zip": "58703-2338"
+  },
+  "coordinates": {
+    "latitude": 48.2413215637207,
+    "longitude": -101.29591369628906
+  },
+  "website": "https://flcminot.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=91ebe7ff-7084-45a1-ae11-721d032559ab",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "91ebe7ff-7084-45a1-ae11-721d032559ab"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcminot.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450237747"
+    }
+  ],
+  "advisories": []
+}

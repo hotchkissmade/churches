@@ -1,0 +1,33 @@
+{
+  "id": "vm64nk866",
+  "url": "https://constellation.church/vm64nk866",
+  "name": "Emanuel Lutheran Church",
+  "displayName": "Emanuel Lutheran Church",
+  "address": {
+    "street": "1385 S Main St",
+    "city": "Tipton",
+    "state": "IN",
+    "zip": "46072-8460"
+  },
+  "coordinates": {
+    "latitude": 40.26806640625,
+    "longitude": -86.03966522216797
+  },
+  "website": "https://lutherantipton.org",
+  "listingUrl": "https://locator.lcms.org/church/C/901830",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "901830"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lutherantipton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "350957085"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vjzd5f277",
+  "url": "https://constellation.church/vjzd5f277",
+  "name": "First Baptist Church Sikeston",
+  "displayName": "First Baptist Church Sikeston",
+  "address": {
+    "street": "1101 N Main St",
+    "city": "Sikeston",
+    "state": "MO",
+    "zip": "63801"
+  },
+  "coordinates": {
+    "latitude": 36.889434814453125,
+    "longitude": -89.58716583251953
+  },
+  "website": "https://fbcsikeston.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-sikeston/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-sikeston"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcsikeston.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430744221"
+    }
+  ],
+  "advisories": []
+}

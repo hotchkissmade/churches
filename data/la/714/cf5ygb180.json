@@ -1,0 +1,33 @@
+{
+  "id": "cf5ygb180",
+  "url": "https://constellation.church/cf5ygb180",
+  "name": "East Leesville Baptist Church",
+  "displayName": "East Leesville Baptist Church",
+  "address": {
+    "street": "266 Alexandria Hwy",
+    "city": "Leesville",
+    "state": "LA",
+    "zip": "71446"
+  },
+  "coordinates": {
+    "latitude": 31.159257888793945,
+    "longitude": -93.24613189697266
+  },
+  "website": "https://elbchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/east-leesville-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "east-leesville-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elbchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720908673"
+    }
+  ],
+  "advisories": []
+}

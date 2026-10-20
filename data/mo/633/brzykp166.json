@@ -1,0 +1,33 @@
+{
+  "id": "brzykp166",
+  "url": "https://constellation.church/brzykp166",
+  "name": "Hope Lutheran Church",
+  "displayName": "Hope Lutheran Church",
+  "address": {
+    "street": "1975 S Old Highway 94",
+    "city": "Saint Charles",
+    "state": "MO",
+    "zip": "63303-3726"
+  },
+  "coordinates": {
+    "latitude": 38.76247978210449,
+    "longitude": -90.53092575073242
+  },
+  "website": "https://hopelutheranelca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f5c2538b-0b2e-4009-894b-cb230bd62633",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f5c2538b-0b2e-4009-894b-cb230bd62633"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopelutheranelca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431192192"
+    }
+  ],
+  "advisories": []
+}

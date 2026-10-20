@@ -1,0 +1,33 @@
+{
+  "id": "ap84x7r78",
+  "url": "https://constellation.church/ap84x7r78",
+  "name": "Centennial Lutheran Church",
+  "displayName": "Centennial Lutheran Church",
+  "address": {
+    "street": "1330 Hares Hill Rd",
+    "city": "Kimberton",
+    "state": "PA",
+    "zip": "19442"
+  },
+  "coordinates": {
+    "latitude": 40.12916374206543,
+    "longitude": -75.5775260925293
+  },
+  "website": "https://centenniallutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=abcdd646-8956-45cb-87f6-986d6195fa2c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "abcdd646-8956-45cb-87f6-986d6195fa2c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centenniallutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231618219"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xcvf8n810",
+  "url": "https://constellation.church/xcvf8n810",
+  "name": "Church of the Messiah",
+  "displayName": "Church of the Messiah",
+  "address": {
+    "street": "241 N Main Street",
+    "city": "Winter Garden",
+    "state": "FL",
+    "zip": "34787"
+  },
+  "coordinates": {
+    "latitude": 28.569021224975586,
+    "longitude": -81.58546447753906
+  },
+  "website": "https://churchofthemessiah.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-central-florida/list/church-messiah",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-central-florida/church-messiah"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchofthemessiah.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591440066"
+    }
+  ],
+  "advisories": []
+}

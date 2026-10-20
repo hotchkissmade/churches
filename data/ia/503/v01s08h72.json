@@ -1,0 +1,33 @@
+{
+  "id": "v01s08h72",
+  "url": "https://constellation.church/v01s08h72",
+  "name": "Cottage Grove Church",
+  "displayName": "Cottage Grove Church",
+  "address": {
+    "street": "1050 24th Street",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50311"
+  },
+  "coordinates": {
+    "latitude": 41.5969123840332,
+    "longitude": -93.6498794555664
+  },
+  "website": "https://cottagegrovedsm.com",
+  "listingUrl": "https://churches.sbc.net/church/cottage-grove-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cottage-grove-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cottagegrovedsm.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "814004439"
+    }
+  ],
+  "advisories": []
+}

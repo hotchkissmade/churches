@@ -1,0 +1,33 @@
+{
+  "id": "mf3qfva67",
+  "url": "https://constellation.church/mf3qfva67",
+  "name": "St Andrews Baptist Church",
+  "displayName": "St. Andrew's Baptist Church",
+  "address": {
+    "street": "230 Bush River Rd",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29210"
+  },
+  "coordinates": {
+    "latitude": 34.03039360046387,
+    "longitude": -81.08884811401367
+  },
+  "website": "https://mysabc.org",
+  "listingUrl": "https://churches.sbc.net/church/st-andrews-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "st-andrews-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mysabc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570407752"
+    }
+  ],
+  "advisories": []
+}

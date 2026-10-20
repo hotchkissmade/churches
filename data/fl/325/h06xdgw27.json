@@ -1,0 +1,33 @@
+{
+  "id": "h06xdgw27",
+  "url": "https://constellation.church/h06xdgw27",
+  "name": "Pine Terrace Baptist Church",
+  "displayName": "Pine Terrace Baptist Church",
+  "address": {
+    "street": "6212 Pine Blossom Rd",
+    "city": "Milton",
+    "state": "FL",
+    "zip": "32570"
+  },
+  "coordinates": {
+    "latitude": 30.661216735839844,
+    "longitude": -87.07889175415039
+  },
+  "website": "https://ptbc.org",
+  "listingUrl": "https://churches.sbc.net/church/pine-terrace-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pine-terrace-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ptbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591498226"
+    }
+  ],
+  "advisories": []
+}

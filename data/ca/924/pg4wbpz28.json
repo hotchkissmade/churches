@@ -1,0 +1,33 @@
+{
+  "id": "pg4wbpz28",
+  "url": "https://constellation.church/pg4wbpz28",
+  "name": "First Baptist Church San Bernardino (State St)",
+  "displayName": "First Baptist Church San Bernardino (State St)",
+  "address": {
+    "street": "4747 N State St",
+    "city": "San Bernardino",
+    "state": "CA",
+    "zip": "92407"
+  },
+  "coordinates": {
+    "latitude": 34.171104431152344,
+    "longitude": -117.3302993774414
+  },
+  "website": "https://fbcfamily.one/constitution-amp-bylaws",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-san-bernardino-state-st/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-san-bernardino-state-st"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcfamily.one/constitution-amp-bylaws"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951866076"
+    }
+  ],
+  "advisories": []
+}

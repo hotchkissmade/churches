@@ -1,0 +1,33 @@
+{
+  "id": "t1ga5wy14",
+  "url": "https://constellation.church/t1ga5wy14",
+  "name": "St. Mark's, Capitol Hill",
+  "displayName": "St. Mark's, Capitol Hill",
+  "address": {
+    "street": "301 A St SE",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20003-3812"
+  },
+  "coordinates": {
+    "latitude": 38.88852882385254,
+    "longitude": -77.00178527832031
+  },
+  "website": "https://stmarks.net",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/st-marks-capitol-hill",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/st-marks-capitol-hill"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarks.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "530204649"
+    }
+  ],
+  "advisories": []
+}

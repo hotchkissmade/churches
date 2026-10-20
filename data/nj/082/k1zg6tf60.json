@@ -1,0 +1,37 @@
+{
+  "id": "k1zg6tf60",
+  "url": "https://constellation.church/k1zg6tf60",
+  "name": "First Presbyterian Church of Ocean City",
+  "displayName": "First Presbyterian Church of Ocean City",
+  "address": {
+    "street": "701 Wesley Ave",
+    "city": "Ocean City",
+    "state": "NJ",
+    "zip": "08226"
+  },
+  "coordinates": {
+    "latitude": 39.27969551086426,
+    "longitude": -74.57207870483398
+  },
+  "website": "https://firstpresocnj.net",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/7031",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "7031"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpresocnj.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221828244"
+    },
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "5052"
+    }
+  ],
+  "advisories": []
+}

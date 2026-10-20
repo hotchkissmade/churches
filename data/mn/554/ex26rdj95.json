@@ -1,0 +1,33 @@
+{
+  "id": "ex26rdj95",
+  "url": "https://constellation.church/ex26rdj95",
+  "name": "Transfiguration Lutheran Church",
+  "displayName": "Transfiguration Lutheran Church",
+  "address": {
+    "street": "11000 France Ave S",
+    "city": "Bloomington",
+    "state": "MN",
+    "zip": "55431-3856"
+  },
+  "coordinates": {
+    "latitude": 44.80416488647461,
+    "longitude": -93.3308334350586
+  },
+  "website": "https://tlcmn.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d9396bb4-d12d-48cb-9694-47f5a27083af",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d9396bb4-d12d-48cb-9694-47f5a27083af"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcmn.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410850643"
+    }
+  ],
+  "advisories": []
+}

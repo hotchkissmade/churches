@@ -1,0 +1,33 @@
+{
+  "id": "v44fdd265",
+  "url": "https://constellation.church/v44fdd265",
+  "name": "Farmington First Baptist Church",
+  "displayName": "Farmington First Baptist Church",
+  "address": {
+    "street": "589 Rheas Mill Rd",
+    "city": "Farmington",
+    "state": "AR",
+    "zip": "72730"
+  },
+  "coordinates": {
+    "latitude": 36.042131423950195,
+    "longitude": -94.2662124633789
+  },
+  "website": "https://farmingtonfirst.com/about",
+  "listingUrl": "https://churches.sbc.net/church/farmington-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "farmington-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "farmingtonfirst.com/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "710557007"
+    }
+  ],
+  "advisories": []
+}

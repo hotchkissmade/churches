@@ -1,0 +1,33 @@
+{
+  "id": "kbfjcgn98",
+  "url": "https://constellation.church/kbfjcgn98",
+  "name": "Messiah Lutheran Church",
+  "displayName": "Messiah Lutheran Church",
+  "address": {
+    "street": "3186 Eaton Rd",
+    "city": "Green Bay",
+    "state": "WI",
+    "zip": "54311-6827"
+  },
+  "coordinates": {
+    "latitude": 44.46539306640625,
+    "longitude": -87.92327880859375
+  },
+  "website": "https://messiahgb.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/25052",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "25052"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "messiahgb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391845367"
+    }
+  ],
+  "advisories": []
+}

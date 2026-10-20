@@ -1,0 +1,33 @@
+{
+  "id": "gkb462489",
+  "url": "https://constellation.church/gkb462489",
+  "name": "Silver Spring United Methodist Church",
+  "displayName": "Silver Spring United Methodist Church",
+  "address": {
+    "street": "8900 Georgia Ave",
+    "city": "Silver Spring",
+    "state": "MD",
+    "zip": "20910-2757"
+  },
+  "coordinates": {
+    "latitude": 39.001163482666016,
+    "longitude": -77.03438949584961
+  },
+  "website": "https://silverspringumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFLM8IAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFLM8IAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "silverspringumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520669691"
+    }
+  ],
+  "advisories": []
+}

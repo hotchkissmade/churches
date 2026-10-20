@@ -1,0 +1,33 @@
+{
+  "id": "ty6bjyj03",
+  "url": "https://constellation.church/ty6bjyj03",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "6810 Winnetka Ave N",
+    "city": "Brooklyn Park",
+    "state": "MN",
+    "zip": "55428-2156"
+  },
+  "coordinates": {
+    "latitude": 45.07952117919922,
+    "longitude": -93.38056945800781
+  },
+  "website": "https://gracelcms.org",
+  "listingUrl": "https://locator.lcms.org/church/C/111141",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "111141"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelcms.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410962700"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sr2fz9x37",
+  "url": "https://constellation.church/sr2fz9x37",
+  "name": "St Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "600 Mulberry St",
+    "city": "Scottdale",
+    "state": "PA",
+    "zip": "15683-1603"
+  },
+  "coordinates": {
+    "latitude": 40.10409355163574,
+    "longitude": -79.59074020385742
+  },
+  "website": "https://stpaulsofscottdale.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8f9851f1-8247-4751-bf05-170b0a84a83a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8f9851f1-8247-4751-bf05-170b0a84a83a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsofscottdale.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "256087400"
+    }
+  ],
+  "advisories": []
+}

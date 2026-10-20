@@ -1,0 +1,33 @@
+{
+  "id": "pdtvbwb14",
+  "url": "https://constellation.church/pdtvbwb14",
+  "name": "City Church at Northside",
+  "displayName": "City Church at Northside",
+  "address": {
+    "street": "530 Airport Rd",
+    "city": "Panama City",
+    "state": "FL",
+    "zip": "32405"
+  },
+  "coordinates": {
+    "latitude": 30.182687759399414,
+    "longitude": -85.66777420043945
+  },
+  "website": "https://citychurchpc.com",
+  "listingUrl": "https://churches.sbc.net/church/city-church-at-northside/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "city-church-at-northside"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "citychurchpc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591475367"
+    }
+  ],
+  "advisories": []
+}

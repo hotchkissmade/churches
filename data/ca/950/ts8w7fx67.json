@@ -1,0 +1,33 @@
+{
+  "id": "ts8w7fx67",
+  "url": "https://constellation.church/ts8w7fx67",
+  "name": "Good Shepherd Lutheran Church",
+  "displayName": "Good Shepherd Lutheran Church",
+  "address": {
+    "street": "1735 Hecker Pass Hwy",
+    "city": "Gilroy",
+    "state": "CA",
+    "zip": "95020-8837"
+  },
+  "coordinates": {
+    "latitude": 37.01315116882324,
+    "longitude": -121.60340881347656
+  },
+  "website": "https://goodshepherdlcgilroy.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f476d94b-3234-473a-87c3-562686a61172",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f476d94b-3234-473a-87c3-562686a61172"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherdlcgilroy.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "946084544"
+    }
+  ],
+  "advisories": []
+}

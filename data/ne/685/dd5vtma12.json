@@ -1,0 +1,33 @@
+{
+  "id": "dd5vtma12",
+  "url": "https://constellation.church/dd5vtma12",
+  "name": "Sheridan Lutheran Church",
+  "displayName": "Sheridan Lutheran Church",
+  "address": {
+    "street": "6955 Old Cheney Rd",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68516-3565"
+  },
+  "coordinates": {
+    "latitude": 40.75415229797363,
+    "longitude": -96.62687683105469
+  },
+  "website": "https://sheridanlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7c5590e5-3661-4ebf-846b-39b08426b8d1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7c5590e5-3661-4ebf-846b-39b08426b8d1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sheridanlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470484855"
+    }
+  ],
+  "advisories": []
+}

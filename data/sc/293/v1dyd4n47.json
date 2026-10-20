@@ -1,0 +1,33 @@
+{
+  "id": "v1dyd4n47",
+  "url": "https://constellation.church/v1dyd4n47",
+  "name": "North Point Church",
+  "displayName": "North Point Church",
+  "address": {
+    "street": "122 Caggiano Dr",
+    "city": "Gaffney",
+    "state": "SC",
+    "zip": "29341"
+  },
+  "coordinates": {
+    "latitude": 35.06060600280762,
+    "longitude": -81.67745208740234
+  },
+  "website": "https://northpointgaffney.com",
+  "listingUrl": "https://churches.sbc.net/church/north-point-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "north-point-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northpointgaffney.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "201754161"
+    }
+  ],
+  "advisories": []
+}

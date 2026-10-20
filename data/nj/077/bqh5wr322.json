@@ -1,0 +1,33 @@
+{
+  "id": "bqh5wr322",
+  "url": "https://constellation.church/bqh5wr322",
+  "name": "Redeemer Church",
+  "displayName": "Redeemer Church",
+  "address": {
+    "street": "3531 State Highway 33",
+    "city": "Neptune",
+    "state": "NJ",
+    "zip": "07753-3003"
+  },
+  "coordinates": {
+    "latitude": 40.20958709716797,
+    "longitude": -74.08406829833984
+  },
+  "website": "https://redeemer-nj.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f2ced41b-6c77-4b7a-9efa-c26104641ed6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f2ced41b-6c77-4b7a-9efa-c26104641ed6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemer-nj.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "210736868"
+    }
+  ],
+  "advisories": []
+}

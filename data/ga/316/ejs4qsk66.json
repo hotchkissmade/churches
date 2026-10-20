@@ -1,0 +1,33 @@
+{
+  "id": "ejs4qsk66",
+  "url": "https://constellation.church/ejs4qsk66",
+  "name": "Boston Baptist Church",
+  "displayName": "Boston Baptist Church",
+  "address": {
+    "street": "143 Main St",
+    "city": "Boston",
+    "state": "GA",
+    "zip": "31626"
+  },
+  "coordinates": {
+    "latitude": 30.790510177612305,
+    "longitude": -83.79012298583984
+  },
+  "website": "https://bostonbaptistga.com",
+  "listingUrl": "https://churches.sbc.net/church/boston-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "boston-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bostonbaptistga.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581570662"
+    }
+  ],
+  "advisories": []
+}

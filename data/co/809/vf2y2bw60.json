@@ -1,0 +1,33 @@
+{
+  "id": "vf2y2bw60",
+  "url": "https://constellation.church/vf2y2bw60",
+  "name": "Garden Ranch Baptist Church",
+  "displayName": "Garden Ranch Baptist Church",
+  "address": {
+    "street": "3830 Van Teylingen Dr",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80917"
+  },
+  "coordinates": {
+    "latitude": 38.88709259033203,
+    "longitude": -104.76172637939453
+  },
+  "website": "https://gpcccos.org/index.aspx",
+  "listingUrl": "https://churches.sbc.net/church/garden-ranch-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "garden-ranch-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gpcccos.org/index.aspx"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920768649"
+    }
+  ],
+  "advisories": []
+}

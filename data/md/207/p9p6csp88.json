@@ -1,0 +1,33 @@
+{
+  "id": "p9p6csp88",
+  "url": "https://constellation.church/p9p6csp88",
+  "name": "Belair Baptist Church",
+  "displayName": "Belair Baptist Church",
+  "address": {
+    "street": "2801 Belair Dr",
+    "city": "Bowie",
+    "state": "MD",
+    "zip": "20715"
+  },
+  "coordinates": {
+    "latitude": 38.9645048,
+    "longitude": -76.7389156
+  },
+  "website": "https://belairbaptistchurchbowie.org",
+  "listingUrl": "https://churches.sbc.net/church/belair-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "belair-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "belairbaptistchurchbowie.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520815839"
+    }
+  ],
+  "advisories": []
+}

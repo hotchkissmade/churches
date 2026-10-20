@@ -1,0 +1,33 @@
+{
+  "id": "gw5kbvy04",
+  "url": "https://constellation.church/gw5kbvy04",
+  "name": "Westmont Baptist Church",
+  "displayName": "Westmont Baptist Church",
+  "address": {
+    "street": "115 Jeffrey Dr",
+    "city": "Johnstown",
+    "state": "PA",
+    "zip": "15905"
+  },
+  "coordinates": {
+    "latitude": 40.317779541015625,
+    "longitude": -78.97989273071289
+  },
+  "website": "https://westmontbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/westmont-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "westmont-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westmontbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251301988"
+    }
+  ],
+  "advisories": []
+}

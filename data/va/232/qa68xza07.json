@@ -1,0 +1,33 @@
+{
+  "id": "qa68xza07",
+  "url": "https://constellation.church/qa68xza07",
+  "name": "Vertical Church",
+  "displayName": "Vertical Church",
+  "address": {
+    "street": "12025 Gayton Rd",
+    "city": "Henrico",
+    "state": "VA",
+    "zip": "23238"
+  },
+  "coordinates": {
+    "latitude": 37.61429786682129,
+    "longitude": -77.63373947143555
+  },
+  "website": "https://vertchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/vertical-church-4/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "vertical-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "vertchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900815715"
+    }
+  ],
+  "advisories": []
+}

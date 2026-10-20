@@ -1,0 +1,33 @@
+{
+  "id": "ccn23ej29",
+  "url": "https://constellation.church/ccn23ej29",
+  "name": "Lifehouse MOT",
+  "displayName": "Lifehouse MOT",
+  "address": {
+    "street": "101 Karins Blvd",
+    "city": "Townsend",
+    "state": "DE",
+    "zip": "19734"
+  },
+  "coordinates": {
+    "latitude": 39.40550994873047,
+    "longitude": -75.69601440429688
+  },
+  "website": "https://lifehousemot.com",
+  "listingUrl": "https://churches.sbc.net/church/lifehouse-mot/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lifehouse-mot"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lifehousemot.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "300702294"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dce79st20",
+  "url": "https://constellation.church/dce79st20",
+  "name": "Ypsilanti Assembly of God",
+  "displayName": "Ypsilanti Assembly of God",
+  "address": {
+    "street": "701 Holmes Rd",
+    "city": "Ypsilanti",
+    "state": "MI",
+    "zip": "48198"
+  },
+  "coordinates": {
+    "latitude": 42.253787994384766,
+    "longitude": -83.59933090209961
+  },
+  "website": "https://ypsiag.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=695e44e9-eb8d-4673-b074-47abc2a25b30&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "695e44e9-eb8d-4673-b074-47abc2a25b30"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ypsiag.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382174139"
+    }
+  ],
+  "advisories": []
+}

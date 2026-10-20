@@ -1,0 +1,33 @@
+{
+  "id": "eey3y9842",
+  "url": "https://constellation.church/eey3y9842",
+  "name": "Church in Elyria",
+  "displayName": "Church in Elyria",
+  "address": {
+    "street": "626 Woodland Ave",
+    "city": "Elyria",
+    "state": "OH",
+    "zip": "44035"
+  },
+  "coordinates": {
+    "latitude": 41.36425590515137,
+    "longitude": -82.11635208129883
+  },
+  "website": "https://churchinelyria.org",
+  "listingUrl": "https://localchurches.org/churches/elyria-oh-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "elyria-oh-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinelyria.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341597785"
+    }
+  ],
+  "advisories": []
+}

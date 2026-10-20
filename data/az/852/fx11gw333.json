@@ -1,0 +1,33 @@
+{
+  "id": "fx11gw333",
+  "url": "https://constellation.church/fx11gw333",
+  "name": "Citypoint Church",
+  "displayName": "Citypoint Church",
+  "address": {
+    "street": "1001 E Southern Ave",
+    "city": "Tempe",
+    "state": "AZ",
+    "zip": "85282"
+  },
+  "coordinates": {
+    "latitude": 33.39228630065918,
+    "longitude": -111.92378997802734
+  },
+  "website": "https://citypointaz.com",
+  "listingUrl": "https://churches.sbc.net/church/citypoint-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "citypoint-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "citypointaz.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "830811531"
+    }
+  ],
+  "advisories": []
+}

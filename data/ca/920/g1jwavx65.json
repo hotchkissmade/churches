@@ -1,0 +1,33 @@
+{
+  "id": "g1jwavx65",
+  "url": "https://constellation.church/g1jwavx65",
+  "name": "Venture Church",
+  "displayName": "Venture Church",
+  "address": {
+    "street": "777 Santa Fe Dr",
+    "city": "Encinitas",
+    "state": "CA",
+    "zip": "92024"
+  },
+  "coordinates": {
+    "latitude": 33.03609275817871,
+    "longitude": -117.27544403076172
+  },
+  "website": "https://venturechurch.tv/online",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=dda44298-a522-49b7-bef1-4f5609ec6c94&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "dda44298-a522-49b7-bef1-4f5609ec6c94"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "venturechurch.tv/online"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "824204224"
+    }
+  ],
+  "advisories": []
+}

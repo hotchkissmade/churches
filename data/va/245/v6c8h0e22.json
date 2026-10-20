@@ -1,0 +1,33 @@
+{
+  "id": "v6c8h0e22",
+  "url": "https://constellation.church/v6c8h0e22",
+  "name": "Ebenezer Baptist",
+  "displayName": "Ebenezer Baptist Church",
+  "address": {
+    "street": "267 Ebenezer Rd",
+    "city": "Gladys",
+    "state": "VA",
+    "zip": "24554"
+  },
+  "coordinates": {
+    "latitude": 37.09539222717285,
+    "longitude": -78.99758529663086
+  },
+  "website": "https://ebenezerbaptistva.com",
+  "listingUrl": "https://churches.sbc.net/church/ebenezer-baptist/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "ebenezer-baptist"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ebenezerbaptistva.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541055327"
+    }
+  ],
+  "advisories": []
+}

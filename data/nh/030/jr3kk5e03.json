@@ -1,0 +1,33 @@
+{
+  "id": "jr3kk5e03",
+  "url": "https://constellation.church/jr3kk5e03",
+  "name": "Messiah Lutheran Church",
+  "displayName": "Messiah Lutheran Church",
+  "address": {
+    "street": "303 Route 101",
+    "city": "Amherst",
+    "state": "NH",
+    "zip": "03031-1737"
+  },
+  "coordinates": {
+    "latitude": 42.89817428588867,
+    "longitude": -71.5919418334961
+  },
+  "website": "https://messiahnh.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f058d2f3-6bfb-4811-bb9e-8c2dce17245c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f058d2f3-6bfb-4811-bb9e-8c2dce17245c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "messiahnh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "020404543"
+    }
+  ],
+  "advisories": []
+}

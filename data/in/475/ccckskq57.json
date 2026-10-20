@@ -1,0 +1,33 @@
+{
+  "id": "ccckskq57",
+  "url": "https://constellation.church/ccckskq57",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "110 NE Second St",
+    "city": "Washington",
+    "state": "IN",
+    "zip": "47558"
+  },
+  "coordinates": {
+    "latitude": 38.65841293334961,
+    "longitude": -87.17317199707031
+  },
+  "website": "https://wpcwash.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/2307/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "2307"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wpcwash.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351037017"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rqh3b5692",
+  "url": "https://constellation.church/rqh3b5692",
+  "name": "St. Bartholomew's Episcopal Church",
+  "displayName": "St. Bartholomew's Episcopal Church",
+  "address": {
+    "street": "4711 Edmondson Ave",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21229-1440"
+  },
+  "coordinates": {
+    "latitude": 39.292320251464844,
+    "longitude": -76.69900894165039
+  },
+  "website": "https://stbs-md.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maryland/list/st-bartholomews-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maryland/st-bartholomews-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stbs-md.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520591394"
+    }
+  ],
+  "advisories": []
+}

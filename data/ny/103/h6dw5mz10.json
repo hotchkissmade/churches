@@ -1,0 +1,33 @@
+{
+  "id": "h6dw5mz10",
+  "url": "https://constellation.church/h6dw5mz10",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "309 St Pauls Ave",
+    "city": "Staten Island",
+    "state": "NY",
+    "zip": "10304-2217"
+  },
+  "coordinates": {
+    "latitude": 40.63006591796875,
+    "longitude": -74.08157348632812
+  },
+  "website": "https://trinitylutheransi.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c21237d2-f32c-44f6-aab0-53dc16198aba",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c21237d2-f32c-44f6-aab0-53dc16198aba"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylutheransi.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "135596829"
+    }
+  ],
+  "advisories": []
+}

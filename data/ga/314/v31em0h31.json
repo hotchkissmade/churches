@@ -1,0 +1,33 @@
+{
+  "id": "v31em0h31",
+  "url": "https://constellation.church/v31em0h31",
+  "name": "Redeemer Lutheran Church",
+  "displayName": "Redeemer Lutheran Church",
+  "address": {
+    "street": "51 Wilmington Island Rd",
+    "city": "Savannah",
+    "state": "GA",
+    "zip": "31410-3704"
+  },
+  "coordinates": {
+    "latitude": 32.01278495788574,
+    "longitude": -80.98456192016602
+  },
+  "website": "https://redeemersav.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=853c795e-134d-4419-9a4d-182bc6286a06",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "853c795e-134d-4419-9a4d-182bc6286a06"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemersav.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581524679"
+    }
+  ],
+  "advisories": []
+}

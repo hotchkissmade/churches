@@ -1,0 +1,33 @@
+{
+  "id": "t4gjfj088",
+  "url": "https://constellation.church/t4gjfj088",
+  "name": "Cathedral Church of St. Mark",
+  "displayName": "Cathedral Church of St. Mark",
+  "address": {
+    "street": "519 Oak Grove St",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55403-3230"
+  },
+  "coordinates": {
+    "latitude": 44.96826171875,
+    "longitude": -93.28693389892578
+  },
+  "website": "https://ourcathedral.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/cathedral-church-st-mark",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/cathedral-church-st-mark"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ourcathedral.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410693941"
+    }
+  ],
+  "advisories": []
+}

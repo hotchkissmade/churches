@@ -1,0 +1,33 @@
+{
+  "id": "pa09fp714",
+  "url": "https://constellation.church/pa09fp714",
+  "name": "West End Baptist Church of Greenville",
+  "displayName": "West End Baptist Church of Greenville",
+  "address": {
+    "street": "123 Arlington Ave",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29601"
+  },
+  "coordinates": {
+    "latitude": 34.84063911437988,
+    "longitude": -82.41229629516602
+  },
+  "website": "https://webcgreenville.org",
+  "listingUrl": "https://churches.sbc.net/church/west-end-baptist-church-of-greenville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "west-end-baptist-church-of-greenville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "webcgreenville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570314452"
+    }
+  ],
+  "advisories": []
+}

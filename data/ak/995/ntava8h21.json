@@ -1,0 +1,33 @@
+{
+  "id": "ntava8h21",
+  "url": "https://constellation.church/ntava8h21",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "3230 Lake Otis Pkwy",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "99508-4570"
+  },
+  "coordinates": {
+    "latitude": 61.19150161743164,
+    "longitude": -149.8388214111328
+  },
+  "website": "https://stmarkalaska.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cb43362b-6771-4cd6-bea7-294b55e3572c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cb43362b-6771-4cd6-bea7-294b55e3572c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkalaska.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920035618"
+    }
+  ],
+  "advisories": []
+}

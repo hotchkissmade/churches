@@ -1,0 +1,33 @@
+{
+  "id": "n5r806480",
+  "url": "https://constellation.church/n5r806480",
+  "name": "West Side Church",
+  "displayName": "West Side Church",
+  "address": {
+    "street": "615 Wright Ave",
+    "city": "Richland",
+    "state": "WA",
+    "zip": "99352"
+  },
+  "coordinates": {
+    "latitude": 46.274505615234375,
+    "longitude": -119.2979965209961
+  },
+  "website": "https://westsidechurchrichland.org",
+  "listingUrl": "https://eco-pres.org/churches/west-side-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "west-side-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westsidechurchrichland.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "916001996"
+    }
+  ],
+  "advisories": []
+}

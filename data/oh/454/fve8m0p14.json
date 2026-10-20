@@ -1,0 +1,33 @@
+{
+  "id": "fve8m0p14",
+  "url": "https://constellation.church/fve8m0p14",
+  "name": "Moraine City Baptist Church",
+  "displayName": "Moraine City Baptist Church",
+  "address": {
+    "street": "2748 Gladstone St",
+    "city": "Dayton",
+    "state": "OH",
+    "zip": "45439"
+  },
+  "coordinates": {
+    "latitude": 39.70564651489258,
+    "longitude": -84.2265853881836
+  },
+  "website": "https://mcbaptist.church",
+  "listingUrl": "https://churches.sbc.net/church/moraine-city-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "moraine-city-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mcbaptist.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311079778"
+    }
+  ],
+  "advisories": []
+}

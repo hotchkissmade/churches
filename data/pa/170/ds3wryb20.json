@@ -1,0 +1,33 @@
+{
+  "id": "ds3wryb20",
+  "url": "https://constellation.church/ds3wryb20",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "2261 Shippen Dam Rd",
+    "city": "Millersburg",
+    "state": "PA",
+    "zip": "17061"
+  },
+  "coordinates": {
+    "latitude": 40.58633613586426,
+    "longitude": -76.91695404052734
+  },
+  "website": "https://millersburgag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=93699a3b-0e3a-4e1b-ab9d-fb093d12ae2d&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "93699a3b-0e3a-4e1b-ab9d-fb093d12ae2d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "millersburgag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "233069918"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vrmfrgm04",
+  "url": "https://constellation.church/vrmfrgm04",
+  "name": "Trinity Presbyterian Church",
+  "displayName": "Trinity Presbyterian Church",
+  "address": {
+    "street": "571 East Main Street",
+    "city": "Statesboro",
+    "state": "GA",
+    "zip": "30461"
+  },
+  "coordinates": {
+    "latitude": 32.45524787902832,
+    "longitude": -81.74864196777344
+  },
+  "website": "https://tpcstatesboro.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1008",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1008"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tpcstatesboro.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581594054"
+    }
+  ],
+  "advisories": []
+}

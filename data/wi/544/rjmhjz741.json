@@ -1,0 +1,33 @@
+{
+  "id": "rjmhjz741",
+  "url": "https://constellation.church/rjmhjz741",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "321 N Park Ave",
+    "city": "Medford",
+    "state": "WI",
+    "zip": "54451-1420"
+  },
+  "coordinates": {
+    "latitude": 45.140031814575195,
+    "longitude": -90.3514175415039
+  },
+  "website": "https://stpaulsmedford.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0e44690a-b422-4bfa-8ac7-cf1bd801b4ce",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0e44690a-b422-4bfa-8ac7-cf1bd801b4ce"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsmedford.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391449861"
+    }
+  ],
+  "advisories": []
+}

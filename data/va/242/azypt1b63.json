@@ -1,0 +1,33 @@
+{
+  "id": "azypt1b63",
+  "url": "https://constellation.church/azypt1b63",
+  "name": "Redeemer Lutheran Church",
+  "displayName": "Redeemer Lutheran Church",
+  "address": {
+    "street": "1370 Island Rd",
+    "city": "Bristol",
+    "state": "VA",
+    "zip": "24201-7475"
+  },
+  "coordinates": {
+    "latitude": 36.61161804199219,
+    "longitude": -82.20329666137695
+  },
+  "website": "https://bristolredeemer.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7ddd40d4-310d-4f18-b9bd-05453a6d8e16",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7ddd40d4-310d-4f18-b9bd-05453a6d8e16"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bristolredeemer.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620518281"
+    }
+  ],
+  "advisories": []
+}

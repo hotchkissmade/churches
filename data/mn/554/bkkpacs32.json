@@ -1,0 +1,33 @@
+{
+  "id": "bkkpacs32",
+  "url": "https://constellation.church/bkkpacs32",
+  "name": "Southtown Baptist Church",
+  "displayName": "Southtown Baptist Church",
+  "address": {
+    "street": "2600 W 82nd St",
+    "city": "Bloomington",
+    "state": "MN",
+    "zip": "55431"
+  },
+  "coordinates": {
+    "latitude": 44.85581588745117,
+    "longitude": -93.31315612792969
+  },
+  "website": "https://tcmba.online/summer-camp.html",
+  "listingUrl": "https://churches.sbc.net/church/southtown-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "southtown-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tcmba.online/summer-camp.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410915347"
+    }
+  ],
+  "advisories": []
+}

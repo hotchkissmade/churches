@@ -1,0 +1,33 @@
+{
+  "id": "q470zz197",
+  "url": "https://constellation.church/q470zz197",
+  "name": "Church by the Glades",
+  "displayName": "Church by the Glades",
+  "address": {
+    "street": "400 Lakeview Dr",
+    "city": "Coral Springs",
+    "state": "FL",
+    "zip": "33071"
+  },
+  "coordinates": {
+    "latitude": 26.234540939331055,
+    "longitude": -80.29421997070312
+  },
+  "website": "https://cbglades.com",
+  "listingUrl": "https://churches.sbc.net/church/church-by-the-glades/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "church-by-the-glades"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cbglades.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592441363"
+    }
+  ],
+  "advisories": []
+}

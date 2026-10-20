@@ -1,0 +1,33 @@
+{
+  "id": "ht3bz9694",
+  "url": "https://constellation.church/ht3bz9694",
+  "name": "St. Andrew Church",
+  "displayName": "St. Andrew Church",
+  "address": {
+    "street": "1095 Carlls Straight Path",
+    "city": "Dix Hills",
+    "state": "NY",
+    "zip": "11746-8013"
+  },
+  "coordinates": {
+    "latitude": 40.78511047363281,
+    "longitude": -73.32088088989258
+  },
+  "website": "https://standrewsoca.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ny-dihsac",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ny-dihsac"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewsoca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112779030"
+    }
+  ],
+  "advisories": []
+}

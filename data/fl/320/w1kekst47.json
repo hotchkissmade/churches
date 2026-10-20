@@ -1,0 +1,33 @@
+{
+  "id": "w1kekst47",
+  "url": "https://constellation.church/w1kekst47",
+  "name": "Petra Baptist Church",
+  "displayName": "Petra Baptist Church",
+  "address": {
+    "street": "5845 State Road 16",
+    "city": "St Augustine",
+    "state": "FL",
+    "zip": "32092"
+  },
+  "coordinates": {
+    "latitude": 29.96993637084961,
+    "longitude": -81.50229263305664
+  },
+  "website": "https://petrabaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/petra-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "petra-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "petrabaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "208754983"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gr7fg2a20",
+  "url": "https://constellation.church/gr7fg2a20",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "626 5th St",
+    "city": "Norco",
+    "state": "LA",
+    "zip": "70079"
+  },
+  "coordinates": {
+    "latitude": 30.007627487182617,
+    "longitude": -90.41301727294922
+  },
+  "website": "https://fbcnorco.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-66/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-66"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcnorco.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720780505"
+    }
+  ],
+  "advisories": []
+}

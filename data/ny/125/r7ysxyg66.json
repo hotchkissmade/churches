@@ -1,0 +1,33 @@
+{
+  "id": "r7ysxyg66",
+  "url": "https://constellation.church/r7ysxyg66",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "560 Station Road",
+    "city": "Rock Tavern",
+    "state": "NY",
+    "zip": "12575"
+  },
+  "coordinates": {
+    "latitude": 41.47334671020508,
+    "longitude": -74.12555313110352
+  },
+  "website": "https://westminsterchurch-ny.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1082",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1082"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westminsterchurch-ny.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "146025642"
+    }
+  ],
+  "advisories": []
+}

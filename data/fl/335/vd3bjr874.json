@@ -1,0 +1,33 @@
+{
+  "id": "vd3bjr874",
+  "url": "https://constellation.church/vd3bjr874",
+  "name": "SeaGlass Church",
+  "displayName": "SeaGlass Church",
+  "address": {
+    "street": "202 Flamingo Dr",
+    "city": "Apollo Beach",
+    "state": "FL",
+    "zip": "33572"
+  },
+  "coordinates": {
+    "latitude": 27.765188217163086,
+    "longitude": -82.39669418334961
+  },
+  "website": "https://seaglass.church/privacy",
+  "listingUrl": "https://churches.sbc.net/church/seaglass-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "seaglass-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "seaglass.church/privacy"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "815112231"
+    }
+  ],
+  "advisories": []
+}

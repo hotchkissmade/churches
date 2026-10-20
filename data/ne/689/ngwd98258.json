@@ -1,0 +1,33 @@
+{
+  "id": "ngwd98258",
+  "url": "https://constellation.church/ngwd98258",
+  "name": "North Shore Assembly",
+  "displayName": "North Shore Assembly",
+  "address": {
+    "street": "100 W 33rd St",
+    "city": "Hastings",
+    "state": "NE",
+    "zip": "68901"
+  },
+  "coordinates": {
+    "latitude": 40.619510650634766,
+    "longitude": -98.3850326538086
+  },
+  "website": "https://mynsag.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a99405bd-5305-4169-8ed4-2e15f37064bc&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "a99405bd-5305-4169-8ed4-2e15f37064bc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mynsag.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470650301"
+    }
+  ],
+  "advisories": []
+}

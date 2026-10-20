@@ -1,0 +1,33 @@
+{
+  "id": "mmhn8st45",
+  "url": "https://constellation.church/mmhn8st45",
+  "name": "Mechanicsburg BIC",
+  "displayName": "Mechanicsburg Brethren in Christ Church",
+  "address": {
+    "street": "1050 S York St.",
+    "city": "Mechanicsburg",
+    "state": "PA",
+    "zip": "17055"
+  },
+  "coordinates": {
+    "latitude": 40.198503494262695,
+    "longitude": -77.00735855102539
+  },
+  "website": "https://mcbic.org",
+  "listingUrl": "https://bicus.org/church/mechanicsburg-bic/",
+  "identifiers": [
+    {
+      "namespace": "org.bicus.id",
+      "value": "545"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mcbic.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232167339"
+    }
+  ],
+  "advisories": []
+}

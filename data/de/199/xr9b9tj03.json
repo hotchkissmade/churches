@@ -1,0 +1,33 @@
+{
+  "id": "xr9b9tj03",
+  "url": "https://constellation.church/xr9b9tj03",
+  "name": "Grace Church PCA",
+  "displayName": "Grace Church PCA",
+  "address": {
+    "street": "350 McKee Road",
+    "city": "Dover",
+    "state": "DE",
+    "zip": "19904"
+  },
+  "coordinates": {
+    "latitude": 39.17430877685547,
+    "longitude": -75.55309295654297
+  },
+  "website": "https://gracedover.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/555",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "555"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracedover.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510262834"
+    }
+  ],
+  "advisories": []
+}

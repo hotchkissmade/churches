@@ -1,0 +1,33 @@
+{
+  "id": "rx29eyh34",
+  "url": "https://constellation.church/rx29eyh34",
+  "name": "First Baptist Church Osceola",
+  "displayName": "First Baptist Church Osceola",
+  "address": {
+    "street": "555 Walnut St",
+    "city": "Osceola",
+    "state": "MO",
+    "zip": "64776"
+  },
+  "coordinates": {
+    "latitude": 38.04350471496582,
+    "longitude": -93.70181274414062
+  },
+  "website": "https://osceolafirstbc.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-osceola/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-osceola"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "osceolafirstbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431258988"
+    }
+  ],
+  "advisories": []
+}

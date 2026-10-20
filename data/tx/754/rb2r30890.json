@@ -1,0 +1,33 @@
+{
+  "id": "rb2r30890",
+  "url": "https://constellation.church/rb2r30890",
+  "name": "St. Paul's Episcopal Church",
+  "displayName": "St. Paul's Episcopal Church",
+  "address": {
+    "street": "8320 Jack Finney Blvd",
+    "city": "Greenville",
+    "state": "TX",
+    "zip": "75402-3004"
+  },
+  "coordinates": {
+    "latitude": 33.08682441711426,
+    "longitude": -96.08155822753906
+  },
+  "website": "https://stpaulstx.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-dallas/list/st-pauls-episcopal-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-dallas/st-pauls-episcopal-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulstx.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751100649"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bf1y5c485",
+  "url": "https://constellation.church/bf1y5c485",
+  "name": "Trinity Episcopal Church",
+  "displayName": "Trinity Episcopal Church",
+  "address": {
+    "street": "1415 6th Ave S",
+    "city": "Anoka",
+    "state": "MN",
+    "zip": "55303-5250"
+  },
+  "coordinates": {
+    "latitude": 45.190956115722656,
+    "longitude": -93.38197326660156
+  },
+  "website": "https://trinityanoka.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/trinity-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/trinity-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityanoka.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410991976"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a7hb90017",
+  "url": "https://constellation.church/a7hb90017",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "50 Leversee Rd",
+    "city": "Troy",
+    "state": "NY",
+    "zip": "12182-1612"
+  },
+  "coordinates": {
+    "latitude": 42.78560256958008,
+    "longitude": -73.65220260620117
+  },
+  "website": "https://faithlutherantroy.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=893f2df7-6524-4ad4-9ec8-ab230324b3ac",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "893f2df7-6524-4ad4-9ec8-ab230324b3ac"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithlutherantroy.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "141748608"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tvajwap94",
+  "url": "https://constellation.church/tvajwap94",
+  "name": "Fellowship Church",
+  "displayName": "Fellowship Church",
+  "address": {
+    "street": "901 Monroe St",
+    "city": "Sweetwater",
+    "state": "TN",
+    "zip": "37874"
+  },
+  "coordinates": {
+    "latitude": 35.60048484802246,
+    "longitude": -84.46940612792969
+  },
+  "website": "https://asweetfellowship.com",
+  "listingUrl": "https://churches.sbc.net/church/fellowship-church-5/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "fellowship-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "asweetfellowship.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "901008184"
+    }
+  ],
+  "advisories": []
+}

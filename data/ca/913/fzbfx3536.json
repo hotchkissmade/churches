@@ -1,0 +1,33 @@
+{
+  "id": "fzbfx3536",
+  "url": "https://constellation.church/fzbfx3536",
+  "name": "The House LA",
+  "displayName": "The House LA",
+  "address": {
+    "street": "18355 Roscoe Boulevard",
+    "city": "Northridge",
+    "state": "CA",
+    "zip": "91325"
+  },
+  "coordinates": {
+    "latitude": 34.22146224975586,
+    "longitude": -118.53373718261719
+  },
+  "website": "https://thehousela.org",
+  "listingUrl": "https://lcmc.net/congregation/114058",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "114058"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thehousela.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "452282673"
+    }
+  ],
+  "advisories": []
+}

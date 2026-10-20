@@ -1,0 +1,33 @@
+{
+  "id": "eavqba666",
+  "url": "https://constellation.church/eavqba666",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "215 N Lemon St",
+    "city": "Fullerton",
+    "state": "CA",
+    "zip": "92832-2014"
+  },
+  "coordinates": {
+    "latitude": 33.87148475646973,
+    "longitude": -117.9200668334961
+  },
+  "website": "https://flcfullerton.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5b548b83-d4ae-401e-97c0-f6a5fde9560e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5b548b83-d4ae-401e-97c0-f6a5fde9560e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcfullerton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951916769"
+    }
+  ],
+  "advisories": []
+}

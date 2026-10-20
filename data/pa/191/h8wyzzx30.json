@@ -1,0 +1,33 @@
+{
+  "id": "h8wyzzx30",
+  "url": "https://constellation.church/h8wyzzx30",
+  "name": "Mediator Lutheran Church",
+  "displayName": "Mediator Lutheran Church",
+  "address": {
+    "street": "2832 N 28th St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19132-2511"
+  },
+  "coordinates": {
+    "latitude": 39.99968910217285,
+    "longitude": -75.17648696899414
+  },
+  "website": "https://mediatorlutheranchurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b5a09729-1c7d-47c2-aa29-19b9cd7a3de2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b5a09729-1c7d-47c2-aa29-19b9cd7a3de2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mediatorlutheranchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236430122"
+    }
+  ],
+  "advisories": []
+}

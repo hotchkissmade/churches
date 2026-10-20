@@ -1,0 +1,33 @@
+{
+  "id": "hkgwfvb33",
+  "url": "https://constellation.church/hkgwfvb33",
+  "name": "Central Lutheran Church",
+  "displayName": "Central Lutheran Church",
+  "address": {
+    "street": "28 E Columbia St",
+    "city": "Chippewa Falls",
+    "state": "WI",
+    "zip": "54729-2521"
+  },
+  "coordinates": {
+    "latitude": 44.938533782958984,
+    "longitude": -91.3930892944336
+  },
+  "website": "https://centrallutheran.church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=58f79077-3416-4f25-99f3-ee0ea167b718",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "58f79077-3416-4f25-99f3-ee0ea167b718"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centrallutheran.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390813399"
+    }
+  ],
+  "advisories": []
+}

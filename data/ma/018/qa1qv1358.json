@@ -1,0 +1,33 @@
+{
+  "id": "qa1qv1358",
+  "url": "https://constellation.church/qa1qv1358",
+  "name": "Mount Hope Christian Center",
+  "displayName": "Mount Hope Christian Center",
+  "address": {
+    "street": "3 McGinnis Dr",
+    "city": "Burlington",
+    "state": "MA",
+    "zip": "01803"
+  },
+  "coordinates": {
+    "latitude": 42.38639450073242,
+    "longitude": -71.19107437133789
+  },
+  "website": "https://mounthope.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d28a3b97-5a90-4912-8382-ab20f7d6c595&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d28a3b97-5a90-4912-8382-ab20f7d6c595"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mounthope.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042675864"
+    }
+  ],
+  "advisories": []
+}

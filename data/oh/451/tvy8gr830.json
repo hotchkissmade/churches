@@ -1,0 +1,33 @@
+{
+  "id": "tvy8gr830",
+  "url": "https://constellation.church/tvy8gr830",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "421 E Vine St",
+    "city": "Wilmington",
+    "state": "OH",
+    "zip": "45177-1773"
+  },
+  "coordinates": {
+    "latitude": 39.4508056640625,
+    "longitude": -83.82098007202148
+  },
+  "website": "https://flcwilmington.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7eef30c2-47b9-49cf-927e-460de73f1c38",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7eef30c2-47b9-49cf-927e-460de73f1c38"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcwilmington.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311001539"
+    }
+  ],
+  "advisories": []
+}

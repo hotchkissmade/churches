@@ -1,0 +1,33 @@
+{
+  "id": "kvmvfnv91",
+  "url": "https://constellation.church/kvmvfnv91",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "529 N 11th St",
+    "city": "Towanda",
+    "state": "KS",
+    "zip": "67144"
+  },
+  "coordinates": {
+    "latitude": 37.80278205871582,
+    "longitude": -96.99312591552734
+  },
+  "website": "https://fbctowanda.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-619/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-619"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbctowanda.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480954007"
+    }
+  ],
+  "advisories": []
+}

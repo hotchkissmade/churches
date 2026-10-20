@@ -1,0 +1,33 @@
+{
+  "id": "bz41xas40",
+  "url": "https://constellation.church/bz41xas40",
+  "name": "The Church at Quail Creek",
+  "displayName": "The Church at Quail Creek",
+  "address": {
+    "street": "801 Tascosa Rd",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79124"
+  },
+  "coordinates": {
+    "latitude": 35.21902847290039,
+    "longitude": -101.91077423095703
+  },
+  "website": "https://tcqc.org",
+  "listingUrl": "https://churches.sbc.net/church/the-church-at-quail-creek/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-church-at-quail-creek"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tcqc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750970487"
+    }
+  ],
+  "advisories": []
+}

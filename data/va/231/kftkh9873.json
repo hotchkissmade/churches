@@ -1,0 +1,33 @@
+{
+  "id": "kftkh9873",
+  "url": "https://constellation.church/kftkh9873",
+  "name": "Parkway Baptist Church (Moseley)",
+  "displayName": "Parkway Baptist Church (Moseley)",
+  "address": {
+    "street": "8508 Beaver Bridge Rd",
+    "city": "Moseley",
+    "state": "VA",
+    "zip": "23120"
+  },
+  "coordinates": {
+    "latitude": 37.384199142456055,
+    "longitude": -77.76167678833008
+  },
+  "website": "https://parkwayfamily.org",
+  "listingUrl": "https://churches.sbc.net/church/parkway-baptist-church-moseley/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "parkway-baptist-church-moseley"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parkwayfamily.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800030573"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kqx5kfp18",
+  "url": "https://constellation.church/kqx5kfp18",
+  "name": "Church of Saint John on the Mountain",
+  "displayName": "Church of St. John on the Mountain",
+  "address": {
+    "street": "379 Mount Harmony Rd",
+    "city": "Bernardsville",
+    "state": "NJ",
+    "zip": "07924-1414"
+  },
+  "coordinates": {
+    "latitude": 40.71882247924805,
+    "longitude": -74.61027908325195
+  },
+  "website": "https://sjotm.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-new-jersey/list/church-st-john-mountain",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-new-jersey/church-st-john-mountain"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sjotm.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221738437"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n91mat645",
+  "url": "https://constellation.church/n91mat645",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "7046 State Route 335",
+    "city": "Beaver",
+    "state": "OH",
+    "zip": "45613"
+  },
+  "coordinates": {
+    "latitude": 39.028635025024414,
+    "longitude": -82.8270263671875
+  },
+  "website": "https://firstbaptistbeaver.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-631/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-631"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistbeaver.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450592863"
+    }
+  ],
+  "advisories": []
+}

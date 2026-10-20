@@ -1,0 +1,33 @@
+{
+  "id": "c1tcxq532",
+  "url": "https://constellation.church/c1tcxq532",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "306 Wood St",
+    "city": "Winters",
+    "state": "TX",
+    "zip": "79567"
+  },
+  "coordinates": {
+    "latitude": 31.9555209,
+    "longitude": -99.960614
+  },
+  "website": "https://cityofwinters.net/services-9",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a3453e80-86f4-4d07-b264-3b478d03fb76&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "a3453e80-86f4-4d07-b264-3b478d03fb76"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cityofwinters.net/services-9"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752423682"
+    }
+  ],
+  "advisories": []
+}

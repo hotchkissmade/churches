@@ -1,0 +1,33 @@
+{
+  "id": "mqemkav09",
+  "url": "https://constellation.church/mqemkav09",
+  "name": "Swedesburg Lutheran Church",
+  "displayName": "Swedesburg Lutheran Church",
+  "address": {
+    "street": "1897 140th St",
+    "city": "Mt Pleasant",
+    "state": "IA",
+    "zip": "52641-9292"
+  },
+  "coordinates": {
+    "latitude": 41.105342864990234,
+    "longitude": -91.54522705078125
+  },
+  "website": "https://swedesburglutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fb16608c-645a-4abb-a2bf-9b26e9f74fca",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fb16608c-645a-4abb-a2bf-9b26e9f74fca"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "swedesburglutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420782545"
+    }
+  ],
+  "advisories": []
+}

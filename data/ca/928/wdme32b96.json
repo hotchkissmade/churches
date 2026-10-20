@@ -1,0 +1,33 @@
+{
+  "id": "wdme32b96",
+  "url": "https://constellation.church/wdme32b96",
+  "name": "Church in Yorba Linda",
+  "displayName": "Church in Yorba Linda",
+  "address": {
+    "street": "3812 N Rose Dr",
+    "city": "Yorba Linda",
+    "state": "CA",
+    "zip": "92886"
+  },
+  "coordinates": {
+    "latitude": 33.905378341674805,
+    "longitude": -117.84181213378906
+  },
+  "website": "https://churchinyorbalinda.org",
+  "listingUrl": "https://localchurches.org/churches/yorba-linda-ca-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "yorba-linda-ca-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinyorbalinda.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330439225"
+    }
+  ],
+  "advisories": []
+}

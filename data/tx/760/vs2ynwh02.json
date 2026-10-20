@@ -1,0 +1,33 @@
+{
+  "id": "vs2ynwh02",
+  "url": "https://constellation.church/vs2ynwh02",
+  "name": "Emmanuel Lutheran Church",
+  "displayName": "Emmanuel Lutheran Church",
+  "address": {
+    "street": "2301 Fall Creek Hwy",
+    "city": "Granbury",
+    "state": "TX",
+    "zip": "76049-1396"
+  },
+  "coordinates": {
+    "latitude": 32.45645332336426,
+    "longitude": -97.68863677978516
+  },
+  "website": "https://elcgranbury.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=62ea1c83-7a73-48db-a1cb-e15c513914d0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "62ea1c83-7a73-48db-a1cb-e15c513914d0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elcgranbury.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752254632"
+    }
+  ],
+  "advisories": []
+}

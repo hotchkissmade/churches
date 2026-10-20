@@ -1,0 +1,33 @@
+{
+  "id": "sc21b6g60",
+  "url": "https://constellation.church/sc21b6g60",
+  "name": "The Garden Church",
+  "displayName": "The Garden Church",
+  "address": {
+    "street": "1520 Highway 11 W",
+    "city": "Chesnee",
+    "state": "SC",
+    "zip": "29323"
+  },
+  "coordinates": {
+    "latitude": 35.14707374572754,
+    "longitude": -81.96629333496094
+  },
+  "website": "https://thegardenchurchsc.com",
+  "listingUrl": "https://churches.sbc.net/church/the-garden-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-garden-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thegardenchurchsc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "474934288"
+    }
+  ],
+  "advisories": []
+}

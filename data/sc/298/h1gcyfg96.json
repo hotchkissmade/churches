@@ -1,0 +1,33 @@
+{
+  "id": "h1gcyfg96",
+  "url": "https://constellation.church/h1gcyfg96",
+  "name": "Levels Baptist Church",
+  "displayName": "Levels Baptist Church",
+  "address": {
+    "street": "2456 Levels Church Rd",
+    "city": "Aiken",
+    "state": "SC",
+    "zip": "29801"
+  },
+  "coordinates": {
+    "latitude": 33.54331398010254,
+    "longitude": -81.67667388916016
+  },
+  "website": "https://levelsbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/levels-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "levels-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "levelsbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570567925"
+    }
+  ],
+  "advisories": []
+}

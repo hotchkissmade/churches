@@ -1,0 +1,33 @@
+{
+  "id": "sf42tsx71",
+  "url": "https://constellation.church/sf42tsx71",
+  "name": "West Burnsville Baptist Church",
+  "displayName": "West Burnsville Baptist Church",
+  "address": {
+    "street": "222 W Burnsville Church Rd",
+    "city": "Burnsville",
+    "state": "NC",
+    "zip": "28714"
+  },
+  "coordinates": {
+    "latitude": 35.91543006896973,
+    "longitude": -82.3179702758789
+  },
+  "website": "https://westbbchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/west-burnsville-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "west-burnsville-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westbbchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561394157"
+    }
+  ],
+  "advisories": []
+}

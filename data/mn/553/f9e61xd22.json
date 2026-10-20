@@ -1,0 +1,33 @@
+{
+  "id": "f9e61xd22",
+  "url": "https://constellation.church/f9e61xd22",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "1601 4th Ave",
+    "city": "Anoka",
+    "state": "MN",
+    "zip": "55303-2420"
+  },
+  "coordinates": {
+    "latitude": 45.19339179992676,
+    "longitude": -93.38614654541016
+  },
+  "website": "https://zionanoka.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2a728411-9111-4187-b015-cae92cae48e7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2a728411-9111-4187-b015-cae92cae48e7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionanoka.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410739089"
+    }
+  ],
+  "advisories": []
+}

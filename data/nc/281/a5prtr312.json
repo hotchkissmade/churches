@@ -1,0 +1,33 @@
+{
+  "id": "a5prtr312",
+  "url": "https://constellation.church/a5prtr312",
+  "name": "Ascension Lutheran Church",
+  "displayName": "Ascension Lutheran Church",
+  "address": {
+    "street": "300 N Lafayette St",
+    "city": "Shelby",
+    "state": "NC",
+    "zip": "28150-4423"
+  },
+  "coordinates": {
+    "latitude": 35.294755935668945,
+    "longitude": -81.53982162475586
+  },
+  "website": "https://ascensionlutheranshelby.com/about.html",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e9b53ce9-be74-4eeb-96da-7c4a02c37f13",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e9b53ce9-be74-4eeb-96da-7c4a02c37f13"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ascensionlutheranshelby.com/about.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561425250"
+    }
+  ],
+  "advisories": []
+}

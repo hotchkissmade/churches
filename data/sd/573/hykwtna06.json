@@ -1,0 +1,33 @@
+{
+  "id": "hykwtna06",
+  "url": "https://constellation.church/hykwtna06",
+  "name": "Our Savior Lutheran Church",
+  "displayName": "Our Savior Lutheran Church",
+  "address": {
+    "street": "210 Dunham Ave N",
+    "city": "Wessington Springs",
+    "state": "SD",
+    "zip": "57382-2111"
+  },
+  "coordinates": {
+    "latitude": 44.08056831359863,
+    "longitude": -98.56226348876953
+  },
+  "website": "https://oursaviorsws.org/home",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5617a6d1-6fc1-479d-91ae-32203e1ad30d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5617a6d1-6fc1-479d-91ae-32203e1ad30d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oursaviorsws.org/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460283386"
+    }
+  ],
+  "advisories": []
+}

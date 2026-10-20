@@ -1,0 +1,33 @@
+{
+  "id": "wafqdpz61",
+  "url": "https://constellation.church/wafqdpz61",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "230 Alice Drive",
+    "city": "Sumter",
+    "state": "SC",
+    "zip": "29150"
+  },
+  "coordinates": {
+    "latitude": 33.930795669555664,
+    "longitude": -80.3806381225586
+  },
+  "website": "https://westminsterpca.net",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1097",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1097"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westminsterpca.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570672590"
+    }
+  ],
+  "advisories": []
+}

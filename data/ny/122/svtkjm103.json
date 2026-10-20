@@ -1,0 +1,33 @@
+{
+  "id": "svtkjm103",
+  "url": "https://constellation.church/svtkjm103",
+  "name": "New Hope Church",
+  "displayName": "New Hope Church",
+  "address": {
+    "street": "334 2nd Ave",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "12209"
+  },
+  "coordinates": {
+    "latitude": 42.63885498046875,
+    "longitude": -73.77682876586914
+  },
+  "website": "https://newhope4albany.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=9a863423-4bcd-4c44-9e61-d6abb0683b77&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "9a863423-4bcd-4c44-9e61-d6abb0683b77"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newhope4albany.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "300427485"
+    }
+  ],
+  "advisories": []
+}

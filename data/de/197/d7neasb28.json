@@ -1,0 +1,33 @@
+{
+  "id": "d7neasb28",
+  "url": "https://constellation.church/d7neasb28",
+  "name": "The Town (PCA)",
+  "displayName": "The Town (PCA)",
+  "address": {
+    "street": "160 Commerce Drive",
+    "city": "Middletown",
+    "state": "DE",
+    "zip": "19709"
+  },
+  "coordinates": {
+    "latitude": 39.44734764099121,
+    "longitude": -75.74269485473633
+  },
+  "website": "https://thetown.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5534",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5534"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thetown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "275372267"
+    }
+  ],
+  "advisories": []
+}

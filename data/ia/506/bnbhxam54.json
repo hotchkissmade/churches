@@ -1,0 +1,33 @@
+{
+  "id": "bnbhxam54",
+  "url": "https://constellation.church/bnbhxam54",
+  "name": "Candeo Church",
+  "displayName": "Candeo Church",
+  "address": {
+    "street": "1405 Greenhill Rd",
+    "city": "Cedar Falls",
+    "state": "IA",
+    "zip": "50613"
+  },
+  "coordinates": {
+    "latitude": 42.46515655517578,
+    "longitude": -92.39987182617188
+  },
+  "website": "https://candeochurch.com",
+  "listingUrl": "https://churches.sbc.net/church/candeo-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "candeo-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "candeochurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "462002453"
+    }
+  ],
+  "advisories": []
+}

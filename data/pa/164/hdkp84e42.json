@@ -1,0 +1,33 @@
+{
+  "id": "hdkp84e42",
+  "url": "https://constellation.church/hdkp84e42",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "11311 Route 18 Albion",
+    "city": null,
+    "state": "PA",
+    "zip": "16401"
+  },
+  "coordinates": {
+    "latitude": 41.856584548950195,
+    "longitude": -80.37016296386719
+  },
+  "website": "https://albionag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ccee8f0e-601d-4e86-989e-50081d24414c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ccee8f0e-601d-4e86-989e-50081d24414c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "albionag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251323128"
+    }
+  ],
+  "advisories": []
+}

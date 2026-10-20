@@ -1,0 +1,33 @@
+{
+  "id": "j0230pt35",
+  "url": "https://constellation.church/j0230pt35",
+  "name": "Hosanna Lutheran Church",
+  "displayName": "Hosanna Lutheran Church",
+  "address": {
+    "street": "2800 N Church Rd",
+    "city": "Liberty",
+    "state": "MO",
+    "zip": "64068-8720"
+  },
+  "coordinates": {
+    "latitude": 39.281803131103516,
+    "longitude": -94.43680572509766
+  },
+  "website": "https://hosannatogether.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d86f285d-08b0-4765-96f1-876385d6fa32",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d86f285d-08b0-4765-96f1-876385d6fa32"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hosannatogether.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431818642"
+    }
+  ],
+  "advisories": []
+}

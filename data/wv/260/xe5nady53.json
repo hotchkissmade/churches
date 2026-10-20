@@ -1,0 +1,33 @@
+{
+  "id": "xe5nady53",
+  "url": "https://constellation.church/xe5nady53",
+  "name": "St. Nicholas Church",
+  "displayName": "St. Nicholas Church",
+  "address": {
+    "street": "604 Colliers Way",
+    "city": "Weirton",
+    "state": "WV",
+    "zip": "26062-5006"
+  },
+  "coordinates": {
+    "latitude": 40.39398193359375,
+    "longitude": -80.52988052368164
+  },
+  "website": "https://stnicholasweirton.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-wp-weisnc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-wp-weisnc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stnicholasweirton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237148442"
+    }
+  ],
+  "advisories": []
+}

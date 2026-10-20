@@ -1,0 +1,33 @@
+{
+  "id": "tynh6bn33",
+  "url": "https://constellation.church/tynh6bn33",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "1000 3rd Ave SE",
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "zip": "52403-2410"
+  },
+  "coordinates": {
+    "latitude": 41.98249626159668,
+    "longitude": -91.65770721435547
+  },
+  "website": "https://firstlutherancr.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f5d1a25d-91a3-4910-ac4a-b198c07d3775",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f5d1a25d-91a3-4910-ac4a-b198c07d3775"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutherancr.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420752621"
+    }
+  ],
+  "advisories": []
+}

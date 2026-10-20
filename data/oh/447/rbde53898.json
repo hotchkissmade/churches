@@ -1,0 +1,33 @@
+{
+  "id": "rbde53898",
+  "url": "https://constellation.church/rbde53898",
+  "name": "Greensburg United Methodist Church",
+  "displayName": "Greensburg United Methodist Church",
+  "address": {
+    "street": "2161 Greensburg Road",
+    "city": "North Canton",
+    "state": "OH",
+    "zip": "44720-1115"
+  },
+  "coordinates": {
+    "latitude": 40.93198776245117,
+    "longitude": -81.46785736083984
+  },
+  "website": "https://greensburgumc.net/video.aspx",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFJZaIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFJZaIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "greensburgumc.net/video.aspx"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "346003355"
+    }
+  ],
+  "advisories": []
+}

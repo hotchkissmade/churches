@@ -1,0 +1,33 @@
+{
+  "id": "dr4z1h509",
+  "url": "https://constellation.church/dr4z1h509",
+  "name": "Columbia City Church Of Hope",
+  "displayName": "Columbia City Church Of Hope",
+  "address": {
+    "street": "4416 S Brandon St",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98118-2341"
+  },
+  "coordinates": {
+    "latitude": 47.5539937,
+    "longitude": -122.2790738
+  },
+  "website": "https://columbiacityhope.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d31083d4-9ecb-4efd-8b5e-d780881ab0c5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d31083d4-9ecb-4efd-8b5e-d780881ab0c5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "columbiacityhope.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "272851216"
+    }
+  ],
+  "advisories": []
+}

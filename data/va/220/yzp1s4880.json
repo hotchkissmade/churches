@@ -1,0 +1,33 @@
+{
+  "id": "yzp1s4880",
+  "url": "https://constellation.church/yzp1s4880",
+  "name": "St. Barnabas Church",
+  "displayName": "St. Barnabas Church",
+  "address": {
+    "street": "4801 Ravensworth Rd",
+    "city": "Annandale",
+    "state": "VA",
+    "zip": "22003-5551"
+  },
+  "coordinates": {
+    "latitude": 38.819664001464844,
+    "longitude": -77.20332336425781
+  },
+  "website": "https://st-barnabaschurch.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-virginia/list/st-barnabas-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-virginia/st-barnabas-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "st-barnabaschurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540743120"
+    }
+  ],
+  "advisories": []
+}

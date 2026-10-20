@@ -1,0 +1,33 @@
+{
+  "id": "mmzrjaj90",
+  "url": "https://constellation.church/mmzrjaj90",
+  "name": "Bedrock Church",
+  "displayName": "Bedrock Church",
+  "address": {
+    "street": "2035 Magnolia St",
+    "city": "Sarasota",
+    "state": "FL",
+    "zip": "34239"
+  },
+  "coordinates": {
+    "latitude": 27.304935455322266,
+    "longitude": -82.52962112426758
+  },
+  "website": "https://mybedrock.church/give",
+  "listingUrl": "https://churches.sbc.net/church/bedrock-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bedrock-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mybedrock.church/give"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "830716407"
+    }
+  ],
+  "advisories": []
+}

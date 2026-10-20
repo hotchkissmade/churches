@@ -1,0 +1,33 @@
+{
+  "id": "t2jr31b27",
+  "url": "https://constellation.church/t2jr31b27",
+  "name": "One Church",
+  "displayName": "One Church",
+  "address": {
+    "street": "2361 Scenic Dr",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95355"
+  },
+  "coordinates": {
+    "latitude": 37.653310775756836,
+    "longitude": -120.95347595214844
+  },
+  "website": "https://onechurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=5242a19f-39a6-4682-be9f-e417e3b8c7ed&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "5242a19f-39a6-4682-be9f-e417e3b8c7ed"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "onechurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942182925"
+    }
+  ],
+  "advisories": []
+}

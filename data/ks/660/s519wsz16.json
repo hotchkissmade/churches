@@ -1,0 +1,33 @@
+{
+  "id": "s519wsz16",
+  "url": "https://constellation.church/s519wsz16",
+  "name": "First City Fellowship",
+  "displayName": "First City Fellowship",
+  "address": {
+    "street": "746 Spruce St",
+    "city": "Leavenworth",
+    "state": "KS",
+    "zip": "66048"
+  },
+  "coordinates": {
+    "latitude": 39.3104434,
+    "longitude": -94.9191756
+  },
+  "website": "https://firstcity.life",
+  "listingUrl": "https://churches.sbc.net/church/first-city-fellowship/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-city-fellowship"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstcity.life"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "873990238"
+    }
+  ],
+  "advisories": []
+}

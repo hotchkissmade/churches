@@ -1,0 +1,33 @@
+{
+  "id": "e2aeer936",
+  "url": "https://constellation.church/e2aeer936",
+  "name": "Emmanuel Lutheran Church",
+  "displayName": "Emmanuel Lutheran Church",
+  "address": {
+    "street": "1006 N 2nd St",
+    "city": "Groton",
+    "state": "SD",
+    "zip": "57445-2170"
+  },
+  "coordinates": {
+    "latitude": 45.45531463623047,
+    "longitude": -98.10074615478516
+  },
+  "website": "https://grotonelca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2fe74b8d-0734-41f0-b13b-564d1095e97b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2fe74b8d-0734-41f0-b13b-564d1095e97b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grotonelca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "466012766"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "fa2daab24",
+  "url": "https://constellation.church/fa2daab24",
+  "name": "First Baptist Church Pascagoula",
+  "displayName": "First Baptist Church Pascagoula",
+  "address": {
+    "street": "902 Live Oak Ave",
+    "city": "Pascagoula",
+    "state": "MS",
+    "zip": "39567"
+  },
+  "coordinates": {
+    "latitude": 30.369150161743164,
+    "longitude": -88.55459213256836
+  },
+  "website": "https://fbcpas.net",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-pascagoula/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-pascagoula"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcpas.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "670371386"
+    }
+  ],
+  "advisories": []
+}

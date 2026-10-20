@@ -1,0 +1,33 @@
+{
+  "id": "qvgpb2h59",
+  "url": "https://constellation.church/qvgpb2h59",
+  "name": "Geyer Road Baptist Church",
+  "displayName": "Geyer Road Baptist Church",
+  "address": {
+    "street": "504 S Geyer Rd",
+    "city": "Kirkwood",
+    "state": "MO",
+    "zip": "63122"
+  },
+  "coordinates": {
+    "latitude": 38.57366943359375,
+    "longitude": -90.41511535644531
+  },
+  "website": "https://geyerroad.com",
+  "listingUrl": "https://churches.sbc.net/church/geyer-road-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "geyer-road-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "geyerroad.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431170520"
+    }
+  ],
+  "advisories": []
+}

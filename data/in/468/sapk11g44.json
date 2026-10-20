@@ -1,0 +1,33 @@
+{
+  "id": "sapk11g44",
+  "url": "https://constellation.church/sapk11g44",
+  "name": "Anchor Community Church",
+  "displayName": "Anchor Community Church",
+  "address": {
+    "street": "1529 Third Street",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46808"
+  },
+  "coordinates": {
+    "latitude": 41.08664131164551,
+    "longitude": -85.16160583496094
+  },
+  "website": "https://anchorcommunity.church",
+  "listingUrl": "https://ub.org/churches/find-a-church/anchor-community-church",
+  "identifiers": [
+    {
+      "namespace": "org.ub.id",
+      "value": "anchor-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "anchorcommunity.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351517330"
+    }
+  ],
+  "advisories": []
+}

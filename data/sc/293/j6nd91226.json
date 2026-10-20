@@ -1,0 +1,33 @@
+{
+  "id": "j6nd91226",
+  "url": "https://constellation.church/j6nd91226",
+  "name": "Wellford Baptist Church",
+  "displayName": "Wellford Baptist Church",
+  "address": {
+    "street": "235 Syphrit Rd",
+    "city": "Wellford",
+    "state": "SC",
+    "zip": "29385"
+  },
+  "coordinates": {
+    "latitude": 34.955888748168945,
+    "longitude": -82.1071891784668
+  },
+  "website": "https://wellford.church",
+  "listingUrl": "https://churches.sbc.net/church/wellford-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "wellford-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wellford.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570447342"
+    }
+  ],
+  "advisories": []
+}

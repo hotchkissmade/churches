@@ -1,0 +1,33 @@
+{
+  "id": "ff7x08054",
+  "url": "https://constellation.church/ff7x08054",
+  "name": "Petaluma United Methodist Church",
+  "displayName": "Petaluma United Methodist Church",
+  "address": {
+    "street": "410 D Street",
+    "city": "Petaluma",
+    "state": "CA",
+    "zip": "94952"
+  },
+  "coordinates": {
+    "latitude": 38.231380462646484,
+    "longitude": -122.63811492919922
+  },
+  "website": "https://petalumaumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKuzIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKuzIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "petalumaumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941322183"
+    }
+  ],
+  "advisories": []
+}

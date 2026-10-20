@@ -1,0 +1,33 @@
+{
+  "id": "hsrx4hf90",
+  "url": "https://constellation.church/hsrx4hf90",
+  "name": "Piedmont Baptist Church",
+  "displayName": "Piedmont Baptist Church",
+  "address": {
+    "street": "5524 Chesnee Hwy",
+    "city": "Chesnee",
+    "state": "SC",
+    "zip": "29323"
+  },
+  "coordinates": {
+    "latitude": 35.11146354675293,
+    "longitude": -81.85538101196289
+  },
+  "website": "https://piedmontbaptistchesnee.com",
+  "listingUrl": "https://churches.sbc.net/church/piedmont-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "piedmont-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "piedmontbaptistchesnee.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570903750"
+    }
+  ],
+  "advisories": []
+}

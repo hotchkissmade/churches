@@ -1,0 +1,33 @@
+{
+  "id": "hxqjf1404",
+  "url": "https://constellation.church/hxqjf1404",
+  "name": "Christ Episcopal Church",
+  "displayName": "Christ Episcopal Church",
+  "address": {
+    "street": "524 4th St",
+    "city": "Boonville",
+    "state": "MO",
+    "zip": "65233-1552"
+  },
+  "coordinates": {
+    "latitude": 38.973466873168945,
+    "longitude": -92.74462127685547
+  },
+  "website": "https://christchurchboonville.diowestmo.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-missouri/list/christ-church-episcopal",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-missouri/christ-church-episcopal"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christchurchboonville.diowestmo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431582999"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "eq3x80w49",
+  "url": "https://constellation.church/eq3x80w49",
+  "name": "Iglesia Luterana de Cristo",
+  "displayName": "Iglesia Luterana de Cristo",
+  "address": {
+    "street": "3612 Old Oakwood Rd",
+    "city": "Oakwood",
+    "state": "GA",
+    "zip": "30566-2805"
+  },
+  "coordinates": {
+    "latitude": 34.2369131,
+    "longitude": -83.8766864
+  },
+  "website": "https://iglesialuteranadecristo.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b97b6ff1-63f0-4b20-83ca-f2b9db42532b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b97b6ff1-63f0-4b20-83ca-f2b9db42532b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "iglesialuteranadecristo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030605932"
+    }
+  ],
+  "advisories": []
+}

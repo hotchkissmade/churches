@@ -1,0 +1,33 @@
+{
+  "id": "nfptzf706",
+  "url": "https://constellation.church/nfptzf706",
+  "name": "Cardinal Baptist Church",
+  "displayName": "Cardinal Baptist Church",
+  "address": {
+    "street": "25050 Ruther Glen Rd",
+    "city": "Ruther Glen",
+    "state": "VA",
+    "zip": "22546"
+  },
+  "coordinates": {
+    "latitude": 37.921287536621094,
+    "longitude": -77.4518051147461
+  },
+  "website": "https://cardinalbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/cardinal-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cardinal-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cardinalbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541992134"
+    }
+  ],
+  "advisories": []
+}

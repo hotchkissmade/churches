@@ -1,0 +1,33 @@
+{
+  "id": "x9wtb7n29",
+  "url": "https://constellation.church/x9wtb7n29",
+  "name": "St. Stephen's Episcopal Church",
+  "displayName": "St. Stephen's Episcopal Church",
+  "address": {
+    "street": "3 Main St.",
+    "city": "Middlebury",
+    "state": "VT",
+    "zip": "05753"
+  },
+  "coordinates": {
+    "latitude": 44.014259338378906,
+    "longitude": -73.16770553588867
+  },
+  "website": "https://ststephensmidd.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/vermont/list/st-stephens-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "vermont/st-stephens-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ststephensmidd.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030266161"
+    }
+  ],
+  "advisories": []
+}

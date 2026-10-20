@@ -1,0 +1,33 @@
+{
+  "id": "g65th7d85",
+  "url": "https://constellation.church/g65th7d85",
+  "name": "Kenwood Lutheran Church",
+  "displayName": "Kenwood Lutheran Church",
+  "address": {
+    "street": "2720 Myers Ave",
+    "city": "Duluth",
+    "state": "MN",
+    "zip": "55811-2359"
+  },
+  "coordinates": {
+    "latitude": 46.8209228515625,
+    "longitude": -92.1079330444336
+  },
+  "website": "https://kenwoodlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2c488467-21be-45d7-a994-4d26495be26c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2c488467-21be-45d7-a994-4d26495be26c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kenwoodlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411308896"
+    }
+  ],
+  "advisories": []
+}

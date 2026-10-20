@@ -1,0 +1,33 @@
+{
+  "id": "crqjcgp43",
+  "url": "https://constellation.church/crqjcgp43",
+  "name": "St. Gregory Church",
+  "displayName": "St. Gregory Church",
+  "address": {
+    "street": "214 E 15th Ave",
+    "city": "Homestead",
+    "state": "PA",
+    "zip": "15120"
+  },
+  "coordinates": {
+    "latitude": 40.402801513671875,
+    "longitude": -79.90522766113281
+  },
+  "website": "https://stgregoryrussianchurch.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-wp-homsgc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-wp-homsgc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stgregoryrussianchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251886572"
+    }
+  ],
+  "advisories": []
+}

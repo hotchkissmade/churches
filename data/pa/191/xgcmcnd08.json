@@ -1,0 +1,33 @@
+{
+  "id": "xgcmcnd08",
+  "url": "https://constellation.church/xgcmcnd08",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "2169 74th Ave",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19138-1416"
+  },
+  "coordinates": {
+    "latitude": 40.0675048828125,
+    "longitude": -75.15407943725586
+  },
+  "website": "https://stpeterswol.org/about-us",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8a2d02ec-fd1e-47b8-99f0-759562e00349",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8a2d02ec-fd1e-47b8-99f0-759562e00349"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpeterswol.org/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231409697"
+    }
+  ],
+  "advisories": []
+}

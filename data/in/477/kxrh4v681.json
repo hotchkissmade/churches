@@ -1,0 +1,33 @@
+{
+  "id": "kxrh4v681",
+  "url": "https://constellation.church/kxrh4v681",
+  "name": "Oakhill Baptist Church",
+  "displayName": "Oakhill Baptist Church",
+  "address": {
+    "street": "4615 Oak Hill Rd",
+    "city": "Evansville",
+    "state": "IN",
+    "zip": "47711"
+  },
+  "coordinates": {
+    "latitude": 38.01997756958008,
+    "longitude": -87.50972366333008
+  },
+  "website": "https://oakhillbc.org",
+  "listingUrl": "https://churches.sbc.net/church/oakhill-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "oakhill-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oakhillbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237317256"
+    }
+  ],
+  "advisories": []
+}

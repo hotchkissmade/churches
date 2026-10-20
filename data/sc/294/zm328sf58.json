@@ -1,0 +1,33 @@
+{
+  "id": "zm328sf58",
+  "url": "https://constellation.church/zm328sf58",
+  "name": "Trinity Church",
+  "displayName": "Trinity Church",
+  "address": {
+    "street": "1589 Hwy. 174",
+    "city": "Edisto Island",
+    "state": "SC",
+    "zip": "29438"
+  },
+  "coordinates": {
+    "latitude": 32.56952476501465,
+    "longitude": -80.2831916809082
+  },
+  "website": "https://trinityedisto.com",
+  "listingUrl": "https://www.acna.org/admin_units/1395",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "1395"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityedisto.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570426756"
+    }
+  ],
+  "advisories": []
+}

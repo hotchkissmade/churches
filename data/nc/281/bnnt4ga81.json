@@ -1,0 +1,33 @@
+{
+  "id": "bnnt4ga81",
+  "url": "https://constellation.church/bnnt4ga81",
+  "name": "Shearer Presbyterian Church",
+  "displayName": "Shearer Presbyterian Church",
+  "address": {
+    "street": "684 Presbyterian Road",
+    "city": "Mooresville",
+    "state": "NC",
+    "zip": "28115"
+  },
+  "coordinates": {
+    "latitude": 35.52005195617676,
+    "longitude": -80.80025100708008
+  },
+  "website": "https://shearerpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/936",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "936"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "shearerpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "566132433"
+    }
+  ],
+  "advisories": []
+}

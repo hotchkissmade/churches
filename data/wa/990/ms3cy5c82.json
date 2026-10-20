@@ -1,0 +1,33 @@
+{
+  "id": "ms3cy5c82",
+  "url": "https://constellation.church/ms3cy5c82",
+  "name": "Spokane Valley Assembly of God",
+  "displayName": "Spokane Valley Assembly of God",
+  "address": {
+    "street": "15618 E Broadway Ave",
+    "city": "Spokane Valley",
+    "state": "WA",
+    "zip": "99037"
+  },
+  "coordinates": {
+    "latitude": 47.66291618347168,
+    "longitude": -117.19468688964844
+  },
+  "website": "https://valleyassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=b9318010-4d81-488c-9dd2-352c7c8f5101&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "b9318010-4d81-488c-9dd2-352c7c8f5101"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "valleyassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911058397"
+    }
+  ],
+  "advisories": []
+}

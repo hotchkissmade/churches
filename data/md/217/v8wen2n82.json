@@ -1,0 +1,37 @@
+{
+  "id": "v8wen2n82",
+  "url": "https://constellation.church/v8wen2n82",
+  "name": "St. Andrew's Anglican Church",
+  "displayName": "St. Andrew's Anglican Church",
+  "address": {
+    "street": "8204 Edgewood Church Road",
+    "city": "Myersville",
+    "state": "MD",
+    "zip": "21702"
+  },
+  "coordinates": {
+    "latitude": 39.46005439758301,
+    "longitude": -77.47539138793945
+  },
+  "website": "https://edgewoodcog.org",
+  "listingUrl": "https://www.acna.org/admin_units/2330",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "2330"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "edgewoodcog.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450468223"
+    },
+    {
+      "namespace": "org.cggc.id",
+      "value": "101513"
+    }
+  ],
+  "advisories": []
+}

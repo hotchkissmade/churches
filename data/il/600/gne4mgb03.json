@@ -1,0 +1,33 @@
+{
+  "id": "gne4mgb03",
+  "url": "https://constellation.church/gne4mgb03",
+  "name": "First United Methodist Church of Des Plaines",
+  "displayName": "First United Methodist Church of Des Plaines",
+  "address": {
+    "street": "668 Graceland Ave",
+    "city": "Des Plaines",
+    "state": "IL",
+    "zip": "60016"
+  },
+  "coordinates": {
+    "latitude": 42.04134941101074,
+    "longitude": -87.89069366455078
+  },
+  "website": "https://fumcdp.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKOcIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKOcIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fumcdp.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362368500"
+    }
+  ],
+  "advisories": []
+}

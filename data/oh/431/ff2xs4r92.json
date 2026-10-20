@@ -1,0 +1,33 @@
+{
+  "id": "ff2xs4r92",
+  "url": "https://constellation.church/ff2xs4r92",
+  "name": "Rock Church",
+  "displayName": "Rock Church",
+  "address": {
+    "street": "4965 Southern Point Blvd",
+    "city": "Orient",
+    "state": "OH",
+    "zip": "43146"
+  },
+  "coordinates": {
+    "latitude": 39.800920486450195,
+    "longitude": -83.03017044067383
+  },
+  "website": "https://rockchurch.us",
+  "listingUrl": "https://churches.sbc.net/church/rock-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "rock-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rockchurch.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "260189462"
+    }
+  ],
+  "advisories": []
+}

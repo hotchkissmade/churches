@@ -1,0 +1,33 @@
+{
+  "id": "cma13p962",
+  "url": "https://constellation.church/cma13p962",
+  "name": "Bethel Baptist Church",
+  "displayName": "Bethel Baptist Church",
+  "address": {
+    "street": "227 Bethel Church Rd",
+    "city": "Palmyra",
+    "state": "VA",
+    "zip": "22963"
+  },
+  "coordinates": {
+    "latitude": 37.8212776184082,
+    "longitude": -78.26966857910156
+  },
+  "website": "https://bethelbaptistchurchpalmyra.org",
+  "listingUrl": "https://churches.sbc.net/church/bethel-baptist-church-114/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bethel-baptist-church-114"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelbaptistchurchpalmyra.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541030436"
+    }
+  ],
+  "advisories": []
+}

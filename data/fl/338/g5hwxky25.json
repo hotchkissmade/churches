@@ -1,0 +1,33 @@
+{
+  "id": "g5hwxky25",
+  "url": "https://constellation.church/g5hwxky25",
+  "name": "The First Baptist Church of Fort Meade",
+  "displayName": "The First Baptist Church of Fort Meade",
+  "address": {
+    "street": "307 E Broadway St",
+    "city": "Fort Meade",
+    "state": "FL",
+    "zip": "33841"
+  },
+  "coordinates": {
+    "latitude": 27.75213623046875,
+    "longitude": -81.79706573486328
+  },
+  "website": "https://fbcfortmeade.org",
+  "listingUrl": "https://churches.sbc.net/church/the-first-baptist-church-of-fort-meade/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-first-baptist-church-of-fort-meade"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcfortmeade.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591173305"
+    }
+  ],
+  "advisories": []
+}

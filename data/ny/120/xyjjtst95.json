@@ -1,0 +1,33 @@
+{
+  "id": "xyjjtst95",
+  "url": "https://constellation.church/xyjjtst95",
+  "name": "St John's Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "140 Maple Ave",
+    "city": "Altamont",
+    "state": "NY",
+    "zip": "12009"
+  },
+  "coordinates": {
+    "latitude": 42.70330047607422,
+    "longitude": -74.03340530395508
+  },
+  "website": "https://stjohnsaltamont.org/about-st-johns-lutheran-church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=993f462a-6907-4336-b939-ef954f2b374d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "993f462a-6907-4336-b939-ef954f2b374d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsaltamont.org/about-st-johns-lutheran-church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "141562575"
+    }
+  ],
+  "advisories": []
+}

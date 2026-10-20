@@ -1,0 +1,33 @@
+{
+  "id": "m6tm26k40",
+  "url": "https://constellation.church/m6tm26k40",
+  "name": "First Baptist Church of Sesser",
+  "displayName": "First Baptist Church of Sesser",
+  "address": {
+    "street": "5422 Church St",
+    "city": "Sesser",
+    "state": "IL",
+    "zip": "62884"
+  },
+  "coordinates": {
+    "latitude": 38.10207557678223,
+    "longitude": -89.0535888671875
+  },
+  "website": "https://sesserfbc.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-sesser/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-sesser"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sesserfbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370983693"
+    }
+  ],
+  "advisories": []
+}

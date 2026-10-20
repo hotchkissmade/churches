@@ -1,0 +1,33 @@
+{
+  "id": "ctd4sem93",
+  "url": "https://constellation.church/ctd4sem93",
+  "name": "Chester United Methodist Church",
+  "displayName": "Chester United Methodist Church",
+  "address": {
+    "street": "12132 Percival Street",
+    "city": "Chester",
+    "state": "VA",
+    "zip": "23831"
+  },
+  "coordinates": {
+    "latitude": 37.35379600524902,
+    "longitude": -77.44511795043945
+  },
+  "website": "https://chesterumc.org/adult",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFO2VIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFO2VIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chesterumc.org/adult"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232703321"
+    }
+  ],
+  "advisories": []
+}

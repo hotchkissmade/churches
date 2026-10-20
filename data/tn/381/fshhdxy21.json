@@ -1,0 +1,33 @@
+{
+  "id": "fshhdxy21",
+  "url": "https://constellation.church/fshhdxy21",
+  "name": "Pioneer Church",
+  "displayName": "Pioneer Church",
+  "address": {
+    "street": "200 Madison Ave",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38103"
+  },
+  "coordinates": {
+    "latitude": 35.144460678100586,
+    "longitude": -90.04942321777344
+  },
+  "website": "https://pioneerchurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=b167ec6a-2fcc-4968-877c-054a98a9a98d&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "b167ec6a-2fcc-4968-877c-054a98a9a98d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pioneerchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "475613752"
+    }
+  ],
+  "advisories": []
+}

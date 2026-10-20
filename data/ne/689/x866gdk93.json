@@ -1,0 +1,33 @@
+{
+  "id": "x866gdk93",
+  "url": "https://constellation.church/x866gdk93",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "6075 E Assumption Rd",
+    "city": "Glenvil",
+    "state": "NE",
+    "zip": "68941-7102"
+  },
+  "coordinates": {
+    "latitude": 40.51004981994629,
+    "longitude": -98.28800201416016
+  },
+  "website": "https://villageofglenvil.org/worship",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=efd1a22a-bba1-4764-abd4-47de14d0711a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "efd1a22a-bba1-4764-abd4-47de14d0711a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "villageofglenvil.org/worship"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "476045477"
+    }
+  ],
+  "advisories": []
+}

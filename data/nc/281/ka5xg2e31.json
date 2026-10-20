@@ -1,0 +1,33 @@
+{
+  "id": "ka5xg2e31",
+  "url": "https://constellation.church/ka5xg2e31",
+  "name": "St. Patrick's Episcopal Church",
+  "displayName": "St. Patrick's Episcopal Church",
+  "address": {
+    "street": "164 Fairview Rd",
+    "city": "Mooresville",
+    "state": "NC",
+    "zip": "28117-9512"
+  },
+  "coordinates": {
+    "latitude": 35.54852104187012,
+    "longitude": -80.8504753112793
+  },
+  "website": "https://stpatricksmooresville.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-north-carolina/list/st-patrick-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-north-carolina/st-patrick-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpatricksmooresville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561776926"
+    }
+  ],
+  "advisories": []
+}

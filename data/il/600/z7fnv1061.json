@@ -1,0 +1,33 @@
+{
+  "id": "z7fnv1061",
+  "url": "https://constellation.church/z7fnv1061",
+  "name": "Our Saviour Lutheran Church",
+  "displayName": "Our Saviour Lutheran Church",
+  "address": {
+    "street": "1234 N Arlington Heights Rd",
+    "city": "Arlington Heights",
+    "state": "IL",
+    "zip": "60004-4741"
+  },
+  "coordinates": {
+    "latitude": 42.09881019592285,
+    "longitude": -87.98121643066406
+  },
+  "website": "https://oursaviours.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cd6a8d79-8672-46f6-8d2e-bce7ec818726",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cd6a8d79-8672-46f6-8d2e-bce7ec818726"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oursaviours.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362494325"
+    }
+  ],
+  "advisories": []
+}

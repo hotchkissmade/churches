@@ -1,0 +1,33 @@
+{
+  "id": "xmhyeqk45",
+  "url": "https://constellation.church/xmhyeqk45",
+  "name": "People's Church San Diego",
+  "displayName": "People's Church San Diego",
+  "address": {
+    "street": "4955 A St",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92102"
+  },
+  "coordinates": {
+    "latitude": 32.71857261657715,
+    "longitude": -117.0889663696289
+  },
+  "website": "https://peopleschurchsd.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=b2e4fc4a-244d-4ca4-bb3c-ee8f6c8445bc&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "b2e4fc4a-244d-4ca4-bb3c-ee8f6c8445bc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "peopleschurchsd.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330458158"
+    }
+  ],
+  "advisories": []
+}

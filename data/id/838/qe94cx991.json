@@ -1,0 +1,33 @@
+{
+  "id": "qe94cx991",
+  "url": "https://constellation.church/qe94cx991",
+  "name": "St David's Anglican Church",
+  "displayName": "St. David's Anglican Church",
+  "address": {
+    "street": "4061 W Riverbend Ave.",
+    "city": "Post Falls",
+    "state": "ID",
+    "zip": "83854"
+  },
+  "coordinates": {
+    "latitude": 47.70635223388672,
+    "longitude": -117.00293731689453
+  },
+  "website": "https://stdac.org",
+  "listingUrl": "https://www.acna.org/admin_units/1814",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "1814"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stdac.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "872098714"
+    }
+  ],
+  "advisories": []
+}

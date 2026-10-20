@@ -1,0 +1,37 @@
+{
+  "id": "s78b8b322",
+  "url": "https://constellation.church/s78b8b322",
+  "name": "Holy Cross Lutheran Church",
+  "displayName": "Holy Cross Lutheran Church",
+  "address": {
+    "street": "30650 6 Mile Rd",
+    "city": "Livonia",
+    "state": "MI",
+    "zip": "48152-3461"
+  },
+  "coordinates": {
+    "latitude": 42.41335678100586,
+    "longitude": -83.34813690185547
+  },
+  "website": "https://holycrosslivonia.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c5d4789b-9ccf-48c1-b4c8-08efd8fee7af",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c5d4789b-9ccf-48c1-b4c8-08efd8fee7af"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holycrosslivonia.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381358396"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381737660"
+    }
+  ],
+  "advisories": []
+}

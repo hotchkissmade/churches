@@ -1,0 +1,33 @@
+{
+  "id": "cza3jmm02",
+  "url": "https://constellation.church/cza3jmm02",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "601 E National Ave",
+    "city": "Brillion",
+    "state": "WI",
+    "zip": "54110-1500"
+  },
+  "coordinates": {
+    "latitude": 44.167859442324,
+    "longitude": -88.051152509261
+  },
+  "website": "https://trinitybrillion.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24628",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24628"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitybrillion.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390860696"
+    }
+  ],
+  "advisories": []
+}

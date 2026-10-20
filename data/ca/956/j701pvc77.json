@@ -1,0 +1,33 @@
+{
+  "id": "j701pvc77",
+  "url": "https://constellation.church/j701pvc77",
+  "name": "The United Methodist Church of Rancho Cordova",
+  "displayName": "The United Methodist Church of Rancho Cordova",
+  "address": {
+    "street": "2101 Zinfandel Drive",
+    "city": "Rancho Cordova",
+    "state": "CA",
+    "zip": "95670"
+  },
+  "coordinates": {
+    "latitude": 38.61002159118652,
+    "longitude": -121.27552795410156
+  },
+  "website": "https://rcumc.net",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKr9IAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKr9IAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rcumc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "680276774"
+    }
+  ],
+  "advisories": []
+}

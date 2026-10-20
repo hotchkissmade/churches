@@ -1,0 +1,33 @@
+{
+  "id": "brtpcyk36",
+  "url": "https://constellation.church/brtpcyk36",
+  "name": "Mill Creek Baptist Church, Silex",
+  "displayName": "Mill Creek Baptist Church, Silex",
+  "address": {
+    "street": "645 Millcreek Church Rd",
+    "city": "Silex",
+    "state": "MO",
+    "zip": "63377"
+  },
+  "coordinates": {
+    "latitude": 39.15679359436035,
+    "longitude": -90.98517608642578
+  },
+  "website": "https://millcreekbaptistmo.org",
+  "listingUrl": "https://churches.sbc.net/church/mill-creek-baptist-church-silex/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mill-creek-baptist-church-silex"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "millcreekbaptistmo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "436036742"
+    }
+  ],
+  "advisories": []
+}

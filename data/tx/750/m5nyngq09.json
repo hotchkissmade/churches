@@ -1,0 +1,33 @@
+{
+  "id": "m5nyngq09",
+  "url": "https://constellation.church/m5nyngq09",
+  "name": "Northrich Church, Richardson",
+  "displayName": "Northrich Church, Richardson",
+  "address": {
+    "street": "1101 Custer Rd",
+    "city": "Richardson",
+    "state": "TX",
+    "zip": "75080"
+  },
+  "coordinates": {
+    "latitude": 32.964372634887695,
+    "longitude": -96.73530578613281
+  },
+  "website": "https://northrich.org",
+  "listingUrl": "https://churches.sbc.net/church/northrich-church-richardson/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northrich-church-richardson"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northrich.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751086088"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "fz2eqq181",
+  "url": "https://constellation.church/fz2eqq181",
+  "name": "Hillsdale United Methodist Church",
+  "displayName": "Hillsdale United Methodist Church",
+  "address": {
+    "street": "349 Hillsdale Ave",
+    "city": "Hillsdale",
+    "state": "NJ",
+    "zip": "07642-2732"
+  },
+  "coordinates": {
+    "latitude": 41.00258827209473,
+    "longitude": -74.03711318969727
+  },
+  "website": "https://hillsdalenjumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKlcIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKlcIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hillsdalenjumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "226002925"
+    }
+  ],
+  "advisories": []
+}

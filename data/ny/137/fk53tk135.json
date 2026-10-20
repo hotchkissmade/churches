@@ -1,0 +1,33 @@
+{
+  "id": "fk53tk135",
+  "url": "https://constellation.church/fk53tk135",
+  "name": "Central United Methodist Church",
+  "displayName": "Central United Methodist Church",
+  "address": {
+    "street": "17 Nanticoke Avenue",
+    "city": "Endicott",
+    "state": "NY",
+    "zip": "13760"
+  },
+  "coordinates": {
+    "latitude": 42.09737777709961,
+    "longitude": -76.06468963623047
+  },
+  "website": "https://centralumcendicott.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFO0SIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFO0SIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centralumcendicott.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "150563255"
+    }
+  ],
+  "advisories": []
+}

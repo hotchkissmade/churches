@@ -1,0 +1,33 @@
+{
+  "id": "twgn2ph28",
+  "url": "https://constellation.church/twgn2ph28",
+  "name": "Fruit Cove Baptist Church",
+  "displayName": "Fruit Cove Baptist Church",
+  "address": {
+    "street": "501 State Road 13",
+    "city": "Saint Johns",
+    "state": "FL",
+    "zip": "32259"
+  },
+  "coordinates": {
+    "latitude": 30.116548538208008,
+    "longitude": -81.62522888183594
+  },
+  "website": "https://fruitcove.com",
+  "listingUrl": "https://churches.sbc.net/church/fruit-cove-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "fruit-cove-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fruitcove.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592294252"
+    }
+  ],
+  "advisories": []
+}

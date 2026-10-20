@@ -1,0 +1,33 @@
+{
+  "id": "hadr85768",
+  "url": "https://constellation.church/hadr85768",
+  "name": "First Baptist Church of Manvel",
+  "displayName": "First Baptist Church of Manvel",
+  "address": {
+    "street": "6900 Masters Ln",
+    "city": "Manvel",
+    "state": "TX",
+    "zip": "77578"
+  },
+  "coordinates": {
+    "latitude": 29.475736618041992,
+    "longitude": -95.35353088378906
+  },
+  "website": "https://fbcmanvel.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-manvel/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-manvel"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcmanvel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760060582"
+    }
+  ],
+  "advisories": []
+}

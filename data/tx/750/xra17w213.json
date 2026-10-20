@@ -1,0 +1,33 @@
+{
+  "id": "xra17w213",
+  "url": "https://constellation.church/xra17w213",
+  "name": "First Baptist Church, Celina",
+  "displayName": "First Baptist Church, Celina",
+  "address": {
+    "street": "841 N Preston Rd",
+    "city": "Celina",
+    "state": "TX",
+    "zip": "75009"
+  },
+  "coordinates": {
+    "latitude": 33.32229042053223,
+    "longitude": -96.78192138671875
+  },
+  "website": "https://firstcelina.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-celina/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-celina"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstcelina.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751241897"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wj4qs3280",
+  "url": "https://constellation.church/wj4qs3280",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "918 Tayman Ave",
+    "city": "Somerset",
+    "state": "PA",
+    "zip": "15501-8749"
+  },
+  "coordinates": {
+    "latitude": 40.006845474243164,
+    "longitude": -79.09737777709961
+  },
+  "website": "https://trinitysomerset.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=de7a295b-7d1c-48c8-a2de-9b947530070b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "de7a295b-7d1c-48c8-a2de-9b947530070b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitysomerset.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251021805"
+    }
+  ],
+  "advisories": []
+}

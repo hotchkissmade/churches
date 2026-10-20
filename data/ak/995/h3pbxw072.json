@@ -1,0 +1,33 @@
+{
+  "id": "h3pbxw072",
+  "url": "https://constellation.church/h3pbxw072",
+  "name": "First Baptist Church of Eagle River",
+  "displayName": "First Baptist Church of Eagle River",
+  "address": {
+    "street": "11149 Old Eagle River Rd",
+    "city": "Eagle River",
+    "state": "AK",
+    "zip": "99577"
+  },
+  "coordinates": {
+    "latitude": 61.321250915527344,
+    "longitude": -149.56900024414062
+  },
+  "website": "https://fbcer.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-eagle-river/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-eagle-river"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcer.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920079276"
+    }
+  ],
+  "advisories": []
+}

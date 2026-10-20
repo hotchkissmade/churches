@@ -1,0 +1,33 @@
+{
+  "id": "p31f1gy46",
+  "url": "https://constellation.church/p31f1gy46",
+  "name": "First Church (PCA)",
+  "displayName": "First Church (PCA)",
+  "address": {
+    "street": "3134 Ridge Road",
+    "city": "Lansing",
+    "state": "IL",
+    "zip": "60438"
+  },
+  "coordinates": {
+    "latitude": 41.565256118774414,
+    "longitude": -87.5400161743164
+  },
+  "website": "https://firstchurchpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5946",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5946"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstchurchpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362217991"
+    }
+  ],
+  "advisories": []
+}

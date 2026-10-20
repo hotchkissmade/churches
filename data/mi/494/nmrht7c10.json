@@ -1,0 +1,33 @@
+{
+  "id": "nmrht7c10",
+  "url": "https://constellation.church/nmrht7c10",
+  "name": "Hudsonville Reformed Church",
+  "displayName": "Hudsonville Reformed Church",
+  "address": {
+    "street": "3950 Highland Drive",
+    "city": "Hudsonville",
+    "state": "MI",
+    "zip": "49426"
+  },
+  "coordinates": {
+    "latitude": 42.85511779785156,
+    "longitude": -85.87911605834961
+  },
+  "website": "https://hudref.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6829",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6829"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hudref.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "333082901"
+    }
+  ],
+  "advisories": []
+}

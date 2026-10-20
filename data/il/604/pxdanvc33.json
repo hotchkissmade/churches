@@ -1,0 +1,33 @@
+{
+  "id": "pxdanvc33",
+  "url": "https://constellation.church/pxdanvc33",
+  "name": "First Evangelical Lutheran Church",
+  "displayName": "First Evangelical Lutheran Church",
+  "address": {
+    "street": "2519 Grove St",
+    "city": "Blue Island",
+    "state": "IL",
+    "zip": "60406-2309"
+  },
+  "coordinates": {
+    "latitude": 41.654354095458984,
+    "longitude": -87.68307495117188
+  },
+  "website": "https://firstlutheranbi.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=49b06c62-7952-4ef4-900a-43a5d9ba4e12",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "49b06c62-7952-4ef4-900a-43a5d9ba4e12"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranbi.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362182014"
+    }
+  ],
+  "advisories": []
+}

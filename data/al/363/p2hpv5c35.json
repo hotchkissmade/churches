@@ -1,0 +1,33 @@
+{
+  "id": "p2hpv5c35",
+  "url": "https://constellation.church/p2hpv5c35",
+  "name": "Antioch",
+  "displayName": "Antioch Baptist Church",
+  "address": {
+    "street": "3250 S Rocky Creek Rd",
+    "city": "Ashford",
+    "state": "AL",
+    "zip": "36312"
+  },
+  "coordinates": {
+    "latitude": 31.131114959716797,
+    "longitude": -85.21546936035156
+  },
+  "website": "https://abc-ashford.org",
+  "listingUrl": "https://churches.sbc.net/church/antioch/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "antioch"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "abc-ashford.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630821009"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dcjf6mk09",
+  "url": "https://constellation.church/dcjf6mk09",
+  "name": "Monumental Baptist Church",
+  "displayName": "Monumental Baptist Church",
+  "address": {
+    "street": "2925 S Crater Rd",
+    "city": "Petersburg",
+    "state": "VA",
+    "zip": "23805"
+  },
+  "coordinates": {
+    "latitude": 37.192434310913086,
+    "longitude": -77.37244415283203
+  },
+  "website": "https://monumentalworship.org",
+  "listingUrl": "https://churches.sbc.net/church/monumental-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "monumental-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "monumentalworship.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251457903"
+    }
+  ],
+  "advisories": []
+}

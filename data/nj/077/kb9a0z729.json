@@ -1,0 +1,33 @@
+{
+  "id": "kb9a0z729",
+  "url": "https://constellation.church/kb9a0z729",
+  "name": "First United Methodist Church of Freehold",
+  "displayName": "First United Methodist Church of Freehold",
+  "address": {
+    "street": "91 W Main St",
+    "city": "Freehold",
+    "state": "NJ",
+    "zip": "07728-2135"
+  },
+  "coordinates": {
+    "latitude": 40.256431579589844,
+    "longitude": -74.28021240234375
+  },
+  "website": "https://freeholdmethodist.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF58hIAD",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF58hIAD"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "freeholdmethodist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222332575"
+    }
+  ],
+  "advisories": []
+}

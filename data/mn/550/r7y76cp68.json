@@ -1,0 +1,33 @@
+{
+  "id": "r7y76cp68",
+  "url": "https://constellation.church/r7y76cp68",
+  "name": "Long Lake Lutheran Church",
+  "displayName": "Long Lake Lutheran Church",
+  "address": {
+    "street": "3921 277th Ave NW",
+    "city": "Isanti",
+    "state": "MN",
+    "zip": "55040-5471"
+  },
+  "coordinates": {
+    "latitude": 45.47209930419922,
+    "longitude": -93.36663055419922
+  },
+  "website": "https://longlakeluth.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=00d80f6c-7730-45f9-b010-181c8a9ab2a8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "00d80f6c-7730-45f9-b010-181c8a9ab2a8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "longlakeluth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411477440"
+    }
+  ],
+  "advisories": []
+}

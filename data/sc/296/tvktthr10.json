@@ -1,0 +1,33 @@
+{
+  "id": "tvktthr10",
+  "url": "https://constellation.church/tvktthr10",
+  "name": "Flat Rock Baptist Church",
+  "displayName": "Flat Rock Baptist Church",
+  "address": {
+    "street": "115 Slab Bridge Rd",
+    "city": "Liberty",
+    "state": "SC",
+    "zip": "29657"
+  },
+  "coordinates": {
+    "latitude": 34.75140571594238,
+    "longitude": -82.6590690612793
+  },
+  "website": "https://flat-rock.org",
+  "listingUrl": "https://churches.sbc.net/church/flat-rock-baptist-church-4/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "flat-rock-baptist-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flat-rock.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570536464"
+    }
+  ],
+  "advisories": []
+}

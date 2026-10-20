@@ -1,0 +1,33 @@
+{
+  "id": "nhg0txb19",
+  "url": "https://constellation.church/nhg0txb19",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "3879 Jackman Rd",
+    "city": "Ida",
+    "state": "MI",
+    "zip": "48140-9548"
+  },
+  "coordinates": {
+    "latitude": 41.89370536804199,
+    "longitude": -83.59206008911133
+  },
+  "website": "https://wiilc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=81f21bd5-98f3-49a0-8430-eb3b445a3e29",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "81f21bd5-98f3-49a0-8430-eb3b445a3e29"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wiilc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381864031"
+    }
+  ],
+  "advisories": []
+}

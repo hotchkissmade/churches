@@ -1,0 +1,33 @@
+{
+  "id": "xc3jfps02",
+  "url": "https://constellation.church/xc3jfps02",
+  "name": "Prince Of Peace Lutheran Church",
+  "displayName": "Prince Of Peace Lutheran Church",
+  "address": {
+    "street": "555 Riverside Rd",
+    "city": "Marquette",
+    "state": "MI",
+    "zip": "49855-9559"
+  },
+  "coordinates": {
+    "latitude": 46.489959716796875,
+    "longitude": -87.32433319091797
+  },
+  "website": "https://popmqt.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=985bef8e-06e7-4841-8a2c-f72a4ce4598e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "985bef8e-06e7-4841-8a2c-f72a4ce4598e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "popmqt.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382138114"
+    }
+  ],
+  "advisories": []
+}

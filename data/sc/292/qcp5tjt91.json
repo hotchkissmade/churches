@@ -1,0 +1,33 @@
+{
+  "id": "qcp5tjt91",
+  "url": "https://constellation.church/qcp5tjt91",
+  "name": "Capital City Church",
+  "displayName": "Capital City Church",
+  "address": {
+    "street": "4600 Monticello Rd",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29203"
+  },
+  "coordinates": {
+    "latitude": 34.04605293273926,
+    "longitude": -81.04256057739258
+  },
+  "website": "https://capitalcitychurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ac8ef2cc-236b-4379-ac2b-20c8cf0d0f7a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ac8ef2cc-236b-4379-ac2b-20c8cf0d0f7a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "capitalcitychurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800321109"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qs772ma23",
+  "url": "https://constellation.church/qs772ma23",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "1 Selma Ave",
+    "city": "Webster Groves",
+    "state": "MO",
+    "zip": "63119-3104"
+  },
+  "coordinates": {
+    "latitude": 38.591360092163086,
+    "longitude": -90.34883117675781
+  },
+  "website": "https://christwg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f3adc9ee-861f-489a-a260-9dcd62f7c217",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f3adc9ee-861f-489a-a260-9dcd62f7c217"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christwg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430666741"
+    }
+  ],
+  "advisories": []
+}

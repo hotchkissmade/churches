@@ -1,0 +1,33 @@
+{
+  "id": "xc5t8r639",
+  "url": "https://constellation.church/xc5t8r639",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "1904 Main St",
+    "city": "Northampton",
+    "state": "PA",
+    "zip": "18067-1312"
+  },
+  "coordinates": {
+    "latitude": 40.68915557861328,
+    "longitude": -75.49869918823242
+  },
+  "website": "https://zionnham.wixsite.com/home",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2b51571b-c4c4-4264-9687-a9ae30e07722",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2b51571b-c4c4-4264-9687-a9ae30e07722"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionnham.wixsite.com/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236551024"
+    }
+  ],
+  "advisories": []
+}

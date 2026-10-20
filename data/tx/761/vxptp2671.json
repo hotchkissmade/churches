@@ -1,0 +1,33 @@
+{
+  "id": "vxptp2671",
+  "url": "https://constellation.church/vxptp2671",
+  "name": "Hulen Street Church",
+  "displayName": "Hulen Street Church",
+  "address": {
+    "street": "7100 S Hulen St",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76133"
+  },
+  "coordinates": {
+    "latitude": 32.64262580871582,
+    "longitude": -97.39747619628906
+  },
+  "website": "https://hulenstreet.com",
+  "listingUrl": "https://churches.sbc.net/church/hulen-street-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hulen-street-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hulenstreet.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "756005028"
+    }
+  ],
+  "advisories": []
+}

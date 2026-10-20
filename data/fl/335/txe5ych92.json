@@ -1,0 +1,33 @@
+{
+  "id": "txe5ych92",
+  "url": "https://constellation.church/txe5ych92",
+  "name": "Spark Church",
+  "displayName": "Spark Church",
+  "address": {
+    "street": "33425 Wesley Chapel Blvd",
+    "city": "Wesley Chapel",
+    "state": "FL",
+    "zip": "33543"
+  },
+  "coordinates": {
+    "latitude": 28.2194739,
+    "longitude": -82.2634029
+  },
+  "website": "https://sparkpasco.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=61303721-a417-49ae-a863-57e72a5020f0&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "61303721-a417-49ae-a863-57e72a5020f0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sparkpasco.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "831081865"
+    }
+  ],
+  "advisories": []
+}

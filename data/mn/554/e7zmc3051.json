@@ -1,0 +1,33 @@
+{
+  "id": "e7zmc3051",
+  "url": "https://constellation.church/e7zmc3051",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "1200 Marquette Ave",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55403-2419"
+  },
+  "coordinates": {
+    "latitude": 44.97108459472656,
+    "longitude": -93.27622985839844
+  },
+  "website": "https://westminstermpls.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/3847/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "3847"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westminstermpls.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410695506"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rfcmax286",
+  "url": "https://constellation.church/rfcmax286",
+  "name": "HOLY FAMILY PARISH",
+  "displayName": "Holy Family Parish",
+  "address": {
+    "street": "10 PLEASANT ST",
+    "city": "Springfield",
+    "state": "VT",
+    "zip": "05156"
+  },
+  "coordinates": {
+    "latitude": 43.298566818237305,
+    "longitude": -72.4804801940918
+  },
+  "website": "https://holyfamilyvermont.com",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "861316574"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holyfamilyvermont.com"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "eg6xp9d67",
+  "url": "https://constellation.church/eg6xp9d67",
+  "name": "The Diocese of West Missouri (Diocesan Offices)",
+  "displayName": "The Diocese of West Missouri (Diocesan Offices)",
+  "address": {
+    "street": "420 West 14th Street",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64105"
+  },
+  "coordinates": {
+    "latitude": 39.0977495,
+    "longitude": -94.5897595
+  },
+  "website": "https://diowestmo.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/west-missouri/list/diocese-west-missouri-diocesan-offices",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "west-missouri/diocese-west-missouri-diocesan-offices"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "diowestmo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440545908"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "e4ta1k120",
+  "url": "https://constellation.church/e4ta1k120",
+  "name": "Milton Lutheran Church",
+  "displayName": "Milton Lutheran Church",
+  "address": {
+    "street": "1125 Mahoning St",
+    "city": "Milton",
+    "state": "PA",
+    "zip": "17847-7746"
+  },
+  "coordinates": {
+    "latitude": 41.00981140136719,
+    "longitude": -76.83565902709961
+  },
+  "website": "https://miltonlutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c79cda0f-3f8f-453a-96bc-45a694b78493",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c79cda0f-3f8f-453a-96bc-45a694b78493"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "miltonlutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "813002995"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nm8bmcj60",
+  "url": "https://constellation.church/nm8bmcj60",
+  "name": "Grace Evangelical Lutheran Church",
+  "displayName": "Grace Evangelical Lutheran Church",
+  "address": {
+    "street": "16 Ridgecrest Rd",
+    "city": "Wheeling",
+    "state": "WV",
+    "zip": "26003-4932"
+  },
+  "coordinates": {
+    "latitude": 40.04295349121094,
+    "longitude": -80.68923950195312
+  },
+  "website": "https://gracelutheranwheeling.church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a3bb9c48-3050-4abf-80ce-18171b02c07b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a3bb9c48-3050-4abf-80ce-18171b02c07b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelutheranwheeling.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "475569233"
+    }
+  ],
+  "advisories": []
+}

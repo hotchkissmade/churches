@@ -1,0 +1,33 @@
+{
+  "id": "h55mas265",
+  "url": "https://constellation.church/h55mas265",
+  "name": "St. Nicholas Church",
+  "displayName": "St. Nicholas Church",
+  "address": {
+    "street": "64 Forrester St",
+    "city": "Salem",
+    "state": "MA",
+    "zip": "01970-4038"
+  },
+  "coordinates": {
+    "latitude": 42.5258903503418,
+    "longitude": -70.88480758666992
+  },
+  "website": "https://orthodoxsalem.com",
+  "listingUrl": "https://www.oca.org/parishes/oca-ne-salsnc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ne-salsnc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "orthodoxsalem.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "046064170"
+    }
+  ],
+  "advisories": []
+}

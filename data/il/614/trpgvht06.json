@@ -1,0 +1,33 @@
+{
+  "id": "trpgvht06",
+  "url": "https://constellation.church/trpgvht06",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "108 E Hickory St",
+    "city": "Industry",
+    "state": "IL",
+    "zip": "61440"
+  },
+  "coordinates": {
+    "latitude": 40.3262939453125,
+    "longitude": -90.6064453125
+  },
+  "website": "https://industryassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=076d06c9-4bc7-4a56-846d-7717418f092a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "076d06c9-4bc7-4a56-846d-7717418f092a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "industryassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363148092"
+    }
+  ],
+  "advisories": []
+}

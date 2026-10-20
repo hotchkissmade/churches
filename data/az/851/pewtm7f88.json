@@ -1,0 +1,33 @@
+{
+  "id": "pewtm7f88",
+  "url": "https://constellation.church/pewtm7f88",
+  "name": "Central Lutheran Church",
+  "displayName": "Central Lutheran Church",
+  "address": {
+    "street": "12921 S Sunland Gin Rd",
+    "city": "Arizona City",
+    "state": "AZ",
+    "zip": "85123"
+  },
+  "coordinates": {
+    "latitude": 32.76275062561035,
+    "longitude": -111.67012023925781
+  },
+  "website": "https://clcaz.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8d2b061f-0cda-42fb-a9d3-896e8dc412d3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8d2b061f-0cda-42fb-a9d3-896e8dc412d3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clcaz.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860549700"
+    }
+  ],
+  "advisories": []
+}

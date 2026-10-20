@@ -1,0 +1,33 @@
+{
+  "id": "r47shx804",
+  "url": "https://constellation.church/r47shx804",
+  "name": "Cross Connection Church",
+  "displayName": "Cross Connection Church",
+  "address": {
+    "street": "3500 N 14th Ave",
+    "city": "Dodge City",
+    "state": "KS",
+    "zip": "67801"
+  },
+  "coordinates": {
+    "latitude": 37.7952823638916,
+    "longitude": -100.0328369140625
+  },
+  "website": "https://crossconnectiondc.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=8ae5d769-5141-43ce-b46d-44f26ec55adb&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "8ae5d769-5141-43ce-b46d-44f26ec55adb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "crossconnectiondc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480724746"
+    }
+  ],
+  "advisories": []
+}

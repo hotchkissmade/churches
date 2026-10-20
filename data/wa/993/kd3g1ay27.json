@@ -1,0 +1,33 @@
+{
+  "id": "kd3g1ay27",
+  "url": "https://constellation.church/kd3g1ay27",
+  "name": "St. Paul's Episcopal Church, Walla Walla",
+  "displayName": "St. Paul's Episcopal Church, Walla Walla",
+  "address": {
+    "street": "323 Catherine St",
+    "city": "Walla Walla",
+    "state": "WA",
+    "zip": "99362-3082"
+  },
+  "coordinates": {
+    "latitude": 46.065162658691406,
+    "longitude": -118.3326644897461
+  },
+  "website": "https://stpaulsww.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-spokane/list/st-pauls-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-spokane/st-pauls-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsww.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910693234"
+    }
+  ],
+  "advisories": []
+}

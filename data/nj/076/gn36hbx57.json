@@ -1,0 +1,33 @@
+{
+  "id": "gn36hbx57",
+  "url": "https://constellation.church/gn36hbx57",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "167 Palisade Ave",
+    "city": "Bogota",
+    "state": "NJ",
+    "zip": "07603-1633"
+  },
+  "coordinates": {
+    "latitude": 40.8726233,
+    "longitude": -74.026882
+  },
+  "website": "https://telcbogota.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a21749ed-3204-4aab-a2a3-e386996b32f7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a21749ed-3204-4aab-a2a3-e386996b32f7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "telcbogota.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "226012222"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tr2cynx47",
+  "url": "https://constellation.church/tr2cynx47",
+  "name": "Brantwood Baptist Church",
+  "displayName": "Brantwood Baptist Church",
+  "address": {
+    "street": "2400 Albrecht Ave",
+    "city": "Dayton",
+    "state": "OH",
+    "zip": "45404"
+  },
+  "coordinates": {
+    "latitude": 39.806575775146484,
+    "longitude": -84.13534545898438
+  },
+  "website": "https://brantwoodbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/brantwood-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "brantwood-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "brantwoodbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311105971"
+    }
+  ],
+  "advisories": []
+}

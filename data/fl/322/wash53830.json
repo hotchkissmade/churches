@@ -1,0 +1,33 @@
+{
+  "id": "wash53830",
+  "url": "https://constellation.church/wash53830",
+  "name": "St. Anne Church",
+  "displayName": "St. Anne Church",
+  "address": {
+    "street": "1875 Live Oak Dr",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32246-2138"
+  },
+  "coordinates": {
+    "latitude": 30.311086654663086,
+    "longitude": -81.54766845703125
+  },
+  "website": "https://stannejax.com",
+  "listingUrl": "https://www.oca.org/parishes/oca-ro-jaxsam",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ro-jaxsam"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stannejax.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593198530"
+    }
+  ],
+  "advisories": []
+}

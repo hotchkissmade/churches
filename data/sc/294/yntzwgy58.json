@@ -1,0 +1,33 @@
+{
+  "id": "yntzwgy58",
+  "url": "https://constellation.church/yntzwgy58",
+  "name": "Saint Peter's Church",
+  "displayName": "St. Peter's Church",
+  "address": {
+    "street": "1307 Porcher's Bluff Road",
+    "city": "Mount Pleasant",
+    "state": "SC",
+    "zip": "29466"
+  },
+  "coordinates": {
+    "latitude": 32.855207443237305,
+    "longitude": -79.7815055847168
+  },
+  "website": "https://saintpeters.me",
+  "listingUrl": "https://www.acna.org/admin_units/1244",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "1244"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintpeters.me"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "203779486"
+    }
+  ],
+  "advisories": []
+}

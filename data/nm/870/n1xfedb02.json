@@ -1,0 +1,33 @@
+{
+  "id": "n1xfedb02",
+  "url": "https://constellation.church/n1xfedb02",
+  "name": "First Baptist Church Belen",
+  "displayName": "First Baptist Church Belen",
+  "address": {
+    "street": "115 S 4th ST",
+    "city": "Belen",
+    "state": "NM",
+    "zip": "87002"
+  },
+  "coordinates": {
+    "latitude": 34.659772872924805,
+    "longitude": -106.77214813232422
+  },
+  "website": "https://fbcbelen.net",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-belen/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-belen"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcbelen.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850265844"
+    }
+  ],
+  "advisories": []
+}

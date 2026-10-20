@@ -1,0 +1,33 @@
+{
+  "id": "v57rfbw02",
+  "url": "https://constellation.church/v57rfbw02",
+  "name": "Valleypoint Church",
+  "displayName": "Valleypoint Church",
+  "address": {
+    "street": "714 S Pines Rd",
+    "city": "Spokane Valley",
+    "state": "WA",
+    "zip": "99206"
+  },
+  "coordinates": {
+    "latitude": 47.650211334228516,
+    "longitude": -117.24093627929688
+  },
+  "website": "https://valleypointspokane.com",
+  "listingUrl": "https://churches.sbc.net/church/valleypoint-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "valleypoint-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "valleypointspokane.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910788632"
+    }
+  ],
+  "advisories": []
+}

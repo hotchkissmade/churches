@@ -1,0 +1,33 @@
+{
+  "id": "dy5q2kx42",
+  "url": "https://constellation.church/dy5q2kx42",
+  "name": "Acme Presbyterian Church",
+  "displayName": "Acme Presbyterian Church",
+  "address": {
+    "street": "2054 Valley Hwy",
+    "city": "Acme",
+    "state": "WA",
+    "zip": "98220"
+  },
+  "coordinates": {
+    "latitude": 48.71652603149414,
+    "longitude": -122.20321655273438
+  },
+  "website": "https://acme.church",
+  "listingUrl": "https://church-trends.pcusa.org/church/8929/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "8929"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "acme.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911226557"
+    }
+  ],
+  "advisories": []
+}

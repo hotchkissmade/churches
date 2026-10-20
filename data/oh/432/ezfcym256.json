@@ -1,0 +1,33 @@
+{
+  "id": "ezfcym256",
+  "url": "https://constellation.church/ezfcym256",
+  "name": "Parsons Baptist Church",
+  "displayName": "Parsons Baptist Church",
+  "address": {
+    "street": "3930 Parsons Ave",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43207"
+  },
+  "coordinates": {
+    "latitude": 39.8812255859375,
+    "longitude": -82.98704528808594
+  },
+  "website": "https://parsonsbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/parsons-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "parsons-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parsonsbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310725112"
+    }
+  ],
+  "advisories": []
+}

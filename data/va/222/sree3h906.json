@@ -1,0 +1,33 @@
+{
+  "id": "sree3h906",
+  "url": "https://constellation.church/sree3h906",
+  "name": "St. Michael's Church",
+  "displayName": "St. Michael's Church",
+  "address": {
+    "street": "1132 N Ivanhoe St",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "22205-2445"
+  },
+  "coordinates": {
+    "latitude": 38.88232612609863,
+    "longitude": -77.13224411010742
+  },
+  "website": "https://stmichaelsarlington.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-virginia/list/st-michaels-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-virginia/st-michaels-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmichaelsarlington.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540633471"
+    }
+  ],
+  "advisories": []
+}

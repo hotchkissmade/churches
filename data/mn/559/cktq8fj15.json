@@ -1,0 +1,33 @@
+{
+  "id": "cktq8fj15",
+  "url": "https://constellation.church/cktq8fj15",
+  "name": "Mabel First Lutheran Church",
+  "displayName": "Mabel First Lutheran Church",
+  "address": {
+    "street": "202 Oak St N",
+    "city": "Mabel",
+    "state": "MN",
+    "zip": "55954-1530"
+  },
+  "coordinates": {
+    "latitude": 43.521732330322266,
+    "longitude": -91.77210998535156
+  },
+  "website": "https://mabelfirst.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d14a9cfb-2fd9-4c68-b476-61ef4a95b175",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d14a9cfb-2fd9-4c68-b476-61ef4a95b175"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mabelfirst.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410780518"
+    }
+  ],
+  "advisories": []
+}

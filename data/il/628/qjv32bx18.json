@@ -1,0 +1,33 @@
+{
+  "id": "qjv32bx18",
+  "url": "https://constellation.church/qjv32bx18",
+  "name": "Logan Street Baptist Church",
+  "displayName": "Logan Street Baptist Church",
+  "address": {
+    "street": "800 N 42nd St",
+    "city": "Mount Vernon",
+    "state": "IL",
+    "zip": "62864"
+  },
+  "coordinates": {
+    "latitude": 38.32736587524414,
+    "longitude": -88.94014739990234
+  },
+  "website": "https://loganstreetbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/logan-street-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "logan-street-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "loganstreetbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370748213"
+    }
+  ],
+  "advisories": []
+}

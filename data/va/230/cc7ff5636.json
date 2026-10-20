@@ -1,0 +1,33 @@
+{
+  "id": "cc7ff5636",
+  "url": "https://constellation.church/cc7ff5636",
+  "name": "Little Elam Baptist Church",
+  "displayName": "Little Elam Baptist Church",
+  "address": {
+    "street": "8840 Church Lane",
+    "city": "Charles City",
+    "state": "VA",
+    "zip": "23030"
+  },
+  "coordinates": {
+    "latitude": 37.379621505737305,
+    "longitude": -77.11494064331055
+  },
+  "website": "https://littleelam.org",
+  "listingUrl": "https://churches.sbc.net/church/little-elam-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "little-elam-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "littleelam.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "546063982"
+    }
+  ],
+  "advisories": []
+}

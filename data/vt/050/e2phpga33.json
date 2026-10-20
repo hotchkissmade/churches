@@ -1,0 +1,33 @@
+{
+  "id": "e2phpga33",
+  "url": "https://constellation.church/e2phpga33",
+  "name": "Cornerstone Church",
+  "displayName": "Cornerstone Church",
+  "address": {
+    "street": "1453 Vt Rte 107",
+    "city": "Bethel",
+    "state": "VT",
+    "zip": "05032"
+  },
+  "coordinates": {
+    "latitude": 43.82331085205078,
+    "longitude": -72.59369277954102
+  },
+  "website": "https://cornerstonechurchvt.org",
+  "listingUrl": "https://churches.sbc.net/church/cornerstone-church-11/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cornerstone-church-11"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cornerstonechurchvt.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "861253197"
+    }
+  ],
+  "advisories": []
+}

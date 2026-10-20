@@ -1,0 +1,33 @@
+{
+  "id": "fdwgkj162",
+  "url": "https://constellation.church/fdwgkj162",
+  "name": "Glenwood Lutheran Church",
+  "displayName": "Glenwood Lutheran Church",
+  "address": {
+    "street": "1197 Old Stage Rd",
+    "city": "Decorah",
+    "state": "IA",
+    "zip": "52101-7348"
+  },
+  "coordinates": {
+    "latitude": 43.2835693359375,
+    "longitude": -91.6338119506836
+  },
+  "website": "https://glenwoodlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d22c6b37-2f16-4bd9-be09-62bf47779fb9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d22c6b37-2f16-4bd9-be09-62bf47779fb9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "glenwoodlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426062337"
+    }
+  ],
+  "advisories": []
+}

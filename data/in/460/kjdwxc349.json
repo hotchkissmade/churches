@@ -1,0 +1,33 @@
+{
+  "id": "kjdwxc349",
+  "url": "https://constellation.church/kjdwxc349",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "1484 W Main St",
+    "city": "Carmel",
+    "state": "IN",
+    "zip": "46032-1442"
+  },
+  "coordinates": {
+    "latitude": 39.978515625,
+    "longitude": -86.16041946411133
+  },
+  "website": "https://beth.church",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24761",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24761"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "beth.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351923348"
+    }
+  ],
+  "advisories": []
+}

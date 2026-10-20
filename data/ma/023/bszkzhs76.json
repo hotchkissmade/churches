@@ -1,0 +1,33 @@
+{
+  "id": "bszkzhs76",
+  "url": "https://constellation.church/bszkzhs76",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "199 Warren Ave",
+    "city": "Brockton",
+    "state": "MA",
+    "zip": "02301"
+  },
+  "coordinates": {
+    "latitude": 42.081817626953125,
+    "longitude": -71.0232048034668
+  },
+  "website": "https://brocktonag.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a74c1245-c4bf-47e6-8630-50115149a33d&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "a74c1245-c4bf-47e6-8630-50115149a33d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "brocktonag.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042720740"
+    }
+  ],
+  "advisories": []
+}

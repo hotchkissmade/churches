@@ -1,0 +1,33 @@
+{
+  "id": "n4sd7g184",
+  "url": "https://constellation.church/n4sd7g184",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "211 S 9th St",
+    "city": "Fort Dodge",
+    "state": "IA",
+    "zip": "50501-4713"
+  },
+  "coordinates": {
+    "latitude": 42.502981185913086,
+    "longitude": -94.18524169921875
+  },
+  "website": "https://graceelca.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bfeb6d87-f284-4f65-b8b7-784c3c8cf209",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bfeb6d87-f284-4f65-b8b7-784c3c8cf209"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceelca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420757427"
+    }
+  ],
+  "advisories": []
+}

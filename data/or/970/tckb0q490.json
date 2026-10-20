@@ -1,0 +1,33 @@
+{
+  "id": "tckb0q490",
+  "url": "https://constellation.church/tckb0q490",
+  "name": "Portland Taiwanese Lutheran Church",
+  "displayName": "Portland Taiwanese Lutheran Church",
+  "address": {
+    "street": "12405 SW Butner Rd",
+    "city": "Beaverton",
+    "state": "OR",
+    "zip": "97005-0864"
+  },
+  "coordinates": {
+    "latitude": 45.5136754,
+    "longitude": -122.8046043
+  },
+  "website": "https://ptlc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ac376faa-31b2-4a24-919b-93ae69169021",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ac376faa-31b2-4a24-919b-93ae69169021"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ptlc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "931041017"
+    }
+  ],
+  "advisories": []
+}

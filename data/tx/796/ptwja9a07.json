@@ -1,0 +1,33 @@
+{
+  "id": "ptwja9a07",
+  "url": "https://constellation.church/ptwja9a07",
+  "name": "Redeemer Church of Abilene",
+  "displayName": "Redeemer Church of Abilene",
+  "address": {
+    "street": "3232 Grape St",
+    "city": "Abilene",
+    "state": "TX",
+    "zip": "79601"
+  },
+  "coordinates": {
+    "latitude": 32.48964500427246,
+    "longitude": -99.73953247070312
+  },
+  "website": "https://redeemerabilene.com",
+  "listingUrl": "https://churches.sbc.net/church/redeemer-church-of-abilene/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "redeemer-church-of-abilene"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerabilene.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "464077298"
+    }
+  ],
+  "advisories": []
+}

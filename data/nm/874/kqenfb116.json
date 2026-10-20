@@ -1,0 +1,33 @@
+{
+  "id": "kqenfb116",
+  "url": "https://constellation.church/kqenfb116",
+  "name": "First Baptist Church of Kirtland",
+  "displayName": "First Baptist Church of Kirtland",
+  "address": {
+    "street": "17 County Road 6500",
+    "city": "Kirtland",
+    "state": "NM",
+    "zip": "87417"
+  },
+  "coordinates": {
+    "latitude": 36.74578666687012,
+    "longitude": -108.36007690429688
+  },
+  "website": "https://fbckirtland.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-kirtland/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-kirtland"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbckirtland.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850316033"
+    }
+  ],
+  "advisories": []
+}

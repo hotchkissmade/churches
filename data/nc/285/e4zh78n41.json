@@ -1,0 +1,33 @@
+{
+  "id": "e4zh78n41",
+  "url": "https://constellation.church/e4zh78n41",
+  "name": "Tabernacle",
+  "displayName": "Tabernacle Baptist Church",
+  "address": {
+    "street": "616 Broad St",
+    "city": "New Bern",
+    "state": "NC",
+    "zip": "28560"
+  },
+  "coordinates": {
+    "latitude": 35.10861778259277,
+    "longitude": -77.04397583007812
+  },
+  "website": "https://tabernaclebaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/tabernacle/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "tabernacle"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tabernaclebaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560769901"
+    }
+  ],
+  "advisories": []
+}

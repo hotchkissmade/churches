@@ -1,0 +1,33 @@
+{
+  "id": "nc2jzzc14",
+  "url": "https://constellation.church/nc2jzzc14",
+  "name": "St. Thomas' church",
+  "displayName": "St. Thomas' church",
+  "address": {
+    "street": "1405 Bushwick Ave",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11207"
+  },
+  "coordinates": {
+    "latitude": 40.684988021850586,
+    "longitude": -73.90958023071289
+  },
+  "website": "https://stthomasbushwick.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/church-st-thomas",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/church-st-thomas"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stthomasbushwick.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111694959"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "h4kyt8g24",
+  "url": "https://constellation.church/h4kyt8g24",
+  "name": "Fairfield Presbyterian Church",
+  "displayName": "Fairfield Presbyterian Church",
+  "address": {
+    "street": "53 Main Street",
+    "city": "Fairton",
+    "state": "NJ",
+    "zip": "08320"
+  },
+  "coordinates": {
+    "latitude": 39.381324768066406,
+    "longitude": -75.22106170654297
+  },
+  "website": "https://fairfieldchurchpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/368",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "368"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fairfieldchurchpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "216017816"
+    }
+  ],
+  "advisories": []
+}

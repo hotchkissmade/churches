@@ -1,0 +1,33 @@
+{
+  "id": "actk96v48",
+  "url": "https://constellation.church/actk96v48",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "1100 N Main St",
+    "city": "Celina",
+    "state": "OH",
+    "zip": "45822-1052"
+  },
+  "coordinates": {
+    "latitude": 40.5616512298584,
+    "longitude": -84.56941986083984
+  },
+  "website": "https://purpledoorchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b0b52f35-ffbb-4e8b-a749-0793aee99348",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b0b52f35-ffbb-4e8b-a749-0793aee99348"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "purpledoorchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "346531641"
+    }
+  ],
+  "advisories": []
+}

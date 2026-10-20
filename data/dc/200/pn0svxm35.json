@@ -1,0 +1,33 @@
+{
+  "id": "pn0svxm35",
+  "url": "https://constellation.church/pn0svxm35",
+  "name": "Church of the Ascension & St. Agnes",
+  "displayName": "Church of the Ascension & St. Agnes",
+  "address": {
+    "street": "1215 Massachusetts Ave NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20005-5396"
+  },
+  "coordinates": {
+    "latitude": 38.904666900634766,
+    "longitude": -77.02838516235352
+  },
+  "website": "https://asa-dc.org/our-history.html",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/church-ascension-st-agnes",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/church-ascension-st-agnes"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "asa-dc.org/our-history.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "530210806"
+    }
+  ],
+  "advisories": []
+}

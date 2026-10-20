@@ -1,0 +1,33 @@
+{
+  "id": "ze081qz29",
+  "url": "https://constellation.church/ze081qz29",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "4625 Glacier Hwy",
+    "city": "Juneau",
+    "state": "AK",
+    "zip": "99801"
+  },
+  "coordinates": {
+    "latitude": 58.343902587890625,
+    "longitude": -134.49500274658203
+  },
+  "website": "https://fbcjuneau.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-663/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-663"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcjuneau.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920096182"
+    }
+  ],
+  "advisories": []
+}

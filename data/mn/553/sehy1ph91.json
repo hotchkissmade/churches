@@ -1,0 +1,33 @@
+{
+  "id": "sehy1ph91",
+  "url": "https://constellation.church/sehy1ph91",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "331 Harrison St W",
+    "city": "Annandale",
+    "state": "MN",
+    "zip": "55302-9197"
+  },
+  "coordinates": {
+    "latitude": 45.259765625,
+    "longitude": -94.1317138671875
+  },
+  "website": "https://stjohns-annandale.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=068a26f2-672c-42ff-a85e-6a2c69957bd6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "068a26f2-672c-42ff-a85e-6a2c69957bd6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohns-annandale.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411459295"
+    }
+  ],
+  "advisories": []
+}

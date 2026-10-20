@@ -1,0 +1,33 @@
+{
+  "id": "jmmfkat08",
+  "url": "https://constellation.church/jmmfkat08",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "1420 Walker St",
+    "city": "Ely",
+    "state": "IA",
+    "zip": "52227-9560"
+  },
+  "coordinates": {
+    "latitude": 41.87227249145508,
+    "longitude": -91.58506774902344
+  },
+  "website": "https://stjohnely.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=907f9466-e991-47f8-8f90-b4d76702fb16",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "907f9466-e991-47f8-8f90-b4d76702fb16"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnely.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421161367"
+    }
+  ],
+  "advisories": []
+}

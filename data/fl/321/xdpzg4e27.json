@@ -1,0 +1,33 @@
+{
+  "id": "xdpzg4e27",
+  "url": "https://constellation.church/xdpzg4e27",
+  "name": "First Baptist Church of Daytona Beach",
+  "displayName": "First Baptist Church of Daytona Beach",
+  "address": {
+    "street": "10 First Baptist Parkway",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "zip": "32124"
+  },
+  "coordinates": {
+    "latitude": 29.152769088745117,
+    "longitude": -81.0909652709961
+  },
+  "website": "https://firstbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-daytona-beach/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-daytona-beach"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590693091"
+    }
+  ],
+  "advisories": []
+}

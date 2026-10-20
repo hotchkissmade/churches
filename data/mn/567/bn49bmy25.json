@@ -1,0 +1,33 @@
+{
+  "id": "bn49bmy25",
+  "url": "https://constellation.church/bn49bmy25",
+  "name": "Our Savior Lutheran Church",
+  "displayName": "Our Savior Lutheran Church",
+  "address": {
+    "street": "1515 5th Ave NW",
+    "city": "East Grand Forks",
+    "state": "MN",
+    "zip": "56721-1412"
+  },
+  "coordinates": {
+    "latitude": 47.94080352783203,
+    "longitude": -97.02716064453125
+  },
+  "website": "https://oslcegf.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bed489a4-536f-497a-91fd-5f39cd6125fb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bed489a4-536f-497a-91fd-5f39cd6125fb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oslcegf.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416025915"
+    }
+  ],
+  "advisories": []
+}

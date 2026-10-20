@@ -1,0 +1,33 @@
+{
+  "id": "b3rm3d075",
+  "url": "https://constellation.church/b3rm3d075",
+  "name": "Boydton Baptist Church",
+  "displayName": "Boydton Baptist Church",
+  "address": {
+    "street": "239 Madison Street",
+    "city": "Boydton",
+    "state": "VA",
+    "zip": "23917"
+  },
+  "coordinates": {
+    "latitude": 36.66767501831055,
+    "longitude": -78.39261627197266
+  },
+  "website": "https://boydtonbaptistchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/boydton-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "boydton-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "boydtonbaptistchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541102472"
+    }
+  ],
+  "advisories": []
+}

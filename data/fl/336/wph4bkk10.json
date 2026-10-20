@@ -1,0 +1,33 @@
+{
+  "id": "wph4bkk10",
+  "url": "https://constellation.church/wph4bkk10",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "3714 W Linebaugh Ave",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33618-4429"
+  },
+  "coordinates": {
+    "latitude": 28.038963317871094,
+    "longitude": -82.50402069091797
+  },
+  "website": "https://gracetampa.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=21483191-60b3-4e62-b894-6adddc851131",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "21483191-60b3-4e62-b894-6adddc851131"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracetampa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "596502930"
+    }
+  ],
+  "advisories": []
+}

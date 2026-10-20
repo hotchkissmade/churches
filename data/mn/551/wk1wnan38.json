@@ -1,0 +1,33 @@
+{
+  "id": "wk1wnan38",
+  "url": "https://constellation.church/wk1wnan38",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "1807 Field Ave",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip": "55116-2727"
+  },
+  "coordinates": {
+    "latitude": 44.902706146240234,
+    "longitude": -93.17642974853516
+  },
+  "website": "https://saintlukechurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dbdc2274-6c2f-4d4f-a6d1-70422b80e0a5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dbdc2274-6c2f-4d4f-a6d1-70422b80e0a5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintlukechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410826562"
+    }
+  ],
+  "advisories": []
+}

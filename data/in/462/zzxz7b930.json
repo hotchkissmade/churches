@@ -1,0 +1,33 @@
+{
+  "id": "zzxz7b930",
+  "url": "https://constellation.church/zzxz7b930",
+  "name": "Pleasant View Lutheran Church",
+  "displayName": "Pleasant View Lutheran Church",
+  "address": {
+    "street": "1100 W 42nd St Ste 340",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46208-3346"
+  },
+  "coordinates": {
+    "latitude": 39.83010673522949,
+    "longitude": -86.18239212036133
+  },
+  "website": "https://pvlcelca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=65f5f53a-0142-4f73-b627-b1db084fb9e4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "65f5f53a-0142-4f73-b627-b1db084fb9e4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pvlcelca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "350957095"
+    }
+  ],
+  "advisories": []
+}

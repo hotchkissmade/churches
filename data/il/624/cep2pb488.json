@@ -1,0 +1,33 @@
+{
+  "id": "cep2pb488",
+  "url": "https://constellation.church/cep2pb488",
+  "name": "Highland Avenue Baptist Church",
+  "displayName": "Highland Avenue Baptist Church",
+  "address": {
+    "street": "400 W Highland Ave",
+    "city": "Robinson",
+    "state": "IL",
+    "zip": "62454"
+  },
+  "coordinates": {
+    "latitude": 39.01846504211426,
+    "longitude": -87.74252319335938
+  },
+  "website": "https://highlandavebaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/highland-avenue-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "highland-avenue-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "highlandavebaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371192247"
+    }
+  ],
+  "advisories": []
+}

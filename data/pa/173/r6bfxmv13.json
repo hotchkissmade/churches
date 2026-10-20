@@ -1,0 +1,33 @@
+{
+  "id": "r6bfxmv13",
+  "url": "https://constellation.church/r6bfxmv13",
+  "name": "Calvary Evangelical Lutheran Church",
+  "displayName": "Calvary Evangelical Lutheran Church",
+  "address": {
+    "street": "9 N Main St",
+    "city": "Dover",
+    "state": "PA",
+    "zip": "17315-1209"
+  },
+  "coordinates": {
+    "latitude": 40.0017899,
+    "longitude": -76.8507094
+  },
+  "website": "https://calvarylutherandover.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9118e4fa-00bd-436f-bce5-7d1cb9375d9c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9118e4fa-00bd-436f-bce5-7d1cb9375d9c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "calvarylutherandover.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231458011"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xrfwkgy20",
+  "url": "https://constellation.church/xrfwkgy20",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "436 1st Ave N",
+    "city": "New Rockford",
+    "state": "ND",
+    "zip": "58356-1706"
+  },
+  "coordinates": {
+    "latitude": 47.68134689331055,
+    "longitude": -99.13290405273438
+  },
+  "website": "https://flcnewrock.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=161fabf8-2839-490c-a26f-8b63327f9cf3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "161fabf8-2839-490c-a26f-8b63327f9cf3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcnewrock.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450240037"
+    }
+  ],
+  "advisories": []
+}

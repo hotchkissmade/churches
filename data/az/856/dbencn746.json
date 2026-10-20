@@ -1,0 +1,33 @@
+{
+  "id": "dbencn746",
+  "url": "https://constellation.church/dbencn746",
+  "name": "New Hope Church",
+  "displayName": "New Hope Church",
+  "address": {
+    "street": "5420 Desert Shadows Dr",
+    "city": "Sierra Vista",
+    "state": "AZ",
+    "zip": "85635-6705"
+  },
+  "coordinates": {
+    "latitude": 31.548843383789062,
+    "longitude": -110.2355728149414
+  },
+  "website": "https://newhopechurchsv.org",
+  "listingUrl": "https://churches.efca.org/?id=12843",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12843"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newhopechurchsv.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860498647"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "n1b490a47",
+  "url": "https://constellation.church/n1b490a47",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "7000 Providence Rd",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28226-2955"
+  },
+  "coordinates": {
+    "latitude": 35.1126395,
+    "longitude": -80.779092
+  },
+  "website": "https://grace-charlotte.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24165",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24165"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grace-charlotte.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561519455"
+    }
+  ],
+  "advisories": []
+}

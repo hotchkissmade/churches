@@ -1,0 +1,33 @@
+{
+  "id": "bd0xnmc48",
+  "url": "https://constellation.church/bd0xnmc48",
+  "name": "Bethany Lutheran Church",
+  "displayName": "Bethany Lutheran Church",
+  "address": {
+    "street": "336 Franklin St",
+    "city": "West Reading",
+    "state": "PA",
+    "zip": "19611-1266"
+  },
+  "coordinates": {
+    "latitude": 40.334251403808594,
+    "longitude": -75.94540023803711
+  },
+  "website": "https://bethanywestreading.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=05d3751d-4f28-41a7-b531-6c9b29e31e24",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "05d3751d-4f28-41a7-b531-6c9b29e31e24"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanywestreading.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232265966"
+    }
+  ],
+  "advisories": []
+}

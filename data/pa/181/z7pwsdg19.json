@@ -1,0 +1,33 @@
+{
+  "id": "z7pwsdg19",
+  "url": "https://constellation.church/z7pwsdg19",
+  "name": "Grace Episcopal Church",
+  "displayName": "Grace Episcopal Church",
+  "address": {
+    "street": "108 N 5th St",
+    "city": "Allentown",
+    "state": "PA",
+    "zip": "18102-4161"
+  },
+  "coordinates": {
+    "latitude": 40.60489845275879,
+    "longitude": -75.46886825561523
+  },
+  "website": "https://graceallentown.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-bethlehem/list/grace-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-bethlehem/grace-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "graceallentown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231630482"
+    }
+  ],
+  "advisories": []
+}

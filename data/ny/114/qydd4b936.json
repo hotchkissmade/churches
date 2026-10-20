@@ -1,0 +1,33 @@
+{
+  "id": "qydd4b936",
+  "url": "https://constellation.church/qydd4b936",
+  "name": "St. Davids Church",
+  "displayName": "St. David's Church",
+  "address": {
+    "street": "117-35 235th St",
+    "city": "Cambria Heights",
+    "state": "NY",
+    "zip": "11411"
+  },
+  "coordinates": {
+    "latitude": 40.6898136138916,
+    "longitude": -73.72758865356445
+  },
+  "website": "https://saintdavidsepiscopal.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-davids-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-davids-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintdavidsepiscopal.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112664574"
+    }
+  ],
+  "advisories": []
+}

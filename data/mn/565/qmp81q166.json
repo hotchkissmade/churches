@@ -1,0 +1,33 @@
+{
+  "id": "qmp81q166",
+  "url": "https://constellation.church/qmp81q166",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "213 8th St S",
+    "city": "Moorhead",
+    "state": "MN",
+    "zip": "56560-2810"
+  },
+  "coordinates": {
+    "latitude": 46.8723030090332,
+    "longitude": -96.7686538696289
+  },
+  "website": "https://trinitymhd.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=697c4336-a6f9-4baa-87ef-659ab58a1c90",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "697c4336-a6f9-4baa-87ef-659ab58a1c90"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitymhd.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410721676"
+    }
+  ],
+  "advisories": []
+}

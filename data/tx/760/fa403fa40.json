@@ -1,0 +1,33 @@
+{
+  "id": "fa403fa40",
+  "url": "https://constellation.church/fa403fa40",
+  "name": "Waterhouse Church",
+  "displayName": "Waterhouse Church",
+  "address": {
+    "street": "1010 S Bowie Dr",
+    "city": "Weatherford",
+    "state": "TX",
+    "zip": "76086"
+  },
+  "coordinates": {
+    "latitude": 32.74717140197754,
+    "longitude": -97.81492614746094
+  },
+  "website": "https://waterhousechurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=434d2204-ff9a-41b6-8baa-383565b5518a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "434d2204-ff9a-41b6-8baa-383565b5518a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "waterhousechurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751944184"
+    }
+  ],
+  "advisories": []
+}

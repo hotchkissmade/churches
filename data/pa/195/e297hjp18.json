@@ -1,0 +1,33 @@
+{
+  "id": "e297hjp18",
+  "url": "https://constellation.church/e297hjp18",
+  "name": "Maidencreek Church",
+  "displayName": "Maidencreek Church",
+  "address": {
+    "street": "261 Main St",
+    "city": "Blandon",
+    "state": "PA",
+    "zip": "19510-9540"
+  },
+  "coordinates": {
+    "latitude": 40.44194984436035,
+    "longitude": -75.88725662231445
+  },
+  "website": "https://maidencreekchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=abcf55ad-8523-46d0-8279-4d7caa8b0b39",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "abcf55ad-8523-46d0-8279-4d7caa8b0b39"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "maidencreekchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232040038"
+    }
+  ],
+  "advisories": []
+}

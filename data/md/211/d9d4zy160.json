@@ -1,0 +1,33 @@
+{
+  "id": "d9d4zy160",
+  "url": "https://constellation.church/d9d4zy160",
+  "name": "Manchester Baptist Church",
+  "displayName": "Manchester Baptist Church",
+  "address": {
+    "street": "2933 Manchester Bap. Church Rd",
+    "city": "Manchester",
+    "state": "MD",
+    "zip": "21102"
+  },
+  "coordinates": {
+    "latitude": 39.68517303466797,
+    "longitude": -76.89042282104492
+  },
+  "website": "https://manchesterbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/manchester-baptist-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "manchester-baptist-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "manchesterbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521102084"
+    }
+  ],
+  "advisories": []
+}

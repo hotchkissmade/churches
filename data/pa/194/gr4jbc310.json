@@ -1,0 +1,33 @@
+{
+  "id": "gr4jbc310",
+  "url": "https://constellation.church/gr4jbc310",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "564 Glasgow St",
+    "city": "Pottstown",
+    "state": "PA",
+    "zip": "19464-6640"
+  },
+  "coordinates": {
+    "latitude": 40.25194549560547,
+    "longitude": -75.6746711730957
+  },
+  "website": "https://stpeterslutheranpottstown.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=843e60c3-9d3e-4837-a490-1c06a88eb2dd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "843e60c3-9d3e-4837-a490-1c06a88eb2dd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpeterslutheranpottstown.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232013452"
+    }
+  ],
+  "advisories": []
+}

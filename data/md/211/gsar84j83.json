@@ -1,0 +1,33 @@
+{
+  "id": "gsar84j83",
+  "url": "https://constellation.church/gsar84j83",
+  "name": "Severna Park Baptist Church",
+  "displayName": "Severna Park Baptist Church",
+  "address": {
+    "street": "506 Benfield Rd",
+    "city": "Severna Park",
+    "state": "MD",
+    "zip": "21146"
+  },
+  "coordinates": {
+    "latitude": 39.080453872680664,
+    "longitude": -76.57803726196289
+  },
+  "website": "https://spbcmd.com",
+  "listingUrl": "https://churches.sbc.net/church/severna-park-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "severna-park-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "spbcmd.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520788305"
+    }
+  ],
+  "advisories": []
+}

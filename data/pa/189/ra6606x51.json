@@ -1,0 +1,33 @@
+{
+  "id": "ra6606x51",
+  "url": "https://constellation.church/ra6606x51",
+  "name": "St Michael Lutheran Church",
+  "displayName": "St. Michael Lutheran Church",
+  "address": {
+    "street": "25 E Church St",
+    "city": "Sellersville",
+    "state": "PA",
+    "zip": "18960-2434"
+  },
+  "coordinates": {
+    "latitude": 40.36202621459961,
+    "longitude": -75.31144332885742
+  },
+  "website": "https://smelc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5e4d079f-9272-4397-a35a-708d0e3a22cd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5e4d079f-9272-4397-a35a-708d0e3a22cd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "smelc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231522655"
+    }
+  ],
+  "advisories": []
+}

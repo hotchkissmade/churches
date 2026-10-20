@@ -1,0 +1,33 @@
+{
+  "id": "qzxsxjt91",
+  "url": "https://constellation.church/qzxsxjt91",
+  "name": "Church of St. David's by the Sea",
+  "displayName": "Church of St. David's by the Sea",
+  "address": {
+    "street": "600 S 4th St",
+    "city": "Cocoa Beach",
+    "state": "FL",
+    "zip": "32931-2612"
+  },
+  "coordinates": {
+    "latitude": 28.310890197753906,
+    "longitude": -80.61519622802734
+  },
+  "website": "https://stdavidsbythesea.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-central-florida/list/church-st-davids-sea",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-central-florida/church-st-davids-sea"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stdavidsbythesea.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592064809"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ts5zsfm13",
+  "url": "https://constellation.church/ts5zsfm13",
+  "name": "St Philips Lutheran Church",
+  "displayName": "St. Philip's Lutheran Church",
+  "address": {
+    "street": "8065 Carmel Valley Rd",
+    "city": "Carmel",
+    "state": "CA",
+    "zip": "93923-9566"
+  },
+  "coordinates": {
+    "latitude": 36.53156089782715,
+    "longitude": -121.83468627929688
+  },
+  "website": "https://stphilipslutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=add83c31-51e5-4dcf-b567-ff0d8add9ebf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "add83c31-51e5-4dcf-b567-ff0d8add9ebf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stphilipslutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942495273"
+    }
+  ],
+  "advisories": []
+}

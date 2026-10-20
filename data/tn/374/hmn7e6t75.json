@@ -1,0 +1,33 @@
+{
+  "id": "hmn7e6t75",
+  "url": "https://constellation.church/hmn7e6t75",
+  "name": "East Ridge Presbyterian Church",
+  "displayName": "East Ridge Presbyterian Church",
+  "address": {
+    "street": "4919 Court Drive",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37412"
+  },
+  "coordinates": {
+    "latitude": 34.9958864,
+    "longitude": -85.2478565
+  },
+  "website": "https://eastridgepc.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/329",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "329"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastridgepc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620720209"
+    }
+  ],
+  "advisories": []
+}

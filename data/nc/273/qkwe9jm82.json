@@ -1,0 +1,33 @@
+{
+  "id": "qkwe9jm82",
+  "url": "https://constellation.church/qkwe9jm82",
+  "name": "Mebane United Methodist Church",
+  "displayName": "Mebane United Methodist Church",
+  "address": {
+    "street": "200 S Fourth St",
+    "city": "Mebane",
+    "state": "NC",
+    "zip": "27302-2642"
+  },
+  "coordinates": {
+    "latitude": 36.09446716308594,
+    "longitude": -79.26909637451172
+  },
+  "website": "https://mebaneumc.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF1xdIAD",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF1xdIAD"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mebaneumc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "566060122"
+    }
+  ],
+  "advisories": []
+}

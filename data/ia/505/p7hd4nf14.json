@@ -1,0 +1,33 @@
+{
+  "id": "p7hd4nf14",
+  "url": "https://constellation.church/p7hd4nf14",
+  "name": "Church Of The Damascus Road",
+  "displayName": "Church Of The Damascus Road",
+  "address": {
+    "street": "239 N 11th St",
+    "city": "Fort Dodge",
+    "state": "IA",
+    "zip": "50501-4018"
+  },
+  "coordinates": {
+    "latitude": 42.50807571411133,
+    "longitude": -94.1839370727539
+  },
+  "website": "https://codrcare.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f0412283-b170-497e-9965-ac0c4c2b8261",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f0412283-b170-497e-9965-ac0c4c2b8261"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "codrcare.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391904099"
+    }
+  ],
+  "advisories": []
+}

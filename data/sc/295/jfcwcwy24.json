@@ -1,0 +1,33 @@
+{
+  "id": "jfcwcwy24",
+  "url": "https://constellation.church/jfcwcwy24",
+  "name": "Florence First Baptist Church",
+  "displayName": "Florence First Baptist Church",
+  "address": {
+    "street": "300 S Irby St",
+    "city": "Florence",
+    "state": "SC",
+    "zip": "29501"
+  },
+  "coordinates": {
+    "latitude": 34.19312858581543,
+    "longitude": -79.7673568725586
+  },
+  "website": "https://fbcflorence.org",
+  "listingUrl": "https://churches.sbc.net/church/florence-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "florence-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcflorence.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570339439"
+    }
+  ],
+  "advisories": []
+}

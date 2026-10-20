@@ -1,0 +1,33 @@
+{
+  "id": "ms99amh45",
+  "url": "https://constellation.church/ms99amh45",
+  "name": "Bethany Lutheran Church",
+  "displayName": "Bethany Lutheran Church",
+  "address": {
+    "street": "2202 Forest Dr SE",
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "zip": "52403-1654"
+  },
+  "coordinates": {
+    "latitude": 41.99673271179199,
+    "longitude": -91.63377380371094
+  },
+  "website": "https://bethanycr.org",
+  "listingUrl": "https://locator.lcms.org/church/C/141356",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "141356"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanycr.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420932114"
+    }
+  ],
+  "advisories": []
+}

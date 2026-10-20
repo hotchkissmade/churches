@@ -1,0 +1,33 @@
+{
+  "id": "n91c3mg32",
+  "url": "https://constellation.church/n91c3mg32",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "90 Riverside Dr SE",
+    "city": "Saint Cloud",
+    "state": "MN",
+    "zip": "56304-0729"
+  },
+  "coordinates": {
+    "latitude": 45.563751220703125,
+    "longitude": -94.15238952636719
+  },
+  "website": "https://salemstcloud.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fde9ab9b-efb3-4a5a-930a-f540bbb8a550",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fde9ab9b-efb3-4a5a-930a-f540bbb8a550"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemstcloud.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410824187"
+    }
+  ],
+  "advisories": []
+}

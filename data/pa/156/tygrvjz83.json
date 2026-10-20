@@ -1,0 +1,33 @@
+{
+  "id": "tygrvjz83",
+  "url": "https://constellation.church/tygrvjz83",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "246 Pleasant Valley Rd",
+    "city": "Jeannette",
+    "state": "PA",
+    "zip": "15644"
+  },
+  "coordinates": {
+    "latitude": 40.3247058,
+    "longitude": -79.5738387
+  },
+  "website": "https://jeannetteassembly.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=81b274f5-6f0e-4934-aef8-87b300d6e2a0&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "81b274f5-6f0e-4934-aef8-87b300d6e2a0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jeannetteassembly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "250979356"
+    }
+  ],
+  "advisories": []
+}

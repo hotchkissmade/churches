@@ -1,0 +1,33 @@
+{
+  "id": "rb5tj8r02",
+  "url": "https://constellation.church/rb5tj8r02",
+  "name": "Abbott Memorial Presbyterian Church",
+  "displayName": "Abbott Memorial Presbyterian Church",
+  "address": {
+    "street": "3426 Bank Street",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21224"
+  },
+  "coordinates": {
+    "latitude": 39.287967681884766,
+    "longitude": -76.56859588623047
+  },
+  "website": "https://abbottchurch.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/52",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "52"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "abbottchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520613701"
+    }
+  ],
+  "advisories": []
+}

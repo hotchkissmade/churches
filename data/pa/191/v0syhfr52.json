@@ -1,0 +1,33 @@
+{
+  "id": "v0syhfr52",
+  "url": "https://constellation.church/v0syhfr52",
+  "name": "Beth Emanuel",
+  "displayName": "Beth Emanuel",
+  "address": {
+    "street": "10150 Bustleton Ave",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19116"
+  },
+  "coordinates": {
+    "latitude": 40.105222,
+    "longitude": -75.027763
+  },
+  "website": "https://bethemanuel.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=94b858e2-3666-4379-b001-e88ad418c2a3&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "94b858e2-3666-4379-b001-e88ad418c2a3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethemanuel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232508111"
+    }
+  ],
+  "advisories": []
+}

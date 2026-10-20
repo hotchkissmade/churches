@@ -1,0 +1,33 @@
+{
+  "id": "k8mmyrc30",
+  "url": "https://constellation.church/k8mmyrc30",
+  "name": "Origins",
+  "displayName": "Origins",
+  "address": {
+    "street": "924 S Main St",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29601"
+  },
+  "coordinates": {
+    "latitude": 34.84381675720215,
+    "longitude": -82.4082145690918
+  },
+  "website": "https://originsgreenville.org",
+  "listingUrl": "https://churches.sbc.net/church/origins/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "origins"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "originsgreenville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "264124135"
+    }
+  ],
+  "advisories": []
+}

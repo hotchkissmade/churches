@@ -1,0 +1,33 @@
+{
+  "id": "sb5djqg16",
+  "url": "https://constellation.church/sb5djqg16",
+  "name": "St. Mary's Episcopal Church",
+  "displayName": "St. Mary's Episcopal Church",
+  "address": {
+    "street": "131 Edgewood Rd, Po Box 744",
+    "city": "Middlesboro",
+    "state": "KY",
+    "zip": "40965"
+  },
+  "coordinates": {
+    "latitude": 36.60891342163086,
+    "longitude": -83.71663665771484
+  },
+  "website": "https://saintmarysmboro.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-lexington/list/st-marys-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-lexington/st-marys-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintmarysmboro.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611042201"
+    }
+  ],
+  "advisories": []
+}

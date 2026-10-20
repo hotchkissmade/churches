@@ -1,0 +1,33 @@
+{
+  "id": "xrjf51m92",
+  "url": "https://constellation.church/xrjf51m92",
+  "name": "Georgetown Lutheran Church",
+  "displayName": "Georgetown Lutheran Church",
+  "address": {
+    "street": "1556 Wisconsin Ave NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20007-2758"
+  },
+  "coordinates": {
+    "latitude": 38.90994453430176,
+    "longitude": -77.06489944458008
+  },
+  "website": "https://georgetownlutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e6932eb2-6fd4-4663-907b-abd559c76524",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e6932eb2-6fd4-4663-907b-abd559c76524"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "georgetownlutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "526045565"
+    }
+  ],
+  "advisories": []
+}

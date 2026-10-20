@@ -1,0 +1,33 @@
+{
+  "id": "xh23ccf37",
+  "url": "https://constellation.church/xh23ccf37",
+  "name": "Fresh Church",
+  "displayName": "Fresh Church",
+  "address": {
+    "street": "1022 Forrest Shealy Rd",
+    "city": "Chapin",
+    "state": "SC",
+    "zip": "29036"
+  },
+  "coordinates": {
+    "latitude": 34.13200569152832,
+    "longitude": -81.277587890625
+  },
+  "website": "https://freshchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/fresh-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "fresh-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "freshchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "464046269"
+    }
+  ],
+  "advisories": []
+}

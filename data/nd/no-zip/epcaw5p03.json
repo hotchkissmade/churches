@@ -1,0 +1,33 @@
+{
+  "id": "epcaw5p03",
+  "url": "https://constellation.church/epcaw5p03",
+  "name": "Aurdal Lutheran Church",
+  "displayName": "Aurdal Lutheran Church",
+  "address": {
+    "street": null,
+    "city": "Portland",
+    "state": "ND",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 47.503395080566406,
+    "longitude": -97.37477111816406
+  },
+  "website": "https://aurdallutheran.com",
+  "listingUrl": "https://lcmc.net/congregation/108226",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "108226"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "aurdallutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450351068"
+    }
+  ],
+  "advisories": []
+}

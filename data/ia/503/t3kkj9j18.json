@@ -1,0 +1,33 @@
+{
+  "id": "t3kkj9j18",
+  "url": "https://constellation.church/t3kkj9j18",
+  "name": "Westkirk Presbyterian Church",
+  "displayName": "Westkirk Presbyterian Church",
+  "address": {
+    "street": "2700 Colby Woods Drive",
+    "city": "Urbandale",
+    "state": "IA",
+    "zip": "50322"
+  },
+  "coordinates": {
+    "latitude": 41.61849403381348,
+    "longitude": -93.72753143310547
+  },
+  "website": "https://westkirk.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6806",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6806"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westkirk.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421434501"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "arzr1e909",
+  "url": "https://constellation.church/arzr1e909",
+  "name": "Christ Church, New Brighton, Staten Island",
+  "displayName": "Christ Church, New Brighton, Staten Island",
+  "address": {
+    "street": "76 Franklin Avenue",
+    "city": "Staten Island",
+    "state": "NY",
+    "zip": "10301"
+  },
+  "coordinates": {
+    "latitude": 40.64338302612305,
+    "longitude": -74.09281539916992
+  },
+  "website": "https://ccnbsi.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-new-york/list/christ-church-new-brighton",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-new-york/christ-church-new-brighton"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ccnbsi.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "843202903"
+    }
+  ],
+  "advisories": []
+}

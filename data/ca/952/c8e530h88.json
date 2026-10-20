@@ -1,0 +1,33 @@
+{
+  "id": "c8e530h88",
+  "url": "https://constellation.church/c8e530h88",
+  "name": "The Home Church",
+  "displayName": "The Home Church",
+  "address": {
+    "street": "11451 N. West Lane",
+    "city": "Lodi",
+    "state": "CA",
+    "zip": "95242"
+  },
+  "coordinates": {
+    "latitude": 38.071170806884766,
+    "longitude": -121.29512023925781
+  },
+  "website": "https://thehomechurch.net",
+  "listingUrl": "https://venturechurches.org/churches/the-home-church/",
+  "identifiers": [
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "the-home-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thehomechurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911851809"
+    }
+  ],
+  "advisories": []
+}

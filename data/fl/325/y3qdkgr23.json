@@ -1,0 +1,33 @@
+{
+  "id": "y3qdkgr23",
+  "url": "https://constellation.church/y3qdkgr23",
+  "name": "Sunrise City Church",
+  "displayName": "Sunrise City Church",
+  "address": {
+    "street": "28 North St",
+    "city": "Mary Esther",
+    "state": "FL",
+    "zip": "32569"
+  },
+  "coordinates": {
+    "latitude": 30.410490036010742,
+    "longitude": -86.67633819580078
+  },
+  "website": "https://sunrisecitychurch.com",
+  "listingUrl": "https://churches.sbc.net/church/sunrise-city-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sunrise-city-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sunrisecitychurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "463645650"
+    }
+  ],
+  "advisories": []
+}

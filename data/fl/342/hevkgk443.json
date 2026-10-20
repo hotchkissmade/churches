@@ -1,0 +1,33 @@
+{
+  "id": "hevkgk443",
+  "url": "https://constellation.church/hevkgk443",
+  "name": "Oasis Church",
+  "displayName": "Oasis Church",
+  "address": {
+    "street": "5215 Lorraine Rd",
+    "city": "Bradenton",
+    "state": "FL",
+    "zip": "34211"
+  },
+  "coordinates": {
+    "latitude": 27.446956634521484,
+    "longitude": -82.39392852783203
+  },
+  "website": "https://oasischurch.ag",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=2abf4d08-86a6-4cb9-bbba-7e4dfca00f31&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "2abf4d08-86a6-4cb9-bbba-7e4dfca00f31"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oasischurch.ag"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "274267554"
+    }
+  ],
+  "advisories": []
+}

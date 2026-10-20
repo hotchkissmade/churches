@@ -1,0 +1,33 @@
+{
+  "id": "jk9jn8v33",
+  "url": "https://constellation.church/jk9jn8v33",
+  "name": "St. Thomas' Episcopal church",
+  "displayName": "St. Thomas' Episcopal church",
+  "address": {
+    "street": "6 Commonwealth Blvd",
+    "city": "Bellerose Village",
+    "state": "NY",
+    "zip": "11001"
+  },
+  "coordinates": {
+    "latitude": 40.7230339050293,
+    "longitude": -73.71669387817383
+  },
+  "website": "https://stthomasbv.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-thomas-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-thomas-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stthomasbv.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "116013763"
+    }
+  ],
+  "advisories": []
+}

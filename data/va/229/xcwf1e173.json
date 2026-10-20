@@ -1,0 +1,33 @@
+{
+  "id": "xcwf1e173",
+  "url": "https://constellation.church/xcwf1e173",
+  "name": "Main Street United Methodist Church",
+  "displayName": "Main Street United Methodist Church",
+  "address": {
+    "street": "601 W Main St",
+    "city": "Waynesboro",
+    "state": "VA",
+    "zip": "22980-4303"
+  },
+  "coordinates": {
+    "latitude": 38.06916046142578,
+    "longitude": -78.89165878295898
+  },
+  "website": "https://mainst-umc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF7vNIAT",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF7vNIAT"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mainst-umc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540577102"
+    }
+  ],
+  "advisories": []
+}

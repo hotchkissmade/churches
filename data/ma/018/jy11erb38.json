@@ -1,0 +1,33 @@
+{
+  "id": "jy11erb38",
+  "url": "https://constellation.church/jy11erb38",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "360 S Main St",
+    "city": "Andover",
+    "state": "MA",
+    "zip": "01810-4824"
+  },
+  "coordinates": {
+    "latitude": 42.62681579589844,
+    "longitude": -71.12628936767578
+  },
+  "website": "https://faith-andover.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=90f16c31-3043-40bb-b017-6852a3c7000b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "90f16c31-3043-40bb-b017-6852a3c7000b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faith-andover.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222507229"
+    }
+  ],
+  "advisories": []
+}

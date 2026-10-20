@@ -1,0 +1,37 @@
+{
+  "id": "byfxzbb97",
+  "url": "https://constellation.church/byfxzbb97",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "6614 W Smithville Rd",
+    "city": "Bartonville",
+    "state": "IL",
+    "zip": "61607-9435"
+  },
+  "coordinates": {
+    "latitude": 40.65548133850098,
+    "longitude": -89.69831848144531
+  },
+  "website": "https://stjohnbville.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a02ada2f-c02d-441d-8a6e-c7fd69fdef26",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a02ada2f-c02d-441d-8a6e-c7fd69fdef26"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnbville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371061473"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371144420"
+    }
+  ],
+  "advisories": []
+}

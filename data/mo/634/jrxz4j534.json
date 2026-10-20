@@ -1,0 +1,33 @@
+{
+  "id": "jrxz4j534",
+  "url": "https://constellation.church/jrxz4j534",
+  "name": "South Side Baptist Church",
+  "displayName": "South Side Baptist Church",
+  "address": {
+    "street": "701 Fulton Ave",
+    "city": "Hannibal",
+    "state": "MO",
+    "zip": "63401"
+  },
+  "coordinates": {
+    "latitude": 39.70150566101074,
+    "longitude": -91.35039520263672
+  },
+  "website": "https://southsidebaptisthannibal.org/times-of-services.html",
+  "listingUrl": "https://churches.sbc.net/church/south-side-baptist-church-6/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "south-side-baptist-church-6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southsidebaptisthannibal.org/times-of-services.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431118736"
+    }
+  ],
+  "advisories": []
+}

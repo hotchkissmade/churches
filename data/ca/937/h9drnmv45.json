@@ -1,0 +1,33 @@
+{
+  "id": "h9drnmv45",
+  "url": "https://constellation.church/h9drnmv45",
+  "name": "Northwest Church",
+  "displayName": "Northwest Church",
+  "address": {
+    "street": "5415 N West Ave",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93711"
+  },
+  "coordinates": {
+    "latitude": 36.81612586975098,
+    "longitude": -119.8277587890625
+  },
+  "website": "https://nwc.org",
+  "listingUrl": "https://converge.org/church/northwest-church/",
+  "identifiers": [
+    {
+      "namespace": "org.converge.id",
+      "value": "38524"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nwc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237280093"
+    }
+  ],
+  "advisories": []
+}

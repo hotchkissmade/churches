@@ -1,0 +1,33 @@
+{
+  "id": "kedb2w984",
+  "url": "https://constellation.church/kedb2w984",
+  "name": "Harvest Hill Baptist Church",
+  "displayName": "Harvest Hill Baptist Church",
+  "address": {
+    "street": "101 E Evergreen St",
+    "city": "Strafford",
+    "state": "MO",
+    "zip": "65757"
+  },
+  "coordinates": {
+    "latitude": 37.2735481262207,
+    "longitude": -93.1192855834961
+  },
+  "website": "https://harvesthill.org",
+  "listingUrl": "https://churches.sbc.net/church/harvest-hill-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "harvest-hill-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "harvesthill.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "273736737"
+    }
+  ],
+  "advisories": []
+}

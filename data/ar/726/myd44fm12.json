@@ -1,0 +1,33 @@
+{
+  "id": "myd44fm12",
+  "url": "https://constellation.church/myd44fm12",
+  "name": "Northvale Baptist Church",
+  "displayName": "Northvale Baptist Church",
+  "address": {
+    "street": "310 Adams St",
+    "city": "Harrison",
+    "state": "AR",
+    "zip": "72601"
+  },
+  "coordinates": {
+    "latitude": 36.254066467285156,
+    "longitude": -93.11894226074219
+  },
+  "website": "https://northvalebaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/northvale-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northvale-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northvalebaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "710475809"
+    }
+  ],
+  "advisories": []
+}

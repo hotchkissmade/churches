@@ -1,0 +1,33 @@
+{
+  "id": "d5rnb4q24",
+  "url": "https://constellation.church/d5rnb4q24",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "224 Benton St",
+    "city": "Leavenworth",
+    "state": "WA",
+    "zip": "98826-1257"
+  },
+  "coordinates": {
+    "latitude": 47.59563446044922,
+    "longitude": -120.66779327392578
+  },
+  "website": "https://faithleavenworth.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fb36afb3-b851-491e-a0f2-e1e6ff35a405",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fb36afb3-b851-491e-a0f2-e1e6ff35a405"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithleavenworth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911031802"
+    }
+  ],
+  "advisories": []
+}

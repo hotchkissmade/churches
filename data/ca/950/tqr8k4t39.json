@@ -1,0 +1,33 @@
+{
+  "id": "tqr8k4t39",
+  "url": "https://constellation.church/tqr8k4t39",
+  "name": "St Luke Episcopal Church",
+  "displayName": "St. Luke Episcopal Church",
+  "address": {
+    "street": "20 University Avenue",
+    "city": "Los Gatos",
+    "state": "CA",
+    "zip": "95030-6009"
+  },
+  "coordinates": {
+    "latitude": 37.22265434265137,
+    "longitude": -121.9822006225586
+  },
+  "website": "https://stlukeslg.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-el-camino-real/list/st-luke-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-el-camino-real/st-luke-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukeslg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941358299"
+    }
+  ],
+  "advisories": []
+}

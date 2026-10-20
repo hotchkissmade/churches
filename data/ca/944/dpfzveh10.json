@@ -1,0 +1,33 @@
+{
+  "id": "dpfzveh10",
+  "url": "https://constellation.church/dpfzveh10",
+  "name": "St. Ambrose Episcopal Church",
+  "displayName": "St. Ambrose Episcopal Church",
+  "address": {
+    "street": "900 Edgewater Blvd",
+    "city": "Foster City",
+    "state": "CA",
+    "zip": "94404-3709"
+  },
+  "coordinates": {
+    "latitude": 37.545013427734375,
+    "longitude": -122.27259063720703
+  },
+  "website": "https://stambrosefostercity.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-california/list/st-ambrose-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-california/st-ambrose-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stambrosefostercity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942527909"
+    }
+  ],
+  "advisories": []
+}

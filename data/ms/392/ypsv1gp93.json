@@ -1,0 +1,33 @@
+{
+  "id": "ypsv1gp93",
+  "url": "https://constellation.church/ypsv1gp93",
+  "name": "Lakeland Presbyterian Church",
+  "displayName": "Lakeland Presbyterian Church",
+  "address": {
+    "street": "5212 Lakeland Drive",
+    "city": "Flowood",
+    "state": "MS",
+    "zip": "39232"
+  },
+  "coordinates": {
+    "latitude": 32.347299575805664,
+    "longitude": -90.04571914672852
+  },
+  "website": "https://lakelandpres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1320",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1320"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lakelandpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640784075"
+    }
+  ],
+  "advisories": []
+}

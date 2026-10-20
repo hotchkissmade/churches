@@ -1,0 +1,33 @@
+{
+  "id": "b6j3x2g56",
+  "url": "https://constellation.church/b6j3x2g56",
+  "name": "Billings First United Methodist Church",
+  "displayName": "Billings First United Methodist Church",
+  "address": {
+    "street": "2800 4th Ave North",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59101"
+  },
+  "coordinates": {
+    "latitude": 45.784446716308594,
+    "longitude": -108.50830078125
+  },
+  "website": "https://billingsfirstumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKRfIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKRfIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "billingsfirstumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810232801"
+    }
+  ],
+  "advisories": []
+}

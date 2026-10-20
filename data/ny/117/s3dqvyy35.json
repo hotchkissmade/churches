@@ -1,0 +1,33 @@
+{
+  "id": "s3dqvyy35",
+  "url": "https://constellation.church/s3dqvyy35",
+  "name": "St. James' Episcopal church",
+  "displayName": "St. James' Episcopal church",
+  "address": {
+    "street": "260 Beaver Dam Rd",
+    "city": "Brookhaven",
+    "state": "NY",
+    "zip": "11719"
+  },
+  "coordinates": {
+    "latitude": 40.7735538482666,
+    "longitude": -72.91458892822266
+  },
+  "website": "https://welcometostjamesbrookhaven.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-james-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-james-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "welcometostjamesbrookhaven.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112696578"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "m9bs35e62",
+  "url": "https://constellation.church/m9bs35e62",
+  "name": "Reston Community Church",
+  "displayName": "Reston Community Church",
+  "address": {
+    "street": "2620 Reston Pkwy",
+    "city": "Herndon",
+    "state": "VA",
+    "zip": "20171"
+  },
+  "coordinates": {
+    "latitude": 38.92545509338379,
+    "longitude": -77.37426376342773
+  },
+  "website": "https://reston.cc",
+  "listingUrl": "https://churches.sbc.net/church/reston-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "reston-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "reston.cc"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510215303"
+    }
+  ],
+  "advisories": []
+}

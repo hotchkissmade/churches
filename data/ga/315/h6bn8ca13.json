@@ -1,0 +1,33 @@
+{
+  "id": "h6bn8ca13",
+  "url": "https://constellation.church/h6bn8ca13",
+  "name": "Golden Isles Presbyterian Church",
+  "displayName": "Golden Isles Presbyterian Church",
+  "address": {
+    "street": "48 Hampton Point Drive",
+    "city": "St. Simons Island",
+    "state": "GA",
+    "zip": "31522"
+  },
+  "coordinates": {
+    "latitude": 31.264476776123047,
+    "longitude": -81.35739135742188
+  },
+  "website": "https://gipc-pca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1226",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1226"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gipc-pca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581814923"
+    }
+  ],
+  "advisories": []
+}

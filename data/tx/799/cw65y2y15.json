@@ -1,0 +1,33 @@
+{
+  "id": "cw65y2y15",
+  "url": "https://constellation.church/cw65y2y15",
+  "name": "New Hope Lutheran Church",
+  "displayName": "New Hope Lutheran Church",
+  "address": {
+    "street": "4801 Sun Valley Dr",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79924-2535"
+  },
+  "coordinates": {
+    "latitude": 31.938135147094727,
+    "longitude": -106.42207336425781
+  },
+  "website": "https://newhope915.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f90b9bc4-8fb2-40f4-9a3b-d646cb8dac8d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f90b9bc4-8fb2-40f4-9a3b-d646cb8dac8d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newhope915.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742930993"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "trnmxwv21",
+  "url": "https://constellation.church/trnmxwv21",
+  "name": "Benton Lutheran Church",
+  "displayName": "Benton Lutheran Church",
+  "address": {
+    "street": "46784 257th St",
+    "city": "Crooks",
+    "state": "SD",
+    "zip": "57020-6001"
+  },
+  "coordinates": {
+    "latitude": 43.659786224365234,
+    "longitude": -96.85462951660156
+  },
+  "website": "https://bentonelca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9e76dc0f-8622-4386-be5e-1d4a6e71f7e7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9e76dc0f-8622-4386-be5e-1d4a6e71f7e7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bentonelca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460228839"
+    }
+  ],
+  "advisories": []
+}

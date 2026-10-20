@@ -1,0 +1,33 @@
+{
+  "id": "j5vcz8769",
+  "url": "https://constellation.church/j5vcz8769",
+  "name": "Edwardsville United Methodist Church",
+  "displayName": "Edwardsville United Methodist Church",
+  "address": {
+    "street": "4830 State Road 62",
+    "city": "Georgetown",
+    "state": "IN",
+    "zip": "47122"
+  },
+  "coordinates": {
+    "latitude": 38.285579681396484,
+    "longitude": -85.90948867797852
+  },
+  "website": "https://eumc.me",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKH4IAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKH4IAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eumc.me"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351578531"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "t183vwa59",
+  "url": "https://constellation.church/t183vwa59",
+  "name": "The Presbyterian Church",
+  "displayName": "The Presbyterian Church",
+  "address": {
+    "street": "307 Kingsbury Ave",
+    "city": "La Porte",
+    "state": "IN",
+    "zip": "46350-6011"
+  },
+  "coordinates": {
+    "latitude": 41.594635009765625,
+    "longitude": -86.7086410522461
+  },
+  "website": "https://yourhomechurch.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/2144/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "2144"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "yourhomechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "350915462"
+    }
+  ],
+  "advisories": []
+}

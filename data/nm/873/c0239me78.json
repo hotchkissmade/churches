@@ -1,0 +1,33 @@
+{
+  "id": "c0239me78",
+  "url": "https://constellation.church/c0239me78",
+  "name": "First Baptist Church of Gallup",
+  "displayName": "First Baptist Church of Gallup",
+  "address": {
+    "street": "2112 College Dr",
+    "city": "Gallup",
+    "state": "NM",
+    "zip": "87301"
+  },
+  "coordinates": {
+    "latitude": 35.503910064697266,
+    "longitude": -108.7296142578125
+  },
+  "website": "https://fbcgallup.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-gallup-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-gallup-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcgallup.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850212714"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hbmz9qg58",
+  "url": "https://constellation.church/hbmz9qg58",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "3315 G Ave",
+    "city": "Kearney",
+    "state": "NE",
+    "zip": "68847-3653"
+  },
+  "coordinates": {
+    "latitude": 40.70893478393555,
+    "longitude": -99.07157135009766
+  },
+  "website": "https://firstlutherankearney.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b68e2c69-212a-4279-a74a-79ee6d0fc552",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b68e2c69-212a-4279-a74a-79ee6d0fc552"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutherankearney.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "476026640"
+    }
+  ],
+  "advisories": []
+}

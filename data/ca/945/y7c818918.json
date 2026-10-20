@@ -1,0 +1,33 @@
+{
+  "id": "y7c818918",
+  "url": "https://constellation.church/y7c818918",
+  "name": "St. Timothy's Episcopal Church",
+  "displayName": "St. Timothy's Episcopal Church",
+  "address": {
+    "street": "1550 Diablo Rd",
+    "city": "Danville",
+    "state": "CA",
+    "zip": "94526-1952"
+  },
+  "coordinates": {
+    "latitude": 37.83644676208496,
+    "longitude": -121.97077941894531
+  },
+  "website": "https://sainttimothysdanville.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-california/list/st-timothys-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-california/st-timothys-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sainttimothysdanville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "946037235"
+    }
+  ],
+  "advisories": []
+}

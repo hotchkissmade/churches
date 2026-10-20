@@ -1,0 +1,33 @@
+{
+  "id": "xm2ycct25",
+  "url": "https://constellation.church/xm2ycct25",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "1810 Northampton St",
+    "city": "Holyoke",
+    "state": "MA",
+    "zip": "01040-1923"
+  },
+  "coordinates": {
+    "latitude": 42.201284408569336,
+    "longitude": -72.63025283813477
+  },
+  "website": "https://lutheranholyoke.org",
+  "listingUrl": "https://locator.lcms.org/church/C/424496",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "424496"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lutheranholyoke.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042104360"
+    }
+  ],
+  "advisories": []
+}

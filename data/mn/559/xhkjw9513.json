@@ -1,0 +1,33 @@
+{
+  "id": "xhkjw9513",
+  "url": "https://constellation.church/xhkjw9513",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "104 1st St SE",
+    "city": "Hayfield",
+    "state": "MN",
+    "zip": "55940-8885"
+  },
+  "coordinates": {
+    "latitude": 43.889801025390625,
+    "longitude": -92.84619522094727
+  },
+  "website": "https://trinityhayfield.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6d496c51-6a62-4df0-ac2f-395e7cb3dc9d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6d496c51-6a62-4df0-ac2f-395e7cb3dc9d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityhayfield.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410764096"
+    }
+  ],
+  "advisories": []
+}

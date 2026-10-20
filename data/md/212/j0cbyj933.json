@@ -1,0 +1,33 @@
+{
+  "id": "j0cbyj933",
+  "url": "https://constellation.church/j0cbyj933",
+  "name": "St. David's Church",
+  "displayName": "St. David's Church",
+  "address": {
+    "street": "4700 Roland Ave",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21210"
+  },
+  "coordinates": {
+    "latitude": 39.34809875488281,
+    "longitude": -76.63613510131836
+  },
+  "website": "https://stdavidsbaltimore.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maryland/list/st-davids-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maryland/st-davids-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stdavidsbaltimore.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520607887"
+    }
+  ],
+  "advisories": []
+}

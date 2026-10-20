@@ -1,0 +1,33 @@
+{
+  "id": "f13m9as62",
+  "url": "https://constellation.church/f13m9as62",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "135 Old Baltimore Pike",
+    "city": "Newark",
+    "state": "DE",
+    "zip": "19702-1535"
+  },
+  "coordinates": {
+    "latitude": 39.660173416137695,
+    "longitude": -75.66949081420898
+  },
+  "website": "https://stjohnsde.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24166",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24166"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsde.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510141091"
+    }
+  ],
+  "advisories": []
+}

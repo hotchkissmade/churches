@@ -1,0 +1,33 @@
+{
+  "id": "mjdmjpr83",
+  "url": "https://constellation.church/mjdmjpr83",
+  "name": "Loch Raven Presbyterian Church",
+  "displayName": "Loch Raven Presbyterian Church",
+  "address": {
+    "street": "9318 Old Harford Road",
+    "city": "Parkville",
+    "state": "MD",
+    "zip": "21234"
+  },
+  "coordinates": {
+    "latitude": 39.413137435913086,
+    "longitude": -76.52559280395508
+  },
+  "website": "https://lochravenpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/700",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "700"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lochravenpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521373553"
+    }
+  ],
+  "advisories": []
+}

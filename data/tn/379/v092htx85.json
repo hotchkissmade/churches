@@ -1,0 +1,33 @@
+{
+  "id": "v092htx85",
+  "url": "https://constellation.church/v092htx85",
+  "name": "Grace Baptist Church",
+  "displayName": "Grace Baptist Church",
+  "address": {
+    "street": "7171 Oak Ridge Hwy",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37931"
+  },
+  "coordinates": {
+    "latitude": 35.98917198181152,
+    "longitude": -84.07543563842773
+  },
+  "website": "https://gracebc.org",
+  "listingUrl": "https://churches.sbc.net/church/grace-baptist-church-51/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grace-baptist-church-51"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracebc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620599118"
+    }
+  ],
+  "advisories": []
+}

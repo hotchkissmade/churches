@@ -1,0 +1,33 @@
+{
+  "id": "yf83mfv41",
+  "url": "https://constellation.church/yf83mfv41",
+  "name": "Memorial Presbyterian Church",
+  "displayName": "Memorial Presbyterian Church",
+  "address": {
+    "street": "100 East F Street",
+    "city": "Elizabethton",
+    "state": "TN",
+    "zip": "37643"
+  },
+  "coordinates": {
+    "latitude": 36.346574783325195,
+    "longitude": -82.22381973266602
+  },
+  "website": "https://memorialpca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/724",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "724"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "memorialpca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621125517"
+    }
+  ],
+  "advisories": []
+}

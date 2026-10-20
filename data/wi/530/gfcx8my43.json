@@ -1,0 +1,33 @@
+{
+  "id": "gfcx8my43",
+  "url": "https://constellation.church/gfcx8my43",
+  "name": "St John's Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "400 S Main St",
+    "city": "Juneau",
+    "state": "WI",
+    "zip": "53039-1015"
+  },
+  "coordinates": {
+    "latitude": 43.40226745605469,
+    "longitude": -88.70527267456055
+  },
+  "website": "https://stjohnsdodgecounty.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24890",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24890"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsdodgecounty.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390970884"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "q0cq4x362",
+  "url": "https://constellation.church/q0cq4x362",
+  "name": "Episcopal City Mission",
+  "displayName": "Episcopal City Mission",
+  "address": {
+    "street": "1210 Locust Street, Suite 306",
+    "city": "St. Louis",
+    "state": "MO",
+    "zip": "63103"
+  },
+  "coordinates": {
+    "latitude": 38.63059997558594,
+    "longitude": -90.19839859008789
+  },
+  "website": "https://ecitymission.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-missouri/list/episcopal-city-mission",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-missouri/episcopal-city-mission"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ecitymission.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431736963"
+    }
+  ],
+  "advisories": []
+}

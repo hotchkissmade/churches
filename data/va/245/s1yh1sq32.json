@@ -1,0 +1,33 @@
+{
+  "id": "s1yh1sq32",
+  "url": "https://constellation.church/s1yh1sq32",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "937 Main St",
+    "city": "Danville",
+    "state": "VA",
+    "zip": "24541"
+  },
+  "coordinates": {
+    "latitude": 36.58173942565918,
+    "longitude": -79.39946365356445
+  },
+  "website": "https://fpcdanville.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/22660/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "22660"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcdanville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540544703"
+    }
+  ],
+  "advisories": []
+}

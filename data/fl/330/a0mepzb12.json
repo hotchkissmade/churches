@@ -1,0 +1,33 @@
+{
+  "id": "a0mepzb12",
+  "url": "https://constellation.church/a0mepzb12",
+  "name": "Christway Baptist Church",
+  "displayName": "Christway Baptist Church",
+  "address": {
+    "street": "3800 S Douglas Rd",
+    "city": "Miramar",
+    "state": "FL",
+    "zip": "33025"
+  },
+  "coordinates": {
+    "latitude": 25.974224090576172,
+    "longitude": -80.26339721679688
+  },
+  "website": "https://cbcmiramar.com",
+  "listingUrl": "https://churches.sbc.net/church/christway-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "christway-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cbcmiramar.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "650679051"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "cx72zy767",
+  "url": "https://constellation.church/cx72zy767",
+  "name": "SEARCH HOMELESS SERVICES",
+  "displayName": "Search Homeless Services",
+  "address": {
+    "street": "2015 CONGRESS ST",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77002"
+  },
+  "coordinates": {
+    "latitude": 29.7569267,
+    "longitude": -95.3513709
+  },
+  "website": "https://searchhomeless.org",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760260403"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "searchhomeless.org"
+    }
+  ],
+  "advisories": []
+}

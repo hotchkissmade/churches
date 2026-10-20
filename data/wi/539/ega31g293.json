@@ -1,0 +1,33 @@
+{
+  "id": "ega31g293",
+  "url": "https://constellation.church/ega31g293",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "208 Allen Rd",
+    "city": "New Lisbon",
+    "state": "WI",
+    "zip": "53950-1080"
+  },
+  "coordinates": {
+    "latitude": 43.87753486633301,
+    "longitude": -90.17652893066406
+  },
+  "website": "https://stlukenewlisbon.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24986",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24986"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukenewlisbon.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396074577"
+    }
+  ],
+  "advisories": []
+}

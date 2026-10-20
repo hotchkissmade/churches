@@ -1,0 +1,33 @@
+{
+  "id": "w90bs0x45",
+  "url": "https://constellation.church/w90bs0x45",
+  "name": "Faith Presbyterian Church",
+  "displayName": "Faith Presbyterian Church",
+  "address": {
+    "street": "6434 Corbly Road",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45230"
+  },
+  "coordinates": {
+    "latitude": 39.0953483581543,
+    "longitude": -84.37862014770508
+  },
+  "website": "https://faithpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/398",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "398"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311010149"
+    }
+  ],
+  "advisories": []
+}

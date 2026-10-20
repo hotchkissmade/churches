@@ -1,0 +1,33 @@
+{
+  "id": "ckhkdm277",
+  "url": "https://constellation.church/ckhkdm277",
+  "name": "Port Vue United Methodist Church",
+  "displayName": "Port Vue United Methodist Church",
+  "address": {
+    "street": "1565 Washington Blvd",
+    "city": "McKeesport",
+    "state": "PA",
+    "zip": "15133-3728"
+  },
+  "coordinates": {
+    "latitude": 40.332767486572266,
+    "longitude": -79.87965393066406
+  },
+  "website": "https://portvueumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFAATIA5",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFAATIA5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "portvueumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251390943"
+    }
+  ],
+  "advisories": []
+}

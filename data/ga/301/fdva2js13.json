@@ -1,0 +1,33 @@
+{
+  "id": "fdva2js13",
+  "url": "https://constellation.church/fdva2js13",
+  "name": "First Baptist Church of Acworth, Inc.",
+  "displayName": "First Baptist Church of Acworth",
+  "address": {
+    "street": "4583 Church St",
+    "city": "Acworth",
+    "state": "GA",
+    "zip": "30101"
+  },
+  "coordinates": {
+    "latitude": 34.06656455993652,
+    "longitude": -84.68357467651367
+  },
+  "website": "https://fbcacworth.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-acworth-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-acworth-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcacworth.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580677159"
+    }
+  ],
+  "advisories": []
+}

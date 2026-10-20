@@ -1,0 +1,33 @@
+{
+  "id": "kgsxq5q04",
+  "url": "https://constellation.church/kgsxq5q04",
+  "name": "St. Christopher's Episcopal Church",
+  "displayName": "St. Christopher's Episcopal Church",
+  "address": {
+    "street": "3200 N 12th Ave",
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32503-4007"
+  },
+  "coordinates": {
+    "latitude": 30.447214126586914,
+    "longitude": -87.20718383789062
+  },
+  "website": "https://scpen.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-central-gulf-coast/list/st-christophers-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-central-gulf-coast/st-christophers-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "scpen.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590937573"
+    }
+  ],
+  "advisories": []
+}

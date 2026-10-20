@@ -1,0 +1,33 @@
+{
+  "id": "gc37za494",
+  "url": "https://constellation.church/gc37za494",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "20335 W Gale Ave",
+    "city": "Galesville",
+    "state": "WI",
+    "zip": "54630-7108"
+  },
+  "coordinates": {
+    "latitude": 44.08234405517578,
+    "longitude": -91.35861206054688
+  },
+  "website": "https://ziongale.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=78bdb7e2-6b84-40d2-aee0-e50d1dbae2b1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "78bdb7e2-6b84-40d2-aee0-e50d1dbae2b1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ziongale.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390888766"
+    }
+  ],
+  "advisories": []
+}

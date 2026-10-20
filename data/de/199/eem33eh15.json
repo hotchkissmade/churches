@@ -1,0 +1,33 @@
+{
+  "id": "eem33eh15",
+  "url": "https://constellation.church/eem33eh15",
+  "name": "East Gate Presbyterian Church",
+  "displayName": "East Gate Presbyterian Church",
+  "address": {
+    "street": "34806 Church Lane",
+    "city": "Millsboro",
+    "state": "DE",
+    "zip": "19966"
+  },
+  "coordinates": {
+    "latitude": 38.62528991699219,
+    "longitude": -75.14321517944336
+  },
+  "website": "https://eastgatepres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/332",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "332"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastgatepres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920869228"
+    }
+  ],
+  "advisories": []
+}

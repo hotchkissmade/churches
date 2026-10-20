@@ -1,0 +1,33 @@
+{
+  "id": "b7a4tdj72",
+  "url": "https://constellation.church/b7a4tdj72",
+  "name": "East Side Baptist Church, Killeen",
+  "displayName": "East Side Baptist Church, Killeen",
+  "address": {
+    "street": "500 N W S Young Dr",
+    "city": "Killeen",
+    "state": "TX",
+    "zip": "76543"
+  },
+  "coordinates": {
+    "latitude": 31.118803024291992,
+    "longitude": -97.70941162109375
+  },
+  "website": "https://esbckilleen.net",
+  "listingUrl": "https://churches.sbc.net/church/east-side-baptist-church-killeen-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "east-side-baptist-church-killeen-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "esbckilleen.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741777837"
+    }
+  ],
+  "advisories": []
+}

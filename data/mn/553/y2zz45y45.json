@@ -1,0 +1,33 @@
+{
+  "id": "y2zz45y45",
+  "url": "https://constellation.church/y2zz45y45",
+  "name": "St Pauls Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "505 Westminster Ave SW",
+    "city": "Watertown",
+    "state": "MN",
+    "zip": "55388-4598"
+  },
+  "coordinates": {
+    "latitude": 44.96080017089844,
+    "longitude": -93.85382080078125
+  },
+  "website": "https://stpaulswatertown.com",
+  "listingUrl": "https://locator.lcms.org/church/C/950901",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "950901"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulswatertown.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416007697"
+    }
+  ],
+  "advisories": []
+}

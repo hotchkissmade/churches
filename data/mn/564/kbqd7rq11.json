@@ -1,0 +1,33 @@
+{
+  "id": "kbqd7rq11",
+  "url": "https://constellation.church/kbqd7rq11",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "10 Pleasant Ave. N.E.",
+    "city": "Akeley",
+    "state": "MN",
+    "zip": "56433"
+  },
+  "coordinates": {
+    "latitude": 47.0038948059082,
+    "longitude": -94.7249526977539
+  },
+  "website": "https://flcakeley.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1f949ece-a5ba-4970-a072-14a07a221564",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1f949ece-a5ba-4970-a072-14a07a221564"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcakeley.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411348972"
+    }
+  ],
+  "advisories": []
+}

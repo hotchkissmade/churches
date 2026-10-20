@@ -1,0 +1,33 @@
+{
+  "id": "e0mma5f03",
+  "url": "https://constellation.church/e0mma5f03",
+  "name": "San Diego Friends Meeting",
+  "displayName": "San Diego Friends Meeting",
+  "address": {
+    "street": "The Friends Center, 3850 Westgate Place",
+    "city": "San Diego",
+    "state": null,
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 32.72756767272949,
+    "longitude": -117.11111450195312
+  },
+  "website": "https://sandiegoquakers.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/san-diego-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "san-diego-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sandiegoquakers.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330015091"
+    }
+  ],
+  "advisories": []
+}

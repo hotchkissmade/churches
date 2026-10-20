@@ -1,0 +1,33 @@
+{
+  "id": "cpvkh1903",
+  "url": "https://constellation.church/cpvkh1903",
+  "name": "New City Church",
+  "displayName": "New City Church",
+  "address": {
+    "street": "3115 W Elm St.",
+    "city": "Saint Charles",
+    "state": "MO",
+    "zip": "63301-2159"
+  },
+  "coordinates": {
+    "latitude": 38.80507850646973,
+    "longitude": -90.50849914550781
+  },
+  "website": "https://newcitystc.church",
+  "listingUrl": "https://churches.efca.org/?id=329758",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "329758"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newcitystc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "922393517"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nrx014e60",
+  "url": "https://constellation.church/nrx014e60",
+  "name": "Atonement Lutheran Church",
+  "displayName": "Atonement Lutheran Church",
+  "address": {
+    "street": "4601 S University Drive",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58104"
+  },
+  "coordinates": {
+    "latitude": 46.81047821044922,
+    "longitude": -96.80584716796875
+  },
+  "website": "https://atonementfargo.org",
+  "listingUrl": "https://lcmc.net/congregation/105561",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "105561"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "atonementfargo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450310000"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bhedywg16",
+  "url": "https://constellation.church/bhedywg16",
+  "name": "St Matthew Lutheran Church",
+  "displayName": "St. Matthew Lutheran Church",
+  "address": {
+    "street": "3668 Ridge Rd",
+    "city": "Perkasie",
+    "state": "PA",
+    "zip": "18944-3940"
+  },
+  "coordinates": {
+    "latitude": 40.453569412231445,
+    "longitude": -75.22356796264648
+  },
+  "website": "https://kellerschurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e91a1ea7-e943-4b8a-a58e-2d1c8eaae883",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e91a1ea7-e943-4b8a-a58e-2d1c8eaae883"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kellerschurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232264331"
+    }
+  ],
+  "advisories": []
+}

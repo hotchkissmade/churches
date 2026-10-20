@@ -1,0 +1,33 @@
+{
+  "id": "wrtzab559",
+  "url": "https://constellation.church/wrtzab559",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "557 Perry Hwy",
+    "city": "Harmony",
+    "state": "PA",
+    "zip": "16037-7413"
+  },
+  "coordinates": {
+    "latitude": 40.84860610961914,
+    "longitude": -80.12160873413086
+  },
+  "website": "https://zioninharmony.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dd986b0e-1c3c-42ac-9083-5c8237a346b6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dd986b0e-1c3c-42ac-9083-5c8237a346b6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zioninharmony.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251446565"
+    }
+  ],
+  "advisories": []
+}

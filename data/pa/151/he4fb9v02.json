@@ -1,0 +1,33 @@
+{
+  "id": "he4fb9v02",
+  "url": "https://constellation.church/he4fb9v02",
+  "name": "Presbyterian Church of Pitcairn",
+  "displayName": "Presbyterian Church of Pitcairn",
+  "address": {
+    "street": "312 Highland Avenue",
+    "city": "Pitcairn",
+    "state": "PA",
+    "zip": "15140"
+  },
+  "coordinates": {
+    "latitude": 40.403751373291016,
+    "longitude": -79.7762565612793
+  },
+  "website": "https://pitcairnpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/852",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "852"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pitcairnpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "256084852"
+    }
+  ],
+  "advisories": []
+}

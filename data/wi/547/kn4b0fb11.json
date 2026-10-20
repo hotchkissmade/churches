@@ -1,0 +1,33 @@
+{
+  "id": "kn4b0fb11",
+  "url": "https://constellation.church/kn4b0fb11",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "1314 E Lexington Blvd",
+    "city": "Eau Claire",
+    "state": "WI",
+    "zip": "54701-6434"
+  },
+  "coordinates": {
+    "latitude": 44.792633056640625,
+    "longitude": -91.4818344116211
+  },
+  "website": "https://trinity-ec.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=516a377e-12e9-4ab8-a3a2-7f6a16638a65",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "516a377e-12e9-4ab8-a3a2-7f6a16638a65"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinity-ec.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390911423"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ckb42wf59",
+  "url": "https://constellation.church/ckb42wf59",
+  "name": "Tucker Presbyterian Church",
+  "displayName": "Tucker Presbyterian Church",
+  "address": {
+    "street": "6575 Cherokee Dr NW, Nesbit Elementary School",
+    "city": "Tucker",
+    "state": "GA",
+    "zip": "30084"
+  },
+  "coordinates": {
+    "latitude": 33.87600517272949,
+    "longitude": -84.19921875
+  },
+  "website": "https://tuckerpres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6602",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6602"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tuckerpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "880693366"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tj9xtae30",
+  "url": "https://constellation.church/tj9xtae30",
+  "name": "Faith Baptist",
+  "displayName": "Faith Baptist Church",
+  "address": {
+    "street": "10712 Hamilton Ave",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45231"
+  },
+  "coordinates": {
+    "latitude": 39.27091407775879,
+    "longitude": -84.56075286865234
+  },
+  "website": "https://faithbaptistcinci.com",
+  "listingUrl": "https://churches.sbc.net/church/faith-baptist-4/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "faith-baptist-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithbaptistcinci.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310971909"
+    }
+  ],
+  "advisories": []
+}

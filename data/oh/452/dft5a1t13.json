@@ -1,0 +1,33 @@
+{
+  "id": "dft5a1t13",
+  "url": "https://constellation.church/dft5a1t13",
+  "name": "Church in Cincinnati",
+  "displayName": "Church in Cincinnati",
+  "address": {
+    "street": "2261 Victory Pkwy",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45206"
+  },
+  "coordinates": {
+    "latitude": 39.1224365234375,
+    "longitude": -84.48529815673828
+  },
+  "website": "https://churchincincinnati.org",
+  "listingUrl": "https://localchurches.org/churches/cincinnati-oh-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "cincinnati-oh-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchincincinnati.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "464526629"
+    }
+  ],
+  "advisories": []
+}

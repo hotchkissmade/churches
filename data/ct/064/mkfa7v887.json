@@ -1,0 +1,33 @@
+{
+  "id": "mkfa7v887",
+  "url": "https://constellation.church/mkfa7v887",
+  "name": "Three Saints Church",
+  "displayName": "Three Saints Church",
+  "address": {
+    "street": "26 Howard Ave",
+    "city": "Ansonia",
+    "state": "CT",
+    "zip": "06401-2208"
+  },
+  "coordinates": {
+    "latitude": 41.336130142211914,
+    "longitude": -73.08509063720703
+  },
+  "website": "https://threesaintschurch.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ne-anstsc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ne-anstsc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "threesaintschurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "060773295"
+    }
+  ],
+  "advisories": []
+}

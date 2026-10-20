@@ -1,0 +1,33 @@
+{
+  "id": "k1adk2v50",
+  "url": "https://constellation.church/k1adk2v50",
+  "name": "Slippery Rock United Methodist Church",
+  "displayName": "Slippery Rock United Methodist Church",
+  "address": {
+    "street": "130 Franklin Street",
+    "city": "Slippery Rock",
+    "state": "PA",
+    "zip": "16057"
+  },
+  "coordinates": {
+    "latitude": 41.0645751953125,
+    "longitude": -80.0554428100586
+  },
+  "website": "https://slipperyrockumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF8fsIAD",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF8fsIAD"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "slipperyrockumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "250995762"
+    }
+  ],
+  "advisories": []
+}

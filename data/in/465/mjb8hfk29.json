@@ -1,0 +1,33 @@
+{
+  "id": "mjb8hfk29",
+  "url": "https://constellation.church/mjb8hfk29",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "831 W Marion St",
+    "city": "Elkhart",
+    "state": "IN",
+    "zip": "46516-2640"
+  },
+  "coordinates": {
+    "latitude": 41.67950439453125,
+    "longitude": -85.98235702514648
+  },
+  "website": "https://gracelutheranelkhart.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4a422ee8-c62d-49e6-9c32-3d352d6980ed",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4a422ee8-c62d-49e6-9c32-3d352d6980ed"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelutheranelkhart.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "350886824"
+    }
+  ],
+  "advisories": []
+}

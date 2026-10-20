@@ -1,0 +1,33 @@
+{
+  "id": "ypz3n2h09",
+  "url": "https://constellation.church/ypz3n2h09",
+  "name": "Church of the Redemption",
+  "displayName": "Church of the Redemption",
+  "address": {
+    "street": "1401 Towson St",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21230-5301"
+  },
+  "coordinates": {
+    "latitude": 39.269744873046875,
+    "longitude": -76.59162902832031
+  },
+  "website": "https://redemptionsouthbmore.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maryland/list/church-redemption",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maryland/church-redemption"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redemptionsouthbmore.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520887747"
+    }
+  ],
+  "advisories": []
+}

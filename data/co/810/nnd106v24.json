@@ -1,0 +1,33 @@
+{
+  "id": "nnd106v24",
+  "url": "https://constellation.church/nnd106v24",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "220 W 10th St",
+    "city": "Pueblo",
+    "state": "CO",
+    "zip": "81003"
+  },
+  "coordinates": {
+    "latitude": 38.27579879760742,
+    "longitude": -104.60981750488281
+  },
+  "website": "https://firstprespueblo.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/1293/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "1293"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstprespueblo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840405255"
+    }
+  ],
+  "advisories": []
+}

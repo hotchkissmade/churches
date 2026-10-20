@@ -1,0 +1,33 @@
+{
+  "id": "fr3fdf914",
+  "url": "https://constellation.church/fr3fdf914",
+  "name": "Holy Cross Lutheran Church",
+  "displayName": "Holy Cross Lutheran Church",
+  "address": {
+    "street": "6901 Wyoming Blvd NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87109-3966"
+  },
+  "coordinates": {
+    "latitude": 35.15724754333496,
+    "longitude": -106.560546875
+  },
+  "website": "https://holycrossabq.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b8e4f21d-29d3-4620-a892-00d9895586e0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b8e4f21d-29d3-4620-a892-00d9895586e0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holycrossabq.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850322467"
+    }
+  ],
+  "advisories": []
+}

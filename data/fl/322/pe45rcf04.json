@@ -1,0 +1,33 @@
+{
+  "id": "pe45rcf04",
+  "url": "https://constellation.church/pe45rcf04",
+  "name": "Neptune Baptist Church",
+  "displayName": "Neptune Baptist Church",
+  "address": {
+    "street": "407 3rd St",
+    "city": "Neptune Beach",
+    "state": "FL",
+    "zip": "32266"
+  },
+  "coordinates": {
+    "latitude": 30.32122802734375,
+    "longitude": -81.39734649658203
+  },
+  "website": "https://neptunebaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/neptune-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "neptune-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "neptunebaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "596019798"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bk7mkxm72",
+  "url": "https://constellation.church/bk7mkxm72",
+  "name": "Inman Park United Methodist Church",
+  "displayName": "Inman Park United Methodist Church",
+  "address": {
+    "street": "1015 Edgewood Ave NE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30307"
+  },
+  "coordinates": {
+    "latitude": 33.75652885437012,
+    "longitude": -84.35458374023438
+  },
+  "website": "https://inmanparkumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMpDIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMpDIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "inmanparkumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580566197"
+    }
+  ],
+  "advisories": []
+}

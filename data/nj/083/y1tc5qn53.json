@@ -1,0 +1,33 @@
+{
+  "id": "y1tc5qn53",
+  "url": "https://constellation.church/y1tc5qn53",
+  "name": "Redeemer Lutheran Church",
+  "displayName": "Redeemer Lutheran Church",
+  "address": {
+    "street": "2384 E Landis Ave",
+    "city": "Vineland",
+    "state": "NJ",
+    "zip": "08361-2964"
+  },
+  "coordinates": {
+    "latitude": 39.4850959777832,
+    "longitude": -74.98132705688477
+  },
+  "website": "https://redeemervineland.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bb887e07-cef1-409f-9583-0a9c7ea0e51a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bb887e07-cef1-409f-9583-0a9c7ea0e51a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemervineland.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "210684080"
+    }
+  ],
+  "advisories": []
+}

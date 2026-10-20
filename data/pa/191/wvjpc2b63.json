@@ -1,0 +1,33 @@
+{
+  "id": "wvjpc2b63",
+  "url": "https://constellation.church/wvjpc2b63",
+  "name": "St. Albans Church, Roxborough",
+  "displayName": "St. Albans Church, Roxborough",
+  "address": {
+    "street": "500 Fairthorne Avenue",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19128"
+  },
+  "coordinates": {
+    "latitude": 40.04242706298828,
+    "longitude": -75.2248420715332
+  },
+  "website": "https://stalbanrox.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/st-albans-church-roxborough",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/st-albans-church-roxborough"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stalbanrox.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232440615"
+    }
+  ],
+  "advisories": []
+}

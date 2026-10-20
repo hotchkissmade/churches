@@ -1,0 +1,33 @@
+{
+  "id": "mty73eg17",
+  "url": "https://constellation.church/mty73eg17",
+  "name": "Lakeview Assembly of God",
+  "displayName": "Lakeview Assembly of God",
+  "address": {
+    "street": "3601 State Route 14 Watkins Glen",
+    "city": null,
+    "state": "NY",
+    "zip": "14891"
+  },
+  "coordinates": {
+    "latitude": 42.40827941894531,
+    "longitude": -76.89875030517578
+  },
+  "website": "https://lakeviewag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ddb25f53-6018-4a41-85b9-28c8305f15a9&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ddb25f53-6018-4a41-85b9-28c8305f15a9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lakeviewag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222527556"
+    }
+  ],
+  "advisories": []
+}

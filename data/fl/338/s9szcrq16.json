@@ -1,0 +1,33 @@
+{
+  "id": "s9szcrq16",
+  "url": "https://constellation.church/s9szcrq16",
+  "name": "St. Stephen's Church",
+  "displayName": "St. Stephen's Church",
+  "address": {
+    "street": "1820 E County Road 540A",
+    "city": "Lakeland",
+    "state": "FL",
+    "zip": "33813-3737"
+  },
+  "coordinates": {
+    "latitude": 27.953964233398438,
+    "longitude": -81.92940139770508
+  },
+  "website": "https://centralfloridachurch.com/location",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-central-florida/list/st-stephens-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-central-florida/st-stephens-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centralfloridachurch.com/location"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592249895"
+    }
+  ],
+  "advisories": []
+}

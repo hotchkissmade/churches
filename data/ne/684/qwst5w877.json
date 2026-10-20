@@ -1,0 +1,33 @@
+{
+  "id": "qwst5w877",
+  "url": "https://constellation.church/qwst5w877",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "800 N East Ave",
+    "city": "York",
+    "state": "NE",
+    "zip": "68467-3118"
+  },
+  "coordinates": {
+    "latitude": 40.86899185180664,
+    "longitude": -97.58702850341797
+  },
+  "website": "https://bethelyork.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24536",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24536"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelyork.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470668398"
+    }
+  ],
+  "advisories": []
+}

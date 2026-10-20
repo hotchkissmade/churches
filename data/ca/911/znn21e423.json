@@ -1,0 +1,33 @@
+{
+  "id": "znn21e423",
+  "url": "https://constellation.church/znn21e423",
+  "name": "First United Methodist Church of Pasadena",
+  "displayName": "First United Methodist Church of Pasadena",
+  "address": {
+    "street": "500 E Colorado Blvd",
+    "city": "Pasadena",
+    "state": "CA",
+    "zip": "91101-2027"
+  },
+  "coordinates": {
+    "latitude": 34.145124435424805,
+    "longitude": -118.14012145996094
+  },
+  "website": "https://fumcpasadena.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF7vQIAT",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF7vQIAT"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fumcpasadena.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951647825"
+    }
+  ],
+  "advisories": []
+}

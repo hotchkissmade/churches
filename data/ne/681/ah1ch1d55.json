@@ -1,0 +1,33 @@
+{
+  "id": "ah1ch1d55",
+  "url": "https://constellation.church/ah1ch1d55",
+  "name": "Westside Church",
+  "displayName": "Westside Church",
+  "address": {
+    "street": "15050 W Dodge Rd",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68154"
+  },
+  "coordinates": {
+    "latitude": 41.263912200927734,
+    "longitude": -96.1515884399414
+  },
+  "website": "https://wchurch.tv",
+  "listingUrl": "https://churches.sbc.net/church/westside-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "westside-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wchurch.tv"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470545004"
+    }
+  ],
+  "advisories": []
+}

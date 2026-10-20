@@ -1,0 +1,33 @@
+{
+  "id": "k7jg84126",
+  "url": "https://constellation.church/k7jg84126",
+  "name": "Lutheran Church of Our Redeemer",
+  "displayName": "Lutheran Church of Our Redeemer",
+  "address": {
+    "street": "4641 Marconi Ave",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95821-4315"
+  },
+  "coordinates": {
+    "latitude": 38.61774444580078,
+    "longitude": -121.35598754882812
+  },
+  "website": "https://lcorsac.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7dc44ef4-c834-46c9-ade1-2257d5efa5b1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7dc44ef4-c834-46c9-ade1-2257d5efa5b1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lcorsac.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800711080"
+    }
+  ],
+  "advisories": []
+}

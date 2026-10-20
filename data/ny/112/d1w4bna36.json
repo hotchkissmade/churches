@@ -1,0 +1,33 @@
+{
+  "id": "d1w4bna36",
+  "url": "https://constellation.church/d1w4bna36",
+  "name": "St. George's Church",
+  "displayName": "St. George's Church",
+  "address": {
+    "street": "800 Marcy Ave",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11216"
+  },
+  "coordinates": {
+    "latitude": 40.686336517333984,
+    "longitude": -73.94769668579102
+  },
+  "website": "https://stgeorgeschurchbedstuy.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-georges-episcopal-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-georges-episcopal-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stgeorgeschurchbedstuy.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111821131"
+    }
+  ],
+  "advisories": []
+}

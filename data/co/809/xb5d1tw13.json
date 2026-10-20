@@ -1,0 +1,33 @@
+{
+  "id": "xb5d1tw13",
+  "url": "https://constellation.church/xb5d1tw13",
+  "name": "St. Paul's United Methodist Church",
+  "displayName": "St. Paul's United Methodist Church",
+  "address": {
+    "street": "2111 Carlton Ave",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80909-2132"
+  },
+  "coordinates": {
+    "latitude": 38.86349678039551,
+    "longitude": -104.76716613769531
+  },
+  "website": "https://stpaulscs.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFLtBIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFLtBIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulscs.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "846051736"
+    }
+  ],
+  "advisories": []
+}

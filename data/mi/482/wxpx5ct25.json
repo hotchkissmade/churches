@@ -1,0 +1,29 @@
+{
+  "id": "wxpx5ct25",
+  "url": "https://constellation.church/wxpx5ct25",
+  "name": "CABRINI CLINIC",
+  "displayName": "Cabrini Clinic",
+  "address": {
+    "street": "1234 PORTER ST",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48226"
+  },
+  "coordinates": {
+    "latitude": 42.329508,
+    "longitude": -83.0611551
+  },
+  "website": "https://cabriniclinic.com",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "822709088"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cabriniclinic.com"
+    }
+  ],
+  "advisories": []
+}

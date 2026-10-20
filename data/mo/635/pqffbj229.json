@@ -1,0 +1,33 @@
+{
+  "id": "pqffbj229",
+  "url": "https://constellation.church/pqffbj229",
+  "name": "First Baptist Church Winigan",
+  "displayName": "First Baptist Church Winigan",
+  "address": {
+    "street": "33425 Main Street",
+    "city": "Winigan",
+    "state": "MO",
+    "zip": "63566"
+  },
+  "coordinates": {
+    "latitude": 40.04406929016113,
+    "longitude": -92.90221405029297
+  },
+  "website": "https://fbcwinigan.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-winigan/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-winigan"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcwinigan.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431242658"
+    }
+  ],
+  "advisories": []
+}

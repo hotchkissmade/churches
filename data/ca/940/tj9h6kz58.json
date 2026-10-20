@@ -1,0 +1,33 @@
+{
+  "id": "tj9h6kz58",
+  "url": "https://constellation.church/tj9h6kz58",
+  "name": "Coastside Lutheran Church",
+  "displayName": "Coastside Lutheran Church",
+  "address": {
+    "street": "900 Cabrillo Hwy N",
+    "city": "Half Moon Bay",
+    "state": "CA",
+    "zip": "94019-1502"
+  },
+  "coordinates": {
+    "latitude": 37.47450256347656,
+    "longitude": -122.43820190429688
+  },
+  "website": "https://coastsidelutheran.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e7d67586-d98f-4c98-9c7f-a1e3cd6a0f76",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e7d67586-d98f-4c98-9c7f-a1e3cd6a0f76"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "coastsidelutheran.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942319765"
+    }
+  ],
+  "advisories": []
+}

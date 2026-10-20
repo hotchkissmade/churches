@@ -1,0 +1,33 @@
+{
+  "id": "xenhfst24",
+  "url": "https://constellation.church/xenhfst24",
+  "name": "City Of Faith Church",
+  "displayName": "City Of Faith Church",
+  "address": {
+    "street": "8051 Cessna Avenue, Suite 181",
+    "city": "Gaithersburg",
+    "state": "MD",
+    "zip": "20879"
+  },
+  "coordinates": {
+    "latitude": 39.17257118225098,
+    "longitude": -77.16529083251953
+  },
+  "website": "https://cityoffaithchurch.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=221&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "221"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cityoffaithchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "943448429"
+    }
+  ],
+  "advisories": []
+}

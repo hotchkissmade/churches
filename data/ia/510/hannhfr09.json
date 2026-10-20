@@ -1,0 +1,33 @@
+{
+  "id": "hannhfr09",
+  "url": "https://constellation.church/hannhfr09",
+  "name": "American Lutheran Church",
+  "displayName": "American Lutheran Church",
+  "address": {
+    "street": "1417 12th St",
+    "city": "Hawarden",
+    "state": "IA",
+    "zip": "51023-2009"
+  },
+  "coordinates": {
+    "latitude": 42.99932861328125,
+    "longitude": -96.47460174560547
+  },
+  "website": "https://hawardenalc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5fba3df1-6424-44a0-acd6-218ea00c69a3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5fba3df1-6424-44a0-acd6-218ea00c69a3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hawardenalc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420996008"
+    }
+  ],
+  "advisories": []
+}

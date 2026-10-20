@@ -1,0 +1,33 @@
+{
+  "id": "ev10nxa12",
+  "url": "https://constellation.church/ev10nxa12",
+  "name": "The Northside Baptist Church of Valdosta, Georgia, Inc.",
+  "displayName": "The Northside Baptist Church of Valdosta, Georgia",
+  "address": {
+    "street": "200 E Park Ave",
+    "city": "Valdosta",
+    "state": "GA",
+    "zip": "31602"
+  },
+  "coordinates": {
+    "latitude": 30.857500076293945,
+    "longitude": -83.28609085083008
+  },
+  "website": "https://nbcvaldosta.org",
+  "listingUrl": "https://churches.sbc.net/church/the-northside-baptist-church-of-valdosta-georgia-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-northside-baptist-church-of-valdosta-georgia-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nbcvaldosta.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580633987"
+    }
+  ],
+  "advisories": []
+}

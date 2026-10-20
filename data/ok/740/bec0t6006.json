@@ -1,0 +1,33 @@
+{
+  "id": "bec0t6006",
+  "url": "https://constellation.church/bec0t6006",
+  "name": "Foundations Church",
+  "displayName": "Foundations Church",
+  "address": {
+    "street": "905 N Olive Ave",
+    "city": "Broken Arrow",
+    "state": "OK",
+    "zip": "74012"
+  },
+  "coordinates": {
+    "latitude": 36.05949592590332,
+    "longitude": -95.83262634277344
+  },
+  "website": "https://foundationschurch.tv",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=399dee3d-8eda-4f89-b9aa-8d3e9b0aaef3&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "399dee3d-8eda-4f89-b9aa-8d3e9b0aaef3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "foundationschurch.tv"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "452715358"
+    }
+  ],
+  "advisories": []
+}

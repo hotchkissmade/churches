@@ -1,0 +1,33 @@
+{
+  "id": "cwtcb9a74",
+  "url": "https://constellation.church/cwtcb9a74",
+  "name": "Church on the Hill",
+  "displayName": "Church on the Hill",
+  "address": {
+    "street": "950 Trumble St",
+    "city": "Chaska",
+    "state": "MN",
+    "zip": "55318"
+  },
+  "coordinates": {
+    "latitude": 44.814491271972656,
+    "longitude": -93.58086395263672
+  },
+  "website": "https://churchonthehillchaska.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=c087ae73-aa65-406c-99fd-7a0470e722dd&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "c087ae73-aa65-406c-99fd-7a0470e722dd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchonthehillchaska.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411691310"
+    }
+  ],
+  "advisories": []
+}

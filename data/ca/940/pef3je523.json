@@ -1,0 +1,33 @@
+{
+  "id": "pef3je523",
+  "url": "https://constellation.church/pef3je523",
+  "name": "San Bruno Chinese Church",
+  "displayName": "San Bruno Chinese Church",
+  "address": {
+    "street": "250 Courtland DR",
+    "city": "San Bruno",
+    "state": "CA",
+    "zip": "94066"
+  },
+  "coordinates": {
+    "latitude": 37.614990234375,
+    "longitude": -122.42572784423828
+  },
+  "website": "https://sanbrunochinesechurch.org",
+  "listingUrl": "https://churches.sbc.net/church/san-bruno-chinese-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "san-bruno-chinese-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sanbrunochinesechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "943040624"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vyjq3np29",
+  "url": "https://constellation.church/vyjq3np29",
+  "name": "Bethany Lutheran Church",
+  "displayName": "Bethany Lutheran Church",
+  "address": {
+    "street": "1609 Hamner Ave",
+    "city": "Norco",
+    "state": "CA",
+    "zip": "92860-2942"
+  },
+  "coordinates": {
+    "latitude": 33.905229568481445,
+    "longitude": -117.56150817871094
+  },
+  "website": "https://blcnorco.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b1d021e8-ccb4-4957-ab19-ddf2130242c0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b1d021e8-ccb4-4957-ab19-ddf2130242c0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blcnorco.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953152623"
+    }
+  ],
+  "advisories": []
+}

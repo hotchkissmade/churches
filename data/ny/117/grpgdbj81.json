@@ -1,0 +1,33 @@
+{
+  "id": "grpgdbj81",
+  "url": "https://constellation.church/grpgdbj81",
+  "name": "United Lutheran Church Of Long Island",
+  "displayName": "United Lutheran Church Of Long Island",
+  "address": {
+    "street": "11 Ogden Ct",
+    "city": "Huntington Station",
+    "state": "NY",
+    "zip": "11746-3059"
+  },
+  "coordinates": {
+    "latitude": 40.835655212402344,
+    "longitude": -73.40212631225586
+  },
+  "website": "https://stpetersli.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b08077ad-65f7-43d2-9f10-352fd05282b8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b08077ad-65f7-43d2-9f10-352fd05282b8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpetersli.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111802823"
+    }
+  ],
+  "advisories": []
+}

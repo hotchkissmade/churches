@@ -1,0 +1,33 @@
+{
+  "id": "pvytrpq55",
+  "url": "https://constellation.church/pvytrpq55",
+  "name": "St. James",
+  "displayName": "St. James AME Zion Church",
+  "address": {
+    "street": "116 Cleveland Ave",
+    "city": "Ithaca",
+    "state": "NY",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 42.437644958496094,
+    "longitude": -76.50458526611328
+  },
+  "website": "https://stjamesithaca.com/officers",
+  "listingUrl": "https://amezion.org/location/st-james-8/",
+  "identifiers": [
+    {
+      "namespace": "org.amezion.id",
+      "value": "735"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamesithaca.com/officers"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "863633420"
+    }
+  ],
+  "advisories": []
+}

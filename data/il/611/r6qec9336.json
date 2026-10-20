@@ -1,0 +1,33 @@
+{
+  "id": "r6qec9336",
+  "url": "https://constellation.church/r6qec9336",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "1629 S 6th St",
+    "city": "Rockford",
+    "state": "IL",
+    "zip": "61104-5212"
+  },
+  "coordinates": {
+    "latitude": 42.250173568725586,
+    "longitude": -89.08293914794922
+  },
+  "website": "https://salemrockford.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9d019633-bc45-4020-aec7-8b1e736c8e7d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9d019633-bc45-4020-aec7-8b1e736c8e7d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemrockford.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362434974"
+    }
+  ],
+  "advisories": []
+}

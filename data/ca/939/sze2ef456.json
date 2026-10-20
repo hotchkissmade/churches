@@ -1,0 +1,33 @@
+{
+  "id": "sze2ef456",
+  "url": "https://constellation.church/sze2ef456",
+  "name": "Valley Baptist Church of Salinas",
+  "displayName": "Valley Baptist Church of Salinas",
+  "address": {
+    "street": "345 E Alvin Dr",
+    "city": "Salinas",
+    "state": "CA",
+    "zip": "93906"
+  },
+  "coordinates": {
+    "latitude": 36.70744514465332,
+    "longitude": -121.64425659179688
+  },
+  "website": "https://vbcsalinas.org",
+  "listingUrl": "https://churches.sbc.net/church/valley-baptist-church-of-salinas/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "valley-baptist-church-of-salinas"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "vbcsalinas.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "770414942"
+    }
+  ],
+  "advisories": []
+}

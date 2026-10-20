@@ -1,0 +1,33 @@
+{
+  "id": "mfs7ems81",
+  "url": "https://constellation.church/mfs7ems81",
+  "name": "Temple Baptist Church, Sullivan",
+  "displayName": "Temple Baptist Church, Sullivan",
+  "address": {
+    "street": "444 Beeman St",
+    "city": "Sullivan",
+    "state": "MO",
+    "zip": "63080"
+  },
+  "coordinates": {
+    "latitude": 38.20637130737305,
+    "longitude": -91.16362762451172
+  },
+  "website": "https://tbcsullivan.com",
+  "listingUrl": "https://churches.sbc.net/church/temple-baptist-church-sullivan/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "temple-baptist-church-sullivan"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tbcsullivan.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430783830"
+    }
+  ],
+  "advisories": []
+}

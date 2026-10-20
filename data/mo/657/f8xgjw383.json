@@ -1,0 +1,33 @@
+{
+  "id": "f8xgjw383",
+  "url": "https://constellation.church/f8xgjw383",
+  "name": "Ozark Highlands Church",
+  "displayName": "Ozark Highlands Church",
+  "address": {
+    "street": "1606 S 12th Ave",
+    "city": "Ozark",
+    "state": "MO",
+    "zip": "65721"
+  },
+  "coordinates": {
+    "latitude": 37.00418281555176,
+    "longitude": -93.19499588012695
+  },
+  "website": "https://ozarkhighlandschurch.com",
+  "listingUrl": "https://churches.sbc.net/church/ozark-highlands-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "ozark-highlands-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ozarkhighlandschurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "208259877"
+    }
+  ],
+  "advisories": []
+}

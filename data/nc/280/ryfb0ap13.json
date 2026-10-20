@@ -1,0 +1,33 @@
+{
+  "id": "ryfb0ap13",
+  "url": "https://constellation.church/ryfb0ap13",
+  "name": "St Albans Episcopal Church",
+  "displayName": "St. Albans Episcopal Church",
+  "address": {
+    "street": "301 Caldwell Lane",
+    "city": "Davidson",
+    "state": "NC",
+    "zip": "28036"
+  },
+  "coordinates": {
+    "latitude": 35.493621826171875,
+    "longitude": -80.83232879638672
+  },
+  "website": "https://saintalbansdavidson.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-north-carolina/list/st-albans-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-north-carolina/st-albans-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintalbansdavidson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561087045"
+    }
+  ],
+  "advisories": []
+}

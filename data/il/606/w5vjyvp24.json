@@ -1,0 +1,33 @@
+{
+  "id": "w5vjyvp24",
+  "url": "https://constellation.church/w5vjyvp24",
+  "name": "Armitage Baptist Church",
+  "displayName": "Armitage Baptist Church",
+  "address": {
+    "street": "2451 N Kedzie Blvd",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60647"
+  },
+  "coordinates": {
+    "latitude": 41.926408767700195,
+    "longitude": -87.70677185058594
+  },
+  "website": "https://armitagechurch.org",
+  "listingUrl": "https://churches.sbc.net/church/armitage-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "armitage-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "armitagechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510137107"
+    }
+  ],
+  "advisories": []
+}

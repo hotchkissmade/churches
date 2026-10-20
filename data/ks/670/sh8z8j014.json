@@ -1,0 +1,33 @@
+{
+  "id": "sh8z8j014",
+  "url": "https://constellation.church/sh8z8j014",
+  "name": "First Baptist Church, Haysville",
+  "displayName": "First Baptist Church, Haysville",
+  "address": {
+    "street": "125 S Delos Ave",
+    "city": "Haysville",
+    "state": "KS",
+    "zip": "67060"
+  },
+  "coordinates": {
+    "latitude": 37.5633487701416,
+    "longitude": -97.3471450805664
+  },
+  "website": "https://fbchaysville.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-haysville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-haysville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbchaysville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480695866"
+    }
+  ],
+  "advisories": []
+}

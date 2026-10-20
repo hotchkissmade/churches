@@ -1,0 +1,33 @@
+{
+  "id": "wqavtxs13",
+  "url": "https://constellation.church/wqavtxs13",
+  "name": "St. Margaret's, DC",
+  "displayName": "St. Margaret's, DC",
+  "address": {
+    "street": "1820 Connecticut Ave NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20009-5732"
+  },
+  "coordinates": {
+    "latitude": 38.915266036987305,
+    "longitude": -77.04660415649414
+  },
+  "website": "https://stmargaretsdc.org/about",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/st-margarets-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/st-margarets-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmargaretsdc.org/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "530196486"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "em54yva12",
+  "url": "https://constellation.church/em54yva12",
+  "name": "Mount Carmel Lutheran Church",
+  "displayName": "Mount Carmel Lutheran Church",
+  "address": {
+    "street": "8424 W Center St",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53222-4712"
+  },
+  "coordinates": {
+    "latitude": 43.068233489990234,
+    "longitude": -88.01797485351562
+  },
+  "website": "https://mountcarmelchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5de79e92-b235-483b-98ff-2fb3401ad66c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5de79e92-b235-483b-98ff-2fb3401ad66c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mountcarmelchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390945792"
+    }
+  ],
+  "advisories": []
+}

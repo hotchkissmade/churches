@@ -1,0 +1,33 @@
+{
+  "id": "aesk3nd40",
+  "url": "https://constellation.church/aesk3nd40",
+  "name": "Our Savior's Lutheran Church",
+  "displayName": "Our Savior's Lutheran Church",
+  "address": {
+    "street": "615 12th St",
+    "city": "Cloquet",
+    "state": "MN",
+    "zip": "55720-2321"
+  },
+  "coordinates": {
+    "latitude": 46.712669372558594,
+    "longitude": -92.45155334472656
+  },
+  "website": "https://oursaviorscloquet.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ef9bdd05-6361-4591-af43-d8f9df08e07b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ef9bdd05-6361-4591-af43-d8f9df08e07b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oursaviorscloquet.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410757872"
+    }
+  ],
+  "advisories": []
+}

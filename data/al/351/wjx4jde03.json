@@ -1,0 +1,33 @@
+{
+  "id": "wjx4jde03",
+  "url": "https://constellation.church/wjx4jde03",
+  "name": "Spring Valley Baptist Church",
+  "displayName": "Spring Valley Baptist Church",
+  "address": {
+    "street": "4193 US Highway 11",
+    "city": "Springville",
+    "state": "AL",
+    "zip": "35146"
+  },
+  "coordinates": {
+    "latitude": 33.74917411804199,
+    "longitude": -86.49439239501953
+  },
+  "website": "https://svchurch.net",
+  "listingUrl": "https://churches.sbc.net/church/spring-valley-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "spring-valley-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "svchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "631004237"
+    }
+  ],
+  "advisories": []
+}

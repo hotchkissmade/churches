@@ -1,0 +1,33 @@
+{
+  "id": "at00e8302",
+  "url": "https://constellation.church/at00e8302",
+  "name": "Bethesda Lutheran Church",
+  "displayName": "Bethesda Lutheran Church",
+  "address": {
+    "street": "1517 Northwestern Ave",
+    "city": "Ames",
+    "state": "IA",
+    "zip": "50010-5271"
+  },
+  "coordinates": {
+    "latitude": 42.03763198852539,
+    "longitude": -93.62647247314453
+  },
+  "website": "https://bethesdaames.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4a83fe6d-5964-4465-aa8e-caeeb143b115",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4a83fe6d-5964-4465-aa8e-caeeb143b115"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethesdaames.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420718462"
+    }
+  ],
+  "advisories": []
+}

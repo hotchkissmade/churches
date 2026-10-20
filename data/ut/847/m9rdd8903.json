@@ -1,0 +1,33 @@
+{
+  "id": "m9rdd8903",
+  "url": "https://constellation.church/m9rdd8903",
+  "name": "Grace Episcopal Church",
+  "displayName": "Grace Episcopal Church",
+  "address": {
+    "street": "1072 East 900 South",
+    "city": "St George",
+    "state": "UT",
+    "zip": "84790-4042"
+  },
+  "coordinates": {
+    "latitude": 37.09171104431152,
+    "longitude": -113.56061553955078
+  },
+  "website": "https://gracestgeorge.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-utah/list/grace-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-utah/grace-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracestgeorge.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "870482818"
+    }
+  ],
+  "advisories": []
+}

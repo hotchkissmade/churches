@@ -1,0 +1,33 @@
+{
+  "id": "g89768b12",
+  "url": "https://constellation.church/g89768b12",
+  "name": "First",
+  "displayName": "First Orthodox Presbyterian Church",
+  "address": {
+    "street": "1350 Lawton St.",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94122"
+  },
+  "coordinates": {
+    "latitude": 37.75802993774414,
+    "longitude": -122.47757720947266
+  },
+  "website": "https://sfopc.org",
+  "listingUrl": "https://opc.org/church.html?church_id=34",
+  "identifiers": [
+    {
+      "namespace": "org.opc.id",
+      "value": "34"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sfopc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942599547"
+    }
+  ],
+  "advisories": []
+}

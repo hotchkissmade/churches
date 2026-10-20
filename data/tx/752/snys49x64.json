@@ -1,0 +1,33 @@
+{
+  "id": "snys49x64",
+  "url": "https://constellation.church/snys49x64",
+  "name": "Christ Episcopal Church",
+  "displayName": "Christ Episcopal Church",
+  "address": {
+    "street": "534 W 10th St",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75208-4720"
+  },
+  "coordinates": {
+    "latitude": 32.744794845581055,
+    "longitude": -96.83173370361328
+  },
+  "website": "https://christchurchdallas.net",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-dallas/list/christ-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-dallas/christ-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christchurchdallas.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "750827417"
+    }
+  ],
+  "advisories": []
+}

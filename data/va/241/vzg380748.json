@@ -1,0 +1,33 @@
+{
+  "id": "vzg380748",
+  "url": "https://constellation.church/vzg380748",
+  "name": "Trinity Ecumenical Parish",
+  "displayName": "Trinity Ecumenical Parish",
+  "address": {
+    "street": "40 Lakemount Dr",
+    "city": "Moneta",
+    "state": "VA",
+    "zip": "24121-1915"
+  },
+  "coordinates": {
+    "latitude": 37.141536712646484,
+    "longitude": -79.68266677856445
+  },
+  "website": null,
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=facaa1c1-6e52-4e7d-9281-6c6e769f945b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "facaa1c1-6e52-4e7d-9281-6c6e769f945b"
+    },
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-southwestern-virginia/trinity-ecumenical-parish"
+    },
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "11361"
+    }
+  ],
+  "advisories": []
+}

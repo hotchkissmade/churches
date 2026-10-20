@@ -1,0 +1,33 @@
+{
+  "id": "kc7czf497",
+  "url": "https://constellation.church/kc7czf497",
+  "name": "Sugar Creek Lutheran Church",
+  "displayName": "Sugar Creek Lutheran Church",
+  "address": {
+    "street": "N5690 Cobblestone Rd",
+    "city": "Elkhorn",
+    "state": "WI",
+    "zip": "53121-3822"
+  },
+  "coordinates": {
+    "latitude": 42.697959899902344,
+    "longitude": -88.60999298095703
+  },
+  "website": "https://sugarcreeklutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ed5a3440-a0a3-47bc-8d76-f7627bb59971",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ed5a3440-a0a3-47bc-8d76-f7627bb59971"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sugarcreeklutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396136126"
+    }
+  ],
+  "advisories": []
+}

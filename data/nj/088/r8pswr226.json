@@ -1,0 +1,33 @@
+{
+  "id": "r8pswr226",
+  "url": "https://constellation.church/r8pswr226",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "381 S Branch Rd",
+    "city": "Hillsborough",
+    "state": "NJ",
+    "zip": "08844-3367"
+  },
+  "coordinates": {
+    "latitude": 40.50440216064453,
+    "longitude": -74.67157745361328
+  },
+  "website": "https://faithlutherannj.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=048c21ff-35f7-4dc0-8f48-9137b550a996",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "048c21ff-35f7-4dc0-8f48-9137b550a996"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithlutherannj.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222024232"
+    }
+  ],
+  "advisories": []
+}

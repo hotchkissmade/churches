@@ -1,0 +1,33 @@
+{
+  "id": "bpcjd0k62",
+  "url": "https://constellation.church/bpcjd0k62",
+  "name": "New Hope Baptist Church of Sacramento",
+  "displayName": "New Hope Baptist Church of Sacramento",
+  "address": {
+    "street": "3700 32nd St",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95820"
+  },
+  "coordinates": {
+    "latitude": 38.54103469848633,
+    "longitude": -121.47261810302734
+  },
+  "website": "https://newhopebc-sac.org",
+  "listingUrl": "https://churches.sbc.net/church/new-hope-baptist-church-of-sacramento/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-hope-baptist-church-of-sacramento"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newhopebc-sac.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "680096619"
+    }
+  ],
+  "advisories": []
+}

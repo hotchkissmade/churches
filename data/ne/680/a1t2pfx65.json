@@ -1,0 +1,33 @@
+{
+  "id": "a1t2pfx65",
+  "url": "https://constellation.church/a1t2pfx65",
+  "name": "Trinity Church",
+  "displayName": "Trinity Church",
+  "address": {
+    "street": "848 Gold Coast Road",
+    "city": "Papillion",
+    "state": "NE",
+    "zip": "68046"
+  },
+  "coordinates": {
+    "latitude": 41.13946342468262,
+    "longitude": -96.0546646118164
+  },
+  "website": "https://trinitylife.org",
+  "listingUrl": "https://lcmc.net/congregation/123845",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "123845"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylife.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470546608"
+    }
+  ],
+  "advisories": []
+}

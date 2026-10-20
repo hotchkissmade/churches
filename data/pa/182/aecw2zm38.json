@@ -1,0 +1,33 @@
+{
+  "id": "aecw2zm38",
+  "url": "https://constellation.church/aecw2zm38",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "189 Church Rd",
+    "city": "Jim Thorpe",
+    "state": "PA",
+    "zip": "18229-2776"
+  },
+  "coordinates": {
+    "latitude": 40.95220184326172,
+    "longitude": -75.65356063842773
+  },
+  "website": "https://christlutheran-jt.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d5ba8439-dc41-48be-a648-25a639baf836",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d5ba8439-dc41-48be-a648-25a639baf836"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christlutheran-jt.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237387028"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "fehfhce06",
+  "url": "https://constellation.church/fehfhce06",
+  "name": "Apostolic Christian Church of Roanoke",
+  "displayName": "Apostolic Christian Church of Roanoke",
+  "address": {
+    "street": "1570 County Road 1300 N",
+    "city": "Roanoke",
+    "state": "IL",
+    "zip": "61561"
+  },
+  "coordinates": {
+    "latitude": 40.77882194519043,
+    "longitude": -89.24105834960938
+  },
+  "website": "https://roanokeacchurch.org",
+  "listingUrl": "https://www.apostolicchristian.org/congregations/roanoke",
+  "identifiers": [
+    {
+      "namespace": "org.apostolicchristian.id",
+      "value": "roanoke"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "roanokeacchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370805111"
+    }
+  ],
+  "advisories": []
+}

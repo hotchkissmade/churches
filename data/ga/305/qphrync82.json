@@ -1,0 +1,33 @@
+{
+  "id": "qphrync82",
+  "url": "https://constellation.church/qphrync82",
+  "name": "McEver Road Church",
+  "displayName": "McEver Road Church",
+  "address": {
+    "street": "5226 McEver Road",
+    "city": "Oakwood",
+    "state": "GA",
+    "zip": "30566"
+  },
+  "coordinates": {
+    "latitude": 34.22748374938965,
+    "longitude": -83.90394592285156
+  },
+  "website": "https://mceverumc.org/worship",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFJfJIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFJfJIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mceverumc.org/worship"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581589528"
+    }
+  ],
+  "advisories": []
+}

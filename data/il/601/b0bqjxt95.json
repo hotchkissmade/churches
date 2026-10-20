@@ -1,0 +1,33 @@
+{
+  "id": "b0bqjxt95",
+  "url": "https://constellation.church/b0bqjxt95",
+  "name": "Peoples Community",
+  "displayName": "Peoples Community",
+  "address": {
+    "street": "670 S Lambert Rd",
+    "city": "Glen Ellyn",
+    "state": "IL",
+    "zip": "60137"
+  },
+  "coordinates": {
+    "latitude": 41.83755302429199,
+    "longitude": -88.0782241821289
+  },
+  "website": "https://pcc-online.org",
+  "listingUrl": "https://churches.sbc.net/church/peoples-community/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "peoples-community"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pcc-online.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "260227869"
+    }
+  ],
+  "advisories": []
+}

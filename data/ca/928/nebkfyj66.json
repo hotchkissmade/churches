@@ -1,0 +1,33 @@
+{
+  "id": "nebkfyj66",
+  "url": "https://constellation.church/nebkfyj66",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "950 W Ontario Ave",
+    "city": "Corona",
+    "state": "CA",
+    "zip": "92882-5871"
+  },
+  "coordinates": {
+    "latitude": 33.8570613861084,
+    "longitude": -117.58179473876953
+  },
+  "website": "https://fpc-corona.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/10725/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "10725"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpc-corona.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330751736"
+    }
+  ],
+  "advisories": []
+}

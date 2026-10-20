@@ -1,0 +1,33 @@
+{
+  "id": "t6bkkhs05",
+  "url": "https://constellation.church/t6bkkhs05",
+  "name": "Capitol Hill Baptist Church",
+  "displayName": "Capitol Hill Baptist Church",
+  "address": {
+    "street": "304 SW 134th St",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73170"
+  },
+  "coordinates": {
+    "latitude": 35.33342933654785,
+    "longitude": -97.5196304321289
+  },
+  "website": "https://chbchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/capitol-hill-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "capitol-hill-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chbchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "730642602"
+    }
+  ],
+  "advisories": []
+}

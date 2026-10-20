@@ -1,0 +1,33 @@
+{
+  "id": "az2c6mx31",
+  "url": "https://constellation.church/az2c6mx31",
+  "name": "Second Baptist Church",
+  "displayName": "Second Baptist Church",
+  "address": {
+    "street": "340 Bland Dr",
+    "city": "Bridge City",
+    "state": "TX",
+    "zip": "77611"
+  },
+  "coordinates": {
+    "latitude": 30.027742385864258,
+    "longitude": -93.83428192138672
+  },
+  "website": "https://secondbaptistchurchbridgecity.com",
+  "listingUrl": "https://churches.sbc.net/church/second-baptist-church-33/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "second-baptist-church-33"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "secondbaptistchurchbridgecity.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742048806"
+    }
+  ],
+  "advisories": []
+}

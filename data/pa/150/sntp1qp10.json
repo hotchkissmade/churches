@@ -1,0 +1,33 @@
+{
+  "id": "sntp1qp10",
+  "url": "https://constellation.church/sntp1qp10",
+  "name": "Steffin Hill Presbyterian Church",
+  "displayName": "Steffin Hill Presbyterian Church",
+  "address": {
+    "street": "2000 Darlington Rd",
+    "city": "Beaver Falls",
+    "state": "PA",
+    "zip": "15010"
+  },
+  "coordinates": {
+    "latitude": 40.760154724121094,
+    "longitude": -80.34278106689453
+  },
+  "website": "https://steffinhill.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/5241/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "5241"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "steffinhill.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "256003108"
+    }
+  ],
+  "advisories": []
+}

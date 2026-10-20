@@ -1,0 +1,33 @@
+{
+  "id": "ereppd024",
+  "url": "https://constellation.church/ereppd024",
+  "name": "Saint Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "321 N 10th St",
+    "city": "Beatrice",
+    "state": "NE",
+    "zip": "68310-3014"
+  },
+  "coordinates": {
+    "latitude": 40.26870346069336,
+    "longitude": -96.74139404296875
+  },
+  "website": "https://stpaulbeatrice.org",
+  "listingUrl": "https://locator.lcms.org/church/C/66281",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "66281"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulbeatrice.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470396019"
+    }
+  ],
+  "advisories": []
+}

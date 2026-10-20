@@ -1,0 +1,33 @@
+{
+  "id": "mntm85y94",
+  "url": "https://constellation.church/mntm85y94",
+  "name": "Hazelwood Baptist Church",
+  "displayName": "Hazelwood Baptist Church",
+  "address": {
+    "street": "6161 Howdershell Rd",
+    "city": "Hazelwood",
+    "state": "MO",
+    "zip": "63042"
+  },
+  "coordinates": {
+    "latitude": 38.783552169799805,
+    "longitude": -90.3814926147461
+  },
+  "website": "https://hazelwoodbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/hazelwood-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "hazelwood-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hazelwoodbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430833892"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rbd9rca51",
+  "url": "https://constellation.church/rbd9rca51",
+  "name": "Journey Fellowship Church",
+  "displayName": "Journey Fellowship Church",
+  "address": {
+    "street": "60456 N Military Rd",
+    "city": "Slidell",
+    "state": "LA",
+    "zip": "70461"
+  },
+  "coordinates": {
+    "latitude": 30.278820037841797,
+    "longitude": -89.75276184082031
+  },
+  "website": "https://jf.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=5a8af349-7941-441c-883b-023a70924ac7&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "5a8af349-7941-441c-883b-023a70924ac7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jf.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "721347373"
+    }
+  ],
+  "advisories": []
+}

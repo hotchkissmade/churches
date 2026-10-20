@@ -1,0 +1,33 @@
+{
+  "id": "zxng5sm45",
+  "url": "https://constellation.church/zxng5sm45",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "1245 6th St",
+    "city": "Marysville",
+    "state": "MI",
+    "zip": "48040"
+  },
+  "coordinates": {
+    "latitude": 42.92070960998535,
+    "longitude": -82.49393081665039
+  },
+  "website": "https://marysvilleag.com/home",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=317e1855-b36c-4d68-bfe5-5611fb2540df&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "317e1855-b36c-4d68-bfe5-5611fb2540df"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "marysvilleag.com/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382251768"
+    }
+  ],
+  "advisories": []
+}

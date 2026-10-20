@@ -1,0 +1,33 @@
+{
+  "id": "gyf6pm636",
+  "url": "https://constellation.church/gyf6pm636",
+  "name": "St. Paul's Community Church",
+  "displayName": "St. Paul's Community Church",
+  "address": {
+    "street": "112 Andover St",
+    "city": "Lawrence",
+    "state": "MA",
+    "zip": "01843"
+  },
+  "coordinates": {
+    "latitude": 42.6961446,
+    "longitude": -71.1501112
+  },
+  "website": "https://stpaulslawrence.org",
+  "listingUrl": "https://www.acna.org/admin_units/81",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "81"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulslawrence.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "331077731"
+    }
+  ],
+  "advisories": []
+}

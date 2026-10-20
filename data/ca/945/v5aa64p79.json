@@ -1,0 +1,33 @@
+{
+  "id": "v5aa64p79",
+  "url": "https://constellation.church/v5aa64p79",
+  "name": "Messiah Lutheran Church",
+  "displayName": "Messiah Lutheran Church",
+  "address": {
+    "street": "25400 Hesperian Blvd",
+    "city": "Hayward",
+    "state": "CA",
+    "zip": "94545-2464"
+  },
+  "coordinates": {
+    "latitude": 37.642709732055664,
+    "longitude": -122.10372161865234
+  },
+  "website": "https://messiahhayward.org/mlc",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=aad6c055-751f-44b8-a744-d68f8bdd6bd3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "aad6c055-751f-44b8-a744-d68f8bdd6bd3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "messiahhayward.org/mlc"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "931036374"
+    }
+  ],
+  "advisories": []
+}

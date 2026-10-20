@@ -1,0 +1,33 @@
+{
+  "id": "afp6tav81",
+  "url": "https://constellation.church/afp6tav81",
+  "name": "Monark Baptist Church",
+  "displayName": "Monark Baptist Church",
+  "address": {
+    "street": "18472 Linden Dr",
+    "city": "Neosho",
+    "state": "MO",
+    "zip": "64850"
+  },
+  "coordinates": {
+    "latitude": 36.868669509887695,
+    "longitude": -94.31497955322266
+  },
+  "website": "https://monarkbaptist.church",
+  "listingUrl": "https://churches.sbc.net/church/monark-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "monark-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "monarkbaptist.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371482202"
+    }
+  ],
+  "advisories": []
+}

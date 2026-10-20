@@ -1,0 +1,33 @@
+{
+  "id": "vpn0k7r50",
+  "url": "https://constellation.church/vpn0k7r50",
+  "name": "First Baptist Church, Post",
+  "displayName": "First Baptist Church, Post",
+  "address": {
+    "street": "402 W Main St",
+    "city": "Post",
+    "state": "TX",
+    "zip": "79356"
+  },
+  "coordinates": {
+    "latitude": 33.191354751586914,
+    "longitude": -101.38253021240234
+  },
+  "website": "https://firstbcpost.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-post-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-post-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbcpost.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "756004012"
+    }
+  ],
+  "advisories": []
+}

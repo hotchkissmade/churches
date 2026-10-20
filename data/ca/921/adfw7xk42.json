@@ -1,0 +1,33 @@
+{
+  "id": "adfw7xk42",
+  "url": "https://constellation.church/adfw7xk42",
+  "name": "Servant Church of San Diego",
+  "displayName": "Servant Church of San Diego",
+  "address": {
+    "street": "725 S. 28th Street",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92113"
+  },
+  "coordinates": {
+    "latitude": 32.69782066345215,
+    "longitude": -117.1336669921875
+  },
+  "website": "https://servantchurchsd.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6105",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6105"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "servantchurchsd.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "474278387"
+    }
+  ],
+  "advisories": []
+}

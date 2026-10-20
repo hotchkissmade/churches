@@ -1,0 +1,33 @@
+{
+  "id": "vm3zsdk18",
+  "url": "https://constellation.church/vm3zsdk18",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "502 S Main St",
+    "city": "Winner",
+    "state": "SD",
+    "zip": "57580"
+  },
+  "coordinates": {
+    "latitude": 43.37325859069824,
+    "longitude": -99.85673522949219
+  },
+  "website": "https://winnerag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=7be475fc-52f9-44d1-a775-44291153a295&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "7be475fc-52f9-44d1-a775-44291153a295"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "winnerag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510150761"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bn6bsx256",
+  "url": "https://constellation.church/bn6bsx256",
+  "name": "West Hopewell Presbyterian Church",
+  "displayName": "West Hopewell Presbyterian Church",
+  "address": {
+    "street": "2602 Wise Street",
+    "city": "Hopewell",
+    "state": "VA",
+    "zip": "23860"
+  },
+  "coordinates": {
+    "latitude": 37.2846565246582,
+    "longitude": -77.29987335205078
+  },
+  "website": "https://westhopewell.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1063",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1063"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westhopewell.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540834257"
+    }
+  ],
+  "advisories": []
+}

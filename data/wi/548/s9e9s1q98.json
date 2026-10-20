@@ -1,0 +1,33 @@
+{
+  "id": "s9e9s1q98",
+  "url": "https://constellation.church/s9e9s1q98",
+  "name": "United Presbyterian Church",
+  "displayName": "United Presbyterian Church",
+  "address": {
+    "street": "229 N 28th St E",
+    "city": "Superior",
+    "state": "WI",
+    "zip": "54880-5566"
+  },
+  "coordinates": {
+    "latitude": 46.7066535949707,
+    "longitude": -92.065673828125
+  },
+  "website": "https://upc-superior.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/11745/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "11745"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "upc-superior.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391941669"
+    }
+  ],
+  "advisories": []
+}

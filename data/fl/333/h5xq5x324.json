@@ -1,0 +1,33 @@
+{
+  "id": "h5xq5x324",
+  "url": "https://constellation.church/h5xq5x324",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "401 SE 15th Ave",
+    "city": "Ft Lauderdale",
+    "state": "FL",
+    "zip": "33301-2364"
+  },
+  "coordinates": {
+    "latitude": 26.11803436279297,
+    "longitude": -80.12877655029297
+  },
+  "website": "https://firstpres.cc",
+  "listingUrl": "https://church-trends.pcusa.org/church/1333/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "1333"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpres.cc"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590725544"
+    }
+  ],
+  "advisories": []
+}

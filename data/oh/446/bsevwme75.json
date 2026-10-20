@@ -1,0 +1,33 @@
+{
+  "id": "bsevwme75",
+  "url": "https://constellation.church/bsevwme75",
+  "name": "Dover Baptist Temple",
+  "displayName": "Dover Baptist Temple",
+  "address": {
+    "street": "2896 SR 800 NE",
+    "city": "Dover",
+    "state": "OH",
+    "zip": "44622"
+  },
+  "coordinates": {
+    "latitude": 40.52453804016113,
+    "longitude": -81.45928573608398
+  },
+  "website": "https://doverbaptisttemple.org",
+  "listingUrl": "https://churches.sbc.net/church/dover-baptist-temple/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "dover-baptist-temple"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "doverbaptisttemple.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341291047"
+    }
+  ],
+  "advisories": []
+}

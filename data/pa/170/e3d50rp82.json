@@ -1,0 +1,33 @@
+{
+  "id": "e3d50rp82",
+  "url": "https://constellation.church/e3d50rp82",
+  "name": "Good Shepherd Lutheran Church",
+  "displayName": "Good Shepherd Lutheran Church",
+  "address": {
+    "street": "1000 N Front St",
+    "city": "Liverpool",
+    "state": "PA",
+    "zip": "17045"
+  },
+  "coordinates": {
+    "latitude": 40.58078956604004,
+    "longitude": -76.98222351074219
+  },
+  "website": "https://feedmysheep.cc",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9f5c140a-5d3e-4878-8a56-58109daac9eb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9f5c140a-5d3e-4878-8a56-58109daac9eb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "feedmysheep.cc"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236256837"
+    }
+  ],
+  "advisories": []
+}

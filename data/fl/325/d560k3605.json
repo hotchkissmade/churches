@@ -1,0 +1,33 @@
+{
+  "id": "d560k3605",
+  "url": "https://constellation.church/d560k3605",
+  "name": "The Church on Bayshore",
+  "displayName": "The Church on Bayshore",
+  "address": {
+    "street": "622 Bayshore Dr",
+    "city": "Niceville",
+    "state": "FL",
+    "zip": "32578"
+  },
+  "coordinates": {
+    "latitude": 30.51596450805664,
+    "longitude": -86.48405456542969
+  },
+  "website": "https://churchonbayshore.org",
+  "listingUrl": "https://churches.sbc.net/church/the-church-on-bayshore/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-church-on-bayshore"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchonbayshore.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591004595"
+    }
+  ],
+  "advisories": []
+}

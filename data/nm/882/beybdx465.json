@@ -1,0 +1,33 @@
+{
+  "id": "beybdx465",
+  "url": "https://constellation.church/beybdx465",
+  "name": "Happy Valley Baptist Church",
+  "displayName": "Happy Valley Baptist Church",
+  "address": {
+    "street": "4103 W Texas St",
+    "city": "Carlsbad",
+    "state": "NM",
+    "zip": "88220"
+  },
+  "coordinates": {
+    "latitude": 32.421640396118164,
+    "longitude": -104.28067016601562
+  },
+  "website": "https://podcast.hvbcnm.org",
+  "listingUrl": "https://churches.sbc.net/church/happy-valley-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "happy-valley-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "podcast.hvbcnm.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850339095"
+    }
+  ],
+  "advisories": []
+}

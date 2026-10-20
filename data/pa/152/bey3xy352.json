@@ -1,0 +1,33 @@
+{
+  "id": "bey3xy352",
+  "url": "https://constellation.church/bey3xy352",
+  "name": "United Presbyterian Church",
+  "displayName": "United Presbyterian Church",
+  "address": {
+    "street": "30 W Prospect Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15205"
+  },
+  "coordinates": {
+    "latitude": 40.445430755615234,
+    "longitude": -80.06661987304688
+  },
+  "website": "https://pghpresbytery.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/10032/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "10032"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pghpresbytery.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "250965481"
+    }
+  ],
+  "advisories": []
+}

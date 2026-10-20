@@ -1,0 +1,33 @@
+{
+  "id": "hgsvnch55",
+  "url": "https://constellation.church/hgsvnch55",
+  "name": "Garden Lakes Baptist Church",
+  "displayName": "Garden Lakes Baptist Church",
+  "address": {
+    "street": "2200 Redmond Cir NW",
+    "city": "Rome",
+    "state": "GA",
+    "zip": "30165"
+  },
+  "coordinates": {
+    "latitude": 34.283857345581055,
+    "longitude": -85.22699737548828
+  },
+  "website": "https://glbcrome.org",
+  "listingUrl": "https://churches.sbc.net/church/garden-lakes-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "garden-lakes-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "glbcrome.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "571158248"
+    }
+  ],
+  "advisories": []
+}

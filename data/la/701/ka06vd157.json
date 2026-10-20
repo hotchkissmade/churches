@@ -1,0 +1,33 @@
+{
+  "id": "ka06vd157",
+  "url": "https://constellation.church/ka06vd157",
+  "name": "Edgewater Baptist Church",
+  "displayName": "Edgewater Baptist Church",
+  "address": {
+    "street": "5900 Paris Ave",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70122"
+  },
+  "coordinates": {
+    "latitude": 30.017847061157227,
+    "longitude": -90.07563400268555
+  },
+  "website": "https://edgewaterbc.org",
+  "listingUrl": "https://churches.sbc.net/church/edgewater-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "edgewater-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "edgewaterbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720706000"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "y9hp5n767",
+  "url": "https://constellation.church/y9hp5n767",
+  "name": "Church of the Apostles",
+  "displayName": "Church of the Apostles",
+  "address": {
+    "street": "6358 Main St",
+    "city": "Trumbull",
+    "state": "CT",
+    "zip": "06611"
+  },
+  "coordinates": {
+    "latitude": 41.27267074584961,
+    "longitude": -73.22539520263672
+  },
+  "website": "https://apostlesct.org",
+  "listingUrl": "https://www.acna.org/admin_units/890",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "890"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "apostlesct.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "522403132"
+    }
+  ],
+  "advisories": []
+}

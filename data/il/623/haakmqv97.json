@@ -1,0 +1,33 @@
+{
+  "id": "haakmqv97",
+  "url": "https://constellation.church/haakmqv97",
+  "name": "Payson Southern Baptist Church",
+  "displayName": "Payson Southern Baptist Church",
+  "address": {
+    "street": "105 N Main St",
+    "city": "Payson",
+    "state": "IL",
+    "zip": "62360"
+  },
+  "coordinates": {
+    "latitude": 39.81785774230957,
+    "longitude": -91.24205780029297
+  },
+  "website": "https://chautauquasbc.com",
+  "listingUrl": "https://churches.sbc.net/church/payson-southern-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "payson-southern-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chautauquasbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371336217"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "a4qs09w90",
+  "url": "https://constellation.church/a4qs09w90",
+  "name": "St Christopher's Community Church",
+  "displayName": "St. Christopher's Community Church",
+  "address": {
+    "street": "7902 Steamboat Island Rd NW",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98502-9389"
+  },
+  "coordinates": {
+    "latitude": 47.1453857421875,
+    "longitude": -122.9535903930664
+  },
+  "website": "https://stchristopherolympia.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9258b661-c84d-49df-9a2a-6f2cfd39ee98",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9258b661-c84d-49df-9a2a-6f2cfd39ee98"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stchristopherolympia.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911109785"
+    },
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-olympia/st-christophers-church-federated-congregation"
+    }
+  ],
+  "advisories": []
+}

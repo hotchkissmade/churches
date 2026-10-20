@@ -1,0 +1,33 @@
+{
+  "id": "d0fyjdr96",
+  "url": "https://constellation.church/d0fyjdr96",
+  "name": "St John Episcopal Chapel",
+  "displayName": "St. John Episcopal Chapel",
+  "address": {
+    "street": "1490 Mark Thomas Dr",
+    "city": "Monterey",
+    "state": "CA",
+    "zip": "93940-4919"
+  },
+  "coordinates": {
+    "latitude": 36.593061447143555,
+    "longitude": -121.87248992919922
+  },
+  "website": "https://stjohnschapel.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-el-camino-real/list/st-john-episcopal-chapel",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-el-camino-real/st-john-episcopal-chapel"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnschapel.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "946171286"
+    }
+  ],
+  "advisories": []
+}

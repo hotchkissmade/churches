@@ -1,0 +1,33 @@
+{
+  "id": "qf8s6tm51",
+  "url": "https://constellation.church/qf8s6tm51",
+  "name": "Corinth Baptist Church",
+  "displayName": "Corinth Baptist Church",
+  "address": {
+    "street": "296 Corinth Church Rd",
+    "city": "Springfield",
+    "state": "GA",
+    "zip": "31329"
+  },
+  "coordinates": {
+    "latitude": 32.484304428100586,
+    "longitude": -81.3832893371582
+  },
+  "website": "https://cbcga.org",
+  "listingUrl": "https://churches.sbc.net/church/corinth-baptist-church-8/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "corinth-baptist-church-8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cbcga.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "020556945"
+    }
+  ],
+  "advisories": []
+}

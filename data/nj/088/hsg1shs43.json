@@ -1,0 +1,33 @@
+{
+  "id": "hsg1shs43",
+  "url": "https://constellation.church/hsg1shs43",
+  "name": "United Reformed Church",
+  "displayName": "United Reformed Church",
+  "address": {
+    "street": "100 W Main St",
+    "city": "Somerville",
+    "state": "NJ",
+    "zip": "08876-2216"
+  },
+  "coordinates": {
+    "latitude": 40.56934928894043,
+    "longitude": -74.6150016784668
+  },
+  "website": "https://urcsomerville.org",
+  "listingUrl": "https://www.rca.org/churches/united-reformed-church-2/",
+  "identifiers": [
+    {
+      "namespace": "org.rca.id",
+      "value": "215973"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "urcsomerville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222048228"
+    }
+  ],
+  "advisories": []
+}

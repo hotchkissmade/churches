@@ -1,0 +1,33 @@
+{
+  "id": "fdc836561",
+  "url": "https://constellation.church/fdc836561",
+  "name": "Faith Evangelical Lutheran Church",
+  "displayName": "Faith Evangelical Lutheran Church",
+  "address": {
+    "street": "800 Waconia Pkwy N",
+    "city": "Waconia",
+    "state": "MN",
+    "zip": "55387-9241"
+  },
+  "coordinates": {
+    "latitude": 44.85567855834961,
+    "longitude": -93.7998275756836
+  },
+  "website": "https://waconiafaithlutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=eaf5d00c-50ce-4a52-9ac4-99c41ede1bd7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "eaf5d00c-50ce-4a52-9ac4-99c41ede1bd7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "waconiafaithlutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237333065"
+    }
+  ],
+  "advisories": []
+}

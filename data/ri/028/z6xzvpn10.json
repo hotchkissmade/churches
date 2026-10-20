@@ -1,0 +1,33 @@
+{
+  "id": "z6xzvpn10",
+  "url": "https://constellation.church/z6xzvpn10",
+  "name": "The Church at Westerly",
+  "displayName": "The Church at Westerly",
+  "address": {
+    "street": "120 Main Street",
+    "city": "Westerly",
+    "state": "RI",
+    "zip": "02891"
+  },
+  "coordinates": {
+    "latitude": 41.37430953979492,
+    "longitude": -71.83031845092773
+  },
+  "website": "https://pawcatucksdb.com",
+  "listingUrl": "https://churches.sbc.net/church/the-church-at-westerly/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-church-at-westerly"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pawcatucksdb.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "050259085"
+    }
+  ],
+  "advisories": []
+}

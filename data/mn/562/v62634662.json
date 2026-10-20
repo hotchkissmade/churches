@@ -1,0 +1,33 @@
+{
+  "id": "v62634662",
+  "url": "https://constellation.church/v62634662",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "23 E Rooney Ave",
+    "city": "Appleton",
+    "state": "MN",
+    "zip": "56208-1540"
+  },
+  "coordinates": {
+    "latitude": 45.19925308227539,
+    "longitude": -96.01705169677734
+  },
+  "website": "https://appletonzion.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4c0a034f-bd4c-4e73-88c1-69d389156f6b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4c0a034f-bd4c-4e73-88c1-69d389156f6b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "appletonzion.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410757892"
+    }
+  ],
+  "advisories": []
+}

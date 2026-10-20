@@ -1,0 +1,33 @@
+{
+  "id": "v24hj4g76",
+  "url": "https://constellation.church/v24hj4g76",
+  "name": "Salvation Center, San Antonio",
+  "displayName": "Salvation Center, San Antonio",
+  "address": {
+    "street": "5711 Mobud Street",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78238"
+  },
+  "coordinates": {
+    "latitude": 29.4842472076416,
+    "longitude": -98.5993881225586
+  },
+  "website": "https://rccgsanantonio.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=403&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "403"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rccgsanantonio.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "770645006"
+    }
+  ],
+  "advisories": []
+}

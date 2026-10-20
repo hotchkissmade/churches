@@ -1,0 +1,33 @@
+{
+  "id": "wcs0vzp08",
+  "url": "https://constellation.church/wcs0vzp08",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "20 Meadowlark Rd",
+    "city": "Vernon",
+    "state": "CT",
+    "zip": "06066-4311"
+  },
+  "coordinates": {
+    "latitude": 41.8450984954834,
+    "longitude": -72.45746231079102
+  },
+  "website": "https://tlcvernon.org/worship/service-times",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=af068b0a-460b-460c-84a5-4897b7ac6e14",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "af068b0a-460b-460c-84a5-4897b7ac6e14"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlcvernon.org/worship/service-times"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "060776418"
+    }
+  ],
+  "advisories": []
+}

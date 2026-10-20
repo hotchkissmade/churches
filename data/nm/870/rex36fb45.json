@@ -1,0 +1,33 @@
+{
+  "id": "rex36fb45",
+  "url": "https://constellation.church/rex36fb45",
+  "name": "First Baptist Church of Grants",
+  "displayName": "First Baptist Church of Grants",
+  "address": {
+    "street": "224 Mountain Rd",
+    "city": "Grants",
+    "state": "NM",
+    "zip": "87020"
+  },
+  "coordinates": {
+    "latitude": 35.15442657470703,
+    "longitude": -107.85256958007812
+  },
+  "website": "https://fbcgrants.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-grants/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-grants"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcgrants.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850287532"
+    }
+  ],
+  "advisories": []
+}

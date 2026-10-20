@@ -1,0 +1,33 @@
+{
+  "id": "yyhasx311",
+  "url": "https://constellation.church/yyhasx311",
+  "name": "Seneca Baptist Church",
+  "displayName": "Seneca Baptist Church",
+  "address": {
+    "street": "1080 S Oak St",
+    "city": "Seneca",
+    "state": "SC",
+    "zip": "29678"
+  },
+  "coordinates": {
+    "latitude": 34.6689338684082,
+    "longitude": -82.95975494384766
+  },
+  "website": "https://senecabaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/seneca-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "seneca-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "senecabaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570408189"
+    }
+  ],
+  "advisories": []
+}

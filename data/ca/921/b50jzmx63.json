@@ -1,0 +1,37 @@
+{
+  "id": "b50jzmx63",
+  "url": "https://constellation.church/b50jzmx63",
+  "name": "First Samoan Church of San Diego",
+  "displayName": "First Samoan Church of San Diego",
+  "address": {
+    "street": "1345 S 45th St",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92113"
+  },
+  "coordinates": {
+    "latitude": 32.692365646362305,
+    "longitude": -117.09724426269531
+  },
+  "website": "https://fscccsd.com",
+  "listingUrl": "https://www.naccc.org/wpbdp_listing/first-samoan-church-of-san-diego/",
+  "identifiers": [
+    {
+      "namespace": "org.naccc.id",
+      "value": "first-samoan-church-of-san-diego"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fscccsd.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953523170"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "956095435"
+    }
+  ],
+  "advisories": []
+}

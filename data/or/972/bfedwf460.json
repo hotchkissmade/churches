@@ -1,0 +1,33 @@
+{
+  "id": "bfedwf460",
+  "url": "https://constellation.church/bfedwf460",
+  "name": "First",
+  "displayName": "First Orthodox Presbyterian Church",
+  "address": {
+    "street": "8245 N.E. Fremont St.",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97220"
+  },
+  "coordinates": {
+    "latitude": 45.54825973510742,
+    "longitude": -122.57806396484375
+  },
+  "website": "https://firstopcportland.org",
+  "listingUrl": "https://opc.org/church.html?church_id=199",
+  "identifiers": [
+    {
+      "namespace": "org.opc.id",
+      "value": "199"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstopcportland.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930553737"
+    }
+  ],
+  "advisories": []
+}

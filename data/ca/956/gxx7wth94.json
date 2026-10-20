@@ -1,0 +1,33 @@
+{
+  "id": "gxx7wth94",
+  "url": "https://constellation.church/gxx7wth94",
+  "name": "First Street Community Church",
+  "displayName": "First Street Community Church",
+  "address": {
+    "street": "1545 First ST",
+    "city": "Lincoln",
+    "state": "CA",
+    "zip": "95648"
+  },
+  "coordinates": {
+    "latitude": 38.88628005981445,
+    "longitude": -121.30368041992188
+  },
+  "website": "https://fscc.church",
+  "listingUrl": "https://churches.sbc.net/church/first-street-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-street-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fscc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942482516"
+    }
+  ],
+  "advisories": []
+}

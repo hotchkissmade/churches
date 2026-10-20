@@ -1,0 +1,33 @@
+{
+  "id": "h709pd048",
+  "url": "https://constellation.church/h709pd048",
+  "name": "Clear Spring Baptist Church",
+  "displayName": "Clear Spring Baptist Church",
+  "address": {
+    "street": "301 Bethany Rd",
+    "city": "Simpsonville",
+    "state": "SC",
+    "zip": "29681"
+  },
+  "coordinates": {
+    "latitude": 34.76321220397949,
+    "longitude": -82.19512176513672
+  },
+  "website": "https://clearspringbc.org",
+  "listingUrl": "https://churches.sbc.net/church/clear-spring-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "clear-spring-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clearspringbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570360088"
+    }
+  ],
+  "advisories": []
+}

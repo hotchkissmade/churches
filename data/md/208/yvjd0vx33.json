@@ -1,0 +1,33 @@
+{
+  "id": "yvjd0vx33",
+  "url": "https://constellation.church/yvjd0vx33",
+  "name": "St. Mark Church",
+  "displayName": "St. Mark Church",
+  "address": {
+    "street": "7124 River Rd",
+    "city": "Bethesda",
+    "state": "MD",
+    "zip": "20817"
+  },
+  "coordinates": {
+    "latitude": 38.98620796203613,
+    "longitude": -77.1447982788086
+  },
+  "website": "https://stmarkoca.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-wa-bthsmc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-wa-bthsmc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkoca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237254573"
+    }
+  ],
+  "advisories": []
+}

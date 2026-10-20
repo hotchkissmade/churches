@@ -1,0 +1,33 @@
+{
+  "id": "egm87k384",
+  "url": "https://constellation.church/egm87k384",
+  "name": "St Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "32 W Main St",
+    "city": "St Johnsville",
+    "state": "NY",
+    "zip": "13452-1224"
+  },
+  "coordinates": {
+    "latitude": 42.99907684326172,
+    "longitude": -74.68021011352539
+  },
+  "website": "https://stpaulslutheranstj.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0ea66094-a28d-4669-9026-a9bc6a7cd2fc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0ea66094-a28d-4669-9026-a9bc6a7cd2fc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulslutheranstj.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222487289"
+    }
+  ],
+  "advisories": []
+}

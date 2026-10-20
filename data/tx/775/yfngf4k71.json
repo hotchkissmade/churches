@@ -1,0 +1,33 @@
+{
+  "id": "yfngf4k71",
+  "url": "https://constellation.church/yfngf4k71",
+  "name": "West End Baptist Church, Freeport",
+  "displayName": "West End Baptist Church, Freeport",
+  "address": {
+    "street": "1400 W 12th St",
+    "city": "Freeport",
+    "state": "TX",
+    "zip": "77541"
+  },
+  "coordinates": {
+    "latitude": 28.946054458618164,
+    "longitude": -95.36792755126953
+  },
+  "website": "https://westendbaptistfreeport.com",
+  "listingUrl": "https://churches.sbc.net/church/west-end-baptist-church-freeport-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "west-end-baptist-church-freeport-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westendbaptistfreeport.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741796489"
+    }
+  ],
+  "advisories": []
+}

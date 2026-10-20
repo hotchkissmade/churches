@@ -1,0 +1,33 @@
+{
+  "id": "ryqj66t35",
+  "url": "https://constellation.church/ryqj66t35",
+  "name": "Church of the Nativity",
+  "displayName": "Church of the Nativity",
+  "address": {
+    "street": "8849 Ray Rd",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27613-1232"
+  },
+  "coordinates": {
+    "latitude": 35.90383720397949,
+    "longitude": -78.705810546875
+  },
+  "website": "https://nativityonline.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-north-carolina/list/church-nativity",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-north-carolina/church-nativity"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nativityonline.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561500416"
+    }
+  ],
+  "advisories": []
+}

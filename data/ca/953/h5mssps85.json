@@ -1,0 +1,33 @@
+{
+  "id": "h5mssps85",
+  "url": "https://constellation.church/h5mssps85",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "150 N Pasadena Ave",
+    "city": "Waterford",
+    "state": "CA",
+    "zip": "95386"
+  },
+  "coordinates": {
+    "latitude": 37.63922309875488,
+    "longitude": -120.77020263671875
+  },
+  "website": "https://theassemblyag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ec6616f3-a626-43ce-a0af-2fb1d5754f2e&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ec6616f3-a626-43ce-a0af-2fb1d5754f2e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "theassemblyag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942453174"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c8mrvzm50",
+  "url": "https://constellation.church/c8mrvzm50",
+  "name": "Denver Presbyterian Church",
+  "displayName": "Denver Presbyterian Church",
+  "address": {
+    "street": "McAuliffe International School, 2540 Holly Street",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80207"
+  },
+  "coordinates": {
+    "latitude": 39.75380516052246,
+    "longitude": -104.92196655273438
+  },
+  "website": "https://denverpres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5141",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5141"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "denverpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "262196607"
+    }
+  ],
+  "advisories": []
+}

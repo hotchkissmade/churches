@@ -1,0 +1,33 @@
+{
+  "id": "aeegraq28",
+  "url": "https://constellation.church/aeegraq28",
+  "name": "First Baptist Church Gainesville",
+  "displayName": "First Baptist Church Gainesville",
+  "address": {
+    "street": "122 2nd St",
+    "city": "Gainesville",
+    "state": "MO",
+    "zip": "65655"
+  },
+  "coordinates": {
+    "latitude": 36.60263252258301,
+    "longitude": -92.42996978759766
+  },
+  "website": "https://gainesvillefbc.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-gainesville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-gainesville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gainesvillefbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431598113"
+    }
+  ],
+  "advisories": []
+}

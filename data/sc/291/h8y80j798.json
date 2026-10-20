@@ -1,0 +1,33 @@
+{
+  "id": "h8y80j798",
+  "url": "https://constellation.church/h8y80j798",
+  "name": "Swansea First Baptist Church",
+  "displayName": "Swansea First Baptist Church",
+  "address": {
+    "street": "145 S Church Street",
+    "city": "Swansea",
+    "state": "SC",
+    "zip": "29160"
+  },
+  "coordinates": {
+    "latitude": 33.73777198791504,
+    "longitude": -81.0995101928711
+  },
+  "website": "https://swanseafbc.com",
+  "listingUrl": "https://churches.sbc.net/church/swansea-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "swansea-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "swanseafbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "571085258"
+    }
+  ],
+  "advisories": []
+}

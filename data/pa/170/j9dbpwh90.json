@@ -1,0 +1,33 @@
+{
+  "id": "j9dbpwh90",
+  "url": "https://constellation.church/j9dbpwh90",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "39 W Shortcut Rd",
+    "city": "Newport",
+    "state": "PA",
+    "zip": "17074"
+  },
+  "coordinates": {
+    "latitude": 40.479074478149414,
+    "longitude": -77.13789749145508
+  },
+  "website": "https://newportassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=737d8a18-6881-4c55-9bf1-df5ce6b1b02d&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "737d8a18-6881-4c55-9bf1-df5ce6b1b02d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newportassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231988339"
+    }
+  ],
+  "advisories": []
+}

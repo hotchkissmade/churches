@@ -1,0 +1,33 @@
+{
+  "id": "zx3stbx31",
+  "url": "https://constellation.church/zx3stbx31",
+  "name": "Calvary Lutheran Church",
+  "displayName": "Calvary Lutheran Church",
+  "address": {
+    "street": "5311 Sheridan Lake Rd",
+    "city": "Rapid City",
+    "state": "SD",
+    "zip": "57702-9237"
+  },
+  "coordinates": {
+    "latitude": 44.03218460083008,
+    "longitude": -103.27301788330078
+  },
+  "website": "https://calvaryrapidcity.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=00f9c646-3f13-4547-bc84-f3ea99b979cb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "00f9c646-3f13-4547-bc84-f3ea99b979cb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "calvaryrapidcity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460277588"
+    }
+  ],
+  "advisories": []
+}

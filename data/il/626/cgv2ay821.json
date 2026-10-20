@@ -1,0 +1,33 @@
+{
+  "id": "cgv2ay821",
+  "url": "https://constellation.church/cgv2ay821",
+  "name": "Cross Church",
+  "displayName": "Cross Church",
+  "address": {
+    "street": "1030 W Main St",
+    "city": "Carlinville",
+    "state": "IL",
+    "zip": "62626"
+  },
+  "coordinates": {
+    "latitude": 39.2813663482666,
+    "longitude": -89.89552688598633
+  },
+  "website": "https://thecrossmatters.org",
+  "listingUrl": "https://churches.sbc.net/church/cross-church-4/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cross-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thecrossmatters.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371138297"
+    }
+  ],
+  "advisories": []
+}

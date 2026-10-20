@@ -1,0 +1,33 @@
+{
+  "id": "npvw41p16",
+  "url": "https://constellation.church/npvw41p16",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "413 E 3rd St",
+    "city": "Monticello",
+    "state": "MN",
+    "zip": "55362-9295"
+  },
+  "coordinates": {
+    "latitude": 45.303001403808594,
+    "longitude": -93.78902435302734
+  },
+  "website": "https://stpetersmonticello.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24337",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24337"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpetersmonticello.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411260550"
+    }
+  ],
+  "advisories": []
+}

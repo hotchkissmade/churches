@@ -1,0 +1,33 @@
+{
+  "id": "d3f316p51",
+  "url": "https://constellation.church/d3f316p51",
+  "name": "Chiquola Baptist Church",
+  "displayName": "Chiquola Baptist Church",
+  "address": {
+    "street": "405 E Greer St",
+    "city": "Honea Path",
+    "state": "SC",
+    "zip": "29654"
+  },
+  "coordinates": {
+    "latitude": 34.44641304016113,
+    "longitude": -82.38729858398438
+  },
+  "website": "https://cbchoneapath.com",
+  "listingUrl": "https://churches.sbc.net/church/chiquola-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "chiquola-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cbchoneapath.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570383431"
+    }
+  ],
+  "advisories": []
+}

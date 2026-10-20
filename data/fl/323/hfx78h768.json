@@ -1,0 +1,33 @@
+{
+  "id": "hfx78h768",
+  "url": "https://constellation.church/hfx78h768",
+  "name": "Havana First Baptist Church",
+  "displayName": "Havana First Baptist Church",
+  "address": {
+    "street": "116 E 6th Ave",
+    "city": "Havana",
+    "state": "FL",
+    "zip": "32333"
+  },
+  "coordinates": {
+    "latitude": 30.626502990722656,
+    "longitude": -84.41376495361328
+  },
+  "website": "https://fbchavanafl.org",
+  "listingUrl": "https://churches.sbc.net/church/havana-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "havana-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbchavanafl.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591489880"
+    }
+  ],
+  "advisories": []
+}

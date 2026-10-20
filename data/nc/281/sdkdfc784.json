@@ -1,0 +1,37 @@
+{
+  "id": "sdkdfc784",
+  "url": "https://constellation.church/sdkdfc784",
+  "name": "Waxhaw Presbyterian Church",
+  "displayName": "Waxhaw Presbyterian Church",
+  "address": {
+    "street": "8100 Old Waxhaw Monroe Rd",
+    "city": "Waxhaw",
+    "state": "NC",
+    "zip": "28173"
+  },
+  "coordinates": {
+    "latitude": 34.90515327453613,
+    "longitude": -80.72421264648438
+  },
+  "website": "https://gracecarolina.org",
+  "listingUrl": "https://eco-pres.org/churches/waxhaw-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "waxhaw-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracecarolina.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "571139892"
+    },
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4563"
+    }
+  ],
+  "advisories": []
+}

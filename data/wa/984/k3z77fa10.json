@@ -1,0 +1,33 @@
+{
+  "id": "k3z77fa10",
+  "url": "https://constellation.church/k3z77fa10",
+  "name": "Tacoma Central Presbyterian Church",
+  "displayName": "Tacoma Central Presbyterian Church",
+  "address": {
+    "street": "8001 Pine St S",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98499"
+  },
+  "coordinates": {
+    "latitude": 47.18423080444336,
+    "longitude": -122.47319793701172
+  },
+  "website": "https://itcpc.org",
+  "listingUrl": "https://eco-pres.org/churches/tacoma-central-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "tacoma-central-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "itcpc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911239152"
+    }
+  ],
+  "advisories": []
+}

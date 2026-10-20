@@ -1,0 +1,33 @@
+{
+  "id": "bgtvey670",
+  "url": "https://constellation.church/bgtvey670",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "105 S. George Wallace Drive",
+    "city": "Troy",
+    "state": "AL",
+    "zip": "36081"
+  },
+  "coordinates": {
+    "latitude": 31.79747200012207,
+    "longitude": -85.95146179199219
+  },
+  "website": "https://troyfpc.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/470",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "470"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "troyfpc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630740481"
+    }
+  ],
+  "advisories": []
+}

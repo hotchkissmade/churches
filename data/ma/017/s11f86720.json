@@ -1,0 +1,33 @@
+{
+  "id": "s11f86720",
+  "url": "https://constellation.church/s11f86720",
+  "name": "Holy Annunciation Church",
+  "displayName": "Holy Annunciation Church",
+  "address": {
+    "street": "15 Prospect St",
+    "city": "Maynard",
+    "state": "MA",
+    "zip": "01754"
+  },
+  "coordinates": {
+    "latitude": 42.436025619506836,
+    "longitude": -71.45039749145508
+  },
+  "website": "https://holyannunciationchurch.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ne-mayhac",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ne-mayhac"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holyannunciationchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237319333"
+    }
+  ],
+  "advisories": []
+}

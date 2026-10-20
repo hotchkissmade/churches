@@ -1,0 +1,33 @@
+{
+  "id": "cjvyckn07",
+  "url": "https://constellation.church/cjvyckn07",
+  "name": "St. Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "100 7th St",
+    "city": "Ida Grove",
+    "state": "IA",
+    "zip": "51445"
+  },
+  "coordinates": {
+    "latitude": 42.338741302490234,
+    "longitude": -95.4648208618164
+  },
+  "website": "https://stpaulig.org",
+  "listingUrl": "https://idwlcms.org/congregation.php?id=89",
+  "identifiers": [
+    {
+      "namespace": "org.idwlcms.id",
+      "value": "89"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulig.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420757435"
+    }
+  ],
+  "advisories": []
+}

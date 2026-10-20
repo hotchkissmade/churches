@@ -1,0 +1,33 @@
+{
+  "id": "jwc9g9536",
+  "url": "https://constellation.church/jwc9g9536",
+  "name": "New City Fellowship",
+  "displayName": "New City Fellowship",
+  "address": {
+    "street": "200 Prince Edward Street",
+    "city": "Fredericksburg",
+    "state": "VA",
+    "zip": "22401"
+  },
+  "coordinates": {
+    "latitude": 38.2949104309082,
+    "longitude": -77.45842742919922
+  },
+  "website": "https://newcityfellowship.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1499",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1499"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newcityfellowship.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541719530"
+    }
+  ],
+  "advisories": []
+}

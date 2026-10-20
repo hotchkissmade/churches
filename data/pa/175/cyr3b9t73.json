@@ -1,0 +1,33 @@
+{
+  "id": "cyr3b9t73",
+  "url": "https://constellation.church/cyr3b9t73",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "11 N Queen St",
+    "city": "Maytown",
+    "state": "PA",
+    "zip": "17550"
+  },
+  "coordinates": {
+    "latitude": 40.07707214355469,
+    "longitude": -76.58086776733398
+  },
+  "website": "https://stjohnsmaytown.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b5f7ca85-becc-42ba-a947-cb85a1ba504b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b5f7ca85-becc-42ba-a947-cb85a1ba504b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsmaytown.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232285190"
+    }
+  ],
+  "advisories": []
+}

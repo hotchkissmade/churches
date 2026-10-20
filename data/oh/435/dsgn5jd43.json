@@ -1,0 +1,33 @@
+{
+  "id": "dsgn5jd43",
+  "url": "https://constellation.church/dsgn5jd43",
+  "name": "St Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "112 E Wayne Street",
+    "city": "Maumee",
+    "state": "OH",
+    "zip": "43537"
+  },
+  "coordinates": {
+    "latitude": 41.56179428100586,
+    "longitude": -83.65201568603516
+  },
+  "website": "https://stpaulslive.com",
+  "listingUrl": "https://lcmc.net/congregation/105639",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "105639"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulslive.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "346407842"
+    }
+  ],
+  "advisories": []
+}

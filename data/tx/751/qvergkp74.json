@@ -1,0 +1,33 @@
+{
+  "id": "qvergkp74",
+  "url": "https://constellation.church/qvergkp74",
+  "name": "Fellowship Church",
+  "displayName": "Fellowship Church",
+  "address": {
+    "street": "900 Pullen St",
+    "city": "Royse City",
+    "state": "TX",
+    "zip": "75189"
+  },
+  "coordinates": {
+    "latitude": 32.96771430969238,
+    "longitude": -96.3292236328125
+  },
+  "website": "https://fellowshiprc.com",
+  "listingUrl": "https://churches.sbc.net/church/fellowship-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "fellowship-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fellowshiprc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751912039"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "eyzqcv375",
+  "url": "https://constellation.church/eyzqcv375",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "886 N Shore Dr",
+    "city": "Forest Lake",
+    "state": "MN",
+    "zip": "55025-1222"
+  },
+  "coordinates": {
+    "latitude": 45.28807067871094,
+    "longitude": -92.98009490966797
+  },
+  "website": "https://faithfl.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=de99b841-9dda-4208-9a62-2238be708699",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "de99b841-9dda-4208-9a62-2238be708699"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithfl.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410711466"
+    }
+  ],
+  "advisories": []
+}

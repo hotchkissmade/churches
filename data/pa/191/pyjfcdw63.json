@@ -1,0 +1,37 @@
+{
+  "id": "pyjfcdw63",
+  "url": "https://constellation.church/pyjfcdw63",
+  "name": "St. Peter's Episcopal Church",
+  "displayName": "St. Peter's Episcopal Church",
+  "address": {
+    "street": "313 Pine St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19106-4299"
+  },
+  "coordinates": {
+    "latitude": 39.94321632385254,
+    "longitude": -75.14764022827148
+  },
+  "website": "https://stpetersphila.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/st-peters-episcopal-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/st-peters-episcopal-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpetersphila.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231386190"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232320783"
+    }
+  ],
+  "advisories": []
+}

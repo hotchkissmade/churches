@@ -1,0 +1,33 @@
+{
+  "id": "sfeget933",
+  "url": "https://constellation.church/sfeget933",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "25 Great Hill Rd",
+    "city": "Oxford",
+    "state": "CT",
+    "zip": "06478-1909"
+  },
+  "coordinates": {
+    "latitude": 41.40347099304199,
+    "longitude": -73.0948600769043
+  },
+  "website": "https://immanuel-oxford.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ee6927cd-bcb7-45e2-bdae-3c426d56fbd9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ee6927cd-bcb7-45e2-bdae-3c426d56fbd9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "immanuel-oxford.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "066046585"
+    }
+  ],
+  "advisories": []
+}

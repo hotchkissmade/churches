@@ -1,0 +1,33 @@
+{
+  "id": "wt3n1mx79",
+  "url": "https://constellation.church/wt3n1mx79",
+  "name": "St. George Church",
+  "displayName": "St. George Church",
+  "address": {
+    "street": "2 Nottingham Terr",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14216-3636"
+  },
+  "coordinates": {
+    "latitude": 42.94028282165527,
+    "longitude": -78.85964965820312
+  },
+  "website": "https://stgeorgebuffalo.com",
+  "listingUrl": "https://www.oca.org/parishes/oca-ny-bufagc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ny-bufagc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stgeorgebuffalo.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "061616251"
+    }
+  ],
+  "advisories": []
+}

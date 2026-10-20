@@ -1,0 +1,33 @@
+{
+  "id": "jx0mrsd33",
+  "url": "https://constellation.church/jx0mrsd33",
+  "name": "New City Church United Methodist Church",
+  "displayName": "New City Church United Methodist Church",
+  "address": {
+    "street": "3104 16th Ave S",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55407"
+  },
+  "coordinates": {
+    "latitude": 44.94630813598633,
+    "longitude": -93.25138092041016
+  },
+  "website": "https://grownewcity.church",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFJjmIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFJjmIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grownewcity.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "823808798"
+    }
+  ],
+  "advisories": []
+}

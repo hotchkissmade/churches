@@ -1,0 +1,33 @@
+{
+  "id": "x0xyz6x12",
+  "url": "https://constellation.church/x0xyz6x12",
+  "name": "St. Michael's Church Episcopal",
+  "displayName": "St. Michael's Church Episcopal",
+  "address": {
+    "street": "25 South St",
+    "city": "Litchfield",
+    "state": "CT",
+    "zip": "06759-4005"
+  },
+  "coordinates": {
+    "latitude": 41.74598693847656,
+    "longitude": -73.18831253051758
+  },
+  "website": "https://stmichaels-litchfield.org/history-of-st-michaels",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/episcopal-church-connecticut/list/st-michaels-church-episcopal",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "episcopal-church-connecticut/st-michaels-church-episcopal"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmichaels-litchfield.org/history-of-st-michaels"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "061013217"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "j0j1kqw48",
+  "url": "https://constellation.church/j0j1kqw48",
+  "name": "Woodland Presbyterian Church",
+  "displayName": "Woodland Presbyterian Church",
+  "address": {
+    "street": "3903 Lincoln Road",
+    "city": "Hattiesburg",
+    "state": "MS",
+    "zip": "39402"
+  },
+  "coordinates": {
+    "latitude": 31.304885864257812,
+    "longitude": -89.34716033935547
+  },
+  "website": "https://woodlandpca.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1128",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1128"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "woodlandpca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640358086"
+    }
+  ],
+  "advisories": []
+}

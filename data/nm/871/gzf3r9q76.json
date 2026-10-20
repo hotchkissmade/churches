@@ -1,0 +1,33 @@
+{
+  "id": "gzf3r9q76",
+  "url": "https://constellation.church/gzf3r9q76",
+  "name": "Iglesia Sinai",
+  "displayName": "Iglesia Sinai",
+  "address": {
+    "street": "1601 Bridge Blvd SW",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87105"
+  },
+  "coordinates": {
+    "latitude": 35.06566047668457,
+    "longitude": -106.67916870117188
+  },
+  "website": "https://sinaiabq.org",
+  "listingUrl": "https://churches.sbc.net/church/iglesia-sinai/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "iglesia-sinai"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sinaiabq.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850435804"
+    }
+  ],
+  "advisories": []
+}

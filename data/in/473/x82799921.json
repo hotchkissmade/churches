@@ -1,0 +1,33 @@
+{
+  "id": "x82799921",
+  "url": "https://constellation.church/x82799921",
+  "name": "First United Methodist Church",
+  "displayName": "First United Methodist Church",
+  "address": {
+    "street": "199 S Perry St",
+    "city": "Hagerstown",
+    "state": "IN",
+    "zip": "47346"
+  },
+  "coordinates": {
+    "latitude": 39.90915298461914,
+    "longitude": -85.1600227355957
+  },
+  "website": "https://firsthagerstown.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFOitIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFOitIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firsthagerstown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351080534"
+    }
+  ],
+  "advisories": []
+}

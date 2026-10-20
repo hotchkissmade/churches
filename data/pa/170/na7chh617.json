@@ -1,0 +1,33 @@
+{
+  "id": "na7chh617",
+  "url": "https://constellation.church/na7chh617",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "6839 Wertzville Rd",
+    "city": "Enola",
+    "state": "PA",
+    "zip": "17025-1033"
+  },
+  "coordinates": {
+    "latitude": 40.28580856323242,
+    "longitude": -77.01827621459961
+  },
+  "website": "https://stpaulsenola.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2b2892ed-d1b0-44d2-9a34-5ccddfac2fd2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2b2892ed-d1b0-44d2-9a34-5ccddfac2fd2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsenola.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232137853"
+    }
+  ],
+  "advisories": []
+}

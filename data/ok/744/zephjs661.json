@@ -1,0 +1,33 @@
+{
+  "id": "zephjs661",
+  "url": "https://constellation.church/zephjs661",
+  "name": "Morris Assembly of God Church",
+  "displayName": "Morris Assembly of God Church",
+  "address": {
+    "street": "206 N Hughes Ave",
+    "city": "Morris",
+    "state": "OK",
+    "zip": "74445"
+  },
+  "coordinates": {
+    "latitude": 35.61100959777832,
+    "longitude": -95.8604507446289
+  },
+  "website": "https://morrisassembly.net",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=dc39406e-e48f-4c77-b0c6-578803fc6d79&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "dc39406e-e48f-4c77-b0c6-578803fc6d79"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "morrisassembly.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760777173"
+    }
+  ],
+  "advisories": []
+}

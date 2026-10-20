@@ -1,0 +1,33 @@
+{
+  "id": "qv38cm317",
+  "url": "https://constellation.church/qv38cm317",
+  "name": "Olivet Lutheran Church",
+  "displayName": "Olivet Lutheran Church",
+  "address": {
+    "street": "5840 Monroe St",
+    "city": "Sylvania",
+    "state": "OH",
+    "zip": "43560-2200"
+  },
+  "coordinates": {
+    "latitude": 41.713623046875,
+    "longitude": -83.68206787109375
+  },
+  "website": "https://olivetsylvania.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9a968d0e-c74e-45f5-ab6c-4a176691a085",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9a968d0e-c74e-45f5-ab6c-4a176691a085"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "olivetsylvania.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "344461567"
+    }
+  ],
+  "advisories": []
+}

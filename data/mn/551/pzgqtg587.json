@@ -1,0 +1,33 @@
+{
+  "id": "pzgqtg587",
+  "url": "https://constellation.church/pzgqtg587",
+  "name": "Church of the Holy Apostles",
+  "displayName": "Church of the Holy Apostles",
+  "address": {
+    "street": "2200 Minnehaha Ave E",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip": "55119-3932"
+  },
+  "coordinates": {
+    "latitude": 44.962886810302734,
+    "longitude": -93.00776672363281
+  },
+  "website": "https://churchofha.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/church-holy-apostles",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/church-holy-apostles"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchofha.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416009003"
+    }
+  ],
+  "advisories": []
+}

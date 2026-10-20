@@ -1,0 +1,41 @@
+{
+  "id": "tvat29e08",
+  "url": "https://constellation.church/tvat29e08",
+  "name": "Christ the King Lutheran Church",
+  "displayName": "Christ the King Lutheran Church",
+  "address": {
+    "street": "13501 S Tryon Street",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28278"
+  },
+  "coordinates": {
+    "latitude": 35.09779930114746,
+    "longitude": -80.99663925170898
+  },
+  "website": "https://ctkcharlotte.org",
+  "listingUrl": "https://lcmc.net/congregation/107464",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "107464"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ctkcharlotte.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561173135"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561882762"
+    },
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-north-carolina/chapel-christ-king"
+    }
+  ],
+  "advisories": []
+}

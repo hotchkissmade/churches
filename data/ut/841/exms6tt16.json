@@ -1,0 +1,33 @@
+{
+  "id": "exms6tt16",
+  "url": "https://constellation.church/exms6tt16",
+  "name": "Unity Baptist Church",
+  "displayName": "Unity Baptist Church",
+  "address": {
+    "street": "1170 W 1000 N",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84116"
+  },
+  "coordinates": {
+    "latitude": 40.79127311706543,
+    "longitude": -111.92424011230469
+  },
+  "website": "https://unitybaptistchurchslc.com",
+  "listingUrl": "https://churches.sbc.net/church/unity-baptist-church-47/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "unity-baptist-church-47"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "unitybaptistchurchslc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "870400663"
+    }
+  ],
+  "advisories": []
+}

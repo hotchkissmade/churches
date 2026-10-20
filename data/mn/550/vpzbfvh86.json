@@ -1,0 +1,33 @@
+{
+  "id": "vpzbfvh86",
+  "url": "https://constellation.church/vpzbfvh86",
+  "name": "First English Lutheran Church",
+  "displayName": "First English Lutheran Church",
+  "address": {
+    "street": "204 2nd St NW",
+    "city": "Faribault",
+    "state": "MN",
+    "zip": "55021-5111"
+  },
+  "coordinates": {
+    "latitude": 44.29258155822754,
+    "longitude": -93.27177429199219
+  },
+  "website": "https://firstenglishfaribault.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=09225e60-bc9e-452f-bb5f-f9b634a87a40",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "09225e60-bc9e-452f-bb5f-f9b634a87a40"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstenglishfaribault.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410828568"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cvk3dmd65",
+  "url": "https://constellation.church/cvk3dmd65",
+  "name": "Stokesland Baptist Church",
+  "displayName": "Stokesland Baptist Church",
+  "address": {
+    "street": "130 Taylor St",
+    "city": "Danville",
+    "state": "VA",
+    "zip": "24541"
+  },
+  "coordinates": {
+    "latitude": 36.552181243896484,
+    "longitude": -79.46223449707031
+  },
+  "website": "https://stokeslandworshipcenter.org",
+  "listingUrl": "https://churches.sbc.net/church/stokesland-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "stokesland-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stokeslandworshipcenter.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541140860"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "z68jcqt65",
+  "url": "https://constellation.church/z68jcqt65",
+  "name": "Church of the Redeemer",
+  "displayName": "Church of the Redeemer",
+  "address": {
+    "street": "920 Caldwell Lane",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37204"
+  },
+  "coordinates": {
+    "latitude": 36.104780197143555,
+    "longitude": -86.7794189453125
+  },
+  "website": "https://redeemer-nashville.net",
+  "listingUrl": "https://www.acna.org/admin_units/701",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "701"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemer-nashville.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470942250"
+    }
+  ],
+  "advisories": []
+}

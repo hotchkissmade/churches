@@ -1,0 +1,37 @@
+{
+  "id": "dq4rchw05",
+  "url": "https://constellation.church/dq4rchw05",
+  "name": "St Mark's Lutheran Church",
+  "displayName": "St. Mark's Lutheran Church",
+  "address": {
+    "street": "615 Jones St",
+    "city": "Watertown",
+    "state": "WI",
+    "zip": "53094-3849"
+  },
+  "coordinates": {
+    "latitude": 43.19503402709961,
+    "longitude": -88.7188606262207
+  },
+  "website": "https://stmarkslutheran.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24934",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24934"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkslutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390854910"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800042072"
+    }
+  ],
+  "advisories": []
+}

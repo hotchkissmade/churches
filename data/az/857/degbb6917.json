@@ -1,0 +1,33 @@
+{
+  "id": "degbb6917",
+  "url": "https://constellation.church/degbb6917",
+  "name": "Redeemer Lutheran Church",
+  "displayName": "Redeemer Lutheran Church",
+  "address": {
+    "street": "8845 N Silverbell Rd",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85743-8438"
+  },
+  "coordinates": {
+    "latitude": 32.36700248718262,
+    "longitude": -111.13180541992188
+  },
+  "website": "https://redeemertucson.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24067",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24067"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemertucson.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860125895"
+    }
+  ],
+  "advisories": []
+}

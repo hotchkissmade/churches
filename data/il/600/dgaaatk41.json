@@ -1,0 +1,33 @@
+{
+  "id": "dgaaatk41",
+  "url": "https://constellation.church/dgaaatk41",
+  "name": "First United Methodist Church of WAUKEGAN",
+  "displayName": "First United Methodist Church of WAUKEGAN",
+  "address": {
+    "street": "128 N Martin Luther King Jr Avenue",
+    "city": "Waukegan",
+    "state": "IL",
+    "zip": "60085"
+  },
+  "coordinates": {
+    "latitude": 42.36175537109375,
+    "longitude": -87.8341064453125
+  },
+  "website": "https://waukeganfumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFECnIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFECnIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "waukeganfumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362774323"
+    }
+  ],
+  "advisories": []
+}

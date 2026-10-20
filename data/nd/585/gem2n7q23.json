@@ -1,0 +1,33 @@
+{
+  "id": "gem2n7q23",
+  "url": "https://constellation.church/gem2n7q23",
+  "name": "Capital Church",
+  "displayName": "Capital Church",
+  "address": {
+    "street": "3838 Jericho Rd",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": "58503"
+  },
+  "coordinates": {
+    "latitude": 46.84233856201172,
+    "longitude": -100.7317886352539
+  },
+  "website": "https://cccbismarck.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=3eda319e-2f2c-4c5f-9a3d-02f07ba149a8&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "3eda319e-2f2c-4c5f-9a3d-02f07ba149a8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cccbismarck.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450456475"
+    }
+  ],
+  "advisories": []
+}

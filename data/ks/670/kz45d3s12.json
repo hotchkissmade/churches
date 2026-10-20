@@ -1,0 +1,33 @@
+{
+  "id": "kz45d3s12",
+  "url": "https://constellation.church/kz45d3s12",
+  "name": "Resurrection Lutheran Church",
+  "displayName": "Resurrection Lutheran Church",
+  "address": {
+    "street": "3850 W 71st St S",
+    "city": "Haysville",
+    "state": "KS",
+    "zip": "67060-7429"
+  },
+  "coordinates": {
+    "latitude": 37.565521240234375,
+    "longitude": -97.38715362548828
+  },
+  "website": "https://rxluth.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=31fd368d-2722-427d-b56e-2213bf23e389",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "31fd368d-2722-427d-b56e-2213bf23e389"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rxluth.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "486118267"
+    }
+  ],
+  "advisories": []
+}

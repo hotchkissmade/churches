@@ -1,0 +1,33 @@
+{
+  "id": "xd3bfxd61",
+  "url": "https://constellation.church/xd3bfxd61",
+  "name": "St John",
+  "displayName": "St. John",
+  "address": {
+    "street": "10390 NE 2nd Ave",
+    "city": "Miami Shores",
+    "state": "FL",
+    "zip": "33138-2055"
+  },
+  "coordinates": {
+    "latitude": 25.869821548461914,
+    "longitude": -80.19419860839844
+  },
+  "website": "https://thrivent.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3a546f1e-eb8e-4c75-9c71-e2929b7b4a2b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3a546f1e-eb8e-4c75-9c71-e2929b7b4a2b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thrivent.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "596522047"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "z1ryzk592",
+  "url": "https://constellation.church/z1ryzk592",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "1215 Thomas St",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98109-5427"
+  },
+  "coordinates": {
+    "latitude": 47.62074661254883,
+    "longitude": -122.33198547363281
+  },
+  "website": "https://icsseattle.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=61f4e667-24a9-4810-a6f2-27c922b4c0e1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "61f4e667-24a9-4810-a6f2-27c922b4c0e1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "icsseattle.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "260881300"
+    }
+  ],
+  "advisories": []
+}

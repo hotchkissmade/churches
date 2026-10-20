@@ -1,0 +1,33 @@
+{
+  "id": "ycmw3d692",
+  "url": "https://constellation.church/ycmw3d692",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "13025 Greensburg Rd",
+    "city": "Smithsburg",
+    "state": "MD",
+    "zip": "21783"
+  },
+  "coordinates": {
+    "latitude": 39.67410850524902,
+    "longitude": -77.55279541015625
+  },
+  "website": "https://smithsburgweather.com/stpauls.html",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a3a1f010-ce90-463f-b9fd-e621e13b30ca",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a3a1f010-ce90-463f-b9fd-e621e13b30ca"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "smithsburgweather.com/stpauls.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521479889"
+    }
+  ],
+  "advisories": []
+}

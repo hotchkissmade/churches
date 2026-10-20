@@ -1,0 +1,33 @@
+{
+  "id": "snbhc9608",
+  "url": "https://constellation.church/snbhc9608",
+  "name": "Keller United Methodist Church",
+  "displayName": "Keller United Methodist Church",
+  "address": {
+    "street": "1025 Johnson Rd",
+    "city": "Keller",
+    "state": "TX",
+    "zip": "76248"
+  },
+  "coordinates": {
+    "latitude": 32.94198417663574,
+    "longitude": -97.22986602783203
+  },
+  "website": "https://kellerumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFK0UIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFK0UIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kellerumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751923750"
+    }
+  ],
+  "advisories": []
+}

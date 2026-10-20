@@ -1,0 +1,33 @@
+{
+  "id": "baggsva54",
+  "url": "https://constellation.church/baggsva54",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "418 8th Ave NE",
+    "city": "Brainerd",
+    "state": "MN",
+    "zip": "56401-2807"
+  },
+  "coordinates": {
+    "latitude": 46.363616943359375,
+    "longitude": -94.1772232055664
+  },
+  "website": "https://belcnet.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d13baaf6-de34-4d2a-8afd-17a1d9115de3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d13baaf6-de34-4d2a-8afd-17a1d9115de3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "belcnet.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410965095"
+    }
+  ],
+  "advisories": []
+}

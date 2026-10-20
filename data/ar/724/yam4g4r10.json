@@ -1,0 +1,33 @@
+{
+  "id": "yam4g4r10",
+  "url": "https://constellation.church/yam4g4r10",
+  "name": "Word Baptist Church",
+  "displayName": "Word Baptist Church",
+  "address": {
+    "street": "416 Calion Street",
+    "city": "Jonesboro",
+    "state": "AR",
+    "zip": "72401"
+  },
+  "coordinates": {
+    "latitude": 35.84941101074219,
+    "longitude": -90.69215393066406
+  },
+  "website": "https://wordbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/word-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "word-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wordbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "814635725"
+    }
+  ],
+  "advisories": []
+}

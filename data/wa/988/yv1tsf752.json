@@ -1,0 +1,33 @@
+{
+  "id": "yv1tsf752",
+  "url": "https://constellation.church/yv1tsf752",
+  "name": "Leavenworth",
+  "displayName": "Leavenworth United Methodist Church",
+  "address": {
+    "street": "418 Evans St",
+    "city": "Leavenworth",
+    "state": "WA",
+    "zip": "98826-1226"
+  },
+  "coordinates": {
+    "latitude": 47.59713363647461,
+    "longitude": -120.66238403320312
+  },
+  "website": "https://leavenworthumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFP0iIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFP0iIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "leavenworthumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911095409"
+    }
+  ],
+  "advisories": []
+}

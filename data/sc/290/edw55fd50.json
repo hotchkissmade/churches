@@ -1,0 +1,33 @@
+{
+  "id": "edw55fd50",
+  "url": "https://constellation.church/edw55fd50",
+  "name": "Kershaw First Baptist Church",
+  "displayName": "Kershaw First Baptist Church",
+  "address": {
+    "street": "210 N Matson St",
+    "city": "Kershaw",
+    "state": "SC",
+    "zip": "29067"
+  },
+  "coordinates": {
+    "latitude": 34.55025291442871,
+    "longitude": -80.58515930175781
+  },
+  "website": "https://fbckershaw.org",
+  "listingUrl": "https://churches.sbc.net/church/kershaw-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "kershaw-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbckershaw.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570364123"
+    }
+  ],
+  "advisories": []
+}

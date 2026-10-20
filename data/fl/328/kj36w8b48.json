@@ -1,0 +1,33 @@
+{
+  "id": "kj36w8b48",
+  "url": "https://constellation.church/kj36w8b48",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "7900 S Apopka Vineland Rd",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32819-5454"
+  },
+  "coordinates": {
+    "latitude": 28.45113754272461,
+    "longitude": -81.50016784667969
+  },
+  "website": "https://salemlc.net/salemstaff",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2cb080cc-d675-43bd-a135-a6988c65d4a2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2cb080cc-d675-43bd-a135-a6988c65d4a2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemlc.net/salemstaff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592257041"
+    }
+  ],
+  "advisories": []
+}

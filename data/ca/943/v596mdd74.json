@@ -1,0 +1,33 @@
+{
+  "id": "v596mdd74",
+  "url": "https://constellation.church/v596mdd74",
+  "name": "First United Methodist Church of Palo Alto",
+  "displayName": "First United Methodist Church of Palo Alto",
+  "address": {
+    "street": "625 Hamilton Avenue",
+    "city": "Palo Alto",
+    "state": "CA",
+    "zip": "94301"
+  },
+  "coordinates": {
+    "latitude": 37.449214,
+    "longitude": -122.1566548
+  },
+  "website": "https://firstpaloalto.com/worship",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKonIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKonIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpaloalto.com/worship"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "261183527"
+    }
+  ],
+  "advisories": []
+}

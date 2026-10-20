@@ -1,0 +1,33 @@
+{
+  "id": "kbr78ke14",
+  "url": "https://constellation.church/kbr78ke14",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "200 East Harrison Street",
+    "city": "Dillon",
+    "state": "SC",
+    "zip": "29536"
+  },
+  "coordinates": {
+    "latitude": 34.41723823547363,
+    "longitude": -79.37017059326172
+  },
+  "website": "https://firstpresdillon.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/457",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "457"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpresdillon.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570762568"
+    }
+  ],
+  "advisories": []
+}

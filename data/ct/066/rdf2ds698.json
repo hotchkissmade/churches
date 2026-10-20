@@ -1,0 +1,29 @@
+{
+  "id": "rdf2ds698",
+  "url": "https://constellation.church/rdf2ds698",
+  "name": "NOTRE DAME OF EASTON R C CHURCH",
+  "displayName": "Notre Dame of Easton R C Church",
+  "address": {
+    "street": "640 MOREHOUSE RD",
+    "city": "Easton",
+    "state": "CT",
+    "zip": "06612"
+  },
+  "coordinates": {
+    "latitude": 41.24977684020996,
+    "longitude": -73.29512786865234
+  },
+  "website": "https://notredameofeaston.com",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "060810952"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "notredameofeaston.com"
+    }
+  ],
+  "advisories": []
+}

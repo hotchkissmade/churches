@@ -1,0 +1,33 @@
+{
+  "id": "d0v91ap48",
+  "url": "https://constellation.church/d0v91ap48",
+  "name": "St. Anselm's Episcopal Church",
+  "displayName": "St. Anselm's Episcopal Church",
+  "address": {
+    "street": "682 Michael Ln",
+    "city": "Lafayette",
+    "state": "CA",
+    "zip": "94549-5399"
+  },
+  "coordinates": {
+    "latitude": 37.873918533325195,
+    "longitude": -122.09351348876953
+  },
+  "website": "https://stanselmslafayette.org/worship/worship-services",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-california/list/st-anselms-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-california/st-anselms-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stanselmslafayette.org/worship/worship-services"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "946050081"
+    }
+  ],
+  "advisories": []
+}

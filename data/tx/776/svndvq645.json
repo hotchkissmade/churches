@@ -1,0 +1,33 @@
+{
+  "id": "svndvq645",
+  "url": "https://constellation.church/svndvq645",
+  "name": "Central Baptist Church, Port Neches",
+  "displayName": "Central Baptist Church, Port Neches",
+  "address": {
+    "street": "903 Avenue B",
+    "city": "Port Neches",
+    "state": "TX",
+    "zip": "77651"
+  },
+  "coordinates": {
+    "latitude": 29.992597579956055,
+    "longitude": -93.95684051513672
+  },
+  "website": "https://centralbaptistchurchportnechestx.org",
+  "listingUrl": "https://churches.sbc.net/church/central-baptist-church-port-neches/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "central-baptist-church-port-neches"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centralbaptistchurchportnechestx.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760075489"
+    }
+  ],
+  "advisories": []
+}

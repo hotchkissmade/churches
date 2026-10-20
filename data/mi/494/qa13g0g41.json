@@ -1,0 +1,37 @@
+{
+  "id": "qa13g0g41",
+  "url": "https://constellation.church/qa13g0g41",
+  "name": "Hager Park Church",
+  "displayName": "Hager Park Church",
+  "address": {
+    "street": "2635 Bauer Road",
+    "city": "Jenison",
+    "state": "MI",
+    "zip": "49428"
+  },
+  "coordinates": {
+    "latitude": 42.9224967956543,
+    "longitude": -85.84819793701172
+  },
+  "website": "https://hagerpark.org",
+  "listingUrl": "https://arc21.org/churches-2/hager-park-church",
+  "identifiers": [
+    {
+      "namespace": "org.arc21.id",
+      "value": "hager-park-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hagerpark.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382249692"
+    },
+    {
+      "namespace": "org.rca.id",
+      "value": "384440"
+    }
+  ],
+  "advisories": []
+}

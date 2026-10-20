@@ -1,0 +1,33 @@
+{
+  "id": "c121qef27",
+  "url": "https://constellation.church/c121qef27",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "W8014 Minnie St",
+    "city": "Pembine",
+    "state": "WI",
+    "zip": "54156"
+  },
+  "coordinates": {
+    "latitude": 45.63575744628906,
+    "longitude": -87.99314880371094
+  },
+  "website": "https://gracelutheranpembinewi.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=511f3f60-6a3d-4352-9d8e-2afec7024fc2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "511f3f60-6a3d-4352-9d8e-2afec7024fc2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelutheranpembinewi.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391452305"
+    }
+  ],
+  "advisories": []
+}

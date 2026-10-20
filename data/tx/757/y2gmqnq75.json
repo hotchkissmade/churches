@@ -1,0 +1,33 @@
+{
+  "id": "y2gmqnq75",
+  "url": "https://constellation.church/y2gmqnq75",
+  "name": "Sylvania Church",
+  "displayName": "Sylvania Church",
+  "address": {
+    "street": "2801 SSE Loop 323",
+    "city": "Tyler",
+    "state": "TX",
+    "zip": "75701"
+  },
+  "coordinates": {
+    "latitude": 32.31866645812988,
+    "longitude": -95.26615142822266
+  },
+  "website": "https://sylvaniachurch.com",
+  "listingUrl": "https://churches.sbc.net/church/sylvania-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sylvania-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sylvaniachurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752373936"
+    }
+  ],
+  "advisories": []
+}

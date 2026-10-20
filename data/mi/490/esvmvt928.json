@@ -1,0 +1,33 @@
+{
+  "id": "esvmvt928",
+  "url": "https://constellation.church/esvmvt928",
+  "name": "St. Paul's Episcopal Church",
+  "displayName": "St. Paul's Episcopal Church",
+  "address": {
+    "street": "914 Lane Dr",
+    "city": "St Joseph",
+    "state": "MI",
+    "zip": "49085-2053"
+  },
+  "coordinates": {
+    "latitude": 42.09270477294922,
+    "longitude": -86.48092269897461
+  },
+  "website": "https://stpaulstjoe.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-western-michigan/list/st-pauls-episcopal-church-2",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-western-michigan/st-pauls-episcopal-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulstjoe.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "386027454"
+    }
+  ],
+  "advisories": []
+}

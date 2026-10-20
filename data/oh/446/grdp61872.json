@@ -1,0 +1,33 @@
+{
+  "id": "grdp61872",
+  "url": "https://constellation.church/grdp61872",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "4873 Cleveland Rd",
+    "city": "Wooster",
+    "state": "OH",
+    "zip": "44691-1131"
+  },
+  "coordinates": {
+    "latitude": 40.85867500305176,
+    "longitude": -81.92434692382812
+  },
+  "website": "https://slcw.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=54ab7d6f-2a11-4904-8fd5-d366a090874f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "54ab7d6f-2a11-4904-8fd5-d366a090874f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "slcw.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340896920"
+    }
+  ],
+  "advisories": []
+}

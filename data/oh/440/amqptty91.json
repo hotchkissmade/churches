@@ -1,0 +1,33 @@
+{
+  "id": "amqptty91",
+  "url": "https://constellation.church/amqptty91",
+  "name": "Parkman Church",
+  "displayName": "Parkman Church",
+  "address": {
+    "street": "18265 Madison Road",
+    "city": "Parkman",
+    "state": "OH",
+    "zip": "44080"
+  },
+  "coordinates": {
+    "latitude": 41.37254333496094,
+    "longitude": -81.06387329101562
+  },
+  "website": "https://parkmanchurch.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/7224",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "7224"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parkmanchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "346566411"
+    }
+  ],
+  "advisories": []
+}

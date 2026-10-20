@@ -1,0 +1,33 @@
+{
+  "id": "rpc9w8e53",
+  "url": "https://constellation.church/rpc9w8e53",
+  "name": "First Baptist Church of Calumet City",
+  "displayName": "First Baptist Church of Calumet City",
+  "address": {
+    "street": "800 Pulaski Rd",
+    "city": "Calumet City",
+    "state": "IL",
+    "zip": "60409"
+  },
+  "coordinates": {
+    "latitude": 41.615652084350586,
+    "longitude": -87.54473114013672
+  },
+  "website": "https://fbccalumetcityil.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-calumet-city/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-calumet-city"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbccalumetcityil.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363293601"
+    }
+  ],
+  "advisories": []
+}

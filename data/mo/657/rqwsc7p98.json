@@ -1,0 +1,33 @@
+{
+  "id": "rqwsc7p98",
+  "url": "https://constellation.church/rqwsc7p98",
+  "name": "LifePoint Church, Ozark",
+  "displayName": "LifePoint Church, Ozark",
+  "address": {
+    "street": "51 Riverdale Rd",
+    "city": "Ozark",
+    "state": "MO",
+    "zip": "65721"
+  },
+  "coordinates": {
+    "latitude": 36.998199462890625,
+    "longitude": -93.23133850097656
+  },
+  "website": "https://lifepointozark.com",
+  "listingUrl": "https://churches.sbc.net/church/lifepoint-church-ozark/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lifepoint-church-ozark"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lifepointozark.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "201450040"
+    }
+  ],
+  "advisories": []
+}

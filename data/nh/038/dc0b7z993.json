@@ -1,0 +1,33 @@
+{
+  "id": "dc0b7z993",
+  "url": "https://constellation.church/dc0b7z993",
+  "name": "First United Methodist Church of Rochester",
+  "displayName": "First United Methodist Church of Rochester",
+  "address": {
+    "street": "34 S Main St",
+    "city": "Rochester",
+    "state": "NH",
+    "zip": "03867"
+  },
+  "coordinates": {
+    "latitude": 43.303937911987305,
+    "longitude": -70.97505187988281
+  },
+  "website": "https://firstumcrochester.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMaZIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMaZIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstumcrochester.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "026009459"
+    }
+  ],
+  "advisories": []
+}

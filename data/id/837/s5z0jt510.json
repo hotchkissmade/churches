@@ -1,0 +1,33 @@
+{
+  "id": "s5z0jt510",
+  "url": "https://constellation.church/s5z0jt510",
+  "name": "Boise Presbyterian Church",
+  "displayName": "Boise Presbyterian Church",
+  "address": {
+    "street": "1185 West Grove Street",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83702"
+  },
+  "coordinates": {
+    "latitude": 43.61697959899902,
+    "longitude": -116.20867156982422
+  },
+  "website": "https://boisepres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6518",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6518"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "boisepres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "842558341"
+    }
+  ],
+  "advisories": []
+}

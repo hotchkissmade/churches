@@ -1,0 +1,33 @@
+{
+  "id": "jbrks1e26",
+  "url": "https://constellation.church/jbrks1e26",
+  "name": "Our Savior's Lutheran Church",
+  "displayName": "Our Savior's Lutheran Church",
+  "address": {
+    "street": "1600 W Oakland Ave",
+    "city": "Austin",
+    "state": "MN",
+    "zip": "55912-1649"
+  },
+  "coordinates": {
+    "latitude": 43.667396545410156,
+    "longitude": -92.99515533447266
+  },
+  "website": "https://oursaviorsaustin.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d05b942d-818b-4716-8c11-88daa3b98105",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d05b942d-818b-4716-8c11-88daa3b98105"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oursaviorsaustin.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410742502"
+    }
+  ],
+  "advisories": []
+}

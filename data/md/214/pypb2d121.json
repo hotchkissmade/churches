@@ -1,0 +1,33 @@
+{
+  "id": "pypb2d121",
+  "url": "https://constellation.church/pypb2d121",
+  "name": "St. Anne's Episcopal Parish",
+  "displayName": "St. Anne's Episcopal Parish",
+  "address": {
+    "street": "199 Duke of Gloucester St",
+    "city": "Annapolis",
+    "state": "MD",
+    "zip": "21401"
+  },
+  "coordinates": {
+    "latitude": 38.97844123840332,
+    "longitude": -76.49273300170898
+  },
+  "website": "https://stannes-annapolis.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maryland/list/st-annes-episcopal-parish",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maryland/st-annes-episcopal-parish"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stannes-annapolis.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520607885"
+    }
+  ],
+  "advisories": []
+}

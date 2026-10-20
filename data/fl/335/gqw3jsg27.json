@@ -1,0 +1,33 @@
+{
+  "id": "gqw3jsg27",
+  "url": "https://constellation.church/gqw3jsg27",
+  "name": "Wiregrass Church",
+  "displayName": "Wiregrass Church",
+  "address": {
+    "street": "28125 County Line Rd",
+    "city": "Wesley Chapel",
+    "state": "FL",
+    "zip": "33543"
+  },
+  "coordinates": {
+    "latitude": 28.173404693603516,
+    "longitude": -82.35052490234375
+  },
+  "website": "https://wiregrass.church",
+  "listingUrl": "https://churches.sbc.net/church/wiregrass-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "wiregrass-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wiregrass.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "260319925"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "qsh4jx814",
+  "url": "https://constellation.church/qsh4jx814",
+  "name": "Fort Mill First Baptist Church",
+  "displayName": "Fort Mill First Baptist Church",
+  "address": {
+    "street": "121 Monroe White St",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29715"
+  },
+  "coordinates": {
+    "latitude": 35.00577354431152,
+    "longitude": -80.94067764282227
+  },
+  "website": "https://fbcfm.com",
+  "listingUrl": "https://churches.sbc.net/church/fort-mill-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "fort-mill-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcfm.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570402023"
+    }
+  ],
+  "advisories": []
+}

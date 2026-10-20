@@ -1,0 +1,33 @@
+{
+  "id": "cfme2w070",
+  "url": "https://constellation.church/cfme2w070",
+  "name": "The First Baptist Church of Stockbridge, Inc.",
+  "displayName": "The First Baptist Church of Stockbridge",
+  "address": {
+    "street": "4566 N Henry Blvd",
+    "city": "Stockbridge",
+    "state": "GA",
+    "zip": "30281"
+  },
+  "coordinates": {
+    "latitude": 33.54446601867676,
+    "longitude": -84.22935104370117
+  },
+  "website": "https://firstbaptiststockbridge.org",
+  "listingUrl": "https://churches.sbc.net/church/the-first-baptist-church-of-stockbridge-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-first-baptist-church-of-stockbridge-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptiststockbridge.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581111502"
+    }
+  ],
+  "advisories": []
+}

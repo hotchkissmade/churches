@@ -1,0 +1,33 @@
+{
+  "id": "f6kyz5g03",
+  "url": "https://constellation.church/f6kyz5g03",
+  "name": "Holy Trinity Lutheran Church",
+  "displayName": "Holy Trinity Lutheran Church",
+  "address": {
+    "street": "103 Delaware Crest Dr",
+    "city": "Dingmans Ferry",
+    "state": "PA",
+    "zip": "18328-9561"
+  },
+  "coordinates": {
+    "latitude": 41.23593521118164,
+    "longitude": -74.8984489440918
+  },
+  "website": "https://htlcpa.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=10adbdb3-cfb1-48a5-872d-ed8506e86bfa",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "10adbdb3-cfb1-48a5-872d-ed8506e86bfa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "htlcpa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231666500"
+    }
+  ],
+  "advisories": []
+}

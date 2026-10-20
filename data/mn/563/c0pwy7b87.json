@@ -1,0 +1,33 @@
+{
+  "id": "c0pwy7b87",
+  "url": "https://constellation.church/c0pwy7b87",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "5500 County Rd 14 NE",
+    "city": "Miltona",
+    "state": "MN",
+    "zip": "56354"
+  },
+  "coordinates": {
+    "latitude": 46.06379318237305,
+    "longitude": -95.37100219726562
+  },
+  "website": "https://faithlutheranmiltona.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f7e0c3a4-17c7-4849-a7bb-f4717618d87a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f7e0c3a4-17c7-4849-a7bb-f4717618d87a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithlutheranmiltona.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411399193"
+    }
+  ],
+  "advisories": []
+}

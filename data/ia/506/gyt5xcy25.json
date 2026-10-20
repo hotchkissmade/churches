@@ -1,0 +1,33 @@
+{
+  "id": "gyt5xcy25",
+  "url": "https://constellation.church/gyt5xcy25",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "422 N Prairie St",
+    "city": "Shell Rock",
+    "state": "IA",
+    "zip": "50670"
+  },
+  "coordinates": {
+    "latitude": 42.713430404663086,
+    "longitude": -92.57682800292969
+  },
+  "website": "https://faithsr.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=97a39d67-934f-43d0-bd64-ee0bda756cb3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "97a39d67-934f-43d0-bd64-ee0bda756cb3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithsr.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421239055"
+    }
+  ],
+  "advisories": []
+}

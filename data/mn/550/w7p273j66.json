@@ -1,0 +1,33 @@
+{
+  "id": "w7p273j66",
+  "url": "https://constellation.church/w7p273j66",
+  "name": "United Lutheran Church",
+  "displayName": "United Lutheran Church",
+  "address": {
+    "street": "628 W 5th St",
+    "city": "Red Wing",
+    "state": "MN",
+    "zip": "55066-2457"
+  },
+  "coordinates": {
+    "latitude": 44.56210708618164,
+    "longitude": -92.53590393066406
+  },
+  "website": "https://unitedlutheranchurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=479e78fb-cad6-4ad5-bfe0-711c1f383527",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "479e78fb-cad6-4ad5-bfe0-711c1f383527"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "unitedlutheranchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410832481"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ka9nqdx08",
+  "url": "https://constellation.church/ka9nqdx08",
+  "name": "St. Francis of Assisi Parish",
+  "displayName": "St. Francis of Assisi Parish",
+  "address": {
+    "street": "8818 SW Miley Rd",
+    "city": "Wilsonville",
+    "state": "OR",
+    "zip": "97070"
+  },
+  "coordinates": {
+    "latitude": 45.28255271911621,
+    "longitude": -122.76750183105469
+  },
+  "website": "https://stfranciswilsonville.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-oregon/list/st-francis-assisi-parish",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-oregon/st-francis-assisi-parish"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stfranciswilsonville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930821531"
+    }
+  ],
+  "advisories": []
+}

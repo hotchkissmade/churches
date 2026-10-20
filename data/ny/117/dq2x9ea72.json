@@ -1,0 +1,33 @@
+{
+  "id": "dq2x9ea72",
+  "url": "https://constellation.church/dq2x9ea72",
+  "name": "Trinity church",
+  "displayName": "Trinity church",
+  "address": {
+    "street": "130 Main Street",
+    "city": "Northport",
+    "state": "NY",
+    "zip": "11768"
+  },
+  "coordinates": {
+    "latitude": 40.900339126586914,
+    "longitude": -73.3495101928711
+  },
+  "website": "https://trinityec.com",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/trinity-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/trinity-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityec.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111775939"
+    }
+  ],
+  "advisories": []
+}

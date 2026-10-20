@@ -1,0 +1,33 @@
+{
+  "id": "ypn668704",
+  "url": "https://constellation.church/ypn668704",
+  "name": "New Jerusalem Lutheran Church",
+  "displayName": "New Jerusalem Lutheran Church",
+  "address": {
+    "street": "3233 Apples Church Rd",
+    "city": "Bethlehem",
+    "state": "PA",
+    "zip": "18015-5802"
+  },
+  "coordinates": {
+    "latitude": 40.555564880371094,
+    "longitude": -75.34272766113281
+  },
+  "website": "https://newjerlc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b5b912dc-f7fc-4130-a24d-09ba9403a567",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b5b912dc-f7fc-4130-a24d-09ba9403a567"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newjerlc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "240840609"
+    }
+  ],
+  "advisories": []
+}

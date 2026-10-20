@@ -1,0 +1,33 @@
+{
+  "id": "qzeqvfc34",
+  "url": "https://constellation.church/qzeqvfc34",
+  "name": "First Southern Baptist Church",
+  "displayName": "First Southern Baptist Church",
+  "address": {
+    "street": "1912 SW Gage Blvd.",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66604"
+  },
+  "coordinates": {
+    "latitude": 39.03288650512695,
+    "longitude": -95.72452545166016
+  },
+  "website": "https://fsbctopeka.org",
+  "listingUrl": "https://churches.sbc.net/church/first-southern-baptist-church-26/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-southern-baptist-church-26"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fsbctopeka.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480646853"
+    }
+  ],
+  "advisories": []
+}

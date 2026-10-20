@@ -1,0 +1,33 @@
+{
+  "id": "ew707ep90",
+  "url": "https://constellation.church/ew707ep90",
+  "name": "Union Church",
+  "displayName": "Union Church",
+  "address": {
+    "street": "485 Columbus Ave",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02118"
+  },
+  "coordinates": {
+    "latitude": 42.34311294555664,
+    "longitude": -71.0790901184082
+  },
+  "website": "https://unionboston.org/oldwest",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFGhHIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFGhHIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "unionboston.org/oldwest"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042178874"
+    }
+  ],
+  "advisories": []
+}

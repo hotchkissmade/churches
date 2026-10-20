@@ -1,0 +1,33 @@
+{
+  "id": "k9r11hm16",
+  "url": "https://constellation.church/k9r11hm16",
+  "name": "Church of the Ascension",
+  "displayName": "Church of the Ascension",
+  "address": {
+    "street": "600 Gilpin St",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80218-3632"
+  },
+  "coordinates": {
+    "latitude": 39.72590637207031,
+    "longitude": -104.96693420410156
+  },
+  "website": "https://ascensiondenver.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/episcopal-church-colorado/list/church-ascension",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "episcopal-church-colorado/church-ascension"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ascensiondenver.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840407216"
+    }
+  ],
+  "advisories": []
+}

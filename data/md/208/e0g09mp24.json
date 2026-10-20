@@ -1,0 +1,33 @@
+{
+  "id": "e0g09mp24",
+  "url": "https://constellation.church/e0g09mp24",
+  "name": "The Way",
+  "displayName": "The Way",
+  "address": {
+    "street": "8100 Midcounty Hwy",
+    "city": "Gaithersburg",
+    "state": "MD",
+    "zip": "20877"
+  },
+  "coordinates": {
+    "latitude": 39.14205360412598,
+    "longitude": -77.16364288330078
+  },
+  "website": "https://theway-md.org",
+  "listingUrl": "https://churches.sbc.net/church/the-way/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-way"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "theway-md.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "882598165"
+    }
+  ],
+  "advisories": []
+}

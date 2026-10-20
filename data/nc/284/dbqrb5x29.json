@@ -1,0 +1,33 @@
+{
+  "id": "dbqrb5x29",
+  "url": "https://constellation.church/dbqrb5x29",
+  "name": "Lutheran Church of Reconciliation",
+  "displayName": "Lutheran Church of Reconciliation",
+  "address": {
+    "street": "7500 Market St",
+    "city": "Wilmington",
+    "state": "NC",
+    "zip": "28411-9455"
+  },
+  "coordinates": {
+    "latitude": 34.28031349182129,
+    "longitude": -77.81152725219727
+  },
+  "website": "https://mylcor.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=00748af0-48e9-4dc0-badc-387a8f3dd81a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "00748af0-48e9-4dc0-badc-387a8f3dd81a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mylcor.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561506720"
+    }
+  ],
+  "advisories": []
+}

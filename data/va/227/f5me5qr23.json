@@ -1,0 +1,33 @@
+{
+  "id": "f5me5qr23",
+  "url": "https://constellation.church/f5me5qr23",
+  "name": "Bealeton Baptist Church",
+  "displayName": "Bealeton Baptist Church",
+  "address": {
+    "street": "11172 Remington Rd",
+    "city": "Bealeton",
+    "state": "VA",
+    "zip": "22712"
+  },
+  "coordinates": {
+    "latitude": 38.574180603027344,
+    "longitude": -77.76470947265625
+  },
+  "website": "https://bealetonbc.org",
+  "listingUrl": "https://churches.sbc.net/church/bealeton-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bealeton-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bealetonbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541303064"
+    }
+  ],
+  "advisories": []
+}

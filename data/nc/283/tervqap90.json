@@ -1,0 +1,33 @@
+{
+  "id": "tervqap90",
+  "url": "https://constellation.church/tervqap90",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "202 W 24th St",
+    "city": "Lumberton",
+    "state": "NC",
+    "zip": "28358-3616"
+  },
+  "coordinates": {
+    "latitude": 34.63464546203613,
+    "longitude": -79.00993728637695
+  },
+  "website": "https://stmarkslnc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f934c98d-4c1b-4e36-bbdc-5d564b5a2832",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f934c98d-4c1b-4e36-bbdc-5d564b5a2832"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkslnc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561356395"
+    }
+  ],
+  "advisories": []
+}

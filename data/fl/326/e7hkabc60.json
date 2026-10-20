@@ -1,0 +1,33 @@
+{
+  "id": "e7hkabc60",
+  "url": "https://constellation.church/e7hkabc60",
+  "name": "Rock Sink Baptist Church",
+  "displayName": "Rock Sink Baptist Church",
+  "address": {
+    "street": "471 NE 816th Ave",
+    "city": "Old Town",
+    "state": "FL",
+    "zip": "32680"
+  },
+  "coordinates": {
+    "latitude": 29.781646728515625,
+    "longitude": -82.96712112426758
+  },
+  "website": "https://rocksinkbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/rock-sink-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "rock-sink-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rocksinkbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592056029"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "psfah6733",
+  "url": "https://constellation.church/psfah6733",
+  "name": "Bartram Baptist Church",
+  "displayName": "Bartram Baptist Church",
+  "address": {
+    "street": "13233 Old St Augustine Rd",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32258"
+  },
+  "coordinates": {
+    "latitude": 30.146896362304688,
+    "longitude": -81.56361770629883
+  },
+  "website": "https://bartrambaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/bartram-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bartram-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bartrambaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593048133"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "t4chs3314",
+  "url": "https://constellation.church/t4chs3314",
+  "name": "Sycamore Hills Baptist Church",
+  "displayName": "Sycamore Hills Baptist Church",
+  "address": {
+    "street": "15200 E 39th St S",
+    "city": "Independence",
+    "state": "MO",
+    "zip": "64055"
+  },
+  "coordinates": {
+    "latitude": 39.0501914,
+    "longitude": -94.3988162
+  },
+  "website": "https://shbc.net",
+  "listingUrl": "https://churches.sbc.net/church/sycamore-hills-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sycamore-hills-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "shbc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "446015633"
+    }
+  ],
+  "advisories": []
+}

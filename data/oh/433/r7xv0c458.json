@@ -1,0 +1,33 @@
+{
+  "id": "r7xv0c458",
+  "url": "https://constellation.church/r7xv0c458",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "120 N 8th St",
+    "city": "Upper Sandusky",
+    "state": "OH",
+    "zip": "43351-1302"
+  },
+  "coordinates": {
+    "latitude": 40.82780075073242,
+    "longitude": -83.28540420532227
+  },
+  "website": "https://stpaulupper.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=522e2a74-7a97-4fb8-b35a-7fee7e83d38a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "522e2a74-7a97-4fb8-b35a-7fee7e83d38a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulupper.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341272159"
+    }
+  ],
+  "advisories": []
+}

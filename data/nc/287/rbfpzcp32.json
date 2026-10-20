@@ -1,0 +1,33 @@
+{
+  "id": "rbfpzcp32",
+  "url": "https://constellation.church/rbfpzcp32",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "79 Academy St",
+    "city": "Marion",
+    "state": "NC",
+    "zip": "28752-3901"
+  },
+  "coordinates": {
+    "latitude": 35.68436241149902,
+    "longitude": -82.01216125488281
+  },
+  "website": "https://firstpresmarion.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/20989/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "20989"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpresmarion.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561364057"
+    }
+  ],
+  "advisories": []
+}

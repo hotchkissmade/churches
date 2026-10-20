@@ -1,0 +1,37 @@
+{
+  "id": "v4eds9x76",
+  "url": "https://constellation.church/v4eds9x76",
+  "name": "Saint Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "721 S State St",
+    "city": "Fall Creek",
+    "state": "WI",
+    "zip": "54742-9794"
+  },
+  "coordinates": {
+    "latitude": 44.756595611572266,
+    "longitude": -91.27745056152344
+  },
+  "website": "https://stpaulstjohn.com",
+  "listingUrl": "https://locator.lcms.org/church/C/306807",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "306807"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulstjohn.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391131065"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391131346"
+    }
+  ],
+  "advisories": []
+}

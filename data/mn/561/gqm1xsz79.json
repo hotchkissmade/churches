@@ -1,0 +1,33 @@
+{
+  "id": "gqm1xsz79",
+  "url": "https://constellation.church/gqm1xsz79",
+  "name": "Amo Lutheran Church",
+  "displayName": "Amo Lutheran Church",
+  "address": {
+    "street": "35368 County Road 5",
+    "city": "Storden",
+    "state": "MN",
+    "zip": "56174-2075"
+  },
+  "coordinates": {
+    "latitude": 43.973127365112305,
+    "longitude": -95.32093048095703
+  },
+  "website": "https://amolutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dfe4ba94-8a09-4de9-b31c-f17f297b386d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "dfe4ba94-8a09-4de9-b31c-f17f297b386d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "amolutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411354431"
+    }
+  ],
+  "advisories": []
+}

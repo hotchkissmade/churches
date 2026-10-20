@@ -1,0 +1,33 @@
+{
+  "id": "mac8sxe54",
+  "url": "https://constellation.church/mac8sxe54",
+  "name": "St Philip Lutheran Church",
+  "displayName": "St. Philip Lutheran Church",
+  "address": {
+    "street": "1790 Fort St",
+    "city": "Trenton",
+    "state": "MI",
+    "zip": "48183-2008"
+  },
+  "coordinates": {
+    "latitude": 42.15180778503418,
+    "longitude": -83.18930435180664
+  },
+  "website": "https://stphilipelca.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=817df01d-e629-4fd0-a0bc-1b6c75b1c3c9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "817df01d-e629-4fd0-a0bc-1b6c75b1c3c9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stphilipelca.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382548682"
+    }
+  ],
+  "advisories": []
+}

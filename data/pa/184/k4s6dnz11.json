@@ -1,0 +1,33 @@
+{
+  "id": "k4s6dnz11",
+  "url": "https://constellation.church/k4s6dnz11",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "515 Main St.",
+    "city": "Gouldsboro",
+    "state": "PA",
+    "zip": "18424"
+  },
+  "coordinates": {
+    "latitude": 41.244956970214844,
+    "longitude": -75.45627975463867
+  },
+  "website": "https://gracelutheranelca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c5854c1a-4002-4ffc-b7aa-c3ff45c96c51",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c5854c1a-4002-4ffc-b7aa-c3ff45c96c51"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelutheranelca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232310482"
+    }
+  ],
+  "advisories": []
+}

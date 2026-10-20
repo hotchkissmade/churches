@@ -1,0 +1,33 @@
+{
+  "id": "bkg7x1045",
+  "url": "https://constellation.church/bkg7x1045",
+  "name": "Temple Baptist Church of Dalton, Inc.",
+  "displayName": "Temple Baptist Church of Dalton",
+  "address": {
+    "street": "2310 S Dixie Hwy",
+    "city": "Dalton",
+    "state": "GA",
+    "zip": "30720"
+  },
+  "coordinates": {
+    "latitude": 34.733259201049805,
+    "longitude": -84.97705841064453
+  },
+  "website": "https://templebaptist.church",
+  "listingUrl": "https://churches.sbc.net/church/temple-baptist-church-of-dalton-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "temple-baptist-church-of-dalton-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "templebaptist.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "582044492"
+    }
+  ],
+  "advisories": []
+}

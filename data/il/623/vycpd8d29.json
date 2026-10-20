@@ -1,0 +1,33 @@
+{
+  "id": "vycpd8d29",
+  "url": "https://constellation.church/vycpd8d29",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "333 S 36th St",
+    "city": "Quincy",
+    "state": "IL",
+    "zip": "62305"
+  },
+  "coordinates": {
+    "latitude": 39.92766761779785,
+    "longitude": -91.3570556640625
+  },
+  "website": "https://clcquincy.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fcb987f7-afec-49cb-90c8-c1de553a3c72",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fcb987f7-afec-49cb-90c8-c1de553a3c72"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clcquincy.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370866216"
+    }
+  ],
+  "advisories": []
+}

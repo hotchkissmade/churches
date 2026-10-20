@@ -1,0 +1,33 @@
+{
+  "id": "j2356be63",
+  "url": "https://constellation.church/j2356be63",
+  "name": "Wayland United Methodist Church",
+  "displayName": "Wayland United Methodist Church",
+  "address": {
+    "street": "200 Church St",
+    "city": "Wayland",
+    "state": "MI",
+    "zip": "49348-1203"
+  },
+  "coordinates": {
+    "latitude": 42.67523765563965,
+    "longitude": -85.64480972290039
+  },
+  "website": "https://waylandumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFL2GIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFL2GIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "waylandumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382084869"
+    }
+  ],
+  "advisories": []
+}

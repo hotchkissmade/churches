@@ -1,0 +1,33 @@
+{
+  "id": "b9qq9v691",
+  "url": "https://constellation.church/b9qq9v691",
+  "name": "Hilton Presbyterian Church",
+  "displayName": "Hilton Presbyterian Church",
+  "address": {
+    "street": "34 Main St",
+    "city": "Newport News",
+    "state": "VA",
+    "zip": "23601"
+  },
+  "coordinates": {
+    "latitude": 37.02914810180664,
+    "longitude": -76.46334457397461
+  },
+  "website": "https://hiltonpres.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/23088/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "23088"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hiltonpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540718857"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ktpym1b11",
+  "url": "https://constellation.church/ktpym1b11",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "335 W 1st St",
+    "city": "Tea",
+    "state": "SD",
+    "zip": "57064-2124"
+  },
+  "coordinates": {
+    "latitude": 43.445858001708984,
+    "longitude": -96.84059143066406
+  },
+  "website": "https://teatrinity.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c79d7ad6-3f74-4867-beac-b33d80ff4bb4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c79d7ad6-3f74-4867-beac-b33d80ff4bb4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "teatrinity.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460379138"
+    }
+  ],
+  "advisories": []
+}

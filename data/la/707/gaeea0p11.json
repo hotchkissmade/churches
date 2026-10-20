@@ -1,0 +1,33 @@
+{
+  "id": "gaeea0p11",
+  "url": "https://constellation.church/gaeea0p11",
+  "name": "Plains Presbyterian Church",
+  "displayName": "Plains Presbyterian Church",
+  "address": {
+    "street": "22929 Old Scenic Highway #964",
+    "city": "Zachary",
+    "state": "LA",
+    "zip": "70791"
+  },
+  "coordinates": {
+    "latitude": 30.689056396484375,
+    "longitude": -91.20558166503906
+  },
+  "website": "https://plainspres.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/839",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "839"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "plainspres.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "720821051"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ex8dj3v39",
+  "url": "https://constellation.church/ex8dj3v39",
+  "name": "Redeemer Baptist Church",
+  "displayName": "Redeemer Baptist Church",
+  "address": {
+    "street": "5995 Martin Luther King Dr S",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33705"
+  },
+  "coordinates": {
+    "latitude": 27.71413230895996,
+    "longitude": -82.64737701416016
+  },
+  "website": "https://lakewoodunitedmethodist.org",
+  "listingUrl": "https://churches.sbc.net/church/redeemer-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "redeemer-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lakewoodunitedmethodist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590954123"
+    },
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFNyjIAH"
+    }
+  ],
+  "advisories": []
+}

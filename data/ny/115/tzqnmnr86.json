@@ -1,0 +1,33 @@
+{
+  "id": "tzqnmnr86",
+  "url": "https://constellation.church/tzqnmnr86",
+  "name": "Trinity church",
+  "displayName": "Trinity church",
+  "address": {
+    "street": "1579 Northern Blvd",
+    "city": "Roslyn",
+    "state": "NY",
+    "zip": "11576"
+  },
+  "coordinates": {
+    "latitude": 40.80499839782715,
+    "longitude": -73.64488983154297
+  },
+  "website": "https://trinityroslyn.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/trinity-episcopal-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/trinity-episcopal-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityroslyn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111771937"
+    }
+  ],
+  "advisories": []
+}

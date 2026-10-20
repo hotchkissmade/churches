@@ -1,0 +1,33 @@
+{
+  "id": "q9azpn094",
+  "url": "https://constellation.church/q9azpn094",
+  "name": "Eastside Baptist Church",
+  "displayName": "Eastside Baptist Church",
+  "address": {
+    "street": "701 Boulevard Rd",
+    "city": "Sumter",
+    "state": "SC",
+    "zip": "29153"
+  },
+  "coordinates": {
+    "latitude": 33.9090633392334,
+    "longitude": -80.32048034667969
+  },
+  "website": "https://eastsidebaptistsumter.com",
+  "listingUrl": "https://churches.sbc.net/church/eastside-baptist-church-18/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "eastside-baptist-church-18"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastsidebaptistsumter.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "300254251"
+    }
+  ],
+  "advisories": []
+}

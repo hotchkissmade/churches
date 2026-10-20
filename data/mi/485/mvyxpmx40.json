@@ -1,0 +1,33 @@
+{
+  "id": "mvyxpmx40",
+  "url": "https://constellation.church/mvyxpmx40",
+  "name": "Good Church",
+  "displayName": "Good Church",
+  "address": {
+    "street": "1034 E Holbrook Ave",
+    "city": "Flint",
+    "state": "MI",
+    "zip": "48505"
+  },
+  "coordinates": {
+    "latitude": 43.072383880615234,
+    "longitude": -83.68617630004883
+  },
+  "website": "https://goodchurch.life",
+  "listingUrl": "https://churches.sbc.net/church/good-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "good-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodchurch.life"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330993350"
+    }
+  ],
+  "advisories": []
+}

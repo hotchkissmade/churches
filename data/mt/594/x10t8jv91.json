@@ -1,0 +1,33 @@
+{
+  "id": "x10t8jv91",
+  "url": "https://constellation.church/x10t8jv91",
+  "name": "Our Savior's Lutheran Church",
+  "displayName": "Our Savior's Lutheran Church",
+  "address": {
+    "street": "1326 1st Ave N",
+    "city": "Great Falls",
+    "state": "MT",
+    "zip": "59401-3203"
+  },
+  "coordinates": {
+    "latitude": 47.50617980957031,
+    "longitude": -111.2835693359375
+  },
+  "website": "https://oslcgreatfalls.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=762018f1-12a0-4459-911d-15804da776e3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "762018f1-12a0-4459-911d-15804da776e3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oslcgreatfalls.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "816007000"
+    }
+  ],
+  "advisories": []
+}

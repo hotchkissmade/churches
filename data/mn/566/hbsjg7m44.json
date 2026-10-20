@@ -1,0 +1,33 @@
+{
+  "id": "hbsjg7m44",
+  "url": "https://constellation.church/hbsjg7m44",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "900 Bemidji Ave N",
+    "city": "Bemidji",
+    "state": "MN",
+    "zip": "56601-2865"
+  },
+  "coordinates": {
+    "latitude": 47.4769401550293,
+    "longitude": -94.87907409667969
+  },
+  "website": "https://flcbemidji.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1df1dfe3-aaa6-4313-ac34-d755f35780ef",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1df1dfe3-aaa6-4313-ac34-d755f35780ef"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcbemidji.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410807572"
+    }
+  ],
+  "advisories": []
+}

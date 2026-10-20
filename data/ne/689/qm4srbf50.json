@@ -1,0 +1,33 @@
+{
+  "id": "qm4srbf50",
+  "url": "https://constellation.church/qm4srbf50",
+  "name": "Trinity Church",
+  "displayName": "Trinity Church",
+  "address": {
+    "street": "613 18th Ave",
+    "city": "Holdrege",
+    "state": "NE",
+    "zip": "68949-1199"
+  },
+  "coordinates": {
+    "latitude": 40.45326805114746,
+    "longitude": -99.37134552001953
+  },
+  "website": "https://trinityholdrege.org",
+  "listingUrl": "https://churches.efca.org/?id=12139",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12139"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityholdrege.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470393359"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rgy2nyd86",
+  "url": "https://constellation.church/rgy2nyd86",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "22975 24th Ave S",
+    "city": "Des Moines",
+    "state": "WA",
+    "zip": "98198-7109"
+  },
+  "coordinates": {
+    "latitude": 47.39658737182617,
+    "longitude": -122.30126953125
+  },
+  "website": "https://gotgrace.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=67bf3e0a-4565-498e-8c8e-9625b9c6570e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "67bf3e0a-4565-498e-8c8e-9625b9c6570e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gotgrace.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910726292"
+    }
+  ],
+  "advisories": []
+}

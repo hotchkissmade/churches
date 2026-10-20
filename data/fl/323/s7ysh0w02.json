@@ -1,0 +1,33 @@
+{
+  "id": "s7ysh0w02",
+  "url": "https://constellation.church/s7ysh0w02",
+  "name": "Chapel Hill Baptist Church",
+  "displayName": "Chapel Hill Baptist Church",
+  "address": {
+    "street": "3413 Old Bainbridge Road",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32303"
+  },
+  "coordinates": {
+    "latitude": 30.496173858642578,
+    "longitude": -84.33100891113281
+  },
+  "website": "https://chapelhillfamily.org",
+  "listingUrl": "https://churches.sbc.net/church/chapel-hill-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "chapel-hill-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chapelhillfamily.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "204485273"
+    }
+  ],
+  "advisories": []
+}

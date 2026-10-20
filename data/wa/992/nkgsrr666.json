@@ -1,0 +1,33 @@
+{
+  "id": "nkgsrr666",
+  "url": "https://constellation.church/nkgsrr666",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "316 E 24th Ave",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99203-2404"
+  },
+  "coordinates": {
+    "latitude": 47.63251495361328,
+    "longitude": -117.40546417236328
+  },
+  "website": "https://stmarks-spokane.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cc9e9983-962c-4020-94b0-eecbe9cfcc20",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cc9e9983-962c-4020-94b0-eecbe9cfcc20"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarks-spokane.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910751003"
+    }
+  ],
+  "advisories": []
+}

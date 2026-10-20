@@ -1,0 +1,33 @@
+{
+  "id": "hwg4z1280",
+  "url": "https://constellation.church/hwg4z1280",
+  "name": "Edmonds United Methodist Church",
+  "displayName": "Edmonds United Methodist Church",
+  "address": {
+    "street": "828 Caspers St",
+    "city": "Edmonds",
+    "state": "WA",
+    "zip": "98020-2618"
+  },
+  "coordinates": {
+    "latitude": 47.81720733642578,
+    "longitude": -122.36900329589844
+  },
+  "website": "https://edmondsumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF5rkIAD",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF5rkIAD"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "edmondsumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910652053"
+    }
+  ],
+  "advisories": []
+}

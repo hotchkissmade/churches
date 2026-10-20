@@ -1,0 +1,33 @@
+{
+  "id": "x85qqc339",
+  "url": "https://constellation.church/x85qqc339",
+  "name": "St Thomas Lutheran Church",
+  "displayName": "St. Thomas Lutheran Church",
+  "address": {
+    "street": "3800 E 3rd St",
+    "city": "Bloomington",
+    "state": "IN",
+    "zip": "47401-5510"
+  },
+  "coordinates": {
+    "latitude": 39.16362953186035,
+    "longitude": -86.48159408569336
+  },
+  "website": "https://stlconline.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=07fe8815-d790-4201-b1d9-cb9799e61a00",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "07fe8815-d790-4201-b1d9-cb9799e61a00"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlconline.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351521078"
+    }
+  ],
+  "advisories": []
+}

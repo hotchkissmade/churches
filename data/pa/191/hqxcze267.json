@@ -1,0 +1,33 @@
+{
+  "id": "hqxcze267",
+  "url": "https://constellation.church/hqxcze267",
+  "name": "Church of St. Martin in the Fields",
+  "displayName": "Church of St. Martin in the Fields",
+  "address": {
+    "street": "8000 Saint Martins Ln",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19118-4101"
+  },
+  "coordinates": {
+    "latitude": 40.06542778015137,
+    "longitude": -75.20661163330078
+  },
+  "website": "https://stmartinec.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/church-st-martin-fields",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/church-st-martin-fields"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmartinec.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231352390"
+    }
+  ],
+  "advisories": []
+}

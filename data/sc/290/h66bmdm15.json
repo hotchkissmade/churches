@@ -1,0 +1,33 @@
+{
+  "id": "h66bmdm15",
+  "url": "https://constellation.church/h66bmdm15",
+  "name": "Red Bank Baptist Church",
+  "displayName": "Red Bank Baptist Church",
+  "address": {
+    "street": "1357 S Lake Dr",
+    "city": "Lexington",
+    "state": "SC",
+    "zip": "29073"
+  },
+  "coordinates": {
+    "latitude": 33.937543869018555,
+    "longitude": -81.23749160766602
+  },
+  "website": "https://redbankchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/red-bank-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "red-bank-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redbankchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "576058587"
+    }
+  ],
+  "advisories": []
+}

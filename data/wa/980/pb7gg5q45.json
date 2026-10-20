@@ -1,0 +1,33 @@
+{
+  "id": "pb7gg5q45",
+  "url": "https://constellation.church/pb7gg5q45",
+  "name": "St Matthew Lutheran Church",
+  "displayName": "St. Matthew Lutheran Church",
+  "address": {
+    "street": "1700 Edmonds Ave NE",
+    "city": "Renton",
+    "state": "WA",
+    "zip": "98056-2713"
+  },
+  "coordinates": {
+    "latitude": 47.50706481933594,
+    "longitude": -122.18477630615234
+  },
+  "website": "https://stmatthewsrenton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a86d6bd7-c691-4d3d-8770-0e0cbd05f932",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a86d6bd7-c691-4d3d-8770-0e0cbd05f932"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmatthewsrenton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911019006"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "stbt41666",
+  "url": "https://constellation.church/stbt41666",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "304 Tilson St",
+    "city": "Sitka",
+    "state": "AK",
+    "zip": "99835-7131"
+  },
+  "coordinates": {
+    "latitude": 57.06293869018555,
+    "longitude": -135.3467559814453
+  },
+  "website": "https://sitkalutheran.net",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24718",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24718"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sitkalutheran.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920076066"
+    }
+  ],
+  "advisories": []
+}

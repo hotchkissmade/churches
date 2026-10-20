@@ -1,0 +1,33 @@
+{
+  "id": "anapg8083",
+  "url": "https://constellation.church/anapg8083",
+  "name": "St Matthew Lutheran Church",
+  "displayName": "St. Matthew Lutheran Church",
+  "address": {
+    "street": "2305 Goshen Rd",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46808-1436"
+  },
+  "coordinates": {
+    "latitude": 41.10968780517578,
+    "longitude": -85.17215347290039
+  },
+  "website": "https://stmatthewsfw.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ecbfb9e9-69a2-4525-ba46-8040f2ec65cf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ecbfb9e9-69a2-4525-ba46-8040f2ec65cf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmatthewsfw.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351120534"
+    }
+  ],
+  "advisories": []
+}

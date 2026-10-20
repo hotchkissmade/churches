@@ -1,0 +1,33 @@
+{
+  "id": "b27v4f884",
+  "url": "https://constellation.church/b27v4f884",
+  "name": "Evangelical Lutheran Church Of The Good Shepherd",
+  "displayName": "Evangelical Lutheran Church Of The Good Shepherd",
+  "address": {
+    "street": "308 W Squantum St",
+    "city": "Quincy",
+    "state": "MA",
+    "zip": "02171-2730"
+  },
+  "coordinates": {
+    "latitude": 42.26837158203125,
+    "longitude": -71.03755950927734
+  },
+  "website": "https://goodshepherdquincy.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fe53cdfd-dcbe-4244-a78b-25cc53764124",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fe53cdfd-dcbe-4244-a78b-25cc53764124"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherdquincy.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042319241"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "k618bda69",
+  "url": "https://constellation.church/k618bda69",
+  "name": "First Baptist Church Nolanville",
+  "displayName": "First Baptist Church Nolanville",
+  "address": {
+    "street": "200 E Avenue H",
+    "city": "Nolanville",
+    "state": "TX",
+    "zip": "76559"
+  },
+  "coordinates": {
+    "latitude": 31.078121185302734,
+    "longitude": -97.6046142578125
+  },
+  "website": "https://fbcnolanville.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-nolanville/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-nolanville"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcnolanville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741777302"
+    }
+  ],
+  "advisories": []
+}

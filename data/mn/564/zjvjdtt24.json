@@ -1,0 +1,33 @@
+{
+  "id": "zjvjdtt24",
+  "url": "https://constellation.church/zjvjdtt24",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "309 2nd St N",
+    "city": "Pine River",
+    "state": "MN",
+    "zip": "56474-4485"
+  },
+  "coordinates": {
+    "latitude": 46.72117233276367,
+    "longitude": -94.4064712524414
+  },
+  "website": "https://1stluth.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=645e42d4-8928-48bb-9942-dacb4a8c951a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "645e42d4-8928-48bb-9942-dacb4a8c951a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "1stluth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411354442"
+    }
+  ],
+  "advisories": []
+}

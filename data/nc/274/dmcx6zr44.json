@@ -1,0 +1,33 @@
+{
+  "id": "dmcx6zr44",
+  "url": "https://constellation.church/dmcx6zr44",
+  "name": "Friendly Avenue Baptist Church",
+  "displayName": "Friendly Avenue Baptist Church",
+  "address": {
+    "street": "4800 W Friendly Ave",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27410"
+  },
+  "coordinates": {
+    "latitude": 36.09308433532715,
+    "longitude": -79.86972427368164
+  },
+  "website": "https://friendlyavenue.com",
+  "listingUrl": "https://churches.sbc.net/church/friendly-avenue-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "friendly-avenue-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "friendlyavenue.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560588461"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rcrg3dh30",
+  "url": "https://constellation.church/rcrg3dh30",
+  "name": "Church of the Good Samaritan",
+  "displayName": "Church of the Good Samaritan",
+  "address": {
+    "street": "212 W Lancaster Ave",
+    "city": "Paoli",
+    "state": "PA",
+    "zip": "19301-1758"
+  },
+  "coordinates": {
+    "latitude": 40.04083442687988,
+    "longitude": -75.49064254760742
+  },
+  "website": "https://good-samaritan.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/church-good-samaritan",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/church-good-samaritan"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "good-samaritan.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231352382"
+    }
+  ],
+  "advisories": []
+}

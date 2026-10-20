@@ -1,0 +1,33 @@
+{
+  "id": "xwn70ka03",
+  "url": "https://constellation.church/xwn70ka03",
+  "name": "Trinity Lutheran Congregation",
+  "displayName": "Trinity Lutheran Congregation",
+  "address": {
+    "street": "2001 Riverside Ave",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55454-1330"
+  },
+  "coordinates": {
+    "latitude": 44.96865463256836,
+    "longitude": -93.24388885498047
+  },
+  "website": "https://trinitylutherancongregation.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c0a78385-1a4d-4b29-85ce-1931c6736bfa",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c0a78385-1a4d-4b29-85ce-1931c6736bfa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylutherancongregation.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410705808"
+    }
+  ],
+  "advisories": []
+}

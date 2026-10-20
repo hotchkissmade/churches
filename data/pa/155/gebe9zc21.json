@@ -1,0 +1,33 @@
+{
+  "id": "gebe9zc21",
+  "url": "https://constellation.church/gebe9zc21",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "100 W Main St",
+    "city": "Everett",
+    "state": "PA",
+    "zip": "15537-1131"
+  },
+  "coordinates": {
+    "latitude": 40.01073,
+    "longitude": -78.374216
+  },
+  "website": "https://sites.google.com/view/zion-evangelical-lutheran-chur/home",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9d4dcc18-4df2-488a-9b1e-22013b3aa320",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9d4dcc18-4df2-488a-9b1e-22013b3aa320"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sites.google.com/view/zion-evangelical-lutheran-chur/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251449048"
+    }
+  ],
+  "advisories": []
+}

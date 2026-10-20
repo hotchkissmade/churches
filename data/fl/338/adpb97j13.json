@@ -1,0 +1,33 @@
+{
+  "id": "adpb97j13",
+  "url": "https://constellation.church/adpb97j13",
+  "name": "Fort Green Baptist Church",
+  "displayName": "Fort Green Baptist Church",
+  "address": {
+    "street": "2875 Baptist Church Rd",
+    "city": "Bowling Green",
+    "state": "FL",
+    "zip": "33834"
+  },
+  "coordinates": {
+    "latitude": 27.60040283203125,
+    "longitude": -81.96052551269531
+  },
+  "website": "https://fortgreenbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/fort-green-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "fort-green-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fortgreenbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592339367"
+    }
+  ],
+  "advisories": []
+}

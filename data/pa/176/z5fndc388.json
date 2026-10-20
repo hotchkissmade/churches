@@ -1,0 +1,33 @@
+{
+  "id": "z5fndc388",
+  "url": "https://constellation.church/z5fndc388",
+  "name": "St Peter's Lutheran Church",
+  "displayName": "St. Peter's Lutheran Church",
+  "address": {
+    "street": "10 Delp Rd",
+    "city": "Lancaster",
+    "state": "PA",
+    "zip": "17601-3904"
+  },
+  "coordinates": {
+    "latitude": 40.08822250366211,
+    "longitude": -76.3064956665039
+  },
+  "website": "https://stpeterslutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d10e6173-884f-4b49-a755-c63bca9db70f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d10e6173-884f-4b49-a755-c63bca9db70f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpeterslutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236050984"
+    }
+  ],
+  "advisories": []
+}

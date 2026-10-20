@@ -1,0 +1,33 @@
+{
+  "id": "rhg0qmc02",
+  "url": "https://constellation.church/rhg0qmc02",
+  "name": "Destination Church",
+  "displayName": "Destination Church",
+  "address": {
+    "street": "540 E Plantation Dr",
+    "city": "Clute",
+    "state": "TX",
+    "zip": "77531"
+  },
+  "coordinates": {
+    "latitude": 29.015602111816406,
+    "longitude": -95.39642333984375
+  },
+  "website": "https://destinationchurchclute.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=06d9f3ca-34cd-407b-809d-e432fcd13827&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "06d9f3ca-34cd-407b-809d-e432fcd13827"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "destinationchurchclute.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760634365"
+    }
+  ],
+  "advisories": []
+}

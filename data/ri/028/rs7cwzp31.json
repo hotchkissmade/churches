@@ -1,0 +1,33 @@
+{
+  "id": "rs7cwzp31",
+  "url": "https://constellation.church/rs7cwzp31",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "4 Everett St",
+    "city": "Newport",
+    "state": "RI",
+    "zip": "02840"
+  },
+  "coordinates": {
+    "latitude": 41.49396324157715,
+    "longitude": -71.30873107910156
+  },
+  "website": "https://fpcnewport.org",
+  "listingUrl": "https://eco-pres.org/churches/first-presbyterian-church-newport/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "first-presbyterian-church-newport"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcnewport.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "050265905"
+    }
+  ],
+  "advisories": []
+}

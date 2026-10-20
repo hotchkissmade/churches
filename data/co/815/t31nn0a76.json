@@ -1,0 +1,33 @@
+{
+  "id": "t31nn0a76",
+  "url": "https://constellation.church/t31nn0a76",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "3940 27 1/2 Rd",
+    "city": "Grand Junction",
+    "state": "CO",
+    "zip": "81506-4185"
+  },
+  "coordinates": {
+    "latitude": 39.10361099243164,
+    "longitude": -108.5423812866211
+  },
+  "website": "https://firstpresgj.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/1250/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "1250"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpresgj.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840427131"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "afd8eba19",
+  "url": "https://constellation.church/afd8eba19",
+  "name": "Fellowship of the Parks",
+  "displayName": "Fellowship of the Parks",
+  "address": {
+    "street": "9900 N Beach St",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76244"
+  },
+  "coordinates": {
+    "latitude": 32.919424057006836,
+    "longitude": -97.28894805908203
+  },
+  "website": "https://fotp.church/northlake",
+  "listingUrl": "https://churches.sbc.net/church/fellowship-of-the-parks/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "fellowship-of-the-parks"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fotp.church/northlake"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752800603"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hcywwm763",
+  "url": "https://constellation.church/hcywwm763",
+  "name": "Grace Presbyterian Church of Washington, DC",
+  "displayName": "Grace Presbyterian Church of Washington, DC",
+  "address": {
+    "street": "500 I Street NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20001"
+  },
+  "coordinates": {
+    "latitude": 38.9007625579834,
+    "longitude": -77.01918411254883
+  },
+  "website": "https://gracedc.net",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4611",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4611"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracedc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "203151770"
+    }
+  ],
+  "advisories": []
+}

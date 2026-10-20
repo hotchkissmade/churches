@@ -1,0 +1,33 @@
+{
+  "id": "gw08efk05",
+  "url": "https://constellation.church/gw08efk05",
+  "name": "Sunnyvale First Baptist Church",
+  "displayName": "Sunnyvale First Baptist Church",
+  "address": {
+    "street": "3018 N Belt Line Rd",
+    "city": "Sunnyvale",
+    "state": "TX",
+    "zip": "75182"
+  },
+  "coordinates": {
+    "latitude": 32.80574607849121,
+    "longitude": -96.59378051757812
+  },
+  "website": "https://sunnyvalefbc.com",
+  "listingUrl": "https://churches.sbc.net/church/sunnyvale-first-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sunnyvale-first-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sunnyvalefbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751863260"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "b3sjkv572",
+  "url": "https://constellation.church/b3sjkv572",
+  "name": "New Hope Church",
+  "displayName": "New Hope Church",
+  "address": {
+    "street": "584 Colonial Club Dr.",
+    "city": "Harrisburg",
+    "state": "PA",
+    "zip": "17112"
+  },
+  "coordinates": {
+    "latitude": 40.32626914978027,
+    "longitude": -76.80258178710938
+  },
+  "website": "https://newhope.vision",
+  "listingUrl": "https://bicus.org/church/new-hope-church/",
+  "identifiers": [
+    {
+      "namespace": "org.bicus.id",
+      "value": "380"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newhope.vision"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251735382"
+    }
+  ],
+  "advisories": []
+}

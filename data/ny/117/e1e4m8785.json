@@ -1,0 +1,33 @@
+{
+  "id": "e1e4m8785",
+  "url": "https://constellation.church/e1e4m8785",
+  "name": "St. Francis Episcopal church",
+  "displayName": "St. Francis Episcopal church",
+  "address": {
+    "street": "1692 Bellmore Ave.",
+    "city": "North Bellmore",
+    "state": "NY",
+    "zip": "11710"
+  },
+  "coordinates": {
+    "latitude": 40.68157958984375,
+    "longitude": -73.53625869750977
+  },
+  "website": "https://stfrancisbellmore.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-mark-evangelist-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-mark-evangelist-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stfrancisbellmore.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "113153352"
+    }
+  ],
+  "advisories": []
+}

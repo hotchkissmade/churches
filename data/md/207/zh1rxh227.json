@@ -1,0 +1,33 @@
+{
+  "id": "zh1rxh227",
+  "url": "https://constellation.church/zh1rxh227",
+  "name": "First Baptist Church, Upper Marlboro",
+  "displayName": "First Baptist Church, Upper Marlboro",
+  "address": {
+    "street": "7415 SW Crain Hwy",
+    "city": "Upper Marlboro",
+    "state": "MD",
+    "zip": "20772"
+  },
+  "coordinates": {
+    "latitude": 38.78823661804199,
+    "longitude": -76.79153060913086
+  },
+  "website": "https://fbcum.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-upper-marlboro/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-upper-marlboro"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcum.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520786502"
+    }
+  ],
+  "advisories": []
+}

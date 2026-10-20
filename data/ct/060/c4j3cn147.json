@@ -1,0 +1,33 @@
+{
+  "id": "c4j3cn147",
+  "url": "https://constellation.church/c4j3cn147",
+  "name": "Holy Trinity Church",
+  "displayName": "Holy Trinity Church",
+  "address": {
+    "street": "305 Washington St",
+    "city": "New Britain",
+    "state": "CT",
+    "zip": "06051"
+  },
+  "coordinates": {
+    "latitude": 41.676055908203125,
+    "longitude": -72.78484725952148
+  },
+  "website": "https://htocnb.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ne-nbrhtc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ne-nbrhtc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "htocnb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "060742375"
+    }
+  ],
+  "advisories": []
+}

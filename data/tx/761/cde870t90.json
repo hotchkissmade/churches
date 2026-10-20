@@ -1,0 +1,33 @@
+{
+  "id": "cde870t90",
+  "url": "https://constellation.church/cde870t90",
+  "name": "Church in Fort Worth",
+  "displayName": "Church in Fort Worth",
+  "address": {
+    "street": "4066 Kingsridge Rd",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76109"
+  },
+  "coordinates": {
+    "latitude": 32.68704795837402,
+    "longitude": -97.39679718017578
+  },
+  "website": "https://churchinfortworth.org",
+  "listingUrl": "https://localchurches.org/churches/fort-worth-tx-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "fort-worth-tx-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinfortworth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751736368"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mcf124079",
+  "url": "https://constellation.church/mcf124079",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "700 W Braddock Rd",
+    "city": "Alexandria",
+    "state": "VA",
+    "zip": "22302"
+  },
+  "coordinates": {
+    "latitude": 38.821786880493164,
+    "longitude": -77.07244491577148
+  },
+  "website": "https://1stassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=781d4979-fec1-45dd-9faf-b28abfcc5bdf&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "781d4979-fec1-45dd-9faf-b28abfcc5bdf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "1stassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540661919"
+    }
+  ],
+  "advisories": []
+}

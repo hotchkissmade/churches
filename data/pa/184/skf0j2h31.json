@@ -1,0 +1,33 @@
+{
+  "id": "skf0j2h31",
+  "url": "https://constellation.church/skf0j2h31",
+  "name": "Pocono Community Church",
+  "displayName": "Pocono Community Church",
+  "address": {
+    "street": "1050 Memorial Blvd",
+    "city": "Tobyhanna",
+    "state": "PA",
+    "zip": "18466"
+  },
+  "coordinates": {
+    "latitude": 41.141685485839844,
+    "longitude": -75.37069320678711
+  },
+  "website": "https://community.church/about-us",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=574cc973-a3e2-4e56-9a92-3531f724593b&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "574cc973-a3e2-4e56-9a92-3531f724593b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "community.church/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450497822"
+    }
+  ],
+  "advisories": []
+}

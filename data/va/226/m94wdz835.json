@@ -1,0 +1,29 @@
+{
+  "id": "m94wdz835",
+  "url": "https://constellation.church/m94wdz835",
+  "name": "MY CHURCH",
+  "displayName": "My Church",
+  "address": {
+    "street": "23749 OLD VALLEY PIKE",
+    "city": "Woodstock",
+    "state": "VA",
+    "zip": "22664"
+  },
+  "coordinates": {
+    "latitude": 38.91567420959473,
+    "longitude": -78.47428131103516
+  },
+  "website": "https://mychurch-va.com/welcome",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611608756"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mychurch-va.com/welcome"
+    }
+  ],
+  "advisories": []
+}

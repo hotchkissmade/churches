@@ -1,0 +1,33 @@
+{
+  "id": "h0vp0p497",
+  "url": "https://constellation.church/h0vp0p497",
+  "name": "S. Stephen's Church",
+  "displayName": "S. Stephen's Church",
+  "address": {
+    "street": "114 George Street",
+    "city": "Providence",
+    "state": "RI",
+    "zip": "02906-1189"
+  },
+  "coordinates": {
+    "latitude": 41.82560729980469,
+    "longitude": -71.4013671875
+  },
+  "website": "https://sstephens.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-rhode-island/list/st-stephens-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-rhode-island/st-stephens-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sstephens.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "050271657"
+    }
+  ],
+  "advisories": []
+}

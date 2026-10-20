@@ -1,0 +1,33 @@
+{
+  "id": "ghfs13x32",
+  "url": "https://constellation.church/ghfs13x32",
+  "name": "Danbury Baptist Church, Danbury",
+  "displayName": "Danbury Baptist Church, Danbury",
+  "address": {
+    "street": "5615 2nd St",
+    "city": "Danbury",
+    "state": "TX",
+    "zip": "77534"
+  },
+  "coordinates": {
+    "latitude": 29.225597381591797,
+    "longitude": -95.34296417236328
+  },
+  "website": "https://danburybaptist.org/new",
+  "listingUrl": "https://churches.sbc.net/church/danbury-baptist-church-danbury/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "danbury-baptist-church-danbury"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "danburybaptist.org/new"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741841938"
+    }
+  ],
+  "advisories": []
+}

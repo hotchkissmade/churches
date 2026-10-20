@@ -1,0 +1,33 @@
+{
+  "id": "fsjvj4574",
+  "url": "https://constellation.church/fsjvj4574",
+  "name": "Pine View Baptist Church",
+  "displayName": "Pine View Baptist Church",
+  "address": {
+    "street": "111 Pineview Church Rd",
+    "city": "Blythewood",
+    "state": "SC",
+    "zip": "29016"
+  },
+  "coordinates": {
+    "latitude": 34.23699188232422,
+    "longitude": -80.96977996826172
+  },
+  "website": "https://pineviewchurchsc.com",
+  "listingUrl": "https://churches.sbc.net/church/pine-view-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pine-view-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pineviewchurchsc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570854316"
+    }
+  ],
+  "advisories": []
+}

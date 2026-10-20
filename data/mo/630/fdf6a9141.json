@@ -1,0 +1,33 @@
+{
+  "id": "fdf6a9141",
+  "url": "https://constellation.church/fdf6a9141",
+  "name": "First Baptist Church De Soto",
+  "displayName": "First Baptist Church De Soto",
+  "address": {
+    "street": "2000 Grace Way",
+    "city": "De Soto",
+    "state": "MO",
+    "zip": "63020"
+  },
+  "coordinates": {
+    "latitude": 38.14407539367676,
+    "longitude": -90.57758331298828
+  },
+  "website": "https://fbcdesoto.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-de-soto/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-de-soto"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcdesoto.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430681474"
+    }
+  ],
+  "advisories": []
+}

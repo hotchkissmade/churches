@@ -1,0 +1,33 @@
+{
+  "id": "bdj6qrs63",
+  "url": "https://constellation.church/bdj6qrs63",
+  "name": "First Baptist Church, Bells",
+  "displayName": "First Baptist Church, Bells",
+  "address": {
+    "street": "105 S Pecan St",
+    "city": "Bells",
+    "state": "TX",
+    "zip": "75414"
+  },
+  "coordinates": {
+    "latitude": 33.60938835144043,
+    "longitude": -96.41043090820312
+  },
+  "website": "https://fbcbellstx.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-bells/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-bells"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcbellstx.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751931644"
+    }
+  ],
+  "advisories": []
+}

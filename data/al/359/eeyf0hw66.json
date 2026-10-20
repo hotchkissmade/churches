@@ -1,0 +1,33 @@
+{
+  "id": "eeyf0hw66",
+  "url": "https://constellation.church/eeyf0hw66",
+  "name": "Bellevue Baptist",
+  "displayName": "Bellevue Baptist Church",
+  "address": {
+    "street": "150 Noccalula Dr",
+    "city": "Gadsden",
+    "state": "AL",
+    "zip": "35904"
+  },
+  "coordinates": {
+    "latitude": 34.04020690917969,
+    "longitude": -86.01762390136719
+  },
+  "website": "https://bellevuegadsden.com/about-us",
+  "listingUrl": "https://churches.sbc.net/church/bellevue-baptist/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bellevue-baptist"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bellevuegadsden.com/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630436177"
+    }
+  ],
+  "advisories": []
+}

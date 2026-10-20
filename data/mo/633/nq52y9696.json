@@ -1,0 +1,33 @@
+{
+  "id": "nq52y9696",
+  "url": "https://constellation.church/nq52y9696",
+  "name": "First Baptist Church St Charles",
+  "displayName": "First Baptist Church St. Charles",
+  "address": {
+    "street": "2701 Muegge Rd",
+    "city": "Saint Charles",
+    "state": "MO",
+    "zip": "63303"
+  },
+  "coordinates": {
+    "latitude": 38.78654479980469,
+    "longitude": -90.56648254394531
+  },
+  "website": "https://1stcharles.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-st-charles/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-st-charles"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "1stcharles.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430716600"
+    }
+  ],
+  "advisories": []
+}

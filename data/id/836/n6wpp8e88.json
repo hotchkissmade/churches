@@ -1,0 +1,33 @@
+{
+  "id": "n6wpp8e88",
+  "url": "https://constellation.church/n6wpp8e88",
+  "name": "Central Valley Baptist, Cascade",
+  "displayName": "Central Valley Baptist Church, Cascade",
+  "address": {
+    "street": "130 Cabarton Rd",
+    "city": "Cascade",
+    "state": "ID",
+    "zip": "83611"
+  },
+  "coordinates": {
+    "latitude": 44.507537841796875,
+    "longitude": -116.03435516357422
+  },
+  "website": "https://cvb.church/about",
+  "listingUrl": "https://churches.sbc.net/church/central-valley-baptist-cascade/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "central-valley-baptist-cascade"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cvb.church/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820428254"
+    }
+  ],
+  "advisories": []
+}

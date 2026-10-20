@@ -1,0 +1,33 @@
+{
+  "id": "aabwvqp42",
+  "url": "https://constellation.church/aabwvqp42",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "1319 E 18th St",
+    "city": "Ada",
+    "state": "OK",
+    "zip": "74820-4308"
+  },
+  "coordinates": {
+    "latitude": 34.76788520812988,
+    "longitude": -96.65979766845703
+  },
+  "website": "https://firstlutheranada.org",
+  "listingUrl": "https://locator.lcms.org/church/C/2503",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "2503"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranada.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "736129660"
+    }
+  ],
+  "advisories": []
+}

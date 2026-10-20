@@ -1,0 +1,33 @@
+{
+  "id": "szsp7hc13",
+  "url": "https://constellation.church/szsp7hc13",
+  "name": "St. Paul, FBC",
+  "displayName": "St. Paul, FBC",
+  "address": {
+    "street": "3103 Deacon Dr.",
+    "city": "St Paul",
+    "state": "VA",
+    "zip": "24283"
+  },
+  "coordinates": {
+    "latitude": 36.90639877319336,
+    "longitude": -82.31095123291016
+  },
+  "website": "https://stpaulfirstbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/st-paul-fbc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "st-paul-fbc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulfirstbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "546069923"
+    }
+  ],
+  "advisories": []
+}

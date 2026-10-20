@@ -1,0 +1,33 @@
+{
+  "id": "b98ew0c50",
+  "url": "https://constellation.church/b98ew0c50",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": null,
+    "city": "Hope",
+    "state": "MN",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 43.963722229003906,
+    "longitude": -93.27604675292969
+  },
+  "website": "https://flchopemn.com",
+  "listingUrl": "https://lcmc.net/congregation/108393",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "108393"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flchopemn.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900238938"
+    }
+  ],
+  "advisories": []
+}

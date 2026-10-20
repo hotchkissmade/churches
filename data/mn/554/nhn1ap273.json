@@ -1,0 +1,33 @@
+{
+  "id": "nhn1ap273",
+  "url": "https://constellation.church/nhn1ap273",
+  "name": "Elmwood Church",
+  "displayName": "Elmwood Church",
+  "address": {
+    "street": "3615 Chelmsford Rd NE",
+    "city": "Saint Anthony",
+    "state": "MN",
+    "zip": "55418-1739"
+  },
+  "coordinates": {
+    "latitude": 45.03447341918945,
+    "longitude": -93.21069717407227
+  },
+  "website": "https://elmwoodchurch.org",
+  "listingUrl": "https://churches.efca.org/?id=173773",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "173773"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elmwoodchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410991057"
+    }
+  ],
+  "advisories": []
+}

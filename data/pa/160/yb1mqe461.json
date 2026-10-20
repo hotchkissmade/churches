@@ -1,0 +1,33 @@
+{
+  "id": "yb1mqe461",
+  "url": "https://constellation.church/yb1mqe461",
+  "name": "Emmanuel Lutheran Church",
+  "displayName": "Emmanuel Lutheran Church",
+  "address": {
+    "street": "143 Church St.",
+    "city": "Prospect",
+    "state": "PA",
+    "zip": "16052"
+  },
+  "coordinates": {
+    "latitude": 40.90651893615723,
+    "longitude": -80.0448112487793
+  },
+  "website": "https://emmanuellcprospectpa.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=88fa8003-fcf0-4694-af6c-4ca51922c90a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "88fa8003-fcf0-4694-af6c-4ca51922c90a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emmanuellcprospectpa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "256093789"
+    }
+  ],
+  "advisories": []
+}

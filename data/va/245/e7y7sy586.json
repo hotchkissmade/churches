@@ -1,0 +1,33 @@
+{
+  "id": "e7y7sy586",
+  "url": "https://constellation.church/e7y7sy586",
+  "name": "Big Island",
+  "displayName": "Big Island Baptist Church",
+  "address": {
+    "street": "10747 Lee Jackson Hwy",
+    "city": "Big Island",
+    "state": "VA",
+    "zip": "24526"
+  },
+  "coordinates": {
+    "latitude": 37.53465270996094,
+    "longitude": -79.35986328125
+  },
+  "website": "https://bigislandbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/big-island/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "big-island"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bigislandbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540701982"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pd7edq134",
+  "url": "https://constellation.church/pd7edq134",
+  "name": "Atlanta Assembly of God",
+  "displayName": "Atlanta Assembly of God",
+  "address": {
+    "street": "106 NW Walnut St",
+    "city": "Atlanta",
+    "state": "IL",
+    "zip": "61723"
+  },
+  "coordinates": {
+    "latitude": 40.26378059387207,
+    "longitude": -89.23014831542969
+  },
+  "website": "https://atlantaassembly.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ae95d3f7-dd92-43ae-8736-709f46efa12d&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ae95d3f7-dd92-43ae-8736-709f46efa12d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "atlantaassembly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371125840"
+    }
+  ],
+  "advisories": []
+}

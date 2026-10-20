@@ -1,0 +1,33 @@
+{
+  "id": "p5b9tpr87",
+  "url": "https://constellation.church/p5b9tpr87",
+  "name": "Spring Branch Baptist Church",
+  "displayName": "Spring Branch Baptist Church",
+  "address": {
+    "street": "6710 Church Loop",
+    "city": "Nichols",
+    "state": "SC",
+    "zip": "29581"
+  },
+  "coordinates": {
+    "latitude": 34.25929069519043,
+    "longitude": -79.0352554321289
+  },
+  "website": "https://give.idonate.com/baptist-foundation-of-south-carolina/sbbc",
+  "listingUrl": "https://churches.sbc.net/church/spring-branch-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "spring-branch-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "give.idonate.com/baptist-foundation-of-south-carolina/sbbc"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581419207"
+    }
+  ],
+  "advisories": []
+}

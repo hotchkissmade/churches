@@ -1,0 +1,33 @@
+{
+  "id": "bd4kbh507",
+  "url": "https://constellation.church/bd4kbh507",
+  "name": "First Evangelical Lutheran Church",
+  "displayName": "First Evangelical Lutheran Church",
+  "address": {
+    "street": "1244 S Utica Ave",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74104-4213"
+  },
+  "coordinates": {
+    "latitude": 36.144487380981445,
+    "longitude": -95.96739959716797
+  },
+  "website": "https://felctulsa.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4bbcad60-1474-40b7-a95a-98a6417ef84a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4bbcad60-1474-40b7-a95a-98a6417ef84a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "felctulsa.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "736068411"
+    }
+  ],
+  "advisories": []
+}

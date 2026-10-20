@@ -1,0 +1,33 @@
+{
+  "id": "a9qzfnh96",
+  "url": "https://constellation.church/a9qzfnh96",
+  "name": "First United Methodist Church of Burlington",
+  "displayName": "First United Methodist Church of Burlington",
+  "address": {
+    "street": "21 Buell St",
+    "city": "Burlington",
+    "state": "VT",
+    "zip": "05401-3847"
+  },
+  "coordinates": {
+    "latitude": 44.478878021240234,
+    "longitude": -73.21057510375977
+  },
+  "website": "https://newsite.umcburlington.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFNrpIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFNrpIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newsite.umcburlington.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030192730"
+    }
+  ],
+  "advisories": []
+}

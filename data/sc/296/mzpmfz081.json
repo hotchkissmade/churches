@@ -1,0 +1,33 @@
+{
+  "id": "mzpmfz081",
+  "url": "https://constellation.church/mzpmfz081",
+  "name": "New Covenant Church",
+  "displayName": "New Covenant Church",
+  "address": {
+    "street": "301 Simpson Road",
+    "city": "Anderson",
+    "state": "SC",
+    "zip": "29621"
+  },
+  "coordinates": {
+    "latitude": 34.537431716918945,
+    "longitude": -82.6262321472168
+  },
+  "website": "https://ncchurch.net/staff",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/756",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "756"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ncchurch.net/staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953754213"
+    }
+  ],
+  "advisories": []
+}

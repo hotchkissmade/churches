@@ -1,0 +1,33 @@
+{
+  "id": "w0xvyqf73",
+  "url": "https://constellation.church/w0xvyqf73",
+  "name": "Common Ground Church",
+  "displayName": "Common Ground Church",
+  "address": {
+    "street": "206 Pleasant St",
+    "city": "Lodi",
+    "state": "WI",
+    "zip": "53555-1126"
+  },
+  "coordinates": {
+    "latitude": 43.31362724304199,
+    "longitude": -89.5262680053711
+  },
+  "website": "https://thecommonground.church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f5b2959b-5c1c-4763-ac11-f8991bd4c5ac",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f5b2959b-5c1c-4763-ac11-f8991bd4c5ac"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thecommonground.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "384154195"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "s69neqs94",
+  "url": "https://constellation.church/s69neqs94",
+  "name": "Mount Olive Lutheran Church",
+  "displayName": "Mount Olive Lutheran Church",
+  "address": {
+    "street": "2830 18th Ave NW",
+    "city": "Rochester",
+    "state": "MN",
+    "zip": "55901-7610"
+  },
+  "coordinates": {
+    "latitude": 44.05397987365723,
+    "longitude": -92.48812866210938
+  },
+  "website": "https://molive.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5c58ff00-a8bd-48ac-a55b-ac5109b761c5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5c58ff00-a8bd-48ac-a55b-ac5109b761c5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "molive.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411491631"
+    }
+  ],
+  "advisories": []
+}

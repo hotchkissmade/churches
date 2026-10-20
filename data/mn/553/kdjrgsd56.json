@@ -1,0 +1,33 @@
+{
+  "id": "kdjrgsd56",
+  "url": "https://constellation.church/kdjrgsd56",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "513 Madison St SE",
+    "city": "Watertown",
+    "state": "MN",
+    "zip": "55388-9264"
+  },
+  "coordinates": {
+    "latitude": 44.95966339111328,
+    "longitude": -93.84268188476562
+  },
+  "website": "https://trin.org/staff",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fe5274ac-e68f-4abf-a911-ce7ae6fcdf0d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fe5274ac-e68f-4abf-a911-ce7ae6fcdf0d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trin.org/staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "202886619"
+    }
+  ],
+  "advisories": []
+}

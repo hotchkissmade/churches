@@ -1,0 +1,33 @@
+{
+  "id": "hxb423905",
+  "url": "https://constellation.church/hxb423905",
+  "name": "St Louis Chinese Baptist Church",
+  "displayName": "St. Louis Chinese Baptist Church",
+  "address": {
+    "street": "908 Jungermann St",
+    "city": "Saint Peters",
+    "state": "MO",
+    "zip": "63376"
+  },
+  "coordinates": {
+    "latitude": 38.774038314819336,
+    "longitude": -90.5825424194336
+  },
+  "website": "https://stlcbc.org",
+  "listingUrl": "https://churches.sbc.net/church/st-louis-chinese-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "st-louis-chinese-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlcbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431450299"
+    }
+  ],
+  "advisories": []
+}

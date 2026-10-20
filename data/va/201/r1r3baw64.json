@@ -1,0 +1,33 @@
+{
+  "id": "r1r3baw64",
+  "url": "https://constellation.church/r1r3baw64",
+  "name": "Floris United Methodist Church",
+  "displayName": "Floris United Methodist Church",
+  "address": {
+    "street": "13600 Frying Pan Rd",
+    "city": "Herndon",
+    "state": "VA",
+    "zip": "20171-3110"
+  },
+  "coordinates": {
+    "latitude": 38.9427490234375,
+    "longitude": -77.41696166992188
+  },
+  "website": "https://florisumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKHgIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKHgIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "florisumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541254895"
+    }
+  ],
+  "advisories": []
+}

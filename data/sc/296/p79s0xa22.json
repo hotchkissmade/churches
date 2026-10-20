@@ -1,0 +1,33 @@
+{
+  "id": "p79s0xa22",
+  "url": "https://constellation.church/p79s0xa22",
+  "name": "Burnsview Baptist Church",
+  "displayName": "Burnsview Baptist Church",
+  "address": {
+    "street": "9690 Reidville Rd",
+    "city": "Greer",
+    "state": "SC",
+    "zip": "29651"
+  },
+  "coordinates": {
+    "latitude": 34.84060096740723,
+    "longitude": -82.16792297363281
+  },
+  "website": "https://burnsview.com",
+  "listingUrl": "https://churches.sbc.net/church/burnsview-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "burnsview-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "burnsview.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570723669"
+    }
+  ],
+  "advisories": []
+}

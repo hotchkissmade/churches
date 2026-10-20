@@ -1,0 +1,33 @@
+{
+  "id": "h6jvqf142",
+  "url": "https://constellation.church/h6jvqf142",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "3601 Dakota Ave",
+    "city": "South Sioux City",
+    "state": "NE",
+    "zip": "68776-3643"
+  },
+  "coordinates": {
+    "latitude": 42.45585632324219,
+    "longitude": -96.41437530517578
+  },
+  "website": "https://flcssc.org/wordpress",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ed642bf0-eb51-410f-b3e9-9c97ca21428a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ed642bf0-eb51-410f-b3e9-9c97ca21428a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcssc.org/wordpress"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "476000954"
+    }
+  ],
+  "advisories": []
+}

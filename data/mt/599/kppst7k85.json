@@ -1,0 +1,33 @@
+{
+  "id": "kppst7k85",
+  "url": "https://constellation.church/kppst7k85",
+  "name": "Veneration Church",
+  "displayName": "Veneration Church",
+  "address": {
+    "street": "403 2nd Ave W",
+    "city": "Kalispell",
+    "state": "MT",
+    "zip": "59901"
+  },
+  "coordinates": {
+    "latitude": 48.19416809082031,
+    "longitude": -114.3150405883789
+  },
+  "website": "https://venerationchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/veneration-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "veneration-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "venerationchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850762275"
+    }
+  ],
+  "advisories": []
+}

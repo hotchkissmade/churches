@@ -1,0 +1,33 @@
+{
+  "id": "kyfx1sy48",
+  "url": "https://constellation.church/kyfx1sy48",
+  "name": "Wicker Park Lutheran Church",
+  "displayName": "Wicker Park Lutheran Church",
+  "address": {
+    "street": "1500 N Hoyne Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60622-1804"
+  },
+  "coordinates": {
+    "latitude": 41.90827941894531,
+    "longitude": -87.68003845214844
+  },
+  "website": "https://wickerparklutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2a09cff6-ee72-43c4-9fa2-a586d043dd89",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2a09cff6-ee72-43c4-9fa2-a586d043dd89"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wickerparklutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161697744"
+    }
+  ],
+  "advisories": []
+}

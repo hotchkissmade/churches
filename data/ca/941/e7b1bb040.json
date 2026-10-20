@@ -1,0 +1,37 @@
+{
+  "id": "e7b1bb040",
+  "url": "https://constellation.church/e7b1bb040",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "495 9th Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94118-2912"
+  },
+  "coordinates": {
+    "latitude": 37.77932929992676,
+    "longitude": -122.46752166748047
+  },
+  "website": "https://zionsf.org",
+  "listingUrl": "https://locator.lcms.org/church/C/816888",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "816888"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionsf.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "943169009"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "946001838"
+    }
+  ],
+  "advisories": []
+}

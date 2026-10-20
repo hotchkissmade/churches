@@ -1,0 +1,33 @@
+{
+  "id": "x5appj345",
+  "url": "https://constellation.church/x5appj345",
+  "name": "First Baptist Church, Orchard",
+  "displayName": "First Baptist Church, Orchard",
+  "address": {
+    "street": "PO Box 114",
+    "city": "Orchard",
+    "state": "TX",
+    "zip": "77464"
+  },
+  "coordinates": {
+    "latitude": 29.603015899658203,
+    "longitude": -95.96678161621094
+  },
+  "website": "https://fbcorchard.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-orchard-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-orchard-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcorchard.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "473425637"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "rnx6nkv06",
+  "url": "https://constellation.church/rnx6nkv06",
+  "name": "First Baptist Church of Menlo Georgia Incorporated",
+  "displayName": "First Baptist Church of Menlo Georgia",
+  "address": {
+    "street": "3137 GA-337",
+    "city": "Menlo",
+    "state": "GA",
+    "zip": "30731"
+  },
+  "coordinates": {
+    "latitude": 34.48713493347168,
+    "longitude": -85.47666931152344
+  },
+  "website": "https://menlofirstbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-menlo-georgia-incorporated/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-menlo-georgia-incorporated"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "menlofirstbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581514494"
+    }
+  ],
+  "advisories": []
+}

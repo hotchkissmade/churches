@@ -1,0 +1,33 @@
+{
+  "id": "yk864c957",
+  "url": "https://constellation.church/yk864c957",
+  "name": "Mountville Baptist Church",
+  "displayName": "Mountville Baptist Church",
+  "address": {
+    "street": "1426 Mountville Rd",
+    "city": "Mountville",
+    "state": "SC",
+    "zip": "29370"
+  },
+  "coordinates": {
+    "latitude": 34.36138343811035,
+    "longitude": -81.96976470947266
+  },
+  "website": "https://mountvillebaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/mountville-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mountville-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mountvillebaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570645397"
+    }
+  ],
+  "advisories": []
+}

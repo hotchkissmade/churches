@@ -1,0 +1,33 @@
+{
+  "id": "rwt31k933",
+  "url": "https://constellation.church/rwt31k933",
+  "name": "St. Mary's Episcopal Church",
+  "displayName": "St. Mary's Episcopal Church",
+  "address": {
+    "street": "715 S. Central Avenue",
+    "city": "Ely",
+    "state": "MN",
+    "zip": "55731-0513"
+  },
+  "coordinates": {
+    "latitude": 47.895606994628906,
+    "longitude": -91.8672866821289
+  },
+  "website": "https://sites.google.com/site/stmarysepiscopalchurchely/home",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/st-marys-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/st-marys-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sites.google.com/site/stmarysepiscopalchurchely/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "830510649"
+    }
+  ],
+  "advisories": []
+}

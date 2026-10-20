@@ -1,0 +1,33 @@
+{
+  "id": "sdk59vc42",
+  "url": "https://constellation.church/sdk59vc42",
+  "name": "Mott Evangelical Community Church",
+  "displayName": "Mott Evangelical Community Church",
+  "address": {
+    "street": "903 E 2nd St",
+    "city": "Mott",
+    "state": "ND",
+    "zip": "58646-7279"
+  },
+  "coordinates": {
+    "latitude": 46.37246322631836,
+    "longitude": -102.31546783447266
+  },
+  "website": "https://mottecc.wordpress.com",
+  "listingUrl": "https://churches.efca.org/?id=173392",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "173392"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mottecc.wordpress.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450386132"
+    }
+  ],
+  "advisories": []
+}

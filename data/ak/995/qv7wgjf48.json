@@ -1,0 +1,33 @@
+{
+  "id": "qv7wgjf48",
+  "url": "https://constellation.church/qv7wgjf48",
+  "name": "First Baptist Church of Anchorage",
+  "displayName": "First Baptist Church of Anchorage",
+  "address": {
+    "street": "1100 W 10th Ave",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "99501"
+  },
+  "coordinates": {
+    "latitude": 61.2125244140625,
+    "longitude": -149.90438842773438
+  },
+  "website": "https://firstbaptistanchorage.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-anchorage/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-anchorage"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistanchorage.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920048211"
+    }
+  ],
+  "advisories": []
+}

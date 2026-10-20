@@ -1,0 +1,33 @@
+{
+  "id": "a9qy9j286",
+  "url": "https://constellation.church/a9qy9j286",
+  "name": "Snow Hill Presbyterian Church",
+  "displayName": "Snow Hill Presbyterian Church",
+  "address": {
+    "street": "105 SE 4th St",
+    "city": "Snow Hill",
+    "state": "NC",
+    "zip": "28580"
+  },
+  "coordinates": {
+    "latitude": 35.45286750793457,
+    "longitude": -77.67159652709961
+  },
+  "website": "https://snowhillpres.org",
+  "listingUrl": "https://eco-pres.org/churches/snow-hill-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "snow-hill-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "snowhillpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "472756531"
+    }
+  ],
+  "advisories": []
+}

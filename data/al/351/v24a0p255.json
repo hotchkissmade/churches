@@ -1,0 +1,33 @@
+{
+  "id": "v24a0p255",
+  "url": "https://constellation.church/v24a0p255",
+  "name": "Knollwood Presbyterian Church",
+  "displayName": "Knollwood Presbyterian Church",
+  "address": {
+    "street": "1277 Knollwood Lane",
+    "city": "Sylacauga",
+    "state": "AL",
+    "zip": "35150"
+  },
+  "coordinates": {
+    "latitude": 33.144487380981445,
+    "longitude": -86.25991821289062
+  },
+  "website": "https://knollwoodpresbyterianchurch.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/640",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "640"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "knollwoodpresbyterianchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630753203"
+    }
+  ],
+  "advisories": []
+}

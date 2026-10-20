@@ -1,0 +1,33 @@
+{
+  "id": "f70hdvr41",
+  "url": "https://constellation.church/f70hdvr41",
+  "name": "Stony Fork Community Church",
+  "displayName": "Stony Fork Community Church",
+  "address": {
+    "street": "3490 Saluda Rd",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29730"
+  },
+  "coordinates": {
+    "latitude": 34.86044120788574,
+    "longitude": -81.07666397094727
+  },
+  "website": "https://stonyforkchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/stony-fork-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "stony-fork-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stonyforkchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "464173935"
+    }
+  ],
+  "advisories": []
+}

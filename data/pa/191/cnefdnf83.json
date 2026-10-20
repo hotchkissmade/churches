@@ -1,0 +1,33 @@
+{
+  "id": "cnefdnf83",
+  "url": "https://constellation.church/cnefdnf83",
+  "name": "The Church of the Holy Trinity, Rittenhouse Square",
+  "displayName": "The Church of the Holy Trinity, Rittenhouse Square",
+  "address": {
+    "street": "1904 Walnut St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19103-5796"
+  },
+  "coordinates": {
+    "latitude": 39.950218200683594,
+    "longitude": -75.17295455932617
+  },
+  "website": "https://htrit.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/church-holy-trinity-rittenhouse-square",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/church-holy-trinity-rittenhouse-square"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "htrit.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231396774"
+    }
+  ],
+  "advisories": []
+}

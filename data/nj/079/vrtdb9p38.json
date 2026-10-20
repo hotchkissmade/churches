@@ -1,0 +1,33 @@
+{
+  "id": "vrtdb9p38",
+  "url": "https://constellation.church/vrtdb9p38",
+  "name": "Bernardsville United Methodist Church",
+  "displayName": "Bernardsville United Methodist Church",
+  "address": {
+    "street": "22 Church St",
+    "city": "Bernardsville",
+    "state": "NJ",
+    "zip": "07924-2233"
+  },
+  "coordinates": {
+    "latitude": 40.71988868713379,
+    "longitude": -74.56683731079102
+  },
+  "website": "https://bernardsvillemethodist.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFP33IAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFP33IAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bernardsvillemethodist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221711809"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wne35nn02",
+  "url": "https://constellation.church/wne35nn02",
+  "name": "Mount Holly Friends Meeting",
+  "displayName": "Mount Holly Friends Meeting",
+  "address": {
+    "street": "81 High St",
+    "city": "Mount Holly",
+    "state": "NJ",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 39.995344161987305,
+    "longitude": -74.78763198852539
+  },
+  "website": "https://mthollyquakers.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/mount-holly-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "mount-holly-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mthollyquakers.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222306243"
+    }
+  ],
+  "advisories": []
+}

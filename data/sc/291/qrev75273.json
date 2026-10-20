@@ -1,0 +1,33 @@
+{
+  "id": "qrev75273",
+  "url": "https://constellation.church/qrev75273",
+  "name": "Faith Baptist Church",
+  "displayName": "Faith Baptist Church",
+  "address": {
+    "street": "123 Faith Church Rd",
+    "city": "Swansea",
+    "state": "SC",
+    "zip": "29160"
+  },
+  "coordinates": {
+    "latitude": 33.74421501159668,
+    "longitude": -81.09746170043945
+  },
+  "website": "https://faithbcswansea.com",
+  "listingUrl": "https://churches.sbc.net/church/faith-baptist-church-24/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "faith-baptist-church-24"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithbcswansea.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570762975"
+    }
+  ],
+  "advisories": []
+}

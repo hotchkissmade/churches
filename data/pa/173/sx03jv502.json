@@ -1,0 +1,33 @@
+{
+  "id": "sx03jv502",
+  "url": "https://constellation.church/sx03jv502",
+  "name": "The Intersection",
+  "displayName": "The Intersection",
+  "address": {
+    "street": "1980 Baltimore Pike",
+    "city": "Gettysburg",
+    "state": "PA",
+    "zip": "17325"
+  },
+  "coordinates": {
+    "latitude": 39.797099,
+    "longitude": -77.198056
+  },
+  "website": "https://intersection.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=fa9a6f23-12ff-48a7-9a29-dfb830fc3ce1&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "fa9a6f23-12ff-48a7-9a29-dfb830fc3ce1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "intersection.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "821351518"
+    }
+  ],
+  "advisories": []
+}

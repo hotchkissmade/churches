@@ -1,0 +1,33 @@
+{
+  "id": "b0db93b15",
+  "url": "https://constellation.church/b0db93b15",
+  "name": "Ascension Lutheran Church",
+  "displayName": "Ascension Lutheran Church",
+  "address": {
+    "street": "2030 3rd St",
+    "city": "Brookings",
+    "state": "SD",
+    "zip": "57006-2657"
+  },
+  "coordinates": {
+    "latitude": 44.30733108520508,
+    "longitude": -96.77015686035156
+  },
+  "website": "https://ascensionbrookings.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=389c14f5-4cc1-4c6b-8a71-dff8b207b127",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "389c14f5-4cc1-4c6b-8a71-dff8b207b127"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ascensionbrookings.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460315096"
+    }
+  ],
+  "advisories": []
+}

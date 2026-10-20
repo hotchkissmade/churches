@@ -1,0 +1,33 @@
+{
+  "id": "ebbnprs76",
+  "url": "https://constellation.church/ebbnprs76",
+  "name": "Anchor Baptist Church",
+  "displayName": "Anchor Baptist Church",
+  "address": {
+    "street": "3126 Riggs Ave",
+    "city": "Erlanger",
+    "state": "KY",
+    "zip": "41018"
+  },
+  "coordinates": {
+    "latitude": 39.03053665161133,
+    "longitude": -84.60015106201172
+  },
+  "website": "https://anchorchurcherlanger.org",
+  "listingUrl": "https://churches.sbc.net/church/anchor-baptist-church-4/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "anchor-baptist-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "anchorchurcherlanger.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311094291"
+    }
+  ],
+  "advisories": []
+}

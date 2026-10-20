@@ -1,0 +1,33 @@
+{
+  "id": "k6xhezz05",
+  "url": "https://constellation.church/k6xhezz05",
+  "name": "LaFollette First Baptist Church",
+  "displayName": "LaFollette First Baptist Church",
+  "address": {
+    "street": "255 W Central Ave",
+    "city": "La Follette",
+    "state": "TN",
+    "zip": "37766"
+  },
+  "coordinates": {
+    "latitude": 36.37852478027344,
+    "longitude": -84.12517547607422
+  },
+  "website": "https://fbclafollette.com",
+  "listingUrl": "https://churches.sbc.net/church/lafollette-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lafollette-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbclafollette.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620848780"
+    }
+  ],
+  "advisories": []
+}

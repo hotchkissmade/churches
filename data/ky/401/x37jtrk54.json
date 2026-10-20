@@ -1,0 +1,33 @@
+{
+  "id": "x37jtrk54",
+  "url": "https://constellation.church/x37jtrk54",
+  "name": "Valley View Baptist Church",
+  "displayName": "Valley View Baptist Church",
+  "address": {
+    "street": "501 Valley View Dr",
+    "city": "Vine Grove",
+    "state": "KY",
+    "zip": "40175"
+  },
+  "coordinates": {
+    "latitude": 37.81463623046875,
+    "longitude": -85.96905517578125
+  },
+  "website": "https://vvbc.church",
+  "listingUrl": "https://churches.sbc.net/church/valley-view-baptist-church-7/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "valley-view-baptist-church-7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "vvbc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "610949987"
+    }
+  ],
+  "advisories": []
+}

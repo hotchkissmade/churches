@@ -1,0 +1,33 @@
+{
+  "id": "jxkfttp41",
+  "url": "https://constellation.church/jxkfttp41",
+  "name": "St. Roch Community Church",
+  "displayName": "St. Roch Community Church",
+  "address": {
+    "street": "1738 St. Roch Avenue",
+    "city": "New Orleans",
+    "state": "LA",
+    "zip": "70117"
+  },
+  "coordinates": {
+    "latitude": 29.975797653198242,
+    "longitude": -90.05289840698242
+  },
+  "website": "https://strochcc.org/about-us",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5112",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5112"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "strochcc.org/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "261169305"
+    }
+  ],
+  "advisories": []
+}

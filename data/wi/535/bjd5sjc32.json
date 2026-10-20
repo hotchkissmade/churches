@@ -1,0 +1,33 @@
+{
+  "id": "bjd5sjc32",
+  "url": "https://constellation.church/bjd5sjc32",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "237 E Daley St",
+    "city": "Spring Green",
+    "state": "WI",
+    "zip": "53588-8029"
+  },
+  "coordinates": {
+    "latitude": 43.17905044555664,
+    "longitude": -90.06592559814453
+  },
+  "website": "https://christlutheransg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7b3d5b5f-1da9-4f8c-975b-6813dc146e42",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7b3d5b5f-1da9-4f8c-975b-6813dc146e42"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christlutheransg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391302068"
+    }
+  ],
+  "advisories": []
+}

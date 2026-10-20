@@ -1,0 +1,33 @@
+{
+  "id": "y60v08r13",
+  "url": "https://constellation.church/y60v08r13",
+  "name": "Philadelphia Baptist Church",
+  "displayName": "Philadelphia Baptist Church",
+  "address": {
+    "street": "3119 Highway 56",
+    "city": "Pauline",
+    "state": "SC",
+    "zip": "29374"
+  },
+  "coordinates": {
+    "latitude": 34.82675743103027,
+    "longitude": -81.86844635009766
+  },
+  "website": "https://pbc.church",
+  "listingUrl": "https://churches.sbc.net/church/philadelphia-baptist-church-8/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "philadelphia-baptist-church-8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pbc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570729263"
+    }
+  ],
+  "advisories": []
+}

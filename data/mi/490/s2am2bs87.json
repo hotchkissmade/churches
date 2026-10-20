@@ -1,0 +1,33 @@
+{
+  "id": "s2am2bs87",
+  "url": "https://constellation.church/s2am2bs87",
+  "name": "Bellevue Christian Church",
+  "displayName": "Bellevue Christian Church",
+  "address": {
+    "street": "734 W Capital Ave",
+    "city": "Bellevue",
+    "state": "MI",
+    "zip": "49021"
+  },
+  "coordinates": {
+    "latitude": 42.443973541259766,
+    "longitude": -85.0265884399414
+  },
+  "website": "https://mybcconline.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=104e0232-1a85-470e-95de-2359c90f64a1&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "104e0232-1a85-470e-95de-2359c90f64a1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mybcconline.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382774989"
+    }
+  ],
+  "advisories": []
+}

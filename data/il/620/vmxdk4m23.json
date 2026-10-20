@@ -1,0 +1,33 @@
+{
+  "id": "vmxdk4m23",
+  "url": "https://constellation.church/vmxdk4m23",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "512 Main St",
+    "city": "Worden",
+    "state": "IL",
+    "zip": "62097-1214"
+  },
+  "coordinates": {
+    "latitude": 38.92940139770508,
+    "longitude": -89.84093475341797
+  },
+  "website": "https://trinityworden.org",
+  "listingUrl": "https://locator.lcms.org/church/C/992229",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "992229"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityworden.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370706736"
+    }
+  ],
+  "advisories": []
+}

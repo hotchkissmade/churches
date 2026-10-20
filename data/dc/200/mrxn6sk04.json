@@ -1,0 +1,33 @@
+{
+  "id": "mrxn6sk04",
+  "url": "https://constellation.church/mrxn6sk04",
+  "name": "St Matthew Lutheran Church",
+  "displayName": "St. Matthew Lutheran Church",
+  "address": {
+    "street": "222 M St SW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20024-3735"
+  },
+  "coordinates": {
+    "latitude": 38.8763370513916,
+    "longitude": -77.01458740234375
+  },
+  "website": "https://stmatthewscathedral.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8cb0e7b8-0c40-43b7-b376-9a1532df3b72",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8cb0e7b8-0c40-43b7-b376-9a1532df3b72"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmatthewscathedral.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "530234994"
+    }
+  ],
+  "advisories": []
+}

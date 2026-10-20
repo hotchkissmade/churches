@@ -1,0 +1,33 @@
+{
+  "id": "t91z1cp85",
+  "url": "https://constellation.church/t91z1cp85",
+  "name": "Emanuel Lutheran Church",
+  "displayName": "Emanuel Lutheran Church",
+  "address": {
+    "street": "1124 S Beech St",
+    "city": "Cornelius",
+    "state": "OR",
+    "zip": "97113-7703"
+  },
+  "coordinates": {
+    "latitude": 45.518653869628906,
+    "longitude": -123.05780029296875
+  },
+  "website": "https://emanuelluth.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f0887839-4ac4-446c-a5fa-6b8b857b8265",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f0887839-4ac4-446c-a5fa-6b8b857b8265"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emanuelluth.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930849310"
+    }
+  ],
+  "advisories": []
+}

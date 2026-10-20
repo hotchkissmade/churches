@@ -1,0 +1,33 @@
+{
+  "id": "jk8rskz17",
+  "url": "https://constellation.church/jk8rskz17",
+  "name": "Hope Lutheran Church",
+  "displayName": "Hope Lutheran Church",
+  "address": {
+    "street": "46 Dare Rd",
+    "city": "Selden",
+    "state": "NY",
+    "zip": "11784-2004"
+  },
+  "coordinates": {
+    "latitude": 40.8698787689209,
+    "longitude": -73.03690719604492
+  },
+  "website": "https://hopeselden.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bd2c8c3a-92a9-4ab6-b23f-fe2bcc3bb354",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bd2c8c3a-92a9-4ab6-b23f-fe2bcc3bb354"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopeselden.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112485812"
+    }
+  ],
+  "advisories": []
+}

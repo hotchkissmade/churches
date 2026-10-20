@@ -1,0 +1,33 @@
+{
+  "id": "zw1vz9123",
+  "url": "https://constellation.church/zw1vz9123",
+  "name": "The Church at South Lake",
+  "displayName": "The Church at South Lake",
+  "address": {
+    "street": "1860 Hancock Rd",
+    "city": "Clermont",
+    "state": "FL",
+    "zip": "34711"
+  },
+  "coordinates": {
+    "latitude": 28.543428421020508,
+    "longitude": -81.70752334594727
+  },
+  "website": "https://churchatsouthlake.com",
+  "listingUrl": "https://churches.sbc.net/church/the-church-at-south-lake/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-church-at-south-lake"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchatsouthlake.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593581282"
+    }
+  ],
+  "advisories": []
+}

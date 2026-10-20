@@ -1,0 +1,37 @@
+{
+  "id": "qejr35530",
+  "url": "https://constellation.church/qejr35530",
+  "name": "Saint James Lutheran Church",
+  "displayName": "St. James Lutheran Church",
+  "address": {
+    "street": "1106 S Main St",
+    "city": "Necedah",
+    "state": "WI",
+    "zip": "54646-8207"
+  },
+  "coordinates": {
+    "latitude": 44.0142707824707,
+    "longitude": -90.06646728515625
+  },
+  "website": "https://stjamesnecedah.com",
+  "listingUrl": "https://locator.lcms.org/church/C/626984",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "626984"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamesnecedah.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381130898"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391130898"
+    }
+  ],
+  "advisories": []
+}

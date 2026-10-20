@@ -1,0 +1,33 @@
+{
+  "id": "j5q6b5359",
+  "url": "https://constellation.church/j5q6b5359",
+  "name": "House On The Rock",
+  "displayName": "RCCG House On The Rock",
+  "address": {
+    "street": "3411 Covington Pike",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38128"
+  },
+  "coordinates": {
+    "latitude": 35.01944160461426,
+    "longitude": -89.76454162597656
+  },
+  "website": "https://rccgmemphis.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=391&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "391"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rccgmemphis.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "203185065"
+    }
+  ],
+  "advisories": []
+}

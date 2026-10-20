@@ -1,0 +1,33 @@
+{
+  "id": "t9evzy485",
+  "url": "https://constellation.church/t9evzy485",
+  "name": "Kirk of the Hills Presbyterian Church",
+  "displayName": "Kirk of the Hills Presbyterian Church",
+  "address": {
+    "street": "12928 Ladue Road",
+    "city": "St. Louis",
+    "state": "MO",
+    "zip": "63141"
+  },
+  "coordinates": {
+    "latitude": 38.65483474731445,
+    "longitude": -90.4830551147461
+  },
+  "website": "https://thekirk.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/638",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "638"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thekirk.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430909345"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wv15qec06",
+  "url": "https://constellation.church/wv15qec06",
+  "name": "First Baptist Church of New Port Richey",
+  "displayName": "First Baptist Church of New Port Richey",
+  "address": {
+    "street": "6800 Trouble Creek Rd",
+    "city": "New Port Richey",
+    "state": "FL",
+    "zip": "34653"
+  },
+  "coordinates": {
+    "latitude": 28.223167419433594,
+    "longitude": -82.70074462890625
+  },
+  "website": "https://fbcnpr.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-new-port-richey/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-new-port-richey"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcnpr.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591319421"
+    }
+  ],
+  "advisories": []
+}

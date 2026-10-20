@@ -1,0 +1,33 @@
+{
+  "id": "v10ws1423",
+  "url": "https://constellation.church/v10ws1423",
+  "name": "Christ Church",
+  "displayName": "Christ Church",
+  "address": {
+    "street": "141 East Ave",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14604-2597"
+  },
+  "coordinates": {
+    "latitude": 43.156005859375,
+    "longitude": -77.60091018676758
+  },
+  "website": "https://christchurchrochester.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-rochester/list/christ-church-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-rochester/christ-church-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christchurchrochester.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "160743957"
+    }
+  ],
+  "advisories": []
+}

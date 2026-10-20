@@ -1,0 +1,33 @@
+{
+  "id": "rfyzrs709",
+  "url": "https://constellation.church/rfyzrs709",
+  "name": "St. Basil Church",
+  "displayName": "St. Basil Church",
+  "address": {
+    "street": "9 Lord Ave",
+    "city": "Simpson",
+    "state": "PA",
+    "zip": "18407"
+  },
+  "coordinates": {
+    "latitude": 41.594093322753906,
+    "longitude": -75.47964859008789
+  },
+  "website": "https://stbasilsimpson.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ep-simsbc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ep-simsbc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stbasilsimpson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "233010417"
+    }
+  ],
+  "advisories": []
+}

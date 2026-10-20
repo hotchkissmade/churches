@@ -1,0 +1,33 @@
+{
+  "id": "paax7v102",
+  "url": "https://constellation.church/paax7v102",
+  "name": "Covington First Baptist Church",
+  "displayName": "Covington First Baptist Church",
+  "address": {
+    "street": "2105 Hwy 59 S",
+    "city": "Covington",
+    "state": "TN",
+    "zip": "38019"
+  },
+  "coordinates": {
+    "latitude": 35.53419303894043,
+    "longitude": -89.63525390625
+  },
+  "website": "https://fbccovington.org",
+  "listingUrl": "https://churches.sbc.net/church/covington-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "covington-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbccovington.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "320200400"
+    }
+  ],
+  "advisories": []
+}

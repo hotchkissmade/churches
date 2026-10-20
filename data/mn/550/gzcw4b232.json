@@ -1,0 +1,37 @@
+{
+  "id": "gzcw4b232",
+  "url": "https://constellation.church/gzcw4b232",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "35933 County Road 17",
+    "city": "Lake City",
+    "state": "MN",
+    "zip": "55041-2602"
+  },
+  "coordinates": {
+    "latitude": 44.3246858,
+    "longitude": -92.3878664
+  },
+  "website": "https://tlclakecity.org/page/calendar",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24386",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24386"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlclakecity.org/page/calendar"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411329679"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411473966"
+    }
+  ],
+  "advisories": []
+}

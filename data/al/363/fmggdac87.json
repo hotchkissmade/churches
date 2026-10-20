@@ -1,0 +1,33 @@
+{
+  "id": "fmggdac87",
+  "url": "https://constellation.church/fmggdac87",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "534 Holman Bridge Rd",
+    "city": "Daleville",
+    "state": "AL",
+    "zip": "36322"
+  },
+  "coordinates": {
+    "latitude": 31.290285110473633,
+    "longitude": -85.7165298461914
+  },
+  "website": "https://dalevilleag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ba111173-3745-464e-88a5-39d64cf6da23&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ba111173-3745-464e-88a5-39d64cf6da23"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dalevilleag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630822694"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a2gc9ph30",
+  "url": "https://constellation.church/a2gc9ph30",
+  "name": "Fairlawn Presbyterian Church",
+  "displayName": "Fairlawn Presbyterian Church",
+  "address": {
+    "street": "2611 Fairlawn Dr",
+    "city": "Columbus",
+    "state": "IN",
+    "zip": "47203"
+  },
+  "coordinates": {
+    "latitude": 39.22445106506348,
+    "longitude": -85.87251281738281
+  },
+  "website": "https://fairlawnpc.net",
+  "listingUrl": "https://church-trends.pcusa.org/church/4313/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "4313"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fairlawnpc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351076974"
+    }
+  ],
+  "advisories": []
+}

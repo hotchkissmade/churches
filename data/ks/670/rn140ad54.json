@@ -1,0 +1,33 @@
+{
+  "id": "rn140ad54",
+  "url": "https://constellation.church/rn140ad54",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "302 S Central St",
+    "city": "Coldwater",
+    "state": "KS",
+    "zip": "67029"
+  },
+  "coordinates": {
+    "latitude": 37.26768112182617,
+    "longitude": -99.32868957519531
+  },
+  "website": "https://coldwaterassemblyofgod.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=2d6ef6db-309c-451b-8144-fdbbfdaa312d&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "2d6ef6db-309c-451b-8144-fdbbfdaa312d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "coldwaterassemblyofgod.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030523595"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "d1sbmaw12",
+  "url": "https://constellation.church/d1sbmaw12",
+  "name": "Mountain Valley Church",
+  "displayName": "Mountain Valley Church",
+  "address": {
+    "street": "5 Dinkle Road",
+    "city": "Edgewood",
+    "state": "NM",
+    "zip": "87015"
+  },
+  "coordinates": {
+    "latitude": 35.09136390686035,
+    "longitude": -106.25875854492188
+  },
+  "website": "https://mountainvalley.org",
+  "listingUrl": "https://churches.sbc.net/church/mountain-valley-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mountain-valley-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mountainvalley.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850405176"
+    }
+  ],
+  "advisories": []
+}

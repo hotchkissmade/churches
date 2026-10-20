@@ -1,0 +1,33 @@
+{
+  "id": "wchgsmg86",
+  "url": "https://constellation.church/wchgsmg86",
+  "name": "Santa Fe Baptist Church",
+  "displayName": "Santa Fe Baptist Church",
+  "address": {
+    "street": "7505 NW County Rd 236",
+    "city": "Alachua",
+    "state": "FL",
+    "zip": "32615"
+  },
+  "coordinates": {
+    "latitude": 29.882579803466797,
+    "longitude": -82.42654418945312
+  },
+  "website": "https://santafebaptistchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/santa-fe-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "santa-fe-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "santafebaptistchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592961144"
+    }
+  ],
+  "advisories": []
+}

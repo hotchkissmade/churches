@@ -1,0 +1,33 @@
+{
+  "id": "an3t2k764",
+  "url": "https://constellation.church/an3t2k764",
+  "name": "East Side Baptist Church, of Springfield",
+  "displayName": "East Side Baptist Church, of Springfield",
+  "address": {
+    "street": "4045 Commercial Ave",
+    "city": "Springfield",
+    "state": "OR",
+    "zip": "97478"
+  },
+  "coordinates": {
+    "latitude": 44.049503326416016,
+    "longitude": -122.96788024902344
+  },
+  "website": "https://esbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/east-side-baptist-church-of-springfield/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "east-side-baptist-church-of-springfield"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "esbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930569125"
+    }
+  ],
+  "advisories": []
+}

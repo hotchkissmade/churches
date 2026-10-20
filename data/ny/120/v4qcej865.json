@@ -1,0 +1,33 @@
+{
+  "id": "v4qcej865",
+  "url": "https://constellation.church/v4qcej865",
+  "name": "Calvary Assembly of God",
+  "displayName": "Calvary Assembly of God",
+  "address": {
+    "street": "200 E Main St",
+    "city": "Amsterdam",
+    "state": "NY",
+    "zip": "12010"
+  },
+  "coordinates": {
+    "latitude": 42.933990478515625,
+    "longitude": -74.18525314331055
+  },
+  "website": "https://calvaryagc.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ec3c0af2-c3aa-45b1-a3d7-124dc1ff72a6&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ec3c0af2-c3aa-45b1-a3d7-124dc1ff72a6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "calvaryagc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "141714424"
+    }
+  ],
+  "advisories": []
+}

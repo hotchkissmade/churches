@@ -1,0 +1,33 @@
+{
+  "id": "f6qsqgn80",
+  "url": "https://constellation.church/f6qsqgn80",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "411 3rd Ave",
+    "city": "Slater",
+    "state": "IA",
+    "zip": "50244"
+  },
+  "coordinates": {
+    "latitude": 41.88089942932129,
+    "longitude": -93.68319702148438
+  },
+  "website": "https://slaterblc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d11eaa2c-e3ca-4c89-84d2-ab96be9e00cb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d11eaa2c-e3ca-4c89-84d2-ab96be9e00cb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "slaterblc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421070378"
+    }
+  ],
+  "advisories": []
+}

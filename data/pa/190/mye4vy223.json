@@ -1,0 +1,33 @@
+{
+  "id": "mye4vy223",
+  "url": "https://constellation.church/mye4vy223",
+  "name": "St. Philip in the Fields",
+  "displayName": "St. Philip in the Fields",
+  "address": {
+    "street": "317 Oreland Mill Rd",
+    "city": "Oreland",
+    "state": "PA",
+    "zip": "19075-2256"
+  },
+  "coordinates": {
+    "latitude": 40.11507225036621,
+    "longitude": -75.19276809692383
+  },
+  "website": "https://stphilipinthefields.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-pennsylvania/list/st-philip-fields",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-pennsylvania/st-philip-fields"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stphilipinthefields.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231614211"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "crx0hmm06",
+  "url": "https://constellation.church/crx0hmm06",
+  "name": "Hillcrest Christian Church",
+  "displayName": "Hillcrest Christian Church",
+  "address": {
+    "street": "3000 S Race St",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80210"
+  },
+  "coordinates": {
+    "latitude": 39.662723541259766,
+    "longitude": -104.96442413330078
+  },
+  "website": "https://hillcrestdenver.org",
+  "listingUrl": "https://www.crcna.org/churches/8432",
+  "identifiers": [
+    {
+      "namespace": "org.crcna.id",
+      "value": "8432"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hillcrestdenver.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510147770"
+    }
+  ],
+  "advisories": []
+}

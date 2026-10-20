@@ -1,0 +1,33 @@
+{
+  "id": "v78h69673",
+  "url": "https://constellation.church/v78h69673",
+  "name": "Harvest Presbyterian Church (PCA)",
+  "displayName": "Harvest Presbyterian Church (PCA)",
+  "address": {
+    "street": "517 Beaver Valley Pike",
+    "city": "Lancaster",
+    "state": "PA",
+    "zip": "17602"
+  },
+  "coordinates": {
+    "latitude": 39.991830825805664,
+    "longitude": -76.25869369506836
+  },
+  "website": "https://harvestchurchlancaster.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4488",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4488"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "harvestchurchlancaster.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800005734"
+    }
+  ],
+  "advisories": []
+}

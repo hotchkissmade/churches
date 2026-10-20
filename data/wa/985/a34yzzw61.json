@@ -1,0 +1,33 @@
+{
+  "id": "a34yzzw61",
+  "url": "https://constellation.church/a34yzzw61",
+  "name": "Gull Harbor Lutheran Church",
+  "displayName": "Gull Harbor Lutheran Church",
+  "address": {
+    "street": "4610 Boston Harbor Rd NE",
+    "city": "Olympia",
+    "state": "WA",
+    "zip": "98506-1857"
+  },
+  "coordinates": {
+    "latitude": 47.09858703613281,
+    "longitude": -122.88592529296875
+  },
+  "website": "https://gullharborlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=598dd894-36b2-4372-99e4-a08753b13705",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "598dd894-36b2-4372-99e4-a08753b13705"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gullharborlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "262736987"
+    }
+  ],
+  "advisories": []
+}

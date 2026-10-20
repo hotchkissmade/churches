@@ -1,0 +1,33 @@
+{
+  "id": "t9vjc9106",
+  "url": "https://constellation.church/t9vjc9106",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "408 N 6th St",
+    "city": "Altoona",
+    "state": "PA",
+    "zip": "16601-5857"
+  },
+  "coordinates": {
+    "latitude": 40.53775978088379,
+    "longitude": -78.3828239440918
+  },
+  "website": "https://trinityaltoona.com/worship-services",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ff4a6687-1a39-4ebe-9e70-6fca5f869477",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ff4a6687-1a39-4ebe-9e70-6fca5f869477"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityaltoona.com/worship-services"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231484165"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mv24v6494",
+  "url": "https://constellation.church/mv24v6494",
+  "name": "St Martin's Lutheran Church",
+  "displayName": "St. Martin's Lutheran Church",
+  "address": {
+    "street": "1200 2nd St NE",
+    "city": "Watertown",
+    "state": "SD",
+    "zip": "57201-1236"
+  },
+  "coordinates": {
+    "latitude": 44.9156436920166,
+    "longitude": -97.1107177734375
+  },
+  "website": "https://stmartinschurch.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24121",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24121"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmartinschurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460271098"
+    }
+  ],
+  "advisories": []
+}

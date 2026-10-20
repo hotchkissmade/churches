@@ -1,0 +1,33 @@
+{
+  "id": "haa2dn683",
+  "url": "https://constellation.church/haa2dn683",
+  "name": "Holy Resurrection Church",
+  "displayName": "Holy Resurrection Church",
+  "address": {
+    "street": "20 Petrograd St",
+    "city": "Berlin",
+    "state": "NH",
+    "zip": "03570-1216"
+  },
+  "coordinates": {
+    "latitude": 44.46806335449219,
+    "longitude": -71.19126510620117
+  },
+  "website": "https://hrocberlin.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ne-berhrc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ne-berhrc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hrocberlin.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "020324500"
+    }
+  ],
+  "advisories": []
+}

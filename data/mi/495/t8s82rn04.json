@@ -1,0 +1,33 @@
+{
+  "id": "t8s82rn04",
+  "url": "https://constellation.church/t8s82rn04",
+  "name": "Covenant CRC",
+  "displayName": "Covenant Christian Reformed Church",
+  "address": {
+    "street": "7171 Willard Ave SE",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49548"
+  },
+  "coordinates": {
+    "latitude": 42.83424377441406,
+    "longitude": -85.6486930847168
+  },
+  "website": "https://covenant-crc.org",
+  "listingUrl": "https://www.crcna.org/churches/3610",
+  "identifiers": [
+    {
+      "namespace": "org.crcna.id",
+      "value": "3610"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covenant-crc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381719641"
+    }
+  ],
+  "advisories": []
+}

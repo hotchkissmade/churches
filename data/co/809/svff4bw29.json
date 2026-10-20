@@ -1,0 +1,33 @@
+{
+  "id": "svff4bw29",
+  "url": "https://constellation.church/svff4bw29",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "4318 N Chestnut St",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80907-3811"
+  },
+  "coordinates": {
+    "latitude": 38.891483306884766,
+    "longitude": -104.83415222167969
+  },
+  "website": "https://salemevlutheran.org/index.html",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24496",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24496"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemevlutheran.org/index.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840814218"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "d1w775r12",
+  "url": "https://constellation.church/d1w775r12",
+  "name": "First Baptist Church Walton",
+  "displayName": "First Baptist Church Walton",
+  "address": {
+    "street": "47 S Main St",
+    "city": "Walton",
+    "state": "KY",
+    "zip": "41094"
+  },
+  "coordinates": {
+    "latitude": 38.86288261413574,
+    "longitude": -84.61050033569336
+  },
+  "website": "https://fbcwalton.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-walton/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-walton"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcwalton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "610461410"
+    }
+  ],
+  "advisories": []
+}

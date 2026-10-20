@@ -1,0 +1,33 @@
+{
+  "id": "m5g08k754",
+  "url": "https://constellation.church/m5g08k754",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "196 Brick Church Rd",
+    "city": "Montgomery",
+    "state": "PA",
+    "zip": "17752-9579"
+  },
+  "coordinates": {
+    "latitude": 41.18500328063965,
+    "longitude": -76.84249877929688
+  },
+  "website": "https://stjohnbrick.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4f5da1af-0337-42d1-b96d-ba4624a1f50e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4f5da1af-0337-42d1-b96d-ba4624a1f50e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnbrick.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231638958"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vsf7rgv35",
+  "url": "https://constellation.church/vsf7rgv35",
+  "name": "Community Lutheran Church",
+  "displayName": "Community Lutheran Church",
+  "address": {
+    "street": "705 Newton Ave",
+    "city": "Hill City",
+    "state": "SD",
+    "zip": "57745-2103"
+  },
+  "coordinates": {
+    "latitude": 43.92580795288086,
+    "longitude": -103.57447052001953
+  },
+  "website": "https://communitylutheran-hillcity-sd.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d96377c0-e792-455e-b06b-f3e7d8e7d80b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d96377c0-e792-455e-b06b-f3e7d8e7d80b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "communitylutheran-hillcity-sd.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460364860"
+    }
+  ],
+  "advisories": []
+}

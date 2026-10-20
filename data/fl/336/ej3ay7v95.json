@@ -1,0 +1,33 @@
+{
+  "id": "ej3ay7v95",
+  "url": "https://constellation.church/ej3ay7v95",
+  "name": "First Baptist Church of Port Tampa",
+  "displayName": "First Baptist Church of Port Tampa",
+  "address": {
+    "street": "8306 Interbay Blvd",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33616"
+  },
+  "coordinates": {
+    "latitude": 27.865591049194336,
+    "longitude": -82.52407836914062
+  },
+  "website": "https://firstbaptistporttampa.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-port-tampa/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-port-tampa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistporttampa.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592128977"
+    }
+  ],
+  "advisories": []
+}

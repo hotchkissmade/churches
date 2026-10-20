@@ -1,0 +1,33 @@
+{
+  "id": "qmx141q55",
+  "url": "https://constellation.church/qmx141q55",
+  "name": "Downtown Baptist Church of Orlando",
+  "displayName": "Downtown Baptist Church of Orlando",
+  "address": {
+    "street": "120 E Pine St",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32801"
+  },
+  "coordinates": {
+    "latitude": 28.540996551513672,
+    "longitude": -81.37619018554688
+  },
+  "website": "https://dbo.church",
+  "listingUrl": "https://churches.sbc.net/church/downtown-baptist-church-of-orlando/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "downtown-baptist-church-of-orlando"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dbo.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592570721"
+    }
+  ],
+  "advisories": []
+}

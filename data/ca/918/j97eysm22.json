@@ -1,0 +1,33 @@
+{
+  "id": "j97eysm22",
+  "url": "https://constellation.church/j97eysm22",
+  "name": "Church in Alhambra",
+  "displayName": "Church in Alhambra",
+  "address": {
+    "street": "11 N 2nd St",
+    "city": "Alhambra",
+    "state": "CA",
+    "zip": "91801"
+  },
+  "coordinates": {
+    "latitude": 34.09465980529785,
+    "longitude": -118.12967681884766
+  },
+  "website": "https://churchinalhambra.org/en",
+  "listingUrl": "https://localchurches.org/churches/alhambra-ca-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "alhambra-ca-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinalhambra.org/en"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900944900"
+    }
+  ],
+  "advisories": []
+}

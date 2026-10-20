@@ -1,0 +1,33 @@
+{
+  "id": "pkt6eck39",
+  "url": "https://constellation.church/pkt6eck39",
+  "name": "Peace Lutheran Church",
+  "displayName": "Peace Lutheran Church",
+  "address": {
+    "street": "805 S Wilmott St",
+    "city": "Otsego",
+    "state": "MI",
+    "zip": "49078-1460"
+  },
+  "coordinates": {
+    "latitude": 42.44828796386719,
+    "longitude": -85.6925048828125
+  },
+  "website": "https://peaceotsego.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24311",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24311"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "peaceotsego.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382295079"
+    }
+  ],
+  "advisories": []
+}

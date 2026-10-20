@@ -1,0 +1,33 @@
+{
+  "id": "g0frrv820",
+  "url": "https://constellation.church/g0frrv820",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "1001 NW 25th St",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73106"
+  },
+  "coordinates": {
+    "latitude": 35.49575614929199,
+    "longitude": -97.52957153320312
+  },
+  "website": "https://fpcokc.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/6998/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "6998"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcokc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "736064925"
+    }
+  ],
+  "advisories": []
+}

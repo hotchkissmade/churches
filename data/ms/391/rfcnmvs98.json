@@ -1,0 +1,33 @@
+{
+  "id": "rfcnmvs98",
+  "url": "https://constellation.church/rfcnmvs98",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "231 N. Washington Street",
+    "city": "Yazoo City",
+    "state": "MS",
+    "zip": "39194"
+  },
+  "coordinates": {
+    "latitude": 32.84823036193848,
+    "longitude": -90.41200256347656
+  },
+  "website": "https://firstpresyazoo.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/427",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "427"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpresyazoo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "646024773"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ngebamb25",
+  "url": "https://constellation.church/ngebamb25",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "4298 Route 204",
+    "city": "Selinsgrove",
+    "state": "PA",
+    "zip": "17870-8793"
+  },
+  "coordinates": {
+    "latitude": 40.86013603210449,
+    "longitude": -76.89979934692383
+  },
+  "website": "https://zionkratzerville.wordpress.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=33fb6fe6-a921-428d-acff-7e586a7f3a2f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "33fb6fe6-a921-428d-acff-7e586a7f3a2f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionkratzerville.wordpress.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232280300"
+    }
+  ],
+  "advisories": []
+}

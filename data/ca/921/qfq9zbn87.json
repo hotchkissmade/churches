@@ -1,0 +1,33 @@
+{
+  "id": "qfq9zbn87",
+  "url": "https://constellation.church/qfq9zbn87",
+  "name": "King’s Cross Church of San Diego",
+  "displayName": "King’s Cross Church of San Diego",
+  "address": {
+    "street": "4747 Soledad Mountain Rd",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92109"
+  },
+  "coordinates": {
+    "latitude": 32.807878494262695,
+    "longitude": -117.22528076171875
+  },
+  "website": "https://kingscrosschurch.us",
+  "listingUrl": "https://churches.sbc.net/church/kings-cross-church-of-san-diego/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "kings-cross-church-of-san-diego"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kingscrosschurch.us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "822502383"
+    }
+  ],
+  "advisories": []
+}

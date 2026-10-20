@@ -1,0 +1,33 @@
+{
+  "id": "kchab9d09",
+  "url": "https://constellation.church/kchab9d09",
+  "name": "St. Thomas Episcopal Church",
+  "displayName": "St. Thomas Episcopal Church",
+  "address": {
+    "street": "312 N Steele St",
+    "city": "Sanford",
+    "state": "NC",
+    "zip": "27330-3922"
+  },
+  "coordinates": {
+    "latitude": 35.48431587219238,
+    "longitude": -79.18199157714844
+  },
+  "website": "https://stthomassanford.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-north-carolina/list/st-thomas-episcopal-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-north-carolina/st-thomas-episcopal-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stthomassanford.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560711767"
+    }
+  ],
+  "advisories": []
+}

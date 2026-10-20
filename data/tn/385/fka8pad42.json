@@ -1,0 +1,33 @@
+{
+  "id": "fka8pad42",
+  "url": "https://constellation.church/fka8pad42",
+  "name": "Hope Church of the Assemblies of God",
+  "displayName": "Hope Church of the Assemblies of God",
+  "address": {
+    "street": "205 W Wall St",
+    "city": "Algood",
+    "state": "TN",
+    "zip": "38506"
+  },
+  "coordinates": {
+    "latitude": 36.191518783569336,
+    "longitude": -85.4518814086914
+  },
+  "website": "https://hopechurchalgood.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=b75d3e79-61a0-436d-adc3-dc61ea61d92a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "b75d3e79-61a0-436d-adc3-dc61ea61d92a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopechurchalgood.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "621060923"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "yacyc8m88",
+  "url": "https://constellation.church/yacyc8m88",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "109 Oak Ave",
+    "city": "Ithaca",
+    "state": "NY",
+    "zip": "14850-4729"
+  },
+  "coordinates": {
+    "latitude": 42.44240951538086,
+    "longitude": -76.48457336425781
+  },
+  "website": "https://stlukeithaca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9e3e35d8-7290-451f-bc11-b9d611147745",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9e3e35d8-7290-451f-bc11-b9d611147745"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukeithaca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "150618679"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ak63mmw46",
+  "url": "https://constellation.church/ak63mmw46",
+  "name": "Sandhills Church",
+  "displayName": "Sandhills Church",
+  "address": {
+    "street": "6481 US Highway 1 N Southern Pines",
+    "city": null,
+    "state": "NC",
+    "zip": "28387"
+  },
+  "coordinates": {
+    "latitude": 35.20175743103027,
+    "longitude": -79.35274124145508
+  },
+  "website": "https://sandhillschurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f117a3f7-525c-48d2-884f-41bb73d9de81&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f117a3f7-525c-48d2-884f-41bb73d9de81"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sandhillschurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561395007"
+    }
+  ],
+  "advisories": []
+}

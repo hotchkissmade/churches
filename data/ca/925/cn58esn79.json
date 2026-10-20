@@ -1,0 +1,33 @@
+{
+  "id": "cn58esn79",
+  "url": "https://constellation.church/cn58esn79",
+  "name": "Riverside Lake Hills Christian Center",
+  "displayName": "Riverside Lake Hills Christian Center",
+  "address": {
+    "street": "12500 Indiana Ave",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92503"
+  },
+  "coordinates": {
+    "latitude": 33.88332176208496,
+    "longitude": -117.4963150024414
+  },
+  "website": "https://lhccr.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d59841a3-a813-4e6b-bff4-9a3ca10e4fbb&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "d59841a3-a813-4e6b-bff4-9a3ca10e4fbb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lhccr.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330654203"
+    }
+  ],
+  "advisories": []
+}

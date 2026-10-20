@@ -1,0 +1,33 @@
+{
+  "id": "cnpvf0093",
+  "url": "https://constellation.church/cnpvf0093",
+  "name": "Apollo Baptist Church",
+  "displayName": "Apollo Baptist Church",
+  "address": {
+    "street": "11611 N 51st Ave",
+    "city": "Glendale",
+    "state": "AZ",
+    "zip": "85304"
+  },
+  "coordinates": {
+    "latitude": 33.59185600280762,
+    "longitude": -112.16822052001953
+  },
+  "website": "https://gbcglendale.com/about/plan-your-visit",
+  "listingUrl": "https://churches.sbc.net/church/apollo-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "apollo-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gbcglendale.com/about/plan-your-visit"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942775521"
+    }
+  ],
+  "advisories": []
+}

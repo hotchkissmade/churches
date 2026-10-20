@@ -1,0 +1,33 @@
+{
+  "id": "x8c1vzb12",
+  "url": "https://constellation.church/x8c1vzb12",
+  "name": "Little Falls Lutheran Church",
+  "displayName": "Little Falls Lutheran Church",
+  "address": {
+    "street": "1272 44th Ave",
+    "city": "Amery",
+    "state": "WI",
+    "zip": "54001-2812"
+  },
+  "coordinates": {
+    "latitude": 45.27069282531738,
+    "longitude": -92.42245101928711
+  },
+  "website": "https://littlefallschurch.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=357ec948-d3ca-4a0f-8230-58f4e3e625e5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "357ec948-d3ca-4a0f-8230-58f4e3e625e5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "littlefallschurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391455338"
+    }
+  ],
+  "advisories": []
+}

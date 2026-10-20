@@ -1,0 +1,33 @@
+{
+  "id": "dsrntv037",
+  "url": "https://constellation.church/dsrntv037",
+  "name": "Corydon Baptist Church",
+  "displayName": "Corydon Baptist Church",
+  "address": {
+    "street": "2454 Hwy 337 NW",
+    "city": "Corydon",
+    "state": "IN",
+    "zip": "47112"
+  },
+  "coordinates": {
+    "latitude": 38.23824501037598,
+    "longitude": -86.15142822265625
+  },
+  "website": "https://corydonbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/corydon-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "corydon-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "corydonbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "208848522"
+    }
+  ],
+  "advisories": []
+}

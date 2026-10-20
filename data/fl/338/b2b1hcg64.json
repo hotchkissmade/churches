@@ -1,0 +1,33 @@
+{
+  "id": "b2b1hcg64",
+  "url": "https://constellation.church/b2b1hcg64",
+  "name": "Medulla Baptist Church",
+  "displayName": "Medulla Baptist Church",
+  "address": {
+    "street": "3930 Old Road 37",
+    "city": "Lakeland",
+    "state": "FL",
+    "zip": "33813"
+  },
+  "coordinates": {
+    "latitude": 27.992115020751953,
+    "longitude": -81.96051406860352
+  },
+  "website": "https://medullachurch.org",
+  "listingUrl": "https://churches.sbc.net/church/medulla-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "medulla-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "medullachurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591152732"
+    }
+  ],
+  "advisories": []
+}

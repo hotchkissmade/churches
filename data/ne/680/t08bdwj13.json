@@ -1,0 +1,33 @@
+{
+  "id": "t08bdwj13",
+  "url": "https://constellation.church/t08bdwj13",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "3200 E Military Ave",
+    "city": "Fremont",
+    "state": "NE",
+    "zip": "68025-5977"
+  },
+  "coordinates": {
+    "latitude": 41.43545913696289,
+    "longitude": -96.45604705810547
+  },
+  "website": "https://flcfremont.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4e68031c-11e9-4ad0-baca-0b64592f94f4",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4e68031c-11e9-4ad0-baca-0b64592f94f4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcfremont.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "476000720"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kg76ytt98",
+  "url": "https://constellation.church/kg76ytt98",
+  "name": "Covington Baptist Church",
+  "displayName": "Covington Baptist Church",
+  "address": {
+    "street": "280 W Riverside St",
+    "city": "Covington",
+    "state": "VA",
+    "zip": "24426"
+  },
+  "coordinates": {
+    "latitude": 37.793331146240234,
+    "longitude": -79.99652862548828
+  },
+  "website": "https://covingtonbc.com",
+  "listingUrl": "https://churches.sbc.net/church/covington-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "covington-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "covingtonbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "546001939"
+    }
+  ],
+  "advisories": []
+}

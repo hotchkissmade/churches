@@ -1,0 +1,33 @@
+{
+  "id": "thg82t091",
+  "url": "https://constellation.church/thg82t091",
+  "name": "Lakeside Lutheran Church",
+  "displayName": "Lakeside Lutheran Church",
+  "address": {
+    "street": "2427 Eaton Ferry Rd",
+    "city": "Littleton",
+    "state": "NC",
+    "zip": "27850-7712"
+  },
+  "coordinates": {
+    "latitude": 36.53265571594238,
+    "longitude": -77.94097900390625
+  },
+  "website": "https://lakesidelutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=030d6372-ba63-4316-9920-b57cdd8b69cd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "030d6372-ba63-4316-9920-b57cdd8b69cd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lakesidelutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561792817"
+    }
+  ],
+  "advisories": []
+}

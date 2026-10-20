@@ -1,0 +1,33 @@
+{
+  "id": "dr7gx3d03",
+  "url": "https://constellation.church/dr7gx3d03",
+  "name": "First Baptist Church of Columbia",
+  "displayName": "First Baptist Church of Columbia",
+  "address": {
+    "street": "1200 Valmeyer Rd",
+    "city": "Columbia",
+    "state": "IL",
+    "zip": "62236"
+  },
+  "coordinates": {
+    "latitude": 38.43962097167969,
+    "longitude": -90.2210578918457
+  },
+  "website": "https://fbccolumbia.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-columbia/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-columbia"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbccolumbia.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371064824"
+    }
+  ],
+  "advisories": []
+}

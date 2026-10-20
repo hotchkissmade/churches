@@ -1,0 +1,33 @@
+{
+  "id": "emdbhr148",
+  "url": "https://constellation.church/emdbhr148",
+  "name": "Valley Christian Center",
+  "displayName": "Valley Christian Center",
+  "address": {
+    "street": "109 S Riverside Dr",
+    "city": "Horseshoe Bend",
+    "state": "ID",
+    "zip": "83629"
+  },
+  "coordinates": {
+    "latitude": 43.91733169555664,
+    "longitude": -116.19342041015625
+  },
+  "website": "https://hsbvalleychristian.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=fe9556b4-b34f-41de-879d-7c6511e3323b&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "fe9556b4-b34f-41de-879d-7c6511e3323b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hsbvalleychristian.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900942479"
+    }
+  ],
+  "advisories": []
+}

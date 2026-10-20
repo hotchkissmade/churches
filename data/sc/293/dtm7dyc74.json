@@ -1,0 +1,33 @@
+{
+  "id": "dtm7dyc74",
+  "url": "https://constellation.church/dtm7dyc74",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "415 S Pine St",
+    "city": "Spartanburg",
+    "state": "SC",
+    "zip": "29302-2752"
+  },
+  "coordinates": {
+    "latitude": 34.945268630981445,
+    "longitude": -81.91278076171875
+  },
+  "website": "https://sjlc.church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=309a76a5-0769-4957-8b3d-d7ab5272aa09",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "309a76a5-0769-4957-8b3d-d7ab5272aa09"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sjlc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570375962"
+    }
+  ],
+  "advisories": []
+}

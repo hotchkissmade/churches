@@ -1,0 +1,33 @@
+{
+  "id": "m0kgj2s16",
+  "url": "https://constellation.church/m0kgj2s16",
+  "name": "Banner Church",
+  "displayName": "Banner Church",
+  "address": {
+    "street": "827 E Main St",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85203"
+  },
+  "coordinates": {
+    "latitude": 33.414350509643555,
+    "longitude": -111.81317901611328
+  },
+  "website": "https://banner.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=6f76cced-5851-40ad-9f12-87fc2827386e&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "6f76cced-5851-40ad-9f12-87fc2827386e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "banner.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "452847273"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hymxbrw93",
+  "url": "https://constellation.church/hymxbrw93",
+  "name": "Kihei Lutheran Church",
+  "displayName": "Kihei Lutheran Church",
+  "address": {
+    "street": "220 Moi Pl",
+    "city": "Kihei",
+    "state": "HI",
+    "zip": "96753-8992"
+  },
+  "coordinates": {
+    "latitude": 20.77781867980957,
+    "longitude": -156.4540557861328
+  },
+  "website": "https://kiheilutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3e1addb5-ec08-4e11-ab7d-e0d48fc6f8cd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3e1addb5-ec08-4e11-ab7d-e0d48fc6f8cd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kiheilutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "990265665"
+    }
+  ],
+  "advisories": []
+}

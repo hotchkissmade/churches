@@ -1,0 +1,33 @@
+{
+  "id": "a278fv030",
+  "url": "https://constellation.church/a278fv030",
+  "name": "St. Peter's Episcopal Church",
+  "displayName": "St. Peter's Episcopal Church",
+  "address": {
+    "street": "178 Clinton St",
+    "city": "Redwood City",
+    "state": "CA",
+    "zip": "94062-1583"
+  },
+  "coordinates": {
+    "latitude": 37.48538780212402,
+    "longitude": -122.2386245727539
+  },
+  "website": "https://stpetersrwc.org/leadership",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-california/list/st-peters-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-california/st-peters-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpetersrwc.org/leadership"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941186208"
+    }
+  ],
+  "advisories": []
+}

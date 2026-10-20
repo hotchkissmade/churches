@@ -1,0 +1,33 @@
+{
+  "id": "k8wawpt14",
+  "url": "https://constellation.church/k8wawpt14",
+  "name": "Rivertown Assembly of God",
+  "displayName": "Rivertown Assembly of God",
+  "address": {
+    "street": "3260 52nd St SW",
+    "city": "Wyoming",
+    "state": "MI",
+    "zip": "49418"
+  },
+  "coordinates": {
+    "latitude": 42.869577407836914,
+    "longitude": -85.7444953918457
+  },
+  "website": "https://rivertownaog.org/about",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ddf70e85-1d23-4255-941c-7d5e90d56816&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ddf70e85-1d23-4255-941c-7d5e90d56816"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rivertownaog.org/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382237105"
+    }
+  ],
+  "advisories": []
+}

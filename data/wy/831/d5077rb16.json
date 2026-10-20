@@ -1,0 +1,37 @@
+{
+  "id": "d5077rb16",
+  "url": "https://constellation.church/d5077rb16",
+  "name": "Star Valley United Church, Inc",
+  "displayName": "Star Valley United Church",
+  "address": {
+    "street": "606 N Main",
+    "city": "Thayne",
+    "state": "WY",
+    "zip": "83127"
+  },
+  "coordinates": {
+    "latitude": 42.92631530761719,
+    "longitude": -111.0042724609375
+  },
+  "website": "https://starvalleyunitedchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c246d71b-38c8-4f2c-9810-af7d8c2bc8db",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c246d71b-38c8-4f2c-9810-af7d8c2bc8db"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "starvalleyunitedchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "352184063"
+    },
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "12263"
+    }
+  ],
+  "advisories": []
+}

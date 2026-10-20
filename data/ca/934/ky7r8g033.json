@@ -1,0 +1,33 @@
+{
+  "id": "ky7r8g033",
+  "url": "https://constellation.church/ky7r8g033",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "295 Old County Rd",
+    "city": "Templeton",
+    "state": "CA",
+    "zip": "93465-9550"
+  },
+  "coordinates": {
+    "latitude": 35.55172348022461,
+    "longitude": -120.70516967773438
+  },
+  "website": "https://blctempleton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=005e268b-15cb-4740-991a-dff5160e6c3e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "005e268b-15cb-4740-991a-dff5160e6c3e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "blctempleton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952748921"
+    }
+  ],
+  "advisories": []
+}

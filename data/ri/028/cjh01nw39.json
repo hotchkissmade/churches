@@ -1,0 +1,33 @@
+{
+  "id": "cjh01nw39",
+  "url": "https://constellation.church/cjh01nw39",
+  "name": "Good Shepherd Lutheran Church",
+  "displayName": "Good Shepherd Lutheran Church",
+  "address": {
+    "street": "383 Old North Rd",
+    "city": "Kingston",
+    "state": "RI",
+    "zip": "02881-1207"
+  },
+  "coordinates": {
+    "latitude": 41.49056434631348,
+    "longitude": -71.51816177368164
+  },
+  "website": "https://goodshepherdri.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9fde0ccc-7c64-424c-bded-7458962e3c0d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9fde0ccc-7c64-424c-bded-7458962e3c0d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherdri.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "050401276"
+    }
+  ],
+  "advisories": []
+}

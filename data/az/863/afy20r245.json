@@ -1,0 +1,33 @@
+{
+  "id": "afy20r245",
+  "url": "https://constellation.church/afy20r245",
+  "name": "American Lutheran Church",
+  "displayName": "American Lutheran Church",
+  "address": {
+    "street": "1085 Scott Drive",
+    "city": "Prescott",
+    "state": "AZ",
+    "zip": "86301"
+  },
+  "coordinates": {
+    "latitude": 34.56231880187988,
+    "longitude": -112.47412109375
+  },
+  "website": "https://americanlutheran.net",
+  "listingUrl": "https://lcmc.net/congregation/105243",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "105243"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "americanlutheran.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860348608"
+    }
+  ],
+  "advisories": []
+}

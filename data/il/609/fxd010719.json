@@ -1,0 +1,33 @@
+{
+  "id": "fxd010719",
+  "url": "https://constellation.church/fxd010719",
+  "name": "Saint Johns Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "109 N Oak",
+    "city": "Buckley",
+    "state": "IL",
+    "zip": "60918"
+  },
+  "coordinates": {
+    "latitude": 40.599103927612305,
+    "longitude": -88.03590393066406
+  },
+  "website": "https://stjohnsbuckley.com",
+  "listingUrl": "https://locator.lcms.org/church/C/116188",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "116188"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsbuckley.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "370720363"
+    }
+  ],
+  "advisories": []
+}

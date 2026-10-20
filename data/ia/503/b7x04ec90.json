@@ -1,0 +1,33 @@
+{
+  "id": "b7x04ec90",
+  "url": "https://constellation.church/b7x04ec90",
+  "name": "Des Moines Valley Friends Meeting",
+  "displayName": "Des Moines Valley Friends Meeting",
+  "address": {
+    "street": "4211 Grand Ave",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50312"
+  },
+  "coordinates": {
+    "latitude": 41.58498001098633,
+    "longitude": -93.67453002929688
+  },
+  "website": "https://desmoinesvalleyfriends.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/des-moines-valley-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "des-moines-valley-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "desmoinesvalleyfriends.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426127019"
+    }
+  ],
+  "advisories": []
+}

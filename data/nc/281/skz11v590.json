@@ -1,0 +1,33 @@
+{
+  "id": "skz11v590",
+  "url": "https://constellation.church/skz11v590",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "512 Old Mount Holly Road",
+    "city": "Stanley",
+    "state": "NC",
+    "zip": "28164"
+  },
+  "coordinates": {
+    "latitude": 35.35428047180176,
+    "longitude": -81.08435821533203
+  },
+  "website": "https://fpcstanley.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/465",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "465"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcstanley.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "566063604"
+    }
+  ],
+  "advisories": []
+}

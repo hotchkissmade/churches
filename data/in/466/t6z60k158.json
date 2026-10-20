@@ -1,0 +1,33 @@
+{
+  "id": "t6z60k158",
+  "url": "https://constellation.church/t6z60k158",
+  "name": "Southgate Church",
+  "displayName": "Southgate Church",
+  "address": {
+    "street": "3717 S Michigan St",
+    "city": "South Bend",
+    "state": "IN",
+    "zip": "46614"
+  },
+  "coordinates": {
+    "latitude": 41.63644790649414,
+    "longitude": -86.25089263916016
+  },
+  "website": "https://southgateag.com/church-online",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=2a3cc608-0474-4ab0-bd6a-819d87447948&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "2a3cc608-0474-4ab0-bd6a-819d87447948"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southgateag.com/church-online"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351004822"
+    }
+  ],
+  "advisories": []
+}

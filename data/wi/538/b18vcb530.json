@@ -1,0 +1,33 @@
+{
+  "id": "b18vcb530",
+  "url": "https://constellation.church/b18vcb530",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "250 S Grant St",
+    "city": "Lancaster",
+    "state": "WI",
+    "zip": "53813-1725"
+  },
+  "coordinates": {
+    "latitude": 42.84635925292969,
+    "longitude": -90.70225524902344
+  },
+  "website": "https://christlutheranlancaster.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4c82458c-6afc-44af-bec7-b6acca05da53",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4c82458c-6afc-44af-bec7-b6acca05da53"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christlutheranlancaster.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391253055"
+    }
+  ],
+  "advisories": []
+}

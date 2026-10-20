@@ -1,0 +1,33 @@
+{
+  "id": "c3pphtj42",
+  "url": "https://constellation.church/c3pphtj42",
+  "name": "Lockhart Baptist Church",
+  "displayName": "Lockhart Baptist Church",
+  "address": {
+    "street": "7601 Edgewater Dr",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32810"
+  },
+  "coordinates": {
+    "latitude": 28.625308990478516,
+    "longitude": -81.44244384765625
+  },
+  "website": "https://lockhartchurch.net",
+  "listingUrl": "https://churches.sbc.net/church/lockhart-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "lockhart-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lockhartchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592297708"
+    }
+  ],
+  "advisories": []
+}

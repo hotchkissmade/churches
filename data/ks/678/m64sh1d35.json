@@ -1,0 +1,33 @@
+{
+  "id": "m64sh1d35",
+  "url": "https://constellation.church/m64sh1d35",
+  "name": "Sublette Southern Baptist Church",
+  "displayName": "Sublette Southern Baptist Church",
+  "address": {
+    "street": "901 Lark Avenue",
+    "city": "Sublette",
+    "state": "KS",
+    "zip": "67877"
+  },
+  "coordinates": {
+    "latitude": 37.47822952270508,
+    "longitude": -100.85843658447266
+  },
+  "website": "https://sublettesbc.com",
+  "listingUrl": "https://churches.sbc.net/church/sublette-southern-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sublette-southern-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sublettesbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480976281"
+    }
+  ],
+  "advisories": []
+}

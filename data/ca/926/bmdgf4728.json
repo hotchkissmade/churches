@@ -1,0 +1,33 @@
+{
+  "id": "bmdgf4728",
+  "url": "https://constellation.church/bmdgf4728",
+  "name": "Church in San Juan Capistrano",
+  "displayName": "Church in San Juan Capistrano",
+  "address": {
+    "street": "31731 San Juan Creek Rd",
+    "city": "San Juan Capistrano",
+    "state": "CA",
+    "zip": "92675"
+  },
+  "coordinates": {
+    "latitude": 33.502363204956055,
+    "longitude": -117.64635467529297
+  },
+  "website": "https://churchinsanjuancapistrano.org",
+  "listingUrl": "https://localchurches.org/churches/san-juan-capistrano-ca-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "san-juan-capistrano-ca-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinsanjuancapistrano.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330859922"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "h1tspd893",
+  "url": "https://constellation.church/h1tspd893",
+  "name": "Elk Creek Lutheran Church",
+  "displayName": "Elk Creek Lutheran Church",
+  "address": {
+    "street": "4108 Killdeer Ave",
+    "city": "Kensett",
+    "state": "IA",
+    "zip": "50448-7512"
+  },
+  "coordinates": {
+    "latitude": 43.35479545593262,
+    "longitude": -93.21369171142578
+  },
+  "website": "https://kensettia.com/churches.html",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6eb45251-9090-4b58-bb4b-6dab3ba3380c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6eb45251-9090-4b58-bb4b-6dab3ba3380c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kensettia.com/churches.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421102729"
+    }
+  ],
+  "advisories": []
+}

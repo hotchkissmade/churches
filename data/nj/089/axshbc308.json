@@ -1,0 +1,33 @@
+{
+  "id": "axshbc308",
+  "url": "https://constellation.church/axshbc308",
+  "name": "Church of St. John the Evangelist",
+  "displayName": "Church of St. John the Evangelist",
+  "address": {
+    "street": "189 George St",
+    "city": "New Brunswick",
+    "state": "NJ",
+    "zip": "08901-1399"
+  },
+  "coordinates": {
+    "latitude": 40.4881477355957,
+    "longitude": -74.44033432006836
+  },
+  "website": "https://stjohnsnewbrunswick.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-new-jersey/list/church-st-john-evangelist",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-new-jersey/church-st-john-evangelist"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsnewbrunswick.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221670390"
+    }
+  ],
+  "advisories": []
+}

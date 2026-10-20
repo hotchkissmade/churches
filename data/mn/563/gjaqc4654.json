@@ -1,0 +1,33 @@
+{
+  "id": "gjaqc4654",
+  "url": "https://constellation.church/gjaqc4654",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "4310 County Road 137",
+    "city": "Saint Cloud",
+    "state": "MN",
+    "zip": "56301-3782"
+  },
+  "coordinates": {
+    "latitude": 36.39363670349121,
+    "longitude": -100.81157684326172
+  },
+  "website": "https://bethlehemlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5d0ec430-4e5a-404e-96c2-582135209c40",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5d0ec430-4e5a-404e-96c2-582135209c40"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethlehemlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410737233"
+    }
+  ],
+  "advisories": []
+}

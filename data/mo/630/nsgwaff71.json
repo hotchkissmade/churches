@@ -1,0 +1,33 @@
+{
+  "id": "nsgwaff71",
+  "url": "https://constellation.church/nsgwaff71",
+  "name": "Church in Saint Louis",
+  "displayName": "Church in St. Louis",
+  "address": {
+    "street": "11510 Old Saint Charles Rd",
+    "city": "Bridgeton",
+    "state": "MO",
+    "zip": "63044"
+  },
+  "coordinates": {
+    "latitude": 38.7375997,
+    "longitude": -90.4162303
+  },
+  "website": "https://churchinstlouis.org",
+  "listingUrl": "https://localchurches.org/churches/saint-louis-mo-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "saint-louis-mo-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchinstlouis.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "542128736"
+    }
+  ],
+  "advisories": []
+}

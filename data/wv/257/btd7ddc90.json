@@ -1,0 +1,33 @@
+{
+  "id": "btd7ddc90",
+  "url": "https://constellation.church/btd7ddc90",
+  "name": "Legacy Church Huntington",
+  "displayName": "Legacy Church Huntington",
+  "address": {
+    "street": "2001 7th Ave",
+    "city": "Huntington",
+    "state": "WV",
+    "zip": "25703"
+  },
+  "coordinates": {
+    "latitude": 38.42028999328613,
+    "longitude": -82.42148208618164
+  },
+  "website": "https://legacychurchhuntington.com",
+  "listingUrl": "https://churches.sbc.net/church/legacy-church-huntington/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "legacy-church-huntington"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "legacychurchhuntington.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "921450724"
+    }
+  ],
+  "advisories": []
+}

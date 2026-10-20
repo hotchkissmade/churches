@@ -1,0 +1,33 @@
+{
+  "id": "t6b8e7674",
+  "url": "https://constellation.church/t6b8e7674",
+  "name": "Flatland Church",
+  "displayName": "Flatland Church",
+  "address": {
+    "street": "4801 N 144th St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68116"
+  },
+  "coordinates": {
+    "latitude": 41.30358123779297,
+    "longitude": -96.13798522949219
+  },
+  "website": "https://flatlandchurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=2c2881ad-959d-43a5-b108-81cb2098b6d1&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "2c2881ad-959d-43a5-b108-81cb2098b6d1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flatlandchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470795919"
+    }
+  ],
+  "advisories": []
+}

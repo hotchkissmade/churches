@@ -1,0 +1,33 @@
+{
+  "id": "h63w4fs74",
+  "url": "https://constellation.church/h63w4fs74",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "3815 S County Road 550 E",
+    "city": "Greensburg",
+    "state": "IN",
+    "zip": "47240-8644"
+  },
+  "coordinates": {
+    "latitude": 39.28201484680176,
+    "longitude": -85.37638092041016
+  },
+  "website": "https://stpaulsmyrna.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6e71d228-b584-4be2-9d2c-e5f9fdc619b9",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6e71d228-b584-4be2-9d2c-e5f9fdc619b9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsmyrna.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351976640"
+    }
+  ],
+  "advisories": []
+}

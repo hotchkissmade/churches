@@ -1,0 +1,33 @@
+{
+  "id": "nv1sh3642",
+  "url": "https://constellation.church/nv1sh3642",
+  "name": "Scranton Baptist Church",
+  "displayName": "Scranton Baptist Church",
+  "address": {
+    "street": "1730 S Church St",
+    "city": "Scranton",
+    "state": "SC",
+    "zip": "29591"
+  },
+  "coordinates": {
+    "latitude": 33.91546058654785,
+    "longitude": -79.74253463745117
+  },
+  "website": "https://scrantonbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/scranton-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "scranton-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "scrantonbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570419579"
+    }
+  ],
+  "advisories": []
+}

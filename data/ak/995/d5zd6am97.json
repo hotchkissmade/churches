@@ -1,0 +1,33 @@
+{
+  "id": "d5zd6am97",
+  "url": "https://constellation.church/d5zd6am97",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "1540 C St",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "99501"
+  },
+  "coordinates": {
+    "latitude": 61.20737838745117,
+    "longitude": -149.8882827758789
+  },
+  "website": "https://anchoragefirst.com/index.html",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f7d5a20d-a257-4cd3-a0b3-266a93f2042d&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f7d5a20d-a257-4cd3-a0b3-266a93f2042d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "anchoragefirst.com/index.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920040699"
+    }
+  ],
+  "advisories": []
+}

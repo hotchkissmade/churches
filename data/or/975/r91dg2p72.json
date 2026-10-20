@@ -1,0 +1,33 @@
+{
+  "id": "r91dg2p72",
+  "url": "https://constellation.church/r91dg2p72",
+  "name": "St. Mark's Parish",
+  "displayName": "St. Mark's Parish",
+  "address": {
+    "street": "140 N Oakdale Ave",
+    "city": "Medford",
+    "state": "OR",
+    "zip": "97501"
+  },
+  "coordinates": {
+    "latitude": 42.32517433166504,
+    "longitude": -122.87885284423828
+  },
+  "website": "https://stmarks-medford.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-oregon/list/st-marks-episcopal-parish",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-oregon/st-marks-episcopal-parish"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarks-medford.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "936000043"
+    }
+  ],
+  "advisories": []
+}

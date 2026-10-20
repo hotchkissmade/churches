@@ -1,0 +1,33 @@
+{
+  "id": "tz51pd428",
+  "url": "https://constellation.church/tz51pd428",
+  "name": "St Anne's Episcopal Church and Day School",
+  "displayName": "St. Anne's Episcopal Church and Day School",
+  "address": {
+    "street": "3098 Saint Anne's Ln NW",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30327"
+  },
+  "coordinates": {
+    "latitude": 33.83953094482422,
+    "longitude": -84.41827392578125
+  },
+  "website": "https://saintannes.com/buddy",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-atlanta/list/st-annes-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-atlanta/st-annes-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintannes.com/buddy"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "586010151"
+    }
+  ],
+  "advisories": []
+}

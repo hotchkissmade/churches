@@ -1,0 +1,33 @@
+{
+  "id": "t9spnc261",
+  "url": "https://constellation.church/t9spnc261",
+  "name": "St. George's Episcopal Church",
+  "displayName": "St. George's Episcopal Church",
+  "address": {
+    "street": "1024 SE Cass Ave",
+    "city": "Roseburg",
+    "state": "OR",
+    "zip": "97470-4984"
+  },
+  "coordinates": {
+    "latitude": 43.20769691467285,
+    "longitude": -123.34380340576172
+  },
+  "website": "https://roseburgorthodoxchurch.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-oregon/list/st-georges-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-oregon/st-georges-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "roseburgorthodoxchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900617330"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p743ttc38",
+  "url": "https://constellation.church/p743ttc38",
+  "name": "Sleepy Hollow United Methodist Church",
+  "displayName": "Sleepy Hollow United Methodist Church",
+  "address": {
+    "street": "3435 Sleepy Hollow Rd",
+    "city": "Falls Church",
+    "state": "VA",
+    "zip": "22044"
+  },
+  "coordinates": {
+    "latitude": 38.849632263183594,
+    "longitude": -77.17191314697266
+  },
+  "website": "https://sleepyhollowumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMPgIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMPgIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sleepyhollowumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541945259"
+    }
+  ],
+  "advisories": []
+}

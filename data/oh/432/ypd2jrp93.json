@@ -1,0 +1,33 @@
+{
+  "id": "ypd2jrp93",
+  "url": "https://constellation.church/ypd2jrp93",
+  "name": "Ascension Lutheran Church",
+  "displayName": "Ascension Lutheran Church",
+  "address": {
+    "street": "1479 Morse Rd",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43229-6423"
+  },
+  "coordinates": {
+    "latitude": 40.060123443603516,
+    "longitude": -82.98018646240234
+  },
+  "website": "https://ascension-columbus.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e0c9faf1-c89b-430b-9a64-e9d9b18a00c8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e0c9faf1-c89b-430b-9a64-e9d9b18a00c8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ascension-columbus.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "316402723"
+    }
+  ],
+  "advisories": []
+}

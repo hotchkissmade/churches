@@ -1,0 +1,33 @@
+{
+  "id": "gppf09330",
+  "url": "https://constellation.church/gppf09330",
+  "name": "South Side Baptist Church",
+  "displayName": "South Side Baptist Church",
+  "address": {
+    "street": "505 W Greenwood St",
+    "city": "Abbeville",
+    "state": "SC",
+    "zip": "29620"
+  },
+  "coordinates": {
+    "latitude": 34.16998863220215,
+    "longitude": -82.37898635864258
+  },
+  "website": "https://southsideabbeville.com",
+  "listingUrl": "https://churches.sbc.net/church/south-side-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "south-side-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southsideabbeville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570662055"
+    }
+  ],
+  "advisories": []
+}

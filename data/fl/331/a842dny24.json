@@ -1,0 +1,33 @@
+{
+  "id": "a842dny24",
+  "url": "https://constellation.church/a842dny24",
+  "name": "Old Cutler Presbyterian Church",
+  "displayName": "Old Cutler Presbyterian Church",
+  "address": {
+    "street": "14401 Old Cutler Road",
+    "city": "Palmetto Bay",
+    "state": "FL",
+    "zip": "33158"
+  },
+  "coordinates": {
+    "latitude": 25.636516571044922,
+    "longitude": -80.3083267211914
+  },
+  "website": "https://ocpc.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/805",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "805"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ocpc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "596195452"
+    }
+  ],
+  "advisories": []
+}

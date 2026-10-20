@@ -1,0 +1,33 @@
+{
+  "id": "kv7dhw109",
+  "url": "https://constellation.church/kv7dhw109",
+  "name": "Bethany Lutheran Church",
+  "displayName": "Bethany Lutheran Church",
+  "address": {
+    "street": "404 Roosevelt St",
+    "city": "Fort Atkinson",
+    "state": "WI",
+    "zip": "53538-1660"
+  },
+  "coordinates": {
+    "latitude": 42.932952880859375,
+    "longitude": -88.84846496582031
+  },
+  "website": "https://bethanylutheranfort.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24900",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24900"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanylutheranfort.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390979223"
+    }
+  ],
+  "advisories": []
+}

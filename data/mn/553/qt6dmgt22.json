@@ -1,0 +1,33 @@
+{
+  "id": "qt6dmgt22",
+  "url": "https://constellation.church/qt6dmgt22",
+  "name": "St Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "500 Cedar Ave E",
+    "city": "Hector",
+    "state": "MN",
+    "zip": "55342-2600"
+  },
+  "coordinates": {
+    "latitude": 44.74278259277344,
+    "longitude": -94.70893859863281
+  },
+  "website": "https://stpaulshector.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5818eaa5-c1c2-4e9c-a644-9c17912d53a0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5818eaa5-c1c2-4e9c-a644-9c17912d53a0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulshector.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411285815"
+    }
+  ],
+  "advisories": []
+}

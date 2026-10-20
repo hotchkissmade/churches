@@ -1,0 +1,33 @@
+{
+  "id": "s5hphjg19",
+  "url": "https://constellation.church/s5hphjg19",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "2170 Route 212",
+    "city": "Coopersburg",
+    "state": "PA",
+    "zip": "18036-9770"
+  },
+  "coordinates": {
+    "latitude": 40.52935981750488,
+    "longitude": -75.29583358764648
+  },
+  "website": "https://trinitypv.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e8433ed2-17d4-448b-812e-af5b136456d8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e8433ed2-17d4-448b-812e-af5b136456d8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitypv.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232046208"
+    }
+  ],
+  "advisories": []
+}

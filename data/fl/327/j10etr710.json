@@ -1,0 +1,33 @@
+{
+  "id": "j10etr710",
+  "url": "https://constellation.church/j10etr710",
+  "name": "Connect Church",
+  "displayName": "Connect Church",
+  "address": {
+    "street": "1607 Sanford Ave",
+    "city": "Sanford",
+    "state": "FL",
+    "zip": "32771"
+  },
+  "coordinates": {
+    "latitude": 28.79755210876465,
+    "longitude": -81.2647705078125
+  },
+  "website": "https://connectseminole.com",
+  "listingUrl": "https://churches.sbc.net/church/connect-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "connect-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "connectseminole.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590830749"
+    }
+  ],
+  "advisories": []
+}

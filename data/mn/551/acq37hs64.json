@@ -1,0 +1,33 @@
+{
+  "id": "acq37hs64",
+  "url": "https://constellation.church/acq37hs64",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "1200 Oakdale Ave",
+    "city": "West Saint Paul",
+    "state": "MN",
+    "zip": "55118-2601"
+  },
+  "coordinates": {
+    "latitude": 44.909711837768555,
+    "longitude": -93.0733642578125
+  },
+  "website": "https://stcroixlutheran.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24442",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24442"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stcroixlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410842883"
+    }
+  ],
+  "advisories": []
+}

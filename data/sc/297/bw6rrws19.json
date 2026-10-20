@@ -1,0 +1,33 @@
+{
+  "id": "bw6rrws19",
+  "url": "https://constellation.church/bw6rrws19",
+  "name": "Central Baptist Church",
+  "displayName": "Central Baptist Church",
+  "address": {
+    "street": "110 Ross Cannon St",
+    "city": "York",
+    "state": "SC",
+    "zip": "29745"
+  },
+  "coordinates": {
+    "latitude": 34.9976921081543,
+    "longitude": -81.23038101196289
+  },
+  "website": "https://centralbaptistyork.com",
+  "listingUrl": "https://churches.sbc.net/church/central-baptist-church-42/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "central-baptist-church-42"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centralbaptistyork.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570737712"
+    }
+  ],
+  "advisories": []
+}

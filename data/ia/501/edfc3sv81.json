@@ -1,0 +1,33 @@
+{
+  "id": "edfc3sv81",
+  "url": "https://constellation.church/edfc3sv81",
+  "name": "Madrid E Free Church",
+  "displayName": "Madrid E Free Church",
+  "address": {
+    "street": "2243 S Ave",
+    "city": "Madrid",
+    "state": "IA",
+    "zip": "50156-7592"
+  },
+  "coordinates": {
+    "latitude": 41.88650894165039,
+    "longitude": -93.81651306152344
+  },
+  "website": "https://madridefc.org",
+  "listingUrl": "https://churches.efca.org/?id=12003",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12003"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "madridefc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420983982"
+    }
+  ],
+  "advisories": []
+}

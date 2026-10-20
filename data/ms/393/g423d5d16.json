@@ -1,0 +1,33 @@
+{
+  "id": "g423d5d16",
+  "url": "https://constellation.church/g423d5d16",
+  "name": "Trinity Presbyterian Church",
+  "displayName": "Trinity Presbyterian Church",
+  "address": {
+    "street": "4223 Poplar Springs Dr",
+    "city": "Meridian",
+    "state": "MS",
+    "zip": "39305"
+  },
+  "coordinates": {
+    "latitude": 32.40281105041504,
+    "longitude": -88.70406341552734
+  },
+  "website": "https://trinitymeridian.org",
+  "listingUrl": "https://eco-pres.org/churches/trinity-presbyterian-church-meridian/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "trinity-presbyterian-church-meridian"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitymeridian.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "646012826"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wschfsa11",
+  "url": "https://constellation.church/wschfsa11",
+  "name": "West Side Presbyterian Church",
+  "displayName": "West Side Presbyterian Church",
+  "address": {
+    "street": "6 S Monroe St",
+    "city": "Ridgewood",
+    "state": "NJ",
+    "zip": "07450"
+  },
+  "coordinates": {
+    "latitude": 40.982194900512695,
+    "longitude": -74.12798309326172
+  },
+  "website": "https://westside.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/4742/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "4742"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westside.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221494455"
+    }
+  ],
+  "advisories": []
+}

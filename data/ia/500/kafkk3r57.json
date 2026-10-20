@@ -1,0 +1,33 @@
+{
+  "id": "kafkk3r57",
+  "url": "https://constellation.church/kafkk3r57",
+  "name": "Keystone Church",
+  "displayName": "Keystone Church",
+  "address": {
+    "street": "5525 NE Delaware Ave",
+    "city": "Ankeny",
+    "state": "IA",
+    "zip": "50021"
+  },
+  "coordinates": {
+    "latitude": 41.68668746948242,
+    "longitude": -93.5810546875
+  },
+  "website": "https://keystonelife.com",
+  "listingUrl": "https://churches.sbc.net/church/keystone-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "keystone-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "keystonelife.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "821081545"
+    }
+  ],
+  "advisories": []
+}

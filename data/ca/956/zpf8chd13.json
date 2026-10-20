@@ -1,0 +1,33 @@
+{
+  "id": "zpf8chd13",
+  "url": "https://constellation.church/zpf8chd13",
+  "name": "St Mark's Lutheran Church",
+  "displayName": "St. Mark's Lutheran Church",
+  "address": {
+    "street": "7869 Kingswood Dr",
+    "city": "Citrus Heights",
+    "state": "CA",
+    "zip": "95610-7622"
+  },
+  "coordinates": {
+    "latitude": 38.6696907,
+    "longitude": -121.2723951
+  },
+  "website": "https://stmarkslutheran.com/homepage",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24021",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24021"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkslutheran.com/homepage"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941726253"
+    }
+  ],
+  "advisories": []
+}

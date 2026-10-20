@@ -1,0 +1,37 @@
+{
+  "id": "xfab84s50",
+  "url": "https://constellation.church/xfab84s50",
+  "name": "Christian Assembly",
+  "displayName": "Christian Assembly",
+  "address": {
+    "street": "229 N Broadway Yonkers",
+    "city": null,
+    "state": "NY",
+    "zip": "10701"
+  },
+  "coordinates": {
+    "latitude": 40.94238090515137,
+    "longitude": -73.89486694335938
+  },
+  "website": "https://yca.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=89b25295-c7f3-49d5-9a2d-24dc7f05b1c6&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "89b25295-c7f3-49d5-9a2d-24dc7f05b1c6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "yca.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "132970459"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "133226406"
+    }
+  ],
+  "advisories": []
+}

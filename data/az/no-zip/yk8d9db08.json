@@ -1,0 +1,33 @@
+{
+  "id": "yk8d9db08",
+  "url": "https://constellation.church/yk8d9db08",
+  "name": "Tempe Friends Meeting",
+  "displayName": "Tempe Friends Meeting",
+  "address": {
+    "street": "318 E 15th St",
+    "city": "Tempe",
+    "state": "AZ",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 33.41221046447754,
+    "longitude": -111.931884765625
+  },
+  "website": "https://tempequakers.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/tempe-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "tempe-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tempequakers.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860487961"
+    }
+  ],
+  "advisories": []
+}

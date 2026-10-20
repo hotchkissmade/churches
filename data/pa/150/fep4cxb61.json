@@ -1,0 +1,33 @@
+{
+  "id": "fep4cxb61",
+  "url": "https://constellation.church/fep4cxb61",
+  "name": "Chippewa United Methodist Church",
+  "displayName": "Chippewa United Methodist Church",
+  "address": {
+    "street": "2545 Darlington Rd",
+    "city": "Beaver Falls",
+    "state": "PA",
+    "zip": "15010-1226"
+  },
+  "coordinates": {
+    "latitude": 40.772016525268555,
+    "longitude": -80.37495803833008
+  },
+  "website": "https://chippewaumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFLzKIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFLzKIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chippewaumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "256011649"
+    }
+  ],
+  "advisories": []
+}

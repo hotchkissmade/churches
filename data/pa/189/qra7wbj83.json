@@ -1,0 +1,33 @@
+{
+  "id": "qra7wbj83",
+  "url": "https://constellation.church/qra7wbj83",
+  "name": "Ascension Lutheran Church",
+  "displayName": "Ascension Lutheran Church",
+  "address": {
+    "street": "900 Washington Crossing Rd",
+    "city": "Newtown",
+    "state": "PA",
+    "zip": "18940-2708"
+  },
+  "coordinates": {
+    "latitude": 40.27236557006836,
+    "longitude": -74.89497756958008
+  },
+  "website": "https://ascensionlutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f48ad682-d543-4593-8afd-9f72d3715ca3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f48ad682-d543-4593-8afd-9f72d3715ca3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ascensionlutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232483017"
+    }
+  ],
+  "advisories": []
+}

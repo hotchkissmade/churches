@@ -1,0 +1,33 @@
+{
+  "id": "f0d51km95",
+  "url": "https://constellation.church/f0d51km95",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "706 Main Street",
+    "city": "Canadian",
+    "state": "TX",
+    "zip": "79014"
+  },
+  "coordinates": {
+    "latitude": 35.91132926940918,
+    "longitude": -100.3801498413086
+  },
+  "website": "https://fbccanadian.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-1170/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-1170"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbccanadian.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751585865"
+    }
+  ],
+  "advisories": []
+}

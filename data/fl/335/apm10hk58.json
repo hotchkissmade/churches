@@ -1,0 +1,33 @@
+{
+  "id": "apm10hk58",
+  "url": "https://constellation.church/apm10hk58",
+  "name": "First Baptist Church of Dade City",
+  "displayName": "First Baptist Church of Dade City",
+  "address": {
+    "street": "12561 Smith Rd",
+    "city": "Dade City",
+    "state": "FL",
+    "zip": "33525"
+  },
+  "coordinates": {
+    "latitude": 28.340316772460938,
+    "longitude": -82.22599792480469
+  },
+  "website": "https://discoverfc.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-dade-city/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-dade-city"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "discoverfc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590816436"
+    }
+  ],
+  "advisories": []
+}

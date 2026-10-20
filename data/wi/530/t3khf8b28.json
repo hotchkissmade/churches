@@ -1,0 +1,33 @@
+{
+  "id": "t3khf8b28",
+  "url": "https://constellation.church/t3khf8b28",
+  "name": "Gethsemane United Methodist Church",
+  "displayName": "Gethsemane United Methodist Church",
+  "address": {
+    "street": "642 Main St",
+    "city": "Pewaukee",
+    "state": "WI",
+    "zip": "53072"
+  },
+  "coordinates": {
+    "latitude": 43.07622146606445,
+    "longitude": -88.25417709350586
+  },
+  "website": "https://pewaukeeumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFOiAIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFOiAIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pewaukeeumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390983298"
+    }
+  ],
+  "advisories": []
+}

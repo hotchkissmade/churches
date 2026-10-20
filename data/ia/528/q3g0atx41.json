@@ -1,0 +1,33 @@
+{
+  "id": "q3g0atx41",
+  "url": "https://constellation.church/q3g0atx41",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "2136 Brady St",
+    "city": "Davenport",
+    "state": "IA",
+    "zip": "52803-2950"
+  },
+  "coordinates": {
+    "latitude": 41.541255950927734,
+    "longitude": -90.57467651367188
+  },
+  "website": "https://stpaulqc.org/worship",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4eb78b12-bad9-45e7-a9db-60f99368836b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4eb78b12-bad9-45e7-a9db-60f99368836b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulqc.org/worship"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420752625"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pgmtsx859",
+  "url": "https://constellation.church/pgmtsx859",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "509 E Pennsylvania Ave",
+    "city": "Deland",
+    "state": "FL",
+    "zip": "32724-3616"
+  },
+  "coordinates": {
+    "latitude": 29.039459228515625,
+    "longitude": -81.2940673828125
+  },
+  "website": "https://faithlutherandeland.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b4139ce0-4517-452e-a9f2-ce33e6e1eafc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b4139ce0-4517-452e-a9f2-ce33e6e1eafc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithlutherandeland.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590914204"
+    }
+  ],
+  "advisories": []
+}

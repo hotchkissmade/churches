@@ -1,0 +1,33 @@
+{
+  "id": "dpd8rvq61",
+  "url": "https://constellation.church/dpd8rvq61",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "78 Allen St",
+    "city": "Gowanda",
+    "state": "NY",
+    "zip": "14070"
+  },
+  "coordinates": {
+    "latitude": 42.473154067993164,
+    "longitude": -78.94281768798828
+  },
+  "website": "https://gowandaassembly.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=0d7cbfab-310f-43af-aa38-d215e0429801&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "0d7cbfab-310f-43af-aa38-d215e0429801"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gowandaassembly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161086128"
+    }
+  ],
+  "advisories": []
+}

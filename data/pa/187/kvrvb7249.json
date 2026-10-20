@@ -1,0 +1,33 @@
+{
+  "id": "kvrvb7249",
+  "url": "https://constellation.church/kvrvb7249",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "97 S Franklin St",
+    "city": "Wilkes Barre",
+    "state": "PA",
+    "zip": "18701"
+  },
+  "coordinates": {
+    "latitude": 41.245582580566406,
+    "longitude": -75.88592910766602
+  },
+  "website": "https://fpc-wb.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/7792/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "7792"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpc-wb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "240797023"
+    }
+  ],
+  "advisories": []
+}

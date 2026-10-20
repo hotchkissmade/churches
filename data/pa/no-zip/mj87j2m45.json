@@ -1,0 +1,41 @@
+{
+  "id": "mj87j2m45",
+  "url": "https://constellation.church/mj87j2m45",
+  "name": "Willistown Friends Meeting",
+  "displayName": "Willistown Friends Meeting",
+  "address": {
+    "street": "7069 Goshen Rd",
+    "city": "Newtown Square",
+    "state": "PA",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 39.988576889038086,
+    "longitude": -75.48094177246094
+  },
+  "website": "https://newtownsquarefriends.org/meeting-history",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/willistown-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "willistown-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newtownsquarefriends.org/meeting-history"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232623853"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232807222"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232849849"
+    }
+  ],
+  "advisories": []
+}

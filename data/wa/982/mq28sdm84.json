@@ -1,0 +1,33 @@
+{
+  "id": "mq28sdm84",
+  "url": "https://constellation.church/mq28sdm84",
+  "name": "Lake Stevens Assembly of God",
+  "displayName": "Lake Stevens Assembly of God",
+  "address": {
+    "street": "9805 31st Pl NE",
+    "city": "Lake Stevens",
+    "state": "WA",
+    "zip": "98258"
+  },
+  "coordinates": {
+    "latitude": 48.02459716796875,
+    "longitude": -122.09825134277344
+  },
+  "website": "https://lsag.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a8c6ce5c-7d6a-4dd5-aac0-a0377dec0a55&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "a8c6ce5c-7d6a-4dd5-aac0-a0377dec0a55"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lsag.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911191586"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "k76b79a15",
+  "url": "https://constellation.church/k76b79a15",
+  "name": "Holy Trinity Lutheran Church",
+  "displayName": "Holy Trinity Lutheran Church",
+  "address": {
+    "street": "508 Green Pond Rd",
+    "city": "Rockaway",
+    "state": "NJ",
+    "zip": "07866-4209"
+  },
+  "coordinates": {
+    "latitude": 40.961626052856445,
+    "longitude": -74.49536895751953
+  },
+  "website": "https://rockawaylutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3daa4e0f-825b-40c6-96c2-648ab7b1ed7e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3daa4e0f-825b-40c6-96c2-648ab7b1ed7e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rockawaylutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222244613"
+    }
+  ],
+  "advisories": []
+}

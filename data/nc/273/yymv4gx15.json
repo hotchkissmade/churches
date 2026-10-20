@@ -1,0 +1,33 @@
+{
+  "id": "yymv4gx15",
+  "url": "https://constellation.church/yymv4gx15",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "115 Unity St",
+    "city": "Thomasville",
+    "state": "NC",
+    "zip": "27360-2513"
+  },
+  "coordinates": {
+    "latitude": 35.89650917053223,
+    "longitude": -80.08683776855469
+  },
+  "website": "https://gracethomasville.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c68ee53f-fff4-4d68-a0a0-7de0bc0060a5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c68ee53f-fff4-4d68-a0a0-7de0bc0060a5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracethomasville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561030714"
+    }
+  ],
+  "advisories": []
+}

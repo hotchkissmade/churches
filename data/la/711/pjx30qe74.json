@@ -1,0 +1,33 @@
+{
+  "id": "pjx30qe74",
+  "url": "https://constellation.church/pjx30qe74",
+  "name": "Northpoint Community Church",
+  "displayName": "Northpoint Community Church",
+  "address": {
+    "street": "4204 Airline Dr",
+    "city": "Bossier City",
+    "state": "LA",
+    "zip": "71111"
+  },
+  "coordinates": {
+    "latitude": 32.57618713378906,
+    "longitude": -93.71218872070312
+  },
+  "website": "https://ncc.team",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ed27252e-dc82-4a2f-b782-1207787cf94b&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ed27252e-dc82-4a2f-b782-1207787cf94b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ncc.team"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "813817365"
+    }
+  ],
+  "advisories": []
+}

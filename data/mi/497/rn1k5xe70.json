@@ -1,0 +1,33 @@
+{
+  "id": "rn1k5xe70",
+  "url": "https://constellation.church/rn1k5xe70",
+  "name": "Petoskey United Methodist Church",
+  "displayName": "Petoskey United Methodist Church",
+  "address": {
+    "street": "1804 E Mitchell Rd",
+    "city": "Petoskey",
+    "state": "MI",
+    "zip": "49770-9686"
+  },
+  "coordinates": {
+    "latitude": 45.373104095458984,
+    "longitude": -84.9326171875
+  },
+  "website": "https://petoskeyumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFNmGIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFNmGIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "petoskeyumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381784822"
+    }
+  ],
+  "advisories": []
+}

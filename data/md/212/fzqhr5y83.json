@@ -1,0 +1,33 @@
+{
+  "id": "fzqhr5y83",
+  "url": "https://constellation.church/fzqhr5y83",
+  "name": "Church of St. Mary the Virgin",
+  "displayName": "Church of St. Mary the Virgin",
+  "address": {
+    "street": "3121 Walbrook Ave",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21216-3031"
+  },
+  "coordinates": {
+    "latitude": 39.30980110168457,
+    "longitude": -76.67066955566406
+  },
+  "website": "https://stmaryswalbrook.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maryland/list/church-st-mary-virgin",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maryland/church-st-mary-virgin"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmaryswalbrook.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520734835"
+    }
+  ],
+  "advisories": []
+}

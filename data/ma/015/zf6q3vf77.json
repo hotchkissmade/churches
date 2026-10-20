@@ -1,0 +1,37 @@
+{
+  "id": "zf6q3vf77",
+  "url": "https://constellation.church/zf6q3vf77",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "345 Main St",
+    "city": "Sturbridge",
+    "state": "MA",
+    "zip": "01566-1007"
+  },
+  "coordinates": {
+    "latitude": 42.110408782958984,
+    "longitude": -72.08637619018555
+  },
+  "website": "https://bethlehemsturbridge.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9df152ce-e8f6-4bcc-8741-d85790d6e9fd",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9df152ce-e8f6-4bcc-8741-d85790d6e9fd"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethlehemsturbridge.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042888042"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "043284966"
+    }
+  ],
+  "advisories": []
+}

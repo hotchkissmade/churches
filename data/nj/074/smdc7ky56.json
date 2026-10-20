@@ -1,0 +1,33 @@
+{
+  "id": "smdc7ky56",
+  "url": "https://constellation.church/smdc7ky56",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "139 Franklin Ave",
+    "city": "Wyckoff",
+    "state": "NJ",
+    "zip": "07481"
+  },
+  "coordinates": {
+    "latitude": 41.014041900634766,
+    "longitude": -74.15082168579102
+  },
+  "website": "https://wyckoffagnj.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=9c5262dd-9e89-433b-bd54-e4575bcbdf2c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "9c5262dd-9e89-433b-bd54-e4575bcbdf2c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wyckoffagnj.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222178530"
+    }
+  ],
+  "advisories": []
+}

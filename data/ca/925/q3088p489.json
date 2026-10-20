@@ -1,0 +1,33 @@
+{
+  "id": "q3088p489",
+  "url": "https://constellation.church/q3088p489",
+  "name": "The View Church",
+  "displayName": "The View Church",
+  "address": {
+    "street": "26701 McCall Blvd",
+    "city": "Menifee",
+    "state": "CA",
+    "zip": "92586"
+  },
+  "coordinates": {
+    "latitude": 33.714792251586914,
+    "longitude": -117.19469451904297
+  },
+  "website": "https://theview.church",
+  "listingUrl": "https://churches.sbc.net/church/the-view-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-view-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "theview.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330723225"
+    }
+  ],
+  "advisories": []
+}

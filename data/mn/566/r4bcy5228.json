@@ -1,0 +1,33 @@
+{
+  "id": "r4bcy5228",
+  "url": "https://constellation.church/r4bcy5228",
+  "name": "Calvary Lutheran Church",
+  "displayName": "Calvary Lutheran Church",
+  "address": {
+    "street": "2508 Washington Ave SE",
+    "city": "Bemidji",
+    "state": "MN",
+    "zip": "56601-8847"
+  },
+  "coordinates": {
+    "latitude": 47.4371223449707,
+    "longitude": -94.86245727539062
+  },
+  "website": "https://calvarybemidji.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=23599a84-f8d8-46be-973e-9d4188a8c2ce",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "23599a84-f8d8-46be-973e-9d4188a8c2ce"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "calvarybemidji.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410872489"
+    }
+  ],
+  "advisories": []
+}

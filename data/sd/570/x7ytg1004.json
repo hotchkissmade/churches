@@ -1,0 +1,33 @@
+{
+  "id": "x7ytg1004",
+  "url": "https://constellation.church/x7ytg1004",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "46448 263rd St",
+    "city": "Hartford",
+    "state": "SD",
+    "zip": "57033-6909"
+  },
+  "coordinates": {
+    "latitude": 43.57254600524902,
+    "longitude": -96.92103576660156
+  },
+  "website": "https://tlc.churchtrac.com",
+  "listingUrl": "https://locator.lcms.org/church/C/400329",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "400329"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tlc.churchtrac.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "460379802"
+    }
+  ],
+  "advisories": []
+}

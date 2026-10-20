@@ -1,0 +1,33 @@
+{
+  "id": "h86gkk816",
+  "url": "https://constellation.church/h86gkk816",
+  "name": "Atonement Lutheran Church",
+  "displayName": "Atonement Lutheran Church",
+  "address": {
+    "street": "1290 Sierra Granda Blvd",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59105-5440"
+  },
+  "coordinates": {
+    "latitude": 45.83329772949219,
+    "longitude": -108.52287292480469
+  },
+  "website": "https://atonementbillings.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fb0c46f2-e275-4a8a-b68e-eca6804dd07b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fb0c46f2-e275-4a8a-b68e-eca6804dd07b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "atonementbillings.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810374317"
+    }
+  ],
+  "advisories": []
+}

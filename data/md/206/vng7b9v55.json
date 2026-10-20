@@ -1,0 +1,33 @@
+{
+  "id": "vng7b9v55",
+  "url": "https://constellation.church/vng7b9v55",
+  "name": "Leonardtown Baptist Church",
+  "displayName": "Leonardtown Baptist Church",
+  "address": {
+    "street": "23520 HOLLYWOOD ROAD",
+    "city": "LEONARDTOWN",
+    "state": "MD",
+    "zip": "20650"
+  },
+  "coordinates": {
+    "latitude": 38.31434440612793,
+    "longitude": -76.6292839050293
+  },
+  "website": "https://lbcmd.org",
+  "listingUrl": "https://churches.sbc.net/church/leonardtown-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "leonardtown-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lbcmd.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521204988"
+    }
+  ],
+  "advisories": []
+}

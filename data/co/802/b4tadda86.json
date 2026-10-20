@@ -1,0 +1,33 @@
+{
+  "id": "b4tadda86",
+  "url": "https://constellation.church/b4tadda86",
+  "name": "St. Luke's Episcopal Church",
+  "displayName": "St. Luke's Episcopal Church",
+  "address": {
+    "street": "1270 Poplar St",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80220-3023"
+  },
+  "coordinates": {
+    "latitude": 39.73691940307617,
+    "longitude": -104.9041519165039
+  },
+  "website": "https://stlukesdenver.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/episcopal-church-colorado/list/st-lukes-episcopal-church-0",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "episcopal-church-colorado/st-lukes-episcopal-church-0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukesdenver.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "846000073"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "skena8887",
+  "url": "https://constellation.church/skena8887",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "1503 A St NE",
+    "city": "Linton",
+    "state": "IN",
+    "zip": "47441"
+  },
+  "coordinates": {
+    "latitude": 39.03714179992676,
+    "longitude": -87.1456527709961
+  },
+  "website": "https://lintonag.onlinegiving.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=c061de57-073c-4b83-9c53-9001fe7dc2a0&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "c061de57-073c-4b83-9c53-9001fe7dc2a0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lintonag.onlinegiving.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351583818"
+    }
+  ],
+  "advisories": []
+}

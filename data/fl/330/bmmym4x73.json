@@ -1,0 +1,33 @@
+{
+  "id": "bmmym4x73",
+  "url": "https://constellation.church/bmmym4x73",
+  "name": "New Life Baptist Church",
+  "displayName": "New Life Baptist Church",
+  "address": {
+    "street": "5005 NW 173rd Dr",
+    "city": "Carol City",
+    "state": "FL",
+    "zip": "33055"
+  },
+  "coordinates": {
+    "latitude": 25.93181037902832,
+    "longitude": -80.28278732299805
+  },
+  "website": "https://visitnewlife.net",
+  "listingUrl": "https://churches.sbc.net/church/new-life-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-life-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "visitnewlife.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591608525"
+    }
+  ],
+  "advisories": []
+}

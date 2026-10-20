@@ -1,0 +1,33 @@
+{
+  "id": "stsfxr255",
+  "url": "https://constellation.church/stsfxr255",
+  "name": "Mooreton Lutheran Church",
+  "displayName": "Mooreton Lutheran Church",
+  "address": {
+    "street": "210 1st Ave S",
+    "city": "Mooreton",
+    "state": "ND",
+    "zip": "58061"
+  },
+  "coordinates": {
+    "latitude": 46.30584716796875,
+    "longitude": -96.73646545410156
+  },
+  "website": "https://flcmlc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=55e18de1-b292-45be-bed6-0a7d72ca6738",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "55e18de1-b292-45be-bed6-0a7d72ca6738"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcmlc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450351255"
+    }
+  ],
+  "advisories": []
+}

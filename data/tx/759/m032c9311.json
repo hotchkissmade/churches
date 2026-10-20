@@ -1,0 +1,33 @@
+{
+  "id": "m032c9311",
+  "url": "https://constellation.church/m032c9311",
+  "name": "St. Cyprian's Episcopal Church",
+  "displayName": "St. Cyprian's Episcopal Church",
+  "address": {
+    "street": "919 S John Redditt Dr",
+    "city": "Lufkin",
+    "state": "TX",
+    "zip": "75904-4326"
+  },
+  "coordinates": {
+    "latitude": 31.323488235473633,
+    "longitude": -94.75345230102539
+  },
+  "website": "https://stcyprianschurch.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-texas/list/st-cyprians-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-texas/st-cyprians-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stcyprianschurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751056293"
+    }
+  ],
+  "advisories": []
+}

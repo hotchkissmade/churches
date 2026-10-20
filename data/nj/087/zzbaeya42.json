@@ -1,0 +1,33 @@
+{
+  "id": "zzbaeya42",
+  "url": "https://constellation.church/zzbaeya42",
+  "name": "Church of the Annunciation",
+  "displayName": "Church of the Annunciation",
+  "address": {
+    "street": "360 Van Zile Rd",
+    "city": "Brick",
+    "state": "NJ",
+    "zip": "08724"
+  },
+  "coordinates": {
+    "latitude": 40.0878849029541,
+    "longitude": -74.12489700317383
+  },
+  "website": "https://holy-annunciation-church.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ny-brtann",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ny-brtann"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holy-annunciation-church.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222004041"
+    }
+  ],
+  "advisories": []
+}

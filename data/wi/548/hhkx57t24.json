@@ -1,0 +1,33 @@
+{
+  "id": "hhkx57t24",
+  "url": "https://constellation.church/hhkx57t24",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "10680 Main St",
+    "city": "Hayward",
+    "state": "WI",
+    "zip": "54843-6595"
+  },
+  "coordinates": {
+    "latitude": 46.01917266845703,
+    "longitude": -91.48954010009766
+  },
+  "website": "https://flchaywardwi.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0cb0462f-4d25-421c-b859-dba6f37c2e87",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0cb0462f-4d25-421c-b859-dba6f37c2e87"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flchaywardwi.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391130512"
+    }
+  ],
+  "advisories": []
+}

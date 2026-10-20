@@ -1,0 +1,33 @@
+{
+  "id": "ynj2sza70",
+  "url": "https://constellation.church/ynj2sza70",
+  "name": "First Baptist Church Aurora",
+  "displayName": "First Baptist Church Aurora",
+  "address": {
+    "street": "201 S Jefferson Ave",
+    "city": "Aurora",
+    "state": "MO",
+    "zip": "65605"
+  },
+  "coordinates": {
+    "latitude": 36.97368049621582,
+    "longitude": -93.7196273803711
+  },
+  "website": "https://fbcaurora.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-aurora/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-aurora"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcaurora.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430830403"
+    }
+  ],
+  "advisories": []
+}

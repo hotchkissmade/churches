@@ -1,0 +1,33 @@
+{
+  "id": "pb7zxa181",
+  "url": "https://constellation.church/pb7zxa181",
+  "name": "Saint Johns Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "2948 240th Ave",
+    "city": "Ada",
+    "state": "MN",
+    "zip": "56510-9317"
+  },
+  "coordinates": {
+    "latitude": 47.35451126098633,
+    "longitude": -96.44097900390625
+  },
+  "website": "https://stjohnsada.com",
+  "listingUrl": "https://locator.lcms.org/church/C/2217",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "2217"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsada.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416094738"
+    }
+  ],
+  "advisories": []
+}

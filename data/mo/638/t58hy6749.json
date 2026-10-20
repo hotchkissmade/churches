@@ -1,0 +1,33 @@
+{
+  "id": "t58hy6749",
+  "url": "https://constellation.church/t58hy6749",
+  "name": "First Baptist Church Bertrand",
+  "displayName": "First Baptist Church Bertrand",
+  "address": {
+    "street": "104 South Poplar",
+    "city": "Bertrand",
+    "state": "MO",
+    "zip": "63823"
+  },
+  "coordinates": {
+    "latitude": 36.90869331359863,
+    "longitude": -89.44700622558594
+  },
+  "website": "https://fbc-bertrand.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-bertrand/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-bertrand"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbc-bertrand.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431304830"
+    }
+  ],
+  "advisories": []
+}

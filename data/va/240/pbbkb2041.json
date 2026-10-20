@@ -1,0 +1,37 @@
+{
+  "id": "pbbkb2041",
+  "url": "https://constellation.church/pbbkb2041",
+  "name": "The Hill Church",
+  "displayName": "The Hill Church",
+  "address": {
+    "street": "1026 Lafayette Blvd NW",
+    "city": "Roanoke",
+    "state": "VA",
+    "zip": "24017"
+  },
+  "coordinates": {
+    "latitude": 37.29013633728027,
+    "longitude": -79.97667694091797
+  },
+  "website": "https://thehillchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/the-hill-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-hill-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thehillchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "814566571"
+    },
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "301506"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "j0ng44f53",
+  "url": "https://constellation.church/j0ng44f53",
+  "name": "International Christian Church",
+  "displayName": "International Christian Church",
+  "address": {
+    "street": "2969 Holland Rd",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23453"
+  },
+  "coordinates": {
+    "latitude": 36.78122520446777,
+    "longitude": -76.07544326782227
+  },
+  "website": "https://iccva.org",
+  "listingUrl": "https://churches.sbc.net/church/international-christian-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "international-christian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "iccva.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "200446003"
+    }
+  ],
+  "advisories": []
+}

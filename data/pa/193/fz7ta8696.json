@@ -1,0 +1,33 @@
+{
+  "id": "fz7ta8696",
+  "url": "https://constellation.church/fz7ta8696",
+  "name": "Calvary Lutheran Church",
+  "displayName": "Calvary Lutheran Church",
+  "address": {
+    "street": "730 S New St",
+    "city": "West Chester",
+    "state": "PA",
+    "zip": "19382-3666"
+  },
+  "coordinates": {
+    "latitude": 39.94919204711914,
+    "longitude": -75.60287857055664
+  },
+  "website": "https://clcwc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b53774aa-ede4-41e9-b378-1c58ce0009c5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b53774aa-ede4-41e9-b378-1c58ce0009c5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clcwc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231577458"
+    }
+  ],
+  "advisories": []
+}

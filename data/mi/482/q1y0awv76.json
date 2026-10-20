@@ -1,0 +1,33 @@
+{
+  "id": "q1y0awv76",
+  "url": "https://constellation.church/q1y0awv76",
+  "name": "First English Lutheran Church",
+  "displayName": "First English Lutheran Church",
+  "address": {
+    "street": "800 Vernier Rd",
+    "city": "Grosse Pointe Woods",
+    "state": "MI",
+    "zip": "48236-1530"
+  },
+  "coordinates": {
+    "latitude": 42.43935775756836,
+    "longitude": -82.8881950378418
+  },
+  "website": "https://feelc.org/staff",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c8a741e1-1c5f-4b08-baff-2303eb016f80",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c8a741e1-1c5f-4b08-baff-2303eb016f80"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "feelc.org/staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381398827"
+    }
+  ],
+  "advisories": []
+}

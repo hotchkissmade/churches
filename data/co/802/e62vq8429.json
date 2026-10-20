@@ -1,0 +1,33 @@
+{
+  "id": "e62vq8429",
+  "url": "https://constellation.church/e62vq8429",
+  "name": "Denver",
+  "displayName": "Denver Christadelphian Ecclesia",
+  "address": {
+    "street": "Carl Park Center, 5401 Meade Street",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80221"
+  },
+  "coordinates": {
+    "latitude": 39.79512023925781,
+    "longitude": -105.03610229492188
+  },
+  "website": "https://denverchristadelphians.com",
+  "listingUrl": "https://christadelphia.org/ecclesialist.php?CO#denver",
+  "identifiers": [
+    {
+      "namespace": "org.christadelphia.id",
+      "value": "CO#denver"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "denverchristadelphians.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840767423"
+    }
+  ],
+  "advisories": []
+}

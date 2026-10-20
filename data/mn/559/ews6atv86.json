@@ -1,0 +1,33 @@
+{
+  "id": "ews6atv86",
+  "url": "https://constellation.church/ews6atv86",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "301 Highland St",
+    "city": "West Concord",
+    "state": "MN",
+    "zip": "55985-8813"
+  },
+  "coordinates": {
+    "latitude": 44.15142059326172,
+    "longitude": -92.90420532226562
+  },
+  "website": "https://trinitychurchwc.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=34a0aa5f-6a31-42d7-b4d7-f4ca4e71c94d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "34a0aa5f-6a31-42d7-b4d7-f4ca4e71c94d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitychurchwc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411621809"
+    }
+  ],
+  "advisories": []
+}

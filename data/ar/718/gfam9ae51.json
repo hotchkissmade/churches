@@ -1,0 +1,33 @@
+{
+  "id": "gfam9ae51",
+  "url": "https://constellation.church/gfam9ae51",
+  "name": "Life House",
+  "displayName": "Life House",
+  "address": {
+    "street": "600 Oak Street",
+    "city": "Hope",
+    "state": "AR",
+    "zip": "71801"
+  },
+  "coordinates": {
+    "latitude": 33.68146896362305,
+    "longitude": -93.59073638916016
+  },
+  "website": "https://lhhope.com",
+  "listingUrl": "https://churches.sbc.net/church/life-house/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "life-house"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lhhope.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "815236758"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dtkg3yk43",
+  "url": "https://constellation.church/dtkg3yk43",
+  "name": "St Paul's United Methodist Church",
+  "displayName": "St. Paul's United Methodist Church",
+  "address": {
+    "street": "9500 Constitution Ave NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87112-5111"
+  },
+  "coordinates": {
+    "latitude": 35.09400749206543,
+    "longitude": -106.54010009765625
+  },
+  "website": "https://spumcabq.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFObrIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFObrIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "spumcabq.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850159006"
+    }
+  ],
+  "advisories": []
+}

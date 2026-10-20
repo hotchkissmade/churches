@@ -1,0 +1,33 @@
+{
+  "id": "tf6xpyk40",
+  "url": "https://constellation.church/tf6xpyk40",
+  "name": "St Mark's Lutheran Church",
+  "displayName": "St. Mark's Lutheran Church",
+  "address": {
+    "street": "28595 Randolph Blvd",
+    "city": "Randolph",
+    "state": "MN",
+    "zip": "55065-9613"
+  },
+  "coordinates": {
+    "latitude": 44.53487586975098,
+    "longitude": -93.0039176940918
+  },
+  "website": "https://stmarksrandolph.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c9ce2f19-119c-4205-8e91-454a5ce587be",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c9ce2f19-119c-4205-8e91-454a5ce587be"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarksrandolph.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411347811"
+    }
+  ],
+  "advisories": []
+}

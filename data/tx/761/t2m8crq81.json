@@ -1,0 +1,33 @@
+{
+  "id": "t2m8crq81",
+  "url": "https://constellation.church/t2m8crq81",
+  "name": "Northbrook Church",
+  "displayName": "Northbrook Church",
+  "address": {
+    "street": "2041 Canchim Street",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76131"
+  },
+  "coordinates": {
+    "latitude": 32.8780168,
+    "longitude": -97.3308617
+  },
+  "website": "https://northbrookchurch.net",
+  "listingUrl": "https://churches.sbc.net/church/northbrook-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northbrook-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northbrookchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "842742221"
+    }
+  ],
+  "advisories": []
+}

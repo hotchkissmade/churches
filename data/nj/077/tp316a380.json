@@ -1,0 +1,33 @@
+{
+  "id": "tp316a380",
+  "url": "https://constellation.church/tp316a380",
+  "name": "Hope Lutheran Church",
+  "displayName": "Hope Lutheran Church",
+  "address": {
+    "street": "211 Elton Adelphia Rd",
+    "city": "Freehold",
+    "state": "NJ",
+    "zip": "07728-8021"
+  },
+  "coordinates": {
+    "latitude": 40.22096252441406,
+    "longitude": -74.27337265014648
+  },
+  "website": "https://hopefreehold.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e6fa28d6-c734-4773-92b0-4eae331dda5f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e6fa28d6-c734-4773-92b0-4eae331dda5f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopefreehold.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "226081941"
+    }
+  ],
+  "advisories": []
+}

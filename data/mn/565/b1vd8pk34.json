@@ -1,0 +1,33 @@
+{
+  "id": "b1vd8pk34",
+  "url": "https://constellation.church/b1vd8pk34",
+  "name": "St. James' Episcopal Church",
+  "displayName": "St. James' Episcopal Church",
+  "address": {
+    "street": "321 S Lakeside Dr",
+    "city": "Fergus Falls",
+    "state": "MN",
+    "zip": "56537-2219"
+  },
+  "coordinates": {
+    "latitude": 46.286399841308594,
+    "longitude": -96.07638549804688
+  },
+  "website": "https://stjamesepiscopalff.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/st-james-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/st-james-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamesepiscopalff.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416032966"
+    }
+  ],
+  "advisories": []
+}

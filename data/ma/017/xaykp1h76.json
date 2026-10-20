@@ -1,0 +1,33 @@
+{
+  "id": "xaykp1h76",
+  "url": "https://constellation.church/xaykp1h76",
+  "name": "Bethany Community Church",
+  "displayName": "Bethany Community Church",
+  "address": {
+    "street": "15 Cape Rd",
+    "city": "Mendon",
+    "state": "MA",
+    "zip": "01756"
+  },
+  "coordinates": {
+    "latitude": 42.100337982177734,
+    "longitude": -71.50439071655273
+  },
+  "website": "https://bccma.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=3f8cf2c3-acac-4148-8afd-4a3cd12e3f44&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "3f8cf2c3-acac-4148-8afd-4a3cd12e3f44"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bccma.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042775333"
+    }
+  ],
+  "advisories": []
+}

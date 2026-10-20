@@ -1,0 +1,33 @@
+{
+  "id": "w1dp85c63",
+  "url": "https://constellation.church/w1dp85c63",
+  "name": "Emmanuel Lutheran Church",
+  "displayName": "Emmanuel Lutheran Church",
+  "address": {
+    "street": "777 Mooring Line Dr",
+    "city": "Naples",
+    "state": "FL",
+    "zip": "34102-4715"
+  },
+  "coordinates": {
+    "latitude": 26.174848556518555,
+    "longitude": -81.80191040039062
+  },
+  "website": "https://naplesemmanuel.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ac59b3e6-0910-4120-a585-88c2e616583c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ac59b3e6-0910-4120-a585-88c2e616583c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "naplesemmanuel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591377616"
+    }
+  ],
+  "advisories": []
+}

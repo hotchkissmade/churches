@@ -1,0 +1,33 @@
+{
+  "id": "w9syw8n70",
+  "url": "https://constellation.church/w9syw8n70",
+  "name": "Portland",
+  "displayName": "Portland Christadelphian Ecclesia",
+  "address": {
+    "street": "8970 SW Murray Blvd.",
+    "city": "Beaverton",
+    "state": "OR",
+    "zip": "97005"
+  },
+  "coordinates": {
+    "latitude": 45.455047607421875,
+    "longitude": -122.82513427734375
+  },
+  "website": "https://portlandchristadelphians.org/about",
+  "listingUrl": "https://christadelphia.org/ecclesialist.php?OR#portland",
+  "identifiers": [
+    {
+      "namespace": "org.christadelphia.id",
+      "value": "OR#portland"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "portlandchristadelphians.org/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "936024958"
+    }
+  ],
+  "advisories": []
+}

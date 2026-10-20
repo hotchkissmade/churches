@@ -1,0 +1,33 @@
+{
+  "id": "jr8wd1e09",
+  "url": "https://constellation.church/jr8wd1e09",
+  "name": "Holy Resurrection Church",
+  "displayName": "Holy Resurrection Church",
+  "address": {
+    "street": "414 East College St",
+    "city": "Clinton",
+    "state": "MS",
+    "zip": "39056-4710"
+  },
+  "coordinates": {
+    "latitude": 32.33636665344238,
+    "longitude": -90.32153701782227
+  },
+  "website": "https://holyres.net",
+  "listingUrl": "https://www.oca.org/parishes/oca-so-clihrc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-so-clihrc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holyres.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640744822"
+    }
+  ],
+  "advisories": []
+}

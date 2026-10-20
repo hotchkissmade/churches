@@ -1,0 +1,33 @@
+{
+  "id": "f0zvwbx42",
+  "url": "https://constellation.church/f0zvwbx42",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "1813 Fire Monument Road",
+    "city": "Hinckley",
+    "state": "MN",
+    "zip": "55037"
+  },
+  "coordinates": {
+    "latitude": 46.01148986816406,
+    "longitude": -92.90385437011719
+  },
+  "website": "https://firstpreshinckley.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/472",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "472"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstpreshinckley.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410785144"
+    }
+  ],
+  "advisories": []
+}

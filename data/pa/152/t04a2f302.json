@@ -1,0 +1,33 @@
+{
+  "id": "t04a2f302",
+  "url": "https://constellation.church/t04a2f302",
+  "name": "Brookline Assembly of God",
+  "displayName": "Brookline Assembly of God",
+  "address": {
+    "street": "601 Brookline Blvd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15226"
+  },
+  "coordinates": {
+    "latitude": 40.39550590515137,
+    "longitude": -80.02222442626953
+  },
+  "website": "https://cityof.com/pa/pittsburgh/churches/assembly-of-god",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=4119e20c-cabc-43b5-bfe6-c53fb08b1637&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "4119e20c-cabc-43b5-bfe6-c53fb08b1637"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cityof.com/pa/pittsburgh/churches/assembly-of-god"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232943128"
+    }
+  ],
+  "advisories": []
+}

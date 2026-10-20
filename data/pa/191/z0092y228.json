@@ -1,0 +1,33 @@
+{
+  "id": "z0092y228",
+  "url": "https://constellation.church/z0092y228",
+  "name": "Tabor Lutheran Church",
+  "displayName": "Tabor Lutheran Church",
+  "address": {
+    "street": "4843 N Mascher St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19120-4242"
+  },
+  "coordinates": {
+    "latitude": 40.02451133728027,
+    "longitude": -75.1252326965332
+  },
+  "website": "https://taborphila.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=70c1f2ed-6e21-4958-99bc-22647f2461ec",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "70c1f2ed-6e21-4958-99bc-22647f2461ec"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "taborphila.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231365233"
+    }
+  ],
+  "advisories": []
+}

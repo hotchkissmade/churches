@@ -1,0 +1,33 @@
+{
+  "id": "hnr9d3857",
+  "url": "https://constellation.church/hnr9d3857",
+  "name": "Hillview Assembly of God",
+  "displayName": "Hillview Assembly of God",
+  "address": {
+    "street": "1408 Hillview Blvd",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40229"
+  },
+  "coordinates": {
+    "latitude": 38.0789680480957,
+    "longitude": -85.69050979614258
+  },
+  "website": "https://hillviewag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=5f670a0b-4e4f-40a9-936b-579f068736e9&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "5f670a0b-4e4f-40a9-936b-579f068736e9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hillviewag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611060815"
+    }
+  ],
+  "advisories": []
+}

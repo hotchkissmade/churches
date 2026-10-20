@@ -1,0 +1,33 @@
+{
+  "id": "w5xfppj62",
+  "url": "https://constellation.church/w5xfppj62",
+  "name": "Westview Church",
+  "displayName": "Westview Church",
+  "address": {
+    "street": "6710 Arapahoe Rd",
+    "city": "Boulder",
+    "state": "CO",
+    "zip": "80303-1409"
+  },
+  "coordinates": {
+    "latitude": 40.014060974121094,
+    "longitude": -105.19473266601562
+  },
+  "website": "https://westviewboulder.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c85d873a-f927-4658-9d40-eb9a99a003a6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c85d873a-f927-4658-9d40-eb9a99a003a6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westviewboulder.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "843039066"
+    }
+  ],
+  "advisories": []
+}

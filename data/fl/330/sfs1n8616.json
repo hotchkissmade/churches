@@ -1,0 +1,33 @@
+{
+  "id": "sfs1n8616",
+  "url": "https://constellation.church/sfs1n8616",
+  "name": "Grace Baptist Church",
+  "displayName": "Grace Baptist Church",
+  "address": {
+    "street": "501 NE 48th St",
+    "city": "Pompano Beach",
+    "state": "FL",
+    "zip": "33064"
+  },
+  "coordinates": {
+    "latitude": 26.29203987121582,
+    "longitude": -80.11701965332031
+  },
+  "website": "https://gracechurchsfl.com/what-to-expect",
+  "listingUrl": "https://churches.sbc.net/church/grace-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grace-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracechurchsfl.com/what-to-expect"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "821462933"
+    }
+  ],
+  "advisories": []
+}

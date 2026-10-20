@@ -1,0 +1,37 @@
+{
+  "id": "b10m5br97",
+  "url": "https://constellation.church/b10m5br97",
+  "name": "Willamette Christian Center",
+  "displayName": "Willamette Christian Center",
+  "address": {
+    "street": "2500 W 18th Ave",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97402"
+  },
+  "coordinates": {
+    "latitude": 44.03995895385742,
+    "longitude": -123.13162231445312
+  },
+  "website": "https://mywillamette.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=11ab998b-7430-4040-826a-0434dab7c515&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "11ab998b-7430-4040-826a-0434dab7c515"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mywillamette.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930410400"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930804770"
+    }
+  ],
+  "advisories": []
+}

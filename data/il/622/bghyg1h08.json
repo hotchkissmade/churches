@@ -1,0 +1,33 @@
+{
+  "id": "bghyg1h08",
+  "url": "https://constellation.church/bghyg1h08",
+  "name": "Concord Presbyterian Church",
+  "displayName": "Concord Presbyterian Church",
+  "address": {
+    "street": "338 Covington Drive",
+    "city": "Waterloo",
+    "state": "IL",
+    "zip": "62298"
+  },
+  "coordinates": {
+    "latitude": 38.34912872314453,
+    "longitude": -90.14435577392578
+  },
+  "website": "https://concordwaterloo.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/226",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "226"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "concordwaterloo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371262269"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "kb617sa97",
+  "url": "https://constellation.church/kb617sa97",
+  "name": "Church Hill Presbyterian Church",
+  "displayName": "Church Hill Presbyterian Church",
+  "address": {
+    "street": "517 N 25th Street",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "23223"
+  },
+  "coordinates": {
+    "latitude": 37.53390884399414,
+    "longitude": -77.41633987426758
+  },
+  "website": "https://churchhillpres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6502",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6502"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchhillpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "842655741"
+    }
+  ],
+  "advisories": []
+}

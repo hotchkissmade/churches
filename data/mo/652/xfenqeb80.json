@@ -1,0 +1,33 @@
+{
+  "id": "xfenqeb80",
+  "url": "https://constellation.church/xfenqeb80",
+  "name": "Anthem Church",
+  "displayName": "Anthem Church",
+  "address": {
+    "street": "2604 Paris Rd",
+    "city": "Columbia",
+    "state": "MO",
+    "zip": "65202"
+  },
+  "coordinates": {
+    "latitude": 38.97645378112793,
+    "longitude": -92.29882431030273
+  },
+  "website": "https://anthemcolumbia.com",
+  "listingUrl": "https://churches.sbc.net/church/anthem-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "anthem-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "anthemcolumbia.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "812506648"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "xqa1qcr49",
+  "url": "https://constellation.church/xqa1qcr49",
+  "name": "Cinco Baptist Church",
+  "displayName": "Cinco Baptist Church",
+  "address": {
+    "street": "26 Yacht Club Dr NE",
+    "city": "Fort Walton Beach",
+    "state": "FL",
+    "zip": "32548"
+  },
+  "coordinates": {
+    "latitude": 30.423343658447266,
+    "longitude": -86.61186218261719
+  },
+  "website": "https://cincobaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/cinco-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cinco-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cincobaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591428401"
+    }
+  ],
+  "advisories": []
+}

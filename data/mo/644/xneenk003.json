@@ -1,0 +1,33 @@
+{
+  "id": "xneenk003",
+  "url": "https://constellation.church/xneenk003",
+  "name": "The Bridge",
+  "displayName": "The Bridge",
+  "address": {
+    "street": "1122 S Main St",
+    "city": "Maryville",
+    "state": "MO",
+    "zip": "64468"
+  },
+  "coordinates": {
+    "latitude": 40.33398628234863,
+    "longitude": -94.87527465820312
+  },
+  "website": "https://thebridgemaryville.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=2ab82137-5c0f-4421-b09b-dc7b099f97da&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "2ab82137-5c0f-4421-b09b-dc7b099f97da"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thebridgemaryville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431203870"
+    }
+  ],
+  "advisories": []
+}

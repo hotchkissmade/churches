@@ -1,0 +1,33 @@
+{
+  "id": "kamwssp91",
+  "url": "https://constellation.church/kamwssp91",
+  "name": "St Pauls Third Lutheran Church",
+  "displayName": "St. Paul's Third Lutheran Church",
+  "address": {
+    "street": "2561 Newburg Rd",
+    "city": "Easton",
+    "state": "PA",
+    "zip": "18045-1954"
+  },
+  "coordinates": {
+    "latitude": 40.701311111450195,
+    "longitude": -75.2725715637207
+  },
+  "website": "https://stpaulsthird.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=43ebef69-bdc0-4429-b2fa-cd8ffb08de1a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "43ebef69-bdc0-4429-b2fa-cd8ffb08de1a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsthird.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "246023519"
+    }
+  ],
+  "advisories": []
+}

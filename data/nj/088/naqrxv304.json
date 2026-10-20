@@ -1,0 +1,33 @@
+{
+  "id": "naqrxv304",
+  "url": "https://constellation.church/naqrxv304",
+  "name": "St. Paul's Episcopal Church",
+  "displayName": "St. Paul's Episcopal Church",
+  "address": {
+    "street": "214 Church St",
+    "city": "Bound Brook",
+    "state": "NJ",
+    "zip": "08805-1934"
+  },
+  "coordinates": {
+    "latitude": 40.56495666503906,
+    "longitude": -74.53372955322266
+  },
+  "website": "https://stpaulsbb.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-new-jersey/list/st-pauls-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-new-jersey/st-pauls-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsbb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "221622438"
+    }
+  ],
+  "advisories": []
+}

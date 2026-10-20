@@ -1,0 +1,33 @@
+{
+  "id": "zeev24k76",
+  "url": "https://constellation.church/zeev24k76",
+  "name": "Victory Presbyterian Church",
+  "displayName": "Victory Presbyterian Church",
+  "address": {
+    "street": "4213 Monroe Street",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90029"
+  },
+  "coordinates": {
+    "latitude": 34.0857592,
+    "longitude": -118.2899378
+  },
+  "website": "https://vpcla.com/location.php",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1042",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1042"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "vpcla.com/location.php"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953892070"
+    }
+  ],
+  "advisories": []
+}

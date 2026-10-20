@@ -1,0 +1,33 @@
+{
+  "id": "g47w2b678",
+  "url": "https://constellation.church/g47w2b678",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "1216 Colfax St",
+    "city": "Marinette",
+    "state": "WI",
+    "zip": "54143-2320"
+  },
+  "coordinates": {
+    "latitude": 45.0929669,
+    "longitude": -87.6259042
+  },
+  "website": "https://trinitymarinette.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24621",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24621"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitymarinette.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396000198"
+    }
+  ],
+  "advisories": []
+}

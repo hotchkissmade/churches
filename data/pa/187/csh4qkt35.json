@@ -1,0 +1,33 @@
+{
+  "id": "csh4qkt35",
+  "url": "https://constellation.church/csh4qkt35",
+  "name": "Central United Methodist Church",
+  "displayName": "Central United Methodist Church",
+  "address": {
+    "street": "65 Academy St",
+    "city": "Wilkes Barre",
+    "state": "PA",
+    "zip": "18702-3803"
+  },
+  "coordinates": {
+    "latitude": 41.24085998535156,
+    "longitude": -75.89448928833008
+  },
+  "website": "https://centralumcwb.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFJbqIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFJbqIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centralumcwb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "240795953"
+    }
+  ],
+  "advisories": []
+}

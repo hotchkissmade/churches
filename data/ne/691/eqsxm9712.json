@@ -1,0 +1,33 @@
+{
+  "id": "eqsxm9712",
+  "url": "https://constellation.church/eqsxm9712",
+  "name": "American Lutheran Church",
+  "displayName": "American Lutheran Church",
+  "address": {
+    "street": "200 E 12th St",
+    "city": "Cozad",
+    "state": "NE",
+    "zip": "69130-1503"
+  },
+  "coordinates": {
+    "latitude": 40.86331558227539,
+    "longitude": -99.98410034179688
+  },
+  "website": "https://nebraskasynod.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=85ea2022-9ed5-44f0-83c6-5979bfffafde",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "85ea2022-9ed5-44f0-83c6-5979bfffafde"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nebraskasynod.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363514308"
+    }
+  ],
+  "advisories": []
+}

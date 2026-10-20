@@ -1,0 +1,33 @@
+{
+  "id": "nzg4sjx28",
+  "url": "https://constellation.church/nzg4sjx28",
+  "name": "St. Titus' Episcopal Church",
+  "displayName": "St. Titus' Episcopal Church",
+  "address": {
+    "street": "400 Moline St",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27707-2348"
+  },
+  "coordinates": {
+    "latitude": 35.97774696350098,
+    "longitude": -78.9025650024414
+  },
+  "website": "https://sttitusdurham.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-north-carolina/list/church-st-titus",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-north-carolina/church-st-titus"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sttitusdurham.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561624600"
+    }
+  ],
+  "advisories": []
+}

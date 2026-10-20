@@ -1,0 +1,33 @@
+{
+  "id": "t6wvcr377",
+  "url": "https://constellation.church/t6wvcr377",
+  "name": "The Neighborhood Church",
+  "displayName": "The Neighborhood Church",
+  "address": {
+    "street": "625 140th Ave NE",
+    "city": "Bellevue",
+    "state": "WA",
+    "zip": "98005"
+  },
+  "coordinates": {
+    "latitude": 47.61629867553711,
+    "longitude": -122.15396881103516
+  },
+  "website": "https://bnc.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=8ff976fb-8eda-464b-9c14-c4e5cbf6d31a&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "8ff976fb-8eda-464b-9c14-c4e5cbf6d31a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bnc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910950505"
+    }
+  ],
+  "advisories": []
+}

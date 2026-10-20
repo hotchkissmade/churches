@@ -1,0 +1,33 @@
+{
+  "id": "xbjmwbt42",
+  "url": "https://constellation.church/xbjmwbt42",
+  "name": "East Sedalia Baptist Church",
+  "displayName": "East Sedalia Baptist Church",
+  "address": {
+    "street": "1019 E 5th St",
+    "city": "Sedalia",
+    "state": "MO",
+    "zip": "65301"
+  },
+  "coordinates": {
+    "latitude": 38.70684814453125,
+    "longitude": -93.21515655517578
+  },
+  "website": "https://esbchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/east-sedalia-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "east-sedalia-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "esbchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "440565398"
+    }
+  ],
+  "advisories": []
+}

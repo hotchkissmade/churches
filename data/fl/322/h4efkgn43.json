@@ -1,0 +1,33 @@
+{
+  "id": "h4efkgn43",
+  "url": "https://constellation.church/h4efkgn43",
+  "name": "West Park Baptist Church",
+  "displayName": "West Park Baptist Church",
+  "address": {
+    "street": "372 Jones Rd",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32220"
+  },
+  "coordinates": {
+    "latitude": 30.324148178100586,
+    "longitude": -81.80717849731445
+  },
+  "website": "https://wpbcjax.org",
+  "listingUrl": "https://churches.sbc.net/church/west-park-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "west-park-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wpbcjax.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590911466"
+    }
+  ],
+  "advisories": []
+}

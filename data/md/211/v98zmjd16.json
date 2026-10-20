@@ -1,0 +1,33 @@
+{
+  "id": "v98zmjd16",
+  "url": "https://constellation.church/v98zmjd16",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "15891 Hanover Pike",
+    "city": "Upperco",
+    "state": "MD",
+    "zip": "21155"
+  },
+  "coordinates": {
+    "latitude": 39.5581576,
+    "longitude": -76.8396677
+  },
+  "website": "https://stpaulsupperco.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1d8bcde5-45d8-436b-b9c3-68c4991deabe",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1d8bcde5-45d8-436b-b9c3-68c4991deabe"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsupperco.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521356289"
+    }
+  ],
+  "advisories": []
+}

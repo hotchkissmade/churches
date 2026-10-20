@@ -1,0 +1,33 @@
+{
+  "id": "crxts4c25",
+  "url": "https://constellation.church/crxts4c25",
+  "name": "Greenwich Presbyterian Church",
+  "displayName": "Greenwich Presbyterian Church",
+  "address": {
+    "street": "15305 Vint Hill Rd",
+    "city": "Nokesville",
+    "state": "VA",
+    "zip": "20181-1001"
+  },
+  "coordinates": {
+    "latitude": 38.748247146606445,
+    "longitude": -77.64798736572266
+  },
+  "website": "https://greenwichpres.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/10120/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "10120"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "greenwichpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540715273"
+    }
+  ],
+  "advisories": []
+}

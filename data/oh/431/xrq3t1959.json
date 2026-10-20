@@ -1,0 +1,33 @@
+{
+  "id": "xrq3t1959",
+  "url": "https://constellation.church/xrq3t1959",
+  "name": "London Baptist Church",
+  "displayName": "London Baptist Church",
+  "address": {
+    "street": "1440 State Route 665",
+    "city": "London",
+    "state": "OH",
+    "zip": "43140"
+  },
+  "coordinates": {
+    "latitude": 39.8858699798584,
+    "longitude": -83.42084121704102
+  },
+  "website": "https://londonbc.org",
+  "listingUrl": "https://churches.sbc.net/church/london-baptist-church-4/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "london-baptist-church-4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "londonbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311481440"
+    }
+  ],
+  "advisories": []
+}

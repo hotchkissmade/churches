@@ -1,0 +1,33 @@
+{
+  "id": "w27n51835",
+  "url": "https://constellation.church/w27n51835",
+  "name": "Indy Metro Church",
+  "displayName": "Indy Metro Church",
+  "address": {
+    "street": "4201 E 16th St",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46201"
+  },
+  "coordinates": {
+    "latitude": 39.788686752319336,
+    "longitude": -86.09675216674805
+  },
+  "website": "https://indymetro.org",
+  "listingUrl": "https://converge.org/church/indy-metro-church/",
+  "identifiers": [
+    {
+      "namespace": "org.converge.id",
+      "value": "38271"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "indymetro.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "061777795"
+    }
+  ],
+  "advisories": []
+}

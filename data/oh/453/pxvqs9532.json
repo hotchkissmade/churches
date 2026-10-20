@@ -1,0 +1,33 @@
+{
+  "id": "pxvqs9532",
+  "url": "https://constellation.church/pxvqs9532",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "1574 W Main St",
+    "city": "New Lebanon",
+    "state": "OH",
+    "zip": "45345"
+  },
+  "coordinates": {
+    "latitude": 39.74522590637207,
+    "longitude": -84.4150161743164
+  },
+  "website": "https://newlebanon.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=7e8a9781-4a10-4f77-a654-b10ec5e444a6&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "7e8a9781-4a10-4f77-a654-b10ec5e444a6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newlebanon.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "310899065"
+    }
+  ],
+  "advisories": []
+}

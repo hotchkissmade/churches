@@ -1,0 +1,33 @@
+{
+  "id": "bcyy6vc53",
+  "url": "https://constellation.church/bcyy6vc53",
+  "name": "Trinity Presbyterian Church",
+  "displayName": "Trinity Presbyterian Church",
+  "address": {
+    "street": "1010 India Road",
+    "city": "Opelika",
+    "state": "AL",
+    "zip": "36801"
+  },
+  "coordinates": {
+    "latitude": 32.66774940490723,
+    "longitude": -85.3890609741211
+  },
+  "website": "https://tpcopelika.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1001",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1001"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tpcopelika.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630720301"
+    }
+  ],
+  "advisories": []
+}

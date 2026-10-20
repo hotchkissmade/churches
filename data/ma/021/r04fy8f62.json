@@ -1,0 +1,33 @@
+{
+  "id": "r04fy8f62",
+  "url": "https://constellation.church/r04fy8f62",
+  "name": "Cathedral Church of St. Paul",
+  "displayName": "Cathedral Church of St. Paul",
+  "address": {
+    "street": "138 Tremont St",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02111"
+  },
+  "coordinates": {
+    "latitude": 42.35587501525879,
+    "longitude": -71.06232070922852
+  },
+  "website": "https://churchhomesociety.org/about-us",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-massachusetts/list/cathedral-church-st-paul",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-massachusetts/cathedral-church-st-paul"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchhomesociety.org/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "042104001"
+    }
+  ],
+  "advisories": []
+}

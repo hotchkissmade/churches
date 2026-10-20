@@ -1,0 +1,33 @@
+{
+  "id": "jsvsa7p76",
+  "url": "https://constellation.church/jsvsa7p76",
+  "name": "Living Stone Lutheran Church",
+  "displayName": "Living Stone Lutheran Church",
+  "address": {
+    "street": "1100 Bob Courtway Dr Ste 1",
+    "city": "Conway",
+    "state": "AR",
+    "zip": "72032-4767"
+  },
+  "coordinates": {
+    "latitude": 35.09287071228027,
+    "longitude": -92.41416931152344
+  },
+  "website": "https://livingstoneconway.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/27370",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "27370"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "livingstoneconway.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "333645200"
+    }
+  ],
+  "advisories": []
+}

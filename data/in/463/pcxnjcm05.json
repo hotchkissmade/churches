@@ -1,0 +1,33 @@
+{
+  "id": "pcxnjcm05",
+  "url": "https://constellation.church/pcxnjcm05",
+  "name": "Saint Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "1801 Atchison Ave",
+    "city": "Whiting",
+    "state": "IN",
+    "zip": "46394-1615"
+  },
+  "coordinates": {
+    "latitude": 41.68094825744629,
+    "longitude": -87.49991607666016
+  },
+  "website": "https://stpaulwhiting.org",
+  "listingUrl": "https://locator.lcms.org/church/C/975009",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "975009"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulwhiting.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351507388"
+    }
+  ],
+  "advisories": []
+}

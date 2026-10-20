@@ -1,0 +1,33 @@
+{
+  "id": "qe1vjky44",
+  "url": "https://constellation.church/qe1vjky44",
+  "name": "Azalea Baptist Church",
+  "displayName": "Azalea Baptist Church",
+  "address": {
+    "street": "7900 22nd Ave N",
+    "city": "St. Petersburg",
+    "state": "FL",
+    "zip": "33710"
+  },
+  "coordinates": {
+    "latitude": 27.79169464111328,
+    "longitude": -82.74814987182617
+  },
+  "website": "https://azalea.church",
+  "listingUrl": "https://churches.sbc.net/church/azalea-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "azalea-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "azalea.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590910341"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "bb3nj8448",
+  "url": "https://constellation.church/bb3nj8448",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "172 Antes Fort Main St",
+    "city": "Jersey Shore",
+    "state": "PA",
+    "zip": "17740"
+  },
+  "coordinates": {
+    "latitude": 41.1933924,
+    "longitude": -77.2244783
+  },
+  "website": "https://jsassembly.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=3ac143bf-d7bf-480a-a2a6-eb809f4dd479&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "3ac143bf-d7bf-480a-a2a6-eb809f4dd479"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jsassembly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231995856"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "232904971"
+    }
+  ],
+  "advisories": []
+}

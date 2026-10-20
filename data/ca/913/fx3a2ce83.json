@@ -1,0 +1,33 @@
+{
+  "id": "fx3a2ce83",
+  "url": "https://constellation.church/fx3a2ce83",
+  "name": "Church of the Canyons",
+  "displayName": "Church of the Canyons",
+  "address": {
+    "street": "28050 Sand Canyon Rd",
+    "city": "Canyon Country",
+    "state": "CA",
+    "zip": "91387-3645"
+  },
+  "coordinates": {
+    "latitude": 34.41780662536621,
+    "longitude": -118.42152404785156
+  },
+  "website": "https://churchofthecanyons.org",
+  "listingUrl": "https://churches.efca.org/?id=12300",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12300"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchofthecanyons.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953810946"
+    }
+  ],
+  "advisories": []
+}

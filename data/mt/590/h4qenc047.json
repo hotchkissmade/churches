@@ -1,0 +1,33 @@
+{
+  "id": "h4qenc047",
+  "url": "https://constellation.church/h4qenc047",
+  "name": "American Lutheran Church",
+  "displayName": "American Lutheran Church",
+  "address": {
+    "street": "129 S F St",
+    "city": "Livingston",
+    "state": "MT",
+    "zip": "59047-2728"
+  },
+  "coordinates": {
+    "latitude": 45.663753509521484,
+    "longitude": -110.55333709716797
+  },
+  "website": "https://alclivingston.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0c2449f9-66e2-4fa9-acc5-094fc3f71642",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0c2449f9-66e2-4fa9-acc5-094fc3f71642"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "alclivingston.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810385106"
+    }
+  ],
+  "advisories": []
+}

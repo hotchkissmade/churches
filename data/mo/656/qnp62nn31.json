@@ -1,0 +1,33 @@
+{
+  "id": "qnp62nn31",
+  "url": "https://constellation.church/qnp62nn31",
+  "name": "First Baptist Church Ash Grove",
+  "displayName": "First Baptist Church Ash Grove",
+  "address": {
+    "street": "201 E Walker St",
+    "city": "Ash Grove",
+    "state": "MO",
+    "zip": "65604"
+  },
+  "coordinates": {
+    "latitude": 37.31370544433594,
+    "longitude": -93.58426666259766
+  },
+  "website": "https://agfirstbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-ash-grove/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-ash-grove"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "agfirstbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431220167"
+    }
+  ],
+  "advisories": []
+}

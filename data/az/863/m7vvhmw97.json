@@ -1,0 +1,33 @@
+{
+  "id": "m7vvhmw97",
+  "url": "https://constellation.church/m7vvhmw97",
+  "name": "Emmanuel Lutheran Church",
+  "displayName": "Emmanuel Lutheran Church",
+  "address": {
+    "street": "7763 E Long Look Dr",
+    "city": "Prescott Valley",
+    "state": "AZ",
+    "zip": "86314-5607"
+  },
+  "coordinates": {
+    "latitude": 34.60011863708496,
+    "longitude": -112.3291015625
+  },
+  "website": "https://elcpvaz.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b9f48c85-855f-459c-a9cb-7dc889b46ab2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b9f48c85-855f-459c-a9cb-7dc889b46ab2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elcpvaz.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860689076"
+    }
+  ],
+  "advisories": []
+}

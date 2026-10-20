@@ -1,0 +1,33 @@
+{
+  "id": "kk59pc704",
+  "url": "https://constellation.church/kk59pc704",
+  "name": "Unity Point Church, Plano",
+  "displayName": "Unity Point Church, Plano",
+  "address": {
+    "street": "1302 Cherokee Trl",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75023"
+  },
+  "coordinates": {
+    "latitude": 33.0574488,
+    "longitude": -96.7172931
+  },
+  "website": "https://unitypointplano.com",
+  "listingUrl": "https://churches.sbc.net/church/unity-point-church-plano/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "unity-point-church-plano"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "unitypointplano.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "825058488"
+    }
+  ],
+  "advisories": []
+}

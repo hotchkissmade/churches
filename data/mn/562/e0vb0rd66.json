@@ -1,0 +1,33 @@
+{
+  "id": "e0vb0rd66",
+  "url": "https://constellation.church/e0vb0rd66",
+  "name": "First EFC",
+  "displayName": "First Evangelical Free Church",
+  "address": {
+    "street": "900 13th St S",
+    "city": "Benson",
+    "state": "MN",
+    "zip": "56215-2043"
+  },
+  "coordinates": {
+    "latitude": 45.305355072021484,
+    "longitude": -95.6025161743164
+  },
+  "website": "https://bensonefree.org",
+  "listingUrl": "https://churches.efca.org/?id=12002",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12002"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bensonefree.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411318245"
+    }
+  ],
+  "advisories": []
+}

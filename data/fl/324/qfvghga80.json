@@ -1,0 +1,33 @@
+{
+  "id": "qfvghga80",
+  "url": "https://constellation.church/qfvghga80",
+  "name": "First Baptist Church of Marianna",
+  "displayName": "First Baptist Church of Marianna",
+  "address": {
+    "street": "4405 Clinton St",
+    "city": "Marianna",
+    "state": "FL",
+    "zip": "32446"
+  },
+  "coordinates": {
+    "latitude": 30.77591323852539,
+    "longitude": -85.22859954833984
+  },
+  "website": "https://fbcmarianna.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-marianna/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-marianna"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcmarianna.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590864592"
+    }
+  ],
+  "advisories": []
+}

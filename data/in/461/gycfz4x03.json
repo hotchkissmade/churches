@@ -1,0 +1,33 @@
+{
+  "id": "gycfz4x03",
+  "url": "https://constellation.church/gycfz4x03",
+  "name": "St George Lutheran Church",
+  "displayName": "St. George Lutheran Church",
+  "address": {
+    "street": "10931 S 600 W",
+    "city": "Edinburgh",
+    "state": "IN",
+    "zip": "46124"
+  },
+  "coordinates": {
+    "latitude": 39.364248275756836,
+    "longitude": -85.89459228515625
+  },
+  "website": "https://stgeorgelutheran.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f1ea895e-3e4d-42c3-bfbf-3caaffe993b6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f1ea895e-3e4d-42c3-bfbf-3caaffe993b6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stgeorgelutheran.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351392920"
+    }
+  ],
+  "advisories": []
+}

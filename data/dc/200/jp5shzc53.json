@@ -1,0 +1,33 @@
+{
+  "id": "jp5shzc53",
+  "url": "https://constellation.church/jp5shzc53",
+  "name": "National Presbyterian Church",
+  "displayName": "National Presbyterian Church",
+  "address": {
+    "street": "4101 Nebraska Ave NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20016-2735"
+  },
+  "coordinates": {
+    "latitude": 38.941856384277344,
+    "longitude": -77.0805435180664
+  },
+  "website": "https://nationalpres.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/423/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "423"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nationalpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "530196611"
+    }
+  ],
+  "advisories": []
+}

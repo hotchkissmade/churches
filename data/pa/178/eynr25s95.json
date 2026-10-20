@@ -1,0 +1,33 @@
+{
+  "id": "eynr25s95",
+  "url": "https://constellation.church/eynr25s95",
+  "name": "Himmel Lutheran Church",
+  "displayName": "Himmel Lutheran Church",
+  "address": {
+    "street": "107 Covered Bridge Rd",
+    "city": "Dornsife",
+    "state": "PA",
+    "zip": "17823-7034"
+  },
+  "coordinates": {
+    "latitude": 40.71989631652832,
+    "longitude": -76.7238655090332
+  },
+  "website": "https://himmelschurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f34af5d4-1d05-4d83-a12e-099f51d060ee",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f34af5d4-1d05-4d83-a12e-099f51d060ee"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "himmelschurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "240860282"
+    }
+  ],
+  "advisories": []
+}

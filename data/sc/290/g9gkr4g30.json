@@ -1,0 +1,33 @@
+{
+  "id": "g9gkr4g30",
+  "url": "https://constellation.church/g9gkr4g30",
+  "name": "Clarendon Baptist Church",
+  "displayName": "Clarendon Baptist Church",
+  "address": {
+    "street": "1780 Main St",
+    "city": "Alcolu",
+    "state": "SC",
+    "zip": "29001"
+  },
+  "coordinates": {
+    "latitude": 33.74949836730957,
+    "longitude": -80.21646118164062
+  },
+  "website": "https://clarendonbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/clarendon-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "clarendon-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clarendonbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570440464"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jdstgmr02",
+  "url": "https://constellation.church/jdstgmr02",
+  "name": "Saints United Lutheran Church",
+  "displayName": "Saints United Lutheran Church",
+  "address": {
+    "street": "3200 Ryan Ave",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19136-4310"
+  },
+  "coordinates": {
+    "latitude": 40.04236602783203,
+    "longitude": -75.04476547241211
+  },
+  "website": "https://saintsunitedlutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=741efeb7-8b7e-4972-9ca5-3da56b0e2e1f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "741efeb7-8b7e-4972-9ca5-3da56b0e2e1f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintsunitedlutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "320256666"
+    }
+  ],
+  "advisories": []
+}

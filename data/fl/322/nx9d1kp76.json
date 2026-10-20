@@ -1,0 +1,33 @@
+{
+  "id": "nx9d1kp76",
+  "url": "https://constellation.church/nx9d1kp76",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "1415 McDuff Ave S",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32205-8027"
+  },
+  "coordinates": {
+    "latitude": 30.30552101135254,
+    "longitude": -81.70015716552734
+  },
+  "website": "https://trinity4jax.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=14f88f9b-7def-4a2f-aec7-7df5f679c2bb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "14f88f9b-7def-4a2f-aec7-7df5f679c2bb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinity4jax.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590839566"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jhfhb4q32",
+  "url": "https://constellation.church/jhfhb4q32",
+  "name": "Trinity Presbyterian Church",
+  "displayName": "Trinity Presbyterian Church",
+  "address": {
+    "street": "1728 South Hull Street",
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "36104"
+  },
+  "coordinates": {
+    "latitude": 32.35797309875488,
+    "longitude": -86.30315399169922
+  },
+  "website": "https://trinitypca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/1004",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "1004"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitypca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630315937"
+    }
+  ],
+  "advisories": []
+}

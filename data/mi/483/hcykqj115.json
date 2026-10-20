@@ -1,0 +1,33 @@
+{
+  "id": "hcykqj115",
+  "url": "https://constellation.church/hcykqj115",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "23225 Gill Rd",
+    "city": "Farmington Hills",
+    "state": "MI",
+    "zip": "48335-4135"
+  },
+  "coordinates": {
+    "latitude": 42.46135902404785,
+    "longitude": -83.3871078491211
+  },
+  "website": "https://stjohn-elca.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2f80ff47-c511-440e-bdb0-a0073f9adb5e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2f80ff47-c511-440e-bdb0-a0073f9adb5e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohn-elca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381751929"
+    }
+  ],
+  "advisories": []
+}

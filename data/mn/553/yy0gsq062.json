@@ -1,0 +1,33 @@
+{
+  "id": "yy0gsq062",
+  "url": "https://constellation.church/yy0gsq062",
+  "name": "Episcopal Church of the Nativity",
+  "displayName": "Episcopal Church of the Nativity",
+  "address": {
+    "street": "15601 Maple Island Rd",
+    "city": "Burnsville",
+    "state": "MN",
+    "zip": "55306-5541"
+  },
+  "coordinates": {
+    "latitude": 44.71907615661621,
+    "longitude": -93.28104400634766
+  },
+  "website": "https://nativitymn.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/episcopal-church-nativity",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/episcopal-church-nativity"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nativitymn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411877707"
+    }
+  ],
+  "advisories": []
+}

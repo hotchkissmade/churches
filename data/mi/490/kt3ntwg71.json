@@ -1,0 +1,33 @@
+{
+  "id": "kt3ntwg71",
+  "url": "https://constellation.church/kt3ntwg71",
+  "name": "St. Luke's Church",
+  "displayName": "St. Luke's Church",
+  "address": {
+    "street": "247 W Lovell St",
+    "city": "Kalamazoo",
+    "state": "MI",
+    "zip": "49007-5276"
+  },
+  "coordinates": {
+    "latitude": 42.28843307495117,
+    "longitude": -85.5860824584961
+  },
+  "website": "https://stlukeskalamazoo.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-western-michigan/list/st-lukes-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-western-michigan/st-lukes-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukeskalamazoo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "381369613"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cncz2r291",
+  "url": "https://constellation.church/cncz2r291",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "1000 W Main St",
+    "city": "Lansdale",
+    "state": "PA",
+    "zip": "19446-1926"
+  },
+  "coordinates": {
+    "latitude": 40.24798583984375,
+    "longitude": -75.29729080200195
+  },
+  "website": "https://trinitylansdale.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5ba61d48-7484-4841-8367-648847d3097d",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5ba61d48-7484-4841-8367-648847d3097d"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylansdale.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231409688"
+    }
+  ],
+  "advisories": []
+}

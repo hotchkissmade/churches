@@ -1,0 +1,33 @@
+{
+  "id": "sdn448585",
+  "url": "https://constellation.church/sdn448585",
+  "name": "St Paulus Lutheran Church",
+  "displayName": "St. Paulus Lutheran Church",
+  "address": {
+    "street": "2325 Polk St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94109-1821"
+  },
+  "coordinates": {
+    "latitude": 37.798234939575195,
+    "longitude": -122.4223861694336
+  },
+  "website": "https://saintpaulus.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e5fcc0ae-5019-4fd4-9e83-48e89124e680",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e5fcc0ae-5019-4fd4-9e83-48e89124e680"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintpaulus.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "940831395"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a4hn2mk84",
+  "url": "https://constellation.church/a4hn2mk84",
+  "name": "Monument Heights Baptist Church",
+  "displayName": "Monument Heights Baptist Church",
+  "address": {
+    "street": "5716 Monument Ave",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "23226"
+  },
+  "coordinates": {
+    "latitude": 37.58392524719238,
+    "longitude": -77.50939559936523
+  },
+  "website": "https://monumentheights.org",
+  "listingUrl": "https://churches.sbc.net/church/monument-heights-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "monument-heights-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "monumentheights.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540845554"
+    }
+  ],
+  "advisories": []
+}

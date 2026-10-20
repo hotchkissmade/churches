@@ -1,0 +1,33 @@
+{
+  "id": "rxb42vb09",
+  "url": "https://constellation.church/rxb42vb09",
+  "name": "High Point Baptist Church, Leeton",
+  "displayName": "High Point Baptist Church, Leeton",
+  "address": {
+    "street": "793 SE 1000th Rd",
+    "city": "Leeton",
+    "state": "MO",
+    "zip": "64761"
+  },
+  "coordinates": {
+    "latitude": 38.604637145996094,
+    "longitude": -93.71784210205078
+  },
+  "website": "https://highpointbaptist.church/ministries",
+  "listingUrl": "https://churches.sbc.net/church/high-point-baptist-church-leeton/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "high-point-baptist-church-leeton"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "highpointbaptist.church/ministries"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "436041371"
+    }
+  ],
+  "advisories": []
+}

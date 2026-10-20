@@ -1,0 +1,33 @@
+{
+  "id": "za2q78564",
+  "url": "https://constellation.church/za2q78564",
+  "name": "Highpointe Baptist Church",
+  "displayName": "Highpointe Baptist Church",
+  "address": {
+    "street": "2453 Palestine Rd",
+    "city": "Raymond",
+    "state": "MS",
+    "zip": "39154"
+  },
+  "coordinates": {
+    "latitude": 32.19036674499512,
+    "longitude": -90.418212890625
+  },
+  "website": "https://highpointebc.com",
+  "listingUrl": "https://churches.sbc.net/church/highpointe-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "highpointe-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "highpointebc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640771649"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "f79048084",
+  "url": "https://constellation.church/f79048084",
+  "name": "Urland Lutheran Church",
+  "displayName": "Urland Lutheran Church",
+  "address": {
+    "street": "6940 County 9 Blvd",
+    "city": "Cannon Falls",
+    "state": "MN",
+    "zip": "55009-5412"
+  },
+  "coordinates": {
+    "latitude": 44.39909362792969,
+    "longitude": -92.89289855957031
+  },
+  "website": "https://sites.google.com/view/urlandlutheranchurch",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3c507b12-4121-4ae6-a9d6-d4e31adcf60c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3c507b12-4121-4ae6-a9d6-d4e31adcf60c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sites.google.com/view/urlandlutheranchurch"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411327601"
+    }
+  ],
+  "advisories": []
+}

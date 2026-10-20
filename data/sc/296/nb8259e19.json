@@ -1,0 +1,33 @@
+{
+  "id": "nb8259e19",
+  "url": "https://constellation.church/nb8259e19",
+  "name": "Springwell Baptist Church",
+  "displayName": "Springwell Baptist Church",
+  "address": {
+    "street": "4369 Wade Hampton Blvd",
+    "city": "Taylors",
+    "state": "SC",
+    "zip": "29687"
+  },
+  "coordinates": {
+    "latitude": 34.928937911987305,
+    "longitude": -82.30052947998047
+  },
+  "website": "https://springwell.org",
+  "listingUrl": "https://churches.sbc.net/church/springwell-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "springwell-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "springwell.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "571032961"
+    }
+  ],
+  "advisories": []
+}

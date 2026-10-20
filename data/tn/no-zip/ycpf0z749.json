@@ -1,0 +1,33 @@
+{
+  "id": "ycpf0z749",
+  "url": "https://constellation.church/ycpf0z749",
+  "name": "West Knoxville Friends Meeting",
+  "displayName": "West Knoxville Friends Meeting",
+  "address": {
+    "street": "1517 Meeting House La",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 35.95018768310547,
+    "longitude": -84.0792465209961
+  },
+  "website": "https://quakercloud.org/cloud/friends-light",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/west-knoxville-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "west-knoxville-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "quakercloud.org/cloud/friends-light"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "800946561"
+    }
+  ],
+  "advisories": []
+}

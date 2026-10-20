@@ -1,0 +1,33 @@
+{
+  "id": "rp6arne03",
+  "url": "https://constellation.church/rp6arne03",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "1865 14th Ave",
+    "city": "Greeley",
+    "state": "CO",
+    "zip": "80631-5305"
+  },
+  "coordinates": {
+    "latitude": 40.40870666503906,
+    "longitude": -104.70216369628906
+  },
+  "website": "https://immanuelgreeley.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a065e6ee-660b-40eb-9d3b-550e793012c3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a065e6ee-660b-40eb-9d3b-550e793012c3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "immanuelgreeley.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840466047"
+    }
+  ],
+  "advisories": []
+}

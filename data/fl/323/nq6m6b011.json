@@ -1,0 +1,33 @@
+{
+  "id": "nq6m6b011",
+  "url": "https://constellation.church/nq6m6b011",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "2901 Kerry Forest Pkwy",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32309-6825"
+  },
+  "coordinates": {
+    "latitude": 30.54082679748535,
+    "longitude": -84.22785186767578
+  },
+  "website": "https://faithtally.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/25067",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "25067"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithtally.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593278460"
+    }
+  ],
+  "advisories": []
+}

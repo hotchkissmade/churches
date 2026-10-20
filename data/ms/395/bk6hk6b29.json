@@ -1,0 +1,33 @@
+{
+  "id": "bk6hk6b29",
+  "url": "https://constellation.church/bk6hk6b29",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "19221 Pineville Rd",
+    "city": "Long Beach",
+    "state": "MS",
+    "zip": "39560-3346"
+  },
+  "coordinates": {
+    "latitude": 30.36135482788086,
+    "longitude": -89.16601181030273
+  },
+  "website": "https://gracelongbeach.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cf2eb1ef-b191-4aa0-aadb-1c6686441aae",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cf2eb1ef-b191-4aa0-aadb-1c6686441aae"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelongbeach.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640684145"
+    }
+  ],
+  "advisories": []
+}

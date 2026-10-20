@@ -1,0 +1,33 @@
+{
+  "id": "vqas6nr38",
+  "url": "https://constellation.church/vqas6nr38",
+  "name": "St John's Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "250 W Adams Ave",
+    "city": "Los Banos",
+    "state": "CA",
+    "zip": "93635-4651"
+  },
+  "coordinates": {
+    "latitude": 37.055702,
+    "longitude": -120.8572375
+  },
+  "website": "https://st-johnslb.org",
+  "listingUrl": "https://lcmc.net/congregation/105265",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "105265"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "st-johnslb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942455912"
+    }
+  ],
+  "advisories": []
+}

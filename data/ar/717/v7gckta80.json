@@ -1,0 +1,33 @@
+{
+  "id": "v7gckta80",
+  "url": "https://constellation.church/v7gckta80",
+  "name": "Cullendale Assembly of God",
+  "displayName": "Cullendale Assembly of God",
+  "address": {
+    "street": "3250 Cash Rd SW",
+    "city": "Camden",
+    "state": "AR",
+    "zip": "71701"
+  },
+  "coordinates": {
+    "latitude": 33.52786636352539,
+    "longitude": -92.8529281616211
+  },
+  "website": "https://cagcamden.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ea1ce4e3-b4c9-451d-ac87-ce8a8951881c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "ea1ce4e3-b4c9-451d-ac87-ce8a8951881c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cagcamden.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "710566607"
+    }
+  ],
+  "advisories": []
+}

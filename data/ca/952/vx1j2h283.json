@@ -1,0 +1,33 @@
+{
+  "id": "vx1j2h283",
+  "url": "https://constellation.church/vx1j2h283",
+  "name": "Lincoln Presbyterian Church",
+  "displayName": "Lincoln Presbyterian Church",
+  "address": {
+    "street": "900 Douglas Rd",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95207"
+  },
+  "coordinates": {
+    "latitude": 38.00711631774902,
+    "longitude": -121.32238006591797
+  },
+  "website": "https://lincolnpres.org",
+  "listingUrl": "https://eco-pres.org/churches/lincoln-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "lincoln-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lincolnpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941431450"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pfhrqcz43",
+  "url": "https://constellation.church/pfhrqcz43",
+  "name": "St Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "910 Marne Hwy",
+    "city": "Hainesport",
+    "state": "NJ",
+    "zip": "08036-2666"
+  },
+  "coordinates": {
+    "latitude": 39.98651123046875,
+    "longitude": -74.81402587890625
+  },
+  "website": "https://stpaulsh.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ff5823ef-b7a1-45bf-a30a-ac04f9eca897",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ff5823ef-b7a1-45bf-a30a-ac04f9eca897"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "210725313"
+    }
+  ],
+  "advisories": []
+}

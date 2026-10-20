@@ -1,0 +1,33 @@
+{
+  "id": "qp7y7me37",
+  "url": "https://constellation.church/qp7y7me37",
+  "name": "Holy Spirit Lutheran Church",
+  "displayName": "Holy Spirit Lutheran Church",
+  "address": {
+    "street": "2545 Franklin Ave",
+    "city": "Secane",
+    "state": "PA",
+    "zip": "19018-2827"
+  },
+  "coordinates": {
+    "latitude": 39.91341590881348,
+    "longitude": -75.3109245300293
+  },
+  "website": "https://holyspiritsecane.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d8e0bd48-99df-4784-847e-1b8914d0fc59",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d8e0bd48-99df-4784-847e-1b8914d0fc59"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holyspiritsecane.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231648313"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hav8ya555",
+  "url": "https://constellation.church/hav8ya555",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "246 S Main St",
+    "city": "Greensburg",
+    "state": "PA",
+    "zip": "15601-3117"
+  },
+  "coordinates": {
+    "latitude": 40.300642013549805,
+    "longitude": -79.54391098022461
+  },
+  "website": "https://felchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c54aeea6-cca9-49d8-967f-a25926a8a94b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c54aeea6-cca9-49d8-967f-a25926a8a94b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "felchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "250983049"
+    }
+  ],
+  "advisories": []
+}

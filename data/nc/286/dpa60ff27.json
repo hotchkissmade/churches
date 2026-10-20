@@ -1,0 +1,33 @@
+{
+  "id": "dpa60ff27",
+  "url": "https://constellation.church/dpa60ff27",
+  "name": "Minneapolis Baptist Church",
+  "displayName": "Minneapolis Baptist Church",
+  "address": {
+    "street": "47 Minneapolis School Rd",
+    "city": "Newland",
+    "state": "NC",
+    "zip": "28657"
+  },
+  "coordinates": {
+    "latitude": 36.09854698181152,
+    "longitude": -81.98685455322266
+  },
+  "website": "https://minneapolisbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/minneapolis-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "minneapolis-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "minneapolisbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561277587"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sapxdb735",
+  "url": "https://constellation.church/sapxdb735",
+  "name": "Peace Lutheran Church",
+  "displayName": "Peace Lutheran Church",
+  "address": {
+    "street": "202 Richland Ave W",
+    "city": "Aiken",
+    "state": "SC",
+    "zip": "29801-3866"
+  },
+  "coordinates": {
+    "latitude": 33.56138038635254,
+    "longitude": -81.72088241577148
+  },
+  "website": "https://peaceinaiken.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/26445",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "26445"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "peaceinaiken.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "465279627"
+    }
+  ],
+  "advisories": []
+}

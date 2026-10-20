@@ -1,0 +1,33 @@
+{
+  "id": "wfy7d7d63",
+  "url": "https://constellation.church/wfy7d7d63",
+  "name": "Waitsburg Presbyterian Church",
+  "displayName": "Waitsburg Presbyterian Church",
+  "address": {
+    "street": "504 Main Street",
+    "city": "Waitsburg",
+    "state": "WA",
+    "zip": "99361"
+  },
+  "coordinates": {
+    "latitude": 46.267127990722656,
+    "longitude": -118.15516662597656
+  },
+  "website": "https://waitsburgpres.org",
+  "listingUrl": "https://eco-pres.org/churches/waitsburg-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "waitsburg-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "waitsburgpres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910961171"
+    }
+  ],
+  "advisories": []
+}

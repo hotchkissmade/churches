@@ -1,0 +1,33 @@
+{
+  "id": "p96hckf15",
+  "url": "https://constellation.church/p96hckf15",
+  "name": "Hope Lutheran Church",
+  "displayName": "Hope Lutheran Church",
+  "address": {
+    "street": "2830 May Rd",
+    "city": "El Sobrante",
+    "state": "CA",
+    "zip": "94803-2407"
+  },
+  "coordinates": {
+    "latitude": 37.96809196472168,
+    "longitude": -122.29421997070312
+  },
+  "website": "https://hopechurchhome.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=364cf3ab-e33a-45c9-89a7-1f96fc49a649",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "364cf3ab-e33a-45c9-89a7-1f96fc49a649"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopechurchhome.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "680118030"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gpf1mfw68",
+  "url": "https://constellation.church/gpf1mfw68",
+  "name": "Gonzalez Baptist Church",
+  "displayName": "Gonzalez Baptist Church",
+  "address": {
+    "street": "1590 Pauline St",
+    "city": "Cantonment",
+    "state": "FL",
+    "zip": "32533"
+  },
+  "coordinates": {
+    "latitude": 30.580738067626953,
+    "longitude": -87.29377746582031
+  },
+  "website": "https://gonzalezbc.com",
+  "listingUrl": "https://churches.sbc.net/church/gonzalez-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "gonzalez-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gonzalezbc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591655774"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a1jrj0r08",
+  "url": "https://constellation.church/a1jrj0r08",
+  "name": "Bethesda Lutheran Church",
+  "displayName": "Bethesda Lutheran Church",
+  "address": {
+    "street": "23406 56th Ave W",
+    "city": "Mountlake Terrace",
+    "state": "WA",
+    "zip": "98043-5202"
+  },
+  "coordinates": {
+    "latitude": 47.78614044189453,
+    "longitude": -122.30867004394531
+  },
+  "website": "https://bethesdamlt.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a70882c6-8562-4f7b-8e45-a6870f5e98cb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a70882c6-8562-4f7b-8e45-a6870f5e98cb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethesdamlt.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237223475"
+    }
+  ],
+  "advisories": []
+}

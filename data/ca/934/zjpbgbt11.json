@@ -1,0 +1,33 @@
+{
+  "id": "zjpbgbt11",
+  "url": "https://constellation.church/zjpbgbt11",
+  "name": "Hope Lutheran Church",
+  "displayName": "Hope Lutheran Church",
+  "address": {
+    "street": "8005 San Gabriel Rd",
+    "city": "Atascadero",
+    "state": "CA",
+    "zip": "93422-4927"
+  },
+  "coordinates": {
+    "latitude": 35.46112251281738,
+    "longitude": -120.67147064208984
+  },
+  "website": "https://ourhopelutheran.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5f30678b-4fb8-444e-adbb-e4473e8ace8b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5f30678b-4fb8-444e-adbb-e4473e8ace8b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ourhopelutheran.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "770365260"
+    }
+  ],
+  "advisories": []
+}

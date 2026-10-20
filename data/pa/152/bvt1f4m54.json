@@ -1,0 +1,33 @@
+{
+  "id": "bvt1f4m54",
+  "url": "https://constellation.church/bvt1f4m54",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "933 Brookline Blvd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15226-2105"
+  },
+  "coordinates": {
+    "latitude": 40.39244270324707,
+    "longitude": -80.01796340942383
+  },
+  "website": "https://stmarkbrookline.wixsite.com/smlc",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d5f726a8-24aa-4815-89ff-a22c6b58478f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d5f726a8-24aa-4815-89ff-a22c6b58478f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarkbrookline.wixsite.com/smlc"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251073143"
+    }
+  ],
+  "advisories": []
+}

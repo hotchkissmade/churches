@@ -1,0 +1,33 @@
+{
+  "id": "tb8nzr275",
+  "url": "https://constellation.church/tb8nzr275",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "99 Miller Rd",
+    "city": "Chambersburg",
+    "state": "PA",
+    "zip": "17202-9230"
+  },
+  "coordinates": {
+    "latitude": 39.87227249145508,
+    "longitude": -77.6922607421875
+  },
+  "website": "https://salemmarion.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=20f5e443-c008-46c6-b39d-d8308b67aa66",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "20f5e443-c008-46c6-b39d-d8308b67aa66"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemmarion.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251158081"
+    }
+  ],
+  "advisories": []
+}

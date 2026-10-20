@@ -1,0 +1,33 @@
+{
+  "id": "q0m8ckp73",
+  "url": "https://constellation.church/q0m8ckp73",
+  "name": "St John's Evangelical Lutheran Church",
+  "displayName": "St. John's Evangelical Lutheran Church",
+  "address": {
+    "street": "120 N Main St",
+    "city": "Lewistown",
+    "state": "PA",
+    "zip": "17044-1747"
+  },
+  "coordinates": {
+    "latitude": 40.64305305480957,
+    "longitude": -77.57992935180664
+  },
+  "website": "https://stjohnslewistown.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8e72d05d-cc99-4d2b-8d71-982498affcbb",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8e72d05d-cc99-4d2b-8d71-982498affcbb"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnslewistown.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231429848"
+    }
+  ],
+  "advisories": []
+}

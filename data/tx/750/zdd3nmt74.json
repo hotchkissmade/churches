@@ -1,0 +1,33 @@
+{
+  "id": "zdd3nmt74",
+  "url": "https://constellation.church/zdd3nmt74",
+  "name": "St. Nicholas Church",
+  "displayName": "St. Nicholas Church",
+  "address": {
+    "street": "4800 Wichita Trl",
+    "city": "Flower Mound",
+    "state": "TX",
+    "zip": "75022-5121"
+  },
+  "coordinates": {
+    "latitude": 33.02215385437012,
+    "longitude": -97.10444641113281
+  },
+  "website": "https://stnicksonline.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-dallas/list/st-nicholas-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-dallas/st-nicholas-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stnicksonline.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752796766"
+    }
+  ],
+  "advisories": []
+}

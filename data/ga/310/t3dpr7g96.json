@@ -1,0 +1,33 @@
+{
+  "id": "t3dpr7g96",
+  "url": "https://constellation.church/t3dpr7g96",
+  "name": "First Baptist Church of Perry, Inc.",
+  "displayName": "First Baptist Church of Perry",
+  "address": {
+    "street": "1105 Main St",
+    "city": "Perry",
+    "state": "GA",
+    "zip": "31069"
+  },
+  "coordinates": {
+    "latitude": 32.45949745178223,
+    "longitude": -83.72905731201172
+  },
+  "website": "https://firstbaptistperry.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-perry-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-perry-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistperry.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580809395"
+    }
+  ],
+  "advisories": []
+}

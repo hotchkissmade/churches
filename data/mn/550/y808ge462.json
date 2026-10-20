@@ -1,0 +1,33 @@
+{
+  "id": "y808ge462",
+  "url": "https://constellation.church/y808ge462",
+  "name": "St Ansgar Lutheran Church",
+  "displayName": "St. Ansgar Lutheran Church",
+  "address": {
+    "street": "7459 Highway 19 Blvd",
+    "city": "Cannon Falls",
+    "state": "MN",
+    "zip": "55009-4064"
+  },
+  "coordinates": {
+    "latitude": 44.51103591918945,
+    "longitude": -92.88284301757812
+  },
+  "website": "https://stansgars.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ab2659de-3391-4f2b-9e90-e4d5ce7eaff0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ab2659de-3391-4f2b-9e90-e4d5ce7eaff0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stansgars.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410724063"
+    }
+  ],
+  "advisories": []
+}

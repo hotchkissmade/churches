@@ -1,0 +1,33 @@
+{
+  "id": "af0dd9907",
+  "url": "https://constellation.church/af0dd9907",
+  "name": "Mount Olivet Lutheran Church",
+  "displayName": "Mount Olivet Lutheran Church",
+  "address": {
+    "street": "5025 Knox Ave S",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55419-1015"
+  },
+  "coordinates": {
+    "latitude": 44.91184616088867,
+    "longitude": -93.30206680297852
+  },
+  "website": "https://mtolivet.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f57766cc-d451-41eb-8e35-af7a93479730",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f57766cc-d451-41eb-8e35-af7a93479730"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mtolivet.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410773766"
+    }
+  ],
+  "advisories": []
+}

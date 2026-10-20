@@ -1,0 +1,33 @@
+{
+  "id": "g9xmeab36",
+  "url": "https://constellation.church/g9xmeab36",
+  "name": "Renew Churches",
+  "displayName": "Renew Churches",
+  "address": {
+    "street": "308 1st Ave E",
+    "city": "Jerome",
+    "state": "ID",
+    "zip": "83338"
+  },
+  "coordinates": {
+    "latitude": 42.7251961,
+    "longitude": -114.5146718
+  },
+  "website": "https://renewchurches.com",
+  "listingUrl": "https://eco-pres.org/churches/renew-churches-2/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "renew-churches-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "renewchurches.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "814700616"
+    }
+  ],
+  "advisories": []
+}

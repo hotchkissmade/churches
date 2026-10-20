@@ -1,0 +1,33 @@
+{
+  "id": "enq5hgr55",
+  "url": "https://constellation.church/enq5hgr55",
+  "name": "Covenant Presbyterian Church",
+  "displayName": "Covenant Presbyterian Church",
+  "address": {
+    "street": "546 W. Mosby Road",
+    "city": "Harrisonburg",
+    "state": "VA",
+    "zip": "22801"
+  },
+  "coordinates": {
+    "latitude": 38.42175483703613,
+    "longitude": -78.90753173828125
+  },
+  "website": "https://cov-pres.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/255",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "255"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cov-pres.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541270644"
+    }
+  ],
+  "advisories": []
+}

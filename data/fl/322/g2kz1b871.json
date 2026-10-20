@@ -1,0 +1,33 @@
+{
+  "id": "g2kz1b871",
+  "url": "https://constellation.church/g2kz1b871",
+  "name": "Parkwood Baptist Church",
+  "displayName": "Parkwood Baptist Church",
+  "address": {
+    "street": "7900 Lone Star Rd",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32211"
+  },
+  "coordinates": {
+    "latitude": 30.33694076538086,
+    "longitude": -81.57626342773438
+  },
+  "website": "https://parkwood.church",
+  "listingUrl": "https://churches.sbc.net/church/parkwood-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "parkwood-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parkwood.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "596031676"
+    }
+  ],
+  "advisories": []
+}

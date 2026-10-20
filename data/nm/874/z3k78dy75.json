@@ -1,0 +1,33 @@
+{
+  "id": "z3k78dy75",
+  "url": "https://constellation.church/z3k78dy75",
+  "name": "Mountain Vista Baptist Church",
+  "displayName": "Mountain Vista Baptist Church",
+  "address": {
+    "street": "4401 Wildflower Mesa Drive",
+    "city": "Farmington",
+    "state": "NM",
+    "zip": "87401"
+  },
+  "coordinates": {
+    "latitude": 36.728223,
+    "longitude": -108.152458
+  },
+  "website": "https://mtnvistabc.com",
+  "listingUrl": "https://churches.sbc.net/church/mountain-vista-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mountain-vista-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mtnvistabc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850464243"
+    }
+  ],
+  "advisories": []
+}

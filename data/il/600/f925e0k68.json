@@ -1,0 +1,33 @@
+{
+  "id": "f925e0k68",
+  "url": "https://constellation.church/f925e0k68",
+  "name": "Bethel Presbyterian Church of Chicago",
+  "displayName": "Bethel Presbyterian Church of Chicago",
+  "address": {
+    "street": "399 N. Quentin Road",
+    "city": "Palatine",
+    "state": "IL",
+    "zip": "60067"
+  },
+  "coordinates": {
+    "latitude": 42.11750030517578,
+    "longitude": -88.06258773803711
+  },
+  "website": "https://bethelem.org/about",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/645",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "645"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelem.org/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363776471"
+    }
+  ],
+  "advisories": []
+}

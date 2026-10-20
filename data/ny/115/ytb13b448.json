@@ -1,0 +1,33 @@
+{
+  "id": "ytb13b448",
+  "url": "https://constellation.church/ytb13b448",
+  "name": "Holy Trinity Church",
+  "displayName": "Holy Trinity Church",
+  "address": {
+    "street": "369 Green Ave",
+    "city": "East Meadow",
+    "state": "NY",
+    "zip": "11554"
+  },
+  "coordinates": {
+    "latitude": 40.7149715423584,
+    "longitude": -73.56940841674805
+  },
+  "website": "https://htocem.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ny-emehtc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ny-emehtc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "htocem.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112463245"
+    }
+  ],
+  "advisories": []
+}

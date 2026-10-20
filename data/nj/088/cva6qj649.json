@@ -1,0 +1,33 @@
+{
+  "id": "cva6qj649",
+  "url": "https://constellation.church/cva6qj649",
+  "name": "South Branch Reformed Church",
+  "displayName": "South Branch Reformed Church",
+  "address": {
+    "street": "870 River Rd",
+    "city": "Hillsborough",
+    "state": "NJ",
+    "zip": "08844-4047"
+  },
+  "coordinates": {
+    "latitude": 40.54560852050781,
+    "longitude": -74.69575881958008
+  },
+  "website": "https://sbrchurch.org",
+  "listingUrl": "https://www.rca.org/churches/south-branch-reformed-church/",
+  "identifiers": [
+    {
+      "namespace": "org.rca.id",
+      "value": "215979"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sbrchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222272595"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "e5kq7sj31",
+  "url": "https://constellation.church/e5kq7sj31",
+  "name": "Wolf Stake Baptist Church",
+  "displayName": "Wolf Stake Baptist Church",
+  "address": {
+    "street": "550 Wolf Stake Church Rd",
+    "city": "Seneca",
+    "state": "SC",
+    "zip": "29672"
+  },
+  "coordinates": {
+    "latitude": 34.80376625061035,
+    "longitude": -82.97911834716797
+  },
+  "website": "https://wolfstakebc.org",
+  "listingUrl": "https://churches.sbc.net/church/wolf-stake-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "wolf-stake-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wolfstakebc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570760076"
+    }
+  ],
+  "advisories": []
+}

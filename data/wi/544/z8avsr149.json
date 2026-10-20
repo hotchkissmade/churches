@@ -1,0 +1,33 @@
+{
+  "id": "z8avsr149",
+  "url": "https://constellation.church/z8avsr149",
+  "name": "St Andrew Lutheran Church",
+  "displayName": "St. Andrew Lutheran Church",
+  "address": {
+    "street": "150202 County Road Nn",
+    "city": "Wausau",
+    "state": "WI",
+    "zip": "54401-2328"
+  },
+  "coordinates": {
+    "latitude": 44.934852600097656,
+    "longitude": -89.67671966552734
+  },
+  "website": "https://salc-wausau.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b2e067b7-75e6-4fa2-9145-8318124d2d0b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b2e067b7-75e6-4fa2-9145-8318124d2d0b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salc-wausau.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391441294"
+    }
+  ],
+  "advisories": []
+}

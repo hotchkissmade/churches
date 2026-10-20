@@ -1,0 +1,33 @@
+{
+  "id": "pfqts9779",
+  "url": "https://constellation.church/pfqts9779",
+  "name": "Southeast Baptist Church",
+  "displayName": "Southeast Baptist Church",
+  "address": {
+    "street": "708 Minerva Dr",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "zip": "37130"
+  },
+  "coordinates": {
+    "latitude": 35.83307075500488,
+    "longitude": -86.36453247070312
+  },
+  "website": "https://sebaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/southeast-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "southeast-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sebaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "851292136"
+    }
+  ],
+  "advisories": []
+}

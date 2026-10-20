@@ -1,0 +1,33 @@
+{
+  "id": "zqp7qcv47",
+  "url": "https://constellation.church/zqp7qcv47",
+  "name": "New Dorp Baptist Church",
+  "displayName": "New Dorp Baptist Church",
+  "address": {
+    "street": "259 Rose Avenue",
+    "city": "Staten Island",
+    "state": "NY",
+    "zip": "10306"
+  },
+  "coordinates": {
+    "latitude": 40.5715804,
+    "longitude": -74.1148496
+  },
+  "website": "https://newdorpbaptistchurch.org/who-we-are/our-staff",
+  "listingUrl": "https://venturechurches.org/churches/new-dorp-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "new-dorp-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newdorpbaptistchurch.org/who-we-are/our-staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "136131652"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hzx328g11",
+  "url": "https://constellation.church/hzx328g11",
+  "name": "Celebration Church",
+  "displayName": "Celebration Church",
+  "address": {
+    "street": "1301 S Duquesne Rd",
+    "city": "Joplin",
+    "state": "MO",
+    "zip": "64801"
+  },
+  "coordinates": {
+    "latitude": 37.076297760009766,
+    "longitude": -94.45918273925781
+  },
+  "website": "https://celebrationjoplin.com",
+  "listingUrl": "https://churches.sbc.net/church/celebration-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "celebration-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "celebrationjoplin.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "812121229"
+    }
+  ],
+  "advisories": []
+}

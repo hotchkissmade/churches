@@ -1,0 +1,33 @@
+{
+  "id": "gtdmkbv54",
+  "url": "https://constellation.church/gtdmkbv54",
+  "name": "Chatfield Lutheran Church",
+  "displayName": "Chatfield Lutheran Church",
+  "address": {
+    "street": "304 Fillmore St SE",
+    "city": "Chatfield",
+    "state": "MN",
+    "zip": "55923-1336"
+  },
+  "coordinates": {
+    "latitude": 43.845632553100586,
+    "longitude": -92.18647003173828
+  },
+  "website": "https://chatfieldlutheran.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ddc58a80-99fb-43d8-bf4c-929227c5862e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ddc58a80-99fb-43d8-bf4c-929227c5862e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chatfieldlutheran.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410777941"
+    }
+  ],
+  "advisories": []
+}

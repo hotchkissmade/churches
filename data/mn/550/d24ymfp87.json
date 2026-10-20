@@ -1,0 +1,33 @@
+{
+  "id": "d24ymfp87",
+  "url": "https://constellation.church/d24ymfp87",
+  "name": "St Philip Lutheran Church",
+  "displayName": "St. Philip Lutheran Church",
+  "address": {
+    "street": "1401 15th St W",
+    "city": "Hastings",
+    "state": "MN",
+    "zip": "55033-2437"
+  },
+  "coordinates": {
+    "latitude": 44.730648040771484,
+    "longitude": -92.88272476196289
+  },
+  "website": "https://splchastings.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=90a5ba09-09a2-4ca5-982c-446d05c08c3f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "90a5ba09-09a2-4ca5-982c-446d05c08c3f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "splchastings.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410972019"
+    }
+  ],
+  "advisories": []
+}

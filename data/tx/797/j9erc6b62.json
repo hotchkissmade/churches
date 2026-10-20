@@ -1,0 +1,33 @@
+{
+  "id": "j9erc6b62",
+  "url": "https://constellation.church/j9erc6b62",
+  "name": "Stonegate Odessa",
+  "displayName": "Stonegate Odessa",
+  "address": {
+    "street": "4240 Preston Smith Rd",
+    "city": "Odessa",
+    "state": "TX",
+    "zip": "79762"
+  },
+  "coordinates": {
+    "latitude": 31.898191452026367,
+    "longitude": -102.32508850097656
+  },
+  "website": "https://sgo.church",
+  "listingUrl": "https://churches.sbc.net/church/stonegate-odessa/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "stonegate-odessa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sgo.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "923375251"
+    }
+  ],
+  "advisories": []
+}

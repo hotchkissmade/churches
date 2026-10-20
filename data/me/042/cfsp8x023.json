@@ -1,0 +1,37 @@
+{
+  "id": "cfsp8x023",
+  "url": "https://constellation.church/cfsp8x023",
+  "name": "Poland Baptist Church",
+  "displayName": "Poland Baptist Church",
+  "address": {
+    "street": "874 Maine St",
+    "city": "Poland",
+    "state": "ME",
+    "zip": "04274"
+  },
+  "coordinates": {
+    "latitude": 44.04383659362793,
+    "longitude": -70.37897109985352
+  },
+  "website": "https://polandbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/poland-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "poland-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "polandbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "010387840"
+    },
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "poland-baptist-church"
+    }
+  ],
+  "advisories": []
+}

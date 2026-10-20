@@ -1,0 +1,33 @@
+{
+  "id": "hhf28de37",
+  "url": "https://constellation.church/hhf28de37",
+  "name": "Keene Assembly of God",
+  "displayName": "Keene Assembly of God",
+  "address": {
+    "street": "121 Park Ave",
+    "city": "Keene",
+    "state": "NH",
+    "zip": "03431"
+  },
+  "coordinates": {
+    "latitude": 42.93949890136719,
+    "longitude": -72.30583572387695
+  },
+  "website": "https://kag.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=0fe39133-bcc5-45ab-a34c-95dfa9550ec8&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "0fe39133-bcc5-45ab-a34c-95dfa9550ec8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kag.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "020326156"
+    }
+  ],
+  "advisories": []
+}

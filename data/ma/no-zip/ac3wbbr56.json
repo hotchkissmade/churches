@@ -1,0 +1,33 @@
+{
+  "id": "ac3wbbr56",
+  "url": "https://constellation.church/ac3wbbr56",
+  "name": "Wellesley Friends Meeting",
+  "displayName": "Wellesley Friends Meeting",
+  "address": {
+    "street": "26 Benvenue St",
+    "city": "Wellesley",
+    "state": "MA",
+    "zip": null
+  },
+  "coordinates": {
+    "latitude": 42.286460876464844,
+    "longitude": -71.29055404663086
+  },
+  "website": "https://wellesleyfriendsmeeting.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/wellesley-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "wellesley-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wellesleyfriendsmeeting.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "933153881"
+    }
+  ],
+  "advisories": []
+}

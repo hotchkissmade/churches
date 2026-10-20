@@ -1,0 +1,33 @@
+{
+  "id": "dyzs69469",
+  "url": "https://constellation.church/dyzs69469",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "1250 Broadway St",
+    "city": "Hammond",
+    "state": "WI",
+    "zip": "54015-9761"
+  },
+  "coordinates": {
+    "latitude": 44.97747230529785,
+    "longitude": -92.4400520324707
+  },
+  "website": "https://trinityhammond.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ce8dd77a-fca4-4f6c-8caa-a82f7b2bf7cf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ce8dd77a-fca4-4f6c-8caa-a82f7b2bf7cf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityhammond.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391182383"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "fbt133595",
+  "url": "https://constellation.church/fbt133595",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "2110 Sheridan Blvd",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68502-4036"
+  },
+  "coordinates": {
+    "latitude": 40.79130554199219,
+    "longitude": -96.68399047851562
+  },
+  "website": "https://westminsterlincoln.org/church-governance",
+  "listingUrl": "https://church-trends.pcusa.org/church/4399/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "4399"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westminsterlincoln.org/church-governance"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510246133"
+    }
+  ],
+  "advisories": []
+}

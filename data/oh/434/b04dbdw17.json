@@ -1,0 +1,33 @@
+{
+  "id": "b04dbdw17",
+  "url": "https://constellation.church/b04dbdw17",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "500 S Brentwood Dr",
+    "city": "Gibsonburg",
+    "state": "OH",
+    "zip": "43431-1202"
+  },
+  "coordinates": {
+    "latitude": 41.379493713378906,
+    "longitude": -83.32709503173828
+  },
+  "website": "https://zionlutherangibsonburg.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=019d98a5-00e7-4cfd-aad9-953466f33e0f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "019d98a5-00e7-4cfd-aad9-953466f33e0f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionlutherangibsonburg.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "340945705"
+    }
+  ],
+  "advisories": []
+}

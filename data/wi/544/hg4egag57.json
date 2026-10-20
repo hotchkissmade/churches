@@ -1,0 +1,33 @@
+{
+  "id": "hg4egag57",
+  "url": "https://constellation.church/hg4egag57",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "20310 County Highway H",
+    "city": "Gilman",
+    "state": "WI",
+    "zip": "54433"
+  },
+  "coordinates": {
+    "latitude": 45.1387049,
+    "longitude": -90.9260199
+  },
+  "website": "https://stjohngilman.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ee574866-a5ae-477a-a1af-f4c983c8bf42",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ee574866-a5ae-477a-a1af-f4c983c8bf42"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohngilman.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391322706"
+    }
+  ],
+  "advisories": []
+}

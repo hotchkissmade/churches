@@ -1,0 +1,33 @@
+{
+  "id": "v99nngv28",
+  "url": "https://constellation.church/v99nngv28",
+  "name": "Sharon Baptist Church",
+  "displayName": "Sharon Baptist Church",
+  "address": {
+    "street": "2221 S Oliver St",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67218"
+  },
+  "coordinates": {
+    "latitude": 37.65317726135254,
+    "longitude": -97.28067779541016
+  },
+  "website": "https://sharonwichita.com",
+  "listingUrl": "https://churches.sbc.net/church/sharon-baptist-church-22/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sharon-baptist-church-22"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sharonwichita.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "480626199"
+    }
+  ],
+  "advisories": []
+}

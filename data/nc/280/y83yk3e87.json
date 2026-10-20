@@ -1,0 +1,33 @@
+{
+  "id": "y83yk3e87",
+  "url": "https://constellation.church/y83yk3e87",
+  "name": "St James Lutheran Church",
+  "displayName": "St. James Lutheran Church",
+  "address": {
+    "street": "104 Union St S",
+    "city": "Concord",
+    "state": "NC",
+    "zip": "28025-5012"
+  },
+  "coordinates": {
+    "latitude": 35.408416748046875,
+    "longitude": -80.57917785644531
+  },
+  "website": "https://sjnc.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=df6fdf9f-f4a3-4a52-ae57-35d4a34b70a0",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "df6fdf9f-f4a3-4a52-ae57-35d4a34b70a0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sjnc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560591309"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "arjbf3t24",
+  "url": "https://constellation.church/arjbf3t24",
+  "name": "Jordan Lutheran Church",
+  "displayName": "Jordan Lutheran Church",
+  "address": {
+    "street": "5103 Snowdrift Rd",
+    "city": "Orefield",
+    "state": "PA",
+    "zip": "18069-9513"
+  },
+  "coordinates": {
+    "latitude": 40.61307716369629,
+    "longitude": -75.58333206176758
+  },
+  "website": "https://jordanlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d2d5d75c-71fb-432e-a863-3458addc706c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d2d5d75c-71fb-432e-a863-3458addc706c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "jordanlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231680654"
+    }
+  ],
+  "advisories": []
+}

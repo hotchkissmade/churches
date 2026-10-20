@@ -1,0 +1,33 @@
+{
+  "id": "e9g2gxd58",
+  "url": "https://constellation.church/e9g2gxd58",
+  "name": "Glenview Baptist Church",
+  "displayName": "Glenview Baptist Church",
+  "address": {
+    "street": "4805 NE Loop 820",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76137"
+  },
+  "coordinates": {
+    "latitude": 32.840688705444336,
+    "longitude": -97.2781753540039
+  },
+  "website": "https://glenviewchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/glenview-baptist-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "glenview-baptist-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "glenviewchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237011861"
+    }
+  ],
+  "advisories": []
+}

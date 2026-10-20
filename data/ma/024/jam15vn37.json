@@ -1,0 +1,37 @@
+{
+  "id": "jam15vn37",
+  "url": "https://constellation.church/jam15vn37",
+  "name": "St. Mary's Church",
+  "displayName": "St. Mary's Church",
+  "address": {
+    "street": "258 Concord St",
+    "city": "Newton (Newton Lower Falls)",
+    "state": "MA",
+    "zip": "02462"
+  },
+  "coordinates": {
+    "latitude": 42.32617950439453,
+    "longitude": -71.25776290893555
+  },
+  "website": "https://ctknewton.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-massachusetts/list/st-marys-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-massachusetts/st-marys-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ctknewton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "834318474"
+    },
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "5794"
+    }
+  ],
+  "advisories": []
+}

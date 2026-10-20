@@ -1,0 +1,33 @@
+{
+  "id": "kfernsz52",
+  "url": "https://constellation.church/kfernsz52",
+  "name": "Korean Church of Tulsa",
+  "displayName": "Korean Church of Tulsa",
+  "address": {
+    "street": "13000 E. 68th St.",
+    "city": "Broken Arrow",
+    "state": "OK",
+    "zip": "74012"
+  },
+  "coordinates": {
+    "latitude": 36.06475639343262,
+    "longitude": -95.83251953125
+  },
+  "website": "https://tulsakoreanchurch.net",
+  "listingUrl": "https://churches.sbc.net/church/korean-church-of-tulsa/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "korean-church-of-tulsa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "tulsakoreanchurch.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "731119305"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gcwpe1x20",
+  "url": "https://constellation.church/gcwpe1x20",
+  "name": "Saint Luke Baptist Church",
+  "displayName": "St. Luke Baptist Church",
+  "address": {
+    "street": "1903 W Poplar St",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78207"
+  },
+  "coordinates": {
+    "latitude": 29.440526962280273,
+    "longitude": -98.52104187011719
+  },
+  "website": "https://stlcitylights.com",
+  "listingUrl": "https://churches.sbc.net/church/saint-luke-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "saint-luke-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlcitylights.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "571160215"
+    }
+  ],
+  "advisories": []
+}

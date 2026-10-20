@@ -1,0 +1,33 @@
+{
+  "id": "d46pfsa02",
+  "url": "https://constellation.church/d46pfsa02",
+  "name": "St. Peter’s",
+  "displayName": "St. Peter’s AME Zion Church",
+  "address": {
+    "street": "617 Queen St",
+    "city": "New Bern",
+    "state": "NC",
+    "zip": "28560"
+  },
+  "coordinates": {
+    "latitude": 35.110673904418945,
+    "longitude": -77.04391098022461
+  },
+  "website": "https://stpetersamezionnb.org",
+  "listingUrl": "https://amezion.org/location/st-peters-2/",
+  "identifiers": [
+    {
+      "namespace": "org.amezion.id",
+      "value": "461"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpetersamezionnb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561856651"
+    }
+  ],
+  "advisories": []
+}

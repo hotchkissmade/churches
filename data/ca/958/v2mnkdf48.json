@@ -1,0 +1,33 @@
+{
+  "id": "v2mnkdf48",
+  "url": "https://constellation.church/v2mnkdf48",
+  "name": "Southpointe Christian Center",
+  "displayName": "Southpointe Christian Center",
+  "address": {
+    "street": "7520 Stockton Blvd",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95823"
+  },
+  "coordinates": {
+    "latitude": 38.48427963256836,
+    "longitude": -121.42423248291016
+  },
+  "website": "https://southpointecc.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=39bc6fe0-4b15-4e73-aad3-cf2e2a69e9ea&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "39bc6fe0-4b15-4e73-aad3-cf2e2a69e9ea"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southpointecc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "942717602"
+    }
+  ],
+  "advisories": []
+}

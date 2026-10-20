@@ -1,0 +1,33 @@
+{
+  "id": "vc1497y34",
+  "url": "https://constellation.church/vc1497y34",
+  "name": "NewKirk Baptist Church",
+  "displayName": "NewKirk Baptist Church",
+  "address": {
+    "street": "175 Museum Rd",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732"
+  },
+  "coordinates": {
+    "latitude": 34.97982978820801,
+    "longitude": -81.06472396850586
+  },
+  "website": "https://newkirkbc.org",
+  "listingUrl": "https://churches.sbc.net/church/newkirk-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "newkirk-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newkirkbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570988996"
+    }
+  ],
+  "advisories": []
+}

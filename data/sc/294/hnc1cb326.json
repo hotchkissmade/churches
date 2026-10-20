@@ -1,0 +1,33 @@
+{
+  "id": "hnc1cb326",
+  "url": "https://constellation.church/hnc1cb326",
+  "name": "Ten27 Church",
+  "displayName": "Ten27 Church",
+  "address": {
+    "street": "2700 Doubletree Ct",
+    "city": "Charleston",
+    "state": "SC",
+    "zip": "29414"
+  },
+  "coordinates": {
+    "latitude": 32.8047974,
+    "longitude": -80.0913697
+  },
+  "website": "https://ten27.church",
+  "listingUrl": "https://churches.sbc.net/church/ten27-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "ten27-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ten27.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "884372373"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gahm24v14",
+  "url": "https://constellation.church/gahm24v14",
+  "name": "Holly Hill First Baptist Church",
+  "displayName": "Holly Hill First Baptist Church",
+  "address": {
+    "street": "8455 Old State Rd",
+    "city": "Holly Hill",
+    "state": "SC",
+    "zip": "29059"
+  },
+  "coordinates": {
+    "latitude": 33.32387733459473,
+    "longitude": -80.41485977172852
+  },
+  "website": "https://fbchollyhillsc.org",
+  "listingUrl": "https://churches.sbc.net/church/holly-hill-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "holly-hill-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbchollyhillsc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570830607"
+    }
+  ],
+  "advisories": []
+}

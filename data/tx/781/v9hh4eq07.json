@@ -1,0 +1,33 @@
+{
+  "id": "v9hh4eq07",
+  "url": "https://constellation.church/v9hh4eq07",
+  "name": "Hope Presbyterian Church",
+  "displayName": "Hope Presbyterian Church",
+  "address": {
+    "street": "995 Mission Hills Drive",
+    "city": "New Braunfels",
+    "state": "TX",
+    "zip": "78130"
+  },
+  "coordinates": {
+    "latitude": 29.70792007446289,
+    "longitude": -98.16156005859375
+  },
+  "website": "https://hopenb.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6286",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6286"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopenb.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "814830034"
+    }
+  ],
+  "advisories": []
+}

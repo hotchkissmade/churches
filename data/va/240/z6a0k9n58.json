@@ -1,0 +1,33 @@
+{
+  "id": "z6a0k9n58",
+  "url": "https://constellation.church/z6a0k9n58",
+  "name": "Red Hill Baptist Church",
+  "displayName": "Red Hill Baptist Church",
+  "address": {
+    "street": "6251 Franklin Rd SW",
+    "city": "Roanoke",
+    "state": "VA",
+    "zip": "24014"
+  },
+  "coordinates": {
+    "latitude": 37.17838096618652,
+    "longitude": -79.93642807006836
+  },
+  "website": "https://redhillbaptistroan.wixsite.com/mysite",
+  "listingUrl": "https://churches.sbc.net/church/red-hill-baptist-church-9/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "red-hill-baptist-church-9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redhillbaptistroan.wixsite.com/mysite"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541270788"
+    }
+  ],
+  "advisories": []
+}

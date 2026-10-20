@@ -1,0 +1,33 @@
+{
+  "id": "kaq7wq130",
+  "url": "https://constellation.church/kaq7wq130",
+  "name": "Kirkland Life Church",
+  "displayName": "Kirkland Life Church",
+  "address": {
+    "street": "44 Kirkland Ave",
+    "city": "Clinton",
+    "state": "NY",
+    "zip": "13323"
+  },
+  "coordinates": {
+    "latitude": 43.05517578125,
+    "longitude": -75.37559509277344
+  },
+  "website": "https://kirklandlife.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=979d283b-65ee-4104-968c-83278129d511&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "979d283b-65ee-4104-968c-83278129d511"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kirklandlife.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161458659"
+    }
+  ],
+  "advisories": []
+}

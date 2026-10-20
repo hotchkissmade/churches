@@ -1,0 +1,33 @@
+{
+  "id": "cm1py2y05",
+  "url": "https://constellation.church/cm1py2y05",
+  "name": "Cullen Baptist Church",
+  "displayName": "Cullen Baptist Church",
+  "address": {
+    "street": "202 Taro Rd",
+    "city": "Cullen",
+    "state": "VA",
+    "zip": "23934"
+  },
+  "coordinates": {
+    "latitude": 37.11941719055176,
+    "longitude": -78.6479377746582
+  },
+  "website": "https://cullenbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/cullen-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cullen-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cullenbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541191951"
+    }
+  ],
+  "advisories": []
+}

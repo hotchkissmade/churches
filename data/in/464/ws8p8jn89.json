@@ -1,0 +1,33 @@
+{
+  "id": "ws8p8jn89",
+  "url": "https://constellation.church/ws8p8jn89",
+  "name": "Bethel Lutheran Church",
+  "displayName": "Bethel Lutheran Church",
+  "address": {
+    "street": "411 N Montgomery St",
+    "city": "Gary",
+    "state": "IN",
+    "zip": "46403-2110"
+  },
+  "coordinates": {
+    "latitude": 41.61144256591797,
+    "longitude": -87.25097274780273
+  },
+  "website": "https://bethelmiller.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7c9316ac-e711-47f3-8c89-ff6252fb9eb7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7c9316ac-e711-47f3-8c89-ff6252fb9eb7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelmiller.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "356271472"
+    }
+  ],
+  "advisories": []
+}

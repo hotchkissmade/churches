@@ -1,0 +1,33 @@
+{
+  "id": "gnygxae54",
+  "url": "https://constellation.church/gnygxae54",
+  "name": "Mountain View Presbyterian Church",
+  "displayName": "Mountain View Presbyterian Church",
+  "address": {
+    "street": "5115 100th St NE",
+    "city": "Marysville",
+    "state": "WA",
+    "zip": "98270"
+  },
+  "coordinates": {
+    "latitude": 48.08648681640625,
+    "longitude": -122.16112518310547
+  },
+  "website": "https://mtvpc.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/3250/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "3250"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mtvpc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911377022"
+    }
+  ],
+  "advisories": []
+}

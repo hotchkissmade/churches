@@ -1,0 +1,37 @@
+{
+  "id": "s6pnc2x54",
+  "url": "https://constellation.church/s6pnc2x54",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "32101 370th St",
+    "city": "Bellevue",
+    "state": "IA",
+    "zip": "52031-9524"
+  },
+  "coordinates": {
+    "latitude": 42.354331970214844,
+    "longitude": -90.5265884399414
+  },
+  "website": "https://saintjohnlutheran.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9866fb31-4e4c-4bb0-8f06-ddf5356281e2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9866fb31-4e4c-4bb0-8f06-ddf5356281e2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintjohnlutheran.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420752617"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421101128"
+    }
+  ],
+  "advisories": []
+}

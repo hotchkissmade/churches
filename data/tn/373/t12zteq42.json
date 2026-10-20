@@ -1,0 +1,37 @@
+{
+  "id": "t12zteq42",
+  "url": "https://constellation.church/t12zteq42",
+  "name": "Lookout Mountain Presbyterian Church",
+  "displayName": "Lookout Mountain Presbyterian Church",
+  "address": {
+    "street": "316 North Bragg Avenue",
+    "city": "Lookout Mountain",
+    "state": "TN",
+    "zip": "37350"
+  },
+  "coordinates": {
+    "latitude": 34.99899101257324,
+    "longitude": -85.34778213500977
+  },
+  "website": "https://lmpc.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/703",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "703"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lmpc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620514467"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "863226614"
+    }
+  ],
+  "advisories": []
+}

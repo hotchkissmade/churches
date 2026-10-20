@@ -1,0 +1,33 @@
+{
+  "id": "pyaksp544",
+  "url": "https://constellation.church/pyaksp544",
+  "name": "Gracepoint Church",
+  "displayName": "Gracepoint Church",
+  "address": {
+    "street": "5590 NE 6th Ave",
+    "city": "Oakland Park",
+    "state": "FL",
+    "zip": "33334"
+  },
+  "coordinates": {
+    "latitude": 26.195783615112305,
+    "longitude": -80.13897323608398
+  },
+  "website": "https://gracepoint.net",
+  "listingUrl": "https://churches.sbc.net/church/gracepoint-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "gracepoint-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracepoint.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "650537336"
+    }
+  ],
+  "advisories": []
+}

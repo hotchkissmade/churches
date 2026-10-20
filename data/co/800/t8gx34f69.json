@@ -1,0 +1,33 @@
+{
+  "id": "t8gx34f69",
+  "url": "https://constellation.church/t8gx34f69",
+  "name": "Westminster United Methodist Church",
+  "displayName": "Westminster United Methodist Church",
+  "address": {
+    "street": "3585 W 76th Ave",
+    "city": "Westminster",
+    "state": "CO",
+    "zip": "80030-4854"
+  },
+  "coordinates": {
+    "latitude": 39.83494186401367,
+    "longitude": -105.03341674804688
+  },
+  "website": "https://westminsterunitedmethodist.org/about",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFNz8IAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFNz8IAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westminsterunitedmethodist.org/about"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "846013175"
+    }
+  ],
+  "advisories": []
+}

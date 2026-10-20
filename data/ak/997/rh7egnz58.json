@@ -1,0 +1,33 @@
+{
+  "id": "rh7egnz58",
+  "url": "https://constellation.church/rh7egnz58",
+  "name": "Salcha Baptist Church",
+  "displayName": "Salcha Baptist Church",
+  "address": {
+    "street": "8203 Richardson Hwy",
+    "city": "Salcha",
+    "state": "AK",
+    "zip": "99714"
+  },
+  "coordinates": {
+    "latitude": 64.49786758422852,
+    "longitude": -146.97390747070312
+  },
+  "website": "https://salchabaptist.com/home",
+  "listingUrl": "https://churches.sbc.net/church/salcha-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "salcha-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salchabaptist.com/home"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "900335244"
+    }
+  ],
+  "advisories": []
+}

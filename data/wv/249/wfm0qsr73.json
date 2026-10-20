@@ -1,0 +1,33 @@
+{
+  "id": "wfm0qsr73",
+  "url": "https://constellation.church/wfm0qsr73",
+  "name": "St. James Episcopal Church",
+  "displayName": "St. James Episcopal Church",
+  "address": {
+    "street": "218 Church St",
+    "city": "Lewisburg",
+    "state": "WV",
+    "zip": "24901-1330"
+  },
+  "coordinates": {
+    "latitude": 37.79965400695801,
+    "longitude": -80.44979858398438
+  },
+  "website": "https://lewisburgstjames.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-virginia/list/st-james-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-virginia/st-james-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lewisburgstjames.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "550547845"
+    }
+  ],
+  "advisories": []
+}

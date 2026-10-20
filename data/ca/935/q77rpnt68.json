@@ -1,0 +1,33 @@
+{
+  "id": "q77rpnt68",
+  "url": "https://constellation.church/q77rpnt68",
+  "name": "St Stephen Lutheran Church",
+  "displayName": "St. Stephen Lutheran Church",
+  "address": {
+    "street": "1737 E Avenue R",
+    "city": "Palmdale",
+    "state": "CA",
+    "zip": "93550-5411"
+  },
+  "coordinates": {
+    "latitude": 34.5729923248291,
+    "longitude": -118.09767150878906
+  },
+  "website": "https://ststephenspalmdale.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1e51f2c4-c2b0-4b35-beb1-a18d3a84914f",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1e51f2c4-c2b0-4b35-beb1-a18d3a84914f"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ststephenspalmdale.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952920124"
+    }
+  ],
+  "advisories": []
+}

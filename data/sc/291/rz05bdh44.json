@@ -1,0 +1,33 @@
+{
+  "id": "rz05bdh44",
+  "url": "https://constellation.church/rz05bdh44",
+  "name": "North First Baptist Church",
+  "displayName": "North First Baptist Church",
+  "address": {
+    "street": "405 Stafford Ave",
+    "city": "North",
+    "state": "SC",
+    "zip": "29112"
+  },
+  "coordinates": {
+    "latitude": 33.618913650512695,
+    "longitude": -81.10133743286133
+  },
+  "website": "https://fbcnorth.net",
+  "listingUrl": "https://churches.sbc.net/church/north-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "north-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcnorth.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570649425"
+    }
+  ],
+  "advisories": []
+}

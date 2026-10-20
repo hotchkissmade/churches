@@ -1,0 +1,33 @@
+{
+  "id": "jwkpr8a76",
+  "url": "https://constellation.church/jwkpr8a76",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "215 2nd Ave N",
+    "city": "Dallas",
+    "state": "WI",
+    "zip": "54733"
+  },
+  "coordinates": {
+    "latitude": 45.260948181152344,
+    "longitude": -91.8169174194336
+  },
+  "website": "https://dallasag.church",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=37646351-373f-4245-8c4f-3876d9fbdb75&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "37646351-373f-4245-8c4f-3876d9fbdb75"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dallasag.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391421569"
+    }
+  ],
+  "advisories": []
+}

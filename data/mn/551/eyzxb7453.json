@@ -1,0 +1,33 @@
+{
+  "id": "eyzxb7453",
+  "url": "https://constellation.church/eyzxb7453",
+  "name": "St Andrew's Lutheran Church",
+  "displayName": "St. Andrew's Lutheran Church",
+  "address": {
+    "street": "900 Stillwater Rd",
+    "city": "Mahtomedi",
+    "state": "MN",
+    "zip": "55115-2206"
+  },
+  "coordinates": {
+    "latitude": 45.059648513793945,
+    "longitude": -92.94773864746094
+  },
+  "website": "https://saintandrews.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6e0d2e3d-3d0d-4651-b10a-d80cf0b0b8e8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6e0d2e3d-3d0d-4651-b10a-d80cf0b0b8e8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintandrews.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410880458"
+    }
+  ],
+  "advisories": []
+}

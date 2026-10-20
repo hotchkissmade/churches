@@ -1,0 +1,33 @@
+{
+  "id": "cmpp71435",
+  "url": "https://constellation.church/cmpp71435",
+  "name": "First Baptist Church Norfolk",
+  "displayName": "First Baptist Church Norfolk",
+  "address": {
+    "street": "312 Kempsville Rd",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip": "23502"
+  },
+  "coordinates": {
+    "latitude": 36.84503364562988,
+    "longitude": -76.18952178955078
+  },
+  "website": "https://firstnorfolk.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-norfolk/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-norfolk"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstnorfolk.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540567801"
+    }
+  ],
+  "advisories": []
+}

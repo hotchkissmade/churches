@@ -1,0 +1,33 @@
+{
+  "id": "v307gfg46",
+  "url": "https://constellation.church/v307gfg46",
+  "name": "St. Katherine Church",
+  "displayName": "St. Katherine Church",
+  "address": {
+    "street": "14216 132nd Ave NE",
+    "city": "Kirkland",
+    "state": "WA",
+    "zip": "98034-1509"
+  },
+  "coordinates": {
+    "latitude": 47.72800064086914,
+    "longitude": -122.1636734008789
+  },
+  "website": "https://stkatherine.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-we-krkeas",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-we-krkeas"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stkatherine.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161652429"
+    }
+  ],
+  "advisories": []
+}

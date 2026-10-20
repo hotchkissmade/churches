@@ -1,0 +1,33 @@
+{
+  "id": "js49rfv67",
+  "url": "https://constellation.church/js49rfv67",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "912 Lake Ave",
+    "city": "Detroit Lakes",
+    "state": "MN",
+    "zip": "56501-3404"
+  },
+  "coordinates": {
+    "latitude": 46.816598892211914,
+    "longitude": -95.84712219238281
+  },
+  "website": "https://firstlutheranchurch.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ecd0dcd9-5c38-4164-8bc1-c17abfc83acc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ecd0dcd9-5c38-4164-8bc1-c17abfc83acc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410782878"
+    }
+  ],
+  "advisories": []
+}

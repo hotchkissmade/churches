@@ -1,0 +1,33 @@
+{
+  "id": "ca75j5083",
+  "url": "https://constellation.church/ca75j5083",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "1207 S 7th Ave",
+    "city": "Yakima",
+    "state": "WA",
+    "zip": "98902-5567"
+  },
+  "coordinates": {
+    "latitude": 46.5831973,
+    "longitude": -120.5158818
+  },
+  "website": "https://gracelutheranyakima.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24736",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24736"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracelutheranyakima.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "916031826"
+    }
+  ],
+  "advisories": []
+}

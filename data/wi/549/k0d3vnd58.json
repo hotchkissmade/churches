@@ -1,0 +1,33 @@
+{
+  "id": "k0d3vnd58",
+  "url": "https://constellation.church/k0d3vnd58",
+  "name": "Emanuel Lutheran Church",
+  "displayName": "Emanuel Lutheran Church",
+  "address": {
+    "street": "200 E Quincy St",
+    "city": "New London",
+    "state": "WI",
+    "zip": "54961-1892"
+  },
+  "coordinates": {
+    "latitude": 44.38529586791992,
+    "longitude": -88.73793411254883
+  },
+  "website": "https://emanuelnl.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24600",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24600"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "emanuelnl.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390830270"
+    }
+  ],
+  "advisories": []
+}

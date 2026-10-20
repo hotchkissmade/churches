@@ -1,0 +1,33 @@
+{
+  "id": "cvcw14016",
+  "url": "https://constellation.church/cvcw14016",
+  "name": "Camden First Baptist Church",
+  "displayName": "Camden First Baptist Church",
+  "address": {
+    "street": "348 W Washington St",
+    "city": "Camden",
+    "state": "AR",
+    "zip": "71701"
+  },
+  "coordinates": {
+    "latitude": 33.58487510681152,
+    "longitude": -92.83369445800781
+  },
+  "website": "https://fbccamden.org",
+  "listingUrl": "https://churches.sbc.net/church/camden-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "camden-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbccamden.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "710267007"
+    }
+  ],
+  "advisories": []
+}

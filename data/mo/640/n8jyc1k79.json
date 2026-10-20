@@ -1,0 +1,33 @@
+{
+  "id": "n8jyc1k79",
+  "url": "https://constellation.church/n8jyc1k79",
+  "name": "Church of the Resurrection",
+  "displayName": "Church of the Resurrection",
+  "address": {
+    "street": "1433 NW R D Mize Rd",
+    "city": "Blue Springs",
+    "state": "MO",
+    "zip": "64015-3666"
+  },
+  "coordinates": {
+    "latitude": 39.024396896362305,
+    "longitude": -94.28057861328125
+  },
+  "website": "https://resurrection.church/bluesprings",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-west-missouri/list/church-resurrection",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-west-missouri/church-resurrection"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "resurrection.church/bluesprings"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "431235990"
+    }
+  ],
+  "advisories": []
+}

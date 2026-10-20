@@ -1,0 +1,33 @@
+{
+  "id": "a3n1w5j37",
+  "url": "https://constellation.church/a3n1w5j37",
+  "name": "Church in Denton",
+  "displayName": "Church in Denton",
+  "address": {
+    "street": "411 Thomas St, Building 2",
+    "city": "Denton",
+    "state": "TX",
+    "zip": "76201"
+  },
+  "coordinates": {
+    "latitude": 33.21819496154785,
+    "longitude": -97.1597671508789
+  },
+  "website": "https://churchindenton.org",
+  "listingUrl": "https://localchurches.org/churches/denton-tx-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "denton-tx-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchindenton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "752182974"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "ekv31fr29",
+  "url": "https://constellation.church/ekv31fr29",
+  "name": "First CRC",
+  "displayName": "First Christian Reformed Church",
+  "address": {
+    "street": "321 2nd St SE",
+    "city": "Sioux Center",
+    "state": "IA",
+    "zip": "51250"
+  },
+  "coordinates": {
+    "latitude": 43.075279235839844,
+    "longitude": -96.17068481445312
+  },
+  "website": "https://firstcrc.com/sermons/watchlive.cfm",
+  "listingUrl": "https://www.crcna.org/churches/8773",
+  "identifiers": [
+    {
+      "namespace": "org.crcna.id",
+      "value": "8773"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstcrc.com/sermons/watchlive.cfm"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420803942"
+    }
+  ],
+  "advisories": []
+}

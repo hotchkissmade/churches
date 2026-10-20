@@ -1,0 +1,33 @@
+{
+  "id": "w1xjs0j80",
+  "url": "https://constellation.church/w1xjs0j80",
+  "name": "Lutheran Church Of The Holy Spirit",
+  "displayName": "Lutheran Church Of The Holy Spirit",
+  "address": {
+    "street": "6400 S University Blvd",
+    "city": "Centennial",
+    "state": "CO",
+    "zip": "80121-2916"
+  },
+  "coordinates": {
+    "latitude": 39.60196495056152,
+    "longitude": -104.9581298828125
+  },
+  "website": "https://holyspiritco.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7169ea47-84f5-4e59-9675-7d8e8514af46",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7169ea47-84f5-4e59-9675-7d8e8514af46"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holyspiritco.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840672883"
+    }
+  ],
+  "advisories": []
+}

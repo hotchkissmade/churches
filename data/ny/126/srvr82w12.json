@@ -1,0 +1,33 @@
+{
+  "id": "srvr82w12",
+  "url": "https://constellation.church/srvr82w12",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "325 Mill St",
+    "city": "Poughkeepsie",
+    "state": "NY",
+    "zip": "12601-3318"
+  },
+  "coordinates": {
+    "latitude": 41.70440673828125,
+    "longitude": -73.92428970336914
+  },
+  "website": "https://firstlutheranpok.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=fe05a1de-d7ac-4aa0-828d-e76912e51bf1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "fe05a1de-d7ac-4aa0-828d-e76912e51bf1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstlutheranpok.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "146003263"
+    }
+  ],
+  "advisories": []
+}

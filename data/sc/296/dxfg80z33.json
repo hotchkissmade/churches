@@ -1,0 +1,33 @@
+{
+  "id": "dxfg80z33",
+  "url": "https://constellation.church/dxfg80z33",
+  "name": "Grove Station Baptist Church",
+  "displayName": "Grove Station Baptist Church",
+  "address": {
+    "street": "640 S Piedmont Hwy",
+    "city": "Piedmont",
+    "state": "SC",
+    "zip": "29673"
+  },
+  "coordinates": {
+    "latitude": 34.7344970703125,
+    "longitude": -82.44607543945312
+  },
+  "website": "https://grovestation.church",
+  "listingUrl": "https://churches.sbc.net/church/grove-station-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grove-station-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grovestation.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570762734"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "b31j83531",
+  "url": "https://constellation.church/b31j83531",
+  "name": "Whittington Baptist Church",
+  "displayName": "Whittington Baptist Church",
+  "address": {
+    "street": "200 W Main St",
+    "city": "Whittington",
+    "state": "IL",
+    "zip": "62897"
+  },
+  "coordinates": {
+    "latitude": 38.08749198913574,
+    "longitude": -88.9039306640625
+  },
+  "website": "https://whittington.org",
+  "listingUrl": "https://churches.sbc.net/church/whittington-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "whittington-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "whittington.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371166150"
+    }
+  ],
+  "advisories": []
+}

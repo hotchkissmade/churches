@@ -1,0 +1,33 @@
+{
+  "id": "jebaqwh37",
+  "url": "https://constellation.church/jebaqwh37",
+  "name": "Restore Church",
+  "displayName": "Restore Church",
+  "address": {
+    "street": "136 Louisiana Blvd NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87108"
+  },
+  "coordinates": {
+    "latitude": 35.07736396789551,
+    "longitude": -106.56828308105469
+  },
+  "website": "https://restoreabq.com",
+  "listingUrl": "https://churches.sbc.net/church/restore-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "restore-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "restoreabq.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "874260055"
+    }
+  ],
+  "advisories": []
+}

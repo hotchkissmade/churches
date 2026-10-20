@@ -1,0 +1,33 @@
+{
+  "id": "nvfhpr430",
+  "url": "https://constellation.church/nvfhpr430",
+  "name": "East Zion Lutheran Church",
+  "displayName": "East Zion Lutheran Church",
+  "address": {
+    "street": "28745 County Road 10",
+    "city": "Starbuck",
+    "state": "MN",
+    "zip": "56381-2176"
+  },
+  "coordinates": {
+    "latitude": 45.48005676269531,
+    "longitude": -95.51575469970703
+  },
+  "website": "https://eastzionlutheranchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1a884ffc-6b88-495c-b907-8bd44cc99757",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1a884ffc-6b88-495c-b907-8bd44cc99757"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastzionlutheranchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416049603"
+    }
+  ],
+  "advisories": []
+}

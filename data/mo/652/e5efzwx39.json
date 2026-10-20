@@ -1,0 +1,33 @@
+{
+  "id": "e5efzwx39",
+  "url": "https://constellation.church/e5efzwx39",
+  "name": "Perche Baptist Church",
+  "displayName": "Perche Baptist Church",
+  "address": {
+    "street": "20301 N Perche Church Rd",
+    "city": "Clark",
+    "state": "MO",
+    "zip": "65243"
+  },
+  "coordinates": {
+    "latitude": 39.19941711425781,
+    "longitude": -92.42298126220703
+  },
+  "website": "https://perchebaptistchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/perche-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "perche-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "perchebaptistchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "844703828"
+    }
+  ],
+  "advisories": []
+}

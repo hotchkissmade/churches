@@ -1,0 +1,33 @@
+{
+  "id": "m874taf23",
+  "url": "https://constellation.church/m874taf23",
+  "name": "Church of St. Mary in-the-Highlands, Cold Spring",
+  "displayName": "Church of St. Mary in-the-Highlands, Cold Spring",
+  "address": {
+    "street": "1 Chestnut Street, PO Box 351",
+    "city": "Cold Spring",
+    "state": "NY",
+    "zip": "10516"
+  },
+  "coordinates": {
+    "latitude": 41.41923713684082,
+    "longitude": -73.95413970947266
+  },
+  "website": "https://stmaryscoldspring.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-new-york/list/episcopal-church-st-mary-highlands",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-new-york/episcopal-church-st-mary-highlands"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmaryscoldspring.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "146017940"
+    }
+  ],
+  "advisories": []
+}

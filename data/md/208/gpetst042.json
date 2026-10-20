@@ -1,0 +1,33 @@
+{
+  "id": "gpetst042",
+  "url": "https://constellation.church/gpetst042",
+  "name": "New Covenant Baptist Church of Maryland",
+  "displayName": "New Covenant Baptist Church of Maryland",
+  "address": {
+    "street": "6400 Rock Spring Dr",
+    "city": "Bethesda",
+    "state": "MD",
+    "zip": "20814"
+  },
+  "coordinates": {
+    "latitude": 39.024662017822266,
+    "longitude": -77.1287727355957
+  },
+  "website": "https://newcovbap.church",
+  "listingUrl": "https://churches.sbc.net/church/new-covenant-baptist-church-of-maryland/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-covenant-baptist-church-of-maryland"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newcovbap.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "844737570"
+    }
+  ],
+  "advisories": []
+}

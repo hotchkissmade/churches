@@ -1,0 +1,33 @@
+{
+  "id": "r6ktc9m26",
+  "url": "https://constellation.church/r6ktc9m26",
+  "name": "St. Paul's Episcopal Church",
+  "displayName": "St. Paul's Episcopal Church",
+  "address": {
+    "street": "6 Park St.",
+    "city": "Vergennes",
+    "state": "VT",
+    "zip": "05491"
+  },
+  "coordinates": {
+    "latitude": 44.16847610473633,
+    "longitude": -73.25117874145508
+  },
+  "website": "https://saintpaulsvergennes.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/vermont/list/st-pauls-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "vermont/st-pauls-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintpaulsvergennes.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030332555"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "brt6wf890",
+  "url": "https://constellation.church/brt6wf890",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "207 N Dakota St",
+    "city": "Clark",
+    "state": "SD",
+    "zip": "57225"
+  },
+  "coordinates": {
+    "latitude": 44.879364013671875,
+    "longitude": -97.73629760742188
+  },
+  "website": "https://clarkag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=b0591135-d758-48e6-a273-976283d80cc4&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "b0591135-d758-48e6-a273-976283d80cc4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "clarkag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "770675113"
+    }
+  ],
+  "advisories": []
+}

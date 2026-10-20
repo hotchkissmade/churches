@@ -1,0 +1,33 @@
+{
+  "id": "f7571b538",
+  "url": "https://constellation.church/f7571b538",
+  "name": "Catonsville Assembly of God",
+  "displayName": "Catonsville Assembly of God",
+  "address": {
+    "street": "1928 Frederick Rd",
+    "city": "Catonsville",
+    "state": "MD",
+    "zip": "21228"
+  },
+  "coordinates": {
+    "latitude": 39.26741600036621,
+    "longitude": -76.76070404052734
+  },
+  "website": "https://catonag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=8d660af8-d9e9-4ce7-bed0-1f7616457608&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "8d660af8-d9e9-4ce7-bed0-1f7616457608"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "catonag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521759218"
+    }
+  ],
+  "advisories": []
+}

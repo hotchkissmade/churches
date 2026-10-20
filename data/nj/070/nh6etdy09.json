@@ -1,0 +1,33 @@
+{
+  "id": "nh6etdy09",
+  "url": "https://constellation.church/nh6etdy09",
+  "name": "New Walk Church",
+  "displayName": "New Walk Church",
+  "address": {
+    "street": "3121 Park Ave",
+    "city": "South Plainfield",
+    "state": "NJ",
+    "zip": "07080"
+  },
+  "coordinates": {
+    "latitude": 40.58600997924805,
+    "longitude": -74.39503860473633
+  },
+  "website": "https://newwalk.me",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=89246c42-8acb-4e60-ab7b-adb0476763d4&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "89246c42-8acb-4e60-ab7b-adb0476763d4"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newwalk.me"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "452402228"
+    }
+  ],
+  "advisories": []
+}

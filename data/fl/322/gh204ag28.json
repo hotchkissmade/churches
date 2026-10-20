@@ -1,0 +1,33 @@
+{
+  "id": "gh204ag28",
+  "url": "https://constellation.church/gh204ag28",
+  "name": "The Well at Crystal Springs",
+  "displayName": "The Well at Crystal Springs",
+  "address": {
+    "street": "9120 Crystal Springs Rd",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32221"
+  },
+  "coordinates": {
+    "latitude": 30.301626205444336,
+    "longitude": -81.80609130859375
+  },
+  "website": "https://neverthirstagain.com",
+  "listingUrl": "https://churches.sbc.net/church/the-well-at-crystal-springs/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "the-well-at-crystal-springs"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "neverthirstagain.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591558910"
+    }
+  ],
+  "advisories": []
+}

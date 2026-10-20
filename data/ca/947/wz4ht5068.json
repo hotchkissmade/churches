@@ -1,0 +1,33 @@
+{
+  "id": "wz4ht5068",
+  "url": "https://constellation.church/wz4ht5068",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "2407 Dana St",
+    "city": "Berkeley",
+    "state": "CA",
+    "zip": "94704-2295"
+  },
+  "coordinates": {
+    "latitude": 37.86592483520508,
+    "longitude": -122.26060485839844
+  },
+  "website": "https://fpcberkeley.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/755/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "755"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcberkeley.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941156849"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ngwwgr047",
+  "url": "https://constellation.church/ngwwgr047",
+  "name": "Crown Church Orlando",
+  "displayName": "Crown Church Orlando",
+  "address": {
+    "street": "1822 Sheeler Ave",
+    "city": "Apopka",
+    "state": "FL",
+    "zip": "32703"
+  },
+  "coordinates": {
+    "latitude": 28.65102195739746,
+    "longitude": -81.49347305297852
+  },
+  "website": "https://crownorl.org",
+  "listingUrl": "https://churches.sbc.net/church/crown-church-orlando/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "crown-church-orlando"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "crownorl.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820767192"
+    },
+    {
+      "namespace": "org.adventistdirectory.id",
+      "value": "19788"
+    }
+  ],
+  "advisories": []
+}

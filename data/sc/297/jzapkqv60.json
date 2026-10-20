@@ -1,0 +1,33 @@
+{
+  "id": "jzapkqv60",
+  "url": "https://constellation.church/jzapkqv60",
+  "name": "Glenrock Baptist Church",
+  "displayName": "Glenrock Baptist Church",
+  "address": {
+    "street": "1815 N Dobys Bridge Rd",
+    "city": "Fort Mill",
+    "state": "SC",
+    "zip": "29715"
+  },
+  "coordinates": {
+    "latitude": 34.985761642456055,
+    "longitude": -80.9223861694336
+  },
+  "website": "https://glenrockbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/glenrock-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "glenrock-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "glenrockbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "571043889"
+    }
+  ],
+  "advisories": []
+}

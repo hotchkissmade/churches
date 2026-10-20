@@ -1,0 +1,33 @@
+{
+  "id": "zjp8nxs30",
+  "url": "https://constellation.church/zjp8nxs30",
+  "name": "Northside Church",
+  "displayName": "Northside Church",
+  "address": {
+    "street": "1207 Wooster Rd",
+    "city": "Millersburg",
+    "state": "OH",
+    "zip": "44654"
+  },
+  "coordinates": {
+    "latitude": 40.56816101074219,
+    "longitude": -81.92125701904297
+  },
+  "website": "https://northsidemillersburg.net",
+  "listingUrl": "https://churches.sbc.net/church/northside-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northside-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northsidemillersburg.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341686189"
+    }
+  ],
+  "advisories": []
+}

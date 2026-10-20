@@ -1,0 +1,29 @@
+{
+  "id": "byyr43y83",
+  "url": "https://constellation.church/byyr43y83",
+  "name": "CHESTERFIELD FOOD BANK",
+  "displayName": "Chesterfield Food Bank",
+  "address": {
+    "street": "12211 IRON BRIDGE RD",
+    "city": "Chester",
+    "state": "VA",
+    "zip": "23831"
+  },
+  "coordinates": {
+    "latitude": 37.3518974,
+    "longitude": -77.4786278
+  },
+  "website": "https://vdh.virginia.gov/chesterfield/food",
+  "listingUrl": null,
+  "identifiers": [
+    {
+      "namespace": "gov.irs.ein",
+      "value": "271286258"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "vdh.virginia.gov/chesterfield/food"
+    }
+  ],
+  "advisories": []
+}

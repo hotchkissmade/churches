@@ -1,0 +1,33 @@
+{
+  "id": "k5ccxfv26",
+  "url": "https://constellation.church/k5ccxfv26",
+  "name": "Ascension Lutheran Church",
+  "displayName": "Ascension Lutheran Church",
+  "address": {
+    "street": "2505 N Circle Dr",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80909-1167"
+  },
+  "coordinates": {
+    "latitude": 38.86871147155762,
+    "longitude": -104.783935546875
+  },
+  "website": "https://ascensioncos.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b67247fe-f100-422e-9325-18ca62088c3c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b67247fe-f100-422e-9325-18ca62088c3c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ascensioncos.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840673793"
+    }
+  ],
+  "advisories": []
+}

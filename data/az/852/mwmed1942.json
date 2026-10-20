@@ -1,0 +1,33 @@
+{
+  "id": "mwmed1942",
+  "url": "https://constellation.church/mwmed1942",
+  "name": "Emmanuel Lutheran Church",
+  "displayName": "Emmanuel Lutheran Church",
+  "address": {
+    "street": "715 W Southern Ave",
+    "city": "Tempe",
+    "state": "AZ",
+    "zip": "85282-4595"
+  },
+  "coordinates": {
+    "latitude": 33.39194869995117,
+    "longitude": -111.94972229003906
+  },
+  "website": "https://elctempe.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24012",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24012"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elctempe.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860268546"
+    }
+  ],
+  "advisories": []
+}

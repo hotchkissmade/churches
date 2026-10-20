@@ -1,0 +1,33 @@
+{
+  "id": "dvxt7zt32",
+  "url": "https://constellation.church/dvxt7zt32",
+  "name": "Episcopal Diocese of New Hampshire",
+  "displayName": "Episcopal Diocese of New Hampshire",
+  "address": {
+    "street": "63 Green Street",
+    "city": "Concord",
+    "state": "NH",
+    "zip": "03301"
+  },
+  "coordinates": {
+    "latitude": 43.20709991455078,
+    "longitude": -71.5402717590332
+  },
+  "website": "https://nhepiscopal.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/new-hampshire/list/episcopal-diocese-new-hampshire",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "new-hampshire/episcopal-diocese-new-hampshire"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nhepiscopal.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "020222114"
+    }
+  ],
+  "advisories": []
+}

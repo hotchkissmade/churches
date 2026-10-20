@@ -1,0 +1,33 @@
+{
+  "id": "thtp8qv96",
+  "url": "https://constellation.church/thtp8qv96",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "201 S Baltimore St",
+    "city": "Dillsburg",
+    "state": "PA",
+    "zip": "17019-1010"
+  },
+  "coordinates": {
+    "latitude": 40.10728645324707,
+    "longitude": -77.0343017578125
+  },
+  "website": "https://stpaulsdillsburg.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=efc55806-147e-43ef-a887-d248f42b0455",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "efc55806-147e-43ef-a887-d248f42b0455"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulsdillsburg.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237374625"
+    }
+  ],
+  "advisories": []
+}

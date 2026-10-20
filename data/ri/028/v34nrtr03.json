@@ -1,0 +1,33 @@
+{
+  "id": "v34nrtr03",
+  "url": "https://constellation.church/v34nrtr03",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "525 Broadway",
+    "city": "Newport",
+    "state": "RI",
+    "zip": "02840-1441"
+  },
+  "coordinates": {
+    "latitude": 41.504905700683594,
+    "longitude": -71.30146789550781
+  },
+  "website": "https://stpetersri.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4eb9a890-3494-4301-83fd-e54e91b05824",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4eb9a890-3494-4301-83fd-e54e91b05824"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpetersri.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "050304266"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "t2j03be90",
+  "url": "https://constellation.church/t2j03be90",
+  "name": "Salt & Light Church",
+  "displayName": "Salt & Light Church",
+  "address": {
+    "street": "360 Miller Rd",
+    "city": "Sumter",
+    "state": "SC",
+    "zip": "29150"
+  },
+  "coordinates": {
+    "latitude": 33.934072494506836,
+    "longitude": -80.36726760864258
+  },
+  "website": "https://saltandlightsumter.com",
+  "listingUrl": "https://churches.sbc.net/church/salt-light-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "salt-light-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saltandlightsumter.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "320001960"
+    }
+  ],
+  "advisories": []
+}

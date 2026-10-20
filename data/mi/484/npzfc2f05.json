@@ -1,0 +1,33 @@
+{
+  "id": "npzfc2f05",
+  "url": "https://constellation.church/npzfc2f05",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "7 S Howard Ave",
+    "city": "Croswell",
+    "state": "MI",
+    "zip": "48422"
+  },
+  "coordinates": {
+    "latitude": 43.27156639099121,
+    "longitude": -82.61997985839844
+  },
+  "website": "https://croswellpresbyterian.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/3204/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "3204"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "croswellpresbyterian.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382056763"
+    }
+  ],
+  "advisories": []
+}

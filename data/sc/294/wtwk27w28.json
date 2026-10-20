@@ -1,0 +1,33 @@
+{
+  "id": "wtwk27w28",
+  "url": "https://constellation.church/wtwk27w28",
+  "name": "First Baptist Church of Bonneau",
+  "displayName": "First Baptist Church of Bonneau",
+  "address": {
+    "street": "108 W Church St",
+    "city": "Bonneau",
+    "state": "SC",
+    "zip": "29431"
+  },
+  "coordinates": {
+    "latitude": 33.30177879333496,
+    "longitude": -79.95608139038086
+  },
+  "website": "https://firstbaptistbonneau.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-bonneau/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-bonneau"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstbaptistbonneau.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570760100"
+    }
+  ],
+  "advisories": []
+}

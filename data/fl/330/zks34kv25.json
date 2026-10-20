@@ -1,0 +1,33 @@
+{
+  "id": "zks34kv25",
+  "url": "https://constellation.church/zks34kv25",
+  "name": "Taft Street Baptist Church",
+  "displayName": "Taft Street Baptist Church",
+  "address": {
+    "street": "7241 Taft St",
+    "city": "Pembroke Pnes",
+    "state": "FL",
+    "zip": "33024"
+  },
+  "coordinates": {
+    "latitude": 26.024850845336914,
+    "longitude": -80.23366165161133
+  },
+  "website": "https://taftbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/taft-street-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "taft-street-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "taftbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "591057817"
+    }
+  ],
+  "advisories": []
+}

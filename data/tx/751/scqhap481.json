@@ -1,0 +1,33 @@
+{
+  "id": "scqhap481",
+  "url": "https://constellation.church/scqhap481",
+  "name": "Church of the Good Shepherd",
+  "displayName": "Church of the Good Shepherd",
+  "address": {
+    "street": "200 W College St",
+    "city": "Terrell",
+    "state": "TX",
+    "zip": "75160-2625"
+  },
+  "coordinates": {
+    "latitude": 32.73959159851074,
+    "longitude": -96.27825927734375
+  },
+  "website": "https://gsterrell.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-dallas/list/church-good-shepherd-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-dallas/church-good-shepherd-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gsterrell.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751913851"
+    }
+  ],
+  "advisories": []
+}

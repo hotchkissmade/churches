@@ -1,0 +1,33 @@
+{
+  "id": "jnebrve22",
+  "url": "https://constellation.church/jnebrve22",
+  "name": "Central Baptist Church, Olean",
+  "displayName": "Central Baptist Church, Olean",
+  "address": {
+    "street": "701 W State St",
+    "city": "Olean",
+    "state": "NY",
+    "zip": "14760"
+  },
+  "coordinates": {
+    "latitude": 42.077335357666016,
+    "longitude": -78.43777465820312
+  },
+  "website": "https://centralbaptistolean.com",
+  "listingUrl": "https://churches.sbc.net/church/central-baptist-church-olean-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "central-baptist-church-olean-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "centralbaptistolean.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "161564571"
+    }
+  ],
+  "advisories": []
+}

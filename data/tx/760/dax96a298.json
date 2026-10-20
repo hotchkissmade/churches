@@ -1,0 +1,33 @@
+{
+  "id": "dax96a298",
+  "url": "https://constellation.church/dax96a298",
+  "name": "First Baptist Church",
+  "displayName": "First Baptist Church",
+  "address": {
+    "street": "405 Main St",
+    "city": "Paradise",
+    "state": "TX",
+    "zip": "76073"
+  },
+  "coordinates": {
+    "latitude": 33.14988136291504,
+    "longitude": -97.68767547607422
+  },
+  "website": "https://firstchurchparadise.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-288/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-288"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstchurchparadise.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751210728"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "psr89sf84",
+  "url": "https://constellation.church/psr89sf84",
+  "name": "Gulf Coast Presbyterian Church",
+  "displayName": "Gulf Coast Presbyterian Church",
+  "address": {
+    "street": "3725 Gulf Shores Parkway",
+    "city": "Gulf Shores",
+    "state": "AL",
+    "zip": "36542"
+  },
+  "coordinates": {
+    "latitude": 30.298208236694336,
+    "longitude": -87.68326568603516
+  },
+  "website": "https://gulfcoastpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/6710",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "6710"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gulfcoastpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "872926280"
+    }
+  ],
+  "advisories": []
+}

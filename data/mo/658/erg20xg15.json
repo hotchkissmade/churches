@@ -1,0 +1,33 @@
+{
+  "id": "erg20xg15",
+  "url": "https://constellation.church/erg20xg15",
+  "name": "South Haven Baptist Church, Springfield",
+  "displayName": "South Haven Baptist Church, Springfield",
+  "address": {
+    "street": "2353 S Campbell Ave",
+    "city": "Springfield",
+    "state": "MO",
+    "zip": "65807"
+  },
+  "coordinates": {
+    "latitude": 37.17161560058594,
+    "longitude": -93.29573822021484
+  },
+  "website": "https://south-haven.org",
+  "listingUrl": "https://churches.sbc.net/church/south-haven-baptist-church-springfield/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "south-haven-baptist-church-springfield"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "south-haven.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430796605"
+    }
+  ],
+  "advisories": []
+}

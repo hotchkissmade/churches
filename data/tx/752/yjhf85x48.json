@@ -1,0 +1,33 @@
+{
+  "id": "yjhf85x48",
+  "url": "https://constellation.church/yjhf85x48",
+  "name": "Church in Dallas",
+  "displayName": "Church in Dallas",
+  "address": {
+    "street": "13093 Meandering Way",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75240"
+  },
+  "coordinates": {
+    "latitude": 32.92657279968262,
+    "longitude": -96.77579498291016
+  },
+  "website": "https://churchindallas.org",
+  "listingUrl": "https://localchurches.org/churches/dallas-tx-usa/",
+  "identifiers": [
+    {
+      "namespace": "org.localchurches.id",
+      "value": "dallas-tx-usa"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "churchindallas.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237164674"
+    }
+  ],
+  "advisories": []
+}

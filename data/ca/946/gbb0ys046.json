@@ -1,0 +1,33 @@
+{
+  "id": "gbb0ys046",
+  "url": "https://constellation.church/gbb0ys046",
+  "name": "East Bay Bible Church",
+  "displayName": "East Bay Bible Church",
+  "address": {
+    "street": "11200 Golf Links Rd Ste A",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94605"
+  },
+  "coordinates": {
+    "latitude": 37.74997901916504,
+    "longitude": -122.12276458740234
+  },
+  "website": "https://eastbaybible.com",
+  "listingUrl": "https://churches.sbc.net/church/east-bay-bible-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "east-bay-bible-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastbaybible.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "943313530"
+    }
+  ],
+  "advisories": []
+}

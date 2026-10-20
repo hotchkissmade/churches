@@ -1,0 +1,33 @@
+{
+  "id": "w8s36td78",
+  "url": "https://constellation.church/w8s36td78",
+  "name": "First Baptist Church of Live Oak",
+  "displayName": "First Baptist Church of Live Oak",
+  "address": {
+    "street": "401 Howard St W",
+    "city": "Live Oak",
+    "state": "FL",
+    "zip": "32064"
+  },
+  "coordinates": {
+    "latitude": 30.297441482543945,
+    "longitude": -82.98781967163086
+  },
+  "website": "https://fbcliveoak.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-live-oak/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-live-oak"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcliveoak.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590913187"
+    }
+  ],
+  "advisories": []
+}

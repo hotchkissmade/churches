@@ -1,0 +1,33 @@
+{
+  "id": "d3fds3161",
+  "url": "https://constellation.church/d3fds3161",
+  "name": "Bethany Lutheran Church",
+  "displayName": "Bethany Lutheran Church",
+  "address": {
+    "street": "110 W Austin St",
+    "city": "Fredericksburg",
+    "state": "TX",
+    "zip": "78624-3802"
+  },
+  "coordinates": {
+    "latitude": 30.27701759338379,
+    "longitude": -98.87149810791016
+  },
+  "website": "https://bethanyfbg.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=75f7aa64-d90d-41ce-9812-1bc231c4a604",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "75f7aa64-d90d-41ce-9812-1bc231c4a604"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethanyfbg.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "741246245"
+    }
+  ],
+  "advisories": []
+}

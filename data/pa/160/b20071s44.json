@@ -1,0 +1,33 @@
+{
+  "id": "b20071s44",
+  "url": "https://constellation.church/b20071s44",
+  "name": "Mt Nebo Presbyterian Church",
+  "displayName": "Mount Nebo Presbyterian Church",
+  "address": {
+    "street": "1236 Prospect Rd",
+    "city": "Prospect",
+    "state": "PA",
+    "zip": "16052"
+  },
+  "coordinates": {
+    "latitude": 40.870370864868164,
+    "longitude": -80.04081344604492
+  },
+  "website": "https://mtnebopresby.com",
+  "listingUrl": "https://church-trends.pcusa.org/church/7300/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "7300"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mtnebopresby.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "256040611"
+    }
+  ],
+  "advisories": []
+}

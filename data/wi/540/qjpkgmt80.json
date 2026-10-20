@@ -1,0 +1,33 @@
+{
+  "id": "qjpkgmt80",
+  "url": "https://constellation.church/qjpkgmt80",
+  "name": "East Immanuel Lutheran Church",
+  "displayName": "East Immanuel Lutheran Church",
+  "address": {
+    "street": "207 120th St",
+    "city": "Amery",
+    "state": "WI",
+    "zip": "54001-2901"
+  },
+  "coordinates": {
+    "latitude": 45.239105224609375,
+    "longitude": -92.40707397460938
+  },
+  "website": "https://eastimmanuel-lutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=953ae60b-bb50-4314-8779-8a048d3a44ae",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "953ae60b-bb50-4314-8779-8a048d3a44ae"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastimmanuel-lutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391303353"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nab5vwm50",
+  "url": "https://constellation.church/nab5vwm50",
+  "name": "Faith Presbyterian Church",
+  "displayName": "Faith Presbyterian Church",
+  "address": {
+    "street": "720 Marsh Road",
+    "city": "Wilmington",
+    "state": "DE",
+    "zip": "19803"
+  },
+  "coordinates": {
+    "latitude": 39.782379150390625,
+    "longitude": -75.50726699829102
+  },
+  "website": "https://faithwilmington.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/388",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "388"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithwilmington.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "516000137"
+    }
+  ],
+  "advisories": []
+}

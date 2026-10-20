@@ -1,0 +1,33 @@
+{
+  "id": "gpssd3e20",
+  "url": "https://constellation.church/gpssd3e20",
+  "name": "St Paul International Lutheran Church",
+  "displayName": "St. Paul International Lutheran Church",
+  "address": {
+    "street": "26222 Union Tpke",
+    "city": "Floral Park",
+    "state": "NY",
+    "zip": "11004-1347"
+  },
+  "coordinates": {
+    "latitude": 40.747971137131,
+    "longitude": -73.710047861306
+  },
+  "website": "https://mnys.org/locations/st-pauls-international-lutheran-church-floral-park",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b5bf3a33-2728-45e6-b83e-dba98b9f750c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "b5bf3a33-2728-45e6-b83e-dba98b9f750c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mnys.org/locations/st-pauls-international-lutheran-church-floral-park"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "111711000"
+    }
+  ],
+  "advisories": []
+}

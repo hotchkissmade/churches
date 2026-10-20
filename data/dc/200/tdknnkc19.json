@@ -1,0 +1,33 @@
+{
+  "id": "tdknnkc19",
+  "url": "https://constellation.church/tdknnkc19",
+  "name": "St. Columba's",
+  "displayName": "St. Columba's",
+  "address": {
+    "street": "4201 Albemarle St NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20016-2098"
+  },
+  "coordinates": {
+    "latitude": 38.9481143951416,
+    "longitude": -77.08243179321289
+  },
+  "website": "https://columba.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/st-columbas",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/st-columbas"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "columba.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "530232824"
+    }
+  ],
+  "advisories": []
+}

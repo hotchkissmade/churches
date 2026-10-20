@@ -1,0 +1,33 @@
+{
+  "id": "wghbb6k48",
+  "url": "https://constellation.church/wghbb6k48",
+  "name": "Evergreen Baptist Church",
+  "displayName": "Evergreen Baptist Church",
+  "address": {
+    "street": "455 Evergreen Ave",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11221"
+  },
+  "coordinates": {
+    "latitude": 40.69164848327637,
+    "longitude": -73.91792678833008
+  },
+  "website": "https://evergreenbaptist-ny.com",
+  "listingUrl": "https://churches.sbc.net/church/evergreen-baptist-church-17/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "evergreen-baptist-church-17"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "evergreenbaptist-ny.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112028412"
+    }
+  ],
+  "advisories": []
+}

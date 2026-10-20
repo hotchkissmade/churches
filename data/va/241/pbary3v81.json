@@ -1,0 +1,33 @@
+{
+  "id": "pbary3v81",
+  "url": "https://constellation.church/pbary3v81",
+  "name": "St. Paul's Episcopal Church",
+  "displayName": "St. Paul's Episcopal Church",
+  "address": {
+    "street": "42 E Main St",
+    "city": "Salem",
+    "state": "VA",
+    "zip": "24153-3807"
+  },
+  "coordinates": {
+    "latitude": 37.292837142944336,
+    "longitude": -80.05706024169922
+  },
+  "website": "https://salemstpauls.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-southwestern-virginia/list/st-pauls-episcopal-church-1",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-southwestern-virginia/st-pauls-episcopal-church-1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemstpauls.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541112119"
+    }
+  ],
+  "advisories": []
+}

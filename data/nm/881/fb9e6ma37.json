@@ -1,0 +1,33 @@
+{
+  "id": "fb9e6ma37",
+  "url": "https://constellation.church/fb9e6ma37",
+  "name": "Central Baptist Church",
+  "displayName": "Central Baptist Church",
+  "address": {
+    "street": "2501 N Norris St",
+    "city": "Clovis",
+    "state": "NM",
+    "zip": "88101"
+  },
+  "coordinates": {
+    "latitude": 34.42434120178223,
+    "longitude": -103.17716217041016
+  },
+  "website": "https://connect2central.com",
+  "listingUrl": "https://churches.sbc.net/church/central-baptist-church-36/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "central-baptist-church-36"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "connect2central.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850115314"
+    }
+  ],
+  "advisories": []
+}

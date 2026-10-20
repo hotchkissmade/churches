@@ -1,0 +1,33 @@
+{
+  "id": "mbsst6k59",
+  "url": "https://constellation.church/mbsst6k59",
+  "name": "Galloway",
+  "displayName": "Galloway United Methodist Church",
+  "address": {
+    "street": "306 Annandale Rd",
+    "city": "Falls Church",
+    "state": "VA",
+    "zip": "22042"
+  },
+  "coordinates": {
+    "latitude": 38.87875175476074,
+    "longitude": -77.17373275756836
+  },
+  "website": "https://gallowayumchurch.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFJ5gIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFJ5gIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gallowayumchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541287425"
+    }
+  ],
+  "advisories": []
+}

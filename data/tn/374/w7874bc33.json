@@ -1,0 +1,33 @@
+{
+  "id": "w7874bc33",
+  "url": "https://constellation.church/w7874bc33",
+  "name": "First Lutheran Church",
+  "displayName": "First Lutheran Church",
+  "address": {
+    "street": "2800 McCallie Ave",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37404-3916"
+  },
+  "coordinates": {
+    "latitude": 35.03125190734863,
+    "longitude": -85.26126098632812
+  },
+  "website": "https://first4u.org",
+  "listingUrl": "https://locator.lcms.org/church/C/150794",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "150794"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "first4u.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620481795"
+    }
+  ],
+  "advisories": []
+}

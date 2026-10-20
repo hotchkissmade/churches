@@ -1,0 +1,33 @@
+{
+  "id": "h9d1hp213",
+  "url": "https://constellation.church/h9d1hp213",
+  "name": "Santa Maria Virgen Episcopal Church",
+  "displayName": "Santa Maria Virgen Episcopal Church",
+  "address": {
+    "street": "9600 Huntington Place Dr",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77099-2316"
+  },
+  "coordinates": {
+    "latitude": 29.674728393554688,
+    "longitude": -95.60043334960938
+  },
+  "website": "https://episcopalchurch.org/find-a-church",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-texas/list/santa-maria-virgen-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-texas/santa-maria-virgen-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "episcopalchurch.org/find-a-church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760249027"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "wbkedr283",
+  "url": "https://constellation.church/wbkedr283",
+  "name": "St. Alban's Episcopal Church",
+  "displayName": "St. Alban's Episcopal Church",
+  "address": {
+    "street": "6716 Gleason Rd",
+    "city": "Edina",
+    "state": "MN",
+    "zip": "55439-1130"
+  },
+  "coordinates": {
+    "latitude": 44.880353927612305,
+    "longitude": -93.38300323486328
+  },
+  "website": "https://stalbansedina.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/minnesota/list/st-albans-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "minnesota/st-albans-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stalbansedina.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410833540"
+    }
+  ],
+  "advisories": []
+}

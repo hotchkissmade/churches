@@ -1,0 +1,33 @@
+{
+  "id": "fyqt55r70",
+  "url": "https://constellation.church/fyqt55r70",
+  "name": "St. Augustine's church",
+  "displayName": "St. Augustine's church",
+  "address": {
+    "street": "4301 Avenue D",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11203"
+  },
+  "coordinates": {
+    "latitude": 40.643423080444336,
+    "longitude": -73.93534469604492
+  },
+  "website": "https://staugustinesbrooklyn.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/st-augustines-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/st-augustines-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "staugustinesbrooklyn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "112602182"
+    }
+  ],
+  "advisories": []
+}

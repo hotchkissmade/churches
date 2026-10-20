@@ -1,0 +1,33 @@
+{
+  "id": "mdkrbbv14",
+  "url": "https://constellation.church/mdkrbbv14",
+  "name": "Crossbridge Community Church",
+  "displayName": "Crossbridge Community Church",
+  "address": {
+    "street": "1049 Eldridge Rd",
+    "city": "Sugar Land",
+    "state": "TX",
+    "zip": "77478"
+  },
+  "coordinates": {
+    "latitude": 29.63524627685547,
+    "longitude": -95.61979675292969
+  },
+  "website": "https://crossbridge.cc",
+  "listingUrl": "https://churches.sbc.net/church/crossbridge-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "crossbridge-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "crossbridge.cc"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "743043744"
+    }
+  ],
+  "advisories": []
+}

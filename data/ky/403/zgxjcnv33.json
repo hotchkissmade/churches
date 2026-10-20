@@ -1,0 +1,33 @@
+{
+  "id": "zgxjcnv33",
+  "url": "https://constellation.church/zgxjcnv33",
+  "name": "St. Athanasius Church",
+  "displayName": "St. Athanasius Church",
+  "address": {
+    "street": "100 Lime Ln",
+    "city": "Nicholasville",
+    "state": "KY",
+    "zip": "40356-4500"
+  },
+  "coordinates": {
+    "latitude": 37.897159576416016,
+    "longitude": -84.56282806396484
+  },
+  "website": "https://bluegrassorthodox.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-so-nicsac",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-so-nicsac"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bluegrassorthodox.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611323301"
+    }
+  ],
+  "advisories": []
+}

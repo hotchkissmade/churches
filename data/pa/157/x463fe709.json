@@ -1,0 +1,33 @@
+{
+  "id": "x463fe709",
+  "url": "https://constellation.church/x463fe709",
+  "name": "Mount Zion Lutheran Church",
+  "displayName": "Mount Zion Lutheran Church",
+  "address": {
+    "street": "2105 Airport Rd.",
+    "city": "Punxsutawney",
+    "state": "PA",
+    "zip": "15767"
+  },
+  "coordinates": {
+    "latitude": 40.9786601,
+    "longitude": -78.9250566
+  },
+  "website": "https://punxsylutherans.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9882f767-50d8-497c-81b3-609772cc022c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9882f767-50d8-497c-81b3-609772cc022c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "punxsylutherans.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251328774"
+    }
+  ],
+  "advisories": []
+}

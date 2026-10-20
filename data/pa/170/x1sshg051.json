@@ -1,0 +1,33 @@
+{
+  "id": "x1sshg051",
+  "url": "https://constellation.church/x1sshg051",
+  "name": "Grantham Church",
+  "displayName": "Grantham Church",
+  "address": {
+    "street": "421 Grantham Rd.",
+    "city": "Mechanicsburg",
+    "state": "PA",
+    "zip": "17055"
+  },
+  "coordinates": {
+    "latitude": 40.16194534301758,
+    "longitude": -76.98866653442383
+  },
+  "website": "https://granthamchurch.org",
+  "listingUrl": "https://bicus.org/church/grantham-church/",
+  "identifiers": [
+    {
+      "namespace": "org.bicus.id",
+      "value": "19447"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "granthamchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251789166"
+    }
+  ],
+  "advisories": []
+}

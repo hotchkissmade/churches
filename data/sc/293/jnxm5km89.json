@@ -1,0 +1,33 @@
+{
+  "id": "jnxm5km89",
+  "url": "https://constellation.church/jnxm5km89",
+  "name": "Mayo First Baptist Church",
+  "displayName": "Mayo First Baptist Church",
+  "address": {
+    "street": "190 Mayo Rd.",
+    "city": "Mayo",
+    "state": "SC",
+    "zip": "29368"
+  },
+  "coordinates": {
+    "latitude": 35.08160209655762,
+    "longitude": -81.85903549194336
+  },
+  "website": "https://fbmayo.org",
+  "listingUrl": "https://churches.sbc.net/church/mayo-first-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "mayo-first-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbmayo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570767340"
+    }
+  ],
+  "advisories": []
+}

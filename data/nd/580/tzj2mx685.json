@@ -1,0 +1,33 @@
+{
+  "id": "tzj2mx685",
+  "url": "https://constellation.church/tzj2mx685",
+  "name": "Milnor Lutheran Church",
+  "displayName": "Milnor Lutheran Church",
+  "address": {
+    "street": "321 2nd St",
+    "city": "Milnor",
+    "state": "ND",
+    "zip": "58060-4029"
+  },
+  "coordinates": {
+    "latitude": 46.25643730163574,
+    "longitude": -97.45645904541016
+  },
+  "website": "https://milnorlutheran.com/newsletter",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f2ce4809-4113-424a-9682-234bbd9b7250",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f2ce4809-4113-424a-9682-234bbd9b7250"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "milnorlutheran.com/newsletter"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "450261277"
+    }
+  ],
+  "advisories": []
+}

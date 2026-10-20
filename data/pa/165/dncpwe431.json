@@ -1,0 +1,33 @@
+{
+  "id": "dncpwe431",
+  "url": "https://constellation.church/dncpwe431",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "3968 Hershey Rd",
+    "city": "Erie",
+    "state": "PA",
+    "zip": "16506-4762"
+  },
+  "coordinates": {
+    "latitude": 42.042808532714844,
+    "longitude": -80.14012145996094
+  },
+  "website": "https://stpetersmillcreek.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=58e0111d-002c-41f4-8219-10a9ccaf9148",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "58e0111d-002c-41f4-8219-10a9ccaf9148"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpetersmillcreek.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251473435"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "azyn7nx46",
+  "url": "https://constellation.church/azyn7nx46",
+  "name": "Path Church",
+  "displayName": "Path Church",
+  "address": {
+    "street": "310 N 10th St",
+    "city": "Central Point",
+    "state": "OR",
+    "zip": "97502"
+  },
+  "coordinates": {
+    "latitude": 42.380916595458984,
+    "longitude": -122.91177368164062
+  },
+  "website": "https://pathchurch.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=3cb5846f-b377-43f0-8786-b358db898f98&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "3cb5846f-b377-43f0-8786-b358db898f98"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pathchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "930691176"
+    }
+  ],
+  "advisories": []
+}

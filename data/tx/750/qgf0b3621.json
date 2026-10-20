@@ -1,0 +1,33 @@
+{
+  "id": "qgf0b3621",
+  "url": "https://constellation.church/qgf0b3621",
+  "name": "St. Paul the Apostle Mission",
+  "displayName": "St. Paul the Apostle Mission",
+  "address": {
+    "street": "181 Preston Rd",
+    "city": "Denison",
+    "state": "TX",
+    "zip": "75020"
+  },
+  "coordinates": {
+    "latitude": 33.70382118225098,
+    "longitude": -96.62313842773438
+  },
+  "website": "https://stpauldenison.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-so-denspm",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-so-denspm"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpauldenison.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "300145603"
+    }
+  ],
+  "advisories": []
+}

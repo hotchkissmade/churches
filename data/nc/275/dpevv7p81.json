@@ -1,0 +1,33 @@
+{
+  "id": "dpevv7p81",
+  "url": "https://constellation.church/dpevv7p81",
+  "name": "Franklinton United Methodist Church",
+  "displayName": "Franklinton United Methodist Church",
+  "address": {
+    "street": "109 N Main St",
+    "city": "Franklinton",
+    "state": "NC",
+    "zip": "27525-1314"
+  },
+  "coordinates": {
+    "latitude": 36.10512924194336,
+    "longitude": -78.45601272583008
+  },
+  "website": "https://franklinton-umc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFP5yIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFP5yIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "franklinton-umc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560886631"
+    }
+  ],
+  "advisories": []
+}

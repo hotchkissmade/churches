@@ -1,0 +1,33 @@
+{
+  "id": "vg3q5wh10",
+  "url": "https://constellation.church/vg3q5wh10",
+  "name": "Sand Harbor Presbyterian Church",
+  "displayName": "Sand Harbor Presbyterian Church",
+  "address": {
+    "street": "110 Park Street",
+    "city": "Jupiter",
+    "state": "FL",
+    "zip": "33458"
+  },
+  "coordinates": {
+    "latitude": 26.94373321533203,
+    "longitude": -80.09435653686523
+  },
+  "website": "https://sandharborpca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4380",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4380"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sandharborpca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "651139415"
+    }
+  ],
+  "advisories": []
+}

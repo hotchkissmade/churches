@@ -1,0 +1,33 @@
+{
+  "id": "j1jgrvj88",
+  "url": "https://constellation.church/j1jgrvj88",
+  "name": "All Souls' Episcopal Church",
+  "displayName": "All Souls' Episcopal Church",
+  "address": {
+    "street": "1475 Catalina Blvd",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92107-3798"
+  },
+  "coordinates": {
+    "latitude": 32.73142051696777,
+    "longitude": -117.2421875
+  },
+  "website": "https://allsoulspointloma.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-san-diego/list/all-souls-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-san-diego/all-souls-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allsoulspointloma.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "951803682"
+    }
+  ],
+  "advisories": []
+}

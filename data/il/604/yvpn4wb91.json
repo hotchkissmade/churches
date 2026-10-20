@@ -1,0 +1,33 @@
+{
+  "id": "yvpn4wb91",
+  "url": "https://constellation.church/yvpn4wb91",
+  "name": "First Baptist Church of Tinley Park",
+  "displayName": "First Baptist Church of Tinley Park",
+  "address": {
+    "street": "7025 W 179th St",
+    "city": "Tinley Park",
+    "state": "IL",
+    "zip": "60477"
+  },
+  "coordinates": {
+    "latitude": 41.56547927856445,
+    "longitude": -87.78975677490234
+  },
+  "website": "https://fbctp.org/about-us",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-tinley-park/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-tinley-park"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbctp.org/about-us"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362713523"
+    }
+  ],
+  "advisories": []
+}

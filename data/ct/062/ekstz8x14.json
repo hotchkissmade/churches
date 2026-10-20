@@ -1,0 +1,33 @@
+{
+  "id": "ekstz8x14",
+  "url": "https://constellation.church/ekstz8x14",
+  "name": "Green Valley Crossing",
+  "displayName": "Green Valley Crossing",
+  "address": {
+    "street": "75 Railroad Street",
+    "city": "Putnam",
+    "state": "CT",
+    "zip": "06260"
+  },
+  "coordinates": {
+    "latitude": 41.918800354003906,
+    "longitude": -71.9054946899414
+  },
+  "website": "https://gvc.church",
+  "listingUrl": "https://churches.sbc.net/church/green-valley-crossing/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "green-valley-crossing"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gvc.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "462219772"
+    }
+  ],
+  "advisories": []
+}

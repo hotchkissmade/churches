@@ -1,0 +1,33 @@
+{
+  "id": "sd1w4ce69",
+  "url": "https://constellation.church/sd1w4ce69",
+  "name": "Grace Church",
+  "displayName": "Grace Church",
+  "address": {
+    "street": "2801 Pelham Rd",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29615"
+  },
+  "coordinates": {
+    "latitude": 34.863616943359375,
+    "longitude": -82.27770614624023
+  },
+  "website": "https://grace.sc/resources/stories/topics/foster-and-adopt",
+  "listingUrl": "https://churches.sbc.net/church/grace-church-5/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grace-church-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grace.sc/resources/stories/topics/foster-and-adopt"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "923425952"
+    }
+  ],
+  "advisories": []
+}

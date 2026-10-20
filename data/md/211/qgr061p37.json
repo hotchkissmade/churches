@@ -1,0 +1,33 @@
+{
+  "id": "qgr061p37",
+  "url": "https://constellation.church/qgr061p37",
+  "name": "House Of Prayer",
+  "displayName": "RCCG House Of Prayer",
+  "address": {
+    "street": "9621 Reisterstown Road",
+    "city": "Owings Mills",
+    "state": "MD",
+    "zip": "21117"
+  },
+  "coordinates": {
+    "latitude": 39.4047908782959,
+    "longitude": -76.75848007202148
+  },
+  "website": "https://rccghopmd.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=560&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "560"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rccghopmd.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "272999471"
+    }
+  ],
+  "advisories": []
+}

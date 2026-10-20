@@ -1,0 +1,33 @@
+{
+  "id": "n8cc4sg59",
+  "url": "https://constellation.church/n8cc4sg59",
+  "name": "St. Catherine's Episcopal Church",
+  "displayName": "St. Catherine's Episcopal Church",
+  "address": {
+    "street": "571 Holt Rd NE",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30068-3039"
+  },
+  "coordinates": {
+    "latitude": 33.96453285217285,
+    "longitude": -84.47935485839844
+  },
+  "website": "https://stcats.church",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-atlanta/list/st-catherines-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-atlanta/st-catherines-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stcats.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581316843"
+    }
+  ],
+  "advisories": []
+}

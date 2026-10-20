@@ -1,0 +1,33 @@
+{
+  "id": "r4tmn2c63",
+  "url": "https://constellation.church/r4tmn2c63",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "503 Columbus Ave",
+    "city": "Sandusky",
+    "state": "OH",
+    "zip": "44870-2731"
+  },
+  "coordinates": {
+    "latitude": 41.452192306518555,
+    "longitude": -82.709716796875
+  },
+  "website": "https://zionsandusky.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=0a9dfe95-011c-4d85-93cc-128cc9767c03",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "0a9dfe95-011c-4d85-93cc-128cc9767c03"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionsandusky.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341138476"
+    }
+  ],
+  "advisories": []
+}

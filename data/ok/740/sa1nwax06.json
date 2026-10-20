@@ -1,0 +1,33 @@
+{
+  "id": "sa1nwax06",
+  "url": "https://constellation.church/sa1nwax06",
+  "name": "St James Presbyterian Church",
+  "displayName": "St. James Presbyterian Church",
+  "address": {
+    "street": "11970 S Elm",
+    "city": "Jenks",
+    "state": "OK",
+    "zip": "74037-2049"
+  },
+  "coordinates": {
+    "latitude": 35.99038505554199,
+    "longitude": -95.97633361816406
+  },
+  "website": "https://stjamesjenks.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/10723/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "10723"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamesjenks.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "731155065"
+    }
+  ],
+  "advisories": []
+}

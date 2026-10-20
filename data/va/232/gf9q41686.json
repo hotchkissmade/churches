@@ -1,0 +1,33 @@
+{
+  "id": "gf9q41686",
+  "url": "https://constellation.church/gf9q41686",
+  "name": "Remnant Church (Richmond)",
+  "displayName": "Remnant Church (Richmond)",
+  "address": {
+    "street": "12 N 19th St",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "23223"
+  },
+  "coordinates": {
+    "latitude": 37.532976150512695,
+    "longitude": -77.42623901367188
+  },
+  "website": "https://remnantrva.com",
+  "listingUrl": "https://churches.sbc.net/church/remnant-church-richmond/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "remnant-church-richmond"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "remnantrva.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "263882756"
+    }
+  ],
+  "advisories": []
+}

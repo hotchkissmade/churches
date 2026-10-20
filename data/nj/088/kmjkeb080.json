@@ -1,0 +1,33 @@
+{
+  "id": "kmjkeb080",
+  "url": "https://constellation.church/kmjkeb080",
+  "name": "Bridgewater United Methodist Church",
+  "displayName": "Bridgewater United Methodist Church",
+  "address": {
+    "street": "651 Country Club Rd",
+    "city": "Bridgewater",
+    "state": "NJ",
+    "zip": "08807-1681"
+  },
+  "coordinates": {
+    "latitude": 40.60565185546875,
+    "longitude": -74.64321899414062
+  },
+  "website": "https://bridgewaterumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFGfAIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFGfAIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bridgewaterumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "226067626"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "h2nzv0587",
+  "url": "https://constellation.church/h2nzv0587",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "401 7th Ave N",
+    "city": "Lakefield",
+    "state": "MN",
+    "zip": "56150"
+  },
+  "coordinates": {
+    "latitude": 43.68314552307129,
+    "longitude": -95.16888427734375
+  },
+  "website": "https://bethlehemlakefield.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e0411dbb-23d9-474b-a90c-405bb531a14e",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e0411dbb-23d9-474b-a90c-405bb531a14e"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethlehemlakefield.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410824181"
+    }
+  ],
+  "advisories": []
+}

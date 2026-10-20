@@ -1,0 +1,33 @@
+{
+  "id": "p87g0qt09",
+  "url": "https://constellation.church/p87g0qt09",
+  "name": "Denton Presbyterian Church",
+  "displayName": "Denton Presbyterian Church",
+  "address": {
+    "street": "1114 West University Drive, First Presbyterian Church",
+    "city": "Denton",
+    "state": "TX",
+    "zip": "76201"
+  },
+  "coordinates": {
+    "latitude": 33.20771598815918,
+    "longitude": -97.15425109863281
+  },
+  "website": "https://dentonpresbyterian.com",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4923",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4923"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dentonpresbyterian.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "743174299"
+    }
+  ],
+  "advisories": []
+}

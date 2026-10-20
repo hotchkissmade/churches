@@ -1,0 +1,33 @@
+{
+  "id": "eb5h7k043",
+  "url": "https://constellation.church/eb5h7k043",
+  "name": "Randall House",
+  "displayName": "Randall House",
+  "address": {
+    "street": "215 Randall St",
+    "city": "Greer",
+    "state": "SC",
+    "zip": "29651"
+  },
+  "coordinates": {
+    "latitude": 34.9364269,
+    "longitude": -82.2274475
+  },
+  "website": "https://randallhousegreer.com/church.html",
+  "listingUrl": "https://churches.sbc.net/church/randall-house/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "randall-house"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "randallhousegreer.com/church.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570946182"
+    }
+  ],
+  "advisories": []
+}

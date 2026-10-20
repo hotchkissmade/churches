@@ -1,0 +1,33 @@
+{
+  "id": "a9c4ez223",
+  "url": "https://constellation.church/a9c4ez223",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "637 Main St",
+    "city": "Lancaster",
+    "state": "NH",
+    "zip": "03584"
+  },
+  "coordinates": {
+    "latitude": 44.50652313232422,
+    "longitude": -71.56818771362305
+  },
+  "website": "https://lancasterassembly.wixsite.com/thechurch",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f3c3ed8c-691d-424e-a2bb-76293869d16c&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "f3c3ed8c-691d-424e-a2bb-76293869d16c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lancasterassembly.wixsite.com/thechurch"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "020367056"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hck0s5y24",
+  "url": "https://constellation.church/hck0s5y24",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "1204 13th St",
+    "city": "Dallas Center",
+    "state": "IA",
+    "zip": "50063"
+  },
+  "coordinates": {
+    "latitude": 41.67756462097168,
+    "longitude": -93.9590072631836
+  },
+  "website": "https://dcpresbyterian.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/2439/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "2439"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "dcpresbyterian.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "421039434"
+    }
+  ],
+  "advisories": []
+}

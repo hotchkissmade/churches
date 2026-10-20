@@ -1,0 +1,33 @@
+{
+  "id": "cyxa04179",
+  "url": "https://constellation.church/cyxa04179",
+  "name": "The Morganville United Methodist Church",
+  "displayName": "The Morganville United Methodist Church",
+  "address": {
+    "street": "215 Conover Rd",
+    "city": "Morganville",
+    "state": "NJ",
+    "zip": "07751-4425"
+  },
+  "coordinates": {
+    "latitude": 40.363752365112305,
+    "longitude": -74.24621200561523
+  },
+  "website": "https://morganvilleumc.my.canva.site",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFLBwIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFLBwIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "morganvilleumc.my.canva.site"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237449475"
+    }
+  ],
+  "advisories": []
+}

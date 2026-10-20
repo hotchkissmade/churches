@@ -1,0 +1,33 @@
+{
+  "id": "hqsszan04",
+  "url": "https://constellation.church/hqsszan04",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "40 10th St W",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59102-5800"
+  },
+  "coordinates": {
+    "latitude": 45.770713806152344,
+    "longitude": -108.54109954833984
+  },
+  "website": "https://bethlehem-lutheran-church-elca.square.site",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4c9382c3-961d-42a2-b75d-4008584778e8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4c9382c3-961d-42a2-b75d-4008584778e8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethlehem-lutheran-church-elca.square.site"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810411544"
+    }
+  ],
+  "advisories": []
+}

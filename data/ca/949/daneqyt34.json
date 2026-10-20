@@ -1,0 +1,33 @@
+{
+  "id": "daneqyt34",
+  "url": "https://constellation.church/daneqyt34",
+  "name": "Open Door Church of San Rafael",
+  "displayName": "Open Door Church of San Rafael",
+  "address": {
+    "street": "618 B Street",
+    "city": "San Rafael",
+    "state": "CA",
+    "zip": "94901"
+  },
+  "coordinates": {
+    "latitude": 37.977561950683594,
+    "longitude": -122.52197265625
+  },
+  "website": "https://opendoorsanrafael.com",
+  "listingUrl": "https://churches.sbc.net/church/open-door-church-of-san-rafael/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "open-door-church-of-san-rafael"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "opendoorsanrafael.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510187960"
+    }
+  ],
+  "advisories": []
+}

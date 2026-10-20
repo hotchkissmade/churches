@@ -1,0 +1,33 @@
+{
+  "id": "wt91ebp95",
+  "url": "https://constellation.church/wt91ebp95",
+  "name": "Holy Trinity Lutheran Church",
+  "displayName": "Holy Trinity Lutheran Church",
+  "address": {
+    "street": "406 White Plains Rd",
+    "city": "Trumbull",
+    "state": "CT",
+    "zip": "06611-4855"
+  },
+  "coordinates": {
+    "latitude": 41.23573303222656,
+    "longitude": -73.17674255371094
+  },
+  "website": "https://htlctrumbull.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=24e7ca01-ecd3-4fb9-b261-8a813d1b66c1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "24e7ca01-ecd3-4fb9-b261-8a813d1b66c1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "htlctrumbull.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "060897020"
+    }
+  ],
+  "advisories": []
+}

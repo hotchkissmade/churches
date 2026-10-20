@@ -1,0 +1,33 @@
+{
+  "id": "daeystq26",
+  "url": "https://constellation.church/daeystq26",
+  "name": "Liberty Church",
+  "displayName": "Liberty Church",
+  "address": {
+    "street": "495 Hartford Tpke",
+    "city": "Shrewsbury",
+    "state": "MA",
+    "zip": "01545"
+  },
+  "coordinates": {
+    "latitude": 42.25778579711914,
+    "longitude": -71.70387649536133
+  },
+  "website": "https://libertychurches.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=17e994d4-e367-48dd-84ae-37dced28bfee&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "17e994d4-e367-48dd-84ae-37dced28bfee"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "libertychurches.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "043033320"
+    }
+  ],
+  "advisories": []
+}

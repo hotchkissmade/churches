@@ -1,0 +1,33 @@
+{
+  "id": "scf587383",
+  "url": "https://constellation.church/scf587383",
+  "name": "Sandia Baptist Church",
+  "displayName": "Sandia Baptist Church",
+  "address": {
+    "street": "1100 W Manana Blvd",
+    "city": "Clovis",
+    "state": "NM",
+    "zip": "88101"
+  },
+  "coordinates": {
+    "latitude": 34.42824745178223,
+    "longitude": -103.22283935546875
+  },
+  "website": "https://sandiachurchclovis.com",
+  "listingUrl": "https://churches.sbc.net/church/sandia-baptist-church-3/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sandia-baptist-church-3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sandiachurchclovis.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "850168889"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "z6d480213",
+  "url": "https://constellation.church/z6d480213",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "1219 N Myrtle St",
+    "city": "Warren",
+    "state": "AR",
+    "zip": "71671"
+  },
+  "coordinates": {
+    "latitude": 33.63327980041504,
+    "longitude": -92.06464385986328
+  },
+  "website": "https://warrenfirstassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=98a3d17e-8cfd-4b1f-8c4e-5e590e544fd0&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "98a3d17e-8cfd-4b1f-8c4e-5e590e544fd0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "warrenfirstassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "710575571"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mx8422d40",
+  "url": "https://constellation.church/mx8422d40",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "822 W Pine St",
+    "city": "Chillicothe",
+    "state": "IL",
+    "zip": "61523-1547"
+  },
+  "coordinates": {
+    "latitude": 40.91935348510742,
+    "longitude": -89.4946403503418
+  },
+  "website": "https://allsaintsil.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8afbef52-3af6-4c6b-b573-c9c867fc2344",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8afbef52-3af6-4c6b-b573-c9c867fc2344"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allsaintsil.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "237036776"
+    }
+  ],
+  "advisories": []
+}

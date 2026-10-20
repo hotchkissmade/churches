@@ -1,0 +1,37 @@
+{
+  "id": "c138zmh61",
+  "url": "https://constellation.church/c138zmh61",
+  "name": "First Baptist Church of Waldorf",
+  "displayName": "First Baptist Church of Waldorf",
+  "address": {
+    "street": "10045 Bunker Hill Rd",
+    "city": "Waldorf",
+    "state": "MD",
+    "zip": "20603"
+  },
+  "coordinates": {
+    "latitude": 38.6490535736084,
+    "longitude": -76.9623031616211
+  },
+  "website": "https://fbcwaldorf.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-waldorf/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-waldorf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcwaldorf.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520824935"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521078765"
+    }
+  ],
+  "advisories": []
+}

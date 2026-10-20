@@ -1,0 +1,33 @@
+{
+  "id": "z10xk6670",
+  "url": "https://constellation.church/z10xk6670",
+  "name": "St. Mark's Episcopal Church",
+  "displayName": "St. Mark's Episcopal Church",
+  "address": {
+    "street": "901 W Emery St",
+    "city": "Dalton",
+    "state": "GA",
+    "zip": "30720"
+  },
+  "coordinates": {
+    "latitude": 34.765554428100586,
+    "longitude": -84.98101806640625
+  },
+  "website": "https://stmarksdalton.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-atlanta/list/st-marks-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-atlanta/st-marks-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarksdalton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "586039011"
+    }
+  ],
+  "advisories": []
+}

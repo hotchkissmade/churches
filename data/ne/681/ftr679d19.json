@@ -1,0 +1,33 @@
+{
+  "id": "ftr679d19",
+  "url": "https://constellation.church/ftr679d19",
+  "name": "Omaha Christian Center",
+  "displayName": "Omaha Christian Center",
+  "address": {
+    "street": "4215 N 92nd Ave",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68134"
+  },
+  "coordinates": {
+    "latitude": 41.2977294921875,
+    "longitude": -96.05675506591797
+  },
+  "website": "https://omahachristian.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=0cc8547a-4aa6-4b93-a9b0-06bcfded39d0&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "0cc8547a-4aa6-4b93-a9b0-06bcfded39d0"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "omahachristian.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470699552"
+    }
+  ],
+  "advisories": []
+}

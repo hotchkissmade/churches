@@ -1,0 +1,33 @@
+{
+  "id": "mxxeq9629",
+  "url": "https://constellation.church/mxxeq9629",
+  "name": "St Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "1010 Georgia Ave",
+    "city": "Norfolk",
+    "state": "NE",
+    "zip": "68701-2837"
+  },
+  "coordinates": {
+    "latitude": 42.04390525817871,
+    "longitude": -97.42198181152344
+  },
+  "website": "https://stpls.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24486",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24486"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpls.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470421099"
+    }
+  ],
+  "advisories": []
+}

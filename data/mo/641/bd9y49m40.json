@@ -1,0 +1,33 @@
+{
+  "id": "bd9y49m40",
+  "url": "https://constellation.church/bd9y49m40",
+  "name": "Trinity Church",
+  "displayName": "Trinity Church",
+  "address": {
+    "street": "3936 Main St",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64111"
+  },
+  "coordinates": {
+    "latitude": 39.0555431,
+    "longitude": -94.5863543
+  },
+  "website": "https://trinitychurchkansascity.com",
+  "listingUrl": "https://churches.sbc.net/church/trinity-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "trinity-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitychurchkansascity.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "884088453"
+    }
+  ],
+  "advisories": []
+}

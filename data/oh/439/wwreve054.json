@@ -1,0 +1,33 @@
+{
+  "id": "wwreve054",
+  "url": "https://constellation.church/wwreve054",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "2105 Sunset Blvd",
+    "city": "Steubenville",
+    "state": "OH",
+    "zip": "43952-2443"
+  },
+  "coordinates": {
+    "latitude": 40.36981964111328,
+    "longitude": -80.63802719116211
+  },
+  "website": "https://gracedowntown.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2dcd297e-633c-4033-9177-82f37a9f7949",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "2dcd297e-633c-4033-9177-82f37a9f7949"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracedowntown.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "346559791"
+    }
+  ],
+  "advisories": []
+}

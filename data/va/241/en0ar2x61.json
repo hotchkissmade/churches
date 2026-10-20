@@ -1,0 +1,33 @@
+{
+  "id": "en0ar2x61",
+  "url": "https://constellation.church/en0ar2x61",
+  "name": "Vinton Baptist Church",
+  "displayName": "Vinton Baptist Church",
+  "address": {
+    "street": "219 Washington Ave",
+    "city": "Vinton",
+    "state": "VA",
+    "zip": "24179"
+  },
+  "coordinates": {
+    "latitude": 37.28011131286621,
+    "longitude": -79.89587783813477
+  },
+  "website": "https://vintonbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/vinton-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "vinton-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "vintonbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540598200"
+    }
+  ],
+  "advisories": []
+}

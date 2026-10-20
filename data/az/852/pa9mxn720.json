@@ -1,0 +1,33 @@
+{
+  "id": "pa9mxn720",
+  "url": "https://constellation.church/pa9mxn720",
+  "name": "Episcopal Church of the Nativity",
+  "displayName": "Episcopal Church of the Nativity",
+  "address": {
+    "street": "22405 N Miller Rd",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "zip": "85255"
+  },
+  "coordinates": {
+    "latitude": 33.68999671936035,
+    "longitude": -111.91624450683594
+  },
+  "website": "https://nativityscottsdale.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-arizona/list/episcopal-church-nativity",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-arizona/episcopal-church-nativity"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nativityscottsdale.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "455599218"
+    }
+  ],
+  "advisories": []
+}

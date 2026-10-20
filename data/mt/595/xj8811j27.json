@@ -1,0 +1,33 @@
+{
+  "id": "xj8811j27",
+  "url": "https://constellation.church/xj8811j27",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "411 3rd St W",
+    "city": "Chester",
+    "state": "MT",
+    "zip": "59522"
+  },
+  "coordinates": {
+    "latitude": 48.50921630859375,
+    "longitude": -110.97042846679688
+  },
+  "website": "https://chesterassembly.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=b3948275-fdb5-4f4b-b672-00e1a8306521&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "b3948275-fdb5-4f4b-b672-00e1a8306521"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chesterassembly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "810374971"
+    }
+  ],
+  "advisories": []
+}

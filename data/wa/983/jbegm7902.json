@@ -1,0 +1,33 @@
+{
+  "id": "jbegm7902",
+  "url": "https://constellation.church/jbegm7902",
+  "name": "Sunrise Baptist Church of Puyallup",
+  "displayName": "Sunrise Baptist Church of Puyallup",
+  "address": {
+    "street": "12115 Shaw Rd E",
+    "city": "Puyallup",
+    "state": "WA",
+    "zip": "98374"
+  },
+  "coordinates": {
+    "latitude": 47.14589309692383,
+    "longitude": -122.25684356689453
+  },
+  "website": "https://sunrisebaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/sunrise-baptist-church-of-puyallup/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sunrise-baptist-church-of-puyallup"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sunrisebaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910089011"
+    }
+  ],
+  "advisories": []
+}

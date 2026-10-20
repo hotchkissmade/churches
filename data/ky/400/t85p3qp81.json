@@ -1,0 +1,33 @@
+{
+  "id": "t85p3qp81",
+  "url": "https://constellation.church/t85p3qp81",
+  "name": "Sligo Baptist Church",
+  "displayName": "Sligo Baptist Church",
+  "address": {
+    "street": "65 N 42 Loop",
+    "city": "Pendleton",
+    "state": "KY",
+    "zip": "40055"
+  },
+  "coordinates": {
+    "latitude": 38.49130058288574,
+    "longitude": -85.3151969909668
+  },
+  "website": "https://sligobaptistky.org",
+  "listingUrl": "https://churches.sbc.net/church/sligo-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sligo-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sligobaptistky.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "611036679"
+    }
+  ],
+  "advisories": []
+}

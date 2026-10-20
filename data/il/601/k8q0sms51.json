@@ -1,0 +1,33 @@
+{
+  "id": "k8q0sms51",
+  "url": "https://constellation.church/k8q0sms51",
+  "name": "Apostolic Christian Church of Chicago",
+  "displayName": "Apostolic Christian Church of Chicago",
+  "address": {
+    "street": "1401 South Wolf Road",
+    "city": "Hillside",
+    "state": "IL",
+    "zip": "60162"
+  },
+  "coordinates": {
+    "latitude": 41.85888481140137,
+    "longitude": -87.90143203735352
+  },
+  "website": "https://chicagoacchurch.org",
+  "listingUrl": "https://www.apostolicchristian.org/congregations/chicago",
+  "identifiers": [
+    {
+      "namespace": "org.apostolicchristian.id",
+      "value": "chicago"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chicagoacchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366067989"
+    }
+  ],
+  "advisories": []
+}

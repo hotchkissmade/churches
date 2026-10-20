@@ -1,0 +1,33 @@
+{
+  "id": "ykxnw7503",
+  "url": "https://constellation.church/ykxnw7503",
+  "name": "Grand Mesa Southern Baptist Church",
+  "displayName": "Grand Mesa Southern Baptist Church",
+  "address": {
+    "street": "110 S.E. Jay Ave",
+    "city": "Cedaredge",
+    "state": "CO",
+    "zip": "81413"
+  },
+  "coordinates": {
+    "latitude": 38.88336372375488,
+    "longitude": -107.93151092529297
+  },
+  "website": "https://grandmesasbc.org",
+  "listingUrl": "https://churches.sbc.net/church/grand-mesa-southern-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grand-mesa-southern-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "grandmesasbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "813477909"
+    }
+  ],
+  "advisories": []
+}

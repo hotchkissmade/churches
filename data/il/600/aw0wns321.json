@@ -1,0 +1,33 @@
+{
+  "id": "aw0wns321",
+  "url": "https://constellation.church/aw0wns321",
+  "name": "United Methodist Church of Antioch",
+  "displayName": "United Methodist Church of Antioch",
+  "address": {
+    "street": "848 Main St",
+    "city": "Antioch",
+    "state": "IL",
+    "zip": "60002"
+  },
+  "coordinates": {
+    "latitude": 42.47961616516113,
+    "longitude": -88.09663391113281
+  },
+  "website": "https://umcantioch.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFBSXIA5",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFBSXIA5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "umcantioch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363308212"
+    }
+  ],
+  "advisories": []
+}

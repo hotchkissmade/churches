@@ -1,0 +1,33 @@
+{
+  "id": "b3n89d352",
+  "url": "https://constellation.church/b3n89d352",
+  "name": "House Of Praise, Baltimore",
+  "displayName": "RCCG House Of Praise, Baltimore",
+  "address": {
+    "street": "6101 Moravia Park Drive",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21206"
+  },
+  "coordinates": {
+    "latitude": 39.314592361450195,
+    "longitude": -76.53963088989258
+  },
+  "website": "https://houseofpraisebaltimore.org",
+  "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=197&from=United+States&embed=yes",
+  "identifiers": [
+    {
+      "namespace": "org.rccgna.secure.id",
+      "value": "197"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "houseofpraisebaltimore.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "522345951"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "q1j7xdt05",
+  "url": "https://constellation.church/q1j7xdt05",
+  "name": "The Parish Church at Habersham",
+  "displayName": "The Parish Church at Habersham",
+  "address": {
+    "street": "100 North Market",
+    "city": "Beaufort",
+    "state": "SC",
+    "zip": "29906"
+  },
+  "coordinates": {
+    "latitude": 32.39849281311035,
+    "longitude": -80.68561935424805
+  },
+  "website": "https://theparish.org",
+  "listingUrl": "https://www.acna.org/admin_units/2001",
+  "identifiers": [
+    {
+      "namespace": "org.acna.id",
+      "value": "2001"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "theparish.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "862505654"
+    }
+  ],
+  "advisories": []
+}

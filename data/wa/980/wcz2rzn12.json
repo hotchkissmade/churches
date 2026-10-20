@@ -1,0 +1,33 @@
+{
+  "id": "wcz2rzn12",
+  "url": "https://constellation.church/wcz2rzn12",
+  "name": "Kent Christian Center",
+  "displayName": "Kent Christian Center",
+  "address": {
+    "street": "9440 Canyon Dr",
+    "city": "Kent",
+    "state": "WA",
+    "zip": "98030"
+  },
+  "coordinates": {
+    "latitude": 47.376590728759766,
+    "longitude": -122.21307373046875
+  },
+  "website": "https://kentchristiancenter.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=c5fe6f3b-ea62-46b5-b1f5-79fac41aa2d8&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "c5fe6f3b-ea62-46b5-b1f5-79fac41aa2d8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kentchristiancenter.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "910725401"
+    }
+  ],
+  "advisories": []
+}

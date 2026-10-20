@@ -1,0 +1,33 @@
+{
+  "id": "f60zkd750",
+  "url": "https://constellation.church/f60zkd750",
+  "name": "Sojourn Church JTown",
+  "displayName": "Sojourn Church JTown",
+  "address": {
+    "street": "11412 Taylorsville Rd",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40299"
+  },
+  "coordinates": {
+    "latitude": 38.181907653808594,
+    "longitude": -85.5442123413086
+  },
+  "website": "https://sojournjtown.com",
+  "listingUrl": "https://churches.sbc.net/church/sojourn-church-jtown/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "sojourn-church-jtown"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sojournjtown.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "832795849"
+    }
+  ],
+  "advisories": []
+}

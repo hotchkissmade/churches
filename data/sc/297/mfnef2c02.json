@@ -1,0 +1,33 @@
+{
+  "id": "mfnef2c02",
+  "url": "https://constellation.church/mfnef2c02",
+  "name": "Remedy Church",
+  "displayName": "Remedy Church",
+  "address": {
+    "street": "1905 Main St W",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29732"
+  },
+  "coordinates": {
+    "latitude": 34.9242000579834,
+    "longitude": -81.02431106567383
+  },
+  "website": "https://remedychurch.org",
+  "listingUrl": "https://churches.sbc.net/church/remedy-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "remedy-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "remedychurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "263337892"
+    }
+  ],
+  "advisories": []
+}

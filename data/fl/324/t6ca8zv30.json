@@ -1,0 +1,33 @@
+{
+  "id": "t6ca8zv30",
+  "url": "https://constellation.church/t6ca8zv30",
+  "name": "Southwide Baptist Church",
+  "displayName": "Southwide Baptist Church",
+  "address": {
+    "street": "1307 Coy Burgess Loop",
+    "city": "DeFuniak Springs",
+    "state": "FL",
+    "zip": "32435"
+  },
+  "coordinates": {
+    "latitude": 30.688074111938477,
+    "longitude": -86.14144897460938
+  },
+  "website": "https://southwidebaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/southwide-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "southwide-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "southwidebaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592409942"
+    }
+  ],
+  "advisories": []
+}

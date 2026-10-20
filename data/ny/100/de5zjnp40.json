@@ -1,0 +1,33 @@
+{
+  "id": "de5zjnp40",
+  "url": "https://constellation.church/de5zjnp40",
+  "name": "St. Dumitru Church",
+  "displayName": "St. Dumitru Church",
+  "address": {
+    "street": "50 W 89th St",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10024-2001"
+  },
+  "coordinates": {
+    "latitude": 40.78785514831543,
+    "longitude": -73.96972274780273
+  },
+  "website": "https://stdumitrunyc.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-ro-nycsdc",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-ro-nycsdc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stdumitrunyc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "136082575"
+    }
+  ],
+  "advisories": []
+}

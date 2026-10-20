@@ -1,0 +1,33 @@
+{
+  "id": "tnw05rx56",
+  "url": "https://constellation.church/tnw05rx56",
+  "name": "Peace Lutheran Church",
+  "displayName": "Peace Lutheran Church",
+  "address": {
+    "street": "900 Jefferson St",
+    "city": "Port Clinton",
+    "state": "OH",
+    "zip": "43452-2417"
+  },
+  "coordinates": {
+    "latitude": 41.50331497192383,
+    "longitude": -82.93937301635742
+  },
+  "website": "https://peacelutheranpc.wordpress.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=00d064a2-8e4c-4988-b033-0bf67b5cbbee",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "00d064a2-8e4c-4988-b033-0bf67b5cbbee"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "peacelutheranpc.wordpress.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341031152"
+    }
+  ],
+  "advisories": []
+}

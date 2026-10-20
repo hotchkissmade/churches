@@ -1,0 +1,33 @@
+{
+  "id": "fydrkth50",
+  "url": "https://constellation.church/fydrkth50",
+  "name": "C3 Church",
+  "displayName": "C3 Church",
+  "address": {
+    "street": "6305 Waterloo Rd",
+    "city": "Canal Winchester",
+    "state": "OH",
+    "zip": "43110"
+  },
+  "coordinates": {
+    "latitude": 39.82763481140137,
+    "longitude": -82.7936019897461
+  },
+  "website": "https://myc3church.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=10ce101e-9afb-42d3-a54f-7a8043155ae1&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "10ce101e-9afb-42d3-a54f-7a8043155ae1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "myc3church.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "830458057"
+    }
+  ],
+  "advisories": []
+}

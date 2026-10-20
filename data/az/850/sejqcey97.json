@@ -1,0 +1,33 @@
+{
+  "id": "sejqcey97",
+  "url": "https://constellation.church/sejqcey97",
+  "name": "City Church",
+  "displayName": "City Church",
+  "address": {
+    "street": "1441 W Glendale Ave",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85021"
+  },
+  "coordinates": {
+    "latitude": 33.53780174255371,
+    "longitude": -112.09097290039062
+  },
+  "website": "https://citychurchphx.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=45bb555f-7791-41b3-a8ae-b43887cb4c51&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "45bb555f-7791-41b3-a8ae-b43887cb4c51"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "citychurchphx.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860177621"
+    }
+  ],
+  "advisories": []
+}

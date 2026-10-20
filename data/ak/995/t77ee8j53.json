@@ -1,0 +1,33 @@
+{
+  "id": "t77ee8j53",
+  "url": "https://constellation.church/t77ee8j53",
+  "name": "University Baptist Church-Anchorage",
+  "displayName": "University Baptist Church-Anchorage",
+  "address": {
+    "street": "4313 Wright St",
+    "city": "Anchorage",
+    "state": "AK",
+    "zip": "99508"
+  },
+  "coordinates": {
+    "latitude": 61.181559945327,
+    "longitude": -149.826865538036
+  },
+  "website": "https://ubcanc.com",
+  "listingUrl": "https://churches.sbc.net/church/university-baptist-church-anchorage/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "university-baptist-church-anchorage"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ubcanc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "920058478"
+    }
+  ],
+  "advisories": []
+}

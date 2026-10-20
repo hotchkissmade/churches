@@ -1,0 +1,33 @@
+{
+  "id": "jqpa10y92",
+  "url": "https://constellation.church/jqpa10y92",
+  "name": "Kellum Baptist Church",
+  "displayName": "Kellum Baptist Church",
+  "address": {
+    "street": "1175 Kellum Loop Rd",
+    "city": "Jacksonville",
+    "state": "NC",
+    "zip": "28546"
+  },
+  "coordinates": {
+    "latitude": 34.80999183654785,
+    "longitude": -77.35590744018555
+  },
+  "website": "https://kellumbaptist.com/mission",
+  "listingUrl": "https://churches.sbc.net/church/kellum-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "kellum-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kellumbaptist.com/mission"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560941062"
+    }
+  ],
+  "advisories": []
+}

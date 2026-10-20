@@ -1,0 +1,33 @@
+{
+  "id": "bgehad686",
+  "url": "https://constellation.church/bgehad686",
+  "name": "New Covenant Lutheran Church",
+  "displayName": "New Covenant Lutheran Church",
+  "address": {
+    "street": "15152 N Frank Lloyd Wright Blvd",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "zip": "85260-2869"
+  },
+  "coordinates": {
+    "latitude": 33.623008728027344,
+    "longitude": -111.87738800048828
+  },
+  "website": "https://newcovenantaz.church",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8362825e-c4e1-4edf-aa12-26d97b06be98",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8362825e-c4e1-4edf-aa12-26d97b06be98"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newcovenantaz.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860667429"
+    }
+  ],
+  "advisories": []
+}

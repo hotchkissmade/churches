@@ -1,0 +1,33 @@
+{
+  "id": "a1fefra74",
+  "url": "https://constellation.church/a1fefra74",
+  "name": "Saint John's Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "101 Park St",
+    "city": "Garfield",
+    "state": "MN",
+    "zip": "56332"
+  },
+  "coordinates": {
+    "latitude": 45.94328689575195,
+    "longitude": -95.49178314208984
+  },
+  "website": "https://sjlgarfield.com",
+  "listingUrl": "https://locator.lcms.org/church/C/345703",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "345703"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sjlgarfield.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416094228"
+    }
+  ],
+  "advisories": []
+}

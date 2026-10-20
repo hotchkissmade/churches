@@ -1,0 +1,33 @@
+{
+  "id": "qm60yx762",
+  "url": "https://constellation.church/qm60yx762",
+  "name": "Church of the Good Shepherd",
+  "displayName": "Church of the Good Shepherd",
+  "address": {
+    "street": "9 Russell Ave",
+    "city": "Watertown",
+    "state": "MA",
+    "zip": "02472"
+  },
+  "coordinates": {
+    "latitude": 42.368757247924805,
+    "longitude": -71.17611694335938
+  },
+  "website": "https://goodshepherdwatertown.org/renting-space",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-massachusetts/list/church-good-shepherd-5",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-massachusetts/church-good-shepherd-5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "goodshepherdwatertown.org/renting-space"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222867334"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "gvm08rx61",
+  "url": "https://constellation.church/gvm08rx61",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "5897 124th Ave",
+    "city": "Fennville",
+    "state": "MI",
+    "zip": "49408"
+  },
+  "coordinates": {
+    "latitude": 42.594343185424805,
+    "longitude": -86.12384796142578
+  },
+  "website": "https://fennvilleag.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=4a33b8c5-cf54-4578-be94-64b43cb8aaa9&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "4a33b8c5-cf54-4578-be94-64b43cb8aaa9"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fennvilleag.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382026617"
+    }
+  ],
+  "advisories": []
+}

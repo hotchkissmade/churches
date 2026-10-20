@@ -1,0 +1,33 @@
+{
+  "id": "f8ec12k04",
+  "url": "https://constellation.church/f8ec12k04",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "1008 Franklin Rd SW",
+    "city": "Roanoke",
+    "state": "VA",
+    "zip": "24016-4308"
+  },
+  "coordinates": {
+    "latitude": 37.26442909240723,
+    "longitude": -79.94623565673828
+  },
+  "website": "https://stmarksroanoke.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3e0f457f-599f-4f69-89b4-0ff0fba5e0f8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3e0f457f-599f-4f69-89b4-0ff0fba5e0f8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarksroanoke.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540604101"
+    }
+  ],
+  "advisories": []
+}

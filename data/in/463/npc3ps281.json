@@ -1,0 +1,33 @@
+{
+  "id": "npc3ps281",
+  "url": "https://constellation.church/npc3ps281",
+  "name": "First United Methodist Church of Lowell",
+  "displayName": "First United Methodist Church of Lowell",
+  "address": {
+    "street": "520 E Commercial Ave",
+    "city": "Lowell",
+    "state": "IN",
+    "zip": "46356"
+  },
+  "coordinates": {
+    "latitude": 41.29119682312012,
+    "longitude": -87.41829299926758
+  },
+  "website": "https://lowellumc.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKF4IAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFKF4IAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lowellumc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "351139382"
+    }
+  ],
+  "advisories": []
+}

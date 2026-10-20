@@ -1,0 +1,33 @@
+{
+  "id": "t6tdms302",
+  "url": "https://constellation.church/t6tdms302",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "715 S 3rd St",
+    "city": "Clinton",
+    "state": "IA",
+    "zip": "52732-4312"
+  },
+  "coordinates": {
+    "latitude": 41.83833694458008,
+    "longitude": -90.19033813476562
+  },
+  "website": "https://saintpaulclinton.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=155f7464-f57d-44e0-8f45-32d2ae12c9f5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "155f7464-f57d-44e0-8f45-32d2ae12c9f5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintpaulclinton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "420794370"
+    }
+  ],
+  "advisories": []
+}

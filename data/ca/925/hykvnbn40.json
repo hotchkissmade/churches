@@ -1,0 +1,33 @@
+{
+  "id": "hykvnbn40",
+  "url": "https://constellation.church/hykvnbn40",
+  "name": "Hope Lutheran Church",
+  "displayName": "Hope Lutheran Church",
+  "address": {
+    "street": "29043 Vallejo Ave",
+    "city": "Temecula",
+    "state": "CA",
+    "zip": "92592-2307"
+  },
+  "coordinates": {
+    "latitude": 33.482656478881836,
+    "longitude": -117.1396255493164
+  },
+  "website": "https://hopetemecula.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=d38bcc0a-5260-41e6-92c6-27394edcd9a5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "d38bcc0a-5260-41e6-92c6-27394edcd9a5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hopetemecula.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "330007508"
+    }
+  ],
+  "advisories": []
+}

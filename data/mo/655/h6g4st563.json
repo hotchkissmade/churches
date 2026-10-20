@@ -1,0 +1,33 @@
+{
+  "id": "h6g4st563",
+  "url": "https://constellation.church/h6g4st563",
+  "name": "First Baptist Church St James",
+  "displayName": "First Baptist Church St. James",
+  "address": {
+    "street": "132 Aida St",
+    "city": "Saint James",
+    "state": "MO",
+    "zip": "65559"
+  },
+  "coordinates": {
+    "latitude": 38.001373291015625,
+    "longitude": -91.61888885498047
+  },
+  "website": "https://fbcstj.weebly.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-st-james/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-st-james"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcstj.weebly.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430791377"
+    }
+  ],
+  "advisories": []
+}

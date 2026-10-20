@@ -1,0 +1,37 @@
+{
+  "id": "v8t2qfh44",
+  "url": "https://constellation.church/v8t2qfh44",
+  "name": "Knox Presbyterian Church of Minneapolis",
+  "displayName": "Knox Presbyterian Church of Minneapolis",
+  "address": {
+    "street": "4747 Lyndale Ave S",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55419"
+  },
+  "coordinates": {
+    "latitude": 44.916290283203125,
+    "longitude": -93.28797149658203
+  },
+  "website": "https://knoxpc.org",
+  "listingUrl": "https://eco-pres.org/churches/knox-presbyterian-church-of-minneapolis/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "knox-presbyterian-church-of-minneapolis"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "knoxpc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410693943"
+    },
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "3839"
+    }
+  ],
+  "advisories": []
+}

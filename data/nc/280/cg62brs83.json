@@ -1,0 +1,33 @@
+{
+  "id": "cg62brs83",
+  "url": "https://constellation.church/cg62brs83",
+  "name": "Badin Presbyterian Church",
+  "displayName": "Badin Presbyterian Church",
+  "address": {
+    "street": "153 Spruce St",
+    "city": "Badin",
+    "state": "NC",
+    "zip": "28009"
+  },
+  "coordinates": {
+    "latitude": 35.40344047546387,
+    "longitude": -80.10908508300781
+  },
+  "website": "https://badin.org/visitors_information.html",
+  "listingUrl": "https://eco-pres.org/churches/badin-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "badin-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "badin.org/visitors_information.html"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "561398516"
+    }
+  ],
+  "advisories": []
+}

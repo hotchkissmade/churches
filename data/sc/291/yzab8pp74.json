@@ -1,0 +1,33 @@
+{
+  "id": "yzab8pp74",
+  "url": "https://constellation.church/yzab8pp74",
+  "name": "Holy Apostles Church",
+  "displayName": "Holy Apostles Church",
+  "address": {
+    "street": "724 Buff St",
+    "city": "West Columbia",
+    "state": "SC",
+    "zip": "29169"
+  },
+  "coordinates": {
+    "latitude": 33.99475288391113,
+    "longitude": -81.06502532958984
+  },
+  "website": "https://holyapostles.org",
+  "listingUrl": "https://www.oca.org/parishes/oca-so-caeham",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-so-caeham"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "holyapostles.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "203825253"
+    }
+  ],
+  "advisories": []
+}

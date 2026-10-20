@@ -1,0 +1,33 @@
+{
+  "id": "an175y172",
+  "url": "https://constellation.church/an175y172",
+  "name": "Park Baptist Church, Brookfield",
+  "displayName": "Park Baptist Church, Brookfield",
+  "address": {
+    "street": "121 E Park St",
+    "city": "Brookfield",
+    "state": "MO",
+    "zip": "64628"
+  },
+  "coordinates": {
+    "latitude": 39.78987693786621,
+    "longitude": -93.07525634765625
+  },
+  "website": "https://parkbaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/park-baptist-church-brookfield/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "park-baptist-church-brookfield"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "parkbaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "430703651"
+    }
+  ],
+  "advisories": []
+}

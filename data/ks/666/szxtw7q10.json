@@ -1,0 +1,33 @@
+{
+  "id": "szxtw7q10",
+  "url": "https://constellation.church/szxtw7q10",
+  "name": "Western Hills Church",
+  "displayName": "Western Hills Church",
+  "address": {
+    "street": "2900 SW Auburn Rd",
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66614"
+  },
+  "coordinates": {
+    "latitude": 39.01314926147461,
+    "longitude": -95.8160629272461
+  },
+  "website": "https://whillschurch.org",
+  "listingUrl": "https://churches.sbc.net/church/western-hills-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "western-hills-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "whillschurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "481091551"
+    }
+  ],
+  "advisories": []
+}

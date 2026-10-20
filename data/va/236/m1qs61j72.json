@@ -1,0 +1,33 @@
+{
+  "id": "m1qs61j72",
+  "url": "https://constellation.church/m1qs61j72",
+  "name": "Pine Chapel Baptist Church",
+  "displayName": "Pine Chapel Baptist Church",
+  "address": {
+    "street": "1544 W Queen St",
+    "city": "Hampton",
+    "state": "VA",
+    "zip": "23669"
+  },
+  "coordinates": {
+    "latitude": 37.02655029296875,
+    "longitude": -76.38814163208008
+  },
+  "website": "https://pinechapelbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/pine-chapel-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pine-chapel-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pinechapelbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540882319"
+    }
+  ],
+  "advisories": []
+}

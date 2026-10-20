@@ -1,0 +1,33 @@
+{
+  "id": "v8sw3ah45",
+  "url": "https://constellation.church/v8sw3ah45",
+  "name": "St Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "1600 W Floyd Baker Boulevard",
+    "city": "Gaffney",
+    "state": "SC",
+    "zip": "29341"
+  },
+  "coordinates": {
+    "latitude": 35.09283447265625,
+    "longitude": -81.66386032104492
+  },
+  "website": "https://stpaulslutherangaffney.org",
+  "listingUrl": "https://lcmc.net/congregation/105672",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "105672"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulslutherangaffney.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570767912"
+    }
+  ],
+  "advisories": []
+}

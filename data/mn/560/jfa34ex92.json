@@ -1,0 +1,33 @@
+{
+  "id": "jfa34ex92",
+  "url": "https://constellation.church/jfa34ex92",
+  "name": "Our Savior's Lutheran Church",
+  "displayName": "Our Savior's Lutheran Church",
+  "address": {
+    "street": "305 6th St",
+    "city": "Cleveland",
+    "state": "MN",
+    "zip": "56017"
+  },
+  "coordinates": {
+    "latitude": 44.32418441772461,
+    "longitude": -93.83454132080078
+  },
+  "website": "https://oursaviorscleveland.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9cfb0cd8-1d2d-4866-8267-d4723d24cfd2",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9cfb0cd8-1d2d-4866-8267-d4723d24cfd2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oursaviorscleveland.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "416049660"
+    }
+  ],
+  "advisories": []
+}

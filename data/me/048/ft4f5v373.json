@@ -1,0 +1,33 @@
+{
+  "id": "ft4f5v373",
+  "url": "https://constellation.church/ft4f5v373",
+  "name": "Episcopal Church of St. John Baptist",
+  "displayName": "Episcopal Church of St. John Baptist",
+  "address": {
+    "street": "200 Main St",
+    "city": "Thomaston",
+    "state": "ME",
+    "zip": "04861-3800"
+  },
+  "coordinates": {
+    "latitude": 44.07860565185547,
+    "longitude": -69.18393325805664
+  },
+  "website": "https://stjohnsinthomaston.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-maine/list/episcopal-church-st-john-baptist",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-maine/episcopal-church-st-john-baptist"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnsinthomaston.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "010346741"
+    }
+  ],
+  "advisories": []
+}

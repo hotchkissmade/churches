@@ -1,0 +1,33 @@
+{
+  "id": "aad3ahr40",
+  "url": "https://constellation.church/aad3ahr40",
+  "name": "Cornerstone Lutheran Church",
+  "displayName": "Cornerstone Lutheran Church",
+  "address": {
+    "street": "625 Washington Street",
+    "city": "Wausau",
+    "state": "WI",
+    "zip": "54403"
+  },
+  "coordinates": {
+    "latitude": 44.958492279052734,
+    "longitude": -89.62200546264648
+  },
+  "website": "https://cornerstonewausau.org",
+  "listingUrl": "https://lcmc.net/congregation/105801",
+  "identifiers": [
+    {
+      "namespace": "net.lcmc.id",
+      "value": "105801"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cornerstonewausau.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "352376439"
+    }
+  ],
+  "advisories": []
+}

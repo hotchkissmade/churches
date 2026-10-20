@@ -1,0 +1,33 @@
+{
+  "id": "yqgdfgw32",
+  "url": "https://constellation.church/yqgdfgw32",
+  "name": "Church of the Redeemer",
+  "displayName": "Church of the Redeemer",
+  "address": {
+    "street": "40 Center Street",
+    "city": "Elgin",
+    "state": "IL",
+    "zip": "60120"
+  },
+  "coordinates": {
+    "latitude": 42.0379695892334,
+    "longitude": -88.28118133544922
+  },
+  "website": "https://redeemerelgin.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-chicago/list/church-redeemer",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-chicago/church-redeemer"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "redeemerelgin.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "366003217"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "dmmzs0g27",
+  "url": "https://constellation.church/dmmzs0g27",
+  "name": "St Lukes United Methodist Church",
+  "displayName": "St. Luke's United Methodist Church",
+  "address": {
+    "street": "535 Broadway",
+    "city": "Long Branch",
+    "state": "NJ",
+    "zip": "07740-5904"
+  },
+  "coordinates": {
+    "latitude": 40.300315856933594,
+    "longitude": -74.00004959106445
+  },
+  "website": "https://saintlukeslongbranch.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF8fWIAT",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PF8fWIAT"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintlukeslongbranch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "210635027"
+    }
+  ],
+  "advisories": []
+}

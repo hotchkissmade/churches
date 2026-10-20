@@ -1,0 +1,33 @@
+{
+  "id": "bgdght790",
+  "url": "https://constellation.church/bgdght790",
+  "name": "Shiloh Lutheran Church",
+  "displayName": "Shiloh Lutheran Church",
+  "address": {
+    "street": "2201 Church Rd",
+    "city": "York",
+    "state": "PA",
+    "zip": "17408-4028"
+  },
+  "coordinates": {
+    "latitude": 39.9796085357666,
+    "longitude": -76.8034782409668
+  },
+  "website": "https://shilohlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e11ae4d7-57c6-4701-b9cc-d75d769830cf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "e11ae4d7-57c6-4701-b9cc-d75d769830cf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "shilohlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "223193372"
+    }
+  ],
+  "advisories": []
+}

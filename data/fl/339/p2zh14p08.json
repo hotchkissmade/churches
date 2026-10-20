@@ -1,0 +1,33 @@
+{
+  "id": "p2zh14p08",
+  "url": "https://constellation.church/p2zh14p08",
+  "name": "New Hope Church",
+  "displayName": "New Hope Church",
+  "address": {
+    "street": "431 Nicholas Pkwy E",
+    "city": "Cape Coral",
+    "state": "FL",
+    "zip": "33990"
+  },
+  "coordinates": {
+    "latitude": 26.630773544311523,
+    "longitude": -81.96570205688477
+  },
+  "website": "https://newhopecapecoral.com",
+  "listingUrl": "https://churches.sbc.net/church/new-hope-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "new-hope-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "newhopecapecoral.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "651109136"
+    }
+  ],
+  "advisories": []
+}

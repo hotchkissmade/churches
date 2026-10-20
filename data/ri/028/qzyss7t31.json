@@ -1,0 +1,33 @@
+{
+  "id": "qzyss7t31",
+  "url": "https://constellation.church/qzyss7t31",
+  "name": "Beacon FWB Church",
+  "displayName": "Beacon FWB Church",
+  "address": {
+    "street": "100 Exeter Rd",
+    "city": "Exeter",
+    "state": "RI",
+    "zip": "02822"
+  },
+  "coordinates": {
+    "latitude": 41.54646682739258,
+    "longitude": -71.53134536743164
+  },
+  "website": "https://beaconchurchri.com",
+  "listingUrl": "https://directory.nafwb.org/2254/beacon-fwb-church-3/",
+  "identifiers": [
+    {
+      "namespace": "org.nafwb.directory.id",
+      "value": "2254"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "beaconchurchri.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "201265828"
+    }
+  ],
+  "advisories": []
+}

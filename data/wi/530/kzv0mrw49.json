@@ -1,0 +1,33 @@
+{
+  "id": "kzv0mrw49",
+  "url": "https://constellation.church/kzv0mrw49",
+  "name": "St Luke Lutheran Church",
+  "displayName": "St. Luke Lutheran Church",
+  "address": {
+    "street": "N6193 State Highway 32",
+    "city": "Sheboygan Falls",
+    "state": "WI",
+    "zip": "53085-2343"
+  },
+  "coordinates": {
+    "latitude": 43.76492691040039,
+    "longitude": -87.81946182250977
+  },
+  "website": "https://stlukeshebfalls.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a0a888f7-06c5-404c-bb7a-a159b34ececc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a0a888f7-06c5-404c-bb7a-a159b34ececc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stlukeshebfalls.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391322430"
+    }
+  ],
+  "advisories": []
+}

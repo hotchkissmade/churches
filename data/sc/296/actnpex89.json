@@ -1,0 +1,33 @@
+{
+  "id": "actnpex89",
+  "url": "https://constellation.church/actnpex89",
+  "name": "Starr Baptist Church",
+  "displayName": "Starr Baptist Church",
+  "address": {
+    "street": "115 Stones Throw Ave",
+    "city": "Starr",
+    "state": "SC",
+    "zip": "29684"
+  },
+  "coordinates": {
+    "latitude": 34.376502990722656,
+    "longitude": -82.69623565673828
+  },
+  "website": "https://starrbc.org",
+  "listingUrl": "https://churches.sbc.net/church/starr-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "starr-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "starrbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570775311"
+    }
+  ],
+  "advisories": []
+}

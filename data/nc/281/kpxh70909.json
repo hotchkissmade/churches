@@ -1,0 +1,33 @@
+{
+  "id": "kpxh70909",
+  "url": "https://constellation.church/kpxh70909",
+  "name": "St John's Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "200 W Innes St",
+    "city": "Salisbury",
+    "state": "NC",
+    "zip": "28144-4327"
+  },
+  "coordinates": {
+    "latitude": 35.66866874694824,
+    "longitude": -80.47095108032227
+  },
+  "website": "https://stjohns-salisbury.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cf920dfe-aa3a-4ac2-94d5-c9779e37c04b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cf920dfe-aa3a-4ac2-94d5-c9779e37c04b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohns-salisbury.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560562305"
+    }
+  ],
+  "advisories": []
+}

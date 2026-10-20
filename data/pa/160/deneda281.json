@@ -1,0 +1,33 @@
+{
+  "id": "deneda281",
+  "url": "https://constellation.church/deneda281",
+  "name": "St. Andrew Church",
+  "displayName": "St. Andrew Church",
+  "address": {
+    "street": "201 Penn Ave",
+    "city": "Lyndora",
+    "state": "PA",
+    "zip": "16045"
+  },
+  "coordinates": {
+    "latitude": 40.84987258911133,
+    "longitude": -79.91558074951172
+  },
+  "website": "https://standrewlyndora.com",
+  "listingUrl": "https://www.oca.org/parishes/oca-wp-lynsac",
+  "identifiers": [
+    {
+      "namespace": "org.oca.id",
+      "value": "oca-wp-lynsac"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewlyndora.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251189782"
+    }
+  ],
+  "advisories": []
+}

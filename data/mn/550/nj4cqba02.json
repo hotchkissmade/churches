@@ -1,0 +1,33 @@
+{
+  "id": "nj4cqba02",
+  "url": "https://constellation.church/nj4cqba02",
+  "name": "St Peter Lutheran Church",
+  "displayName": "St. Peter Lutheran Church",
+  "address": {
+    "street": "418 Sumner St E",
+    "city": "Northfield",
+    "state": "MN",
+    "zip": "55057-2845"
+  },
+  "coordinates": {
+    "latitude": 44.44656562805176,
+    "longitude": -93.1543197631836
+  },
+  "website": "https://northfieldstp.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=65e672c6-938b-4020-84e3-5793cc90f127",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "65e672c6-938b-4020-84e3-5793cc90f127"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northfieldstp.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410848342"
+    }
+  ],
+  "advisories": []
+}

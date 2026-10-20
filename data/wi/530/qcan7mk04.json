@@ -1,0 +1,33 @@
+{
+  "id": "qcan7mk04",
+  "url": "https://constellation.church/qcan7mk04",
+  "name": "Immanuel Lutheran Church",
+  "displayName": "Immanuel Lutheran Church",
+  "address": {
+    "street": "350 S Helena St",
+    "city": "Campbellsport",
+    "state": "WI",
+    "zip": "53010-0441"
+  },
+  "coordinates": {
+    "latitude": 43.59305191040039,
+    "longitude": -88.27585220336914
+  },
+  "website": "https://immanuelwels.com",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24690",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24690"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "immanuelwels.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391290049"
+    }
+  ],
+  "advisories": []
+}

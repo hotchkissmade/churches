@@ -1,0 +1,33 @@
+{
+  "id": "phnpa3a95",
+  "url": "https://constellation.church/phnpa3a95",
+  "name": "First United Methodist Church of Tucson",
+  "displayName": "First United Methodist Church of Tucson",
+  "address": {
+    "street": "915 E 4th St",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85719-5018"
+  },
+  "coordinates": {
+    "latitude": 32.23077964782715,
+    "longitude": -110.95716857910156
+  },
+  "website": "https://firstchurchtucson.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFLDtIAP",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFLDtIAP"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "firstchurchtucson.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "860582575"
+    }
+  ],
+  "advisories": []
+}

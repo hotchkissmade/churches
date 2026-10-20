@@ -1,0 +1,33 @@
+{
+  "id": "sqzd45t94",
+  "url": "https://constellation.church/sqzd45t94",
+  "name": "Zion Lutheran Church",
+  "displayName": "Zion Lutheran Church",
+  "address": {
+    "street": "504 N Gilman Ave",
+    "city": "Litchfield",
+    "state": "MN",
+    "zip": "55355-1817"
+  },
+  "coordinates": {
+    "latitude": 45.1317195892334,
+    "longitude": -94.51885986328125
+  },
+  "website": "https://zionlitchfield.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5af12886-6cff-4e48-8d5d-b7f755326797",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5af12886-6cff-4e48-8d5d-b7f755326797"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "zionlitchfield.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411289279"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vpatr1908",
+  "url": "https://constellation.church/vpatr1908",
+  "name": "Westminster Presbyterian Church",
+  "displayName": "Westminster Presbyterian Church",
+  "address": {
+    "street": "3639 Old Chapel Hill Rd",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27707-3616"
+  },
+  "coordinates": {
+    "latitude": 35.95564842224121,
+    "longitude": -78.95378875732422
+  },
+  "website": "https://wpcdurham.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/21317/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "21317"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "wpcdurham.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560893567"
+    }
+  ],
+  "advisories": []
+}

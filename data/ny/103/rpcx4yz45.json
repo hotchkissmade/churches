@@ -1,0 +1,33 @@
+{
+  "id": "rpcx4yz45",
+  "url": "https://constellation.church/rpcx4yz45",
+  "name": "Faith United Methodist Church",
+  "displayName": "Faith United Methodist Church",
+  "address": {
+    "street": "221 Heberton Avenue",
+    "city": "Staten Island",
+    "state": "NY",
+    "zip": "10302"
+  },
+  "coordinates": {
+    "latitude": 40.635215759277344,
+    "longitude": -74.13236236572266
+  },
+  "website": "https://fumcsi.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFLmBIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFLmBIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fumcsi.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222529697"
+    }
+  ],
+  "advisories": []
+}

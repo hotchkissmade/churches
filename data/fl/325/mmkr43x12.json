@@ -1,0 +1,41 @@
+{
+  "id": "mmkr43x12",
+  "url": "https://constellation.church/mmkr43x12",
+  "name": "Ceifa Baptist Church",
+  "displayName": "Ceifa Baptist Church",
+  "address": {
+    "street": "726 Legion Dr",
+    "city": "Destin",
+    "state": "FL",
+    "zip": "32541"
+  },
+  "coordinates": {
+    "latitude": 30.396331787109375,
+    "longitude": -86.48588562011719
+  },
+  "website": "https://faithcoastdestin.com",
+  "listingUrl": "https://churches.sbc.net/church/ceifa-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "ceifa-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithcoastdestin.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592350597"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "593283458"
+    },
+    {
+      "namespace": "org.ag.id",
+      "value": "1e24a2b5-5c7c-4075-b4a3-03d944fae1af"
+    }
+  ],
+  "advisories": []
+}

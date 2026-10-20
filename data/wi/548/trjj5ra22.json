@@ -1,0 +1,33 @@
+{
+  "id": "trjj5ra22",
+  "url": "https://constellation.church/trjj5ra22",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "803 2nd St",
+    "city": "Shell Lake",
+    "state": "WI",
+    "zip": "54871-4600"
+  },
+  "coordinates": {
+    "latitude": 45.7461409,
+    "longitude": -91.9274005
+  },
+  "website": "https://salemlutheransl.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f9f8e437-4552-4f4a-ab46-f686b03cd1e1",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f9f8e437-4552-4f4a-ab46-f686b03cd1e1"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemlutheransl.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391508329"
+    }
+  ],
+  "advisories": []
+}

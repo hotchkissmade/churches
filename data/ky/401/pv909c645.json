@@ -1,0 +1,33 @@
+{
+  "id": "pv909c645",
+  "url": "https://constellation.church/pv909c645",
+  "name": "Stithton Baptist Church",
+  "displayName": "Stithton Baptist Church",
+  "address": {
+    "street": "95 Park Ave",
+    "city": "Radcliff",
+    "state": "KY",
+    "zip": "40160"
+  },
+  "coordinates": {
+    "latitude": 37.84560775756836,
+    "longitude": -85.9421501159668
+  },
+  "website": "https://stithton.org",
+  "listingUrl": "https://churches.sbc.net/church/stithton-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "stithton-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stithton.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "610721521"
+    }
+  ],
+  "advisories": []
+}

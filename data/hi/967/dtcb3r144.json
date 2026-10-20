@@ -1,0 +1,33 @@
+{
+  "id": "dtcb3r144",
+  "url": "https://constellation.church/dtcb3r144",
+  "name": "Kihei Baptist Chapel",
+  "displayName": "Kihei Baptist Chapel",
+  "address": {
+    "street": "1655 S Kihei Rd",
+    "city": "Kihei",
+    "state": "HI",
+    "zip": "96753"
+  },
+  "coordinates": {
+    "latitude": 20.739251136779785,
+    "longitude": -156.4535903930664
+  },
+  "website": "https://kiheibaptist.com",
+  "listingUrl": "https://churches.sbc.net/church/kihei-baptist-chapel/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "kihei-baptist-chapel"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kiheibaptist.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "990190925"
+    }
+  ],
+  "advisories": []
+}

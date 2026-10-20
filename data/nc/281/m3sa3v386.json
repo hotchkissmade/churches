@@ -1,0 +1,33 @@
+{
+  "id": "m3sa3v386",
+  "url": "https://constellation.church/m3sa3v386",
+  "name": "St. Paul's Church",
+  "displayName": "St. Paul's Church",
+  "address": {
+    "street": "116 S Church St",
+    "city": "Monroe",
+    "state": "NC",
+    "zip": "28112-5605"
+  },
+  "coordinates": {
+    "latitude": 34.98055076599121,
+    "longitude": -80.54825592041016
+  },
+  "website": "https://spechurch.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-north-carolina/list/st-pauls-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-north-carolina/st-pauls-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "spechurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581488868"
+    }
+  ],
+  "advisories": []
+}

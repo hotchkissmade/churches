@@ -1,0 +1,33 @@
+{
+  "id": "dd10w2c24",
+  "url": "https://constellation.church/dd10w2c24",
+  "name": "Resurrection Lutheran Church",
+  "displayName": "Resurrection Lutheran Church",
+  "address": {
+    "street": "1211 W Homer M Adams Pkwy",
+    "city": "Godfrey",
+    "state": "IL",
+    "zip": "62035-3345"
+  },
+  "coordinates": {
+    "latitude": 38.92477798461914,
+    "longitude": -90.20182037353516
+  },
+  "website": "https://resurrectiongodfrey.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=de846b04-da60-4e08-b8c9-a0405417b304",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "de846b04-da60-4e08-b8c9-a0405417b304"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "resurrectiongodfrey.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371011496"
+    }
+  ],
+  "advisories": []
+}

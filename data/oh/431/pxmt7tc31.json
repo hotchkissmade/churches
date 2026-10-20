@@ -1,0 +1,33 @@
+{
+  "id": "pxmt7tc31",
+  "url": "https://constellation.church/pxmt7tc31",
+  "name": "Grace Lutheran Church",
+  "displayName": "Grace Lutheran Church",
+  "address": {
+    "street": "8950 Refugee Rd",
+    "city": "Pickerington",
+    "state": "OH",
+    "zip": "43147-8939"
+  },
+  "coordinates": {
+    "latitude": 39.90945625305176,
+    "longitude": -82.75610733032227
+  },
+  "website": "https://gracecolumbus.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=aace30e0-244b-4705-a129-65634878e724",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "aace30e0-244b-4705-a129-65634878e724"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracecolumbus.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "314380045"
+    }
+  ],
+  "advisories": []
+}

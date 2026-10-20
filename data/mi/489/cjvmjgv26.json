@@ -1,0 +1,37 @@
+{
+  "id": "cjvmjgv26",
+  "url": "https://constellation.church/cjvmjgv26",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "549 E Mount Hope Ave",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "48910-9147"
+  },
+  "coordinates": {
+    "latitude": 42.712005615234375,
+    "longitude": -84.5455207824707
+  },
+  "website": "https://bethlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f58a99de-246f-4951-9086-6768918f6521",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f58a99de-246f-4951-9086-6768918f6521"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382002093"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "386093765"
+    }
+  ],
+  "advisories": []
+}

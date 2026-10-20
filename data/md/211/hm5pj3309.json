@@ -1,0 +1,33 @@
+{
+  "id": "hm5pj3309",
+  "url": "https://constellation.church/hm5pj3309",
+  "name": "Elvaton Baptist Church",
+  "displayName": "Elvaton Baptist Church",
+  "address": {
+    "street": "8422 Elvaton Rd",
+    "city": "Millersville",
+    "state": "MD",
+    "zip": "21108"
+  },
+  "coordinates": {
+    "latitude": 39.121158,
+    "longitude": -76.593531
+  },
+  "website": "https://elvaton.net",
+  "listingUrl": "https://churches.sbc.net/church/elvaton-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "elvaton-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "elvaton.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "521154329"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "v070nrk72",
+  "url": "https://constellation.church/v070nrk72",
+  "name": "Bethlehem Lutheran Church",
+  "displayName": "Bethlehem Lutheran Church",
+  "address": {
+    "street": "900 Central Ave",
+    "city": "Florence",
+    "state": "WI",
+    "zip": "54121-9493"
+  },
+  "coordinates": {
+    "latitude": 45.922908782958984,
+    "longitude": -88.25694274902344
+  },
+  "website": "https://bethlehemlutheranflorence.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bf034454-5bd3-44ed-bb31-70b2bf040078",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "bf034454-5bd3-44ed-bb31-70b2bf040078"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethlehemlutheranflorence.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "510158946"
+    }
+  ],
+  "advisories": []
+}

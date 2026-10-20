@@ -1,0 +1,33 @@
+{
+  "id": "mcdtrhv64",
+  "url": "https://constellation.church/mcdtrhv64",
+  "name": "New Journey Lutheran Church",
+  "displayName": "New Journey Lutheran Church",
+  "address": {
+    "street": "16748 E Parkview Ave",
+    "city": "Fountain Hills",
+    "state": "AZ",
+    "zip": "85268-3899"
+  },
+  "coordinates": {
+    "latitude": 33.60662651062012,
+    "longitude": -111.7188720703125
+  },
+  "website": "https://njlc-fh.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=784f171a-60c6-40cf-b1c3-59a80e5b0cbf",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "784f171a-60c6-40cf-b1c3-59a80e5b0cbf"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "njlc-fh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "272812329"
+    }
+  ],
+  "advisories": []
+}

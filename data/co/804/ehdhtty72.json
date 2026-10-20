@@ -1,0 +1,33 @@
+{
+  "id": "ehdhtty72",
+  "url": "https://constellation.church/ehdhtty72",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "17701 W 16th Ave",
+    "city": "Golden",
+    "state": "CO",
+    "zip": "80401-2567"
+  },
+  "coordinates": {
+    "latitude": 39.74330711364746,
+    "longitude": -105.19963073730469
+  },
+  "website": "https://faithgolden.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6cae83b3-67f2-4b3d-bc61-36a27dafbc44",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "6cae83b3-67f2-4b3d-bc61-36a27dafbc44"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "faithgolden.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840642455"
+    }
+  ],
+  "advisories": []
+}

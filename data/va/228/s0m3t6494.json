@@ -1,0 +1,33 @@
+{
+  "id": "s0m3t6494",
+  "url": "https://constellation.church/s0m3t6494",
+  "name": "Main Street Baptist Church",
+  "displayName": "Main Street Baptist Church",
+  "address": {
+    "street": "15 E Main St",
+    "city": "Luray",
+    "state": "VA",
+    "zip": "22835"
+  },
+  "coordinates": {
+    "latitude": 38.66556358337402,
+    "longitude": -78.45948791503906
+  },
+  "website": "https://msbcluray.wordpress.com",
+  "listingUrl": "https://churches.sbc.net/church/main-street-baptist-church-16/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "main-street-baptist-church-16"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "msbcluray.wordpress.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "541247424"
+    }
+  ],
+  "advisories": []
+}

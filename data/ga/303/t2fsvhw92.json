@@ -1,0 +1,33 @@
+{
+  "id": "t2fsvhw92",
+  "url": "https://constellation.church/t2fsvhw92",
+  "name": "St. John's Episcopal Church",
+  "displayName": "St. John's Episcopal Church",
+  "address": {
+    "street": "3480 East Main St",
+    "city": "College Park",
+    "state": "GA",
+    "zip": "30337-2099"
+  },
+  "coordinates": {
+    "latitude": 33.66064262390137,
+    "longitude": -84.44634628295898
+  },
+  "website": "https://stjohnscollegepark.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-atlanta/list/st-johns-episcopal-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-atlanta/st-johns-episcopal-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnscollegepark.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580593433"
+    }
+  ],
+  "advisories": []
+}

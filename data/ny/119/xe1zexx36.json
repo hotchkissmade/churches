@@ -1,0 +1,33 @@
+{
+  "id": "xe1zexx36",
+  "url": "https://constellation.church/xe1zexx36",
+  "name": "St. Mary's Church",
+  "displayName": "St. Mary's Church",
+  "address": {
+    "street": "165 Ponquoque Avenue",
+    "city": "Hampton Bays",
+    "state": "NY",
+    "zip": "11946"
+  },
+  "coordinates": {
+    "latitude": 40.859031677246094,
+    "longitude": -72.51347351074219
+  },
+  "website": "https://stmaryshb.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-long-island/list/church-st-marys",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-long-island/church-st-marys"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmaryshb.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "116029659"
+    }
+  ],
+  "advisories": []
+}

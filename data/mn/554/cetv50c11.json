@@ -1,0 +1,33 @@
+{
+  "id": "cetv50c11",
+  "url": "https://constellation.church/cetv50c11",
+  "name": "Grace Lutheran Church Of Northeast Minneapolis",
+  "displayName": "Grace Lutheran Church Of Northeast Minneapolis",
+  "address": {
+    "street": "1500 6th St NE",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55413-1319"
+  },
+  "coordinates": {
+    "latitude": 45.00398826599121,
+    "longitude": -93.25948333740234
+  },
+  "website": "https://gracenempls.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f1c740ca-ed0e-4cee-997e-d7664ad7e3fc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "f1c740ca-ed0e-4cee-997e-d7664ad7e3fc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gracenempls.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "208796060"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "env95rs14",
+  "url": "https://constellation.church/env95rs14",
+  "name": "Beautiful Savior Lutheran Church",
+  "displayName": "Beautiful Savior Lutheran Church",
+  "address": {
+    "street": "2240 Shallowford Rd",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30066-2062"
+  },
+  "coordinates": {
+    "latitude": 34.042654037475586,
+    "longitude": -84.48579406738281
+  },
+  "website": "https://beautifulsavior.us/im-new",
+  "listingUrl": "https://yearbook.wels.net/unitpage/23869",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "23869"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "beautifulsavior.us/im-new"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581579428"
+    }
+  ],
+  "advisories": []
+}

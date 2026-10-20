@@ -1,0 +1,33 @@
+{
+  "id": "zaztc7c36",
+  "url": "https://constellation.church/zaztc7c36",
+  "name": "St Andrew Lutheran Church",
+  "displayName": "St. Andrew Lutheran Church",
+  "address": {
+    "street": "155 N Prince Crossing Rd",
+    "city": "West Chicago",
+    "state": "IL",
+    "zip": "60185-2443"
+  },
+  "coordinates": {
+    "latitude": 41.886552810668945,
+    "longitude": -88.18403625488281
+  },
+  "website": "https://standrewlutheran.net/web",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=159f3dff-a74b-42ac-85b0-cc227dda7c7a",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "159f3dff-a74b-42ac-85b0-cc227dda7c7a"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "standrewlutheran.net/web"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362902730"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "nrbm77y59",
+  "url": "https://constellation.church/nrbm77y59",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "404 E Broadway St",
+    "city": "Summerdale",
+    "state": "AL",
+    "zip": "36580"
+  },
+  "coordinates": {
+    "latitude": 30.48699188232422,
+    "longitude": -87.69551467895508
+  },
+  "website": "https://summerdaleag.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=24ba8c89-9f96-477d-8b99-f193dad10aba&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "24ba8c89-9f96-477d-8b99-f193dad10aba"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "summerdaleag.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630870442"
+    }
+  ],
+  "advisories": []
+}

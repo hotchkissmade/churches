@@ -1,0 +1,33 @@
+{
+  "id": "tv1pete64",
+  "url": "https://constellation.church/tv1pete64",
+  "name": "Star of Bethlehem Lutheran Church",
+  "displayName": "Star of Bethlehem Lutheran Church",
+  "address": {
+    "street": "4465 S Blosser Rd",
+    "city": "Santa Maria",
+    "state": "CA",
+    "zip": "93455-4149"
+  },
+  "coordinates": {
+    "latitude": 34.87519073486328,
+    "longitude": -120.45429229736328
+  },
+  "website": "https://starlutheran.org",
+  "listingUrl": "https://yearbook.wels.net/unitpage/24047",
+  "identifiers": [
+    {
+      "namespace": "net.wels.yearbook.id",
+      "value": "24047"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "starlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "953202172"
+    }
+  ],
+  "advisories": []
+}

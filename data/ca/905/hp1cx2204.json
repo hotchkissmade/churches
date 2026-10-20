@@ -1,0 +1,33 @@
+{
+  "id": "hp1cx2204",
+  "url": "https://constellation.church/hp1cx2204",
+  "name": "Encounter Community Church",
+  "displayName": "Encounter Community Church",
+  "address": {
+    "street": "18749 Crenshaw Blvd",
+    "city": "Torrance",
+    "state": "CA",
+    "zip": "90504"
+  },
+  "coordinates": {
+    "latitude": 33.85993766784668,
+    "longitude": -118.32730865478516
+  },
+  "website": "https://encountercommunity.church/events",
+  "listingUrl": "https://churches.sbc.net/church/encounter-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "encounter-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "encountercommunity.church/events"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "870730773"
+    }
+  ],
+  "advisories": []
+}

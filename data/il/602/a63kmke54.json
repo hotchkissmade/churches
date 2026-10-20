@@ -1,0 +1,33 @@
+{
+  "id": "a63kmke54",
+  "url": "https://constellation.church/a63kmke54",
+  "name": "St Paul's Lutheran Church",
+  "displayName": "St. Paul's Lutheran Church",
+  "address": {
+    "street": "1004 Greenwood St",
+    "city": "Evanston",
+    "state": "IL",
+    "zip": "60201-4212"
+  },
+  "coordinates": {
+    "latitude": 42.04256629943848,
+    "longitude": -87.68535614013672
+  },
+  "website": "https://stpaulevanston.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=539f1178-08fa-4fe3-8a9c-3fc66abcabe8",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "539f1178-08fa-4fe3-8a9c-3fc66abcabe8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulevanston.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362382859"
+    }
+  ],
+  "advisories": []
+}

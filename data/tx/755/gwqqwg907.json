@@ -1,0 +1,33 @@
+{
+  "id": "gwqqwg907",
+  "url": "https://constellation.church/gwqqwg907",
+  "name": "First Baptist Church of Queen City",
+  "displayName": "First Baptist Church of Queen City",
+  "address": {
+    "street": "210 Houston St",
+    "city": "Queen City",
+    "state": "TX",
+    "zip": "75572"
+  },
+  "coordinates": {
+    "latitude": 33.1486917,
+    "longitude": -94.1496198
+  },
+  "website": "https://fbcqc.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-queen-city-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-queen-city-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcqc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751495034"
+    }
+  ],
+  "advisories": []
+}

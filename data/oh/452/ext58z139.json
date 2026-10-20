@@ -1,0 +1,33 @@
+{
+  "id": "ext58z139",
+  "url": "https://constellation.church/ext58z139",
+  "name": "Cheviot United Methodist Church",
+  "displayName": "Cheviot United Methodist Church",
+  "address": {
+    "street": "3820 WESTWOOD NORTHERN BLVD",
+    "city": "CINCINNATI",
+    "state": "OH",
+    "zip": "45211"
+  },
+  "coordinates": {
+    "latitude": 39.166202545166016,
+    "longitude": -84.61173629760742
+  },
+  "website": "https://cheviotumc.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFDiIIAX",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFDiIIAX"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cheviotumc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "316039154"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "jmy0sw082",
+  "url": "https://constellation.church/jmy0sw082",
+  "name": "Trinity Episcopal Cathedral",
+  "displayName": "Trinity Episcopal Cathedral",
+  "address": {
+    "street": "2620 Capitol Ave",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95816-5991"
+  },
+  "coordinates": {
+    "latitude": 38.57070732116699,
+    "longitude": -121.47256469726562
+  },
+  "website": "https://trinitycathedral.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-northern-california/list/trinity-cathedral",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-northern-california/trinity-cathedral"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitycathedral.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941464736"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "k3cdksk73",
+  "url": "https://constellation.church/k3cdksk73",
+  "name": "Revolution Church",
+  "displayName": "Revolution Church",
+  "address": {
+    "street": "624 S Broadway Blvd.",
+    "city": "Salina",
+    "state": "KS",
+    "zip": "67401"
+  },
+  "coordinates": {
+    "latitude": 38.829458236694336,
+    "longitude": -97.62562561035156
+  },
+  "website": "https://revo.church",
+  "listingUrl": "https://bicus.org/church/revolution-church/",
+  "identifiers": [
+    {
+      "namespace": "org.bicus.id",
+      "value": "431"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "revo.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "203237282"
+    }
+  ],
+  "advisories": []
+}

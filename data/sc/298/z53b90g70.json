@@ -1,0 +1,33 @@
+{
+  "id": "z53b90g70",
+  "url": "https://constellation.church/z53b90g70",
+  "name": "St James Lutheran Church",
+  "displayName": "St. James Lutheran Church",
+  "address": {
+    "street": "200 Laurel Dr",
+    "city": "Graniteville",
+    "state": "SC",
+    "zip": "29829-2567"
+  },
+  "coordinates": {
+    "latitude": 33.57327079772949,
+    "longitude": -81.79899978637695
+  },
+  "website": "https://stjamesgraniteville.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=702d38e8-0bcd-4333-aa75-3e230df14ce7",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "702d38e8-0bcd-4333-aa75-3e230df14ce7"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjamesgraniteville.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "576081250"
+    }
+  ],
+  "advisories": []
+}

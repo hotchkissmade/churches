@@ -1,0 +1,33 @@
+{
+  "id": "cfmnk2m33",
+  "url": "https://constellation.church/cfmnk2m33",
+  "name": "Atlanta, GA",
+  "displayName": "United Church of God Atlanta",
+  "address": {
+    "street": "3597 Parkway Ln",
+    "city": "Peachtree Corners",
+    "state": "GA",
+    "zip": "30092"
+  },
+  "coordinates": {
+    "latitude": 33.96298027038574,
+    "longitude": -84.2332992553711
+  },
+  "website": "https://unityatl.org",
+  "listingUrl": "https://www.ucg.org/congregations/atlanta-ga",
+  "identifiers": [
+    {
+      "namespace": "org.ucg.id",
+      "value": "atlanta-ga"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "unityatl.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "580866792"
+    }
+  ],
+  "advisories": []
+}

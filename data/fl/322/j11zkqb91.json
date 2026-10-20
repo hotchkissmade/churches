@@ -1,0 +1,33 @@
+{
+  "id": "j11zkqb91",
+  "url": "https://constellation.church/j11zkqb91",
+  "name": "Grace Church of Avondale",
+  "displayName": "Grace Church of Avondale",
+  "address": {
+    "street": "3519 Herschel St",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32205"
+  },
+  "coordinates": {
+    "latitude": 30.300399780273438,
+    "longitude": -81.70451736450195
+  },
+  "website": "https://gcajax.com",
+  "listingUrl": "https://churches.sbc.net/church/grace-church-of-avondale/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "grace-church-of-avondale"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gcajax.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "590873829"
+    }
+  ],
+  "advisories": []
+}

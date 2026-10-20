@@ -1,0 +1,33 @@
+{
+  "id": "zhfkb2p18",
+  "url": "https://constellation.church/zhfkb2p18",
+  "name": "Riverstone Church",
+  "displayName": "Riverstone Church",
+  "address": {
+    "street": "725 Oxford Valley Rd",
+    "city": "Yardley",
+    "state": "PA",
+    "zip": "19067-1611"
+  },
+  "coordinates": {
+    "latitude": 40.22892189025879,
+    "longitude": -74.83604049682617
+  },
+  "website": "https://riverstone.church",
+  "listingUrl": "https://churches.efca.org/?id=12859",
+  "identifiers": [
+    {
+      "namespace": "org.efca.churches.id",
+      "value": "12859"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "riverstone.church"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "822511112"
+    }
+  ],
+  "advisories": []
+}

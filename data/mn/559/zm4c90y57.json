@@ -1,0 +1,33 @@
+{
+  "id": "zm4c90y57",
+  "url": "https://constellation.church/zm4c90y57",
+  "name": "St Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "214 3rd St SW",
+    "city": "Pine Island",
+    "state": "MN",
+    "zip": "55963-9307"
+  },
+  "coordinates": {
+    "latitude": 44.20082092285156,
+    "longitude": -92.64871978759766
+  },
+  "website": "https://saintpaulpimn.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=930e5926-2e6f-408c-a250-7d25efd52fe5",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "930e5926-2e6f-408c-a250-7d25efd52fe5"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "saintpaulpimn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411414339"
+    }
+  ],
+  "advisories": []
+}

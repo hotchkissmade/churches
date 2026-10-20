@@ -1,0 +1,33 @@
+{
+  "id": "bvkd3e514",
+  "url": "https://constellation.church/bvkd3e514",
+  "name": "Westside Baptist Church of Snellville, Inc.",
+  "displayName": "Westside Baptist Church of Snellville",
+  "address": {
+    "street": "2925 Main St W",
+    "city": "Snellville",
+    "state": "GA",
+    "zip": "30078"
+  },
+  "coordinates": {
+    "latitude": 33.854562759399414,
+    "longitude": -84.03461074829102
+  },
+  "website": "https://westsidebc.org",
+  "listingUrl": "https://churches.sbc.net/church/westside-baptist-church-of-snellville-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "westside-baptist-church-of-snellville-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "westsidebc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581309204"
+    }
+  ],
+  "advisories": []
+}

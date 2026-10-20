@@ -1,0 +1,33 @@
+{
+  "id": "y72avky19",
+  "url": "https://constellation.church/y72avky19",
+  "name": "All Souls Episcopal Church",
+  "displayName": "All Souls Episcopal Church",
+  "address": {
+    "street": "2300 Cathedral Ave NW",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20008-1505"
+  },
+  "coordinates": {
+    "latitude": 38.9274845123291,
+    "longitude": -77.05282974243164
+  },
+  "website": "https://allsoulsdc.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-washington/list/all-souls-memorial-church",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-washington/all-souls-memorial-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "allsoulsdc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "530204673"
+    }
+  ],
+  "advisories": []
+}

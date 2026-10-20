@@ -1,0 +1,33 @@
+{
+  "id": "c58z2e742",
+  "url": "https://constellation.church/c58z2e742",
+  "name": "Cloverleaf Baptist Church",
+  "displayName": "Cloverleaf Baptist Church",
+  "address": {
+    "street": "4401 Manslick Road",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40216"
+  },
+  "coordinates": {
+    "latitude": 38.184837341308594,
+    "longitude": -85.79987335205078
+  },
+  "website": "https://cloverleafbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/cloverleaf-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "cloverleaf-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "cloverleafbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "610857126"
+    }
+  ],
+  "advisories": []
+}

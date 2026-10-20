@@ -1,0 +1,33 @@
+{
+  "id": "yn02w6m47",
+  "url": "https://constellation.church/yn02w6m47",
+  "name": "St Stephen Lutheran Church",
+  "displayName": "St. Stephen Lutheran Church",
+  "address": {
+    "street": "1301 S 4th St",
+    "city": "Marshall",
+    "state": "MN",
+    "zip": "56258-2201"
+  },
+  "coordinates": {
+    "latitude": 44.43182945251465,
+    "longitude": -95.79508209228516
+  },
+  "website": "https://ststephenmarshall.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9c20143e-261d-4cc4-b0f1-7f3444544333",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "9c20143e-261d-4cc4-b0f1-7f3444544333"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "ststephenmarshall.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410985340"
+    }
+  ],
+  "advisories": []
+}

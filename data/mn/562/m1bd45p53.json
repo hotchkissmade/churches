@@ -1,0 +1,33 @@
+{
+  "id": "m1bd45p53",
+  "url": "https://constellation.church/m1bd45p53",
+  "name": "Bethesda Lutheran Church",
+  "displayName": "Bethesda Lutheran Church",
+  "address": {
+    "street": "1185 30th St SE",
+    "city": "Murdock",
+    "state": "MN",
+    "zip": "56271-7941"
+  },
+  "coordinates": {
+    "latitude": 45.2818603515625,
+    "longitude": -95.38159942626953
+  },
+  "website": "https://bethesdachurchmn.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1ea4da5a-e282-4bc5-a08b-486da1a83cba",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "1ea4da5a-e282-4bc5-a08b-486da1a83cba"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethesdachurchmn.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410705757"
+    }
+  ],
+  "advisories": []
+}

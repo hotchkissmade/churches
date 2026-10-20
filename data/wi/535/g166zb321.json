@@ -1,0 +1,33 @@
+{
+  "id": "g166zb321",
+  "url": "https://constellation.church/g166zb321",
+  "name": "St John's Lutheran Church",
+  "displayName": "St. John's Lutheran Church",
+  "address": {
+    "street": "312 S 3rd St",
+    "city": "Evansville",
+    "state": "WI",
+    "zip": "53536-1247"
+  },
+  "coordinates": {
+    "latitude": 42.77592468261719,
+    "longitude": -89.30588912963867
+  },
+  "website": "https://stjohns-lc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8c598fb9-51f6-4f1b-9a51-f90a2b44ac46",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8c598fb9-51f6-4f1b-9a51-f90a2b44ac46"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohns-lc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391303901"
+    }
+  ],
+  "advisories": []
+}

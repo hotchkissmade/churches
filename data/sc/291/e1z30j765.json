@@ -1,0 +1,33 @@
+{
+  "id": "e1z30j765",
+  "url": "https://constellation.church/e1z30j765",
+  "name": "Northside Memorial Baptist Church",
+  "displayName": "Northside Memorial Baptist Church",
+  "address": {
+    "street": "1004 N Main St",
+    "city": "Sumter",
+    "state": "SC",
+    "zip": "29153"
+  },
+  "coordinates": {
+    "latitude": 33.94759559631348,
+    "longitude": -80.34313201904297
+  },
+  "website": "https://northsidesumter.com",
+  "listingUrl": "https://churches.sbc.net/church/northside-memorial-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northside-memorial-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "northsidesumter.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570507292"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "d1w0crb46",
+  "url": "https://constellation.church/d1w0crb46",
+  "name": "Lebanon Lutheran Church",
+  "displayName": "Lebanon Lutheran Church",
+  "address": {
+    "street": "1200 Thompson Rd",
+    "city": "Cleveland",
+    "state": "NC",
+    "zip": "27013-9486"
+  },
+  "coordinates": {
+    "latitude": 35.740211486816406,
+    "longitude": -80.62729263305664
+  },
+  "website": "https://lebanonlutheran.net",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3c023dab-28ff-44a5-8b8e-6de2ff84ec42",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "3c023dab-28ff-44a5-8b8e-6de2ff84ec42"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lebanonlutheran.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "566075721"
+    }
+  ],
+  "advisories": []
+}

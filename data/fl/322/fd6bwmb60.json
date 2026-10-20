@@ -1,0 +1,33 @@
+{
+  "id": "fd6bwmb60",
+  "url": "https://constellation.church/fd6bwmb60",
+  "name": "Gardenview Baptist Church",
+  "displayName": "Gardenview Baptist Church",
+  "address": {
+    "street": "3139 Armsdale Rd",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32218"
+  },
+  "coordinates": {
+    "latitude": 30.454437255859375,
+    "longitude": -81.70072555541992
+  },
+  "website": "https://gardenviewjax.com",
+  "listingUrl": "https://churches.sbc.net/church/gardenview-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "gardenview-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "gardenviewjax.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592244746"
+    }
+  ],
+  "advisories": []
+}

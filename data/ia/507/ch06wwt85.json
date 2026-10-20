@@ -1,0 +1,33 @@
+{
+  "id": "ch06wwt85",
+  "url": "https://constellation.church/ch06wwt85",
+  "name": "Our Savior's Lutheran Church",
+  "displayName": "Our Savior's Lutheran Church",
+  "address": {
+    "street": "420 Harwood Ave",
+    "city": "Waterloo",
+    "state": "IA",
+    "zip": "50701-6119"
+  },
+  "coordinates": {
+    "latitude": 42.50106430053711,
+    "longitude": -92.37138366699219
+  },
+  "website": "https://oursaviorswaterloo.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a68a3191-acc2-4803-a00f-da5a1b74b116",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a68a3191-acc2-4803-a00f-da5a1b74b116"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "oursaviorswaterloo.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426123997"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bb4bchb62",
+  "url": "https://constellation.church/bb4bchb62",
+  "name": "Christ Lutheran Church",
+  "displayName": "Christ Lutheran Church",
+  "address": {
+    "street": "510 Germain St",
+    "city": "Somerset",
+    "state": "WI",
+    "zip": "54025"
+  },
+  "coordinates": {
+    "latitude": 45.12548065185547,
+    "longitude": -92.68033599853516
+  },
+  "website": "https://somersetlutheran.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c49f115d-d0a3-4262-86d6-c86a09dd459c",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "c49f115d-d0a3-4262-86d6-c86a09dd459c"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "somersetlutheran.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391461401"
+    }
+  ],
+  "advisories": []
+}

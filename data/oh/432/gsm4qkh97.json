@@ -1,0 +1,33 @@
+{
+  "id": "gsm4qkh97",
+  "url": "https://constellation.church/gsm4qkh97",
+  "name": "Bethel Presbyterian Church",
+  "displayName": "Bethel Presbyterian Church",
+  "address": {
+    "street": "1735 Bethel Rd",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43220"
+  },
+  "coordinates": {
+    "latitude": 40.06351661682129,
+    "longitude": -83.06694030761719
+  },
+  "website": "https://bethelatreed.com",
+  "listingUrl": "https://eco-pres.org/churches/bethel-presbyterian-church/",
+  "identifiers": [
+    {
+      "namespace": "org.eco-pres.id",
+      "value": "bethel-presbyterian-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "bethelatreed.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "311098478"
+    }
+  ],
+  "advisories": []
+}

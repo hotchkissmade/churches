@@ -1,0 +1,33 @@
+{
+  "id": "xewwqhd03",
+  "url": "https://constellation.church/xewwqhd03",
+  "name": "Shepherd Of The Valley Lutheran Church",
+  "displayName": "Shepherd Of The Valley Lutheran Church",
+  "address": {
+    "street": "21 Washington St",
+    "city": "Ayer",
+    "state": "MA",
+    "zip": "01432-1334"
+  },
+  "coordinates": {
+    "latitude": 42.56065368652344,
+    "longitude": -71.58742141723633
+  },
+  "website": "https://sov-lc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4ed01ff1-3441-40ff-be4b-e018c773c013",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "4ed01ff1-3441-40ff-be4b-e018c773c013"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "sov-lc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "043399241"
+    }
+  ],
+  "advisories": []
+}

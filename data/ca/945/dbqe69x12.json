@@ -1,0 +1,33 @@
+{
+  "id": "dbqe69x12",
+  "url": "https://constellation.church/dbqe69x12",
+  "name": "Lafayette-Orinda Presbyterian Church",
+  "displayName": "Lafayette-Orinda Presbyterian Church",
+  "address": {
+    "street": "49 Knox Dr",
+    "city": "Lafayette",
+    "state": "CA",
+    "zip": "94549-3322"
+  },
+  "coordinates": {
+    "latitude": 37.88716697692871,
+    "longitude": -122.15904998779297
+  },
+  "website": "https://lopc.org",
+  "listingUrl": "https://church-trends.pcusa.org/church/754/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "754"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lopc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "941275252"
+    }
+  ],
+  "advisories": []
+}

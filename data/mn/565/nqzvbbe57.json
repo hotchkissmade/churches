@@ -1,0 +1,33 @@
+{
+  "id": "nqzvbbe57",
+  "url": "https://constellation.church/nqzvbbe57",
+  "name": "Trinity Lutheran Church",
+  "displayName": "Trinity Lutheran Church",
+  "address": {
+    "street": "1401 Madison Ave",
+    "city": "Detroit Lakes",
+    "state": "MN",
+    "zip": "56501-4542"
+  },
+  "coordinates": {
+    "latitude": 46.80705261230469,
+    "longitude": -95.83501434326172
+  },
+  "website": "https://trinitylutherandl.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=81202c6a-32ff-4162-a5f3-dac4b7c291ae",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "81202c6a-32ff-4162-a5f3-dac4b7c291ae"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinitylutherandl.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "410910750"
+    }
+  ],
+  "advisories": []
+}

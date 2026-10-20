@@ -1,0 +1,37 @@
+{
+  "id": "s14xtet85",
+  "url": "https://constellation.church/s14xtet85",
+  "name": "Saint Paul Lutheran Church",
+  "displayName": "St. Paul Lutheran Church",
+  "address": {
+    "street": "240 E Green Bay St",
+    "city": "Bonduel",
+    "state": "WI",
+    "zip": "54107-0577"
+  },
+  "coordinates": {
+    "latitude": 44.73752212524414,
+    "longitude": -88.44258117675781
+  },
+  "website": "https://stpaulbonduel.com",
+  "listingUrl": "https://locator.lcms.org/church/C/90305",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "90305"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stpaulbonduel.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "390901175"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "396136505"
+    }
+  ],
+  "advisories": []
+}

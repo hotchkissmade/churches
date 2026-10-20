@@ -1,0 +1,33 @@
+{
+  "id": "er552np25",
+  "url": "https://constellation.church/er552np25",
+  "name": "Macon Baptist Church",
+  "displayName": "Macon Baptist Church",
+  "address": {
+    "street": "7415 Farm Road 21",
+    "city": "Mount Vernon",
+    "state": "TX",
+    "zip": "75457"
+  },
+  "coordinates": {
+    "latitude": 33.09395408630371,
+    "longitude": -95.13461303710938
+  },
+  "website": "https://maconbc.org",
+  "listingUrl": "https://churches.sbc.net/church/macon-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "macon-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "maconbc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "464301960"
+    }
+  ],
+  "advisories": []
+}

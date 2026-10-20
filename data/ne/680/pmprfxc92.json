@@ -1,0 +1,33 @@
+{
+  "id": "pmprfxc92",
+  "url": "https://constellation.church/pmprfxc92",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "115 W Meigs St",
+    "city": "Valley",
+    "state": "NE",
+    "zip": "68064-9770"
+  },
+  "coordinates": {
+    "latitude": 41.30587196350098,
+    "longitude": -96.34797668457031
+  },
+  "website": "https://stmarksvalleyne.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=5309ca63-75ad-4df9-a96d-dff8a28f7ccc",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "5309ca63-75ad-4df9-a96d-dff8a28f7ccc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarksvalleyne.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "470521001"
+    }
+  ],
+  "advisories": []
+}

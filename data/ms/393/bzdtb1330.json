@@ -1,0 +1,33 @@
+{
+  "id": "bzdtb1330",
+  "url": "https://constellation.church/bzdtb1330",
+  "name": "Trinity Baptist Church",
+  "displayName": "Trinity Baptist Church",
+  "address": {
+    "street": "500 Boyles Rd",
+    "city": "Waynesboro",
+    "state": "MS",
+    "zip": "39367"
+  },
+  "coordinates": {
+    "latitude": 31.7039219,
+    "longitude": -88.8059426
+  },
+  "website": "https://trinityfirstbaptistchurch.org",
+  "listingUrl": "https://churches.sbc.net/church/trinity-baptist-church-27/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "trinity-baptist-church-27"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "trinityfirstbaptistchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "640668493"
+    }
+  ],
+  "advisories": []
+}

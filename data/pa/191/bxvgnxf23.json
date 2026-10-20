@@ -1,0 +1,33 @@
+{
+  "id": "bxvgnxf23",
+  "url": "https://constellation.church/bxvgnxf23",
+  "name": "Chestnut Hill Friends Meeting",
+  "displayName": "Chestnut Hill Friends Meeting",
+  "address": {
+    "street": "20 E Mermaid Ln",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19118"
+  },
+  "coordinates": {
+    "latitude": 40.068349838256836,
+    "longitude": -75.19614028930664
+  },
+  "website": "https://chestnuthillquakers.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/chestnut-hill-friends-meeting/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "chestnut-hill-friends-meeting"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "chestnuthillquakers.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231720709"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sw9k59376",
+  "url": "https://constellation.church/sw9k59376",
+  "name": "Christ Church",
+  "displayName": "Christ Church",
+  "address": {
+    "street": "2500 Breton Road SE",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49546"
+  },
+  "coordinates": {
+    "latitude": 42.91777801513672,
+    "longitude": -85.60631561279297
+  },
+  "website": "https://christchurchgr.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/176",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "176"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christchurchgr.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382050216"
+    }
+  ],
+  "advisories": []
+}

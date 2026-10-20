@@ -1,0 +1,33 @@
+{
+  "id": "s1n5bzz42",
+  "url": "https://constellation.church/s1n5bzz42",
+  "name": "St Mark Lutheran Church",
+  "displayName": "St. Mark Lutheran Church",
+  "address": {
+    "street": "3651 S Vermont Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90007-3946"
+  },
+  "coordinates": {
+    "latitude": 34.021915435791016,
+    "longitude": -118.29212951660156
+  },
+  "website": "https://stmarksla.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ef42ac48-1ac3-4391-9a29-90e7ecfa3a80",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ef42ac48-1ac3-4391-9a29-90e7ecfa3a80"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stmarksla.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "952377609"
+    }
+  ],
+  "advisories": []
+}

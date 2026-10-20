@@ -1,0 +1,33 @@
+{
+  "id": "c23a6va82",
+  "url": "https://constellation.church/c23a6va82",
+  "name": "Christ Church Cathedral",
+  "displayName": "Christ Church Cathedral",
+  "address": {
+    "street": "900 Broadway",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37203-3854"
+  },
+  "coordinates": {
+    "latitude": 36.15878105163574,
+    "longitude": -86.78332138061523
+  },
+  "website": "https://christcathedral.org",
+  "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-tennessee/list/christ-church-cathedral",
+  "identifiers": [
+    {
+      "namespace": "org.episcopalassetmap.id",
+      "value": "diocese-tennessee/christ-church-cathedral"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "christcathedral.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "620505209"
+    }
+  ],
+  "advisories": []
+}

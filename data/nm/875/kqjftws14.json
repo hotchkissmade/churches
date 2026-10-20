@@ -1,0 +1,33 @@
+{
+  "id": "kqjftws14",
+  "url": "https://constellation.church/kqjftws14",
+  "name": "River Community Church",
+  "displayName": "River Community Church",
+  "address": {
+    "street": "65 S. Kiowa Rd",
+    "city": "Questa",
+    "state": "NM",
+    "zip": "87556"
+  },
+  "coordinates": {
+    "latitude": 36.70281219482422,
+    "longitude": -105.58583068847656
+  },
+  "website": "https://rccquesta.org",
+  "listingUrl": "https://churches.sbc.net/church/river-community-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "river-community-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rccquesta.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "871684453"
+    }
+  ],
+  "advisories": []
+}

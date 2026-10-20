@@ -1,0 +1,33 @@
+{
+  "id": "ccs2baz73",
+  "url": "https://constellation.church/ccs2baz73",
+  "name": "Hope Lutheran Church",
+  "displayName": "Hope Lutheran Church",
+  "address": {
+    "street": "14000 Eden Isle Pike",
+    "city": "Heber Springs",
+    "state": "AR",
+    "zip": "72543-7804"
+  },
+  "coordinates": {
+    "latitude": 35.49062919616699,
+    "longitude": -92.08967971801758
+  },
+  "website": "https://aokelca.org/staff",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=a6ecb06e-d25c-4971-a37c-9396e2bc05e6",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "a6ecb06e-d25c-4971-a37c-9396e2bc05e6"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "aokelca.org/staff"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "363514300"
+    }
+  ],
+  "advisories": []
+}

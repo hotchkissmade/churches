@@ -1,0 +1,33 @@
+{
+  "id": "pd4vxpz47",
+  "url": "https://constellation.church/pd4vxpz47",
+  "name": "Rochester Friends Meeting (NYYM)",
+  "displayName": "Rochester Friends Meeting (NYYM)",
+  "address": {
+    "street": "121 Fitzhugh St N",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14614"
+  },
+  "coordinates": {
+    "latitude": 43.15751266479492,
+    "longitude": -77.6163101196289
+  },
+  "website": "https://rochesterquakers.org",
+  "listingUrl": "https://www.fgcquaker.org/quaker-finder/rochester-friends-meeting-nyym/",
+  "identifiers": [
+    {
+      "namespace": "org.fgcquaker.id",
+      "value": "rochester-friends-meeting-nyym"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "rochesterquakers.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "993134567"
+    }
+  ],
+  "advisories": []
+}

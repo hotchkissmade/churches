@@ -1,0 +1,33 @@
+{
+  "id": "mx05n5v31",
+  "url": "https://constellation.church/mx05n5v31",
+  "name": "Crosspoint Church of Caldwell",
+  "displayName": "Crosspoint Church of Caldwell",
+  "address": {
+    "street": "912 W Linden St",
+    "city": "Caldwell",
+    "state": "ID",
+    "zip": "83605"
+  },
+  "coordinates": {
+    "latitude": 43.64877700805664,
+    "longitude": -116.70960235595703
+  },
+  "website": "https://thecrosspoint.org",
+  "listingUrl": "https://churches.sbc.net/church/crosspoint-church-of-caldwell/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "crosspoint-church-of-caldwell"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "thecrosspoint.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "820411206"
+    }
+  ],
+  "advisories": []
+}

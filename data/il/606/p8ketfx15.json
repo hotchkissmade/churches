@@ -1,0 +1,37 @@
+{
+  "id": "p8ketfx15",
+  "url": "https://constellation.church/p8ketfx15",
+  "name": "Tabor Lutheran Church",
+  "displayName": "Tabor Lutheran Church",
+  "address": {
+    "street": "3542 W Sunnyside Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60625-5931"
+  },
+  "coordinates": {
+    "latitude": 41.962982177734375,
+    "longitude": -87.71699523925781
+  },
+  "website": "https://taborchicago.org",
+  "listingUrl": "https://locator.lcms.org/church/C/165809",
+  "identifiers": [
+    {
+      "namespace": "org.lcms.locator.id",
+      "value": "165809"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "taborchicago.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362258534"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "362554199"
+    }
+  ],
+  "advisories": []
+}

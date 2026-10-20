@@ -1,0 +1,33 @@
+{
+  "id": "qwfxdf492",
+  "url": "https://constellation.church/qwfxdf492",
+  "name": "Green Mountain Christian Center",
+  "displayName": "Green Mountain Christian Center",
+  "address": {
+    "street": "440 Main St",
+    "city": "Bennington",
+    "state": "VT",
+    "zip": "05201"
+  },
+  "coordinates": {
+    "latitude": 42.878353118896484,
+    "longitude": -73.19585800170898
+  },
+  "website": "https://greenmtn.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=cffbae6b-3a46-4fcc-8808-68a9c1329bff&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "cffbae6b-3a46-4fcc-8808-68a9c1329bff"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "greenmtn.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "030285524"
+    }
+  ],
+  "advisories": []
+}

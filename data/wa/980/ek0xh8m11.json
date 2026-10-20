@@ -1,0 +1,33 @@
+{
+  "id": "ek0xh8m11",
+  "url": "https://constellation.church/ek0xh8m11",
+  "name": "First Baptist Church of Enumclaw",
+  "displayName": "First Baptist Church of Enumclaw",
+  "address": {
+    "street": "3466 Porter St",
+    "city": "Enumclaw",
+    "state": "WA",
+    "zip": "98022"
+  },
+  "coordinates": {
+    "latitude": 47.21611022949219,
+    "longitude": -121.99061584472656
+  },
+  "website": "https://fbcenumclaw.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-enumclaw-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-enumclaw-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcenumclaw.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "911244248"
+    }
+  ],
+  "advisories": []
+}

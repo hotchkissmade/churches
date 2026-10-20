@@ -1,0 +1,33 @@
+{
+  "id": "ea9kexj59",
+  "url": "https://constellation.church/ea9kexj59",
+  "name": "Memorial Lutheran Church",
+  "displayName": "Memorial Lutheran Church",
+  "address": {
+    "street": "701 11th St",
+    "city": "Nevada",
+    "state": "IA",
+    "zip": "50201-2329"
+  },
+  "coordinates": {
+    "latitude": 42.01688194274902,
+    "longitude": -93.44384765625
+  },
+  "website": "https://mlcnevada.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7ba49dab-6d12-41e7-a7fc-85882090fb84",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "7ba49dab-6d12-41e7-a7fc-85882090fb84"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mlcnevada.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "426005991"
+    }
+  ],
+  "advisories": []
+}

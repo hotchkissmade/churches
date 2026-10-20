@@ -1,0 +1,33 @@
+{
+  "id": "vhs7xj535",
+  "url": "https://constellation.church/vhs7xj535",
+  "name": "St John Lutheran Church",
+  "displayName": "St. John Lutheran Church",
+  "address": {
+    "street": "301 E Main St",
+    "city": "Bishop",
+    "state": "TX",
+    "zip": "78343-2647"
+  },
+  "coordinates": {
+    "latitude": 27.584218978881836,
+    "longitude": -97.79683685302734
+  },
+  "website": "https://stjohnbishop.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=621ad089-c92e-4613-9baf-f0423993f726",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "621ad089-c92e-4613-9baf-f0423993f726"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "stjohnbishop.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "742000336"
+    }
+  ],
+  "advisories": []
+}

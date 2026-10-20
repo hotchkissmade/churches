@@ -1,0 +1,33 @@
+{
+  "id": "m4nexj921",
+  "url": "https://constellation.church/m4nexj921",
+  "name": "Riverwood Presbyterian Church",
+  "displayName": "Riverwood Presbyterian Church",
+  "address": {
+    "street": "501 Rice Valley Road North",
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "zip": "35406"
+  },
+  "coordinates": {
+    "latitude": 33.24138832092285,
+    "longitude": -87.54205322265625
+  },
+  "website": "https://riverwoodchurch.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/905",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "905"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "riverwoodchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "630788679"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "a2r0zcn17",
+  "url": "https://constellation.church/a2r0zcn17",
+  "name": "East Baptist Church",
+  "displayName": "East Baptist Church",
+  "address": {
+    "street": "910 Bay Ave",
+    "city": "DeFuniak Springs",
+    "state": "FL",
+    "zip": "32435"
+  },
+  "coordinates": {
+    "latitude": 30.716224670410156,
+    "longitude": -86.09369659423828
+  },
+  "website": "https://eastbaptistchurch.com",
+  "listingUrl": "https://churches.sbc.net/church/east-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "east-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "eastbaptistchurch.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592322586"
+    }
+  ],
+  "advisories": []
+}

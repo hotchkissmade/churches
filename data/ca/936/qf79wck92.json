@@ -1,0 +1,33 @@
+{
+  "id": "qf79wck92",
+  "url": "https://constellation.church/qf79wck92",
+  "name": "Assembly of God",
+  "displayName": "Assembly of God",
+  "address": {
+    "street": "2813 W Mount Whitney Ave",
+    "city": "Riverdale",
+    "state": "CA",
+    "zip": "93656"
+  },
+  "coordinates": {
+    "latitude": 36.4308273,
+    "longitude": -119.8481445
+  },
+  "website": "https://riverdaleassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=4ca09e9f-066f-4c69-8731-c88633e985d8&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "4ca09e9f-066f-4c69-8731-c88633e985d8"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "riverdaleassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "770017937"
+    }
+  ],
+  "advisories": []
+}

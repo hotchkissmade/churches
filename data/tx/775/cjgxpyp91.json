@@ -1,0 +1,33 @@
+{
+  "id": "cjgxpyp91",
+  "url": "https://constellation.church/cjgxpyp91",
+  "name": "First Baptist Church, Rosharon",
+  "displayName": "First Baptist Church, Rosharon",
+  "address": {
+    "street": "16211 2nd St",
+    "city": "Rosharon",
+    "state": "TX",
+    "zip": "77583"
+  },
+  "coordinates": {
+    "latitude": 29.353412628173828,
+    "longitude": -95.45914459228516
+  },
+  "website": "https://fbcrosharon.org",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-rosharon/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-rosharon"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcrosharon.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "760078153"
+    }
+  ],
+  "advisories": []
+}

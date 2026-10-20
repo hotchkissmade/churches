@@ -1,0 +1,33 @@
+{
+  "id": "hsfqgm651",
+  "url": "https://constellation.church/hsfqgm651",
+  "name": "First Assembly of God",
+  "displayName": "First Assembly of God",
+  "address": {
+    "street": "3401 S Houston St",
+    "city": "Kaufman",
+    "state": "TX",
+    "zip": "75142"
+  },
+  "coordinates": {
+    "latitude": 32.56861686706543,
+    "longitude": -96.31501007080078
+  },
+  "website": "https://kaufmanassembly.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a6a76e5a-b98e-4eac-bd8f-3881ea365256&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "a6a76e5a-b98e-4eac-bd8f-3881ea365256"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "kaufmanassembly.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "751850349"
+    }
+  ],
+  "advisories": []
+}

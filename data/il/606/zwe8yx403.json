@@ -1,0 +1,33 @@
+{
+  "id": "zwe8yx403",
+  "url": "https://constellation.church/zwe8yx403",
+  "name": "Real Church",
+  "displayName": "Real Church",
+  "address": {
+    "street": "2201 W Erie St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60612"
+  },
+  "coordinates": {
+    "latitude": 41.89296531677246,
+    "longitude": -87.6820297241211
+  },
+  "website": "https://realchicago.com",
+  "listingUrl": "https://churches.sbc.net/church/real-church-2/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "real-church-2"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "realchicago.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "371667868"
+    }
+  ],
+  "advisories": []
+}

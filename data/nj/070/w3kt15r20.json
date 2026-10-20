@@ -1,0 +1,37 @@
+{
+  "id": "w3kt15r20",
+  "url": "https://constellation.church/w3kt15r20",
+  "name": "Boonton United Methodist Church",
+  "displayName": "Boonton United Methodist Church",
+  "address": {
+    "street": "626 Lathrop Ave",
+    "city": "Boonton",
+    "state": "NJ",
+    "zip": "07005-2226"
+  },
+  "coordinates": {
+    "latitude": 40.904483795166016,
+    "longitude": -74.39520645141602
+  },
+  "website": "https://boontonumc.com",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMqwIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFMqwIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "boontonumc.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "222136351"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "262025922"
+    }
+  ],
+  "advisories": []
+}

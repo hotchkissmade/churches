@@ -1,0 +1,33 @@
+{
+  "id": "e5djs1f42",
+  "url": "https://constellation.church/e5djs1f42",
+  "name": "Hillside Church",
+  "displayName": "Hillside Church",
+  "address": {
+    "street": "502 S Victory Dr",
+    "city": "Mankato",
+    "state": "MN",
+    "zip": "56001"
+  },
+  "coordinates": {
+    "latitude": 44.15012741088867,
+    "longitude": -93.9683837890625
+  },
+  "website": "https://hillsidemankato.com",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=e6791297-8de0-4ea4-b311-dc399711e229&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "e6791297-8de0-4ea4-b311-dc399711e229"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hillsidemankato.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "411701452"
+    }
+  ],
+  "advisories": []
+}

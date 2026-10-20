@@ -1,0 +1,33 @@
+{
+  "id": "zq3f29t52",
+  "url": "https://constellation.church/zq3f29t52",
+  "name": "Bethel Baptist Church",
+  "displayName": "Bethel Baptist Church",
+  "address": {
+    "street": "4261 Bethel Overlook",
+    "city": "Ellicott City",
+    "state": "MD",
+    "zip": "21043"
+  },
+  "coordinates": {
+    "latitude": 39.25358009338379,
+    "longitude": -76.81658172607422
+  },
+  "website": "https://meetbethel.org",
+  "listingUrl": "https://churches.sbc.net/church/bethel-baptist-church-153/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "bethel-baptist-church-153"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "meetbethel.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "520847461"
+    }
+  ],
+  "advisories": []
+}

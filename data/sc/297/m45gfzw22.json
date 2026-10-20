@@ -1,0 +1,33 @@
+{
+  "id": "m45gfzw22",
+  "url": "https://constellation.church/m45gfzw22",
+  "name": "Northside Baptist Church",
+  "displayName": "Northside Baptist Church",
+  "address": {
+    "street": "1140 Curtis St",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29730"
+  },
+  "coordinates": {
+    "latitude": 34.935791015625,
+    "longitude": -81.01130294799805
+  },
+  "website": "https://nbcrh.org",
+  "listingUrl": "https://churches.sbc.net/church/northside-baptist-church-28/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "northside-baptist-church-28"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "nbcrh.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "570407073"
+    }
+  ],
+  "advisories": []
+}

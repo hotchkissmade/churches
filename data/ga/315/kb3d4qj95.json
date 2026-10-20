@@ -1,0 +1,33 @@
+{
+  "id": "kb3d4qj95",
+  "url": "https://constellation.church/kb3d4qj95",
+  "name": "First Baptist Church of St. Marys, Inc.",
+  "displayName": "First Baptist Church of St. Marys",
+  "address": {
+    "street": "102 W Weed St",
+    "city": "Saint Marys",
+    "state": "GA",
+    "zip": "31558"
+  },
+  "coordinates": {
+    "latitude": 30.723642349243164,
+    "longitude": -81.54866027832031
+  },
+  "website": "https://fbcstmarys.com",
+  "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-st-marys-inc/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "first-baptist-church-of-st-marys-inc"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fbcstmarys.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "581196214"
+    }
+  ],
+  "advisories": []
+}

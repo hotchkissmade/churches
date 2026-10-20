@@ -1,0 +1,33 @@
+{
+  "id": "w9jv89g89",
+  "url": "https://constellation.church/w9jv89g89",
+  "name": "Salem Lutheran Church",
+  "displayName": "Salem Lutheran Church",
+  "address": {
+    "street": "899 Salem Rd",
+    "city": "Selinsgrove",
+    "state": "PA",
+    "zip": "17870-8750"
+  },
+  "coordinates": {
+    "latitude": 40.81400108337402,
+    "longitude": -76.9029312133789
+  },
+  "website": "https://salemlutheranchurchselinsgrove.com",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8c971e53-1005-41cd-a8cd-709c2d2ccdb3",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8c971e53-1005-41cd-a8cd-709c2d2ccdb3"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "salemlutheranchurchselinsgrove.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "236393119"
+    }
+  ],
+  "advisories": []
+}

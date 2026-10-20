@@ -1,0 +1,33 @@
+{
+  "id": "rkcw4te20",
+  "url": "https://constellation.church/rkcw4te20",
+  "name": "Hartsville Presbyterian Church",
+  "displayName": "Hartsville Presbyterian Church",
+  "address": {
+    "street": "961 Russell Road",
+    "city": "Hartsville",
+    "state": "SC",
+    "zip": "29550"
+  },
+  "coordinates": {
+    "latitude": 34.349761962890625,
+    "longitude": -80.09209060668945
+  },
+  "website": "https://hartsvillepca.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/4790",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "4790"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "hartsvillepca.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "341997186"
+    }
+  ],
+  "advisories": []
+}

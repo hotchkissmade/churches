@@ -1,0 +1,33 @@
+{
+  "id": "sbvw7jx34",
+  "url": "https://constellation.church/sbvw7jx34",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "30 N. Alabama Avenue",
+    "city": "Weaverville",
+    "state": "NC",
+    "zip": "28787"
+  },
+  "coordinates": {
+    "latitude": 35.69868278503418,
+    "longitude": -82.56216049194336
+  },
+  "website": "https://fpcweaverville.org",
+  "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/421",
+  "identifiers": [
+    {
+      "namespace": "org.pcanet.presbyteryportal.id",
+      "value": "421"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "fpcweaverville.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "560684817"
+    }
+  ],
+  "advisories": []
+}

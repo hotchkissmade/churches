@@ -1,0 +1,33 @@
+{
+  "id": "htaw8xe49",
+  "url": "https://constellation.church/htaw8xe49",
+  "name": "Mountain View United Methodist Church",
+  "displayName": "Mountain View United Methodist Church",
+  "address": {
+    "street": "355 Ponca Place",
+    "city": "Boulder",
+    "state": "CO",
+    "zip": "80303-3801"
+  },
+  "coordinates": {
+    "latitude": 39.99377632141113,
+    "longitude": -105.23558807373047
+  },
+  "website": "https://mtview.org",
+  "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFNrfIAH",
+  "identifiers": [
+    {
+      "namespace": "org.umc.id",
+      "value": "001Um00000PFNrfIAH"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mtview.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "840531078"
+    }
+  ],
+  "advisories": []
+}

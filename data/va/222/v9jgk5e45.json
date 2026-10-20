@@ -1,0 +1,33 @@
+{
+  "id": "v9jgk5e45",
+  "url": "https://constellation.church/v9jgk5e45",
+  "name": "Faith Lutheran Church",
+  "displayName": "Faith Lutheran Church",
+  "address": {
+    "street": "3313 Arlington Blvd",
+    "city": "Arlington",
+    "state": "VA",
+    "zip": "22201-1311"
+  },
+  "coordinates": {
+    "latitude": 38.87266540527344,
+    "longitude": -77.09596252441406
+  },
+  "website": "https://flcva.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8fd401ab-05ff-4486-8daf-daeff7c8e83b",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "8fd401ab-05ff-4486-8daf-daeff7c8e83b"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "flcva.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "540506310"
+    }
+  ],
+  "advisories": []
+}

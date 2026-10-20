@@ -1,0 +1,33 @@
+{
+  "id": "j5p2wkx50",
+  "url": "https://constellation.church/j5p2wkx50",
+  "name": "Muddy Creek Lutheran Church",
+  "displayName": "Muddy Creek Lutheran Church",
+  "address": {
+    "street": "11 S Muddy Creek Rd",
+    "city": "Denver",
+    "state": "PA",
+    "zip": "17517-9605"
+  },
+  "coordinates": {
+    "latitude": 40.227529525756836,
+    "longitude": -76.08502578735352
+  },
+  "website": "https://mclchurch.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=cfb6d06c-c006-4c4c-8c97-5a7445deaa33",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "cfb6d06c-c006-4c4c-8c97-5a7445deaa33"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "mclchurch.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "231457980"
+    }
+  ],
+  "advisories": []
+}

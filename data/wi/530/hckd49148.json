@@ -1,0 +1,33 @@
+{
+  "id": "hckd49148",
+  "url": "https://constellation.church/hckd49148",
+  "name": "Galilee Lutheran Church",
+  "displayName": "Galilee Lutheran Church",
+  "address": {
+    "street": "N24W26430 Crestview Dr",
+    "city": "Pewaukee",
+    "state": "WI",
+    "zip": "53072-4502"
+  },
+  "coordinates": {
+    "latitude": 43.07072639465332,
+    "longitude": -88.27357482910156
+  },
+  "website": "https://galileelc.org",
+  "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ae9354e8-f29e-4586-8b7d-824718b2eb92",
+  "identifiers": [
+    {
+      "namespace": "org.elca.id",
+      "value": "ae9354e8-f29e-4586-8b7d-824718b2eb92"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "galileelc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "391304104"
+    }
+  ],
+  "advisories": []
+}

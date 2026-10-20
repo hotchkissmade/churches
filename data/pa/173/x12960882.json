@@ -1,0 +1,33 @@
+{
+  "id": "x12960882",
+  "url": "https://constellation.church/x12960882",
+  "name": "Life Discovery Church",
+  "displayName": "Life Discovery Church",
+  "address": {
+    "street": "414 Main St",
+    "city": "McSherrystown",
+    "state": "PA",
+    "zip": "17344"
+  },
+  "coordinates": {
+    "latitude": 39.804731369018555,
+    "longitude": -77.01681137084961
+  },
+  "website": "https://lifediscovery.org",
+  "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=44d590ff-0219-4902-938d-2361d3dc0803&d=False",
+  "identifiers": [
+    {
+      "namespace": "org.ag.id",
+      "value": "44d590ff-0219-4902-938d-2361d3dc0803"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "lifediscovery.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "863627646"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "eqmzqdr65",
+  "url": "https://constellation.church/eqmzqdr65",
+  "name": "Village Church",
+  "displayName": "Village Church",
+  "address": {
+    "street": "330 Southwest Murray Boulevard",
+    "city": "Beaverton",
+    "state": "OR",
+    "zip": "97005"
+  },
+  "coordinates": {
+    "latitude": 45.516971588134766,
+    "longitude": -122.8166732788086
+  },
+  "website": "https://villagebeaverton.com",
+  "listingUrl": "https://venturechurches.org/churches/village-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "org.venturechurches.id",
+      "value": "village-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "villagebeaverton.com"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "936035652"
+    }
+  ],
+  "advisories": []
+}

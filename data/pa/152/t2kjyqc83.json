@@ -1,0 +1,33 @@
+{
+  "id": "t2kjyqc83",
+  "url": "https://constellation.church/t2kjyqc83",
+  "name": "Pittsburgh Baptist Church",
+  "displayName": "Pittsburgh Baptist Church",
+  "address": {
+    "street": "3100 Pioneer Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15226"
+  },
+  "coordinates": {
+    "latitude": 40.395477294921875,
+    "longitude": -80.03051376342773
+  },
+  "website": "https://pittsburghbaptist.org",
+  "listingUrl": "https://churches.sbc.net/church/pittsburgh-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "pittsburgh-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "pittsburghbaptist.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "251090180"
+    }
+  ],
+  "advisories": []
+}

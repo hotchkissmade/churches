@@ -1,0 +1,33 @@
+{
+  "id": "hf9v8sy89",
+  "url": "https://constellation.church/hf9v8sy89",
+  "name": "First Presbyterian Church",
+  "displayName": "First Presbyterian Church",
+  "address": {
+    "street": "1432 Washtenaw Ave",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "zip": "48104"
+  },
+  "coordinates": {
+    "latitude": 42.273685455322266,
+    "longitude": -83.7310676574707
+  },
+  "website": "https://aatpc.net",
+  "listingUrl": "https://church-trends.pcusa.org/church/3113/overview/",
+  "identifiers": [
+    {
+      "namespace": "org.pcusa.church-trends.id",
+      "value": "3113"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "aatpc.net"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "382200182"
+    }
+  ],
+  "advisories": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "c8nn7j538",
+  "url": "https://constellation.church/c8nn7j538",
+  "name": "Temple Baptist Church",
+  "displayName": "Temple Baptist Church",
+  "address": {
+    "street": "2813 E Hwy 390",
+    "city": "Panama City",
+    "state": "FL",
+    "zip": "32405"
+  },
+  "coordinates": {
+    "latitude": 30.233646392822266,
+    "longitude": -85.62117385864258
+  },
+  "website": "https://templepc.org",
+  "listingUrl": "https://churches.sbc.net/church/temple-baptist-church/",
+  "identifiers": [
+    {
+      "namespace": "net.sbc.churches.id",
+      "value": "temple-baptist-church"
+    },
+    {
+      "namespace": "church.constellation.site",
+      "value": "templepc.org"
+    },
+    {
+      "namespace": "gov.irs.ein",
+      "value": "592152178"
+    }
+  ],
+  "advisories": []
+}
