@@ -13,7 +13,7 @@
     "latitude": 37.52792930603027,
     "longitude": -121.96233367919922
   },
-  "website": "https://goodshepherdfremont.org",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=bdaee9a4-f3cf-43af-b733-2762947beaf1",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "bdaee9a4-f3cf-43af-b733-2762947beaf1"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "goodshepherdfremont.org"
+      "namespace": "com.facebook.page",
+      "value": "gssam.fremontca"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 43.350502014160156,
     "longitude": -90.41297149658203
   },
-  "website": "https://gvfwag.org",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=bc588473-bb11-496f-92e9-444d52a4b852&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "bc588473-bb11-496f-92e9-444d52a4b852"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "gvfwag.org"
+      "namespace": "com.facebook.page",
+      "value": "gvfwag"
     },
     {
       "namespace": "gov.irs.ein",

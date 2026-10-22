@@ -13,7 +13,7 @@
     "latitude": 31.869853973388672,
     "longitude": -85.1519546508789
   },
-  "website": "https://eufaulafirstag.org",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=c3ff7003-2ae3-45a6-a6b0-99aae6552331&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "c3ff7003-2ae3-45a6-a6b0-99aae6552331"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "eufaulafirstag.org"
+      "namespace": "com.facebook.page",
+      "value": "eufaulafirst"
     },
     {
       "namespace": "gov.irs.ein",

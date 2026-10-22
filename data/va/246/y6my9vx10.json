@@ -13,7 +13,7 @@
     "latitude": 37.09453582763672,
     "longitude": -81.79922485351562
   },
-  "website": "https://fccrichlandsva.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "541131571"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "fccrichlandsva.org"
+      "namespace": "com.facebook.page",
+      "value": "fccrichlandsva"
     }
   ],
   "advisories": []

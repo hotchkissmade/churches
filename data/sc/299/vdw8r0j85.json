@@ -13,7 +13,7 @@
     "latitude": 32.44765281677246,
     "longitude": -80.73042297363281
   },
-  "website": "https://lccministry.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "571087266"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "lccministry.com"
+      "namespace": "com.facebook.page",
+      "value": "lccministry"
     }
   ],
   "advisories": []

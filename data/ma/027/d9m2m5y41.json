@@ -13,7 +13,7 @@
     "latitude": 41.9538516998291,
     "longitude": -71.2681770324707
   },
-  "website": "https://aacchurch.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "043204334"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "aacchurch.com"
+      "namespace": "com.facebook.page",
+      "value": "aacchurch"
     }
   ],
   "advisories": []

@@ -13,7 +13,7 @@
     "latitude": 33.48253059387207,
     "longitude": -89.72966766357422
   },
-  "website": "https://fpcwinona.org",
+  "website": null,
   "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/441",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "441"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "fpcwinona.org"
+      "namespace": "com.facebook.page",
+      "value": "fpcwinona"
     },
     {
       "namespace": "gov.irs.ein",

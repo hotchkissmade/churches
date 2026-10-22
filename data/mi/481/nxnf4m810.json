@@ -13,7 +13,7 @@
     "latitude": 41.749162673950195,
     "longitude": -83.61392974853516
   },
-  "website": "https://ctkbedford.org",
+  "website": null,
   "listingUrl": "https://locator.lcms.org/church/C/493994",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "493994"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "ctkbedford.org"
+      "namespace": "com.facebook.page",
+      "value": "ctkbedford"
     },
     {
       "namespace": "gov.irs.ein",

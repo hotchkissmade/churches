@@ -13,7 +13,7 @@
     "latitude": 45.16984939575195,
     "longitude": -98.95014190673828
   },
-  "website": "https://concordiacresbard.org",
+  "website": null,
   "listingUrl": "https://locator.lcms.org/church/C/212284",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "212284"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "concordiacresbard.org"
+      "namespace": "com.facebook.page",
+      "value": "concordiacresbard"
     },
     {
       "namespace": "gov.irs.ein",

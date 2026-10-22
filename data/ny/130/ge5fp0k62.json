@@ -13,7 +13,7 @@
     "latitude": 42.931419372558594,
     "longitude": -75.85426712036133
   },
-  "website": "https://cazvbc.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "161125347"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "cazvbc.org"
+      "namespace": "com.facebook.page",
+      "value": "cazvbc"
     }
   ],
   "advisories": []

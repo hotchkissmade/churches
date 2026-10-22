@@ -13,7 +13,7 @@
     "latitude": 32.4433650970459,
     "longitude": -99.78533172607422
   },
-  "website": "https://oursaviorabilene.org",
+  "website": null,
   "listingUrl": "https://locator.lcms.org/church/C/1359",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "1359"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "oursaviorabilene.org"
+      "namespace": "com.facebook.page",
+      "value": "oursaviorabilene"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 40.8841433,
     "longitude": -97.8861436
   },
-  "website": "https://hamptonlutheran.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "470527509"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "hamptonlutheran.org"
+      "namespace": "com.facebook.page",
+      "value": "hamptonlutheran"
     }
   ],
   "advisories": []

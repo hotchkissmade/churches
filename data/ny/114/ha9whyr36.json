@@ -13,7 +13,7 @@
     "latitude": 40.70028114318848,
     "longitude": -73.78280258178711
   },
-  "website": "https://stpaulumcny.org",
+  "website": null,
   "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFLK3IAP",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "001Um00000PFLK3IAP"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "stpaulumcny.org"
+      "namespace": "com.facebook.page",
+      "value": "spumcny"
     },
     {
       "namespace": "gov.irs.ein",

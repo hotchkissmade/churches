@@ -13,7 +13,7 @@
     "latitude": 30.192829132080078,
     "longitude": -82.63738632202148
   },
-  "website": "https://fthol.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "562670379"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "fthol.org"
+      "namespace": "com.facebook.page",
+      "value": "fthol"
     }
   ],
   "advisories": []

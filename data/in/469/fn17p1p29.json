@@ -13,7 +13,7 @@
     "latitude": 40.4825382232666,
     "longitude": -86.39437103271484
   },
-  "website": "https://burlingtoncoc.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "356034861"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "burlingtoncoc.org"
+      "namespace": "com.facebook.page",
+      "value": "burlingtoncoc"
     }
   ],
   "advisories": []

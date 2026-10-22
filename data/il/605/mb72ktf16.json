@@ -13,7 +13,7 @@
     "latitude": 41.48124694824219,
     "longitude": -88.4818344116211
   },
-  "website": "https://lisbonblc.org",
+  "website": null,
   "listingUrl": "https://www.aflc.org/location/lisbon-bethlehem-ev-lutheran-church/",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "411"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "lisbonblc.org"
+      "namespace": "com.facebook.page",
+      "value": "lisbonblc"
     },
     {
       "namespace": "gov.irs.ein",

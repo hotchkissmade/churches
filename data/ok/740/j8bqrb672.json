@@ -13,7 +13,7 @@
     "latitude": 35.983530044555664,
     "longitude": -96.13789367675781
   },
-  "website": "https://southheightschurch.org",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=6b3bdba1-9705-4b0f-a7fd-ef4d393d926d&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "6b3bdba1-9705-4b0f-a7fd-ef4d393d926d"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "southheightschurch.org"
+      "namespace": "com.facebook.page",
+      "value": "southheightschurch"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 43.076053619384766,
     "longitude": -87.9140853881836
   },
-  "website": "https://emfwc.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "391287366"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "emfwc.org"
+      "namespace": "com.facebook.page",
+      "value": "emfwc"
     }
   ],
   "advisories": []

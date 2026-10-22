@@ -13,7 +13,7 @@
     "latitude": 34.81272315979004,
     "longitude": -79.07992935180664
   },
-  "website": "https://openarms-aog.org",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=11fe76ca-98b4-4837-852f-baadfc2b1d5c&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "11fe76ca-98b4-4837-852f-baadfc2b1d5c"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "openarms-aog.org"
+      "namespace": "com.facebook.page",
+      "value": "oaaog"
     },
     {
       "namespace": "gov.irs.ein",

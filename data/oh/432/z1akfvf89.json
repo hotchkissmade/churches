@@ -13,7 +13,7 @@
     "latitude": 40.06199645996094,
     "longitude": -82.99007415771484
   },
-  "website": "https://dominionfmi.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "680588245"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "dominionfmi.org"
+      "namespace": "com.facebook.page",
+      "value": "dominionfmi"
     }
   ],
   "advisories": []

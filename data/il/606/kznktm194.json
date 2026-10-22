@@ -13,7 +13,7 @@
     "latitude": 41.97618293762207,
     "longitude": -87.69684600830078
   },
-  "website": "https://immanuelcov.org",
+  "website": null,
   "listingUrl": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=19426",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "19426"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "immanuelcov.org"
+      "namespace": "com.facebook.page",
+      "value": "immanuelcov"
     },
     {
       "namespace": "gov.irs.ein",

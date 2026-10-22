@@ -13,7 +13,7 @@
     "latitude": 42.26568412780762,
     "longitude": -89.08794403076172
   },
-  "website": "https://firstlutheranrockford.com",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7bd0445f-6f02-4bc1-a538-6f624c9d81b1",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "7bd0445f-6f02-4bc1-a538-6f624c9d81b1"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "firstlutheranrockford.com"
+      "namespace": "com.facebook.page",
+      "value": "firstlutheranrockford"
     },
     {
       "namespace": "gov.irs.ein",

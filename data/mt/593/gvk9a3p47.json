@@ -13,7 +13,7 @@
     "latitude": 45.43297576904297,
     "longitude": -105.40924072265625
   },
-  "website": "https://broadusag.org",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=cfb9db7d-efe7-43e3-8919-b094a106e604&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "cfb9db7d-efe7-43e3-8919-b094a106e604"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "broadusag.org"
+      "namespace": "com.facebook.page",
+      "value": "100069341614307"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 36.16812515258789,
     "longitude": -115.13441467285156
   },
-  "website": "https://cotslv.com",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a5875dd5-309a-4818-8a63-6bbc3ac4605c&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "a5875dd5-309a-4818-8a63-6bbc3ac4605c"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "cotslv.com"
+      "namespace": "com.facebook.page",
+      "value": "cotslv"
     },
     {
       "namespace": "gov.irs.ein",

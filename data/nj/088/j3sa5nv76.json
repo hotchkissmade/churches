@@ -13,7 +13,7 @@
     "latitude": 40.56753921508789,
     "longitude": -74.63333129882812
   },
-  "website": "https://stpaulraritan.org",
+  "website": null,
   "listingUrl": "https://locator.lcms.org/church/C/754111",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "754111"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "stpaulraritan.org"
+      "namespace": "com.facebook.page",
+      "value": "stpaulraritan"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 38.898881912231445,
     "longitude": -76.97551727294922
   },
-  "website": "https://opendoorchurchdc.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "900622109"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "opendoorchurchdc.org"
+      "namespace": "com.facebook.page",
+      "value": "opendoorchurchdc"
     }
   ],
   "advisories": []

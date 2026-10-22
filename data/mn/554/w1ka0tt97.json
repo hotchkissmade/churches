@@ -13,7 +13,7 @@
     "latitude": 44.9319587,
     "longitude": -93.2761378
   },
-  "website": "https://pilgrimminneapolis.org",
+  "website": null,
   "listingUrl": "https://yearbook.wels.net/unitpage/24464",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "24464"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "pilgrimminneapolis.org"
+      "namespace": "com.facebook.page",
+      "value": "pilgrimminneapolis"
     },
     {
       "namespace": "gov.irs.ein",

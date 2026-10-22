@@ -13,7 +13,7 @@
     "latitude": 31.604328155517578,
     "longitude": -85.70491790771484
   },
-  "website": "https://bethelariton.org",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=48f1d163-fb96-468e-bafe-f42d464455e7&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "48f1d163-fb96-468e-bafe-f42d464455e7"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "bethelariton.org"
+      "namespace": "com.facebook.page",
+      "value": "bethelagariton"
     },
     {
       "namespace": "gov.irs.ein",

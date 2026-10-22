@@ -13,7 +13,7 @@
     "latitude": 32.45950508117676,
     "longitude": -81.43321990966797
   },
-  "website": "https://tbb.church",
+  "website": null,
   "listingUrl": "https://churches.sbc.net/church/turkey-branch-baptist-church/",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "turkey-branch-baptist-church"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "tbb.church"
+      "namespace": "com.facebook.page",
+      "value": "thetbbc"
     },
     {
       "namespace": "gov.irs.ein",

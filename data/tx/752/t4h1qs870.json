@@ -13,7 +13,7 @@
     "latitude": 32.75324058532715,
     "longitude": -96.8341064453125
   },
-  "website": "https://historic.church",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "823357955"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "historic.church"
+      "namespace": "com.facebook.page",
+      "value": "historicchurchdallas"
     }
   ],
   "advisories": []

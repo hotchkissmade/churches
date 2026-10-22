@@ -13,7 +13,7 @@
     "latitude": 40.982460021972656,
     "longitude": -95.10014343261719
   },
-  "website": "https://mamrelund.com",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f1c09465-f208-41a1-8114-92a404a80433",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "f1c09465-f208-41a1-8114-92a404a80433"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "mamrelund.com"
+      "namespace": "com.facebook.page",
+      "value": "mamrelund"
     },
     {
       "namespace": "gov.irs.ein",

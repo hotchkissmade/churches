@@ -13,7 +13,7 @@
     "latitude": 42.19751167297363,
     "longitude": -89.03406524658203
   },
-  "website": "https://laoefc.org",
+  "website": null,
   "listingUrl": "https://churches.efca.org/?id=173571",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "173571"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "laoefc.org"
+      "namespace": "com.facebook.page",
+      "value": "mylefc"
     },
     {
       "namespace": "gov.irs.ein",

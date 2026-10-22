@@ -13,7 +13,7 @@
     "latitude": 37.584280014038086,
     "longitude": -77.46372604370117
   },
-  "website": "https://cachurch.net",
+  "website": null,
   "listingUrl": "https://www.episcopalassetmap.org/dioceses/diocese-virginia/list/christ-ascension-church",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "diocese-virginia/christ-ascension-church"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "cachurch.net"
+      "namespace": "com.facebook.page",
+      "value": "christascension"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 45.46379089355469,
     "longitude": -91.12810897827148
   },
-  "website": "https://livingwatersbruce.com",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=31a71e3a-3d35-4813-a4d4-1ba60916dadc&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "31a71e3a-3d35-4813-a4d4-1ba60916dadc"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "livingwatersbruce.com"
+      "namespace": "com.facebook.page",
+      "value": "livingwatersbruce"
     },
     {
       "namespace": "gov.irs.ein",

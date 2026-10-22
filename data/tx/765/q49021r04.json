@@ -13,7 +13,7 @@
     "latitude": 30.86188507080078,
     "longitude": -96.97289276123047
   },
-  "website": "https://cameronag.org",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=c3a12821-9c12-4f11-9b77-2b01c681b2e9&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "c3a12821-9c12-4f11-9b77-2b01c681b2e9"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "cameronag.org"
+      "namespace": "com.facebook.page",
+      "value": "firstassemblycameron"
     },
     {
       "namespace": "gov.irs.ein",

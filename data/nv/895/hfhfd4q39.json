@@ -13,7 +13,7 @@
     "latitude": 39.49882507324219,
     "longitude": -119.79733276367188
   },
-  "website": "https://mypraise.org/contact",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=c9129d2f-1f15-4c1e-9adc-c2b3d44794d0&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "c9129d2f-1f15-4c1e-9adc-c2b3d44794d0"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "mypraise.org/contact"
+      "namespace": "com.facebook.page",
+      "value": "praiseandworshipfellowship"
     },
     {
       "namespace": "gov.irs.ein",

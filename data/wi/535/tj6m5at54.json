@@ -13,7 +13,7 @@
     "latitude": 42.64948272705078,
     "longitude": -89.04459381103516
   },
-  "website": "https://oursaviorlcms.org",
+  "website": null,
   "listingUrl": "https://locator.lcms.org/church/C/457279",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "457279"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "oursaviorlcms.org"
+      "namespace": "com.facebook.page",
+      "value": "oursaviorlcms"
     },
     {
       "namespace": "gov.irs.ein",

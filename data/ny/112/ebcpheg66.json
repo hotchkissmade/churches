@@ -13,7 +13,7 @@
     "latitude": 40.67623710632324,
     "longitude": -73.90558242797852
   },
-  "website": "https://ucacny.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "510180778"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "ucacny.org"
+      "namespace": "com.facebook.page",
+      "value": "ucacny"
     }
   ],
   "advisories": []

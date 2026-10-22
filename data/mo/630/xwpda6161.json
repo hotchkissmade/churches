@@ -13,7 +13,7 @@
     "latitude": 38.3671817779541,
     "longitude": -90.97309494018555
   },
-  "website": "https://htlcstc.org",
+  "website": null,
   "listingUrl": "https://locator.lcms.org/church/C/792792",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "792792"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "htlcstc.org"
+      "namespace": "com.facebook.page",
+      "value": "htlcstc"
     },
     {
       "namespace": "gov.irs.ein",

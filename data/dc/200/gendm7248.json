@@ -13,7 +13,7 @@
     "latitude": 38.9236946105957,
     "longitude": -76.98921203613281
   },
-  "website": "https://lldmdc.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "521495044"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "lldmdc.org"
+      "namespace": "com.facebook.page",
+      "value": "lldmdc"
     }
   ],
   "advisories": []

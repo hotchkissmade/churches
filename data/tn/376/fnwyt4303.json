@@ -13,7 +13,7 @@
     "latitude": 36.58011054992676,
     "longitude": -82.4339828491211
   },
-  "website": "https://arcadiapca.com",
+  "website": null,
   "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/72",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "72"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "arcadiapca.com"
+      "namespace": "com.facebook.page",
+      "value": "arcadiapca"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 41.73610305786133,
     "longitude": -87.73885345458984
   },
-  "website": "https://chicagodistrict.copusa.church",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "273327024"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "chicagodistrict.copusa.church"
+      "namespace": "com.facebook.page",
+      "value": "chicagodistrict"
     }
   ],
   "advisories": []

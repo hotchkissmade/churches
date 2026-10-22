@@ -13,7 +13,7 @@
     "latitude": 33.149770736694336,
     "longitude": -94.96267700195312
   },
-  "website": "https://dellwoodparkag.com",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=ffc14c0b-6010-4131-8a08-2c77a64c360f&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "ffc14c0b-6010-4131-8a08-2c77a64c360f"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "dellwoodparkag.com"
+      "namespace": "com.facebook.page",
+      "value": "dellwoodparkag"
     },
     {
       "namespace": "gov.irs.ein",

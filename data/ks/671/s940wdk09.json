@@ -13,7 +13,7 @@
     "latitude": 37.65320014953613,
     "longitude": -98.72647857666016
   },
-  "website": "https://prattfmc.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "480959562"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "prattfmc.org"
+      "namespace": "com.facebook.page",
+      "value": "prattfmc"
     }
   ],
   "advisories": []

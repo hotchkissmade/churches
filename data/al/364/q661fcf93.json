@@ -13,7 +13,7 @@
     "latitude": 31.08800506591797,
     "longitude": -87.06150817871094
   },
-  "website": "https://mybrewtonfirst.org",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d8e5e8d0-3ebd-48d5-9c91-e6a34c8336a2&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "d8e5e8d0-3ebd-48d5-9c91-e6a34c8336a2"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "mybrewtonfirst.org"
+      "namespace": "com.facebook.page",
+      "value": "mybrewtonfirst"
     },
     {
       "namespace": "gov.irs.ein",

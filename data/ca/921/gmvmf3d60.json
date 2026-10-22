@@ -13,7 +13,7 @@
     "latitude": 32.74495887756348,
     "longitude": -117.05703735351562
   },
-  "website": "https://vocsandiego.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "874813263"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "vocsandiego.com"
+      "namespace": "com.facebook.page",
+      "value": "vocsandiego"
     }
   ],
   "advisories": []

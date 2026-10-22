@@ -13,7 +13,7 @@
     "latitude": 43.17762756347656,
     "longitude": -77.57606506347656
   },
-  "website": "https://restlife.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "824949605"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "restlife.org"
+      "namespace": "com.facebook.page",
+      "value": "restlife"
     }
   ],
   "advisories": []

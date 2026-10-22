@@ -13,7 +13,7 @@
     "latitude": 34.14999961853027,
     "longitude": -114.29530334472656
   },
-  "website": "https://azmessiahlutheran.org",
+  "website": null,
   "listingUrl": "https://locator.lcms.org/church/C/697135",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "697135"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "azmessiahlutheran.org"
+      "namespace": "com.facebook.page",
+      "value": "azmessiahlutheran"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 43.14189147949219,
     "longitude": -91.77148818969727
   },
-  "website": "https://ossianlutheran.com",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=c92f191c-79ae-4c38-9a98-32d820455a1b",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "c92f191c-79ae-4c38-9a98-32d820455a1b"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "ossianlutheran.com"
+      "namespace": "com.facebook.page",
+      "value": "ossianlutheran"
     },
     {
       "namespace": "gov.irs.ein",

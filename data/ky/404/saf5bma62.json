@@ -13,7 +13,7 @@
     "latitude": 37.64935874938965,
     "longitude": -84.95061492919922
   },
-  "website": "https://fccperryville.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "610680843"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "fccperryville.com"
+      "namespace": "com.facebook.page",
+      "value": "fccperryville"
     }
   ],
   "advisories": []

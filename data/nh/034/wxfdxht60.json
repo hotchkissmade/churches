@@ -13,7 +13,7 @@
     "latitude": 42.76615905761719,
     "longitude": -72.03659439086914
   },
-  "website": "https://westrindgeumc.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "020417497"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "westrindgeumc.org"
+      "namespace": "com.facebook.page",
+      "value": "westrindgeumc"
     }
   ],
   "advisories": []

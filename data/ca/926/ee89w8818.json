@@ -13,7 +13,7 @@
     "latitude": 33.60027503967285,
     "longitude": -117.676025390625
   },
-  "website": "https://sothumc.org",
+  "website": null,
   "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PEnm0IAD",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "001Um00000PEnm0IAD"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "sothumc.org"
+      "namespace": "com.facebook.page",
+      "value": "shepherdrsm"
     },
     {
       "namespace": "gov.irs.ein",

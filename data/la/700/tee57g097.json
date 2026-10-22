@@ -13,7 +13,7 @@
     "latitude": 29.855497360229492,
     "longitude": -90.07096099853516
   },
-  "website": "https://coslcms.com",
+  "website": null,
   "listingUrl": "https://locator.lcms.org/church/C/401115",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "401115"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "coslcms.com"
+      "namespace": "com.facebook.page",
+      "value": "100064329653861"
     },
     {
       "namespace": "gov.irs.ein",

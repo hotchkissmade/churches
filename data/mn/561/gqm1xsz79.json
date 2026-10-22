@@ -13,7 +13,7 @@
     "latitude": 43.973127365112305,
     "longitude": -95.32093048095703
   },
-  "website": "https://amolutheran.org",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=dfe4ba94-8a09-4de9-b31c-f17f297b386d",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "dfe4ba94-8a09-4de9-b31c-f17f297b386d"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "amolutheran.org"
+      "namespace": "com.facebook.page",
+      "value": "amolutheran"
     },
     {
       "namespace": "gov.irs.ein",

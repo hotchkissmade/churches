@@ -13,7 +13,7 @@
     "latitude": 41.98577117919922,
     "longitude": -70.99043273925781
   },
-  "website": "https://fcagbridge.org",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=e333c63b-7257-4b5d-8dba-f59e8dc0240b&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "e333c63b-7257-4b5d-8dba-f59e8dc0240b"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "fcagbridge.org"
+      "namespace": "com.facebook.page",
+      "value": "100064749848729"
     },
     {
       "namespace": "gov.irs.ein",

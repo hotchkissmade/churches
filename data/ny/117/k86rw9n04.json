@@ -13,7 +13,7 @@
     "latitude": 40.86969757080078,
     "longitude": -73.00329971313477
   },
-  "website": "https://popchurches.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "113265686"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "popchurches.com"
+      "namespace": "com.facebook.page",
+      "value": "thepopchurch"
     }
   ],
   "advisories": []

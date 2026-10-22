@@ -13,7 +13,7 @@
     "latitude": 37.03518104553223,
     "longitude": -95.62279510498047
   },
-  "website": "https://splccoffeyville.org",
+  "website": null,
   "listingUrl": "https://locator.lcms.org/church/C/188117",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "188117"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "splccoffeyville.org"
+      "namespace": "com.facebook.page",
+      "value": "splccoffeyville"
     },
     {
       "namespace": "gov.irs.ein",

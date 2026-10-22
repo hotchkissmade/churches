@@ -13,7 +13,7 @@
     "latitude": 42.92798614501953,
     "longitude": -85.66249465942383
   },
-  "website": "https://koreangracecrc.net",
+  "website": null,
   "listingUrl": "https://www.crcna.org/churches/3950",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "3950"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "koreangracecrc.net"
+      "namespace": "com.facebook.page",
+      "value": "koreangracecrc"
     },
     {
       "namespace": "gov.irs.ein",

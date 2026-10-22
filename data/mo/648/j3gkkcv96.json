@@ -13,7 +13,7 @@
     "latitude": 36.98682975769043,
     "longitude": -94.53304290771484
   },
-  "website": "https://scbcjoplin.com",
+  "website": null,
   "listingUrl": "https://churches.sbc.net/church/spring-city-baptist-church/",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "spring-city-baptist-church"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "scbcjoplin.com"
+      "namespace": "com.facebook.page",
+      "value": "springcitybaptist"
     },
     {
       "namespace": "gov.irs.ein",

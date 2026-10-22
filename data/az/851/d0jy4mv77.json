@@ -13,7 +13,7 @@
     "latitude": 32.90575981140137,
     "longitude": -111.74958801269531
   },
-  "website": "https://nazarenecg.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "237374372"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "nazarenecg.org"
+      "namespace": "com.facebook.page",
+      "value": "nazarenecg"
     }
   ],
   "advisories": []

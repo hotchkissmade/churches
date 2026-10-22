@@ -13,7 +13,7 @@
     "latitude": 29.880138397216797,
     "longitude": -90.1282844543457
   },
-  "website": "https://mciworshipcenter.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "721123205"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "mciworshipcenter.org"
+      "namespace": "com.facebook.page",
+      "value": "mciworshipcenter"
     }
   ],
   "advisories": []

@@ -13,7 +13,7 @@
     "latitude": 42.059669494628906,
     "longitude": -75.41482925415039
   },
-  "website": "https://maplelaneag.com/home",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=8a9d96e1-5ad1-49ff-a875-fde6d5a09cb5&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "8a9d96e1-5ad1-49ff-a875-fde6d5a09cb5"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "maplelaneag.com/home"
+      "namespace": "com.facebook.page",
+      "value": "maplelaneagchurch"
     },
     {
       "namespace": "gov.irs.ein",

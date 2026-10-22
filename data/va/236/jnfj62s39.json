@@ -13,7 +13,7 @@
     "latitude": 37.123260498046875,
     "longitude": -76.53255081176758
   },
-  "website": "https://lppva.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "800950172"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "lppva.com"
+      "namespace": "com.facebook.page",
+      "value": "lppva"
     }
   ],
   "advisories": []

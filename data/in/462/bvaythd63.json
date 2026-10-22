@@ -13,7 +13,7 @@
     "latitude": 39.7803574,
     "longitude": -86.3183902
   },
-  "website": "https://indyicc.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "842376936"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "indyicc.org"
+      "namespace": "com.facebook.page",
+      "value": "indyicc"
     }
   ],
   "advisories": []

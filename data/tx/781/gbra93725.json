@@ -13,7 +13,7 @@
     "latitude": 28.92217254638672,
     "longitude": -97.61397552490234
   },
-  "website": "https://stpaulnordheim.org",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6c73bd55-4ad7-42e5-8554-f5f4cb6f5dad",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "6c73bd55-4ad7-42e5-8554-f5f4cb6f5dad"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "stpaulnordheim.org"
+      "namespace": "com.facebook.page",
+      "value": "stpaulnordheim"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 42.99601745605469,
     "longitude": -82.48699569702148
   },
-  "website": "https://wbcph.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "382294427"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "wbcph.com"
+      "namespace": "com.facebook.page",
+      "value": "wbcph"
     }
   ],
   "advisories": []

@@ -13,7 +13,7 @@
     "latitude": 32.76859092712402,
     "longitude": -96.76763916015625
   },
-  "website": "https://warrenumcdallas.org",
+  "website": null,
   "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PEyKEIA1",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "001Um00000PEyKEIA1"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "warrenumcdallas.org"
+      "namespace": "com.facebook.page",
+      "value": "warrenumcdallas"
     },
     {
       "namespace": "gov.irs.ein",

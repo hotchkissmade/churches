@@ -13,7 +13,7 @@
     "latitude": 34.97031593322754,
     "longitude": -101.91773223876953
   },
-  "website": "https://canyonfirst.org",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=50eb6ca9-7951-4584-825c-ea03a304cf26&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "50eb6ca9-7951-4584-825c-ea03a304cf26"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "canyonfirst.org"
+      "namespace": "com.facebook.page",
+      "value": "canyonfirstag"
     },
     {
       "namespace": "gov.irs.ein",

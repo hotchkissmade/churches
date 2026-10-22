@@ -13,7 +13,7 @@
     "latitude": 40.9255313873291,
     "longitude": -81.0192642211914
   },
-  "website": "https://sebringumc.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "341008185"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "sebringumc.com"
+      "namespace": "com.facebook.page",
+      "value": "sebringumc"
     }
   ],
   "advisories": []

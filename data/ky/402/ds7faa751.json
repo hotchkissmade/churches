@@ -13,7 +13,7 @@
     "latitude": 38.20403861999512,
     "longitude": -85.77994537353516
   },
-  "website": "https://mynewlifesda.org",
+  "website": null,
   "listingUrl": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=11398",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "11398"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "mynewlifesda.org"
+      "namespace": "com.facebook.page",
+      "value": "mynewlifesda"
     },
     {
       "namespace": "gov.irs.ein",

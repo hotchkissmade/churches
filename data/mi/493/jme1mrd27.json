@@ -13,7 +13,7 @@
     "latitude": 42.63240051269531,
     "longitude": -85.78058624267578
   },
-  "website": "https://stpaulshopkins.org",
+  "website": null,
   "listingUrl": "https://yearbook.wels.net/unitpage/24309",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "24309"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "stpaulshopkins.org"
+      "namespace": "com.facebook.page",
+      "value": "stpaulshopkins"
     },
     {
       "namespace": "gov.irs.ein",

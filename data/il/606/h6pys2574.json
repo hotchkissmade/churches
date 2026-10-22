@@ -13,7 +13,7 @@
     "latitude": 41.910552978515625,
     "longitude": -87.6949234008789
   },
-  "website": "https://mynewlifeorg.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "363012685"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "mynewlifeorg.org"
+      "namespace": "com.facebook.page",
+      "value": "mynewlifeorg"
     }
   ],
   "advisories": []

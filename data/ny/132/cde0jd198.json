@@ -13,7 +13,7 @@
     "latitude": 43.006086349487305,
     "longitude": -76.14456939697266
   },
-  "website": "https://alcsyracuse.org",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=167459fd-02ff-4329-90d2-7f1fa9de4066",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "167459fd-02ff-4329-90d2-7f1fa9de4066"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "alcsyracuse.org"
+      "namespace": "com.facebook.page",
+      "value": "alcsyracuse"
     },
     {
       "namespace": "gov.irs.ein",

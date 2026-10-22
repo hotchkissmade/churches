@@ -13,7 +13,7 @@
     "latitude": 28.581512451171875,
     "longitude": -81.28164672851562
   },
-  "website": "https://bcoochurch.com",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=23cff867-c861-45fc-93f7-0fcf85c81e2f&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "23cff867-c861-45fc-93f7-0fcf85c81e2f"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "bcoochurch.com"
+      "namespace": "com.facebook.page",
+      "value": "bcoochurch"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 41.45499038696289,
     "longitude": -89.66532135009766
   },
-  "website": "https://trinitymanlius.org",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=8aee5b3a-7af0-4732-9975-183be86b88bf",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "8aee5b3a-7af0-4732-9975-183be86b88bf"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "trinitymanlius.org"
+      "namespace": "com.facebook.page",
+      "value": "trinitymanlius"
     },
     {
       "namespace": "gov.irs.ein",

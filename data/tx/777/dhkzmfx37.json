@@ -13,7 +13,7 @@
     "latitude": 30.066909790039062,
     "longitude": -94.08586120605469
   },
-  "website": "https://nhdministries.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "760392511"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "nhdministries.org"
+      "namespace": "com.facebook.page",
+      "value": "nhdministries"
     }
   ],
   "advisories": []

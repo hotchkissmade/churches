@@ -13,7 +13,7 @@
     "latitude": 35.43222999572754,
     "longitude": -83.35984420776367
   },
-  "website": "https://whittierumc.org",
+  "website": null,
   "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMe0IAH",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "001Um00000PFMe0IAH"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "whittierumc.org"
+      "namespace": "com.facebook.page",
+      "value": "whittierumc"
     },
     {
       "namespace": "gov.irs.ein",

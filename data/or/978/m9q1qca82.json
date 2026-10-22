@@ -13,7 +13,7 @@
     "latitude": 45.673980712890625,
     "longitude": -118.79617309570312
   },
-  "website": "https://peaceinpendleton.com",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=add39b91-ad80-45ac-a09e-b331372534bb",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "add39b91-ad80-45ac-a09e-b331372534bb"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "peaceinpendleton.com"
+      "namespace": "com.facebook.page",
+      "value": "peaceinpendleton"
     },
     {
       "namespace": "gov.irs.ein",

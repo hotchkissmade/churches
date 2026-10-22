@@ -13,7 +13,7 @@
     "latitude": 37.32505416870117,
     "longitude": -95.2799072265625
   },
-  "website": "https://fccparsons.org",
+  "website": null,
   "listingUrl": "https://church-trends.pcusa.org/church/2781/overview/",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "2781"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "fccparsons.org"
+      "namespace": "com.facebook.page",
+      "value": "fccdisciplesofparsons"
     },
     {
       "namespace": "gov.irs.ein",

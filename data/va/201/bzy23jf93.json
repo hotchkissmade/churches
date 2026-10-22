@@ -13,7 +13,7 @@
     "latitude": 38.65315818786621,
     "longitude": -77.63591384887695
   },
-  "website": "https://catlettassembly.com",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=6ac9a6ca-4099-497e-849f-b90dac91240f&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "6ac9a6ca-4099-497e-849f-b90dac91240f"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "catlettassembly.com"
+      "namespace": "com.facebook.page",
+      "value": "catlettag"
     },
     {
       "namespace": "gov.irs.ein",

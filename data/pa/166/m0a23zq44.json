@@ -13,7 +13,7 @@
     "latitude": 40.33566474914551,
     "longitude": -78.40160369873047
   },
-  "website": "https://stlukers.com",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=6f14a079-0dc6-4364-ad01-7a0457b8c2fc",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "6f14a079-0dc6-4364-ad01-7a0457b8c2fc"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "stlukers.com"
+      "namespace": "com.facebook.page",
+      "value": "stlukers"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 41.202762603759766,
     "longitude": -90.43679809570312
   },
-  "website": "https://calvarynewwindsor.org",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=268c1795-9e54-4aeb-8ff3-987a09b4cca9",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "268c1795-9e54-4aeb-8ff3-987a09b4cca9"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "calvarynewwindsor.org"
+      "namespace": "com.facebook.page",
+      "value": "clcnw"
     },
     {
       "namespace": "gov.irs.ein",

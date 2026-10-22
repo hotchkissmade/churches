@@ -13,7 +13,7 @@
     "latitude": 40.94351577758789,
     "longitude": -80.7639274597168
   },
-  "website": "https://mylocustgrove.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "341276055"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "mylocustgrove.com"
+      "namespace": "com.facebook.page",
+      "value": "mylocustgrove"
     }
   ],
   "advisories": []

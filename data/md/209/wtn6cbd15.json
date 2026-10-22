@@ -13,7 +13,7 @@
     "latitude": 39.031612396240234,
     "longitude": -77.02157974243164
   },
-  "website": "https://covenantcbc.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "392057206"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "covenantcbc.org"
+      "namespace": "com.facebook.page",
+      "value": "covenantcbc"
     }
   ],
   "advisories": []

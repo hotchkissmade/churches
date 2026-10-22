@@ -13,7 +13,7 @@
     "latitude": 44.958953857421875,
     "longitude": -93.2657241821289
   },
-  "website": "https://messiahlutheranmpls.org",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=ccbae9ee-4ca5-4f6c-95cc-c255f1a954d6",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "ccbae9ee-4ca5-4f6c-95cc-c255f1a954d6"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "messiahlutheranmpls.org"
+      "namespace": "com.facebook.page",
+      "value": "messiahmpls"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 30.610469818115234,
     "longitude": -88.16056823730469
   },
-  "website": "https://oursavior-mobile.org",
+  "website": null,
   "listingUrl": "https://locator.lcms.org/church/C/600278",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "600278"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "oursavior-mobile.org"
+      "namespace": "com.facebook.page",
+      "value": "oursaviourmobile"
     },
     {
       "namespace": "gov.irs.ein",

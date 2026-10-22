@@ -13,7 +13,7 @@
     "latitude": 34.15299034118652,
     "longitude": -85.64583587646484
   },
-  "website": "https://jsdministry.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "260078827"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "jsdministry.org"
+      "namespace": "com.facebook.page",
+      "value": "jsdministry"
     }
   ],
   "advisories": []

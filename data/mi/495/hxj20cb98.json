@@ -13,7 +13,7 @@
     "latitude": 42.9023815,
     "longitude": -85.732953
   },
-  "website": "https://bogardgroup.com/contact-us",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "823136313"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "bogardgroup.com/contact-us"
+      "namespace": "com.facebook.page",
+      "value": "bogardgroup"
     }
   ],
   "advisories": []

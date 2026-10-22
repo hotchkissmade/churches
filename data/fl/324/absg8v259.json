@@ -13,7 +13,7 @@
     "latitude": 30.971914291381836,
     "longitude": -86.1328125
   },
-  "website": "https://gaskinfbc.com",
+  "website": null,
   "listingUrl": "https://churches.sbc.net/church/gaskin-first-baptist-church/",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "593050238"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "gaskinfbc.com"
+      "namespace": "com.facebook.page",
+      "value": "gaskinfbc"
     },
     {
       "namespace": "net.sbc.churches.id",

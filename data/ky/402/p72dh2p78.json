@@ -13,7 +13,7 @@
     "latitude": 38.108346939086914,
     "longitude": -85.83495330810547
   },
-  "website": "https://prairievillageumc.org",
+  "website": null,
   "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PEopYIAT",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "001Um00000PEopYIAT"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "prairievillageumc.org"
+      "namespace": "com.facebook.page",
+      "value": "prairievillageumc"
     },
     {
       "namespace": "gov.irs.ein",

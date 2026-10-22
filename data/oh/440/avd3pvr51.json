@@ -13,7 +13,7 @@
     "latitude": 41.16956901550293,
     "longitude": -82.2247543334961
   },
-  "website": "https://newlifewellington.com",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=20c696c7-59f8-49b0-ae5f-c8779282fccf&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "20c696c7-59f8-49b0-ae5f-c8779282fccf"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "newlifewellington.com"
+      "namespace": "com.facebook.page",
+      "value": "newlifewellington"
     },
     {
       "namespace": "gov.irs.ein",

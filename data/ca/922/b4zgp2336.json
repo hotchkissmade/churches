@@ -13,7 +13,7 @@
     "latitude": 32.80943489074707,
     "longitude": -115.56756591796875
   },
-  "website": "https://cafe.daum.net/eckcb",
+  "website": null,
   "listingUrl": "https://presbyteryportal.pcanet.org/ac/directory/ChurchInfo/5482",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "5482"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "cafe.daum.net/eckcb"
+      "namespace": "com.facebook.page",
+      "value": "eckcb"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 40.08551216125488,
     "longitude": -82.97495651245117
   },
-  "website": "https://columbuscitychurch.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "311427343"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "columbuscitychurch.org"
+      "namespace": "com.facebook.page",
+      "value": "columbuscitychurch"
     }
   ],
   "advisories": []

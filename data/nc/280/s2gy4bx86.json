@@ -13,7 +13,7 @@
     "latitude": 35.38388252258301,
     "longitude": -80.50345611572266
   },
-  "website": "https://saintpeters-lutheran.org",
+  "website": null,
   "listingUrl": "https://locator.lcms.org/church/C/199414",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "199414"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "saintpeters-lutheran.org"
+      "namespace": "com.facebook.page",
+      "value": "stpetersconcord"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 31.28592300415039,
     "longitude": -92.45120239257812
   },
-  "website": "https://uemba.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "721307089"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "uemba.org"
+      "namespace": "com.facebook.page",
+      "value": "uemba"
     }
   ],
   "advisories": []

@@ -13,7 +13,7 @@
     "latitude": 40.70340156555176,
     "longitude": -89.42311096191406
   },
-  "website": "https://fbcwashington.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "370972808"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "fbcwashington.org"
+      "namespace": "com.facebook.page",
+      "value": "firstbaptistwashington"
     }
   ],
   "advisories": []

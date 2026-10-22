@@ -13,7 +13,7 @@
     "latitude": 40.70549011230469,
     "longitude": -80.27926635742188
   },
-  "website": "https://rochesterfmc.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "251313280"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "rochesterfmc.org"
+      "namespace": "com.facebook.page",
+      "value": "rochesterfmc"
     }
   ],
   "advisories": []

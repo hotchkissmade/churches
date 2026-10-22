@@ -13,7 +13,7 @@
     "latitude": 44.4858113,
     "longitude": -73.0972449
   },
-  "website": "https://vtkaumc.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "030348352"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "vtkaumc.org"
+      "namespace": "com.facebook.page",
+      "value": "vtkaumc"
     }
   ],
   "advisories": []

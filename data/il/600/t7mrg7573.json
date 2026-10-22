@@ -13,7 +13,7 @@
     "latitude": 42.37721252441406,
     "longitude": -88.34452438354492
   },
-  "website": "https://wlfnp.org",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=90c77d8b-8c9f-4acc-924d-abcf30ef6840",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "90c77d8b-8c9f-4acc-924d-abcf30ef6840"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "wlfnp.org"
+      "namespace": "com.facebook.page",
+      "value": "nativitywl"
     },
     {
       "namespace": "gov.irs.ein",

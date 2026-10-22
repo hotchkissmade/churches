@@ -13,7 +13,7 @@
     "latitude": 41.67346954345703,
     "longitude": -86.61907196044922
   },
-  "website": "https://rpfcc.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "351427945"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "rpfcc.org"
+      "namespace": "com.facebook.page",
+      "value": "rpfcc"
     }
   ],
   "advisories": []

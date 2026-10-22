@@ -13,7 +13,7 @@
     "latitude": 42.7874994,
     "longitude": -71.0802721
   },
-  "website": "https://sdarmeusf.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "204575565"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "sdarmeusf.org"
+      "namespace": "com.facebook.page",
+      "value": "sdarmeusf"
     }
   ],
   "advisories": []

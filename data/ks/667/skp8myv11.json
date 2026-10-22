@@ -13,7 +13,7 @@
     "latitude": 37.92972755432129,
     "longitude": -95.39257049560547
   },
-  "website": "https://iolafirstag.org",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=f2726eea-e048-4694-9756-c4665c99d027&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "f2726eea-e048-4694-9756-c4665c99d027"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "iolafirstag.org"
+      "namespace": "com.facebook.page",
+      "value": "iolafirstag"
     },
     {
       "namespace": "gov.irs.ein",

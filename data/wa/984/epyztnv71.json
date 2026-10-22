@@ -13,7 +13,7 @@
     "latitude": 47.2086181640625,
     "longitude": -122.43043518066406
   },
-  "website": "https://thisisrockcity.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "472817521"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "thisisrockcity.com"
+      "namespace": "com.facebook.page",
+      "value": "this.is.rock.city"
     }
   ],
   "advisories": []

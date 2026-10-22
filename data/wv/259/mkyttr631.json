@@ -13,7 +13,7 @@
     "latitude": 37.98915672302246,
     "longitude": -81.13473129272461
   },
-  "website": "https://wvlifebridge.com",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=c8216f78-6f82-416e-af74-3e78969402f6&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "c8216f78-6f82-416e-af74-3e78969402f6"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "wvlifebridge.com"
+      "namespace": "com.facebook.page",
+      "value": "wvlifebridge"
     },
     {
       "namespace": "gov.irs.ein",

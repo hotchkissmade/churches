@@ -13,7 +13,7 @@
     "latitude": 31.078121185302734,
     "longitude": -97.6046142578125
   },
-  "website": "https://fbcnolanville.org",
+  "website": null,
   "listingUrl": "https://churches.sbc.net/church/first-baptist-church-nolanville/",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "first-baptist-church-nolanville"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "fbcnolanville.org"
+      "namespace": "com.facebook.page",
+      "value": "fbcnolanville"
     },
     {
       "namespace": "gov.irs.ein",

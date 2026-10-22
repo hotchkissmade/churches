@@ -13,7 +13,7 @@
     "latitude": 40.1866029,
     "longitude": -75.1028558
   },
-  "website": "https://abcopad.org/abcopad-foundation.aspx",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "231352261"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "abcopad.org/abcopad-foundation.aspx"
+      "namespace": "com.facebook.page",
+      "value": "abcopadfoundation"
     }
   ],
   "advisories": []

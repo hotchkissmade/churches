@@ -13,7 +13,7 @@
     "latitude": 41.50586700439453,
     "longitude": -87.6585464477539
   },
-  "website": "https://rhemaassembly.com",
+  "website": null,
   "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=6930&from=United+States&embed=yes",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "6930"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "rhemaassembly.com"
+      "namespace": "com.facebook.page",
+      "value": "rccgrhemaassembly"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 34.15265083312988,
     "longitude": -79.3624267578125
   },
-  "website": "https://pgmbchurch.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "570825501"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "pgmbchurch.com"
+      "namespace": "com.facebook.page",
+      "value": "pgmbchurch"
     }
   ],
   "advisories": []

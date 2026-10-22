@@ -13,7 +13,7 @@
     "latitude": 40.7364257,
     "longitude": -95.0340419
   },
-  "website": "https://lwocog.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "811032473"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "lwocog.com"
+      "namespace": "com.facebook.page",
+      "value": "lwocog"
     }
   ],
   "advisories": []

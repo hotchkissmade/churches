@@ -13,7 +13,7 @@
     "latitude": 34.31585502624512,
     "longitude": -118.46127319335938
   },
-  "website": "https://churchofthefoothillssylmar.org",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=e0d43873-f36a-42c8-b1a3-6788b1c84e60",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "e0d43873-f36a-42c8-b1a3-6788b1c84e60"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "churchofthefoothillssylmar.org"
+      "namespace": "com.facebook.page",
+      "value": "churchofthefoothills"
     },
     {
       "namespace": "gov.irs.ein",

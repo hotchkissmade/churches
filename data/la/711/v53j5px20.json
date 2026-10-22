@@ -13,7 +13,7 @@
     "latitude": 32.42002296447754,
     "longitude": -93.79505157470703
   },
-  "website": "https://myintentional.church",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "270397216"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "myintentional.church"
+      "namespace": "com.facebook.page",
+      "value": "myintentionalchurch"
     }
   ],
   "advisories": []

@@ -13,7 +13,7 @@
     "latitude": 29.935546875,
     "longitude": -90.08453369140625
   },
-  "website": "https://firststreetpw.com",
+  "website": null,
   "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF3syIAD",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "001Um00000PF3syIAD"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "firststreetpw.com"
+      "namespace": "com.facebook.page",
+      "value": "firststreetpwumc"
     },
     {
       "namespace": "gov.irs.ein",

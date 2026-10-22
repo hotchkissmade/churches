@@ -13,7 +13,7 @@
     "latitude": 48.293758392333984,
     "longitude": -122.65828704833984
   },
-  "website": "https://ohsbc.org",
+  "website": null,
   "listingUrl": "https://churches.sbc.net/church/oak-harbor-southern-baptist-church-2/",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "oak-harbor-southern-baptist-church-2"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "ohsbc.org"
+      "namespace": "com.facebook.page",
+      "value": "ohsbc"
     },
     {
       "namespace": "gov.irs.ein",

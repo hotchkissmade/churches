@@ -13,7 +13,7 @@
     "latitude": 30.79205894470215,
     "longitude": -88.30261611938477
   },
-  "website": "https://graceag.church",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=172d9c06-2e2b-48b5-9105-3bdb07cfc113&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "172d9c06-2e2b-48b5-9105-3bdb07cfc113"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "graceag.church"
+      "namespace": "com.facebook.page",
+      "value": "100064420040064"
     },
     {
       "namespace": "gov.irs.ein",

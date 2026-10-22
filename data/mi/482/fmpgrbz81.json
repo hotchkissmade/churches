@@ -13,7 +13,7 @@
     "latitude": 42.427268981933594,
     "longitude": -82.97498321533203
   },
-  "website": "https://mtcalvarydetroit.org",
+  "website": null,
   "listingUrl": "https://locator.lcms.org/church/C/245031",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "245031"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "mtcalvarydetroit.org"
+      "namespace": "com.facebook.page",
+      "value": "mtcalvarylutherandetroit"
     },
     {
       "namespace": "gov.irs.ein",

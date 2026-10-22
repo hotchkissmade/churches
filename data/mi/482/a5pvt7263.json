@@ -13,7 +13,7 @@
     "latitude": 42.4091608,
     "longitude": -82.9649088
   },
-  "website": "https://fellowshipdistrict.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "382814871"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "fellowshipdistrict.org"
+      "namespace": "com.facebook.page",
+      "value": "fellowshipdistrict"
     }
   ],
   "advisories": []

@@ -13,7 +13,7 @@
     "latitude": 34.8184871673584,
     "longitude": -92.3251724243164
   },
-  "website": "https://communitychapelpcg.com",
+  "website": null,
   "listingUrl": "https://rforw.pcg.org/ChurchDetails.aspx?contactID=761100",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "761100"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "communitychapelpcg.com"
+      "namespace": "com.facebook.page",
+      "value": "ccpcg"
     },
     {
       "namespace": "gov.irs.ein",

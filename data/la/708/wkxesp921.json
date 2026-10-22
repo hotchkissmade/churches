@@ -13,7 +13,7 @@
     "latitude": 30.528545379638672,
     "longitude": -91.142578125
   },
-  "website": "https://gflcathedral.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "260603574"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "gflcathedral.com"
+      "namespace": "com.facebook.page",
+      "value": "gflcathedral"
     }
   ],
   "advisories": []

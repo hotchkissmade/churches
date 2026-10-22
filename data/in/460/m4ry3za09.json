@@ -13,7 +13,7 @@
     "latitude": 40.256797790527344,
     "longitude": -86.51032638549805
   },
-  "website": "https://stpauls39.org",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=4f122721-22a8-47cb-817e-f599cdb0d16f",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "4f122721-22a8-47cb-817e-f599cdb0d16f"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "stpauls39.org"
+      "namespace": "com.facebook.page",
+      "value": "stpauls.frankfort"
     },
     {
       "namespace": "gov.irs.ein",

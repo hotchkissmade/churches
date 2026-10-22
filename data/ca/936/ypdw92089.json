@@ -13,7 +13,7 @@
     "latitude": 36.6484489440918,
     "longitude": -119.5650863647461
   },
-  "website": "https://churchccf.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "473197019"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "churchccf.com"
+      "namespace": "com.facebook.page",
+      "value": "churchccf"
     }
   ],
   "advisories": []

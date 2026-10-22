@@ -13,7 +13,7 @@
     "latitude": 37.8311478,
     "longitude": -121.2852972
   },
-  "website": "https://myhmbc.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "680298965"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "myhmbc.com"
+      "namespace": "com.facebook.page",
+      "value": "myhmbc"
     }
   ],
   "advisories": []

@@ -13,7 +13,7 @@
     "latitude": 43.59955024719238,
     "longitude": -123.28490447998047
   },
-  "website": "https://yoncallachurch.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "930756899"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "yoncallachurch.com"
+      "namespace": "com.facebook.page",
+      "value": "yoncallachurch"
     }
   ],
   "advisories": []

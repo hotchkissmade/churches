@@ -13,7 +13,7 @@
     "latitude": 37.9976863861084,
     "longitude": -85.72949600219727
   },
-  "website": "https://needtlc.org",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=9058c66e-125f-46f2-8984-bc6c54a08f26&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "9058c66e-125f-46f2-8984-bc6c54a08f26"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "needtlc.org"
+      "namespace": "com.facebook.page",
+      "value": "needtlc"
     },
     {
       "namespace": "gov.irs.ein",

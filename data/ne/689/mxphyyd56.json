@@ -13,7 +13,7 @@
     "latitude": 40.44815444946289,
     "longitude": -99.37893676757812
   },
-  "website": "https://mynorthpark.church",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "470606620"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "mynorthpark.church"
+      "namespace": "com.facebook.page",
+      "value": "northparkag"
     }
   ],
   "advisories": []

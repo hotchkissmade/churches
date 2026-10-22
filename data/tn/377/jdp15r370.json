@@ -13,7 +13,7 @@
     "latitude": 36.124916076660156,
     "longitude": -83.84056854248047
   },
-  "website": "https://clappschapel.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "922544306"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "clappschapel.com"
+      "namespace": "com.facebook.page",
+      "value": "clappschapel"
     }
   ],
   "advisories": []

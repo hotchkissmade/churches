@@ -13,7 +13,7 @@
     "latitude": 40.50187873840332,
     "longitude": -74.42676544189453
   },
-  "website": "https://trinityhighlandpark.com",
+  "website": null,
   "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFCU5IAP",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "001Um00000PFCU5IAP"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "trinityhighlandpark.com"
+      "namespace": "com.facebook.page",
+      "value": "trinityhighlandpark"
     },
     {
       "namespace": "gov.irs.ein",

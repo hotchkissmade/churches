@@ -13,7 +13,7 @@
     "latitude": 40.25517463684082,
     "longitude": -83.75162506103516
   },
-  "website": "https://wlfcog.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "341091547"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "wlfcog.org"
+      "namespace": "com.facebook.page",
+      "value": "wlfcog"
     }
   ],
   "advisories": []

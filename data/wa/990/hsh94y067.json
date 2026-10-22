@@ -13,7 +13,7 @@
     "latitude": 47.6713981628418,
     "longitude": -117.16156005859375
   },
-  "website": "https://gccdoc.us",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "911106486"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "gccdoc.us"
+      "namespace": "com.facebook.page",
+      "value": "gccdoc"
     }
   ],
   "advisories": []

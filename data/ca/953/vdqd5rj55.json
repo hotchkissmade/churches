@@ -13,7 +13,7 @@
     "latitude": 37.74692726135254,
     "longitude": -121.41999053955078
   },
-  "website": "https://fumctracy.org",
+  "website": null,
   "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFDiWIAX",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "001Um00000PFDiWIAX"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "fumctracy.org"
+      "namespace": "com.facebook.page",
+      "value": "fumctracy"
     },
     {
       "namespace": "gov.irs.ein",

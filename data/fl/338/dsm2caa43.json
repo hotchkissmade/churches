@@ -13,7 +13,7 @@
     "latitude": 28.106416702270508,
     "longitude": -81.6083984375
   },
-  "website": "https://iglesiaodb.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "331131941"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "iglesiaodb.com"
+      "namespace": "com.facebook.page",
+      "value": "iglesiaodb"
     }
   ],
   "advisories": []

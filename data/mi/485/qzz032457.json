@@ -13,7 +13,7 @@
     "latitude": 43.0740966796875,
     "longitude": -83.69483184814453
   },
-  "website": "https://oslflint.org",
+  "website": null,
   "listingUrl": "https://locator.lcms.org/church/C/318819",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "318819"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "oslflint.org"
+      "namespace": "com.facebook.page",
+      "value": "our.savior.lutheran.school.flint"
     },
     {
       "namespace": "gov.irs.ein",

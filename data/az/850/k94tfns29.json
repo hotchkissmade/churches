@@ -13,7 +13,7 @@
     "latitude": 33.36361885070801,
     "longitude": -112.07603454589844
   },
-  "website": "https://bolphx.org",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=87f9c05b-3c13-49be-b0fc-05f6a52d69e6&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "87f9c05b-3c13-49be-b0fc-05f6a52d69e6"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "bolphx.org"
+      "namespace": "com.facebook.page",
+      "value": "breathoflifephoenix"
     },
     {
       "namespace": "gov.irs.ein",

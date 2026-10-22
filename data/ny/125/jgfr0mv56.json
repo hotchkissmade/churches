@@ -13,7 +13,7 @@
     "latitude": 41.67744064331055,
     "longitude": -73.75215530395508
   },
-  "website": "https://allsaints-lcms.org",
+  "website": null,
   "listingUrl": "https://locator.lcms.org/church/C/484391",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "484391"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "allsaints-lcms.org"
+      "namespace": "com.facebook.page",
+      "value": "allsaints.lcms.ny"
     },
     {
       "namespace": "gov.irs.ein",

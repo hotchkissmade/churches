@@ -13,7 +13,7 @@
     "latitude": 36.02997398376465,
     "longitude": -78.92493057250977
   },
-  "website": "https://ficcw.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "542084300"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "ficcw.com"
+      "namespace": "com.facebook.page",
+      "value": "ficcw"
     }
   ],
   "advisories": []

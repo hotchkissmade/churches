@@ -13,7 +13,7 @@
     "latitude": 42.74745559692383,
     "longitude": -82.85721588134766
   },
-  "website": "https://stpeterlenox.org",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=288fb574-a4aa-4c56-a641-bd35f5bd3fd6",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "288fb574-a4aa-4c56-a641-bd35f5bd3fd6"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "stpeterlenox.org"
+      "namespace": "com.facebook.page",
+      "value": "stpeterlenox"
     },
     {
       "namespace": "gov.irs.ein",

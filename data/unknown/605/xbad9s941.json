@@ -13,7 +13,7 @@
     "latitude": 42.05360794067383,
     "longitude": -87.88821792602539
   },
-  "website": "https://fullestliving.org",
+  "website": null,
   "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=624&from=United+States&embed=yes",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "624"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "fullestliving.org"
+      "namespace": "com.facebook.page",
+      "value": "folchicago"
     },
     {
       "namespace": "gov.irs.ein",

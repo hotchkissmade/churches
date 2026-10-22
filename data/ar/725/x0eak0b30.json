@@ -13,7 +13,7 @@
     "latitude": 35.87337684631348,
     "longitude": -92.10107421875
   },
-  "website": "https://mv1ag.com",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=361cfcde-27d4-4455-9ac0-966a2ddb2af3&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "361cfcde-27d4-4455-9ac0-966a2ddb2af3"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "mv1ag.com"
+      "namespace": "com.facebook.page",
+      "value": "thedomechurch"
     },
     {
       "namespace": "gov.irs.ein",

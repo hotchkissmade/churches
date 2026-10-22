@@ -13,7 +13,7 @@
     "latitude": 27.141454696655273,
     "longitude": -80.87944412231445
   },
-  "website": "https://hischurchfl.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "470978467"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "hischurchfl.com"
+      "namespace": "com.facebook.page",
+      "value": "hischurchfl"
     }
   ],
   "advisories": []

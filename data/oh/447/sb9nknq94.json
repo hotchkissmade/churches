@@ -13,7 +13,7 @@
     "latitude": 40.786170959472656,
     "longitude": -81.39630889892578
   },
-  "website": "https://churchofpurpose.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "341787771"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "churchofpurpose.com"
+      "namespace": "com.facebook.page",
+      "value": "thechurchofpurpose"
     }
   ],
   "advisories": []

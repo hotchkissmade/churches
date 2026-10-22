@@ -13,7 +13,7 @@
     "latitude": 35.19003868103027,
     "longitude": -111.65919494628906
   },
-  "website": "https://ucmnau.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "866084897"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "ucmnau.org"
+      "namespace": "com.facebook.page",
+      "value": "ucmnau"
     }
   ],
   "advisories": []

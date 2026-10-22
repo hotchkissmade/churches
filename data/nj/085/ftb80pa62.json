@@ -13,7 +13,7 @@
     "latitude": 40.069828033447266,
     "longitude": -74.52760696411133
   },
-  "website": "https://newegyptumc.org",
+  "website": null,
   "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFOlpIAH",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "001Um00000PFOlpIAH"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "newegyptumc.org"
+      "namespace": "com.facebook.page",
+      "value": "newegyptumc"
     },
     {
       "namespace": "gov.irs.ein",

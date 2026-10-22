@@ -13,7 +13,7 @@
     "latitude": 39.33694076538086,
     "longitude": -76.4571533203125
   },
-  "website": "https://sgbaltimore.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "384124475"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "sgbaltimore.org"
+      "namespace": "com.facebook.page",
+      "value": "sgbaltimore"
     }
   ],
   "advisories": []

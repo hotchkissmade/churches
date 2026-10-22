@@ -13,7 +13,7 @@
     "latitude": 30.533273696899414,
     "longitude": -87.29226684570312
   },
-  "website": "https://fwcpensacola.com",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=379d4cf9-dcf2-4fe8-93f0-d43aab59c728&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "379d4cf9-dcf2-4fe8-93f0-d43aab59c728"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "fwcpensacola.com"
+      "namespace": "com.facebook.page",
+      "value": "fwcpensacola"
     },
     {
       "namespace": "gov.irs.ein",

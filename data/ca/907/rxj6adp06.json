@@ -13,7 +13,7 @@
     "latitude": 33.794015884399414,
     "longitude": -118.30094146728516
   },
-  "website": "https://elsinai.org",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=7175a9bc-3be4-4bd9-955b-2a00e836a931&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "7175a9bc-3be4-4bd9-955b-2a00e836a931"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "elsinai.org"
+      "namespace": "com.facebook.page",
+      "value": "elsinai"
     },
     {
       "namespace": "gov.irs.ein",

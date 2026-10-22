@@ -13,7 +13,7 @@
     "latitude": 39.830467224121094,
     "longitude": -75.39330291748047
   },
-  "website": "https://pmcconline.org",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=53be0f7e-678f-4c15-a763-3f4be3bef7bf&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "53be0f7e-678f-4c15-a763-3f4be3bef7bf"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "pmcconline.org"
+      "namespace": "com.facebook.page",
+      "value": "pmcchurch"
     },
     {
       "namespace": "gov.irs.ein",

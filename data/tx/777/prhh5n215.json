@@ -13,7 +13,7 @@
     "latitude": 30.080732345581055,
     "longitude": -94.16805267333984
   },
-  "website": "https://fccc-bmt.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "760665920"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "fccc-bmt.org"
+      "namespace": "com.facebook.page",
+      "value": "fcccbmt"
     }
   ],
   "advisories": []

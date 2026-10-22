@@ -13,7 +13,7 @@
     "latitude": 45.95536422729492,
     "longitude": -108.16992950439453
   },
-  "website": "https://wordenopenbible.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "510183521"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "wordenopenbible.com"
+      "namespace": "com.facebook.page",
+      "value": "wordenopenbible"
     }
   ],
   "advisories": []

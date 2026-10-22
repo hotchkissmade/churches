@@ -13,7 +13,7 @@
     "latitude": 42.67851448059082,
     "longitude": -102.68960571289062
   },
-  "website": "https://zionhaysprings.org",
+  "website": null,
   "listingUrl": "https://locator.lcms.org/church/C/404476",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "404476"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "zionhaysprings.org"
+      "namespace": "com.facebook.page",
+      "value": "zionhaysprings"
     },
     {
       "namespace": "gov.irs.ein",

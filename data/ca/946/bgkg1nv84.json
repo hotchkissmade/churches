@@ -13,7 +13,7 @@
     "latitude": 37.783851623535156,
     "longitude": -122.19957733154297
   },
-  "website": "https://miraclesoffaithelca.org",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=3611a164-6987-4eb5-8849-8efa5fead1c7",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "3611a164-6987-4eb5-8849-8efa5fead1c7"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "miraclesoffaithelca.org"
+      "namespace": "com.facebook.page",
+      "value": "miraclesoffaithelca"
     },
     {
       "namespace": "gov.irs.ein",

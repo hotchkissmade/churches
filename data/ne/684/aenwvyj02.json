@@ -13,7 +13,7 @@
     "latitude": 40.65658950805664,
     "longitude": -96.65849304199219
   },
-  "website": "https://foofchurch.org",
+  "website": null,
   "listingUrl": "https://locator.lcms.org/church/C/685",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "685"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "foofchurch.org"
+      "namespace": "com.facebook.page",
+      "value": "foofchurch"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 41.7437563,
     "longitude": -87.5954688
   },
-  "website": "https://connect.unityocs.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "812730416"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "connect.unityocs.org"
+      "namespace": "com.facebook.page",
+      "value": "unityocs"
     }
   ],
   "advisories": []

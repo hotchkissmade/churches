@@ -13,7 +13,7 @@
     "latitude": 42.23004913330078,
     "longitude": -71.7405776977539
   },
-  "website": "https://ncbcmass.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "270104619"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "ncbcmass.com"
+      "namespace": "com.facebook.page",
+      "value": "ncbcma"
     }
   ],
   "advisories": []

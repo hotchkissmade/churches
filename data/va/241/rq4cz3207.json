@@ -13,7 +13,7 @@
     "latitude": 37.1612491607666,
     "longitude": -80.52154159545898
   },
-  "website": "https://waltonph.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "581783338"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "waltonph.com"
+      "namespace": "com.facebook.page",
+      "value": "waltonph"
     }
   ],
   "advisories": []

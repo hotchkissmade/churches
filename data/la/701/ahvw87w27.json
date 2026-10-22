@@ -13,7 +13,7 @@
     "latitude": 29.933284759521484,
     "longitude": -90.087646484375
   },
-  "website": "https://blcnola.org",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=9a5afa89-92cd-4c55-9c20-fa30947f1b0c",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "9a5afa89-92cd-4c55-9c20-fa30947f1b0c"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "blcnola.org"
+      "namespace": "com.facebook.page",
+      "value": "bethlehemnola"
     },
     {
       "namespace": "gov.irs.ein",

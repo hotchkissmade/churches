@@ -13,7 +13,7 @@
     "latitude": 38.901527404785156,
     "longitude": -77.10842514038086
   },
-  "website": "https://thaichurchdc.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "522351743"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "thaichurchdc.org"
+      "namespace": "com.facebook.page",
+      "value": "thaichurchdc"
     }
   ],
   "advisories": []

@@ -13,7 +13,7 @@
     "latitude": 39.8023681640625,
     "longitude": -84.14031982421875
   },
-  "website": "https://wotcchurch.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "311810563"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "wotcchurch.com"
+      "namespace": "com.facebook.page",
+      "value": "wotcchurch"
     }
   ],
   "advisories": []

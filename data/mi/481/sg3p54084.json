@@ -13,7 +13,7 @@
     "latitude": 42.33869171142578,
     "longitude": -83.37002182006836
   },
-  "website": "https://welswestland.org",
+  "website": null,
   "listingUrl": "https://yearbook.wels.net/unitpage/24294",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "24294"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "welswestland.org"
+      "namespace": "com.facebook.page",
+      "value": "welswestland"
     },
     {
       "namespace": "gov.irs.ein",

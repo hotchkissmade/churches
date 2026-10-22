@@ -13,7 +13,7 @@
     "latitude": 32.90788459777832,
     "longitude": -105.94914245605469
   },
-  "website": "https://uufoc.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "856012257"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "uufoc.org"
+      "namespace": "com.facebook.page",
+      "value": "uufoc"
     }
   ],
   "advisories": []

@@ -13,7 +13,7 @@
     "latitude": 42.87575721740723,
     "longitude": -112.43142700195312
   },
-  "website": "https://elcagoodshepherd.org",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1bd10d46-baca-47c6-b094-b7090a70653d",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "1bd10d46-baca-47c6-b094-b7090a70653d"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "elcagoodshepherd.org"
+      "namespace": "com.facebook.page",
+      "value": "100080086595722"
     },
     {
       "namespace": "gov.irs.ein",

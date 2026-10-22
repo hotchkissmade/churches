@@ -13,7 +13,7 @@
     "latitude": 44.72403335571289,
     "longitude": -85.59632110595703
   },
-  "website": "https://fellowshipchurchtc.com",
+  "website": null,
   "listingUrl": "https://www.crcna.org/churches/1280",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "1280"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "fellowshipchurchtc.com"
+      "namespace": "com.facebook.page",
+      "value": "fellowshipchurchtc"
     },
     {
       "namespace": "gov.irs.ein",

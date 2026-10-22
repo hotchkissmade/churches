@@ -13,7 +13,7 @@
     "latitude": 41.06235122680664,
     "longitude": -86.21459197998047
   },
-  "website": "https://rochfcc.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "351588537"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "rochfcc.org"
+      "namespace": "com.facebook.page",
+      "value": "rochfcc"
     }
   ],
   "advisories": []

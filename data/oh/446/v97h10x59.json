@@ -13,7 +13,7 @@
     "latitude": 40.960018157958984,
     "longitude": -81.47846984863281
   },
-  "website": "https://rbc-akron.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "341973038"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "rbc-akron.org"
+      "namespace": "com.facebook.page",
+      "value": "rbcofakron"
     }
   ],
   "advisories": []

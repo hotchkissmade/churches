@@ -13,7 +13,7 @@
     "latitude": 36.77987480163574,
     "longitude": -79.67697143554688
   },
-  "website": "https://vcphc.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "541097352"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "vcphc.org"
+      "namespace": "com.facebook.page",
+      "value": "vcphc"
     }
   ],
   "advisories": []

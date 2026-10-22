@@ -13,7 +13,7 @@
     "latitude": 31.604711532592773,
     "longitude": -84.18483352661133
   },
-  "website": "https://tlcalbany.org",
+  "website": null,
   "listingUrl": "https://locator.lcms.org/church/C/8080",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "8080"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "tlcalbany.org"
+      "namespace": "com.facebook.page",
+      "value": "tlcalbany"
     },
     {
       "namespace": "gov.irs.ein",

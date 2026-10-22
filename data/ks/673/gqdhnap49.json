@@ -13,7 +13,7 @@
     "latitude": 37.24994087219238,
     "longitude": -95.7083969116211
   },
-  "website": "https://indyassembly.com",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=300fa230-74f1-4f34-9501-fa961b76251e&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "300fa230-74f1-4f34-9501-fa961b76251e"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "indyassembly.com"
+      "namespace": "com.facebook.page",
+      "value": "firstagindependence"
     },
     {
       "namespace": "gov.irs.ein",

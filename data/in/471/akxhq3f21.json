@@ -13,7 +13,7 @@
     "latitude": 38.45242500305176,
     "longitude": -86.2651252746582
   },
-  "website": "https://hardinsburgassembly.org",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d13d7ed8-ec03-4e0f-8748-b03c0a8e221f&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "351765975"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "hardinsburgassembly.org"
+      "namespace": "com.facebook.page",
+      "value": "hardinsburgag"
     },
     {
       "namespace": "org.ag.id",

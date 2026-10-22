@@ -13,7 +13,7 @@
     "latitude": 29.9954736,
     "longitude": -95.5267198
   },
-  "website": "https://nbbchouston.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "300765435"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "nbbchouston.org"
+      "namespace": "com.facebook.page",
+      "value": "nbbchouston"
     }
   ],
   "advisories": []

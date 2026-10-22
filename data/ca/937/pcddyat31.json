@@ -13,7 +13,7 @@
     "latitude": 36.76895523071289,
     "longitude": -119.73543548583984
   },
-  "website": "https://clafresno.com",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=fbed6e2b-4a0d-4114-ba8f-09d3c580ce9a&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "fbed6e2b-4a0d-4114-ba8f-09d3c580ce9a"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "clafresno.com"
+      "namespace": "com.facebook.page",
+      "value": "clafresno"
     },
     {
       "namespace": "gov.irs.ein",

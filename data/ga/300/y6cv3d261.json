@@ -13,7 +13,7 @@
     "latitude": 33.99843978881836,
     "longitude": -84.52414321899414
   },
-  "website": "https://gcmi16.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "811360782"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "gcmi16.org"
+      "namespace": "com.facebook.page",
+      "value": "gcmi16"
     }
   ],
   "advisories": []

@@ -13,7 +13,7 @@
     "latitude": 29.949033737182617,
     "longitude": -95.42677307128906
   },
-  "website": "https://rccgnewlifecenter.org",
+  "website": null,
   "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=5800&from=United+States&embed=yes",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "5800"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "rccgnewlifecenter.org"
+      "namespace": "com.facebook.page",
+      "value": "rccgnewlifecenter"
     },
     {
       "namespace": "gov.irs.ein",

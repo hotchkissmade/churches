@@ -13,7 +13,7 @@
     "latitude": 38.880720138549805,
     "longitude": -82.12536239624023
   },
-  "website": "https://bellemeadumc.com",
+  "website": null,
   "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFMX2IAP",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "001Um00000PFMX2IAP"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "bellemeadumc.com"
+      "namespace": "com.facebook.page",
+      "value": "bellemeadumc"
     },
     {
       "namespace": "gov.irs.ein",

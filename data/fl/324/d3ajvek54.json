@@ -13,7 +13,7 @@
     "latitude": 30.924274444580078,
     "longitude": -85.11894226074219
   },
-  "website": "https://bascombaptist.com",
+  "website": null,
   "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-bascom/",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "first-baptist-church-of-bascom"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "bascombaptist.com"
+      "namespace": "com.facebook.page",
+      "value": "bascombaptist"
     },
     {
       "namespace": "gov.irs.ein",

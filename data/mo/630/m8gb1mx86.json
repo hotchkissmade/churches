@@ -13,7 +13,7 @@
     "latitude": 38.35431671142578,
     "longitude": -90.3935546875
   },
-  "website": "https://immanuelbarnhart.com",
+  "website": null,
   "listingUrl": "https://locator.lcms.org/church/C/57129",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "57129"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "immanuelbarnhart.com"
+      "namespace": "com.facebook.page",
+      "value": "immanuelbarnhart"
     },
     {
       "namespace": "gov.irs.ein",

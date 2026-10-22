@@ -13,7 +13,7 @@
     "latitude": 32.7424259185791,
     "longitude": -96.9881591796875
   },
-  "website": "https://primeragp.com",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=67321c86-9011-458c-b4ec-e506f46bf770&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "67321c86-9011-458c-b4ec-e506f46bf770"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "primeragp.com"
+      "namespace": "com.facebook.page",
+      "value": "primeragp"
     },
     {
       "namespace": "gov.irs.ein",

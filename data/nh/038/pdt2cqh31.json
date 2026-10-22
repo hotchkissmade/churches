@@ -13,16 +13,12 @@
     "latitude": 42.37429618835449,
     "longitude": -71.79057693481445
   },
-  "website": "https://nextlevel.church",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
       "namespace": "gov.irs.ein",
       "value": "205255600"
-    },
-    {
-      "namespace": "church.constellation.site",
-      "value": "nextlevel.church"
     }
   ],
   "advisories": []

@@ -13,7 +13,7 @@
     "latitude": 30.750831604003906,
     "longitude": -86.56172180175781
   },
-  "website": "https://gmbc.church",
+  "website": null,
   "listingUrl": "https://churches.sbc.net/church/global-mission-baptist-church/",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "global-mission-baptist-church"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "gmbc.church"
+      "namespace": "com.facebook.page",
+      "value": "globalmissionbaptistchurch"
     },
     {
       "namespace": "gov.irs.ein",

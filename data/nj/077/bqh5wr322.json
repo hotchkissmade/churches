@@ -13,7 +13,7 @@
     "latitude": 40.20958709716797,
     "longitude": -74.08406829833984
   },
-  "website": "https://redeemer-nj.com",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f2ced41b-6c77-4b7a-9efa-c26104641ed6",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "f2ced41b-6c77-4b7a-9efa-c26104641ed6"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "redeemer-nj.com"
+      "namespace": "com.facebook.page",
+      "value": "redeemernj"
     },
     {
       "namespace": "gov.irs.ein",

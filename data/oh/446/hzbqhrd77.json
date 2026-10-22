@@ -13,7 +13,7 @@
     "latitude": 40.9302978515625,
     "longitude": -81.40179061889648
   },
-  "website": "https://livingfaithonline.org",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=d9fdc085-c609-4ce1-a1a6-fc18072fb684&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "d9fdc085-c609-4ce1-a1a6-fc18072fb684"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "livingfaithonline.org"
+      "namespace": "com.facebook.page",
+      "value": "www.livingfaithonline.org"
     },
     {
       "namespace": "gov.irs.ein",

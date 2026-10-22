@@ -13,7 +13,7 @@
     "latitude": 41.3479283,
     "longitude": -88.8492113
   },
-  "website": "https://zlottawa.org",
+  "website": null,
   "listingUrl": "https://locator.lcms.org/church/C/684470",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "684470"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "zlottawa.org"
+      "namespace": "com.facebook.page",
+      "value": "zlottawa"
     },
     {
       "namespace": "gov.irs.ein",

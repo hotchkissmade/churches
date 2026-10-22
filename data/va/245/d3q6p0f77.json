@@ -13,7 +13,7 @@
     "latitude": 37.11560821533203,
     "longitude": -79.27719116210938
   },
-  "website": "https://elimaog.org/home",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=9ef6de60-ea21-4c76-8c71-e83dedb0eacb&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "9ef6de60-ea21-4c76-8c71-e83dedb0eacb"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "elimaog.org/home"
+      "namespace": "com.facebook.page",
+      "value": "elimaog"
     },
     {
       "namespace": "gov.irs.ein",

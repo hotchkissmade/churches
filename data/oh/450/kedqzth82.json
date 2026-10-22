@@ -13,7 +13,7 @@
     "latitude": 39.31896781921387,
     "longitude": -84.6502914428711
   },
-  "website": "https://fbcross.org",
+  "website": null,
   "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-ross/",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "first-baptist-church-of-ross"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "fbcross.org"
+      "namespace": "com.facebook.page",
+      "value": "fbcross"
     },
     {
       "namespace": "gov.irs.ein",

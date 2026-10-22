@@ -13,7 +13,7 @@
     "latitude": 40.575788497924805,
     "longitude": -73.99349594116211
   },
-  "website": "https://ucbchurchonline.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "113272880"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "ucbchurchonline.com"
+      "namespace": "com.facebook.page",
+      "value": "ucbchurchonline"
     },
     {
       "namespace": "gov.irs.ein",

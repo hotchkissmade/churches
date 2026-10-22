@@ -13,7 +13,7 @@
     "latitude": 40.0354118347168,
     "longitude": -74.96039962768555
   },
-  "website": "https://zionriverside.org",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=2ac55bde-5830-451a-afbb-e3260b805589",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "2ac55bde-5830-451a-afbb-e3260b805589"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "zionriverside.org"
+      "namespace": "com.facebook.page",
+      "value": "zionriverside"
     },
     {
       "namespace": "gov.irs.ein",

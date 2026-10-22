@@ -13,7 +13,7 @@
     "latitude": 43.156118392944336,
     "longitude": -75.7480354309082
   },
-  "website": "https://southbaychapel.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "161346256"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "southbaychapel.com"
+      "namespace": "com.facebook.page",
+      "value": "southbaychapel"
     }
   ],
   "advisories": []

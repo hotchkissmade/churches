@@ -13,7 +13,7 @@
     "latitude": 33.700998306274414,
     "longitude": -86.63396453857422
   },
-  "website": "https://bpcchurch.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "631091336"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "bpcchurch.com"
+      "namespace": "com.facebook.page",
+      "value": "bridgepointcommunity"
     }
   ],
   "advisories": []

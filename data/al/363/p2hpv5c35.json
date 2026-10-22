@@ -13,7 +13,7 @@
     "latitude": 31.131114959716797,
     "longitude": -85.21546936035156
   },
-  "website": "https://abc-ashford.org",
+  "website": null,
   "listingUrl": "https://churches.sbc.net/church/antioch/",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "antioch"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "abc-ashford.org"
+      "namespace": "com.facebook.page",
+      "value": "antiochchurchashford"
     },
     {
       "namespace": "gov.irs.ein",

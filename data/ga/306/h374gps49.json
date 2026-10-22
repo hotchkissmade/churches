@@ -13,7 +13,7 @@
     "latitude": 34.10979080200195,
     "longitude": -82.85417938232422
   },
-  "website": "https://stmcme.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "581915766"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "stmcme.com"
+      "namespace": "com.facebook.page",
+      "value": "stmcme"
     }
   ],
   "advisories": []

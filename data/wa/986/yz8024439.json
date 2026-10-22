@@ -13,7 +13,7 @@
     "latitude": 45.666982650756836,
     "longitude": -122.61797332763672
   },
-  "website": "https://myfhchurch.org",
+  "website": null,
   "listingUrl": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=54891",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "54891"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "myfhchurch.org"
+      "namespace": "com.facebook.page",
+      "value": "thefhchurch"
     },
     {
       "namespace": "gov.irs.ein",

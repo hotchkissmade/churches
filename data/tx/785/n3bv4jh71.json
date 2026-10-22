@@ -13,7 +13,7 @@
     "latitude": 26.239994049072266,
     "longitude": -98.17594909667969
   },
-  "website": "https://rdfministries.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "383915404"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "rdfministries.org"
+      "namespace": "com.facebook.page",
+      "value": "rdfministries"
     }
   ],
   "advisories": []

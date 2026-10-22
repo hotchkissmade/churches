@@ -13,7 +13,7 @@
     "latitude": 34.5334464,
     "longitude": -101.7628014
   },
-  "website": "https://brand.site/tuliafirstag",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=e45ae577-b345-4f45-8176-50fef14a49ca&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "e45ae577-b345-4f45-8176-50fef14a49ca"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "brand.site/tuliafirstag"
+      "namespace": "com.facebook.page",
+      "value": "tuliafirst"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 42.99836349487305,
     "longitude": -96.48499298095703
   },
-  "website": "https://fbchawarden.org",
+  "website": null,
   "listingUrl": "https://converge.org/church/first-baptist-church-of-hawarden-3/",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "41014"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "fbchawarden.org"
+      "namespace": "com.facebook.page",
+      "value": "firstbaptisthawarden"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 36.524831771850586,
     "longitude": -80.41145706176758
   },
-  "website": "https://asburyphc.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "561570978"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "asburyphc.org"
+      "namespace": "com.facebook.page",
+      "value": "asburyphc"
     }
   ],
   "advisories": []

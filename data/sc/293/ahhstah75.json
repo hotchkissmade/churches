@@ -13,7 +13,7 @@
     "latitude": 34.45452117919922,
     "longitude": -81.88055801391602
   },
-  "website": "https://saintjohnsclinton.org",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f328b4d2-5bc1-41b6-a014-5e70f66fb2dc",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "f328b4d2-5bc1-41b6-a014-5e70f66fb2dc"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "saintjohnsclinton.org"
+      "namespace": "com.facebook.page",
+      "value": "stjohnsclinton"
     },
     {
       "namespace": "gov.irs.ein",

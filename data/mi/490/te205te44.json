@@ -13,16 +13,12 @@
     "latitude": 42.3713264465332,
     "longitude": -85.4632797241211
   },
-  "website": "https://richlandbible.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
       "namespace": "gov.irs.ein",
       "value": "382483244"
-    },
-    {
-      "namespace": "church.constellation.site",
-      "value": "richlandbible.org"
     }
   ],
   "advisories": []

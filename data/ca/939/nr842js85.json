@@ -13,7 +13,7 @@
     "latitude": 36.328487396240234,
     "longitude": -121.25028991699219
   },
-  "website": "https://greenfield1stassembly.com",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=784e2887-b439-4d89-975d-1d0701186b08&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "784e2887-b439-4d89-975d-1d0701186b08"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "greenfield1stassembly.com"
+      "namespace": "com.facebook.page",
+      "value": "greenfield1stassembly"
     },
     {
       "namespace": "gov.irs.ein",

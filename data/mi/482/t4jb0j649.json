@@ -13,7 +13,7 @@
     "latitude": 42.30776405334473,
     "longitude": -83.12489700317383
   },
-  "website": "https://pdvdetroit.org/about",
+  "website": null,
   "listingUrl": "https://yearbook.wels.net/unitpage/26442",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "26442"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "pdvdetroit.org/about"
+      "namespace": "com.facebook.page",
+      "value": "pdvdetroit.org"
     },
     {
       "namespace": "gov.irs.ein",

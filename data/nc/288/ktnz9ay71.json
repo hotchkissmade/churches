@@ -13,7 +13,7 @@
     "latitude": 35.57878875732422,
     "longitude": -82.58747100830078
   },
-  "website": "https://trinitywavl.org",
+  "website": null,
   "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFIRUIA5",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "001Um00000PFIRUIA5"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "trinitywavl.org"
+      "namespace": "com.facebook.page",
+      "value": "trinitywavl"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 32.74225425720215,
     "longitude": -97.00525665283203
   },
-  "website": "https://fpcgrandprairie.org",
+  "website": null,
   "listingUrl": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=52516",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "52516"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "fpcgrandprairie.org"
+      "namespace": "com.facebook.page",
+      "value": "fpcgrandprairie"
     },
     {
       "namespace": "gov.irs.ein",

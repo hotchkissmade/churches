@@ -13,7 +13,7 @@
     "latitude": 43.0451545715332,
     "longitude": -74.85866928100586
   },
-  "website": "https://presbylf.org/default.aspx",
+  "website": null,
   "listingUrl": "https://church-trends.pcusa.org/church/6013/overview/",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "6013"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "presbylf.org/default.aspx"
+      "namespace": "com.facebook.page",
+      "value": "fpresbylf"
     },
     {
       "namespace": "gov.irs.ein",

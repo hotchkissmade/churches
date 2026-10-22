@@ -13,7 +13,7 @@
     "latitude": 43.243534088134766,
     "longitude": -97.39960479736328
   },
-  "website": "https://salemfree.org",
+  "website": null,
   "listingUrl": "https://www.aflc.org/location/salem-free-lutheran-church/",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "444"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "salemfree.org"
+      "namespace": "com.facebook.page",
+      "value": "salemfreelutheran"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 40.011484146118164,
     "longitude": -82.95039367675781
   },
-  "website": "https://lfac.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "310885379"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "lfac.org"
+      "namespace": "com.facebook.page",
+      "value": "uwmlfac"
     }
   ],
   "advisories": []

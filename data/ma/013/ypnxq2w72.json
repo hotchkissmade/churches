@@ -13,7 +13,7 @@
     "latitude": 42.59449768066406,
     "longitude": -72.22924423217773
   },
-  "website": "https://starrettmemorialumc.org",
+  "website": null,
   "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFNyvIAH",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "001Um00000PFNyvIAH"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "starrettmemorialumc.org"
+      "namespace": "com.facebook.page",
+      "value": "starrettmemorialumc"
     },
     {
       "namespace": "gov.irs.ein",

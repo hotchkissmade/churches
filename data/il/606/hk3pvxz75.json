@@ -13,7 +13,7 @@
     "latitude": 41.69061851501465,
     "longitude": -87.60821533203125
   },
-  "website": "https://hoptcogic.org",
+  "website": null,
   "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PF58ZIAT",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "001Um00000PF58ZIAT"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "hoptcogic.org"
+      "namespace": "com.facebook.page",
+      "value": "hoptcogic"
     },
     {
       "namespace": "gov.irs.ein",

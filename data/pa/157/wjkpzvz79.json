@@ -13,7 +13,7 @@
     "latitude": 40.69607353210449,
     "longitude": -79.10256958007812
   },
-  "website": "https://grovechapel.info",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=f0bdf4f3-aa3c-4373-af73-3db6639f7d54",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "f0bdf4f3-aa3c-4373-af73-3db6639f7d54"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "grovechapel.info"
+      "namespace": "com.facebook.page",
+      "value": "gclchurch"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 40.2647762298584,
     "longitude": -86.49382781982422
   },
-  "website": "https://kelleycrossing.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "351925221"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "kelleycrossing.org"
+      "namespace": "com.facebook.page",
+      "value": "kelleycrossing"
     }
   ],
   "advisories": []

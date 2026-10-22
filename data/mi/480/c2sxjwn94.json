@@ -13,7 +13,7 @@
     "latitude": 42.568526,
     "longitude": -82.863605
   },
-  "website": "https://bethlehem-church-elca.org",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=7fb756aa-ac37-45fe-bcb3-de20eab14e79",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "7fb756aa-ac37-45fe-bcb3-de20eab14e79"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "bethlehem-church-elca.org"
+      "namespace": "com.facebook.page",
+      "value": "bethlehemluteran"
     },
     {
       "namespace": "gov.irs.ein",

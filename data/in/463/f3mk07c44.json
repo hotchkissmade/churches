@@ -13,7 +13,7 @@
     "latitude": 41.593624114990234,
     "longitude": -86.6883659362793
   },
-  "website": "https://dpacs.org",
+  "website": null,
   "listingUrl": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=16348",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "16348"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "dpacs.org"
+      "namespace": "com.facebook.page",
+      "value": "100087103185277"
     },
     {
       "namespace": "gov.irs.ein",

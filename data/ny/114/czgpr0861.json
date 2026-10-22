@@ -13,7 +13,7 @@
     "latitude": 40.66362190246582,
     "longitude": -73.73343276977539
   },
-  "website": "https://vfwcsda.com",
+  "website": null,
   "listingUrl": "https://www.adventistdirectory.org/ViewEntity.aspx?EntityID=14594",
   "identifiers": [
     {
@@ -22,7 +22,11 @@
     },
     {
       "namespace": "church.constellation.site",
-      "value": "vfwcsda.com"
+      "value": "villageny.adventistchurch.org"
+    },
+    {
+      "namespace": "com.facebook.page",
+      "value": "vfwcsda"
     },
     {
       "namespace": "gov.irs.ein",

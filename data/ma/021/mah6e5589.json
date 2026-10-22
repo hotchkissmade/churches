@@ -13,7 +13,7 @@
     "latitude": 42.331414655302,
     "longitude": -71.035417257573
   },
-  "website": "https://hubchurchboston.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "474502612"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "hubchurchboston.com"
+      "namespace": "com.facebook.page",
+      "value": "hubchurchboston"
     }
   ],
   "advisories": []

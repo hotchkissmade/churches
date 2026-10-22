@@ -13,7 +13,7 @@
     "latitude": 39.36587715148926,
     "longitude": -99.83905029296875
   },
-  "website": "https://hillcityfirst.com",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a0cc8d98-c9b0-4c94-ad82-6868efb12d84&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "a0cc8d98-c9b0-4c94-ad82-6868efb12d84"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "hillcityfirst.com"
+      "namespace": "com.facebook.page",
+      "value": "hillcityfirst"
     },
     {
       "namespace": "gov.irs.ein",

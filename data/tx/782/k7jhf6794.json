@@ -13,7 +13,7 @@
     "latitude": 29.43233299255371,
     "longitude": -98.56741333007812
   },
-  "website": "https://oasisag.church",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=4e6e3772-9865-47b4-ac09-99e78bef7300&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "4e6e3772-9865-47b4-ac09-99e78bef7300"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "oasisag.church"
+      "namespace": "com.facebook.page",
+      "value": "saoasis"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 39.10840606689453,
     "longitude": -108.35125732421875
   },
-  "website": "https://fbcpalisade.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "840801592"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "fbcpalisade.com"
+      "namespace": "com.facebook.page",
+      "value": "fbcpalisade"
     }
   ],
   "advisories": []

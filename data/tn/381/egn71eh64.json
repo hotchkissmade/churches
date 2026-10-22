@@ -13,7 +13,7 @@
     "latitude": 35.10764503479004,
     "longitude": -89.96297836303711
   },
-  "website": "https://cljcmemphis.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "621329054"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "cljcmemphis.org"
+      "namespace": "com.facebook.page",
+      "value": "cljcmemphis"
     }
   ],
   "advisories": []

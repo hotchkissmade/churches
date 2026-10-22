@@ -13,7 +13,7 @@
     "latitude": 40.927391052246094,
     "longitude": -81.40157699584961
   },
-  "website": "https://greentownumc.org",
+  "website": null,
   "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFLApIAP",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "001Um00000PFLApIAP"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "greentownumc.org"
+      "namespace": "com.facebook.page",
+      "value": "greentownumcohio"
     },
     {
       "namespace": "gov.irs.ein",

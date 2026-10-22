@@ -13,7 +13,7 @@
     "latitude": 40.21486282348633,
     "longitude": -75.11322021484375
   },
-  "website": "https://glcwarminster.org",
+  "website": null,
   "listingUrl": "https://locator.lcms.org/church/C/944751",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "944751"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "glcwarminster.org"
+      "namespace": "com.facebook.page",
+      "value": "gracewarminster"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 42.661582946777344,
     "longitude": -90.12567138671875
   },
-  "website": "https://lcchristianchurch.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "391586542"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "lcchristianchurch.com"
+      "namespace": "com.facebook.page",
+      "value": "lcchristianchurch"
     }
   ],
   "advisories": []

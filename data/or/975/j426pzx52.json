@@ -13,7 +13,7 @@
     "latitude": 42.2037012,
     "longitude": -122.717139
   },
-  "website": "https://edengracechurch.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "830719934"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "edengracechurch.com"
+      "namespace": "com.facebook.page",
+      "value": "edengracechurch"
     }
   ],
   "advisories": []

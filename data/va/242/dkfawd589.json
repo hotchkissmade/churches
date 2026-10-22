@@ -13,7 +13,7 @@
     "latitude": 37.03031539916992,
     "longitude": -81.96984481811523
   },
-  "website": "https://1churchalive.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "541202533"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "1churchalive.com"
+      "namespace": "com.facebook.page",
+      "value": "1churchalive"
     }
   ],
   "advisories": []

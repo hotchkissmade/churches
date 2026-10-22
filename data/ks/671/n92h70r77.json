@@ -13,7 +13,7 @@
     "latitude": 37.24033546447754,
     "longitude": -96.97440338134766
   },
-  "website": "https://fccwinfield.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "480559087"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "fccwinfield.org"
+      "namespace": "com.facebook.page",
+      "value": "fccwinfield"
     }
   ],
   "advisories": []

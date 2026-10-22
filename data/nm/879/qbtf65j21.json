@@ -13,7 +13,7 @@
     "latitude": 32.66890525817871,
     "longitude": -107.15351867675781
   },
-  "website": "https://fbchatch.org",
+  "website": null,
   "listingUrl": "https://churches.sbc.net/church/first-baptist-church-of-hatch/",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "first-baptist-church-of-hatch"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "fbchatch.org"
+      "namespace": "com.facebook.page",
+      "value": "firsthatch"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 40.73392295837402,
     "longitude": -74.05971145629883
   },
-  "website": "https://jerseychurchcrc.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "223562107"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "jerseychurchcrc.com"
+      "namespace": "com.facebook.page",
+      "value": "facrc"
     }
   ],
   "advisories": []

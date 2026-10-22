@@ -13,7 +13,7 @@
     "latitude": 39.29657554626465,
     "longitude": -76.92812728881836
   },
-  "website": "https://fmbcmd.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "521917761"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "fmbcmd.org"
+      "namespace": "com.facebook.page",
+      "value": "fmbcmd"
     }
   ],
   "advisories": []

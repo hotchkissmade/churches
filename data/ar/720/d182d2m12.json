@@ -13,7 +13,7 @@
     "latitude": 34.17131805419922,
     "longitude": -92.5911636352539
   },
-  "website": "https://leolafaith.com",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=7c12f53b-b00b-4883-b977-85c5d437e773&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "7c12f53b-b00b-4883-b977-85c5d437e773"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "leolafaith.com"
+      "namespace": "com.facebook.page",
+      "value": "leolafaith"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 33.38174247741699,
     "longitude": -82.1252670288086
   },
-  "website": "https://fbckinc.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "581968486"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "fbckinc.org"
+      "namespace": "com.facebook.page",
+      "value": "fbckinc"
     }
   ],
   "advisories": []

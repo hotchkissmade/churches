@@ -13,7 +13,7 @@
     "latitude": 42.1117057800293,
     "longitude": -79.2349739074707
   },
-  "website": "https://ncajamestown.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "222548483"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "ncajamestown.com"
+      "namespace": "com.facebook.page",
+      "value": "ncajamestown"
     }
   ],
   "advisories": []

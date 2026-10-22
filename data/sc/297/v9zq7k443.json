@@ -13,7 +13,7 @@
     "latitude": 34.9006782,
     "longitude": -80.9121227
   },
-  "website": "https://hillcitysc.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -22,7 +22,11 @@
     },
     {
       "namespace": "church.constellation.site",
-      "value": "hillcitysc.com"
+      "value": "plantingrockhill.org"
+    },
+    {
+      "namespace": "com.facebook.page",
+      "value": "hillcitysc"
     }
   ],
   "advisories": []

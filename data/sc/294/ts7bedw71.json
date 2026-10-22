@@ -13,7 +13,7 @@
     "latitude": 32.931753158569336,
     "longitude": -80.66110229492188
   },
-  "website": "https://nwbc.site",
+  "website": null,
   "listingUrl": "https://churches.sbc.net/church/north-walterboro-baptist-church/",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "north-walterboro-baptist-church"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "nwbc.site"
+      "namespace": "com.facebook.page",
+      "value": "northwalterborobaptistchurch"
     },
     {
       "namespace": "gov.irs.ein",

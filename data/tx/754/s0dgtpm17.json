@@ -13,7 +13,7 @@
     "latitude": 33.12323188781738,
     "longitude": -95.60613250732422
   },
-  "website": "https://oursaviorsstx.com",
+  "website": null,
   "listingUrl": "https://locator.lcms.org/church/C/881810",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "881810"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "oursaviorsstx.com"
+      "namespace": "com.facebook.page",
+      "value": "oursaviorsstx"
     },
     {
       "namespace": "gov.irs.ein",

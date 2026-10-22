@@ -13,7 +13,7 @@
     "latitude": 32.45214653015137,
     "longitude": -99.75877380371094
   },
-  "website": "https://missionabilene.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "562610028"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "missionabilene.com"
+      "namespace": "com.facebook.page",
+      "value": "missionabilene"
     }
   ],
   "advisories": []

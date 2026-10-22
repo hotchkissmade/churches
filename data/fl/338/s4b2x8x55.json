@@ -13,7 +13,7 @@
     "latitude": 27.594463348388672,
     "longitude": -81.5130615234375
   },
-  "website": "https://cccofap.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "900785015"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "cccofap.org"
+      "namespace": "com.facebook.page",
+      "value": "cccofap"
     }
   ],
   "advisories": []

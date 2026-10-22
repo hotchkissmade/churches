@@ -13,7 +13,7 @@
     "latitude": 26.595935821533203,
     "longitude": -80.0732421875
   },
-  "website": "https://myanmarag.org",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=27b84a3b-8a4b-465e-b26e-9675b37720f6&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "27b84a3b-8a4b-465e-b26e-9675b37720f6"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "myanmarag.org"
+      "namespace": "com.facebook.page",
+      "value": "bagflchurch"
     },
     {
       "namespace": "gov.irs.ein",

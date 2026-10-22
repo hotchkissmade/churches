@@ -13,7 +13,7 @@
     "latitude": 34.88833236694336,
     "longitude": -79.69991302490234
   },
-  "website": "https://firsthamlet.nccumc.net",
+  "website": null,
   "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFO1mIAH",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "001Um00000PFO1mIAH"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "firsthamlet.nccumc.net"
+      "namespace": "com.facebook.page",
+      "value": "100064849621925"
     },
     {
       "namespace": "gov.irs.ein",

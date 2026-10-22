@@ -13,7 +13,7 @@
     "latitude": 42.9053122,
     "longitude": -85.6465601
   },
-  "website": "https://rccggrandrapids.org",
+  "website": null,
   "listingUrl": "https://secure.rccgna.org/pad/Home/Parishdetails?id=6919&from=United+States&embed=yes",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "6919"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "rccggrandrapids.org"
+      "namespace": "com.facebook.page",
+      "value": "rccg.grandrapids"
     },
     {
       "namespace": "gov.irs.ein",

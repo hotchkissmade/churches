@@ -13,7 +13,7 @@
     "latitude": 44.786399841308594,
     "longitude": -95.21559143066406
   },
-  "website": "https://flcmn.org",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=b7faf001-1a2a-43f3-9896-086c28a8ddfa",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "b7faf001-1a2a-43f3-9896-086c28a8ddfa"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "flcmn.org"
+      "namespace": "com.facebook.page",
+      "value": "flcrenville"
     },
     {
       "namespace": "gov.irs.ein",

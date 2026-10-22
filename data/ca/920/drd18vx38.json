@@ -13,7 +13,7 @@
     "latitude": 33.21075248718262,
     "longitude": -117.25731658935547
   },
-  "website": "https://compassvista.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "330047922"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "compassvista.org"
+      "namespace": "com.facebook.page",
+      "value": "compassvista"
     }
   ],
   "advisories": []

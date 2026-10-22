@@ -13,7 +13,7 @@
     "latitude": 39.090993881225586,
     "longitude": -81.96878433227539
   },
-  "website": "https://mounthermonub.org",
+  "website": null,
   "listingUrl": "https://ub.org/churches/find-a-church/mount-hermon-united-brethren-church",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "mount-hermon-united-brethren-church"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "mounthermonub.org"
+      "namespace": "com.facebook.page",
+      "value": "mounthermonub"
     },
     {
       "namespace": "gov.irs.ein",

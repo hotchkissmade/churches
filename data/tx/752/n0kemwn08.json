@@ -13,7 +13,7 @@
     "latitude": 32.75315284729004,
     "longitude": -96.75286102294922
   },
-  "website": "https://thenewmount.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "756186262"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "thenewmount.com"
+      "namespace": "com.facebook.page",
+      "value": "thenewmount"
     }
   ],
   "advisories": []

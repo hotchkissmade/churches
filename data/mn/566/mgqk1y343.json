@@ -13,7 +13,7 @@
     "latitude": 47.32459831237793,
     "longitude": -93.93539428710938
   },
-  "website": "https://eagleslandingag.org",
+  "website": null,
   "listingUrl": "https://ag.org/Resources/Directories/Church-Directory/Church-Details?g=a18f7d1a-4532-4c21-8adf-bc6387a766f0&d=False",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "a18f7d1a-4532-4c21-8adf-bc6387a766f0"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "eagleslandingag.org"
+      "namespace": "com.facebook.page",
+      "value": "eagleslandingag"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 40.34602737426758,
     "longitude": -76.45229721069336
   },
-  "website": "https://gbgm-umc.org/st-lukes-lebanon",
+  "website": null,
   "listingUrl": "https://www.umc.org/en/find-a-church/church?id=001Um00000PFKsvIAH",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "001Um00000PFKsvIAH"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "gbgm-umc.org/st-lukes-lebanon"
+      "namespace": "com.facebook.page",
+      "value": "stlukeslebanon"
     },
     {
       "namespace": "gov.irs.ein",

@@ -13,7 +13,7 @@
     "latitude": 42.09914016723633,
     "longitude": -75.91788864135742
   },
-  "website": "https://unityist.org",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "161454605"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "unityist.org"
+      "namespace": "com.facebook.page",
+      "value": "unityist"
     }
   ],
   "advisories": []

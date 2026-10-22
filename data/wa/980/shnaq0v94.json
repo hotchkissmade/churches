@@ -13,7 +13,7 @@
     "latitude": 47.60419464111328,
     "longitude": -122.19841766357422
   },
-  "website": "https://raincitychurch.com",
+  "website": null,
   "listingUrl": null,
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "273567879"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "raincitychurch.com"
+      "namespace": "com.facebook.page",
+      "value": "raincitychurch"
     }
   ],
   "advisories": []

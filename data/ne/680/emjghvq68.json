@@ -13,7 +13,7 @@
     "latitude": 41.0884952545166,
     "longitude": -96.54057312011719
   },
-  "website": "https://zionithaca.org",
+  "website": null,
   "listingUrl": "https://www.elca.org/directory/congregation-profile?location_id=1608770c-0536-476b-b395-28f303209c06",
   "identifiers": [
     {
@@ -21,8 +21,8 @@
       "value": "1608770c-0536-476b-b395-28f303209c06"
     },
     {
-      "namespace": "church.constellation.site",
-      "value": "zionithaca.org"
+      "namespace": "com.facebook.page",
+      "value": "zionithaca"
     },
     {
       "namespace": "gov.irs.ein",
