@@ -1,4 +1,4 @@
-# Constellation Churches Database — release 2026-10-23
+# Constellation Churches Database — release 2026-10-24
 
 229,954 churches, 1,514 retired identifiers.
 
